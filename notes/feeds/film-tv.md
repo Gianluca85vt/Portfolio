@@ -1,170 +1,170 @@
-# Film & TV — harvested 2026-10-27T20:58:10.770Z
+# Film & TV — harvested 2026-10-28T10:49:01.657Z
 
 ## Variety
 
-### Kevin Bleyer, Emmy-Winning Daily Show Writer, Dies at 54 in Car Accident
-Tue, 27 Oct 2026 20:44:38 +0000 — https://variety.com/2026/tv/news/kevin-bleyer-dead-daily-show-1236932357/
+### Russell Brand Takes the Stand in Rape Trial and Reveals No One Agreed to Testify on His Behalf: My Entire Life Has Been Consumed by These Allegations
+Wed, 28 Oct 2026 10:38:24 +0000 — https://variety.com/2026/tv/global/russell-brand-takes-stand-rape-trial-no-one-else-testifying-1236933186/
 
-Kevin Bleyer, a writer who worked on The Daily Show and won four Primetime Emmy Awards, a Peabody Award and a Writers Guild Award, died Sunday in a car accident in Millrift, Pennsylvania. He was 54. His family said the accident occurred on a rural road where he had a country home. He spent nine [ ]
+Russell Brand took the stand in his criminal trial in London on Wednesday, denying all accusations against him and revealing that he was not able to convince anyone to testify on his behalf. He was called by his lawyer, Ian Winter KC, as the first witness as his defense began to lay out its case, [ ]
 
-### Crystal Lake Hits 1.3 Billion Minutes Watched in 11 Days, Becoming Peacock s No. 4 Scripted Debut Ever
-Tue, 27 Oct 2026 20:00:00 +0000 — https://variety.com/2026/tv/news/crystal-lake-ratings-peacock-1236932312/
+### One Cut of the Dead Director Ueda Shinichiro on Turning a Microdrama Into Tokyo Feature Earthlings in Love
+Wed, 28 Oct 2026 10:20:04 +0000 — https://variety.com/2026/film/festivals/one-cut-of-the-dead-director-microdrama-feature-earthlings-in-love-1236933285/
 
-According to Peacock, Crystal Lake is its fourth-most-watched scripted original series of all time. The Friday the 13th prequel series was watched for 1.3 billion minutes in its first 11 days of streaming. Divided by the series 398-minute runtime, that comes out to a total of 3.3 million estimated views. But in terms of overall [ ]
+Director Ueda Shinichiro made a name for himself with filmmaking that has embraced self-reflexivity: the beloved cult zombie film “One Cut of the Dead” was continually transforming, from a single-take horror-comedy into a meditation on the act of filmmaking and then the chaos of actually being on set. His new feature “Earthlings in Love,” showing [ ]
 
-### Television Academy Foundation Pacts With Best Buy to Launch Production Assistant Training Program for Los Angeles Area High School Students
-Tue, 27 Oct 2026 19:42:16 +0000 — https://variety.com/2026/tv/news/television-academy-foundation-production-best-buy-training-1236932299/
+### Amazon MGM Studios Japan Doubling Investment to Meet Global Standards, Local Chief Buddy Marini Reveals at Tokyo Market
+Wed, 28 Oct 2026 10:08:02 +0000 — https://variety.com/2026/film/markets-festivals/amazon-mgm-studios-japan-doubling-investment-global-standards-1236933235/
 
-The Television Academy Foundation is launching a 10-week production assistant training program for Los Angeles-area high school students in a partnership with consumer electronics retailer Best Buy. Through funding from Best Buy, the after-school program will be free for students, providing them with training for entry-level positions from PAs, production coordinators, assistant directors, production managers, [ ]
+Amazon MGM Studios Japan is doubling its investment to bring its content up to global standards, studio head Buddy Marini said Wednesday at a Tokyo International Film Festival TIFFCOM market session on unlocking the global potential of Japanese IP. The session, organized by the Motion Picture Association (MPA) and UniJapan, also featured Credeus CEO Matsuhashi [ ]
 
-### Danny Masterson Loses Appeal of Rape Conviction
-Tue, 27 Oct 2026 19:39:00 +0000 — https://variety.com/2026/tv/news/danny-masterson-loses-appeal-rape-conviction-1236932259/
+### Camila Mendes, Leslie Bibb Shooting Upgraded 2 in Venice, Where Biennale Art Show Is Part of Rom-Com s Storyline
+Wed, 28 Oct 2026 09:40:45 +0000 — https://variety.com/2026/film/global/camila-mendes-leslie-bibb-upgraded-2-venice-1236931945/
 
-An appeals court has denied Danny Masterson s appeal of his 2023 conviction on rape charges, upholding the verdict and his 30-year prison sentence. In an 89-page ruling, a three-judge panel rejected each of Masterson s arguments in turn, including the claim that the trial judge was biased against Scientology. Masterson, a star of That 70s Show, [ ]
+Shooting is underway in Venice on “Upgraded 2,” the sequel to Amazon MGM Studios’ buzzy 2024 rom-com Upgraded that, as announced, is set to star Leslie Bibb alongside Camila Mendes. Mendes is returning to the franchise as Ana Santos, an intern at a New York City auction house who feigns a higher job status after [ ]
 
-### As NFL Expands Globally, Marriott Bonvoy Taps Cooper Kupp, Jerry Rice and More for City Travel Guides
-Tue, 27 Oct 2026 19:25:55 +0000 — https://variety.com/2026/shopping/news/marriott-bonvoy-nfl-city-guides-book-online-1236919138/
+### Japanese-Brazilian Grief Drama ‘Yellow Chrysanthemum,’ Set During the 2014 Soccer World Cup, Joins Tokyo Gap-Financing Market
+Wed, 28 Oct 2026 09:28:29 +0000 — https://variety.com/2026/film/markets-festivals/japanese-brazilian-drama-yellow-chrysanthemum-tokyo-market-1236933180/
 
-Marriott Bonvoy has recruited some of the NFL&#x2019;s biggest names to plan travel guides in their home cities. Among the participating athletes are Seattle Seahawks wide receiver Cooper Kupp (Seattle), Eagles offensive lineman Jordan Mailata (Philadelphia), NFL legend Jerry Rice (Mexico City) and former running backs Todd Gurley (Melbourne) and Mark Ingram II (Rio de [ ]
+A Japanese-Brazilian teenager forced to face a family loss nobody will talk about is at the heart of “Yellow Chrysanthemum,” the first feature from Japanese-Brazilian director André Hayato Saito, which is among the projects at this year’s Tokyo Gap-Financing Market. The film is set in São Paulo in July 2014, while Brazil is staging the [ ]
 
-### Nobody Wants This Season 3 Opens With 6.2 Million Views in Four Days
-Tue, 27 Oct 2026 19:10:09 +0000 — https://variety.com/2026/tv/news/nobody-wants-this-season-3-ratings-netflix-views-1236932276/
+### Academy CEO Bill Kramer Maps Oscars’ Global Ambitions in Tokyo: Parasite Win Was a Pivot, a Shift
+Wed, 28 Oct 2026 09:09:42 +0000 — https://variety.com/2026/film/festivals/bill-kramer-maps-oscars-global-ambitions-parasite-pivot-1236933080/
 
-Season 3 of Nobody Wants This reached 6.2 million views in its first four days of streaming on Netflix. Compared to previous seasons of the Adam Brody and Kristen Bell-led comedy series, that s a decrease: Season 1 debuted with 10.3 million views in 2024 and Season 2 debuted 8.6 million views in 2025. Ranked against [ ]
+The Academy plans to keep taking the Oscars global, from recruiting members in underrepresented countries to streaming the ceremony free on YouTube, its leadership said in Tokyo, where CEO Bill Kramer said the share of members living outside the U.S. has grown from around 5% to 25% in a decade. Kramer was speaking at an [ ]
 
-### The Birds Reboot: Sarah Snook to Lead HBO Limited Series Take on Hitchcock Classic
-Tue, 27 Oct 2026 19:01:35 +0000 — https://variety.com/2026/tv/news/the-birds-reboot-sarah-snook-hbo-series-hitchcock-1236932282/
+### Taiwan-Japan Film Fund Daily Capital Launches at Tokyo Market, Backs Period Romance ‘Love Ends in Bloom’
+Wed, 28 Oct 2026 08:20:51 +0000 — https://variety.com/2026/film/markets-festivals/taiwan-japan-film-fund-daily-capital-launches-tiffcom-1236932939/
 
-HBO is developing a limited series take on The Birds with Sarah Snook in the lead role, Variety has confirmed. The show is inspired by Alfred Hitchcock s classic film and Daphne du Maurier s novella of the same name. The package was first reported to be on the market over the summer, with the project now [ ]
+Daily Capital, a new fund focused on Taiwan-Japan film and television co-productions, launched on the Tokyo International Film Festival market TIFFCOM’s opening day at the “Taiwan Originals: Project Showcase” event. The fund aims to raise NT$100 million (about $3.1 million) and invest in at least five projects across film, television and animation over its first [ ]
 
-### Trump Says Artificial Intelligence Is a Very Bad and Inaccurate Name, and That He Wants to Officially Ban the Term AI
-Tue, 27 Oct 2026 18:43:23 +0000 — https://variety.com/2026/digital/news/trump-artificial-intelligence-officially-ban-term-ai-1236932249/
+### Korean Webtoon Adaptations, ‘The Vanishing Act’ Lead 2027 Vertical Slate Unveiled by COL Group, V47 and Virtue Asia
+Wed, 28 Oct 2026 06:00:00 +0000 — https://variety.com/2026/tv/news/korean-webtoon-adaptations-col-group-2027-microdrama-slate-1236932643/
 
-President Donald Trump doesn t like the term artificial intelligence which was coined more than 70 years ago and is widely used by computer scientists and the tech industry and says he wants to ban the usage of AI in favor of super intelligence. In a post Tuesday on Truth Social, with one week [ ]
+Adaptations of Korean webtoons and web novels developed with CJ Group and a batch of new originals headline the 2027 vertical slate unveiled in Singapore on Wednesday by FlareFlow parent COL Group, V47 Entertainment and Virtue Asia. The lineup was presented at Inside Microdramas, which organizers described as an upfront without precedent. The Korean titles, [ ]
 
-### Fox and Endemol Shine Team to Adapt Fear Factor as a Scripted Microdrama Series for My Drama App
-Tue, 27 Oct 2026 18:39:55 +0000 — https://variety.com/2026/tv/news/fear-factor-microdrama-fox-my-drama-holywater-endemol-1236932245/
+### Thai Forest Spirit Horror ‘Cher,’ First Thai Winner at Frontières, Joins Tokyo Gap-Financing Market
+Wed, 28 Oct 2026 05:51:12 +0000 — https://variety.com/2026/film/markets-festivals/thai-forest-spirit-horror-cher-tokyo-gap-financing-market-1236932683/
 
-The market for vertical media content is expanding at a fast clip and it s attracting more and more high-profile properties, including the enduring gross-out reality show “Fear Factor.” Fox and “Fear Factor” owner Endemol Shine North America are teaming to adapt the show for vertical media consumption as a scripted series, which adds a dollop [ ]
+A Thai horror film built on the folklore of the Nang Mai, the forest nymphs of Thai myth, is the only Thai entry in the 2026 Tokyo Gap-Financing Market lineup. “Cher” arrives in Tokyo after becoming the first Thai project selected for, and awarded a top prize at, Canada’s Frontières Co-Production Market. Benetone Films and [ ]
 
-### Kevin Delaney Takes Role as NBC News Head of Digital Content and Subscription
-Tue, 27 Oct 2026 18:35:00 +0000 — https://variety.com/2026/tv/news/kevin-delaney-nbc-news-digital-content-and-subscription-1236932202/
+### Val Chmerkovskiy Says He Wants ‘Nothing But Love’ for Carrie Ann Inaba Following ‘DWTS’ Suspension, Apologizes to Jenna Dewan: ‘I Am So Sorry for All the Chaos’
+Wed, 28 Oct 2026 04:46:24 +0000 — https://variety.com/2026/tv/news/val-chmerkovskiy-carrie-ann-inaba-dwts-suspension-1236932655/
 
-Kevin Delaney, a journalist-turned-digital-entreprenur, has been named head of digital content and subscription at NBC News, a new role that will serve as a bridge between both editorial and business. Delaney will be tasked with overseeing digital publishing and NBC News AI efforts, work that has become more important as NBC News builds out a [ ]
+“Dancing With the Stars” pro Val Chmerkovskiy and judge Carrie Ann Inaba have made amends, concluding the hectic saga that has ensued since Chmerkovskiy made an inappropriate joke about Inaba earlier this month that resulted in his getting benched from the competition. On Tuesday night s episode of the dance competition series, Chmerkovskiy was back in [ ]
 
 ## The Hollywood Reporter
 
-### L.A. City Council Passes New Motions Aimed at Film-Friendly Overhaul
-Tue, 27 Oct 2026 20:30:01 +0000 — https://www.hollywoodreporter.com/business/business-news/l-a-city-council-motions-more-film-friendly-1236740962/
+### Project Hail Mary, Disclosure Day and Int l Awards Contenders Pack Camerimage Lineup
+Wed, 28 Oct 2026 09:56:27 +0000 — https://www.hollywoodreporter.com/movies/movie-news/camerimage-2026-lineup-project-hail-mary-disclosure-day-1236741670/
 
-As shoot days fall, the city is making civic properties more accessible to crews and offering free microshoot permits.
+The Polish festival celebrating the art of cinematography has unveiled its 2026 program.
 
-### Kevin Bleyer, Emmy-Winning ‘Daily Show’ Writer, Dies at 54 in Car Crash
-Tue, 27 Oct 2026 20:18:33 +0000 — https://www.hollywoodreporter.com/tv/tv-news/kevin-bleyer-dead-daily-show-car-crash-1236741205/
+### Academy CEO Bill Kramer Makes the Case for a More Global Oscars at Tokyo Film Festival
+Wed, 28 Oct 2026 08:37:31 +0000 — https://www.hollywoodreporter.com/movies/movie-news/academy-oscars-bill-kramer-tokyo-film-festival-1236741651/
 
-He also worked on shows hosted by Bill Maher and Dennis Miller, authored books and penned speeches for President Obama.
+Kramer says international membership growth, the Oscars-YouTube deal, and a new festival-qualifying pathway to nomination are all part of the organization’s expanding worldwide ambitions.
 
-### Nobody Wants This Star Condemns Adam Brody s Gaza Genocide Comments
-Tue, 27 Oct 2026 20:09:45 +0000 — https://www.hollywoodreporter.com/tv/tv-news/nobody-wants-this-star-adam-brody-gaza-genocide-comments-1236741154/
+### Tokyo: All of A Sudden Star Tao Okamoto Honored With The Hollywood Reporter’s Trailblazer Award
+Wed, 28 Oct 2026 07:07:06 +0000 — https://www.hollywoodreporter.com/movies/movie-news/thr-japan-mpa-2026-american-film-night-gala-1236741542/
 
-In an interview about the new season of the Netflix series, Brody's onscreen mother, Tovah Feldshuh, said, "To accuse the Jewish people of genocide is wild. It’s right out of Hitler’s playbook."
+At a glitzy event at the Tokyo American Club, Hollywood and Japanese powerbrokers celebrated longtime industry and cultural links between the two countries.
 
-### Christina Applegate Shares Health Update, Vows to Keep Fighting for MS Community: I Will Speak Out on Your Behalf Forever
-Tue, 27 Oct 2026 19:59:48 +0000 — https://www.hollywoodreporter.com/lifestyle/lifestyle-news/christina-applegate-health-update-ms-community-1236740951/
+### Meet the Estonian Folklore Characters Helping to Celebrate the 30th Tallinn Fest – and Their Animator
+Wed, 28 Oct 2026 07:01:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/tallinn-poff-30-poster-folklore-characters-estonian-animator-1236739899/
 
-The 54-year-old actress revealed she was misdiagnosed with the disease last week.
+Priit Pärn tells THR why he felt the Kilplased, "the foolish yet resourceful folk of Estonian folklore," were perfect for the Black Nights Film Fest poster when he was tapped to create its inaugural visual identity.
 
-### R.J. Mitte s Mother Shares Tribute After His Death: We Are Lost Without Him
-Tue, 27 Oct 2026 19:37:02 +0000 — https://www.hollywoodreporter.com/news/general-news/r-j-mitte-mother-tribute-death-1236741130/
+### Nordstrom s Fall Sale Just Dropped: Snag 60 Percent Off Tory Burch Shoes, Saint Laurent Sunglasses and More
+Wed, 28 Oct 2026 05:37:24 +0000 — https://www.hollywoodreporter.com/lifestyle/shopping/nordstrom-fall-clearance-sale-2026-dates-shop-savings-event-1236741222/
 
-The 'Breaking Bad' actor and activist died earlier this month at age 34.
+Presenting the 17 most unbeatable markdowns across premium beauty, designer footwear, best-selling basics and the season's hottest handbags.
 
-### Broadway Box Office: Billy Crystal s 860 Sees Strong Opening, As Downstate and More Start Previews
-Tue, 27 Oct 2026 19:31:24 +0000 — https://www.hollywoodreporter.com/lifestyle/arts/broadway-billy-crystal-box-office-top-shows-1236741142/
+### Snowfall Spinoff Boss Malcolm Spellman Lays Out Multi-Season Plan for The Drop, Why Season One Was Just a Dash of What s Coming
+Wed, 28 Oct 2026 04:50:27 +0000 — https://www.hollywoodreporter.com/tv/tv-features/snowfall-spinoff-the-drop-season-2-season-1-finale-explained-1236741601/
 
-'Other Desert Cities' with Julia Louis-Dreyfus and Allison Janney is still proving a starry draw.
+The showrunner of the FX drama about the rise of West Coast hip-hop explains how record labels will continue to have "all the leverage," the future of the romance between central characters Wanda (Gail Bean) and Leon (Isaiah John) and why ultimately the series is about family.
 
-### The Birds Series With Sarah Snook in the Works at HBO
-Tue, 27 Oct 2026 19:29:45 +0000 — https://www.hollywoodreporter.com/tv/tv-news/sarah-snook-the-birds-series-hbo-development-1236741125/
+### Hollywood Power Players (Like Bela Bajaria and Richard Weitz) Toast Honorees David Nevins and Peter Friedlander at Milestone Saban Clinic Gala
+Wed, 28 Oct 2026 02:31:27 +0000 — https://www.hollywoodreporter.com/lifestyle/lifestyle-news/saban-clinic-gala-2026-bela-bajaria-peter-friedlander-1236740331/
 
-'The Leftovers' alum Tom Spezialy is adapting Daphne du Maurier's novella, which previously inspired a 1963 film by Alfred Hitchcock.
+Alex Edelman, Walton Goggins and Connie Britton livened up the A-list fundraiser, which featured powerful speeches from the night's honorees and an impromptu round of applause for Bajaria.
 
-### One of Them Days Filmmaker Lawrence Lamont to Direct Ice Cube s Newest Friday Comedy (Exclusive)
-Tue, 27 Oct 2026 18:57:35 +0000 — https://www.hollywoodreporter.com/movies/movie-news/last-friday-ice-cube-sequel-director-1236741082/
+### How DWTS Addressed Val Chmerkovskiy s Return to the Ballroom After His Suspension
+Wed, 28 Oct 2026 02:19:18 +0000 — https://www.hollywoodreporter.com/tv/tv-news/dwts-carrie-ann-inaba-val-return-controversy-addressed-1236741213/
 
-Cube wrote the script and will star in 'Last Friday,' the first installment of New Line's buddy comedy series since 2002.
+Tuesday's Horror Movie Night episode marked Chmerkovskiy's first episode back after a one-week hiatus following his reference to Will Smith’s Oscars controversy while critiquing Carrie Ann Inaba’s judging of his wife, Jenna Johnson.
 
-### Never-Before-Seen Two-Hour Elizabeth Holmes Interview From Her Theranos Peak Might Be Released
-Tue, 27 Oct 2026 18:36:20 +0000 — https://www.hollywoodreporter.com/movies/movie-news/elizabeth-holmes-errol-morris-interview-movie-1236741057/
+### Melanie Lynskey to Topline Paramount+ Limited Series Mushroom Murders
+Wed, 28 Oct 2026 01:30:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/melanie-lynskey-paramount-plus-mushroom-murders-1236741367/
 
-Oscar-winning documentarian Errol Morris says he's sitting on a chat with Holmes shot during the height of Holmes' Theranos success.
+The drama is based on an infamous homicide case in Australia.
 
-### Jafar Panahi Facing Five Years’ Imprisonment in Iran After Being Sentenced in Absentia
-Tue, 27 Oct 2026 18:28:59 +0000 — https://www.hollywoodreporter.com/movies/movie-news/jafar-panahi-imprisonment-iran-1236740995/
+### Dancing With the Stars Gets Spooky for Horror Movie Night With the First Perfect Score and a Double Celeb Exit: See the Scores, Who Went Home
+Tue, 27 Oct 2026 23:58:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/dwts-season-35-horror-movie-week-7-recap-scores-elimination-1236741201/
 
-The Cannes-winning ‘It Was Just an Accident’ director, having returned to Iran after the Oscars, also had a Tehran Revolutionary Court confiscate his assets and impose a travel and social media ban.
+Couples celebrated Halloween by performing numbers inspired by frightening films.
 
 ## Deadline
 
-### Kevin Bleyer Dies: Emmy Winning Daily Show Writer Barack Obama Speech Writer Killed In Car Crash At 54
-Tue, 27 Oct 2026 20:30:33 +0000 — https://deadline.com/2026/10/kevin-bleyer-dead-1237206488/
+### Russell Brand Forcefully Denies Charges As He Gives Evidence During Rape Trial
+Wed, 28 Oct 2026 10:19:29 +0000 — https://deadline.com/2026/10/russell-brand-takes-stand-defences-case-crown-court-1237206934/
 
-Kevin Bleyer, an Emmy- and Peabody Award-winning television writer whose credits included The Daily Show and Politically Incorrect with Bill Maher, and who contributed speeches for President Barack Obama including all of the president’s addresses to the annual White House Correspondents Dinners, died in a car accident on Sunday, October 25, on a rural road [ ]
+Russell Brand has taken the stand this morning as his defense in the trial at Southwark Crown Court begins, with the Forgetting Sarah Marshall star saying his entire life has been consumed by these allegations. Wearing an open white shirt and blazer, Brand was called forwards to the dock, said his name and forcefully denied [ ]
 
-### Danny Masterson Fails To Get Double Rape Conviction Overturned; No Bias Against Scientology, Appeals Court Rules
-Tue, 27 Oct 2026 20:21:00 +0000 — https://deadline.com/2026/10/danny-masterson-rape-appeal-denied-scientology-1237206492/
+### Banijay Rights Names CFO As John Wagener Exits After 20 Years
+Wed, 28 Oct 2026 10:02:41 +0000 — https://deadline.com/2026/10/banijay-rights-cfo-john-richards-john-wagener-exits-1237206920/
 
-Three years after being convicted of raping two women, Danny Masterson today saw his appeal hopes disappear and allegations that Scientology was unfairly dragged into his two trial rejected at least for now. The judgment is affirmed, a trio of judges from the Second Appelltete District ruled Tuesday on Masteron s challenge against LA Superior [ ]
+The final piece of the Banijay Rights jigsaw is in place with John Richards named CFO of the combined sales operation. With that, John Wagener, All3Media International s long-serving CFO and COO, is exiting after two decades with All3Media International. Richards will oversee finance for the combined Banijay Rights-All3Media International sales outfit, which now has a [ ]
 
-### Crystal Lake Slashes Its Way To Fourth-Best Debut Audience Among All Peacock Scripted Originals
-Tue, 27 Oct 2026 20:08:42 +0000 — https://deadline.com/2026/10/crystal-lake-premiere-viewership-peacock-1237206503/
+### Netflix Lifts Lid On German Romantic Comedy ‘Oktoberfest’
+Wed, 28 Oct 2026 10:00:05 +0000 — https://deadline.com/2026/10/netflix-german-romantic-comedy-oktoberfest-1237206922/
 
-Audiences were eager to get back to Camp Crystal Lake. Peacock s Crystal Lake, which debuted on October 15, has generated 1.3 billion minutes watched in its first 11 days, per the latest Nielsen data. NBCUniversal says that makes it the fourth-best scripted original series ever on the streaming platform. As of the most recent Nielsen [ ]
+Netflix has unveiled the cast and a first image for Simon Verhoeven’s German-language romantic comedy Oktoberfest, set against the backdrop of the country’s world-famous beer festival in Munich. Jeanne Goursaud (Exterritorial) costars as an Oktoberfest waitress and single mother with a complicated personal life opposite Jannis Niewöhner (22 Bahnen) as a stressed businessman who gets [ ]
 
-### Nobody Wants This Has Netflix s Best Scripted Comedy Return Of The Year Despite 28% Audience Decline For Season 3 Debut
-Tue, 27 Oct 2026 19:59:23 +0000 — https://deadline.com/2026/10/nobody-wants-this-season-3-premiere-viewership-netflix-1237206481/
+### Prime Video Germany Names Former Netflix Film Exec Sasha Bühler As Originals Chief
+Wed, 28 Oct 2026 09:18:47 +0000 — https://deadline.com/2026/10/prime-video-hires-sasha-buhler-germany-originals-1237206896/
 
-Turns out, the people still seem to want Nobody Wants This. Season 3, which premiered October 22, debuted with Netflix s best opening weekend for a returning scripted comedy series this year, per the latest data. It took No. 2 on the English-language television rankings from October 19 to 25 with 6.2M views in its first [ ]
+EXCLUSIVE: Prime Video has named former Netflix Germany film chief Sasha Bühler as Philip Pratt s successor at the Amazon streamer. Bühler has been named Head of German Originals at Prime Video and Amazon MGM Studios Germany, news that comes months after we revealed she had left her role as Director of Film for German-speaking Europe [ ]
 
-### Billy Bob Thornton To Host Mayflower Docudrama For Fox Nation
-Tue, 27 Oct 2026 19:58:51 +0000 — https://deadline.com/2026/10/billy-bob-thornton-mayflower-docudrama-fox-nation-1237206496/
+### Michael Douglas Predicts Electoral Massacre For Donald Trump In Midterms
+Wed, 28 Oct 2026 09:11:30 +0000 — https://deadline.com/2026/10/michael-douglas-midterms-hoping-for-a-massacre-1237206898/
 
-Billy Bob Thornton is the latest star to team up with Fox Nation. The Landman actor is hosting a three-part docudrama about the Mayflower for the streamer. Billy Bob Thornton Presents: The Mayflower will reveal the “complex” history of the Mayflower voyage, the First Thanksgiving and the events that forever shaped the nation, per the [ ]
+Lifelong Democrat Party supporter Micheal Douglas has said he is hoping for an electoral massacre” in the upcoming U.S. midterm elections in which support for Donald Trump will be decimated. “I m hoping for a massacre, and we ll see… overwhelming Democratic votes across the board,” the Wall Street and Basic Instinct actor said in an interview [ ]
 
-### Will Yun Lee Upped To Series Regular On HBO Max s How To Survive Without Me
-Tue, 27 Oct 2026 19:54:28 +0000 — https://deadline.com/2026/10/will-yun-lee-how-to-survive-without-me-series-promotion-1237206401/
+### Israel Election: Slender Lead For Benjamin Netanyahu Means He Could Be Asked To Form Next Government
+Wed, 28 Oct 2026 09:10:55 +0000 — https://deadline.com/2026/10/israel-election-netanyahu-eisenkot-exit-poll-close-1237206893/
 
-EXCLUSIVE: Will Yun Lee (The Odyssey, The Good Doctor) has been promoted to series regular in the upcoming family drama series on HBO Max, How to Survive Without Me, from executive producer and writer Greg Berlanti and Berlanti Productions. Lee was cast as a guest star in the pilot, playing Dr. Marcus Chen. With an easygoing confidence [ ]
+The election in Israel remains on a knife-edge and there is still a strong chance Benjamin Netanyahu could be asked to form the next government. Last night s exit poll indicated that Netanyahu s Likud Party plus right-wing bloc and challenger Gadi Eisenkot s coalition were neck-and-neck, but with well over half of votes now counted, it appears [ ]
 
-### Broadway s A Few Good Men , Other Desert Cities , 860 Fill Seats With Brisk Autumn Box Office
-Tue, 27 Oct 2026 19:40:22 +0000 — https://deadline.com/2026/10/broadway-box-office-few-good-men-julia-louis-dreyfus-860-1237206129/
+### British TV s Working Class Problem Is At Both Junior Senior Level Diamond Report
+Wed, 28 Oct 2026 09:00:00 +0000 — https://deadline.com/2026/10/diamond-report-uk-tv-working-class-problem-junior-senior-1237206195/
 
-Broadway s big-name fall stars continued putting seats in the seats last week, with Billy Crystal s 860, Other Desert Cities with Julia Louis-Dreyfus, Ed Harris and Allison Janney, and A Few Good Men with Bradley Whitford and Tom Blythe selling out their venues and pulling seven-figure grosses. Especially impressive was the rapturously reviewed Other Desert Cities, [ ]
+Research from the Diamond diversity monitor has revealed the scale of the UK TV industry s working class problem, and found that the problem infects both the upper and lower echelons of the sector. According to the first-of-its-kind report from the broadcaster-backed Creative Diversity Network s (CDN) Diamond, people from a working-class background made around one quarter [ ]
 
-### Amy Poehler Leads Young Women Archaeologists Who Make An Important Discovery In Peacock’s ‘Dig’ Trailer
-Tue, 27 Oct 2026 19:39:05 +0000 — https://deadline.com/2026/10/dig-trailer-amy-poehler-peacock-comedy-archaeology-1237206438/
+### Amazon MGM Studios Japan To Double Investment In Original Content; ‘One Piece’ ‘Kingdom’ Producers Talk IP Strategies – TIFFCOM
+Wed, 28 Oct 2026 07:14:27 +0000 — https://deadline.com/2026/10/one-piece-amazon-mgm-studios-japan-kingdom-tiffcom-1237206872/
 
-Peacock has unearthed the first trailer for its comedy Dig starring Amy Poehler and co-created by Michael Schur (The Good Place, Parks and Recreation). The 10-episode comedy series premieres on the streamer November 23. “Everyone, listen up, because I m only going to explain this once,” Poehler’s Elise tells her young field crew. “There are stray [ ]
+Buddy Marini, Amazon MGM Studios new head of Japan, says the company has doubled its investment in original Japanese content, including an expanded slate of live-action films and series. Marini was speaking on a panel on the opening day of TIFFCOM, which also featured One Piece showrunner Steven Maeda and Kingdom producer Shinzo Matsuhashi, outlining [ ]
 
-### O.J. Simpson Doc Moved Up At Peacock Following NYT Investigation
-Tue, 27 Oct 2026 19:24:09 +0000 — https://deadline.com/2026/10/o-j-simpson-doc-peacock-premiere-date-1237206322/
+### Carrie Ann Inaba Val Chmerkovskiy Hug It Out After Dancing With The Stars Suspension Drama
+Wed, 28 Oct 2026 04:05:20 +0000 — https://deadline.com/2026/10/carrie-ann-inaba-val-chmerkovskiy-hug-dancing-with-the-stars-suspension-drama-1237206864/
 
-OJ’s Accomplice, a two-part documentary that has been in the works at Peacock for some time, is having its premiere moved up as news around the infamous murder trial heats up. The doc, which comes from Ari Mark’s Ample Entertainment, is set to premiere on the NBCUniversal streamer on November 1, having previously been dated [ ]
+It was all professional between Carrie Ann Inaba and pro dancer Val Chmerkovskiy on the Dancing with the Stars set after all the drama. The judge and the contestant hugged it out on the set of the ABC dance competition, a moment that has now gone viral, which you can see at the end of [ ]
 
-### Jafar Panahi Back In Crosshairs Of Iranian Authorities With Five-Year Sentence
-Tue, 27 Oct 2026 19:21:14 +0000 — https://deadline.com/2026/10/jafar-panahi-crosshairs-iranian-authorities-five-year-sentence-1237206414/
+### Entertainment Hits $332.5B To Become World s Second Most Valuable Sector As Netflix, YouTube Spotify Fly – Interbrand Report
+Wed, 28 Oct 2026 04:01:00 +0000 — https://deadline.com/2026/10/entertainment-second-most-valuable-interbrand-global-report-1237206126/
 
-Cannes Palme d’Or winner and Oscar nominee Jafar Panahi appears to be caught once again in the crosshairs of the Iranian authorities. Local media have reported that the director, who spent much of 2025 and early 2026 outside of Iran on the awards trail with It Was Just Sent An Accident, had been given a [ ]
+Hollywood is struggling with layoffs and budget cuts, but entertainment just overtook the automotive industry to become the world s second-largest business sector. That s according to consultancy Interbrand, whose latest Best Global Brands report pegs the cumulative value of entertainment companies brands at $332.5B, an increase of 12.4% year-on-year. Within that, Netflix s brand value grew 22%, [ ]
 
-### Netflix Lands AWOL Dramedy From Craig Rowin, Goldstein Daley s GoldDay
-Tue, 27 Oct 2026 19:15:00 +0000 — https://deadline.com/2026/10/netflix-awol-series-goldstein-daley-1237206277/
+### Yuriko Gamo Romer Marc Smolowitz On The 12 Year Journey Behind Their Japanese-U.S. History Baseball Doc ‘Diamond Diplomacy’ — Tokyo
+Wed, 28 Oct 2026 02:51:03 +0000 — https://deadline.com/2026/10/yuriko-gamo-romer-marc-smolowitz-diamond-diplomacy-tokyo-1237206812/
 
-EXCLUSIVE: Netflix has snapped up AWOL, an hour-long dramedy series package from Craig Rowin, John Francis Daley and Jonathan Goldstein, in a competitive situation, Deadline has learned. Specifics as to the deal weren t disclosed. There s also no word yet on the plot of the series, which is now in development at Netflix, though we know [ ]
+After a year on the U.S. festival circuit, with buzzy stops at Mill Valley and Hot Springs, Diamond Diplomacy, the feature documentary from San Francisco-based filmmaker Yuriko Gamo Romer, receives its first international screening this week at the Tokyo Film Festival. The screening will serve as a unique homecoming for Gamo Romer and the doc. [ ]
 
-### ‘Nation’s Dumbest’ Renewed For Season 2 At Fox
-Tue, 27 Oct 2026 19:14:17 +0000 — https://deadline.com/2026/10/nations-dumbest-renewed-season-2-fox-1237206426/
+### CNN s Scott Jennings Hit With $72.5M Suit By Hasan Piker Over Manipulated Lynching Misquote
+Wed, 28 Oct 2026 02:41:53 +0000 — https://deadline.com/2026/10/scott-jennings-sued-hasan-piker-lynching-misquote-defamation-1237206831/
 
-Fox will put more of the nation’s dumbest on television. The broadcaster has renewed Nation’s Dumbest for a second season. It comes after the first season debuted on July 15 with 2.3M total viewers over its first seven days, per Nielsen, which was the network’s biggest summer launch in four years. Jack Whitehall hosts the [ ]
+In a blistering response to Scott Jennings allegedly using a false, fabricated, and manipulated video claiming Hasan Piker wants to bring back lynching of Black Americans, the left-wing streamer plans to take the CNN MAGA talking head to the courtroom cleaners for $72.5 million. The accusation was especially calculated to provoke outrage because it invoked [ ]
 
 ## befores & afters
 
@@ -179,6 +179,21 @@ Tue, 27 Oct 2026 08:25:07 +0000 — https://beforesandafters.com/2026/10/27/on-t
 Timothee Chalamet and Denis Villeneuve on the set of Dune: Part Three in the Liwa Desert, Abu Dhabi. Copyright: © 2026 Warner Bros. Ent. All Rights Reserved. Photo Credit: Photo by Niko Tavernise The post On The Set Pic: Dune: Part Three appeared first on befores & afters .
 
 ## IndieWire
+
+### Watch Everybody to Kenmure Street Director Felipe Bustos Sierra Break Down the Decades of Activism That Led to One Spontaneous Protest
+Tue, 27 Oct 2026 22:30:00 +0000 — https://www.indiewire.com/news/events/everybody-to-kenmure-street-indiewire-art-of-the-doc-1235223932/
+
+At IndieWire's Art of the Doc event, Sierra explained why his film had to introduce Glasgow's long history of social justice protests in order to contextualize its events.
+
+### Watch Emmy Rossum and Hulu s Furious Team Explain How They Found Humanity in a Broken System
+Tue, 27 Oct 2026 21:15:00 +0000 — https://www.indiewire.com/news/events/emmy-rossum-furious-cast-indiewire-panel-1235223952/
+
+The star and executive producer of Hulu's hit crime show joined Quincy Tyler Bernstine, Steve Way, and composer Ariel Marx at Vidiots on October 16 for a screening and Q A with IndieWire.
+
+### Jafar Panahi Faces Five-Year Prison Sentence in Iran After Releasing It Was Just an Accident
+Tue, 27 Oct 2026 21:03:39 +0000 — https://www.indiewire.com/news/general-news/jafar-panahi-sentenced-prison-iran-1235224032/
+
+The Oscar-nominated filmmaker and Palme d'Or winner has also been banned from travel and social media activity for two years.
 
 ### Manhood Review: Penis Enlargement Documentary Curves Left of Center
 Tue, 27 Oct 2026 20:27:00 +0000 — https://www.indiewire.com/criticism/movies/manhood-review-penis-enlargement-documentary-1235185040/
@@ -225,122 +240,107 @@ Tue, 27 Oct 2026 00:30:00 +0000 — https://www.indiewire.com/news/events/my-und
 
 At IndieWire's Art of the Doc event, Loktev explained why her film about the lives of Russian journalists had to take a different turn.
 
-### Wildwood Sparked a Much-Needed Comeback for Laika at the Box Office
-Mon, 26 Oct 2026 22:09:59 +0000 — https://www.indiewire.com/news/box-office/wildwood-box-office-laika-analysis-1235223778/
-
-Travis Knight's stop-motion animated epic opened to $12.2 million, which is on par with the opening for the company's "Kubo and the Two Strings."
-
-### James Gunn and Peter Safran s DC Experiment: What’s Working, What Isn’t, and What’s Next
-Mon, 26 Oct 2026 22:00:00 +0000 — https://www.indiewire.com/features/commentary/james-gunn-dc-studios-report-card-1235223600/
-
-Four years and three movies into a total rebuild, we review — and grade — the latest iteration of the DC Universe.
-
-### Laika and Fathom Take Legal Action to Stop Wildwood Screenings at L.A. s Bruin Theatre
-Mon, 26 Oct 2026 20:39:33 +0000 — https://www.indiewire.com/news/breaking-news/laika-fathom-wildwood-bruin-theatre-legal-action-1235223772/
-
-The companies tell IndieWire they want to end the planned engagement, citing concerns about operator Rui Pereira and the brands' values. Screenings continued through Sunday.
-
 ## The Wrap
 
-### 4DX Expands Wicker to One-Week Run Thanks to Social Media-Driven Demand
-Tue, 27 Oct 2026 20:55:13 +0000 — https://www.thewrap.com/creative-content/movies/wicker-tickets-4dx-extension/
+### William Shatner Says He s Deeply Saddened by Star Trek Castmate Walter Koenig s Death
+Wed, 28 Oct 2026 05:26:35 +0000 — https://www.thewrap.com/creative-content/tv-shows/william-shatner-pays-tribute-late-star-trek-co-star-walter-koenig/
 
-4DX, the motion-seat premium format usually associated with blockbusters like Twisters and F1, is about to take a very kinky turn. After selling out its one-day-only screening of Black Bear s fantasy romance Wicker, parent company CJ 4DPLEX has announced that screen times will be added at 4DX locations nationwide through the coming week . Insiders at Black Bear and CJ told TheWrap that the initial one-day engagement was conceived after romance fans caught a glimpse of the trailer showing Olivia Colman as an outcast fisherwoman who calls upon the one member of her village who has not shunned her, a basket weaver (Peter Dinklage), to make her a husband out of willow. With a steamy, bed-breaking sex scene becoming its buzziest moment coming out of its Sundance premiere, Wicker got the attention of online cinephiles and influencers who suggested, perhaps half-jokingly, that this would be a film worth seeing in the seat-rocking, mist-spraying, scent-laden 4DX. When CJ s social media team responded coyly to one such demand, the excitement from fans was so overwhelming that talks began between the company and Black Bear to bring the film to 4DX locations in 21 states and Washington, D.C., on Oct. 28. Now, after those screenings sold out, Wicker will extend its 4DX engagement through Nov. 4. CJ worked with Wicker directors Alex Huston Fischer and Eleanor Wilson on the motion and sensory effects that moviegoers will experience in 4DX, though no word yet if the scent of fish will be ad
+William Shatner paid tribute to his late Star Trek castmate Walter Koenig after the latter died at 90 from natural causes on Sunday. In a statement shared to his X account Tuesday afternoon, Shatner, who starred opposite Koenig as Captain James T. Kirk in the Star Trek franchise, noted he was deeply saddened by the news. I am deeply saddened to learn of Walter Koenig’s passing, he wrote. Although we did not know each other well away from the set, we shared the later seasons of the original Star Trek series and the six films that followed. He added: What I observed, and what so many fans have expressed over the years, was a man who genuinely loved the Star Trek community. At conventions, Walter was rarely content to remain behind a signing table. He preferred to be among the people who had kept Star Trek alive for so many decades. That kind of genuine connection is rare, and it will be remembered by everyone who came into contact with him. Before concluding his note, Shatner took a moment to send his condolences to Koenig s family, friends and fans. I am deeply saddened to learn of Walter Koenig’s passing. Although we did not know each other well away from the set, we shared the later seasons of the original Star Trek series and the six films that followed. What I observed, and what so many fans have expressed over the… &mdash; William Shatner (@WilliamShatner) October 27, 2026 Shatner s tribute came a day after word of Koenig’s death broke in the press. Koenig, who was best k
 
-### Kevin Bleyer, Emmy-Winning Daily Show Writer, Dies in Car Crash at 54
-Tue, 27 Oct 2026 20:45:52 +0000 — https://www.thewrap.com/media-platforms/tv/kevin-bleyer-dead/
+### Jimmy Kimmel Whips Up Merch With Trump Heckler’s Viral Dig: ‘High-Five Everybody For That’
+Wed, 28 Oct 2026 04:54:11 +0000 — https://www.thewrap.com/creative-content/tv-shows/jimmy-kimmel-makes-trump-heckler-jab-into-t-shirt/
 
-Kevin Bleyer, an Emmy-winning writer for The Daily Show has died at 54. Bleyer died on Sunday after being in a car crash. His death was confirmed by his wife on Facebook. The last eleven years have had their ups and downs, as life does, but above all, they have been filled with immense love, laughter, dogs, and travel, Nella Vera said. I was in awe of his intellect, dazzled by his wit, amazed by his fearlessness and spirit of adventure, besotted by his loving heart, and smitten by his beautiful blue eyes. I feel incredibly lucky to have shared the past decade with such a brilliant, complicated, funny, stubborn, and wonderful man. He had many public accomplishments and awards throughout his long and successful career, but to me, he was my soulmate, my partner in crime, and the one who made life so much more fun. She added: I am devastated, heartbroken, shattered. I am joined in grief by his father and brother, sister-in-law, and niece and nephew. I have family and friends surrounding me with support and helping me through these unimaginable days, but my heart has a hole in it that will never be filled. Hold those you love tight because “nothing here is promised, not one day.” Bleyer also worked on Bill Maher s show Politically Incorrect from 2000-2002, and Dennis Miller s CNBC show before moving to The Daily Show where he would go on to win four Emmys. He also contributed to former President Barack Obama s White House Correspondents Dinner speeches. “Kevin Bleyer was a writer’
+Jimmy Kimmel showed support for one Trump heckler s viral dig by printing the scathing message onto a bright red t-shirt. The late night host addressed the headline-making rally moment during Tuesday s Jimmy Kimmel Live! monologue, where he praised the heckler for hitting President Donald Trump with such a biting comment. You know, because he s hurt his party so bigly. He s been forced to campaign in a number of deep red states, including Mississippi, which should be a given, Kimmel said. The liberals are threatening to flip Mississippi. And this is what the Liberals do They don t even ask. One day, Mississippi comes home Mister-sippi. As Kimmel went on, he called out Trump s tone-deaf comedy jam at a Mississippi rally, noting that it got tripped up by a heckler. Specifically, the heckler went viral after he shouted at Trump mid-speech: Shove that ballroom up your fat ass. Trump responded by telling the heckler to go home. Though, Kimmel encouraged the heckler to go home and high-five everybody for that. His praise for the remark didn t stop there, either. Wouldn t it be a shame if people started yelling that everywhere he goes? Shove that ballroom up your fat ass,' he quipped. You know what would be even worse? If people started printing it on shirts like [this]. Kimmel was then tossed a bright red t-shirt, which had the heckler s message in huge white block letters. Ass was notable on the backside of the shirt, likely meant to draw attention to the wearer s behind. Please, 
 
-### Everything New on Prime Video in November
-Tue, 27 Oct 2026 20:42:09 +0000 — https://www.thewrap.com/creative-content/what-to-watch/everything-new-on-prime-november-2026/
+### O Shea Jackson Jr. Says Dad Ice Cube Hasn t Asked Him to Join ‘Friday’ Sequel: ‘I Will Call Mom’
+Wed, 28 Oct 2026 03:58:20 +0000 — https://www.thewrap.com/creative-content/movies/oshea-jackson-jr-calls-out-dad-ice-cube-friday-sequel/
 
-The Halloween season is drawing to a close, and that means it s time to figure our your next, non-spooky watch (or maybe it s still spooky, if you re generally a horror fan. I support you either way). If you re the type that heads straight for Christmas movies come Nov. 1, then you re in luck, because Prime Video is getting a whole batch of those to start the month. But, if you re just looking for a comfort film like Good Will Hunting or Mean Girls not that those two should ever be compared otherwise you can find that too. Here s a full list of what s new on Prime Video in November. November 1 A Belle For Christmas (2014) A Christmas Carol (1999) A Christmas Wedding Tail (2011) A Different Kind Of Christmas (1996) A Hobo s Christmas (1987) A Shot In The Dark (1964) A Very Barry Christmas (2008) A Very Harold & Kumar Christmas (2011) A Wonderful Christmas (2005) Agent Cody Banks (2003) Agent Cody Banks 2: Destination London (2004) All Dogs Go To Heaven (1989) All Mine To Give (1957) American Made (2017) Annie Hall (1977) Bad Santa (2003) Bad Santa 2 (2016) Be Cool (2005) Blink Twice (2024) California Straight Ahead (1937) Chance Of Snow (2002) Christmas Classics: O Christmas Tree (1999) Christmas In Connecticut (1945) Christmas In Paradise (2022) Darkest Hour (2017) Dear Santa (2024) Deck The Halls (2011) Duck Soup (1933) Elf (2003) Elf: Buddy’s Musical Christmas (2014) Get Shorty (1995) Good Will Hunting (1998) Gretel & Hansel (2020) Hang Em High (1968) Holiday Affair (1949) 
+O’Shea Jackson Jr. revealed he has yet to be involved in dad Ice Cube’s “Friday” follow-up film, joking that he was ready to “call mom” to rectify the situation. Jackson, who played his famous father in 2015 s N.W.A biopic Straight Outta Compton, got candid about his lack of involvement in the film on X Tuesday afternoon. Alongside an article, which reported that One of Them Days director Lawrence Lamont was set to direct Ice Cube s new Friday film, Jackson wrote, ….I haven’t received any emails or calls from my agent about this project…. He added: ….I swear…. to God……I will call mom. ….I haven’t received any emails or calls from my agent about this project…. ….I swear…. to God……I will call mom. https://t.co/eSeSNv54Wf pic.twitter.com/zqGcKdCRrV &mdash; O’Shea Jackson Jr (@OsheaJacksonJr) October 27, 2026 Jackson Jr., who is the oldest son of Ice Cube and Kimberly Woodruff, has made a name for himself in Hollywood in the last decade, with film credits in “Ingrid Goes West,” “Den of Thieves,” “Long Shot,” “Godzilla: King of the Monsters,” “Just Mercy” and “Cocaine Bear,” among other titles. He also appeared in three episodes of 2022’s “Obi-Wan Kenobi.” However, he s poked fun at his status as a nepo baby in the past. Back in April, he shouted out the news that Ice Cube and Kevin Hart were in talks to return for “Ride Along 3,” writing on X , “Now please believe if I’m in this … It is 100 percent Nepotism.” Jackson has also proven himself to be his dad s number one fan, as, als
 
-### Noah Wyle Turns Beet Red Recalling His Disappointing Run-In With Eddie Murphy
-Tue, 27 Oct 2026 20:11:04 +0000 — https://www.thewrap.com/culture-lifestyle/culture/noah-wyle-eddie-murphy-autograph-embarrassing-story-good-hang/
+### ‘The Daily Show’ Calls Out Conservative Media’s Mixed Messages on Cheesecake Factory After Obama Jab
+Wed, 28 Oct 2026 03:07:04 +0000 — https://www.thewrap.com/creative-content/tv-shows/the-daily-show-jordan-klepper-reacts-obama-cheesecake-factory-jab-conservative-media/
 
-Noah Wyle had a childhood run-in with Eddie Murphy that did not go exactly as planned. While on Amy Poehler s Good Hang podcast, The Pitt star recounted how he ran into the comedy icon when he was only 9 and asked for an autograph – saying he was a big fan of the comedian on Saturday Night Live. The retelling appeared to get under the actor s skin even today, as he blushed beet red while regaling Poehler on Tuesday s episode. “I met Eddie Murphy once when I was a kid. I asked him for his autograph, and I said, ‘I really like you on SNL,’ Wyle said. He goes, ‘What are you doing up that late?’ And I said, ‘Can I have your autograph?’ He goes, ‘F k off, man.’ Poehler, clearly tickled by the story, asked again how old Wyle was when it happened. I was 9. Now I always sign an autograph whenever a 9-year-old needs one. I sign that so fast.” Watch the full interview below: Wyle has recounted that story enough in his own house that his kids took note. They even went so far as to try to cheer up their dad on his birthday years after being told off by the comedian. I’ve told this story in my house, and last year for my birthday, my 10-year-old daughter didn’t know what to get me, Wyle explained. So she printed up a picture of Eddie Murphy and wrote, ‘Dear Noah, you’re a great kid, Eddie Murphy.’ She spelled Eddie E-d-d-y, and I have it framed in my office.” He finished: She came up with the story. She’s like, ‘Dad, you’re never gonna believe who I saw yesterday. Eddie Murphy. And we got
+Jordan Klepper called on conservative media to tighten up its messaging about the Cheesecake Factory after issuing conflicting takes in the wake of Barack Obama s jab. For those who may ve missed Obama s comment, the former president went viral over the weekend after he roasted President Donald Trump s fixation on home renovations. “There’s gold everywhere. What’s up with the gold?” Obama told a rally crowd on Saturday while stumping for Ohio Democratic candidates Amy Acton and Sherrod Brown.“He’s got the White House looking like Saddam Hussein opened a Cheesecake Factory. Just gold everywhere.” As Klepper highlighted during his Monday night monologue for The Daily Show , Obama s remarks prompted widespread outrage across conservative media, with many accusing the former president of suffering from elitist disconnect. While several conservative figures tried to paint the Cheesecake Factory as a restaurant frequented by blue collar workers, others, including Fox News, came to the establishment s defense, calling it fancy. Guys, look, I wanted to be mad with you, but I got to say, now I m just confused, Klepper said. The Cheesecake Factory can t be a humble, yet high class restaurant for working class/1% billionaires to gather with paycheck-to-paycheck members of the Illuminati. It just doesn t make any sense. He added: Look, I know you re trying to gin up a new culture war outrage cycle, but you guys are not on the same page here. Klepper then pulled out the Cheesecake Factor 
 
-### ‘Crystal Lake’ Surfaces as Peacock s 4th Biggest Scripted Original Series With 1.3 Billion Minutes in 11 Days
-Tue, 27 Oct 2026 20:01:57 +0000 — https://www.thewrap.com/creative-content/tv-shows/crystal-lake-peacock-ratings/
+### VisionQuest : Who Is Raza, the Surprise Bad Guy in Episode 6?
+Wed, 28 Oct 2026 02:45:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/visionquest-episode-6-who-is-raza-bald-guy/
 
-Friday the 13th TV prequel “Crystal Lake” scored an impressive debut, becoming Peacock s fourth biggest original series to date. “Crystal Lake, which debuted Oct. 15 on Peacock, tallied 1.3 billion minutes viewed in 11 days, according to internal figures from NBCUniversal. In the week following its debut, Nielsen s charts for the week of Oct. 19 place “Crystal Lake” as the No. 3 streaming original series as well as No. 3 most-watched series among all freshman seasons. On social media, Crystal Lake scored 1.8 billion earned impressions in its first 24 hours, and grew to reach over 7.6 million video views in its first 11 days, according to figures from Sprout social media. Hailing from creator, writer, showrunner and executive producer Brad Caleb Kane (“It: Welcome to Derry,” “Tokyo Vice,” “Warrior”), Crystal Lake follows single mother Pam Voorhees who has been unable to shake her grief after her young, sickly son Jason tragically drowned in the town lake almost a year before. When two strangers arrive at Pam’s door digging into her past, a disturbing chain of events is set into motion, leaving the townspeople of Crystal Lake wondering: just who is Pam Voorhees? the official logline reads. Linda Cardellini stars as Pam Voorhees, with additional cast including William Catlett, Devin Kessler, Cameron Scoggins, Gwendolyn Sundstrom, Callum Vinson, Nick Cordileone, Joy Suprano, Danielle Kotch and Phoenix Parnevik. In addition to Kane, Crystal Lake is executive produced by Marc Tober
+Note: This story contains spoilers from VisionQuest Episode 6. We re nearing the end of VisionQuest, with Episodes 5 and 6 now streaming on Disney+. With them came a new face in the story, as the hunt for Vision continued — but he s not actually all that new. In Episode 6, we find Vision (Paul Bettany) meeting up with Paladin (Todd Stashwick) to negotiate. Soon enough though, their meeting is interrupted by gunfire, and a whole squad of goons. At the head of them is a bald man, who Paladin immediately knows as Raza. And if you re thinking he looks familiar to you too, you re correct. You might remember Raza, played by Faran Tahir, as one of the earliest bad guys introduced in the MCU. He was the leader of the Ten Rings, who held Tony Stark captive in a cave and forced him to build a Jericho missile for the terrorist group. Instead, Tony used the supplies to build his very first Iron Man suit. Yes, this is the same Ten Rings organization as explained in Shang-Chi and the Legend of the Ten Rings, founded by Shang-Chi s father. When last we saw Raza, he was being temporarily paralyzed by Obadiah Stane (Jeff Bridges) in Iron Man. Stane double-crossed Raza after the two worked together to capture Tony Stark, thus revealing Stane s deception to the audience. This marks his first appearance in the MCU since that 2008 film. Alongside Bettany, that means that Tahir has technically been the longest-employed actor in the MCU, appearing in both the franchise s first project and its most 
 
-### Danny Masterson Loses Rape Conviction Appeal, Judges Uphold 30-Year Prison Sentence
-Tue, 27 Oct 2026 19:54:44 +0000 — https://www.thewrap.com/industry-news/public-policy-legal/danny-masterson-loses-rape-conviction-appeal/
+### Seth Rogen Recalls Doubting Jake Gyllenhaal’s ‘Donnie Darko’ Performance During Production
+Wed, 28 Oct 2026 02:14:47 +0000 — https://www.thewrap.com/creative-content/movies/seth-rogen-donnie-darko-jake-gyllenhaal-doubts/
 
-Danny Masterson has lost his appeal of his rape convictions from 2023. According to the 89-page ruling obtained by TheWrap Tuesday, a three-judge panel rejected each of Masterson s arguments for appeal. The decision means his 30-year prison sentence for the charges will stand. Masterson was accused by three women of raping them at his Hollywood Hills home around 2003. A 2022 trial resulted in a hung jury on all three counts, but a 2023 retrial resulted in convictions on two, while the panel deadlocked on a third count. Masterson s lawyer Cliff Gardner picked apart the timeline of the accusers’ stories in exhausting detail, outlining how each “evolved” their memories over the years more than a half-dozen times. He suggested that they tailored their accounts knowing that a criminal conviction would open the long-expired limitations statutes preventing them from seeking a significant financial reward – and that the trial court improperly stopped him from making that argument to the juries. Gardner pointed out that the initial mistrial and split verdict at retrial – with “protracted jury deliberations at both” – showed that jurors already had reservations about the credibility of the witnesses, despite the critical omission of their possible motives. This didn t stand up to the judges in the appeal process. The former “That 70s Show” star also filed an appeal that argued his defense attorney failed to call witnesses who could have discredited his accusers and pushed back on prose
+Seth Rogen confessed he had doubts about Jake Gyllenhaal s performance in Donnie Darko back when they filmed the science fiction thriller over two decades ago. The star and co-creator of The Studio reflected on his time making Donnie Darko as part of the New York Times oral history for the film, which celebrated its 25th anniversary on Monday. And, as Rogen told the outlet, he wasn t convinced about how the movie would land during production. “I remember seeing [Gyllenhaal] on set and being like, ‘I don’t know how this is going to land,’” Rogen, who played high school bully Ricky Danforth in the now cult classic, said. “He wasn’t playing this charming version of it.” He added: “I remembered thinking he put a level of thought into this that I didn’t even realize, as an actor, was on the table.” In addition to Gyllenhaal and Rogen, whose performance in Donnie Darko marked his first film role, the thriller also starred Jena Malone, Drew Barrymore, Mary McDonnell, Katharine Ross, Patrick Swayze and Noah Wyle. Richard Kelly wrote and directed the movie, which followed Gyllenhaal as a troubled teenager haunted by a figure in a rabbit costume warning that the world is set to end. Though, it wasn t just Gyllenhaal that caused Rogen to have doubts, as he noted elsewhere in the interview, I remember thinking, This will either be really good, or it’ll be like the weird B-movie of itself.' While Donnie Darko didn t initially perform at the box office, in large part due to its advertising
 
-### You Can See Everything : Nathan Fielder, Lance Oppenheim Deemed Ineligible for DGA s Top Prize
-Tue, 27 Oct 2026 19:09:58 +0000 — https://www.thewrap.com/industry-news/awards/dga-rules-you-can-see-everything-ineligible-top-prize/
+### ‘DWTS’ Week 7: Harry Shum Jr. Earns First Perfect Score of the Season With ‘Saw’-Inspired Contemporary Dance
+Wed, 28 Oct 2026 01:59:04 +0000 — https://www.thewrap.com/creative-content/tv-shows/dancing-with-the-stars-week-7-double-elimination-horror-movie-night/
 
-Warning: This article contains spoilers for You Can See Everything. You Can See Everything is facing one of its first hurdles in what is sure to be a unique awards season for the Nathan Fielder/Lance Oppenheim documentary. The film, which follows Theranos founder Elizabeth Holmes in the days leading up to and following her imprisonment for defrauding investors, will not be allowed to compete for the top prize at the Directors Guild of America Awards, TheWrap has learned. This means the film will only be eligible for the Outstanding Directorial Achievement in Documentary prize. This determination is consistent with DGA rules, which state that re-releases, animated films and documentaries are not eligible for Outstanding Directorial Achievement in Theatrical Feature Film. This is not consistent with the Academy Awards, which have no such criteria for Best Picture. You Can See Everything is an odd case for this awards season. While the film is undeniably a documentary, its DNA is imbued with enough fictional elements (deriving from Fielder s history as a TV prankster) that throw it off the course of a traditional doc. Aspects such as (spoiler alert!) Amanda Seyfried s presence and performance as Holmes muddy the documentary waters. This puts You Can See Everything in a very odd and potentially history-making position. The film doesn t feel like the kind of feature that the Academy s documentary branch would traditionally go for, yet its box office performance and incredibly posi
+Dancing With the Stars Horror Movie Night brought spooks and surprises before the season s first double elimination. The Halloween week included shakeups in the leaderboard as the competition continued to stiffen. Comedian Connor Wood shocked with his first 10s of the season, while other stars disappointed tough guest judge Shirley Ballas. The “Dancing with the Stars: The Next Pro” judge, who is also pro Mark Ballas mother, joined the panel and did not mess around. She kicked off the night’s competition, giving Julia Stiles a 4 (her lowest score of the competition thus far). The competition ended in a double elimination, sending home Tyler Cameron and his partner Sharna Burgess and Jackson Olson and his partner Emma Slater. The scores and combined votes from Dedication Night and Horror Movie Night decided the eliminations. In a tease for next week’s Disney-themed episode, host Alfonso Ribeiro also announced that Cynthia Erivo will be joining as a guest judge. Next week s episode will take place Monday ahead of Election Day. Stiles opened the night’s competition with her Argentine tango to “The Dogs Attack” inspired by the horror film “The Omen.” The actress was in the 2006 remake of the film, so this performance was that much more personal. She and her partner Ezra Sosa seemed to butt heads in rehearsals this week before performing their routine that was not up to snuff. The guest judge said she needed sharper, controlled legs among other critiques. Derek Hough said it was th
 
-### ‘Nobody Wants This’ Season 3 Down 28% From Last Year as ‘Below’ Stays Atop Netflix TV List
-Tue, 27 Oct 2026 19:01:17 +0000 — https://www.thewrap.com/creative-content/tv-shows/nobody-wants-this-season-3-viewership-netflix/
+### Jamie Raskin Breaks Down How Trump’s Epstein Cover-Up Is Staring Us in the Face’ Amid Calls for Special Counsel
+Wed, 28 Oct 2026 01:23:36 +0000 — https://www.thewrap.com/media-platforms/politics/jamie-raskin-trump-epstein-files-cover-up-special-counsel/
 
-Nobody Wants This Season 3 debuted as Netflix s No. 2 most-watched English-language series of the week, with viewership sliding down 28% from last season. Season 3 opened to 6.2 million views, down from Season 2 s debut viewership of 8.6 million views last October, which boosted the Kristen Bell and Adam Brody-led rom-com atop the TV list during the Season 2 premiere week. Season 3, however, was outpaced by limited series Below, which has been dominating TV viewership on Netflix. Below took the No. 1 spot on the TV list for the third week in a row with 7.7 million views. Still, Nobody Wants This scored the biggest opening weekend for a returning scripted comedy in 2026, the latest marker of the platform’s engagement woes. Season 3 ranked in the top 10 in 56 countries and reached No. 1 in 11 countries. Across the whole series, Nobody Wants This has landed within the global top 10 for 11 weeks and scored over 120 million views since its 2024 debut. The Season 3 launch prompted a resurgence for the first two seasons, with viewing increasing nearly three times over the prior week. Behind Nobody Wants This was The Diplomat Season 4, which climbed to the No. 3 spot on the TV list with 5.5 million views. Limited series Tyson came next with 3.8 million views, barely outpacing Love Is Blind Season 11 with 3.7 million views. French mystery series Lupin scored 6.4 million views as it returned for Part 4, landing as the No. 1 most-watched non-English-language TV list show. The debut boos
+House Judiciary Committee Democrats released a 50-page report on Monday laying out alleged ties between President Donald Trump and the late sex criminal Jeffrey Epstein. Congressman Jamie Raskin, Ranking Member of the House Judiciary Committee, appeared on MS NOW on Tuesday to lay out the case made by the report, which called for an independent special counsel unrelated to the Trump adminstration to investigate the president s ties. The cover-up is staring us in the face, Raskin told Deadline: White House host Nicolle Wallace. On MS NOW, Raskin laid out several incidents that point to this alleged cover-up. These include the Department of Justice deeming there is no evidence in all of the Epstein Files that would lead them to conduct even an investigation into anybody aside from Epstein and Ghislaine Maxwell. He also pointed to the transfer of Maxwell to a low-security prison where sex offenders aren t even allowed. You ve got to read the report. The detail is extraordinary. But we re not even trying to make the case here. We re not prosecutors, but we re saying the Department of Justice has completely abdicated their responsibility, and why? We cannot understand any reason other than they re trying to protect Donald Trump, so we re demanding an independent special counsel to take this over from the Department of Justice with the hopes that the truth will come out and justice will be done for hundreds and hundreds of victims. You can watch the full interview below: The Epstei
 
-### NBC News Taps Quartz Co-Founder Kevin Delaney to Lead Digital Content, Subscriptions
-Tue, 27 Oct 2026 18:57:01 +0000 — https://www.thewrap.com/media-platforms/journalism/nbc-news-kevin-delaney-digital-subscriptions/
+### Hasan Piker Sues CNN s Scott Jennings for $72 Million, Citing False and Fabricated Livestream
+Wed, 28 Oct 2026 00:24:00 +0000 — https://www.thewrap.com/industry-news/public-policy-legal/hasan-piker-sues-scott-jennings-defamation/
 
-NBC News has tapped Quartz co-founder Kevin Delaney to lead its digital content and subscription strategy in a newly created executive role as the network looks to expand its paid offerings and grow digital revenue. Delaney, most recently editor in chief of The San Francisco Standard, will oversee digital publishing and artificial intelligence initiatives as head of digital content and subscription. He will report jointly to Catherine Kim, NBC News’ executive vice president of editorial and content, and Sat Brainch, chief business officer of NBCUniversal News Group, the company announced Tuesday. The hire comes as NBC News seeks to turn its sizable digital audience into a stronger subscription business, a challenge facing legacy news organizations as traditional television viewership declines and consumers increasingly get their news from streaming, social media and other digital platforms. NBC News launched a paid digital subscription in December 2025, offering exclusive programming, newsletters and ad-free content. The service costs $5.99 per month or $59.99 annually. In August, the network expanded its offerings with a new franchise featuring political analyst Steve Kornacki. Delaney s appointment also brings digital publishing and AI under a single executive. Tom Namako, who leads digital publishing, and Hanna Helin, who oversees AI initiatives, will report to him. He will work closely with Arianna Davis, who leads TODAY Digital, and Jessica Mailloux, who oversees audienc
+Livestreamer Hasan Piker sued political pundit Scott Jennings for defamation, TheWrap has learned. The lawsuit concerns an Aug. 11 recording in which Jennings “falsely told a nationwide podcast audience that Hasan Piker was ‘out there calling for Black voters to be lynched’” and manipulated footage from one of Piker’s livestreams, according to the complaint. Piker is seeking at least $27.5 million in compensatory damages and $45 million in punitive damages, according to Bloomberg Law. Mr. Jennings did not merely mischaracterize something Mr. Piker said. He took a false, fabricated, and manipulated video of Mr. Piker, added a made-up quotation that Mr. Piker never uttered, and then made accusations that went beyond even what the manipulated footage purported to show, the lawsuit reads. Mr. Jennings presented those accusations as fact, telling his viewers to [l]isten for yourself about Mr. Piker, knowing that he was playing a falsified video of Mr. Piker for those viewers, and completely disregarding the truth of Mr. Piker’s actual words. The Jennings podcast in question sees the CNN pundit call Piker Abdul El-Sayed s best friend before urging, African-Americans out there within the sound of my voice need to listen up, and you must listen carefully. This is who socialists like Abdul El-Sayed choose to keep for company. Jennings then runs a clip of a 2024 livestream from Piker, which initially featured the streamer making fun of a conservative Black commentator. However, Jenning
 
-### DWTS Lift Drama: Judge Carrie Ann Inaba Says She Hugged It Out With Jenna Johnson After Controversial Penalty
-Tue, 27 Oct 2026 18:34:31 +0000 — https://www.thewrap.com/creative-content/tv-shows/carrie-ann-inaba-dwts-jenna-johnson-calls-for-new-lift-rule/
+### Jon Stewart Makes Midterm Plea to Vote Against Trump: ‘Send a Message to This Reckless S—tshow of an Administration’
+Wed, 28 Oct 2026 00:04:03 +0000 — https://www.thewrap.com/media-platforms/journalism/jon-stewart-plea-to-voters-against-trump-midterms/
 
-“Dancing With the Stars” judge Carrie Ann Inaba is addressing the lift drama, calling for new dance rules in the comments section of an Instagram post. Inaba called out pro dancer Jenna Johnson for including a lift in her routine with Harry Shum Jr. that violated the show’s ballroom standards. During the show’s “Super Bowl Night” episode, Inaba read the lift rule aloud on national television. The judge’s critique went viral as Johnson’s husband, Val Chmerkovskiy, also a pro dancer on the show, escalated the controversy online. In defense of his wife, the fellow “Dancing With the Stars” pro wrote that viewers “almost saw Fresh Prince enter the ballroom,” a remark widely interpreted as a reference to Will Smith’s 2022 Oscars slap. The comment led to his one-week suspension from the show . Speaking out for the first time since Chmerkovskiy’s suspension, Inaba sought to clarify the media scrutiny surrounding the controversy. I have not spoke about what happened because of professional courtesy for those who are still competing, and we actually have standards and practices that keep us separated, she wrote. I think it s important for everyone to know that Jenna and I hugged it out after the Super Bowl show. Jenna was an absolute professional about it, and two women worked through the moment. It came to my attention later that Jenna was deeply hurt. So I also offered to speak with her at anytime. I have also offered to discuss the lift rule and how I enforce it, she added. View thi
+Election Day draws near, and Jon Stewart has one final plea for his Weekly Show podcast listeners: Please, please for the love of God, get out there and vote. But that plea came with some conditions on Tuesday. I d like to frame it as a, However you ll vote, but I don t mean that, he said. I mean it as, please send a message to this reckless s tshow of an administration that enough is enough, that we have had it, that it is time for someone to step up and provide, I believe the framers referred to them as checks and balances, on this utterly imperious administration. Stewart gave this urgent message in a clip posted to social media on Tuesday, a day before the Wednesday episode of his podcast drops — and exactly one week before Election Day. The host of The Daily Show opened the clip by singing a snippet of the revolutionary song Do You Hear the People Sing from the hit musical Les Misérables. He soon pivoted away from election talk to the equally urgent conversation of AI. That is the spiel for today. We are not talking about the election today. We will be talking about other doomsday scenarios — financial ones, in particular, about AI, Stewart said. I know we ve talked a little bit on the program about catastrophic outcomes of AI in terms of bad actors or in terms of the AI itself turning on us. This deals more with the real-world implications of AI economically and financially. You can watch the full preview clip below: “For the love of god, get out there and vote.” Jon ha
 
 ## Collider
 
-### The 7 Greatest Samurai TV Shows, Ranked
-Tue, 27 Oct 2026 20:48:12 GMT — https://collider.com/best-samurai-tv-shows-ranked/
+### 17 Years Later, This Sherlock Holmes Quote Still Defines the Character
+Wed, 28 Oct 2026 10:38:12 GMT — https://collider.com/guy-ritchie-sherlock-holmes-best-quote-movie/
 
-I get ridiculously excited when two swordsmen spend five minutes talking and neither draws his weapon. One of them says something polite. The other understands it as an insult. Somebody bows a little too slowly. And I'm sitting there practically begging everyone to remain civilized because I know exactly what happens when the talking stops. That kind of tension is addictive .
+Guy Ritchie's Sherlock Holmes sees Robert Downey Jr . deduce crimes and ridicule his opponents with articulate and complicated speeches; as a hero with vastly superior intellect to his opponents, he often ties people up in theories that leave them infuriated. However, the quote that defines the character contains just two words. In one very brief exchange with co-star Rachel McAdams, we see how the great solver of mysteries briefly shows his vulnerability, and the emotions that lurk beneath his bluster.
 
-### Stephen King’s Weirdest Horror Remake Started With This 13-Episode Cult Classic
-Tue, 27 Oct 2026 20:46:11 GMT — https://collider.com/stephen-king-horror-remake-lars-von-trier-cult-classic-kingdom-hospital-series/
+### Pirates of the Caribbean Director’s Western Masterpiece Officially Finds a New Streamer
+Wed, 28 Oct 2026 10:30:12 GMT — https://collider.com/johnny-depp-rango-streaming-peacock-november-2026/
 
-It's a wonder that more horrors aren't set in hospitals, a place where devastating tragedy can occur in one room and a jaw-dropping miracle in another at the same time. If anyone was going to harness the surreal potential of a hospital setting, it's no surprise that it was Lars von Trier , a filmmaker who frequently pushes the boundaries of horror. In 1994, he began the absurdist horror project, The Kingdom , which would get its second season in 1997 and its third in 2022. There is nothing quite like this 13-episode series, one that is a masterclass in creepiness and is essential viewing for all horror fanatics. It even led to Stephen King 's failed series , Kingdom Hospital . The author was inspired after watching von Trier's series , which he found "both funny and scary."
+With two upcoming movies vying for the title of Johnny Depp 's comeback vehicle — the holiday release Ebenezer will precede the action thriller Day Drinker — younger audiences may be interested in revisiting his past work. While the Pirates of the Caribbean franchise remains as popular as ever — Depp is being courted to return — one of the star's most overlooked movies is coming to Peacock. To describe the film as underrated feels odd, because it was a major critical and commercial hit. In fact, it even won an Oscar. The movie in question remains a key entry in Depp's long list of bizarre feature films, and although it was mainly aimed at children, it drew inspiration from several classics from the '60s and '70s.
 
-### 'Resident Evil' Officially Returns to Netflix This Weekend
-Tue, 27 Oct 2026 20:42:30 GMT — https://collider.com/resident-evil-apocalypse-streaming-netflix-november-2026/
+### Clint Eastwood's Classic Thriller Is Still His Greatest Movie 22 Years Later
+Wed, 28 Oct 2026 10:06:12 GMT — https://collider.com/clint-eastwood-greatest-movie-thriller-million-dollar-baby/
 
-When Paul W. S. Anderson brought Capcom's acclaimed survival-horror games to the big screen in 2002, his adaptation struck a chord with audiences and became a box office success. Though critics took issue with its cheesy moments and formulaic approach to the source material, the fans loved it as the movie helped launch a big-screen franchise that would span multiple installments and become a multimillion-dollar success. Now, more than two decades later, Resident Evil is back in theaters with a new reboot from writer-director Zach Cregger , taking the beloved horror franchise to even greater heights.
+Million Dollar Baby was certainly not the first movie depicting a jaded, veteran boxer teaching an unlikely, underdog protagonist the ropes of fighting. It was, however, one of the more memorable renditions of the classic trope. The iconic 2004 sports drama stars Clint Eastwood , Morgan Freeman , and Hilary Swank has effortlessly withstood the test of time, remaining a cultural touchstone nearly 30 years after its initial theatrical release. Moreover, despite the later successes of Eastwood's career, including films like Unforgiven , Mystic River , and other lesser-known titles, none have struck such a resounding chord as Million Dollar Baby .
 
-### Prime Video's 'Tomb Raider' Reboot Officially Scores Endorsement From Beloved Franchise Star
-Tue, 27 Oct 2026 20:35:30 GMT — https://collider.com/prime-video-tomb-raider-reboot-jonell-elliott-endorsement/
+### The 10 Most Suspenseful Movies in Film History
+Wed, 28 Oct 2026 10:05:12 GMT — https://collider.com/most-suspenseful-movies-film-history/
 
-The future of several major franchises rests in the hands of Prime Video. The most high-profile is, without doubt, the James Bond franchise, as Prime Video gears up to usher in a new era of 007 following two decades of Daniel Craig 's suave fan favorite. After acquiring the iconic spy series for an eye-watering $1 billion , work began on finding the new Bond, with the shortlist now seemingly down to just a handful of names. Whoever the next 007 is, they are in the capable hands of Peaky Blinders creator Steven Knight and modern directorial genius Denis Villeneuve , who will join forces on the next movie.
+A good movie makes you feel something. Whether it’s happiness or sadness, fear or euphoria, being able to emote means that the project has done its job. Some films have a mission with a specific emotion in mind, but others thrive on suspense, where the emotions are anticipatory. Whether through fear or a thrill, a suspenseful movie gets the blood rushing and the adrenaline pumping.
 
-### ‘A Quiet Place’ Meets ‘Jurassic Park’ in Adam Driver’s Sci-Fi Free Streaming Hit
-Tue, 27 Oct 2026 20:29:09 GMT — https://collider.com/adam-driver-65-free-streaming-success-tubi-october-2026/
+### ‘Call of Duty’ Director’s Cult Favorite War Thriller Officially Hits Streaming
+Wed, 28 Oct 2026 10:00:12 GMT — https://collider.com/lone-survivor-streaming-peacock-2026/
 
-As the iconic blockbuster Jurassic Park has taught us, audiences love a big-screen dinosaur story. Earlier this year, a new dino-flick stomped onto the box office in the form of The End of Oak Street , a Spielberg-esque sci-fi thriller that follows a quiet suburban street as it is inexplicably transported into prehistoric danger. The Odyssey scene-stealer Anne Hathaway starred in The End of Oak Street alongside Star Wars legend Ewan McGregor and young stars Maisy Stella and Christian Convery .
+With the second season of Prime Video's The Terminal List now streaming and director Peter Berg back with a new war movie , there couldn't be a better time to revisit Berg's 2013 military film with The Terminal List star Taylor Kitsch . The movie will soon be added to the peacock library, giving a new generation of fans the opportunity to check it out. While successful, the movie in question was a bigger hit in the United States than it was abroad. However, with military-based titles such as The Terminal List and Fury having done so well at home, perhaps there's a huge audience for Berg's 2013 film out there as well.
 
-### The BBC's Perfect 'The Rookie' Replacement Officially Sets U.S. Return
-Tue, 27 Oct 2026 20:22:35 GMT — https://collider.com/bbc-blue-lights-season-4-us-release-date-britbox-november-2026/
+### 8 Most Amazing Sci-Fi Movies Ever Made, Ranked
+Wed, 28 Oct 2026 09:39:12 GMT — https://collider.com/most-amazing-sci-fi-movies-ranked/
 
-After eight seasons and 144 episodes — and counting — The Rookie remains one of the top-rated cop shows in the U.S. and is now ABC's third-longest-running series currently on air. In April 2026, it was renewed for a ninth season, set to premiere next January and pick up right where the Season 8 finale left off, with Tim (Eric Winter) and Lucy's (Melissa O'Neil) abduction . With a few months to go before the show returns, now is the perfect time to catch this similarly intriguing cop show, featuring high-stakes scenarios that are a little more grounded.
+Science fiction has made me deeply suspicious of people who have an immediate answer to everything. Ask whether a machine can love, whether a memory makes you human, or whether civilization deserves to survive, and somebody will confidently settle the matter in thirty seconds. I want to drag that person into a theater, show them a particular movie, and ask the same question afterward. Then they have no cushion but to say it’s just a movie. Well, all right.
 
-### Netflix’s 'The Lincoln Lawyer' Will Officially Not Return in 2026
-Tue, 27 Oct 2026 20:15:46 GMT — https://collider.com/the-lincoln-lawyer-season-4/
+### Michael Bay’s ‘Black Hawk Down’ Replacement Officially Has a New Streaming Base
+Wed, 28 Oct 2026 09:30:12 GMT — https://collider.com/michael-bay-13-hours-streaming-starz-november-2026/
 
-Netflix has had plenty to celebrate in 2026, as the streamer has once again introduced a string of acclaimed new shows that have kept audiences hooked and reinforced its position as one of the best. But for fans of some of its biggest hits, the year has also brought an unavoidable sense of loss. Several established series are preparing to bow out, marking the end of an era for viewers who have followed their stories for years. The streamer has, however, honored these shows and their fans by giving creators the chance to conclude their stories on their own terms. Some shows in this camp are Emily in Paris , A Good Girl's Guide to Murder , The Witcher , The Night Agent , and The Lincoln Lawyer , and these familiar favorites are heading toward the finish line.
+Director Michael Bay has never taken this long between movies. His most recent film was the criminally underrated action-thriller Ambulance , which was released in 2022. Not only has Bay not directed another narrative feature since then, but his future plans remain unclear. There have been reports about him returning to the Transformers franchise , which he launched in 2007 and attempted to reboot in 2014. Ambulance wasn't the first time that Bay attempted to make a non-franchise action movie, nor was it the first time that such an experiment didn't pan out. Now, one of Bay's most underrated movies has been added to the Starz library for a new generation to discover, or for fans of Reacher and Jack Ryan to revisit.
 
-### Forget ‘Game of Thrones,’ Brandon Sanderson's Beloved Book Series Could Be The New Hit Fantasy Show
-Tue, 27 Oct 2026 20:14:12 GMT — https://collider.com/game-of-thrones-replacement-series-brandon-sanderson-stormlight-archive/
+### 8 Greatest Psychological Thrillers of the Past 10 Years, Ranked
+Wed, 28 Oct 2026 09:24:12 GMT — https://collider.com/best-psychological-thriller-movies-past-10-years-ranked/
 
-Game of Thrones often comes to mind when thinking about epic fantasy. With good reason too. George R. R. Martin 's book series, turned TV show by HBO, was a genre-defining hit. The political intrigue and expansive world building captivated audiences from the start. When considering other fantasy stories, Game of Thrones is often thrown in for comparison. With HBO's spin-off series House of the Dragon and A Knight of the Seven Kingdoms continuing the tales of Westeros, audiences have shown a clear desire for sprawling, fantasy tales. But Game of Thrones might have some competition.
+Psychological thrillers have a powerful way of peering into the human condition, delivering unmatched suspense through their mind-bending narratives. The past decade has been something of a golden age for the genre, with the releases of some of the most incredible psychological thriller films ever made, both in Hollywood and beyond. Combining fiction, fantasy, social horror, and sometimes the supernatural, each of these films has redefined the genre in its own way.
 
-### HBO’s ‘Mare of Easttown’ Replacement Will Have a “Completely Different” Cast for Season 2
-Tue, 27 Oct 2026 20:08:51 GMT — https://collider.com/hbo-task-season-2-filming-update-october-2026/
+### The 15 Best Animated Thriller Movies, Ranked
+Wed, 28 Oct 2026 09:24:12 GMT — https://collider.com/animated-thriller-movies-best-ranked/
 
-It's been a year since HBO renewed its best new crime thriller for a second season following such an outstanding debut. Originally a limited series, it premiered on September 7, 2025, to critical acclaim, and now holds a near-perfect 96% Certified Fresh score on Rotten Tomatoes . The hit thriller also received numerous accolades, including six Primetime Emmy Award nominations, and dominated HBO Max's charts throughout its Season 1 run .
+Animation is generally associated with kids' entertainment: all sunny plots and cute characters. However, the subgenre of animated thrillers is a rich one, jam-packed with classics. These films tend to be visually daring, bending reality and diving into surreal, complex worlds that would be challenging to realize in live-action. With this in mind, this list covers ten of the best animated thrillers, each notable for its unique approach to suspense.
 
-### The 8 Best Pikachu Replacement Pokémon
-Tue, 27 Oct 2026 20:05:12 GMT — https://collider.com/best-pikachu-replacement-pokemon/
+### Goodbye ‘The Odyssey,’ This Ridley Scott Epic Is One of the Biggest Streaming Hits in the World
+Wed, 28 Oct 2026 09:08:12 GMT — https://collider.com/ridley-scott-gladiator-2-biggest-movie-streaming/
 
-Even if you've never played any game from the Pokémon franchise, chances are you know who Pikachu is. This adorable electric mouse became known the world over thanks to his position as Ash Ketchum's main partner in the original anime, and was even the starter Pokémon in Pokémon Yellow . Nintendo and Game Freak have also done their part to promote Pikachu, such as items like the Light Ball to increase its power, and making the yellow mouse a fighter in the Super Smash Bros. franchise.
+One of the biggest hits of the year has been Christopher Nolan’s The Odyssey , a blockbuster that has created an appetite among viewers for more epic historical action. So it makes sense, then, that sitting at the top of the Netflix charts currently is Gladiator II , Ridley Scott’s 2024 sequel to his 2000 Oscar winner, Gladiator . With an all-star cast and action that’s been taken up to the next level, it’s easy to see why movie fans are being drawn back to the Colosseum.
 

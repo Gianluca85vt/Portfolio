@@ -1,6 +1,16 @@
-# Games — harvested 2026-10-27T20:58:10.770Z
+# Games — harvested 2026-10-28T10:49:01.657Z
 
 ## Eurogamer
+
+### Rockstar Games employees have locked in a union vote next month, and it'll take place over Grand Theft Auto 6's release window
+Wed, 28 Oct 2026 09:49:39 +0000 — https://www.eurogamer.net/rockstar-union-vote-november
+
+A date has been locked in for Rockstar Games employees to vote on whether to recognise their developer union. If successful, it will become the largest recognised union across the entirety of the UK video games industry. Read more
+
+### GTA 6 is a massive 210GB download on PlayStation 5
+Wed, 28 Oct 2026 09:14:37 +0000 — https://www.eurogamer.net/gta-6-ps5-download-size
+
+There wasn't really any chance Grand Theft Auto 6 wasn't going to be a big download. Thanks to some new information, though, we now have a hard number. Read more
 
 ### "This is a serious incident" - Kingdom Come: Deliverance developer Warhorse suffers cyberattack
 Tue, 27 Oct 2026 16:53:16 +0000 — https://www.eurogamer.net/warhorse-cyberattack-kingdom-come-deliverance
@@ -52,17 +62,22 @@ Tue, 27 Oct 2026 09:18:45 +0000 — https://www.eurogamer.net/assassins-creed-bl
 
 After a period of quiet and a few small updates , Ubisoft has unveiled a massive update coming today to Assassin's Creed Black Flag Resynced. This is the game's last major patch and it includes some long-requested features. Read more
 
-### Mass Effect fans ramp up efforts to save BioWare's RPG series with a Times Square billboard and plans for more ads outside The Game Awards
-Mon, 26 Oct 2026 20:07:29 +0000 — https://www.eurogamer.net/mass-effect-fans-save-rpg-times-square
-
-Fans continue to rally around the 'Save Mass Effect ' movement, this time with a billboard at Times Square and more initiatives planned throughout the rest of the year. Read more
-
-### Amid sweeping layoffs at Xbox and massive AI investments, Microsoft introduces a "Voluntary Exit Offer" to 60,000 workers
-Mon, 26 Oct 2026 18:44:22 +0000 — https://www.eurogamer.net/xbox-ai-microsoft-voluntary-exit-offer-60000
-
-Xbox isn't the only Microsoft division looking to massively reduce worker headcounts. In fact, Microsoft has just announced a "Voluntary Exit Offer" that will essentially pay staff to move in front of any potential layoffs and voluntarily leave their jobs. Read more
-
 ## GamesIndustry.biz
+
+### First Xbox COO Helen Chiang leaves company after three months in the role
+Wed, 28 Oct 2026 10:15:53 +0000 — https://www.gamesindustry.biz/first-xbox-coo-helen-chiang-leaves-company-after-three-months-in-the-role
+
+Xbox's first COO Helen Chiang has left the company after only three months in the role. Read more
+
+### Interior Night studio head Charu Desodt appointed chair of BAFTA Games Committee
+Wed, 28 Oct 2026 09:28:56 +0000 — https://www.gamesindustry.biz/interior-night-studio-head-charu-desodt-appointed-chair-of-bafta-games-committee
+
+Interior Night studio head Charu Desodt has been appointed chair of the BAFTA Games Committee. Read more
+
+### Gamescom Asia touts new records for international attendance and showfloor size
+Wed, 28 Oct 2026 08:16:13 +0000 — https://www.gamesindustry.biz/gamescom-asia-touts-new-records-for-international-attendance-and-showfloor-size
+
+No event has come back more strongly from its pandemic-enforced hiatus than Gamescom. The German event posted record attendance this year, driven in part by business attendance boosted by the demise of E3; its two-year-old South American spinoff Gamescom LatAm claimed an audience of 175,000, up 17% over the previous year. This week is Gamescom Asia x Thailand Game Show, which has also scaled rapidly from its launch in 2021: the 2026 edition will host visitors from 29 countries, contain 20 national pavilions and is aiming welcome more than last year&rsquo;s total of 206,000 attendees to its expanded show floor. Read more
 
 ### Warhorse Studios hit by cyberattack, company systems and data affected
 Tue, 27 Oct 2026 14:20:32 +0000 — https://www.gamesindustry.biz/warhorse-studios-hit-by-cyberattack-company-systems-and-data-affected
@@ -109,26 +124,26 @@ Mon, 26 Oct 2026 18:05:17 +0000 — https://www.gamesindustry.biz/223000-people-
 
 Over 223,000 people have signed a petition asking EA to "save Mass Effect." Read more
 
-### Paris Games Biz showcased a guarded optimism in the face of turmoil, both locally and in the industry at large | Opinion
-Mon, 26 Oct 2026 16:33:59 +0000 — https://www.gamesindustry.biz/paris-games-biz-showcased-a-guarded-optimism-in-the-face-of-turmoil-locally-and-in-the-industry-at-large-opinion
-
-The games industry has spent several years persisting in the face of commercial and financial turmoil; to that it has now added civil unrest as a small group of publishers, investors, and developers gathered for the third Paris Game Biz in a city still undergoing widespread public protests . The short walk from hotel to the venue in the 2nd Arondissement was studded with shattered shop windows, soot patches and the melted remains of waste bins and shared bicycles; the official party took place with dozens of police vans parked outside, packed with officers there to enforce a curfew that, fortunately, encircled an area just beyond. Read more
-
-### Side expands presence in China, opens new studio and acquires art outsourcing provider Roboto Entertainment
-Mon, 26 Oct 2026 14:33:18 +0000 — https://www.gamesindustry.biz/side-expands-presence-in-china-opens-new-studio-and-acquires-art-outsourcing-provider-roboto-entertainment
-
-Services provider Side has expanded its presence in China by opening a new studio and acquiring art outsourcing provider Roboto Entertainment. Read more
-
-### "It was a pretty harrowing three months" – Undead Labs head Philip Holt on what happened after Xbox cut the studio loose
-Mon, 26 Oct 2026 13:30:00 +0000 — https://www.gamesindustry.biz/it-was-a-pretty-harrowing-three-months-undead-labs-head-philip-holt-on-what-happened-after-xbox-cut-the-studio-loose
-
-Back in July, Xbox announced plans to divest five studios . Among them was State of Decay maker Undead Labs, which Microsoft had acquired back in 2018. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Former Fall Guys Devs Are Bringing Their Co-Op Platformer Frog Sqwad to PS5 Today
+Wed, 28 Oct 2026 10:00:00 GMT — https://www.pushsquare.com/news/2026/10/former-fall-guys-devs-are-bringing-their-co-op-platformer-frog-sqwad-to-ps5-today
+
+Hoppers. Developer Panic Stations has just launched its debut game, Frog Sqwad , on PS5, a few months following its initial release on PC. Available now, Frog Sqwad is an online co-op multiplayer game in which a group of up to eight players dive into the sewers, gather what they can, and hope to fulfil a quota from the Swamp King. Read the full article on pushsquare.com
+
+### Guide: GTA 6 Release Times and Preload: When Can You Start Playing?
+Wed, 28 Oct 2026 00:00:00 GMT — https://www.pushsquare.com/guides/gta-6-release-times-and-preload-when-can-you-start-playing
+
+All the GTA 6 release info you need. Probably the most anticipated game of all time, GTA 6 is now just a few weeks away. As the launch draws closer, we're covering everything you need to know about its PS5 launch, including preload options and release times. In this GTA 6 guide , we cover the GTA 6 release times and preload . <toc expand="none"> Read the full article on pushsquare.com
+
+### Review: Silver Pines (PS5) - Lynchian Metroidvania Is a Cut Above
+Tue, 27 Oct 2026 21:00:00 GMT — https://www.pushsquare.com/reviews/ps5/silver-pines
+
+It's Friday once again. Silver Pines may be one of the most stylish indies you’ll play this year. Inspired by the likes of David Lynch’s Twin Peaks and the Silent Hill series, this metroidvania is dripping with atmosphere, filled with tantalising secrets, and offers a solid challenge for survival horror fans. Read the full article on pushsquare.com
 
 ### Capcom s Classic Console Games Could Be Coming to PS5
 Tue, 27 Oct 2026 20:00:00 GMT — https://www.pushsquare.com/news/2026/10/capcoms-classic-console-games-could-be-coming-to-ps5
@@ -174,21 +189,6 @@ Get the patch notes here for 4.5GB update. Ubisoft has today deployed its final 
 Tue, 27 Oct 2026 13:30:00 GMT — https://www.pushsquare.com/news/2026/10/sim-racer-project-motor-racing-is-free-to-play-all-this-week-on-ps5-no-ps-plus-required
 
 Worth a test drive. Publisher Giants Software has made its sim racing game, Project Motor Racing , free to play on PS5, giving you the chance to try the full game for a limited time. The title typically costs $49.99/£44.99, but all this week — 26th October to 1st November — the full game has been made available as a free trial. Read the full article on pushsquare.com
-
-### Physical Copies Barely Register for Capcom, Plans for 95% Digital Sales
-Tue, 27 Oct 2026 13:00:00 GMT — https://www.pushsquare.com/news/2026/10/physical-copies-barely-register-for-capcom-plans-for-95percent-digital-sales
-
-Just 8% of sales come from boxed units currently. As part of its latest financial report , Capcom has shared just 7.6% of its video game sales currently come from physical copies — and that figure is only expected to drop in the future. Its Q2 results for fiscal year 2026 revealed that 92.4% of sales were digital copies. The percentage is the total of PC and console digital sales, which break down like this: Read the full article on pushsquare.com
-
-### Capcom s Best Games Continue to Sell, 2026 Releases All Perform Well
-Tue, 27 Oct 2026 10:00:00 GMT — https://www.pushsquare.com/news/2026/10/capcoms-best-games-continue-to-sell-2026-releases-all-perform-well
-
-Sales updates for RE Requiem, Pragmata, and Onimusha. Capcom has provided a sales update for all of its best-selling games, as part of its second-quarter results for fiscal year 2026. And it's business as usual for the publisher: its legacy titles continue to sell strongly, and Capcom's new releases are performing well too. Looking at its three biggest hitters for 2026, Resident Evil Requiem has now sold 8.51 million copies, Pragmata is now at 2.73 million units, and Onimusha: Way of the Sword has managed 1.78 million sales after almost two months on the market. Read the full article on pushsquare.com
-
-### Final 3 PS Plus Extra Games for October 2026 Available to Download Now
-Tue, 27 Oct 2026 09:00:00 GMT — https://www.pushsquare.com/news/2026/10/final-3-ps-plus-extra-games-for-october-2026-available-to-download-now
-
-New additions for UK, USA, and Japan out now. For any PS Plus Extra subscribers in the UK, USA, and Japan, today marks the final drop of PS5 titles for October 2026. Everyone else in the world received access to the games last week, but Sony's experiment means select members have had to wait until today for the complete lineup. Read the full article on pushsquare.com
 
 ## Game Developer
 
@@ -239,6 +239,11 @@ The voice behind Bugs Bunny, Daffy Duck, and a host of other well-loved characte
 
 ## VGC
 
+### Dead by Daylight studio says removed characters like Chucky, Pinhead and Michael Myers have an open invitation to return
+Wed, 28 Oct 2026 10:06:01 +0000 — https://www.videogameschronicle.com/news/dead-by-daylight-studio-says-removed-characters-like-chucky-pinhead-and-michael-myers-have-an-open-invitation-to-return/
+
+Expired licences means some characters are removed "despite our best efforts" Source
+
 ### Pocketpair would love to have conversations to bring Palworld to Switch 2, CEO says
 Tue, 27 Oct 2026 18:07:11 +0000 — https://www.videogameschronicle.com/news/pocketpair-would-love-to-have-conversations-to-bring-palworld-to-switch-2-ceo-says/
 
@@ -284,64 +289,79 @@ Tue, 27 Oct 2026 10:59:33 +0000 — https://www.videogameschronicle.com/news/blo
 
 Two actors are reportedly attached to the project, but the role of Harry hasn' Source
 
-### Microsoft has offered a quarter of its entire workforce redundancy
-Tue, 27 Oct 2026 10:17:39 +0000 — https://www.videogameschronicle.com/news/microsoft-has-offered-a-quarter-of-its-entire-workforce-redundancy/
-
-Up to 60,000 workers could leave in Microsoft's latest attempt to slimline its business… Source
-
 ## Polygon
+
+### The Rings of Power Season 3 Will Be a Soft Reboot, Showrunner Says
+Wed, 28 Oct 2026 10:25:25 GMT — https://www.polygon.com/rings-of-power-season-3-soft-reboot-new-direction/
+
+If you have not caught up yet with the 16 episodes of the first two seasons of Prime Video's The Lord of the Rings: The Rings of Power , don't sweat it. According to co-showrunner Patrick McKay, you may not need to, as season 3 of the show will be the start of "a whole new story."
+
+### 18 Years Later, The Definitive 2000s Gothic Cult Classic is Still a Divisive Guilty Pleasure
+Wed, 28 Oct 2026 10:00:17 GMT — https://www.polygon.com/vampire-knight-gothic-romance-guilty-pleasure/
+
+The anime equivalent of Twilight also centers on a messy love triangle in a dark supernatural world, but it takes its story to even more controversial places. Based on Matsuri Hino’s classic shojo manga, the 2008 Studio Deen anime Vampire Knight is a unique relic of the late 2000s.
+
+### Legendary Sci-Fi Director's 129-Minute War-Action Masterpiece Is Being Cut From Netflix
+Wed, 28 Oct 2026 08:33:18 GMT — https://www.polygon.com/starship-troopers-leaving-netflix-november-2026/
+
+When legendary director Paul Verhoeven's space action epic arrived in theaters 29 years ago, a lot of people didn’t get it . While the original 1959 novel by Robert A. Heinlein had a militaristic right-wing viewpoint, Verhoeven and screenwriter Edward Neumeier sought to lampoon those themes when they adapted it for the screen in 1997. Unfortunately, a number of critics mistook the movie’s satire for sincerity. The Washington Post , for example, called the movie “Nazi to the core.”
+
+### 5 Funniest 'Peanuts' Comics About Snoopy's Forgotten Siblings
+Wed, 28 Oct 2026 08:00:17 GMT — https://www.polygon.com/snoopy-siblings-peanuts/
+
+Charles Schulz's Snoopy is one of the most famous fictional dogs in the world, if not the most famous. His only real competition might be Goofy, who's apparently supposed to be an anthropomorphic dog (which, as ever, raises some real uncomfortable questions about Pluto), or possibly Scooby-Doo.
+
+### 29 Years Ago, ‘Buffy’s Wisest Character Got a Shocking Backstory that Redefined the Entire Series
+Wed, 28 Oct 2026 04:00:18 GMT — https://www.polygon.com/buffy-halloween-season-2-rupert-giles-ripper/
+
+In Buffy the Vampire Slayer , Halloween is the one night a year when monsters think it’s cliché to go out and torment the Hellmouth. As Buffy elegantly puts it: Halloween is “like, dead for the undead.” But 29 years ago, one evildoer decided to wreak havoc in Sunnydale on the one night no one expected. The result was an episode that explored the characters' deepest insecurities and gave the Scooby Gang an unexpected hero: Rupert Giles (Anthony Head), the fussy librarian who until then had served as Buffy’s moral compass and cheerleader. While he ended up saving the day, the episode added a wrinkle to his character, introducing his mysterious past as "Ripper."
+
+### The MCU's Oldest Villain Just Made a Surprise Return in 'VisionQuest'
+Wed, 28 Oct 2026 02:46:17 GMT — https://www.polygon.com/visionquest-mcus-oldest-iron-man-villain-raza-hamidmi-al-wazar/
+
+In the 2008 movie Iron Man , the biggest, baddest villain was Obadiah Stane, played by Jeff Bridges. Originally business partners with Tony Stark (Robert Downey Jr.), Obadiah betrayed Tony by hatching a plot to kill him while he was in Afghanistan. When Tony survived and became Iron Man, Obadiah responded by taking on his own iron identity: The Iron Monger.
+
+### 3 Upcoming Sci-Fi RPGs Better Than Waiting for a New Mass Effect
+Wed, 28 Oct 2026 01:00:17 GMT — https://www.polygon.com/upcoming-games-like-mass-effect/
+
+When EA closed BioWare and canceled the next Mass Effect game, it took away a future many of us had been looking forward to for a long, long time. Think: more squadmates to fall for, more ships that you slowly realize feel like home, more decisions that haunt you years later.
+
+### 5 Adult Fairy Tale Books That Are Magical From Start to Finish
+Wed, 28 Oct 2026 00:00:17 GMT — https://www.polygon.com/best-fantasy-books-like-adult-fairy-tales/
+
+Fairy tales are often the first stories kids learn from picture books, and the works of Hanna Diyab, the Brothers Grimm, and Hans Christian Andersen can help inspire a lifelong passion for reading. But just because you grow up, doesn’t mean you have to abandon the genre. Modern fantasy books often strive for epic scale and complex political scheming, but it can be just as satisfying to explore a wondrous world where brave heroes fall in love and find the courage to do what’s right. If you want to bring some more magic to your reading list, check out these five fairy tale novels for adults.
+
+### The Lord of the Rings: Return of the King Is Officially Getting a New Version Next Year
+Tue, 27 Oct 2026 22:00:17 GMT — https://www.polygon.com/return-of-the-king-trick-taking-game-interview/
+
+There have been an enormous number of tabletop adaptations of J.R.R. Tolkien’s The Lord of the Rings , but few capture the story so well and in such an accessible fashion as Bryan Bornmueller’s The Lord of the Rings Trick-Taking Game . A version based on The Fellowship of the Ring was published in 2024, and it sees players work together with limited information to fulfill missions based on the book’s biggest moments. Bornmueller continued the series by releasing the equally excellent The Two Towers Trick-Taking Game in January, and the trilogy will conclude with The Return of the King in February 2027.
 
 ### Magic Is Reprinting a $20 Commander Powerhouse as a Star Trek Fan Favorite
 Tue, 27 Oct 2026 20:32:08 GMT — https://www.polygon.com/magic-gathering-mtg-star-trek-commander-reprint/
 
 Magic: The Gathering ’s Star Trek crossover set is only weeks away, and on Tuesday, Wizards of the Coast revealed five new Star Trek Secret Lair Drops featuring reprints inspired by everything from The Wrath of Khan to run-of-the-mill Klingon warriors. A sixth Drop will be revealed later.
 
-### McDonald's New 'Pokémon' Happy Meal Surprise Leaks Ahead Of Launch
-Tue, 27 Oct 2026 20:17:18 GMT — https://www.polygon.com/mcdonalds-pokemon-happy-meal-toy-card-leak-start-date-tcg-promo/
-
-Fast food chain McDonald's is expected to announce a new partnership with Pokémon in the coming weeks, and the worldwide promo will mark the return of a Happy Meal essential that's been missing in action for (shockingly!) eight years.
-
-### 30 Years Later, Magic’s Most Ridiculous 1-Mana Creature Is Still a Competitive Powerhouse
-Tue, 27 Oct 2026 20:00:19 GMT — https://www.polygon.com/magic-phyrexian-dreadnought-stiflenought-premodern/
-
-Magic: The Gathering ’s Mirage turned 30 in October 2026, and perhaps no card from the landmark expansion has enjoyed a stranger afterlife than Phyrexian Dreadnought. The one-mana 12/12 artifact creature has gone from an oddball relic of early Magic design to one of the defining threats of Premodern, the fan-created eternal format built around cards from the game’s first decade.
-
-### How to unlock Lid's second limit burst in Final Fantasy Resonance
-Tue, 27 Oct 2026 19:34:43 GMT — https://www.polygon.com/final-fantasy-resonance-lid-second-limit-burst-how-to-unlock/
-
-Getting Lid's second limit burst in Final Fantasy Resonance works a bit differently than the process of acquiring other characters' bursts. With most of the party, you just level them up, and they unlock once you hit the right milestone. You can guess when that is just from a quick scan of their skill list, as a new skill usually accompanies their new limit burst at the same level. But Lid's skill list is shorter, and since the game doesn't tell you how to unlock her second burst, you might wonder whether you've missed something.
-
-### Elden Ring Movie Shrouded in Secrecy as New Streaming Deal Confirmed
-Tue, 27 Oct 2026 19:05:11 GMT — https://www.polygon.com/elden-ring-movie-script-secrecy-a24-amazon-streaming/
-
-A24's Elden Ring movie is being shrouded in secrecy in ways typically reserved for a new Marvel Studios project. While we're still more than a year away from seeing director Alex Garland's live-action adaptation of Elden Ring , there have been some important updates on the film, which wrapped a few months ago . But it sounds like distributor A24 is keeping many details about the film tightly under wraps as the Elden Ring movie is sent to market to strike major deals.
-
-### Matthew Lillard Officially Teases Mystery Superman Man of Tomorrow Role
-Tue, 27 Oct 2026 18:59:39 GMT — https://www.polygon.com/superman-man-of-tomorrow-dc-matthew-lillard-mystery-role/
-
-Of all the new actors joining the cinematic DC Universe in next year's Man of Tomorrow , fans seem most invested in finding out which character Matthew Lillard will portray. Lillard ( Carrie , Scream , Polygon's Shelf Quest) is set to appear in James Gunn's Superman sequel in an as-yet undisclosed role. There's already been one major fan theory that Gunn has shot down .
-
-### New Dimension 20 Season Officially Announced
-Tue, 27 Oct 2026 18:42:18 GMT — https://www.polygon.com/dimension-20-starstruck-odyssey-season-2-announced/
-
-The Intrepid Heroes can't be stopped. Dimension 20 's Toylight campaign wrapped up last week, but fans won't have to wait too long for their favorite actual play series to return. On Tuesday, Dropout revealed the next season of Dimension 20 will be A Starstruck Odyssey season 2 and it will start next year.
-
-### Cyberpunk 2 Listing Hints at Multiplayer Quests in CD Projekt Red Sequel
-Tue, 27 Oct 2026 18:23:22 GMT — https://www.polygon.com/cyberpunk-2-multiplayer-quests-leak-cd-projekt-red/
-
-A good sequel builds on what came before while retaining what worked the first time around. So with Cyberpunk 2 , the upcoming sequel to Cyberpunk 2077 , CD Projekt Red will likely want to retain the open-world William Gibson-esque fun of its 2020 RPG while giving players something new.
-
-### GTA 6 Download Install Size Revealed on PS5
-Tue, 27 Oct 2026 18:11:55 GMT — https://www.polygon.com/gta-6-storage-size-install-ps5-xbox-series-x/
-
-Grand Theft Auto 6 promises to be the biggest Grand Theft Auto game yet, with an expansive and modern-day take on Rockstar Games' version of Miami: Vice City. The city and surrounding regions will be full of NPCs, cars and other vehicles to steal, and locations of varying seediness to visit. Expect everything to be bigger, more photorealistic, and more detailed than in previous GTA games. So expect GTA 6 to be big — really big — and clear out some storage space in anticipation of the game's November digital-only launch.
-
-### 8 MW4 DMZ beginner's tips to help you conquer Hajin
-Tue, 27 Oct 2026 17:55:36 GMT — https://www.polygon.com/mw4-modern-warfare-4-dmz-tips-best/
-
-If you want to stand the best chance of getting out alive, you need our DMZ tips for Call of Duty: Modern Warfare 4 . The series finally has a proper extraction mode and while it's not quite what was advertised ahead of launch, there's a lot of fun to be had by heading into Hajin, mowing down dozens of PvE enemies, and extracting with the best loot you can find.
-
 ## PC Gamer
+
+### Here's the Phantom Blade Zero release time for your region
+Wed, 28 Oct 2026 02:00:00 +0000 — https://www.pcgamer.com/games/action/phantom-blade-zero-release-date-launch-times/
+
+Phantom Blade Zero 's release is almost here, and the reviews are looking pretty positive—I've been playing it the last couple of weeks and it's definitely the best action game of the year, if not the past few years. The release date for Phantom Blade Zero is October 28 or 29 depending on where you call home, but the exact time will vary. However, it is a simultaneous release around the globe: West Coast US : 7 pm PDT (October 28) East Coast US : 10 pm EDT (October 28) UK : 2 am GMT (October 29) Europe : 3 am CEST (October 29) Australia : 1 pm AEST (October 29) New Zealand : 3 pm NZDT (October 29) If you're unsure whether you can run it, you can see the updated system requirements on the Steam page . The preload is also currently live, though it requires a pretty hefty storage footprint to install. The game itself is 135GB, though, so you'll probably want a headstart downloading it, unless your internet is more capable than mine. 2026 games : All the upcoming games Best PC games : Our all-time favorites Free PC games : Freebie fest Best FPS games : Finest gunplay Best RPGs : Grand adventures Best co-op games : Better together ]]>
+
+### Rockstar will hold union vote right on top of Grand Theft Auto 6 release
+Tue, 27 Oct 2026 22:23:23 +0000 — https://www.pcgamer.com/games/grand-theft-auto/rockstar-will-hold-union-vote-right-on-top-of-grand-theft-auto-6-release/
+
+Rockstar employees will hold a vote on union recognition over a two-week span in November that will perfectly bracket the studio's launch of the console version of Grand Theft Auto 6 . If the vote carries in favor of the union, the IWGB Rockstar Game Workers Union will become the biggest game industry union in the UK, giving employees a voice on matters including pay and bonuses, overtime, redundancies, flexible working arrangements, and generative AI policies. The terms of the recognition deal have been under negotiation between the union and Rockstar management since July, but unionization efforts have been underway for much longer. The process came under intense scrutiny in October 2025 when the studio fired 31 employees in what the IWGB claimed was "the most brazen act of union busting the games industry has ever seen." Rockstar alleged that the fired employees were leaking GTA 6 information in a public Discord; the matter is now before an employment tribunal in Scotland. "This November, we have the chance to make gaming history not once but twice. As all our hard work, skill and creativity are experienced by GTA VI players for the first time, our voices will now be heard for the first time too," Rockstar Game Workers Union committee member Shanti Easton-Steel said. "For me, this vote comes down to ensuring employees at Rockstar get honesty and openness surrounding the decisions that affect them. When management choices are kept hidden, we can't properly address issues li
+
+### Messages in certain large public Discord servers will be searchable on the web after December
+Tue, 27 Oct 2026 21:53:41 +0000 — https://www.pcgamer.com/software/platforms/messages-in-certain-large-public-discord-servers-will-be-searchable-on-the-web-after-december/
+
+What once would've been a forum or wiki is often now a Discord server, and that's created a problem : valuable information is hidden away deep in the chat logs of big public Discord channels, rather than in easy-to-search forum pages on the web. Discord now aims to solve that problem by making discussions in some of its biggest public servers searchable on the web. The change will only apply to "Discoverable Servers," which refers to certain large public Discord servers with 1,000 or more users. The admins of those specially-designated servers will be able to opt out of search engine discoverability, and individual users can also opt out of allowing their messages in those servers to be searchable on the web. The change does not affect any invite-only servers or DMs. "Prior to Discord's launch, message boards were common, ranging from community-driven forums to official ones run by game studios," reads a blog post from Discord. "These message boards excelled at hosting long-form, structured conversations about helping people, theory crafting, and more. While they still exist today, many have moved into Discord servers. This has led to valuable information being locked in Discord conversations, inaccessible to the wider internet. We want to fix this." A few changes are explained in the post, but the big one is that, starting in mid-December, answers to questions posed in designated Discoverable Server channels will appear in web searches. "Usernames and avatars will not be sho
+
+### Mass Effect composer Sam Hulick is working on a 're-scored' version of the leaked Mass Effect 5 trailer for N7 Day
+Tue, 27 Oct 2026 21:12:29 +0000 — https://www.pcgamer.com/games/mass-effect/mass-effect-composer-sam-hulick-is-working-on-a-re-scored-version-of-the-leaked-mass-effect-5-trailer-for-n7-day/
+
+More unofficial but undoubtedly very cool Mass Effect music is on the way: The day after Austin Wintory shared 20 minutes of music he wrote as part of a "serious conversation" with BioWare and Electronic Arts about scoring Mass Effect 5, composer Sam Hulick says he plans to release a "re-scored" version of the leaked Mass Effect: Universe trailer with his own music, which he hopes to have ready in time for N7 Day. Hulick, for the record, knows Mass Effect well: He composed music for all three games in the Mass Effect trilogy, including this one, co-written with Clint Mansell, which you may be familiar with. I'm not crying, you're crying "Absolutely heartbroken over the end of an era," Hulick wrote on Bluesky when EA closed BioWare. "I hope all the talented and wonderful folks at BioWare land on their feet and keep working on incredible games. I loved every minute of working with you on the Mass Effect trilogy." Hulick also expressed support for the Save Mass Effect petition, although he went further to state that the real issue isn't the game but all the people who were put out of work: "Even if EA licensed the IP, that doesn't solve anything for them. Someone with a lotta cash would have to license it AND hire the team." One thing about #SaveMassEffect: What really sucks & cannot be undone is all the folks at BioWare who lost their jobs. Even if EA licensed the IP, that doesn't solve anything for them. 😕 Someone with a lotta cash would have to license it AND hire the team. 
 
 ### Former Halo boss is now in charge of Wizards of the Coast and Hasbro Digital Games
 Tue, 27 Oct 2026 19:48:09 +0000 — https://www.pcgamer.com/gaming-industry/former-halo-boss-is-now-in-charge-of-wizards-of-the-coast-and-hasbro-digital-games/
@@ -383,27 +403,12 @@ Tue, 27 Oct 2026 15:15:52 +0000 — https://www.pcgamer.com/gaming-industry/game
 
 AI's a touchy subject in the development industry, but in other areas it's a lot less controversial—take Japan, for instance, which is embracing the technology a lot more than audiences in the West are. That's not to say there isn't any push back at all , mind. Still, an example of how there's more of a positive spin on it overseas comes courtesy of a Famitsu interview (translated here by Automaton ) where seasoned JRPG devs from Square Enix seem broadly positive on the tech—and are repeating some oft-heard talking points that I, at least, am personally very bored of, even if I wouldn't dismiss them out of hand. Hiromichi Tanaka, who worked on many Final Fantasy games during his tenure (which ended in 2012), says that the creations of the future "will definitely come down to how well people can master the use of AI." Yoshinori Kitase (also a veteran, and current producer on Final Fantasy 7: Revelation) concurs, saying: "major game companies will need to rethink their development methods to avoid being swept away by this wave." Kitase points out that we've already had an increased wave of indie games from the popularisation of accessible game engines, and "when you add support from new tools and technologies on top of that, even people with limited experience can more easily make games." We have seen a touch of that in all of these decompiled games , but there's also the fact that people with limited experience are also able to just up and steal ideas easier, too. And I'm not 
 
-### Edge magazine went to Rockstar to see GTA 6, and will tell you all about it in lavish detail this Thursday, October 29
-Tue, 27 Oct 2026 15:00:00 +0000 — https://www.pcgamer.com/games/grand-theft-auto/edge-magazine-went-to-rockstar-to-see-gta-6-and-will-tell-you-all-about-in-lavish-detail-this-thursday-october-29/
-
-We are just three weeks out from the release of Grand Theft Auto 6, which you can tell because it has cleared the release calendar around it like the Chicxulub crater. Ahead of the big day, our friends at Edge magazine visited Rockstar's Edinburgh development HQ to chat with the studio's leaders and put their eyes on GTA 6 in action . That's right folks, it's officially happening. This thing is officially almost a videogame you can play. The result? The 16-page cover story coming in Edge #430, on sale October 29 . They've really been cooking over there, bringing us a bunch of exclusive new imagery, interviews with Rockstar head honchos, and a special gatefold cover with artwork of Jason and Lucia, about whom I already have very strong feelings. If you're in the UK, you're in luck, because you can pick up the GTA 6 special edition free, plus 13 issues of Edge at 38% off the price you'd pay at the newsstand if you subscribe at this link . Outside the UK? Don't fret, because new subs will get a free digital edition of the GTA 6 special issue if you subscribe here . And wherever you are, the full 16-page feature will drop here for everyone to read for free on October 29, coinciding with the release of the magazine. Future Future It's lavish, lovely, and in-depth—so all very Edge, and if you're one of the approximately 8 billion people who are desperate to know more about the most-anticipated game in Rockstar's history (or, well, just history in general, probably), you're gonna wa
-
-### Nvidia may not have discontinued the RTX 5090, but one AIB partner says it can't get hold of the parts required to make the card
-Tue, 27 Oct 2026 14:22:56 +0000 — https://www.pcgamer.com/hardware/graphics-cards/nvidia-may-not-have-discontinued-the-rtx-5090-but-one-aib-partner-says-it-cant-get-hold-of-the-parts-required-to-make-the-card/
-
-Nvidia's RTX 5090 has been a subject of much speculation recently, as it was rumoured to be discontinued last month when it vanished from the company's official marketplace, only for Nvidia to confirm it wasn't discontinued . The plot has thickened, though, as AIB partners—the companies actually designing and manufacturing RTX 50 series graphics cards—suggest even they can't get their hands on the parts required to make the card. This is according to an Nvidia AIB partner who spoke to YouTuber Der8auer . They say, "No, Nvidia did not inform us that RTX 5090 is EOL. But currently we cannot purchase GB202 [the GPU] together with 32 GB GDDR7 as [a] complete set, and we also don't know if ordering will be possible again in the future." The unnamed board partner clarifies that in previous shortages, they could place backorders with Nvidia, but this is "currently not possible anymore." This is all to say that this AIB partner is unable to get the GPU and memory required to make the RTX 5090, and doesn't know when that supply issue will be fixed. Though this isn't the card being discontinued, for many partners, not getting the GPU and VRAM is as good as doing so. Whether it's the GPU or the memory that's causing the biggest headache isn't specified, though in the current context, one can assume it's likely both to some degree. (Image credit: Future) As of right now, companies are reliant on GPU and VRAM bundles from Nvidia before they can make their own cards. There have previously 
-
-### Deadline: Afterlife Processing lets you take morality into your own hands and judge who deserves eternal salvation or damnation
-Tue, 27 Oct 2026 14:20:39 +0000 — https://www.pcgamer.com/games/sim/deadline-afterlife-processing-lets-you-take-morality-into-your-own-hands-and-judge-who-deserves-eternal-salvation-or-damnation/
-
-I've always thought that I'm a particularly good judge of character, so I was happy to put my theory to the test with Deadline: Afterlife Processing's new demo where you play as some corporate angel judging whether the souls of the recently deceased should go upstairs or downstairs (I think we all know what that means). Deadline's demo starts like most stints in corporations do, with paperwork. I'm not entirely sure whether I signed my soul away, but I was sad to hear I won't be getting time off anytime soon. After I was done with all the bureaucracy it was time to get to work. (Image credit: M.D.) First thing's first, you need to clock in, every minute counts and you don't want to be late for work when your boss is either the creator of the universe or someone powerful enough to force the deceased into a suit and tie. The rest of my work day played out pretty normally: I'd grab a coffee, sift through some notes, and use this giant machine which can read the souls of humans and extrapolate key details of their life. This is what I used to decide if people had been naughty or nice. Most of the souls that crossed my paths were pretty obvious. They'd either donated their lifesavings to charity or punched a random old lady in the street—figuring out who deserves to go to heaven or hell isn't exactly rocket science in these cases. There were, however, a couple of scenarios that had me stop and ponder the ethics of a given situation. One soul that came to me on the second day of my
-
-### You just can't win—despite Ghost of Yōtei selling millions of copies, 24 people are reportedly being let go from Sucker Punch
-Tue, 27 Oct 2026 14:01:58 +0000 — https://www.pcgamer.com/gaming-industry/you-just-cant-win-despite-ghost-of-yotei-selling-millions-of-copies-24-people-are-reportedly-being-let-go-from-sucker-punch/
-
-As we've noted before on this very site, there really is just no winning in the videogame industry , particularly under current conditions. Make an unsuccessful game? Make the kind of game you didn't want to make, but were pressured into? Layoffs. Make a successful game? Layoffs. Currently making a game? Believe it or not, layoffs. As is the case with Ghost of Yōtei developer sucker punch, which has reportedly—per an internal email sent to Aftermath and confirmations from an ex-employee to the site—been hit with 24 layoffs, around a 10% reduction in staff. This is despite the fact that Ghost of Yōtei, the studio's most recent game, was a commercial success: It sold 3.3 million copies in its opening month , making it the 11th-best selling game in the US in 2025. It continued to rake in the cash, hopping over 5 million copies in just a handful of months. The email itself reads: "After carefully observing the challenges in the market and reviewing the team needs for our next project, we've decided to make some staffing reductions. Several positions across Sucker Punch will be eliminated as a result. "We know this is a lot to take in, and we want to assure you that we did not make this decision lightly. We have given this a lot of attention and worked to support our affected colleagues during this transition as well as we can. … There's no getting around that this is a hard day. Next week we will go into more details about the future." In—and I want to wrap this word up in air qu
-
 ## GameSpot
+
+### How To Watch The October Nintendo Indie World Showcase
+Tue, 27 Oct 2026 13:54:50 +0000 — https://www.gamespot.com/articles/nintendo-announces-indie-world-showcase-for-october-28/
+
+Nintendo has announced a new Indie World Showcase for October 28 . The broadcast will run about 15 minutes and, like previous streams, will focus on a wide range of games from third-party Nintendo partners. As usual, you can catch the showcase through Nintendo's official YouTube channel . When to watch the Indie World Showcase The Nintendo Indie World Showcase will start at the following time: 7 AM PT 10 AM ET 3 PM GMT 4 PM CET 5 PM AST 11 PM CST 2 AM AEDT (October 29) Where to watch the Indie World Showcase https://youtu.be/9OPoiRcze0w As usual, you can catch the showcase through Nintendo's official YouTube channel . What to expect from the Indie World Showcase "Tune in for roughly 15 minutes of new announcements and updates on indie games coming to Nintendo Switch 2 and Nintendo Switch," Nintendo's announcement read. Nintendo's last Indie World Showcase was held back in March 2026 , and it showed off several upcoming games at the time. Many of these have already been released, including the high-energy Denshattack, a port of the underrated twin-stick shooter Minishoot' Adventures, and the shadow drop of one of 2025's best games, Blue Prince. Short and sweet, the Indie World Showcase offers a broader look at the smaller games coming to Switch consoles. The end of the year is fast approaching, and Nintendo's 2026 holiday-season blockbuster will be a remake of The Legend of Zelda: Ocarina of Time. It was heavily featured in September's The Legend of Zelda 40th anniversary Nint
 
 ### You Can Make Your WoW: Forever Character Now And Be Ready For Launch
 Tue, 27 Oct 2026 20:00:00 +0000 — https://www.gamespot.com/articles/you-can-make-your-wow-forever-character-now-and-be-ready-for-launch/
@@ -450,11 +455,6 @@ Tue, 27 Oct 2026 14:20:36 +0000 — https://www.gamespot.com/articles/xbox-worke
 
 Microsoft has announced a new program called the Voluntary Exit Offer that it's extending to thousands of workers at the company, including people on the Xbox team. Microsoft is doing this to shed employees, but the messaging is that a program like this could be appealing to someone who was already thinking about leaving and can now do so with a pay package. Microsoft shared the high-level details of the Voluntary Exit Offer on its blog , and Bloomberg had more insight. The report said 60,000 workers are eligible for the Voluntary Exit Offer, and this works out to more than 25% of Microsoft's entire workforce. Xbox is undergoing big changes. Bloomberg reported that Xbox is one of the divisions of Microsoft whose employees can leave the company via the Voluntary Exit Offer, along with Windows, Copilot, and finance teams. The report said people working on Microsoft's efforts in data centers, sales, marketing, cyber security, and quantum computing are not eligible. Microsoft made this announcement just two days before it releases its next earnings report on October 28. The technology giant is spending hundreds of billions of dollars in its massive AI push, and many in the investment community have questioned if that level of capital expenditure makes sense. In April this year, Microsoft offered a Voluntary Retirement Program, and it offered severance pay, ongoing stock vesting, and extended health benefits. About 33% of eligible workers took that deal. Mass layoffs came in July,
 
-### Nintendo Announces Indie World Showcase For October 28
-Tue, 27 Oct 2026 13:54:50 +0000 — https://www.gamespot.com/articles/nintendo-announces-indie-world-showcase-for-october-28/
-
-Nintendo has announced a new Indie World Showcase for October 28 at 7 AM PT / 10 AM ET . The broadcast will run about 15 minutes and, like previous streams, will focus on a wide range of games from third-party Nintendo partners. As usual, you can catch the showcase through Nintendo's official YouTube channel . "Tune in for roughly 15 minutes of new announcements and updates on indie games coming to Nintendo Switch 2 and Nintendo Switch," Nintendo's announcement read. Nintendo's last Indie World Showcase was held back in March 2026 , and it showed off several upcoming games at the time. Many of these have already been released, including the high-energy Denshattack, a port of the underrated twin-stick shooter Minishoot' Adventures, and the shadow drop of one of 2025's best games, Blue Prince. Short and sweet, the Indie World Showcase offers a broader look at the smaller games coming to Switch consoles. The end of the year is fast approaching, and Nintendo's 2026 holiday-season blockbuster will be a remake of The Legend of Zelda: Ocarina of Time. It was heavily featured in September's The Legend of Zelda 40th anniversary Nintendo Direct , alongside other Zelda-centric announcements.
-
 ### The Wolf Among Us Remastered Doesn t Change Much, And That s A Good Thing
 Tue, 27 Oct 2026 13:40:00 +0000 — https://www.gamespot.com/articles/the-wolf-among-us-remastered-doesnt-change-much-and-thats-a-good-thing/
 
@@ -466,6 +466,26 @@ Tue, 27 Oct 2026 13:38:57 +0000 — https://www.gamespot.com/articles/bioshock-m
 A BioShock movie at Netflix remains in development, its director has confirmed, but that doesn't necessarily mean it'll ever be made. Francis Lawrence confirmed to The Direct that he hopes to make the BioShock movie, but "it's tricky on a couple fronts." Lawrence said he is "definitely active" in working on the BioShock movie, but "it is a tough nut to crack that world and that story." "You are the character when you play the game, and so creating that character from scratch into that world that, you know, quite honestly, is pretty batsh** in a most amazing way," he said. "It's tricky. So we're getting there, and we're getting close, which is great." The BioShock movie was originally set to be a large-scale production, but when Netflix film chief Dan Lin came in, the project was scaled back . Lin recently left Netflix amid a major shakeup at the streaming giant, as did longtime chief content officer Bela Bajaria. Former Disney and Fox executive Peter Rice is now the new chief content officer, and Lawrence hopes the management shakeups do not affect the BioShock movie in a big way, but nothing is ever certain in Hollywood. "I would love nothing more than to be able to make that movie," Lawrence said of BioShock. "So still working on it. And then, you have also just the Netflix of it all because Netflix right now has had regime changes and just all of that kind of nonsense that I don't like to have to deal with or have to. So we'll see. Hopefully we'll figure it out." Lawrence'
 
 ## Rock Paper Shotgun
+
+### Leaked Mass Effect 5 trailer is being "re-scored" by one of the original trilogy's composers, so folks can get a taste of his musical vision for the game
+Wed, 28 Oct 2026 10:31:35 +0000 — https://www.rockpapershotgun.com/leaked-mass-effect-5-trailer-is-being-re-scored-by-one-of-the-original-trilogys-composers-so-folks-can-get-a-taste-of-his-musical-vision-for-the-game
+
+One of the composers who contributed to the scores of the original Mass Effect trilogy has decided to re-soundtrack the Mass Effect Universe trailer which leaked following the game's cancellation and BioWare's closure . Sam Hulick's aim, aside from making this year's N7 Day a tiny bit less depressing if he can deliver as planned, is to share some of his "musical vision" for the RPG. Read more
+
+### Part idle game, part automation game, Moon Sweepers exploits the sickness in me that adores both Satisfactory and Cookie Clicker
+Wed, 28 Oct 2026 09:30:00 +0000 — https://www.rockpapershotgun.com/part-idle-game-part-automation-game-moon-sweepers-exploits-the-sickness-in-me-that-adores-both-satisfactory-and-cookie-clicker
+
+When Edwin talked about Moon Sweepers yesterday he focused on the artisanal approach to space rock cleaning. Like the puritan he is, he wants to wipe away all the dust on the moon using a toothbrush. He says you should take pride in your work, stick one spacesuit-clad middle finger up to the machines and say 'Fuck off, robots. Let me show you my art!" as you get down on all fours and brush away moon dust. I've taken a different approach. Read more
+
+### Monarchs at Play is a 4X strategy city-builder about chaining hexagonal tiles that only takes an hour out of your day
+Tue, 27 Oct 2026 22:46:08 +0000 — https://www.rockpapershotgun.com/monarchs-at-play-is-a-4x-strategy-city-builder-about-chaining-hexagonal-tiles-that-only-takes-an-hour-out-of-your-day
+
+None of us have any bloody time any more, do we? The economy being in the toilet is obviously part of that, but the other part is that we're all adults and now we have to do responsible adult things like our laundry, and buying toilet paper, and buying toilet paper again because it simply never ends. It all makes playing games just that little bit trickier, especially when it comes to lengthy strategy game runs. If you're longing for a quick dose of some 4X strategy, though, Monarchs at Play, a turn-based city-builder that only takes an hour, might be the thing you're after. Read more
+
+### Discord know they replaced forums, so they're making your messages in discoverable servers searchable, which immediately raises one question: what about AI?
+Tue, 27 Oct 2026 21:28:32 +0000 — https://www.rockpapershotgun.com/discord-know-they-replaced-forums-so-theyre-making-your-messages-in-discoverable-servers-searchable-which-immediately-raises-one-question-what-about-ai
+
+You might want to hold off on that horny posting in your favourite discoverable Discord server. The chat service announced today that any servers that are listed as discoverable, meaning anyone can find them simply through Googling, no invite link required, will now also show messages and discussions posted in said servers on Google. Read more
 
 ### UK-based Rockstar devs will be putting their union recognition to a vote during GTA 6's launch next month
 Tue, 27 Oct 2026 18:37:53 +0000 — https://www.rockpapershotgun.com/uk-based-rockstar-devs-will-be-putting-their-union-recognition-to-a-vote-during-gta-6s-launch-next-month
@@ -506,24 +526,4 @@ It&rsquo;s been well over a week since my final swing of Virtue and a Sledgehamm
 Tue, 27 Oct 2026 15:38:47 +0000 — https://www.rockpapershotgun.com/every-piece-is-unified-dark-messiah-of-might-and-magic-returns-with-co-op-an-adventure-mode-a-level-generator-and-new-game-in-the-64-bit-community-edition
 
 First announced back in March , Dark Messiah of Might and Magic: Community Edition is a fan-made mod (for Dark Messiah of Might and Magic , obvs) that spruces up Arkane's 2006 RPG, including upgrading it to a newer version of the Source engine. Details have been scarce since then, but an updated Steam page confirms what other additions the mod &ndash; which is being made with the blessing of both Valve and original publishers Ubisoft &ndash; is making. Read more
-
-### STALKER 2's latest update expands its A-Life NPC simulation bubble, seemingly without a scary performance tax
-Tue, 27 Oct 2026 13:00:00 +0000 — https://www.rockpapershotgun.com/stalker-2s-latest-update-expands-its-a-life-npc-simulation-bubble-seemingly-without-a-scary-performance-tax
-
-STALKER 2: Heart of Chornobyl has a new update out, 2.1, which builds on the excellent 2.0 patch by upgrading that most beloved and contentious of STALKER series features: the A-Life system that governs simulated NPC behavior. With the 2.1 update. It's now possible to whack up the distance at which A-Life NPCs (who, unlike scripted characters, will wander around, fight others over faction turf, and sometimes hunker down for a campfire-side guitar sesh) are visualised, while audio tweaks can make these unplanned shootouts audible from further away. The effect, in theory, is a better sense of the Zone's inhabitants going about their bang-banging business, even if Mr. Main Character here isn't close by. Both the updated game and the accompanying blog post warn that cranking this A-Life bubble up beyond the lowest, default 'Recommended' setting may have adverse effects, ranging from lower framerates to "story quest instability" and crashes. Fearing a return to STALKER 2's bug-ridden early days, I tried out the new A-Life distance options on the RPS test rig, and found they're not actually that perilous &ndash; though they might do strange things with binoculars. Read more
-
-### Life is Strange makers Don't Nod face layoffs and possible insolvency, French workers union STJV state
-Tue, 27 Oct 2026 12:21:37 +0000 — https://www.rockpapershotgun.com/life-is-strange-makers-dont-nod-face-layoffs-and-possible-insolvency-french-workers-union-stjv-state
-
-Le Syndicat des Travailleureuses du Jeu Vid&eacute;o, a French game workers union, have released a statement detailing the current status of Don't Nod, the studio behind Life is Strange and Lost Records: Bloom and Rage . The studio's fate has been precarious for some time, but STJV now say that the studio has announced ("to financial press before the employees, as has been its MO") that it is under a " safeguard procedure " to avoid complete insolvency due to an inability to pay off its debts. Read more
-
-### Steam Frame kernel updated with external CD-ROM drive compatibility just one day after a user asked Valve for it
-Tue, 27 Oct 2026 11:04:11 +0000 — https://www.rockpapershotgun.com/steam-frame-kernel-updated-with-external-cd-rom-drive-compatibility-just-one-day-after-a-user-asked-valve-for-it
-
-Even with the importance of physical media ownership in the current era of digital product ephemera, it's often unlikely your PC will actually be able to play the CDs, DVDs or Blu-Rays you have around the house. Internal disc drives aren't common amongst desktops or even laptops anymore, so your only recourse is often an external drive. One Steam Frame user was hoping to connect his own detachable disc drive to watch movies and play Need For Speed Carbon (valid!) using the headset, which can run both VR and 'flat' games without a separate PC , but found that the Frame lacked the drivers to read a disc. In a very earnest community post , user Aiodensghost lamented that this fact "KILLED MY ABILITY TO INSTALL MY ABANDONWARE FROM 2006. You don't sell NFS Carbon anymore (fuck you very much EA) [...] May I PLEASE have the ability to use an optical drive?" So polite! Read more
-
-### "Mass Effect was my ultimate white whale": Journey composer shares 20 minutes of music created during talks to work on BioWare's recently cancelled RPG
-Tue, 27 Oct 2026 10:30:00 +0000 — https://www.rockpapershotgun.com/mass-effect-was-my-ultimate-white-whale-journey-composer-shares-20-minutes-of-music-created-during-talks-to-work-on-biowares-recently-cancelled-rpg
-
-The gradual drip of details about and glimpses at what BioWare were looking to cook up with the cancelled Mass Effect 5 continues, this time thanks to a composer who was in talks to come aboard to put together the RPG's soundtrack. Said songsmith, Austin Wintory, has opted to share around 20 minutes of tunes he put together just as an attempt to explore where he might take things if he did end up being hired to score Commander Shepard's next adventure. Naturally, with BioWare's closure, that hasn't come to pass. Read more
 

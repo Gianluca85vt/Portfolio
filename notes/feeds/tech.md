@@ -1,8 +1,33 @@
-# Tech — harvested 2026-10-27T20:58:10.770Z
+# Tech — harvested 2026-10-28T10:49:01.657Z
 
 ## Ars Technica
 
-### Code-execution flaw in UEFI firmware threatens most servers on planet Earth
+### Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip
+Tue, 27 Oct 2026 22:37:30 +0000 — https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/
+
+Apple has announced refreshes for the iMac and the entry-level, 14-inch MacBook Pro . Both machines are getting the M6 chip, which was introduced in the Mac mini several weeks ago. The M6 is split into two variants for the iMac. Picking the "M6 chip with two Thunderbolt ports" option gets you a 10-core CPU and a 10-core GPU, whereas picking "M6 chip with four Thunderbolt ports" gets you 12 cores for each, instead. The two-port variant maxes out at 24 GB of RAM and 1TB of storage, whereas the four-port one maxes out at 32GB of RAM and 2TB of storage. Read full article Comments ]]>
+
+### South Carolina's measles outbreak jumped to Washington state 5 times in 2 weeks
+Tue, 27 Oct 2026 22:22:32 +0000 — https://arstechnica.com/health/2026/10/domestic-travel-poses-growing-risk-for-measles-and-a-new-challenge-for-states/
+
+Since measles was declared eliminated in the US in 2000, the country's occasional cases have come mainly from international travelers—visitors from far-flung places where the virus still spreads freely — or unvaccinated US residents who return from abroad with a highly infectious souvenir. But as vaccination rates have slipped nationwide in recent years and outbreaks grow bigger and more frequent, domestic travel now poses a greater risk than international incursions. In a study published this week in NEJM Evidence, Washington state health officials highlight that risk, detailing how an explosive outbreak in South Carolina reached their distant state through five distinct importation events over two weeks in January. In all, the introductions led to 26 cases among residents before officials stamped out the spread. South Carolina's measles outbreak began on October 2, 2025, and was declared over on April 26, 2026. Officials confirmed 997 cases in the state during the outbreak. At the time, it was the largest measles outbreak recorded since the virus was declared eliminated, but Pennsylvania's ongoing outbreak has since surpassed it. Read full article Comments ]]>
+
+### China's top-secret spaceplane can't hide in low-Earth orbit
+Tue, 27 Oct 2026 22:04:50 +0000 — https://arstechnica.com/space/2026/10/chinas-top-secret-spaceplane-cant-hide-in-low-earth-orbit/
+
+A winged Chinese spacecraft bearing a strong resemblance to the US military's X-37B spaceplane was photographed in orbit by a passing US-owned commercial satellite in 2024, and we finally have the image. The Chinese spaceplane has delta wings, payload bay doors, a dark heat shield, and a rear-mounted service module with power-generating solar arrays. In other words, the design of the winged ship is, to a great degree, a copy of the X-37B spaceplane flown by the US Space Force. The photo was taken by a commercial imaging satellite owned by a company called Vantor, known as Maxar in 2024. Vantor is one of several companies that provide reconnaissance imagery of locations around the world to the US military and US intelligence agencies. The same Earth-imaging satellites can point their telescopes at objects in space. Read full article Comments ]]>
+
+### "No human at the helm": Delaware plan would let AI agents run entire businesses
+Tue, 27 Oct 2026 21:50:04 +0000 — https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/
+
+A Delaware proposal to let companies be operated by AI agents would help the firms' human owners evade legal responsibility for reckless and harmful actions taken by the AI, US Rep. James Comer (R-Ky.) told Delaware Governor Matt Meyer in a letter yesterday. Comer, chairman of the House Committee on Oversight and Government Reform, told Meyer that the committee "seeks assistance obtaining documents related to your state administration’s efforts to establish a new form of corporate entity to be known as an Artificial Intelligence Company (AIC)." Comer said the proposal is ripe for abuse. "We are concerned that Delaware’s AIC proposal could be used to protect powerful AI companies and their investors from responsibility for reckless harmful actions, while also protecting non-transparent forces seeking anticompetitive regulatory capture behind state AI initiatives," Comer's letter said. Read full article Comments ]]>
+
+### Anthropic IPO warns its AI could blackmail people, become sentient, end humanity
+Tue, 27 Oct 2026 21:31:14 +0000 — https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/
+
+The Securities and Exchange Commission 's publication on Monday of Anthropic's S-1 form —ahead of a heavily anticipated initial public offering—has led to plenty of discussion of whether the company's quickly ballooning revenues will be able to overcome its even higher costs. But amid the numbers and forward-looking optimism about AI "rapidly transform[ing] every sector of the global economy in ways greater than the impact of industrialization, electricity, semiconductors, and the internet," Anthropic also spends an inordinate amount of time in its S-1 laying out the myriad risk factors that could bring the company down. Across 93 pages and over 70,000 words, Anthropic's S-1 "Risk Factors" section discusses literally hundreds of potential problems that could negatively impact its business in the coming years. Many of these potential risks are the kind of standard worries about competition, costs, customer acquisition, and potential regulation that almost any business must worry about. But some risks highlight interesting potential points of failure for Anthropic specifically and the hype-filled AI bubble more generally. After wading through Anthropic's book-length treatise on its greatest risks, we've narrowed the list to the seven most surprising, interesting, or thought-provoking potential problems. Consider this a far-from-comprehensive look that potential Anthropic investors should keep in mind. Read full article Comments ]]>
+
+### Code-execution flaw in UEFI firmware affects most servers on planet Earth
 Tue, 27 Oct 2026 20:25:55 +0000 — https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/
 
 Defenders across the world face the burden of responding to yet another botched code-execution vulnerability, this time in boot-time firmware used by most of the world’s server vendors and data centers. The vulnerability, with a severity rating of 9.5 out of 10, resides in the TianoCore EDK II , an open source codebase that hardware makers and cloud providers use to create the UEFI firmware that runs during the boot-up sequence. Last year, a representative of the UEFI Forum called EDK2 the "preeminent solution / implementation of the UEFI specifications." Virtually all UEFI suppliers (sometimes still called IBVs or independent BIOS vendors), including AMI, Insyde, and Phoenix, use the reference code extensively. Project Mu, Microsoft's hardened EDK2 fork, used the code containing the vulnerable component as well. The vulnerability, tracked as CVE-2026-97631, is a memory-corruption flaw in an ICMP component that attackers can exploit to execute malicious code that runs before the operating system and firmware can implement defenses like Secure Boot , which establishes a chain of trust for all code, including the Trusted Platform Module (TPM), loaded during boot. While final payloads delivered by CVE-2026-97631 have no persistence—meaning they run only once—they can give attackers a wide opening to install other payloads that also run each time early in the boot process. Read full article Comments ]]>
@@ -37,32 +62,12 @@ Tue, 27 Oct 2026 15:50:19 +0000 — https://arstechnica.com/gadgets/2026/10/from
 
 How much are you willing to pay to keep using your favorite app? Maybe you’ve used it for years. Perhaps it performs a function so essential and specific that you couldn’t imagine what you’d do without it. But when the developer announces an extraordinary price hike, you’re forced to consider how much you really value that app. Earlier this year, Evernote, a note-taking app, changed its subscription tiers, forcing some users to go from paying $130 per year to $250. The highest tier now costs more than 3.3 times as much as the most advanced tier did in 2023 and 10 times more than what Evernote charged for annual subscriptions from its 2008 launch until 2016. Read full article Comments ]]>
 
-### Apple iPhone Duo review: Two screens, two experiences, two thousand dollars
-Tue, 27 Oct 2026 14:20:26 +0000 — https://arstechnica.com/gadgets/2026/10/apple-iphone-duo-review-two-screens-two-experiences-two-thousand-dollars/
-
-I understand the appeal of foldable phones—they let manufacturers keep expanding screen sizes while still producing devices that can reasonably fit in a pocket. In practice, though, every foldable Android phone I've seen in public has had a ridiculously visible seam between the two halves of the screen, often with what looks like delamination from the underlying surface, giving the display an ugly, bubbly appearance. Back when Android phones began shipping with bigger and bigger screens and the iPhone was stuck at a miserly four inches, I was jealous. But I've never looked at anyone using a chunky, fragile-looking foldable phone in public and pined for Apple's take on the idea. Nevertheless, that take has arrived, in the form of the iPhone Duo . This $1,999-and-up foldable is the biggest change to the iPhone in years, with both hardware and software updates that dramatically change how you interact with the device. Read full article Comments ]]>
-
-### Some iPhone Duo screens are already failing, Apple says only a "small number" are affected
-Tue, 27 Oct 2026 14:00:49 +0000 — https://arstechnica.com/gadgets/2026/10/some-iphone-duo-screens-are-already-failing/
-
-The iPhone Duo launched last week, offering anyone willing to spend $2,000 a chance to experience Apple's first foldable phone. For some early buyers, the morning after isn't going great. Despite the company's big talk about its "precision-engineered" hinge, some devices appear to have a hardware flaw that destroys the device's impressive internal display within hours (or minutes) of use. The Internet is currently overflowing with images of busted iPhone Duos, all sporting almost identical damage. The OLED is marred by several bright lines originating just below the midpoint of the display. These bands of damaged pixels extend all the way to the bottom and right edges. Some units also show lines of dead pixels following the crease from the top to the area where the bright lines begin. Anyone who has seen a damaged OLED panel will be familiar with this type of defect. When the layers of the display are damaged, the pixels no longer receive the correct voltage to illuminate them. Instead, they get the full driving voltage and are permanently on at maximum brightness. Some pixels can get no voltage, leaving them totally black. The only fix is to replace the OLED, but swapping the iPhone Duo's screen reportedly costs half as much as the device itself. Read full article Comments ]]>
-
-### Sculpture re-creates odd optical effects of famed Lycurgus Cup
-Tue, 27 Oct 2026 13:32:35 +0000 — https://arstechnica.com/science/2026/10/scientists-recreate-the-1600-year-old-recipe-of-lycurgus-cup/
-
-Dating back to around 400 CE and made of dichroic glass, the Lycurgus Cup is notable for exhibiting different colors depending on the light. (It gets its name from the scene depicted on its surface, of King Lycurgus of Thrace.) Light it from the front, and the cup looks green; light it from behind, and the color changes to a deep red. University of Sheffield scientists have re-created the original recipe to produce a contemporary glass sculpture with the same optical effect. The cup is considered one of the seven glass wonders of the world, one of just 40 glass cage cups that survived. Exactly why the unusual color effects of the Lycurgus Cup occurred was a mystery until 2007 , when a team of scientists discovered the color shifts were due to the presence of nanoparticles in the glass—the result of Roman artisans adding finely ground gold and silver into the mix. Those nanoparticles change how the electrons in the cup vibrate in response to light so that the color one sees shifts with the observer’s vantage point. As we reported in 2019, it’s a similar phenomenon to the one responsible for the shifting colors of 19th-century daguerreotypes due to the scattering properties of nanoparticles. The Romans added salt when they melted the silicon (sand) to make the glass, and those salts contained gold atoms. In the melting process, those atoms aggregate and produce nanoparticles, which in turn produce the colors. It’s how any stained glass is made. It's also similar to how the prec
-
-### US officials want Section 702 renewed before damaging court ruling goes public
-Tue, 27 Oct 2026 13:22:16 +0000 — https://arstechnica.com/tech-policy/2026/10/us-officials-want-section-702-renewed-before-damaging-court-ruling-goes-public/
-
-Two Democratic senators who have long overseen US intelligence say the Trump administration is illegally withholding a secret court’s findings from Congress until lawmakers renew a program that lets federal agents read Americans’ communications without a warrant. Seven months ago, the Foreign Intelligence Surveillance Court objected to search filters that let intelligence analysts pull Americans’ messages from intercepted data without the approvals, written justifications, or records the law requires. The court approved another year of surveillance anyway. The ruling has never been made public, and Senators Ron Wyden of Oregon and Adam Schiff of California say the administration’s own deadline for releasing it passed in September. The program, Section 702 of the Foreign Intelligence Surveillance Act (FISA), lapsed in June after Congress failed to renew it, though collection continues under the court’s March approval. The administration’s own public documentation says rulings like this one are reviewed for public release “within 180 days of issuance.” That window closed September 13, even as intelligence officials press lawmakers to reauthorize the program by the end of the year. Read full article Comments ]]>
-
-### Microsoft offers to buy out a quarter of its workforce
-Mon, 26 Oct 2026 22:36:06 +0000 — https://arstechnica.com/gadgets/2026/10/microsoft-offers-voluntary-buyouts-to-60000-employees/
-
-On Monday, Microsoft said it is offering voluntary buyouts to eligible employees in select parts of the company. CNBC reports that the buyouts will be offered to roughly 60,000 employees , or about a quarter of its global workforce. The company describes the offer as an opportunity for employees who may have already been considering career moves outside Microsoft. While Microsoft did not give a direct reason for the buyout package, it comes as the company has spent the last several years managing costs amid investment in AI infrastructure and data-center buildout. Microsoft will extend the voluntary exit offer (VEO) to qualifying employees in the United States, India, Canada, and the United Kingdom. Microsoft employees at level 70 or below will be eligible for the buyout program. The company's employee rankings are internal, but according to the salary and career database Levels.fyi , levels 65–67 correspond to principal positions, and 68–70 are at the partner/distinguished level. According to Chief People Officer Amy Coleman, eligible organizations were selected "based on each business’s priorities, customer commitments and workforce needs." The effort is the second time Microsoft has run a voluntary workforce reduction in 2026. In April, the company offered its first voluntary retirement package to 8,750 US employees. In July, the Xbox division laid off 3,200 employees , or about 20 percent of its entire gaming division. As reported by CNBC , about 30 percent of eligible em
-
 ## The Verge
+
+### Here’s why the iPhone Duo’s hinge could be cracking the screen
+2026-10-27T18:55:05-04:00 — https://www.theverge.com/tech/1020145/iphone-duo-crackgate-broken-screen-hinge
+
+Within hours of the iPhone Duo launch last Friday, people reported that the inner screen on some brand new foldable phones was already broken. The issue was similar across many photos shared on social media: some kind of issue or crack would appear in the middle of the screen above the hinge, with lines appearing on the right side of the display. On Monday, Apple acknowledged an "issue" and said it's replacing damaged units, without going into much detail about how many broken phones have been reported so far. So what's actually going on? Shahram Mokhtari, the lead teardown technician at iFixit, has actually taken apart the iPhone Duo and … Read the full story at The Verge. ]]>
 
 ### Researchers are getting tired of OpenAI gatekeeping its breakthroughs
 2026-10-27T16:48:58-04:00 — https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics
@@ -109,12 +114,22 @@ Mozilla is updating Smart Window - Firefox's AI-powered browsing experience - wi
 
 Fans cheer during game two of the 2026 World Series between the Milwaukee Brewers and the Tampa Bay Rays | Getty Images On October 2nd, just as Major League Baseball's Division Series was kicking off, the main MLB Instagram and TikTok accounts posted a video hyping up the teams still in the running for the World Series. It featured clips of players from the Milwaukee Brewers, Los Angeles Dodgers, Chicago White Sox, and more sliding into home plate, hitting homers, and celebrating hits - standard fare for a highlight reel. What really makes the montage, though, is that it's set to an Olivia Rodrigo song. The song, "My Way," is an album track - not even a single - from Rodrigo's latest record. It's not exactly the soundtrack one might expect from an MLB-produc … Read the full story at The Verge. ]]>
 
-### Google’s next Genie AI model generates more realistic experiences
-2026-10-27T12:00:00-04:00 — https://www.theverge.com/tech/1019076/google-genie-4-ai-model
-
-Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update an experience in real time with a natural language prompt, can generate audio, and uses Gemini 3.8 Flash under the hood to help with its simulations. It also can create experiences that are about two minutes long, up from one minute for the previous Genie 3 model. Google is pitching Genie 4 as a tool that could be helpful for things like pre-visualization for filmmakers, prototyping game ideas, and making training scenarios for robots. But the … Read the full story at The Verge. ]]>
-
 ## Tom's Hardware
+
+### IT vendor lists massive $60 million AI supercomputer on eBay with 300 racks of decommissioned GPUs
+Wed, 28 Oct 2026 10:30:00 +0000 — https://www.tomshardware.com/desktops/servers/it-vendor-lists-massive-usd60-million-ai-cluster-on-ebay-300x-racks-of-decommissioned-gpus-includes-9-600-nvidia-a100-gpus-and-4-200-amd-epyc-cpus-plus-free-shipping
+
+If you ever wanted to own your own supercomputer or data center while earning eBay cashback, Core 4 Solutions has the perfect opportunity. The company is selling a 300-rack AI supercomputer on eBay for $59.7 million, complete with $50 overnight shipping, or free shipping if you're willing to go with FedEx Ground. The cluster packs 9,600 Nvidia A100 accelerators and 4,200 AMD EPYC Rome 64-core processors, enough to jump-start your own sovereign AI nation. Go deeper with TH Premium: AI and data centers (Image credit: Microsoft) The data center cooling state of play The custom AI ASIC state of play America’s AI chip rules keep changing — and the rest of the world is paying the price GTC 2026: Ian Buck press Q&A transcript — VP of Hyperscale and HPC speaks out on shelving CPX and shipping LPU decode this year Demand for data center CPUs has surged, and AI agents are responsible Nvidia and AMD have moved to newer architectures like Blackwell , Vera Rubin , and EPYC Turin . Nonetheless, A100 (codenamed Ampere) accelerators and EPYC Rome processors remain highly relevant for many computing tasks, including AI, machine learning, and scientific research. With the modern Blackwell and Vera Rubin racks from Nvidia, like the GB300 NVL72 and VR200 NVL72 , costing up to $6.5 million and $7.8 million per unit, respectively, the A100 has turned into a legitimate budget alternative that can also circumvent the long waitlists and supply chain delays on Nvidia's newer AI hardware. The cluster's
+
+### $4,700 audiophile-grade network hub promises a noise-free experience and music with 'emotional impact' — seven isolation stages per port were chosen with 'listening comparisons,' uses a $5 Realtek controller
+Wed, 28 Oct 2026 10:00:00 +0000 — https://www.tomshardware.com/pc-components/sound-cards/usd4-700-audiophile-grade-network-hub-promises-a-noise-free-experience-and-music-with-emotional-impact-seven-isolation-stages-per-port-were-chosen-with-listening-comparisons
+
+There are a lot of salesman sayings, and, chances are, most were inspired by audiophiles. The eternal sufferers of audiophilia nervosa keep coming up with novel ways to attribute sonic and emotional characteristics to any piece of equipment — even when discussing things purely in the digital realm. One of the current fads is audiophile-grade network switches, like the Aurender NH10 Network Hub , coming in at a mere $4,700. This piece of gear —which we presume is actually a network switch, rather than a hub — comes fitted with eight gigabit ports. Six of those are standard copper inputs, while the other two are SFP ports where audiophiles can plug in a transceiver for either fiber or copper. The product page remarks that, naturally, a fiber connection is electrically isolated. I was teeing up a joke about the existence of audiophile-grade SFP transceivers when, while proofreading, I found that life does truly imitate art . Oh, and that $4,700 doesn't even get you 10 GbE capabilities. Four of the six copper ports on the Aurender switch have a total of seven electrical filtering stages behind them, while the remaining pair "only" has two. According to an article at Headphonesty , Aurender's designer said the team experimented with using over 10 stages, but eventually settled on seven "from listening comparisons." That's an interesting feature considering that the Ethernet standard already mandates electrical isolation for standard twisted-pair connections. Aurender also says tha
+
+### Japan experiments with autonomous AI chainsaw-wielding robots
+Wed, 28 Oct 2026 09:40:00 +0000 — https://www.tomshardware.com/tech-industry/robotics/japan-experiments-with-autonomous-ai-chainsaw-wielding-robots-video-shows-rail-truck-mounted-metal-humanoid-cutting-down-tree-branches
+
+A scary-looking humanoid robot with a chainsaw arm was shown in action on Japan's ANN News recently. The rail truck-mounted mech was being used by Japanese railway firm JR East to clear tree branches that had begun to impede rail tracks. The unnamed heavy machinery robot’s chainsaw and grabber arms are remotely controlled by a human in this instance. However, JR East is broadly integrating AI and robotic technologies across its operations to enhance safety, efficiency, and round-the-clock maintenance. In the future, this robot could become autonomous with AI-based image analysis for recognizing rail obstructions that need to be addressed. While they’re at it, why not dispose of the wheeled vehicle and add some legs and a jet pack ? JR East is the largest passenger railway operator in Japan. It is famous for operating the northern Shinkansen (bullet train) routes, but also has business interests/revenue from shopping centers, hotels, smart cards, and more. The firm has a reputation for quite aggressive AI adoption, including company-wide AI tools, designing AI programs for disaster recovery, and it is even using drones equipped with AI image analysis for rail infrastructure inspections (PDF). The source video and report (machine translation) indicate that the chainsaw mech you see has been available to JR East engineers since March, but the TV crew took the opportunity to catch a rare glimpse of this heavy machinery in action. JR East is turning to robots like this due to labo
 
 ### Fields Medal-winning UC Berkeley professor ends graded homework due to AI cheating
 Tue, 27 Oct 2026 20:09:05 +0000 — https://www.tomshardware.com/tech-industry/artificial-intelligence/fields-medal-winning-uc-berkeley-professor-ends-graded-homework-due-to-ai-cheating-says-in-person-exams-are-the-only-solution-left-to-widespread-ai-use
@@ -161,22 +176,37 @@ Tue, 27 Oct 2026 13:28:23 +0000 — https://www.tomshardware.com/laptops/macbook
 
 Apple is updating two more computers to its M6 system-on-chip. The base 14-inch MacBook Pro and the iMac lineup are getting the company's latest processor ahead of tomorrow's "Pro and Tell" event in Los Angeles. These devices are retaining the same designs that they've had for years. The computers will be available for pre-order on Wednesday at 10:10 a.m. PT (1:10 p.m. ET) and will ship on Nov. 6. The M6 in the MacBook Pro will be configured with 12 CPU cores and 12 GPU cores, alongside dual neural engines for certain on-device AI workloads. On the iMac, there will also be a cut-down option with a 10-core CPU and 10-core GPU. (Image credit: Apple) The MacBook Pro will be configurable with up to 32GB of RAM and is being updated with Wi-Fi 7 and Bluetooth 6 using Apple's N1 networking chip. The iMac is also getting those networking benefits, as well as a 2.5 Gigabit Ethernet port. Like previous iMacs, the number of ports you get is tied to the chip, with two Thunderbolt 4 ports with the base chip or four with the option with more cores. It's no surprise that Apple is pushing both of these as AI-forward machines, both with the new chips and the recently released Siri AI and Apple Intelligence features in macOS 27 Golden Gate. The 14-inch MacBook Pro with M6 will start at $1,999 ($1,899 with education discount), while the iMac will begin at $1,499 ($1,449 with education discount) for the 10-core CPU/GPU configuration and $1,699 ($1,599 with education discount) for the full chip. 
 
-### Hacker awarded $50k bounty for reporting bug to Sony that allowed PS5 Linux exploit
-Tue, 27 Oct 2026 13:22:04 +0000 — https://www.tomshardware.com/video-games/playstation/hacker-awarded-usd50k-bounty-for-reporting-bug-to-sony-that-allowed-ps5-linux-exploit-move-sparks-backlash-from-jailbreaking-community
-
-A hacker used an AI LLM to find a hypervisor bug that allowed security researchers to load Linux on PlayStation 5 consoles , subsequently reported it to Sony, and received a $50,000 bug bounty. IGN reports that the person who discovered the flaw, who goes by Jordy on X, shared the award on the social media platform, drawing significant ire. The biggest driver of the criticism, though, is that Jordy agreed to delay the report until after the launch of GTA VI, but moved forward anyway after someone else discovered the flaw, meaning it would be patched prior to the launch of the game, and possibly denying someone else the payday. I can at least buy GTA 6 with this I think https://t.co/1iLwrZTbdy October 14, 2026 “I can at least buy GTA 6 with this, I think,” Jordy said on their X account . One user called Gille replied to their post, saying, “50k in bank but 0 friends left. Worth it?” Another one named Darth Riker commented, “You did not ‘find this bug yourself’. The flow0 (Andy Nguyen) did that. You, however, didn’t. You’re just a lazy s****** who’s no different to those scammers out there,” while Matthew Cramer added, “The worst thing is not the money grab, it’s the fact that the whole point of exploiting PS5 is freedom, ownership, and control. Sony goes against everything we stand for! If Jordy was in need of money, there are hundreds of bug bounty programs with high paydays… or a better job!” The ps5-linux-loader GitHub project requires a PS5 Phat, Slim, or Pro running firmw
-
-### Roblox accused of downloading 145GB of 3D assets, including adult content, for AI training purposes during scraping spree
-Tue, 27 Oct 2026 12:26:13 +0000 — https://www.tomshardware.com/tech-industry/artificial-intelligence/open3dlab-accuses-roblox-of-downloading-145gb-of-3d-assets-for-ai-training-purposes-automated-crawler-ignored-site-rules-to-grab-over-1-000-files-including-adult-content-during-scraping-spree
-
-Independent 3D modeling community Open3DLab has publicly warned that a web crawler, linked to the gaming platform Roblox, mapped "almost every project" on its website, along with sister sites SFMLab and SmutBase, downloading 145.5GB of data in the process. In a blog post , Open3DLab reports that "complete copies" of 1,027 files from 712 projects were sourced in the process, which it believes were taken for "AI training purposes." Go deeper with TH Premium: AI and data centers (Image credit: Microsoft) The data center cooling state of play The custom AI ASIC state of play America’s AI chip rules keep changing — and the rest of the world is paying the price GTC 2026: Ian Buck press Q&A transcript — VP of Hyperscale and HPC speaks out on shelving CPX and shipping LPU decode this year Demand for data center CPUs has surged, and AI agents are responsible The blog post goes into the specifics of the incident, along with some changes that Open3DLab has made since to try and avoid a repeat. According to the post, Open3DLab's staff noticed a crawler "making a large number of requests to our sites and download infrastructure" on October 18. The crawler used trellis2-data-sourcing/1.0 (3D foundation model research; [redacted]@roblox.com) as its user agent, with the data coming from a single Amazon AWS address. The crawler didn't respect the site's robots.txt file or Terms of Service, which explicitly forbid scraping. It also, according to the report, ignored creator licenses for the pro
-
-### Intel's APX offers 'better performance' in Windows 11 according to new Insider setting
-Tue, 27 Oct 2026 11:30:00 +0000 — https://www.tomshardware.com/software/windows/intels-apx-offers-better-performance-in-windows-11-according-to-new-insider-setting-microsoft-begins-early-enablement-for-advanced-performance-extensions-on-nova-lake-cpus
-
-A new "Advanced Performance Extensions (APX)" option has been spotted in a version of Windows 11 made available to Windows Insiders on October 23, with the feature set to enable a boost in application performance on compatible chips. At the moment, those chips don't exist. But when they do, this feature is the one that you'll want to flick on if you're using one of them. The new toggle was reported by Neowin after it was first spotted by a poster on the X social network. The feature debuted in build 29295 as an Experimental build, so it's unlikely that it will make its way to the version of publicly available Windows 11 anytime soon. Intel announced APX back in 2023, confirming that it features 16 additional general-purpose registers and three-operand instruction formats with a new data destination register for many integer instructions. Doubling the number of general-purpose registers from 16 to 32 will allow code compiled with APX to run with 10% fewer loads and 20% fewer stores than Intel 64's baseline, says Intel. APX has been available in the GCC compiler since version 14, with subsequent versions up to GCC 17, which is targeting a 2027 code freeze, adding additional support. LLVM and MSVC have preliminary support, as well. Although enablement has been going steady for the past two years, developers will still need to recompile their applications with the proper flags for APX-capable CPUs to leverage those instructions. Here is how the new "Advanced Performance Extension
-
 ## Phoronix
+
+### VKD3D-Proton 3.1 Released With New Features Ahead Of Big v3.2 Release
+Wed, 28 Oct 2026 06:27:21 -0400 — https://www.phoronix.com/news/VKD3D-Proton-3.1
+
+Hans-Kristian Arntzen of Valve's Linux team just tagged the VKD3D-Proton 3.1 release. This version comes with a number of new features and performance optimizations while being the stable point ahead of VKD3D-Proton beginning to see a lot of new feature code for what will then become VKD3D-Proton 3.2...
+
+### GhostBSD 26.2 Released As FreeBSD 15.1 Powered OS With New Installer
+Wed, 28 Oct 2026 06:11:54 -0400 — https://www.phoronix.com/news/GhostBSD-26.2
+
+GhostBSD 26.2 is out as the latest feature release of this FreeBSD-powered desktop operating system...
+
+### NTFS3 Hardened In Linux 7.4 Against Corrupted Or Maliciously-Crafted NTFS Volumes
+Wed, 28 Oct 2026 06:02:34 -0400 — https://www.phoronix.com/news/Linux-7.4-NTFS3
+
+Paragon Software's Konstantin Komarov sent out the latest NTFS3 driver updates for this in-kernel NTFS read/write driver. With Linux 7.4, the NTFS3 driver is focused on being hardened against corrupted or maliciously-crafted NTFS volumes...
+
+### Retiring BSD-Compress Proposed For Linux PPP Network Code
+Wed, 28 Oct 2026 05:50:55 -0400 — https://www.phoronix.com/news/Linux-May-Retire-PPP-BSD-Comp
+
+A patch has been proposed to remove the BSD-Compress support from the Linux kernel for the Linux networking point-to-point protocol (PPP) due to being unmaintained and having fundamental issues with the code that can lead to a fatal error...
+
+### Wine Merges Support For MESA_map_buffer_client_pointer To Improve WoW64 32-bit OpenGL
+Tue, 27 Oct 2026 20:33:36 -0400 — https://www.phoronix.com/news/Wine-Mesa-Map-Buffer-Client-Ptr
+
+An initiative led by CodeWeavers this year has come to fruition for improving OpenGL support with WoW64 for bettering Windows 32-bit application/game support while using 64-bit system libraries...
+
+### Linux 7.4 Introduces DMA-BUF Support To I/O Path With IO_uring
+Tue, 27 Oct 2026 17:09:43 -0400 — https://www.phoronix.com/news/DMA-BUF-IO-uring-Linux-7.4
+
+Merged today for the ongoing Linux 7.4 merge window is the infrastructure for enabling DMA-BUF support in the kernel's I/O path with the wonderful IO_uring framework...
 
 ### Raspberry Pi Zero 3 W & Raspberry Pi 4 Model A Surface In Linux Kernel Patches
 Tue, 27 Oct 2026 15:53:34 -0400 — https://www.phoronix.com/news/Raspberry-Pi-Zero-3-W-Pi-4-A
@@ -208,37 +238,52 @@ Tue, 27 Oct 2026 06:26:22 -0400 — https://www.phoronix.com/news/Beeper-In-Kern
 
 An interesting new open-source project born out of university research is Beeper to provide application-layer parsing within the in-kernel eBPF. With an HTTP parser implemented by Beeper in eBPF and providing an in-kernel HTTP cache, the throughput for web servers could be improved by 3x at high rates...
 
-### Linux s Modern NTFS Driver Now Supports Alternate Data Streams (ADS)
-Tue, 27 Oct 2026 06:11:29 -0400 — https://www.phoronix.com/news/NTFS-Linux-7.4-Improvements
-
-Merged back in Linux 7.1 was the new NTFS kernel driver implementation for better supporting Microsoft's NTFS file-system on Linux. Since then new features and improvements have continued to land for this NTFS driver with some more notable additions also coming in Linux 7.4...
-
-### Linux 7.4 Expands Sensor Monitoring For More ASUS & MSI Motherboards, New Minisforum Driver
-Tue, 27 Oct 2026 05:52:30 -0400 — https://www.phoronix.com/news/Linux-7.4-HWMON
-
-With the Linux 7.4 kernel there are more MSI and ASUS motherboards with sensor monitoring support along with a variety of other additions to help broaden the selection of supported systems for hardware sensor monitoring under Linux. It's another busy cycle for the HWMON subsystem...
-
-### Firefox 159 Released With AMD Linux Graphics Fix For Excessive Memory Use
-Tue, 27 Oct 2026 05:35:49 -0400 — https://www.phoronix.com/news/Firefox-159-Released
-
-Firefox 159 is out today as the latest bi-weekly feature release for Mozilla's web browser...
-
-### Initial Support For The Apple M4 & Apple A18 Pro Make It Into Linux 7.4
-Mon, 26 Oct 2026 20:52:15 -0400 — https://www.phoronix.com/news/Linux-7.4-SoCs
-
-The many SoC patches have landed within the Linux 7.4 kernel providing support for dozens of new boards as well as a number of new SoCs like the Apple M4 and the A18 Pro as found in the MacBook Neo. The Google Tensor 5 was also finally mainlined along with Pixel 10 devices. Plus some unreleased Qualcomm SoC support rounds out the bunch...
-
-### Steam Frame VR Headset Sees Mainline Support With Linux 7.4
-Mon, 26 Oct 2026 20:36:40 -0400 — https://www.phoronix.com/news/Steam-Frame-FR-Linux-7.4
-
-The mainline Linux 7.4 kernel will be capable of running on the Steam Frame VR headset...
-
-### Linux 7.4 Preps CXL For Very Neat Dynamic Capacity Devices "DCD"
-Mon, 26 Oct 2026 17:05:32 -0400 — https://www.phoronix.com/news/Linux-7.4-CXL
-
-The Compute Express Link (CXL) subsystem changes were merged today for the Linux 7.4 kernel. The fun work this cycle is preparing to support Dynamic Capacity Devices...
-
 ## The Register
+
+### Man spends 35 years collecting corporate waffle, turns it into an app
+Wed, 28 Oct 2026 10:15:00 +0000 — https://www.theregister.com/offbeat/2026/10/28/man-spends-35-years-collecting-corporate-waffle-turns-it-into-an-app/5305765
+
+After suffering more than 10,000 corporate meetings, one executive has decided that the world hasn't endured nearly enough management jargon and built an app capable of generating 270 million variations of it. Dave Doty, who claims to have spent 35 years collecting buzzwords, clichés, and other verbal atrocities inflicted on office workers, turned his life's work into Executive Eightball, an iPhone and Android app designed to help users sound convincingly corporate while saying nothing. The idea came about after Doty spent decades recording the nonsense he heard in meetings, presumably while everyone else was busy circling back, touching base, and taking things offline. "I am an executive who has suffered through over 10,000 meetings during the course of my 30 year career," Doty told The Register . "To keep my sanity, in each of them, I wrote down all of the buzz words and business clichés and have built an enormous database of them." He described his creation as "sort of what would happen if Dilbert and George Costanza had a love child." The app, which is now available on Apple's App Store and Google Play, takes Doty's collection of corporate waffle and assembles it into sentences that wouldn't look out of place in a CEO's quarterly update or a particularly painful all-hands meeting. Among the pearls of wisdom it can produce are "We must dashboard the outputs to enable us to focus on operational directives and break the paradigm" and "Drive to cross-functional synergies so w
+
+### Neocloud thinks AI agents - not meatbags - will be its main customers
+Wed, 28 Oct 2026 09:30:00 +0000 — https://www.theregister.com/ai-and-ml/2026/10/28/neocloud-thinks-ai-agents-not-meatbags-will-be-its-main-customers/5305496
+
+Newly formed Quake AI is a cloud provider that expects its users will be mostly agents rather than humans. It was created after US-based Rumble Inc acquired German datacenter operator Northern Data in June. The parent then rebranded as RUM Group, a holding company for Quake AI (formerly Northern Data) and the Rumble video platform. Quake AI is an Nvidia Cloud Partner (NCP) operating a 22,000 GPUs estate, making it a neocloud: a specialized infrastructure provider dedicated to AI workloads. Yet where other neoclouds are building a full stack of services around their GPU farms, Quake AI wants to make its infrastructure discoverable to AI agents, which may soon be traversing the internet in hordes on behalf of their owners. RUM Group's chief financial officer Mike Massey told The Register that "Cloud 1.0 - let's call it applications - is like a user interface of how you interact with a machine of some kind." He added: "Now, if you think about agents, they don't use vision. That's not how they interact with systems. They interact with APIs and with information effectively, and that means they want highly discoverable, highly data-driven platforms.. “So, to us, the things that make GPUs and AI compute easier to consume for humans, things like model-as-a-service, dashboards and one-click settings, are actually orthogonal to, if not detrimental to what agents are going to want, agents are going to want homogeneous compute… to understand and know what your data and your expectations 
+
+### Why roaming packages have become an anachronism in the age of app-first travel
+Wed, 28 Oct 2026 09:00:00 +0000 — https://www.theregister.com/personal-tech/2026/10/28/partner-content-why-roaming-packages-have-become-an-anachronism-in-the-age-of-app-first-travel/5303347
+
+Travelling in the modern day and age differs significantly from what it looked like a few short decades ago. Today, it is all about apps: you need applications for navigation, booking accommodation, buying tickets for events, following the local news, staying in touch with friends and family, and more. That also means that you depend on connectivity at all times while abroad. The problem is that a lot of people still rely on traditional roaming, while the roaming model is out of date. You cannot choose a specific mobile internet plan that suits your travel plans. Instead, operators have split the world into zones, and each zone has its own pricing, limits, and permissions. That is why many have turned to alternative ways of staying connected, and so far, the travel eSIM has emerged as the most practical solution. Companies like the Swiss eSIM pioneer, Yesim , have recognized the problem that travelers are facing and have come up with a solution. They let you pick a specific plan that will fit your trip. That way, you get to tailor your connectivity experience in advance. Furthermore, you even get to see the price in advance and know exactly what you will have to pay. Home-operator roaming: Connectivity under outdated rules The problem with roaming is that your home operator decides what your internet will be like abroad. When you try to book a flight or a hotel room, you will try to get the best deal possible. That means comparing providers, prices, any potential benefits tha
+
+### SK Hynix says memory shortages to persist until 2030
+Wed, 28 Oct 2026 04:21:23 +0000 — https://www.theregister.com/systems/2026/10/28/sk-hynix-says-memory-shortages-to-persist-until-2030/5305887
+
+Korean memory-maker SK Hynix has predicted memory shortages will persist until at least the year 2030 and says that will help it to boost its already exceptional revenue and profits to new levels. In remarks published on Wednesday alongside its quarterly results, the company offered its belief that “a virtuous cycle has taken hold in which AI-driven productivity gains and new revenue generation in areas such as software development, customer service, and search lead to greater AI adoption, which in turn drives increased investment in infrastructure.” SK Hynix thinks this is great news, because it means more buyers are entering the market for AI infrastructure, including “general enterprises” and nations building sovereign infrastructure. In coming years, the company sees even more demand for memory coming from autonomous cars and the growing robotics market. While the company is working hard to build more factories and get them working, execs admitted it can’t do that fast enough to meet demand. “The company assessed that supply … is not keeping pace with the growth of the market,” SK Hynix told investors. “Given technical difficulty of leading-edge processes and the long lead time required to build new production facilities, it expects the structure in which demand exceeds supply to persist through 2030.” It gets worse. SK Hynix has 14 long-term deals with 14 big buyers, who will collectively buy more than half of its output during 2027 and 2028, and some of them want to ext
+
+### AI slows growth for Infosys and keeps it afloat at the same time
+Wed, 28 Oct 2026 02:18:02 +0000 — https://www.theregister.com/channel/2026/10/28/ai-slows-growth-for-infosys-and-keeps-it-afloat-at-the-same-time/5305879
+
+Indian tech services giant Infosys has mixed news about AI. In its most recent quarterly results late last week, the company revealed that it’s racked up 29 percent sequential growth in AI revenue, which now delivers 10.5 percent of Infosys’ incoming cash. Those are far nicer numbers than the 1.5 percent year-on-year revenue growth Infosys reported for its second quarter. “Growth was below our expectations. Volume was softer, and price increases were lower than anticipated amid high competitive intensity,” chief financial officer Jayesh Sanghrajka told investors. One reason for lower price increases was that customers expect Infosys to charge less when it uses AI, and those cost savings are now “baked in” to its multi-year deals. CEO and managing director Salil Parekh also pointed to AI as one reason the cost of services is falling. “I think what we see today is there is definitely some of our peers who are putting, I would say, more intense effort into the pricing pressure,” he said, “but it is also across the board because of the environment and also the discussion on AI productivity. If you are talking with clients today on large programs, it is a three or five-year outlook.” That leaves Infosys dependent on new work from AI to boost revenue growth, while AI also makes it hard to keep growing revenue from existing customers. Infosys won’t go low to win deals and intends to hold its margins at around 21 percent, Sanghrajka said. He sought to prove that point by citing “a la
+
+### Big Red gets cozy with Google to offer TPUs to AI customers
+Tue, 27 Oct 2026 20:20:27 +0000 — https://www.theregister.com/ai-and-ml/2026/10/27/big-red-gets-cozy-with-google-to-offer-tpus-to-ai-customers/5305846
+
+Oracle Cloud Infrastructure (OCI) customers will soon have a raft of new choices. Big Red is hosting an event in Las Vegas this week to inject more air into the AI bubble explain its latest AI investments, and front and center of those efforts are an expanded partnership with OpenAI and plans to diversify its chip offerings beyond Nvidia by bringing Google's Tensor Processing Units (TPUs) to OCI. Oracle says its deal to add Google TPUs to OCI will make it the first hyperscale cloud platform outside Google's own cloud services to offer the chips. Those chips will be available for selection within OCI beginning in 2027, with capacity increasing over the course of several years. While not mentioning the quantity of Google TPUs that will be available next year or beyond, it does seem that Oracle is attempting to diversify away from being so heavily reliant on Nvidia, with whom it has inked deals worth tens of billions of dollars to outfit its datacenters, including the reportedly troubled Texas project it’s planning with the GPU maker and OpenAI. “Different AI workloads have different compute needs,” said OCI president Mahesh Thiagarajan. “Bringing Google TPUs to OCI gives customers … the flexibility to choose the right infrastructure for the performance, throughput, and economics of each AI workload.” Oracle isn't moving away from its partnership with OpenAI, either, announcing new ChatGPT integrations on Tuesday alongside two products that incorporate models from the House of A
+
+### Anthropic now lets Claude users jump out of plane without parachute
+Tue, 27 Oct 2026 19:29:00 +0000 — https://www.theregister.com/ai-and-ml/2026/10/27/anthropic-now-lets-claude-users-jump-out-of-plane-without-parachute/5305807
+
+Anthropic, prone to pronouncements about model safety, has given developers using Claude Code the opportunity to throw its guardrails out the window. The company's latest Claude Code build ( v2.1.311 ) supports an environmental variable designed to allow the AI agent to run the rm command, which deletes files, without asking for approval. The designated environmental variable (a value developers set in their shell) is called: CLAUDE_CODE_EVEN_MORE_DANGEROUSLY_SKIP_PERMISSIONS . Daisy Hollman, a member of technical staff at Anthropic, announced the change in a social media post . "Fun fact: --dangerously-skip-permissions doesn't actually approve EVERYTHING – we still block some obvious things like rm -rf ~ ," she wrote. "But today's release will let you disable this if you really want, by setting a new env var CLAUDE_CODE_EVEN_MORE_DANGEROUSLY_SKIP_PERMISSIONS=1 " Not everyone believed Hollman, perhaps due to the absurdity of the variable name or because the change isn't listed in the v2.1.311 change log. But she offered reassurance that it's real. "Not a joke!" she responded. "I hope this helps, and I hope the variable name is memorable." The name is easy to remember because it is very much like the aforementioned Claude Code flag --dangerously-skip-permissions . That command line flag enables bypassPermissions mode, which first surfaced in Claude Code v1.0.18, on June 9, 2025. Claude Code has several permission modes : default, acceptEdits, plan, auto, dontAsk, and bypassPer
+
+### AI 'hacker' finds 4 severe bugs in popular industrial control software in under 4 hours
+Tue, 27 Oct 2026 19:11:02 +0000 — https://www.theregister.com/security/2026/10/27/ai-hacker-finds-4-severe-bugs-in-popular-industrial-control-software-in-under-4-hours/5305811
+
+An autonomous AI agent discovered four vulnerabilities in the decades-old, widely used EPICS (Experimental Physics and Industrial Control System) open source software toolkit, including a critical flaw that could allow remote attackers to execute code on systems used to control particle accelerators and fusion experiments. The bugs include a critical, 9.8-rated under CVSS v3.1 integer overflow vulnerability ( CVE-2026-114595 ), leading to an attacker-controlled out-of-bounds heap write and potentially remote code execution; an 8.2-rated, high-severity, improper message-length validation flaw ( CVE-2026-114596 ), causing an out-of-bounds memory write and controller-process crash; a 7.5-rated, high-severity insufficient bounds checking bug ( CVE-2026-114597 ) that allows out-of-bounds memory reads and process crashes; and a 7.5-rated, high-severity type confusion flaw ( CVE-2026-114598 ) that can lead to denial of service and could expose adjacent memory contents. All four affect EPICS Base, which is used to operate some of the world's largest scientific research projects and facilities, and organizations should update to version 7.0.11, which includes the fixes. “Successful exploitation of these vulnerabilities could allow an attacker to cause a denial-of-service condition, corrupt memory, disclose sensitive information, or potentially execute arbitrary code,” the US Cybersecurity and Infrastructure Security Agency (CISA) warned in a Tuesday advisory. An AI agent called Cipher
+
+### Apple takes powerful M6 chip to the MacBook Pro, iMac
+Tue, 27 Oct 2026 17:47:07 +0000 — https://www.theregister.com/personal-tech/2026/10/27/apple-takes-powerful-m6-chip-to-the-macbook-pro-imac/5305797
+
+If you were waiting to upgrade your Mac until you could get one with the latest CPU, the wait is over. Apple’s 6th-gen M-series processors are finally trickling down to its 14-inch MacBook Pro and iMac family early next month. Available in either “space black” or silver, Apple’s base-model MacBook Pro is largely unchanged from last gen. This is a mid-cycle refresh and so most of the improvements are under the hood. It sports the same high-res mini-LED display, chiclet keyboard, and port selection as its predecessor. Most of the improvements come from the silicon itself. Announced alongside a refreshed Mac mini in August, and fabbed on TSMC’s 2nm process tech, the M6 features a refreshed CPU with 12 CPU and 12 GPU cores, and is now complemented by a dual 16-core Neural Engine (what Apple calls its NPUs) which promises better performance for the slew of Apple Intelligence features now baked into macOS Golden Gate. The M6 MacBook Pro comes standard with 16 GB of unified memory, good for 153 GB/s of bandwidth. Memory can be specced up to 24 GB or 32 GB, boosting bandwidth to 170 GB/s for those with more demanding workloads or, as is more often the case, an aversion to closing Chrome tabs. Compared to the outgoing M5, which for the moment is still available in the MacBook Air, Apple says the M6 delivers significant performance gains thanks to the addition of two more cores. In Xcode, Apple boasts up to 30 percent higher performance versus a similarly equipped M5 MacBook Pro. The G
 
 ### EU privacy advocates accuse US data annotation firm of snooping on contractors
 Tue, 27 Oct 2026 17:29:00 +0000 — https://www.theregister.com/legal/2026/10/27/eu-privacy-advocates-accuse-us-data-annotation-firm-of-snooping-on-contractors/5305757
@@ -255,114 +300,119 @@ Tue, 27 Oct 2026 16:15:00 +0000 — https://www.theregister.com/cyber-crime/2026
 
 The University of New Mexico is canceling classes across the medicine, nursing, and pharmacy faculties for a second day amid continued efforts to recover from a "cybersecurity event." The attack targeted the Health Sciences Center on Monday, the Uni revealed, forcing it to shut down systems, cancel appointments and clinics at UNM Health hospitals, and divert ambulances to healthcare facilities in nearby Albuquerque and Santa Fe. Hospital appointments and clinics return to normal today, although nonessential UNM Health Sciences Center staff are being asked to remain at home. "The University of New Mexico Health Sciences Center (HSC), which includes the UNM Health clinical delivery system, experienced a cybersecurity event Monday, Oct. 26, 2026," the university said in a statement on Monday evening. "HSC information technology security teams immediately took steps to contain the event and protect the network. They also notified state and federal law enforcement and engaged external partners to assist with the investigation. "Leadership activated an Emergency Operations Center to coordinate the response and provide guidance to HSC employees, students, and UNM Health system frontline providers." The university announced the attack at 1430 local time, immediately cancelling all remaining clinics and classes, dismissing everyone other than critical and clinical staff, and urging patients not to attend HSC facilities. It has not commented on the nature of the cyberattack, although t
 
-### Take it on the chin SatNad: Microsoft chief exec's pay slips 6% in record year
-Tue, 27 Oct 2026 15:51:00 +0000 — https://www.theregister.com/saas/2026/10/27/take-it-on-the-chin-satnad-microsoft-chief-execs-pay-slips-6-in-record-year/5305737
-
-Sometimes you’ve just got to roll with the punches. Microsoft chairman and CEO Satya Nadella was knocked down recently: his total compensation for the corporation’s fiscal 2026 is 6 percent lighter than it was in the prior year. The leader of the software and cloud biz pocketed $90.6 million, including a $2.5 million base salary, $77.6 million in stock awards, $10.3 million non-equity incentive plan compensation and $259,203 in all other compensation (chiefly security for personal travel, charitable gifts and pension contributions). As Reg readers are no doubt be aware, stock vests at a different rate annually and in the latest full-year Nadella was awarded a lower figure, despite breezing through all of his financial and operational targets. Revenue for Microsoft's fiscal 2026 ended June 30 was up 18 percent to $331.8 billion and operating profit was 18 percent higher - at $ 155.237 billion - than SatNad's $130.96 billion target. Together, these areas accounted for 70 percent of the bossman’s remuneration goals. Operational assessment including security, strategic transformation and culture made up the rest. The executive pay scale was outlined in the Notice of Annual Shareholder Meeting and Proxy Statement 2026 . Other highlights in that financial year included a 27 percent bounce in revenue generated by the Cloud division to $214.4 billion. Microsoft added 88 datacenters to its portfolio, and had 30 million paid Copilot seats. "The scale of adoption reflects growing custom
-
-### CISA confirms PHP2Shell under attack as researchers clock successful exploits
-Tue, 27 Oct 2026 14:45:00 +0000 — https://www.theregister.com/cyber-crime/2026/10/27/cisa-confirms-php2shell-under-attack-as-researchers-clock-successful-exploits/5305681
-
-The US government's cybersecurity watchdog has confirmed attackers are exploiting both critical PHP2Shell vulnerabilities, giving federal agencies three days to patch the bugs that have wreaked havoc across the web over the past week. CISA added CVE-2026-109618 and CVE-2026-109619 to i ts Known Exploited Vulnerabilities (KEV) catalog on Monday , setting an October 29 deadline for federal civilian agencies to address the flaws. The move marks a shift from last week, when the agency warned of the danger posed by PHP2Shell but said it had not yet observed successful exploitation in the wild. Both bugs are rated 9.2 on the CVSS scale and can be exploited without authentication to run code on vulnerable PHP servers. That's bad news given how much of the web still relies on PHP, and just how many sites could be left exposed. Patches landed on October 21, but attackers had already beaten the maintainers to it. AWS spotted attempts to exploit the flaws as early as October 17 , four days before the bugs were publicly disclosed. CISA's confirmation comes amid growing evidence that attackers are doing more than simply knocking on the door. On October 24, Perplexity security researcher Adel Karimi recorded 35 successful shell executions across three honeypots running PHP 8.4.26 under Apache mod_php. The attacks came from two IP addresses and used memory exhaustion and disclosure to achieve remote code execution. The attackers then tried to contact external servers using PHP, curl, and wg
-
-### A whopping 3% of boardroom execs spy productivity and costs savings from AI
-Tue, 27 Oct 2026 14:00:00 +0000 — https://www.theregister.com/ai-and-ml/2026/10/27/a-whopping-3-of-boardroom-execs-spy-productivity-and-costs-savings-from-ai/5305675
-
-Three-quarters of corporate board members expect AI to deliver productivity gains and cut costs, yet only three percent of organizations have hit their targets, according to researchers at Gartner. The figures came out of the analyst’s HR Symposium, where it also reported that 38 percent of companies are over budget on AI spending, and 85 percent still plan to spend even more next year. "Ultimately, organizations will not generate cost savings from AI at this point," said CV Viverito, senior director analyst for Gartner's HR practice. "The greater opportunity is to use AI to do things that weren't possible before, such as shifting employee time into new capabilities, outcomes, and sources of growth." Gartner claims that at least 75 percent of biz leaders are out of step with the broader organization on where AI creates value, which stalls transformation efforts and muddies how to position the workforce and bag those returns. Organizations should concentrate AI on the work that matters most to the business, with HR helping execs to agree on the top bets based on strategy, Gartner advises. Companies should also spread existing AI expertise across the business rather than wait to hire scarce specialists, and give managers room to redesign the work around the technology, it adds. Only about one in five employees' time is freed-up by AI, letting them redirect toward more innovative work, the HR Symposium heard. “There isn’t a struggle to create capacity, that’s happening already a
-
-### Apple's foldable phone has a crease in its reputation
-Tue, 27 Oct 2026 13:15:00 +0000 — https://www.theregister.com/personal-tech/2026/10/27/apples-foldable-phone-has-a-crease-in-its-reputation/5305669
-
-Apple has confirmed problems with the folding screen on its flagship iPhone Duo after reports of misbehaving displays spread among its customer base. A company spokesperson told The Register , "We are aware of an issue impacting the inner display on a small number of iPhone Duo units." "If users experience issues with their iPhone Duo display, they should contact AppleCare for a replacement." That's the least the company can do. A borked screen on a brand-new device is something any customer would expect the warranty to cover. The iPhone Duo went on sale last week and sold out almost immediately as loyalists rushed to hand over cash for Apple's foldable device. UK shoppers can expect to pay from £1,999 to £3,199 for the Duo, depending on configuration. Complaints soon surfaced on social media, with a small number of customers reporting horizontal lines on their screens, and a crunching noise from the hinge. Some reports were undoubtedly the work of AI images, though iFixit speculated in a weekend teardown that dust ingress could be interfering with the complex hinge mechanism and stressing the screen. Apple is far from the only foldable maker to stumble over production creases in its foldable phone hardware. Samsung's Galaxy Fold was delayed in 2019 after reports of dust creeping under the screen and borked displays, prompting swift design tweaks. Francisco Jeronimo, veep of Worldwide Devices at IDC, said: "The early reports of inner display failures on the iPhone Duo show th
-
-### When file infrastructure becomes the bottleneck
-Tue, 27 Oct 2026 13:00:00 +0000 — https://www.theregister.com/storage/2026/10/27/sponsored-when-file-infrastructure-becomes-the-bottleneck/5305523
-
-Nobody sets out to build file infrastructure that makes employees less productive. Yet sensible technology decisions made years ago can leave organizations wrestling with systems that no longer suit how their teams work. Take network-attached storage (NAS). It has long provided a dependable way to store and access files. But what happens when the people using those files are no longer sitting in the same building, or even the same country? A project team can spend its morning waiting for a multi-gigabyte file to transfer over a VPN, then lose more time checking whether the copy they received is the latest. No single delay attracts much attention. Repeat that across projects and the cost starts to add up. The price of working around the problem When shared access becomes difficult, employees find workarounds. They download local copies, duplicate folders, and transfer files between systems to keep projects moving. Now imagine an architecture firm sharing a large building model between design offices. One team updates its copy while another works from yesterday’s export. Before anyone can move forward, someone has to reconcile the differences. That's time spent managing files rather than designing the building. Duplicated data consumes storage capacity and complicates oversight. Meanwhile, IT must keep legacy infrastructure running while addressing performance, cost, security, and governance requirements. Replacing every storage system is rarely a practical first move. Organiza
-
-### Microsoft releases out-of-band Windows fixes with certificate updates
-Tue, 27 Oct 2026 12:30:00 +0000 — https://www.theregister.com/security/2026/10/27/microsoft-releases-out-of-band-windows-fixes-with-certificate-updates/5305637
-
-Microsoft has released another out-of-band update for Windows, but this one isn't an emergency fix for the latest breakages. This time, it's all about certificates. The non-security out-of-band release applies to supported OSes ranging from Windows 11 and Windows Server 2025, to Windows 10. It's all about updating the current certificate trust list (CTL) of devices that cannot access Microsoft's certificate-update service, or where automatic CTL updates are disabled. It also contains everything in the October 13 update, including the ongoing VPN issues and the change that could break on-premises Exchange Servers . There might also be oddities with Smart App Control, audio, and Remote Desktop connections for non-admin users, all of which are known issues in the October 13 update. These problems are not resolved in this patch, so be aware of this when installing it. It is also worth remembering that many devices will not need this version since the current certificate list updates usually come down through the update service. However, if that service isn't available or being used, it might be a good idea to get this out-of-band fix (while keeping the known issues in mind), since problems can occur when verifying certificates used by applications or websites. The OOB update came after Microsoft laid out its response to the compromised eMudhra certificate keys. The Indian certification authority's private keys were compromised earlier this month, requiring a massive cleanup effor
-
-### Attack on email hosting provider for German far right party AfD exposed 345k accounts
-Tue, 27 Oct 2026 11:49:30 +0000 — https://www.theregister.com/cyber-crime/2026/10/27/attack-on-email-hosting-provider-for-german-far-right-party-afd-exposed-345k-accounts/5305660
-
-The cyberattack on Alternative for Germany (AfD), the country’s most prominent far-right political party, exposed hundreds of thousands of confidential emails and attachments, as well as more than 345,000 unique email addresses. Have I Been Pwned confirmed the scale of the breach for the first time today, after AfD officially disclosed the September attack on its hosting provider last week. AfD said in its statement that “only a few email accounts were illegally copied,” but admitted a large amount of the data was taken from them, resulting in an extensive data breach. The emails were added to what the party described as “an activist website,” which summarised the email chains into searchable topics and has led to the publication of various revelations, such as a party co-leader’s opinions on colleagues’ “deeply problematic” racial discourse . Per a report from investigative journalist Lilith Wittmann, citing conversations with the cybercriminals responsible for the hack-and-leak job and party sources, the attack was first spotted on September 9 and started with a compromise of a poorly protected WordPress site. The same report claimed the criminals gained persistent access to the servers operated by the hosting provider, identified as AfD-owned Alternita Dienstleistungs GmbH, and exfiltrated more than a terabyte of data. No official sources have verified the hackers’ claims about how the attack unfolded. The Register contacted Alternita Dienstleistungs for its take. AfD said
-
-### UK ministers had plenty of time for AI datacenter bosses, but none for environmental groups
-Tue, 27 Oct 2026 11:00:00 +0000 — https://www.theregister.com/on-prem/2026/10/27/uk-ministers-had-plenty-of-time-for-ai-datacenter-bosses-but-none-for-environmental-groups/5305654
-
-The British government has been busy courting AI datacenter companies while apparently finding little time to speak to the people who will have to live next door to their enormous server farms. That’s according to a report published Tuesday by campaign group Spotlight on Corruption, which found that 84 percent of the stakeholders ministers met with to discuss datacenters between July 2024 and June 2026 were businesses or private-sector trade associations. Environmental groups, by contrast, didn't get a single meeting with ministers or senior officials. The findings raise questions about who gets a say in Britain's AI Growth Zones, which the government hopes will attract billions of pounds in investment by making it easier and cheaper to build the infrastructure needed to power its AI ambitions. According to the report, titled Zoned Out, ministers met representatives from 137 different businesses during the two-year period, while permanent secretaries and directors general held no meetings with community groups about datacenters. Local residents didn't fare much better. Ministers met just two community groups, both after decisions had already been made to designate their areas as AI Growth Zones. In one case, the meeting took place on the very day the designation was announced. The government also failed to conduct a national public consultation on its AI Growth Zone strategy, despite the potential consequences for electricity supplies , water consumption , and local communiti
-
-### FreeBSD founder ports Omarchy to FreeBSD in ten days, ten releases
-Tue, 27 Oct 2026 10:15:00 +0000 — https://www.theregister.com/os-platforms/2026/10/27/freebsd-founder-ports-omarchy-to-freebsd-in-ten-days-ten-releases/5305446
-
-Omarchy has already taken up plenty of our column inches, but a new tentacle is reaching into the hitherto untouched FreeBSD. Daemonarchy brings Omarchy's Wayland-based desktop to the BSD world. It's an independent effort by Jordan Hubbard, one of the original founders of the FreeBSD project, and it's unaffiliated with the original Linux-based Omarchy. We looked at Omarchy in August and didn’t like it much. It isn't exactly a Linux distribution. That implies it's a coherent set of packages managed as a whole by uniform tools. Omarchy is a collection of apps and preconfigured settings, packaged up with the help of LLM bots and put up for download. You have to update it using its own special script, rather than the standard tools of the underlying Arch Linux – and in our testing, that update script fell over with error messages when running in a VM. However, there's no such thing as a bad press, and Omarchy is popular and growing. It keeps on attracting sponsorship as well as new users migrating from Windows and macOS, who seem to relish its bizarre, inconsistent, and ad hoc UI as a challenge: trying to close a window in Hyprland, the tiling compositor that forms the core of Omarchy's UI. In Omarchy, windows don't have title bars, let alone anything as old-fashioned as window control buttons you can click. To close a window, you must use a keystroke. In most Linux windowing environments, that's the standard Alt-F4 . Not here. Next, we tried Super+W – on a Mac, that's Command+W 
-
 ## Engadget
+
+### Meta's Waddle World is a Tamagotchi-like AI pet app
+Wed, 28 Oct 2026 08:40:19 +0000 — https://www.engadget.com/2299227/meta-tamagotchi-like-ai-digital-pet-app-waddle-world/
+
+Meta describes Waddle World as a 'daily journal disguised as a pet.'
+
+### iOS 27.2 brings two new features to Apple's CarPlay
+Wed, 28 Oct 2026 03:51:54 +0000 — https://www.engadget.com/2299185/ios-27-2-two-new-features-apple-carplay/
+
+iOS 27.2 comes with some changes for Apple CarPlay, too.
+
+### Don't throw away your old Kindle — repurpose it instead
+Wed, 28 Oct 2026 00:00:00 +0000 — https://www.engadget.com/2296053/dont-throw-away-your-old-kindle-repurpose-it/
+
+You can probably still read on it, and, with some finessing, you can turn it into a useful display.
+
+### This one missing feature from the Slate truck might be a dealbreaker for truck enthusiasts
+Tue, 27 Oct 2026 23:30:00 +0000 — https://www.engadget.com/2296050/slate-truck-missing-4wd-feature-possible-dealbreaker/
+
+The Slate Truck is known for offering hundreds of customization options, but one common truck option isn't available (yet.)
+
+### Discord public server messages may be soon searchable on Google, but you can opt out
+Tue, 27 Oct 2026 23:04:49 +0000 — https://www.engadget.com/2299126/discord-server-messages-google-searchable-opt-out/
+
+The platform's Discoverable Servers are about to get a lot more discoverable.
+
+### How to change and customize your Android Auto display
+Tue, 27 Oct 2026 23:00:00 +0000 — https://www.engadget.com/2296047/how-to-change-customize-android-auto-display/
+
+Tailor your tech to fit your daily drive seamlessly.
+
+### The best ways to tell if someone is using AI glasses
+Tue, 27 Oct 2026 22:30:00 +0000 — https://www.engadget.com/2296049/best-ways-tell-if-someone-wearing-ai-glasses/
+
+While it can be jarring to discover that your companion is using AI glasses, there are some steps you can take to recognize them ASAP.
+
+### What are wrong number text scams, and how can you avoid them?
+Tue, 27 Oct 2026 22:00:00 +0000 — https://www.engadget.com/2296048/wrong-number-text-scams-how-avoid/
+
+It's not an honest mistake; it's the start of an attack on your wallet.
+
+### Why is there a random arm taking over the X composer?
+Tue, 27 Oct 2026 21:35:22 +0000 — https://www.engadget.com/2299052/why-is-there-a-random-arm-taking-over-the-x-composer/
+
+The animation is pushing users to pay to promote their posts.
+
+### iPhone 18e reportedly comes with 2nm A20 chip and 60Hz screen
+Tue, 27 Oct 2026 21:26:20 +0000 — https://www.engadget.com/2299043/iphone-18e-reportedly-comes-with-2nm-a20-chip-and-60hz-screen/
+
+The leaks suggest the front camera could also see a boost.
+
+### ChatGPT can work with your iCloud Mail and Calendar thanks to new plugin support
+Tue, 27 Oct 2026 21:13:59 +0000 — https://www.engadget.com/2299026/chatgpt-can-work-with-your-icloud-mail-and-calendar-thanks-to-new-plugin-support/
+
+You can use the AI assistant to update calendar events and search your inbox, among other things.
 
 ### Rockstar workers in the UK will hold a union vote just as GTA 6 is released
 Tue, 27 Oct 2026 19:55:04 +0000 — https://www.engadget.com/2298907/rockstar-workers-in-uk-hold-union-vote-as-gta-6-release/
 
 A legal case alleging union-busting at the game developer will also wrap next month.
 
-### Grand Theft Auto VI reportedly requires a 210GB download
-Tue, 27 Oct 2026 19:39:37 +0000 — https://www.engadget.com/2298872/gta-6-download-size-reportedly-210-gb/
-
-Be prepared to surrender a significant portion of your console's hard drive.
-
-### This old Nokia phone got an AI Upgrade it was never designed for
-Tue, 27 Oct 2026 18:30:00 +0000 — https://www.engadget.com/2295625/old-nokia-phone-ai-upgrade-never-designed-for/
-
-The GOAT of dumb phones gets a new lease on life.
-
-### Why buying a Mac mini over a MacBook might be the smarter move
-Tue, 27 Oct 2026 18:00:00 +0000 — https://www.engadget.com/2296036/why-buying-mac-mini-over-macbook-smarter-move/
-
-Apple's smallest desktop delivers better performance and value for those willing to leave the laptop behind.
-
-### Pokémon Unite is shutting down
-Tue, 27 Oct 2026 16:57:44 +0000 — https://www.engadget.com/2298514/pokemon-unite-is-shutting-down/
-
-Its journey ends in March 2027.
-
-### Why does the FCC hate Minions routers?
-Tue, 27 Oct 2026 16:45:00 +0000 — https://www.engadget.com/2296043/why-does-the-fcc-hate-minions-routers/
-
-These themed routers are surprisingly (inexplicably) capable, but they are under threat by the FCC.
-
-### Apple Creator Studio update adds MotionVFX to Final Cut, and AI to everywhere
-Tue, 27 Oct 2026 16:21:44 +0000 — https://www.engadget.com/2298428/apple-creator-studio-update-adds-motionvfx-to-final-cut-and-ai-to-everywhere/
-
-Final Cut clips can finally be unlocked from the primary timeline - hallelujah.
-
-### Apple iPhone Duo vs Google Pixel 11 Pro Fold: The differences beyond foldable style
-Tue, 27 Oct 2026 16:15:00 +0000 — https://www.engadget.com/2296032/apple-iphone-duo-vs-google-pixel-11-pro-fold/
-
-With the iPhone Duo now in people's hands, how does it compare to Google's Pixel 11 Pro Fold?
-
-### You can finally see who's talking in voice chat on PlayStation 5 — here's how
-Tue, 27 Oct 2026 15:45:00 +0000 — https://www.engadget.com/2284038/playstation-5-display-whos-speaking-party-voice-feature/
-
-You don't have to guess who's loudly eating chips in your PlayStation 5 party anymore - now you can see who's speaking in real-time.
-
-### Vivo's X500 Pro Max is another camera-focused smartphone with more video tricks
-Tue, 27 Oct 2026 15:30:00 +0000 — https://www.engadget.com/2297022/vivos-x500-pro-max-hands-on/
-
-Vivo and Oppo are launching similar phones with different priorities.
-
-### The reason why some USB ports are orange
-Tue, 27 Oct 2026 15:15:00 +0000 — https://www.engadget.com/2295961/reason-why-usb-ports-orange/
-
-USB colors and symbols provide an idea of a port's capabilities, but are not as standardized as they should be.
-
-### Nintendo sets an Indie World showcase for October 28
-Tue, 27 Oct 2026 15:06:04 +0000 — https://www.engadget.com/2298300/nintendo-sets-an-indie-world-showcase-for-october-28/
-
-The stream will run for around 15 minutes and feature games coming to Switch and Switch 2.
-
 ## TechCrunch
+
+### Jio shares surge 21% in market debut after blockbuster India IPO
+Wed, 28 Oct 2026 05:20:32 +0000 — https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/
+
+Jio has debuted as India's second-most valuable listed company, behind its parent, Reliance Industries.
+
+### VCs will make billions on Anthropic s IPO, but Amazon is set to make much (much) more
+Wed, 28 Oct 2026 01:15:28 +0000 — https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/
+
+Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.
+
+### Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication
+Tue, 27 Oct 2026 23:34:27 +0000 — https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/
+
+A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.
+
+### The data center boom has an upside: innovation for the US grid
+Tue, 27 Oct 2026 22:55:41 +0000 — https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/
+
+As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.
+
+### Guidewire buys Hyperexponential for $1.7B in cash
+Tue, 27 Oct 2026 22:26:03 +0000 — https://techcrunch.com/2026/10/27/guidewire-buys-hyperexponential-for-1-7b-in-cash/
+
+The deal, expected to close sometime next year, is to help bring AI agents to work alongside humans to underwrite, analyze, and price decisions.
+
+### From 8VC to Benchmark, here s what s hiding in October SEC filings
+Tue, 27 Oct 2026 22:17:18 +0000 — https://techcrunch.com/2026/10/27/from-8vc-to-benchmark-heres-whats-hiding-in-october-sec-filings/
+
+A whole crop of venture capital firms are raising significant new funds.
+
+### GM is embracing hybrids now
+Tue, 27 Oct 2026 21:47:02 +0000 — https://techcrunch.com/2026/10/27/gm-is-embracing-hybrids-now/
+
+GM eschewed hybrids in favor of battery-electric vehicles. Now it's gearing up to offer hybrid versions of its SUVs.
+
+### Bank of America kindly asks that you don t share your banking password with your AI assistant
+Tue, 27 Oct 2026 21:44:34 +0000 — https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/
+
+The banking giant reminds customers that "you're responsible for activity" resulting from your AI agents' access.
+
+### Who s really in charge at Anthropic after the IPO?
+Tue, 27 Oct 2026 21:38:28 +0000 — https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/
+
+Here's a clear explanation of Anthropic's incredibly complex governance structure.
+
+### Discord is making its public communities more searchable, and people have concerns
+Tue, 27 Oct 2026 21:22:35 +0000 — https://techcrunch.com/2026/10/27/discord-is-making-its-public-communities-more-searchable-and-people-have-concerns/
+
+In December, messages from Discord's public discoverable servers will begin appearing in search engine results.
 
 ### Re:Build, which spun out Slate Auto, raises $2.1B
 Tue, 27 Oct 2026 20:31:17 +0000 — https://techcrunch.com/2026/10/27/rebuild-which-spun-out-slate-auto-raises-2-1b/
@@ -373,54 +423,4 @@ The manufacturing accelerator bills itself as "America’s answer to Shenzhen."
 Tue, 27 Oct 2026 18:55:35 +0000 — https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/
 
 Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.
-
-### Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?
-Tue, 27 Oct 2026 17:08:08 +0000 — https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/
-
-TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.
-
-### Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering
-Tue, 27 Oct 2026 16:30:57 +0000 — https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/
-
-Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters.
-
-### Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace
-Tue, 27 Oct 2026 14:59:09 +0000 — https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/
-
-Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.
-
-### Ford Fathom will be the cheapest American EV capable of powering a house
-Tue, 27 Oct 2026 14:51:33 +0000 — https://techcrunch.com/2026/10/27/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-a-house/
-
-Ford is rolling out two new chargers capable of powering a home or the grid — so-called V2X capability.
-
-### US government says hackers are now exploiting critical PHP web bugs
-Tue, 27 Oct 2026 14:40:39 +0000 — https://techcrunch.com/2026/10/27/us-government-says-hackers-are-now-exploiting-critical-php-web-bugs/
-
-The U.S. government cyber agency warns that hackers have figured out a way to exploit the popular PHP software, used in 70% of the web's software.
-
-### Apple unveils new 14-inch MacBook Pro with M6 chip
-Tue, 27 Oct 2026 14:25:11 +0000 — https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/
-
-The new MacBook Pro comes with 24 hours of battery life, and now features support for Wi-Fi 7 and Bluetooth 6 connectivity.
-
-### Apple rolls out iOS 27.2 with new Siri AI languages and security fixes
-Tue, 27 Oct 2026 13:54:51 +0000 — https://techcrunch.com/2026/10/27/apple-rolls-out-ios-27-2-with-new-siri-ai-languages-and-security-fixes/
-
-The latest Apple software update for iPhones and iPads includes new features and important security updates.
-
-### Japan internet giant GMO says hackers posted stolen customer data
-Tue, 27 Oct 2026 13:32:57 +0000 — https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/
-
-Japan's GMO Internet is verifying alleged customer data posted by suspected hackers following a cloud service breach.
-
-### Billionaire Palmer Luckey isn t leaving California over the wealth tax
-Tue, 27 Oct 2026 13:01:00 +0000 — https://techcrunch.com/2026/10/27/billionaire-palmer-luckey-isnt-leaving-california-over-the-wealth-tax/
-
-"It's causing a lot of people to run who I don't want to be running," native Californian Palmer Luckey said. "But I'm planning on staying in California. I'm going to keep fighting it."
-
-### Anduril, Qualcomm launch BlueChip, a new kind of US-made laptop
-Tue, 27 Oct 2026 13:00:00 +0000 — https://techcrunch.com/2026/10/27/anduril-qualcomm-launch-bluechip-a-new-kind-of-us-made-laptop/
-
-Anduril founder Palmer Luckey is vowing to bring computer manufacturing back to the U.S., and by that he doesn't just mean assembly, but every individual component, some of which are exclusively made in China today.
 

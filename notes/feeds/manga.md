@@ -1,6 +1,46 @@
-# Manga — harvested 2026-10-27T20:58:10.770Z
+# Manga — harvested 2026-10-28T10:49:01.657Z
 
 ## Anime News Network
+
+### Masaki Andō's Mojiponika! Manga Ends on November 25
+Tue, 27 Oct 2026 23:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-27/masaki-ando-mojiponika-manga-ends-on-november-25/.243238
+
+Comedy manga launched in May 2025
+
+### Yome ga Kuru Artist saku Launches New Kimi to Sakura no Hanataba wo Manga
+Tue, 27 Oct 2026 22:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-27/yome-ga-kuru-artist-saku-launches-new-kimi-to-sakura-no-hanataba-wo-manga/.243258
+
+<cite>Kimi to Sakura no Hanataba wo</cite> debuts on November 1
+
+### Anime World Offers Condolences After Manga Creator Tetsuya Chiba's Death, Part I
+Tue, 27 Oct 2026 21:00:00 -0400 — https://www.animenewsnetwork.com/interest/2026-10-27/anime-world-offers-condolences-after-manga-creator-tetsuya-chiba-death-part-i/.243254
+
+Colleagues and publishers offer their respect to legendary manga creator of <cite>Ashita no Joe</cite>
+
+### Eito Chida Launches New Hoshibarai no Chidori Manga
+Tue, 27 Oct 2026 20:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-27/eito-chida-launches-new-hoshibarai-no-chidori-manga/.243220
+
+<cite>Hoshibarai no Chidori</cite> debuts on November 20
+
+### Live-Action Sins of Kujo Film's New Trailer Unveils Theme Song
+Tue, 27 Oct 2026 19:44:12 -0400 — https://www.animenewsnetwork.com/news/2026-10-27/live-action-sins-of-kujo-film-new-trailer-unveils-theme-song/.243264
+
+Hitsujibungaku performs "Dispel"
+
+### We Are Aliens Film Wins Awards at Rome, Philadelphia Film Festivals
+Tue, 27 Oct 2026 19:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-27/we-are-aliens-film-wins-awards-at-rome-philadelphia-film-festivals/.243231
+
+New video showing film clip streams
+
+### Deadline: Takashi Yamazaki's Grandgear Film Casts Sam Nivola, Nico Parker
+Tue, 27 Oct 2026 18:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-27/deadline-takashi-yamazaki-grandgear-film-casts-sam-nivola-nico-parker/.243234
+
+Paul Giamatti also reportedly in talks to join cast
+
+### Manga Mavericks Books, Omoi License Georgie Manga in English
+Tue, 27 Oct 2026 17:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-27/manga-mavericks-books-omoi-license-georgie-manga-in-english/.243227
+
+Series launches digitally in spring 2027, in print in August 2027
 
 ### Manga Barcelona to Host Junji Ito, Hyuganatsu, Nao Iwamoto, Sakaomi Yuzaki, Yudetamago, Taizan 5, Kore Yamazaki, Shoji Kawamori, More
 Tue, 27 Oct 2026 16:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-27/manga-barcelona-to-host-junji-ito-hyuganatsu-nao-iwamoto-sakaomi-yuzaki-yudetamago-taizan-5-kore-/.243251
@@ -22,51 +62,21 @@ Tue, 27 Oct 2026 13:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-1
 
 "Clash of the Red and Black" arc centers on FBI vs. Black Organization
 
-### Even the Student Council Has Its Holes! ‒ Episode 4
-Tue, 27 Oct 2026 12:30:00 -0400 — https://www.animenewsnetwork.com/review/even-the-student-council-has-its-holes/episode-4/.243249
-
-Not content to rest on its ecchi anime laurels, the series also makes a sincere go at the girls band genre with a beautifully rendered singer-songwriter ditty from Koki.
-
-### GKIDS Releases cocoon Wartime Anime Digitally With Blu-ray Disc Release Shipping on January 19
-Tue, 27 Oct 2026 12:10:19 -0400 — https://www.animenewsnetwork.com/news/2026-10-27/gkids-releases-cocoon-wartime-anime-digitally-with-blu-ray-disc-release-shipping-on-january-19/.243255
-
-Film launches digitally on Apple TV, Prime Video on Tuesday
-
-### Bleach Mirrors High Mobile Game's Opening Animation Trailer Reveals Theme Song, October 28 Launch
-Tue, 27 Oct 2026 12:00:35 -0400 — https://www.animenewsnetwork.com/news/2026-10-27/bleach-mirrors-high-mobile-game-opening-animation-trailer-reveals-theme-song-october-28-launch/.243252
-
-suisoh performs theme song "CRITICAL" for iOS/Android game
-
-### DIGIMON BEATBREAK Episodes 38-49 Anime Series Review
-Tue, 27 Oct 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/digimon-beatbreak-episodes-38-49/anime-series/.242706
-
-Calling this show the <i>Digimon</i> franchise's most ambitious anime entry in quite a while would be an understatement.
-
-### Blue Box Season 2 ‒ Episode 4
-Tue, 27 Oct 2026 11:30:00 -0400 — https://www.animenewsnetwork.com/review/blue-box-season-2/episode-4/.243228
-
-As a character, Yumeka Goto is maybe the best thing to ever happen to <i>Blue Box</i>.
-
-### Witch on the Holy Night Film's Trailer Previews supercell's Theme Song
-Tue, 27 Oct 2026 11:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-27/witch-on-the-holy-night-film-trailer-previews-supercell-theme-song/.243248
-
-Film screens in U.S., Canada on January 29, 2027
-
-### Phantom Busters TV Anime Reveals Main Cast, Staff
-Tue, 27 Oct 2026 10:32:22 -0400 — https://www.animenewsnetwork.com/news/2026-10-27/phantom-busters-tv-anime-reveals-main-cast-staff/.243246
-
-Nobuhiko Okamoto, Natsuki Hanae, Kōki Uchiyama, Ryōta Suzuki star in TOHO animation STUDIO anime
-
-### #I'm Looking For a Zombie ‒ Episode 4
-Tue, 27 Oct 2026 10:30:00 -0400 — https://www.animenewsnetwork.com/review/im-looking-for-a-zombie/episode-4/.243222
-
-This is the closest that the show got to making me feel any type of strong, genuine emotion.
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Phantom Busters Anime Reveals First Teaser Visual, Main Staff and Cast
+Wed, 28 Oct 2026 00:19:02 GMT — https://animecorner.me/phantom-busters-anime-reveals-first-teaser-visual-main-staff-and-cast/
+
+Phantom Busters anime has revealed the first teaser visual, along with introducing the main&hellip;
+
+### Interview: SPYAIR on European Tour 2026 and Haikyu!! Anime Songs
+Wed, 28 Oct 2026 00:04:35 GMT — https://animecorner.me/interview-spyair-on-european-tour-2026-and-haikyu-anime-songs/
+
+Ahead of the SPYAIR EUROPE TOUR 2026, we spoke with the rock band SPYAIR&hellip;
 
 ### CosMeet 2026 Celebrates Creativity and Glamour at Okada Manila
 Tue, 27 Oct 2026 17:49:42 GMT — https://animecorner.me/cosmeet-2026-celebrates-creativity-and-glamour-at-okada-manila/
@@ -108,11 +118,6 @@ Mon, 26 Oct 2026 11:31:24 GMT — https://animecorner.me/black-clover-season-2-e
 
 Black Clover Season 2 has released preview images and synopsis for Episode 5 (Episode 175 overall) ahead of its October 31 premiere.
 
-### Interview: Corey Wilder at Anime Central
-Mon, 26 Oct 2026 02:59:04 GMT — https://animecorner.me/interview-corey-wilder-at-anime-central/
-
-Corey Wilder is a voice you've almost certainly heard and one you definitely should&hellip;
-
 ## MyAnimeList News
 
 ### Mairimashita! Iruma-kun: If Episode of Mafia Announces Production Staff
@@ -130,16 +135,11 @@ Mon, 26 Oct 2026 21:57:02 -0700 — https://myanimelist.net/news/74869899?_locat
 
 Tetsuya Chiba, best known as the artist for the Ashita no Joe (Ashita no Joe: Fighting for Tomorrow) manga, died on October 27. He was 87. Born in Tokyo in January 1939, Chiba made his professional debut with Fukushuu no Semushi in 1956. Following the end of World War II, he returned to Japan with his family after spending childhood in Manchuria, northeastern China. Chiba drew manga for various magazines early in his career. In January 1967, he began drawing for Ikki Kajiwara s Ashita no Jo...
 
-### Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season Unveils Additional Cast, Third Promo for "Fujimiya Family" Arc
-Mon, 26 Oct 2026 02:44:09 -0700 — https://myanimelist.net/news/74865718?_location=rss
-
-The official website for the television anime adaptation of Miraijin A s Tensei Kizoku, Kantei Skill de Nariagaru: Jakushou Ryouchi wo Uketsuida node, Yuushuu na Jinzai wo Fuyashiteitara, Saikyou Ryouchi ni Natteta (As a Reincarnated Aristocrat, I ll Use My Appraisal Skill to Rise in the World) light novel unveiled additional cast, a third key visual (pictured), and the third promotional video for the third season on Monday. The new arc is scheduled to premiere on November 1 at 11:30 p...
-
 ## Otaku USA
 
-_Nothing in the last 48 hours._
+_Feed unavailable: HTTP 520_
 
 ## Anime UK News
 
-_Feed unavailable: HTTP 403_
+_Nothing in the last 48 hours._
 
