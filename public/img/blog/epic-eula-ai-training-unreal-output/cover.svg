@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#18011F"/>
+      <stop offset="1" stop-color="#1E6F5C"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <text x="90" y="150" font-family="Helvetica, Arial, sans-serif" font-size="34" fill="#9FE8D4" letter-spacing="3">UNREAL ENGINE EULA</text>
+  <text x="90" y="300" font-family="Helvetica, Arial, sans-serif" font-size="128" font-weight="700" fill="#FFFFFF">AI training</text>
+  <text x="90" y="410" font-family="Helvetica, Arial, sans-serif" font-size="128" font-weight="700" fill="#FFFFFF">on output:</text>
+  <text x="90" y="520" font-family="Helvetica, Arial, sans-serif" font-size="128" font-weight="700" fill="#9FE8D4">allowed</text>
+  <text x="90" y="610" font-family="Helvetica, Arial, sans-serif" font-size="30" fill="#CFE9E0">Sweeney, 27 October 2026 — no text, no date</text>
+</svg>
