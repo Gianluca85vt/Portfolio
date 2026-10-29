@@ -1,66 +1,66 @@
-# Manga — harvested 2026-10-28T19:07:08.865Z
+# Manga — harvested 2026-10-29T11:05:32.190Z
 
 ## Anime News Network
 
-### Good Smile Company Announces Data Breach of Online Store
-Wed, 28 Oct 2026 14:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-28/good-smile-company-announces-data-breach-of-online-store/.243267
+### The Remarried Empress Webtoon Launches Side Stories Ahead of Disney+ Live-Action Series
+Thu, 29 Oct 2026 06:23:25 -0400 — https://www.animenewsnetwork.com/news/2026-10-29/the-remarried-empress-webtoon-launches-side-stories-ahead-of-disney-live-action-series/.243306
 
-User info, order info, basic (but incomplete) credit card info were accessed
+New episodes will also include alternate-universe stories that imagine different scenarios
 
-### What Romance Tropes Saka Mikami Avoided With The Fragrant Flower Blooms With Dignity Manga
-Wed, 28 Oct 2026 13:35:01 -0400 — https://www.animenewsnetwork.com/interview/2026-10-28/what-romance-tropes-saka-mikami-avoided-with-the-fragrant-flower-blooms-with-dignity-manga/.243085
+### Good Smile Company: Full Credit Card Details for 2,800 Customers May Have Been Exposed in Data Breach
+Thu, 29 Oct 2026 05:10:54 -0400 — https://www.animenewsnetwork.com/news/2026-10-29/good-smile-company-full-credit-card-details-for-2800-customers-may-have-been-exposed-in-data-breach/.243323
 
-While visiting Kodansha House during New York Comic Con weekend, Mikami shared one moment from the manga that shocked her, despite writing being the person who wrote it
+Company's current update states customers' complete 16-digit card number may have been exposed due to breach
 
-### Bleach: Thousand-Year Blood War - The Calamity ‒ Episode 10
-Wed, 28 Oct 2026 13:30:00 -0400 — https://www.animenewsnetwork.com/review/bleach-thousand-year-blood-war-the-calamity/episode-10/.243290
-
-This was a great note for <i>Bleach</i> to end on, and I’m glad Pierrot Films made it the best it could possibly hope to be.
-
-### Bakudo Action Game's Trailer Reveals Switch 2 Version, 2027 Release
-Wed, 28 Oct 2026 13:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-28/bakudo-action-game-trailer-reveals-switch-2-version-2027-release/.243289
-
-Shueisha Games to release sci-fi action battle game for Switch 2, PC
-
-### Crunchyroll to Stream Mashle: Magic and Muscles Season 3 Anime
-Wed, 28 Oct 2026 12:30:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-28/crunchyroll-to-stream-mashle-magic-and-muscles-season-3-anime/.243281
-
-3rd season debuts in January
-
-### Detective Conan: The Counterfeit Crime Case of Ultra 30 Anime TV Special Review
-Wed, 28 Oct 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/detective-conan/the-counterfeit-crime-case-of-ultra-30/anime-tv-special/.242552
-
-Unfortunately, this special is not befitting for the series' 30th anniversary.
-
-### Anime World Offers Condolences After Manga Creator Tetsuya Chiba's Death, Part II
-Wed, 28 Oct 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/interest/2026-10-28/anime-world-offers-condolences-after-manga-creator-tetsuya-chiba-death-part-ii/.243262
+### Anime World Offers Condolences After Manga Creator Tetsuya Chiba's Death, Part III
+Wed, 28 Oct 2026 23:59:00 -0400 — https://www.animenewsnetwork.com/interest/2026-10-28/anime-world-offers-condolences-after-manga-creator-tetsuya-chiba-death-part-iii/.243265
 
 Creators, artists, & fans came together for their farewells
 
-### Bandai Namco Announces Mobile Suit Gundam Battle Operation 3 Game for PS5, PC
-Wed, 28 Oct 2026 11:45:12 -0400 — https://www.animenewsnetwork.com/news/2026-10-28/bandai-namco-announces-mobile-suit-gundam-battle-operation-3-game-for-ps5-pc/.243288
+### Solo Leveling: Arise Overdrive Game Launches for PS5, Xbox Series X|S on November 3
+Wed, 28 Oct 2026 22:00:16 -0400 — https://www.animenewsnetwork.com/news/2026-10-28/solo-leveling-arise-overdrive-game-launches-for-ps5-xbox-series-x-s-on-november-3/.243300
 
-Trailer streamed for free-to-play team combat game
+Game launched for PC via Steam, Xbox PC in November 2025
 
-### Cardfight!! Vanguard Announces New Veil Lift Anime, 2nd Season of Ghost Meets Gal Mini Anime
-Wed, 28 Oct 2026 11:00:55 -0400 — https://www.animenewsnetwork.com/news/2026-10-28/cardfight-vanguard-announces-new-veil-lift-anime-2nd-season-of-ghost-meets-gal-mini-anime/.243287
+### Rainbow Days' Minami Mizuno Launches New Fujikawa Minori wa Erabenai. Manga
+Wed, 28 Oct 2026 22:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-28/rainbow-days-minami-mizuno-launches-new-fujikawa-minori-wa-erabenai-manga/.243279
 
-More details will be announced for <cite>Cardfight!! Vanguard Veil Lift</cite> on December 7
+Mizuno to launch <cite>Fujikawa Minori wa Erabenai.</cite> manga on November 28
 
-### A Certain Dark Item ‒ Episode 3
-Wed, 28 Oct 2026 10:30:00 -0400 — https://www.animenewsnetwork.com/review/a-certain-dark-item/episode-3/.243270
+### Seven Seas Licenses Nighthawk, Once Again, Will You Take a Bath with Me?, 2 More Titles
+Wed, 28 Oct 2026 21:55:42 -0400 — https://www.animenewsnetwork.com/news/2026-10-28/seven-seas-licenses-nighthawk-once-again-will-you-take-a-bath-with-me-2-more-titles/.243298
 
-This time around, our heroes are clearly in the dark about the true nature of their job.
+Also licensed: <cite>Dumbass Zombies!!! An Intermediate-Level Survival Guide for a World Where You Can Die Just Going to Borrow Soy Sauce</cite>, <cite>Misdeeds of an Extremely Arrogant Villain Aristocrat</cite> audiobook
 
-### Nia Liston: The Merciless Maiden ‒ Episode 4
-Wed, 28 Oct 2026 09:30:00 -0400 — https://www.animenewsnetwork.com/review/nia-liston-the-merciless-maiden/episode-4/.243268
+### New Fortnite Battle Royale Trailer Confirms One Piece's Straw Hat Pirates
+Wed, 28 Oct 2026 21:00:00 -0400 — https://www.animenewsnetwork.com/interest/2026-10-28/new-fortnite-battle-royale-trailer-confirms-one-piece-straw-hat-pirates/.243286
 
-I’m confident that this show won’t find a mainstream audience, but <i>Nia Liston</i> is rapidly becoming an anime geared towards people who have my exact educational background.
+<cite>Fortnite's</cite> "Treasure Hunters" launches on November 1
 
-### Hatsune Miku Connecting Puzzle TAMAGOTORI Deluxe Game Launches on October 29
-Wed, 28 Oct 2026 08:44:31 -0400 — https://www.animenewsnetwork.com/news/2026-10-28/hatsune-miku-connecting-puzzle-tamagotori-deluxe-game-launches-on-october-29/.243224
+### Natsume Ono to Launch Korore Spinoff Manga of ACCA-13, Badon Manga
+Wed, 28 Oct 2026 20:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-28/natsume-ono-to-launch-korore-spinoff-manga-of-acca-13-badon-manga/.243271
 
-New edition includes original game, two DLC packs
+New <cite>KORORE</cite> manga launches on February 25
+
+### Sachiko Uguisu's Kaikai Gigigigigi Manga Ends
+Wed, 28 Oct 2026 19:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-28/sachiko-uguisu-kaikai-gigigigigi-manga-ends/.243263
+
+Series debuted in April 2025
+
+### The Full-Time Wife Escapist's Tsunami Umino Launches New Manga in December
+Wed, 28 Oct 2026 18:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-28/the-full-time-wife-escapist-tsunami-umino-launches-new-manga-in-december/.243280
+
+Umino to launch series of previous 1-shot <cite>Omiai Tantei Katabiranotsuji Nagi</cite>
+
+### Yuki Amemiya, Yukino Ichihara's My Husband is a Doomsday Weapon Manga Ends
+Wed, 28 Oct 2026 17:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-28/yuki-amemiya-yukino-ichihara-my-husband-is-a-doomsday-weapon-manga-ends/.243272
+
+Manga launched in November 2024; Kodansha USA to release 1st volume in English on December 22
+
+### Digimon Alysion Smartphone Card Game Opens Pre-Registration with New Trailer
+Wed, 28 Oct 2026 16:30:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-28/digimon-alysion-smartphone-card-game-opens-pre-registration-with-new-trailer/.243297
+
+Game slated for 2026 release
 
 ## Crunchyroll News
 
@@ -103,33 +103,33 @@ Tue, 27 Oct 2026 11:44:30 GMT — https://animecorner.me/bleach-mirrors-high-rev
 
 BLEACH Mirrors High has revealed its opening animation, theme song, along with an October 28 global launch date for the game.
 
-### Welcome to Demon School! Iruma-kun: IruMafia Edition Anime Main Visual and January 4 Revealed
-Tue, 27 Oct 2026 10:59:27 GMT — https://animecorner.me/welcome-to-demon-school-iruma-kun-irumafia-edition-anime-main-visual-and-january-4-revealed/
-
-The spin-off anime Welcome to Demon School! Iruma-kun: IruMafia Edition revealed the main visual, along with a January 4, 2027 premiere.
-
 ## MyAnimeList News
 
-### Mairimashita! Iruma-kun: If Episode of Mafia Announces Production Staff
-Tue, 27 Oct 2026 03:34:11 -0700 — https://myanimelist.net/news/74870752?_location=rss
+### Shin Oishinbo Reveals Additional Cast, Theme Songs
+Thu, 29 Oct 2026 02:52:07 -0700 — https://myanimelist.net/news/74880493?_location=rss
 
-The official website for the television anime adaptation of hiroja s Mairimashita! Iruma-kun: If Episode of Mafia (Welcome to Demon School! Iruma-kun: IruMafia Edition) manga revealed the production staff and a key visual (pictured) on Tuesday. The anime series will begin airing on NHK-G at 11:00 p.m. on January 4, 2027. Staff Director: Keiichirou Kawaguchi (Higurashi no Naku Koro ni Gou) Series Composition: Kazuyuki Fudeyasu (Yasei no Last Boss ga Arawareta!) Character Design: Kenji Fujisa...
+The official website for the television anime adaptation of Tetsu Kariya s Oishinbo manga, titled Shin Oishinbo, revealed additional cast and theme songs on Thursday. The anime is scheduled to premiere in 2027. Cast Hideo Tanimura: Tohru Furusawa (Toradora!) Tomio Tomii: Kousuke Echigoya (Akane-banashi) Taizou Oohara: Nobuo Tobita (World Is Dancing) Kyouichi Koizumi: Hiroshi Naka (Saigo ni Hitotsu dake Onegai shitemo Yoroshii deshou ka) Kinue Arakawa: Kyou Yaoya (Tefuda ga Oome no Victoria...
 
-### Phantom Busters Announces Main Cast, Staff
-Tue, 27 Oct 2026 02:39:46 -0700 — https://myanimelist.net/news/74870618?_location=rss
+### Saijaku na Boku wa "Kabenuke Bug" de Nariagaru Announces Additional Cast, Staff
+Thu, 29 Oct 2026 02:00:03 -0700 — https://myanimelist.net/news/74880301?_location=rss
 
-The official website for the television anime adaptation of Shoco s Phantom Busters manga revealed the main cast, staff, and a teaser visual (pictured) on Tuesday. The anime series will premiere in 2027. Cast Mogari Shishikuno: Nobuhiko Okamoto (Boku no Hero Academia) Eugene Korekishi: Natsuki Hanae (Kimetsu no Yaiba) Kaoru Kanzaki: Kouki Uchiyama (Horimiya) Koutarou Tamon: Ryouta Suzuki (Kaguya-sama wa Kokurasetai) Staff Director: Chika Nagaoka (Tamon-kun Ima Docchi!?) Character Design: Ta...
+The official website of the Saijaku na Boku wa "Kabenuke Bug" de Nariagaru (No-Clipping My Way to Supremacy!) television anime announced additional cast and staff on Thursday. The anime series adapting Nikita Kitagawa s adventure fantasy light novel will premiere in 2027. Cast Auroia Schmiket: Nao Ojika (Mahou no Shimai Lulutto Lilly) Don: Kengo Tsujii (Liar Game) Guillermo: Tatsuhisa Suzuki (Nanatsu no Taizai) Scarlet: Anna Yamaki (Rifle Is Beautiful) Latch: Shun Horie (Kanojo, O...
 
-### Ashita no Joe Manga Artist Tetsuya Chiba Dies at 87
-Mon, 26 Oct 2026 21:57:02 -0700 — https://myanimelist.net/news/74869899?_location=rss
+### Nijiiro Days Creator Launches New Manga
+Wed, 28 Oct 2026 18:22:17 -0700 — https://myanimelist.net/news/74879108?_location=rss
 
-Tetsuya Chiba, best known as the artist for the Ashita no Joe (Ashita no Joe: Fighting for Tomorrow) manga, died on October 27. He was 87. Born in Tokyo in January 1939, Chiba made his professional debut with Fukushuu no Semushi in 1956. Following the end of World War II, he returned to Japan with his family after spending childhood in Manchuria, northeastern China. Chiba drew manga for various magazines early in his career. In January 1967, he began drawing for Ikki Kajiwara s Ashita no Jo...
+Manga creator Minami Mizuno announced on X (formerly Twitter) on Wednesday that she will launch a new manga, Fujikawa Minori wa Erabenai., in the Cocohana magazine. The January 2027 issue will publish the first chapter on November 28. Mizuno is best known for Nijiiro Days (Rainbow Days), which ran in Bessatsu Margaret magazine from December 2011 to May 2018. Shueisha published the 16th and final volume in June 2018. VIZ Media licensed the manga in English in February 2022 and released the 16th v...
 
 ## Otaku USA
 
 _Nothing in the last 48 hours._
 
 ## Anime UK News
+
+### The Crow’s Ballad at Dawn Review
+Thu, 29 Oct 2026 10:00:23 +0000 — https://animeuknews.net/2026/10/the-crows-ballad-at-dawn-review/
+
+Office worker Akito discovers a mysterious pleasure boat catering to supernatural beings – and is bewitched by a beautiful crow tengu, Suiren. But when he goes back, there’s no sign of the boat or Suiren – was it just a dream?
 
 ### MASHLE: MAGIC AND MUSCLES Returns to Crunchyroll January 2027
 Wed, 28 Oct 2026 14:34:05 +0000 — https://animeuknews.net/2026/10/mashle-magic-and-muscles-returns-to-crunchyroll-january-2027/

@@ -1,4 +1,4 @@
-# Review radar — updated 2026-10-28
+# Review radar — updated 2026-10-29
 
 Built by `scripts/harvest-embargoes.mjs` from Steam's upcoming releases,
 sorted by date and filtered to titles priced at €25 or more. That price line is
@@ -18,9 +18,7 @@ Games only. Film and television still come from `notes/feeds/film-tv.md`.
 
 ## Reviews expected within three days
 
-| Title | Publisher | Release | Away | Reviews from | Price |
-|---|---|---|---|---|---|
-| Phantom Blade Zero | S-GAME Publishing | 2026-10-28 | today | 2026-10-27 | €59.99 |
+_Nothing inside three days._
 
 ## Further out, within 14 days
 
@@ -28,7 +26,7 @@ _Nothing else dated in the window._
 
 ---
 
-*1500 upcoming titles scanned, 1060 with a firm date inside
-14 days, 1 above the price line. Titles showing
+*950 upcoming titles scanned, 560 with a firm date inside
+14 days, 0 above the price line. Titles showing
 "Q4 2026" or "To be announced" are dropped: a quarter says nothing about when
 reviews arrive.*
