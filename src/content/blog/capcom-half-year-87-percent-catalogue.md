@@ -41,6 +41,11 @@ Evil Requiem sits at 8.51 million lifetime. The half was paid for by the other
 
 ## What a catalogue business asks of an art department
 
+<figure>
+  <img src="/img/blog/capcom-half-year-87-percent-catalogue/shot-02.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>CAPCOM Co., Ltd., via the official PRAGMATA Steam page</figcaption>
+</figure>
+
 From a production seat the ratio matters more than the units. A company
 earning seven eighths of its volume from old games is buying something
 specific from the people who make the art: longevity.
