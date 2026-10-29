@@ -19,7 +19,6 @@ artistView:
   misses:
     - "Scalability: the work that makes a game still sellable in year five is shader fallbacks, source files a stranger can open and naming nobody has to decode, and it is the least credited work in any art department."
     - "Performance: the Capcom game that pushed RE Engine furthest into open world is the one reviewers hit hardest on frame delivery, and a game that needs tuning to run well is a harder thing to re-sell cold years later."
-draft: true
 ---
 
 Capcom's six months to 30 September moved 36.86 million games, up from 23.85
