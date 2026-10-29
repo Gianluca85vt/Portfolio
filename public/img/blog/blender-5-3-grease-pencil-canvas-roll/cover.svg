@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#18011F"/>
+      <stop offset="1" stop-color="#E87D0D"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <text x="80" y="170" font-family="Helvetica, Arial, sans-serif" font-size="42" fill="#F6E7D8" opacity="0.85">Blender 5.3 · Grease Pencil</text>
+  <text x="80" y="330" font-family="Helvetica, Arial, sans-serif" font-size="150" font-weight="bold" fill="#FFFFFF">Roll the</text>
+  <text x="80" y="470" font-family="Helvetica, Arial, sans-serif" font-size="150" font-weight="bold" fill="#FFFFFF">canvas</text>
+  <text x="80" y="580" font-family="Helvetica, Arial, sans-serif" font-size="40" fill="#F6E7D8" opacity="0.9">Flip and roll in camera view · stroke select in Draw Mode</text>
+  <text x="80" y="650" font-family="Helvetica, Arial, sans-serif" font-size="36" fill="#F6E7D8" opacity="0.7">Beta to 4 Nov 2026 · release expected 10 Nov</text>
+</svg>
