@@ -3,7 +3,7 @@ title: "Early Access is the launch: 2,924 games in 2026"
 date: 2026-10-29
 category: Games
 excerpt: SteamDB counted 2,924 Early Access launches in 2026, and only 21% of games earn more after 1.0 than they did on day one. The art deadline moved.
-cover: /img/blog/early-access-is-the-launch-2924-games/cover.svg
+cover: /img/blog/early-access-is-the-launch-2924-games/shot-01.jpg
 sources:
   - outlet: GamesIndustry.biz
     url: https://www.gamesindustry.biz/developers-need-to-treat-early-access-like-a-real-launch-because-players-do-early-access-games-are-on-the-rise-but-so-are-player-expectations
