@@ -2,13 +2,15 @@
 title: "Tetsuya Chiba dies at 87: how he drew a punch"
 date: 2026-10-28
 category: Manga
-excerpt: The Ashita no Joe artist died on 27 October, aged 87. His solution to putting force into a still drawing is the one animators still use.
+excerpt: The Ashita no Joe artist died on 22 October, aged 87. His answer to putting force into a still drawing is the one animators still use.
 cover: /img/blog/tetsuya-chiba-drawing-a-punch/cover.svg
 sources:
   - outlet: MyAnimeList News
     url: https://myanimelist.net/news/74869899
   - outlet: Anime News Network
     url: https://www.animenewsnetwork.com/interest/2026-10-28/anime-world-offers-condolences-after-manga-creator-tetsuya-chiba-death-part-ii/.243262
+  - outlet: Anime News Network
+    url: https://www.animenewsnetwork.com/news/2026-10-27/ashita-no-joe-creator-tetsuya-chiba-dies-at-87/.243235
 artistView:
   take: "Chiba worked without the two things every modern pipeline reaches for when it needs to sell an impact: motion blur and a camera. He had a flat page and a reader's eye moving across it, and he put the force of a hit into the poses on either side of the hit. That is anticipation and follow-through, arrived at from a drawing desk rather than from an animation textbook."
   works:
@@ -29,9 +31,11 @@ travels at a speed you only partly control.
 Tetsuya Chiba spent fifty years solving that, and he solved it the way an
 animator would.
 
-He died on 27 October, aged 87. MyAnimeList and Anime News Network both carried
-it, ANN running a second round of tributes from across the industry the
-following day. Born in Tokyo in January 1939, he spent his childhood in
+He died on 22 October, aged 87, in a hospital in Tokyo. The news stayed private
+for five days: on the 27th a statement went up in his wife's name as chief
+mourner, the publishers began posting tributes, and NHK reported the cause as
+myelodysplastic syndrome. Anime News Network carried the death that day and a
+second round of industry condolences the day after. Born in Tokyo in January 1939, he spent his childhood in
 Manchuria and came back to Japan with his family after the war. He turned
 professional in 1956. In 2024 the Japanese government gave him the Order of
 Culture, reported at the time as the first award of it to a manga artist.
