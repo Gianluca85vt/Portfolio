@@ -22,11 +22,13 @@ _Nothing inside three days._
 
 ## Further out, within 14 days
 
-_Nothing else dated in the window._
+| Title | Publisher | Release | Away | Reviews from | Price |
+|---|---|---|---|---|---|
+| ArcheAge Chronicles | XLGAMES | 2026-11-03 | 5d | 2026-11-02 | €29.99 |
 
 ---
 
-*950 upcoming titles scanned, 560 with a firm date inside
-14 days, 0 above the price line. Titles showing
+*1500 upcoming titles scanned, 1109 with a firm date inside
+14 days, 1 above the price line. Titles showing
 "Q4 2026" or "To be announced" are dropped: a quarter says nothing about when
 reviews arrive.*
