@@ -16,7 +16,6 @@ artistView:
     - "Scope: a storefront page that has to sell on its first ten hours rewards a team that builds a small, repeatable asset vocabulary early instead of a showpiece level."
   misses:
     - "Pipeline: when the commercial launch is the Early Access date, polish gets front-loaded on to whatever the trailer shows, and the content shipped in years two and three inherits a quality bar set before anyone knew what the game was."
-draft: true
 ---
 
 SULFUR left Early Access yesterday, on **28 October 2026**, about three years
