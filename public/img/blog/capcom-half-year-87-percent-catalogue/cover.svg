@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="87 percent of Capcom's half-year units came from the back catalogue">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#18011F"/>
+      <stop offset="1" stop-color="#D6294E"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <text x="80" y="140" font-family="Helvetica, Arial, sans-serif" font-size="32" fill="#FFE2E8" opacity="0.85" letter-spacing="6">CAPCOM — SIX MONTHS TO 30 SEPTEMBER 2026</text>
+  <text x="80" y="340" font-family="Helvetica, Arial, sans-serif" font-size="200" font-weight="700" fill="#FFFFFF">87%</text>
+  <text x="80" y="420" font-family="Helvetica, Arial, sans-serif" font-size="46" fill="#FFE2E8" opacity="0.92">of the units sold were games</text>
+  <text x="80" y="478" font-family="Helvetica, Arial, sans-serif" font-size="46" fill="#FFE2E8" opacity="0.92">from previous years.</text>
+  <text x="80" y="560" font-family="Helvetica, Arial, sans-serif" font-size="30" fill="#FFE2E8" opacity="0.6">36.86m units total — 32.18m of them back catalogue</text>
+</svg>
