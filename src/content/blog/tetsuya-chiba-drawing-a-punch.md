@@ -3,7 +3,7 @@ title: "Tetsuya Chiba dies at 87: how he drew a punch"
 date: 2026-10-28
 category: Manga
 excerpt: The Ashita no Joe artist died on 22 October, aged 87. His answer to putting force into a still drawing is the one animators still use.
-cover: /img/blog/tetsuya-chiba-drawing-a-punch/cover.svg
+cover: /img/blog/tetsuya-chiba-drawing-a-punch/shot-01.jpg
 sources:
   - outlet: MyAnimeList News
     url: https://myanimelist.net/news/74869899
@@ -46,6 +46,11 @@ wrote it under the name Asao Takamori. Chiba drew it. Twenty volumes of a boy
 learning to box and being dismantled by it.
 
 ## Where the force lives
+
+<figure>
+  <img src="/img/blog/tetsuya-chiba-drawing-a-punch/shot-01.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>Cabinet Public Relations Office, Government of Japan, 1 November 2023, via Wikimedia Commons (CC BY 4.0)</figcaption>
+</figure>
 
 Open a Chiba fight and count how often the actual connection is the big
 drawing. It mostly is not. The big drawing is the frame before — a heel
