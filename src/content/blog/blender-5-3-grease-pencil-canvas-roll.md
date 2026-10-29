@@ -18,7 +18,6 @@ artistView:
   misses:
     - "Draw Mode: selection covers whole strokes only, so the moment the work gets to tangents and single points, Edit Mode is back. The coverage calling this the end of mode-switching runs ahead of the release notes."
     - "Camera rigs: a rolled view is a view transform, so camera-parented planes and screen-space setups will not follow it. The notes say nothing about that, and 2D work in Blender leans on camera space heavily."
-draft: true
 ---
 
 Ask a 2D animator what they do when a line goes wrong and they will tell you
