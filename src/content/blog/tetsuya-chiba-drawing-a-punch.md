@@ -19,7 +19,6 @@ artistView:
     - "Linework: a brush line that thickens under load is a stress diagram drawn freehand, and it is doing work no uniform outline can do."
   misses:
     - "Continuity: a figure redrawn over five years of weekly serialisation drifts away from itself, so early and late volumes do not match. That is the bill for drawing a body that changes rather than holding to a model sheet."
-draft: true
 ---
 
 A punch in a still drawing has a problem. The moment of contact is the moment
