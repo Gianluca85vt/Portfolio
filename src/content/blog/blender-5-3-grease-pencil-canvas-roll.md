@@ -45,6 +45,11 @@ below can still move before the final build.
 
 ## Mirroring is a diagnostic
 
+<figure>
+  <img src="/img/blog/blender-5-3-grease-pencil-canvas-roll/shot-02.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>Blender interface screenshots, via Wikimedia Commons (free licence). Used as an illustration of the Blender viewport; the shots predate 5.3 and do not show Grease Pencil's new canvas roll.</figcaption>
+</figure>
+
 The flip earns its place as a working tool rather than a comfort. Illustrators
 mirror a canvas to audit their own drawing: errors in proportion and balance
 that the eye has quietly stopped registering become obvious the moment the

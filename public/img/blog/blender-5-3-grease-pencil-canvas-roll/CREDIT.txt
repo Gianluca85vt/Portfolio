@@ -1,0 +1,4 @@
+Blender interface screenshots, via Wikimedia Commons (free licence). Used as an illustration of the Blender viewport; the shots predate 5.3 and do not show Grease Pencil's new canvas roll.
+
+- /img/blog/blender-5-3-grease-pencil-canvas-roll/shot-01.jpg
+- /img/blog/blender-5-3-grease-pencil-canvas-roll/shot-02.jpg
