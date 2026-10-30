@@ -16,7 +16,6 @@ artistView:
     - "Animation: a K9 takedown has to land on two differently proportioned protagonists, on uneven ground, with a believable recovery. That is paired animation authored more than once, and keeping it in the build is not a small decision."
   misses:
     - "Scope risk: a tackle that reads on kerbs, stairs and sand is the coverage problem that usually ends in one canned animation reused everywhere. A single print description tells us nothing about how often it plays."
-draft: true
 ---
 
 A German Shepherd gets Jason on the ground, and a Rockstar developer standing
