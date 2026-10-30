@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0.6" y2="1">
+      <stop offset="0" stop-color="#18011F"/>
+      <stop offset="1" stop-color="#7A1F3D"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#g)"/>
+  <text x="80" y="150" fill="#F2D9E2" font-family="Helvetica, Arial, sans-serif" font-size="34" letter-spacing="6">GODZILLA MINUS ZERO</text>
+  <text x="80" y="310" fill="#FFFFFF" font-family="Helvetica, Arial, sans-serif" font-size="150" font-weight="700">1.43:1</text>
+  <text x="80" y="390" fill="#F2D9E2" font-family="Helvetica, Arial, sans-serif" font-size="44">IMAX full frame</text>
+  <text x="80" y="460" fill="#D9A8BA" font-family="Helvetica, Arial, sans-serif" font-size="32">The crop that paid for 35 artists is gone</text>
+</svg>
