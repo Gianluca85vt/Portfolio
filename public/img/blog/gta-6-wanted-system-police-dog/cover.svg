@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Eleven authored branches for two seconds of dog">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#18011F"/>
+      <stop offset="58%" stop-color="#6B1327"/>
+      <stop offset="100%" stop-color="#D6294E"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="900" fill="url(#bg)"/>
+
+  <!-- the branch count: approach, arrival, transition, pin, two exits, get-up x2 -->
+  <g fill="#FFFFFF">
+    <rect x="96" y="112" width="96" height="26" fill-opacity="0.88"/>
+    <rect x="208" y="112" width="96" height="26" fill-opacity="0.76"/>
+    <rect x="320" y="112" width="96" height="26" fill-opacity="0.64"/>
+    <rect x="432" y="112" width="96" height="26" fill-opacity="0.52"/>
+    <rect x="544" y="112" width="96" height="26" fill-opacity="0.40"/>
+    <rect x="656" y="112" width="96" height="26" fill-opacity="0.30"/>
+    <rect x="768" y="112" width="96" height="26" fill-opacity="0.22"/>
+    <rect x="880" y="112" width="96" height="26" fill-opacity="0.16"/>
+  </g>
+
+  <text x="96" y="372" font-family="Helvetica, Arial, sans-serif" font-size="150" font-weight="700" fill="#FFFFFF">2 seconds</text>
+  <text x="96" y="446" font-family="Helvetica, Arial, sans-serif" font-size="44" font-weight="400" fill="#FFFFFF" fill-opacity="0.84">of dog, authored branch by branch</text>
+
+  <text x="96" y="566" font-family="Helvetica, Arial, sans-serif" font-size="38" font-weight="400" fill="#FFFFFF" fill-opacity="0.64">Remembering your shirt costs a few bytes.</text>
+  <text x="96" y="616" font-family="Helvetica, Arial, sans-serif" font-size="38" font-weight="400" fill="#FFFFFF" fill-opacity="0.64">The takedown costs an animator a month.</text>
+</svg>
