@@ -1,184 +1,209 @@
-# Film & TV — harvested 2026-10-29T19:12:25.641Z
+# Film & TV — harvested 2026-10-30T11:01:04.651Z
 
 ## Variety
 
-### Taylor Sheridan s The Last Cowboy Sets Season 7 Premiere Date on CMT (EXCLUSIVE)
-Thu, 29 Oct 2026 19:00:00 +0000 — https://variety.com/2026/tv/news/the-last-cowboy-season-7-release-date-1236933537/
+### Shah Rukh Khan, Kajol, Rani Mukerji, Salman Khan Starrer ‘Kuch Kuch Hota Hai’ to Mark 30th Anniversary at Edinburgh Film Festival With Karan Johar
+Fri, 30 Oct 2026 10:30:00 +0000 — https://variety.com/2026/film/festivals/shah-rukh-khan-karan-johar-kuch-kuch-hota-hai-30th-anniversary-edinburgh-film-festival-1236934894/
 
-Taylor Sheridan s sports documentary series The Last Cowboy is riding back onto the small screen. Season 7 of the CMT series will premiere on Nov. 6 at 8 p.m. with six episodes. Episodes will be available the next day on CMT VOD, while the first six seasons are available to stream on Paramount+. The Last [ ]
+“Kuch Kuch Hota Hai,” Karan Johar’s first film as director, starring Shah Rukh Khan, Kajol and Rani Mukerji, will screen at the Edinburgh International Film Festival in 2028 to celebrate its 30th anniversary, with Johar set to attend. Johar received the invitation earlier this week at a meeting he hosted at the Mumbai offices of [ ]
 
-### Young Storytellers Nonprofit Launches Jamie Tarses Fund in Tribute to the Influential TV Executive
-Thu, 29 Oct 2026 18:48:15 +0000 — https://variety.com/2026/biz/news/jamie-tarses-young-storytellers-fund-matt-1236934308/
+### American History X Director Tony Kaye Takes On Leicester’s Giant Monsters in Short Will You Still Love Me Tomorrow? (EXCLUSIVE)
+Fri, 30 Oct 2026 10:00:00 +0000 — https://variety.com/2026/film/news/american-history-x-director-tony-kaye-leicester-monsters-short-1236934725/
 
-Young Storytellers, the nonprofit that supports writing development programs in Los Angeles public schools, has established the Jamie Tarses Fund to pay tribute to the late ABC and NBC executive and help support the organization s work. Young Storytellers recruits volunteers from the entertainment industry and others with writing experience to work with students in elementary, [ ]
+Tony Kaye, the British director of “American History X” and “Detachment,” will direct “Will You Still Love Me Tomorrow?,” a short running five minutes that blends documentary with reality drama and plays out among the giant monster sculptures installed across Leicester, England. Hiu Man Chan, a film entrepreneur and academic in creative industries at De [ ]
 
-### Batman Casting in DC Universe Isn t Far Away, Says James Gunn: A Movie Star Isn t Mandatory but He ll Be Around the Same Age as Superman
-Thu, 29 Oct 2026 18:38:21 +0000 — https://variety.com/2026/film/news/batman-casting-dc-superman-age-james-gunn-1236934350/
+### Microdrama Platform FlareFlow Sets Thailand Launch on AIS Play (EXCLUSIVE)
+Fri, 30 Oct 2026 09:46:39 +0000 — https://variety.com/2026/tv/news/microdrama-platform-flareflow-thailand-launch-ais-play-1236934882/
 
-Robert Pattinson may be the star of Matt Reeves The Batman series, but another Caped Crusader will soon take flight in the rebooted DC universe under James Gunn. The DC Studios chief has revealed a few details on who will don the cowl in his new universe, which launched with last year s Superman starring David [ ]
+Microdrama platform FlareFlow will launch in Thailand on Nov. 2 through AIS Play, the entertainment service of Thai telecom operator Advanced Info Service (AIS), in a deal brokered by Singapore-based distributor Rock Networks. FlareFlow, the vertical video service owned by COL Group, will cost subscribers THB39 ($1.15) a month. AIS Play users will find a [ ]
 
-### Monarch: Legacy of Monsters Eyes Season 3 Renewal at Apple TV With New Writers, Showrunner
-Thu, 29 Oct 2026 18:00:00 +0000 — https://variety.com/2026/tv/news/monarch-legacy-of-monsters-season-3-renewal-new-showrunner-1236934328/
+### Mohammad Rasoulof, Shahrbanoo Sadat Push Back on Idea of Separate Oscar Category for Exiled Filmmakers as Cate Blanchett’s Displacement Film Fund Hits Tokyo
+Fri, 30 Oct 2026 09:31:09 +0000 — https://variety.com/2026/film/festivals/rasoulof-sadat-push-back-oscar-category-exiled-filmmakers-1236934877/
 
-Apple TV and Legendary Television are currently in talks for a third season of Monarch: Legacy of Monsters, but with some major changes. According to an individual with knowledge of the situation, Season 3 of the show would be helmed by a new showrunner and new writers, and would feature new Titans from Legendary s Monsterverse. [ ]
+Iranian filmmaker Mohammad Rasoulof and Iranian-born Afghan director Shahrbanoo Sadat pushed back on the idea of a standalone Oscar category for exiled filmmakers, speaking at the Tokyo International Film Festival as Cate Blanchett’s Displacement Film Fund gave its first five short films their Japan premiere. The question followed the Academy’s recent rule change making exiled [ ]
 
-### PUBG Live-Action Series From Donald Glover, Stephen Glover in Development at Netflix
-Thu, 29 Oct 2026 17:30:00 +0000 — https://variety.com/2026/tv/news/pubg-live-action-show-netflix-donald-glover-stephen-glover-1236934277/
+### Annecy Winner ‘The Violinist’ Found Its Italian Co-Producers at Tokyo Market, Director Ervin Han Tells Anime Co-Production Panel
+Fri, 30 Oct 2026 08:15:43 +0000 — https://variety.com/2026/film/markets-festivals/annecy-winner-violinist-found-italian-partners-tiffcom-1236934868/
 
-Netflix is developing a live-action series based on the battle royale video game PlayerUnknown s Battlegrounds ( PUBG ) with Donald Glover attached to star. In addition to starring, Glover and his brother and frequent collaborator Stephen Glover will write and executive produce the PUBG show, with Donald also planning to direct. Michael Schaefer of Neon TV will [ ]
+A meeting at TIFFCOM in 2023 brought Italian co-producers to “The Violinist,” the animated feature that went on to win the top prize at France’s Annecy International Animation Film Festival this year, Singaporean filmmaker Ervin Han told a panel at the Tokyo market. Han, co-founder and CEO of Singapore’s Robot Playground Media, spoke at “Anime’s [ ]
 
-### Cannes Chief Thierry Fremaux Hails French Film Model as CNC Head Gaëtan Bruel Vows to Fight for Its Future at 80th Anniversary
-Thu, 29 Oct 2026 17:08:00 +0000 — https://variety.com/2026/film/global/cannes-thierry-fremaux-french-film-model-cnc-gaetan-bruel-1236934291/
+### Taiwanese Feature ‘Uncle’ Wins Top Prize at Tokyo Gap-Financing Market Awards
+Fri, 30 Oct 2026 07:38:42 +0000 — https://variety.com/2026/film/markets-festivals/taiwanese-feature-uncle-top-prize-tokyo-gap-financing-market-1236934855/
 
-France’s National Film Board, the CNC, marked its 80th anniversary with a three-day gathering of industry leaders in Paris, including Cannes Film Festival chief Thierry Frémaux who praised the country s unique film funding system. CNC president Gaëtan Bruel, meanwhile, warned against attempts to dismantle a model that has helped make France a global cinema powerhouse. [ ]
+Taiwanese project “Uncle,” directed by Yen Hao-hsuan, won the Tokyo Project Award on Friday at the seventh Tokyo Gap-Financing Market (TGFM) in Tokyo. “Uncle” had already picked up the Asian Gen-Z Award earlier in the ceremony. Prizes went to a handful of the 24 projects selected for this year’s market. Yen’s debut feature, set in [ ]
 
-### Andrew Tate Docuseries Toxic Empire Set at Investigation Discovery
-Thu, 29 Oct 2026 17:00:00 +0000 — https://variety.com/2026/tv/news/andrew-tate-docuseries-toxic-empire-investigation-discovery-1236933458/
+### Gay Filipino Couple’s Homecoming Documentary We Had a Plan Boarded by Cat Docs Ahead of IDFA Premiere, Trailer Unveiled (EXCLUSIVE)
+Fri, 30 Oct 2026 07:00:00 +0000 — https://variety.com/2026/film/news/gay-filipino-couple-documentary-catdocs-idfa-1236934716/
 
-Investigation Discovery (ID) will release a new four-part docuseries on the infamous brothers Andrew and Tristan Tate, Variety has learned. Titled Andrew Tate: Toxic Empire, the four-part series will have its two-hour premiere on Nov. 25 on ID at 9pm ET/PT. Subsequent episodes will roll out on Wednesdays thereafter. It will also be available to [ ]
+“We Had a Plan,” a documentary about a gay Filipino couple who head home after a decade as undocumented cleaners in the Netherlands, has been picked up for international sales by Paris-based Cat Docs ahead of its world premiere at IDFA. Variety has the exclusive first look at the trailer. Directed by Suzanne Raes and co-directed [ ]
 
-### The Bold and the Beautiful Star Heather Tom on Potentially Breaking a Daytime Emmys Acting Record This Friday
-Thu, 29 Oct 2026 17:00:00 +0000 — https://variety.com/2026/tv/news/bold-and-the-beautiful-star-heather-tom-daytime-emmys-record-1236933867/
+### Japan’s Anime Market Hits Record $28.2 Billion as Local Sales Surge
+Fri, 30 Oct 2026 06:02:57 +0000 — https://variety.com/2026/film/markets-festivals/japan-anime-market-record-28-billion-local-sales-surge-1236934838/
 
-Heather Tom could make history this Friday at the 53rd annual Daytime Emmys. “The Bold and the Beautiful” star is in line to win her seventh Daytime Emmy, which would give her the most wins by an actress in daytime history. As it now stands, “The Bold and the Beautiful” star is tied with Erika [ ]
+Spending on Japanese anime worldwide reached a record JPY4.45 trillion ($28.2 billion) in 2025. That is up 15.8% on the previous year, and overseas consumers now account for well over half of the total. Hasegawa Masahiro, editor-in-chief of the Association of Japanese Animations’ (AJA) annual “Anime Industry Report,” presented the preliminary figures Friday at TIFFCOM, [ ]
 
-### Hollywood Marketing Leaders Gather for a Candid Conversation About the Future of Entertainment
-Thu, 29 Oct 2026 16:41:52 +0000 — https://variety.com/lists/future-entertainment-marketing-dinner-amazon-ads/
+### Rishab Shetty’s Chhatrapati Shivaji Maharaj Epic The Pride of Bharat Lands T-Series, Set as Two-Part Saga (EXCLUSIVE)
+Fri, 30 Oct 2026 05:30:00 +0000 — https://variety.com/2026/film/news/ishab-shetty-shivaji-epic-pride-of-bharat-t-series-1236934634/
 
-Top Hollywood film and TV leaders gathered Oct. 22 for an intimate dinner and candid conversation about the future of entertainment marketing at a gathering moderated in partnership with Amazon Ads and Variety. Executives who convened at BOA Steakhouse in West Hollywood compared notes and talked shop about the buzzy subjects that are transforming the [ ]
+India s T-Series has boarded “The Pride of Bharat – Chhatrapati Shivaji Maharaj,” Sandeep Singh’s historical epic starring “Kantara” actor Rishab Shetty as the Maratha king. The project will now be made in two parts, and filming begins in early 2027. Bhushan Kumar and Krishan Kumar will produce for T-Series Films, and Shetty also comes on [ ]
 
-### BAFTA Trustees Accused of Potentially Violating Charity Law Over Free Ceremony Tickets
-Thu, 29 Oct 2026 16:29:19 +0000 — https://variety.com/2026/film/news/bafta-accused-violating-charity-law-free-ceremony-tickets-1236934263/
+### Shabana Azmi, Marco Müller Set for Inaugural Kathmandu Film Festival
+Fri, 30 Oct 2026 03:30:00 +0000 — https://variety.com/2026/film/festivals/shabana-azmi-marco-muller-inaugural-kathmandu-film-festival-1236934643/
 
-BAFTA trustees may have violated U.K. charity and company laws by accepting complimentary awards show tickets that were not disclosed in the organization s financial accounts, according to allegations raised at the British Academy s annual general meeting this week. Michael Pritchett, chair of BAFTA s membership council, said legal advice he commissioned suggested that trustees who approved [ ]
+Veteran Indian actor Shabana Azmi and film critic and historian Marco Müller are among the guests at the first Kathmandu Film Festival (KFF), which runs Oct. 30–Nov. 1 in Nepal. Launched by Kathmandu Metropolitan City, the three-day event will screen 40 films from 14 countries across several strands: the International Panorama, Nepal Panorama Shorts, a [ ]
 
 ## The Hollywood Reporter
 
-### People Inc. Cuts 195 Staffers Over Rapid Changes In Media
-Thu, 29 Oct 2026 18:39:34 +0000 — https://www.hollywoodreporter.com/business/business-news/people-inc-layoffs-1236742806/
+### Edinburgh Film Festival Toasts Bollywood With Kuch Kuch Hota Hai Anniversary Event at 2028 Edition
+Fri, 30 Oct 2026 10:30:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/edinburgh-film-festival-kuch-kuch-hota-hai-bollywood-2028-1236743427/
 
-Mogul Barry Diller had been looking for an "AI proof" investment in MGM Resorts but had dropped the takeover bid.
+Superstars of Indian cinema Shah Rukh Khan and Kajol lead Karan Johar's cult favorite.
 
-### Universal Music Group Posts $3.78 Billion in Revenue For Q3, Signals Fight Against AI Slop
-Thu, 29 Oct 2026 18:21:51 +0000 — https://www.hollywoodreporter.com/music/music-industry-news/universal-music-group-q3-earnings-1236742726/
+### From Sh*t Happens to an Erotic Photographer Being Confronted by His Daughter: Offbeat Films at Tallinn
+Fri, 30 Oct 2026 09:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/tallinn-film-festival-preview-poff-2026-offbeat-movies-1236739898/
 
-UMG CEO Lucian Grainge discussed the proliferation of AI music during the company's earnings call, calling for DSPs to pay out less for AI slop tracks than to genuine artists.
+A Christmas mystery, 'Fruitcakes: Dawn of Drag,' a Hungarian thriller, films with animalistic titles and a Lithuanian mashup of family drama, the Chinese 'Book of Changes' and retro sci-fi also feature at PÖFF.
 
-### ‘The Cat in the Hat’ Is Back: How the Seuss Icon’s First Animated Feature Will Kick Off a New Era
-Thu, 29 Oct 2026 18:19:05 +0000 — https://www.hollywoodreporter.com/movies/movie-features/cat-in-the-hat-directors-dr-seuss-enterprises-bill-hader-1236734078/
+### Jamie Dornan Boards Nostalgie, Starring Aidan Gillen as Washed-up Pop Star, as Executive Producer (Exclusive)
+Fri, 30 Oct 2026 08:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/jamie-dornan-short-film-nostalgie-executive-producer-1236742889/
 
-Ahead of the book’s 70th anniversary celebration in 2027, Susan Brandt, CEO of Dr. Seuss Enterprises, and creatives behind the new film from Warner Bros. Pictures Animation talk about bringing the author's colorful, hatch marked universe to the animated feature space.
+Kathryn Ferguson’s IFTA-winning short film features original music by Bastille’s Dan Smith and cinematography by two-time Oscar nominee Robbie Ryan.
 
-### Monarch: Legacy of Monsters Eyes Season 3 Shakeup — If It s Renewed
-Thu, 29 Oct 2026 18:00:16 +0000 — https://www.hollywoodreporter.com/tv/tv-news/monarch-legacy-of-monsters-season-3-talks-apple-tv-1236742729/
+### American Horror Story Finale: Paul Anthony Kelly on the Season 13 Ending and Whether He ll Return
+Fri, 30 Oct 2026 04:52:00 +0000 — https://www.hollywoodreporter.com/tv/tv-features/american-horror-story-finale-paul-anthony-kelly-explained-1236741324/
 
-Apple and producer Legendary Television are in talks for a third season of the series.
+The 'Love Story' star speaks with THR about playing young Mr. Nas and his reaction to this season's conclusion: "I was flabbergasted."
 
-### Piers Morgan Wants to Conquer America s Midterm Election Coverage
-Thu, 29 Oct 2026 17:56:47 +0000 — https://www.hollywoodreporter.com/business/digital/piers-morgan-uncensored-midterm-election-coverage-plans-1236741058/
+### Godzilla Minus Zero : First Reactions
+Fri, 30 Oct 2026 04:10:57 +0000 — https://www.hollywoodreporter.com/movies/movie-news/godzilla-minus-zero-first-reactions-toho-1236743206/
 
-The newspaper editor-turned TV personality-turned YouTuber is bringing his show 'Uncensored' to Washington D.C. for election night.
+The sequel to the critically-acclaimed and Oscar-winning 'Godzilla Minus One' will hit theaters in Japan on Nov. 3 and North America on Nov. 6.
 
-### Donald Glover Writing, Starring in PUBG Video Game Adaptation in the Works at Netflix
-Thu, 29 Oct 2026 17:30:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/donald-glover-pubg-video-game-series-netflix-1236742656/
+### Japan s TeamLab Bringing Permanent Digital Art Exhibition Space to California
+Fri, 30 Oct 2026 03:28:19 +0000 — https://www.hollywoodreporter.com/lifestyle/arts/teamlab-anaheim-california-1236743348/
 
-Stephen Glover is also writing and executive producing.
+Set to open in 2030, TeamLab Anaheim will be the first permanent U.S. space for the art collective.
 
-### China’s First Fully AI-Generated Movie Flops at the Box Office
-Thu, 29 Oct 2026 17:11:34 +0000 — https://www.hollywoodreporter.com/movies/movie-news/sanxingdui-future-past-ai-movie-box-office-flop-1236742696/
+### Patrick Stewart s Career Was a Rare and Thrilling Marriage of the Prestigious and the Populist
+Fri, 30 Oct 2026 02:35:36 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/patrick-stewart-critics-appreciation-1236743268/
 
-'Sanxingdui: Future Past' marks a milestone test of AI movie popularity, but a hit using the technology increasingly appears inevitable.
+Stewart's classical theater chops invested genre film and television roles with unlikely dramatic weight, psychological depth and piercing feeling.
 
-### Investigation Discovery to Probe Andrew Tate Allegations in Toxic Empire Docuseries
-Thu, 29 Oct 2026 17:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/andrew-tate-toxic-empire-docuseries-id-1236741879/
+### Curry Barker Returns to His YouTube Horror Roots With Mama Bear Amid Obsession Success
+Fri, 30 Oct 2026 01:01:13 +0000 — https://www.hollywoodreporter.com/movies/movie-news/curry-barker-youtube-horror-roots-mama-bear-obsession-1236742675/
 
-The four-part series will chart the controversial social media personality's rise as he sits in a U.S. jail, along with brother Tristan, fighting extradition to the U.K. on rape and sex trafficking charges.
+The filmmaker's five-minute short reunited him with 'Obsession' costume designer Blair James, who tells The Hollywood Reporter the project was filmed just three and a half weeks before its release.
 
-### Miles Teller Signs With LBI Entertainment (Exclusive)
-Thu, 29 Oct 2026 17:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/miles-teller-representation-manager-lbi-entertainment-1236742324/
+### Ian McKellen Pays Tribute to Patrick Stewart: A Man to Rely on, Admire and in My Case, Love
+Fri, 30 Oct 2026 00:54:30 +0000 — https://www.hollywoodreporter.com/movies/movie-news/patrick-stewart-ian-mckellen-tribute-1236743258/
 
-Ahead of his next starring turn in James Gray's 'Paper Tiger' opposite Adam Driver and Scarlett Johansson, the actor inks for management representation with Rick Yorn and Scott Greenberg.
+McKellen and Stewart led the original 'X-Men' franchise for 20th Century Fox, portraying Magneto/Erik Lehnsherr and Professor Charles Xavier, respectively.
 
-### Michael Bay, Benedict Cumberbatch Left Rattled in New Netflix Mockumentary ‘Cunk on Cinema’ Trailer
-Thu, 29 Oct 2026 16:00:47 +0000 — https://www.hollywoodreporter.com/tv/tv-news/charlie-booker-netflix-mockumentary-cunk-on-cinema-1236742661/
+### Patrick Stewart Rose From Obscurity to Boldly (and Baldly) Go Where No Yorkshireman Had Gone Before
+Fri, 30 Oct 2026 00:22:36 +0000 — https://www.hollywoodreporter.com/movies/movie-features/patrick-stewart-shakespeare-star-trek-make-it-so-memoir-1236743227/
 
-Diane Morgan’s Philomena Cunk poses awkwardly comedic questions to the Hollywood veterans and others about the history of the silver screen in a six-parter to debut Nov. 15.
+Sir Pat Stew's collaborator on his 2023 memoir, 'Making It So,' retraces the late actor's unlikely second act, plucked from the Shakespearean stage and placed at the helm 'USS Enterprise' — and a nonpareil Hollywood career.
 
 ## Deadline
 
-### ‘The Next Pro’ Waltzing To L.A.? BBC Studios Eyes Production Move For ‘Dancing With The Stars’ Spinoff
-Thu, 29 Oct 2026 19:01:00 +0000 — https://deadline.com/2026/10/dancing-with-the-star-the-next-pro-la-production-move-1237207698/
+### AI Dubbing Pioneer Flawless Sells Technology In Deal That Raises Questions About Its Future
+Fri, 30 Oct 2026 09:23:09 +0000 — https://deadline.com/2026/10/flawless-ai-dubbing-sells-technology-1237208379/
 
-EXCLUSIVE: Dancing with the Stars is a Hollywood fixture and the team behind The Next Pro wants the spinoff to join its parent show in Los Angeles. Deadline understands that BBC Studios is looking to move production of the ABC summer hit to California after its first season was shot in Australia. The company has [ ]
+EXCLUSIVE: Flawless, the British-American company that spent $100 million building SAG-AFTRA-endorsed AI dubbing technology used on movies like Fall, has sold its intellectual property. In an unusual deal that raises questions about Flawless future, TBellScout, a startup owned by Dutch tech billionaire Steven Schuurman, has acquired the company s TrueSync dubbing technology and DeepEditor, an AI [ ]
 
-### NewFilmmakers Los Angeles Sets Partnership with Mar del Plata International Film Festival
-Thu, 29 Oct 2026 18:51:34 +0000 — https://deadline.com/2026/10/newfilmmakers-los-angeles-partnership-mar-del-plata-1237208520/
+### Supermodel Rose Bertram On Her Revealing Feature Doc: “The Thing I’ve Kept Secret For So Long Is Now, In A Way, Being Shared With The World”
+Fri, 30 Oct 2026 09:15:30 +0000 — https://deadline.com/2026/10/supermodel-rose-bertram-documentary-a-girl-like-rose-2027-1237208052/
 
-EXCLUSIVE: NewFilmmakers Los Angeles (NFMLA) has announced an inaugural partnership with the Mar del Plata International Film Festival in Argentina. Under the collaboration, NFMLA will bring a selection of eight short films by its alumni to the festival in November, and participate in an industry panel exploring the role that film festivals, markets and creative [ ]
+EXCLUSIVE: Belgian supermodel Rose Bertram has opened up about the documentary that chronicles her professional and family life and how she has coped with her mother’s addiction issues. Production has now wrapped on A Girl Like Rose. “After watching the film, it was as if I saw my life flash before my eyes,” she said. [ ]
 
-### Bosch: Start Of Watch : First Look At Cameron Monaghan, Omari Hardwick In MGM+ Prequel
-Thu, 29 Oct 2026 18:33:44 +0000 — https://deadline.com/2026/10/bosch-start-of-watch-cameron-monaghan-omari-hardwick-photos-1237208386/
+### Skydance International Sets Its Four Regional Leads: Andrew Georgiou Exiting Europe Africa Role
+Fri, 30 Oct 2026 09:06:41 +0000 — https://deadline.com/2026/10/skydance-international-regional-leads-georgiou-exiting-1237209311/
 
-We re getting the first look at Cameron Monaghan and Omari Hardwick in MGM+ s upcoming Bosch prequel series Start of Watch ahead of it January 10 premiere. The streamer has released some first-look images, which you can see above and below. Bosch: Start of Watch explores the origin story of Michael Connelly’s legendary detective Harry Bosch. [ ]
+Andrew Georgiou is exiting the newly-minted Skydance along with a number of senior executives as JB Perrette unveils his international structure. Following the $110B Skydance merger, the final pieces of the international jigsaw have fallen into place. Georgiou, who was previously Warner Bros. Discovery s (WBD) chief in the UK and Ireland while managing its European [ ]
 
-### 9-1-1 Fuels Buzzy Return For ABC s Thursday Night Procedural Slate With 9-1-1: Nashville Grey s Anatomy
-Thu, 29 Oct 2026 18:23:02 +0000 — https://deadline.com/2026/10/911-season-10-premiere-ratings-nashville-greys-anatomy-abc-1237208442/
+### Former Movistar Plus Content Chief Domingo Corral On His HBO Deal Why Quality TV Can Be Commercial
+Fri, 30 Oct 2026 09:00:00 +0000 — https://deadline.com/2026/10/domingo-corral-hbo-deal-quality-mainstream-1237173046/
 
-EXCLUSIVE: ABC s Thursday nights are back in action with the return of its popular procedural slate: 9-1-1, 9-1-1: Nashville and Grey s Anatomy. All three series premiered ahead of previous season averages after seven days of viewing, led by the 8.14 million who tuned in for the Season 10 debut of 9-1-1 across ABC, Hulu, Hulu [ ]
+Former Movistar Plus content boss Domingo Corral sees his production deal with HBO Max as the route to realising an ambition to make independent TV and film that is both mainstream and premium in quality. His shock exit from the Telefonica-owned Movistar after 11 years in May 2025 was followed in March with the announcement [ ]
 
-### Apple TV s Monarch: Legacy of Monsters Eyes Revamped Season 3 With New Titans New Writers
-Thu, 29 Oct 2026 18:00:19 +0000 — https://deadline.com/2026/10/monarch-legacy-of-monsters-season-3-revamp-new-titans-apple-1237208421/
+### Japan’s Animation Industry Grows 15.8% To Record $28BN, Driven By Both Domestic Overseas Sales TIFFCOM
+Fri, 30 Oct 2026 06:26:53 +0000 — https://deadline.com/2026/10/demon-slayer-anime-annual-report-japan-tiffcom-1237209296/
 
-Monarch: Legacy of Monsters is going for a reboot. Apple TV and Legendary Television are in renewal talks for a third season that would take the show in a new direction, featuring new Titans from Legendary’s Monsterverse. Search is underway for new writers and showrunner who will take over from the series Season 1 and [ ]
+Japan’s anime industry grew by 15.8% to $28.18BN (JPY4.45TR) in 2025, with growth coming from both local and overseas markets, according to figures presented by the Association of Japanese Animations (AJA) at TIFFCOM. The report also showed that overseas revenues reached $16.1BN (JPY2.54TR), accounting for nearly 57% of the total, while domestic revenues at $12BN [ ]
 
-### Skydance Sports Chief David Berson Sets Exec Roster, With New Roles For Jeff Gerttula, Craig Barry More
-Thu, 29 Oct 2026 17:40:37 +0000 — https://deadline.com/2026/10/skydance-sports-david-berson-sets-exec-roster-1237208368/
+### Cate Blanchett, Shahrbanoo Sadat Mohammad Rasoulof Bring Displacement Film Fund To Tokyo With Help From ‘Perfect Days’ Actor Kōji Yakusho
+Fri, 30 Oct 2026 06:22:35 +0000 — https://deadline.com/2026/10/cate-blanchett-shahrbanoo-sadat-mohammad-rasoulof-tokyo-1237209297/
 
-David Berson, the CBS Sports veteran who is now chairman of Skydance s Global Sports Group, has set his leadership team and named veteran execs Jeff Gerttula and Craig Barry to key roles. The appointments are the latest to come down from senior leadership in an effort to organize and restructure Skydance, which was created by [ ]
+The first five short films produced under Cate Blanchett’s Displacement Film Fund screened this afternoon at the Tokyo Film Festival, and the two-time Oscar winner was present alongside DFF fund directors Shahrbanoo Sadat and Mohammad Rasoulof for a post-screening Q A. The five films that screened are Rotation by Maryna Er Gorbach; Sadat’s Super Afghan Gym; [ ]
 
-### Jay Roach Producing Female-Driven Ensemble Comedy For New Line From Fockers Collaborator Larry Stuckey Joanna Leeds
-Thu, 29 Oct 2026 17:33:37 +0000 — https://deadline.com/2026/10/jay-roach-new-line-comedy-larry-stuckey-joanna-leeds-1237207882/
+### A Few Good Men Broadway Review: Bradley Whitford And Tom Blyth Manhandle The Truth
+Fri, 30 Oct 2026 03:00:00 +0000 — https://deadline.com/2026/10/a-few-good-men-broadway-review-1237206959/
 
-EXCLUSIVE: Jay Roach and longtime producing partner Michelle Graham are on board to produce a new female-driven ensemble comedy for New Line, Deadline has learned. The film s title and plot are being kept under wraps for now. Larry Stuckey Joanna Leeds are adapting the screenplay from a story they conceived with Joanna s brother, Andrew [ ]
+When it arrives on stage it being You can t handle the truth!, one of the most famous bits of dialogue in movie history the phrase feels both very, very familiar and ever so slightly tossed off, maybe even rushed, as if this Broadway revival of Aaron Sorkin s A Few Good Men doesn t want [ ]
 
-### PUBG : Donald Glover Starring In Live-Action Series Adaptation Of Hit Game In Works At Netflix
-Thu, 29 Oct 2026 17:30:02 +0000 — https://deadline.com/2026/10/pubg-donald-glover-live-action-series-game-netflix-1237207739/
+### SAG-AFTRA Members Ratify TV Animation Contracts, Securing 12.6% Wage Increase For Voice Actors
+Fri, 30 Oct 2026 02:47:03 +0000 — https://deadline.com/2026/10/sag-aftra-members-ratify-tv-animation-contracts-2-1237209273/
 
-Netflix is developing PUBG, a live-action series adaptation of Krafton s bestselling battle royale game. Emmy winner Donald Glover will direct and star in the adaptation, which he is writing and executive producing with his brother Stephen Glover. Also executive producing are Michael Schaefer for Neon TV, Fam Udeorji for Gilga, and Taeseok Jang and Sujin [ ]
+SAG-AFTRA members nationwide have voted to ratify the 2026 Television Animation Agreement and Basic Cable Animation Agreement with the Alliance of Motion Picture and Television Producers (AMPTP). On Thursday, members voted 94.95% in approval of the new four-year contracts, which provide a 12.6% wage increase over the term of the agreement, enhanced protections around AI [ ]
 
-### James Gunn On Margot Robbie Returning To DCU In The Suicide Squad Role: I Don t Know If She Wants To Play Harley Again; She May Be Over That
-Thu, 29 Oct 2026 17:28:47 +0000 — https://deadline.com/2026/10/james-gunn-margot-robbie-returning-dcu-harley-quinn-1237208369/
+### Ghosts : Rebecca Wisocky Talks Hetty s Good, Long Look In The Mirror In Two-Part Halloween Special
+Fri, 30 Oct 2026 02:00:00 +0000 — https://deadline.com/2026/10/ghosts-rebecca-wisocky-hetty-sister-margaret-halloween-cbs-1237208538/
 
-James Gunn continues building out the DC Universe and recently questioned Margot Robbie s involvement as Harley Quinn. The DC Studios co-head released a podcast titled The Suicide Squad: Is It Canon? where he answered fan questions about which characters would transfer to his new universe. When Robbie s Harley Quinn came up, Gunn said, I think [ ]
+SPOILER ALERT! This post contains details from the two-part Halloween special for CBS Ghosts. More ghosts from Hetty Woodstone s (Rebecca Wisocky) past come back to haunt her in Thursday s Ghosts Halloween special, which finally introduces audiences to her mustachioed and estranged sister Margaret (Maria Thayer). She arrives at Woodstone when Jay (Utkarsh Ambudkar) replaces a [ ]
 
-### Jim O’Heir Zachary Levi Among Cast For Faith-Based Comedy Series Shelf Life From Angel The Promised Land Producers
-Thu, 29 Oct 2026 17:21:00 +0000 — https://deadline.com/2026/10/jim-oheir-zachary-levi-faith-comedy-series-shelf-life-angel-1237207587/
+### Poorna Jagannathan Joins Hulu s Young Americans Pilot, Natalia Leite To Direct
+Fri, 30 Oct 2026 01:43:16 +0000 — https://deadline.com/2026/10/poorna-jagannathan-cast-hulu-young-americans-pilot-1237209103/
 
-EXCLUSIVE: U.S. distributor-producer Angel is behind original comedy series Shelf Life from the producers of Biblical drama The Promised Land. Created, written and directed by Brian Cates and produced by Milk Honey Studios, the comedy is currently in production and is set to premiere exclusively on the Angel platform in 2027. Cast includes Jim [ ]
+Poorna Jagannathan (Deli Boys, Lanterns) has been cast as a series regular in Hulu s Young Americans pilot. She joins the previously announced Scott Foley, Billie Boullet, Sam Rechner, Mia Isaac, Oscar Winter, and Lauren Mei. The Handmaid s Tale helmer Natalia Leite has been tapped to direct the pilot, reuniting with the Emmy-winning Hulu drama s creator [ ]
 
-### CAA Signs North Of North s Stacey Aglok MacDonald Alethea Arnaquq-Baril
-Thu, 29 Oct 2026 17:08:00 +0000 — https://deadline.com/2026/10/north-of-north-creators-sign-caa-1237208348/
+### Ian McKellen Pays Tribute To Patrick Stewart: He Wore His Heart On His Sleeve
+Fri, 30 Oct 2026 01:36:13 +0000 — https://deadline.com/2026/10/ian-mckellen-pays-tribute-patrick-stewart-1237209210/
 
-EXCLUSIVE: CAA has signed filmmakers Stacey Aglok MacDonald and Alethea Arnaquq-Baril for representation. The Inuit founders of the Iqaluit-based production company Red Marrow Media, MacDonald and Arnaquq-Baril created and showrun Netflix s Arctic half-hour comedy series North of North, which within weeks of its global debut, reached the Top 10 in 33 countries. The show currently [ ]
+As the world mourns Sir Patrick Stewart s death at age 86, a longtime friend and collaborator is paying tribute to his legacy. Sir Ian McKellen, who starred as Magneto opposite Stewart s Professor X in the X-Men films, explained what made the late actor a man to rely on, to admire and in my case, love [ ]
 
-### Camryn Manheim Joins 9-1-1: Nashville In Season 2
-Thu, 29 Oct 2026 17:00:00 +0000 — https://deadline.com/2026/10/camryn-manheim-9-1-1-nashville-season-2-cast-1237207691/
+### Matthew Weiner Exits Eddie Murphy Peacock Series The Chairman As Showrunner
+Fri, 30 Oct 2026 01:05:11 +0000 — https://deadline.com/2026/10/matthew-weiner-leaving-eddie-murphy-the-chairman-peacock-1237209187/
 
-EXCLUSIVE: Emmy winner Camryn Manheim (The Practice) has been tapped for a key recurring role in Season 2 of ABC s 9-1-1: Nashville. Its second season premiered on October 15. Manheim will play Dr. Marcia Zellner, a brilliant, emotionally complex clinical therapist and crisis manager who joins the call center to support the dispatchers as they [ ]
+The Chairman is getting a new showrunner. Mad Men creator Matthew Weiner, who had been tapped as writer, executive producer and showrunner on the high-profile drama starring Eddie Murphy, has departed the series in the works at Peacock, Deadline has confirmed. The project, from David Glasser s 101 Studios and Universal Television, is closing in on [ ]
 
 ## befores & afters
+
+### Wētā FX showcases Moana work
+Fri, 30 Oct 2026 08:18:46 +0000 — https://beforesandafters.com/2026/10/30/weta-fx-showcases-moana-work/
+
+Go behind the scenes. The post Wētā FX showcases Moana work appeared first on befores & afters .
+
+### Caleb Deschanel interview on Wildwood
+Thu, 29 Oct 2026 20:45:10 +0000 — https://beforesandafters.com/2026/10/30/caleb-deschanel-interview-on-wildwood/
+
+Director Travis Knight chats to his cinematographer. The post Caleb Deschanel interview on Wildwood appeared first on befores & afters .
 
 ### On The Set Pic: The Hunger Games: Sunrise on the Reaping
 Thu, 29 Oct 2026 06:39:22 +0000 — https://beforesandafters.com/2026/10/29/on-the-set-pic-the-hunger-games-sunrise-on-the-reaping/
 
 Jesse Plemons and director Francis Lawrence on set. Photo Credit: Murray Close. © 2026 Lionsgate The post On The Set Pic: The Hunger Games: Sunrise on the Reaping appeared first on befores & afters .
 
-### New Foundry video looks at use of Katana, Nuke, and USD by Pixar in Toy Story 5
-Tue, 27 Oct 2026 19:24:33 +0000 — https://beforesandafters.com/2026/10/28/new-foundry-video-looks-at-use-of-katana-nuke-and-usd-by-pixar-in-toy-story-5/
-
-Featuring visual effects supervisor Thomas Jordan. The post New Foundry video looks at use of Katana, Nuke, and USD by Pixar in Toy Story 5 appeared first on befores & afters .
-
 ## IndieWire
+
+### Ian McKellen Honors His Friend Patrick Stewart: The Most Respected and Beloved Actor of His Generation
+Fri, 30 Oct 2026 01:38:31 +0000 — https://www.indiewire.com/news/general-news/ian-mckellen-tribute-patrick-stewart-1235224695/
+
+The two English actors first met with the Royal Shakespeare Company and starred together in the "X-Men" series.
+
+### Patrick Stewart Never Took His Gravitas for Granted, Even When He Was Subverting It
+Thu, 29 Oct 2026 23:45:00 +0000 — https://www.indiewire.com/news/obituary/patrick-stewart-tribute-never-took-gravitas-for-granted-1235224670/
+
+The English actor, who died Thursday, could take command of a scene with a single syllable. But he didn't stop there, rewarding audiences who followed him everywhere.
+
+### Bleecker Street CEO on Why the Social Media Suppression of Musk Is About Much More Than Film
+Thu, 29 Oct 2026 20:15:00 +0000 — https://www.indiewire.com/news/breaking-news/bleecker-street-ceo-social-media-ad-suppression-musk-1235224208/
+
+The nearly 4-hour documentary about Elon Musk struggled at the box office but has had a surge of interest in PVOD pre-sales.
+
+### Patrick Stewart, Star Trek Legend and Beloved Shakespearean Actor, Dead at 86
+Thu, 29 Oct 2026 19:53:17 +0000 — https://www.indiewire.com/news/obituary/patrick-stewart-dead-1235224653/
+
+The English actor cut his teeth in the Royal Shakespeare Company before playing several of the most memorable sci-fi characters in Hollywood history.
 
 ### Curry Barker Drops Surprise New Short Film Mama Bear — Watch
 Thu, 29 Oct 2026 18:30:00 +0000 — https://www.indiewire.com/news/general-news/curry-barker-directs-new-short-film-mama-bear-watch-1235224619/
@@ -220,127 +245,107 @@ Thu, 29 Oct 2026 13:00:00 +0000 — https://www.indiewire.com/awards/consider-th
 
 Before we crown the A24 hit a contender, let's do the numbers.
 
-### Barbara Barrie, Oscar-Nominated Breaking Away and Private Benjamin Star, Dies at 95
-Wed, 28 Oct 2026 21:47:19 +0000 — https://www.indiewire.com/news/obituary/barbara-barrie-dead-breaking-away-private-benjamin-1235224367/
-
-The character actress death was "medically assisted" following a terminal cancer diagnosis.
-
-### A Flop at the Chinese Box Office Shows AI Still Has a Tough Road Ahead in Theaters
-Wed, 28 Oct 2026 20:00:00 +0000 — https://www.indiewire.com/news/box-office/ai-generated-feature-film-flops-chinese-box-office-1235224189/
-
-"Sanxingdui: Future Past," a fully AI-generated feature, made just $181K in its opening weekend in Chinese theaters against a budget of $1.5 million.
-
-### Hoorae s Microdramas Found 580 Million Views. Can TikTok Get Hollywood Working Again? — Watch
-Wed, 28 Oct 2026 19:30:00 +0000 — https://www.indiewire.com/news/events/watch-hoorae-media-microdramas-future-of-filmmaking-summit-1235223959/
-
-At IndieWire’s Future of Filmmaking Summit, Issa Rae’s team made a practical case for vertical storytelling — and getting filmmakers back on set, even as the economics come into focus.
-
-### What Do You Get When the Texas Chainsaw Director Takes on the Marquis de Sade? The Kinky Pleasures of Night Terrors
-Wed, 28 Oct 2026 18:36:10 +0000 — https://www.indiewire.com/features/commentary/tobe-hooper-night-terrors-softcore-porn-horror-1235223975/
-
-Tobe Hooper's forgotten, maligned blend of horror and soft-core erotica arrives on Blu-ray in all its nude horseback riding, snake charming, eyeball-gouging glory, just in time for Halloween.
-
 ## The Wrap
 
-### ‘The Mosquito Bowl’ Review: World War II Football Movie Does Manly Things in a Manly Way
-Thu, 29 Oct 2026 19:03:51 +0000 — https://www.thewrap.com/creative-content/movies/the-mosquito-bowl-review-netflix-peter-berg-nicholas-galitzine-ray-nicholson/
+### AHS 13 : Paul Anthony Kelly Unpacks That Puzzling Ending and His ‘Suave’ Take on the Devil
+Fri, 30 Oct 2026 04:52:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/ahs-13-ending-explained-paul-anthony-kelly-interview/
 
-If I’m typing a little slowly today, it’s because I slipped in a pile of excess testosterone and hurt my back after watching Peter Berg ’s “The Mosquito Bowl.” It’s a manly film about manly men pursuing manly pursuits, like football, war and racism. It’s a film where women exist to pack men’s bags and say they only feel like they’re alive when their boyfriends are inside them. It’s the kind of movie a testicle would make if a testicle made movies and really gave a damn about sound design. “The Mosquito Bowl” is based on the true story of, if you can believe it, the Mosquito Bowl. A group of Marines played a football game to boost morale on Guadalcanal on Christmas Eve 1944. Several of the men were star players whose careers took a detour after Pearl Harbor, and many of them never made it back home. The Mosquito Bowl was the last football game they ever played. If there’s one thing I learned from having a dad who was born in the 1940s, it’s that World War II was full of fascinating stories, and almost all of them were interesting enough to fill a double-sized nonfiction book and/or a History Channel miniseries. The fact that an anecdote as juicy as the Mosquito Bowl went overlooked by Hollywood for more than 80 years, even though it’s precisely the type of tale studios have been searching for all this time, is more surprising than anything that actually happens in Berg’s movie. “The Mosquito Bowl” stars Nicholas Galitzine, Bill Skarsgård, Tom Francis and Ray Nicholson as the f
+Note: This story contains spoilers from “American Horror Story: 13” Episode 13. “American Horror Story” wrapped up its milestone 13th season with a rather puzzling ending. But for the actor who played the devil himself, it was the right way to end the tense battle between the witches and the root of all evil. This season, titled “13,” followed as characters from previous installments of the FX anthology series came together to either fight against or conspire with the devil (Paul Anthony Kelly) as he aimed to win a bet with God to secure control over Earth and the human race. But in Episode 13, titled “Devil of a Good Time,’ Satan reversed course on his plan, freeing Cordelia (Sarah Paulson) from hell and giving her the leeway to stop the devil possibly for good. “I think it was a great ending to him. He s now stuck in the painting and watched over by his kin, essentially his granddaughter and daughter,” Kelly told TheWrap of the season’s surprising finale conclusion, written by Ned Martel, Charlie Carver and series co-creator Brad Falchuk and directed by Crystle Roberson Dorsey. Sarah Paulson and Paul Anthony Kelly in American Horror Story: 13. (Eric Liebowitz/FX) Satan told Cordelia, who viewers learned is actually his direct descendant, that the idea of ruling humanity and having to handle billions of lives didn’t sound all that fun. Instead, he opted to continue ruling the underworld exclusively, so he could keep tempting people into damnation occasionally and keep the ba
 
-### The Jennifer Hudson Show Kicks Off Season 5 With 10% Ratings Growth Exclusive
-Thu, 29 Oct 2026 19:00:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/the-jennifer-hudson-show-season-5-ratings-growth/
+### ‘American Horror Story 13’ Finale Recap: Who Won, the Witches or the Devil?
+Fri, 30 Oct 2026 04:52:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/ahs-13-finale-recap-who-wins-witches-devil/
 
-The Jennifer Hudson Show kicked off its fifth season with double-digit ratings growth, TheWrap can reveal exclusively. Season to date, “The Jennifer Hudson Show has seen a 10% rise in households and among adults 25-54 across her same station and time period occurrences, per Nielsen live-plus-same-day numbers. The daytime talk show, which has welcomed guests including Tom Cruise, Tyler Perry and Jamie Foxx, has been especially successful at drawing in adults 25-54 to new stations when replacing other talk shows. “The Jennifer Hudson Show” soared 54% over the time period in Boston and 10% in Miami as it replaced Sherri, and saw a 3% rise in Detroit as it replaced The Kelly Clarkson Show. Additionally, the show, which continues to draw in eyes with its spirit tunnel dances, ranks as the No. 1 daytime talk show across social platforms, drawing in over 11 billion total views across platforms. Elsewhere on Warner Bros. TV s Telepictures slate, Extra, the second-longest-running entertainment news show, launched its 33rd season to a notable ratings rise. Extra saw a 29% year-over-year uptick among adults 25–54, notching a higher percentage growth than any other magazine shows in the demo. Specifically, the show has seen demo growth in key markets, with viewership up 43% in New York in the 7 p.m. hour, 15% in Chicago in the 5 p.m. timeslot, 9% in Tampa during the 6 p.m. hour and 9% in Miami in the 7 p.m. hour. For Season 33 so far, Extra has welcomed guests like Cruise, Matthew McCona
+“ American Horror Story : 13” reached the end of its high-stakes battle between the witches and the devil, with a subdued finale that still packed a few outlandish twists. The long-anticipated season, which reunited beloved characters from across the FX anthology’s history including all of Jessica Lange’s roles from Seasons 1-4, followed as Satan (Paul Anthony Kelly) and his allies worked to complete a bet with God that would lead to the devil ruling the world through his son Ben (Joey Pollari). It was up to the “Coven” witches, lead by Cordelia Goode (Sarah Paulson) and emerging supreme Mallory (Billie Lourd), to stop his rise. But the finale, titled “Devil of a Good Time,” made it clear the only real obstacle all along was the devil himself. Look below for the biggest moments from the “AHS: 13” finale. Change of Plans After the penultimate episode ended with Mr. Phibes (John Waters) and the Rubber Man killing Cordelia and Queenie, it seemed that all hope of stopping Satan’s rise were lost. The finale opened with a gathering of thugs at the devil’s New York City penthouse, where Phibes had gathered them to be the final sacrifices to seal Earth’s fate. After giving the criminals cookies laced with meth to kill them, Mr. Phibes was surprised to be interrupted by Satan. He revealed he saved one of the men from death — preventing the devil’s human form from fulfilling the bet with only one kill left to go. Phibes was frustrated by the turn of events, but the devil assured his se
 
-### Matthew Perry Doc Director on Not Shying Away From Stigma: It s Hard to Move Culture if You re Not Engaging With Culture
-Thu, 29 Oct 2026 19:00:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/maxine-productions-mary-robertson-matthew-perry-quiet-on-set-interview/
+### Jimmy Kimmel Has a Request for Trump Regarding Ex Press Secretary Katie Zacharia
+Fri, 30 Oct 2026 04:49:56 +0000 — https://www.thewrap.com/creative-content/tv-shows/jimmy-kimmel-asks-trump-to-bring-back-katie-zacharia/
 
-In the four years since Mary Robertson founded Sony Pictures TV Maxine Productions, she and the company have spearheaded crucial conversations about Hollywood through boundary-pushing documentaries like Quiet on Set, The Fall of Diddy and, most recently, The One About Matthew Perry. But Robertson is well aware the projects wouldn t have reached the same audience if they didn t lean into stigmatized topics. We do want to create work that reaches an audience, and when we create work that reaches an audience, then we are able to move culture, Robertson told TheWrap for this week s Office With a View . It s hard to move culture if you re not engaging with culture We want to shift and effectuate change in perception and reframing when it s warranted. Quiet on Set is the best example of that mission coming to fruition. The documentary series prompted shockwaves across the industry, leading to the greenlight for an additional fifth episode featuring “Drake & Josh” star Drake Bell. But beyond the cultural reckoning, Robertson revealed that within the bipartisan legislation aiming to create federal protections for child actors, Quiet on Set is quoted in the accompanying write-up, a discovery that Robertson said was a moment of great pride. But even with The One About Matthew Perry, which Robertson had first pitched amid the success of Perry s 2022 memoir, the director felt no need to shy away from discussing the addiction that Perry struggled with for nearly all of his adult life, and
+Jimmy Kimmel called on Donald Trump to bring back short-tenured White House Press Secretary Katie Zacharia after the ex staffer gave a viral interview on Piers Morgan Uncensored. During Thursday s monologue for Jimmy Kimmel Live!, the late night host discussed Zacharia s contentious interview with Piers Morgan, in which she repeatedly claimed her ousting had been litigated and adjudicated. So, the White House still doesn t have a press secretary after they fired Katie Zacharia less than a week after she got the job, Kimmel told his studio audience. Katie s been now making the rounds on TV trying to repair her image. For whatever reason, she thought she would get an assist from Piers Morgan, who seemed very content to let her twist in the wind. The Jimmy Kimmel Live! editors then cut to highlights from Morgan s interview with Zacharia, where he grilled the former Trump staffer about being fired after only five days on the job . This has been litigated and adjudicated, Zacharia said. The president s comments on the White House South Lawn were what was discussed and I m going to leave it there. While Morgan tried to get Zacharia to admit that Trump threw her under the bus, she refused to speak poorly about her former employer, again stating that this has been litigated and adjudicated and well spoken about. Did somebody maybe unplug her and plug her back in? Kimmel quipped after watching the clip. You got to reboot that, as she s glitching again. Footage then showed Zacharia try
 
-### Maria Bartiromo Lands First Hosting Gig Since Fox News Exit
-Thu, 29 Oct 2026 18:52:06 +0000 — https://www.thewrap.com/media-platforms/journalism/maria-bartiromo-america-business-forum-host-fox-news-exit/
+### ‘The Daily Show’ Rips Trump as an ‘Islamophobic Minion’ Over Abdul El-Sayed Comments
+Fri, 30 Oct 2026 03:50:21 +0000 — https://www.thewrap.com/creative-content/tv-shows/the-daily-show-calls-trump-islamophobic-minion-after-abdul-el-sayed-comments/
 
-Maria Bartiromo has landed her first major hosting assignment since leaving Fox News Media in September, signing on to host the America Business Forum in Miami this December. The former business news anchor will lead the two-day event at the Kaseya Center on Dec. 16 and Dec. 17, organizers announced Thursday . She ll host conversations with business, political and technology leaders before a live audience, with the forum also broadcast internationally. The gig puts Bartiromo back in front of an audience more than three months after her sudden Fox departure, though it s a two-day engagement rather than a new television role. Her next move in TV remains unclear after more than three decades covering Wall Street and politics. In over 30 years in this industry, I ve stood on hundreds of stages. The floor, the studio, the streets. But nothing quite like this, Bartiromo said in a promotional video released Thursday . Last year s America Business Forum featured President Donald Trump, Amazon founder Jeff Bezos, JPMorgan Chase CEO Jamie Dimon and soccer star Lionel Messi. The event brings together executives, entrepreneurs and political figures for discussions about business, technology and the global economy. Tickets for this year s gathering start at $399, with premium packages priced as high as $9,999. Bartiromo left Fox News Media on Sept. 3 after 12-and-a-half years with the company. Fox described the departure as a business decision, while her attorney, Bryan Freedman, disputed
+Jordan Klepper took Donald Trump and the GOP to task for their fearmongering ahead of the midterm elections, particularly over Michigan Democratic Senate nominee Abdul El-Sayed . During Thursday s monologue for The Daily Show , the comedian addressed the racist rhetoric fueled by the right in the days leading up to Election Day, including Trump s refusal to say El-Sayed s name correctly. Getting into the Halloween spirit, Klepper, joined at the desk by a jack-o -lantern and “Kimberly Guilfoyle s cursed credit card statement,” poked fun at the GOP for warning of “nightmare” scenarios if Democrats ride a blue wave to victory this November. You know what? Maybe a believable scary story isn t the GOP sweet spot, Klepper said, teeing up his commentary on Republicans El-Sayed talking points. But you know what always gives me the creeps? A scary monster. What do you guys got? The Daily Show editors then cut to conservative media figures saying El-Sayed s name in an ominous tone. The show then played thunder and lightning sounds in response. No, no, no, no, stop. No, no, stop it with the lightning, Klepper responded. Look, I know their tone was scary, but that name wasn t scary at all. It was just Muslim. As the Daily Show doubled down on the thunder and lightning sounds, Klepper declared once more: No, no, no, no, no, no, we don t do the lightning. Do not do a lightning crack for that. It s not scary just because he s Muslim. No, no, no werewolves either. Stop, I m going to report t
 
-### Dexter: Resurrection Season 2 Release Schedule: Here s When New Episodes Come Out
-Thu, 29 Oct 2026 18:32:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/dexter-resurrection-season-2-episodes-release-dates-schedule/
+### A Few Good Men Broadway Review: Aaron Sorkin Drama Is Guilty of Being a Creaky Old Play
+Fri, 30 Oct 2026 03:00:00 +0000 — https://www.thewrap.com/creative-content/theater/a-few-good-men-broadway-review-aaron-sorkin/
 
-Dexter is back for more. Season 2 of Dexter: Resurrection kicks off on Paramount+ this week, bringing Michael C. Hall and fan favorites from Season 1 back to our screens. Per the official synopsis: The second season of Dexter: Resurrection finds Dexter Morgan (Hall) caught between two killers — one with decades of notoriety and a lifetime of kills behind him, and the other a fresh young face terrorizing New York in ways no one has ever seen. All the while Dexter himself is having a mid-life crisis, and his son Harrison (Jack Alcott) continues his own pursuit of justice as father and son face their darkest chapter yet. So, here s when you can watch new episodes this season. When does it premiere? Season 2 of Dexter: Resurrection premieres on Oct. 30 on the Paramount+ Premium Plan. How many episodes are there? There will be 10 episodes in this season of Dexter: Resurrection. When do new episodes come out? Paramount+ didn t opt for a binge release on this series, so you ll have to tune in weekly on Fridays. Here s how the season works out on the calendar: Episode 1: Premieres Friday, Oct. 30 Episode 2: Premieres Friday, Nov. 6 Episode 3: Premieres Friday, Nov. 13 Episode 4: Premieres Friday, Nov. 20 Episode 5: Premieres Friday, Nov. 27 Episode 6: Premieres Friday, Dec. 4 Episode 7: Premieres Friday, Dec. 11 Episode 8: Premieres Friday, Dec. 18 Episode 9: Premieres Friday, Dec. 25 Episode 10 (finale): Premieres Friday, Jan. 1 Watch the trailer: The post Dexter: Resurrection Seaso
+The new regime at Lincoln Center Theater has a novel pitch to theatergoers: Since you’ve already seen the movie, why not see the stage version? It started last season with “Ragtime,” and continues now with “A Few Good Men,” which opened Thursday at the Vivian Beaumont Theater. Coming soon at that revered venue is “The Sound of Music.” Before there was the 1992 movie starring Tom Cruise, Demi Moore and Jack Nicholson, Aaron Sorkin wrote the play “A Few Good Men,” which opened on Broadway in 1989. It didn’t exactly impress the people at the Tony Awards, since it received only one nomination, for lead actor Tom Hulce. It was quite a snub. When it came to Best Play nominations, Sorkin s big message drama about corruption in the army lost out to the boulevard comedy Lettice & Lovage, a piece of fluff designed to showcase the star power of Maggie Smith. LTC’s revival of Sorkin’s court-martial drama makes it clear that the Tony Awards got it right. “A Few Good Men” is a creaky old play. Two Marines (Lavel Schley and Collin Kelly-Sordelet) are accused of murdering PFC William T. Santiago (Daniel Velez), at Guantanamo Bay, Cuba. Were the two men acting alone, or had they been ordered by their superior LtCol Nathan R. Jessep (Bradley Whitford) to bind, shave and gag Santiago? Despite its military milieu, “A Few Good Men” begins much like a rom-com with an overly contrived fight between a man and woman who could not be more different. In the Demi Moore role of LCDR Joanne Galloway, Krys
 
-### Fall s Spookiest TV Trend Is Reviving Horror Classics
-Thu, 29 Oct 2026 18:30:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/halloween-tv-trend-reviving-horror-classics-carrie-crystal-lake/
+### Gene Simmons Calls for Action Against Hate at CCFP’s Gala: ‘We Cannot Be Passive’
+Fri, 30 Oct 2026 02:51:46 +0000 — https://www.thewrap.com/culture-lifestyle/culture/gene-simmons-erin-foster-honored-creative-community-for-peace-gala/
 
-It s not just the box office that s been thriving with horror hits like Obsession, Backrooms or, more recently, Resident Evil — TV is getting in on the chills and thrills by reviving and reinventing horror classics. Two of the fall s biggest hits originated from seminal movies and books atop any horror buff s list of essentials — Stephen King s Carrie and the 1980 film Friday the 13th — with Prime Video and Peacock respectively tapping into the classic tales for TV adaptations. “Carrie” and “Crystal Lake” risked upsetting existing fan bases with their efforts to extend the stories into ongoing shows, but the gamble paid off, with both debuting to ratings success. It s proof that mining existing IP for new programming can still yield success with streaming audiences — especially in a tried-and-true high interest genre like horror — as long as the source material is treated with respect. With both series launching in the weeks leading up to Halloween, Prime Video s Carrie and Peacock s Crystal Lake gave audiences enough familiarity to land on the radar of horror buffs, who typically revisit genre favorites but might be fatigued with watching the same movies over and over again. But in order to make sure the stories — which are both relatively self-contained — have the potential to translate into multi-season series, both worked tweaks that break canon, a move that can be divisive with die-hards fans. Carrie, a present-day retelling of the horror story of a telekinetic girl who 
+Gene Simmons, Erin Foster and Lynn Harris were among the honorees at the Creative Community For Peace s eighth annual Ambassadors of Peace gala in mid-October. The event, hosted by the entertainment non-profit CCFP, was attended by 600 artists and industry leaders, there to support the list of honorees that also included Atlantic Music Group President Kevin Weaver and Hybe America s President of Music, Ethiopia Habtemariam. Hate spreads like a cancer, and we must stop the hatred now. Today, Simmons said at the event. And we cannot be passive about it.” Simmons was joined at the event by his wife and actress Shannon Tweed-Simmons, as well as his Kiss co-founder, Paul Stanley. The rockstar stopped by to talk to TheWrap before the event, echoing his sentiments about the night and his award. Awards are nice, but it s about something that s important, which is, we ve got to all remind ourselves we live on this planet, Simmons said. I don t want to get too cornball. There s a lot of hatred going on. We ve got to stop that, and it s easier if you re Jewish to talk about Jewish hatred, or if you practice Islam, you can talk about Islamophobia, or if you re gay there s a lot of hatred going on. We ve got to stop that. Gene Simmons (Credit: Presley Ann Photography; Courtesy of CCFP) Among the night s honorees was Nobody Wants This creator Erin Foster, attending the event held exactly one week before the release of her show s third season. Foster, a convert to Judaism, used part of her 
 
-### Row K on Ice: Owner MCT Freezes Film Distribution After Missed Payroll, Rent Payments Exclusive
-Thu, 29 Oct 2026 18:24:38 +0000 — https://www.thewrap.com/industry-news/business/row-k-shut-down-mct/
+### SAG-AFTRA Members Ratify New 4-Year TV Animation Contracts
+Fri, 30 Oct 2026 02:03:48 +0000 — https://www.thewrap.com/industry-news/labor-unions/sag-aftra-members-ratify-tv-animation-contracts/
 
-Troubled distributor Row K Entertainment is officially on ice. Media Capital Technologies (MCT), which launched Row K in 2025, has frozen all film distribution plans after Row K missed employee payroll and rent payments this month and laid off four staffers, The Wrap can exclusively reveal. “When opportunities are launched and the desired outcomes aren’t realized, change has to be implemented,” MCT said in a statement to The Wrap. “We have therefore made the decision to freeze all new activities related to film distribution and significantly reduce operating expenses, and refocus MCT exclusively on its core business. We maintain our belief in the thesis that led to the inception of Row K: there are exciting opportunities in U.S. theatrical distribution — in connecting powerful stories to the right audiences. We are deeply grateful to all the contributions of our team to this venture.” The company, co-founded by troubled indie distributor Christopher Woodrow, also missed paying rent and employee payroll in August, an insider told TheWrap. Additionally, Row K also missed paying its health insurer, so the remaining employees are currently having to pay out of pocket for important medical procedures. No employees have been paid in several weeks. Row K is also behind on several settlement payments related to confidential lawsuits the company settled this year. The financial struggles marks a stunning and sharp reversal for Row K, which made a splashy entry in the distribution spac
+SAG-AFTRA members have ratified the 2026 Television Animation Agreement, as well as the 2026 Basic Cable Animation Agreement, with the Alliance of Motion Picture and Television Producers. On Thursday, union leadership confirmed that members approved the new four-year contracts by a vote of 94.5% to 5.05%. The contracts, which were negotiated based on input from members, are set to provide enhanced protections regarding artificial intelligence. Additionally, the contracts include a 12.6% wage increase over the term of the agreement, residuals gains and increases to the health, pension and retirement plans. The agreement runs from July 1, 2026, through June 30, 2030, with its terms taking effect retroactively. “As someone who often works in TV animation, my heartfelt thanks goes out to the TV Animation Negotiating Committee and co-chairs Bob Bergen and David Jolliffe for putting in the time and effort to get SAG-AFTRA members a dignified deal with essential AI protections,” SAG-AFTRA President Sean Astin said in a statement. Duncan Crabtree-Ireland, the national executive director and CEO, expressed a similar sentiment, noting, SAG-AFTRA members who work in TV Animation are entitled to meaningful protections around AI and wages that reflect the value of their labor. He added: My gratitude goes out to TV Animation Negotiating Committee co-chairs Bob Bergen and David Jolliffe and the rest of the negotiating committee volunteers for their extraordinary and diligent work in ensurin
 
-### News Publishers Demand Meta Stop Using Their Content Without Permission
-Thu, 29 Oct 2026 18:15:15 +0000 — https://www.thewrap.com/media-platforms/journalism/meta-news-publishers-content-scraping-demands/
+### Trump Takes Shot at Reporter’s Weight After Question About His Own Health: ‘You Look Like Hell’
+Fri, 30 Oct 2026 01:44:51 +0000 — https://www.thewrap.com/media-platforms/journalism/trump-insults-reporter-weight-after-health-question/
 
-News publishers are demanding that Meta let them block the company from collecting content from their websites without losing access to Facebook and Instagram, escalating a fight over who controls and gets paid for journalism online. The World Association of News Publishers (WAN-IFRA) laid out its demands Thursday in an open letter to Meta CEO Mark Zuckerberg , one day after the company agreed to consult with the industry before implementing controversial new business terms. The dispute puts publishers in a difficult position: Many rely on Meta s platforms to reach readers but fear the proposed terms could give the tech giant broad rights to their journalism without requiring payment. The industry wants enforceable safeguards rather than assurances that Meta will consider its concerns. Independent journalism is essential to democratic societies, and its future depends on publishers keeping control over how their work is used, WAN-IFRA president Ladina Heimgartner said Thursday. The organization, which represents more than 20,000 media brands across 120 countries, is calling for publishers to retain control over content collection, negotiate licensing agreements and avoid penalties to their distribution or referral traffic if they reject Meta s terms. The controversy began earlier this month when proposed changes to Meta s commercial agreements raised concerns that the company could collect material from publishers websites, potentially for use in developing artificial intelli
+Donald Trump took aim at reporter Jacob Bogage s weight after the Reuters journalist asked a question about the president s own health. Specifically, while speaking with the president in front of Air Force One on Thursday, Bogage asked Trump if his decision to cancel his Kansas rally had anything to do with him being sick of traveling. Trump appeared to take offense at the suggestion he wasn t up for traveling, snapping back, Oh, you’re sick to ask that question. You are sick. Who are you with?” Upon learning that Bogage worked for Reuters, Trump declared the outlet terrible, and that the reporter was a sick guy. Bogage countered, Well, we just want to make sure you’re doing well. “Can you imagine — look at this dope, look at this guy, he’s way out of shape,” Trump responded. “Look at how badly — he comes to me, ‘Sir, you’re not going to go to Kansas.’ I’m not going to go to Kansas because he’s doing very well.” Trump had previously planned to stump in-person for Kansas incumbent Sen. Roger Marshall. The event was later transformed into a virtual tele-rally. “Tomorrow, I’m doing Florida. He says, ‘What’s the reason for this, sir? That you’re not going to Kansas?’ You know what the reason is? I don’t feel I have to go to Kansas, he sounded off. I’m going to Florida tomorrow, and I’ll do — if something else comes up — but he said, ‘You’re not going to Kansas, sir, are you feeling well?’ You’ve been following me for two weeks. I feel perfect. You are disgusting. Put yourself in 
 
-### Curry Barker Returns to YouTube With New Short Mama Bear
-Thu, 29 Oct 2026 18:08:43 +0000 — https://www.thewrap.com/creative-content/movies/curry-barker-new-youtube-short-mama-bear/
+### Eternally Yours : Allegra Edwards Breaks Down That Halloween Episode, What s Next After Liz and Charles Rekindling
+Fri, 30 Oct 2026 01:00:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/eternally-yours-halloween-episode-allegra-edwards-interview/
 
-Curry Barker has gone back to his roots. The filmmaker behind Obsession and the upcoming horror-comedy Anything But Ghosts returned to his YouTube channel That s a Bad Idea on Thursday with a new five-minute short titled Mama Bear. The horror video, sponsored by Windows, is brief, slick and very surreal — with a certain stylistic trick that fans of Obsession might recognize. The plot of Mama Bear is somewhat hard to describe, but the film (written, directed and edited by Barker) shares Obsession s tone and visual style. It also evokes some of Barker s previous horror short films uploaded to YouTube, such as Warnings and The Chair. The Chair was the short that first caught the attention of James Harris, the producer who helped get Obsession off the ground. Before that film premiered at the Toronto International Film Festival, Barker took to YouTube to release his debut feature, an $800 thriller called “Milk & Serial. After Focus Features picked Obsession up at TIFF (and later signed on to distribute Anything But Ghosts ), Barker s theatrical debut became the highest-grossing film to ever be acquired at a film festival and the highest-grossing film with a budget of less than $1 million . Its box office total currently sits at around $525 million. Barker wrote and directed Anything But Ghosts, working alongside his That s a Bad Idea sketch partner Cooper Tomlinson (who co-wrote the film and also starred in Obsession ). This feature will also see Barker in front of the camera, as
+Tis the season for Halloween episodes, and on Thursday night, CBS Eternally Yours premiered its first. And, by the end of the night, things are looking a bit more optimistic for Liz and Charles so what comes next? The episode sees the Blythe family/coven bracing for Halloween in two different ways. For some, it’s a matter of educating baby vampire Max (Jaren Lewison) about the Wolfsbane Chalice, which keeps werewolves at bay — especially important on Halloween, when they’re particularly active. For Liz and Charles, it’s dinner with Liz’s boss. She’s up for a promotion she really wants, but when her boss shows up dressed as a vampire and starts spouting vampire stereotypes, Charles loses it. The show’s first Halloween episode really had a little of everything, and for Edwards, that’s the key to a good Halloween episode of any show. I think it s got to have something for everybody, and I think that our Halloween episode does, she said. And I got to say, it was really fun to lean into it a few months ago when we shot it. Because suddenly we walk onto our set and it s all decorated for Halloween, and it made me feel two months early, but still just as festive as always. But more than that, the episode got into a deeper part of Liz and Charles longstanding love story. I think what s so interesting about this episode is the philosophical question that it raises in their big argument, which is: what matters to me should matter to you, Edwards told TheWrap. And if it doesn t, what do
 
-### Monarch Season 3 Taps New Writers – and New Titans – for Soft Reboot
-Thu, 29 Oct 2026 18:00:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/monarch-season-3-new-writers-reboot/
+### Megyn Kelly Says Dana Bash Looks So Stupid After Alaska Democrats Dan Sullivan Scam
+Fri, 30 Oct 2026 00:51:43 +0000 — https://www.thewrap.com/creative-content/tv-shows/megyn-kelly-dana-bash-alaska-democrats-dan-sullivan-scam/
 
-There’s a change in direction coming to Apple and Legendary’s “Monarch: Legacy of Monsters,” as the two are in talks for a prospective third season that would see new writers taking the reins along with new Titans from Legendary’s Monsterverse. That’s right – Godzilla will be facing down his most potentially perilous foe yet: a soft reboot . What’s interesting is that the first “Monarch” spinoff , a still untitled series that focuses on the younger version of the Lee Shaw character, played by Wyatt Russell, is still likely moving forward. The new series, executive produced by Russell, is set in 1984, when Shaw went on a secret mission behind enemy lines in an attempt to stop the Soviets from unleashing a horrific new Titan big enough to destroy the U.S. and turn the tide of the Cold War. Millie Brady, Pilou Asbaek, Corey Stoll, Ralph Ineson, Nyasha Hatendi, Connie Nielsen and Stana Katic also star. The new show is showrun by Joby Harold, who is developing multiple new series set within the franchise’s evolving universe, featuring both new and fan-favorite Titans for Apple TV, alongside producing partner Tory Tunnell via their Safehouse Pictures banner. It’s easy to see why they’ve reached an impasse on “Monarch,” as the show was hugely complicated, featuring international production and extensive visual effects, along with a starry cast that was led by Kurt Russell but also Anna Sawai, who rose to stardom thanks to “Shōgun” and will be seen in Sam Mendes’ upcoming Beatles fil
+Megyn Kelly slammed CNN’s Dana Bash after a New York Times investigation found that people aligned with Democrats worked to recruit a candidate with the same name as Alaska’s Republican Sen. Dan Sullivan in an effort to boost Democratic Senate candidate Mary Peltola’s chances. The Times reported that the appearance of a second Dan Sullivan on the Alaska ballot was no coincidence. According to the investigation, people connected to Peltola’s campaign sought to recruit a candidate with a similar name to the incumbent Republican senator, potentially confusing voters and diverting votes from Sullivan to improve Peltola’s chances of winning. The Times found that the “ballot composition project” involved Peltola’s lawyers and the Democratic Senatorial Campaign Committee, which directs the party’s campaign strategy in Senate races across the country. “The second this happened, we all knew something like this was behind it,” Stu Burguiere said on The Megyn Kelly Show. “You know who else knew? Dana Bash.” CNN anchor Dana Bash questioned Attorney General Todd Blanche about a Justice Department lawsuit seeking to block certification of Alaska’s Senate election results if Republican Sen. Dan Sullivan loses under circumstances in which votes for a second candidate with the same name may have affected the outcome. Blanche defended the lawsuit, sparring with Bash during Sunday’s “State of the Union.” She looks so stupid now, Kelly said. Why would she basically vouch for the Peltola campaign
 
 ## Collider
 
-### James Bond Officially Returns Today With New Release
-Thu, 29 Oct 2026 19:09:32 GMT — https://collider.com/young-bond-available-now-silverfin/
+### ‘Hunger Games: Sunrise on the Reaping’ Is Officially Reuniting 3 Fan-Favorite Stars
+Fri, 30 Oct 2026 11:00:12 GMT — https://collider.com/hunger-games-sunrise-on-the-reaping-jennifer-lawrence-josh-hutcherson-woody-harrelson-return/
 
-James Bond fans have had a lot to be excited about this year, which is especially surprising, considering it’s now been almost five years since the last 007 film hit theaters. After multiple delays, IO Interactive finally released its AAA James Bond video game, 007 First Light , back in May — the game debuted to widespread critical acclaim, and it was a massive success, selling millions of copies during its opening weekend. IO has confirmed that a sequel to the game continuing the story of Bond is in the works, but there’s no word yet on when it will be released. Amazon is also hard at work on the new James Bond movie from writer Steven Knight and director Denis Villeneuve , and most fans are expecting Daniel Craig ’s official 007 replacement to be announced any day now.
+The Hunger Games: Sunrise on the Reaping is the second prequel in The Hunger Games franchise and is set during the Second Quarter Quell. The film will feature new cast members alongside returning characters from the original trilogy, though as younger versions of themselves.
 
-### MCU's First Major Crossover Event Was "Superhero Soup" For One Returning Star
-Thu, 29 Oct 2026 19:05:12 GMT — https://collider.com/avengers-doomsday-alan-cumming-nightcrawler-return-superhero-soup/
+### 8 Must-Watch Shows Coming to Netflix in November
+Fri, 30 Oct 2026 10:47:12 GMT — https://collider.com/netflix-shows-november-2026/
 
-There are going to be a lot of familiar faces returning for Avengers: Doomsday , and while some of them have barely been away from the Marvel Cinematic Universe, others haven't been seen in decades. With the multiverse throwing open the doors to characters from Marvel's past, audiences are getting the chance to reunite with some old favorites who might otherwise have remained confined to superhero history. For one returning star, the experience has been something of a pleasant surprise, even if he hasn't got the faintest idea what's going on around him.
+November is just around the corner, and with the holiday season getting closer and closer, it's the perfect time to stock up on shows to watch during those cozy nights at home . Whether you're already getting into the festive spirit or just looking for an excuse to spend a few extra hours on the couch, Netflix has plenty of new releases to keep your watchlist full and busy.
 
-### From ‘The Traitors’ to ‘Avengers: Doomsday,’ Alan Cumming Has a Few Tricks Left up His Sleeve
-Thu, 29 Oct 2026 19:00:12 GMT — https://collider.com/alan-cumming-the-traitors-avengers-doomsday-interview/
+### The 10 Best Films of the 2010s, Ranked
+Fri, 30 Oct 2026 10:38:12 GMT — https://collider.com/the-best-films-2010s-ranked/
 
-Or maybe it’s because the man I'm talking to isn’t the same one I see on my TV every Thursday. Cumming has spoken about the fact that he approaches his hosting persona much like he would any other character, playing a role that happens to share his face and name. Of course, there are places where the lines blur (his casual striped earth-toned sweater and chunky yellow glasses are undeniably chic, and he talks about the show’s chaos with an unmistakably gleeful glint in his eye), but there’s a sensitivity and humility to the real Cumming.
+The 2010s were an incredible decade for cinema. It offered diverse films, from mind-bending films and gripping psychological thrillers to intimate dramas. Filmmakers pushed creative boundaries, experimented with unconventional storytelling techniques, and tackled heavy subjects yet still resonated with audiences. Notable directors such as Christopher Nolan, Damien Chazelle , and Bong Joon-ho , delivered unforgettable works in this decade. International cinema also flourished this year, demonstrating that the best stories transcend cultural boundaries.
 
-### Margot Robbie's Return as Harley Quinn Officially Teased by DC Boss
-Thu, 29 Oct 2026 18:51:38 GMT — https://collider.com/margot-robbie-harley-quinn-dcu-return-tease-james-gunn/
+### 'Nobody Wants This' Is Making a Major Change to Its Formula Ahead of Season 4
+Fri, 30 Oct 2026 10:31:12 GMT — https://collider.com/nobody-wants-this-season-3-formula-change-morgan-sasha/
 
-The new DC Comics cinematic universe had a difficult birth, as it was born from the ashes of the previous one, which began with Man of Steel and petered out with Aquaman and the Lost Kingdom . The break between the two was not a clean one, as James Gunn was involved with both: thus, a movie like The Suicide Squad can be rooted in the previous universe, as a sequel to Suicide Squad , but also have afoot in the new, as it spun out characters like John Cena 's Peacemaker who have continued to turn up in new DC projects. And that now raises a question about one of DC's most popular characters, Harley Quinn, who was played by Margot Robbie in three big-screen projects, including The Suicide Squad . In a new podcast, James Gunn is now talking about the character, and whether Robbie might return.
+Editor's note: The below contains spoilers for Nobody Wants This Season 3.
 
-### All 11 Beatles Songs With Ringo Starr on Lead Vocals, Ranked
-Thu, 29 Oct 2026 18:43:59 GMT — https://collider.com/beatles-songs-ringo-starr-lead-vocals-ranked/
+### ‘Dungeons & Dragons’ x ‘World of Warcraft’ Crossover Hit With Major Delay
+Fri, 30 Oct 2026 10:30:12 GMT — https://collider.com/dungeons-dragons-world-of-warcraft-crossover-early-access-delayed-november-2026/
 
-Ringo Starr is often ignored or underappreciated, but his influence on The Beatles ' sound is larger than a lot of people realize. Much like George Harrison , when the band first started, he stayed away from songwriting, since John Lennon and Paul McCartney had a monopoly over it. Harrison quickly started writing his own songs, but Starr was a late bloomer, but eventually, he also decided to try.
+It leaves a very bad taste to place an order for something during pre-orders to get it early, only for the early release to get jammed. That seems to have happened to Dungeons & Dragons ’ upcoming crossover with World of Warcraft . Fans who made the pre-order for early access seem frustrated in the comment sections but the ones affected for sure probably don’t even know they’re affected yet.
 
-### 'The Elder Scrolls 6' Officially Gets Its First Update in 8 Years
-Thu, 29 Oct 2026 18:28:32 GMT — https://collider.com/the-elder-scrolls-6-sentinel-title/
+### Goodbye 'Clayface,' This Peacock Superhero Thriller Is Even Better
+Fri, 30 Oct 2026 10:15:12 GMT — https://collider.com/darkman-superhero-thriller-clayface-streaming-peacock-october-2026/
 
-Eight years is enough time to start several Skyrim playthroughs , promise to try a different build, and somehow become a stealth archer again. Bethesda’s fantasy RPG has remained an easy place to return to while its successor takes shape . For players waiting to explore somewhere new, however, another trip to Whiterun can only do so much.
+Clayface is doing well, with the film already making back its production budget from opening weekend , and good word-of-mouth doing its job leading into Halloween. Even with the connecting tissue of an existing IP, it's exciting to see a bona fide monster movie with flavors of body horror (that sounded gross, but it's too late to back down now) get a wide release to mostly positive reviews from critics and audiences. And since everyone enjoys following up a new movie with something similar from the past, you may want to check out a cult classic from the '90s that fused Universal monsters and the superhero genre , a film that's known mainly to fans of Sam Raimi : Darkman .
 
-### HBO’s ‘Downton Abbey’ Replacement Is Losing 2 Key Stars Ahead of Season 4
-Thu, 29 Oct 2026 18:15:12 GMT — https://collider.com/gilded-age-season-4-cast-not-returning-streaming-hbo/
+### The 10 Greatest Sci-Fi Books of All Time, Ranked by Goodreads
+Fri, 30 Oct 2026 10:01:12 GMT — https://collider.com/best-sci-fi-books-goodreads-all-time-ranked/
 
-After a year-long wait, the acclaimed historical drama series The Gilded Age returns to HBO this Sunday. Under the leadership of Downton Abbey writer and showrunner Julian Fellowes , The Gilded Age takes place in late nineteenth century New York City and follows the lives of prominent high society families, portrayed by a talented ensemble cast. However, that cast won’t look quite the same as in seasons past.
+Goodreads is a rather clunky and hard-to-use website, so it’s a shame that it is kind of as big as book-related online databases get. There is surely a way to make a site like this better. Even IMDb is better, if you're looking at movie-related sites that let you log, rate, and review titles, though Letterboxd beats out IMDb. Not as well-known, but you’ve got Rate Your Music for albums and singles, too. Goodreads is just a headache.
 
-### 10 Classic Sci-Fi Books To Read Before Kicking the Bucket
-Thu, 29 Oct 2026 18:09:12 GMT — https://collider.com/classic-sci-fi-books-to-read-bucket-list/
+### The Definitive Zombie Movie of the 2000s Officially Finds a New Streaming Home
+Fri, 30 Oct 2026 10:00:12 GMT — https://collider.com/shaun-of-the-dead-streaming-starz-november-2026/
 
-Science fiction is a super popular genre, and pretty much always has been since its inception. The genre basically focuses on futuristic visions for humanity, many of them hopeful, and many of them cynical . The stories almost always involve advanced technology, and sometimes include robots or alien life. There are a bunch of subgenres, with the "sci-fi" term being more of an umbrella term than anything. It can describe anything from near-future scenarios to distant space operas.
+The horror genre simply wouldn't be the same without zombies. Released on July 28, 1932, and starring the original horror icon Bela Lugosi , White Zombie is credited as the first-ever feature-length zombie movie. Almost 100 years later, and though the brain-eating monsters might've evolved, they're still just as relevant in theaters. This is seen most recently in Zach Cregger 's Resident Evil , a video game reboot that follows his hugely successful, Oscar-winning 2025 horror effort Weapons .
 
-### James Gunn Officially Confirms First Details on Robert Pattinson's Batman Replacement
-Thu, 29 Oct 2026 18:05:14 GMT — https://collider.com/james-gunn-dcu-batman-casting-start/
+### The 10 Best Horror Sequels Ever Made, Ranked
+Fri, 30 Oct 2026 09:41:12 GMT — https://collider.com/best-horror-movie-sequels-ever-made-ranked/
 
-It took some time after he was first announced as the new head of DC Studios back in 2022, but James Gunn ’s DCU is now off and running with multiple movies and shows to establish a new cinematic universe on the big and small screen. Things look a bit different now than they did when Gunn first announced a new slate of projects, and some are further along in development than expected, while others look like they may not see the light of day. The DCU’s latest outing is Clayface , the new horror movie starring Tom Rhys Harries as the titular character that was written by Mike Flanagan and Hossein Amini and directed by James Watkins . The movie is set in Gotham City, home of Batman in most DC stories.
+They’re baaaacckk. So gruesomely good, you had to come back for more. Yes, the highly polarizing horror sequel is here. Over the years, many scary movies have hit it big, resonating with audiences in profound ways. Some of these frightening flicks have inspired sequels, and an elite few have given rise to long-running franchises . Alas, many sequels have a hard time replicating the magic of the first successful film (in fact, most fall quite short ). And then, there are the rare follow-up films that have equaled, and in some creepy cases, even improved upon the original .
 
-### Titus Welliver's 'Bosch' Replacement Officially Revealed in First Look at New Spin-Off
-Thu, 29 Oct 2026 17:29:05 GMT — https://collider.com/titus-welliver-bosch-start-of-watch-first-images-cameron-monaghan/
+### The 10 Most Ambitious Pink Floyd Instrumentals, Ranked
+Fri, 30 Oct 2026 09:31:12 GMT — https://collider.com/the-10-most-ambitious-pink-floyd-instrumentals-ranked/
 
-Harry Bosch is back this winter, but Titus Welliver won't be. The new series Bosch: Start of Watch will detail the character's early days walking the beat on the mean streets of Los Angeles, and will feature an all-new cast. The series won't start until January, but we've got a first look at the new stars of the series.
+Pink Floyd are known for their elaborate progressive rock anthems and adventurous psychedelic compositions that have influenced generations of musicians and music fans alike. The London rockers have released 15 studio albums, including the classics The Dark Side of the Moon , Animals , Wish You Were Here and The Wall . Their innovative approach to songwriting pushed the boundaries of conventional rock music, incorporating unusual time signatures, experimental recording techniques, atmospheric soundscapes and extended instrumental passages.
 

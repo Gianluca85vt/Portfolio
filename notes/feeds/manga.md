@@ -1,66 +1,66 @@
-# Manga — harvested 2026-10-29T19:12:25.641Z
+# Manga — harvested 2026-10-30T11:01:04.651Z
 
 ## Anime News Network
 
-### The World's Strongest Witch ‒ Episode 4
-Thu, 29 Oct 2026 14:30:00 -0400 — https://www.animenewsnetwork.com/review/the-world-strongest-witch/episode-4/.243337
+### Destiny Unchain Online TV Anime to Star Ikumi Hasegawa
+Fri, 30 Oct 2026 05:17:51 -0400 — https://www.animenewsnetwork.com/news/2026-10-30/destiny-unchain-online-tv-anime-to-star-ikumi-hasegawa/.243362
 
-I know that this work can engage deeper gaming mechanics and why people love playing these kinds of video games, and hope it gets back to engaging with those ideas soon.
+Teaser promo video, main staff, 2027 debut also revealed
 
-### The Grimm Reapress and the Drearytale Monster Game's Trailer Reveals May 13 Release in West
-Thu, 29 Oct 2026 14:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-29/the-grimm-reapress-and-the-drearytale-monster-game-trailer-reveals-may-13-release-in-west/.243335
+### Mercedes and the Waning Moon TV Anime Reveals 4 More Cast Members in 2nd Promo Video
+Fri, 30 Oct 2026 05:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-30/mercedes-and-the-waning-moon-tv-anime-reveals-4-more-cast-members-in-2nd-promo-video/.243358
 
-Game launches for Switch 2, Switch, PS5, PC
+Kenta Miyake, Junichi Suwabe, Ai Kayano, more join cast for series debuting in January 2027
 
-### FromSoftware Delays The Duskbloods Switch 2 Game to 2027
-Thu, 29 Oct 2026 13:17:48 -0400 — https://www.animenewsnetwork.com/news/2026-10-29/fromsoftware-delays-the-duskbloods-switch-2-game-to-2027/.243333
+### Yōko Hikasa, Yuka Iguchi Join Cast of Wound & Bandage Anime
+Fri, 30 Oct 2026 03:44:53 -0400 — https://www.animenewsnetwork.com/news/2026-10-30/yoko-hikasa-yuka-iguchi-join-cast-of-wound-and-bandage-anime/.243359
 
-Developers to take additional time to adjust game balance following August's Closed Network Test
+Series debuts on January 9
 
-### Rascal Does Not Dream of a Dear Friend Film Screens in U.S., Canada on February 21, 23-24
-Thu, 29 Oct 2026 12:30:10 -0400 — https://www.animenewsnetwork.com/news/2026-10-29/rascal-does-not-dream-of-a-dear-friend-film-screens-in-u.s-canada-on-february-21-23-24/.243332
+### Kadokawa Launches 'Kadokawa World Manga' English Label on its KadoComi Platform
+Fri, 30 Oct 2026 02:54:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-30/kadokawa-launches-kadokawa-world-manga-english-label-on-its-kadocomi-platform/.243355
 
-English-subbed trailer streamed
+<cite>Brain Alive, Kung Fu Kung Fool, Spica and Voice of Books</cite>, more manga available now in English
 
-### Daily Report About My Witch Senpai Manga Ends
-Thu, 29 Oct 2026 12:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-29/daily-report-about-my-witch-senpai-manga-ends/.243241
+### Death Stranding Isolations Anime Reveals Teaser Trailer, More Staff
+Fri, 30 Oct 2026 01:43:41 -0400 — https://www.animenewsnetwork.com/news/2026-10-30/death-stranding-isolations-anime-reveals-teaser-trailer-more-staff/.243353
 
-Manga launched 2018, continued with sequel in 2022
+Tow Ubukata to oversee, write series scripts
 
-### Lustful Domination Novels/Manga Get AnimeFesta Anime
-Thu, 29 Oct 2026 12:01:10 -0400 — https://www.animenewsnetwork.com/news/2026-10-29/lustful-domination-novels-manga-get-animefesta-anime/.243329
+### Anime World Offers Condolences After Manga Creator Tetsuya Chiba's Death, Part IV
+Thu, 29 Oct 2026 23:59:00 -0400 — https://www.animenewsnetwork.com/interest/2026-10-29/anime-world-offers-condolences-after-manga-creator-tetsuya-chiba-death-part-iv/.243266
 
-Isotarо̄ Shimano debuted <cite>Shikiyoku Hadou</cite> novel in June 2025
+Creators, artists, & fans came together for their farewells
 
-### Vampire Princess Miyu OVA Blu-ray Anime Review
-Thu, 29 Oct 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/vampire-princess-miyu/blu-ray-the-complete-ova-anime-series/.243030
+### Rin Suzukawa's Outsider Paradise Manga Switches Publishers to Kadokawa, Gets Full Color Continuation
+Thu, 29 Oct 2026 19:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-29/rin-suzukawa-outsider-paradise-manga-switches-publishers-to-kadokawa-gets-full-color-continuation/.243302
 
-The <i>Vampire Princess Miyu</i> OAVs are perhaps a relic of a bygone time, but they're still worth watching.
+Suzukawa currently planning new chapters, will start full color with 19th chapter
 
-### Chiikawa Anime Film Rises Back to #2, Made in Abyss: Mezameru Shinpi Anime Film Opens at #6
-Thu, 29 Oct 2026 11:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-29/chiikawa-anime-film-rises-back-to-no.2-made-in-abyss-mezameru-shinpi-anime-film-opens-at-no.6/.243244
+### Shiretto Sugee koto Itteru Gal Manga Takes 4-5 Month Break
+Thu, 29 Oct 2026 18:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-29/shiretto-sugee-koto-itteru-gal-manga-takes-4-5-month-break/.243301
 
-Live-action <cite>In the Clear Moonlit Dusk</cite> film opens at #4
+Manga returns sometime in February-March
 
-### Disney Twisted-Wonderland Anime's 'Episode of Savanaclaw' Begins 8-Episode Run on December 23
-Thu, 29 Oct 2026 10:45:51 -0400 — https://www.animenewsnetwork.com/news/2026-10-29/disney-twisted-wonderland-anime-episode-of-savanaclaw-begins-8-episode-run-on-december-23/.243328
+### Shōta Kōno Launches Nightmare of Oveja Negra Manga
+Thu, 29 Oct 2026 17:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-29/shota-kono-launches-nightmare-of-oveja-negra-manga/.243299
 
-Visual unveiled for 2nd season
+Science fiction horror story debuted on Tuesday
 
-### Japan's Video Game Rankings, October 12-18
-Thu, 29 Oct 2026 10:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-29/japan-video-game-rankings-october-12-18/.243179
+### Star Trek, X-Men Actor Patrick Stewart Dies at 86
+Thu, 29 Oct 2026 16:18:57 -0400 — https://www.animenewsnetwork.com/news/2026-10-29/star-trek-x-men-actor-patrick-stewart-dies-at-86/.243339
 
-<cite>Tales of Eternia Remastered</cite> for Switch 2 debuts at #1
+Stewart played Captain Picard in <cite>Star Trek</cite>, Professor Xavier in <cite>X-Men</cite>
 
-### This Week in Anime - Going to Another World
-Thu, 29 Oct 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/this-week-in-anime/2026-10-29/.243322
+### Hotel Inhumans Anime's 2nd Season Casts Mitsuki Saiga
+Thu, 29 Oct 2026 16:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-29/hotel-inhumans-anime-2nd-season-casts-mitsuki-saiga/.243338
 
-Thanks to the Power of the Internet, a columnist says farewell...but not before doing one last isekai seasonal roundup!
+Saiga plays Sekiya
 
-### Japanese Animation TV Ranking, October 12-18
-Thu, 29 Oct 2026 09:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-29/japanese-animation-tv-ranking-october-12-18/.243177
+### Firefly Wedding TV Anime Casts Natsuko Abe
+Thu, 29 Oct 2026 15:10:36 -0400 — https://www.animenewsnetwork.com/news/2026-10-29/firefly-wedding-tv-anime-casts-natsuko-abe/.243336
 
-<cite>The Apothecary Diaries</cite> season 3 earns 3.6% rating, <cite>Dragon Ball Super: Beerus</cite> earns 2.8% rating
+Abe plays Aoi
 
 ## Crunchyroll News
 
@@ -93,17 +93,27 @@ Wed, 28 Oct 2026 12:50:01 GMT — https://animecorner.me/medaka-kuroiwa-is-imper
 
 The upcoming Medaka Kuroiwa Is Impervious to My Charms Season 2 revealed a new&hellip;
 
-### Phantom Busters Anime Reveals First Teaser Visual, Main Staff and Cast
-Wed, 28 Oct 2026 00:19:02 GMT — https://animecorner.me/phantom-busters-anime-reveals-first-teaser-visual-main-staff-and-cast/
-
-Phantom Busters anime has revealed the first teaser visual, along with introducing the main&hellip;
-
-### Interview: SPYAIR on European Tour 2026 and Haikyu!! Anime Songs
-Wed, 28 Oct 2026 00:04:35 GMT — https://animecorner.me/interview-spyair-on-european-tour-2026-and-haikyu-anime-songs/
-
-Ahead of the SPYAIR EUROPE TOUR 2026, we spoke with the rock band SPYAIR&hellip;
-
 ## MyAnimeList News
+
+### Kaketa Tsuki no Mercedes Reveals Additional Cast, Second Promo
+Fri, 30 Oct 2026 02:43:30 -0700 — https://myanimelist.net/news/74885002?_location=rss
+
+The official website for the television anime adaptation of Firehead s Kaketa Tsuki no Mercedes: Kyuuketsuki no Kizoku ni Tensei shita kedo Suteraresou nanode Dungeon wo Seiha suru (Mercedes and the Waning Moon: The Dungeoneering Feats of a Discarded Vampire Aristocrat) light novel revealed additional cast and second promotional video. The anime series will premiere in January 2027. Cast Benkei: Kenta Miyake (Hidarikiki no Eren) Kuro: Ryuunosuke Watanuki (Yomi no Tsugai) Florian: Junichi Su...
+
+### Destiny Unchain Online Reveals Main Cast, Staff, Teaser Promo, 2027 Debut
+Fri, 30 Oct 2026 01:00:02 -0700 — https://myanimelist.net/news/74884436?_location=rss
+
+An official website opened for the Destiny Unchain Online television anime on Friday, revealing the main cast, staff, a teaser visual (pictured), and teaser promotional video. The anime series adapting resn s adventure fantasy light novel will premiere in 2027. Voice actress Ikumi Hasegawa (86, Bocchi the Rock!) is starring as the main character Crim. Staff Director: Kouichi Hatsumi (Tokyo Revengers) Series Composition: Seiko Takagi (Yakusoku no Neverland script) Character Design: Masashi K...
+
+### Kizuguchi to Houtai Unveils Additional Cast, Third Teaser Promo
+Fri, 30 Oct 2026 00:21:46 -0700 — https://myanimelist.net/news/74884610?_location=rss
+
+The official website of the Kizuguchi to Houtai (Wound and Bandage) television anime unveiled additional cast, third teaser visual (pictured), and third promotional video on Friday. The anime series adapting Nanai Umihoshi s romantic comedy manga will premiere on January 9, 2027 at 11:00 p.m. on AT-X, followed by ABC TV and TV Asahi on the ANiMAZiNG programming block. Cast Ginsuke Hatobane: Shouya Ishige (Sono Bisque Doll wa Koi wo Suru) Magical Penpengusa: Yuka Iguchi (Honzuki no Gekokujou...
+
+### Death Stranding: Isolations Reveals Additional Staff, Teaser Promo
+Thu, 29 Oct 2026 19:56:32 -0700 — https://myanimelist.net/news/74883978?_location=rss
+
+The official X of Kojima Productions revealed additional staff, teaser visual (pictured), and a teaser promotional video for the Death Stranding: Isolations anime series on Friday. The anime is scheduled to premiere worldwide on the Disney+ streaming service in 2027. Staff Series Composition, Script: Tow Ubukata (RWBY: Hyousetsu Teikoku) Character Design: Sayaka Koiso (Jujutsu Kaisen 2nd Season) Art Director, Color Script: Yann Le Gall (Ramen Akaneko) Color Design: Ami Kutsuna (The God of High S...
 
 ### Shin Oishinbo Reveals Additional Cast, Theme Songs
 Thu, 29 Oct 2026 02:52:07 -0700 — https://myanimelist.net/news/74880493?_location=rss

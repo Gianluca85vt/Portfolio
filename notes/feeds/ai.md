@@ -1,4 +1,4 @@
-# AI — harvested 2026-10-29T19:12:25.641Z
+# AI — harvested 2026-10-30T11:01:04.651Z
 
 ## OpenAI
 
@@ -21,16 +21,6 @@ Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers r
 Wed, 28 Oct 2026 13:15:00 GMT — https://openai.com/index/openai-servicenow-partnership-expansion
 
 OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.
-
-### The future of the firm
-Wed, 28 Oct 2026 10:00:00 GMT — https://openai.com/index/the-future-of-the-firm
-
-How AI might enter the org chart—beneath, beside, and between us.
-
-### Legora is building the agentic operating system for legal work
-Wed, 28 Oct 2026 09:30:00 GMT — https://openai.com/index/legora
-
-See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.
 
 ## Hugging Face
 
