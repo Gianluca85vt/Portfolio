@@ -17,7 +17,6 @@ artistView:
   misses:
     - "Simulation: destruction and water do not get cheaper with a bigger grant. Sim resolution is where an IMAX finish bites hardest, and it is the slowest thing in the building to iterate."
     - "Disclosure: Toho has published no shot count and no crew size for the sequel, so the numbers everyone will compare against Minus One do not exist yet."
-draft: true
 ---
 
 Thirty-five people. That is the number attached to *Godzilla Minus One* in
