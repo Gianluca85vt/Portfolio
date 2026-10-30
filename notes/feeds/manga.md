@@ -1,72 +1,77 @@
-# Manga — harvested 2026-10-30T11:01:04.651Z
+# Manga — harvested 2026-10-30T18:51:36.170Z
 
 ## Anime News Network
+
+### Hiragi-san's House of Vampires Manga Gets TV Anime
+Fri, 30 Oct 2026 12:19:14 -0400 — https://www.animenewsnetwork.com/news/2026-10-30/hiragi-san-house-of-vampires-manga-gets-tv-anime/.243370
+
+Visual unveiled for UNLIMITED PRODUCE by TMS' anime of Miki Yoshikawa's manga
+
+### KAMUI: He's Behind You Anime Series Review
+Fri, 30 Oct 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/kamui/he-behind-you/anime-series/.242560
+
+What I ended up getting…was an over-the-top sex comedy.
+
+### King Gnu Band Hold 1st U.S. Headline Shows in Los Angeles on March 26, New York on April 2
+Fri, 30 Oct 2026 11:32:30 -0400 — https://www.animenewsnetwork.com/news/2026-10-30/king-gnu-band-hold-1st-u.s-headline-shows-in-los-angeles-on-march-26-new-york-on-april-2/.243369
+
+Band perform songs for <cite>Jujutsu Kaisen</cite>, <cite>Banana Fish</cite>, <cite>Ranking of Kings</cite>, <cite>The Ghost in the Shell</cite>, <cite>Detective Conan</cite>
+
+### Manga Up! Global Adds Crimson Prince, The Perfect Cross-Dressing Couple, 5 More Manga
+Fri, 30 Oct 2026 11:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-30/manga-up-global-adds-crimson-prince-the-perfect-cross-dressing-couple-5-more-manga/.243247
+
+Company also adds <cite>Not Quite Love, The Evil Princess Will Kill No More, The Witch of Dawn, Reading Our Way to a Happy New World, My Spooky Storyteller Is an Adorable Klutz</cite> in English
+
+### Anime Market Grew 15.8% to Record 4.45 Trillion Yen in 2025
+Fri, 30 Oct 2026 10:45:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-30/anime-market-grew-15.8-percent-to-record-4.45-trillion-yen-in-2025/.243366
+
+Domestic anime market grew by 14.1% while overseas market grew by 17.2%
+
+### tri-Ace's Resonance of Fate / End of Eternity Game Gets Enhanced Remaster for PS5, Steam Available Now
+Fri, 30 Oct 2026 10:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-30/tri-ace-resonance-of-fate-end-of-eternity-game-gets-enhanced-remaster-for-ps5-steam-available-now/.243367
+
+Those who own 4K/HD Edition already on Steam can purchase DLC to upgrade to new version
+
+### This Week in Games - Do They Know its Halloween?
+Fri, 30 Oct 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/this-week-in-games/2026-10-30/do-they-know-its-halloween/.243236
+
+Happy Halloween! TWIG celebrates with a "demonic" creator interview and a list of the five scariest anthropomorphic personifications of death in games!
+
+### Virtua Fighter Crossroads Game Reveals Character Lionel Rafale in Trailer
+Fri, 30 Oct 2026 09:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-30/virtua-fighter-crossroads-game-reveals-character-lionel-rafale-in-trailer/.243357
+
+Narrative-driven action-adventure game launches in 2027
+
+### Fall 2026 Light Novel Guide
+Fri, 30 Oct 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/seasonal/2026/fall/.240232
+
+It's time to find your next favorite novel! Our review team read danmei, horror, light novels, and more to help you decide what to curl up with this fall.
+
+### When Godzilla Stomped On Fairy Tales
+Fri, 30 Oct 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/interview/2026-10-30/when-godzilla-stomped-on-fairy-tales/.242862
+
+<cite>Godzilla STOMP!</cite> author Katherine Locke shares their enthusiasm for joining the kaiju monster's legacy: "I'm excited that this is part of that canon that builds towards Godzilla being for every kid. Godzilla is for everybody."
+
+### Pole Princess!! Franchise Gets New CG Theatrical Anime Opening on January 29
+Fri, 30 Oct 2026 06:49:38 -0400 — https://www.animenewsnetwork.com/news/2026-10-30/pole-princess-franchise-gets-new-cg-theatrical-anime-opening-on-january-29/.243363
+
+New 60-minute CG anime features returning cast, staff
 
 ### Destiny Unchain Online TV Anime to Star Ikumi Hasegawa
 Fri, 30 Oct 2026 05:17:51 -0400 — https://www.animenewsnetwork.com/news/2026-10-30/destiny-unchain-online-tv-anime-to-star-ikumi-hasegawa/.243362
 
 Teaser promo video, main staff, 2027 debut also revealed
 
-### Mercedes and the Waning Moon TV Anime Reveals 4 More Cast Members in 2nd Promo Video
-Fri, 30 Oct 2026 05:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-30/mercedes-and-the-waning-moon-tv-anime-reveals-4-more-cast-members-in-2nd-promo-video/.243358
-
-Kenta Miyake, Junichi Suwabe, Ai Kayano, more join cast for series debuting in January 2027
-
-### Yōko Hikasa, Yuka Iguchi Join Cast of Wound & Bandage Anime
-Fri, 30 Oct 2026 03:44:53 -0400 — https://www.animenewsnetwork.com/news/2026-10-30/yoko-hikasa-yuka-iguchi-join-cast-of-wound-and-bandage-anime/.243359
-
-Series debuts on January 9
-
-### Kadokawa Launches 'Kadokawa World Manga' English Label on its KadoComi Platform
-Fri, 30 Oct 2026 02:54:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-30/kadokawa-launches-kadokawa-world-manga-english-label-on-its-kadocomi-platform/.243355
-
-<cite>Brain Alive, Kung Fu Kung Fool, Spica and Voice of Books</cite>, more manga available now in English
-
-### Death Stranding Isolations Anime Reveals Teaser Trailer, More Staff
-Fri, 30 Oct 2026 01:43:41 -0400 — https://www.animenewsnetwork.com/news/2026-10-30/death-stranding-isolations-anime-reveals-teaser-trailer-more-staff/.243353
-
-Tow Ubukata to oversee, write series scripts
-
-### Anime World Offers Condolences After Manga Creator Tetsuya Chiba's Death, Part IV
-Thu, 29 Oct 2026 23:59:00 -0400 — https://www.animenewsnetwork.com/interest/2026-10-29/anime-world-offers-condolences-after-manga-creator-tetsuya-chiba-death-part-iv/.243266
-
-Creators, artists, & fans came together for their farewells
-
-### Rin Suzukawa's Outsider Paradise Manga Switches Publishers to Kadokawa, Gets Full Color Continuation
-Thu, 29 Oct 2026 19:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-29/rin-suzukawa-outsider-paradise-manga-switches-publishers-to-kadokawa-gets-full-color-continuation/.243302
-
-Suzukawa currently planning new chapters, will start full color with 19th chapter
-
-### Shiretto Sugee koto Itteru Gal Manga Takes 4-5 Month Break
-Thu, 29 Oct 2026 18:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-29/shiretto-sugee-koto-itteru-gal-manga-takes-4-5-month-break/.243301
-
-Manga returns sometime in February-March
-
-### Shōta Kōno Launches Nightmare of Oveja Negra Manga
-Thu, 29 Oct 2026 17:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-29/shota-kono-launches-nightmare-of-oveja-negra-manga/.243299
-
-Science fiction horror story debuted on Tuesday
-
-### Star Trek, X-Men Actor Patrick Stewart Dies at 86
-Thu, 29 Oct 2026 16:18:57 -0400 — https://www.animenewsnetwork.com/news/2026-10-29/star-trek-x-men-actor-patrick-stewart-dies-at-86/.243339
-
-Stewart played Captain Picard in <cite>Star Trek</cite>, Professor Xavier in <cite>X-Men</cite>
-
-### Hotel Inhumans Anime's 2nd Season Casts Mitsuki Saiga
-Thu, 29 Oct 2026 16:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-29/hotel-inhumans-anime-2nd-season-casts-mitsuki-saiga/.243338
-
-Saiga plays Sekiya
-
-### Firefly Wedding TV Anime Casts Natsuko Abe
-Thu, 29 Oct 2026 15:10:36 -0400 — https://www.animenewsnetwork.com/news/2026-10-29/firefly-wedding-tv-anime-casts-natsuko-abe/.243336
-
-Abe plays Aoi
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Fall 2026 Anime Rankings – Week 4
+Fri, 30 Oct 2026 12:30:00 GMT — https://animecorner.me/fall-2026-anime-rankings-week-4/
+
+Bleach wins Fall 2026 Week 4 with 25.31%, followed by Firefly Wedding and Student Council. Both Bleach and Cyberpunk leave the weekly polls after this week.
 
 ### Disney Twisted-Wonderland Season 2: Episode of Savanaclaw Reveals New Visual, December 23 Premiere
 Thu, 29 Oct 2026 15:22:44 GMT — https://animecorner.me/disney-twisted-wonderland-season-2-episode-of-savanaclaw-reveals-new-visual-december-23-premiere/
@@ -83,17 +88,22 @@ Thu, 29 Oct 2026 12:32:00 GMT — https://animecorner.me/beyond-the-cancellation
 
 Over the past weekend, I had the opportunity to attend Cosplay Trackside 2026 at&hellip;
 
-### The Greatest Magicmaster’s Retirement Plan Anime Unveils Tesfia Character Visual
-Wed, 28 Oct 2026 13:01:00 GMT — https://animecorner.me/the-greatest-magicmasters-retirement-plan-anime-unveils-tesfia-character-visual/
-
-The Greatest Magicmaster’s Retirement Plan anime unveiled a new visual featuring the character Tesfia&hellip;
-
-### Medaka Kuroiwa Is Impervious to My Charms Season 2 Reveals New Visual, Digest Video
-Wed, 28 Oct 2026 12:50:01 GMT — https://animecorner.me/medaka-kuroiwa-is-impervious-to-my-charms-season-2-reveals-new-visual-digest-video/
-
-The upcoming Medaka Kuroiwa Is Impervious to My Charms Season 2 revealed a new&hellip;
-
 ## MyAnimeList News
+
+### Manga Hiiragi-san Chi no Kyuuketsu Jijou Gets TV Anime
+Fri, 30 Oct 2026 08:28:17 -0700 — https://myanimelist.net/news/74885918?_location=rss
+
+An official website opened for a television anime adaptation of Miki Yoshikawa s Hiiragi-san Chi no Kyuuketsu Jijou (Hiragi-san s House of Vampires) manga on Saturday, revealing a teaser visual (pictured). Unlimited Produce by TMS is handling the planning and production. Yoshikawa (Kakkou no Iinazuke) originally drew the supernatural romcom manga as a one-shot by the same name in Weekly Shounen Magazine in September 2019. Bessatsu Shounen Magazine began serializing the series in Octobe...
+
+### Pole Princess!! Gets Theatrical Anime in January 2027
+Fri, 30 Oct 2026 07:09:48 -0700 — https://myanimelist.net/news/74885701?_location=rss
+
+The official website for the Pole Princess!! anime series announced a new theatrical anime titled Pole Princess!! -Croix du Nord- on Friday, revealing the returning cast and staff. The approximately 60-minute anime will feature five new songs from the Shining Pole Song Album and an original story. It is set to receive a two-week limited theatrical screening at six theaters across Japan beginning January 29, 2027. Voice actresses Rio Tsuchiya (Shibou Yuugi de Meshi wo Kuu.), Anna Suzuki (Mushoku...
+
+### Light Novel Mushoku Tensei: Dasoku-hen Concludes with Fourth Volume
+Fri, 30 Oct 2026 04:51:23 -0700 — https://myanimelist.net/news/74885300?_location=rss
+
+The official X account for Kadokawa s MF Books label announced on Friday that Rifujin na Magonote s Mushoku Tensei: Dasoku-hen (Mushoku Tensei: Redundant Reincarnation) light novel will end with its fourth volume on November 25. Rifujin penned the short story collection of Mushoku Tensei: Isekai Ittara Honki Dasu (Mushoku Tensei: Jobless Reincarnation) on Shousetsuka ni Narou website from May 2015 to September 2017. Kadokawa began publishing the novel through its MF Books label in June...
 
 ### Kaketa Tsuki no Mercedes Reveals Additional Cast, Second Promo
 Fri, 30 Oct 2026 02:43:30 -0700 — https://myanimelist.net/news/74885002?_location=rss
@@ -145,9 +155,4 @@ The Maison Ghibli Pop-Up Shop returns to London for the holiday period, for Offi
 Thu, 29 Oct 2026 10:00:23 +0000 — https://animeuknews.net/2026/10/the-crows-ballad-at-dawn-review/
 
 Office worker Akito discovers a mysterious pleasure boat catering to supernatural beings – and is bewitched by a beautiful crow tengu, Suiren. But when he goes back, there’s no sign of the boat or Suiren – was it just a dream?
-
-### MASHLE: MAGIC AND MUSCLES Returns to Crunchyroll January 2027
-Wed, 28 Oct 2026 14:34:05 +0000 — https://animeuknews.net/2026/10/mashle-magic-and-muscles-returns-to-crunchyroll-january-2027/
-
-Mash is ready to flex his muscles once again in MASHLE: MAGIC AND MUSCLES The Tri-Magicathlon Divine Visionary Final Exam Arc!
 

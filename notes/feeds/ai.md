@@ -1,6 +1,16 @@
-# AI — harvested 2026-10-30T11:01:04.651Z
+# AI — harvested 2026-10-30T18:51:36.170Z
 
 ## OpenAI
+
+### Making it easier for websites to express AI training preferences
+Fri, 30 Oct 2026 09:30:00 GMT — https://openai.com/index/helping-websites-express-ai-training-preferences
+
+OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.
+
+### Community safety report and new protections for teens
+Fri, 30 Oct 2026 09:00:00 GMT — https://openai.com/index/community-safety-report-and-new-protections-for-teens
+
+OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.
 
 ### An updated Model Spec for more capable and beneficial AI
 Thu, 29 Oct 2026 17:00:00 GMT — https://openai.com/index/updated-model-spec
@@ -17,12 +27,15 @@ Thu, 29 Oct 2026 07:00:00 GMT — https://openai.com/index/ropes-gray-ai-diligen
 
 Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.
 
-### OpenAI and ServiceNow expand partnership across enterprise workflows
-Wed, 28 Oct 2026 13:15:00 GMT — https://openai.com/index/openai-servicenow-partnership-expansion
+### Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot
+Thu, 29 Oct 2026 00:00:00 GMT — https://openai.com/index/credit-saison
 
-OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.
+Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption.
 
 ## Hugging Face
+
+### nemotron-halloween
+Fri, 30 Oct 2026 17:57:24 GMT — https://huggingface.co/blog/nvidia/nemotron-halloween
 
 ### Granite Switch 4.1.1 — Update models like you update software
 Thu, 29 Oct 2026 13:37:07 GMT — https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1
@@ -36,13 +49,9 @@ Thu, 29 Oct 2026 00:00:00 GMT — https://huggingface.co/blog/mistral-large4
 ### Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms
 Thu, 29 Oct 2026 00:00:00 GMT — https://huggingface.co/blog/anydecisionmodel
 
-### NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt
-Wed, 28 Oct 2026 14:58:17 GMT — https://huggingface.co/blog/nvidia/nemotron-transcribe-granary
-
 ## Google DeepMind
 
-### Gemini 4 Carbon: Our next frontier model
-Wed, 28 Oct 2026 17:00:58 +0000 — https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/
+_Nothing in the last 48 hours._
 
 ## VentureBeat AI
 

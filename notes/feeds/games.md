@@ -1,6 +1,46 @@
-# Games — harvested 2026-10-30T11:01:04.651Z
+# Games — harvested 2026-10-30T18:51:36.170Z
 
 ## Eurogamer
+
+### Dark Souls 2 and Dark Souls 3's online servers are temporarily going dark, FromSoftware announces
+Fri, 30 Oct 2026 17:45:23 +0000 — https://www.eurogamer.net/dark-souls-servers-temporarily-shutting-down-fromsoftware
+
+Things might get even darker over in the world of Lordran without those silly, only sometimes helpful notes left by other players. Developer FromSoftware has announced that it's temporarily closing Dark Souls 2 and Dark Souls 3 servers because of an unspecified issue. Read more
+
+### 8-bit horror Tenebris Somnia mixes weird live-action horror with a retro 2D adventure to impressive and unsettling effect
+Fri, 30 Oct 2026 15:15:54 +0000 — https://www.eurogamer.net/tenebris-somnia-horror-game-fmv-live-action-faith
+
+I've been captivated by the idea of wrong-footing an audience ever since playing Faith: The Unholy Trinity . That game presents like an 8-bit horror, then proceeds to bend the rules of what an 8-bit game can do - or perhaps what you remember they could do - in order to surprise and scare you. Tenebris Somnia is very similar. Indeed, it's executive produced by the developer of Faith, Airdorf Games, so the connection runs even deeper. Tenebris Somnia utilises the same retro aesthetic with its grinding chiptune music, its pixelated graphics, and old-school presentation. But the difference is it takes the rule-bending a step further, essentially welding two very different experiences together: a retro-styled 2D adventure and a full-on live-action film. And it's horrific, in all the right ways. Read more
+
+### Crimson Desert Enhanced Edition gets a surprise demo on PlayStation and Xbox, lets you play for 5 hours and carry over your save data
+Fri, 30 Oct 2026 14:58:30 +0000 — https://www.eurogamer.net/crimson-desert-free-demo-xbox-playstation
+
+Crimson Desert is one of 2026's most successful releases. The game managed to sell over 6 million copies in just three months , and ended up being so profitable that its publisher ended up giving each employee at development studio Pearl Abyss a $3,400 bonus . Since launch, the dev has been committed to improving the game and correcting some of the more egregious issues that were present at launch. Read more
+
+### EA reportedly closed BioWare because it was forced to choose between Mass Effect 5 and Star Wars Battlefront 3
+Fri, 30 Oct 2026 14:54:16 +0000 — https://www.eurogamer.net/ea-closed-bioware-because-star-wars-battlefront-3
+
+A new report has revealed that EA closed BioWare because it was forced to choose between investing in one of two sci-fi projects: a new Mass Effect game or a new Star Wars Battlefront game. And it chose the latter. Read more
+
+### Forza director, who'd been with Turn 10 for 27 years leaves Microsoft, following studios merger with Playground Games
+Fri, 30 Oct 2026 14:16:41 +0000 — https://www.eurogamer.net/director-leaves-forza-playground-games-merge-microsoft
+
+Dan Greenawalt, director, founder, and vice president at Turn 10 Games, has departed from the studio after spending 27 years as part of the company. This comes as Turn 10 is merged with Playground Games as part of Xbox's mass restructuring initiative that made headlines as it resulted in 3200 layoffs and four studio closures earlier this year. Read more
+
+### Sony has snapped up the film rights for Mouthwashing
+Fri, 30 Oct 2026 12:00:41 +0000 — https://www.eurogamer.net/mouthwashing-movie-rights-sony-director
+
+Sony has snatched up the movie rights for Mouthwashing, the hit independent horror video game released in 2024. Read more
+
+### Games industry honours beloved actor Sir Patrick Stewart, as the legendary Star Trek and X-Men actor passes away
+Fri, 30 Oct 2026 11:35:58 +0000 — https://www.eurogamer.net/patrick-stewart-dies-oblivion-uriel-septim-castlevania
+
+As I'm sure you're all now already aware, legendary British actor Sir Patrick Stewart has died, aged 86. His Instagram account announced the news yesterday, saying he died at home in Los Angeles surrounded by friends and family, following "a brief and poignant journey with Alzheimer's Disease and Lewy Body Dementia". Read more
+
+### There are currently "no other Assassin's Creed remakes actively in development", says Ubisoft
+Fri, 30 Oct 2026 11:35:06 +0000 — https://www.eurogamer.net/no-new-assassins-creed-games-in-development-ubisoft
+
+Yesterday, Ubisoft issued a statement about the future of the Assassin's Creed series, and the publisher's comments included quite a big surprise: there are currently no new remakes of the series' past games in the works. Read more
 
 ### Bethesda reportedly revealing The Elder Scrolls 6 next month, and we may know what its subtitle is going to be
 Fri, 30 Oct 2026 10:52:39 +0000 — https://www.eurogamer.net/elder-scrolls-6-reportedly-revealed-november
@@ -22,47 +62,22 @@ Thu, 29 Oct 2026 15:08:17 +0000 — https://www.eurogamer.net/bioware-co-founder
 
 One of BioWare's famous doctor-founders, Greg Zeschuk, has finally spoken about the studio's closure last week , saying it's "kind of sad" and that EA's leveraged buyout by a Saudi-involved consortium "was the final nail in the coffin". Read more
 
-### FromSoft's Switch 2 exclusive, The Duskbloods, has been delayed into 2027
-Thu, 29 Oct 2026 14:14:25 +0000 — https://www.eurogamer.net/fromsofts-switch-2-exclusive-the-duskbloods-has-been-delayed-into-2027
-
-FromSoftware's The Duskbloods - a game that is best described as Bloodborne meets Sekiro meets Dark Souls, with jetpacks and dinos thrown in - has been delayed from its 2026 launch window into an unspecified time in 2027. Read more
-
-### "A cold dead place that's slowly decaying" - EA employees reveal a culture of secrecy and terrible morale following layoffs
-Thu, 29 Oct 2026 14:08:30 +0000 — https://www.eurogamer.net/inside-ea-layoffs-report-bioware-morale-secrecy
-
-Last week, EA announced it's laying off 400 workers across multiple studios, cancelling projects and refocusing on its biggest money-makers. As part of that, EA closed down the iconic BioWare studio , letting go of most of its remaining staff of around 50 people. Read more
-
-### Call of Duty Modern Warfare 4 review
-Thu, 29 Oct 2026 14:01:33 +0000 — https://www.eurogamer.net/call-of-duty-modern-warfare-4-review
-
-It's easy to dislike Call of Duty. Aside from the annual cycle of development, marketing, and controversy that has defined the series identity for the past 22 years, the series has become an integral part of how video games prop up the military-industrial complex . Whilst some of the stories - especially 2025's Black Ops 7 - have deteriorated into the realms of science-fiction absurdity, many of the narratives you'll find in the Modern Warfare splinter of the series are more grounded in reality. When you're playing as semi-fictional UK and US troopers, taking part in illegal operations in foreign territory, wantonly executing people over differences in ideology, Call of Duty can feel gross: paper-thin propaganda designed to glorify war and reinforce lines between 'them' and 'us'. Read more
-
-### Mouthwashing is finally on consoles and Xbox Game Pass, and it's a Halloween must for horror fans
-Thu, 29 Oct 2026 13:40:45 +0000 — https://www.eurogamer.net/mouthwashing-game-pass-ps5-ps4-switch-xbox-now-playing
-
-A mutilated man stares at you, his single piercing eye following as you move around the room. His filthy bandages hide a ruined face, raw lips circling disturbingly perfect teeth, and his moans echo through the halls. But that eye: it knows something you don't. At least not yet. Read more
-
-### With a cracking new tactical feature and dedicated UI "strike team", Football Manager 27 is a huge step back towards FM's best form
-Thu, 29 Oct 2026 13:20:59 +0000 — https://www.eurogamer.net/football-manager-27-preview-interview-tactical-effectiveness-ui-strike-team
-
-Welcome back, Football Manager. I've only played half a day or so of it, whistling through my inductions, board meetings and opening transfer window, but already the positive signs are there. Football Manager 27 is a big, much-appreciated step in the right direction. In a way it's a step back - this is essentially the game I wish FM26 had been - but sometimes that's necessary. One back, two forward. At least it's genuine progress. This is a Football Manager game again. Read more
-
-### World of Warcraft players angry after Blizzard seems to contradict housing cosmetics policy with Halloween additions
-Thu, 29 Oct 2026 11:59:54 +0000 — https://www.eurogamer.net/world-of-warcraft-halloween-housing-cosmetics-controversy-kul-tiran
-
-The World of Warcraft team has found itself at the centre of controversy after recently-added housing cosmetics appeared to go against previous pledges not to sell decorations tied to the visual identity of the game's races and factions. Read more
-
-### COD Modern Warfare 4's controversial Possum ability nerfed to stop it being used "as a combat mechanic instead of a survival mechanic"
-Thu, 29 Oct 2026 11:33:05 +0000 — https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-possum-nerf
-
-Since the launch of Call of Duty: Modern Warfare 4's DMZ mode, players have been mainly arguing about two topics: whether there's a need for a PvE-only mode , and whether Possum - an in-game trait - has a place in an extraction experience . Read more
-
-### Xbox leader Asha Sharma says there's "more demand than consoles available" as Xbox hardware sales dip by 14%
-Thu, 29 Oct 2026 11:21:44 +0000 — https://www.eurogamer.net/xbox-financials-sales-asha-sharma-microsoft
-
-Xbox leader Asha Sharma has claimed there's "more demand than consoles available" when it comes to Xbox, and that console sales "remain constrained by supply". Read more
-
 ## GamesIndustry.biz
+
+### Studio Atelico launches Atelico AI Engine into Early Access
+Fri, 30 Oct 2026 14:39:49 +0000 — https://www.gamesindustry.biz/studio-atelico-launches-atelico-ai-engine-into-early-access
+
+Studio Atelico has launched its Atelico AI Engine into Early Access. Read more
+
+### Maddy Makes Games removes Celeste and TowerFall from Xbox in support of pro-Palestinian BDS boycott
+Fri, 30 Oct 2026 12:10:27 +0000 — https://www.gamesindustry.biz/maddy-makes-games-removes-celeste-and-towerfall-from-xbox-in-support-of-pro-palestinian-bds-boycott
+
+Indie developer Maddy Makes Games has delisted Celeste and TowerFall from Xbox to support the pro-Palestinian Boycott, Divestment, and Sanctions (BDS) movement. Read more
+
+### Gaming storefronts are facing a Slop Grenade problem | Opinion
+Fri, 30 Oct 2026 12:00:00 +0000 — https://www.gamesindustry.biz/gaming-storefronts-are-facing-a-slop-grenade-problem-opinion
+
+There is currently a concerted and not-so-subtle campaign underway to try to manufacture consent for the use of AI in game development. Read more
 
 ### Roblox Q3 results beat expectations despite bookings falling 12% to $1.7bn
 Fri, 30 Oct 2026 10:44:44 +0000 — https://www.gamesindustry.biz/roblox-q3-results-beat-expectations-despite-bookings-falling-12-to-17bn
@@ -109,26 +124,46 @@ Wed, 28 Oct 2026 19:13:51 +0000 — https://www.gamesindustry.biz/pressengine-an
 
 PR and influencer marketing platform PressEngine is launching The Pre-Show, an in-person event that puts developers directly in front of media and content creators. Read more
 
-### Hearth and Hamlet publisher Runic Forge rebrands as Pythia Games
-Wed, 28 Oct 2026 17:56:48 +0000 — https://www.gamesindustry.biz/hearth-and-hamlet-publisher-runic-forge-rebrands-as-pythia-games
-
-Hearth and Hamlet publisher Runic Forge has rebranded as Pythia Games. Read more
-
-### How to run an indie game studio: Part 5, Better meetings
-Wed, 28 Oct 2026 15:00:00 +0000 — https://www.gamesindustry.biz/how-to-run-an-indie-game-studio-part-5-better-meetings
-
-If you've made it this far in the series, you now have the building blocks of a functioning studio operating system: a clear purpose , long and short-term goals , a system for catching and solving issues , and a quarterly rhythm that keeps your team focused and accountable . This week, we're looking at the glue that holds all of it together: your meetings. Read more
-
-### "Taking several years with several thousand people… It's almost impossible" – PlayStation creator Ken Kutaragi on the current state of gaming
-Wed, 28 Oct 2026 13:30:00 +0000 — https://www.gamesindustry.biz/taking-several-years-with-several-thousand-people-its-almost-impossible-playstation-creator-ken-kutaragi-on-the-current-state-of-gaming
-
-Middlesbrough is probably the last place we expected to meet Ken Kutaragi, widely known as the father of the PlayStation. He admits he hadn't heard of the northern UK town before he was invited here to give a talk at the second Game Republic New Horizons event on October 15. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Inspired by Classic FromSoftware, Queen s Domain Looks a Fascinating PS5 Adventure
+Fri, 30 Oct 2026 17:00:00 GMT — https://www.pushsquare.com/news/2026/10/inspired-by-classic-fromsoftware-queens-domain-looks-a-fascinating-ps5-adventure
+
+Out now for $20 on PS5. There are far too many promising indie games releasing every week to keep up, but this one, Queen's Domain , has really caught my eye. It releases onto PS5 today for £17.75 / $19.99, and it's inspired by King's Field , the series FromSoftware made before Demon's Souls . Essentially, it's an RPG blending retro visuals and the fantasy RPG genre to create a difficult adventure based around combat and exploration. You travel to an island called the Isle of Naesied, where your father disappeared. From there, an adventure ensues. Read the full article on pushsquare.com
+
+### New Call of Duty to Remove Appalling Footage of Real-Life Tragedy
+Fri, 30 Oct 2026 16:00:00 GMT — https://www.pushsquare.com/news/2026/10/new-call-of-duty-to-remove-appalling-footage-of-real-life-tragedy
+
+Families criticised Activision for including videos. Activision has apologised and promised to remove footage of a real-life tragedy from Call of Duty: Modern Warfare 4 . Victims’ families understandably reacted angrily when it emerged that news footage from 2022’s Itaewon disaster was included in the game to illustrate a fictional invasion from North Korea. Read the full article on pushsquare.com
+
+### New Mass Effect Cancelled So EA Can Focus on Star Wars Battlefront 3
+Fri, 30 Oct 2026 15:30:00 GMT — https://www.pushsquare.com/news/2026/10/new-mass-effect-cancelled-so-ea-can-focus-on-star-wars-battlefront-3
+
+So says new Bloomberg report. The next Mass Effect game was cancelled and BioWare shut down because publisher EA wished to focus on a new Star Wars: Battlefront title instead of bringing both to market. That is according to a new Bloomberg report from journalist Jason Schreier, who explains the situation EA was facing a few months ago. Read the full article on pushsquare.com
+
+### This New PS5 Visual Novel Is Absolutely Bursting with Style
+Fri, 30 Oct 2026 15:00:00 GMT — https://www.pushsquare.com/news/2026/10/this-new-ps5-visual-novel-is-absolutely-bursting-with-style
+
+No word on a western release just yet. Those of you reading the re-release of Steins;Gate this week may want to keep a close eye on Japanese dev MAGES’ latest effort, Seeker Eye . The game’s due out in Japan on 25th February, and while there’s no word on an English localisation just yet, I’m pretty confident it’ll make its way overseas eventually. Read the full article on pushsquare.com
+
+### The Scale of Crimson Desert Just Got Even More Absurd After New PS5 DLC
+Fri, 30 Oct 2026 13:15:00 GMT — https://www.pushsquare.com/news/2026/10/the-scale-of-crimson-desert-just-got-even-more-absurd-after-new-ps5-dlc
+
+A scarily big map after Charting the Unknown. Crimson Desert has always been a ridiculously huge open world game, but now this week's new Charting the Unknown DLC has launched, its sheer size has reached new levels. The base game becomes just a corner of the map once you've got Charting the Unknown installed. Read the full article on pushsquare.com
+
+### The Wolf Among Us Remastered Hit with PS5 Upgrade Pricing Issues
+Fri, 30 Oct 2026 12:30:00 GMT — https://www.pushsquare.com/news/2026/10/the-wolf-among-us-remastered-hit-with-ps5-upgrade-pricing-issues
+
+Promised discounts not appearing. The launch of The Wolf Among Us Remastered has not gone as smoothly as TellTale Games would have liked, as many fans are reporting not being able to access the discounted upgrade offer they were promised. Last week, the developer shared price discounts that owners of the PS4 version of The Wolf Among Us could take advantage of, should they want to upgrade to the remastered PS5 edition. Also open to PS Plus members, those were: Read the full article on pushsquare.com
+
+### Quirky RPG Resonance of Fate Is Back with an Enhanced Remaster for PS5
+Fri, 30 Oct 2026 11:00:00 GMT — https://www.pushsquare.com/news/2026/10/quirky-rpg-resonance-of-fate-is-back-with-an-enhanced-remaster-for-ps5
+
+$10 upgrade for current PS4 owners. Who had the PS3 role-playing game Resonance of Fate receiving a second remaster for PS5 on their 2026 bingo card? Having already been enhanced on PS4, the quirky RPG has been treated to an "enhanced remaster", out today on PS5. This latest version features two additional enhancements over the PS4 remaster: even better graphics and the ability to play it at double the speed. Read the full article on pushsquare.com
 
 ### Death Stranding Isolations Anime TV Series Gets First Trailer, Out in 2027
 Fri, 30 Oct 2026 10:00:00 GMT — https://www.pushsquare.com/news/2026/10/death-stranding-isolations-anime-tv-series-gets-first-trailer-out-in-2027
@@ -155,42 +190,27 @@ Thu, 29 Oct 2026 19:00:00 GMT — https://www.pushsquare.com/news/2026/10/it-has
 
 "In fact, it keeps getting worse". During its summer livestream earlier in the year, Xbox CEO Asha Sharma made a big song and dance about her company’s return to console exclusivity. Many first-party titles, like Halo: Campaign Evolved , released on the PS5 under previous boss Phil Spencer’s leadership. Read the full article on pushsquare.com
 
-### Assassin s Creed Valhalla Gets New Game+ Patch, More Than Three Years After Its Final Update
-Thu, 29 Oct 2026 18:15:00 GMT — https://www.pushsquare.com/news/2026/10/assassins-creed-valhalla-gets-new-gameplus-patch-more-than-three-years-after-its-final-update
-
-Its most requested addition. It's been more than three whole years since Assassin's Creed Valhalla got its "final" update, all the way back in February 2023. But somehow, and for some reason, Ubisoft has actually gone back to its best-selling instalment, and is about to deliver Valhalla's most requested patch. Read the full article on pushsquare.com
-
-### Virtua Fighter s Cocky Kid Lionel Rafale Returns in Crossroads on PS5
-Thu, 29 Oct 2026 18:00:00 GMT — https://www.pushsquare.com/news/2026/10/virtua-fighters-cocky-kid-lionel-rafale-returns-in-crossroads-on-ps5
-
-Virtua Fighter 2's flamboyant Frenchie arrives. It’s been several months since our last update on Virtua Fighter Crossroads , the revival of SEGA’s long-running 3D fighting game franchise from RGG Studio. But it looks like the Japanese publisher is ready to peel back the curtain a little more, as it’s teasing a 29th October update on the title, which could potentially include a release date. Read the full article on pushsquare.com
-
-### Rumour: The Elder Scrolls 6 Reveal as Soon as Next Month, Named Sentinel
-Thu, 29 Oct 2026 16:45:00 GMT — https://www.pushsquare.com/news/2026/10/rumour-the-elder-scrolls-6-reveal-as-soon-as-next-month-named-sentinel
-
-Big reveal might not be far away. Bethesda plans to make Sentinel the subtitle to The Elder Scrolls VI , and it could confirm the full name as soon as next month, says The Verge scribe Tom Warren. In a fresh report, the writer states that "sources familiar with Bethesda's plans" indicate The Elder Scrolls VI: Sentinel is the official title, and the announcement could take place in November, when Skyrim turns 15 years old (yes, it really has been that long). Read the full article on pushsquare.com
-
-### Guide: Phantom Blade Zero: Best Weapons and Where to Find Them
-Thu, 29 Oct 2026 15:45:00 GMT — https://www.pushsquare.com/guides/phantom-blade-zero-best-weapons-and-where-to-find-them
-
-All weapons tested. What are the best weapons in Phantom Blade Zero ? In this guide, I'm going to cover all of the game's weapons, detailing their strengths and weaknesses, while also giving them an overall rating. For the purposes of this guide, I've tested each weapon against both groups of enemies and singular bosses. Read the full article on pushsquare.com
-
-### PS5 Still Outselling PS4 in USA Despite Much Higher Price and Fewer Exclusives
-Thu, 29 Oct 2026 15:30:00 GMT — https://www.pushsquare.com/news/2026/10/ps5-still-outselling-ps4-in-usa-despite-much-higher-price-and-fewer-exclusives
-
-Selling better by 1% lifetime to date. Even though it costs an arm and a leg, and it has far fewer exclusive games, the PS5 continues to outsell the PS4 in the USA when you compare the same point in their lifespans. Via analyst Mat Piscatella of Circana , we're currently in the 71st month of the PS5 generation. When you compare total sales in the USA to the same month of the PS4 generation, the PS5 is outselling the PS4 by 1%. It is also outselling the PS3 at the same point in the USA by 30%. Read the full article on pushsquare.com
-
-### Konami Records Strong Profit Having Made Excellent Games Again
-Thu, 29 Oct 2026 13:30:00 GMT — https://www.pushsquare.com/news/2026/10/konami-records-strong-profit-having-made-excellent-games-again
-
-Make good games, make good money. Konami is back to making new games in its catalogue of classic franchises, and the work is beginning to pay off. Within its latest financial report, the publisher has recorded a 75.1% increase in profit compared to the previous year, and from April to September 2026, it achieved a 44.3% increase in sales. So, what did it do during the previous quarter to achieve that? It released fantastic games. Read the full article on pushsquare.com
-
-### GTA-Inspired PS5 Open World Goes Full Tycoon in Upcoming Update
-Thu, 29 Oct 2026 12:30:00 GMT — https://www.pushsquare.com/news/2026/10/gta-inspired-ps5-open-world-goes-full-tycoon-in-upcoming-update
-
-Manage city logistics in new mode. The real GTA 6 may be right around the corner, but Hotta Studio’s anime-inspired open world NTE is getting a big update on 11th November to keep you occupied in the meantime. And as has become customary for Heathereau, there’s a lot to look forward to here, including two new characters, story quests, and more. Read the full article on pushsquare.com
-
 ## Game Developer
+
+### Roblox growth slumps, but the company is betting big on AI to compensate
+Fri, 30 Oct 2026 18:30:00 GMT — https://www.gamedeveloper.com/business/roblox-growth-slumps-but-the-company-is-betting-big-on-ai-to-compensate
+
+Roblox's quarterly financial results missed their daily active user goals, but the company plans to make up for it somehow with AI.
+
+### John Romero's canceled game finds a new publisher amidst an overall scope change
+Fri, 30 Oct 2026 15:33:27 GMT — https://www.gamedeveloper.com/business/john-romero-canceled-game-finds-a-new-publisher-amidst-an-overall-scope-change
+
+John Romero's game was canceled by Xbox and his studio was on the verge of total collapse, but a new publisher has picked it up and Romero has managed to retain some of his team.
+
+### Report: EA shut down BioWare in favor of Star Wars: Battlefront sequel after previously decrying licensed games
+Fri, 30 Oct 2026 15:25:15 GMT — https://www.gamedeveloper.com/business/report-ea-shut-down-bioware-in-favor-of-star-wars-battlefront-sequel-after-previously-decrying-licensed-games
+
+According to a new report, Electronic Arts closed down the venerated RPG studio BioWare to shift resources away from Mass Effect and toward a new Star Wars: Battlefront title.
+
+### GDC Side Quest - An anti-cheat primer with Lucia Suarez
+Fri, 30 Oct 2026 13:56:39 GMT — https://www.gamedeveloper.com/programming/gdc-side-quest-an-anti-cheat-primer-with-lucia-suarez
+
+How do you begin to understand the mind of a cheater?
 
 ### Donald Glover to direct, star in Netflix adaptation of PUBG Battlegrounds
 Thu, 29 Oct 2026 18:17:55 GMT — https://www.gamedeveloper.com/business/netflix-adapts-krafton-pubg-to-be-written-and-led-by-donald-glover
@@ -202,22 +222,47 @@ Thu, 29 Oct 2026 17:35:37 GMT — https://www.gamedeveloper.com/console/xbox-ceo
 
 Xbox CEO Asha Sharma insists that the demand for Xbox consoles is there, Microsoft simple cannot produce enough, a claim that may clash with Xbox's public sales data.
 
-### Epic VP says AI code tools have stomped out decade-old 'non-deterministic cooking bugs' in Unreal Engine
-Wed, 28 Oct 2026 16:28:55 GMT — https://www.gamedeveloper.com/programming/unreal-engine-will-be-developed-with-ai-code-confirms-epic
-
-After an AI-first pivot, Epic has confirmed that AI is shaping the Unreal Engine in the near future.
-
-### Roblox confirms no adult content used in AI training after scraping Open3DLab data
-Wed, 28 Oct 2026 15:45:59 GMT — https://www.gamedeveloper.com/business/roblox-confirms-no-adult-content-used-in-ai-training-after-scraping-open3dlab-data
-
-Roblox says an AI agent failed to operate 'as intended' when it mass-downloaded adult content from Open3DLab, Smutlab, and SFMLab.
-
-### Valve weighs in on Next Fest AI cloning phenomenon
-Wed, 28 Oct 2026 14:42:21 GMT — https://www.gamedeveloper.com/pc/valve-addresses-steam-ai-cloning-problem
-
-The worrying trend of games on Steam getting quick clones for the same storefront has been acknowledged by store owner Valve — and the onus placed on developers to prevent it themselves.
-
 ## VGC
+
+### Fanatical s Mystery Chest Bundle offers up to 25 mystery Steam keys for $17.49, with a chance to get Phantom Blade Zero
+Fri, 30 Oct 2026 18:42:36 +0000 — https://www.videogameschronicle.com/news/fanaticals-mystery-chest-bundle-offers-up-to-25-mystery-steam-keys-for-17-49-with-a-chance-to-get-phantom-blade-zero/
+
+Other prizes could be won on top of the games on offer, including a Steam Frame… Source
+
+### Activision apologizes and says it will remove South Korean crush footage from Modern Warfare 4 after victims families speak out
+Fri, 30 Oct 2026 16:18:03 +0000 — https://www.videogameschronicle.com/news/activision-apologizes-and-says-it-will-remove-south-korean-crush-footage-from-modern-warfare-4-after-victims-families-speak-out/
+
+A shot in the game's intro shows news footage from the site of the tragedy… Source
+
+### Podcast: We pitch Xbox s $800 Million Netflix empire
+Fri, 30 Oct 2026 14:49:06 +0000 — https://www.videogameschronicle.com/blog/podcast/podcast-we-pitch-xboxs-800-million-netflix-empire/
+
+Plus: Does Switch Sports Resort take home the gold? Source
+
+### EA chose to shut down BioWare so it could make Star Wars Battlefront 3 instead, it s claimed
+Fri, 30 Oct 2026 14:34:20 +0000 — https://www.videogameschronicle.com/news/ea-chose-to-shut-down-bioware-so-it-could-make-star-wars-battlefront-3-instead-its-claimed/
+
+The publisher reportedly decided having two high-budget sci-fi action games was too many… Source
+
+### COD MW4 Multiplayer: Halloween event, Possession playlist, milsim explained
+Fri, 30 Oct 2026 13:58:47 +0000 — https://www.videogameschronicle.com/guide/cod-mw4-multiplayer-halloween-event-possession-playlist-milsim-explained/
+
+The Possession playlist and milsims explained in Call of Duty: Modern Warfare 4… Source
+
+### John Romero confirms his axed Xbox game has a new publisher and he s rehired some staff
+Fri, 30 Oct 2026 13:42:14 +0000 — https://www.videogameschronicle.com/news/john-romero-confirms-his-axed-xbox-game-has-a-new-publisher-and-hes-rehired-some-staff/
+
+The game has been rescoped for a smaller team and "we're just super happy" Source
+
+### Monster Hunter Outlanders codes: All codes to redeem at launch
+Fri, 30 Oct 2026 12:34:39 +0000 — https://www.videogameschronicle.com/guide/monster-hunter-outlanders-codes-all-codes-to-redeem-at-launch/
+
+All redeemable codes in Monster Hunter's mobile gacha spin-off… Source
+
+### Ubisoft says no more Assassin s Creed remakes are planned, as it gives updates on Invictus and Hexe
+Fri, 30 Oct 2026 12:18:44 +0000 — https://www.videogameschronicle.com/news/ubisoft-says-no-more-assassins-creed-remakes-are-planned-as-it-gives-updates-on-invictus-and-hexe/
+
+Black Flag Resynced will be the only remade Assassin's Creed for now… Source
 
 ### AAA publishers abusing Early Access are setting unrealistic expectations, say Deadhaus Sonata leads
 Fri, 30 Oct 2026 09:47:26 +0000 — https://www.videogameschronicle.com/news/aaa-publishers-abusing-early-access-are-setting-unrealistic-expectations-say-deadhaus-sonata-leads/
@@ -229,161 +274,156 @@ Thu, 29 Oct 2026 18:14:44 +0000 — https://www.videogameschronicle.com/news/pre
 
 Use our code to get the PC version for £39.89 / €47.87 instead of £49.99 / €59.99… Source
 
-### Xbox is reportedly set to officially name The Elder Scrolls 6: Sentinel as soon as next month
-Thu, 29 Oct 2026 16:32:57 +0000 — https://www.videogameschronicle.com/news/xbox-is-reportedly-set-to-officially-name-the-elder-scrolls-6-sentinel-as-soon-as-next-month/
-
-A new report also claims to reveal where the next Elder Scrolls will be set… Source
-
-### FromSoftware s Switch 2 exclusive The Duskbloods has been delayed to 2027
-Thu, 29 Oct 2026 14:15:24 +0000 — https://www.videogameschronicle.com/news/fromsoftwares-switch-2-exclusive-the-duskbloods-has-been-delayed-to-2027/
-
-The studio says it needs "final adjustments to game rules and balancing" Source
-
-### The official Grand Theft Auto 6 musical score by Justice is released in December, CD and vinyl pre-orders available now
-Thu, 29 Oct 2026 13:42:38 +0000 — https://www.videogameschronicle.com/news/the-official-grand-theft-auto-6-musical-score-by-justice-is-released-in-december-cd-and-vinyl-pre-orders-available-now/
-
-The score will also be available on streaming platforms, with one track ready now… Source
-
-### Nintendo UK is selling a Switch 2 bundle including Mario Kart World, a camera and a MicroSD card for £134 off
-Thu, 29 Oct 2026 13:21:28 +0000 — https://www.videogameschronicle.com/news/nintendo-uk-is-selling-a-switch-2-bundle-including-mario-kart-world-a-camera-and-a-microsd-card-for-134-off/
-
-The bundle also includes three months of Nintendo Switch Online… Source
-
-### World of Warcraft Forever controller support is the first step to playing anywhere , as Blizzard prepares for Xbox Helix
-Thu, 29 Oct 2026 13:03:51 +0000 — https://www.videogameschronicle.com/news/world-of-warcraft-forever-controller-support-is-the-first-step-to-playing-anywhere-as-blizzard-prepares-for-xbox-helix/
-
-A console version has not been confirmed but Blizzard says it's conscious of the future… Source
-
-### Metroid Prime Trilogy engineer explains why he thinks the motorcycle sections in Metroid Prime 4 were just a waste
-Thu, 29 Oct 2026 11:31:05 +0000 — https://www.videogameschronicle.com/news/metroid-prime-trilogy-engineer-explains-why-he-thinks-the-motorcycle-sections-in-metroid-prime-4-were-just-a-waste/
-
-Jack Mathews thinks the Sol Valley Vi-O-La sections led to a "split focus" Source
-
-### The latest episode of South Park features exclusive GTA 6 footage where a man is hit in the head with dog poo
-Thu, 29 Oct 2026 10:01:24 +0000 — https://www.videogameschronicle.com/news/the-latest-episode-of-south-park-features-exclusive-gta-6-footage-where-a-man-is-hit-in-the-head-with-dog-poo/
-
-The episode aired on Wednesday in the US… Source
-
-### November s three free PS Plus Essential monthly games include Dead Island 2 and Tomb Raider 4-6 Remastered
-Wed, 28 Oct 2026 15:41:07 +0000 — https://www.videogameschronicle.com/news/novembers-three-free-ps-plus-essential-monthly-games-include-dead-island-2-and-tomb-raider-4-6-remastered/
-
-There are three games available for subscribers to claim next month… Source
-
 ## Polygon
 
-### Forget 'Carrie,' Mike Flanagan's Next Movie Could Fix A Misunderstood Cult Classic
-Fri, 30 Oct 2026 11:00:18 GMT — https://www.polygon.com/the-exorcist-3-best-villain/
+### How to open the Crimson Manor in Phantom Blade Zero
+Fri, 30 Oct 2026 18:41:24 GMT — https://www.polygon.com/phantom-blade-zero-crimson-manor-how-to-open/
 
-My relationship to horror started like a lot of people’s: I was a ridiculously scared child. The thought of Freddy Krueger’s claws was enough to drive me to tears. But then, I grew up, and I became obsessed with the genre and its controlled fears. I have a soft spot for exorcism storylines, featuring the kind of horror that lingers and makes its way into your home. Blame it on my Catholic upbringing, but few things are more disturbing to me than watching Regan MacNeil (Linda Blair) spider walk down the stairs.
+The Crimson Manor is a mysterious location in Phantom Blade Zero that you discover after riding a suspicious elevator in the Weeping Creek Valley . Although you can visit it in the first few hours of the game, the doors to the somber building won't budge until you have a unique key that fits the puppet-shaped lock. Unlocking the manor is a secondary mission, but one that helps you learn more about a central character and achieve the game's true ending.
 
-### 10 Queer Fairy Tale Retellings Better Than the Originals
-Fri, 30 Oct 2026 10:00:18 GMT — https://www.polygon.com/10-queer-retellings-of-classic-fairy-tales/
+### HBO's Harry Potter Officially Casts Its New Sorting Hat and Ghosts
+Fri, 30 Oct 2026 18:02:51 GMT — https://www.polygon.com/harry-potter-hbo-tv-show-recasts-ghosts-sorting-hat/
 
-As a queer woman growing up, it was pretty easy to neg on all things fairy-tale. Perhaps I had reason to, as mockery of all things Disney has grown popular in recent years.
+HBO's new Harry Potter TV show is just two months away, but key roles are still being cast — or at least officially announced — for the series. The new Harry Potter will be full of fresh faces, including new lead actors Dominic McLaughlin as Harry Potter, Arabella Stanton as Hermione Granger, and Alastair Stout as Ron Weasley.
 
-### Hideo Kojima's Death Stranding Anime Looks Impressive in First Official Trailer
-Fri, 30 Oct 2026 10:00:11 GMT — https://www.polygon.com/hideo-kojima-death-stranding-isolations-anime-first-trailer/
+### New Switch 2 Consoles Quietly Hide A Perfect 'Zelda' Homage
+Fri, 30 Oct 2026 17:30:19 GMT — https://www.polygon.com/zelda-switch-2-console-easter-egg-preorder-controller-case-pixel-art/
 
-Hideo Kojima's Death Stranding series brought the Metal Gear Solid creator's trademark arthouse approach to video games to full fruition. With no plans for Death Stranding 3 , besides a concept draft, fans are instead looking forward to the game's universe expanding into different media, including anime.
+Lucky Nintendo fans who secured a pre-order for The Legend of Zelda: Ocarina of Time Switch 2 are starting to open the boxes containing their swanky new consoles — and are receiving a nice, unexpected surprise.
 
-### 5 Classic JRPGs with Virtually Perfect Battle Systems
-Fri, 30 Oct 2026 09:00:17 GMT — https://www.polygon.com/jrpgs-best-battle-systems/
+### We Finally Know What Killed Mass Effect
+Fri, 30 Oct 2026 17:26:40 GMT — https://www.polygon.com/mass-effect-bioware-shutdown-ea-star-wars/
 
-Many role-playing games have a familiar, turn-based combat system. Your options are usually riffs on one of four actions: attack, defend, use magic, or use an item. Even with that very basic template, you’re usually in for a pretty fun time saving the world with a group of pals. But if it’s not snappy and satisfying, or if battles drag on too long, you’re probably bouncing off that game.
+On Oct. 21, EA announced that it was shutting down the beloved game studio BioWare and canceling its new Mass Effect sequel. The news was quite a blow, sparking theories that the studio was shut down because of pressure from Saudi Arabia’s Public Investment Fund, which recently bought out EA . Based on reporting from Bloomberg , we now know the main reason the publisher shut down BioWare: Star Wars.
 
-### 34 Years Later, Hobbes' Wisest 'Calvin and Hobbes' Line Is Still a Perfect Comic Strip Quote
-Fri, 30 Oct 2026 08:00:17 GMT — https://www.polygon.com/wisdom-hobbes-watterson/
+### Animal Crossing’s Biggest Competitor Officially Launches in December
+Fri, 30 Oct 2026 17:03:53 GMT — https://www.polygon.com/petit-planet-release-date-trailer/
 
-Here's something that might win you some points in a trivia game someday: Bill Watterson named the protagonists of Calvin and Hobbes after two European philosophers. John Calvin (1509-1564) was a controversial theologian whose ideas gave rise to the predestination-oriented Calvinist branch of Protestantism (thus mucking everything up for everyone for centuries to come). Thomas Hobbes (1588-1679) wrote Leviathan , one of the foundational works of social contract theory.
+After months of silence about its upcoming cozy life-sim HoYoverse finally set a Petit Planet release date. Petit Planet launches Dec. 4 for PC and mobile devices, with pre-load starting on Dec. 1; HoYoverse hasn't announced plans to launch Petit Planet on consoles yet.
 
-### 10 Essential Fantasy Books You Need to Read at Least Once in Your Life
-Fri, 30 Oct 2026 04:00:17 GMT — https://www.polygon.com/fantasy-books-you-need-to-read-at-least-once-in-your-life/
+### 2026’s Secret 'Robin Hood' Movie Suddenly Drops on Streaming After Bombing in Theaters
+Fri, 30 Oct 2026 16:31:42 GMT — https://www.polygon.com/robin-hood-movie-the-uprising-streaming-date-andrew-garfield/
 
-Fantasy has always offered a way to step beyond the boundaries of reality, inviting readers into worlds where the impossible becomes part of everyday life. The genre stretches back to ancient folklore, epic poetry, and fairy tales, existing long before the modern fantasy novel took shape, in which sorcery and magical worlds abound. From the mythological journeys of Homer to the dreamlike stories of George MacDonald, imaginative literature has continually found new ways to explore humanity through the extraordinary.
+Another 2026 box office flop is heading to streaming after a short theatrical run. The Uprising , which was briefly marketed in the U.S. as The Uprising: The Rise of Robin Hood , will stream exclusively on Peacock in early November.
 
-### Official The Elder Scrolls 6 Announcement Imminent, Report Says
-Thu, 29 Oct 2026 21:14:52 GMT — https://www.polygon.com/the-elder-scrolls-6-sentinel-news-tes6-skyrim-anniversary-bethesda/
+### HBO’s New Green Lantern Series Officially Gets an Important Update
+Fri, 30 Oct 2026 16:16:15 GMT — https://www.polygon.com/dc-my-adventures-with-green-lantern-episode-count-revealed/
 
-The Elder Scrolls fans know that Bethesda is hard at work on the next highly anticipated roleplaying game entry, The Elder Scrolls 6 , but that's about it. The lack of concrete information is wild when you consider that the sequel to The Elder Scrolls 5: Skyrim was announced a whopping eight years ago. Fans' patience may finally be about to pay off.
+DC and HBO first announced My Adventures with Green Lantern back in 2025, and updates since then have been sparse. It was briefly shown off during this year's Annecy International Animation Festival , but nothing at the convention was released publicly. Now, DC Studios co-lead Peter Safran has finally given a small but much-needed update on the project.
 
-### Ubisoft Issues Official Update on Fate of Future Assassin's Creed Remakes
-Thu, 29 Oct 2026 20:48:18 GMT — https://www.polygon.com/assassins-creed-remakes-development-update-fall-2026/
+### 6 Steam Games Coming Soon That Belong on Your Wishlist
+Fri, 30 Oct 2026 16:00:19 GMT — https://www.polygon.com/wishlister-oct-30/
 
-Ubisoft's latest Assassin's Creed game was a blast from the past. Assassin's Creed Black Flag Resynced is a remake of the 2013 pirate adventure. As remakes become more and more common in the industry, fans have naturally wondered if more Assassin's Creed remakes are in the pipeline. In 2024, CEO Yves Guillemot hinted at such , saying, "Players can be excited about some remakes, which will allow us to revisit some of the games we've created in the past and modernize them."
+Even though Steam Next Fest is over, we’re still sorting through all the games it put on our radar. While Steam’s recurring free demo event was invaded by generative AI games, it still featured plenty of human-made projects that cut through the slop. We’ve walked away from the event with a very long wishlist of upcoming PC games.
 
-### Steam Makes 96% Positive Puzzle Game Completely Free
-Thu, 29 Oct 2026 20:45:03 GMT — https://www.polygon.com/hexologic-free-steam-game-october-2026/
+### OpenAI Billionaire: PCs Are 'Terrible' When Data Centers Need More Memory
+Fri, 30 Oct 2026 15:52:46 GMT — https://www.polygon.com/chatgpt-open-ai-sam-altman-youtube-interview-vram-supply-cost-data/
 
-Puzzle games have a special way of making you feel clever. Whether you’re solving elaborate environmental challenges in Portal 2 , untangling mind-bending mysteries in The Witness , or figuring out the next move in Baba Is You , few things are as satisfying as finally cracking a puzzle that’s had you stumped.
+Here's a fun fact: from now until 2029, OpenAI owns 40% of the world's supply of Dynamic Random Access Memory (DRAM), which powers cell phones, video game consoles, and artificial intelligence. The ChatGPT maker is thus one of the key reasons you have to pay $650 for a PS5 now, and why no one can affordably build a new gaming PC. Somehow, OpenAI CEO Sam Altman thinks that percentage isn't enough.
 
-### Patrick Stewart's Greatest Captain Picard Quote Is Still a Defining Star Trek Moment
-Thu, 29 Oct 2026 20:10:37 GMT — https://www.polygon.com/patrick-stewart-best-star-trek-quote/
+### 'Star Wars Fate of the Galaxy' Officially Released for Free
+Fri, 30 Oct 2026 15:24:40 GMT — https://www.polygon.com/star-wars-fan-game-fate-of-the-galaxy-free-space-2-mod/
 
-Every Star Trek fan has an opinion on the franchise's greatest captain. Some prefer the swagger of James T. Kirk (William Shatner). Others admire Benjamin Sisko (Avery Brooks) for his conviction, or Kathryn Janeway (Kate Mulgrew) for her resilience. But ultimately, Jean-Luc Picard (Patrick Stewart) usually wins those debates because he embodied the very best of Starfleet: intelligence, diplomacy, curiosity, and compassion.
+Never doubt the tenacity of Star Wars fans. After close to 20 years of development, a group of volunteers is finally releasing Fate of the Galaxy , a Star Wars space combat game built on FreeSpace 2 ’s open-source engine. This total conversion mod was developed using FreeSpace Open and is available for free on Linux, Mac, and PC .
 
 ## PC Gamer
 
-### Compromised laptop could be to blame for record $6.3 billion cryptocurrency heist: Binance rushes to freeze stolen assets as experts blame North Korean group
-Fri, 30 Oct 2026 10:52:32 +0000 — https://www.pcgamer.com/software/security/compromised-laptop-could-be-to-blame-for-record-usd6-3-billion-cryptocurrency-heist-binance-rushes-to-freeze-stolen-assets-as-experts-blame-north-korean-group/
+### Romero Games has a new publisher for the game Xbox abandoned, but its 110-person team is now just 16 devs: 'I needed to basically design a new game that could use as much of that stuff as possible'
+Fri, 30 Oct 2026 18:33:30 +0000 — https://www.pcgamer.com/games/fps/romero-games-has-a-new-publisher-for-the-game-xbox-abandoned-but-its-110-person-team-is-now-just-16-devs-i-needed-to-basically-design-a-new-game-that-could-use-as-much-of-that-stuff-as-possible/
 
-Maybe I've been too harsh on those mandatory cybersecurity training courses that my company keeps reminding me to do. What looks to be the largest ever cryptocurrency heist may have started with an engineer's compromised laptop, and the attacker got away with more than a couple coins: $6.3 billion in stolen cryptocurrency. The victim is Binance, by far the largest cryptocurrency exchange in the world. The hacker made off with tremendous sums of a range of cryptocurrencies, including ethereum, bitcoin, solana, and XRP. The total sums amount to around $6.3 billion worth. Binance says it has worked with blockchain partners to freeze roughly $3 billion worth of that, leaving $3.3 billion still unaccounted for. Binance founder Changpeng Zhao took to X to suggest that he feels all user funds would be fully covered . Zhao is no longer running Binance following a four-month stint in prison for violating anti-money-laundering laws. He was later pardoned by president Donald Trump. Binance has since confirmed that, yes, it will cover all losses. "Binance's initial investigation suggests that the security incident may involve a compromised DevOps engineer’s laptop," the company says on X , "which allowed an attacker to gain access to a service container and submit unauthorized withdrawal transactions." Binance says it's still figuring out what actually happened here, though experts are already chiming in with what might have gone down. Binance's initial investigation suggests that the se
+In a new interview with VGC , FPS legend John Romero revealed how things were going at Romero Games, the studio he leads alongside his wife, veteran designer Brenda Romero. After its unannounced shooter project was canceled by Xbox last year , Romero Games managed to secure a new publisher, but there's a catch: The team is now only a tenth the size it was while funded by Xbox. Romero says they've rescoped to use the material they already had on a smaller, more focused game. 2026 games : All the upcoming games Best PC games : Our all-time favorites Free PC games : Freebie fest Best FPS games : Finest gunplay Best RPGs : Grand adventures Best co-op games : Better together ]]>
 
-### You can relationship-max in GTA 6 as walking along the beach or working out at the gym together increases your couple rating on a four point scale
-Fri, 30 Oct 2026 10:31:07 +0000 — https://www.pcgamer.com/games/grand-theft-auto/you-can-relationship-max-in-gta-6-as-walking-along-the-beach-or-working-out-at-the-gym-together-increases-your-couple-rating-on-a-four-point-scale/
+### How to get the True Ending in Phantom Blade Zero
+Fri, 30 Oct 2026 17:45:22 +0000 — https://www.pcgamer.com/games/action/phantom-blade-zero-endings-true/
 
-Anyone tells you that love cannot be measured. That it's a feeling deeper than any other emotion which has bound humanity together since the dawn of time and therefore cannot be quantified is lying to you. You absolutely can measure it, and I'd go as far as saying you can even rank people on it, which is exactly what Grand Theft Auto 6 is setting out to do. The recent mega piece by Edge has revealed that GTA 6 players will be able to measure Jason and Lucia's closeness in a four-point scale which we're coining as the boyfriend-o-meter. (Image credit: Rockstar Games) It's confirmed that you can switch between characters in GTA 6 so you'll likely have to show up for your other half no matter who you're playing as. Activities like taking long romantic walks on the beach, working out at the gym together, and driving around so your other half can doomscroll will all work towards boosting your score. The relationship between Lucia and Jason certainly seems to be more involved than we first thought, but that's not to say it will take centre stage or be overly important. Your actions will have narrative consequences but only within a narrow scope of possibilities. But that probably still won't help to calm the growing discourse of people who seem to think that playing GTA 6 is essentially cheating on your partner. I personally think that this is just a psyop propagated by people who don't like having fun, and that no real sensible person would see roleplaying a healthy relationship i
+There are three different Phantom Blade Zero endings; one bad, one slightly less bad, and one True Ending which lets you face the final boss, granting the "Final Battle" ending and "With Heart and Blood" achievement. But to get this perfect ending, besides following the main quest, you have to complete a variety of side activities. The cut-off for completion seems quite generous—though Inanis implies there's a point of no return just as you enter the Mirage Estate, I completed some of these steps later and I was fine. Here's what you need to do 1. Complete the Secrets at the Heart of the Lake quest (Image credit: S-Game Studios) You first get this quest when you discover one of Firefly's Memory Flowers in the Village of Lu, but the main steps are: Defeat the four scarecrow acolytes to get their masks . The first is Acolyte Yanru in the Village of Lu. The second is Acolyte Lei Ting in Pangzhen—you can get to her once you acquire the Flaming Mane Phantom Edge on the west side of the town and then burn the barrier near the Pond of Fading Song bell to access her location. The third is Acolyte Guhe in Meigu Lake on the east village dock island. The fourth is Acolyte Hansui in the Crimson Manor —entering requires a load of other quest progress. You'll need to fix the Illusory Pipa , complete Whence the Weeping , plus the Mandate Encampment area, so this stage is definitely the longest (all the details you need are in the linked Crimson Manor guide). Enter the Phantom Illusionist's 
 
-### Reddit will switch to a 'logged-in only experience'
-Thu, 29 Oct 2026 23:58:10 +0000 — https://www.pcgamer.com/software/ai/reddit-will-switch-to-a-logged-in-only-experience/
+### A Daedalic adventure classic is free on GOG
+Fri, 30 Oct 2026 17:42:00 +0000 — https://www.pcgamer.com/games/adventure/a-daedalic-adventure-classic-is-free-on-gog/
 
-Reddit will become a "logged-in only experience," and the company plans to move fast, beginning testing soon in regions outside the US before flipping the switch globally. The popular community website—home to a great many official and unofficial gaming message boards—lost one million search engine referrals per week on average in October, CEO Steve Huffman said on an investor call today . The culprit, of course, was AI. A Google search that once might have led someone to a 14-year-old Reddit thread containing the answer to a rare household cleaning problem is now likely to present that answer in an AI summary, no click required. "Google has really shifted in their relationship with the rest of the internet," Huffman said during a Q&A. The CEO emphasized, however, that most of Reddit's revenue (over 80%) comes from logged-in and app users, and said that the company will focus on establishing the site as "a direct daily habit" that doesn't rely on search traffic. Efforts cited in that direction include algorithmic feeds, improved app design and performance, AI-powered moderation tools, and "new experiences like games and visual podcasts," the latter referring to, I believe, a feature that uses generative AI to turn posts into videos . The switch to a logged-in only experience will also help "protect access to Reddit's extremely valuable corpus of data," Huffman said. Reddit currently has AI training arrangements with OpenAI and Google. In the Q&A portion of the call, Huffman s
+We previewed A New Beginning , a Daedalic point-and-click adventure about saving the world from environmental catastrophe, all the way back in 2011, and it seemed promising: "Neither preachy nor educational," despite its ecological angle, but "pure sci-fi, involving a clash between one magic power-source that nukes the Earth, and a race to get it replaced with another magic one that turns simple algae into the ultimate fuel." A good bit of time-travel, too. That's always fun. That promise paid off in the final release—not one of Daedalic's most memorable games, but a solid point-and-clicker from a studio that was at the time beginning to establish itself as one of the masters of the genre. And all of this is relevant to you because A New Beginning: Final Cut is now free on GOG. I'm not sure why it's free, exactly: The giveaway isn't explicitly connected to GOG's currently-underway 18 th Anniversary Sale (which is worth checking out in its own right, as always there are some very cheap deals to be had), nor is A New Beginning what I'd call a Halloween-themed game—although the prospect of ecological collapse driven by climate change that humanity seems studiously determined to ignore is pretty horrifying, come to think of it. But on the other hand, who cares, because it's free: Just hit the giveaway link on GOG's front page and it's yours. You've got until November 2 to make the grab. Steam sale dates : When's the next event? Epic Store free games : What's free right now? Free 
 
-### How to start the Charting the Unknown DLC in Crimson Desert
-Thu, 29 Oct 2026 22:00:00 +0000 — https://www.pcgamer.com/games/rpg/crimson-desert-how-to-start-charting-the-unknown-dlc/
+### This brutal Fallout 4 horror mod turns the Commonwealth into Silent Hill
+Fri, 30 Oct 2026 17:38:41 +0000 — https://www.pcgamer.com/games/fallout/this-brutal-fallout-4-horror-mod-turns-the-commonwealth-into-silent-hill/
 
-Crimson Desert 's Charting the Unknown has arrived, but rather than a focused story expansion, it's more about adding other elements to the existing world. This includes endgame challenges, new housing options, a romance system, plus a sailing ship and ocean questline about exploring Pywel's treacherous coast and islands. Each feature has different unlock requirements, so here are the exact details for each. Shipbuilding and exploring the ocean (Image credit: Pearl Abyss) You can unlock the ability to buy or build your first ship after "Expanding the Camp" in "Gathered Will" during the "Grounds of the Sunrise" Greymane faction quest. The quest to build your first ship will unlock, and progressing this questline will lead to the new ocean story. You can upgrade to a medium or large ship for 1.2 million or 6 million camp funds respectively, or build either, which will cost less funds, but more materials. Garden of Trials and new story quests (Image credit: Pearl Abyss) You need to complete the main story to unlock the new Garden of Trials combat challenges. Once finished: Visit the Axiom Archive in the abyss, where you first met Alustin near the start of the game. Turn right before the building's staircase and door to find a corridor into the new annex. There are also new story quests for Kliff, Oongka, and Damiane, which start after the main story is complete in Pailune and Demeniss, respectively, including new combat encounters in the world. Romances (Image credit: Pearl Abys
+Fallout 4's overworld was always missing something that the other 3D wastelands in the series offered me: a sense of bleakness and danger. There are areas of the map, like the Glowing Sea, that managed to dial up the oppression. But the unforgiving horror mod Whispering Hills makes the whole region eerie and mysterious. And I honestly love that. Presented by (Image credit: Torn Banner) This article is brought to you by No More Room in Hell 2 . My playthrough started the same way as vanilla Fallout 4, with a tableau of mid-Century suburban domestic bliss interrupted by a tense run to Vault 111. But from there, I almost started to think my hard drive was haunted. The post-nuclear world has been reimagined with constant, dense fog and occasional torrential rain that limit your view distance to only a handful of yards. It reminded me of how Morrowind used its limited view distance to make Vvardenfell feel much bigger than it was, even if at the time it was also a technical necessity. Part of the problem with the Commonwealth overworld in unmodded Fallout 4 is that it's relatively flat and mostly green, so a lot of it feels very same-y. You can look off into the distance and not see anything so dramatic as the Nevada mountains or Washington DC's monuments. But when so much of the surrounding area is obscured, these gentle, rolling hills are suddenly quite effective at making my spine tingle. The basic premise of Whispering Hills is similar to the base game. Your son Shaun was take
 
-### 'None of these people have ever made a game,' BioWare co-founder Greg Zeschuk says of game industry executives: 'They just don't know how it works'
-Thu, 29 Oct 2026 21:47:36 +0000 — https://www.pcgamer.com/gaming-industry/none-of-these-people-have-ever-made-a-game-bioware-co-founder-greg-zeschuk-says-of-game-industry-executives-they-just-dont-know-how-it-works/
+### 'We act as if Halloween is ours': The best way to spend spooky season is within The Outlast Trials' Sinyala Facility
+Fri, 30 Oct 2026 17:21:12 +0000 — https://www.pcgamer.com/games/horror/we-act-as-if-halloween-is-ours-the-best-way-to-spend-spooky-season-is-within-the-outlast-trials-sinyala-facility/
 
-It's been almost 15 years since BioWare co-founders Greg Zeschuk and Ray Muzyka announced their retirements from the videogame industry, and they've been resolute about staying out of it ever since: Muzyka continues to head up the ThresholdImpact investment firm he founded in 2012 and holds multiple roles at the University of Alberta, while Zeschuk owns Blind Enthusiasm Brewing Company , also based in Alberta, where he works with a small handful of other BioWare veterans. But Zeschuk stepped back into the videogame spotlight, briefly, following last week's closure of BioWare by parent company Electronic Arts, telling 80lv that he got the news hours after it happened because he was on a fishing trip, and by the time he flew home a couple days later, he'd "already shelved it away." "I wasn't there to share in the moment, which in some ways was nice because I was able to kind of just take my time with it," Zeschuk said. "I’m not saying it doesn't hurt and doesn't suck. And I think it's kind of sad. It's actually, in some ways, saddest for the city of Edmonton, where we're from, because we were kind of this beacon of hope and excitement and possibility. We showed you could do something really special in a place that was not known for doing things like that." Zeschuk said he had his own "emotional moment" about BioWare years ago, when he left the company; his real concern now is for the people at the studio who now find themselves out of work: "Anyone getting put into the job hunt
+I like to manifest Halloween year-round, what with my favourite pastimes being horror games, movies, and books—oh, and Dressmaker currently. So when Halloween actually falls upon me I like to make it something special—crack out the real horrifying stuff that'll hit even harder. One series that's always on my list is Outlast thanks to its next-level gore and perfect scares, plus if I want to drag my friends into a shared nightmare there's The Outlast Trials for all to enjoy. "Halloween has always been—even going back to the first Outlast—one of our biggest months, and it definitely kickstarts the biggest part of the year, which is October, November, and the holidays," Red Barrels co-founder Philippe Morin tells me. "Those are usually the best months of the year in terms of sales. We don't control what other studios do, obviously, but we act as if Halloween is ours." (Image credit: Red Barrels) This year Red Barrels decided to celebrate the spooky season with a huge sale to encourage new players to enter the Sinyala Facility and give The Outlast Trials a try over the spookiest month of the year. And it worked, way beyond what they'd hoped for: The game's concurrent player count on Steam ended up capping out at 147,955 players, a hugely impressive feat for a horror game that's over three years. "We knew with that 90% sale we'd get a lot of new players, but we didn't expect that many," Morin says. "That first week of October was pretty insane. Every day I was waking up checking t
 
-### Patrick Stewart, Star Trek and Shakespeare legend, has died
-Thu, 29 Oct 2026 20:33:11 +0000 — https://www.pcgamer.com/movies-tv/patrick-stewart-star-trek-and-shakespeare-legend-has-died/
+### Edifier G5 Max wireless gaming headset review
+Fri, 30 Oct 2026 17:06:25 +0000 — https://www.pcgamer.com/hardware/gaming-headsets/edifier-g5-max-review/
 
-Patrick Stewart, the classically-trained actor who gained worldwide fame in the 1980s as Captain Jean-Luc Picard on Star Trek: The Next Generation and later as Professor Charles Xavier in the X-Men film series, has died. A message posted on Stewart's official X account said his passing came "following a brief and poignant journey with Alzheimer's Disease and Lewy Body Dementia." Stewart joined the Royal Shakespeare Company in 1966, and took his first television role a year later on the long-running British series Coronation Street. He debuted on Broadway in 1971, and subsequently appeared in several feature films. In lieu of flowers, memorial contributions may be made to:Johns Hopkins Alzheimer’s Disease Research Center Fund https://t.co/luC5CdcWDyAlzheimer’s Foundation of America Caregiver Resources https://t.co/zvNptfyuNdPhoto Credit: Tommy Garcia https://t.co/XNncEVq56X October 29, 2026 But it was his tenure as Captain Jean-Luc Picard on Star Trek: The Next Generation that propelled him to international fame. Where his predecessor, Captain James T. Kirk, was a notorious ladies' man of action and fisticuffs, Picard brought a decidedly more intellectual and thoughtful bent to the big chair that ultimately proved one of the show's most enduring characteristics. Once or twice, the show even allowed him to stretch his Shakespearean legs: At the same time, there was never any question that Picard could kick whatever ass was necessary whenever it was called for, and he carried th
+In the world of wireless gaming headsets, there's one spec that draws me in like a moth to a flame: battery life. Particularly 100-hour+ battery life. Wireless cans have come a long way in the last decade, but plugging them in all the time is an annoyance. If I can get away with multiple days without messing around with a cable, I usually will. Which brings me to the Edifier G5 Max . Or the Edifier Hecate G5 Max, if you believe the writing on the box. It's got an astonishing "are you really sure" battery life spec of 305-hours, which meant I had to give it a look. And now I've got one in my hands, I can confirm the battery life is impressive. Only the original HyperX Cloud Alpha Wireless comes close. But the G5 Max, for its $150 / $160 price tag, isn't quite the full ticket in other departments. For one, it comes with a remarkably boxy default sound profile, so you'll want to do some EQ tweaking in the software to sweeten it up. That's usually no big deal—except the EQ presets are as blunt as a hammer, so you'll need to play around with the sliders yourself if you want to get the most out of it. The 53 mm composite drivers are actually fairly decent once they've been fiddled with, but this is a set that massively benefits from some user assistance. (Image credit: Future) And for two, it doesn't have "$150 gaming headset" characteristics. This is a very light set of cans, coming in at just 305 grams. Light is good, but shiny, tippy-tappy ear cup plastics are not. It also looks
 
-### Modern Warfare 4's newest map is actually older than the Gen Z & Alpha teens who will play it
-Thu, 29 Oct 2026 19:36:41 +0000 — https://www.pcgamer.com/games/call-of-duty/modern-warfare-4s-newest-map-is-actually-older-than-the-gen-z-and-alpha-teens-who-will-play-it/
+### Sam Altman argues that it's bad you want DRAM in your computer and not a data center, actually
+Fri, 30 Oct 2026 16:45:50 +0000 — https://www.pcgamer.com/software/ai/sam-altman-argues-that-its-bad-you-want-dram-in-your-computer-and-not-a-data-center-actually/
 
-After 23 mainline games, there are far more Call of Duty maps than anyone can reasonably remember. That's why I'm impressed it took just one screenshot for several fans (with back pain, presumably) to clock that an upcoming Modern Warfare 4 map is actually a remake of a map that's over 20 years old. Backstab, the new 6v6 map arriving on November 6, is a dead ringer for Burgundy , first seen in Call of Duty 2 way back in 2005. That means Backstab is older than the teenagers currently playing Call of Duty—do with that information what you will. A number of people noticed this around the same time, but I'll credit Reddit user wizward64 for providing helpful visuals. (Image credit: Activision Blizzard) Apologies to the reader typing "This was a classic, show some respect!", but there's no way I would've noticed the resemblance on my own. I played Call of Duty 2 on the Xbox 360 when it was new, but not all that much multiplayer. I really like the look of the original Burgundy , though: The desaturated green grass and beige brickwork of the French countryside still looks so clean and attractive 21 years later. I'm also now wondering if my favorite Day of Defeat: Source map ( Donner ) snuck in some of these CoD 2 assets, or if all WW2 shooters of this era were riffing on the same Saving Private Ryan scenes. The layouts are near 1:1, which is neat, though the theming is clearly altered. Burgundy was a WW2 map in France (duh) and Backstab appears to take place in either Russia or Nort
+More and more, AI appears to be the reason we can't have nice things on the internet. Beyond generative models gobbling up my own and my fellow creatives' work in a bid to produce abysmally average output, AI data centres are also devouring all of the available memory. This drives up prices and makes DRAM supply for us PC gamers pretty scarce . CEO of OpenAI Sam Altman argues this is truly for the best. Appearing on a recent episode of the Cheeky Pint podcast , Altman argued, "From a global allocation perspective, actually it’s quite terrible to have everyone have a bunch of the world’s limited supply of DRAM sitting in their own computer, and be used 5% of the time." Yes, that is steam escaping from my ears. But before I go full screaming tea kettle, let's take a beat. Altman is talking less about PC gamers specifically here, and more about solo AI bros craving compute power and "local inference". He's bemoaning an inefficiency within the AI industry rather than taking aim at us pesky gamers. He goes on to add, "You want maximum utilization in the cloud if you're trying to deal with this very supply constrained environment. And somehow everyone's... Many people's intuition is the opposite of that." It still feels a bit rich for Altman to complain about the memory scarcity OpenAI and ChatGPT helped create. I could also keyboard warrior my way through several paragraphs about how resource hungry the data centres he's arguing should enjoy DRAM priority are, not to mention how t
 
-### Donald Glover is heading up a PUBG live action series for Netflix
-Thu, 29 Oct 2026 19:13:32 +0000 — https://www.pcgamer.com/movies-tv/donald-glover-is-heading-up-a-pubg-live-action-series-for-netflix/
+### EA reportedly canned BioWare and Mass Effect 5 to make a new Star Wars: Battlefront instead
+Fri, 30 Oct 2026 16:43:23 +0000 — https://www.pcgamer.com/games/mass-effect/ea-reportedly-canned-bioware-and-mass-effect-5-to-make-a-new-star-wars-battlefront-instead/
 
-PUBG, the battle royale that lets you wear a frying pan on your ass to keep it from getting shot off, is being made into a live action series for Netflix. Narrative isn't really PUBG's strong point, but this one might be interesting for one big reason: Donald Glover is set to write, direct, and executive produce the series, and will also star in it. Stephen Glover, Donald's brother and frequent collaborator, is also attached to the project as writer and executive producer. Glover has won numerous awards over the years for writing, acting, and music (under his stage name Childish Gambino), to the point that "list of awards and nominations received by Donald Glover" has its own remarkably lengthy Wikipedia page . Highlights include two Primetime Emmy awards, two Golden Globes, five Grammy Awards, two Peabody Awards, and five Writers Guild of America Awards. The upside of PUBG not having a strong pre-existing story like, say, Halo or Fallout is that it affords creators the opportunity to do their own thing, and as I said, that could be very interesting indeed with Glover at the helm. His 2018 music video for This Is America , built around themes of racism and gun violence in the US, was critically acclaimed and won multiple awards, but also attracted considerable controversy over its violent content. More recently, his Mr. & Mrs. Smith series on Amazon Prime, which premiered in 2024, drew 16 Primetime Emmy nominations for its first season, including "Outstanding Lead Actor in a 
+According to Bloomberg's sources, EA saw a new Battlefront game as a less risky investment than Mass Effect Universe. This final factor joined a host of well-discussed reasons for BioWare's unfortunate demise: Andromeda's critical reception, Anthem's live service failure, Veilguard's sales struggle ( pretty good game though ), friction between the studio and EA since the very beginning, and, of course, EA's recent Saudi-Kushner-Private Equity acquisition. One other added wrinkle: BioWare apparently lost its main ally at the top of the EA org chart. Entertainment and Central Development exec Laura Miele, who historically advocated for BioWare, was "sidelined" according to Bloomberg. EA sports execs David Tinson and Cam Weber were promoted instead. The age of nerds has ended, now begins the long night of the jock. Overall, this new information doesn't radically reframe BioWare's overall story at EA, one of slow decline and mismanagement, or how most observers will interpret it through a culture war lens⁠. Was BioWare too woke? Not woke enough? For the love of god keep it out of our comments section. But now we know why the knife was finally driven home, for what it's worth. And I guess we can anticipate a new Battlefront game some time at the tail end of the 2030s. Woohoo. For more on the closure of BioWare, PCG lead SEO editor Lauren Morton spoke to 16 developers who were inspired to join the industry because of the studio about what BioWare meant to them. 2026 games : All the
 
-### Destiny 2 unvaulting update: It sure sounds like the original Destiny is finally coming to PC
-Thu, 29 Oct 2026 17:57:52 +0000 — https://www.pcgamer.com/games/fps/destiny-2-unvaulting-update-it-sure-sounds-like-the-original-destiny-is-finally-coming-to-pc/
+### GTA 6's souped-up Red Dead Redemption 2-style morality system will scale from 'Professional' to 'Irredeemable' so players can decide what kind of criminal they want to be
+Fri, 30 Oct 2026 15:23:59 +0000 — https://www.pcgamer.com/games/grand-theft-auto/gta-6s-souped-up-red-dead-redemption-2-style-morality-system-will-scale-from-professional-to-irredeemable-so-players-can-decide-what-kind-of-criminal-they-want-to-be/
 
-Bungie shocked the world (or at least, it shocked the world's Destiny fans) when it un-canceled Destiny 2 in September, saying the game "is foundational to Bungie’s future" and promising to restore vaulted content and "return Destiny to its original promise." In a community update shared today, the studio revealed more about that process, and one standout point is that it sure sounds like the original Destiny is finally coming to PC. The update begins with a broad overview of what led up to the unvaulting announcement and what's happened since, a broad roadmap that breaks down into three sections—First Pass, Stretch Goals, and stuff that's probably not going to happen "for technical and/or strategic reasons"—and a progress bar: (Image credit: Bungie) It's worth noting up front that while things have been happening fairly quickly so far, the actual Great Unvaultening is still a long way off. The pre-production process is now underway and expected to run until January or February of 2027, and "from that point we expect full production will be about 12 months to fully complete the porting process," Bungie head of product Josh Deane said. That puts it in early 2028—assuming things go according to plan. Deane then touched on what comes after that, referencing his comment in September that Bungie is "not done with Destiny." With caveats that "some things are subject to change in success or failure," he said that Bungie is "marching forward with a phased plan for Destiny’s future th
+I may rob casinos, steal cars, and occasionally drive on the sidewalk, but I'm not a monster, and I don't want the civilians in Grand Theft Auto 6 to think I am. Well thanks to the souped-up morality system there will be a bit of space for some redemption. Rob Nelson, Rockstar North's co-studio head and head of development went into greater detail about what GTA 6's "Criminal Profile" involves during an interview for Edge magazine and how players will have some authority about how the world will react to them. (Image credit: Rockstar Games) The Criminal Profile will track your actions as Lucia and Jason on a scale from "Professional" to "Irredeemable", represented by angel and devil icons. It's not necessarily encouraging you all to be saints who disengage with any form of violence and follow road traffic laws to a tee, but you have to be mindful of how much violence you doll out. Fights don't need to always end in death, a professional criminal may incapacitate their opponent instead of putting a bullet between their eyes or perhaps try to get information or whatever they want from them via less violent means, at least at first. You may try to intimidate or perhaps bribe your way to the best ending. Rockstar has confirmed that your Criminal Profile will affect how the story pans out and so it's certainly something to keep an eye on, if you're gunning for a specific storyline that is. We've already learned a bit about the Criminal Profile before thanks to an IGN preview in wh
 
-### In 2023, an anonymous modder released one of the best horror games of the decade, and they still haven't broken character
-Thu, 29 Oct 2026 17:31:57 +0000 — https://www.pcgamer.com/games/horror/in-2023-an-anonymous-modder-released-one-of-the-best-horror-games-of-the-decade-and-they-still-havent-broken-character/
+### Screw Grand Theft Auto 6's supercars, I'm here for Leonida's robust public transportation system
+Fri, 30 Oct 2026 15:22:01 +0000 — https://www.pcgamer.com/games/grand-theft-auto/screw-grand-theft-auto-6s-supercars-im-here-for-leonidas-robust-public-transportation-system/
 
-For a lot of people, the appeal of horror is being surprised and disturbed by something they've never seen before. In recent years, I've sourced this rare feeling from movies like Obsession, where the gender dynamics of that story made it feel a bit dangerous, or Speak No Evil, which has one of the most shocking and nihilistic endings that I can recall. I even find that freshness in a modern classic like Pearl, which isn't really scary, but contrasts a technicolour old Hollywood style with a singularly unsettling Mia Goth performance to great effect. Presented by (Image credit: Torn Banner) This article is brought to you by No More Room in Hell 2 . Fear of the unknown is more valuable to me as a viewer than seeing a really good version of something I've experienced before. In games, it's largely the same—I crave new places and themes above all else. It's why Silent Hill: Townfall, Mouthwashing, Dredge, Silent Hill f, and Still Wakes The Deep all succeeded for me. They're all set in locations or timeframes I've never seen anywhere else in games. I step into those worlds not knowing exactly what I'm going to find, and come out the other side feeling exhilarated in a profoundly nasty way. That's horror, baby. From this decade, however, nothing in the horror genre has upended my expectations like MyHouse.wad. Everyone who plays this Doom 2 map seems to have the same experience: they know there's something weird about this mod set in a seemingly normal suburban home, but they spir
+Yes, Grand Theft Auto is a videogame series where you drive fast cars and occasionally mow down the odd pedestrian here and there. I like that. It's nice. I am looking forward to also doing that in Grand Theft Auto 6. But the thing I'm really excited to do? Hop on a bus, baby. Out of all 16(!!) pages from Edge magazine's newest megafeature on Rockstar's upcoming meteor, a teeny-tiny paragraph about Leonida's public transportation system is the one that's got me feeling all giddy. Similarly to Red Dead Redemption 2, the game will feature a fully functioning train system, as well as a bunch of bus routes to help you get around Leonida the old-fashioned way. And, according to head of development Phil Hooker, they're systems that he has extensively tested to ensure their reliability. "I'm obsessed with making sure they always turn up," he told Edge. "So, anywhere in the middle of playing, I'll just go: right, we're going to get the bus to where we're going. I've memorised all of the routes." (Image credit: Rockstar Games) I kind of love it, I can't lie. It really feels like Rockstar is paring down the criminal power fantasy a tiny bit and offering more grounded, realistic ways to exist in its world. Which might make some hardcore pedestrian-mowers a little furrow-browed, but it seems as though the developer is trying to create various levels at which people can engage with the chaos and zaniness the series has typically offered. As much as I'm also a member of the crime spree bri
 
-### Nvidia CEO reportedly targeted by Chinese spy previously under suspicion for AI chip smuggling
-Thu, 29 Oct 2026 17:30:39 +0000 — https://www.pcgamer.com/software/ai/nvidia-ceo-reportedly-targeted-by-chinese-spy-previously-under-suspicion-for-ai-chip-smuggling/
+### Real-world disaster footage in Modern Warfare 4 opening cinematic will be removed following complaints from victims' families
+Fri, 30 Oct 2026 15:20:25 +0000 — https://www.pcgamer.com/games/fps/real-world-disaster-footage-in-modern-warfare-4-opening-cinematic-will-be-removed-following-complaints-from-victims-families/
 
-Jensen Huang, Nvidia's CEO and one of AI's most important people, was reportedly targeted by a data centre executive working as a spy for the Chinese government, a new report suggests. According to the New York Times , citing undisclosed sources that were briefed on the matter, Alice Huang, also known as Huang Le, was being watched by US agencies due to suspicion of involvement in data centre chip smuggling from Singapore. During that surveillance, the officials are said to have determined that Alice Huang was acting as an intelligence asset. Moreover, those officials are also said to have determined that Alice Huang had a close relationship with Jensen Huang (no relation). The NYT suggests that officials were concerned that Alice Huang may have been able to extract information from this relationship that would be useful to the Chinese state—what with Nvidia being pivotal to America's AI efforts. It's said that Jensen Huang had, at the time, not been briefed on the threat of foreign intelligence services. It was later implied Nvidia was not briefed on Alice Huang, either. The Nvidia CEO has a close relationship with US president Donald Trump, and has travelled with the US president to China and was more recently called by the president while on stage at an AI event . The US has approved the sale of some AI chips to China, though they are not the cutting-edge Blackwell chips that US firms have access to—providing they pay a pretty penny, anyways. China had been blocking some o
+A Korea Herald report says the opening cinematic of Call of Duty: Modern Warfare 4 will be edited to remove video clips of a real-world disaster in South Korea that left 160 people dead. The Seoul Halloween crowd crush occurred in October 2022 during Halloween celebrations in the city's Itaewon neighborhood, when a crowd surge in the narrow streets and alleys resulted in 160 deaths and left nearly 200 more injured. The opening cinematic of Modern Warfare 4 uses footage from that disaster to portray the immediate aftermath of a fictional North Korean invasion of South Korea, the basis of the game's story. Activision said the use of the video was not meant to "reference or trivialize" the actual event, but merely "to establish the game's fictional narrative." A statement released by families of victims reported by the BBC , however, said "using such an event as material for a game made for entertainment is in itself highly inappropriate and senseless," and added that if Activision "has even a minimum of courtesy and empathy towards the victims, it should take corrective action without delay." That's now set to happen, as Activision has released a statement saying it will remove the footage from the game and apologized for using it. "We offer our deepest condolences and sincere apologies to the bereaved families, victims and everyone who has been deeply hurt or distressed by this incident." the publisher said. However, there will be some delay before that happens: The Modern War
 
-### 'We feel very good about our trajectory here' says Google as its stock tanks by $500 billion
-Thu, 29 Oct 2026 17:09:36 +0000 — https://www.pcgamer.com/software/ai/we-feel-very-good-about-our-trajectory-here-says-google-as-its-stock-tanks-by-usd500-billion/
+### Intel giving us a reason to be excited for Nova Lake: 'We've had a bit of a hole in our portfolio for high-end desktop, Nova Lake filled in that gap'
+Fri, 30 Oct 2026 14:12:35 +0000 — https://www.pcgamer.com/hardware/processors/intel-giving-us-a-reason-to-be-excited-for-nova-lake-weve-had-a-bit-of-a-hole-in-our-portfolio-for-high-end-desktop-nova-lake-filled-in-that-gap/
 
-Even during a good financial year, a big tech investor is seemingly never satisfied. Case in point, while Google Search grew by 12% year-over-year and made $63.3 billion this past quarter, parent company Alphabet's share price took a pretty spectacular tumble. Despite making an amount of money the mere thought of which sucks the air right out of my lungs, Search's revenue this quarter was actually below Wall Street's expectations. As a result, Alphabet's shares are down 13% and $500 billion has been wiped from its market value (via The Financial Times ). The share price is continuing to fluctuate and, according to CNBC , it could be the worst post-earnings call decline ever. This follows $1 trillion worth of air escaping from the AI party balloon earlier this month , due to anxious investors widely selling off stock. So, how did Alphabet get its ABC's so wrong? Long story short, Google's own AI features may be eating into its Search revenue. This is despite Search apparently seeing the fastest year-over-year query growth rate in half a decade. During Alphabet's most recent earnings call , Google's senior vice president and chief business officer Philipp Schindler was asked to explain this 'disconnect'. "It's worth noting that the strong growth in AI Mode queries had an impact because of the lower monetization we were seeing in AI Mode," Schindler says. "To be clear, we feel very good about our trajectory here. Our ad experiments have shown promising results, and we're now sca
+Intel seems pretty confident about its next generation of desktop chips. The company's top brass just got off the phone with shareholders to discuss how much money it made last quarter (TL;DR: not enough) but more interestingly noted a few tidbits to keep us gamers on the hook for a forthcoming announcement about Nova Lake at CES 2027. First off, yes, CES 2027 is when we're reportedly going to hear more about Nova Lake. That takes place at the start of January. I feel we'd usually hear something ahead of the Christmas break—a vanguard of high-performance chips—but I guess the memory crisis and a sales slump saw to that. "Nova Lake, our first Intel 18A-P client product, is tracking ahead of schedule, with design wins expected to be twice those of Panther Lake at launch," Lip-Bu Tan said (transcript via Seeking Alpha ). "We look forward to sharing more at CES in January." That's another of the disclosures: Intel will be using the 18A-P node for at least parts of Nova Lake. That should be a step-up for desktop chips: existing Panther Lake and Wildcat Lake chips are built using the 18A node, but they're only on mobile, while existing Arrow Lake chips, such as the Core Ultra 9 285K, are built using TSMC's N3B node. 18A-P promises "9% higher performance at iso power or more than 18% lower power at iso performance." Yet what really piques my interest is this comment from David Zinsner: "As we go into next year, we'll have Nova Lake. And I think the important aspect of Nova Lake is w
 
 ## GameSpot
+
+### EA Just Shelved A Mysterious Sims Project—That Could Be Good News For Players
+Fri, 30 Oct 2026 16:46:06 +0000 — https://www.gamespot.com/articles/ea-just-shelved-a-mysterious-sims-project-that-could-be-good-news-for-players/
+
+It's been another rough year for video games, with countless studio closures, staff layoffs, and projects that barely managed to even get off the ground before they were unceremoniously cut short . But things are feeling especially grim after EA trotted out two beloved franchises--Mass Effect and Dragon Age--for what amounted to a public execution via the announcement that BioWare has been shuttered . This was especially painful for Mass Effect players, who were looking forward to the upcoming Mass Effect 5, which we now know was tentatively titled Mass Effect: Universe. But it's not just BioWare fans who are upset at the moment. Fans of EA's other properties are growing increasingly concerned about the future of those franchises, if any future is planned for them at all. My colleague Levi Winslow recently wrote about their concerns for the Skate franchise in the wake of layoffs at its development studio. Meanwhile, I'm quite worried about the fate of The Sims. In the same breath it announced the end of BioWare, EA also reaffirmed its commitment to Apex Legends, Skate, and The Sims franchises. But everyone knows that when it comes to profits, EA's sports titles outrun its other IPs by a country mile. If EA is willing to pull the plug on legacy franchises like Mass Effect and Dragon Age, where does that leave its other franchises, like The Sims 4 ? EA is pivoting its focus from Project Rene to Project Evergreen. According to EA, Sims fans need not worry, as the company is comm
+
+### CoD: Modern Warfare To Cut Real-Life Korean Tragedy Segment After Backlash
+Fri, 30 Oct 2026 16:42:23 +0000 — https://www.gamespot.com/articles/cod-modern-warfare-to-cut-real-life-korean-tragedy-segment-after-backlash/
+
+Publisher Activision has responded to criticism over using a devastating tragedy in Call of Duty: Modern Warfare 4 , saying that the incident will be removed from the military shooter in a November 12 update. The Seoul Halloween crowd crush occurred in October 2022 in Itaewon. Approximately 100,000 people gathered in a narrow alleyway in Seoul, resulting in 160 casualties as people were suffocated. This year marks the fourth anniversary of the tragedy, with bereaved families and community organizers gathering to remember the lives that were lost. Modern Warfare 4 hit consoles and PC on October 23, and not long after its release, the game drew criticism from bereaved Korean families. In the opening cutscene to the game's campaign--which focuses on a fictional war between North and South Korea--Modern Warfare 4 depicts a chaotic scene where one person performs CPR on a downed individual, while bodies are either laid out on the streets or carried away on stretchers. Given the game's setting and the events on screen, the 10.29 Itaewon Disaster Bereaved Families Association and the Citizens' Countermeasures Meeting--two organizations formed after the 2022 tragedy in Seoul--were "appalled" at the calamity's inclusion and demanded that Activision remove it from the game. "Using such an incident as material for a game intended for entertainment purposes is itself highly inappropriate and a senseless act," the groups said, according to the BBC . "The Itaewon tragedy was a tragic disas
+
+### Phantom Blade Zero s Lead Voice Actor Was Seemingly Replaced At The Last Minute
+Fri, 30 Oct 2026 16:21:48 +0000 — https://www.gamespot.com/articles/phantom-blade-zero-lead-voice-actor-was-seemingly-replaced-at-the-last-minute/
+
+There's a new voice behind the protagonist of Soul in Phantom Blade Zero , and it's none other than Sonic the Hedgehog--or his longtime voice actor, Roger Craig Smith, to be precise. As spotted by Game Informer , Smith has stepped in to replace Jay Maksenuk (V in Once Human). You can still hear the latter in the various trailers for Phantom Blade Zero, and developer S-Game hasn't revealed why they brought Smith on as a last-minute replacement. Both actors have several video game credits, and as Game Informer noted, it sounds like Masenuk was replaced shortly after the game's review period began. Essentially, you won't be hearing Masenuk's voice, as the game launched earlier this week with Craig voicing the main character. You're probably familiar with Craig's voice; in addition to Sonic and Batman, he's also voiced Ezio Auditore in several Assassin's Creed games, Daigo Dojima in Yakuza Kiwami 3, and Alden Dorne in Call of Duty: Black Ops 7. As a friendly reminder, set a hard limit on how much coffee Smith consumes if you're thinking of interviewing him. https://www.youtube.com/shorts/MnqDEw4I_CI Phantom Blade Zero has had a strong launch week so far, reaching over 730,000 concurrent players on Steam at the time of writing. If you're planning to play this weekend, check out our Phantom Blade Zero guides hub for dozens of walkthroughs, and if you're still on the fence, read our Phantom Blade Zero review to see if it's for you. You can also learn how it fixes one of the biggest 
+
+### New Assassin s Creed Game Is Out Now, If You Don t Mind Being Board
+Fri, 30 Oct 2026 15:54:30 +0000 — https://www.gamespot.com/articles/new-assassins-creed-game-is-out-now-if-you-dont-mind-being-board/
+
+If you thought there wasn't going to be a new Assassin's Creed game this year, think again. It's not a video game, but Assassin's Creed: Animus is out today, turning the series into an adventure-style board game for 1-4 players. A competitive game that pits players against each other as they explore distinct eras from the video games, Assassin's Creed: Animus features four protagonists to choose from in its standard edition: Eivor, Ezio, Altair, and Connor. The Collector's Edition, meanwhile, expands to 10 eras and features 16 protagonists, adding game characters like Edward Kenway, Jacob and Evie Frye, and Kassandra. https://www.youtube.com/watch?v=rnGfEU2eXrg You and up to three of your friends (or you alone) work to complete objectives across these eras, taking down assassination targets in the way you see fit via "memory blocks." Whether you go in with your sword drawn or engage in a sneakier approach is up to you. The standard version of Assassin's Creed: Animus is available to order now for $65, while the limited Collector's Edition costs $229. Alongside the extra characters and eras, this version comes with a storage box, acrylic tokens, a metal Piece of Eden, a cloth token bag, "special event cards," and an Animus Card Holder.
+
+### EA Reportedly Chose An Unannounced Star Wars Game Over BioWare s Next Mass Effect
+Fri, 30 Oct 2026 15:29:30 +0000 — https://www.gamespot.com/articles/ea-reportedly-chose-an-unannounced-star-wars-game-over-biowares-next-mass-effect/
+
+EA recently announced it was shutting down BioWare , ending a studio responsible for multiple hit games over 30 years. According to a new report, EA's decision was driven by economics, as it had to choose between funding a new Mass Effect and backing the safer bet, Star Wars: Battlefront 3. Bloomberg's Jason Schreier reported that EA had to choose between two costly projects, and with the added pressure of paying off $18 billion in leveraged debt after its sale to a business consortium and Saudi Arabia's investment fund, Battlefront 3 made more financial sense. To add insult to injury, Battlefront 3 isn't even in development yet, and it hasn't been officially announced. https://www.youtube.com/watch?v=Dx0b2Xbnnrc "They chose to invest in Star Wars and shut down BioWare as a result, said the people familiar, speaking anonymously because they were not authorized to talk to the press," Schreier wrote. "Star Wars: Battlefront 3 has not even begun development yet, but EA executives saw it as a less risky, more predictable bet than a new Mass Effect--and the publisher behind Battlefield has always been more comfortable with shooters than RPGs." Schreier added that "corporate politics" may have also influenced the decision, as one of the studio's key advocates, senior EA exec Laura Miele, was reportedly sidelined when EA Sports veterans David Tinson and Cam Weber were promoted. BioWare also experienced several flops over the last decade, with Mass Effect: Andromeda, Anthem, and Drag
+
+### GTA 6 s Attention To Detail Is Getting A Little Ridiculous
+Fri, 30 Oct 2026 14:18:36 +0000 — https://www.gamespot.com/articles/gta-6-attention-to-detail-is-getting-a-little-ridiculous/
+
+Only a few more weeks remain before Grand Theft Auto 6 launches on PS5 and Xbox Series X|S, and while Rockstar Games recently lifted the lid on its big open-world sequel, that's still not enough. There's definitely value in approaching a game with as little knowledge as possible so that you can enjoy any potential surprises, but we're not those people. Instead, senior video producer Jake Dekker decided to grab a folder of high-resolution GTA 6 screenshots--a whole 99 of them, not including the promotional images for GTA 6's Ultimate Edition--and analyzed dozens of them for hidden details. Here's what he found in the first part of his JPEG investigations. https://youtu.be/wmKu9Uow-os Unsurprisingly, GTA 6 is loaded with small details, callbacks to previous games in the series, and some technical wizardry. There are frazzled beards, the subtle effects of gravity, realistic scars, and even NPCs showing what the ravages of time and a tropical climate can do to flesh, proving GTA 6's location of Leonida is packed to the gills with small touches. One of the best hidden details in these screenshots is the hard currency: Every dollar bill is printed right in the United States of Paranoia. Hey, it's legal tender in a video game! For more GTA 6 investigations, you can check out several more videos from the team. They've analyzed how immersive the game will be, from its introduction of a fuel economy to a closer look at how actions have consequences . In other GTA 6 news, you can read a
+
+### Don t Expect Destiny 3 At The Game Awards, Bungie Says
+Fri, 30 Oct 2026 13:33:59 +0000 — https://www.gamespot.com/articles/dont-expect-destiny-3-at-the-game-awards-bungie-says/
+
+Destiny's future lies in its past, as Bungie is working to bring content from the infamous Destiny vault back to the game. Big plans are in place to rework fan-favorite campaigns like the Red War and Forsaken back into Destiny 2 , and while that content won't be out for quite a while, Bungie has also detailed what you should not expect from the studio as the year winds down. Long story short: Don't expect to see Destiny 3 teased at The Game Awards. "Knowing we are early in incubating our future and actively working on projects to bridge us to that new home, don't expect us to make a Destiny announcement at the TGAs this year, or to randomly drop a logo that sets the world on fire right away," head of product Josh Deane wrote . Bungie says it secured an "initial greenlight to begin scoping the work" back in June, and a yet-to-be-revealed studio will help with its Destiny legacy content revival. To keep fans up to date, the studio has unveiled a progress bar, with which will signal when major milestones have been reached: The new Destiny 2 progress bar. "Right now, we are in our pre-production, proof-of-work stage where we will ensure the process is working and hitting our quality bar as we port the legacy content. We expect this part of the process to last until roughly January/February. From that point we expect full production will be about 12 months. to fully complete the porting process. It’s a lot of content," Deane added. What else is on the Destiny horizon? Deane said t
 
 ### Patrick Stewart Dies At 86
 Thu, 29 Oct 2026 19:55:01 +0000 — https://www.gamespot.com/articles/patrick-stewart-dies-at-86/
@@ -410,42 +450,37 @@ Thu, 29 Oct 2026 18:00:48 +0000 — https://www.gamespot.com/articles/ubisoft-is
 
 What's next for the Assassin's Creed franchise? Following the successful launch of Assassin's Creed Black Flag Resynced earlier this--which sold very well--you'd imagine that Ubisoft would be looking to fast-track another remake while it continues work on future titles. That's not the case, as Ubisoft dropped a new update on all things Assassin's Creed, including confirmation that it's not currently working on any remakes. "One thing we want to be transparent about today is that we currently have no other Assassin's Creed remake actively in development," Ubisoft wrote . "Our teams are already focused on the next chapter of Assassin's Creed titles, including projects you haven't heard about yet, featuring new settings and stories." While you shouldn't expect another Assassin's Creed remake anytime soon, Ubisoft added that it will still keep "exploring opportunities" to bring older titles back. As for future projects, Ubisoft said that it's making "good progress" on its darker Assassin's Creed experience, Codename Hexe . An update on it will arrive in 2027, and Ubisoft added that the team remains focused on delivering a "unique vision" at the heart of this project. The other in-development title, Codename Invictus, is also taking shape behind the scenes. This will be a multiplayer Assassin's Creed game, and Ubisoft says hundreds of players recently got to go hands-on with an early prototype. "One piece of feedback came through clearly though: Players saw great potential in the 
 
-### WoW: Forever Controller Support Is A First Step To Playing The MMO On Whatever You Want
-Thu, 29 Oct 2026 17:50:56 +0000 — https://www.gamespot.com/articles/wow-forever-controller-support-is-a-first-step-to-playing-the-mmo-on-whatever-you-want/
-
-World of Warcraft: Forever will launch with full controller support, a first for the various versions of Blizzard's longrunning PC-exclusive MMORPG. According to Blizzard, the option to play on controller is the "first leg of a journey" to make WoW playable "on whatever you want." Speaking to GamesRadar , WoW executive producer and vice president Holly Longdale said Blizzard's goal is to eventually have WoW playable "wherever you want, and, at some point, on whatever you want." The first step on that road, however, is ensuring controller support works really well. Blizzard is using the launch of Forever on November 4, the latest version of its MMO that reimagines the game's classic world and gameplay with new content and features, as a starting point. "Looking at where things are going when we hear about Project Helix [the codename for Xbox's next console], et cetera, I think platforms will be a bit more ubiquitous," Longdale said. She continued: "I think just doing some of the work we're doing on gamepad [support] is going to give players a lot of flexibility that I think goes beyond consoles." https://www.youtube.com/watch?v=dvueCoFTkCk Having gone hands-on with Forever's controller support during BlizzCon 2026, I can say it works surprisingly well for a game that has been played almost exclusively with mouse and keyboard for 22 years. While modern WoW has added some barebones controller options in recent years, Forever's implementation is far superior, working seamlessly w
-
-### You All Guessed Elder Scrolls 6 s Name, And Now Here s The Game s Setup Report
-Thu, 29 Oct 2026 17:09:54 +0000 — https://www.gamespot.com/articles/you-all-guessed-elder-scrolls-6s-name-and-now-heres-the-games-setup-report/
-
-After eight years , Xbox is reportedly preparing to reintroduce The Elder Scrolls VI to the world. And this time, the game will apparently get an official subtitle: Sentinel. According to The Verge , Bethesda could reveal the full name next month in celebration of Skyrim's 15th anniversary. That's not all, though. The report states that Hammerfell will serve as the setting for Sentinel. It's a massive region that's southwest of Skyrim and probably best known for being playable in The Elder Scrolls Online . As for the narrative, the RPG "will be the first game about the history of the Elder Scrolls," per The Verge. That means discovering "the secrets of these mysterious ancient artifacts" in Sentinel. It's unknown how much Bethesda will showcase, if the re-reveal does in fact happen in November. However, the report states that gameplay demonstrations are taking place, following up Xbox CEO Asha Sharma saying she saw the game in August. At that time, Sharma teased The Elder Scrolls VI's subtitle, and fans correctly figured out it's Sentinel --at least reportedly right now. She also noted that the game's "scale and grandeur are incredible." Earlier this year, Skyrim director Todd Howard expressed that he knows his team at Bethesda needs "to get it right" with The Elder Scrolls VI . The majority of people at Bethesda Game Studios are working on the RPG currently. As for whether The Elder Scrolls 6 could be an Xbox console exclusive , Sharma is playing coy about that possibility. 
-
-### Xbox Wants To Be More Profitable Than PlayStation And Nintendo By 2030
-Thu, 29 Oct 2026 16:39:13 +0000 — https://www.gamespot.com/articles/xbox-wants-to-be-more-profitable-than-playstation-and-nintendo-by-2030/
-
-Xbox CEO Asha Sharma has an ambitious goal: not only to make Xbox more lucrative, but to surpass the profit margins of its biggest gaming rivals, Sony and Nintendo. Speaking to CNBC , Sharma said Microsoft was working to achieve this goal by mid-2030 and had a variety of plans in place, from focusing on more exclusive titles to gaining more ground in the casual games market. "We will build long-term plans for our biggest franchises across film, television, consumer products, sponsorship, live experiences, and form new partnerships globally, including China," Sharma wrote in an Xbox memo, adding that the company will invest heavily in Minecraft and that revenue growth is expected to speed up in the 2028 and 2029 fiscal years. "By Financial Year 2030, our ambition is to be halfway to our long-term daily-player goal with sustained double-digit growth in players and engagement and industry-leading margins," she wrote. https://www.youtube.com/watch?v=zzqGbNaOROA While Sharma aims to increase Xbox's player and revenue growth in the fiscal year ending June 2027, things don't look too good for the division right now. According to Circana tracking data , US Xbox Series hardware sales fell 27% year-over-year in September 2026--reaching a new all-time September low--and Sharma recently posted online that revenue had declined in the most recent financial quarter. Sharma added that "console sales remain constrained by supply," but she was vague on the specifics. At the same time, Xbox con
-
-### Xbox s Recent Efforts Haven t Changed Anything And The Future Remains Bleak, Expert Says
-Thu, 29 Oct 2026 16:05:49 +0000 — https://www.gamespot.com/articles/xboxs-recent-efforts-havent-changed-anything-and-the-future-remains-bleak-expert-says/
-
-Xbox CEO Asha Sharma has undertaken a number of efforts thus far to help get the business back into a healthy place, and nothing has worked, Circana analyst Mat Piscatella says. He told The Game Business that based on the sales and engagement data he sees for the US gaming industry, "I'm not seeing [the moves] have any positive impact" for Xbox. The disc-to-digital program "hasn't changed their sales of new physical software trend at all," he added. Additionally, making Gears of War: E-Day exclusive on console to Xbox "hasn't made any difference" in terms of selling more Xbox hardware. In fact, Xbox sales continue to spiral . Sharma says there is a supply issue, but, in the US at least, you can get a new Xbox very easily . Piscatella said E-Day is a "Gears-ass Gears of War game," and a gorgeous one. But making it exclusive to Xbox created a scenario where "you chop the legs out" from under its potential potential to boost Xbox generally. "At least in the short term, it hasn't made a difference," he said. There was clear and obvious evidence that E-Day was planned for PS5 , but it was never released on Sony's console. Other industry experts said Microsoft purposefully sent E-Day out to die "for hearts and minds." https://www.youtube.com/shorts/GXQ7IiT_gWY Additionally, Piscatella said Sharma's decision to remove new Call of Duty games from Game Pass was another loser of a decision. He said the data he's seeing shows that the Call of Duty franchise "lost a ton of engagement" du
-
-### Phantom Blade Zero Is Already Proving Its Prelaunch Hype Was No Fluke
-Thu, 29 Oct 2026 14:40:52 +0000 — https://www.gamespot.com/articles/phantom-blade-zero-is-already-proving-its-prelaunch-hype-was-no-fluke/
-
-Just a few hours into launch, Phantom Blade Zero is already a hit game on PC. There was considerable hype behind the game as it was estimated that it had sold 1 million units before launch, and at the time of writing, it has peaked on Steam with 723,876 concurrent players. That's an impressive start for the game, and considering that it's also available on PS5, it's likely that quite a few people are enjoying its mix of soulslike-adjacent action , fight scenes choreographed by movie legend Donnie Yen, and a setting inspired by Chinese folklore. Alinea Analytics' Rhys Elliott gave a breakdown of those preorder sales--when they had reached 850,000 units sold--explaining that 62.5% of Phantom Blade Zero's pre-launch sales came from China, Taiwan, and Hong Kong. "These markets--but predominantly China--account for 75.9% of the copies on Steam and about 24.9% on PS5," Elliott wrote, noting that the early sales had generated $43 million in revenue. https://www.youtube.com/watch?v=Qhzva8rV9Q4 In a launch-day letter , creative director Soulframe Liang thanked the fans for Phantom Blade Zero's strong start, and the people in his studio, S-Game, for bringing his vision to life. "This is a game of immense scale, made with all the passion in our hearts. It is a gift from a small group of gamers who just happen to be developers, to every gamer who shares our love for gaming," Liang wrote. Phantom Blade Zero is off to a strong start, but it doesn't quite look like it'll be a repeat of anot
-
-### GTA 6 s Cops Will Send Dogs To Get You
-Thu, 29 Oct 2026 14:32:34 +0000 — https://www.gamespot.com/articles/gta-6s-cops-will-send-dogs-to-get-you/
-
-The police in GTA 6 are smarter and more capable than they were in GTA 5, and that includes the newly confirmed detail that cops can dispatch dogs to hunt you down. Edge Magazine recently posted a preview of the game with Rockstar's Rob Nelson playing. In one sequence, Jason and Lucia are attempting to evade police when they crash their motorcycle and try to escape on foot. However, nearby cops send out a K9 unit to assist. One of the dogs, a German Shepherd, quickly grabs Jason and pins him to the ground. According to Edge, developers standing by during the preview urged Nelson not to shoot the dog. This implies that it's possible to shoot police dogs, and that wouldn't be surprising, as GTA 5 lets you shoot and kill dogs as well. We previously learned that players can pet the dog in GTA 6, or they can scold it . In real life, police in Miami--which is parodied as Vice City in GTA 6--and other places around the country do indeed use specially trained dogs for crimefighting. Miami, in fact, just welcomed a new dog, Samson , who is also a German shepherd like the one in GTA 6. https://www.youtube.com/watch?v=klc0fQmAL6k GTA 6 features a six-star Wanted system and an expanded criminal profile system that allows cops to track you down with a wider net . Additionally, the game now notifies you if you've been seen by a CCTV camera, for example, and if so, you can destroy the evidence to evade the fuzz. Cops also remember the specific clothing that Jason and Lucia are wearing, so p
-
-### From Software Delays Its Switch 2 Exclusive, The Duskbloods
-Thu, 29 Oct 2026 14:07:30 +0000 — https://www.gamespot.com/articles/switch-2-exclusives-the-duskbloods-delayed-to-2027/
-
-From Software has announced that its upcoming Switch 2 game The Duskbloods will not make it out on time this year--it's now scheduled for release in 2027. That's as specific as the studio got, however, so there is no telling when next year the game could be released. "We apologize to players who have been kindly awaiting the release of this title and thank you for your patience and support," the studio said. From Software added that the delay will allow the studio to "further enhance" the game's core concepts, including combat, strategic depth, and player expression. "We have decided to move the launch, allowing time for final adjustments to game rules and balancing," the team explained. https://twitter.com/TheDuskbloods/status/2115805894336536741 The Duskbloods was a no-show at the September Nintendo Direct, prompting some fans to worry about its development state . In getting delayed to 2027, The Duskbloods will stay out of the blast zone of GTA 6, if that's something From Software and Nintendo are even concerned about. Whatever the case, excitement is high for The Duskbloods. A From Software employee recently revealed that interest in The Duskbloods' playtest surpassed that of Elden Ring Nightreign’s . The Duskbloods is a multiplayer PvPvE game that's directed by From Software's Hidetaka Miyazaki. GameSpot’s Jake Dekker came away impressed during his hands-on The Duskbloods preview , saying he’d “never played anything like it” and “couldn’t wait to play more.”
-
 ## Rock Paper Shotgun
+
+### Wooshy wuxia actioner Phantom Blade Zero is sharp enough on the Steam Machine, if blunted on the Steam Deck
+Fri, 30 Oct 2026 17:45:52 +0000 — https://www.rockpapershotgun.com/phantom-blade-zero-steam-machine-steam-deck
+
+It would appear that Phantom Blade Zero (Phantom Blade 0? Zero? Let&rsquo;s go with Zero) demanding more gigs than a mismanaged stadium is doing little to stop people playing the thing. It therefore stands to reason at least some folks will want to run S-Game Studio&rsquo;s lightly Soulsy sword-em-up on the Steam Machine , so let us now examine how said GabeCube stands up to its effects-heavy martial artistry. With some settings proposals, natch. Read more
+
+### EA execs choosing Star Wars Battlefront 3 over Mass Effect 5 was the main factor in BioWare's demise, according to report
+Fri, 30 Oct 2026 16:00:00 +0000 — https://www.rockpapershotgun.com/ea-execs-choosing-star-wars-battlefront-3-over-mass-effect-5-was-the-main-factor-in-biowares-demise-according-to-report
+
+The postmortem on BioWare, following their shuttering by EA this month , points to the publisher's preference to back Star Wars Battlefront 3 over Mass Effect 5 as the main factor in the demise of the beloved RPG developer. That's according to Bloomberg, who also report that a couple of other factors likely also had some influence. Read more
+
+### Splendid Junji Ito-inspired RPG World of Horror is now 20% more horrible, thanks to a free PC update with extra gods, locations, and wounds
+Fri, 30 Oct 2026 15:29:54 +0000 — https://www.rockpapershotgun.com/splendid-junji-ito-inspired-rpg-world-of-horror-is-now-20-more-horrible-thanks-to-a-free-pc-update-with-extra-gods-locations-and-wounds
+
+Excellent apocalypse RPG World of Horror has just received a sizeable free update, As Below So Above, adding no less than two Old Godly invasions for you to identify and thwart. One of these additional cosmic disasters involves four cults summoning their fave abominations at the same time. I picture them forming a shaky barbershop quartet on the skyline, while stamping the streets to mush. Damn it, Ath-Yolazsth &ndash; you're leading again! Also in As Below So Above: more "enemies, mysteries, characters, items, spells, curses, and injuries", together with "a large batch of quality-of-life features and bug fixes". I can only applaud the vicious disconnect of listing "injuries" alongside "quality-of-life". These will be the most polished and ergonomic grievous wounds you've ever had! The experience will flow like your gushing blood! Read more
+
+### All the RPS Supporter rewards for October 2026: Hangout game angst, muddy RPGs, and one utterly useless butler
+Fri, 30 Oct 2026 14:00:00 +0000 — https://www.rockpapershotgun.com/all-the-rps-supporter-rewards-for-october-2026-hangout-game-angst-muddy-rpgs-and-one-utterly-useless-butler
+
+Thanks once again to everyone keeping our lights on, and our pantries full of Mini Cheddars, by being an RPS Supporter . The latest batch of subscription stats came in the other day and it&rsquo;s been heartwarming, and more than a little humbling, to see new Supporters keep showing up. Rest assured that your backing does not go unappreciated, nor uninvested around the site. To whit, we&rsquo;ve been commissioning a particularly strong assortment of freelance-scribed pieces (for all readers), some of which &ndash; including Amity Gilmour&rsquo;s fun history lesson on the MicroSoft SideWinder and Kaile ' No Escape ' Hultner&rsquo;s Control Resonant analysis &ndash; are already live. It&rsquo;s been a pleasure to have Ashley Schofield joining us for Tuesday newshounding too, along with RPS regular Oisin. And, of course, we&rsquo;re still bringing exclusive features to Premium Supporters twice every week. Like these ones, from throughout October: Read more
+
+### Rockstar developer union could end up over 1,600 workers strong and encompass nearly all UK staff below senior management, IWGB claim
+Fri, 30 Oct 2026 13:30:00 +0000 — https://www.rockpapershotgun.com/rockstar-developer-union-could-end-up-over-1600-workers-strong-and-encompass-nearly-all-uk-staff-below-senior-management-iwgb-claim
+
+As we've previously covered, a vote on recognition of a union made up of UK-based Rockstar Games devs is set to take place around GTA 6 's console launch on November 19th. The Independent Workers of Great Britain (IWGB) union, whom the Rockstar staff are working with in their efforts to organise, have now revealed just how many workers the Rockstar could end up encompassing if the recognition vote is successful. It's not a small number. Read more
+
+### Helldivers 2 boss can "absolutely see" making a game parody of generative AI, but it would need to be "quirky" rather than "doom-laden"
+Fri, 30 Oct 2026 12:58:41 +0000 — https://www.rockpapershotgun.com/helldivers-2-boss-can-absolutely-see-making-a-game-parody-of-generative-ai-but-it-would-need-to-be-quirky-rather-than-doom-laden
+
+Arrowhead's chief creative officer Johan Pilestedt can well imagine the Helldivers studio developing a videogame that satirises or parodies today's generative AI technology. The game in question wouldn't be a Helldivers project, however, and Pilestedt says it would need to be relatively upbeat, rather than an exercise in feverish despair. This seems like a tall order right now, at least while Tim Sweeney still has access to Twitter . Read more
 
 ### There are no more Assassin's Creed remakes in development, because Ubisoft are focused on Hexe, Invictus and "projects you haven't heard about yet"
 Fri, 30 Oct 2026 11:00:00 +0000 — https://www.rockpapershotgun.com/there-are-no-more-assassins-creed-remakes-in-development-because-ubisoft-are-focused-on-hexe-invictus-and-projects-you-havent-heard-about-yet
@@ -476,34 +511,4 @@ Like the repeating pattern effect afflicting its warped Manhattan, Control Reson
 Thu, 29 Oct 2026 19:56:12 +0000 — https://www.rockpapershotgun.com/after-the-rough-start-that-was-last-years-entry-football-manager-27-is-looking-to-bring-you-in-with-a-few-free-days-of-play-before-the-games-even-out
 
 Football Manager 27 is still a good week and ahead out from launch, but if you're quick you can already get to playing it. That's because developer Sports Interactive have released a Launch Preview version of the game that lets you take it for a kickabout before it comes out in earnest. Read more
-
-### It sounds like you shouldn't expect Destiny 2's campaign unvaulting to be ready until 2028, as Bungie tease their plans for the future of the series
-Thu, 29 Oct 2026 18:42:15 +0000 — https://www.rockpapershotgun.com/it-sounds-like-you-shouldnt-expect-destiny-2s-campaign-unvaulting-to-be-ready-until-2028-as-bungie-tease-their-plans-for-the-future-of-the-series
-
-When Bungie announced that they would be ceasing to work on major updates for Destiny 2 earlier this year, it obviously felt like that was the end of that, and any future games were not guaranteed whatsoever. Then last month, they announced that they'll be bringing back all of the shooter's vaulted campaigns , which is obviously a lot of work! Now, in a blog post, the developer has outlined where they're at with this process, offering up a timeline of when to expect the unvaulted campaigns, what will be included with them, and light teases for whatever comes after that. Read more
-
-### The Elder Scrolls 6: Sentinel will be an Elder Scrolls game about the infinite mysteries of the Elder Scrolls, report with some plot hintage claims
-Thu, 29 Oct 2026 18:09:29 +0000 — https://www.rockpapershotgun.com/the-elder-scrolls-6-sentinel-will-be-an-elder-scrolls-game-about-the-infinite-mysteries-of-the-elder-scrolls-report-with-some-plot-hintage-claims
-
-As Xbox's execs continue to pine for game-related announcements to fill in the gaps between their rounds of mass layoffs , The Elder Scrolls 6 is reportedly set to gain the subtitle Sentinel soon. That's according to a report which also includes some details of where the game that's long been a twinkle in the eye of Skyrim 's dad will be set and what its plot will involve. Read more
-
-### Celeste and TowerFall have been removed from the Xbox store in a move to "support the BDS boycott" against Microsoft
-Thu, 29 Oct 2026 17:49:39 +0000 — https://www.rockpapershotgun.com/celeste-and-towerfall-have-been-removed-from-the-xbox-store-in-a-move-to-support-the-bds-boycott-against-microsoft
-
-It's a good day to love Celeste! Earlier today it was discovered that Celeste had been removed from the Xbox Store while it remained on the PlayStation and Nintendo digital storefronts. Now, as shared by the game's co-creator Maddy Thorson, it's been confirmed that both Celeste and TowerFall were removed from store expressly in support of the BDS called boycott against Xbox over Microsoft providing support to the Israeli military as it enacts its genocide of the Palestinian people. Read more
-
-### Queen's Domain is a brilliant King's Field-alike RPG that forces you to walk so you can learn to fly
-Thu, 29 Oct 2026 17:09:23 +0000 — https://www.rockpapershotgun.com/queens-domain-is-a-brilliant-kings-field-alike-rpg-that-forces-you-to-walk-so-you-can-learn-to-fly
-
-FromSoftware's elderly King's Field games aren't really celebrated for their feeling of agility. They are glorious first-person trudgefests, a treacle-thick waltz of swinging and spellcraft, with players wobbling in and out of attack range like British men who aren't sure whether the other man wants a hug. Unlike in the later Dark Souls action-RPGs, to which King's Field owes some of its retrospective popularity, there's no dodge-roll to grease the wheels. Out this week on Steam, Queen's Domain is often as ponderous as King's Field, but it's also an exercise in steady, triumphant acceleration. Ultimately, it wants you to fly. To this end, it equips you - well, once you've boshed a huge skeleton sentinel - with a fancy windblade that lets you perform an aerial dash, speeding your manouevres while allowing you to reach new areas. Read more
-
-### Don't worry, GTA 6's cars can drive for ages before their fuel tanks need refilling, leaving me wondering why this motor management's been added at all
-Thu, 29 Oct 2026 16:10:58 +0000 — https://www.rockpapershotgun.com/dont-worry-gta-6s-cars-can-drive-for-ages-before-their-fuel-tanks-need-refilling-leaving-me-wondering-why-this-motor-managements-been-added-at-all
-
-Right, before you groan too hard, I promise that after I write this I'll take a break of indeterminate length from writing articles which amount to wondering aloud why a thing that's in GTA 6 is in GTA 6. Cars which need refuelling. It's not an addition there'd not been any hint was coming before today, as with the smell reaction system , leaks having hinted at fuel management all the way back in August. Since that point, it's been confirmed as in the version of the game Rockstar will be shipping to consoles (boo) next month and PC at some point after that. Edge 's GTA 6 long read notes the existence of fuel gauges and engine health readouts, but it also caveats them in what seems an insistence from Rockstar that the first of these features isn't designed to make filling up something the player necessarily has to do often or spend much time on when they do. Read more
-
-### Atmosfar is a giddy aerial exploration game after the heart of No Man's Sky, but I'm already trying to escape it
-Thu, 29 Oct 2026 16:00:00 +0000 — https://www.rockpapershotgun.com/atmosfar-is-a-giddy-aerial-exploration-game-after-the-heart-of-no-mans-sky-but-im-already-trying-to-escape-it
-
-Oh hi there! Why yes, I am free to chat. Please excuse the wind noise, I'm currently tumbling to my doom in Atmosfar , after getting lost in a cloud bank and exhausting my fuel. This kind of thing happens to me regularly in Atmosfar - an open world survival game that plays out across clusters of floating islands, with players scooting about in adorable, propellor-powered airships. Many of the islands are quite large, with proper landing pads and bases set up by NPC scavengers. Many of them teem with non-human life: rainforests full of nectar droplets and carnivorous plants, meadows of ponderous honking lizards, and mossy grottos where you'll find caches of batteries and possibly get eaten by mantids. It's important to make the most of these larger islands, gathering materials for crafting at your deployable campsite (which straps pleasingly to the back of your whirring fly-mobile). It's particularly important to mine hydrogen crystals you can refine into fuel. Read more
 

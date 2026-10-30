@@ -1,4 +1,4 @@
-# Source feeds — harvested 2026-10-30T11:01:04.651Z
+# Source feeds — harvested 2026-10-30T18:51:36.170Z
 
 Fetched by GitHub Actions, which is not behind the writer's egress proxy.
 One file per category. Each item is what the publisher syndicates in its
@@ -13,7 +13,7 @@ own feed: headline, link, date, and their summary.
 
 Already aired, so a round-up rather than a preview:
 
-- Variety — Annecy Winner ‘The Violinist’ Found Its Italian Co-Producers at Tokyo Market, Director Ervin Han Tells Anime Co-Production Panel
+- GameSpot — Don t Expect Destiny 3 At The Game Awards, Bungie Says
 
 > **A dated showcase gets two articles, not one.** A preview before it
 > airs, carrying the stream link and the start time in Italian time, and a
@@ -23,10 +23,10 @@ Already aired, so a round-up rather than a preview:
 
 ## Editorial mix — what the archive owes
 
-**Write Film & TV next.** 8 articles have gone out since the last one.
+**Write Manga and anime next.** 5 articles have gone out since the last one.
 
-- **Film & TV** — owed now. 8 articles since the last one; quota is one in 8, never worse than one in 10. 25 in the archive of 273.
-- **Manga and anime** — on track. 4 articles since the last one; quota is one in 6. 19 in the archive of 273.
+- **Manga and anime** — BROKEN. 5 articles since the last one; quota is one in 6. 19 in the archive of 274.
+- **Film & TV** — on track. 1 article since the last one; quota is one in 8, never worse than one in 10. 26 in the archive of 274.
 
 The run is what counts, not the percentage: a burst last month does not
 excuse thirty in a row without one. If a category is owed and the feeds
@@ -35,13 +35,13 @@ silently skipping it.
 
 ## Feeds
 
-- [Film & TV](film-tv.md) **owed** — 67 items
-- [Games](games.md) — 97 items
+- [Manga](manga.md) **owed** — 28 items
+- [Games](games.md) — 98 items
 - [Tech](tech.md) — 82 items
-- [3D](3d.md) — 14 items
-- [AI](ai.md) — 10 items
-- [Manga](manga.md) — 27 items
+- [3D](3d.md) — 15 items
+- [AI](ai.md) — 11 items
+- [Film & TV](film-tv.md) — 68 items
 
-Total: 297 items.
+Total: 302 items.
 
 Feeds that did not answer: CGChannel (HTTP 403), VentureBeat AI (HTTP 429).
