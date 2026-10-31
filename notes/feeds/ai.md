@@ -1,4 +1,4 @@
-# AI — harvested 2026-10-31T15:52:15.622Z
+# AI — harvested 2026-10-31T20:17:21.797Z
 
 ## OpenAI
 
@@ -16,11 +16,6 @@ OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards,
 Fri, 30 Oct 2026 00:00:00 GMT — https://openai.com/index/fair-use-benefits-everyone
 
 OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.
-
-### An updated Model Spec for more capable and beneficial AI
-Thu, 29 Oct 2026 17:00:00 GMT — https://openai.com/index/updated-model-spec
-
-OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.
 
 ## Hugging Face
 

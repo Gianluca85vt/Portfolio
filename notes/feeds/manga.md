@@ -1,6 +1,26 @@
-# Manga — harvested 2026-10-31T15:52:15.622Z
+# Manga — harvested 2026-10-31T20:17:21.797Z
 
 ## Anime News Network
+
+### The Ramparts of Ice Season 2 ‒ Episode 19
+Sat, 31 Oct 2026 12:30:00 -0400 — https://www.animenewsnetwork.com/review/the-ramparts-of-ice-season-2/episode-19/.243393
+
+This is not a relationship that is meant to last long and I'm very curious to see where the breaking point is going to be.
+
+### Murciélago Volumes 1-3 Manga Review
+Sat, 31 Oct 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/murcielago-volumes-1-3/manga/.242729
+
+Kuroko Koumori is an unrepentant womanizer and serial killer, and when the Tokyo Police offer her freedom in return for killing the worst of the worst, she can’t say yes fast enough!
+
+### Happy Halloween 2026 From Around the Anime World, Part III
+Sat, 31 Oct 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/interest/2026-10-31/happy-halloween-2026-from-around-the-anime-world-part-iii/.243391
+
+Featuring <i>Pokémon, Chopper's, Re:ZERO, Alya Sometimes Hides Her Feelings in Russian, Dara-san of Reiwa, Pui Pui Molcar,</i> MAPPA, Tatsunoko, & more!
+
+### Happy Halloween 2026 From Around the Anime World, Part II
+Sat, 31 Oct 2026 11:40:00 -0400 — https://www.animenewsnetwork.com/interest/2026-10-31/happy-halloween-2026-from-around-the-anime-world-part-ii/.243388
+
+Featuring <i>Dan Da Dan, Gundam Hathaway & The Witch from Mercury, Frieren, Pokémon, Chibi Maruko-chan, Doraemon, Votoms: Die Graue Hexe,</i> Tsuburaya Productions, Sega, & more!
 
 ### The Apothecary Diaries Season 3 ‒ Episode 53
 Sat, 31 Oct 2026 11:30:00 -0400 — https://www.animenewsnetwork.com/review/the-apothecary-diaries-season-3/episode-53/.243389
@@ -41,26 +61,6 @@ The two of them sneaking in under the guise of enemy soldiers is just far more i
 Sat, 31 Oct 2026 05:04:51 -0400 — https://www.animenewsnetwork.com/news/2026-10-31/comisma-sumitomo-mitsui-trust-bank-establish-anime-production-fund/.243384
 
 Fund to offer investment opportunities to companies that have previously found it difficult to enter anime business
-
-### Cosplayer Enako Sings, Voice-Acts in Isshiki-san Wants to Know About Love Anime
-Sat, 31 Oct 2026 03:53:45 -0400 — https://www.animenewsnetwork.com/news/2026-10-31/cosplayer-enako-sings-voice-acts-in-isshiki-san-wants-to-know-about-love-anime/.243383
-
-New promo video previews opening theme
-
-### Final Fantasy XIV Game Reveals February 19 Early Access Date for 'Evercold' Expansion, New Job Zephyr
-Sat, 31 Oct 2026 03:29:30 -0400 — https://www.animenewsnetwork.com/news/2026-10-31/final-fantasy-xiv-game-reveals-february-19-early-access-date-for-evercold-expansion-new-job-zephyr/.243380
-
-General launch for expansion is on February 23; <cite>Evangelion</cite> collab also highlighted in video
-
-### Inherit the Winds Anime Reveals 4 More Cast Members, New Visual
-Sat, 31 Oct 2026 03:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-31/inherit-the-winds-anime-reveals-4-more-cast-members-new-visual/.243373
-
-Franchise also gets short story, novel in Japanese
-
-### Hard Rock Cafe Japan Partners with Evangelion for 1st Ever Collaboration
-Fri, 30 Oct 2026 23:59:00 -0400 — https://www.animenewsnetwork.com/interest/2026-10-30/hard-rock-cafe-japan-partners-with-evangelion-for-1st-ever-collaboration/.243330
-
-Hard Rock Cafe mustn't run away
 
 ## Crunchyroll News
 
@@ -140,9 +140,4 @@ _Nothing in the last 48 hours._
 Sat, 31 Oct 2026 11:00:54 +0000 — https://animeuknews.net/2026/10/autumn-2026-preview-whats-new/
 
 So many continuations! Can there be too many returning series? Our reviewers take a first look at the Autumn Season and select some titles – old and new – well worth your time!
-
-### The Magic of Maison Ghibli Returns to London!
-Thu, 29 Oct 2026 16:00:26 +0000 — https://animeuknews.net/2026/10/the-magic-of-maison-ghibli-returns-to-london/
-
-The Maison Ghibli Pop-Up Shop returns to London for the holiday period, for Official Studio Ghibli Merchandise.
 

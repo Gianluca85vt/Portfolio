@@ -1,4 +1,4 @@
-# Tech — harvested 2026-10-31T15:52:15.622Z
+# Tech — harvested 2026-10-31T20:17:21.797Z
 
 ## Ars Technica
 
@@ -25,7 +25,7 @@ For a genuine fright this Halloween, you can turn your gaze to the southern bord
 ### Oh captain, our captain: Ars staff remembers Patrick Stewart
 Fri, 30 Oct 2026 22:21:05 +0000 — https://arstechnica.com/culture/2026/10/oh-captain-our-captain-ars-staff-remembers-patrick-stewart/
 
-Along with the rest of the world, we at Ars are mourning Sir Patrick Stewart —the beloved award-winning actor best known as Captain Jean-Luc Picard in Star Trek: The Next Generation and Professor Charles Xavier in the X-Men franchise—who died yesterday at the age of 86. A statement released by Stewart's representatives said: We announce with great sorrow the passing of Sir Patrick Stewart yesterday at his home in Los Angeles, in the loving care of his beloved wife Sunny, following a brief and poignant journey with Alzheimer’s Disease and Lewy Body Dementia. He has been held in the warm embrace of family and friends, surrounded by live music, prayer, tears, laughter, and the kind of profound emotion that only he could inspire after a lifetime of devotion to us all. We will forever cherish the peaceful ease and reflection on his face, an enduring reminder of his invincible grace. Through the actor's X account , the family has requested that, in lieu of flowers, memorial contributions be made to the Johns Hopkins Alzheimer’s Disease Research Center Fund and the Alzheimer’s Foundation of America Caregiver Resources . Read full article Comments ]]>
+Along with the rest of the world, we at Ars are mourning Sir Patrick Stewart —the beloved award-winning actor best known as Captain Jean-Luc Picard in Star Trek: The Next Generation and Professor Charles Xavier in the X-Men franchise—who died Wednesday at the age of 86. A statement released by Stewart's representatives said: We announce with great sorrow the passing of Sir Patrick Stewart yesterday at his home in Los Angeles, in the loving care of his beloved wife Sunny, following a brief and poignant journey with Alzheimer’s Disease and Lewy Body Dementia. He has been held in the warm embrace of family and friends, surrounded by live music, prayer, tears, laughter, and the kind of profound emotion that only he could inspire after a lifetime of devotion to us all. We will forever cherish the peaceful ease and reflection on his face, an enduring reminder of his invincible grace. Through the actor's X account , the family has requested that, in lieu of flowers, memorial contributions be made to the Johns Hopkins Alzheimer’s Disease Research Center Fund and the Alzheimer’s Foundation of America Caregiver Resources . Read full article Comments ]]>
 
 ### Supersonic airliner in doubt as company shifts to powering AI data centers
 Fri, 30 Oct 2026 21:41:54 +0000 — https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/
@@ -64,6 +64,26 @@ In an announcement released Thursday, Fujifilm said it will invest roughly 10 bi
 
 ## The Verge
 
+### Keyboards of The Verge
+2026-10-31T15:30:00-04:00 — https://www.theverge.com/gadgets/1017979/keyboards-of-the-verge-staff-picks
+
+What is a keyboard if not the original brain-computer interface? You can tap on a touchscreen or talk to the computer, but if your work involves getting information out of your head and into the computer, you're probably spending a lot of time using a keyboard. We've written about many keyboards over the years, from the legendary Optimus Maximus to the ultra-luxe Seneca to even stranger fare . But I wanted to know what my coworkers actually use. As I'd hoped, there's a wide range. Some of us are strictly utilitarian, optimizing for ergonomics or functionality. Others obsess over every detail of feel, sound, layout, and looks. Still oth … Read the full story at The Verge. ]]>
+
+### Binance CEO says 90 percent of stolen assets have been ‘replenished’
+2026-10-31T14:40:32-04:00 — https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto
+
+After hackers stole a shocking $6.3 billion from Binance customers in a record-breaking crypto heist, the company's CEO says that 90 percent of the funds have been replaced , and the company plans to cover the remaining 10 percent as well. Binance is covering the stolen funds directly, and the remaining 10 percent consists of "less liquid" tokens, which the company says may take longer to acquire. The company also said in a post on X that, while withdrawals remain paused, they're on track to be enabled on Sunday. Our commitment remains the same: Binance will fully cover the financial impact of the funds stolen in this incident. We will co … Read the full story at The Verge. ]]>
+
+### Happy Pikmin Day Eve
+2026-10-31T13:50:12-04:00 — https://www.theverge.com/games/1024085/happy-pikmin-day-eve
+
+This morning, Nintendo announced that tomorrow, November 1st, would be the first annual Pikmin Day. As part of the short Pikmin Day Direct , Shigeru Miyamoto shared new info about Pikmin 4 for the Switch 2 , as well as an update for the mobile app Pikmin Bloom , and announced the Hello! Pikmin series of shorts. Players will be able to use the Switch 2's built-in microphone to issue voice commands to Oatchi, the space dog. Pikmin 4 will also have a Dandori Academy mode that will test players' skills in specific challenges. There will be limited tests on Friday, Saturday, and Sunday, complete with leaderboards where players can compare stats. Pi … Read the full story at The Verge. ]]>
+
+### I built an AI Tamagotchi before Meta could
+2026-10-31T12:05:00-04:00 — https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code
+
+Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi. But I won't be buying one, because we have Muse Charm at home . It cost just $50, and I've decided the learning experience was worth it. View Link My version doesn't sport cameras or a 5G cellular radio , but it really talks to Muse and has cute avatars, too! It doubles as a pocket watch and a remote camera viewfinder, and it can (theoretically) control my smart home. Or at least it can if you inject a lot of extra vibe code. Weeks … Read the full story at The Verge. ]]>
+
 ### Windows 11 tries new shortcuts for Xbox gaming mode and search
 2026-10-31T11:12:19-04:00 — https://www.theverge.com/tech/1024058/windows-11-search-improvements-xbox-quick-settings
 
@@ -94,29 +114,19 @@ Hi, friends! Welcome to Installer No. 150, your guide to the best and Verge -ies
 
 Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website , as reported by MacRumors . The Apple Intelligence features will be available first in an iOS 27.3 beta that's set to launch on November 4th, with a full iOS 27.3 release scheduled for December. This launch doesn't bring the new Siri AI to China. Instead, Apple is launching several of its earlier Apple Intelligence features like notification summaries, real-time translation, rewriting and proofreading tools, visual intelligence, and removing objects from photos. Apple also says it has worked with Ailbaba to add support for its Q … Read the full story at The Verge. ]]>
 
-### Exclusive details about Akai’s MPC Sample Key
-2026-10-30T17:01:32-04:00 — https://www.theverge.com/gadgets/1023649/akai-mpc-sample-key-exclusive
-
-Akai teased its new MPC Sample Key on Instagram earlier this week, and said it plans to open-source its software so the modding community can hack it to their hearts' delight. While there's no word yet on when the device will launch or how much it will cost, The Verge has received exclusive images of the upcoming instrument that offer some details about its feature set. While the Sample Key shares many of the same controls as the MPC Sample - including the three context-sensitive encoders, a large main encoder - it seems designed for pitched sample playback, rather than chopping up drums. In fact, the "chop" button from the MPC Sample is m … Read the full story at The Verge. ]]>
-
-### Sam Altman says it’s better for RAM to be in a data center than on your desk
-2026-10-30T16:48:43-04:00 — https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers
-
-Asked about supply chain shortages, like the ongoing RAM shortage , OpenAI CEO Sam Altman said in an interview that it's "terrible" to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky Pint podcast, where he also commented on AI's impact on math , Altman said: "A lot of people want local inference. And somehow, they assume that the problem is solved now because we are going to have open-source models, we're going to be able to run them on our computers, and so we're not going to need all the stuff in the data center. But from a global allocation perspective, actually, it's quite terrible to have everybo … Read the full story at The Verge. ]]>
-
-### The biggest names in AI are backing a new way to opt out of scraping
-2026-10-30T16:26:10-04:00 — https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out
-
-OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable . With this control, publishers can apply their AI training preferences across multiple AI companies, instead of setting them individually. The shared "policy token" signal is proposed by Kevin Kelley, a technical lead for standards at Anthropic, as part of the Internet Engineering Task Force (IETF). It will live within a website's robots.txt file , which has long signaled which web crawlers can and can't scrape a site - whether for search indexing, archiving, or … Read the full story at The Verge. ]]>
-
-### Google s satellite AI server transmits its first response to Earth
-2026-10-30T14:21:38-04:00 — https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission
-
-Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku about being in space: Blue marble below Data streams in silent grace Starlight feeds my core. Google says it tried out other space-themed limericks and telemetry prompts as well. The test is part of Google's Project Suncatcher, an experimental initiative that could eventually put AI data centers in space. Google launched the satellite into orbit earlier this … Read the full story at The Verge. ]]>
-
 ## Tom's Hardware
 
-### 'Ghost Students' using AI to apply for student loans with stolen identities — DOJ's Operation Ghostbusters busts $200 million ring faking online college attendance, unsuspecting victims saddled with student debt they didn’t sign up for
+### Grab the award-winning Bambu Lab P1S 3D printer with AMS for $70 off
+Sat, 31 Oct 2026 19:19:50 +0000 — https://www.tomshardware.com/pc-components/grab-the-award-winning-bambu-lab-p1s-3d-printer-with-ams-for-usd70-off-save-usd70-on-one-of-the-best-3d-printers-for-beginners
+
+If you have been considering getting into 3D printing, now might just be a good time to take the plunge. The Editor's Choice Award-winning Bambu Lab P1S, bundled with the AMS color printing module, is currently on sale and is available at Best Buy for just $479.99 . That's $70 off its listed price of $549.99, making this a solid deal for beginners looking to get a capable 3D printer with multicolor printing support right out of the box. Check out the deal at Best Buy The Bambu Lab P1S is a high-speed 3D printer, while the bundled Automatic Material System (AMS) takes things a step further by enabling multi-material and multicolor printing. It comes with several useful features, including automatic bed leveling, a range of presets within the slicer software, and impressive print speeds, with acceleration reaching up to 20,000 mm/s². It also offers a generous build volume of 256 x 256 x 256 mm. According to Bambu Lab, the plug-and-play setup can be unboxed, configured, and ready to produce its first print in just 15 minutes. P1S with AMS Combo: was $549.99 now $479.99 The Bambu Lab P1S is an enclosed 3D printer, making it ideal for high-temperature filament printing. Fast prints are standard thanks to the speedy 20000 mm/s² acceleration limit. In this combo deal, the P1S comes with the AMS color printing unit that can produce 4-color prints. Multiple AMS units can be joined to produce up to 16-color prints. View Deal The printer's enclosed steel and glass construction helps mai
+
+### French lawmakers approve $11.2 billion internet tax based on traffic usage, costs $0.06 per gigabyte of content accessed
+Sat, 31 Oct 2026 16:11:40 +0000 — https://www.tomshardware.com/software/social-media/french-lawmakers-approve-usd11-2-billion-internet-tax-based-on-traffic-usage-costs-usd0-65-per-gigabyte-of-content-accessed-us-tech-giants-like-google-and-meta-face-new-levies-on-content-delivered-to-french-subscribers
+
+France has approved a proposed tax that aims to tax the amount of internet data per gigabyte sent to French users in the country, with major companies like Google, Netflix, TikTok, and Meta now in the crosshairs. According to minutes released by the National Assembly, members voted 11-10 in support of the motion on October 30 — which now means the new law has been added to the country’s next budget, despite major opposition from the government side and the finance committee rapporteur. The latest amendment, introduced by socialist lawmaker Laurent Lhardit, could see content providers pay €0.055 (roughly $0.06) to the government for every gigabyte of content distributed to French users. With approximately 154 million users and counting in France, the proposal’s authors say such a tax could generate around €10 billion ($11.2 billion) in annual revenue for the government. “This amendment proposes a tax on digital data flows emitted by content providers, to be borne by the providers themselves. Its revenue is estimated at €10 billion.” Said Laurent Lhardit. The said proposal, though yet to be passed as it must survive further parliamentary scrutiny, aims at companies that generate substantial internet traffic as opposed to taxing their advertising revenue, profits and subscriptions. Its explanatory notes particularly mention Google , Meta, Netflix, Amazon, and content delivery network Akamai as major potential contributors. Notably, TikTok and other similar platforms could fall u
+
+### 'Ghost Students' using AI to apply for student loans with stolen identities, DOJ's Operation Ghostbusters busts $200 million ring
 Sat, 31 Oct 2026 15:37:41 +0000 — https://www.tomshardware.com/tech-industry/cyber-security/ghost-students-using-ai-to-apply-for-student-loans-with-stolen-identities-dojs-operation-ghostbusters-busts-usd200-million-ring-faking-online-college-attendance-unsuspecting-victims-saddled-with-student-debt-they-didnt-sign-up-for
 
 The U.S. Department of Justice (DOJ) just announced indictments resulting from Operation Ghostbusters, which investigated widespread student loan fraud. According to the agency , bad actors used stolen identities to sign up for student loans and used AI to complete the application, making it appear that the fake student was attending online classes. While the schools receive the majority of the proceeds of the fraudulent student loan, the remaining amount is funneled into the bank accounts of the fraudsters, who then use mules to move the money from U.S. bank accounts to overseas conspirators. On the other hand, unwitting victims who have skipped college and instead directly joined the workforce after high school are saddled with student debt for a degree they never even signed up for. Multiple community colleges and universities across the United States started suspecting fraud in the Federal Student Aid (FAFSA) program in 2021. Estimates suggest the U.S. government lost over $200 million because of this activity, and the U.S. Department of Education Office of the Inspector General referred the case to the FBI Richmond Field Office. Currently, more than 40 open fraud cases involve 26 FBI field offices and 20 U.S. Attorney’s offices. The DOJ called it Operation Ghostbusters, which has already resulted in the indictment of five individuals. How much money are you willing to spend during the Black Friday sales? “Today, we are announcing the first results of Operation Ghostbuste
@@ -165,16 +175,6 @@ Exin Therapeutics, a biotech startup focusing on next-generation neurotherapeuti
 Sat, 31 Oct 2026 11:40:00 +0000 — https://www.tomshardware.com/pc-components/ram/veteran-microsoft-engineer-makes-his-own-ram-from-scratch-using-ai-attempts-to-build-4mb-of-1970s-pdp-11-ram-from-scratch
 
 Dave Plummer, former Microsoft engineer and wizard of Task Manager, Windows Pinball, and now TMOG, has an interesting project in his hands once again. After seeing exactly how many zeros were in the price tag for a megabyte of memory for his vintage PDP-11, he decided to take matters into his own hands and conjure up a new RAM board. The PDP-11 is from 1970, and later models could fit in as much as four megabytes of memory. Plummer enlisted the help of ChatGPT and the EasyEDA online circuit simulator , though he notes that he hadn't done complicated projects like this before. As several PDP-11 models used Q-Bus boards for main system components, he designed this RAM as a standalone card, then tested it on a backplane alongside another board containing the system's M8190 CPU. Atop it, he placed a Lattice MachXO2 FPGA serving as a memory controller (model 2000HC, if you're wondering), connected to four ISSI 1 MB memory chips. After adding a U2S I/O chip, a bank of DIP switches, comm ports, and sprinkling a handful of capacitors, he had a complete circuit. The M8190 board design has a 22-bit bus and reserves the top 256 KB for I/O and ROM. However, it wasn't a first-time-lucky project. Plummer encountered a few abortive starts, as he'd never flash-programmed an FPGA chip before. He fixed that after a few attempts, but then he fell into what appears to be a classic PDP-11 trap. The machine's memory bus design means it can only access entire words (two bytes) at once, and treats t
-
-### Modder uses a trash 4-kW air conditioner radiator for his test bench to see how well it can cool a PC
-Sat, 31 Oct 2026 11:20:00 +0000 — https://www.tomshardware.com/pc-components/liquid-cooling/trashbench-repurposes-a-trash-4-kw-air-conditioner-radiator-for-his-test-bench-to-see-how-well-it-can-cool-a-pc-achieves-a-shocking-28c-on-an-nvidia-rtx-3080
-
-Just like we suspected, our fellow Australian hardware examiner TrashBench is up to shenanigans again. Not too long ago, after putting a graphics card in the "wrong" place for much better cooling results, he's ... thinking bigger, let's put it that way. He took an old 4-kW outdoor radiator-fan unit from a split air-conditioning setup (sans gas) and hooked it up to a water-cooling loop to assess its performance. He kicked off the video with his best impression of Crocodile Dundee , and set out to rearrange the unit for the task at hand, as he only needed the actual radiator, fan, and pump. Most of the fiddly guts were taken out, and casters were added for convenience. TrashBench then added a bog-standard reservoir to the main enclosure. Moving on to the PC side, he converted a T-joint into a Y-joint with judicious application of heat and force, and, being the ever-clever craftsman, designed 3D-printed mounting brackets for the various cold plates. It was around this time that it was made certain he'd be successful, as at 02:49 you can see that his knuckles paid the requisite blood toll to the machine god. After firing up the entire system, he set to benchmarking, enlisting both a modern RTX 5060 and a hotter, earlier RTX 3080 for the process. The 5060 is a very power-efficient GPU, and its temperature with the standard cooler was a tame 52ºC. However, the mighty power of four kilowatts' worth of cooling brought that down to just 33ºC, around the temperature of lukewarm water, 
-
-### 3D-printed ghost guns may now have a way to be traced to their source
-Sat, 31 Oct 2026 11:00:00 +0000 — https://www.tomshardware.com/3d-printing/3d-printed-guns-may-now-have-a-way-to-be-traced-to-their-source-australian-researchers-correctly-identify-26-out-of-28-printed-pla-samples-to-their-filament-product
-
-A study published on October 22 in the journal Forensic Science International reports that researchers from Curtin University in Perth, Australia, have developed a forensic method to analyze 3D-printed PLA parts and match them to their respective filament, correctly matching 26 out of 28 samples of PLA. This potentially provides a way to link seized 3D-printed “ghost-guns” with other seized filament, allowing police to form a clearer network for the manufacturing and distribution of the 3D-printed firearms. 3D-printed firearms have become a big problem worldwide, as they are untraceable and even compostable in the case of PLA, with tools like this AI 3D-printed gun generator making it scarily accessible. Serial numbers, registration, and a network of licensed distributors are usually the first line of investigation when it comes to crime involving firearms, but easily manufacturable, untraceable, disposable plastic firearms are a new threat with no clear way to crack down on them yet. However, this research, by Dr. Georgina Sauzier et al. from Curtin University's School of Molecular and Life Sciences, along with forensics experts from ChemCentre, has devised a way to trace a printed object to a specific filament product, down to the brand and type. The process of 3D printing changes the filament’s physical properties, and this change can be measured. In this research, differential scanning calorimetry (DSC) is used, a thermoanalytical technique that lets the sample go through
 
 ## Phoronix
 
@@ -302,67 +302,72 @@ Just days after Daemonarchy, there's another new OS in the BSD family – and on
 
 ## Engadget
 
-### Traveling with electronics? These 5 items could raise TSA red flags
-Sat, 31 Oct 2026 15:45:00 +0000 — https://www.engadget.com/2301241/tsa-electronics-red-flags/
+### Xbox manager says AI is already being used in game development
+Sat, 31 Oct 2026 20:00:00 +0000 — https://www.engadget.com/2302431/brandon-stirrup-xbox-manager-says-ai-used-game-development/
 
-Travel is stressful enough. Here's what you should know about TSA rules on traveling with tech.
+Brandon Stirrup deleted his comments from X a day after saying that AI usage is widespread in the gaming industry.
 
-### The Amazon Fire TV Stick setting you should try for better audio
-Sat, 31 Oct 2026 15:30:00 +0000 — https://www.engadget.com/2299191/amazon-fire-tv-stick-setting-better-audio/
+### The best Roku Streaming Stick depends on your picture quality needs
+Sat, 31 Oct 2026 19:00:00 +0000 — https://www.engadget.com/2302428/best-roku-streaming-stick-depends-on-picture-quality-needs/
 
-Dialogue is an important part of any movie or TV show, but it isn't always as clear as we would like. Amazon's Fire TV Stick has a solution.
+Roku only sells one streaming device that doesn't support 4K output.
 
-### What is the purpose of reposting on Instagram and how do you do it?
-Sat, 31 Oct 2026 15:15:00 +0000 — https://www.engadget.com/2301218/repost-with-instagram-purpose-how-to-do/
+### Why your AirPods keep disconnecting without warning: These settings can fix it
+Sat, 31 Oct 2026 18:45:00 +0000 — https://www.engadget.com/2298547/why-mac-keeps-disconnecting-airpods/
 
-It's the easiest way to share posts and reels you like with all of your followers.
+Handy features of your AirPods can be overzealous, leading to disconnections and unwanted device swapping.
 
-### Sam Altman is upset at you for hoarding RAM in your own computer
-Sat, 31 Oct 2026 15:07:10 +0000 — https://www.engadget.com/2303266/sam-altman-says-its-terrible-dram-computer/
+### How to use Claude Duet when it rolls out to you
+Sat, 31 Oct 2026 18:30:00 +0000 — https://www.engadget.com/2300253/how-to-use-claude-duet/
 
-Sam Altman, in an interview, said it's 'terrible' for people to have 'a bunch of the world's limited supply of DRAM' that they barely use.
+For now, you'll need to first join a waitlist.
 
-### Is IMAX 3D a better experience than 2D? Here's what to know
-Sat, 31 Oct 2026 15:00:00 +0000 — https://www.engadget.com/2300266/imax-3d-vs-2d-which-is-better-experience/
+### 4 drawbacks you should know before buying a PlayStation 5
+Sat, 31 Oct 2026 18:00:00 +0000 — https://www.engadget.com/2300257/drawbacks-you-should-know-before-buying-playstation-5/
 
-While IMAX 3D may sound bigger and better, there are a handful of distinct advantages and disadvantages to both movie-viewing experiences.
+The PS5 isn't as good of a buy today as it was early in its life, so you should be aware of the drawbacks in this awkward console generation.
 
-### Why SNES games are so expensive
-Sat, 31 Oct 2026 14:45:00 +0000 — https://www.engadget.com/2301220/why-snes-games-so-expensive/
+### Bolt Graphics powers on its first Zeus GPU
+Sat, 31 Oct 2026 17:30:00 +0000 — https://www.engadget.com/2301962/bolt-graphics-powers-on-first-zeus-gpu/
 
-Scarcity and increased interest in retro games makes for an expensive combo.
+Bolt Graphics has been working on its simulation-centric Zeus GPU for a while now and has reached a significant milestone: a successful test run.
 
-### 5 Samsung One UI features you won't get with other Android phones
-Sat, 31 Oct 2026 14:30:00 +0000 — https://www.engadget.com/2299207/one-ui-features-not-on-other-androids/
+### These Samsung Galaxy Watches won't be getting the new One UI update
+Sat, 31 Oct 2026 17:15:00 +0000 — https://www.engadget.com/2301961/samsung-galaxy-watches-not-getting-one-ui-update/
 
-Samsung doesn't just make great phone and tablet hardware; its One UI is also a standout, offering many features you just can't get elsewhere.
+Samsung has released the latest version of its wearable OS, One UI 9 Watch, and most of its watch lineup will get the update - except these.
 
-### What is a PDF reader and do you really need a dedicated one on your phone?
-Sat, 31 Oct 2026 14:15:00 +0000 — https://www.engadget.com/2300318/what-is-pdf-reader-do-you-need-on-phone/
+### How to fix your phone screen when it's unresponsive to touch​
+Sat, 31 Oct 2026 17:00:00 +0000 — https://www.engadget.com/2301246/how-to-fix-phone-screen-unresponsive-to-touch/
 
-If you don't know what a PDF reader for your phone is, this is the time to learn about it all. You may be in need of one to make your life easier.
+Few things are more annoying than an unresponsive touchscreen. Before you give up on your phone, here's what to try to get it working again.
 
-### Microsoft really wants you to sell that Xbox you're not using
-Sat, 31 Oct 2026 14:00:00 +0000 — https://www.engadget.com/2299867/microsoft-really-wants-you-to-sell-that-xbox-youre-not-using/
+### How building a cheap home server could save you money in the long run
+Sat, 31 Oct 2026 16:45:00 +0000 — https://www.engadget.com/2301243/how-building-cheap-home-server-save-money/
 
-Microsoft wants owners to trade in their unused Xbox Series X and S consoles. Here's what's behind the push, and what to know before you take the deal.
+Using an old PC to create your own server can save you quite a bit of money through a couple of avenues. Here's what it can do.
 
-### CDs are back, but they come with a modern problem
-Sat, 31 Oct 2026 13:45:00 +0000 — https://www.engadget.com/2298767/cds-are-back-modern-listening-complicated/
+### Why your Spotify might be using so much storage
+Sat, 31 Oct 2026 16:30:00 +0000 — https://www.engadget.com/2300259/why-spotify-uses-so-much-storage/
 
-With CD sales on the rise again, collectors are finding that enjoying their favorite tunes is more challenging than ever in the modern audio landscape.
+Spotify can be a storage hog if you don't have your device's settings optimized. Here's what you can do if Spotify is taking up too much storage.
 
-### Here's how much the iPhone Pro cost in 2019 vs. 2026
-Sat, 31 Oct 2026 13:30:00 +0000 — https://www.engadget.com/2300201/how-much-iphone-pro-cost-2021-vs-2026/
+### How long is too long for a USB cable?
+Sat, 31 Oct 2026 16:15:00 +0000 — https://www.engadget.com/2301242/how-long-should-usb-cable-be-maximum-length/
 
-The iPhone Pro has changed plenty since it was released in 2019, but how do the 2026 iPhone Pro prices fare in comparison with its original price?
+USB cables, much like their HDMI cousins, have limits on how long they can be. The thing is, those limits are probably much lower than you expected.
 
-### Why you should never point a laser pointer at any aircraft
-Sat, 31 Oct 2026 13:15:00 +0000 — https://www.engadget.com/2301206/why-you-should-never-point-a-laser-pointer-at-any-aircraft/
+### NASA's second year-long Mars simulation mission ends today
+Sat, 31 Oct 2026 16:07:17 +0000 — https://www.engadget.com/2303277/nasa-second-year-long-mars-simulation-mission-ends-today/
 
-Unfortunately, some people need to hear this.
+The second crew that spent a year inside NASA's simulated Mars habitat is emerging today, and the agency will stream it live.
 
 ## TechCrunch
+
+### OpenAI reportedly lowers funding target for new round
+Sat, 31 Oct 2026 16:12:55 +0000 — https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/
+
+OpenAI’s latest funding round doesn't seem to be living up to expectations.
 
 ### From restaurant guides to payments, here’s how TikTok is building a super app
 Sat, 31 Oct 2026 15:41:57 +0000 — https://techcrunch.com/2026/10/31/tiktoks-road-to-becoming-a-super-app/
@@ -418,9 +423,4 @@ No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerabil
 Fri, 30 Oct 2026 21:17:40 +0000 — https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/
 
 Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom.
-
-### AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal
-Fri, 30 Oct 2026 19:55:13 +0000 — https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/
-
-Like a real-life episode of "Suits," the demise of famed white-shoe Wall Street law firm Weil, Gotshal Manges has been the talk of the legal industry. And now an AI firm has entered the picture.
 
