@@ -1,4 +1,4 @@
-# AI — harvested 2026-10-31T10:36:10.981Z
+# AI — harvested 2026-10-31T15:52:15.622Z
 
 ## OpenAI
 
@@ -26,9 +26,6 @@ OpenAI’s updated Model Spec outlines five core values to guide more capable AI
 
 ### nemotron-halloween
 Fri, 30 Oct 2026 17:57:24 GMT — https://huggingface.co/blog/nvidia/nemotron-halloween
-
-### Granite Switch 4.1.1 — Update models like you update software
-Thu, 29 Oct 2026 13:37:07 GMT — https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1
 
 ## Google DeepMind
 

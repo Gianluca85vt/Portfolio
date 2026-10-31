@@ -1,6 +1,26 @@
-# Games — harvested 2026-10-31T10:36:10.981Z
+# Games — harvested 2026-10-31T15:52:15.622Z
 
 ## Eurogamer
+
+### The Mortuary Assistant dev on laying his cancelled Paranormal Activity game to rest, resurrecting it as a Halloween freebie, and a potential return to his biggest game
+Sat, 31 Oct 2026 15:25:38 +0000 — https://www.eurogamer.net/playable-archive-paranormal-activity-threshold-the-mortuary-assistant-interview
+
+Halloween feels like an especially appropriate time for Playable Archive's arrival. It's a genuinely spooky found-footage affair for one - a cleverly orchestrated 30-or-so minutes of scares from the developer of horror hit The Mortuary Assistant, released this week as a Halloween freebie . But more than that, the unusual tale of its creation is also one of death and resurrection. As its slightly cheeky title implies, Playable Archive (a riff on the legendary Playable Teaser created for Hideo Kojima 's cancelled Silent Hill game) is a small slice of developer Brian Clarke's much larger cancelled Paranormal Activity game , making it a fascinating window into 'what could have been'. When I heard the news of its release, my curiosity was piqued, so I spoke with Clarke about this unexpected turn of events, of laying his project to rest, and how its legacy might live on - perhaps even as a new Mortuary Assistant game. Read more
+
+### Final Fantasy 14 reveals Evercold’s second new job and February release date, with pre-orders opening next week
+Sat, 31 Oct 2026 14:39:25 +0000 — https://www.eurogamer.net/final-fantasy-14-evercold-zephyr-job-release-date
+
+Final Fantasy 14 's next expansion, Evercold, will launch on 23rd February 2027, and its second new job is zephyr, a physical ranged DPS that fights with a crossbow and a bird. Read more
+
+### Silent Hill: Townfall adds new Hard difficulty in latest update
+Sat, 31 Oct 2026 13:53:19 +0000 — https://www.eurogamer.net/silent-hill-townfall-hard-mode-update
+
+Silent Hill: Townfall has added a new Hard difficulty mode and rebalanced every existing setting to make room for it. Read more
+
+### A former volunteer is threatening legal action against fan-made game project Skyblivion
+Sat, 31 Oct 2026 13:21:03 +0000 — https://www.eurogamer.net/skyblivion-former-volunteer-legal-threats
+
+A former volunteer is threatening legal action against Skyblivion, the long-running fan remake of Oblivion built in Skyrim's engine, over code they contributed to the project. Read more
 
 ### Silver Pines is a great survival horror throwback with an unexpected Metroidvania twist, but it makes me glad the genre's moved on
 Sat, 31 Oct 2026 10:00:00 +0000 — https://www.eurogamer.net/silver-pines-now-playing
@@ -42,26 +62,6 @@ Fri, 30 Oct 2026 14:54:16 +0000 — https://www.eurogamer.net/ea-closed-bioware-
 
 A new report has revealed that EA closed BioWare because it was forced to choose between investing in one of two sci-fi projects: a new Mass Effect game or a new Star Wars Battlefront game. And it chose the latter. Read more
 
-### Forza director, who'd been with Turn 10 for 27 years leaves Microsoft, following studios merger with Playground Games
-Fri, 30 Oct 2026 14:16:41 +0000 — https://www.eurogamer.net/director-leaves-forza-playground-games-merge-microsoft
-
-Dan Greenawalt, director, founder, and vice president at Turn 10 Games, has departed from the studio after spending 27 years as part of the company. This comes as Turn 10 is merged with Playground Games as part of Xbox's mass restructuring initiative that made headlines as it resulted in 3200 layoffs and four studio closures earlier this year. Read more
-
-### Sony has snapped up the film rights for Mouthwashing
-Fri, 30 Oct 2026 12:00:41 +0000 — https://www.eurogamer.net/mouthwashing-movie-rights-sony-director
-
-Sony has snatched up the movie rights for Mouthwashing, the hit independent horror video game released in 2024. Read more
-
-### Games industry honours beloved actor Sir Patrick Stewart, as the legendary Star Trek and X-Men actor passes away
-Fri, 30 Oct 2026 11:35:58 +0000 — https://www.eurogamer.net/patrick-stewart-dies-oblivion-uriel-septim-castlevania
-
-As I'm sure you're all now already aware, legendary British actor Sir Patrick Stewart has died, aged 86. His Instagram account announced the news yesterday, saying he died at home in Los Angeles surrounded by friends and family, following "a brief and poignant journey with Alzheimer's Disease and Lewy Body Dementia". Read more
-
-### There are currently "no other Assassin's Creed remakes actively in development", says Ubisoft
-Fri, 30 Oct 2026 11:35:06 +0000 — https://www.eurogamer.net/no-new-assassins-creed-games-in-development-ubisoft
-
-Yesterday, Ubisoft issued a statement about the future of the Assassin's Creed series, and the publisher's comments included quite a big surprise: there are currently no new remakes of the series' past games in the works. Read more
-
 ## GamesIndustry.biz
 
 ### Studio Atelico launches Atelico AI Engine into Early Access
@@ -89,36 +89,26 @@ Fri, 30 Oct 2026 09:00:00 +0000 — https://www.gamesindustry.biz/why-asking-wha
 
 Three years ago, we launched our Kickstarter campaign for Trash Goblin , our cosy shop sim. It was an existential moment for Spilt Milk Studios. Seventy-four publishers had turned down the game - one of them pulling out in the meeting that we thought was to sign the final publishing contract - but players seemed to love it. Read more
 
-### Newly merged Skydance mandates staff return to office five days a week, offers Voluntary Buyout Program
-Thu, 29 Oct 2026 14:29:45 +0000 — https://www.gamesindustry.biz/newly-merged-skydance-mandates-staff-return-to-office-five-days-a-week-offers-voluntary-buyout-program
-
-The newly merged Skydance Corporation has mandated employees return to the office for five days a week and is offering a Voluntary Buyout Program (VBO). Read more
-
-### "We are very eager to learn from the real veterans" – How Tencent's TiMi Studio Group collaborated with Capcom on Monster Hunter Outlanders
-Thu, 29 Oct 2026 13:30:00 +0000 — https://www.gamesindustry.biz/we-are-very-eager-to-learn-from-the-real-veterans-how-tencents-timi-studio-group-collaborated-with-capcom-on-monster-hunter-outlanders
-
-Today marks the release of Monster Hunter Outlanders, a mobile version of Capcom's long-running franchise that has been created by Tencent's TiMi Studio Group. Read more
-
-### "I wish I had the formula" – 2Awesome Studio on navigating indie development while creating Altered Alma, its biggest project to date
-Thu, 29 Oct 2026 13:04:14 +0000 — https://www.gamesindustry.biz/i-wish-i-had-the-formula-2awesome-studio-on-navigating-indie-development-while-creating-altered-alma-its-biggest-project-to-date
-
-Last week, indie publisher Critical Reflex hosted its annual showcase , featuring a host of hard-to-define titles including Altered Alma , a cyberpunk-infused Metroidvania from Barcelona-based 2Awesome Studio. Read more
-
-### Onimusha, Resident Evil, Pragmata, and Monster Hunter franchises boost Capcom H1 results
-Thu, 29 Oct 2026 12:57:05 +0000 — https://www.gamesindustry.biz/onimusha-resident-evil-pragmata-and-monster-hunter-franchises-boost-capcom-h1-results
-
-Capcom published its financial results for the six months ended September 30, 2026, and reported increases across the board, including a 67.5% rise in ordinary profit to &yen;61.2 billion ($387.2 million). Read more
-
-### Xbox first-party content partially offsets 2% drop in Q1 revenue, hardware decreases 14%
-Thu, 29 Oct 2026 10:53:08 +0000 — https://www.gamesindustry.biz/xbox-first-party-content-partially-offsets-2-drop-in-q1-revenue-hardware-decreases-14
-
-Microsoft has exceeded first quarter expectations, reporting $92.3 billion in revenue with increases in net income and earnings per share. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Meet Marvel Tokon s Newest Fighting Soul in Full Phoenix Cyclops Character Guide
+Sat, 31 Oct 2026 15:15:00 GMT — https://www.pushsquare.com/news/2026/10/meet-marvel-tokons-newest-fighting-soul-in-full-phoenix-cyclops-character-guide
+
+Sweet Scott Summers child. Ahead of his release next week on 2nd November, Sony’s dropped a full character guide for the upcoming Marvel Tokon: Fighting Souls addition, Phoenix Cyclops. Like similar videos prior to the game’s launch, this runs through the combatant’s full roster of moves, including his ability to transform into Dark Phoenix state by assembling Solar Shards. Read the full article on pushsquare.com
+
+### PS5 Adds Another Free Open World Game to Your Rotation with Surprise Silver Palace Release Date
+Sat, 31 Oct 2026 14:30:00 GMT — https://www.pushsquare.com/news/2026/10/ps5-adds-another-free-open-world-game-to-your-rotation-with-surprise-silver-palace-release-date
+
+A console exclusive for now. Victorian-inspired free-to-play open world game Silver Palace will release worldwide on 14th December, which has really shocked me. I played this stylish effort at Gamescom earlier in the year, but assumed it was still quite a way away. Read the full article on pushsquare.com
+
+### Guide: These 28+ PS5 and PS Plus Games Are Coming Out Next Week (2nd-8th November)
+Sat, 31 Oct 2026 12:00:00 GMT — https://www.pushsquare.com/guides/these-28plus-ps5-and-ps-plus-games-are-coming-out-next-week-2nd-8th-november
+
+Godzilla: Destroy All Monsters! CRYMELIGHT! Zero Parades! We’re fast approaching the GTA 6 evacuation zone, so expect the number of new releases to dip dramatically in November. There are some noteworthy titles this time, though, with highlights including the PS5 version of Zero Parades as well as Alice in Wonderland roguelite CRYMELIGHT . Read the full article on pushsquare.com
 
 ### PS5 Dynamic Pricing Concerns Revived by New Sony Job Listing
 Sat, 31 Oct 2026 01:00:00 GMT — https://www.pushsquare.com/news/2026/10/ps5-dynamic-pricing-concerns-revived-by-new-sony-job-listing
@@ -165,21 +155,6 @@ Fri, 30 Oct 2026 11:00:00 GMT — https://www.pushsquare.com/news/2026/10/quirky
 
 $10 upgrade for current PS4 owners. Who had the PS3 role-playing game Resonance of Fate receiving a second remaster for PS5 on their 2026 bingo card? Having already been enhanced on PS4, the quirky RPG has been treated to an "enhanced remaster", out today on PS5. This latest version features two additional enhancements over the PS4 remaster: even better graphics and the ability to play it at double the speed. Read the full article on pushsquare.com
 
-### Death Stranding Isolations Anime TV Series Gets First Trailer, Out in 2027
-Fri, 30 Oct 2026 10:00:00 GMT — https://www.pushsquare.com/news/2026/10/death-stranding-isolations-anime-tv-series-gets-first-trailer-out-in-2027
-
-My mom became a crater. Revealed almost a year ago, Kojima Productions and Disney+ have today debuted the teaser trailer for Death Stranding Isolations , a new anime TV series set in the universe of the two PS5, PS4 games. Catch the short clip above. Under the tagline "My mom became a crater", the TV show takes place just after Sam Bridges connects North America to the Chiral Network. However, those "renewed connections" bring trouble. The story synopsis continues: Read the full article on pushsquare.com
-
-### Crimson Desert s Huge DLC, Charting the Unknown, Out Now on PS5
-Thu, 29 Oct 2026 22:00:00 GMT — https://www.pushsquare.com/news/2026/10/crimson-deserts-huge-dlc-charting-the-unknown-out-now-on-ps5
-
-Priced at £19.99 / $24.99. If Crimson Desert and all its post-launch additions weren't already enough, studio Pearl Abyss has released a mammoth expansion in Charting the Unknown , available now on PS5 for £19.99 / $24.99. You can catch the new launch trailer for the expansion above. Read the full article on pushsquare.com
-
-### No New Assassin s Creed Remakes in the Works at Ubisoft
-Thu, 29 Oct 2026 20:00:00 GMT — https://www.pushsquare.com/news/2026/10/no-new-assassins-creed-remakes-in-the-works-at-ubisoft
-
-But doesn't rule them out in the future. After the success of Assassin's Creed: Black Flag Resynced , publisher Ubisoft has confirmed it currently does not have any other remakes of previous entries in the series in development. As of mid-July 2026, we knew Black Flag Resynced had sold three million copies , and the number will have only gone up since then. It was deemed a big success, and the rumours were that Ubisoft was determining whether to create further remakes based on its sales stats. Read the full article on pushsquare.com
-
 ## Game Developer
 
 ### Anthropic orders AI tool Claude to stop remaking video games
@@ -218,6 +193,11 @@ Thu, 29 Oct 2026 17:35:37 GMT — https://www.gamedeveloper.com/console/xbox-ceo
 Xbox CEO Asha Sharma insists that the demand for Xbox consoles is there, Microsoft simple cannot produce enough, a claim that may clash with Xbox's public sales data.
 
 ## VGC
+
+### The Arduview is the world s first fully transparent handheld, including the screen
+Sat, 31 Oct 2026 12:30:58 +0000 — https://www.videogameschronicle.com/news/the-arduview-is-the-worlds-first-fully-transparent-handheld-including-the-screen/
+
+The small credit card-sized handheld has hit its goal on Kickstarter… Source
 
 ### Fanatical s Mystery Chest Bundle offers up to 25 mystery Steam keys for $17.49, with a chance to get Phantom Blade Zero
 Fri, 30 Oct 2026 18:42:36 +0000 — https://www.videogameschronicle.com/news/fanaticals-mystery-chest-bundle-offers-up-to-25-mystery-steam-keys-for-17-49-with-a-chance-to-get-phantom-blade-zero/
@@ -264,64 +244,74 @@ Fri, 30 Oct 2026 09:47:26 +0000 — https://www.videogameschronicle.com/news/aaa
 
 It's just a "marketing beat" for them, says Eternal Darkness director Denis Dyack… Source
 
-### Pre-order Football Manager 27 for 20% off on Fanatical with our code
-Thu, 29 Oct 2026 18:14:44 +0000 — https://www.videogameschronicle.com/news/pre-order-football-manager-27-for-20-off-with-fanatical-and-vgc/
-
-Use our code to get the PC version for £39.89 / €47.87 instead of £49.99 / €59.99… Source
-
 ## Polygon
 
-### Star Wars' Secret Writers Quietly Made the Strangest, Scariest Zombie Movies of All Time
-Sat, 31 Oct 2026 10:01:20 GMT — https://www.polygon.com/messiah-of-evil/
+### 'No Man's Sky' Players Pay Homage To Star Trek's Patrick Stewart
+Sat, 31 Oct 2026 15:18:18 GMT — https://www.polygon.com/no-mans-sky-players-patrick-stewart-memorial-star-systems/
 
-Besides the occasional shadow person who creeps into my room once a fortnight, nothing paralyzes me quite like deciding what to watch on Oct. 31. In my mind, Halloween is a horror movie marathon month where veering in and out of subgenres and quality metrics is highly encouraged. So how do you close it out on actual Halloween?
+Patrick Stewart was a celebrated actor whose career spanned decades of film, television, and theater. He became a household name playing Professor Charles Xavier in the X-Men films , but his work also included decades of live performances with the Royal Shakespeare Company and memorable roles as Gurney Halleck in Dune (1984) and King Richard in Robin Hood: Men in Tights (1993). But, of course, for millions of fans, he'll always be Captain Jean-Luc Picard in Star Trek: The Next Generation .
 
-### 60 Years Later, the Best 'Peanuts' Quote of All Time Still Doesn't Get the Credit it Deserves
-Sat, 31 Oct 2026 08:04:17 GMT — https://www.polygon.com/best-peanuts-quote-ever-charlie-brown-charles-schulz/
+### Austin Abrams Was Grabbed by Tentacles in a 35-Foot Whale Head for the Thriller ‘Whalefall’
+Sat, 31 Oct 2026 15:01:18 GMT — https://www.polygon.com/whalefall-bts-interview/
 
-One of the best examples comes from a Feb. 3, 1966, comic strip in which Lucy mocks him for volunteering for a school spelling bee. Charlie Brown’s response contains some of the best advice Schulz ever put on the page. Sixty years later, it’s still something we can all stand to remember.
+“It was super important that Austin felt like he was in these environments and his body had to respond to them,” Avery told Polygon in a virtual interview. “All that motion on camera is motion that we’re making. It’s not animated. That means Austin’s body is responding to real action in real time.”
 
-### Nintendo’s Biggest Game of the Year Isn't What You Think It Is
-Sat, 31 Oct 2026 08:00:17 GMT — https://www.polygon.com/switchboard-tomodachi-life-huge/
+### Warframe officially adds a whole new star system in December
+Sat, 31 Oct 2026 14:58:43 GMT — https://www.polygon.com/warframe-tau-release-window/
 
-This is the time of year when Nintendo's global marketing departments start limbering up and doing stretches for a big mass-market retail push. Nintendo UK launched a wholesome and emotive campaign this week, seemingly trying to one-up Nintendo Australia's legendary sad Zelda dad campaign for Tears of the Kingdom back in 2023. It doesn't quite work, but something about it caught my eye.
+Before the end of the year, Warframe will get a whole lot bigger . The Warframe: Tau expansion will be released for free in December and adds its namesake star system to the live service shooter alongside a lot of other new content.
 
-### CBS's Legendary 156-Episode Sci-Fi Anthology Series is Officially Free to Watch on Streaming
-Sat, 31 Oct 2026 07:44:17 GMT — https://www.polygon.com/cbs-sci-fi-shows-twilight-zone-free-streaming-october-2026/
+### Walmart Gives Surprise Gift Cards Over Canceled Zelda Switch 2 Orders
+Sat, 31 Oct 2026 14:30:49 GMT — https://www.polygon.com/nintendo-switch-2-zelda-ocarina-of-time-walmart-compensation/
 
-In the realm of science fiction, Star Wars and Star Trek are generally considered to be the two biggest and most important franchises of all time. If you’re purely talking about profitability, that’s correct; those two have dominated TV and film for decades. However, if you factor in things like influence and impact, another sci-fi property ranks right up there with the big two. In the realm of sci-fi, pretty much all roads lead to, or derive from, The Twilight Zone . And this landmark show is currently free to stream.
+On Thursday, Nintendo released a special edition of the Nintendo Switch 2 in anticipation of The Legend of Zelda: Ocarina of Time , which is set to launch Nov. 5. As with most special hardware releases, the Legend of Zelda 40th Anniversary-themed Switch 2 sold out quickly . Walmart oversold the consoles and found itself having to cancel orders a day before launch.
 
-### 5 Must-Play New Xbox Games Coming in November, Including GTA 6
-Sat, 31 Oct 2026 04:00:18 GMT — https://www.polygon.com/new-xbox-games-november-2026/
+### It: Welcome to Derry Drops News Episode To Celebrate Halloween
+Sat, 31 Oct 2026 14:21:44 GMT — https://www.polygon.com/it-welcome-to-derry-halloween-special/
 
-If you only took a quick glance at November’s release date calendar, you might walk away with the idea that Xbox players are only getting one game this month: Grand Theft Auto 6 . While that’s certainly the only big game coming to Series X, the first few weeks of November are deceptively crowded . A stack of indie hidden gems and nostalgic remasters are here to make sure you have something to play while you wait for your return to Vice City.
+It: Welcome to Derry shocked and surprised fans to celebrate Halloween this year, as an unannounced 30-minute special episode was added to HBO Max at midnight.
 
-### Sony's Bringing Back Spider-Man $2.5 Billion Hit With New Footage
-Sat, 31 Oct 2026 03:09:18 GMT — https://www.polygon.com/spider-man-brand-new-day-rerelease-extended-new-footage-cameos/
+### Nintendo Reveals Pikmin Day Surprise and New Project Hello! Pikmin
+Sat, 31 Oct 2026 14:15:51 GMT — https://www.polygon.com/nintendo-hello-pikmin-direct-day-shigeru-miyamoto-switch-2/
 
-As Marvel Studios' release of Avengers Endgame: Encore proves, blockbuster movies can still dominate the box office , even after a multibillion dollar run. Sony is reportedly planning a rerelease of Spider-Man: Brand New Day to bring web-head-heads back to movie theaters — and like Endgame: Encore , the studio is adding new footage of Spider-Man 's latest flick as an incentive.
+Happy early Pikmin Day! Wait. Let's back up, since you don't appear to be aware that today's Pikmin Day Eve. Nintendo announced Saturday that, going forward, Nov. 1 will be known as Pikmin Day , a planned annual celebration of the now-25-year-old puzzle-strategy franchise. Nintendo designer Shigeru Miyamoto announced the news alongside a handful of updates for games like Pikmin 4 and Pikmin Bloom during a brief video dedicated to the Pikmin franchise.
 
-### 15 Classic Games That Prove Gameplay Is More Important Than Graphics
-Sat, 31 Oct 2026 02:36:37 GMT — https://www.polygon.com/classic-games-bad-graphics-good-gameplay/
+### Helen Mirren Wants To Be in the Last ‘Fast and Furious’ Movie
+Sat, 31 Oct 2026 14:00:17 GMT — https://www.polygon.com/helen-mirren-wants-to-be-in-the-last-fast-and-furious-movie/
 
-There’s no getting around it: graphics matter a great deal for video games. For many years, visual fidelity alone was one of the best reasons to invest in new consoles and better gaming PCs. There have always been games that didn’t compete for a position at the head of the pack, though. Their developers recognized the importance of compelling gameplay loops, fiendish difficulty, multiplayer appeal, and innovation long before such priorities reliably drew crowds.
+It feels like we’ve been waiting forever for Fast Forever . Ever since 2023’s Fast X ended on a cliffhanger where Dominic Toretto (Vin Diesel) and his son Brian (Leo Abelo Perry) get caught up in an exploding dam, fans have been eagerly awaiting the next installment. Vin Diesel has said the movie will be coming in 2028 and while a Peacock TV show of the franchise was recently announced for 2028 as well, it still seems that Fast Forever will be the final film.
 
-### Top 10 Pokémon Cards Most Likely to Be Fake
-Sat, 31 Oct 2026 02:22:17 GMT — https://www.polygon.com/top-10-pokemon-cards-most-likely-to-be-fake-how-to-tell/
+### Anyone Can Play Soulframe For Free Starting Next Week
+Sat, 31 Oct 2026 13:40:17 GMT — https://www.polygon.com/soulframe-open-preludes-release-date/
 
-The more Pokémon trading cards pop off , the more potential players and collectors have to worry about one thing: counterfeit cards. Sometimes, a fake card will be obvious. As more money pours into the hobby , however, there's more incentive than ever to pull a fast one on people. Fakes are getting harder to tell from authentic ones, but it helps to know what Pokémon cards are the most likely targets — and what you should look out for in general while inspecting singles.
+While Soulframe's pre-release playtesting has historically been invite-only, that's changing soon. Starting next week, anyone on PC will be able to try the fantasy Warframe spin-off for free thanks to Soulframe Open Preludes , which is rolling out ahead of the game's Verse of the Veilands update.
 
-### Every Mike Flanagan TV Series, Ranked
-Sat, 31 Oct 2026 02:10:17 GMT — https://www.polygon.com/mike-flanagan-series-ranked/
+### Final Fantasy XIV Evercold Delayed at Tokyo Fan Fest
+Sat, 31 Oct 2026 13:27:47 GMT — https://www.polygon.com/final-fantasy-xiv-evercold-release-date-delayed/
 
-Mike Flanagan is certainly having a moment this year. After the success of Prime Video's Carrie — and its season two renewal — more eyes are on him and his works than ever before. Luckily, he has a fairly solid backlog of TV shows and films for viewers to peruse. In fact, hardly anybody is creating consistent, high-quality horror for film and television like Flanagan is.
+Square Enix has delayed Final Fantasy XIV Evercold 's release date, producer Naoki Yoshida announced during the Fan Fest Tokyo event, but it's not a big delay. The MMO's expansion was originally planned for a late January launch , but Yoshida decided to delay the launch by three weeks.
 
-### 10 Free Browser Games That are Actually Fun to Play
-Sat, 31 Oct 2026 02:09:02 GMT — https://www.polygon.com/best-free-browser-games-to-play/
+### FFXIV Evercold's second new job brings pets back at last with a magic bird
+Sat, 31 Oct 2026 13:27:02 GMT — https://www.polygon.com/ffxiv-evercold-new-job-ranged-dps-zephyr/
 
-If you do your research, though, you’ll find a treasure trove of easily-accessible gems — like a solo dev’s reworked Diablo village where you watch your party auto-battle its way through catacombs, or an idle game where managing catnip supply chains spirals into deep-space civilization management. Deduction mysteries, language-learning puzzles, and dungeon crawlers usually come with a price tag and a download bar. Tragically for your productivity and spare time, these ten do not.
+Square Enix revealed Final Fantasy XIV Evercold 's second new job during the Tokyo Fan Fest, a physical ranged DPS job called Zephyr. It's a pretty big deal in more ways than one. The last physical ranged class was Dancer back in 2019's Shadowbringers, and Zephyr uses a pet, the first class to do so since Square Enix changed Summoner's kit back in 2017's Stormblood expansion. ( Beastmaster is a limited class, so it doesn't count.)
 
 ## PC Gamer
+
+### Anthropic updates Claude to 'steer it away' from letting users clone games following weeks of Steam being inundated with AI slop
+Sat, 31 Oct 2026 15:23:04 +0000 — https://www.pcgamer.com/gaming-industry/anthropic-updates-claude-to-steer-it-away-from-letting-users-clone-games-following-weeks-of-steam-being-inundated-with-ai-slop/
+
+Anthropic has updated Claude Opus 5.5 to "steer it away" from letting users clone other developers' games, after weeks of Steam being overrun with AI slop and outcries from the game development community. In an update spotted by X user Chasm (via Game Developer ) Anthropic added a new rule to Claude Code's "Rules". Listed under "tengu_heron_brook", the rule reads, "Do build original games, games in a genre, and games from the user's own designs and assets. Do not build a recreation of a specific existing game, even if it is renamed or called original." The addition was later confirmed by Addy Osmani, a member of Anthropic's technical staff. In a response to Chasm's post, Osmani stated, "We added two sentences to Claude Code's prompt on Opus 5.5 to steer it away from recreating someone else's specific game because using Claude to infringe IP is against our usage policy." Osmani added that "original games, genre games, and games built from your own design are meant to keep working. We'll continue to iterate to ensure that we're striking the right balance. In the meantime, if Claude turns down something that's yours, send it my way." Opus 5.5 has proved adept at reverse engineering code, causing all manner of disruption within the games industry. The effects range from rapid decompiling of old console games to the PS5 being jailbroken. Anthropic's latest change arrives in the wake of multiple reports from game developers that their games and demos have been flagrantly copied wit
+
+### Red Barrels' co-founder is just as confused as we are as to why no one's tried to replicate Outlast's success: 'Honestly, I don't know'
+Sat, 31 Oct 2026 14:11:55 +0000 — https://www.pcgamer.com/games/horror/red-barrels-co-founder-is-just-as-confused-as-we-are-as-to-why-no-ones-tried-to-replicate-outlasts-success-honestly-i-dont-know/
+
+The Outlast series has been providing horror fans with some of the most grotesque and outrageous scenes for 13 years, and to over 50 million players. The most surprising thing about all of that, though, isn't how it's able to keep players terrified, it's that no one else has tried to capitalise on its success. Sure, there've been games which have had their fair share of gore involved, Resident Evil 7 , Harvester, or Agony are just a few that come to mind. But none of them have either managed to top the gore seen in Outlast and also achieve its continued success. (Image credit: Red Barrels) I decided that no one else would be better to ask about this strange phenomenon than Red Barrels' co-founder Philippe Morin, but he seems just as confused as I am that Outlast hasn't had any imitators: "Honestly, I don't know. Sometimes I ask myself the same thing, but I'm glad that we're still different from other games because it can be so hard. There's thousands games coming out on Steam every year. So that's a lot of other games people can decide to spend time with." But that doesn't mean the Red Barrels team doesn't get a scare every now and then. "Sometimes there's a game coming up, and we're like, 'alright, this one is probably gonna be the next Outlast'," Morin says. "But so far [nothing's come of them]. It's maybe a combination of different things. The fact that there is no combat or the gore [is lacking]." My working theory as to why no one has attempted to ride the coattails of O
+
+### I'm 100% here for a more grounded, realistic GTA 6, one I believe won't come at the expense of its usual haphazard chaos
+Sat, 31 Oct 2026 13:00:00 +0000 — https://www.pcgamer.com/games/grand-theft-auto/im-100-percent-here-for-a-more-grounded-realistic-gta-6-one-i-believe-wont-come-at-the-expense-of-its-usual-haphazard-chaos/
+
+Edge magazine unleashed a whopper of a 16-page feature all about Grand Theft Auto 6 earlier this week. After poring over every paragraph multiple times, one thing really stuck out to me: It feels like Rockstar is pushing for a more realistic, grounded experience. Those two words might sound like an absolute nightmare to some GTA aficionados. It's not like the series has never known how to be serious or gritty—see Grand Theft Auto 4—but it's always facilitated chaos with relative ease. Outlandish weapons, an easily gamed wanted system, NPCs that feel more like props to be mowed down than anything with a personality. If I wanted to hop in and wreak a little criminal havoc for a while, I wouldn't find much hardship in wriggling out of trouble as soon as I was bored. But it sounds like creating that sort of pandaemonium in GTA 6 is no longer as free as it once was. Police will remember what you looked like, if you were working alone or alongside an accomplice, and any weapon you were carrying. It'll use that information to fight back against the anarchy you orchestrate. It's not just police presence, either. Edge describes chaos as a third participant—no longer just your own, but the way the world reacts to your behaviour: would-be vigilante NPCs stepping in, carjackings going wrong thanks to modern tracking technology. (Image credit: Rockstar Games) And you know what? I'm completely here for it. Sure, we're perhaps losing a little bit of that all-out, sky-high criminal power fan
 
 ### AI-powered game development is 'leading to an explosion of content,' Roblox says, as it brags about 70,000 games published on its platform in the last 5 months alone
 Fri, 30 Oct 2026 20:39:57 +0000 — https://www.pcgamer.com/software/ai/ai-powered-game-development-is-leading-to-an-explosion-of-content-roblox-says-as-it-brags-about-70-000-games-published-on-its-platform-in-the-last-5-months-alone/
@@ -367,21 +357,6 @@ Fallout 4's overworld was always missing something that the other 3D wastelands 
 Fri, 30 Oct 2026 17:21:12 +0000 — https://www.pcgamer.com/games/horror/we-act-as-if-halloween-is-ours-the-best-way-to-spend-spooky-season-is-within-the-outlast-trials-sinyala-facility/
 
 I like to manifest Halloween year-round, what with my favourite pastimes being horror games, movies, and books—oh, and Dressmaker currently. So when Halloween actually falls upon me I like to make it something special—crack out the real horrifying stuff that'll hit even harder. One series that's always on my list is Outlast thanks to its next-level gore and perfect scares, plus if I want to drag my friends into a shared nightmare there's The Outlast Trials for all to enjoy. "Halloween has always been—even going back to the first Outlast—one of our biggest months, and it definitely kickstarts the biggest part of the year, which is October, November, and the holidays," Red Barrels co-founder Philippe Morin tells me. "Those are usually the best months of the year in terms of sales. We don't control what other studios do, obviously, but we act as if Halloween is ours." (Image credit: Red Barrels) This year Red Barrels decided to celebrate the spooky season with a huge sale to encourage new players to enter the Sinyala Facility and give The Outlast Trials a try over the spookiest month of the year. And it worked, way beyond what they'd hoped for: The game's concurrent player count on Steam ended up capping out at 147,955 players, a hugely impressive feat for a horror game that's over three years. "We knew with that 90% sale we'd get a lot of new players, but we didn't expect that many," Morin says. "That first week of October was pretty insane. Every day I was waking up checking t
-
-### Edifier G5 Max wireless gaming headset review
-Fri, 30 Oct 2026 17:06:25 +0000 — https://www.pcgamer.com/hardware/gaming-headsets/edifier-g5-max-review/
-
-In the world of wireless gaming headsets, there's one spec that draws me in like a moth to a flame: battery life. Particularly 100-hour+ battery life. Wireless cans have come a long way in the last decade, but plugging them in all the time is an annoyance. If I can get away with multiple days without messing around with a cable, I usually will. Which brings me to the Edifier G5 Max . Or the Edifier Hecate G5 Max, if you believe the writing on the box. It's got an astonishing "are you really sure" battery life spec of 305-hours, which meant I had to give it a look. And now I've got one in my hands, I can confirm the battery life is impressive. Only the original HyperX Cloud Alpha Wireless comes close. But the G5 Max, for its $150 / $160 price tag, isn't quite the full ticket in other departments. For one, it comes with a remarkably boxy default sound profile, so you'll want to do some EQ tweaking in the software to sweeten it up. That's usually no big deal—except the EQ presets are as blunt as a hammer, so you'll need to play around with the sliders yourself if you want to get the most out of it. The 53 mm composite drivers are actually fairly decent once they've been fiddled with, but this is a set that massively benefits from some user assistance. (Image credit: Future) And for two, it doesn't have "$150 gaming headset" characteristics. This is a very light set of cans, coming in at just 305 grams. Light is good, but shiny, tippy-tappy ear cup plastics are not. It also looks
-
-### Sam Altman argues that it's bad you want DRAM in your computer and not a data center, actually
-Fri, 30 Oct 2026 16:45:50 +0000 — https://www.pcgamer.com/software/ai/sam-altman-argues-that-its-bad-you-want-dram-in-your-computer-and-not-a-data-center-actually/
-
-More and more, AI appears to be the reason we can't have nice things on the internet. Beyond generative models gobbling up my own and my fellow creatives' work in a bid to produce abysmally average output, AI data centres are also devouring all of the available memory. This drives up prices and makes DRAM supply for us PC gamers pretty scarce . CEO of OpenAI Sam Altman argues this is truly for the best. Appearing on a recent episode of the Cheeky Pint podcast , Altman argued, "From a global allocation perspective, actually it’s quite terrible to have everyone have a bunch of the world’s limited supply of DRAM sitting in their own computer, and be used 5% of the time." Yes, that is steam escaping from my ears. But before I go full screaming tea kettle, let's take a beat. Altman is talking less about PC gamers specifically here, and more about solo AI bros craving compute power and "local inference". He's bemoaning an inefficiency within the AI industry rather than taking aim at us pesky gamers. He goes on to add, "You want maximum utilization in the cloud if you're trying to deal with this very supply constrained environment. And somehow everyone's... Many people's intuition is the opposite of that." It still feels a bit rich for Altman to complain about the memory scarcity OpenAI and ChatGPT helped create. I could also keyboard warrior my way through several paragraphs about how resource hungry the data centres he's arguing should enjoy DRAM priority are, not to mention how t
-
-### EA reportedly canned BioWare and Mass Effect 5 to make a new Star Wars: Battlefront instead
-Fri, 30 Oct 2026 16:43:23 +0000 — https://www.pcgamer.com/games/mass-effect/ea-reportedly-canned-bioware-and-mass-effect-5-to-make-a-new-star-wars-battlefront-instead/
-
-According to Bloomberg's sources, EA saw a new Battlefront game as a less risky investment than Mass Effect Universe. This final factor joined a host of well-discussed reasons for BioWare's unfortunate demise: Andromeda's critical reception, Anthem's live service failure, Veilguard's sales struggle ( pretty good game though ), friction between the studio and EA since the very beginning, and, of course, EA's recent Saudi-Kushner-Private Equity acquisition. One other added wrinkle: BioWare apparently lost its main ally at the top of the EA org chart. Entertainment and Central Development exec Laura Miele, who historically advocated for BioWare, was "sidelined" according to Bloomberg. EA sports execs David Tinson and Cam Weber were promoted instead. The age of nerds has ended, now begins the long night of the jock. Overall, this new information doesn't radically reframe BioWare's overall story at EA, one of slow decline and mismanagement, or how most observers will interpret it through a culture war lens⁠. Was BioWare too woke? Not woke enough? For the love of god keep it out of our comments section. But now we know why the knife was finally driven home, for what it's worth. And I guess we can anticipate a new Battlefront game some time at the tail end of the 2030s. Woohoo. For more on the closure of BioWare, PCG lead SEO editor Lauren Morton spoke to 16 developers who were inspired to join the industry because of the studio about what BioWare meant to them. 2026 games : All the
 
 ## GameSpot
 
@@ -447,6 +422,11 @@ What's next for the Assassin's Creed franchise? Following the successful launch 
 
 ## Rock Paper Shotgun
 
+### Horror-steeped card game Forbidden Solitaire shows how a strong theme can elevate even decade-old mechanics
+Sat, 31 Oct 2026 12:00:00 +0000 — https://www.rockpapershotgun.com/horror-steeped-card-game-forbidden-solitaire-shows-how-a-strong-theme-can-elevate-even-decade-old-mechanics
+
+Like a tag team of oiled snakes that have entered a wrestling contest, theme is a difficult quality to pin down. A game can be well designed, but if it lacks a coherence between those mechanics and its appearance, narrative, and its framing, there is a dissonance that can be hard to ignore. I realise I've just stepped into an old argument by using the word 'dissonance' , but Hocking was right, games that don't cohere can be jarring. A developer may desire that sensation of discomfort, but often it is accidental and unwanted. (Much like opening an article with a simile about wrestling snakes when there is nothing connecting that image to a game about solitaire. It might be a good line, but it doesn't smoothly connect with the rest of the article to elevate its argument.) Anyway, what does this all have to do with Forbidden Solitaire , a game in which you're delving deeper into a dungeon filled with horrors, progressing by clearing screens of cards? Well, it's an excellent example of how well-handled theming can raise a game into something more than its parts. Read more
+
 ### What are we all playing this weekend?
 Sat, 31 Oct 2026 09:45:21 +0000 — https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-406
 
@@ -501,9 +481,4 @@ The opening act of a Baldur's Gate 3 custom campaign mod which injects an advent
 Thu, 29 Oct 2026 22:53:00 +0000 — https://www.rockpapershotgun.com/mouthwashing-is-getting-a-feature-film-adaptation-from-sony-and-i-need-all-of-you-to-be-normal-about-it-whenever-it-comes-out
 
 I quite liked that there video game Mouthwashing . It had a lot to say about how corporations take advantage of their workers, it played around with character perspective to let you in on certain narrative threads and withhold others until they're taut enough to snap, and was short enough so that its misery didn't outstay its welcome. What I wasn't so fond of was much of the fandom response that came afterwards, which is why I am quite scared to say that it's getting a movie from Sony. Read more
-
-### Phantom Blade Zero kicks off its launch with a day one patch that offers improvements to ray tracing and some bug fixes to boot
-Thu, 29 Oct 2026 21:27:20 +0000 — https://www.rockpapershotgun.com/phantom-blade-zero-kicks-off-its-launch-with-a-day-one-patch-that-offers-improvements-to-ray-tracing-and-some-bug-fixes-to-boot
-
-If you've been hankering for some video gamey wuxia shenanigans, today seems like a good day for it, given that Phantom Blade Zero has now been released unto the world ( with a 145GB install size that's technically actually 300GB but only for a bit ). And like many big games before it, it comes not quite finished, as a day one patch attends to some of the action game's issues&hellip; I think, anyway, there's been a promise of a day one patch but no clear indicator if it's actually arrived or not. I don't own it either, so I can't check. At least I can tell you what's in it! Read more
 

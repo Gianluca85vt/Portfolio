@@ -1,6 +1,21 @@
-# Film & TV — harvested 2026-10-31T10:36:10.981Z
+# Film & TV — harvested 2026-10-31T15:52:15.622Z
 
 ## Variety
+
+### Box Office: ‘You Can See Everything’ Fends Off ‘Clayface’ for Top Spot on Friday with $3.56 Million
+Sat, 31 Oct 2026 15:49:12 +0000 — https://variety.com/2026/film/box-office/box-office-you-can-see-everything-clayface-1236936071/
+
+A24’s “You Can See Everything” narrowly beat Warner Bros. and DC’s “Clayface” at the Friday box office, cementing its status as the must-watch documentary — or film, for that matter — of the moment. The buzzy Elizabeth Holmes doc generated $3.56 million on its third Friday from an expanded 3,243 North American theaters and should [ ]
+
+### ‘Ah Girl’ Wins Best Film at Singapore’s Silver Screen Awards as Shahrbanoo Sadat Takes Director Prize
+Sat, 31 Oct 2026 15:00:00 +0000 — https://variety.com/2026/film/festivals/ah-girl-top-prize-singapore-film-festival-1236935983/
+
+Singaporean filmmaker Ang Geck Geck Priscilla’s debut feature “Ah Girl” won best film in the Asian Feature Film Competition at the Singapore International Film Festival’s Silver Screen Awards on Saturday. The film follows a seven-year-old girl in 1990s Singapore whose parents have separated. Ang workshopped the project at the festival’s Southeast Asian Film Lab back [ ]
+
+### Canelo Alvarez vs. Christian M billi on DAZN: Here’s How to Watch the WBC Title Boxing Match Live Online
+Sat, 31 Oct 2026 14:00:00 +0000 — https://variety.com/2026/shopping/news/how-to-watch-alvarez-vs-mbilli-dazn-ppv-boxing-live-online-1236931984/
+
+In a title fight, Mexican boxer Canelo Alvarez defends his WBC super middleweight title belts against Cameroonian French-Canadian fighter Christian M billi in a scheduled for 12 rounds of boxing on DAZN. On Saturday, Oct. 31, Alvarez (63-3-2) vs. M billi (29-0-1) takes place at ANB Arena (formerly The Venue) in Riyadh, Saudi Arabia with a start [ ]
 
 ### Sanjay Gupta, Indian Director of Kaante and Zinda, Dies at 59
 Sat, 31 Oct 2026 09:33:22 +0000 — https://variety.com/2026/film/obituaries-people-news/sanjay-gupta-dead-kaante-zinda-1236935973/
@@ -37,22 +52,17 @@ Sat, 31 Oct 2026 04:38:17 +0000 — https://variety.com/2026/film/festivals/kean
 
 Keanu Reeves joined Japanese stop-motion feature “Hidari” after watching the project’s pilot film, with his team getting back to the filmmakers about a week after the screening was arranged to set up a Zoom call, director Kawamura Masashi said at the Tokyo International Film Festival, where he also updated the film’s fundraising push. Kawamura, who [ ]
 
-### Georgia’s ‘Guria’ Wins Best Film at Asia Pacific Screen Awards as Thailand s Sompot Chidgasornpongse Takes Director Prize
-Sat, 31 Oct 2026 04:25:38 +0000 — https://variety.com/2026/film/awards/georgia-guria-best-film-asia-pacific-screen-awards-1236935931/
-
-Georgian filmmaker Levan Koguashvili’s “Guria” was named best film at the 19th Asia Pacific Screen Awards, handed out Oct. 30 at The Star Gold Coast in Queensland, Australia. Koguashvili shared the prize with fellow producers Olena Yershova and Boris Frumin. The film was made across seven countries: Georgia, Switzerland, Luxembourg, Bulgaria, Türkiye, Norway and Saudi [ ]
-
-### Ranbir Kapoor, Yash Light Up Gold House’s Diwali Event as Group Launches South Asian Shorts Fund
-Sat, 31 Oct 2026 04:09:21 +0000 — https://variety.com/2026/film/news/ranbir-kapoor-yash-gold-house-diwali-event-1236935927/
-
-Ranbir Kapoor and Yash, stars of the epic adaptation “Ramayana: Rise of a Legend,” opened Gold House’s largest Gold Diwali to date at The Majestic Downtown in Los Angeles, alongside filmmakers Nitesh Tiwari and Namit Malhotra, a week before the film’s release. Gold House, which works to back and celebrate the Asian Pacific community, staged [ ]
-
-### Bill Maher Fact-Checks Kid Rock After He Compares Abdul El-Sayed to 9/11 Hijackers on ‘Real Time’
-Sat, 31 Oct 2026 03:13:17 +0000 — https://variety.com/2026/tv/news/kid-rock-abdul-el-sayed-9-11-hijackers-real-time-bill-maher-1236935914/
-
-Bill Maher opened his new episode of “Real Time” Friday night by addressing Trump’s 1,300-word social media tirade against him following their White House dinner earlier this month, with the comic comparing the president to Taylor Swift. Following a sit-down interview with Republican Senator Ted Cruz, who was busy hawking his new book on Supreme [ ]
-
 ## The Hollywood Reporter
+
+### Where to Watch Georgia vs. Florida Football Game Online
+Sat, 31 Oct 2026 15:30:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/watch-florida-georgia-game-free-college-football-streams-2026-1236743879/
+
+One of the biggest rivalries in college football history is playing out this Halloween in Atlanta, Georgia.
+
+### Canelo vs. Mbilli Livestream: Where to Watch the Fight Online
+Sat, 31 Oct 2026 12:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/watch-canelo-vs-mbilli-fight-dazn-pay-per-view-boxing-2026-1236743971/
+
+Canelo Alvarez returns to face WBC super middleweight champion Christian Mbilli on Saturday, Oct. 31 in Riyadh, Saudi Arabia.
 
 ### Macklemore Wraps Up Free Palestine Tour in London: It Was More Uncomfortable for Me to Stay Silent
 Sat, 31 Oct 2026 10:13:19 +0000 — https://www.hollywoodreporter.com/music/music-news/macklemore-free-palestine-tour-london-concert-ed-sheeran-1236743566/
@@ -94,17 +104,22 @@ Sat, 31 Oct 2026 00:36:53 +0000 — https://www.hollywoodreporter.com/movies/mov
 
 In Qiu Jiongjiong's latest, highly stylized sets and costumes contribute to a strange banquet of storytelling where food plays a key role.
 
-### Selma Blair Apologizes for Plane Arrest: Not One Day Have I Intended to Hurt or Frighten Anyone
-Sat, 31 Oct 2026 00:26:05 +0000 — https://www.hollywoodreporter.com/news/general-news/selma-blair-apologizes-plane-arrest-not-intended-hurt-anyone-1236744004/
-
-The actress was arrested at John F. Kennedy International Airport on Oct. 11 after an alleged incident on a Delta plane that resulted in two flight attendants being injured and one being sent to the hospital.
-
-### The Celebrity Traitors Season 2 Crowns Its Winners After Dramatic Finale
-Sat, 31 Oct 2026 00:14:32 +0000 — https://www.hollywoodreporter.com/tv/tv-news/celebrity-traitors-season-2-winners-bbc-1236743967/
-
-The BBC reality series, hosted by Claudia Winkleman, wrapped its second installment Friday.
-
 ## Deadline
+
+### Indian Filmmaker Sanjay Gupta Dies: Kaante Director Was 57
+Sat, 31 Oct 2026 15:17:13 +0000 — https://deadline.com/2026/10/sanjay-gupta-dead-1237210607/
+
+Sanjay Gupta, the Indian director best known for the crime drama films Kaante and Shootout at Lokhandwala, died Friday, October 30, after a fall at his home in Mumbai. He was 57 (though some sources put his age at 59). His death was confirmed by friend and fellow director Milap Zaveri to the Press Trust [ ]
+
+### Emmy-Winning Comedian Alex Edelman Says Loss Of Kennedy Center Is No Joke
+Sat, 31 Oct 2026 14:03:25 +0000 — https://deadline.com/2026/10/alex-edelman-kennedy-center-1237210602/
+
+Alex Edelman, the comedian and actor who won an Emmy for his 2024 HBO/Max special Just For Us and a special Tony for the original Broadway staging, laments what is effectively the loss to comics of a newly politicized Kennedy Center. For me and the performers I know, it doesn’t make sense to play the [ ]
+
+### What To Watch For As Networks Cover Midterm Election Night: More Data, More Coverage More Competition
+Sat, 31 Oct 2026 14:00:04 +0000 — https://deadline.com/2026/10/midterms-news-networks-coverage-2026-1237207099/
+
+Networks are preparing for their most important night of the year, an Election Night next week that will feature more data, more bells and whistles and, perhaps most important, just more coverage than any recent midterm cycle. The robust plans across the linear landscape come as a blizzard of creators, podcasters and pundits on YouTube [ ]
 
 ### Dubai-Based Director Faisal Hashmi Launches Spine Drop Pictures Inaugural Horror Slate
 Sat, 31 Oct 2026 10:35:47 +0000 — https://deadline.com/2026/10/dubai-faisal-hashmi-spine-drop-pictures-horror-slate-1237210593/
@@ -151,21 +166,6 @@ Sat, 31 Oct 2026 00:19:28 +0000 — https://deadline.com/2026/10/eric-bauza-the-
 
 Eric Bauza had more than 400 acting credits, voicing dozens of Looney characters such as Bugs Bunny, Daffy Duck, Tweety, Foghorn Leghorn, Pepé Le Pew, Porky Pig, Road Runner, Elmer Fudd and Marvin the Martian and many more prior to his unexpected death on October 25 at the age of 46. But one iconic animated [ ]
 
-### List Of Hollywood Media Layoffs From Paramount To Warner Bros Discovery To CNN More
-Fri, 30 Oct 2026 23:30:04 +0000 — https://deadline.com/feature/hollywood-media-layoffs-list-1236007845/
-
-Media layoffs across the entertainment industry are hitting hard after an avalanche of job cuts dating back to mid-2024. The unfortunate trend can still be felt following the Covid-19 pandemic, dual Hollywood strikes and — the latest event to hit Los Angeles hard: a series of wildfires that broke out in January 2025. As the [ ]
-
-### Martin Scorsese Explains How Seth Rogen Ruined His Cleopatra Film: Kim Jong Un Doesn t Have A Sense Of Humor
-Fri, 30 Oct 2026 22:32:04 +0000 — https://deadline.com/2026/10/martin-scorsese-seth-rogen-ruined-cleopatra-film-1237210059/
-
-More than a decade after the Sony hack shook Hollywood, Martin Scorsese is still reeling from the fallout of the North Korean state-sponsored digital attack. The Oscar-winning director recalled how the wide-reaching hack, which was a response to Seth Rogen s 2014 film The Interview, ruined everything for Scorsese s planned Cleopatra feature, which would have starred [ ]
-
-### Clayface In Brawl With Elizabeth Holmes Nathan Fielder At Halloween Box Office: Both Pics Eyeing $10M+ Each
-Fri, 30 Oct 2026 22:06:00 +0000 — https://deadline.com/2026/10/box-office-you-can-see-everything-clayface-halloween-1237209579/
-
-FRIDAY PM UPDATE: Halloween s trick on the weekend domestic box office is currently seeing a fight between A24 s You Can See Everything and Warner Bros/DC s Clayface with $10M+ apiece, though the odds are in favor the incarcerated failed Theranos founder versus a Gotham celebrity whose face melts. You Can See Everything is counting $3.2M today [ ]
-
 ## befores & afters
 
 ### The making of *that* shot in Contact
@@ -184,6 +184,11 @@ Thu, 29 Oct 2026 20:45:10 +0000 — https://beforesandafters.com/2026/10/30/cale
 Director Travis Knight chats to his cinematographer. The post Caleb Deschanel interview on Wildwood appeared first on befores & afters .
 
 ## IndieWire
+
+### What Genre Will Be Hollywood s Next Big Trend? Watch IndieWire s Pitch Me Panelists Weigh in
+Sat, 31 Oct 2026 15:00:00 +0000 — https://www.indiewire.com/news/events/watch-pitch-me-panel-indiewire-future-of-filmmaking-summit-1235224892/
+
+At IndieWire's Future of Filmmaking Summit, a panel of executives and representatives explain how they look for breakout hits.
 
 ### Watch the Rehearsals for a Revolution Director and Editor Explain How Memories Can Help Fight Authoritarianism
 Fri, 30 Oct 2026 21:14:42 +0000 — https://www.indiewire.com/news/events/watch-rehearsals-for-a-revolution-director-art-of-the-doc-1235224797/
@@ -240,12 +245,17 @@ Thu, 29 Oct 2026 19:53:17 +0000 — https://www.indiewire.com/news/obituary/patr
 
 The English actor cut his teeth in the Royal Shakespeare Company before playing several of the most memorable sci-fi characters in Hollywood history.
 
-### Curry Barker Drops Surprise New Short Film Mama Bear — Watch
-Thu, 29 Oct 2026 18:30:00 +0000 — https://www.indiewire.com/news/general-news/curry-barker-directs-new-short-film-mama-bear-watch-1235224619/
-
-The five-minute film, which Barker wrote, directed, and edited, was released on his That's a Bad Idea YouTube channel.
-
 ## The Wrap
+
+### Trump Continues to Insult Reuters Reporter Over His Weight: One of the Worst
+Sat, 31 Oct 2026 15:37:18 +0000 — https://www.thewrap.com/culture-lifestyle/culture/trump-body-shames-reuters-reporter-jacob-bogage-weight/
+
+President Donald Trump continued to mock Reuters White House correspondent Jacob Bogage over his weight on Saturday, two days after first insulting the reporter in front of his fellow journalists. Reuters (One of the Worst!) Reporter, Trump wrote on Truth Social atop a picture of Bogage to start the weekend, along with the text: Put yourself in shape, you look like hell! That quote is, of course, in Trump s own words following their exchange in front of Air Force One on Thursday. After Bogage initially questioned if Trump was cancelling his Kansas campaign stop because he was sick of traveling ahead of the midterm elections, the president declared the outlet was “terrible” and that the reporter was “a sick guy.” “Can you imagine — look at this dope, look at this guy, he’s way out of shape,” Trump responded. “Look at how badly He comes to me, ‘Sir, you’re not going to go to Kansas.’ I’m not going to go to Kansas because he’s doing very well.” “Tomorrow, I’m doing Florida … He says, ‘What’s the reason for this, sir? That you’re not going to Kansas?’ You know what the reason is? I don’t feel I have to go to Kansas,” he continued. “I’m going to Florida tomorrow, and I’ll do — if something else comes up — but he said, ‘You’re not going to Kansas, sir, are you feeling well?’ You’ve been following me for two weeks. I feel perfect. You are disgusting. Put yourself in shape, you look like hell.” Trump’s Rapid Response team then celebrated his jabs at Bogage on X, insisting the preside
+
+### Clayface, You Can See Everything in Tight Box Office Race on Halloween
+Sat, 31 Oct 2026 15:31:03 +0000 — https://www.thewrap.com/creative-content/movies/clayface-you-can-see-everything-halloween-box-office/
+
+A24 s You Can See Everything and Warner Bros./DC Studios Clayface are in a narrow race for the No. 1 spot at the box office as new releases go on pause for Halloween weekend. Currently, You Can See Everything, which sat in the No. 2 spot for its first two weekends, narrowly holds No. 1 for the first time with an industry estimated $10.6 million. But Clayface is just behind with $10.2 million, which marks a 57% drop from its opening weekend. You Can See Everything is dropping 43% from its $19.5 million second weekend, bringing its domestic total to approximately $63 million. That will make the A24 doc the second highest grossing film of October behind only Amazon MGM s Verity, keeping the box office out of a slump as films like Street Fighter and Other Mommy have faltered. Clayface, meanwhile, has a 10-day total of $44 million as it heads for modest theatrical success. It will not clear the low bar of $241 million to pass Wuthering Heights as Warner s highest grossing film of 2026 to date, but with a reported budget of just $40 million, it will be more profitable than the majority of the studio s releases in its final year as a standalone studio. Fathom/Laika s Wildwood is in third with an estimated $6.8 second weekend, bringing its 10-day total to approximately $25 million and just ahead of the $23.6 million 10-day total of DreamWorks acclaimed but poorly performing Forgotten Island. Black Bear s Wicker is holding well with $4.1 million in its second weekend, proving itself t
 
 ### It: Welcome to Derry Drops Surprise Episode on HBO Max
 Sat, 31 Oct 2026 07:00:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/it-welcome-to-derry-surprise-episode-hbo-max-halloween/
@@ -287,65 +297,55 @@ Sat, 31 Oct 2026 00:41:53 +0000 — https://www.thewrap.com/industry-news/public
 
 Selma Blair apologized on Friday for the Oct. 11 plane incident where she allegedly injured a flight attendant and nurse after being forcibly removed from a plane, saying in an Instagram video that she is so sorry. Following the incident at John F. Kennedy Airport, Blair was hospitalized and later charged with second-degree assault. She posted a $20,000 bail after appearing in Queens Criminal Court the following Monday, according to AP News . “What I can tell you, though, is very simple, and the truest thing I know about myself, and that not one day ever have I intended to hurt or frighten anyone a day in my life,” the Legally Blonde actress said in a Friday Instagram video . “And so to the people that I disappointed, that I hurt, I frightened, alarmed: I am so sorry.” View this post on Instagram A post shared by Selma Blair (@selmablair) Her reps initially issued a statement following her arrest saying that the public account was built almost entirely on a police statement and a decade-old headline.” “A handful of journalists have taken the time to report on Selma as a human being rather than a headline, and we are grateful to them, the statement said at the time. But fair reporting has been the exception, and in the space left by our silence, speculation has hardened into something being treated as fact. We can, however, correct the record on a few points already in public circulation. Selma Blair experienced a medical emergency on the flight. There was no attempt to open t
 
-### Ana Navarro Compares Trump’s ‘Racism’ Against Abdul El-Sayed to John McCain vs. Obama
-Fri, 30 Oct 2026 23:18:16 +0000 — https://www.thewrap.com/media-platforms/politics/ana-navarro-compares-trumps-racism-abdul-el-sayed-to-john-mccain-obama/
-
-Ana Navarro went on her podcast Friday to call out the racism and Islamophobia faced by Abdul El-Sayed in the Michigan Senate race. The political pundit said the commentary surrounding El-Sayed reminded her of another key political race: Barack Obama vs. John McCain. The big deal here is that Abdul El-Sayed is a muslim, and Republicans from the top down, starting with Trump on down, have attacked him for being a muslim, Navarro said on BLEEP! with Ana Navarro. They ve done an entire grift on his name, called him Mohammed, called him this, called him that. They ve said he s a jihadist. They ve called him a terrorist. They say that he s going to require going through a metal detector in order to enter the Senate. They ve tied him to the Muslim Brotherhood. They ve said he s dangerous. Navarro compared the commentary from Trump and his colleagues to a town hall at which a woman told John McCain she couldn t trust Obama, calling him an Arab. McCain then defended his opponent, calling him a decent family man and saying that people didn t have to fear him as a prospective president. You see, that is the right thing to do, Navarro said. But instead of doing that, Mike Rogers in Michigan, Republican running for the Senate, has allowed this to happen. And I can t tell you how disappointed I am. Navarro went on to say that she knew Rogers during an overlap in their tenures at CNN. At the time, she believed Rogers to be a guy with a moral compass, but said that watching him allow these 
-
-### ‘Daily Show’ Roasts Billionaire Tom Steyer as ‘Self-Hating Minority’ for Supporting California Wealth Tax
-Fri, 30 Oct 2026 23:12:16 +0000 — https://www.thewrap.com/creative-content/tv-shows/daily-show-roasts-billionaire-tom-steyer-wealth-tax/
-
-Despite The Daily Show host Michael Kosta s repeated attempts to sway his stance, Tom Steyer stood his ground as a self-hating minority billionaire in support of Prop 40. Kosta ventured to California in a recent segment of the satirical show Comedy Central show to spotlight the effort to tax billionaires 5% in the state. He interviewed one non-billionaire who plans marches in support of the the uber wealthy, and former gubernatorial candidate and billionaire himself Steyer, who has a distaste for billionaires. Proposition 40 is on the ballot in California this midterm election. If passed, the one-time tax would force the billionaire class in the Golden State to pay a 5% wealth tax. Where are you planning to move once California passes this 5% wealth tax? Kosta asked, citing other billionaires fleeing the state like Elon Musk. I think I ll move to San Francisco, California, Steyer said. No! You re going to be taxed in California, 5%. You re a billionaire. That s a s tload of money, Kosta replied. I have never contemplated the idea of moving, he said. I love California. I love where I live. We should be taxing the richest people in this society, specifically billionaires. Steyer has been a staunch supporter of the proposition, advocating for the measure when he was campaigning to be governor of the state earlier this year. The idea that somebody made the money on their own, without society making that possible is insanely selfish and delusional, Steyer said. We shouldn t have a
-
 ## Collider
 
-### One of the Best Horror Movies of the Decade Is Officially Streaming Free Just in Time for Halloween
-Sat, 31 Oct 2026 10:30:12 GMT — https://collider.com/late-night-with-the-devil-streaming-free-tubi-october-2026/
+### Ridley Scott’s $100M Sci-Fi Dud Officially Redeems Itself on Streaming
+Sat, 31 Oct 2026 15:30:12 GMT — https://collider.com/ridley-scott-the-dog-stars-streaming-success-prime-video-apple-tv-october-2026/
 
-David Dastmalchian should get to lead more horror movies. He has been a welcome presence in the genre for years, but Late Night with the Devil gave him a role that makes full use of how unsettling he can be. As television host Jack Delroy, he has to keep an audience entertained while the worst night of his life unfolds on camera . Jack would probably appreciate it if everyone watching could at least help his ratings.
+20th Century Studios clearly overestimated the theatrical potential of Ridley Scott 's latest film, his long-awaited return to the sci-fi genre. The movie drastically underperformed at the box office, emerging as one of Scott's biggest bombs. The legendary filmmaker will hope that it finds an audience at home, and early signs are positive. The movie debuted on the PVOD market this past week and instantly emerged as one of the most popular titles domestically. Starring Jacob Elordi and Margaret Qualley , among others, the film was produced on a reported budget of around $100 million. Scott has delivered several hits in this budget range, including his highest-grossing hit, The Martian .
 
-### The 10 Best Video Games Based on Movies, Ranked
-Sat, 31 Oct 2026 10:08:12 GMT — https://collider.com/best-video-games-based-on-movies-ranked/
+### One of Anne Hathaway’s Best Performances Is Only 30 Minutes Long
+Sat, 31 Oct 2026 15:23:12 GMT — https://collider.com/anne-hathaway-best-performance-modern-love-prime-video/
 
-For decades, movie tie-in games were the joke of the gaming industry. Since E.T. became the symbol of the US video game market crash of 1983, the bad reputation of movie tie-in video games was set in stone. They were usually rushed out to hit a release date, built on a shoestring budget, and forgotten before the film left theaters. But a handful of licensed games broke the curse, and the best video games based on movies often succeeded by refusing to simply replay the film and call it a day.
+Anne Hathaway knows what it takes to play a romantic lead. From a clever writer in love with her best friend in One Day to a 40-year-old single mom falling for a young musician in The Idea of You , the actress has charisma to spare and successfully captivates audiences with film after film. When looking back at some of Hathaway's most notable performances within the romance genre, it's impossible to discount her shortest TV role to date .
 
-### Goodbye 'X-Men,' Patrick Stewart's Netflix Thriller Is Even Better
-Sat, 31 Oct 2026 10:03:12 GMT — https://collider.com/patrick-stewart-green-room-x-men-streaming-netflix-november-2026/
+### Netflix’s New ‘Severance’ Replacement Is Officially Taking Over the World
+Sat, 31 Oct 2026 15:00:12 GMT — https://collider.com/netflix-dead-end-job-streaming-success-october-2026/
 
-The death of Sir Patrick Stewart on October 29 released waves of grief among audiences across the world. Stewart passed after a brief battle with Alzheimer's disease and Lewy body dementia at age 86, according to his family. An icon on the stage and the screen, Stewart made a particularly seismic impact on sci-fi entertainment, bringing his Shakespearean training and natural authority to bear in roles that could have been made silly — from the X-Men series to David Lynch 's Dune and, of course, as Capt. Picard on Star Trek: The Next Generation and the films that followed.
+Hot off the success of Doctor X: Mafia in White , Netflix has a major new South Korean series making a mark on its global charts. The eight-part fantasy mystery series debuted on the platform on October 30 with huge shoes to fill. Netflix has found tremendous success in the Korean market, with several shows having crossed over worldwide. In fact, Doctor X has spent three weeks in the top-10 leaderboard, which is often dominated by Korean titles. The three seasons of Squid Game remain Netflix's most-watched non-English series of all time, with the first season perched at the number-one spot, having amassed 265 million views in the first three months of release in 2021. The streamer's latest hit not only has thematic overlaps with Squid Game , but also with the blockbuster Apple TV series Severance .
 
-### Anya Taylor-Joy's R-Rated 'Vikings' Replacement Officially Conquers Streaming
-Sat, 31 Oct 2026 10:00:12 GMT — https://collider.com/anya-taylor-joy-the-northman-streaming-success-prime-video-apple-tv-october-2026/
+### Anne Hathaway’s New Thriller Is Officially a Streaming Sensation After Losing 1,700 Theaters
+Sat, 31 Oct 2026 14:15:12 GMT — https://collider.com/anne-hathaway-verity-streaming-success-apple-tv-prime-video-october-2026/
 
-Few stars have had as much to do this year as Anya Taylor-Joy , who has headlined some of the biggest movies in theaters as well as some of the most-watched TV shows on streaming. For her opening act in 2026, Taylor-Joy reprised her role as Princess Peach in The Super Mario Galaxy Movie , which was the first feature film of 2026 to hit $1 billion at the global box office. She then returned to Apple TV to star in one of the best crime thriller shows of the year, Lucky , alongside Timothy Olyphant — part of what made ATJ’s return to Apple TV so exciting is that she previously starred in The Gorge for the platform. She’ll finish the year by headlining Dune: Part Three alongside Timothée Chalamet , but she can also be seen starring opposite Chris Evans in Sacrifice on Netflix.
+After a tight one-month theatrical window, Amazon MGM has debuted its new thriller on the PVOD market. Starring Anne Hathaway , the movie emerged as a box-office hit, but not nearly as big as this year's other Amazon blockbuster Project Hail Mary . That sci-fi sensation was given an extended theatrical window because of its spectacular performance — this is a luxury that wasn't afforded to Hathaway's new release. The movie was expected to follow in the footsteps of two blockbusters, It Ends with Us and The Housemaid , which grossed $350 million and $400 million worldwide, respectively. Now that the new film is available at home, Amazon pulled it from hundreds more theaters nationwide.
 
-### The MCU's Best Action Thriller Is the Perfect James Bond Replacement
-Sat, 31 Oct 2026 09:57:12 GMT — https://collider.com/captain-america-the-winter-soldier-best-mcu-action-spy-thriller/
+### 2026’s Best Survival Horror Movie Officially Removed From 1,700 Theaters
+Sat, 31 Oct 2026 13:30:12 GMT — https://collider.com/zach-cregger-resident-evil-removed-from-1700-theaters-box-office-385-million/
 
-Nearly 20 years after Iron Man rocketed into theaters, the Marvel Cinematic Universe continues to flourish. Part of that is because the franchise is a constant; despite its ups and downs, people expected at least one Marvel movie in theaters each year. Another major ingredient in Marvel's recipe for success is that each movie feels like it's in a different genre, while still having a superhero at the helm . The Guardians of the Galaxy trilogy is a punk-rock space opera. Black Panther brings Shakespearean weight to the table. One of the MCU's best movies delivers the kind of action thriller that matches the James Bond movies , or in some cases exceeds them.
+One of the best-reviewed wide releases of the year is nearing the end of its record-breaking box-office run. The movie is on the verge of passing what could be its final global box-office milestone, which could prove to be difficult because of a new obstacle. The movie has successfully fended off competition for several weeks, but it has also gradually lost a significant chunk of its theater count. As it enters its seventh week in theaters, the film finds itself playing in 200 fewer theaters than in its sixth week. Starring Austin Abrams in the lead role, the film was directed by Zach Cregger , who has completed a hat trick for the ages.
 
-### 13 Years Later, Michael B. Jordan's Career-Best Performance Is Officially Free to Stream
-Sat, 31 Oct 2026 09:40:11 GMT — https://collider.com/michael-b-jordan-fruitvale-station-streaming-plex-november-2026/
+### Netflix’s 2-Season Fantasy Series Is So Good, You’ll Finish It in One Sitting
+Sat, 31 Oct 2026 13:23:12 GMT — https://collider.com/netflix-best-fantasy-series-shadow-and-bone/
 
-As the race for next year's Academy Awards gains momentum, there's one film that is the favorite to sweep up. Christopher Nolan 's historical epic The Odyssey , which stars Matt Damon as the King of Ithaca, is likely to take home several Golden Statues come the 99th Oscars ceremony. But many are even predicting it will make Academy Awards history by earning the most nominations ever. This very record was only broken earlier this year, as Ryan Coogler ’s beloved vampire flick Sinners earned an eye-watering 16 nominations.
+With so many shows available, it can be hard to find the right one, but one Netflix fantasy series is the perfect binge-watch. A product of the recent boom in fantasy TV , 2021's Shadow and Bone is adapted from Leigh Bardugo 's book of the same name and other stories set in the same world. The only downside of Shadow and Bone is that it ended too soon , just when the show was heading towards some of the book series' best stories.
 
-### Brad Pitt's Gritty War Thriller With Jon Bernthal Is Officially a Global Streaming Smash
-Sat, 31 Oct 2026 09:20:12 GMT — https://collider.com/brad-pitt-jon-bernthal-ww2-fury-streaming-netflix-november-2026/
+### 'Calvin and Hobbes' Greatest Story Is Still a Masterpiece Almost 40 Years Later
+Sat, 31 Oct 2026 12:53:12 GMT — https://collider.com/calvin-and-hobbes-best-story-grief-raccoon-comic-strip-masterpiece/
 
-With the recently released survival thriller Heart of the Beast having exceeded box-office expectations, director David Ayer ’s previous collaboration with star Brad Pitt has been added to the Netflix library. Ayer and Pitt worked together on a fan-favorite 2014 hit, which remains the benchmark of success for Heart of the Beast . The new survival thriller has grossed more than $170 million at the global box office so far, against a reported budget of $80 million. It’s still trailing the 2014 movie by around $40 million. Like that film, Heart of the Beast has received exceptionally positive reactions from audiences.
+Calvin and Hobbes is a comic that's full of surprises. At first glance, it just seems like a story about a six-year-old and his talking stuffed tiger. Over time, Bill Watterson introduced all manner of elements, from mind-bending science fiction to stories that blurred the line between fantasy and reality. This approach helped Calvin and Hobbes stand out from other comic strip staples like Peanuts and Family Circus , but it also let Watterson deliver an emotional gut punch when fans least expected it . One such case came in a series of Calvin and Hobbes strips that were released in 1987.
 
-### Two ‘Slow Horses’ Stars Officially Reunite in an Oscar-Winning WWII Epic on Prime Video
-Sat, 31 Oct 2026 09:00:12 GMT — https://collider.com/gary-oldman-ww2-darkest-hour-streaming-prime-video-november-2026/
+### ‘Lanterns’ Star’s 5-Part Masterpiece Officially Returns to Streaming Charts
+Sat, 31 Oct 2026 12:45:12 GMT — https://collider.com/kyle-chandler-friday-night-lights-streaming-success-october-2026/
 
-An Oscar-winning companion piece to Christopher Nolan ’s Dunkirk , coincidentally released in the same year and starring Nolan’s recurring collaborator, has been added to the Prime Video library. While Dunkirk tells the story from the front lines of World War II , the companion piece unfolds almost entirely inside dimly lit hallways and corridors of power. The movie, directed by Joe Wright , also serves as something of a companion piece to Wright’s own television series Mussolini: Son of the Century , which was released in 2025.
+2026 has been the year of Kyle Chandler so far, and all the hype can be traced back to his role as Hal Jordan in the hit HBO series, Lanterns . Chandler was tapped to play the legendary Green Lantern hero opposite Aaron Pierre , who stars as Hal Jordan, but a twist in the early episodes has left Chandler’s future as Hal Jordan up in the air. Lanterns has also not officially been renewed for Season 2 yet, but after the show earned record-breaking viewership throughout its first season, it would be surprising if DC didn’t find a way to continue the story , even if Chandler’s Hal Jordan doesn’t come back. Pierre is confirmed to reprise his role as John Stewart in Man of Tomorrow next year, but Chandler is not expected to appear in the film.
 
-### Apple TV's 'True Detective' Reunion Is Officially a Major Streaming Hit
-Sat, 31 Oct 2026 08:40:12 GMT — https://collider.com/apple-tv-brothers-streaming-success-30-days-october-2026/
+### Ridley Scott's Last Historical Epic With Russell Crowe Officially Hits Prime Video
+Sat, 31 Oct 2026 12:30:12 GMT — https://collider.com/ridley-scott-russell-crowe-robin-hood-streaming-prime-video-november-2026/
 
-Apple TV may not have as many subscribers as some of its counterparts in the streaming game like Netflix or Prime Video, but the platform is unrivaled when it comes to delivering prestige hits on a regular basis. Apple TV has particularly shined in the last few years in the sci-fi genre , and while it made a name for itself with hits like Severance , other shows such as Pluribus have since taken the streaming crown as some of the most popular series in the world. Apple TV also has more grounded dramas like Ted Lasso to fall back on, but with the fate of the show still hanging in the balance, the streamer is ready to introduce Season 2 of Stick (starring Owen Wilson ) as the perfect replacement. Meanwhile, Apple TV has another show blowing up right now that’s been in the works for years.
+Over the course of a decade, Ridley Scott and Russell Crowe worked together on half a dozen movies. Some, like Gladiator , were runaway critical and commercial hits, while others, like A Good Year , barely registered. The partnership came to an abrupt end exactly a decade after it began. In recent years, both Crowe and Scott have taken shots at each other, mainly on the subject of Gladiator II . The long-gestating sequel finally debuted in 2024, but Crowe wasn't involved. Scott reasoned that Crowe's character was dead, while the actor, who won an Oscar for his performance in the first film, said that he worked on a version where he could have returned. Following the sequel's release, Crowe made it a point to remind everyone that Gladiator II wasn't exactly a hit, and that he wasn't a fan of the film at all. No love has been lost between the two, and now's your chance to revisit their last film together.
 
-### Pokémon Fans Officially Get the Ghost-Type Upgrade They’ve Been Waiting For
-Sat, 31 Oct 2026 08:20:12 GMT — https://collider.com/pokemon-go-shiny-greavard-halloween-2026-debut/
+### 10 Must-Watch British Comedy Shows, According to the Cast of ‘SNL UK’
+Sat, 31 Oct 2026 12:19:12 GMT — https://collider.com/snl-uk-saturday-night-live-cast-recommends-british-comedy-shows/
 
-Pokémon Scarlet and Violet introduced a very convincing argument for ignoring every warning in the Pokédex . Greavard looks like a shaggy puppy with a candle on its head, which is more than enough to make following it seem reasonable. Being a Ghost type does little to undermine its appeal , especially in a franchise where some of the cutest creatures come with deeply unsettling backstories.
+It's promising to know that the cast of Britain's latest comedy Saturday Night Live UK hit are also huge fans of the country’s humorous back catalog. When speaking to Collider ahead of SNL UK ’s second season, the cast — Ayoade Bamgboye , George Fouracres , Celeste Dring , Jack Shep , Paddy Young , Emma Sidi and Al Nash — shared which UK shows they would recommend to U.S. viewers looking for their next overseas binge.
 

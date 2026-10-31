@@ -1,6 +1,41 @@
-# Manga — harvested 2026-10-31T10:36:10.981Z
+# Manga — harvested 2026-10-31T15:52:15.622Z
 
 ## Anime News Network
+
+### The Apothecary Diaries Season 3 ‒ Episode 53
+Sat, 31 Oct 2026 11:30:00 -0400 — https://www.animenewsnetwork.com/review/the-apothecary-diaries-season-3/episode-53/.243389
+
+In its earliest recorded variants, "The Legend of the White Snake" is a story about a white snake demon who transforms into a beautiful woman to prey on men.
+
+### Romelia War Chronicle Anime's 2nd Part Unveils April 2027 Debut, Ending Song's Artist
+Sat, 31 Oct 2026 11:13:57 -0400 — https://www.animenewsnetwork.com/news/2026-10-31/romelia-war-chronicle-anime-2nd-part-unveils-april-2027-debut-ending-song-artist/.243390
+
+Hiro Shimono to perform ending theme
+
+### Magic Knight Rayearth ‒ Episode 4
+Sat, 31 Oct 2026 10:30:00 -0400 — https://www.animenewsnetwork.com/review/magic-knight-rayearth/episode-4/.243387
+
+Is it weird getting your world-saving spells through a magic Zoom call?
+
+### Happy Halloween 2026 From Around the Anime World, Part I
+Sat, 31 Oct 2026 10:15:00 -0400 — https://www.animenewsnetwork.com/interest/2026-10-31/happy-halloween-2026-from-around-the-anime-world-part-i/.243385
+
+Featuring <i>Frieren, Apothecary Diaries, Spy x Family, Sakamoto Days, My Hero Academia, Medalist,</i> Nintendo, & more!
+
+### STEEL BALL RUN JoJo's Bizarre Adventure ‒ Episode 6
+Sat, 31 Oct 2026 09:30:00 -0400 — https://www.animenewsnetwork.com/review/steel-ball-run-jojo-bizarre-adventure/episode-6/.243386
+
+With episode six, the last pillar of patriarchy is erected and now the two best bros in all of anime can begin tearing the oppressive structure down.
+
+### FX Fighter Kurumi-chan ‒ Episode 5
+Sat, 31 Oct 2026 08:30:00 -0400 — https://www.animenewsnetwork.com/review/fx-fighter-kurumi-chan/episode-5/.243348
+
+Characters are tools. They're just tools for demonstrating ideas. Ideas like the fact that addiction is dangerous. I didn't know that before watching this anime.
+
+### Suikoden: The Anime ‒ Episode 4
+Sat, 31 Oct 2026 07:36:38 -0400 — https://www.animenewsnetwork.com/review/suikoden-the-anime/episode-4/.243347
+
+The two of them sneaking in under the guise of enemy soldiers is just far more immediate and compelling than the earlier political maneuvering.
 
 ### Comisma, Sumitomo Mitsui Trust Bank Establish Anime Production Fund
 Sat, 31 Oct 2026 05:04:51 -0400 — https://www.animenewsnetwork.com/news/2026-10-31/comisma-sumitomo-mitsui-trust-bank-establish-anime-production-fund/.243384
@@ -27,66 +62,26 @@ Fri, 30 Oct 2026 23:59:00 -0400 — https://www.animenewsnetwork.com/interest/20
 
 Hard Rock Cafe mustn't run away
 
-### 40 Manga Creators Celebrate Meiji Milk Chocolate's 100th Anniversary
-Fri, 30 Oct 2026 22:00:00 -0400 — https://www.animenewsnetwork.com/interest/2026-10-30/40-manga-creators-celebrate-meiji-milk-chocolate-100th-anniversary/.243331
-
-Along with 21 artists
-
-### Sanrio's Kuromi Character Gets 1st Film in 2027
-Fri, 30 Oct 2026 20:42:09 -0400 — https://www.animenewsnetwork.com/news/2026-10-30/sanrio-kuromi-character-gets-1st-film-in-2027/.243372
-
-Announced on Kuromi's birthday, Halloween, after 3 net anime series
-
-### North American Anime, Manga Releases, October 25-31
-Fri, 30 Oct 2026 17:10:32 -0400 — https://www.animenewsnetwork.com/news/2026-10-30/north-american-anime-manga-releases-october-25-31/.243223
-
-<cite>Yaiba: Samurai Legend, Sword of the Demon Hunter</cite> anime; <cite>Naruto x Teenage Mutant Ninja Turtles—Manga Style Edition, Tojima Wants to be a Kamen Rider</cite> manga ship
-
-### Brazil's CCXP Screens World Premiere of Garena Free Fire Game's Free Fire Daybreak Anime
-Fri, 30 Oct 2026 14:34:33 -0400 — https://www.animenewsnetwork.com/news/2026-10-30/brazil-ccxp-screens-world-premiere-of-garena-free-fire-game-free-fire-daybreak-anime/.243371
-
-Screening takes place at São Paulo Expo on December 5
-
-### Hiragi-san's House of Vampires Manga Gets TV Anime
-Fri, 30 Oct 2026 12:19:14 -0400 — https://www.animenewsnetwork.com/news/2026-10-30/hiragi-san-house-of-vampires-manga-gets-tv-anime/.243370
-
-Visual unveiled for UNLIMITED PRODUCE by TMS' anime of Miki Yoshikawa's manga
-
-### KAMUI: He's Behind You Anime Series Review
-Fri, 30 Oct 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/kamui/he-behind-you/anime-series/.242560
-
-What I ended up getting…was an over-the-top sex comedy.
-
-### King Gnu Band Hold 1st U.S. Headline Shows in Los Angeles on March 26, New York on April 2
-Fri, 30 Oct 2026 11:32:30 -0400 — https://www.animenewsnetwork.com/news/2026-10-30/king-gnu-band-hold-1st-u.s-headline-shows-in-los-angeles-on-march-26-new-york-on-april-2/.243369
-
-Band perform songs for <cite>Jujutsu Kaisen</cite>, <cite>Banana Fish</cite>, <cite>Ranking of Kings</cite>, <cite>The Ghost in the Shell</cite>, <cite>Detective Conan</cite>
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
 
+### Isshiki-san Wants to Know About Love Anime Reveals New Trailer, Opening Theme Song Artist
+Sat, 31 Oct 2026 11:37:06 GMT — https://animecorner.me/isshiki-san-wants-to-know-about-love-anime-reveals-new-trailer-opening-theme-song-artist/
+
+Isshiki-san Wants to Know About Love anime revealed a new trailer and the opening&hellip;
+
+### Hiragi-san's House of Vampires Gets Anime
+Sat, 31 Oct 2026 10:49:24 GMT — https://animecorner.me/hiragi-sans-house-of-vampires-gets-anime/
+
+Hiragi-san's House of Vampires manga by Miki Yoshikawa (A Couple of Cuckoos) is getting&hellip;
+
 ### Fall 2026 Anime Rankings – Week 4
 Fri, 30 Oct 2026 12:30:00 GMT — https://animecorner.me/fall-2026-anime-rankings-week-4/
 
 Bleach wins Fall 2026 Week 4 with 25.31%, followed by Firefly Wedding and Student Council. Both Bleach and Cyberpunk leave the weekly polls after this week.
-
-### Disney Twisted-Wonderland Season 2: Episode of Savanaclaw Reveals New Visual, December 23 Premiere
-Thu, 29 Oct 2026 15:22:44 GMT — https://animecorner.me/disney-twisted-wonderland-season-2-episode-of-savanaclaw-reveals-new-visual-december-23-premiere/
-
-Disney Twisted-Wonderland The Animation: Episode of Savanaclaw revealed a new visual, along with a December 23 premiere date.
-
-### Ave Mujica Releases "A Song Of Romance" Music Video
-Thu, 29 Oct 2026 12:36:10 GMT — https://animecorner.me/ave-mujica-releases-a-song-of-romance-music-video/
-
-Ave Mujica released a music video for one of their latest songs, "A Song&hellip;
-
-### Beyond the Cancellation: Umamusume Fans Come Together at Cosplay Trackside
-Thu, 29 Oct 2026 12:32:00 GMT — https://animecorner.me/beyond-the-cancellation-umamusume-fans-come-together-at-cosplay-trackside/
-
-Over the past weekend, I had the opportunity to attend Cosplay Trackside 2026 at&hellip;
 
 ## MyAnimeList News
 
@@ -140,6 +135,11 @@ The official X of Kojima Productions revealed additional staff, teaser visual (p
 _Nothing in the last 48 hours._
 
 ## Anime UK News
+
+### Autumn 2026 Preview – What’s New?
+Sat, 31 Oct 2026 11:00:54 +0000 — https://animeuknews.net/2026/10/autumn-2026-preview-whats-new/
+
+So many continuations! Can there be too many returning series? Our reviewers take a first look at the Autumn Season and select some titles – old and new – well worth your time!
 
 ### The Magic of Maison Ghibli Returns to London!
 Thu, 29 Oct 2026 16:00:26 +0000 — https://animeuknews.net/2026/10/the-magic-of-maison-ghibli-returns-to-london/
