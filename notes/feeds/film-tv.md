@@ -1,170 +1,170 @@
-# Film & TV — harvested 2026-10-30T18:51:36.170Z
+# Film & TV — harvested 2026-10-31T10:36:10.981Z
 
 ## Variety
 
-### The Odyssey Oscar Blitz to Begin With Robert Downey Jr., Guillermo del Toro and Steven Spielberg as Moderators
-Fri, 30 Oct 2026 18:49:10 +0000 — https://variety.com/2026/film/awards/the-odyssey-oscars-campaign-downey-del-toro-spielberg-1236935212/
+### Sanjay Gupta, Indian Director of Kaante and Zinda, Dies at 59
+Sat, 31 Oct 2026 09:33:22 +0000 — https://variety.com/2026/film/obituaries-people-news/sanjay-gupta-dead-kaante-zinda-1236935973/
 
-Odysseus spent 10 years getting home. Universal is giving “The Odyssey” about 10 weeks to get its name on a ballot. The studio’s official Oscar campaign for Christopher Nolan’s epic kicks off in earnest the week of Nov. 9, Variety has learned, with a run of screenings and Q As that puts Nolan, producer [ ]
+Indian filmmaker Sanjay Gupta, whose credits include the crime thriller “Kaante,” the gangster saga “Shootout at Wadala” and the Hrithik Roshan-starring “Kaabil,” has died following a fall at his Mumbai residence on Oct. 30. He was 59, according to the Press Trust of India. Director Milap Zaveri, a longtime friend of Gupta who worked on [ ]
 
-### Reese Witherspoon s Hello Sunshine Cuts 50% of Employees After Actress Buys Back Company
-Fri, 30 Oct 2026 18:47:56 +0000 — https://variety.com/2026/tv/news/reese-witherspoon-hello-sunshine-layoff-1236935287/
+### Pink Film Veteran Zeze Takahisa Champions Original Stories at Tokyo Masterclass
+Sat, 31 Oct 2026 08:40:13 +0000 — https://variety.com/2026/film/festivals/pink-film-veteran-zeze-takahisa-original-stories-1236935968/
 
-Reese Witherspoon s Hello Sunshine is majorly shrinking. Earlier this month, Witherspoon bought her production company back from Candle Media, the Blackstone-backed label that had acquired a controlling stake in 2021. With the support of the French conglomerate Mediawan, the actress was reportedly able to reacquire the banner for just a fraction of the $900 million [ ]
+The Tokyo International Film Festival’s Tokyo Talk program presented a masterclass with Zeze Takahisa, director of the festival’s opening film, “Sukiyaki.” Held before a full-house crowd at Tokyo Midtown Hibiya, the talk focused on Zeze’s early “pink” (softcore porn) and indie films, followed by questions about his more recent work. Born in 1960 in Oita [ ]
 
-### Netflix’s Haunted Hotel Renewed for Season 3
-Fri, 30 Oct 2026 18:24:53 +0000 — https://variety.com/2026/tv/news/netflixs-haunted-hotel-season-3-1236935451/
+### Japan’s Film Funds Look Beyond Production Committees to Build New Financing Models
+Sat, 31 Oct 2026 08:15:56 +0000 — https://variety.com/2026/film/markets-festivals/japans-film-funds-beyond-production-committees-new-financing-models-1236935964/
 
-“Haunted Hotel” is now accepting reservations for 2027, as Netflix has renewed the animated series for third season. The adult comedy comes from “Rick Morty” writer Matt Roller and follows a single mother who runs the world’s most haunted hotel, the Undervale. As she juggles raising her two children with managing a slew of [ ]
+Japan’s production committee system, in which a group of companies jointly finance a film and share its rights, has helped spread risk across the industry. But it can also cap budgets at what the industry itself can raise, make it harder for overseas investors to take part and slow decisions when every rights holder must [ ]
 
-### Eric Bauza to Make Posthumous Simpsons Debut: Late Looney Tunes Voice Actor Plays Two Characters
-Fri, 30 Oct 2026 18:24:40 +0000 — https://variety.com/2026/tv/news/eric-bauza-osthumous-simpsons-debut-two-characters-1236934521/
+### Japan’s New 2027 Anime Award Should Put Creators in the Spotlight, Industry Leaders Say at Tokyo Market
+Sat, 31 Oct 2026 06:51:00 +0000 — https://variety.com/2026/film/markets-festivals/japan-new-2027-anime-award-spotlight-creators-industry-leaders-1236935947/
 
-In recent years, Eric Bauza had become one of the most successful and popular voice-over artists in the business, including his command of the entire library of Bugs Bunny and other “Looney Tunes characters. But there was one iconic show that had eluded him until recently: “The Simpsons.” Bauza recently made that dream come true [ ]
+A new Japanese anime award planned for 2027 should put the people who make anime in the spotlight, industry leaders said at TIFFCOM, the market of the Tokyo International Film Festival. The session was moderated by Fujitsu Ryota, programming advisor for the festival’s animation section. Shimizu Akira, a director of the Association of Japanese Animations [ ]
 
-### NFL to Face New Trial in Sunday Ticket Class-Action Lawsuit to Determine Financial Damages
-Fri, 30 Oct 2026 18:16:02 +0000 — https://variety.com/2026/tv/news/nfl-sunday-ticket-verdict-retrial-sunday-ticket-lawsuit-1236935444/
+### Ozu Shapes Mishima Yukiko’s Tokyo Competition Title ‘Two Cigarettes, Three Nights’
+Sat, 31 Oct 2026 06:40:15 +0000 — https://variety.com/2026/film/festivals/ozu-mishima-yukiko-two-cigarettes-three-nights-1236935944/
 
-A federal appeals court ordered a new trial in the class-action lawsuit against the NFL to determine how much the league must pay in financial damages to affected subscribers of its Sunday Ticket out-of-market games package, who said they were overcharged by the NFL and its partners for the service. On Friday, the 9th Circuit [ ]
+Known for her dark relationship dramas, including the 2017 multiple-award-winner “Dear Etranger,” Mishima Yukiko has taken a different approach with her latest film, “Two Cigarettes, Three Nights,” which is in competition at the 39th Tokyo International Film Festival. Based on a 2014 novel by Chihaya Akane, it stars Matsuoka Mayu as Kanna, a picture book [ ]
 
-### Patrick Stewart Changed Genre Acting Forever With Star Trek and X-Men
-Fri, 30 Oct 2026 18:01:44 +0000 — https://variety.com/2026/tv/columns/patrick-stewart-changed-genre-acting-star-trek-x-men-1236935337/
+### Sourav Ganguly’s ‘Bigg Boss Bangla’ Among Highlights as Indian Media Giant JioStar Revenues Climb 10%
+Sat, 31 Oct 2026 06:20:09 +0000 — https://variety.com/2026/tv/news/sourav-ganguly-bigg-boss-highlight-jiostar-revenue-rises-1236935940/
 
-I will never claim to be a true Shakespeare buff, save for having read plays like “Romeo Juliet” or “Julius Caesar” in school many years ago. But ever since I learned of the death of Sir Patrick Stewart, a line from “Hamlet” has been at the forefront of my mind. “He was a man, [ ]
+JioStar, the Indian media giant backed by Reliance Industries, grew revenue from operations 10.1% year-on-year to INR68.1 billion ($710 million) in the July–September quarter despite a weak advertising market. Profit after tax fell 13.2% to INR11.5 billion ($120 million). Former India cricket captain Sourav Ganguly hosted the first-ever “Bigg Boss Bangla,” which launched this quarter [ ]
 
-### Tony Gilroy on the Lunch With Pedro Pascal That Saved ‘Behemoth!’ and How the Film Explores ‘New Varieties of Loneliness’
-Fri, 30 Oct 2026 17:40:40 +0000 — https://variety.com/2026/film/awards/behemoth-tony-gilroy-pedro-pascal-loneliness-oscars-1236935214/
+### How Keanu Reeves Landed in Stop-Motion Samurai Epic ‘Hidari’ – and Why S.S. Rajamouli Wanted to Know How It Was Made
+Sat, 31 Oct 2026 04:38:17 +0000 — https://variety.com/2026/film/festivals/keanu-reeves-hidari-ss-rajamouli-1236935934/
 
-Tony Gilroy had the speech ready on his way to meet Pedro Pascal. He was rehearsing it in the car on the way to lunch. Oscar Isaac was out of “Behemoth!,” lost to what Gilroy calls “a traffic jam between Frankenstein and awards,” and the writer-director had already pushed the start date as far as [ ]
+Keanu Reeves joined Japanese stop-motion feature “Hidari” after watching the project’s pilot film, with his team getting back to the filmmakers about a week after the screening was arranged to set up a Zoom call, director Kawamura Masashi said at the Tokyo International Film Festival, where he also updated the film’s fundraising push. Kawamura, who [ ]
 
-### Beyoncé, Zendaya and Halle Berry s Go-To Red Carpet Designer Launches Affordable H M Collection
-Fri, 30 Oct 2026 17:37:57 +0000 — https://variety.com/2026/shopping/news/elie-saab-h-and-m-collection-shop-online-1236935358/
+### Georgia’s ‘Guria’ Wins Best Film at Asia Pacific Screen Awards as Thailand s Sompot Chidgasornpongse Takes Director Prize
+Sat, 31 Oct 2026 04:25:38 +0000 — https://variety.com/2026/film/awards/georgia-guria-best-film-asia-pacific-screen-awards-1236935931/
 
-Elie Saab, the luxury fashion house behind some of Hollywood s most memorable red carpet looks, is bringing its signature glamour to H M at a fraction of its usual price. The Lebanese designer, whose creations have been worn by Beyoncé, Zendaya, Angelina Jolie, Taylor Swift and Jennifer Lopez, has teamed up with the Swedish retailer on [ ]
+Georgian filmmaker Levan Koguashvili’s “Guria” was named best film at the 19th Asia Pacific Screen Awards, handed out Oct. 30 at The Star Gold Coast in Queensland, Australia. Koguashvili shared the prize with fellow producers Olena Yershova and Boris Frumin. The film was made across seven countries: Georgia, Switzerland, Luxembourg, Bulgaria, Türkiye, Norway and Saudi [ ]
 
-### Rotterdam and Alexandria Festival Programmers on What Gets a Movie Accepted and Why Rejection Isn’t a Verdict on Quality
-Fri, 30 Oct 2026 17:37:49 +0000 — https://variety.com/2026/film/global/sharjah-film-festival-programmers-selection-rejection-1236935318/
+### Ranbir Kapoor, Yash Light Up Gold House’s Diwali Event as Group Launches South Asian Shorts Fund
+Sat, 31 Oct 2026 04:09:21 +0000 — https://variety.com/2026/film/news/ranbir-kapoor-yash-gold-house-diwali-event-1236935927/
 
-A film festival selection or rejection is not necessarily a verdict on a film’s quality. For programmers sorting through hundreds or even thousands of submissions, the decision can depend on everything from the balance of a lineup to the audience for which they are programming. That issue was at the center of “Film Festivals Decoded: [ ]
+Ranbir Kapoor and Yash, stars of the epic adaptation “Ramayana: Rise of a Legend,” opened Gold House’s largest Gold Diwali to date at The Majestic Downtown in Los Angeles, alongside filmmakers Nitesh Tiwari and Namit Malhotra, a week before the film’s release. Gold House, which works to back and celebrate the Asian Pacific community, staged [ ]
 
-### Blink49 Studios Evolves as a Pure-Play Content Shop to Meet the Moment for Content Production
-Fri, 30 Oct 2026 17:35:36 +0000 — https://variety.com/2026/tv/news/yaga-golden-life-blink49-studios-john-morayniss-1236934425/
+### Bill Maher Fact-Checks Kid Rock After He Compares Abdul El-Sayed to 9/11 Hijackers on ‘Real Time’
+Sat, 31 Oct 2026 03:13:17 +0000 — https://variety.com/2026/tv/news/kid-rock-abdul-el-sayed-9-11-hijackers-real-time-bill-maher-1236935914/
 
-When veteran producer John Morayniss hung out his shingle as Blink49 Studios five years ago, he knew the company’s work would be markedly different from his past experiences at Alliance Atlantis and Entertainment One. But Morayniss had no idea how dramatically the industry would shape-shift in ways that suited his young and nimble operation. “When [ ]
+Bill Maher opened his new episode of “Real Time” Friday night by addressing Trump’s 1,300-word social media tirade against him following their White House dinner earlier this month, with the comic comparing the president to Taylor Swift. Following a sit-down interview with Republican Senator Ted Cruz, who was busy hawking his new book on Supreme [ ]
 
 ## The Hollywood Reporter
 
-### Aerosmith brings Friends Gun N Roses, Black Crowes to Hollywood Bowl as Steven Tyler Returns to the Stage
-Fri, 30 Oct 2026 18:44:41 +0000 — https://www.hollywoodreporter.com/music/music-news/aerosmith-hollywood-bowl-recap-1236743674/
+### Macklemore Wraps Up Free Palestine Tour in London: It Was More Uncomfortable for Me to Stay Silent
+Sat, 31 Oct 2026 10:13:19 +0000 — https://www.hollywoodreporter.com/music/music-news/macklemore-free-palestine-tour-london-concert-ed-sheeran-1236743566/
 
-"We’re going to rock this place so hard you’re going to think the big one is coming," Frontman Steven Tyler told the crowd in the group's first show in three years after abruptly canceling their farewell tour back in 2023.
+The concerts, raising money for Palestinian causes, come weeks after Macklemore was controversially dropped from Ed Sheeran's Loop Tour.
 
-### Monday Night Football Goes to the Movie Theater: Cinemark Plans Dallas Cowboys Test Run
-Fri, 30 Oct 2026 18:40:37 +0000 — https://www.hollywoodreporter.com/business/business-news/nfl-fans-cinemas-cinemark-1236743750/
+### 2026 Daytime Emmy Awards: General Hospital Wins Best Daytime Drama
+Sat, 31 Oct 2026 03:11:55 +0000 — https://www.hollywoodreporter.com/news/general-news/2026-daytime-emmys-winners-list-1236744039/
 
-The exhibitor will hold a first-ever live game screening of a Dec. 7 Dallas-Seattle in-market game at its flagship Plano, Texas multiplex.
+'The Kelly Clarkson Show' won a leading five awards, as 'Beyond the Gates' also took home four trophies.
 
-### How to Watch ‘The Celebrity Traitors’ Season Two Finale Online From the States
-Fri, 30 Oct 2026 18:40:13 +0000 — https://www.hollywoodreporter.com/tv/tv-news/where-to-watch-celebrity-traitors-uk-season-2-online-2026-1236717306/
+### Bill Maher Responds to Trump s 1,318-Word Social Rant: He Went Off on Me Like Kelly Clarkson in a Toy Store
+Sat, 31 Oct 2026 02:38:37 +0000 — https://www.hollywoodreporter.com/tv/tv-news/bill-maher-responds-trump-social-rant-kelly-clarkson-toy-store-1236743958/
 
-The second season finale airs Friday, Oct. 30 at 8:00 p.m. U.K. time (12 p.m. PT/3 p.m. ET).
+The president slammed the TV host in a Sunday post, writing that he is a "COMPLETE AND TOTAL LOSER."
 
-### Hollywood Celebrates Halloween, The Cat in the Hat Premieres and This Week s Best Events
-Fri, 30 Oct 2026 18:26:41 +0000 — https://www.hollywoodreporter.com/gallery/halloween-cat-in-the-hat-red-carpet-events-1236739585/
+### Margaret Qualley and Jack Antonoff File for Divorce After Three Years of Marriage
+Sat, 31 Oct 2026 01:37:48 +0000 — https://www.hollywoodreporter.com/lifestyle/lifestyle-news/margaret-qualley-jack-antonoff-file-divorce-1236744038/
 
-Inside this week's biggest Hollywood premieres, parties and openings.
+The actress and Bleachers frontman began dating in 2021 and reportedly broke up in July.
 
-### Universal Studios Hollywood Workers Say They Are Still Facing Food and Housing Insecurity
-Fri, 30 Oct 2026 18:16:53 +0000 — https://www.hollywoodreporter.com/business/business-news/universal-studios-hollywood-workers-food-housing-insecurity-1236743606/
+### Timbaland Files $15 Million Fraud Lawsuit Against Former Managers
+Sat, 31 Oct 2026 01:23:51 +0000 — https://www.hollywoodreporter.com/music/music-industry-news/timbaland-files-15-million-lawsuit-against-former-managers-1236743974/
 
-As negotiations with the park ramp up, unionized food-service employees claim they’re skipping meals and getting close to missing rent payments: “I would bet money that I'm one emergency away from just ruin.”
+The super-producer alleges that former manager Gary Marella and business manager Bruce Seckendorf "used their entrusted authority to enrich themselves and others, conceal financial misconduct, and deplete Timbaland’s valuable assets."
 
-### Before Star Trek, Patrick Stewart Proved His Sci-Fi Chops in Dune
-Fri, 30 Oct 2026 17:41:39 +0000 — https://www.hollywoodreporter.com/movies/movie-features/patrick-stewart-dune-kyle-maclachlan-1236743661/
+### LAPD Arrests Two for Murder of Christina Downer, Sister to SNL Writer Jimmy Fowlie
+Sat, 31 Oct 2026 00:48:27 +0000 — https://www.hollywoodreporter.com/news/general-news/arrest-murder-christina-downer-snl-writer-jimmy-fowlie-1236744032/
 
-In his recent memoir, actor Kyle MacLachlan recalls how Stewart brought unusual depth — and his resonant voice — to the role, asking questions that even director David Lynch couldn't answer.
+Police arrested Downer's boyfriend, Delorean Bijon Brandon, and Kaylee Nicole Markowski on Thursday.
 
-### NFL to Face New Trial Over Sunday Ticket $4.7 Billion Verdict
-Fri, 30 Oct 2026 17:20:58 +0000 — https://www.hollywoodreporter.com/business/business-news/nfl-new-trial-sunday-ticket-verdict-1236743644/
+### The Hollywood Reporter Wins 2026 Daytime Emmy Award
+Sat, 31 Oct 2026 00:46:06 +0000 — https://www.hollywoodreporter.com/tv/tv-news/hollywood-reporter-wins-2026-daytime-emmy-award-1236744015/
 
-The long running legal battle centers on allegations that the league and its teams conspired to reach exclusive deals with broadcast partners for the right to air out-of-market games.
+This was the third consecutive nomination for the 'Off Script' roundtable series, which has received a total of six nods over the past nine years.
 
-### Golden Globes: Artificial Submitted As Comedy (Exclusive)
-Fri, 30 Oct 2026 17:02:08 +0000 — https://www.hollywoodreporter.com/movies/movie-news/golden-globes-artificial-submitted-comedy-exclusive-1236736434/
+### Fuxi: Four Tales of Feasting Review: Whimsical Chinese Film Explores Myth and History Through a Series of Tasty Treats
+Sat, 31 Oct 2026 00:36:53 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/fuxi-four-tales-of-feasting-qiu-jiongjiong-1236743718/
 
-Luca Guadagnino's Simon Rich-penned film, which deals with dark subject matter but also evokes laughs, was one of the last big question marks ahead of Friday's Golden Globes submission deadline.
+In Qiu Jiongjiong's latest, highly stylized sets and costumes contribute to a strange banquet of storytelling where food plays a key role.
 
-### Coach Jackie J Signs With UTA (Exclusive)
-Fri, 30 Oct 2026 16:17:07 +0000 — https://www.hollywoodreporter.com/business/business-news/coach-jackie-j-uta-1236741961/
+### Selma Blair Apologizes for Plane Arrest: Not One Day Have I Intended to Hurt or Frighten Anyone
+Sat, 31 Oct 2026 00:26:05 +0000 — https://www.hollywoodreporter.com/news/general-news/selma-blair-apologizes-plane-arrest-not-intended-hurt-anyone-1236744004/
 
-The Instagram and TikTok star has just launched a women’s sports-focused podcast, ‘Is She Game?,’ from Reign and Higher Ground.
+The actress was arrested at John F. Kennedy International Airport on Oct. 11 after an alleged incident on a Delta plane that resulted in two flight attendants being injured and one being sent to the hospital.
 
-### Bobby Wright, ‘McHale’s Navy’ Actor, Singer and Son of Kitty Wells, Dies at 84
-Fri, 30 Oct 2026 15:34:18 +0000 — https://www.hollywoodreporter.com/tv/tv-news/bobby-wright-dead-mchales-navy-kitty-wells-1236743539/
+### The Celebrity Traitors Season 2 Crowns Its Winners After Dramatic Finale
+Sat, 31 Oct 2026 00:14:32 +0000 — https://www.hollywoodreporter.com/tv/tv-news/celebrity-traitors-season-2-winners-bbc-1236743967/
 
-He portrayed the radio operator Willy Moss on the ABC comedy and had a country hit with “Here I Go Again.”
+The BBC reality series, hosted by Claudia Winkleman, wrapped its second installment Friday.
 
 ## Deadline
 
-### Skydance Chief Communications Officer Melissa Zukerman Unveils Leadership Team, Executive Departures
-Fri, 30 Oct 2026 18:44:33 +0000 — https://deadline.com/2026/10/melissa-zukerman-skydance-communications-leadership-exits-1237209690/
+### Dubai-Based Director Faisal Hashmi Launches Spine Drop Pictures Inaugural Horror Slate
+Sat, 31 Oct 2026 10:35:47 +0000 — https://deadline.com/2026/10/dubai-faisal-hashmi-spine-drop-pictures-horror-slate-1237210593/
 
-Melissa Zukerman, Chief Communications Officer of Skydance, has become the latest member of the post-merger company s CEO Corporate and Business Leadership teams to reveal the senior executives in the combined Paramount-Warner Bros. Discovery communications operation she is overseeing. Zukerman announced the new structure in an internal memo, which you can read below. The list includes [ ]
+EXCLUSIVE: Here’s a nicely timed company announcement for Halloween. Dubai-based indie director and writer Faisal Hashmi has officially launched genre-focused production company Spine Drop Pictures and unveiled its inaugural slate of three horror features. Hashmi has won fans over his 15-year career with a collection of 10 contained, high-concept genre shorts with chilling twists, including [ ]
 
-### NFL Considering Our Options As New Sunday Ticket Trial Ordered; Previous Verdict Scored $4.7B Payout
-Fri, 30 Oct 2026 18:34:02 +0000 — https://deadline.com/2026/10/nfl-sunday-ticket-lawsuit-new-trial-1237209648/
+### The Celebrity Traitors Finale Draws Record Audience To BBC
+Sat, 31 Oct 2026 10:15:06 +0000 — https://deadline.com/2026/10/the-celebrity-traitors-finale-draws-record-rating-1237210586/
 
-To paraphrase Super Bowl LXI halftime show headliner Jay Z, the NFL may or may not have 99 problems but a new trial over the long alleged and much litigated Sunday Ticket antitrust violation is now one. Not that the Roger Goodell-led league are taking this new play on the chin. We are disappointed by [ ]
+The Celebrity Traitors bowed out with record ratings on Friday. The Claudia Winkleman-fronted BBC series drew an average overnight audience of 11.23 million viewers, topping the previous high of 11 million for last year s finale. The 80-minute-long episode peaked with 11.6 million viewers as a winner was crowned, though Deadline is choosing not to publish [ ]
 
-### The Smashing Pumpkins Release Latest ‘The Hunger Games: Sunrise On The Reaping’ Album Track, ‘Black Stars’
-Fri, 30 Oct 2026 18:29:57 +0000 — https://deadline.com/feature/hunger-games-sunrise-on-the-reaping-songs-soundtrack-album-1237165820/
+### Teodora Ana Mihai On Her Breakout Feature ‘Heysel 85’ Plans For Her Next Film — Tokyo
+Sat, 31 Oct 2026 05:31:47 +0000 — https://deadline.com/2026/10/teodora-ana-mihai-heysel-85-tokyo-1237210571/
 
-Gigi Perez is the latest artist to contribute a single to the companion album for The Hunger Games: Sunrise on the Reaping. Perez s new single, Favor is now out as of Thursday night. The Hunger Games: Sunrise on the Reaping (The Album) is executive produced by Grammy-winning producer Dave Cobb (Chris Stapleton, Sturgill Simpson) and [ ]
+After a buzzy debut almost eight months ago in Berlin, Teodora Ana Mihai has finally begun the international launch of her latest feature, Heysel 85, and this week the Romanian-Belgian filmmaker is at the Tokyo Film Festival, where the film has received its Asian premiere. Directed by Mihai, from a screenplay she co-wrote with Lode [ ]
 
-### John Bobby Wright Dies: ‘McHale’s Navy’ Actor, Singer Son Of Country Icon Kitty Wells Was 84
-Fri, 30 Oct 2026 18:25:50 +0000 — https://deadline.com/2026/10/john-bobby-wright-dead-mchales-navy-1237209598/
+### Angel Studios CCO Lays Out Values-Based Initiative Banning Sex, Nudity, F-Words Misuse Of God s Name : Hollywood Lives In A Bubble
+Sat, 31 Oct 2026 03:16:52 +0000 — https://deadline.com/2026/10/angel-studios-values-based-initiative-banning-sex-nudity-f-words-1237210523/
 
-John Bobby Wright, the last surviving cast member of the 1960s Ernest Borgnine military sitcom McHale’s Navy and the son of country music pioneer Kitty Wells, died Tuesday, October 27, at his home in Madison, Tennessee. He was 84. His death was announced by his family, who noted the Wright died peacefully surrounded by loved [ ]
+Five years into Angel Studios launch, the Christian production company and distributor is implementing The Angel Promise content standards. Co-founder and CCO Jeff Harmon explained that the initiative bans on-screen sex, nudity, the F-word and misuse of God s name, in addition to expanding parental controls and allowing paid subscribers to choose which films and television [ ]
 
-### You Can See Everything Will Be A Treat Over Slow Halloween Frame; Documentary s U.S. Cume At $52M+ Rising Box Office
-Fri, 30 Oct 2026 18:18:17 +0000 — https://deadline.com/2026/10/box-office-you-can-see-everything-clayface-halloween-1237209579/
+### Beyond The Gates Wins Four Daytime Emmys In Its First Year Of Eligibility
+Sat, 31 Oct 2026 03:05:03 +0000 — https://deadline.com/2026/10/beyond-the-gates-wins-multiple-daytime-emmys-1237210503/
 
-Fueled by non-stop memes on social, not to mention, Elizabeth Holmes and Nathan Fielder being the it Halloween costumes, A24 s You Can See Everything is destined to lead the sluggish holiday frame with around $10M+, we hear. Far and away, the Lance Oppenheim and Fielder co-directed three-hour documentary is the sales leader we understand as [ ]
+CBS Beyond the Gates triumphed at the 53rd annual Daytime Emmy Awards in its first year of eligibility, with big wins in the Outstanding Lead Actor and Emerging Actress categories Friday. In all, Beyond the Gates won four Emmys at the ceremony that was streamed on YouTube. The sudser penned by Michele Val Jean debuted [ ]
 
-### Reddit Shares Plunge 30% After Company Says Its Q3 Search Traffic Was Down Meaningfully
-Fri, 30 Oct 2026 18:16:49 +0000 — https://deadline.com/2026/10/reddit-shares-plunge-q3-search-traffic-earnings-1237209538/
+### Real Time : Bill Maher Reacts To Trump s Longest Ever 1,300+ Word Tweet Berating Him: Kind Of A Flex
+Sat, 31 Oct 2026 02:29:34 +0000 — https://deadline.com/2026/10/real-time-bill-maher-reacts-trump-longest-ever-1300-word-tweet-1237210499/
 
-A day after Alphabet lost $500 billion in market value due to a slowdown at Google, Reddit stock plunged 30% Friday after the company said its search traffic was down meaningfully in the third quarter. Shares in the digital platform, which went public in 2024, were trading at around $90.20 in the latter half of [ ]
+Following his second date with Trump, Bill Maher is once again shocked at the ungentlemanly behavior of the twice-impeached POTUS. On Friday s episode of Real Time, the comedian reacted to Trump s record-setting 1,300-word tweet disparaging Maher as a complete and total loser, following their dinner earlier this month. Did you see the 1,300-word tweet he [ ]
 
-### Woody Harrelson Boards First Short Film As EP; Watch Mary The Widow Starring Julie Ariola Stephen Tobolowsky
-Fri, 30 Oct 2026 18:00:00 +0000 — https://deadline.com/2026/10/woody-harrelson-first-short-film-ep-mary-the-widow-1237209631/
+### Selma Blair Breaks Silence On JFK Airport Arrest: I Take This Very Seriously
+Sat, 31 Oct 2026 00:50:58 +0000 — https://deadline.com/2026/10/selma-blair-breaks-silence-jfk-airport-arrest-1237210351/
 
-EXCLUSIVE: Woody Harrelson is backing his first short film. The multi-hyphenate has boarded Mary the Widow, writer-director Ryan Noufer s live-action short, as an executive producer. It s the first time he s EP d a short, joined by Jack Piatt (The Singers) and Kevin McCormick. Mary the Widow is a special kind of film. It doesn’t waste a [ ]
+After her JFK airport arrest for alleged assault earlier this month, Selma Blair has broken her silence. On Friday, the actress apologized in a statement as she explained that she never intended to hurt or frighten anyone when she allegedly tried to open an airplane door mid-flight to New York City and later assaulted airline [ ]
 
-### Raye To Compose Original Music And Voice A Character For Benny Safdie s Lizard Music At United Artists
-Fri, 30 Oct 2026 18:00:00 +0000 — https://deadline.com/2026/10/raye-voice-role-lizard-music-benny-safdie-composing-1237209560/
+### LAPD Arrests 2 In Connection With Killing Of SNL Writer Jimmy Fowlie s Sister
+Sat, 31 Oct 2026 00:29:51 +0000 — https://deadline.com/2026/10/lapd-arrests-2-men-killing-snl-writer-jimmy-fowlie-sister-1237210269/
 
-EXCLUSIVE: Grammy-winning global superstar Raye is coming on to Benny Safdie s next film Lizard Music to not only voice one of the characters but to also compose original music for the United Artists live-action/CGI hybrid film. She joins previously announced star and producer Dwayne Johnson, Theo Leber, Alicia Silverstone, Tim Heidecker, Arya Parvathi, Regina Hall, [ ]
+Nearly a year after she went missing, LAPD has arrested two people in connection to the death of Christina Downer, the late sister of Saturday Night Live writer Jimmy Fowlie. On Thursday, officers took 41-year-old Delorean Bijon Brandon, who is believed to be Downer s boyfriend, and Kaylee Markowski, 34, into custody for allegedly murdering and [ ]
 
-### Santa Barbara Film Festival Awards: Inde Navarrette, Jaafar Jackson Carrie Coon Among Virtuoso Award Recipients
-Fri, 30 Oct 2026 17:47:00 +0000 — https://deadline.com/2026/10/santa-barbara-film-festival-awards-2027-honorees-1237112049/
+### Eric Bauza To Make Posthumous Debut In The Simpsons Playing Two Characters
+Sat, 31 Oct 2026 00:19:28 +0000 — https://deadline.com/2026/10/eric-bauza-the-simpsons-posthumous-debut-two-characters-1237210229/
 
-UPDATED, 10:40 AM: The Santa Barbara Film Festival on Friday named the recipients of its 2027 Virtuoso Awards. The honorees and their films are Carrie Coon (The Liberation), Mariana di Girolamo (Wild Horse Nine), Rosalind Eleazar (Misty Green), Jordan Firstman (Club Kid), Anthony Ippolito (I Play Rocky), Jaafar Jackson (Michael), Inde Navarrette (Obsession) and Kate [ ]
+Eric Bauza had more than 400 acting credits, voicing dozens of Looney characters such as Bugs Bunny, Daffy Duck, Tweety, Foghorn Leghorn, Pepé Le Pew, Porky Pig, Road Runner, Elmer Fudd and Marvin the Martian and many more prior to his unexpected death on October 25 at the age of 46. But one iconic animated [ ]
 
-### Holt McCallany Serial Killer Thriller Paradise Disturbed Heads To AFM With Stoic; See The First-Look Image
-Fri, 30 Oct 2026 17:07:41 +0000 — https://deadline.com/2026/10/holt-mccallany-serial-killer-movie-paradise-disturbed-sales-1237209585/
+### List Of Hollywood Media Layoffs From Paramount To Warner Bros Discovery To CNN More
+Fri, 30 Oct 2026 23:30:04 +0000 — https://deadline.com/feature/hollywood-media-layoffs-list-1236007845/
 
-EXCLUSIVE: Stoic is launching world sales ahead of the AFM on Paradise Disturbed, which will see Mindhunter star Holt McCallany return to the serial killer genre. Stoic will be screening the completed film directed by James Khanlarian (The Ghost Trap) and based on the novel by James Robert Fuller. Also starring are Zak Steiner (Euphoria), [ ]
+Media layoffs across the entertainment industry are hitting hard after an avalanche of job cuts dating back to mid-2024. The unfortunate trend can still be felt following the Covid-19 pandemic, dual Hollywood strikes and — the latest event to hit Los Angeles hard: a series of wildfires that broke out in January 2025. As the [ ]
 
-### Tony-Winning Broadway Director Daniel Sullivan Announces Retirement After 55-Year Career; Jonathan Kent Steps In For Upcoming Montauk
-Fri, 30 Oct 2026 17:03:50 +0000 — https://deadline.com/2026/10/daniel-sullivan-broadway-retirement-jonathan-kent-1237209510/
+### Martin Scorsese Explains How Seth Rogen Ruined His Cleopatra Film: Kim Jong Un Doesn t Have A Sense Of Humor
+Fri, 30 Oct 2026 22:32:04 +0000 — https://deadline.com/2026/10/martin-scorsese-seth-rogen-ruined-cleopatra-film-1237210059/
 
-Daniel Sullivan, the Tony-winning Broadway director of Proof, The Heidi Chronicles, Glengarry Glen Ross and numerous other acclaimed productions, has announced his retirement after a 55-year career in the theater. The unexpected announcement Sullivan was scheduled to direct next spring s Manhattan Theatre Club production of David Hare s Montauk starring Laura Linney was made [ ]
+More than a decade after the Sony hack shook Hollywood, Martin Scorsese is still reeling from the fallout of the North Korean state-sponsored digital attack. The Oscar-winning director recalled how the wide-reaching hack, which was a response to Seth Rogen s 2014 film The Interview, ruined everything for Scorsese s planned Cleopatra feature, which would have starred [ ]
 
-### Gatsby Police Procedural With Gender Twist In Works At NBC From Jake Coburn Jason Tracey
-Fri, 30 Oct 2026 17:00:00 +0000 — https://deadline.com/2026/10/gatsby-police-procedural-nbc-development-1237209502/
+### Clayface In Brawl With Elizabeth Holmes Nathan Fielder At Halloween Box Office: Both Pics Eyeing $10M+ Each
+Fri, 30 Oct 2026 22:06:00 +0000 — https://deadline.com/2026/10/box-office-you-can-see-everything-clayface-halloween-1237209579/
 
-EXCLUSIVE: NBC is eyeing a fresh spin on a literary classic, with a partially gender-swapped police procedural take on The Great Gatsby in development, Deadline has learned. The series, titled Gatsby, hails from writer/EPs Jake Coburn and Jason Tracey and Universal Television, a division of Universal Studio Group. It s billed as a modern-day police procedural [ ]
+FRIDAY PM UPDATE: Halloween s trick on the weekend domestic box office is currently seeing a fight between A24 s You Can See Everything and Warner Bros/DC s Clayface with $10M+ apiece, though the odds are in favor the incarcerated failed Theranos founder versus a Gotham celebrity whose face melts. You Can See Everything is counting $3.2M today [ ]
 
 ## befores & afters
 
@@ -176,19 +176,19 @@ Behind the mirror shot that still marvels. This episode is sponsored by ‪ fxph
 ### Wētā FX showcases Moana work
 Fri, 30 Oct 2026 08:18:46 +0000 — https://beforesandafters.com/2026/10/30/weta-fx-showcases-moana-work/
 
-Go behind the scenes. The post Wētā FX showcases Moana work appeared first on befores & afters .
+Go behind the scenes with these two videos. The post Wētā FX showcases Moana work appeared first on befores & afters .
 
 ### Caleb Deschanel interview on Wildwood
 Thu, 29 Oct 2026 20:45:10 +0000 — https://beforesandafters.com/2026/10/30/caleb-deschanel-interview-on-wildwood/
 
 Director Travis Knight chats to his cinematographer. The post Caleb Deschanel interview on Wildwood appeared first on befores & afters .
 
-### On The Set Pic: The Hunger Games: Sunrise on the Reaping
-Thu, 29 Oct 2026 06:39:22 +0000 — https://beforesandafters.com/2026/10/29/on-the-set-pic-the-hunger-games-sunrise-on-the-reaping/
-
-Jesse Plemons and director Francis Lawrence on set. Photo Credit: Murray Close. © 2026 Lionsgate The post On The Set Pic: The Hunger Games: Sunrise on the Reaping appeared first on befores & afters .
-
 ## IndieWire
+
+### Watch the Rehearsals for a Revolution Director and Editor Explain How Memories Can Help Fight Authoritarianism
+Fri, 30 Oct 2026 21:14:42 +0000 — https://www.indiewire.com/news/events/watch-rehearsals-for-a-revolution-director-art-of-the-doc-1235224797/
+
+At our Art of the Doc event, director Pegah Ahangurani and editor Arash Ashtiani went deep on one of the year's most acclaimed films.
 
 ### Who Killed Alex Odeh? Review: A Scattered but Searing Documentary Examines America s Tacit Acceptance of Anti-Arab Discrimination
 Fri, 30 Oct 2026 18:00:00 +0000 — https://www.indiewire.com/criticism/movies/who-killed-alex-odeh-documentary-movie-review-1235224728/
@@ -245,112 +245,107 @@ Thu, 29 Oct 2026 18:30:00 +0000 — https://www.indiewire.com/news/general-news/
 
 The five-minute film, which Barker wrote, directed, and edited, was released on his That's a Bad Idea YouTube channel.
 
-### The Netflix Original Movie Experiment Has Failed — and Netflix Will Be All the Better for It
-Thu, 29 Oct 2026 17:30:00 +0000 — https://www.indiewire.com/features/commentary/netflix-lost-the-war-on-movie-theaters-1235224529/
-
-Netflix spent the last 10 years trying to render movie theaters obsolete. Now the company is giving up just in time to avoid becoming obsolete itself.
-
 ## The Wrap
 
-### Peacock s Crystal Lake Thrills Up 1.7 Billion Minutes in 2 Weeks Exclusive
-Fri, 30 Oct 2026 18:45:13 +0000 — https://www.thewrap.com/creative-content/tv-shows/peacock-crystal-lake-ratings-viewership-two-weeks/
+### It: Welcome to Derry Drops Surprise Episode on HBO Max
+Sat, 31 Oct 2026 07:00:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/it-welcome-to-derry-surprise-episode-hbo-max-halloween/
 
-“Crystal Lake” is a Halloween hit for Peacock, with the Friday the 13th prequel series generating 1.7 billion minutes watched over its first 14 days, TheWrap can reveal exclusively. That s up from the 1.3 billion minutes viewed Crystal Lake tallied up in its first 11 days, cementing its place as the fourth highest scripted original series ever on Peacock. Crystal Lake falls behind The Best Man: The Final Chapters, All Her Fault Season 1 and The Five Star Weekend Season 1. Following its Oct. 15 debut, Nielsen charts for the week of Oct. 19 place Crystal Lake” as the No. 3 streaming original series and No. 1 among all first-season series. In addition to its notable viewership, “Crystal Lake” generated more social mentions in its first week after release than any other Peacock scripted original show this year so far. The show scored 1.8 billion earned impressions in its first 24 hours, and grew to reach over 7.6 million video views in its first 11 days, according to figures from Sprout social media. Brad Caleb Kane (“It: Welcome to Derry,” “Tokyo Vice,” “Warrior”) serves as creator, writer, showrunner and executive producer for the Friday the 13th prequel series, which follows single mother Pam Voorhees (Linda Cardellini) who has been unable to shake her grief after her young, sickly son Jason tragically drowned in the town lake almost a year before. “When two strangers arrive at Pam’s door digging into her past, a disturbing chain of events is set into motion, leaving the towns
+It: Welcome to Derry has a Halloween miracle for fans on HBO Max. The horror drama dropped a surprise episode Saturday at midnight to commemorate the spooky holiday. The 30-minute special, titled A Story of Derry, takes place hundreds of years before Pennywise, when three youngsters venture into the Western Wood where they encounter a terrifying ancient spirit. Online speculation referenced a potential origin story for the Shokopiwath tribe, the indigenous people referenced in Episode 4. It comes weeks after HBO renewed the show for Season 2 . The installment will take place in 1935 during the Great Depression and centers on the bloody massacre of the Bradley Gang, a group of bank robbers who stop in Derry to buy ammo and end up facing unimaginable horror. The original drama series, which is set in the world of Stephen King’s “It” universe and comes from Warner Bros. Television, has ranked among the top four series premieres globally in HBO Max’s history. “We are excited to return to the chilling world of Derry and to further expand on Andy and Barbara Muschietti’s horrifically iconic adaptation,” HBO Max Original Programming Head Sarah Aubrey said in a statement. “Together with Brad Caleb Kane, they will break new ground in season two, deepening the terror, the mystery, and the unforgettable Pennywise lore that fans love to devour.” “Continuing to explore and expand on the amazing world Stephen King created is an absolute privilege,” the Muschiettis added. “The support of ou
 
-### Skydance Finalizes Comms Team With Many Warner Bros. Execs Leaving
-Fri, 30 Oct 2026 18:40:34 +0000 — https://www.thewrap.com/industry-news/business/skydance-communications-team-leadership/
+### Timbaland Accuses Former Managers of Fraud, Civil Theft in $15 Million Lawsuit
+Sat, 31 Oct 2026 04:11:15 +0000 — https://www.thewrap.com/industry-news/public-policy-legal/timbaland-sues-former-managers-fraud-civil-theft/
 
-Skydance Chief Communications Officer Melissa Zukerman has set her leadership team following the closing of the Paramount-Warner Bros. Discovery merger. The team includes Laura Watson, who oversees corporate, executive and strategic communications; Shannon Buck, who will oversee corporate communications and media relations; Virginia Fout, who will lead global and executive events; and Deborah Marcus, who will lead corporate and social responsibility. Chris Ender, Brooke Robertson and Jeff Cusson will also serve as comms leads for Skydance TV, Studios and DTC, respectively. I feel incredibly fortunate to have this A-list team in place – and we’re not done yet, Zukerman said in a memo to staff. As we build for what’s ahead, we will add dedicated leaders in Financial Communications and Product and Technology Communications, strengthening our capabilities in areas that will only become more important to our business – from AI tools for filmmakers and creatives to advertising sales and beyond. Meanwhile, those exiting the company include Paramount s Karen Shosfy and Warner Bros. Discovery s Megan Klein, Joe Libonati, Arielle Falkowitz, Heather Wagoner, Adrienne O Hara and Dennis Williams. More to come The post Skydance Finalizes Comms Team With Many Warner Bros. Execs Leaving appeared first on TheWrap .
+Producer and rapper Timbaland, also known as Timothy Mosley, sued his former manager and business manager for over $15 million Friday, accusing the pair of fraud, breach of fiduciary duty and civil theft. In the filing, which was obtained and viewed by TheWrap, Timbaland claimed that Gary Marella, his former manager, “stole millions in unauthorized commissions, fees and reimbursements.” He also accused Marella of using his money to pay employees and falsifying “financial records and communications to conceal unauthorized payments to mislead him. Bruce Seckendorf, Timbaland’s former business manager, is also named in the suit and is accused of failing “to pay Mosley’s mortgage and allow[ing] his home to reach the brink of foreclosure.” “[Seckendorf’s firm] failed to timely pay substantial federal taxes, causing millions in penalties and interest,” the document stated, “while continuing to pay themselves, the Marella Defendants, and other professionals millions in commissions, fees, and purported loan repayments.” “Defendants used their entrusted authority to enrich themselves and others, conceal financial misconduct, and deplete Timbaland’s valuable assets,” the suit added. “Plaintiffs seek to recover their losses, compel an accounting, and stop the continuing unauthorized use of Timbaland’s name for Defendants’ benefit.” According to the filing, the producer only discovered the alleged misconduct after he received a foreclosure notice on his home in 2025. Timbaland’s camp all
 
-### Martin Scorsese Says His Angelina Jolie Cleopatra Movie Was Ruined by Sony Hack
-Fri, 30 Oct 2026 18:34:09 +0000 — https://www.thewrap.com/culture-lifestyle/culture/martin-scorsese-cleopatra-angelina-jolie-sony-hack/
+### The Kelly Clarkson Show Leads 2026 Daytime Emmys (Complete List of Winners)
+Sat, 31 Oct 2026 04:09:57 +0000 — https://www.thewrap.com/industry-news/awards/2026-daytime-emmys-complete-list-of-winners/
 
-Martin Scorsese revealed this week that a Cleopatra movie he was planning with Angelina Jolie ended up getting canceled as a result of North Korea s Sony hack , joking, Just because Kim Jong Un didn t have a sense of humor. On Thursday, Tribeca shared a wide-ranging nearly 40-minute interview between Scorsese and his daughter Francesca. During their conversation, the latter noted that Scorsese has always wanted to make a big Roman epic. In response, Scorsese joked, I missed it. Ridley [Scott], he s done [them] all. We were going to do Cleopatra at one point, and then they made fun of Kim Jong [Un], Scorsese said, referencing the 2014 hack of Sony Pictures by a North Korean state-sponsored hacker group. The infamous incident, which resulted in the leaking of troves of confidential Sony employee emails, messages and data, was carried out in response to Sony s planned release of The Interview, Seth Rogen and Evan Goldberg s satirical takedown of the North Korean government. [Kim Jong Un] got mad and he blew up everybody at Columbia, Scorsese recalled. [It] ruined Cleopatra.' Angelina Jolie, we were going. She was Cleopatra VII. It was going to be really wild, the filmmaker added. When his daughter said she was so mad that the movie never got made, Scorsese joked, Well, tell Seth, because they ruined everything. Just because Kim Jong Un didn t have a sense of humor, you know? It was public knowledge for many years that Hollywood was interested in having Jolie lead an expensive Cl
+The Kelly Clarkson Show has gone golden again. The talk show hosted by the popular musician and American Idol winner led all nominees at the 2026 Daytime Emmys, taking home five awards. These included Outstanding Daytime Talk Series and Outstanding Directing for a Daytime Studio Non-Fiction Series. This brings The Kelly Clarkson Show to a total of 29 wins at the National Academy of Television Arts and Sciences annual awards show, where Clarkson won Outstanding Entertainment Talk Show Host for her debut season in 2020. This is the third-largest haul the show has ever taken home following its seven wins in 2022 and its six wins in 2023. Coming in close behind were “General Hospital” and “Beyond the Gates,” which won four Daytime Emmys each. ABC s General Hospital took home the Outstanding Daytime Drama Series prize, while CBS Beyond the Gates won Outstanding Lead Performer in a Daytime Drama Series: Actress for Tamara Tunie in the show s debut season. CBS also led all networks with 10 wins. “Tonight, we celebrated the outstanding talent and enduring impact of daytime television,” said Adam Sharp, President & CEO of NATAS. “For more than 50 years, daytime programming has brought people together through stories that entertain, inform, and inspire, reflecting the world around us and creating lasting connections with audiences across generations.” Among General Hospital s wins was an Outstanding Guest Performance in a Daytime Drama Series prize for Jeff Kober. Kober also got a Prim
 
-### The 9 Best Halloween Movies on Paramount+ Right Now
-Fri, 30 Oct 2026 18:00:00 +0000 — https://www.thewrap.com/creative-content/what-to-watch/best-halloween-movies-paramount-october-2026/
+### Cate Blanchett-Led Coalition Challenges OpenAI in New York Times Copyright Battle
+Sat, 31 Oct 2026 03:35:47 +0000 — https://www.thewrap.com/industry-news/public-policy-legal/cate-blanchett-led-coalition-amicus-brief-new-york-times-openai-microsoft-battle/
 
-There is still time left to get in a properly spooky Halloween binge. With October coming to a close, the season for horror movie binges is coming to a close (unless you re a year round spooky season person) but we aren t there yet. And luckily Paramount+ offers a handful of truly creepy movies that are worth your time this month. From Paranormal Activity to Drag Me to Hell, these are the horror movies on the streamer to check out this Halloween. Credit: Paramount A Quiet Place: Day One “ A Quiet Place: Day One ” is the rare kind of prequel film this one charting the day that noise-sensitive aliens first arrived on the planet that stands with its predecessors and ultimately becomes the most human story of the entire John Krasinski-helmed series. It follows a terminally ill woman (Lupita Nyong o) and man (Joseph Quinn) who meet as chaos and death consume their city. Together, they try to make it back to the woman’s apartment to save her cat. The film is just as brutal as you’d expect, but Nyong’o and Quinn elevate the creature-feature horrors with unmatched dramatic performances. Credit: Warner Bros. Doctor Sleep “Doctor Sleep” deserved more love than it got. “The Shining” is one of Stephen King’s most iconic novels, and the Stanley Kubrick adaptation is equally revered — by everyone but King himself. So when the time came to adapt the horror writer’s “Shining” sequel, Mike Flanagan ( The Haunting of Hill House ) found a way to tell the story of a grown Danny Torrance (Ewan Mc
+The Human Consent Foundation, Cate Blanchett’s nonprofit advocating for control over how AI uses people’s work and likenesses, and a coalition of Hollywood artists and organizations filed an amicus brief Friday in the New York Times’ lawsuit against OpenAI and Microsoft, challenging the tech companies’ claim that licensing copyrighted works for AI training is impossible. The 31-page document, which was filed in the Southern District of New York on Friday and obtained by TheWrap, was also co-signed by CAA, the Music Artists Coalition, National Association of Voice Actors, Creators Coalition on Artificial Intelligence. The brief included an appendix that featured a number of prominent Hollywood figures voicing their support for the filing – including Anne Hathaway, Bette Midler, Emma Thompson, Helen Mirren, Dan Levy, Ron Howard, Madonna and Olivia Wilde. “Defendants have argued that licensing creative works for AI training is cost-prohibitive,” the amicus brief argued. “Defendants also claim there is no settled means of valuing training data. The facts demonstrate otherwise. The creative industries already have in place a proven infrastructure and workflows to clear rights for dispersed works at scale and cost-effectively.” Elsewhere in the filing, the groups claimed, The creative industries have operated collective licensing frameworks for over a century, and those frameworks now administer rights at scale that directly address the dispersed owner concern. These organizations 
 
-### Dark Matter Boss Explains Bleak Season 2 Finale and How Long the Apple Series Could Go
-Fri, 30 Oct 2026 17:58:27 +0000 — https://www.thewrap.com/creative-content/tv-shows/dark-matter-season-2-episode-10-blake-crouch-interview/
+### Bill Maher Has Some Choice Words for Trump After His 1,300-Word Rant: I Don t Want It to Be This Way
+Sat, 31 Oct 2026 02:24:39 +0000 — https://www.thewrap.com/creative-content/tv-shows/bill-maher-responds-trump-1300-word-truth-social-rant/
 
-Note: This story contains spoilers from Dark Matter Season 2, Episode 10. Dark Matter can be a depressing show and never was that more clear than in the Season 2 finale. The second season of the Apple TV series moved beyond the adaptation of Blake Crouch s novel and into uncharted waters — though with Crouch still at the show s helm as showrunner, broadening the story s scope was somewhat of a less daunting challenge. The core Dessen family — Jason (Joel Edgerton), Daniela (Jennifer Connelly) and Charlie (Oakes Fegley) — and their various multiversal counterparts are still at the heart of things as they try finding a world to live in. But the new season meant many of the first s side characters were able to broaden. It also meant the show could take time in its 10-episode run for some standalones, which included a stellar story about Jason finding a world and reconnecting with his still-living mother, and another which guest-starred Margo Martindale as a woman who turned her home into a way station for those traveling through The Box after it appeared in her living room. I had not had the idea for either of those, Crouch told TheWrap. I d always wondered. Like, it d be cool to do an episode where Jason and Amanda get together. Like, that would be a fun episode to do. That was about it. The fifth episode was the first kind of discussion we had during the Season 2 sessions where I got really excited about doing it. Because I was skeptical about doing more. I was very happy with
+Bill Maher hit back at Donald Trump on Friday, taking aim at the president’s lengthy Truth Social tirade against him and debunking several of his claims. So, did you see the 1300 word tweet he sent out? Longest ever. Kind of a flex, he said during Friday s monologue for HBO s Real Time. I ll tell you, dining at the White House is the opposite of the Cheesecake Factory. After you leave, they review you. I mean, he went off on me like Kelly Clarkson in a toy store. Eating with Trump is like dating Taylor Swift. It s a lot of laughs at the time, but later on they re tearing you a new asshole. He added: I have it here. I m going to look. I don t want it to be this way The whole point of having these dinners was talk, disagree, but listen, which he does in person. But don t hate each other. And then I go back to my job here, and then the heartaches begin. As Maher went on, he fact-checked several of Trump s digs, with the comedian noting it pisses [him] off that the president doesn t even notice what I actually say. Maher then cut to all the times he has defended the Iran War, with the comedian quipping at the end of the compilation: So am I smart now? He talks about how I called him incessantly, he continued. I ve never called you. You call me. I d be afraid to call you. You re the president. I think you re too busy. On Trump s claim that he invited himself to the White House, Maher hit back, As if you could do that. Sir. Bill Maher is here. Well, he s he s not invited, but it s 
 
-### Paramount+ Taps Former Netflix Exec Damla Dogan as Head of Unscripted
-Fri, 30 Oct 2026 17:29:12 +0000 — https://www.thewrap.com/industry-news/business/paramount-plus-damla-dogan-head-of-unscripted/
+### Trump Mocks Hollywood for ‘Kissing My Ass’ Over Federal Film and TV Tax Credit
+Sat, 31 Oct 2026 01:48:48 +0000 — https://www.thewrap.com/media-platforms/politics/trump-mocks-hollywood-kissing-up-tax-credits/
 
-Paramount+ has named Damla Dogan as its head of unscripted, TheWrap has learned. Dogan previously worked in unscripted programming at Netflix from 2018 to 2024 and has been consulting for Paramount+ for the past nine months. Dogan will report to Sarah Aubrey, Skydance’s head of Paramount+, Max Originals and international programming. The move comes as Skydance has solidified its television leadership teams in recent days. Casey Bloys, who will oversee content for both HBO Max and Paramount+, announced his leadership team last week. During her time consulting for the streamer, Dogan worked closely with Jane Wiseman, who served as EVP and head of originals for Paramount+. Paramount+ has recently acquired several unscripted titles, including “Making Love,” hosted by Hannah Berner, and “Team Moms,” produced by Kim Kardashian, which premiered last month. Before joining the Paramount team, Dogan was director of unscripted originals at Netflix, where her credits included “The Circle,” “Bling Empire,” “Buying Beverly Hills” and “Get Organized.” Prior to that, she spent 11 years at E! Entertainment, where she developed the original iteration of “Keeping Up With the Kardashians,” which she oversaw for 14 seasons. Skydance TV Co-Chair and Chief Business Officer JB Perrette appointed several executives on the TV side Thursday, including Shauna Spenley, Tyler Turner and Josh Walker. The news comes just a day after Skydance TV Co-Chair and Chief Content Officer George Cheeks finalized his 
+Donald Trump took a break from complimenting Jon Husted s ass at a Florida campaign rally to mock Hollywood for kissing his own. Trump used part of his speech Friday, days away from the 2026 midterm elections, to make fun of actors and filmmakers for trying to meet with him to make moviemaking more accessible through tax credits. Now they re all calling me, kissing my ass. They want tax credits for Hollywood because Hollywood s dying and other countries are taking away [jobs], Trump said. Sir, can we please meet you. Guys that have been saying bad crap about me for years are sitting in my office, Sir, it s a great honor to be with you, sir. See, the great thing about the internet is that all you do is you press a button, and it tells you everything they ve said for the last 20 years. Ding! Ding! No, it s amazing. Now they want tax credits because their industry is dying in this country. And I ll probably do it. It s not clear which Hollywood celebrities Trump claims were saying it was a great honor to meet with him, though the president did use part of his speech to jab at Robert De Niro. During his rant, Trump went after his vocal critic, asking if De Niro is a moron and saying that he s no good for comedies. Trump on Robert De Niro: He and a couple of the other losers out there , they are all calling me, kissing my ass. They want tax credits because their industry is dying. We’ll think about it. pic.twitter.com/QDZbCKS5jj &mdash; Acyn (@Acyn) October 31, 2026 He s a moron, 
 
-### Late Night Shows Won t Go Live on Election Night for First Time in 24 Years
-Fri, 30 Oct 2026 17:16:15 +0000 — https://www.thewrap.com/creative-content/tv-shows/late-night-not-live-midterm-election-results-first-since-2002/
+### 2 Arrested in Murder of SNL Writer Jimmy Fowlie s Sister
+Sat, 31 Oct 2026 00:45:33 +0000 — https://www.thewrap.com/industry-news/public-policy-legal/lapd-arrests-two-suspects-snl-writer-jimmy-fowlie-sister/
 
-Late night television will be taking a backseat for this year s midterm elections. Since 2002, late night programs have shifted their taping schedules to go live with audiences as election results come in. Jon Stewart took The Daily Show live 24 years ago, covering that year s midterm returns. Two decades later, however, NBC will not air The Tonight Show Starring Jimmy Fallon or Late Night With Seth Meyers on Nov. 3, instead preempting them with live news coverage of the midterm results. ABC will still air a new episode of Jimmy Kimmel Live! But according to LateNighter, the late night program will tape later than usual on Tuesday to react to some of the early results from the East Coast meaning it will not air live on the West Coast with the final outcomes. The Daily Show will air a new episode Tuesday on Comedy Central, but it will likely tape before the polls close in New York (Stephen Colbert also used to cover the midterms live on his show, before CBS ended The Late Show earlier this year). Last midterms in 2022, only Colbert and Kimmel broadcast live shows on election night. During Trump s first term in November 2018, Trevor Noah‘s Daily Show, Colbert, Kimmel and Meyers all covered the first midterm election. This shift away from late night coverage comes in a particularly consequential election cycle. The Republican party has control of both the House of Representatives and the U.S. Senate, but this midterm season has the potential to flip them as Trump goes into the s
+Months after “Saturday Night Live” writer Jimmy Fowlie s April plea for “those responsible to be held accountable” for his sister s death, the Los Angeles Police Department has arrested two suspects in connection with the murder of Christina Downer. One of the individuals arrested by the LAPD s Robbery-Homicide Division on Thursday was Delorean Bijon Brandon, Downer’s 41-year-old boyfriend. Brandon, who was arrested alongside 34-year-old Los Angeles resident Kaylee Nicole Markowski, previously told police that Downer had moved out when her disappearance was first reported. On December 18, 2025, Christina Downer was reported missing after her ex-husband requested a welfare check when he had not heard from her for an extended period of time, a press release from the LAPD s Media Relations Division reads. Downer s boyfriend, Delorean Brandon, claimed that she had moved out several months earlier, leaving behind all her belongings, including her vehicle and her dog. LAPD News: Two Suspects Arrested in Connection with Murder of Christina Downer pic.twitter.com/Ch3XfC5cye &mdash; LAPD PIO (@LAPDPIO) October 30, 2026 The press release notes that the Robbery-Homicide Division took over the investigation after Downer s cellphone washed up on Santa Monica Beach. Detectives suspect Brandon and Markowski of being responsible for Downer s murder, the disposal of her body, and the concealment of their involvement. Bail was set at $2 million each. Fowlie, who joined SNL during Season 48 and
 
-### Christopher Lloyd Recalls Golden Moment When He Called His Girlfriend From Cher s Bedroom: There Was a Pause
-Fri, 30 Oct 2026 17:02:13 +0000 — https://www.thewrap.com/culture-lifestyle/culture/jimmy-kimmel-christopher-lloyd-interview-cher-princess-diana/
+### Selma Blair Apologizes to People She Hurt or Frightened After Plane Incident and Arrest
+Sat, 31 Oct 2026 00:41:53 +0000 — https://www.thewrap.com/industry-news/public-policy-legal/selma-blair-apologizes-plane-incident-biting/
 
-Back to the Future star Christopher Lloyd stopped by Jimmy Kimmel Live! Thursday night and opened up about the surreal moment when he found himself phoning his then-girlfriend from Cher s bedroom, calling it a golden moment. Lloyd said the situation came about following a post-premiere dinner with RoboCop star Peter Weller in Los Angeles. [Cher] happened to be a guest at the occasion. Peter was acquainted with her, Lloyd explained. She invited he and I to her house afterwards. We went up. We went in the house. It was all very grand and quiet. I remember going down a hallway to her bedroom and there was, like, a little office there and a policeman. On duty, Lloyd recalled, dryly joking, You don t see that often. Kimmel, for his part, joked, I could use a couple of cops in the bathroom, now that I think of it. In response, Lloyd replied, Sometimes, it s necessary. The iconic actor said he, Weller and Cher ended up sharing some cocktails together before he remembered that he had a girlfriend waiting for him elsewhere. Oh, you remembered that? Kimmel sarcastically joked. I remember that I had a girlfriend, Lloyd explained. I thought, She s probably wondering what the Hell I m doing. So I called up. I said, Hi, and blah, blah, blah. And she said, Where are you? I said, I m in Cher s bedroom. A golden moment. That made her happy or mad? Kimmel pointedly asked, to which Lloyd succinctly responded, There was a pause . Cher was not the only famous woman Lloyd recalled meeting during h
+Selma Blair apologized on Friday for the Oct. 11 plane incident where she allegedly injured a flight attendant and nurse after being forcibly removed from a plane, saying in an Instagram video that she is so sorry. Following the incident at John F. Kennedy Airport, Blair was hospitalized and later charged with second-degree assault. She posted a $20,000 bail after appearing in Queens Criminal Court the following Monday, according to AP News . “What I can tell you, though, is very simple, and the truest thing I know about myself, and that not one day ever have I intended to hurt or frighten anyone a day in my life,” the Legally Blonde actress said in a Friday Instagram video . “And so to the people that I disappointed, that I hurt, I frightened, alarmed: I am so sorry.” View this post on Instagram A post shared by Selma Blair (@selmablair) Her reps initially issued a statement following her arrest saying that the public account was built almost entirely on a police statement and a decade-old headline.” “A handful of journalists have taken the time to report on Selma as a human being rather than a headline, and we are grateful to them, the statement said at the time. But fair reporting has been the exception, and in the space left by our silence, speculation has hardened into something being treated as fact. We can, however, correct the record on a few points already in public circulation. Selma Blair experienced a medical emergency on the flight. There was no attempt to open t
 
-### The View : Ana Navarro Is Completely Against Impeachment of Trump If Dems Take Control of Congress
-Fri, 30 Oct 2026 16:34:03 +0000 — https://www.thewrap.com/creative-content/tv-shows/the-view-ana-navarro-completely-against-impeachment-trump/
+### Ana Navarro Compares Trump’s ‘Racism’ Against Abdul El-Sayed to John McCain vs. Obama
+Fri, 30 Oct 2026 23:18:16 +0000 — https://www.thewrap.com/media-platforms/politics/ana-navarro-compares-trumps-racism-abdul-el-sayed-to-john-mccain-obama/
 
-Democrats may take control of both the House and Senate with next week s midterm elections but, if they do, The View host Ana Navarro doesn t think they should try to impeach the president. In fact, she s completely against the idea. As part of Friday s Hot Topics discussions, the ABC hosts dug in on what priorities Democrats should immediately have, if they do win the House and/or Senate. Navarro argued that they have to be realistic of what s achievable, but before even that, they first have to, well, win. First of all, we are four days away from an election, so before we start talking about what Democrats are going to do once they win, they got to make sure they win, she said. That said, if and when they do win, Navarro stressed that Democrats will still be limited in what they can do. Donald Trump is still president, and legislation in this country needs to be signed by the president. If not, it needs to have a veto-proof majority, and I think that s going to be very difficult to achieve, she said. I am completely against impeachment. There s 100 other ways to hold Donald Trump and his misadministration accountable, Navarro continued. Impeachment is an exercise that is moot if you don t have the 67 votes in the Senate required to indict. Navarro added that Trump s legacy already includes the fact that he was impeached twice, and thus questioned what difference a third one will make. For the most part, her co-hosts agreed with her. Sara Haines argued that the priority shou
+Ana Navarro went on her podcast Friday to call out the racism and Islamophobia faced by Abdul El-Sayed in the Michigan Senate race. The political pundit said the commentary surrounding El-Sayed reminded her of another key political race: Barack Obama vs. John McCain. The big deal here is that Abdul El-Sayed is a muslim, and Republicans from the top down, starting with Trump on down, have attacked him for being a muslim, Navarro said on BLEEP! with Ana Navarro. They ve done an entire grift on his name, called him Mohammed, called him this, called him that. They ve said he s a jihadist. They ve called him a terrorist. They say that he s going to require going through a metal detector in order to enter the Senate. They ve tied him to the Muslim Brotherhood. They ve said he s dangerous. Navarro compared the commentary from Trump and his colleagues to a town hall at which a woman told John McCain she couldn t trust Obama, calling him an Arab. McCain then defended his opponent, calling him a decent family man and saying that people didn t have to fear him as a prospective president. You see, that is the right thing to do, Navarro said. But instead of doing that, Mike Rogers in Michigan, Republican running for the Senate, has allowed this to happen. And I can t tell you how disappointed I am. Navarro went on to say that she knew Rogers during an overlap in their tenures at CNN. At the time, she believed Rogers to be a guy with a moral compass, but said that watching him allow these 
 
-### Patrick Stewart’s 25 Greatest ‘Star Trek: The Next Generation’ Episodes
-Fri, 30 Oct 2026 16:30:32 +0000 — https://www.thewrap.com/creative-content/tv-shows/patrick-stewart-best-star-trek-episodes/
+### ‘Daily Show’ Roasts Billionaire Tom Steyer as ‘Self-Hating Minority’ for Supporting California Wealth Tax
+Fri, 30 Oct 2026 23:12:16 +0000 — https://www.thewrap.com/creative-content/tv-shows/daily-show-roasts-billionaire-tom-steyer-wealth-tax/
 
-When it debuted in 1987, Star Trek: The Next Generation had big shoes to fill. The original Star Trek was a classic series that, despite underwhelming early ratings, had become a major success in syndication and spawned multiple hit movies. To people all over the world there was only one captain of the Enterprise, and his name was James T. Kirk. So Patrick Stewart , a Shakespearean actor whose bald head made producers briefly panic and consider putting him in a wig, could have had serious trouble winning Star Trek fans over. But it didn t take long for Captain Jean-Luc Picard, the galaxy s most British Frenchman, to make his own mark on the series. Stewart s character was a thoughtful diplomat, not a dashing man of action, and throughout the show s 176 episodes, four movies, and spin-off series Picard he gave the character many layers. He may have looked and sounded like everyone s favorite archaeology professor, but Picard was also a skilled comedian, a swashbuckling hero, a lovelorn romantic, an uncomfortable father figure, a heartless cyborg, and everything else Star Trek required. A lesser actor would have had trouble making all of Captain Picard s qualities feel like they belong to the same person, but Stewart combined them all to make one of popular culture s most celebrated, beloved characters. And now, arguably, the greatest captain in the history of Star Trek. Patrick Stewart has passed away at the age of 86 and he left behind many iconic performances, but for those 
+Despite The Daily Show host Michael Kosta s repeated attempts to sway his stance, Tom Steyer stood his ground as a self-hating minority billionaire in support of Prop 40. Kosta ventured to California in a recent segment of the satirical show Comedy Central show to spotlight the effort to tax billionaires 5% in the state. He interviewed one non-billionaire who plans marches in support of the the uber wealthy, and former gubernatorial candidate and billionaire himself Steyer, who has a distaste for billionaires. Proposition 40 is on the ballot in California this midterm election. If passed, the one-time tax would force the billionaire class in the Golden State to pay a 5% wealth tax. Where are you planning to move once California passes this 5% wealth tax? Kosta asked, citing other billionaires fleeing the state like Elon Musk. I think I ll move to San Francisco, California, Steyer said. No! You re going to be taxed in California, 5%. You re a billionaire. That s a s tload of money, Kosta replied. I have never contemplated the idea of moving, he said. I love California. I love where I live. We should be taxing the richest people in this society, specifically billionaires. Steyer has been a staunch supporter of the proposition, advocating for the measure when he was campaigning to be governor of the state earlier this year. The idea that somebody made the money on their own, without society making that possible is insanely selfish and delusional, Steyer said. We shouldn t have a
 
 ## Collider
 
-### ‘Resident Evil’ Star’s New Survival Thriller Officially Removed From 1,000 Theaters
-Fri, 30 Oct 2026 18:45:12 GMT — https://collider.com/whalefall-austin-abrams-survival-thriller-removed-from-1000-theaters-box-office/
+### One of the Best Horror Movies of the Decade Is Officially Streaming Free Just in Time for Halloween
+Sat, 31 Oct 2026 10:30:12 GMT — https://collider.com/late-night-with-the-devil-streaming-free-tubi-october-2026/
 
-Hot off the success of the new Resident Evil reboot , which has grossed nearly $400 million worldwide, star Austin Abrams appeared in another survival thriller almost immediately afterward. The new movie couldn’t match the success of the blockbuster video game adaptation. In fact, it has emerged as a major box-office underperformer despite pre-release buzz around its premise: a young diver gets swallowed alive by a sperm whale. The movie also features Josh Brolin , who is coming off the major box-office bomb The Dog Stars , directed by Ridley Scott . As the new film enters its third week of release, it has witnessed its (rather substantial) first drop in theater count.
+David Dastmalchian should get to lead more horror movies. He has been a welcome presence in the genre for years, but Late Night with the Devil gave him a role that makes full use of how unsettling he can be. As television host Jack Delroy, he has to keep an audience entertained while the worst night of his life unfolds on camera . Jack would probably appreciate it if everyone watching could at least help his ratings.
 
-### 'SNL UK' Fans Are Missing This Unsettling 4-Minute Horror Comedy From 2 of Its Stars
-Fri, 30 Oct 2026 18:32:12 GMT — https://collider.com/snl-uk-saturday-night-live-paddy-young-jack-shep-this-place-is-a-shthole-short/
+### The 10 Best Video Games Based on Movies, Ranked
+Sat, 31 Oct 2026 10:08:12 GMT — https://collider.com/best-video-games-based-on-movies-ranked/
 
-By now, it is perhaps old news that Saturday Night Live 's first-ever spin-off, Saturday Night Live UK , was actually a hit. Having not only secured a Season 2 , but a second installment that's 50% longer than the first, the series is proving that the sketch comedy format can not only work in a different country, culture, and creative team, but can even find the same level of success.
+For decades, movie tie-in games were the joke of the gaming industry. Since E.T. became the symbol of the US video game market crash of 1983, the bad reputation of movie tie-in video games was set in stone. They were usually rushed out to hit a release date, built on a shoestring budget, and forgotten before the film left theaters. But a handful of licensed games broke the curse, and the best video games based on movies often succeeded by refusing to simply replay the film and call it a day.
 
-### ‘Dexter: Resurrection’ Quietly Revives a Missing Piece of the Original Show's Formula
-Fri, 30 Oct 2026 18:31:12 GMT — https://collider.com/dexter-resurrection-season-2-intro-opening-credits-original-show/
+### Goodbye 'X-Men,' Patrick Stewart's Netflix Thriller Is Even Better
+Sat, 31 Oct 2026 10:03:12 GMT — https://collider.com/patrick-stewart-green-room-x-men-streaming-netflix-november-2026/
 
-Editor's note: The below contains minor spoilers for Dexter: Resurrection Season 2.
+The death of Sir Patrick Stewart on October 29 released waves of grief among audiences across the world. Stewart passed after a brief battle with Alzheimer's disease and Lewy body dementia at age 86, according to his family. An icon on the stage and the screen, Stewart made a particularly seismic impact on sci-fi entertainment, bringing his Shakespearean training and natural authority to bear in roles that could have been made silly — from the X-Men series to David Lynch 's Dune and, of course, as Capt. Picard on Star Trek: The Next Generation and the films that followed.
 
-### NBC Officially Announces New 'Law & Order' Replacement
-Fri, 30 Oct 2026 18:18:47 GMT — https://collider.com/nbc-law-and-order-replacement-great-gatsby-reboot-detective-series/
+### Anya Taylor-Joy's R-Rated 'Vikings' Replacement Officially Conquers Streaming
+Sat, 31 Oct 2026 10:00:12 GMT — https://collider.com/anya-taylor-joy-the-northman-streaming-success-prime-video-apple-tv-october-2026/
 
-Law & Order is on of NBC's most beloved series and their latest show feels like a perfect replacement for the procedural. In January of 2021, F. Scott Fitzgerald 's novel The Great Gatsby entered into the public domain. Since, it has resulted in musical adaptations and more all based on Fitzgerald's most famous work. Now, a new kind of adaptation is heading to network television. Gatsby , created by writer/EPs Jake Coburn and Jason Tracey, is in the works at NBC and is taking the world of Jay Gatsby and his narrator best friend, Nick Carraway, to an entirely new place: A modern day police station. The new police procedural will put Gatsby in the detective chair and use his con-man ways to help him solve cases with his partner, Det. Nicole "Nicky" Carraway. There is no news on casting or when the series is set to release at this time.
+Few stars have had as much to do this year as Anya Taylor-Joy , who has headlined some of the biggest movies in theaters as well as some of the most-watched TV shows on streaming. For her opening act in 2026, Taylor-Joy reprised her role as Princess Peach in The Super Mario Galaxy Movie , which was the first feature film of 2026 to hit $1 billion at the global box office. She then returned to Apple TV to star in one of the best crime thriller shows of the year, Lucky , alongside Timothy Olyphant — part of what made ATJ’s return to Apple TV so exciting is that she previously starred in The Gorge for the platform. She’ll finish the year by headlining Dune: Part Three alongside Timothée Chalamet , but she can also be seen starring opposite Chris Evans in Sacrifice on Netflix.
 
-### The Mosquito Bowl: Skarsgård Found Football Harder Than War | Set Stories
-Fri, 30 Oct 2026 18:15:12 GMT — https://collider.com/video/the-mosquito-bowl-skarsgrd-found-football-harder-than-war-set-stories/
+### The MCU's Best Action Thriller Is the Perfect James Bond Replacement
+Sat, 31 Oct 2026 09:57:12 GMT — https://collider.com/captain-america-the-winter-soldier-best-mcu-action-spy-thriller/
 
-The Mosquito Bowl: Why Football Was Harder Than War. Bill Skarsgård, Nicholas Galitzine, Tom Francis, and Ray Nicholson reveal how intense football training, chaotic battle sequences, and director Peter Berg's unconventional filmmaking approach shaped their performances in the 2026 war drama.
+Nearly 20 years after Iron Man rocketed into theaters, the Marvel Cinematic Universe continues to flourish. Part of that is because the franchise is a constant; despite its ups and downs, people expected at least one Marvel movie in theaters each year. Another major ingredient in Marvel's recipe for success is that each movie feels like it's in a different genre, while still having a superhero at the helm . The Guardians of the Galaxy trilogy is a punk-rock space opera. Black Panther brings Shakespearean weight to the table. One of the MCU's best movies delivers the kind of action thriller that matches the James Bond movies , or in some cases exceeds them.
 
-### After ‘Supergirl,’ DC’s Much Cheaper Horror Gamble Is Already Paying Off
-Fri, 30 Oct 2026 18:09:20 GMT — https://collider.com/clayface-box-office-number-one-43-million-supergirl-dc/
+### 13 Years Later, Michael B. Jordan's Career-Best Performance Is Officially Free to Stream
+Sat, 31 Oct 2026 09:40:11 GMT — https://collider.com/michael-b-jordan-fruitvale-station-streaming-plex-november-2026/
 
-When James Gunn was first announced as the new head of DC Studios back in 2022, there were high hopes for his new cinematic universe. Gunn had come off a run of successful Guardians of the Galaxy movies in the MCU, and fans had grown tired of Zack Snyder ’s dark and dreary take on some of DC’s most beloved characters. Gunn’s DCU officially began in 2024 with the release of the animated HBO series, Creature Commandos , but it officially launched in live-action the next summer with the debut of Superman . The film was a massive hit at the box office, but things didn’t exactly follow the same path for the next DCU movie, Supergirl , which flew into theaters back in June. Supergirl proved to be the first real test for the DCU under Gunn and his co-boss Peter Safran .
+As the race for next year's Academy Awards gains momentum, there's one film that is the favorite to sweep up. Christopher Nolan 's historical epic The Odyssey , which stars Matt Damon as the King of Ithaca, is likely to take home several Golden Statues come the 99th Oscars ceremony. But many are even predicting it will make Academy Awards history by earning the most nominations ever. This very record was only broken earlier this year, as Ryan Coogler ’s beloved vampire flick Sinners earned an eye-watering 16 nominations.
 
-### Netflix’s Twisted 4-Part Thriller Is So Good, You’ll Want To Watch It Twice
-Fri, 30 Oct 2026 18:07:12 GMT — https://collider.com/best-david-tennant-series-netflix-inside-man-thriller/
+### Brad Pitt's Gritty War Thriller With Jon Bernthal Is Officially a Global Streaming Smash
+Sat, 31 Oct 2026 09:20:12 GMT — https://collider.com/brad-pitt-jon-bernthal-ww2-fury-streaming-netflix-november-2026/
 
-David Tennant has played plenty of complicated characters throughout his career, but few have found themselves in quite as much trouble as Harry Watling. In Steven Moffat ’s four-part thriller Inside Man , the former Doctor Who star trades the TARDIS for a church in a picturesque English village, where one terrible decision sends his otherwise ordinary life spiraling into a nightmare. It’s the sort of predicament that makes you wonder just how much damage one person can do when they’re desperately trying to put things right.
+With the recently released survival thriller Heart of the Beast having exceeded box-office expectations, director David Ayer ’s previous collaboration with star Brad Pitt has been added to the Netflix library. Ayer and Pitt worked together on a fan-favorite 2014 hit, which remains the benchmark of success for Heart of the Beast . The new survival thriller has grossed more than $170 million at the global box office so far, against a reported budget of $80 million. It’s still trailing the 2014 movie by around $40 million. Like that film, Heart of the Beast has received exceptionally positive reactions from audiences.
 
-### Brad Pitt’s New Survival Thriller Officially Removed From 1,800 Theaters as $200M Milestone Looms
-Fri, 30 Oct 2026 17:46:12 GMT — https://collider.com/heart-of-the-beast-brad-pitt-sleeper-hit-survival-thriller-removed-from-1800-theaters-box-office/
+### Two ‘Slow Horses’ Stars Officially Reunite in an Oscar-Winning WWII Epic on Prime Video
+Sat, 31 Oct 2026 09:00:12 GMT — https://collider.com/gary-oldman-ww2-darkest-hour-streaming-prime-video-november-2026/
 
-With younger audiences flocking to movies such as You Can See Everything , Clayface , and Street Fighter , a counter-programmer targeted at older crowds has emerged as the biggest hit of them all. The movie in question has now spent more than a month in theaters, braving competition from all sides. While it maintained a solid pace in its first few weeks, it began to show a slight decline in the two subsequent frames. As it enters its seventh weekend of release, the film’s theater count was further reduced by Paramount. The movie, a survival thriller headlined by Brad Pitt , is now targeting the $200 million mark at the worldwide box office, on the back of solid reviews and near-unanimous praise from its target audience.
+An Oscar-winning companion piece to Christopher Nolan ’s Dunkirk , coincidentally released in the same year and starring Nolan’s recurring collaborator, has been added to the Prime Video library. While Dunkirk tells the story from the front lines of World War II , the companion piece unfolds almost entirely inside dimly lit hallways and corridors of power. The movie, directed by Joe Wright , also serves as something of a companion piece to Wright’s own television series Mussolini: Son of the Century , which was released in 2025.
 
-### 'Reacher' Season 4 Officially Hits 66 Million Viewers as Alan Ritchson Films Season 5
-Fri, 30 Oct 2026 17:45:28 GMT — https://collider.com/reacher-66-million-views/
+### Apple TV's 'True Detective' Reunion Is Officially a Major Streaming Hit
+Sat, 31 Oct 2026 08:40:12 GMT — https://collider.com/apple-tv-brothers-streaming-success-30-days-october-2026/
 
-2026 has been a benchmark year for Alan Ritchson , who has fully come into his own as one of the biggest action stars in all of Hollywood. At the start of the year, Ritchson took his talents to Netflix to star in the fan-favorite sci-fi thriller, War Machine . After the movie earned nearly 140 million views during its initial viewing period on Netflix — enough to be crowned one of the platform’s top 10 most-watched hits of all time — the streamer announced that a sequel to the film is in the works. Ritchson also starred in two new action movies over the summer, Motor City and Runner . Neither film broke any records at the box office, but both have had impressive runs of success on VOD and streaming platforms.
+Apple TV may not have as many subscribers as some of its counterparts in the streaming game like Netflix or Prime Video, but the platform is unrivaled when it comes to delivering prestige hits on a regular basis. Apple TV has particularly shined in the last few years in the sci-fi genre , and while it made a name for itself with hits like Severance , other shows such as Pluribus have since taken the streaming crown as some of the most popular series in the world. Apple TV also has more grounded dramas like Ted Lasso to fall back on, but with the fate of the show still hanging in the balance, the streamer is ready to introduce Season 2 of Stick (starring Owen Wilson ) as the perfect replacement. Meanwhile, Apple TV has another show blowing up right now that’s been in the works for years.
 
-### Netflix’s Hit Horror Series Is Officially Returning for Season 3 After 15 Million Views
-Fri, 30 Oct 2026 17:04:38 GMT — https://collider.com/netflix-haunted-hotel-season-3-renewed/
+### Pokémon Fans Officially Get the Ghost-Type Upgrade They’ve Been Waiting For
+Sat, 31 Oct 2026 08:20:12 GMT — https://collider.com/pokemon-go-shiny-greavard-halloween-2026-debut/
 
-Haunted Hotel has found a good use for Will Forte ’s ability to make an awkward situation worse. As Nathan, the ghost helping his sister run the Undervale, he remains involved in the family business well beyond any reasonable retirement age. Netflix’s animated horror comedy gives him plenty of company, including a demon whose appearance as a little boy does very little to make him suitable for children.
+Pokémon Scarlet and Violet introduced a very convincing argument for ignoring every warning in the Pokédex . Greavard looks like a shaggy puppy with a candle on its head, which is more than enough to make following it seem reasonable. Being a Ghost type does little to undermine its appeal , especially in a franchise where some of the cutest creatures come with deeply unsettling backstories.
 

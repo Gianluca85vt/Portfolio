@@ -1,6 +1,26 @@
-# Games — harvested 2026-10-30T18:51:36.170Z
+# Games — harvested 2026-10-31T10:36:10.981Z
 
 ## Eurogamer
+
+### Silver Pines is a great survival horror throwback with an unexpected Metroidvania twist, but it makes me glad the genre's moved on
+Sat, 31 Oct 2026 10:00:00 +0000 — https://www.eurogamer.net/silver-pines-now-playing
+
+It's those bloody typewriters all over again. Developer Wych Elm Games' Silver Pines is fantastic in a whole bunch of ways, from its woozy small-town ambience to its mix of taut survival horror and exploratory Metroidvania. But from the very first moment I saw its save system, its please-insert-coin phone box demands, I knew our relationship was going to be a fractious one. Read more
+
+### What we've been playing - "I've been intrigued by horrible images of live-action sequences for weeks"
+Sat, 31 Oct 2026 08:00:00 +0000 — https://www.eurogamer.net/what-weve-been-playing-tenebris-somnia-moonlight-peaks-amnesia
+
+Happy Halloween! Are you scared? I am: I'm in a theatre play that opens next week and we're not ready yet. I'm also off to a ghost stories evening at the theatre tonight; I've had a few people there tell me, with faces as straight as a ruler, of their eerie encounters. Actually, one encounter involved me. Read more
+
+### GOTY hopeful Mina the Hollower bought the studio financial stability "for now," while the Shovel Knight devs work on a new 3D game
+Fri, 30 Oct 2026 19:55:21 +0000 — https://www.eurogamer.net/shovel-knight-3d-mina-financial-stability
+
+Yacht Club Games has confirmed that most of its developers are now working on a brand new 3D game (potentially Shovel Knight 3D), after the critically-acclaimed Mina the Hollower did well enough for the team to continue. Read more
+
+### Blizzard hints at console ports for World of Warcraft: Forever - "Play it wherever you want and, at some point, on whatever you want"
+Fri, 30 Oct 2026 19:06:18 +0000 — https://www.eurogamer.net/blizzard-console-port-hints-world-of-warcraft-forever
+
+After more than two decades dominating the PC MMO battlefield, it sounds like Blizzard Entertainment 's taking the idea of a World of Warcraft console port more seriously than ever. Read more
 
 ### Dark Souls 2 and Dark Souls 3's online servers are temporarily going dark, FromSoftware announces
 Fri, 30 Oct 2026 17:45:23 +0000 — https://www.eurogamer.net/dark-souls-servers-temporarily-shutting-down-fromsoftware
@@ -41,26 +61,6 @@ As I'm sure you're all now already aware, legendary British actor Sir Patrick St
 Fri, 30 Oct 2026 11:35:06 +0000 — https://www.eurogamer.net/no-new-assassins-creed-games-in-development-ubisoft
 
 Yesterday, Ubisoft issued a statement about the future of the Assassin's Creed series, and the publisher's comments included quite a big surprise: there are currently no new remakes of the series' past games in the works. Read more
-
-### Bethesda reportedly revealing The Elder Scrolls 6 next month, and we may know what its subtitle is going to be
-Fri, 30 Oct 2026 10:52:39 +0000 — https://www.eurogamer.net/elder-scrolls-6-reportedly-revealed-november
-
-Bethesda's hugely anticipated and long-awaited fantasy role-playing game The Elder Scrolls 6 could be revealed "as soon as next month", a new report has claimed - right in the midst of Microsoft's ongoing restructuring efforts. Read more
-
-### Celeste and TowerFall dev explains why both games were suddenly delisted from Xbox
-Fri, 30 Oct 2026 10:15:24 +0000 — https://www.eurogamer.net/towerfall-celeste-xbox-boycott-delisted
-
-Celeste and TowerFall have both been delisted from Xbox suddenly earlier this week. Per a post on Bluesky, developer Maddy Thorson says this was an intentional move, with the games being removed from sale on Xbox in support of the BDS (Boycott, Divestment, Sanctions) movement, which is aimed at protesting various companies linked to, or supporting, Israel's government during the genocide in Palestine . Read more
-
-### Dataminer uncovers that Spiny - a character seemingly with no way to operate a car - was meant to be playable in Mario Kart World
-Thu, 29 Oct 2026 16:16:28 +0000 — https://www.eurogamer.net/mario-kart-world-dataminer-spiny
-
-A dataminer has uncovered something peculiar in the code of Mario Kart World . Spiny, a tiny little turtle-looking fella with a spiky shell, was meant to be a driver in the game. Read more
-
-### EA's sale to Saudi-led consortium was "final nail in the coffin" for BioWare, says studio co-founder
-Thu, 29 Oct 2026 15:08:17 +0000 — https://www.eurogamer.net/bioware-co-founder-greg-zeschuk-closure-interview
-
-One of BioWare's famous doctor-founders, Greg Zeschuk, has finally spoken about the studio's closure last week , saying it's "kind of sad" and that EA's leveraged buyout by a Saudi-involved consortium "was the final nail in the coffin". Read more
 
 ## GamesIndustry.biz
 
@@ -114,26 +114,26 @@ Thu, 29 Oct 2026 10:53:08 +0000 — https://www.gamesindustry.biz/xbox-first-par
 
 Microsoft has exceeded first quarter expectations, reporting $92.3 billion in revenue with increases in net income and earnings per share. Read more
 
-### The five golden rules of external development
-Thu, 29 Oct 2026 09:00:00 +0000 — https://www.gamesindustry.biz/the-five-golden-rules-of-external-development
-
-We created Code Wizards 24 years ago, and as an external development partner, we work with a mix of small and large companies on backend engineering, live operations, IT and more. Over the years we've learnt from our mistakes, and CEOs of new studios and service providers often ask me how they can best work together for success. Here, I'll share the top five simple rules that you can incorporate into your own playbook to help minimise the stress and maximise the fun of working together. Read more
-
-### PressEngine announces The Pre-Show, an in-person London showcase for upcoming games
-Wed, 28 Oct 2026 19:13:51 +0000 — https://www.gamesindustry.biz/pressengine-announces-the-pre-show-an-in-person-london-showcase-for-upcoming-games
-
-PR and influencer marketing platform PressEngine is launching The Pre-Show, an in-person event that puts developers directly in front of media and content creators. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
 
+### PS5 Dynamic Pricing Concerns Revived by New Sony Job Listing
+Sat, 31 Oct 2026 01:00:00 GMT — https://www.pushsquare.com/news/2026/10/ps5-dynamic-pricing-concerns-revived-by-new-sony-job-listing
+
+Company looking for someone to lead initiative. A new PlayStation job listing has sparked a fresh wave of fan concerns regarding dynamic pricing on the PS Store . Spotted by The Game Post , the role – for a Senior Director of Digital Games Monetisation – includes some phrases which have spooked gamers, including a reference to “intelligent pricing”. Read the full article on pushsquare.com
+
+### Talking Point: What Are You Playing This Weekend? - Issue 656
+Sat, 31 Oct 2026 00:00:00 GMT — https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-656
+
+Raise hell. Another week has come to a close, and that means it's time for us to WAYP together. I love how eclectic these articles have become over the years; it's always interesting to see what everyone's playing. Aaron Bayne I recently started Zero Parades: For Dead Spies Director's Cut , since I fancied something a bit slower-paced. Really digging it so far. Read the full article on pushsquare.com
+
 ### Inspired by Classic FromSoftware, Queen s Domain Looks a Fascinating PS5 Adventure
 Fri, 30 Oct 2026 17:00:00 GMT — https://www.pushsquare.com/news/2026/10/inspired-by-classic-fromsoftware-queens-domain-looks-a-fascinating-ps5-adventure
 
-Out now for $20 on PS5. There are far too many promising indie games releasing every week to keep up, but this one, Queen's Domain , has really caught my eye. It releases onto PS5 today for £17.75 / $19.99, and it's inspired by King's Field , the series FromSoftware made before Demon's Souls . Essentially, it's an RPG blending retro visuals and the fantasy RPG genre to create a difficult adventure based around combat and exploration. You travel to an island called the Isle of Naesied, where your father disappeared. From there, an adventure ensues. Read the full article on pushsquare.com
+Out now for $20 on PS5. There are far too many promising indie games releasing every week to keep up, but this one, Queen's Domain , has really caught my eye. It releases onto PS5 today for £15.99 / $19.99, and it's inspired by King's Field , the series FromSoftware made before Demon's Souls . Essentially, it's an RPG blending retro visuals and the fantasy RPG genre to create a difficult adventure based around combat and exploration. You travel to an island called the Isle of Naesied, where your father disappeared. From there, an adventure ensues. Read the full article on pushsquare.com
 
 ### New Call of Duty to Remove Appalling Footage of Real-Life Tragedy
 Fri, 30 Oct 2026 16:00:00 GMT — https://www.pushsquare.com/news/2026/10/new-call-of-duty-to-remove-appalling-footage-of-real-life-tragedy
@@ -180,17 +180,12 @@ Thu, 29 Oct 2026 20:00:00 GMT — https://www.pushsquare.com/news/2026/10/no-new
 
 But doesn't rule them out in the future. After the success of Assassin's Creed: Black Flag Resynced , publisher Ubisoft has confirmed it currently does not have any other remakes of previous entries in the series in development. As of mid-July 2026, we knew Black Flag Resynced had sold three million copies , and the number will have only gone up since then. It was deemed a big success, and the rumours were that Ubisoft was determining whether to create further remakes based on its sales stats. Read the full article on pushsquare.com
 
-### Destiny 2 Content Unvaulting Won t Take Place Until 2028
-Thu, 29 Oct 2026 19:30:00 GMT — https://www.pushsquare.com/news/2026/10/destiny-2-content-unvaulting-wont-take-place-until-2028
-
-Bungie needs 12 months for production and porting. PlayStation developer Bungie has confirmed it'll likely need until the first few months of 2028 to complete the unvaulting process of old Destiny 2 content it recently promised to bring back . A new community update post shares a predicted timeline for the content unvault, with the studio currently at the pre-production stage. It expects to be at this point until January or February of next year, and then it'll enter full production for about 12 months, placing a finish line at the beginning of 2028. "It's a lot of content," said Bungie. Read the full article on pushsquare.com
-
-### It Hasn t Made Any Difference : Gears of War PS5 Cancellation Fails to Boost Xbox
-Thu, 29 Oct 2026 19:00:00 GMT — https://www.pushsquare.com/news/2026/10/it-hasnt-made-any-difference-gears-of-war-ps5-cancellation-fails-to-boost-xbox
-
-"In fact, it keeps getting worse". During its summer livestream earlier in the year, Xbox CEO Asha Sharma made a big song and dance about her company’s return to console exclusivity. Many first-party titles, like Halo: Campaign Evolved , released on the PS5 under previous boss Phil Spencer’s leadership. Read the full article on pushsquare.com
-
 ## Game Developer
+
+### Anthropic orders AI tool Claude to stop remaking video games
+Fri, 30 Oct 2026 18:52:20 GMT — https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games
+
+Update: Anthropic has confirmed it's released an update to Opus 5.5 to "steer" Claude Code away from "recreating someone else's specific game."
 
 ### Roblox growth slumps, but the company is betting big on AI to compensate
 Fri, 30 Oct 2026 18:30:00 GMT — https://www.gamedeveloper.com/business/roblox-growth-slumps-but-the-company-is-betting-big-on-ai-to-compensate
@@ -276,57 +271,77 @@ Use our code to get the PC version for £39.89 / €47.87 instead of £49.99 / �
 
 ## Polygon
 
-### How to open the Crimson Manor in Phantom Blade Zero
-Fri, 30 Oct 2026 18:41:24 GMT — https://www.polygon.com/phantom-blade-zero-crimson-manor-how-to-open/
+### Star Wars' Secret Writers Quietly Made the Strangest, Scariest Zombie Movies of All Time
+Sat, 31 Oct 2026 10:01:20 GMT — https://www.polygon.com/messiah-of-evil/
 
-The Crimson Manor is a mysterious location in Phantom Blade Zero that you discover after riding a suspicious elevator in the Weeping Creek Valley . Although you can visit it in the first few hours of the game, the doors to the somber building won't budge until you have a unique key that fits the puppet-shaped lock. Unlocking the manor is a secondary mission, but one that helps you learn more about a central character and achieve the game's true ending.
+Besides the occasional shadow person who creeps into my room once a fortnight, nothing paralyzes me quite like deciding what to watch on Oct. 31. In my mind, Halloween is a horror movie marathon month where veering in and out of subgenres and quality metrics is highly encouraged. So how do you close it out on actual Halloween?
 
-### HBO's Harry Potter Officially Casts Its New Sorting Hat and Ghosts
-Fri, 30 Oct 2026 18:02:51 GMT — https://www.polygon.com/harry-potter-hbo-tv-show-recasts-ghosts-sorting-hat/
+### 60 Years Later, the Best 'Peanuts' Quote of All Time Still Doesn't Get the Credit it Deserves
+Sat, 31 Oct 2026 08:04:17 GMT — https://www.polygon.com/best-peanuts-quote-ever-charlie-brown-charles-schulz/
 
-HBO's new Harry Potter TV show is just two months away, but key roles are still being cast — or at least officially announced — for the series. The new Harry Potter will be full of fresh faces, including new lead actors Dominic McLaughlin as Harry Potter, Arabella Stanton as Hermione Granger, and Alastair Stout as Ron Weasley.
+One of the best examples comes from a Feb. 3, 1966, comic strip in which Lucy mocks him for volunteering for a school spelling bee. Charlie Brown’s response contains some of the best advice Schulz ever put on the page. Sixty years later, it’s still something we can all stand to remember.
 
-### New Switch 2 Consoles Quietly Hide A Perfect 'Zelda' Homage
-Fri, 30 Oct 2026 17:30:19 GMT — https://www.polygon.com/zelda-switch-2-console-easter-egg-preorder-controller-case-pixel-art/
+### Nintendo’s Biggest Game of the Year Isn't What You Think It Is
+Sat, 31 Oct 2026 08:00:17 GMT — https://www.polygon.com/switchboard-tomodachi-life-huge/
 
-Lucky Nintendo fans who secured a pre-order for The Legend of Zelda: Ocarina of Time Switch 2 are starting to open the boxes containing their swanky new consoles — and are receiving a nice, unexpected surprise.
+This is the time of year when Nintendo's global marketing departments start limbering up and doing stretches for a big mass-market retail push. Nintendo UK launched a wholesome and emotive campaign this week, seemingly trying to one-up Nintendo Australia's legendary sad Zelda dad campaign for Tears of the Kingdom back in 2023. It doesn't quite work, but something about it caught my eye.
 
-### We Finally Know What Killed Mass Effect
-Fri, 30 Oct 2026 17:26:40 GMT — https://www.polygon.com/mass-effect-bioware-shutdown-ea-star-wars/
+### CBS's Legendary 156-Episode Sci-Fi Anthology Series is Officially Free to Watch on Streaming
+Sat, 31 Oct 2026 07:44:17 GMT — https://www.polygon.com/cbs-sci-fi-shows-twilight-zone-free-streaming-october-2026/
 
-On Oct. 21, EA announced that it was shutting down the beloved game studio BioWare and canceling its new Mass Effect sequel. The news was quite a blow, sparking theories that the studio was shut down because of pressure from Saudi Arabia’s Public Investment Fund, which recently bought out EA . Based on reporting from Bloomberg , we now know the main reason the publisher shut down BioWare: Star Wars.
+In the realm of science fiction, Star Wars and Star Trek are generally considered to be the two biggest and most important franchises of all time. If you’re purely talking about profitability, that’s correct; those two have dominated TV and film for decades. However, if you factor in things like influence and impact, another sci-fi property ranks right up there with the big two. In the realm of sci-fi, pretty much all roads lead to, or derive from, The Twilight Zone . And this landmark show is currently free to stream.
 
-### Animal Crossing’s Biggest Competitor Officially Launches in December
-Fri, 30 Oct 2026 17:03:53 GMT — https://www.polygon.com/petit-planet-release-date-trailer/
+### 5 Must-Play New Xbox Games Coming in November, Including GTA 6
+Sat, 31 Oct 2026 04:00:18 GMT — https://www.polygon.com/new-xbox-games-november-2026/
 
-After months of silence about its upcoming cozy life-sim HoYoverse finally set a Petit Planet release date. Petit Planet launches Dec. 4 for PC and mobile devices, with pre-load starting on Dec. 1; HoYoverse hasn't announced plans to launch Petit Planet on consoles yet.
+If you only took a quick glance at November’s release date calendar, you might walk away with the idea that Xbox players are only getting one game this month: Grand Theft Auto 6 . While that’s certainly the only big game coming to Series X, the first few weeks of November are deceptively crowded . A stack of indie hidden gems and nostalgic remasters are here to make sure you have something to play while you wait for your return to Vice City.
 
-### 2026’s Secret 'Robin Hood' Movie Suddenly Drops on Streaming After Bombing in Theaters
-Fri, 30 Oct 2026 16:31:42 GMT — https://www.polygon.com/robin-hood-movie-the-uprising-streaming-date-andrew-garfield/
+### Sony's Bringing Back Spider-Man $2.5 Billion Hit With New Footage
+Sat, 31 Oct 2026 03:09:18 GMT — https://www.polygon.com/spider-man-brand-new-day-rerelease-extended-new-footage-cameos/
 
-Another 2026 box office flop is heading to streaming after a short theatrical run. The Uprising , which was briefly marketed in the U.S. as The Uprising: The Rise of Robin Hood , will stream exclusively on Peacock in early November.
+As Marvel Studios' release of Avengers Endgame: Encore proves, blockbuster movies can still dominate the box office , even after a multibillion dollar run. Sony is reportedly planning a rerelease of Spider-Man: Brand New Day to bring web-head-heads back to movie theaters — and like Endgame: Encore , the studio is adding new footage of Spider-Man 's latest flick as an incentive.
 
-### HBO’s New Green Lantern Series Officially Gets an Important Update
-Fri, 30 Oct 2026 16:16:15 GMT — https://www.polygon.com/dc-my-adventures-with-green-lantern-episode-count-revealed/
+### 15 Classic Games That Prove Gameplay Is More Important Than Graphics
+Sat, 31 Oct 2026 02:36:37 GMT — https://www.polygon.com/classic-games-bad-graphics-good-gameplay/
 
-DC and HBO first announced My Adventures with Green Lantern back in 2025, and updates since then have been sparse. It was briefly shown off during this year's Annecy International Animation Festival , but nothing at the convention was released publicly. Now, DC Studios co-lead Peter Safran has finally given a small but much-needed update on the project.
+There’s no getting around it: graphics matter a great deal for video games. For many years, visual fidelity alone was one of the best reasons to invest in new consoles and better gaming PCs. There have always been games that didn’t compete for a position at the head of the pack, though. Their developers recognized the importance of compelling gameplay loops, fiendish difficulty, multiplayer appeal, and innovation long before such priorities reliably drew crowds.
 
-### 6 Steam Games Coming Soon That Belong on Your Wishlist
-Fri, 30 Oct 2026 16:00:19 GMT — https://www.polygon.com/wishlister-oct-30/
+### Top 10 Pokémon Cards Most Likely to Be Fake
+Sat, 31 Oct 2026 02:22:17 GMT — https://www.polygon.com/top-10-pokemon-cards-most-likely-to-be-fake-how-to-tell/
 
-Even though Steam Next Fest is over, we’re still sorting through all the games it put on our radar. While Steam’s recurring free demo event was invaded by generative AI games, it still featured plenty of human-made projects that cut through the slop. We’ve walked away from the event with a very long wishlist of upcoming PC games.
+The more Pokémon trading cards pop off , the more potential players and collectors have to worry about one thing: counterfeit cards. Sometimes, a fake card will be obvious. As more money pours into the hobby , however, there's more incentive than ever to pull a fast one on people. Fakes are getting harder to tell from authentic ones, but it helps to know what Pokémon cards are the most likely targets — and what you should look out for in general while inspecting singles.
 
-### OpenAI Billionaire: PCs Are 'Terrible' When Data Centers Need More Memory
-Fri, 30 Oct 2026 15:52:46 GMT — https://www.polygon.com/chatgpt-open-ai-sam-altman-youtube-interview-vram-supply-cost-data/
+### Every Mike Flanagan TV Series, Ranked
+Sat, 31 Oct 2026 02:10:17 GMT — https://www.polygon.com/mike-flanagan-series-ranked/
 
-Here's a fun fact: from now until 2029, OpenAI owns 40% of the world's supply of Dynamic Random Access Memory (DRAM), which powers cell phones, video game consoles, and artificial intelligence. The ChatGPT maker is thus one of the key reasons you have to pay $650 for a PS5 now, and why no one can affordably build a new gaming PC. Somehow, OpenAI CEO Sam Altman thinks that percentage isn't enough.
+Mike Flanagan is certainly having a moment this year. After the success of Prime Video's Carrie — and its season two renewal — more eyes are on him and his works than ever before. Luckily, he has a fairly solid backlog of TV shows and films for viewers to peruse. In fact, hardly anybody is creating consistent, high-quality horror for film and television like Flanagan is.
 
-### 'Star Wars Fate of the Galaxy' Officially Released for Free
-Fri, 30 Oct 2026 15:24:40 GMT — https://www.polygon.com/star-wars-fan-game-fate-of-the-galaxy-free-space-2-mod/
+### 10 Free Browser Games That are Actually Fun to Play
+Sat, 31 Oct 2026 02:09:02 GMT — https://www.polygon.com/best-free-browser-games-to-play/
 
-Never doubt the tenacity of Star Wars fans. After close to 20 years of development, a group of volunteers is finally releasing Fate of the Galaxy , a Star Wars space combat game built on FreeSpace 2 ’s open-source engine. This total conversion mod was developed using FreeSpace Open and is available for free on Linux, Mac, and PC .
+If you do your research, though, you’ll find a treasure trove of easily-accessible gems — like a solo dev’s reworked Diablo village where you watch your party auto-battle its way through catacombs, or an idle game where managing catnip supply chains spirals into deep-space civilization management. Deduction mysteries, language-learning puzzles, and dungeon crawlers usually come with a price tag and a download bar. Tragically for your productivity and spare time, these ten do not.
 
 ## PC Gamer
+
+### AI-powered game development is 'leading to an explosion of content,' Roblox says, as it brags about 70,000 games published on its platform in the last 5 months alone
+Fri, 30 Oct 2026 20:39:57 +0000 — https://www.pcgamer.com/software/ai/ai-powered-game-development-is-leading-to-an-explosion-of-content-roblox-says-as-it-brags-about-70-000-games-published-on-its-platform-in-the-last-5-months-alone/
+
+Valve recently admitted that it has a problem with AI slop games and clones flooding Steam—it doesn't know what to do about it just yet, but it at least acknowledges that it's an issue. Now we have Roblox, speaking from the other side of that coin in its Q3 2026 shareholder letter , in which it bragged that the July release of Build, its AI-powered "prompt-to-game creation tool," users have published more than 70,000 games. "During the last three months, we have witnessed an inflection point in AI adoption and content generation in the gaming industry overall, and on Roblox in particular," the letter states. "AI-enabled game creation, automation in code generation and AI supported asset creation are leading to an explosion of content. The time it takes to go from an idea to a playable game is compressing dramatically, and so is the time it takes to adapt a game for new devices." The "explosion of content" remark is what jumps out at me first and foremost. Is that really a good thing— content , in explosive quantities? That is essentially what Valve is facing on Steam that's widely considered a problem—an ever-growing mountain of content —yet in the world of Roblox, it's a feature, not a bug. And Roblox is not looking to stem the tide. "We have been embracing AI to accelerate creation since the first release of Roblox Studio Assistant in December 2023," the letter continues. "Over the past month, more than 80% of the top 100 games on Roblox (ranked by hours engaged) used AI to
+
+### Soulframe opens up for everyone next week as the Warframe devs prepare the fantasy action RPG for one of its 'biggest, most violent' updates ever next month
+Fri, 30 Oct 2026 20:30:00 +0000 — https://www.pcgamer.com/games/rpg/soulframe-opens-up-for-everyone-today-as-the-warframe-devs-prepare-the-fantasy-action-rpg-for-one-of-its-biggest-most-violent-updates-ever-next-month/
+
+After three years of invite-only playtests, Soulframe is opening its doors to everyone next week on November 6. If you've been waiting to see what the developers of Warframe are doing with a fantasy action RPG, you'll finally be able to jump in and see for yourself. The transition to an open alpha will be followed by a massive transformation to the structure of the game later in November. Midrath, Soulframe's big open landmass, won't be the verdant, almost chill, place it used to be: The entire area will be corrupted and it's your job to bring it back to life. "You're going to enter a game that is much more unforgiving and harsh at first glance," creative director Geoff Crookes explained in a recent presentation attended by PC Gamer. This update, Prelude 17 or Verse of the Veillands, is a huge shift for Soulframe, but an important one that will help new players acclimate to the world. Crookes said the goal is to improve the onboarding experience and to give players "much more ownership" over their decisions early on. It won't be fully finished yet, however, so what's in there today is just "the functional bones" of what will come in the final game. Feedback from players who struggled to reach the point of the game where they could freely explore the open world convinced the team there needed to be a more direct intro. In Verse of the Veilands, the main quest will teach you how to stop the siphons draining the world of its color. Enemies and resources you encounter will change
+
+### New games in 2027: Fable, Final Fantasy 7, and (maybe) GTA 6 on PC
+Fri, 30 Oct 2026 19:11:36 +0000 — https://www.pcgamer.com/games/new-pc-games-2027/
+
+I've made peace with our 2026 list and accepted that a few of my most anticipated releases may wind up on our new PC games 2027 calendar instead. That's good news for me—legend has it I cannot be slain by my enemies until I've played Gen Atlas, Blight, and The Expanse RPG. Oddly specific win conditions, I know. My picks remain dateless, much like Grand Theft Auto 6 on PC, but other 2027 release dates are starting to trickle in with Fable, Exodus, and Final Fantasy 7 Revelation among the early headliners. Here's hoping your favorites get penciled in soon, too. Until then, here's our new PC games 2027 calendar. Videogame movies and shows : Adaptations to watch Steam sale dates : Waiting for a deal Epic free games : Limited-time freebies Best PC games : All-time favorites New PC games to watch in 2027 Fable Steam | February 23 Fable went from a 2025 release to Autumn 2026, and now we're here . Since Microsoft keeps shuttering studios left and right, I've got little faith that anything under the name is safe, but director Ralph Fulton says Fable isn't on the chopping block . I'll remain cautiously optimistic until February. Exodus Steam | April 7 Archetype Entertainment—founded by BioWare veterans—is working on its big space adventure set to debut at the start of 2027. After EA shut down BioWare it's impossible to ignore how Mass Effect-like the game looks, so here's to hoping it captures some of that beloved RPG magic. Final Fantasy 7 Revelation Steam | April 8 After a thematica
+
+### Star Trek Online players are holding public vigils to mourn Patrick Stewart
+Fri, 30 Oct 2026 18:53:22 +0000 — https://www.pcgamer.com/games/mmo/star-trek-online-players-are-holding-public-vigils-to-mourn-patrick-stewart/
+
+Yesterday, the world received the sad news that legendary stage and screen actor Patrick Stewart had died at the age of 86 following a "brief and poignant journey with Alzheimer's Disease and Lewy Body Dementia." His passing has triggered an internet-wide celebration of his life—particularly from Star Trek fans honoring his tenure as The Next Generation's Captain Jean-Luc Picard. While countless social media posts have already been penned in Stewart's memory, a subset of Trekkies are grieving together in the shared virtual spaces of Star Trek Online, the modest MMO that's still keeping the lights on 16 years after its 2010 launch. With orbital starship flotillas and starbase torchlight vigils, STO's humble playerbase is turning out to mourn one of its most beloved figures—just as it had done earlier this week for the death of Walter Koenig . (Image credit: Arc Games) Recalling the faint memories of having made my own STO account in prior years, I logged in to join in that mourning myself—at which point I discovered that I'd never finished the tutorial questline, and that the intervening years' updates to the new player experience had broken my character's ability to progress. But after an hour of building a fresh, new cadet-turned-captain and getting my space legs by scanning radiation clouds and blowing up a collection of Borg shapes, I was free to head Earthward to participate in players' impromptu memorial gatherings. Once I arrived in the Sol system, it didn't take much l
 
 ### Romero Games has a new publisher for the game Xbox abandoned, but its 110-person team is now just 16 devs: 'I needed to basically design a new game that could use as much of that stuff as possible'
 Fri, 30 Oct 2026 18:33:30 +0000 — https://www.pcgamer.com/games/fps/romero-games-has-a-new-publisher-for-the-game-xbox-abandoned-but-its-110-person-team-is-now-just-16-devs-i-needed-to-basically-design-a-new-game-that-could-use-as-much-of-that-stuff-as-possible/
@@ -367,26 +382,6 @@ More and more, AI appears to be the reason we can't have nice things on the inte
 Fri, 30 Oct 2026 16:43:23 +0000 — https://www.pcgamer.com/games/mass-effect/ea-reportedly-canned-bioware-and-mass-effect-5-to-make-a-new-star-wars-battlefront-instead/
 
 According to Bloomberg's sources, EA saw a new Battlefront game as a less risky investment than Mass Effect Universe. This final factor joined a host of well-discussed reasons for BioWare's unfortunate demise: Andromeda's critical reception, Anthem's live service failure, Veilguard's sales struggle ( pretty good game though ), friction between the studio and EA since the very beginning, and, of course, EA's recent Saudi-Kushner-Private Equity acquisition. One other added wrinkle: BioWare apparently lost its main ally at the top of the EA org chart. Entertainment and Central Development exec Laura Miele, who historically advocated for BioWare, was "sidelined" according to Bloomberg. EA sports execs David Tinson and Cam Weber were promoted instead. The age of nerds has ended, now begins the long night of the jock. Overall, this new information doesn't radically reframe BioWare's overall story at EA, one of slow decline and mismanagement, or how most observers will interpret it through a culture war lens⁠. Was BioWare too woke? Not woke enough? For the love of god keep it out of our comments section. But now we know why the knife was finally driven home, for what it's worth. And I guess we can anticipate a new Battlefront game some time at the tail end of the 2030s. Woohoo. For more on the closure of BioWare, PCG lead SEO editor Lauren Morton spoke to 16 developers who were inspired to join the industry because of the studio about what BioWare meant to them. 2026 games : All the
-
-### GTA 6's souped-up Red Dead Redemption 2-style morality system will scale from 'Professional' to 'Irredeemable' so players can decide what kind of criminal they want to be
-Fri, 30 Oct 2026 15:23:59 +0000 — https://www.pcgamer.com/games/grand-theft-auto/gta-6s-souped-up-red-dead-redemption-2-style-morality-system-will-scale-from-professional-to-irredeemable-so-players-can-decide-what-kind-of-criminal-they-want-to-be/
-
-I may rob casinos, steal cars, and occasionally drive on the sidewalk, but I'm not a monster, and I don't want the civilians in Grand Theft Auto 6 to think I am. Well thanks to the souped-up morality system there will be a bit of space for some redemption. Rob Nelson, Rockstar North's co-studio head and head of development went into greater detail about what GTA 6's "Criminal Profile" involves during an interview for Edge magazine and how players will have some authority about how the world will react to them. (Image credit: Rockstar Games) The Criminal Profile will track your actions as Lucia and Jason on a scale from "Professional" to "Irredeemable", represented by angel and devil icons. It's not necessarily encouraging you all to be saints who disengage with any form of violence and follow road traffic laws to a tee, but you have to be mindful of how much violence you doll out. Fights don't need to always end in death, a professional criminal may incapacitate their opponent instead of putting a bullet between their eyes or perhaps try to get information or whatever they want from them via less violent means, at least at first. You may try to intimidate or perhaps bribe your way to the best ending. Rockstar has confirmed that your Criminal Profile will affect how the story pans out and so it's certainly something to keep an eye on, if you're gunning for a specific storyline that is. We've already learned a bit about the Criminal Profile before thanks to an IGN preview in wh
-
-### Screw Grand Theft Auto 6's supercars, I'm here for Leonida's robust public transportation system
-Fri, 30 Oct 2026 15:22:01 +0000 — https://www.pcgamer.com/games/grand-theft-auto/screw-grand-theft-auto-6s-supercars-im-here-for-leonidas-robust-public-transportation-system/
-
-Yes, Grand Theft Auto is a videogame series where you drive fast cars and occasionally mow down the odd pedestrian here and there. I like that. It's nice. I am looking forward to also doing that in Grand Theft Auto 6. But the thing I'm really excited to do? Hop on a bus, baby. Out of all 16(!!) pages from Edge magazine's newest megafeature on Rockstar's upcoming meteor, a teeny-tiny paragraph about Leonida's public transportation system is the one that's got me feeling all giddy. Similarly to Red Dead Redemption 2, the game will feature a fully functioning train system, as well as a bunch of bus routes to help you get around Leonida the old-fashioned way. And, according to head of development Phil Hooker, they're systems that he has extensively tested to ensure their reliability. "I'm obsessed with making sure they always turn up," he told Edge. "So, anywhere in the middle of playing, I'll just go: right, we're going to get the bus to where we're going. I've memorised all of the routes." (Image credit: Rockstar Games) I kind of love it, I can't lie. It really feels like Rockstar is paring down the criminal power fantasy a tiny bit and offering more grounded, realistic ways to exist in its world. Which might make some hardcore pedestrian-mowers a little furrow-browed, but it seems as though the developer is trying to create various levels at which people can engage with the chaos and zaniness the series has typically offered. As much as I'm also a member of the crime spree bri
-
-### Real-world disaster footage in Modern Warfare 4 opening cinematic will be removed following complaints from victims' families
-Fri, 30 Oct 2026 15:20:25 +0000 — https://www.pcgamer.com/games/fps/real-world-disaster-footage-in-modern-warfare-4-opening-cinematic-will-be-removed-following-complaints-from-victims-families/
-
-A Korea Herald report says the opening cinematic of Call of Duty: Modern Warfare 4 will be edited to remove video clips of a real-world disaster in South Korea that left 160 people dead. The Seoul Halloween crowd crush occurred in October 2022 during Halloween celebrations in the city's Itaewon neighborhood, when a crowd surge in the narrow streets and alleys resulted in 160 deaths and left nearly 200 more injured. The opening cinematic of Modern Warfare 4 uses footage from that disaster to portray the immediate aftermath of a fictional North Korean invasion of South Korea, the basis of the game's story. Activision said the use of the video was not meant to "reference or trivialize" the actual event, but merely "to establish the game's fictional narrative." A statement released by families of victims reported by the BBC , however, said "using such an event as material for a game made for entertainment is in itself highly inappropriate and senseless," and added that if Activision "has even a minimum of courtesy and empathy towards the victims, it should take corrective action without delay." That's now set to happen, as Activision has released a statement saying it will remove the footage from the game and apologized for using it. "We offer our deepest condolences and sincere apologies to the bereaved families, victims and everyone who has been deeply hurt or distressed by this incident." the publisher said. However, there will be some delay before that happens: The Modern War
-
-### Intel giving us a reason to be excited for Nova Lake: 'We've had a bit of a hole in our portfolio for high-end desktop, Nova Lake filled in that gap'
-Fri, 30 Oct 2026 14:12:35 +0000 — https://www.pcgamer.com/hardware/processors/intel-giving-us-a-reason-to-be-excited-for-nova-lake-weve-had-a-bit-of-a-hole-in-our-portfolio-for-high-end-desktop-nova-lake-filled-in-that-gap/
-
-Intel seems pretty confident about its next generation of desktop chips. The company's top brass just got off the phone with shareholders to discuss how much money it made last quarter (TL;DR: not enough) but more interestingly noted a few tidbits to keep us gamers on the hook for a forthcoming announcement about Nova Lake at CES 2027. First off, yes, CES 2027 is when we're reportedly going to hear more about Nova Lake. That takes place at the start of January. I feel we'd usually hear something ahead of the Christmas break—a vanguard of high-performance chips—but I guess the memory crisis and a sales slump saw to that. "Nova Lake, our first Intel 18A-P client product, is tracking ahead of schedule, with design wins expected to be twice those of Panther Lake at launch," Lip-Bu Tan said (transcript via Seeking Alpha ). "We look forward to sharing more at CES in January." That's another of the disclosures: Intel will be using the 18A-P node for at least parts of Nova Lake. That should be a step-up for desktop chips: existing Panther Lake and Wildcat Lake chips are built using the 18A node, but they're only on mobile, while existing Arrow Lake chips, such as the Core Ultra 9 285K, are built using TSMC's N3B node. 18A-P promises "9% higher performance at iso power or more than 18% lower power at iso performance." Yet what really piques my interest is this comment from David Zinsner: "As we go into next year, we'll have Nova Lake. And I think the important aspect of Nova Lake is w
 
 ## GameSpot
 
@@ -452,6 +447,16 @@ What's next for the Assassin's Creed franchise? Following the successful launch 
 
 ## Rock Paper Shotgun
 
+### What are we all playing this weekend?
+Sat, 31 Oct 2026 09:45:21 +0000 — https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-406
+
+My scares should have been reserved for today, what with it being All Hallows' Eve and all, but my fright came on Thursday. Read more
+
+### Warframe's fantasy-pilled sister Soulframe finally goes open to all this November, though Digital Extremes are "nervous" about certain changes
+Fri, 30 Oct 2026 20:30:00 +0000 — https://www.rockpapershotgun.com/warframes-fantasy-pilled-sister-soulframe-finally-goes-open-to-all-this-november-though-digital-extremes-are-nervous-about-certain-changes
+
+Warframe creators Digital Extremes have announced that their free-to-play fantasy RPG Soulframe will be available for everyone to download on 6th November, after two years in closed alpha. Finally, you serfs without "prelude" keys will be able to fire up Soulframe.com and make sense of my ranting about the sleeping animals on the lobby screen. The new "open prelude" will land shortly before the game's 17th major update, Verse of the Veilands, which lets you grow your Omen wolfpup allies into rideable adult wolves by finding the ingredients for a special biscuit. More importantly, prelude 17 violently rearranges the game's wistful world, adding an Ubisoft-esque region purging system that is designed to guide new players a bit more emphatically towards the game's "votives". Aka, missions. Yes, Digital Extremes sort of have a bespoke term for every game feature in Soulframe. I find this can be either charming or maddening, depending on how much sleep I've had. Read more
+
 ### Wooshy wuxia actioner Phantom Blade Zero is sharp enough on the Steam Machine, if blunted on the Steam Deck
 Fri, 30 Oct 2026 17:45:52 +0000 — https://www.rockpapershotgun.com/phantom-blade-zero-steam-machine-steam-deck
 
@@ -501,14 +506,4 @@ I quite liked that there video game Mouthwashing . It had a lot to say about how
 Thu, 29 Oct 2026 21:27:20 +0000 — https://www.rockpapershotgun.com/phantom-blade-zero-kicks-off-its-launch-with-a-day-one-patch-that-offers-improvements-to-ray-tracing-and-some-bug-fixes-to-boot
 
 If you've been hankering for some video gamey wuxia shenanigans, today seems like a good day for it, given that Phantom Blade Zero has now been released unto the world ( with a 145GB install size that's technically actually 300GB but only for a bit ). And like many big games before it, it comes not quite finished, as a day one patch attends to some of the action game's issues&hellip; I think, anyway, there's been a promise of a day one patch but no clear indicator if it's actually arrived or not. I don't own it either, so I can't check. At least I can tell you what's in it! Read more
-
-### "We didn't want the brooding hero out for revenge": How quiet lulls and a bird-sketching lead make Control Resonant a more introspective kind of action game
-Thu, 29 Oct 2026 20:30:00 +0000 — https://www.rockpapershotgun.com/we-didnt-want-the-brooding-hero-out-for-revenge-how-quiet-lulls-and-a-bird-sketching-lead-make-control-resonant-a-more-introspective-kind-of-action-game
-
-Like the repeating pattern effect afflicting its warped Manhattan, Control Resonant threw me for a loop. One minute I would be brutally slashing and smashing my way through hordes of inhuman enemies, enacting a never-ending chain combo of bellowing violence with my Aberrant, and the next minute I would be scanning nearby rooftops for signs of a squeaking purple dragon plushie to give to a very wiggly dog (who, I was pretty sure, could teleport). Combat often felt desperate and bloody; knockdown-and-drag-out brawls that had me limping away like John Wick after a particularly messy gunkata affair. Still, these fights all ended eventually, and in their place was not always more action-RPG battling but, more often, an odd sense of melancholic peace and quiet. It&rsquo;s a strange dichotomy I&rsquo;ve been thinking about nearly nonstop since I finished my first playthrough. Spoilers/Revelations for Control Resonant ahead. Don&rsquo;t say we didn&rsquo;t warn/notify you. Read more
-
-### After the rough start that was last year's entry, Football Manager 27 is looking to bring you in with a few free days of play before the game's even out
-Thu, 29 Oct 2026 19:56:12 +0000 — https://www.rockpapershotgun.com/after-the-rough-start-that-was-last-years-entry-football-manager-27-is-looking-to-bring-you-in-with-a-few-free-days-of-play-before-the-games-even-out
-
-Football Manager 27 is still a good week and ahead out from launch, but if you're quick you can already get to playing it. That's because developer Sports Interactive have released a Launch Preview version of the game that lets you take it for a kickabout before it comes out in earnest. Read more
 

@@ -1,6 +1,51 @@
-# Tech — harvested 2026-10-30T18:51:36.170Z
+# Tech — harvested 2026-10-31T10:36:10.981Z
 
 ## Ars Technica
+
+### Once again, NASA is asking for ideas to rescue Hubble from certain death
+Sat, 31 Oct 2026 00:07:22 +0000 — https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know/
+
+The Hubble Space Telescope still shines in the eyes of astronomers after 36 years in orbit, but it is not as nimble as it once was. Left alone, the observatory will plunge back into the atmosphere in the early-to-mid-2030s, closing the book on one of the most famous scientific instruments of the century. NASA last raised the orbit of Hubble in 2002, when the Space Shuttle Columbia visited the observatory for a servicing mission. The final shuttle servicing flight in 2009 did not reboost the telescope's orbit, and with the retirement of the shuttle fleet two years later, Hubble has steadily lost altitude with no way to stave off eventual destruction. The space agency released a Request For Information (RFI) on Thursday asking commercial companies for ideas on how to reboost, service, or a controlled disposal of Hubble. Responses are due November 30. Specifically, NASA is looking for information about companies' current and near-term capabilities for capturing Hubble and boosting it to an altitude of at least 373 miles (600 km), enhancing the telescope's performance, or guiding Hubble to a controlled reentry. Read full article Comments ]]>
+
+### Flesh-eating screwworms spread to third state and are attacking pets
+Fri, 30 Oct 2026 22:36:41 +0000 — https://arstechnica.com/health/2026/10/flesh-eating-screwworms-are-feasting-on-pets-4-dogs-and-cat-attacked-this-week/
+
+For a genuine fright this Halloween, you can turn your gaze to the southern border, where ravenous, flesh-eating maggots are festering and have taken to eating people's pets. This week, the country's New World Screwworm (NWS) infestation spread to a third state, Arizona, which joins New Mexico and Texas in being plagued by the horrifying parasites. To date, 74 animal cases have been identified in the US since the flies re-invaded the country in June. The flies lay hundreds of eggs in wounds and moist orifices of animals, and the resulting voracious maggots feast on their victims. The maggots resemble screws and tortuously bore and twist into living flesh, causing severe, sometimes fatal wounds, before dropping to the ground to develop into adults. Read full article Comments ]]>
+
+### Oh captain, our captain: Ars staff remembers Patrick Stewart
+Fri, 30 Oct 2026 22:21:05 +0000 — https://arstechnica.com/culture/2026/10/oh-captain-our-captain-ars-staff-remembers-patrick-stewart/
+
+Along with the rest of the world, we at Ars are mourning Sir Patrick Stewart —the beloved award-winning actor best known as Captain Jean-Luc Picard in Star Trek: The Next Generation and Professor Charles Xavier in the X-Men franchise—who died yesterday at the age of 86. A statement released by Stewart's representatives said: We announce with great sorrow the passing of Sir Patrick Stewart yesterday at his home in Los Angeles, in the loving care of his beloved wife Sunny, following a brief and poignant journey with Alzheimer’s Disease and Lewy Body Dementia. He has been held in the warm embrace of family and friends, surrounded by live music, prayer, tears, laughter, and the kind of profound emotion that only he could inspire after a lifetime of devotion to us all. We will forever cherish the peaceful ease and reflection on his face, an enduring reminder of his invincible grace. Through the actor's X account , the family has requested that, in lieu of flowers, memorial contributions be made to the Johns Hopkins Alzheimer’s Disease Research Center Fund and the Alzheimer’s Foundation of America Caregiver Resources . Read full article Comments ]]>
+
+### Supersonic airliner in doubt as company shifts to powering AI data centers
+Fri, 30 Oct 2026 21:41:54 +0000 — https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/
+
+Boom Supersonic CEO Blake Scholl recently declared “it’s time for a renaissance in energy and in supersonic flight” as the supersonic airliner company unveiled a Colorado factory dedicated to making gas turbines for AI data centers. But Boom may be facing turbulence after early backers for both ventures have questioned the company’s delivery timeline or backed out entirely. One of the company’s first customers, United Airlines CEO Scott Kirby, has expressed doubts about Boom’s original plan to deliver the first Overture supersonic airliner in 2029. Kirby’s latest frank assessment came during an interview with the Office Hours: Business Edition podcast that appeared on October 28, 2026. “‘29 is their official timeline,” Kirby told podcast host Monica Langley. “It’s not going to happen in ‘29—it’s going to take longer.” Read full article Comments ]]>
+
+### Anthropic VS code extension on Cursor backdoored for nearly 12 hours
+Fri, 30 Oct 2026 21:09:54 +0000 — https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/
+
+An official extension for Anthropic’s Claude model was backdoored and threatened as many as 5,000 developers' machines, multiple sources reported Friday. Anthropic so far has yet to warn customers of the incident. The compromised package was a VS Code extension available in the marketplace of Cursor, a maker of AI-assisted developer tools, the company said Friday. The malicious version, 2.1.313, subsequently affected “at most 5,000 users,” presumably when they either downloaded it or their systems automatically fetched and installed it. Anthropic pushed version 2.1.314 several hours after the previous version became available on Cursor, according to independent researcher Kevin Beaumont. Both Beaumont and the CTO and co-founder of security firm Phorian said that version 2.1.313 was distributed through Anthropic’s official account on Cursor. So far, neither Cursor nor Anthropic has explained how the attackers gained control of the account. In search of cloud credentials “It was a supply-chain compromise where the attacker gained access to the official distribution channel,” Phorian CTO and co-founder Luke Roberts told Ars. “The malicious version 2.1.313 was posted to the official Anthropic account, effectively superseding 2.1.312. Extensions auto-update in Cursor by default, but users can configure this in settings.” Phorian has more details here . Read full article Comments ]]>
+
+### Dartmouth's provost warned us about AI cheating—but his own AI use cost him his job
+Fri, 30 Oct 2026 20:40:13 +0000 — https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/
+
+On August 9, 2026, Dartmouth College provost Santiago Schnell wrote a Washington Post op-ed called "Universities are fighting AI cheating. But there’s a deeper problem." This week, Schnell discovered the depths of the problem himself as he resigned from the university after an advisory committee found that he failed to disclose significant AI use in an academic paper and in the Washington Post op-ed, even though publishers required such disclosure. Schnell didn't make it especially easy for the committee to investigate his AI use; the report uses the term "insufficient cooperation." He did turn over his Dartmouth laptop, but he did not turn over logs from his personal LLM accounts related to the writings in question. Nor did he agree to meet with the committee. The committee did get access to the Claude enterprise account Schnell had used through Dartmouth, though. This shows him using the LLM as a tool for revising his papers, finding and fixing bugs in code, and editing or generating figures. For instance, Schnell would run his papers through Claude and ask things like: Read full article Comments ]]>
+
+### Over 25% of people lie to get antibiotics—and their lies aren't even good
+Fri, 30 Oct 2026 20:17:50 +0000 — https://arstechnica.com/health/2026/10/over-25-of-people-lie-to-get-antibiotics-and-their-lies-arent-even-good/
+
+A significant number of patients in the US lie to their doctors to get antibiotics they likely don't need, according to two new studies. While that may not be a startling revelation, the studies drills down on the phenomenon, finding that the lies patients tell are generally bad ones—and yet, they work almost all the time. In the two linked studies published Friday in JAMA Network Open, a team of researchers led by Alistair Thorpe at the University of Utah analyzed online survey data from over 1,000 adults. They found that over a quarter of people reported having lied to a clinician at least once to get an antibiotic prescription for themselves or a child in their care. Patients lied by either exaggerating symptoms, making up symptoms, or—most often—both. But interestingly, the lies people told to get antibiotics involved making up or exaggerating symptoms of infections that wouldn't be treated with antibiotics. For example, the most common falsehoods were symptoms associated with colds, such as fever, cough, and sore throat. That's despite the fact that colds are caused by viruses, not bacteria—which antibiotics treat. Read full article Comments ]]>
+
+### Basically no one is using AI agents for their DoorDash orders
+Fri, 30 Oct 2026 19:30:52 +0000 — https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/
+
+As AI tools and agents have continued their march across all aspects of digital life, many companies are trying to use LLMs to improve the experience of purchasing goods and services on the Internet. Thus far, though, a vanishingly small number of people seem to be taking advantage of those capabilities, at least when it comes to using the popular food delivery app DoorDash with an outside AI agent. In a third-quarter earnings call Thursday , DoorDash co-founder and CEO Tony Xu responded to an analyst question by noting that "AI agents are generating several hundred orders [on DoorDash] across the time that they've been up and running." In a marked understatement, Xu called this a "very low use case" for a company that handled just shy of 1 billion orders total in the third quarter of 2026 alone. Speaking generally, Xu said he sees the potential for AI agents to be genuinely helpful for "long consideration purchases" and major decisions where agents would be "doing work on your behalf proactively in the background." However, Xu added, "when it comes to a task that's as simple as ordering food, we tend to see that come directly to DoorDash." Read full article Comments ]]>
+
+### Rare meteorite from Mars gives us a view into its ancient crust
+Fri, 30 Oct 2026 18:13:42 +0000 — https://arstechnica.com/science/2026/10/rare-meteorite-from-mars-gives-us-a-view-into-its-ancient-crust/
+
+Crater counts tell us that most of the Martian surface is more than 3 billion years old, but pieces of Mars we have on Earth tell a different story. The three main classes of Martian meteorites—shergottites, nakhlites, and chassignites—are all 2.4 billion years old or younger. Until now, only two genuinely ancient Martian meteorites were known: Allan Hills 84001, found in Antarctica, and a jumbled rock from northwest Africa nicknamed Black Beauty. Now we have a third one. A team led by Yang Liu, a planetary scientist at NASA's Jet Propulsion Laboratory, has shown that a Martian meteorite called Teghaza 001, found in the Sahara Desert in Mali in 2022, formed at least 4.1 billion years ago. “It's very old and similar to some of the oldest rocks on Earth,” Liu says. A filtered collection “We don't fully understand why old Martian rocks are so rare on Earth," Liu said. Part of the answer may lie in how a piece of Mars gets here. It takes a large impact to launch a rock off the planet, and not every rock can survive that. “If the impact hits into loose powder, it may not get cemented to become a rock and fly off Mars' gravity,” Liu said. “So the natural impact already acts as a filter. Weak rocks do not make it off Mars.” Read full article Comments ]]>
 
 ### Fujifilm to boost tape production 5x as AI fuels archiving demand
 Fri, 30 Oct 2026 17:38:19 +0000 — https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/
@@ -17,52 +62,27 @@ Fri, 30 Oct 2026 16:12:59 +0000 — https://arstechnica.com/space/2026/10/analys
 
 A new report from the analytics firm Quilty Space confirms that, outside of China, the world faces a significant shortage of rockets over the next five years. The firm estimates that between now and 2030, there will be a shortfall of about 150 launches compared to demand from satellite operators and civil space agencies. If demand from the US military is added in—and SpaceX does not extend the Falcon 9 and Falcon Heavy program to accommodate increased national security needs—the shortage could be doubled. "What we wanted to get at is to understand how severe this launch crisis is and when will it be resolved," said Caleb Henry, director of research at Quilty Space. "What we learned is that the launch crisis is more severe than we thought and that it will not go away this decade for sure, and it might not abate until sometime late in the 2030s." Read full article Comments ]]>
 
-### GM to pay $220 million after selling customer Smart Driver data
-Fri, 30 Oct 2026 13:53:20 +0000 — https://arstechnica.com/cars/2026/10/gm-to-pay-220-million-after-selling-customer-smart-driver-data/
-
-General Motors marketed its Smart Driver system as a way for parents to monitor teen drivers or for adults to track their driving behavior. But in 2024, it emerged that GM had been sharing that data with brokers. Those brokers then sold the data to insurance companies , and some drivers found that their insurance became more expensive as a result. To make matters worse, many of those drivers claimed they had no knowledge of ever agreeing to share such data for such purposes. Last year , GM and its OnStar subsidiary entered into a settlement with the FTC, prohibiting them from sharing some kinds of driver data with third parties. The settlement was finalized this January. That agreement banned the two companies from sharing geolocation data or driver behavior data for five years. At the time, GM also discontinued Smart Driver across its entire range. Now the automaker has reached terms with the District of Columbia and 35 states after their attorneys general joined together to sue GM as well. Read full article Comments ]]>
-
-### Hackers steal $6.3 billion from Binance in record crypto heist
-Fri, 30 Oct 2026 13:46:39 +0000 — https://arstechnica.com/security/2026/10/hackers-steal-6-3-billion-from-binance-in-record-crypto-heist/
-
-Binance has suspended all withdrawals after the world’s largest cryptocurrency exchange fell victim to what appears to be the biggest heist in history. The exchange put the “estimated total impact” of the hack at about $6.3 billion and said around $3 billion of affected assets, mainly stablecoins that act as cash for the crypto market, had been frozen. But analysts at Elliptic said the attacker had changed about $3.3 billion into digital assets that could not be frozen and was working to cash those out as traditional currency. Read full article Comments ]]>
-
-### 2027 Nissan Rogue Hybrid: Drives like an EV, but there's no plug involved
-Fri, 30 Oct 2026 12:00:18 +0000 — https://arstechnica.com/cars/2026/10/2027-nissan-rogue-hybrid-drives-like-an-ev-but-theres-no-plug-involved/
-
-Nissan provided flights from Washington, DC, to Santa Barbara, California, and accommodation so Ars could drive the Rogue Hybrid. Ars does not accept paid editorial content. Nissan has a new version of its bestselling Rogue SUV, and it’s launching the model here with the latest version of its e-Power hybrid system, which Ars tested in February. Most hybrid cars you can buy today are parallel hybrids, which means that they have an internal combustion engine and an electric motor, both of which drive some or all of the wheels—everything works in parallel. But there’s another approach. Instead of connecting the engine to the wheels via a transmission, it can act as a generator and charge the traction battery, which in turn powers the electric motor. Since the engine and motor work in series, this is known as a series hybrid. That’s mostly how the Chevrolet Volt worked. As does Honda’s hybrid CR-V . Well, mostly; engineers worked out it was more efficient for those cars' gasoline engines to directly drive the wheels at highway speeds, something that to this day makes a certain subset of hybrid car enthusiasts irrationally angry. If you know anyone like that in your life, send them to wherever the nearest Nissan dealership is, because the 2027 Rogue Hybrid is exactly what they’ve been asking for. Series hybrids Under the hood, with its crisp shut line and slim horizontal lights that give me something of a Range Rover vibe, there’s a 1.5 L, three-cylinder turbocharged direct-inject
-
-### Review: You Can See Everything blurs the view of Elizabeth Holmes' deceit
-Fri, 30 Oct 2026 11:30:01 +0000 — https://arstechnica.com/culture/2026/10/review-you-can-see-everything-blurs-the-view-of-elizabeth-holmes-deceit/
-
-In 2015, biomedical entrepreneur Elizabeth Holmes was Silicon Valley's golden girl, lauded as the youngest and richest self-made female billionaire thanks to the company she founded, Theranos, which was valued at $9 billion at the height of its success. Then it all came crashing down when accusations of fraud surfaced about the company's signature blood-testing device, culminating in a sensational trial. Holmes was convicted on four counts and sentenced to 11 years in prison. Holmes is back in the headlines thanks to a new film, You Can See Everything , which depicts the final days before Holmes, having exhausted her appeals , went to prison. Co-directed by Nathan Fielder and Lance Oppenheim , it's a surreal, absurdist piece that has largely been received with gushing enthusiasm and no small amount of hype, with some declaring it the best film of the year. A few contrarian voices have emerged over the past week with much-needed reality checks, but there's no denying the film is destined to be an awards-season darling. Pardon me for joining the buzzkills, but I cannot in good conscience jump on the You Can See Everything bandwagon. Sure, it has its moments, and the second half is highly entertaining, but there's nothing here to warrant all the breathless hyperbole. For all their much-touted access, Oppenheim and Fielder have produced a surprisingly shallow film that runs in circles, yielding very little fresh or novel insight—into Holmes, personally, or much else. Read full ar
-
-### Rocket Report: Winter is coming for Themis; Cowboy Space adds iron to the fire
-Fri, 30 Oct 2026 11:00:35 +0000 — https://arstechnica.com/space/2026/10/rocket-report-winter-is-coming-for-themis-cowboy-space-adds-iron-to-the-fire/
-
-Welcome to Edition 9.17 of the Rocket Report! It's been a while since an American company announced plans for a medium-lift new launch vehicle, but that's what happened this week when a startup named Cowboy Space revealed specs for its Big Iron rocket, named for the classic country-western song by Marty Robbins. I'm a huge fan of the name. Maybe Cowboy Space is striking while the iron is hot as the space industry frets over demand for launch outpacing supply. However, Cowboy Space lags far behind so many other launch providers nearing the launch pad with their medium-class rockets, and the company didn't have much hardware to show at this week's big reveal. In other words, don't mistake style for substance. But we're rocket fans at Ars, and we wish them luck. As always, we welcome reader submissions , and if you don't want to miss an issue, please subscribe using the box below (the form will not appear on AMP-enabled versions of the site). Each report will include information on small-, medium-, and heavy-lift rockets as well as a quick look ahead at the next three launches on the calendar. Virgin's new rocket plane reaches home port . The first of Virgin Galactic's new Delta-class rocket planes left its Arizona factory Wednesday for a trip to Spaceport America in neighboring New Mexico, where it will undergo preparations for a test campaign culminating in suborbital flights to the edge of space, Ars reports . Virgin Galactic expects the craft's first commercial spaceflight t
-
-### Reddit is moving to “a logged-in-only experience,” CEO says
-Thu, 29 Oct 2026 21:47:57 +0000 — https://arstechnica.com/gadgets/2026/10/reddit-will-require-you-to-log-in-eventually-ceo-confirms/
-
-In the future, you won’t be able to use Reddit without logging in. Reddit CEO Steve Huffman confirmed the impending change in a letter (PDF) to shareholders today about Q3 performance. He said that Reddit is shifting “to a logged-in-only experience," adding: Moving to primarily logged-in will ensure our users have the best Reddit experience possible, and can find the content and communities most relevant to them. It is better for our business because we will have more signals for ads targeting, and being logged-in leads to higher engagement generally. It also allows us to protect access to Reddit’s extremely valuable corpus of data, and helps us better adapt to emerging regulations around the world. Huffman also said that the login requirement will help Reddit better retain new users. Read full article Comments ]]>
-
-### Microsoft fixes a Windows 11 annoyance as PC revenue declines
-Thu, 29 Oct 2026 20:18:49 +0000 — https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/
-
-Microsoft is beginning the rollout of a Windows 11 preview update that finally addresses a persistent power user complaint with the operating system: the right-click menu that obliterated years of muscle memory on command locations and hid others behind an additional click. The timing is notable, as the announcement comes alongside Microsoft's quarterly financial report, which showed a continued decline in the business of selling Windows licenses for new PCs. The preview update, KB5127936 , is cumulative for Windows 11 versions 26H2 and 25H2. The update will be a gradual rollout before eventually moving on to a normal rollout for all Windows 11 devices once it reaches general availability. The highlight of the new update should calm annoyed users who have spent years with custom scripts and services in an attempt to shape Windows the way they would prefer it. Users will get a "customize menu" button that controls what commands appear when they right-click their mouse. Users can toggle built-in commands such as Send To or Create Shortcut on or off, rearrange what appears on the main menu, and control which third-party extensions show up in either the main or submenus. The gripe with the right-click menu had been that Microsoft hid familiar command locations behind a top row of icons while moving other familiar commands under the "Show more options" submenu. Now, Windows users can customize the whole thing around their habits. The original Windows 11 right-click menu is a mess.
-
-### Pentagon IG refuses to investigate Starlink/Starshield slowdown in Ukraine
-Thu, 29 Oct 2026 20:08:10 +0000 — https://arstechnica.com/tech-policy/2026/10/pentagon-ig-refuses-to-investigate-starlink-starshield-slowdown-in-ukraine/
-
-The Pentagon inspector general's office declined a request from US senators to investigate restrictions recently imposed on the Ukraine military's use of SpaceX's satellite network. Ukraine, which uses SpaceX's Starlink service and the military version known as Starshield, said earlier this month that military drones lost satellite connectivity when traveling above 161 kilometers per hour (100 miles per hour). The limit was removed after about 10 days. Five Democratic and four Republican senators sent an October 15 letter to Department of Defense Inspector General Platte Moring, asking for a probe into the reported disruptions of Starlink and Starshield. The letter asked, among other things, "whether any restrictions on Starlink or Starshield services were directed, authorized, or implemented by SpaceX, the Department of Defense, or other US government entities; whether such restrictions were consistent with applicable US government contracts, and what actions, if any, the Department of Defense took in response." Read full article Comments ]]>
-
-### Trump declares robot imports a national security threat
-Thu, 29 Oct 2026 19:07:53 +0000 — https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/
-
-President Donald Trump has declared the imports of foreign-made factory robots to be a national security threat—ordering new US negotiations with trading partners while holding out the possibility of imposing new tariffs on such robot imports in the future. Issued on October 28, Trump’s presidential proclamation represents heightened government scrutiny of foreign-made industrial robots that could complicate the manufacturing operations of major US corporations that rely on such robots. Those companies include Detroit automakers General Motors and Ford, electric vehicle manufacturer Tesla , and aerospace and defense giants like Boeing and Lockheed Martin. Trump’s proclamation describes industrial robots and machinery as being crucial for producing US military weapon systems along with representing a “driving force” behind all critical infrastructure sectors within the US economy. The proclamation cites an investigation under US Secretary of Commerce Howard Lutnick as having found that US imports of such robots “pose[] risks to the United States industrial base and threatens the long-term competitiveness of the United States in a sector that is increasingly vital to national security.” Read full article Comments ]]>
-
 ## The Verge
+
+### Apple Intelligence is finally coming to China with iOS 27.3
+2026-10-30T18:32:53-04:00 — https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3
+
+Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website , as reported by MacRumors . The Apple Intelligence features will be available first in an iOS 27.3 beta that's set to launch on November 4th, with a full iOS 27.3 release scheduled for December. This launch doesn't bring the new Siri AI to China. Instead, Apple is launching several of its earlier Apple Intelligence features like notification summaries, real-time translation, rewriting and proofreading tools, visual intelligence, and removing objects from photos. Apple also says it has worked with Ailbaba to add support for its Q … Read the full story at The Verge. ]]>
+
+### Exclusive details about Akai’s MPC Sample Key
+2026-10-30T17:01:32-04:00 — https://www.theverge.com/gadgets/1023649/akai-mpc-sample-key-exclusive
+
+Akai teased its new MPC Sample Key on Instagram earlier this week, and said it plans to open-source its software so the modding community can hack it to their hearts' delight. While there's no word yet on when the device will launch or how much it will cost, The Verge has received exclusive images of the upcoming instrument that offer some details about its feature set. While the Sample Key shares many of the same controls as the MPC Sample - including the three context-sensitive encoders, a large main encoder - it seems designed for pitched sample playback, rather than chopping up drums. In fact, the "chop" button from the MPC Sample is m … Read the full story at The Verge. ]]>
+
+### Sam Altman says it’s better for RAM to be in a data center than on your desk
+2026-10-30T16:48:43-04:00 — https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers
+
+Asked about supply chain shortages, like the ongoing RAM shortage , OpenAI CEO Sam Altman said in an interview that it's "terrible" to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky Pint podcast, where he also commented on AI's impact on math , Altman said: "A lot of people want local inference. And somehow, they assume that the problem is solved now because we are going to have open-source models, we're going to be able to run them on our computers, and so we're not going to need all the stuff in the data center. But from a global allocation perspective, actually, it's quite terrible to have everybo … Read the full story at The Verge. ]]>
+
+### The biggest names in AI are backing a new way to opt out of scraping
+2026-10-30T16:26:10-04:00 — https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out
+
+OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable . With this control, publishers can apply their AI training preferences across multiple AI companies, instead of setting them individually. The shared "policy token" signal is proposed by Kevin Kelley, a technical lead for standards at Anthropic, as part of the Internet Engineering Task Force (IETF). It will live within a website's robots.txt file , which has long signaled which web crawlers can and can't scrape a site - whether for search indexing, archiving, or … Read the full story at The Verge. ]]>
 
 ### Google s satellite AI server transmits its first response to Earth
 2026-10-30T14:21:38-04:00 — https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission
@@ -94,34 +114,29 @@ Walmart’s inexpensive Vizio produces a nice, bright image, though its black le
 
 As the weather cools, it may be worth investing in a smart thermostat to help lower your energy bills. Right now, Google s fourth-gen Nest Learning Thermostat is on sale in all three colors for $219.99 ($60 off) at Amazon , Best Buy , and The Home Depot , matching its best price of the year and just $10 shy of its all-time low. Google Nest Learning Thermostat (fourth-gen) Where to Buy: $279.99 $219.99 at Amazon $279.99 $219.99 at Best Buy $279.99 $219.99 at The Home Depot Google s latest Nest Learning Thermostat is its most capable to date, and comes with new features designed to lower energy consumption without sacrificing comfort. Like prior models, it learns your heating and cooling preferences over time and automatically creates a schedule based on your habits, so you don t have to constantly adjust the temperature yourself. It can also suggest schedule changes to save energy and automatically adjusts the temperature when you re away. Additionally, it includes a remote temperature sensor in the box, so you can better adjust the temperature in your preferred room, whether that’s the bedroom or another space in your home. The Nest Learning Thermostat also improves on its predecessor with a beautifully designed adaptive display that shows your temperature settings, the weather, and the time from across the room. When you get closer, it reveals more detailed information, including outdoor air quality and humidity levels. The Matter-ready device also works with more HVAC syste
 
-### Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’
-2026-10-30T10:58:06-04:00 — https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai
-
-Pope Leo XIV says AI systems should be "disarmed," adding that humans "have the responsibility to guide, change and, when necessary, reject its applications." In Friday's Papal Address , Pope Leo encourages United Nations member states to "take concrete steps toward banning lethal autonomous weapons" during their meeting in Geneva next month. The address reflects many of the ideas Pope Leo laid out in his first major papal document in May, which highlighted "safeguarding the human person in the time of artificial intelligence." In line with his encyclical, Pope Leo tells participants that "Machines are tools, not persons," and warns about th … Read the full story at The Verge. ]]>
-
-### This electric screwdriver uses a camera and AI to figure out what bit you need
-2026-10-30T10:23:26-04:00 — https://www.theverge.com/tech/1023057/arrowmax-arrowspace-s1-electric-screwdriver-ai-camera-kickstarter
-
-Companies like Hoto and Fanttik have elevated the design and functionality of tools like electric screwdrivers , but Arrowmax wants to make them smarter by adding a camera and AI that work together to eliminate the trial and error of finding the exact type and size of bit you need. It's convenient, but also helpful, as choosing the wrong size could potentially leave you with a stripped screw and a much harder repair. Arrowmax is making the Arrowspace S1 available through a Kickstarter crowdfunding campaign , but the company has already successfully crowdfunded other products. You can preorder the screwdriver by itself for around $79, but its … Read the full story at The Verge. ]]>
-
-### Waymo’s next robotaxi is a purpose-built Toyota bZ4X
-2026-10-30T09:52:14-04:00 — https://www.theverge.com/transportation/1023112/waymos-next-robotaxi-is-a-purpose-built-toyota-bz4x
-
-Waymo announced today that it will use Toyota bZ4X electric vehicles that are assembled in Japan for a robotaxi service in Tokyo. The news builds on the strategic partnership between Waymo and Toyota which was first announced in April 2025 . The robotaxis will be built entirely under one roof at Toyota's Takaoka plant in Toyota City, Aichi Prefecture, Japan. Instead of building regular cars and modifying them later, the factory will install Waymo's self-driving sensors and computers right on the assembly line as each car is made. A team-up between the world's largest automaker and the world's leader in autonomous driving obviously has huge … Read the full story at The Verge. ]]>
-
-### Silicon Valley wants you to invest in miracles
-2026-10-30T09:11:05-04:00 — https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles
-
-Investing in any stock is kind of like gambling in the sense that you're betting your money on a company's future performance. But how do you bet on a technology that could, in the worst-case scenario, "pose catastrophic or existential risks to humanity," or best case, "bring forth an age of miracles"? To some extent, Anthropic suggests in a letter at the top of its S-1 filing, you have to just believe. Anthropic's 335-page S-1 prospectus, filed Monday, is part of a steady hype escalation in Silicon Valley's interactions with Wall Street. In some ways, it's not even that bizarre; SpaceX IPO'd in June after filing an S-1 that referenced din … Read the full story at The Verge. ]]>
-
 ## Tom's Hardware
 
-### Celebrate Warhammer Day on the 31st of October with these 20 Warhammer 40K-themed products — the best Space Marine gear this side of the Warp
+### Tech sleuth claims to have found the oldest GUI application that still works with Windows 11 — CDPLAYER.EXE from Windows NT in November 1992 wins the prize
+Sat, 31 Oct 2026 10:00:00 +0000 — https://www.tomshardware.com/software/windows/tech-sleuth-claims-to-have-found-the-oldest-gui-application-that-still-works-with-windows-11-cdplayer-exe-from-windows-nt-in-november-1992-wins-the-prize
+
+A technology enthusiast claims that the oldest GUI application that still runs on Windows 11 is CDPLAYER.EXE from November 1992. The app had to run on Microsoft’s newest consumer OS without modifications or emulation involved to be chosen as the ‘winner’ of their experiment. Blogger Enlyth expected something from the early NT era, as Windows 11 doesn’t support 16-bit apps , despite its strong backwards compatibility. Finding an app that is almost 34 years old that still works with a simple double-click is a remarkable result. At the beginning of their journey to find the oldest Windows UI app that just works on Microsoft’s newest OS, Enlyth confirmed FREECELL.EXE from February 1993 would still run without issues. This game was distributed alongside the Win32s environment, designed to allow some 32-bit applications to run on the 16-bit operating systems like Windows 3.1 and 3.11. Win32s was made available in beta in October 1992, but went mainstream in July 1993. A tip Enlyth received via a tech forum suggested that FREECELL.EXE was a candidate for the oldest GUI app remaining compatible with Windows 11. However, the blogger wasn’t satisfied with this easy win and dug through “some early NT 3.1 pre-release versions that seemed promising.” Build 347 caught the detective’s eye, specifically CDPLAYER.EXE, linked on Nov 16, 1992. That indeed seems to be the earliest GUI app that works without modification or emulation on Windows 11. But this knowledge almost defied Enlyth’s eye as
+
+### Nvidia store quietly pulls the RTX 5080 following RTX 5090 removal
+Fri, 30 Oct 2026 20:13:10 +0000 — https://www.tomshardware.com/pc-components/gpus/nvidia-store-quietly-pulls-the-rtx-5080-following-rtx-5090-removal-street-prices-climb-to-2-2x-over-msrp
+
+First, it was the GeForce RTX 5090 , and now the GeForce RTX 5080 – two of the best graphics cards have gone dark. After the Blackwell flagship left Nvidia's marketplace, the GeForce RTX 5080 followed suit. Prices for the sub-flagship have exploded to more than 2.2X its original $999 MSRP, and the Blackwell-powered graphics card is slowly going out of stock at various U.S. retailers. As with the recent disappearance of the GeForce RTX 5090 on Nvidia’s marketplace, the listings and filters for the GeForce RTX 5080 have also disappeared. While its absence does not necessarily mean Nvidia has discontinued the graphics card, it does raise questions about its status and future availability. This move is especially fishy because other Blackwell SKUs, such as the GeForce RTX 5070 Ti and GeForce RTX 5070 , remain listed on the marketplace, albeit marked as “Out of Stock.” The continued presence of the GeForce RTX 5070 Ti and GeForce RTX 5070 suggests that Nvidia wants to keep the products visible even when they are not immediately available so that consumers can anticipate restocks. The complete removal of the GeForce RTX 5090 and GeForce RTX 5080 breaks that pattern. It fuels rumors that Nvidia has allegedly stopped production of the GeForce RTX 5090 and possibly the GeForce RTX 5080 too, in favor of a rumored GeForce RTX 5080 24GB. (Image credit: Nvidia) Rumors claim Nvidia allegedly stopped producing the GeForce RTX 5090 to repurpose the valuable GB202 silicon into the chipmaker’s
+
+### Intel’s woes wipe out $1 trillion of semiconductor market cap in one day
+Fri, 30 Oct 2026 20:06:11 +0000 — https://www.tomshardware.com/pc-components/cpus/intels-woes-wipe-out-usd1-trillion-of-semiconductor-market-cap-in-one-day-pc-market-bloodbath-leaves-few-chip-stocks-unscathed
+
+Intel's shares plunged 30% on Friday, wiping out nearly $150 billion in market capitalization in a single day, the largest single-day loss in the company's history. The decline followed a disappointing financial outlook, largely driven by an anticipated drop of more than 20% in sales at Intel's client computing group (CCPG), the company's main cash cow. The declines quickly spread across the semiconductor industry. Although losses elsewhere were nowhere near as severe as Intel's, approximately $1 trillion in semiconductor market capitalization was wiped out on Friday, according to intraday estimates by Benzinga . Fire sale The PHLX Semiconductor Sector Index (SOX), which tracks the stock performance of 30 major semiconductor companies, is one of the key indicators of the industry's financial health. On Friday, the index plunged 9.14%, or 1,052.82 points, to 10,465.38 points as of 2:31 PM ET, as Intel's disappointing outlook triggered a massive selloff across the semiconductor industry. Intel was by far the biggest loser, as other chip-related stocks, while Arm (-12.68%), AMD (-12.48%), Qualcomm (-12.14%), Applied Materials (-8.73%), ASML (-8.13%), Lam Research (-8%), Micron (-7.28%), and Broadcom (-7.1%) suffered considerably less. Then again, while Nvidia lost 5.66% of its market cap, this translates to around $270 billion, which is a massive amount of money. Paradoxically, Nvidia lost more market capitalization in absolute dollar terms than Intel. Go deeper with TH Premium:
+
+### Celebrate Warhammer Day on the 31st of October with these 20 Warhammer 40K-themed products
 Fri, 30 Oct 2026 18:30:00 +0000 — https://www.tomshardware.com/gift-guides-seasonal-sales/celebrate-warhammer-day-on-the-31st-of-october-with-these-20-warhammer-40k-themed-products-the-best-space-marine-gear-this-side-of-the-warp
 
 This weekend we celebrate all things Warhammer, and although it might be sharing the date with Halloween, fans of the grimdark franchise will be looking towards a different kind of spooky chaos, and things that materialize from the warp. Warhammer Day 2026 takes place this October 31st, and this is a good time to grab a deal or pick up a gift for yourself to adorn your desktop setup. Maybe even pick up the latest Warhammer 40K-inspired PC games to really jump into the fray. We've compiled a list of some of the best Warhammer 40K furniture, collectables, and PC games, ahead of the celebrations. Warhammer 40K Furniture Secretlab has a range of officially licensed Warhammer 40K furniture that includes both desks and chairs. The chairs are fully decorated with the chapter livery and standards, with skins available to convert existing chairs to the same designs. The desks are just the standard Magnus Pro desks but include a 40K-themed MAGPAD that can also be bought separately if you already own the desk. Warhammer Chair Skin Dark Angels: $99 A chair sleeve that's designed and fitted for use on the Secretlab Titan Evo gaming chair. Use this sleeve to transform the design of your chair to match the colors of the Dark Angels chapter. View Deal Mount your PC on the Secretlab Magnus Pro with the Warhammer 40K MAGPAD. This sit-stand desk is perfect for gaming and praising the Emperor of mankind. View Deal Titan Evo Warhammer 40K Dark Angel Edition: was $769 now $664 Presenting the Secre
 
-### OpenAI CEO says it's 'quite terrible' for your PC to have RAM — Sam Altman says data centers offer better utilization
+### OpenAI CEO says it's 'quite terrible' for your PC to have RAM
 Fri, 30 Oct 2026 16:28:11 +0000 — https://www.tomshardware.com/tech-industry/data-centers/openai-ceo-says-its-quite-terrible-for-your-pc-to-have-ram-sam-altman-says-data-centers-offer-better-utilization
 
 OpenAI CEO Sam Altman has data centers full of memory, but seemingly it's the 32GB of RAM in your desktop that's the problem. In an interview over beers with the YouTube channel Cheeky Pint, Altman said that local inference, and, by extension, people having DRAM in computers at home, is "quite terrible." Go deeper with TH Premium: AI and data centers (Image credit: Microsoft) The data center cooling state of play The custom AI ASIC state of play America’s AI chip rules keep changing — and the rest of the world is paying the price GTC 2026: Ian Buck press Q&A transcript — VP of Hyperscale and HPC speaks out on shelving CPX and shipping LPU decode this year Demand for data center CPUs has surged, and AI agents are responsible When discussing local inference on home computers with open-source models, Altman discussed the assumption that people will be able to run local AI on their own computers, the ones they may already own or want to build. Then he explained why that's a bad idea (at the 29-minute mark): "From a global allocation perspective, actually, it's quite terrible to have everybody have a bunch of the world's limited supply of DRAM sitting in their own computer and being used 5% of the time," Altman said. "You want maximum utilization in the cloud if you're trying to deal with this very supply-constrained environment. And somehow many people's intuition is the opposite of that." While OpenAI does have some open-source models, its primary business is in closed-source mo
@@ -161,22 +176,37 @@ Fri, 30 Oct 2026 11:40:00 +0000 — https://www.tomshardware.com/pc-components/c
 
 After Intel let loose its Panther Lake chips earlier in this year, followed by Wildcat Lake in April, the firm has been pretty quiet about upcoming consumer CPUs. Known leaker Jaykihn just let a tiny cat out of the bag, though: the base specs for Moon Lake. The diminutive chip is expected to have four low-power-efficiency (LP-E) cores, and zero performance cores. These are rumors, so have your salt shaker at hand. Given the all-efficiency layout, it's a fair guess that the cores will be Darkmont LP-E silicon. The leaker additionally notes that the chip layout is likely to be the same as Wildcat Lake, with the efficiency cores in their own island. According to Jaykihn's table, the expected TDPs range from 6 W to 15 W, within the ballpark of phone and tablet SoCs on the low side. WCL vs WCL-R vs MNL (Moon Lake) on BGA1516 https://t.co/nFlBxHqWPO October 28, 2026 The specs seem to imply that Moon Lake is the successor for the Intel N-series chips present in a great deal of ultra-budget offerings. The set of specs suggests the chip will find a home in laptops and mini-PCs in the $300 to $500 range, though those amounts are naturally variable depending on how much RAM and storage the AI world will continue to slurp. Furthermore, the new silicon is only slated to arrive in 2028, and supplies of NAND and DDR may well shift further until then. There's no word on clock speeds, though. As a reference point, the N150 had a 3.6 GHz turbo. This year's 18A Panther and Wildcat chips broadly
 
-### Cisco gives 27-year-old engineer unlimited AI tokens to rewrite 98% of the company's legacy code in 24 months
-Fri, 30 Oct 2026 11:26:56 +0000 — https://www.tomshardware.com/tech-industry/big-tech/cisco-gives-27-year-old-engineer-unlimited-ai-tokens-to-rewrite-98-percent-of-the-companys-legacy-code-in-24-months-president-plucks-former-startup-founder-telling-him-to-go-nuts
-
-In a world where youth unemployment is growing as AI replaces more and more entry-level jobs, Cisco president and chief product officer Jeetu Patel is going for a different approach. According to a report by Fortune , he's given a 27-year-old ex-startup founder — brought into the company by an earlier acquisition, and previously languishing in a role five levels below — a new job to refactor 98% of the company's legacy code within 24 months. The employee, Padmanabhan Krishnamurthy, joined Cisco after it acquired EzDubs, a translation startup that Krishnamurthy helped build in 2023. While having executive experience, Patel found that "Paddy" was left "buried away in the organization doing something unstrategic." According to the report, Patel spoke to Krishnamurthy in Cisco's office in San Francisco, where Krishnamurthy told him that he could rewrite Cisco's legacy code in a team of just two people, and that "even the most AI-forward people on [Patel's] own team weren't thinking that way." As a result, he's now been tasked with rewriting 98% of Cisco's legacy code within 24 months, with four weeks as a proof of concept. "I've given him unlimited tokens because he's going to refactor code," according to Patel, telling him "you can go nuts." AI coding has skyrocketed in recent months, with GitHub forced to deploy 4 million extra CPU cores and 160 petabytes of storage to cope . However, the practice is not without its pitfalls, with rogue AI agents notorious for taking unsolicite
-
-### Former esports commentator builds his own custom mouse shell generator for 3D printing that doesn’t use AI
-Fri, 30 Oct 2026 11:20:00 +0000 — https://www.tomshardware.com/peripherals/gaming-mice/esports-commentator-builds-his-own-custom-mouse-shell-generator-for-3d-printing-that-doesnt-use-ai-mausstudio-automatically-detects-buttons-screwholes-and-sensor-locations
-
-Bastian Recha, “Unskilledcast,” is a German former CS:GO commentator, tech reviewer, and 3D printing enthusiast. On October 28, he posted a demo of his “Mausstudio” project on X that generates a customizable mouse shell around an imported 3D model of a mouse PCB intended for 3D printing — all running locally and not generated using AI. Bastian posted on X after six days of inactivity, stating that he’s been busy working on Mausstudio, his custom 3D-printed mouse shell generator. His post shows a video of him demonstrating the software, playing around with the ways users can customize their mouse. This is why I’ve been a little quiet on social media lately.Meet mausstudio.Import your mouse PCB as an STL and start designing your own mouse shape.The tool runs locally, using maths and algorithms. No AI involved in generating the geometry.Still a work in progress. https://t.co/UpO3YvfNGl October 27, 2026 Mausstudio works by importing an STL 3D file of a mouse PCB, like the Razer Viper V2 Pro and Zaunkoenig M2K PCBs in Bastian’s demo, from which the software detects the location of several key components: Mouse button switch locations, sensor location, scroll wheel location, and screw hole locations. It then generates a shell around those key components, placing stems to reach the switches, cutouts for the scroll wheel, buttons for the side switches, and base cutouts for the sensor. Bastian’s demo also showed how users can adjust the width, length, and height of the mouse, includin
-
-### Benchmarking Nvidia’s Vera CPU for the data center — standalone Vera tested against Granite Rapids-AP and EPYC Turin
-Fri, 30 Oct 2026 11:00:00 +0000 — https://www.tomshardware.com/pc-components/cpus/benchmarking-nvidias-vera-cpu-for-the-data-center-standalone-vera-tested-against-granite-rapids-ap-and-epyc-turin
-
-Nvidia’s Vera CPU is an important next step in the company’s years-long spearheading of AI infrastructure buildout. It’s arriving just as the shift to agentic AI workflows has created unprecedented demand for data center CPUs, and it’s designed specifically for this moment, at least according to Nvidia’s marketing bullet points. Although the idea that anyone developed a CPU for a shift in demand that arose just six months ago is reaching, as our benchmarks below show, Nvidia’s claims about Vera aren’t full of hot air. Based on the workloads we have now — there aren’t standardized end-to-end agentic benchmarks focused on the CPU right now — Vera has strong indicators about its usefulness in agentic workflows. It offers chart-topping performance in Python, for instance, which makes up much of the backbone of the AI software ecosystem. It also shows commanding memory bandwidth, both at the socket level and system level, with the high-speed C2C interconnect between Vera chips. In contentious agentic environments where agents may be querying large databases, that bandwidth is critical. Specialization is one thing, but Vera is arriving in a hotly contested server market with custom Arm chips penetrating the data center and the old guard of x86 chips from AMD and Intel, which not only have a foundation in the data center, but also an extensive list of clients that work with their systems. Regardless of how Vera performs, that’s no small undertaking. What’s surprising about Vera isn’
-
 ## Phoronix
+
+### Ceph In Linux 7.4 Adds Global Mount Option For Lazy I/O
+Sat, 31 Oct 2026 06:30:00 -0400 — https://www.phoronix.com/news/Linux-7.4-Ceph
+
+The Ceph kernel client changes have been submitted for Linux 7.4 ahead of its merge window expected to wrap up on Sunday...
+
+### GNOME Now Has An Established RFC Process, GNOME OS Continues Improving
+Sat, 31 Oct 2026 06:10:19 -0400 — https://www.phoronix.com/news/GNOME-Establishes-RFC
+
+In recent weeks GNOME developers have been discussing a formal Request For Comments "RFC" process for solving major technical questions and changes to GNOME. This formalized process for succeeding their ad-hoc processes up to now has reached consensus...
+
+### DXVK-NVAPI 0.9.3 Brings Nice Improvements For Linux Gamers On Latest NVIDIA Drivers
+Sat, 31 Oct 2026 06:00:00 -0400 — https://www.phoronix.com/news/DXVK-NVAPI-0.9.3
+
+DXVK-NVAPI 0.9.3 is out this weekend as a new feature update to this NVIDIA NVAPI implementation used by Valve as part of Steam Play with Proton for nicely integrating NVIDIA technologies into various Windows games running on Linux...
+
+### CUDA Oxide 0.3 Vastly Improves Rust Support For NVIDIA CUDA Programming
+Sat, 31 Oct 2026 05:50:00 -0400 — https://www.phoronix.com/news/CUDA-Oxide-0.3
+
+NVIDIA software engineers released CUDA Oxide 0.3 for closing out October. CUDA Oxide as a reminder is their experimental Rust to CUDA compiler that has been seeing a lot of activity in recent months...
+
+### Sculpt OS 26.10 Released - Now Powered By Genode s Custom Microkernel
+Sat, 31 Oct 2026 05:37:22 -0400 — https://www.phoronix.com/news/Sculpt-OS-26.10
+
+Sculpt OS as the general purpose operating system project born out of the Genode initiative is now using the project's own microkernel rather than a third-party microkernel...
+
+### Wine 11.21 Released With Better WoW64 OpenGL Performance
+Fri, 30 Oct 2026 20:29:01 -0400 — https://www.phoronix.com/news/Wine-11.21-Released
+
+Wine 11.21 is out as the newest bi-weekly development release of Wine and as we near Wine 12.0 stable release happenings getting underway in about one month with the official v12.0 release expected early in the new year...
 
 ### PostgreSQL 19 Running Behind Schedule Due To AI/LLM Burden
 Fri, 30 Oct 2026 14:06:06 -0400 — https://www.phoronix.com/news/PostgreSQL-19-Late
@@ -208,37 +238,37 @@ Fri, 30 Oct 2026 06:05:47 -0400 — https://www.phoronix.com/news/Linux-Patches-
 
 The Linux kernel's "macsmc" driver was developed for supporting the system management controller (SMC) on Apple Silicon Macs for supporting the light sensor, fan control, and other sensors. That macsmc driver now is seeing work to extend it for better supporting older Intel-powered Macs...
 
-### Vulkan 1.4.367 Released With VK_KHR_maintenance12
-Fri, 30 Oct 2026 05:58:03 -0400 — https://www.phoronix.com/news/Vulkan-1.4.367
-
-Vulkan 1.4.367 is out this morning as the newest spec revision for this high performance graphics and compute API...
-
-### I3C Hub & HDR-DDR Support Merged For Linux 7.4
-Fri, 30 Oct 2026 05:50:29 -0400 — https://www.phoronix.com/news/Linux-7.4-I3C
-
-The I3C changes for Linux 7.4 were submitted this week by Bootlin's Alexandre Belloni and subsequently merged...
-
-### RISC-V Has A Nice Portable Performance Optimization With Linux 7.4
-Thu, 29 Oct 2026 20:36:39 -0400 — https://www.phoronix.com/news/Linux-7.4-RISC-V
-
-The RISC-V architecture changes were merged today for the Linux 7.4 kernel with one nice optimization standing out...
-
-### Fedora Linux 45 Shipping Next Week On 3 November
-Thu, 29 Oct 2026 18:00:54 -0400 — https://www.phoronix.com/news/Fedora-45-Ships-Next-Week
-
-Fedora 45 is ready to ship! It will be formally released on Tuesday, 3 November...
-
-### F2FS Adds Opt-In Multi-Grain Timestamps With Linux 7.4, Other Improvements
-Thu, 29 Oct 2026 12:52:52 -0400 — https://www.phoronix.com/news/F2FS-Linux-7.4
-
-The F2FS (Flash Friendly File-System) improvements have been merged for Linux 7.4 to further enhance this flash-optimized solution...
-
-### NVIDIA Vera Single vs. Dual Socket CPU Performance
-Thu, 29 Oct 2026 09:36:24 -0400 — https://www.phoronix.com/review/nvidia-vera-1p-2p
-
-For those curious how NVIDIA Vera is scaling between single and dual socket deployments, here are some benchmarks I carried out a while back exploring the power and performance from one to two Vera CPUs.
-
 ## The Register
+
+### Chocolate Caterpillar or Chocolate Teapot? Top up the disk space for Windows 10 to find out
+Sat, 31 Oct 2026 09:30:00 +0000 — https://www.theregister.com/offbeat/2026/10/31/chocolate-caterpillar-or-chocolate-teapot-top-up-the-disk-space-for-windows-10-to-find-out/5306103
+
+Today's bit of signage silage is either Windows 10 protesting that it is not part of London's Oxford Street pedestrianization, or someone failing to heed an alert before the public is made all too aware that things aren't going well… Eagle-eyed Register reader Aaron Colwill spotted the sign outside the food hall entrance of a Marks & Spencer store on London's Oxford Street. It usually entices passersby through the doors with promises of treats inside, but today it appears to require a different kind of feeding. Disk space is running low. Marks and Spencer (also known as M&S and Marks and Sparks) is no stranger to cyber whoopsies , having been the victim of an attack in 2025 in which crooks made off with customer data. Later that year, it reckoned cleanup costs would be about £136 million. That's quite a lot, but not enough to buy a bigger hard disk for Windows 10, it seems. Storage prices have increased over the years, but surely not that much? Colwill reckoned that Windows 10 21H2 LTSC was behind the problems. It could well be. While support for 21H2 ended for many users in 2023, Windows 10 LTSC 2021 will carry on until Jan 12, 2027, meaning engineers might have an exciting festive period ahead of them. Windows 10 IoT Enterprise LTSC 2021 will receive extended support until Jan 13, 2032. Either way, using Windows to advertise the Food Hall's wares seems slightly overkill. Simple posters, for example, never run out of disk space or attract the bork fairy's attention. Perhaps 
+
+### Backbone of a beast – charting Nvidia's rise to networking titan
+Sat, 31 Oct 2026 08:03:00 +0000 — https://www.theregister.com/networks/2026/10/31/backbone-of-a-beast-charting-nvidias-rise-to-networking-titan/5306499
+
+Nvidia is more than just a leader in graphics and AI hardware. It has also become a titan of the networking industry with bigger datacenter Ethernet sales than any other vendor. In Q2, Nvidia's networking revenues topped $17.5 billion. To put that in perspective, Cisco's revenue during that same period, across all products, was $17.3 billion. GPUzilla's arrival as a networking power feels sudden, yet Jensen Huang started working towards this status in 2019 with the $6.9 billion acquisition of long-time networking partner Mellanox . At the time, Mellanox wasn't a big name in Ethernet switching. The company was mostly known for its ConnectX NICs and InfiniBand switches. Outside of high-performance computing (HPC) and supercomputing clusters, and a big deployment at Microsoft, InfiniBand wasn't widely deployed in hyperscale datacenters. Buying Mellanox allowed Nvidia to reposition itself as a system builder, which means something different in the context of distributed compute. Nvidia understood its datacenter customers weren't interested in buying GPUs or even servers; they wanted clusters of systems. For that, Nvidia needed interconnect and Mellanox's InfiniBand fit the bill. Relentless co-design Over the years, Huang has talked about co-design – designing components and software to work together for specific set of jobs rather than to be the best GPU, switch, or NIC. Its work with Mellanox is a prime example of that approach. According to Dell'Oro Group analyst Sameh Boujelbe
+
+### Darkbloom, which allowed Mac users to rent out their GPUs for AI inference, warns of low payouts
+Fri, 30 Oct 2026 20:32:32 +0000 — https://www.theregister.com/ai-and-ml/2026/10/30/darkbloom-which-allowed-mac-users-to-rent-out-their-gpus-for-ai-inference-warns-of-low-payouts/5306782
+
+Declining token prices have prompted Darkbloom, a distributed inference network, to reassess its business plans. Darkbloom , a project from Seattle-based tech biz Eigen Labs, has developed software that allows anyone with a sufficiently capable macOS device to rent their GPU through the Darkbloom network for interference jobs. In return, they get paid. Through this network, 800 or so participants – including as of two days ago this reporter – have been able to collect a few cents to a few dollars per day by having their hardware handle AI model prompts submitted through OpenRouter , an AI model gateway. In theory, someone running one of Apple's recently released Mac minis with an M5 Pro chip and 64 GB of RAM could earn as much as $192 per month handling incoming inference jobs, per the company's estimate. That assumes full 24/7 utilization during this period on a sought-after model like Qwen3.6 35B A3B, which sells for $0.065/M input tokens, $0.75/M output tokens. But not every network participant has fully surrendered their Mac hardware to the network. The median earnings of the 50 people on the leaderboard amount to about $5.26 per day, $159.86 per month, or $1,918.50 per year. So the best case estimate presented by Darkbloom looks plausible. But it may not be sustainable. The price of tokens – the unit of AI work – has declined, reportedly down 54 percent since May . Ramp's AI Token Price Index , which tracks the price of tokens from Anthropic and OpenAI, shows similar sli
+
+### HTTP/3 is faster with some work and help from Cloudflare
+Fri, 30 Oct 2026 20:00:29 +0000 — https://www.theregister.com/devops/2026/10/30/http/3-is-faster-with-some-work-and-help-from-cloudflare/5306767
+
+When you're ordering food from your phone, even time spent navigating the app is time wasted. At the P99 2026 virtual conference , Elvis Chidera , a staff engineer at Germany-based global delivery service Delivery Hero , explained how the company moved most of its user base to HTTP/3, and consequently cut its apps’ total end-to-end response time of the home screen by 17 percent. Chidera, who managed the project, explained that, as promised on the tin, HTTP/3 delivers the web faster than HTTP/2, though it has slow bits that need to be adjusted to work properly. Uber eats Delivery Hero Delivery Hero is all but unknown in the US, which is dominated by Uber Eats and DoorDash. But it is a company with global reach outside the US, with an estimated user base of 60 million across Europe, Latin America, Africa, the Middle East, and Asia. Uber is currently acquiring Delivery Hero for $14.8 billion, with plans to unite the company with Uber Eats. With this purchase, Uber would expand the number of markets where it offers both ride-hailing and delivery services, though not necessarily under the Uber Eats nameplate. Delivery Hero centrally manages separate apps for different regions, all of which it built or acquired. Asians can order poke bowls and sundries through Foodpanda . Turks can order kebabs through Yemeksepeti . Throughout Spain, Italy, Poland, Romania, Ukraine, and much of Africa, the Glovo app is where to ring up the late-night deliveries. And in Latin America, users dial in 
+
+### Crim spent $7K+ on AI services in extortion attacks, then left evidence for all to see
+Fri, 30 Oct 2026 19:37:12 +0000 — https://www.theregister.com/security/2026/10/30/crim-spent-7k-on-ai-services-in-extortion-attacks-then-left-evidence-for-all-to-see/5306754
+
+A n0n ransomware operator tried to break into 23 organizations across 14 countries, but couldn't secure its own front door, leaving its server exposed with all of its methods on view. The criminals used a mix of new (AI) and old (stolen credentials) tooling during their data-theft spree, and in some cases not only stole and encrypted files, but also deleted data and backups, eliminating victims’ ability to recover their information. And despite the fear and hype around the breachpocalypse , with AI finding and developing exploits for critical vulnerabilities affecting most organizations across the globe , these crooks did not exploit a single bug to gain entry into any of their victims’ IT environments. “In every documented compromise in this investigation, access relied on weak or stolen credentials,” said Ensar Seker, chief information security officer of threat intelligence firm SOCRadar. “What stands out is the combination of AI-assisted development and very conventional entry points,” Seker told The Register . “We found no evidence of vulnerability exploitation in the cases examined.” The gang breaks into organizations at scale using widespread Remote Desktop Protocol (RDP) scanning and automated FortiGate SSL-VPN credential stuffing. To access US-based IT managed services provider ChiBiTek, the crew used a 15-thread residential SOCKS5 proxy pool to test credentials (ip:port:user:password) against FortiGate portals (GET /remote/login). The operators also gained entry usi
+
+### GM cracks the petty cash box for multistate driver tracking settlement
+Fri, 30 Oct 2026 16:48:37 +0000 — https://www.theregister.com/security/2026/10/30/gm-cracks-the-petty-cash-box-for-multistate-driver-tracking-settlement/5306721
+
+General Motors is taking what looks like a light slap on the wrist from a coalition of 35 states and the District of Columbia after agreeing to settle allegations that it collected drivers' data without proper consent and sold it to data brokers that supplied insurance companies. The Washington state AG's office said on Thursday that GM had reached a $220 million settlement with 36 attorneys general over the automaker's collection and sharing of driving data, including precise location information, speed, seatbelt use, and other metrics. According to investigators, GM sold that data to brokers, which in turn supplied it to insurance companies that could use it to set customers' premiums, without drivers' informed consent. For reference, the $220 million settlement, which will be distributed among the participating jurisdictions, equates to less than 7 percent of GM's $3.3 billion in net income attributable to stockholders for its third quarter , which ended on September 30, 2026. Don't spend it all in one place, y'all. The settlement comes more than two years after a 2024 New York Times investigation found that GM had been selling the data collected from vehicle owners through its Smart Driver program. That program, part of GM subsidiary OnStar’s offering, collected the aforementioned data and handed it back to vehicle owners in reports designed to inform better driving habits. Unbeknownst to Smart Driver subscribers, their data was also being forked over to data brokers desp
 
 ### Anthropic: That Claude Code extension compromise… couldn't be us
 Fri, 30 Oct 2026 16:27:00 +0000 — https://www.theregister.com/cyber-crime/2026/10/30/anthropic-that-claude-code-extension-compromise-couldnt-be-us/5306682
@@ -270,37 +300,27 @@ Fri, 30 Oct 2026 12:30:00 +0000 — https://www.theregister.com/public-sector/20
 
 The UK's top health quango has called on family doctors to figure out how to preserve health information and get in touch with patients after a website provider collapsed earlier this month. NHS England has taken the unusual step of writing to GPs, warning them of the risks to patient information and continuity of service following the disruption to potentially hundreds of practices around the UK. Silicon Practice Digital Health Solutions — owned by Schappit Ltd — has gone into administration . Reports suggest some GP websites have gone offline completely. Practice managers fear the extra workload and are struggling to stand up alternative forms of communication since the switch to digital channels. NHS England is the government unit which runs the health service in England, but it is not directly responsible for GP practices, the vast majority of which are independent contractors. Nonetheless, the quango’s CTO, Kevin Humphries, wrote to practices and NHS organizations this week outlining his priorities in mitigating the impact of tech service collapse. They include finding ways of preserving any historical patient information, particularly where it has not been moved to clinical systems, managing the online consultation backlog to make sure no additional requests are added, and identifying channels for patient access until new online systems are available. Practices should also consider whether they have a legal obligation to tell the Information Commissioner's Office if the
 
-### British intelligence agency misplaced 'thousands' of storage devices, years later still can't say how many
-Fri, 30 Oct 2026 11:45:00 +0000 — https://www.theregister.com/security/2026/10/30/british-intelligence-agency-misplaced-thousands-of-storage-devices-years-later-still-cant-say-how-many/5306605
-
-Thousands of GCHQ storage drives containing sensitive data have been lost for years, and the British signals intelligence agency still cannot explain where they are. According to the Investigatory Powers Commissioner’s Office’s (IPCO) annual report , the missing storage drives have been known to officials for years, and may contain data related to the Investigatory Powers Act (IPA) . "I remain concerned that GCHQ has not yet established a sufficiently clear understanding of the scale, location, and recoverability of lost removable media that may contain IPA-related data, notwithstanding that the underlying issues were first drawn to my attention several years ago," wrote investigatory powers commissioner Lord Brian Leveson. "While I recognize the technical and practical challenges involved, the passage of time without a comprehensive account heightens the importance of sustained senior focus and assured remediation. Given the potential sensitivity of the material involved, I will continue to monitor progress closely.” Described as "a very significant number," the report notes that GCHQ has scoped the maximum number of potentially lost drives, but is unaware of the exact scale of the issue. The agency has embarked on "a program of further work" to locate as many of the lost devices as possible, which includes implementing an automated asset-tracking system by the end of the year. After this is up and running, it said it will be able to provide a more precise number of lost dri
-
-### Accenture AI agents are sifting through applicants
-Fri, 30 Oct 2026 11:00:00 +0000 — https://www.theregister.com/ai-and-ml/2026/10/30/accenture-ai-agents-are-sifting-through-applicants/5306460
-
-Accenture is using AI across its recruiting process, although it maintains that final hiring decisions remain in human hands. Speaking to at its recent investor day, the global tech consultancy and outsourcing biz said it was using AI agents to sift through resumes (or CVs if you’re in the UK) and schedule interviews. Kate Clifford, global chief leadership and HR, said it was helping clients adopt a similar application of the nascent technology. "We call it frictionless recruiting, which is really our agentic recruiting solution. We put in an agentic recruiting solution where agents now do all the interview scheduling. Agents can screen a resume. We have assessments that deeply understand the skills of the candidates to help that process move much, much faster. Now a human always makes a hiring decision," she said. Clifford said the agent technology was used to help recruitment staff get through their work more quickly. "Our recruiters needed to spend time with candidates. They needed to spend time sourcing, but where they were actually spending their time was scheduling interviews, where they were actually spending their time was typing information into a system," she said. The executive claimed the agentic process reduced the time taken to hire for roles by 28 percent and improved candidate quality by 30 percent. AI agents also help new recruits get up to speed. Whereas it once took six months for an entry-level hire to become productive, the time has been cut to six weeks 
-
-### Domestic droid gone amok? Don't worry, you're covered
-Fri, 30 Oct 2026 10:14:00 +0000 — https://www.theregister.com/ai-and-ml/2026/10/30/domestic-droid-gone-amok-dont-worry-youre-covered/5306396
-
-Two insurers are teaming up to launch what every high-tech homeowner may soon need: household insurance for robotic mishaps. Humanoid robots are tipped by some to be the next big technology trend, with industry figures like Nvidia's Jensen Huang predicting they'll be everywhere from factories to the home. But as with anything AI-driven, things can go horribly wrong, especially when automatons are roaming a home carrying out tasks. They have even been labelled as potential " botnets in physical form ." The timing may be apt, then, for the UK's first domestic humanoid robot insurance policy. Specialist insurer Adrian Flux is offering to cover British customers as part of its home insurance range, underwritten by Texas-based Tokio Marine HCC. The two firms say the product is meant to get ahead of an emerging market, with domestic robots expected to appear in UK homes from 2027. Demand has already appeared in the US, where robotics and AI companies have launched humanoid robots for the home , with early models costing around $20,000. These are less like the near-human elderly care robot in the BBC comedy series Ann Droid , and more like vaguely human-shaped machines. The policy covers damage to, and theft of, the robot itself, plus any damage it causes to the home or belongings. It also includes personal liability if the android injures someone or damages their property, and emergency recovery or safe disablement of the humanoid after a sudden or unforeseen malfunction, such as -
-
-### UK Shelly reseller warns payment data stolen after malware found on website
-Fri, 30 Oct 2026 09:30:00 +0000 — https://www.theregister.com/cyber-crime/2026/10/30/uk-shelly-reseller-warns-payment-data-stolen-after-malware-found-on-website/5306250
-
-A UK-based reseller of Shelly smart home equipment has warned customers that their payment data may be compromised after “unauthorized software” was found on its website. “After receiving a warning from our payment provider, Stripe, we investigated and found unauthorized software on our website and server,” the email from Shelly Store UK, seen by The Register , stated. “We removed the identified malicious software, strengthened access security, applied security updates and introduced ongoing monitoring. We have also reported the incident to the Information Commissioner’s Office .” Shelly Store UK informed customers it was unable to determine whether their data was accessed or copied, although all customers who made orders during an unspecified window are being contacted. One punter told us that hours before they received the email from Shelly Store UK, they began a payment dispute with their card provider after a £221.28 transaction, dated October 26, was made in Australia using their details. They suspect their full card details were swiped at some point between October 12, when they made their first and only order with the company, and October 27, when they received the breach notification. Shelly Store UK did not immediately respond to our request for more details. Its notification email stated the internal investigation remains ongoing, and in addition to payment card details, customers may have had their names, billing addresses, and contact details compromised. Shelly S
-
-### Google's search revenue Ferrari hits an AI-powered speed bump
-Fri, 30 Oct 2026 07:33:00 +0000 — https://www.theregister.com/ai-and-ml/2026/10/30/googles-search-revenue-ferrari-hits-an-ai-powered-speed-bump/5306520
-
-Google is paying a higher price for its bet on AI than even Alphabet's $51.4 billion in Q3 capital expenditures suggest. The biz appears to have traded its high-performing search advertising business for the mediocre monetization of AI Overviews and AI Mode, a misstep that contributed to investor concerns as Alphabet lost roughly $500 billion in market value despite management's attempts to reassure Wall Street. Google's year-over-year search revenue growth slowed from 17 percent in Q2 to 12 percent in Q3 . It's still headed in the right direction, but at a slower rate. During Alphabet's conference call for investors, Douglas Anmuth from JPMorgan Chase & Co asked whether that's because Google is showing fewer ads in AI Overviews and AI Mode than it shows in its traditional search results. Chief business officer Philipp Schindler cited several reasons for that: foreign exchange rates, Europe's elimination of its customs-duty exemption, and "the lower monetization we were seeing in AI Mode." To compensate, Google said it is expanding the distribution of AI Overview ads and adding multiturn ads in the US for AI Mode queries. But some Google Ads customers appear to be more concerned about quality than quantity. In a social media post , Max Anderson, CEO of OnlyFinder, complained that Google has responded to declining search volumes by attempting to manufacture revenue growth through "short-sighted, highly extractive, customer-hostile tactics," such as charging advertisers more fo
-
-### Farm PC 'maintained' by a 14-year-old dumped support chap in a steaming pile of tech mess
-Fri, 30 Oct 2026 06:33:00 +0000 — https://www.theregister.com/systems/2026/10/30/farm-pc-maintained-by-a-14-year-old-dumped-support-chap-in-a-steaming-pile-of-tech-mess/5306217
-
-Welcome to another instalment of On Call, the reader-contributed column The Register publishes each Friday as a cathartic service for readers who know that dealing with tech support BS can be a cow of a job. This week, meet a reader we'll Regomize as "Jason" who told us he had helped an agricultural equipment dealer with his computer issues for about 20 years. "One day this guy called me to ask if I could help at a farm in Yorkshire, where he'd arranged the supply and installation of a fairly substantial system that used a computer to do effectively everything for a few hundred cattle," he told On Call. "That meant individually feeding them, measuring milk yields, planning pregnancies, and periodically submitting all the data to the government." Jason said other tech support folk had tried, and failed, to fix the system. "This had somewhat soured the relationship between the agricultural equipment dealer and the farmer," he punned in his email to On Call. Well punned, Jason. But we digress. "Despite not being fond of wading around in cow shit at four in the morning, I agreed to take a look at the system," Jason told us. By this time he had learned that the farm produced many tons of milk each week, so assumed he would find serious industrial-scale tech once he reached the farm. That assumption was wrong. "When I arrived, the first thing that I found to worry about was that the whole thing was controlled by proprietary software on a single PC running Windows XP – just after Mi
-
 ## Engadget
+
+### Google joins OpenAI and Anthropic in promising new scraping controls
+Sat, 31 Oct 2026 10:34:31 +0000 — https://www.engadget.com/2303225/google-openai-anthropic-ai-crawling-controls/
+
+Google, OpenAI, Anthropic and Microsoft pledge to support a new common signal for robots.txt that blocks scraping for AI training.
+
+### Meta settles another social media addiction case just before trial
+Fri, 30 Oct 2026 20:21:28 +0000 — https://www.engadget.com/2302956/meta-settles-another-social-media-addiction-case-just-before-trial/
+
+Snap is now the only defendant in the case.
+
+### Bluesky now has a dedicated 'moderation inbox'
+Fri, 30 Oct 2026 20:07:00 +0000 — https://www.engadget.com/2302932/bluesky-now-has-a-dedicated-moderation-inbox/
+
+The beta feature makes it easier to stay on top of reports and account strikes.
+
+### Everything you need to know about Googlebooks
+Fri, 30 Oct 2026 19:00:00 +0000 — https://www.engadget.com/2302681/everything-you-need-to-know-about-googlebooks/
+
+Despite good initial hardware, the Googlebook OS still needs a lot of work.
 
 ### New tvOS 27.2 features to try for an upgraded Apple TV experience
 Fri, 30 Oct 2026 16:22:49 +0000 — https://www.engadget.com/2302449/tvos-27-2-features-try-upgraded-apple-tv-experience/
@@ -342,27 +362,57 @@ Fri, 30 Oct 2026 10:08:13 +0000 — https://www.engadget.com/2301968/senators-lo
 
 US senators have asked Meta to explain how it's mitigating 'serious' privacy risks with its AI glasses.
 
-### Binance hacked for an estimated $6.3 billion in record crypto theft
-Fri, 30 Oct 2026 08:24:55 +0000 — https://www.engadget.com/2301941/binance-hacked-for-estimated-6-3-billion-in-record-crypto-theft/
-
-Cryptocurrency exchange Binance has been hit with a record $6.3 billion hack.
-
-### General Motors agrees to pay $220 million to settle multi-state data privacy lawsuit
-Fri, 30 Oct 2026 07:44:26 +0000 — https://www.engadget.com/2301934/general-motors-220-million-settle-multi-state-data-privacy-lawsuit/
-
-GM has settled the Smart Driver program lawsuit brought by 35 attorneys general.
-
-### Sony is working on a film adaptation of viral indie horror game Mouthwashing
-Thu, 29 Oct 2026 22:52:36 +0000 — https://www.engadget.com/2301826/sony-is-working-on-a-film-adaptation-of-viral-indie-horror-game-mouthwashing/
-
-The adaptation will be directed by Karyn Kusama, and scripted by the writers of The Invitation.
-
-### Meta is testing 'Threads Friends' for sharing posts with smaller groups
-Thu, 29 Oct 2026 22:05:39 +0000 — https://www.engadget.com/2301804/meta-is-testing-threads-friends-for-sharing-posts-with-smaller-groups/
-
-Twitter Circle, anyone?
-
 ## TechCrunch
+
+### Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up
+Sat, 31 Oct 2026 04:16:50 +0000 — https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/
+
+The money behind the money is thrilled, mostly.
+
+### Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia
+Sat, 31 Oct 2026 01:20:05 +0000 — https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/
+
+When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.
+
+### Salesforce’s M A spree continues with a reported $375M deal for defense tech startup Rune
+Fri, 30 Oct 2026 23:21:23 +0000 — https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/
+
+The AI logistics startup will bolster the CRM giant's Missionforce defense platform.
+
+### Ollie, a privacy-focused AI assistant, is shutting down
+Fri, 30 Oct 2026 22:56:13 +0000 — https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/
+
+As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.
+
+### Intel s stock crashes, knocking $12B from government s stake
+Fri, 30 Oct 2026 21:54:34 +0000 — https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/
+
+Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.
+
+### Anthropic expected to receive high junk rating from credit agencies following IPO, FT report says
+Fri, 30 Oct 2026 21:52:03 +0000 — https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/
+
+Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business.
+
+### Applebee s exposed customers personal data after leaving database password in app
+Fri, 30 Oct 2026 21:48:53 +0000 — https://techcrunch.com/2026/10/30/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app/
+
+EXCLUSIVE: A security researcher discovered the hardcoded credential in Applebee's app, allowing unrestricted access to customers' personal data.
+
+### Last-minute Halloween costumes for tech nerds
+Fri, 30 Oct 2026 21:26:59 +0000 — https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/
+
+No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.
+
+### Cracks are emerging in the AI spending boom
+Fri, 30 Oct 2026 21:17:40 +0000 — https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/
+
+Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom.
+
+### AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal
+Fri, 30 Oct 2026 19:55:13 +0000 — https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/
+
+Like a real-life episode of "Suits," the demise of famed white-shoe Wall Street law firm Weil, Gotshal Manges has been the talk of the legal industry. And now an AI firm has entered the picture.
 
 ### Satlyt takes another step toward turning satellites into space data centers
 Fri, 30 Oct 2026 18:01:24 +0000 — https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/
@@ -373,54 +423,4 @@ Satlyt ran a successful test this month bringing it closer to turning spacecraft
 Fri, 30 Oct 2026 17:47:12 +0000 — https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/
 
 Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.
-
-### Google s first data center satellite is online and writing poetry
-Fri, 30 Oct 2026 17:00:00 +0000 — https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/
-
-The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.
-
-### Theranos whistleblower Tyler Shultz warns that the AI boom is a great opportunity to go deceive people
-Fri, 30 Oct 2026 16:03:45 +0000 — https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/
-
-The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations.
-
-### North Korean hackers blamed for stealing record $6.3B in Binance breach
-Fri, 30 Oct 2026 14:00:25 +0000 — https://techcrunch.com/2026/10/30/north-korean-hackers-blamed-for-stealing-record-6-3b-in-binance-breach/
-
-Hackers working for North Korea are suspected of hacking a Binance employee's laptop, which allowed the theft of billions in crypto.
-
-### Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate
-Fri, 30 Oct 2026 14:00:00 +0000 — https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/
-
-At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those conversations easier to find, whether they are in 1:1 or small-group on-site meetings. Register before the event starts to save up to $100 on your pass, plus get a second for free.
-
-### DoorDash said it s only received several hundred orders from AI agents
-Fri, 30 Oct 2026 13:54:25 +0000 — https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/
-
-DoorDash said that it is open to working with third-party agent makers.
-
-### Can AI data centers be mass-produced like cars? This startup aims to find out
-Fri, 30 Oct 2026 13:00:00 +0000 — https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/
-
-Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale.
-
-### 5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026
-Fri, 30 Oct 2026 13:00:00 +0000 — https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/
-
-5 days to save up to $100, plus a second pass for free to TechCrunch Founder Summit 2026 in Boston on November 4. Register now.
-
-### Waymo taps Toyota to supply robotaxis for Japan and the UK
-Fri, 30 Oct 2026 07:01:00 +0000 — https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/
-
-Waymo will begin testing self-driving versions of Toyota's electric bZ4X vehicles in Japan next year as part of a broader partnership with the automaker.
-
-### You don t need to believe in a god to get a religious exemption from using AI at work
-Fri, 30 Oct 2026 01:20:48 +0000 — https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/
-
-David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.
-
-### Andy Jassy says Prime Video is on track to earn tens of billions of dollars
-Thu, 29 Oct 2026 23:44:56 +0000 — https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/
-
-The success of blockbuster hits like "Project Hail Mary" and "Verity" is only part of the story, Amazon's CEO says.
 
