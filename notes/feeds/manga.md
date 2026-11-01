@@ -1,6 +1,31 @@
-# Manga — harvested 2026-11-01T11:29:21.650Z
+# Manga — harvested 2026-11-01T18:33:44.543Z
 
 ## Anime News Network
+
+### Lego One Piece Animation Review
+Sun, 01 Nov 2026 12:00:00 -0500 — https://www.animenewsnetwork.com/review/lego-one-piece-animation/.242772
+
+Lego One Piece is a rare marriage of form and function that is downright pleasant, if not the fullest extent of what would be possible.
+
+### Japanese Animation TV Ranking, October 19-25
+Sun, 01 Nov 2026 11:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-01/japanese-animation-tv-ranking-october-19-25/.243409
+
+<cite>Apothecary Diaries</cite> earns 3.5% rating; both <cite>Vermilion Mask, Dragon Ball Super: Beerus</cite> earn 2.9%
+
+### Japan's Video Game Rankings, October 19-25
+Sun, 01 Nov 2026 09:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-01/japan-video-game-rankings-october-19-25/.243410
+
+<cite>Final Fantasy Resonance</cite> debuts at #2-#4
+
+### Bocchi the Rock! Manga Gets Anime Film in 2027
+Sun, 01 Nov 2026 09:11:57 -0500 — https://www.animenewsnetwork.com/news/2026-11-01/bocchi-the-rock-manga-gets-anime-film-in-2027/.243417
+
+Film adapts manga prologue story about Nijika Ichiji's older sister Seika
+
+### Jun Kirarazaka's Blobtopia Manga Ends in 3 Chapters
+Sun, 01 Nov 2026 07:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-01/jun-kirarazaka-blobtopia-manga-ends-in-3-chapters/.243401
+
+Series debuted on March 13
 
 ### Hiromasa Okujima Shijūkara ga Naku Koro ni Manga Ends in Next Chapter
 Sun, 01 Nov 2026 05:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-01/hiromasa-okujima-shijukara-ga-naku-koro-ni-manga-ends-in-next-chapter/.243394
@@ -37,36 +62,21 @@ Sat, 31 Oct 2026 20:20:00 -0400 — https://www.animenewsnetwork.com/interest/20
 
 Featuring <i>Oshi no Ko, Mushoku Tensei, Spice & Wolf, Shangri-La Frontier, Bungo Stray Dogs, Tales of, Saiki K., Gushing Over Magical Girls,</i> & more!
 
-### The Ramparts of Ice Season 2 ‒ Episode 19
-Sat, 31 Oct 2026 12:30:00 -0400 — https://www.animenewsnetwork.com/review/the-ramparts-of-ice-season-2/episode-19/.243393
-
-This is not a relationship that is meant to last long and I'm very curious to see where the breaking point is going to be.
-
-### Murciélago Volumes 1-3 Manga Review
-Sat, 31 Oct 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/murcielago-volumes-1-3/manga/.242729
-
-Kuroko Koumori is an unrepentant womanizer and serial killer, and when the Tokyo Police offer her freedom in return for killing the worst of the worst, she can’t say yes fast enough!
-
-### Happy Halloween 2026 From Around the Anime World, Part III
-Sat, 31 Oct 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/interest/2026-10-31/happy-halloween-2026-from-around-the-anime-world-part-iii/.243391
-
-Featuring <i>Pokémon, Chopper's, Re:ZERO, Alya Sometimes Hides Her Feelings in Russian, Dara-san of Reiwa, Pui Pui Molcar,</i> MAPPA, Tatsunoko, & more!
-
-### Happy Halloween 2026 From Around the Anime World, Part II
-Sat, 31 Oct 2026 11:40:00 -0400 — https://www.animenewsnetwork.com/interest/2026-10-31/happy-halloween-2026-from-around-the-anime-world-part-ii/.243388
-
-Featuring <i>Dan Da Dan, Gundam Hathaway & The Witch from Mercury, Frieren, Pokémon, Chibi Maruko-chan, Doraemon, Votoms: Die Graue Hexe,</i> Tsuburaya Productions, Sega, & more!
-
-### The Apothecary Diaries Season 3 ‒ Episode 53
-Sat, 31 Oct 2026 11:30:00 -0400 — https://www.animenewsnetwork.com/review/the-apothecary-diaries-season-3/episode-53/.243389
-
-In its earliest recorded variants, "The Legend of the White Snake" is a story about a white snake demon who transforms into a beautiful woman to prey on men.
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Interview: Voice Actor Cassandra Lee Morris
+Sun, 01 Nov 2026 17:12:15 GMT — https://animecorner.me/interview-voice-actor-cassandra-lee-morris/
+
+During Anime Central 2026 we had the incredible opportunity to speak with voice actor&hellip;
+
+### Bocchi the Rock Gets Movie Starring Nijika and Seika in 2027
+Sun, 01 Nov 2026 12:07:27 GMT — https://animecorner.me/bocchi-the-rock-gets-movie-starring-nijika-and-seika-in-2027/
+
+Bocchi the Rock is getting a movie in 2027 that stars Nijika and Seika.&hellip;
 
 ### Jujutsu Kaisen Reveals 12 New Culling Game Character Posters Ahead of Season 4
 Sat, 31 Oct 2026 20:53:30 GMT — https://animecorner.me/jujutsu-kaisen-reveals-12-new-culling-game-character-posters-ahead-of-season-4/
@@ -83,12 +93,27 @@ Sat, 31 Oct 2026 10:49:24 GMT — https://animecorner.me/hiragi-sans-house-of-va
 
 Hiragi-san's House of Vampires manga by Miki Yoshikawa (A Couple of Cuckoos) is getting&hellip;
 
-### Fall 2026 Anime Rankings – Week 4
-Fri, 30 Oct 2026 12:30:00 GMT — https://animecorner.me/fall-2026-anime-rankings-week-4/
-
-Bleach wins Fall 2026 Week 4 with 25.31%, followed by Firefly Wedding and Student Council. Both Bleach and Cyberpunk leave the weekly polls after this week.
-
 ## MyAnimeList News
+
+### North American Anime & Manga Releases for November
+Sun, 01 Nov 2026 08:44:16 -0800 — https://myanimelist.net/news/74894552?_location=rss
+
+Here are the North American anime, manga, and light novel releases for November. Week 1: November 3 - 9 Anime Releases Kobayashi-san Chi no Maid Dragon (incl. Valentine, Soshite Onsen! - Amari Kitai Shinaide Kudasai and OO Dragon) (Miss Kobayashi s Dragon Maid) Blu-ray [SteelBook] Kobayashi-san Chi no Maid Dragon S (incl. Nippon no Omotenashi - Attend wa Dragon desu, Mini Dragon, and Specials) (Miss Kobayashi s Dragon Maid S) Blu-ray [SteelBook] Manga Releases Aharen-san wa Hakarenai (...
+
+### Claymore Creator Norihiro Yagi Begins New Manga
+Sun, 01 Nov 2026 08:06:04 -0800 — https://myanimelist.net/news/74894409?_location=rss
+
+Norihiro Yagi, the creator of Claymore, began serializing a new manga titled Bartlet Fairy Basslet on the Shounen Jump+ platform on Monday. Yagi serialized Claymore in Monthly Shounen Jump from June 2001 to June 2007. Following the magazine s discontinuance, the manga switched to Jump SQ. in November 2007, where it ended in October 2014. Shueisha published the 27th and final volume in December 2014. VIZ Media licensed the manga in English in July 2006 and published the 27th volume in Octobe...
+
+### Charisma Unveils Additional Cast, Teaser Promo
+Sun, 01 Nov 2026 06:02:37 -0800 — https://myanimelist.net/news/74894062?_location=rss
+
+The official website for the television anime adaptation of the Charisma House mixed-media project unveiled a pair of additional cast and teaser promotional video on Sunday. The anime series will premiere on TBS affiliate networks at 11:56 p.m. on January 7, 2027. Voice actors Shinnosuke Tachibana (Kamisama Hajimemashita) and Tomohiro Oono (Tomodachi Game) are joining the cast as Souemon Nakagami and Shuu Torahime, respectively. A short anime adaptation of Charisma will begin airing on November...
+
+### Bocchi the Rock! Gets Prequel Anime Movie in 2027
+Sun, 01 Nov 2026 05:22:13 -0800 — https://myanimelist.net/news/74893965?_location=rss
+
+The official website of the Bocchi the Rock! anime series announced a new prequel anime movie subtitled Hoshi no Ashiato, revealing the main cast, staff, a teaser visual (pictured), and an announcement promo on Sunday. The movie is scheduled to open in Japanese theaters in 2027. Voice actresses Maaya Uchida (Chuunibyou demo Koi ga Shitai!) and Sayumi Suzushiro (Kaguya-sama wa Kokurasetai) are starring as Seika Ijichi and Nijika Ijichi, respectively. Staff Director: Shin Wakabayashi (Wonder Egg P...
 
 ### Rock wa Lady no Tashinami deshite Creator Launches New Manga
 Sun, 01 Nov 2026 01:53:25 -0800 — https://myanimelist.net/news/74893568?_location=rss
@@ -109,21 +134,6 @@ The official website for the Kaze wo Tsugumono (Inherit the Winds) original tele
 Fri, 30 Oct 2026 22:20:15 -0700 — https://myanimelist.net/news/74888629?_location=rss
 
 Sumitomo Mitsui Trust Bank and IP platform company Comisma have agreed in principle to establish an investment fund focused on anime production, targeting 10 billion yen (approximately US$63.4 million) in assets under management by the end of fiscal 2027. The initiative aims to broaden access to production financing, attract a broader range of investors, and improve financial returns for creators as demand for Japanese animation continues to grow worldwide. Under the proposed arrangement, the t...
-
-### Manga Hiiragi-san Chi no Kyuuketsu Jijou Gets TV Anime
-Fri, 30 Oct 2026 08:28:17 -0700 — https://myanimelist.net/news/74885918?_location=rss
-
-TMS Entertainment opened an official website for a television anime adaptation of Miki Yoshikawa s Hiiragi-san Chi no Kyuuketsu Jijou (Hiragi-san s House of Vampires) manga on Saturday, revealing a teaser visual (pictured). Unlimited Produce by TMS is credited for the planning and production. Yoshikawa (Kakkou no Iinazuke) originally drew the supernatural romcom manga as a one-shot in Weekly Shounen Magazine in September 2019. Bessatsu Shounen Magazine began serializing the series in O...
-
-### Pole Princess!! Gets Theatrical Anime in January 2027
-Fri, 30 Oct 2026 07:09:48 -0700 — https://myanimelist.net/news/74885701?_location=rss
-
-The official website of the Pole Princess!! anime series announced a new theatrical anime titled Pole Princess!!: Croix du Nord on Friday, revealing the returning cast and staff. The anime will run for approximately 60 minutes, featuring five new songs from the Shining Pole Song Album and an original story. A two-week limited theatrical screening of the anime will begin at six theaters in Japan on January 29, 2027. Voice actresses Rio Tsuchiya (Shibou Yuugi de Meshi wo Kuu.), Anna Suzuki (Musho...
-
-### Light Novel Mushoku Tensei: Dasoku-hen Concludes with Fourth Volume
-Fri, 30 Oct 2026 04:51:23 -0700 — https://myanimelist.net/news/74885300?_location=rss
-
-The official X account for Kadokawa s MF Books label announced on Friday that Rifujin na Magonote s Mushoku Tensei: Dasoku-hen (Mushoku Tensei: Redundant Reincarnation) light novel will end with its fourth volume on November 25. Rifujin penned the short story collection of Mushoku Tensei: Isekai Ittara Honki Dasu (Mushoku Tensei: Jobless Reincarnation) on Shousetsuka ni Narou website from May 2015 to September 2017. Kadokawa began publishing the novel through its MF Books label in June...
 
 ## Otaku USA
 

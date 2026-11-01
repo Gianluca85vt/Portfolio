@@ -1,4 +1,4 @@
-# AI — harvested 2026-11-01T11:29:21.650Z
+# AI — harvested 2026-11-01T18:33:44.543Z
 
 ## OpenAI
 
@@ -6,8 +6,7 @@ _Nothing in the last 48 hours._
 
 ## Hugging Face
 
-### nemotron-halloween
-Fri, 30 Oct 2026 17:57:24 GMT — https://huggingface.co/blog/nvidia/nemotron-halloween
+_Nothing in the last 48 hours._
 
 ## Google DeepMind
 

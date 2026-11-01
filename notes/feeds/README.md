@@ -1,4 +1,4 @@
-# Source feeds — harvested 2026-11-01T11:29:21.650Z
+# Source feeds — harvested 2026-11-01T18:33:44.543Z
 
 Fetched by GitHub Actions, which is not behind the writer's egress proxy.
 One file per category. Each item is what the publisher syndicates in its
@@ -8,12 +8,6 @@ own feed: headline, link, date, and their summary.
 > links to the same publication, which is one source read twice. If only
 > one outlet has the story, write it, keep `draft: true`, and say so in
 > the first line of the body. See notes/article-voice.md.
-
-## Broadcasts in the feeds
-
-Already aired, so a round-up rather than a preview:
-
-- GameSpot — Don t Expect Destiny 3 At The Game Awards, Bungie Says
 
 > **A dated showcase gets two articles, not one.** A preview before it
 > airs, carrying the stream link and the start time in Italian time, and a
@@ -35,13 +29,13 @@ silently skipping it.
 
 ## Feeds
 
-- [Manga](manga.md) **owed** — 24 items
-- [Games](games.md) — 80 items
-- [Tech](tech.md) — 82 items
-- [3D](3d.md) — 14 items
-- [AI](ai.md) — 1 items
-- [Film & TV](film-tv.md) — 64 items
+- [Manga](manga.md) **owed** — 26 items
+- [Games](games.md) — 54 items
+- [Tech](tech.md) — 78 items
+- [3D](3d.md) — 6 items
+- [AI](ai.md) — 0 items
+- [Film & TV](film-tv.md) — 60 items
 
-Total: 265 items.
+Total: 224 items.
 
 Feeds that did not answer: CGChannel (HTTP 403), VentureBeat AI (HTTP 429).
