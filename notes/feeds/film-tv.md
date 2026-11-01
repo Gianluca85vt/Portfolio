@@ -1,189 +1,194 @@
-# Film & TV — harvested 2026-10-31T20:17:21.797Z
+# Film & TV — harvested 2026-11-01T11:29:21.650Z
 
 ## Variety
 
-### Maya Jama on That Shocking Celebrity Traitors Finale, King Kenny s Betrayal and Heated Last Roundtable: My Heart Was Jumping Out of My Chest
-Sat, 31 Oct 2026 20:09:35 +0000 — https://variety.com/2026/tv/global/maya-jama-celebrity-traitors-finale-king-kenny-betrayal-1236936270/
+### Inde Navarrette Wins Halloween With Penis-Destroying Robot ‘SNL’ Sketch ‘The Inventor’s Wife’
+Sun, 01 Nov 2026 08:33:26 +0000 — https://variety.com/2026/tv/news/inde-navarrette-snl-halloween-the-inventors-wife-penis-robot-1236936629/
 
-SPOILER ALERT: This story contains spoilers for the finale of Celebrity Traitors Season 2, now streaming on BBC iPlayer. There s no question Maya Jama carried this season of The Celebrity Traitors. As the only original Traitor to make it to the final episode, the Love Island host successfully went undetected for five weeks and recruited [ ]
+After a pretty weak cold open that was crashed by Tom Hanks’ David S. Pumpkins, Donald Trump (who admitted he “might be gay”) and his MAGA minion Nicki Minaj, and an amusing opening monologue where host Inde Navarrette took a swipe at Shane Gillis, the Halloween edition of “Saturday Night Live” aired a surprisingly fun [ ]
 
-### The Mosquito Bowl : How a Parrot Proved to Be Peter Berg s Biggest Challenge
-Sat, 31 Oct 2026 20:00:00 +0000 — https://variety.com/2026/artisans/news/the-mosquito-bowl-peter-berg-parrot-1236935619/
+### ‘Godzilla Minus Zero’ Stars Relive Hollywood Ovation and Fan Chants for Yamazaki Takashi at Tokyo Festival
+Sun, 01 Nov 2026 05:18:22 +0000 — https://variety.com/2026/film/festivals/godzilla-minus-zero-stars-relive-hollywood-ovation-tokyo-festival-1236936612/
 
-Director Peter Berg faced numerous challenges shooting his latest film, “The Mosquito Bowl.” Based on Buzz Bissinger’s book, the film tells the true story of four college football stars — Tom Francis as David Schreiner, Nicholas Galitzine as John McLaughry, Ray Nicholson as Tony Butkovich and Bill Skarsgård as Bob Baumann — who are called [ ]
+The cast of “Godzilla Minus Zero” brought the glow of a Hollywood standing ovation to the 39th Tokyo International Film Festival on Sunday, two days before Yamazaki Takashi’s follow-up to his Oscar-winning “Godzilla Minus One” opens in Japan. Kamiki Ryunosuke, who returns as lead character Shikishima Koichi, and Hamabe Minami, who reprises the role of [ ]
 
-### ‘Paper Plane,’ ‘Helicopter’ and ‘Old Bogus Massacre’ Among Austin Film Festival Script and Film Competition Award Winners (EXCLUSIVE)
-Sat, 31 Oct 2026 19:30:00 +0000 — https://variety.com/2026/film/news/austin-film-festival-script-film-award-winners-1236936233/
+### ‘SNL’ Weekend Update Finally Weighs in on Israel
+Sun, 01 Nov 2026 05:03:38 +0000 — https://variety.com/2026/tv/news/snl-weekend-update-israel-stance-michael-che-colin-jost-1236936599/
 
-The Austin Film Festival has announced the winners of its script and film competition. The 33rd annual event received more than 12,500 submissions, with 78 scripts advancing to the finalist round before the festival selected 21 writers and writing teams as winners. Those honored received their awards during the Awards Luncheon on Saturday in Austin, [ ]
+The Halloween edition of “SNL” Weekend Update saw a cameo by Ben Marshall’s Pennywise as well as some jabs at President Trump’s recent obsession with candidates’ posteriors. “Even Vice President JD Vance came out and said that he was jealous that President Trump has never complimented his butt. What the hell is going on! Your [ ]
 
-### Percy Jackson Stars on Learning to Scream and Sob on Set of Season 3: I Love Playing the Dark Type of Scenes
-Sat, 31 Oct 2026 19:04:50 +0000 — https://variety.com/2026/tv/global/percy-jackson-season-3-lucca-1236936128/
+### ‘SNL’ Celebrates Milwaukee Brewers’ World Series Win With Bobby Moynihan’s Drunk Uncle on Weekend Update
+Sun, 01 Nov 2026 04:56:10 +0000 — https://variety.com/2026/tv/news/drunk-uncle-bobby-moynihan-snl-milwaukee-brewers-world-win-1236936586/
 
-Being a teenager is hard enough but when you’re a demigod, things get genuinely complicated. These complications along with titanic battles are at the heart of Season 3 of “Percy Jackson and the Olympians, due to drop on Disney+ in November. The cast and showrunners spoke to Variety at Lucca Comics. Walker Scobell, who plays [ ]
+“Saturday Night Live” paid tribute to the Milwaukee Brewers’ historic World Series win during a Weekend Update segment that featured the return of Bobby Moynihan’s Drunk Uncle commentator character. Moynihan spent nine seasons on “SNL,” from 2009 to 2017. His recurring Drunk Uncle character was a classic Archie Bunker-esque East Coast guy with blunt observations [ ]
 
-### Joshua Jackson Teases ‘Sex, Drugs and Rock n Roll’ in New HBO Max Series ‘How to Survive Without Me’: ‘I m Getting Too Old For This S ’
-Sat, 31 Oct 2026 18:19:54 +0000 — https://variety.com/2026/tv/columns/joshua-jackson-hbo-max-series-how-to-survive-without-me-1236936000/
+### ‘SNL’ Cold Open Crashed by Tom Hanks as David S. Pumpkins, Nicki Minaj and Donald Trump, Who Admits He ‘Might Be Gay’
+Sun, 01 Nov 2026 04:03:35 +0000 — https://variety.com/2026/tv/news/tom-hanks-trump-david-pumpkins-snl-nicki-minaj-1236936453/
 
-Joshua Jackson is teasing his new HBO Max series, “How to Survive Without Me.” Co-created by husbands Greg Berlanti and Robbie Rogers along with Bash Doran, the series follows a family after the death of matriarch Beverly. “The show starts six months after the matriarch of this large family has passed away, and because she [ ]
+Tom Hanks returned to “Saturday Night Live” on Halloween night to revive his lounge-y David S. Pumpkins character in a cold open that skewered President Trump’s increasingly bizarre comments on the stump and his fixation with men’s physiques. The segment also featured Saidah Belo-Osagie as Nicki Minaj in a spoof of the star’s vocal support [ ]
 
-### Jack Nicholson Has ‘Disappeared’ but Is ‘Well,’ Says Michael Douglas: ‘I Still See Him’
-Sat, 31 Oct 2026 18:07:44 +0000 — https://variety.com/2026/film/news/jack-nicholson-retired-michael-douglas-1236936249/
+### Inde Navarrette Takes Swipe at Shane Gillis During ‘SNL’ Monologue
+Sun, 01 Nov 2026 03:52:55 +0000 — https://variety.com/2026/tv/news/inde-navarrette-snl-shane-gillis-gym-monologue-1236936565/
 
-Michael Douglas is giving fans an update on Jack Nicholson. While promoting his new memoir, “One Helluva Ride,” at a recent event, Douglas was asked about Nicholson and his relationship with the Something s Gotta Give actor. “I would have liked to have acted with Jack,” Douglas said. “He’s not working anymore. He’s well. He has [ ]
+Following a Trump-centric cold open that featured the return of Tom Hanks’ David S. Pumpkins, “Saturday Night Live” host Inde Navarrette took the stage at Studio 8H for her first opening monologue. It was a fitting choice to have the star of the year’s breakout horror hit “Obsession” (and the internet’s apparent obsession) make her [ ]
 
-### Ken Russell s The Devils Feels More Relevant Than It Did 55 Years Ago. That s Because It s About a World Gone Mad
-Sat, 31 Oct 2026 17:46:41 +0000 — https://variety.com/2026/film/columns/ken-russells-the-devils-feels-more-relevant-than-ever-1236936074/
+### Heidi Klum Dressed Up as a Severed Human Hand for Her Annual Halloween Party
+Sun, 01 Nov 2026 03:12:07 +0000 — https://variety.com/2026/scene/news/heidi-klum-halloween-2026-severed-human-hand-costume-1236935653/
 
-I’m an ardent fan of Ken Russell, yet I always considered The Devils to be a transgressive novelty: a voluptuous exercise in extreme blasphemy and extreme horror. No doubt: It’s both those things. Yet I didn’t think it was anything more than that. (For me, that was enough.) When the film came out, in 1971, [ ]
+Is it really Halloween without Heidi Klum? The supermodel, who has become known for her over-the-top costumes, has returned for another year of her annual Halloween party, this time opting to dress as a realistic-looking severed human hand. At last year’s party, Klum dressed as the mythological monster Medusa, which featured a headpiece decorated with [ ]
 
-### Best Celebrity Halloween Costumes: Kim Kardashian as North West, Paris Hilton as Britney Spears and More
-Sat, 31 Oct 2026 17:18:53 +0000 — https://variety.com/lists/best-celebrity-halloween-costumes/
+### Pandemic-Era Longing to Gather Fed Qiu Jiongjiong’s Tokyo Competition Title ‘Fuxi: Four Tales of Feasting’
+Sun, 01 Nov 2026 00:46:15 +0000 — https://variety.com/2026/film/festivals/pandemic-longing-gather-tokyo-competition-title-fuxi-1236936421/
 
-Halloween and Hollywood go hand in hand, especially given that most costumes draw inspiration from entertainment. From iconic movie characters to musicians to pop culture phenomena, the costume references are endless. But celebrities don t just provide the rest of the world with some of the best costume inspiration; they also give some of the year s [ ]
+Chinese painter and filmmaker Qiu Jiongjiong began shaping his new film during the pandemic. With the world suddenly forced to pause, he tells Variety, people felt an urgent desire to return to everyday life and to gather around a table. That idea became the starting point for “Fuxi: Four Tales of Feasting,” which is competing [ ]
 
-### Producer Will Packer Stumps to Get Out the Vote and Launch a Private HBCU Fundraising Campaign
-Sat, 31 Oct 2026 17:11:53 +0000 — https://variety.com/2026/biz/news/will-packer-vote-florida-am-university-hbcus-1236935935/
+### Phoebe Bridgers Makes L.A. s Intuit Dome Into an Intimate Space Full of Love, Grief, Light Shows, Peter Pan Cosplay and a Great Billie Eilish Duet: Concert Review
+Sun, 01 Nov 2026 00:09:22 +0000 — https://variety.com/2026/music/concert-reviews/phoebe-bridgers-concert-review-billie-eilish-intuit-dome-1236936235/
 
-Producer Will Packer has never been shy about sharing his opinion, even as he’s become a public figure. In a season when so many of Hollywood’s boldface names have kept a low profile when it comes to politics, Packer has taken to stages in recent weeks to advocate for causes and candidates that he believes [ ]
+So, in talking about the marvel that was Phoebe Bridgers opening night at L.A. s Intuit Dome Friday night, which part of the show do you talk about first? Would it the emotionally riveting middle section of the show, in which Bridgers used the no-phones setting to elaborately explore, in song and in monologue, her complicated [ ]
 
-### ‘It: Welcome to Derry’ Surprise Halloween Episode Drops on HBO Max
-Sat, 31 Oct 2026 16:50:11 +0000 — https://variety.com/2026/tv/news/it-welcome-to-derry-halloween-special-hbo-max-1236936137/
+### Judge Dismisses Trump’s Wall Street Journal Defamation Lawsuit Over Published Epstein ‘Birthday Book’ for a Second Time
+Sat, 31 Oct 2026 23:23:28 +0000 — https://variety.com/2026/biz/news/judge-dismisses-trump-wsj-defamation-lawsuit-epstein-1236936423/
 
-Happy Halloween, indeed! Just in time for the spooky holiday, HBO has released a surprise episode of “It: Welcome to Derry” on the streaming platform. Titled “A Story of Derry,” the special comes in at 30 minutes and is set hundreds of years before the show’s events and the introduction of Pennywise. The timing is [ ]
+A federal judge has once again dismissed President Donald Trump’s defamation claims against the Wall Street Journal over a 2025 report by the paper that a 2003 birthday letter to convicted sex offender Jeffrey Epstein was purportedly written by Trump. Trump’s lawsuit “falls short of pleading actual malice,” wrote U.S. District Judge Darrin P. Gayles [ ]
 
 ## The Hollywood Reporter
 
-### WNBA Finals Game 7: Where to Watch the Valkyries vs. Dream Title Clincher Online
-Sat, 31 Oct 2026 20:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/watch-dream-valkyries-game-7-wnba-finals-free-stream-2026-1236743915/
+### ‘Godzilla Minus Zero’ Crashes Into Tokyo Film Festival With Stars Ryunosuke Kamiki, Minami Hamabe in Tow
+Sun, 01 Nov 2026 08:57:37 +0000 — https://www.hollywoodreporter.com/movies/movie-news/godzilla-minus-zero-crashes-tokyo-film-festival-ryunosuke-kamiki-minami-hamabe-1236744328/
 
-The winner-take-all Game 7 is set for Saturday, Oct. 31.
+Takashi Yamazaki’s sequel brought costumed fans, monster figurines and rapturous applause at two sold-out festival screenings ahead of its Nov. 3 Japanese release.
 
-### Where to Watch Georgia vs. Florida Football Game Online
-Sat, 31 Oct 2026 15:30:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/watch-florida-georgia-game-free-college-football-streams-2026-1236743879/
+### SNL : Inde Navarrette Digs at Shane Gillis Joke About Women Dressing Like Whores at the Gym as Tom Hanks Crashes Cold Open
+Sun, 01 Nov 2026 03:54:45 +0000 — https://www.hollywoodreporter.com/tv/tv-news/inde-navarrette-snl-shane-gillis-whore-gym-tom-hanks-1236744238/
 
-One of the biggest rivalries in college football history is playing out this Halloween in Atlanta, Georgia.
+"Every morning, I put on my little whore outfit, and I hit the gym," the 'Obsession' actress said of her prep for Marvel's X-Men reboot.
 
-### Canelo vs. Mbilli Livestream: Where to Watch the Fight Online
-Sat, 31 Oct 2026 12:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/watch-canelo-vs-mbilli-fight-dazn-pay-per-view-boxing-2026-1236743971/
+### Heidi Klum Reveals This Year s (Very Bloody) Halloween Costume
+Sun, 01 Nov 2026 02:36:46 +0000 — https://www.hollywoodreporter.com/lifestyle/lifestyle-news/heidi-klum-2026-halloween-costume-reveal-1236741385/
 
-Canelo Alvarez returns to face WBC super middleweight champion Christian Mbilli on Saturday, Oct. 31 in Riyadh, Saudi Arabia.
+The star transformed into a severed hand for her famous Halloween party on Saturday night.
 
-### Macklemore Wraps Up Free Palestine Tour in London: It Was More Uncomfortable for Me to Stay Silent
-Sat, 31 Oct 2026 10:13:19 +0000 — https://www.hollywoodreporter.com/music/music-news/macklemore-free-palestine-tour-london-concert-ed-sheeran-1236743566/
+### Tovah Feldshuh Shuts Down Nobody Wants This Cast Tension Rumors Amid Adam Brody Free Palestine” Support
+Sun, 01 Nov 2026 01:12:39 +0000 — https://www.hollywoodreporter.com/tv/tv-news/tovah-feldshuh-nobody-wants-this-tension-adam-brody-palestine-1236744254/
 
-The concerts, raising money for Palestinian causes, come weeks after Macklemore was controversially dropped from Ed Sheeran's Loop Tour.
+"Tensions are NOT RISING. Profound differences of opinion are. Please do not conflate the two — And none of it will be brought to the set," the actress wrote in response to a Threads post.
 
-### 2026 Daytime Emmy Awards: General Hospital Wins Best Daytime Drama
-Sat, 31 Oct 2026 03:11:55 +0000 — https://www.hollywoodreporter.com/news/general-news/2026-daytime-emmys-winners-list-1236744039/
+### Green Room Director Recalls How Patrick Stewart Saved Movie From Being Scrapped
+Sun, 01 Nov 2026 00:13:53 +0000 — https://www.hollywoodreporter.com/movies/movie-news/how-patrick-stewart-saved-green-room-scrapped-jeremy-saulnier-1236744241/
 
-'The Kelly Clarkson Show' won a leading five awards, as 'Beyond the Gates' also took home four trophies.
+Ahead of a screening of the film on Friday, Jeremy Saulnier recounted how 'Green Room' was "close to shutting down" when the sci-fi icon, "out of the blue, expressed interest in the project."
 
-### Bill Maher Responds to Trump s 1,318-Word Social Rant: He Went Off on Me Like Kelly Clarkson in a Toy Store
-Sat, 31 Oct 2026 02:38:37 +0000 — https://www.hollywoodreporter.com/tv/tv-news/bill-maher-responds-trump-social-rant-kelly-clarkson-toy-store-1236743958/
+### Trump Lawsuit Against Wall Street Journal Over Epstein Story Dismissed by Judge
+Sun, 01 Nov 2026 00:01:47 +0000 — https://www.hollywoodreporter.com/news/politics-news/trump-lawsuit-wall-street-journal-epstein-dismissed-1236744244/
 
-The president slammed the TV host in a Sunday post, writing that he is a "COMPLETE AND TOTAL LOSER."
+U.S. District Judge Darrin Gayles in Miami dismissed the suit with prejudice, ruling that the president did not prove the defendants made defamatory statements with actual malice as required by law.
 
-### Margaret Qualley and Jack Antonoff File for Divorce After Three Years of Marriage
-Sat, 31 Oct 2026 01:37:48 +0000 — https://www.hollywoodreporter.com/lifestyle/lifestyle-news/margaret-qualley-jack-antonoff-file-divorce-1236744038/
+### Michael Douglas Shares Update on Jack Nicholson: He’s Well. He Has Disappeared
+Sat, 31 Oct 2026 22:43:56 +0000 — https://www.hollywoodreporter.com/movies/movie-news/jack-nicholson-update-michael-douglas-disappeared-1236744230/
 
-The actress and Bleachers frontman began dating in 2021 and reportedly broke up in July.
+"I still see him, but he is fine," the 'Basic Instinct' actor said of the three-time Oscar winner who has stayed out of the spotlight in recent years.
 
-### Timbaland Files $15 Million Fraud Lawsuit Against Former Managers
-Sat, 31 Oct 2026 01:23:51 +0000 — https://www.hollywoodreporter.com/music/music-industry-news/timbaland-files-15-million-lawsuit-against-former-managers-1236743974/
+### Klara and the Sun Director Taika Waititi Calls Critics Sad Lost Souls Over Negative Reviews
+Sat, 31 Oct 2026 22:41:34 +0000 — https://www.hollywoodreporter.com/movies/movie-news/klara-and-the-sun-taika-waititi-slams-critics-reviews-1236744227/
 
-The super-producer alleges that former manager Gary Marella and business manager Bruce Seckendorf "used their entrusted authority to enrich themselves and others, conceal financial misconduct, and deplete Timbaland’s valuable assets."
+Set in a dystopian future, the film stars Jenna Ortega and Amy Adams.
 
-### LAPD Arrests Two for Murder of Christina Downer, Sister to SNL Writer Jimmy Fowlie
-Sat, 31 Oct 2026 00:48:27 +0000 — https://www.hollywoodreporter.com/news/general-news/arrest-murder-christina-downer-snl-writer-jimmy-fowlie-1236744032/
+### Where to Watch O.J. s Accomplice, New Docuseries Reexamining the 1994 Murders
+Sat, 31 Oct 2026 21:57:19 +0000 — https://www.hollywoodreporter.com/tv/tv-news/watch-ojs-accomplice-2026-oj-simpson-doc-peacock-free-trial-1236744180/
 
-Police arrested Downer's boyfriend, Delorean Bijon Brandon, and Kaylee Nicole Markowski on Thursday.
+The two-parter challenges existing ideas surrounding the murders of O.J. Simpson's wife, Nicole Brown Simpson, and friend, Ron Goldman.
 
-### The Hollywood Reporter Wins 2026 Daytime Emmy Award
-Sat, 31 Oct 2026 00:46:06 +0000 — https://www.hollywoodreporter.com/tv/tv-news/hollywood-reporter-wins-2026-daytime-emmy-award-1236744015/
+### Best Celebrity Halloween Costumes 2026: Paris Hilton as Britney Spears, Lisa Rinna as Kylie Jenner and More
+Sat, 31 Oct 2026 21:28:45 +0000 — https://www.hollywoodreporter.com/lifestyle/lifestyle-news/best-celebrity-halloween-costumes-2026-1236744134/
 
-This was the third consecutive nomination for the 'Off Script' roundtable series, which has received a total of six nods over the past nine years.
+Stars are embracing the spooky holiday with creative, nostalgic and pop culture inspired costumes. The Hollywood Reporter has compiled a list of our favorites.
 
 ## Deadline
+
+### Robert Downey Jr. Pedro Pascal Serve MCU Role Reversal For Halloween: Costume Swap!
+Sun, 01 Nov 2026 05:35:33 +0000 — https://deadline.com/2026/10/robert-downey-jr-pedro-pascal-mcu-role-reversal-halloween-1237210827/
+
+With less than two months left on the Avengers: Doomsday clock, Robert Downey Jr. and Pedro Pascal swapped sides for Halloween. The pair traded off their MCU roles in a paired costume, with Downey dressing as Pascal s character Mr. Fantastic and Pascal as Downey s Dr. Doom, ahead of the movie s Dec. 18 premiere in theaters. [ ]
+
+### Gracie Abrams Channels Baz Luhrmann s Romeo + Juliet For SNL Halloween Performance
+Sun, 01 Nov 2026 05:23:35 +0000 — https://deadline.com/2026/10/gracie-abrams-baz-luhrmann-romeo-juliet-snl-halloween-1237210810/
+
+As Gracie Abrams celebrated Halloween with Saturday Night Live, she gave viewers a 2-for-1 costume special during her performances. The 2x Grammy nominee channeled Baz Luhrmann s Romeo + Juliet (1996) as she serenaded the Studio 8H live audience, dressing as Leonardo DiCaprio and Claire Danes doomed lovers from the ultra-stylized adaptation of William Shakespeare s tragedy. [ ]
+
+### SNL Pays Tribute To Patrick Stewart With Clip From His 1994 Episode
+Sun, 01 Nov 2026 05:11:21 +0000 — https://deadline.com/2026/10/snl-pays-tribute-patrick-stewart-1237210812/
+
+As the world mourns Patrick Stewart, Saturday Night Live paid tribute to the late former host on this weekend s episode. Before the goodnights, the NBC sketch comedy show played an archive clip of the three-time Oscar nominee introducing musical guest Salt-N-Pepa during a 1994 episode, in addition to sharing one of his promo photos from [ ]
+
+### Milwaukee Brewers Make Surprise Weekend Update Appearance After World Series Win With Returning SNL Alum Bobby Moynihan
+Sun, 01 Nov 2026 04:48:53 +0000 — https://deadline.com/2026/10/milwaukee-brewers-weekend-update-after-world-series-1237210800/
+
+Coming off their World Series victory, the Milwaukee Brewers showed off their trophy on Weekend Update with a Saturday Night Live alum. The team s manager Pat Murphy, Christian Yelich and Brice Turang made a surprise appearance on the segment with Bobby Moynihan, who reprised his Drunk Uncle character. Hey, I know you. You re Pete Davidson, [ ]
+
+### Inde Navarrette Kicks Off Saturday Night Live Debut With Shane Gillis Quip About Her Little Whore Outfit For Getting Into Marvel Shape
+Sun, 01 Nov 2026 03:58:13 +0000 — https://deadline.com/2026/10/inde-navarrette-snl-debut-shane-gillis-quip-little-whore-outfit-1237210738/
+
+Following her scream queen debut in Obsession, Inde Navarrette flexed her comedy muscle with her Saturday Night Live hosting debut. On this weekend s episode of the sketch comedy show, the actress teased her upcoming MCU role as Rogue in X-Men, noting that she has to get into Marvel shape while making a joke about Shane [ ]
+
+### Tom Hanks Returns As David S. Pumpkins For Saturday Night Live Opener Interrupted By Donald Trump s Fear Of A Midterm Ass-Whipping
+Sun, 01 Nov 2026 03:52:52 +0000 — https://deadline.com/2026/10/saturday-night-live-open-tom-hanks-trump-halloween-1237210760/
+
+Tom Hanks returned to Saturday Night Live as David S. Pumpkins for a Halloween-themed opener, albeit his skit was suddenly interrupted by Donald Trump (James Austin Johnson) as he implored supporters to try to prevent a potential midterm drubbing. The midterms are on Tuesday, and the polls say we re doing very badly, Johnson s Trump said. [ ]
+
+### Steep Height? No Sweat: ‘Everest: The Other Side’s Jim Morrison And Jimmy Chin Rappel Down Side Of West Hollywood Building [Video]
+Sun, 01 Nov 2026 00:26:17 +0000 — https://deadline.com/2026/10/everest-the-other-side-director-and-star-rappel-down-building-1237210694/
+
+Ski mountaineers Jimmy Chin and Jim Morrison are going to great lengths – and heights – to spread the word about the National Geographic documentary Everest: The Other Side. The pair ascended to the top of a 12-story building on the Sunset strip in West Hollywood, CA Friday evening and successfully rappelled down the side. [ ]
+
+### Vision Quest s Paul Bettany On How He Blew 10 Blood Vessels In His Eye While Wildly Overacting : A Lesson In Less Is More
+Sun, 01 Nov 2026 00:22:01 +0000 — https://deadline.com/2026/10/vision-quest-paul-bettany-blew-10-blood-vessels-eye-1237210698/
+
+Although he plays a largely indestructible AI in VisionQuest, Paul Bettany still had to contend with human limitations while bringing the character to life. The actor, who reprises his MCU role as Vision in the Disney+ series that airs its Season 1 finale on Nov. 10, revealed that he blew out about 10 blood vessels [ ]
+
+### Taika Waititi Calls Klara And The Sun Critics Irrelevant, Out Of Touch, Obsolete
+Sat, 31 Oct 2026 23:28:09 +0000 — https://deadline.com/2026/10/taika-waititi-calls-klara-and-the-sun-critics-irrelevant-1237210687/
+
+As Taika Waititi s latest directorial effort gets its time in the sun, he has some choice words for critics attempting to rain on his parade. On Saturday, the Oscar winner boasted about Klara and the Sun s 78% Rotten Tomatoes audience score (now at 73%), while slamming the sad lost souls who gave the movie a [ ]
+
+### Harry Potter s Paapa Essiedu Defends Role After Advocating For Trans Rights: People Have A Lot Of Feelings About This
+Sat, 31 Oct 2026 22:28:18 +0000 — https://deadline.com/2026/10/harry-potter-paapa-essiedu-defends-casting-trans-rights-1237210681/
+
+With the clock counting down to Harry Potter s Christmas debut, Paapa Essiedu is addressing the ongoing controversy around the show. The actor, who stars as Severus Snape in the upcoming HBO series adaptation of J.K. Rowling s books, recently responded to criticisms of his joining the cast following the author s infamous social media campaign of transphobia. [ ]
+
+### Green Room Writer/Director Recalls How Patrick Stewart Saved The Day When Film Was Almost Axed, Would Tell Fans: Don t Root For The Nazis
+Sat, 31 Oct 2026 22:01:20 +0000 — https://deadline.com/2026/10/green-room-patrick-stewart-saved-the-day-1237210678/
+
+More than a decade later, Green Room writer/director Jeremy Saulnier is expressing his gratitude for Patrick Stewart helping get the film made. During a screening of the 2015 movie on Friday, one day after Stewart died at age 86, Saulnier paid his respects to the late 3x Golden Globe nominee and explained how he saved [ ]
 
 ### Judge Again Tosses Out Donald Trump s $10 Billion Lawsuit Against The Wall Street Journal Over Its Reporting On Jeffrey Epstein Birthday Letter
 Sat, 31 Oct 2026 20:15:54 +0000 — https://deadline.com/2026/10/trump-wall-street-journal-lawsuit-dismissed-jeffrey-epstein-1237210665/
 
-A federal judge has again dismissed Donald Trump s defamation lawsuit against The Wall Street Journal over its reporting on a letter sent to Jeffrey Epstein for his birthday in 2003. U.S. District Judge Darrin P. Gayles wrote in his opinion that Trump s lawsuit falls short of pleading actual malice. Indeed, the allegations regarding malice are [ ]
-
-### Jessica Lange Says Acting Career Might Be Coming To An End
-Sat, 31 Oct 2026 20:05:37 +0000 — https://deadline.com/2026/10/jessica-lange-retirement-1237210656/
-
-Jessica Lange says she feels her acting career might be coming to an end, and that her current film, Long Day’s Journey Into Night, wouldn t be a bad way to go out. In an interview with Rolling Stone posted yesterday, Lange addressed a wide range of topics and a look back at her own career [ ]
-
-### It: Welcome to Derry’ Surprise Halloween Episode Now Streaming On HBO Max
-Sat, 31 Oct 2026 18:18:10 +0000 — https://deadline.com/2026/10/it-welcome-to-derry-halloween-hbo-max-1237210647/
-
-All treat, no trick: HBO Max has released a surprise episode of It: Welcome to Derry for Halloween. IT s a surprise Halloween treat, HBO Max posted on its Instagram page along with a brief clip of the episode (watch it below). Catch this never-before-seen special exploring the origins of IT in Derry. The episode, “A [ ]
-
-### Andy Cohen Bravo Settle Leah McSweeney RHONY Toxic Workplace Booze Abuse Lawsuit
-Sat, 31 Oct 2026 16:46:38 +0000 — https://deadline.com/2026/10/andy-cohen-bravo-leah-mcsweeney-lawsuit-settlement-1237210617/
-
-Andy Cohen and Bravo have settled the toxic work environment lawsuit filed by Leah McSweeney. Initially filed in February 2024, the action saw the Real Housewives of New York star accuse her old bosses of encouraging substance use and a resumption of her alcohol abuse, among other things. McSweeney also later claimed that Cohen and [ ]
-
-### Deep Purple Singer Ian Gillan Hospitalized After Medical Emergency; Weekend Tour Dates Canceled
-Sat, 31 Oct 2026 16:42:46 +0000 — https://deadline.com/2026/10/ian-gillan-deep-purple-medical-emergency-1237210620/
-
-Ian Gillan, lead singer for classic rockers Deep Purple, has been hospitalized following a medical emergency that prompted the band to cancel two shows this weekend. The exact nature of the 81-year-old singer s medical situation was not disclosed. In a Facebook post on the band s page today, the group wrote, “With great disappointment, Deep Purple [ ]
-
-### Clayface Chasing Elizabeth Holmes Nathan Fielder For No. 1, But Docu Duo Have Edge With Near $11M Halloween Box Office Update
-Sat, 31 Oct 2026 16:15:00 +0000 — https://deadline.com/2026/10/box-office-you-can-see-everything-clayface-halloween-1237209579/
-
-SATURDAY AM: Both A24 s You Can See Everything and Warner Bros/DC s Clayface remain above $10M in what isn t the worst weekend this year at the domestic box office, but close with all titles grossing north of $63M. However, sources believe Elizabeth Holmes and Nathan Fielder are more alluring than a DC complex character whose face [ ]
-
-### Indian Filmmaker Sanjay Gupta Dies: Kaante Director Was 57
-Sat, 31 Oct 2026 15:17:13 +0000 — https://deadline.com/2026/10/sanjay-gupta-dead-1237210607/
-
-Sanjay Gupta, the Indian director best known for the crime drama films Kaante and Shootout at Lokhandwala, died Friday, October 30, after a fall at his home in Mumbai. He was 57 (though some sources put his age at 59). His death was confirmed by friend and fellow director Milap Zaveri to the Press Trust [ ]
-
-### Emmy-Winning Comedian Alex Edelman Says Loss Of Kennedy Center Is No Joke
-Sat, 31 Oct 2026 14:03:25 +0000 — https://deadline.com/2026/10/alex-edelman-kennedy-center-1237210602/
-
-Alex Edelman, the comedian and actor who won an Emmy for his 2024 HBO/Max special Just For Us and a special Tony for the original Broadway staging, laments what is effectively the loss to comics of a newly politicized Kennedy Center. For me and the performers I know, it doesn’t make sense to play the [ ]
-
-### What To Watch For As Networks Cover Midterm Election Night: More Data, More Coverage More Competition
-Sat, 31 Oct 2026 14:00:04 +0000 — https://deadline.com/2026/10/midterms-news-networks-coverage-2026-1237207099/
-
-Networks are preparing for their most important night of the year, an Election Night next week that will feature more data, more bells and whistles and, perhaps most important, just more coverage than any recent midterm cycle. The robust plans across the linear landscape come as a blizzard of creators, podcasters and pundits on YouTube [ ]
-
-### Dubai-Based Director Faisal Hashmi Launches Spine Drop Pictures Inaugural Horror Slate
-Sat, 31 Oct 2026 10:35:47 +0000 — https://deadline.com/2026/10/dubai-faisal-hashmi-spine-drop-pictures-horror-slate-1237210593/
-
-EXCLUSIVE: Here’s a nicely timed company announcement for Halloween. Dubai-based indie director and writer Faisal Hashmi has officially launched genre-focused production company Spine Drop Pictures and unveiled its inaugural slate of three horror features. Hashmi has won fans over his 15-year career with a collection of 10 contained, high-concept genre shorts with chilling twists, including [ ]
-
-### The Celebrity Traitors Finale Draws Record Audience To BBC
-Sat, 31 Oct 2026 10:15:06 +0000 — https://deadline.com/2026/10/the-celebrity-traitors-finale-draws-record-rating-1237210586/
-
-The Celebrity Traitors bowed out with record ratings on Friday. The Claudia Winkleman-fronted BBC series drew an average overnight audience of 11.23 million viewers, topping the previous high of 11 million for last year s finale. The 80-minute-long episode peaked with 11.6 million viewers as a winner was crowned, though Deadline is choosing not to publish [ ]
-
-### Teodora Ana Mihai On Her Breakout Feature ‘Heysel 85’ Plans For Her Next Film — Tokyo
-Sat, 31 Oct 2026 05:31:47 +0000 — https://deadline.com/2026/10/teodora-ana-mihai-heysel-85-tokyo-1237210571/
-
-After a buzzy debut almost eight months ago in Berlin, Teodora Ana Mihai has finally begun the international launch of her latest feature, Heysel 85, and this week the Romanian-Belgian filmmaker is at the Tokyo Film Festival, where the film has received its Asian premiere. Directed by Mihai, from a screenplay she co-wrote with Lode [ ]
+UPDATED: A federal judge has again dismissed Donald Trump s $10 billion defamation lawsuit against The Wall Street Journal over its reporting on a letter sent to Jeffrey Epstein for his birthday in 2003. U.S. District Judge Darrin P. Gayles wrote in his opinion that Trump s lawsuit falls short of pleading actual malice. Indeed, the allegations [ ]
 
 ## befores & afters
+
+### An interesting piece of Tippett Studio history is up for auction
+Sun, 01 Nov 2026 08:47:23 +0000 — https://beforesandafters.com/2026/11/01/an-interesting-piece-of-tippett-studio-history-is-up-for-auction/
+
+A DID motion capture rig for humans? Many befores & afters readers will know the story about the Dinosaur Input Device (or Digital Input Device) that was developed by Tippett Studio, ILM and Pixar for Jurassic Park. The DID was a dino-shaped sensor-covered armature with encoders that could translate stop-motion-like input to a CG model, allowing Tippett’s traditionally trained animators to lend their skills to a new wave of digital animation. You can read the huge oral history here at the site . Well, after Jurassic , Tippett Studio continued the development of encoder-covered capture devices, including for use on Starship Troopers and other projects. At one point, the team made a whole motion capture suit exoskeleton with encoders, designed to be worn by a performer and used for human motion capture. In the wake of Tippett Studio shutting down its Berkeley studio, that exoskeleton has now become available for auction. See the listing here . The starting bid is $1,000. The blurb for the auction mentions the suit was utilized on Starship Troopers . I believe there was some mocap done for a panoramic crowd shot for scenes after the brain bug had been defeated. I had heard, too, there might have been some experimentation done for Hollow Man with the suit, but I m not 100% sure on this. In any case, it s definitely an interesting look back at mocap and Tippett Studio history. The post An interesting piece of Tippett Studio history is up for auction appeared first on befores & aft
 
 ### The making of *that* shot in Contact
 Fri, 30 Oct 2026 15:16:53 +0000 — https://beforesandafters.com/2026/10/31/the-making-of-that-shot-in-contact/
 
 Behind the mirror shot that still marvels. This episode is sponsored by ‪ fxphd . Buy WOAH! Great Moments in Effects History Vol. 1 by ‪Ian Failes at Amazon in PRINT and on KINDLE: https://amzn.to/4xpXmqo Get early access to these videos at the ‪ befores & afters Patreon on the VFX Bonus Access tier: https://www.patreon.com/c/beforesandafters/membership Want to sponsor a weekly video? Send Ian an email: beforesandafters@gmail.com #vfx #visualeffects #contact #jodiefoster #behindthescenes #beforesandafters #vfxbreakdown Music by Matt Estela: https://soundcloud.com/cgwiki The post The making of *that* shot in Contact appeared first on befores & afters .
 
-### Wētā FX showcases Moana work
-Fri, 30 Oct 2026 08:18:46 +0000 — https://beforesandafters.com/2026/10/30/weta-fx-showcases-moana-work/
-
-Go behind the scenes with these two videos. The post Wētā FX showcases Moana work appeared first on befores & afters .
-
-### Caleb Deschanel interview on Wildwood
-Thu, 29 Oct 2026 20:45:10 +0000 — https://beforesandafters.com/2026/10/30/caleb-deschanel-interview-on-wildwood/
-
-Director Travis Knight chats to his cinematographer. The post Caleb Deschanel interview on Wildwood appeared first on befores & afters .
-
 ## IndieWire
+
+### The Arcane Knowledge Directors Wish They Could Summon
+Sat, 31 Oct 2026 23:00:00 +0000 — https://www.indiewire.com/features/craft/scad-savannah-film-festival-directors-panel-1235224898/
+
+As part of SCAD Savannah Film Fest's Behind Their Lens panel, directors like Sophy Romvari and Kenna Harris told IndieWire about the areas of filmmaking they'd love to explore more.
+
+### Artisans Break Down the Tricks and Treats of Designing a Trojan Horse at SCAD Savannah Film Festival
+Sat, 31 Oct 2026 22:14:51 +0000 — https://www.indiewire.com/features/craft/scad-savannah-film-festival-artisans-ruth-de-jong-amy-roth-1235224897/
+
+Production designer Ruth de Jong, editor Sarah Broshar, and costume designer Amy Roth tell IndieWire about the hidden touches they've built into their crafts.
 
 ### What Genre Will Be Hollywood s Next Big Trend? Watch IndieWire s Pitch Me Panelists Weigh in
 Sat, 31 Oct 2026 15:00:00 +0000 — https://www.indiewire.com/news/events/watch-pitch-me-panel-indiewire-future-of-filmmaking-summit-1235224892/
@@ -225,117 +230,107 @@ Fri, 30 Oct 2026 12:09:00 +0000 — https://www.indiewire.com/criticism/movies/e
 
 Haunted by tragedies this NatGeo doc never flinches at, Jim Morrison makes the dangerous attempt to climb up and ski down the Everest's North Face in another spellbinding chronicle from the Oscar-winning "Free Solo" team.
 
-### Ian McKellen Honors His Friend Patrick Stewart: The Most Respected and Beloved Actor of His Generation
-Fri, 30 Oct 2026 01:38:31 +0000 — https://www.indiewire.com/news/general-news/ian-mckellen-tribute-patrick-stewart-1235224695/
-
-The two English actors first met with the Royal Shakespeare Company and starred together in the "X-Men" series.
-
-### Patrick Stewart Never Took His Gravitas for Granted, Even When He Was Subverting It
-Thu, 29 Oct 2026 23:45:00 +0000 — https://www.indiewire.com/news/obituary/patrick-stewart-tribute-never-took-gravitas-for-granted-1235224670/
-
-The English actor, who died Thursday, could take command of a scene with a single syllable. But he didn't stop there, rewarding audiences who followed him everywhere.
-
 ## The Wrap
+
+### Inde Navarrette Takes a Swipe at Shane Gillis in ‘SNL’ Monologue
+Sun, 01 Nov 2026 04:25:52 +0000 — https://www.thewrap.com/creative-content/tv-shows/snl-inde-navarrette-monologue-shane-gillis-joke-womens-gym-clothes/
+
+Obsession star Inde Navarrette came out swinging in her debut Saturday Night Live monologue by taking a swipe at previous host Shane Gillis over his controversial joke about women dressing like whores at the gym. During her monologue, Navarrette addressed her casting as the iconic comic book mutant Rogue in Marvel Studios first-ever X-Men film. Navarrette officially joined the film s cast this past summer and noted Saturday night that she has been busy getting in superhero shape ever since. I know it’s really important for Marvel that you get really fit, so I’ve been working out a lot, the actress said. Every morning, I put on my little whore outfit and I hit the gym. Navarrette s SNL joke came three weeks after Gillis hosted the NBC sketch comedy series Oct. 10, 2026 episode. During his monologue that night, which marked Gillis third time hosting SNL, he made waves with a joke criticizing how women dress at the gym . I haven’t been to the gym in so long, I didn’t know women just dress like whores now. Look, I’m sorry, there’s no other way to describe [it]. Have you seen it? I’ve seen it. You’ve seen the shorts? Gillis said. And don’t look! You’re not allowed to look, he continued, adding, For real! Don’t look, ‘cause they are filming. The joke was widely criticized online as sexist. Schitt s Creek star and creator Dan Levy posted an Instagram video denouncing Gillis bit and criticizing SNL for platforming it in the first place. Women wearing short shorts at the gym does not 
+
+### ‘SNL’: Trump Crashes Tom Hanks’ David Pumpkins Return in Cold Open
+Sun, 01 Nov 2026 03:45:06 +0000 — https://www.thewrap.com/creative-content/tv-shows/snl-cold-open-trump-david-pumpkins-tom-hanks/
+
+President Trump (James Austin Johnson) crashed Tom Hanks triumphant(?) return as David S. Pumpkins in tonight s Saturday Night Live cold open, asking viewers, Oh, are you sad you don t get to see your third David Pumpkins scene? A pair of visitors (Grace Reiter and Jeremy Culhane) to the Tombs of Doom were treated first to a Monster -inspired exhibit featuring SNL star Jane Wickline as Lizzie Borden and Sarah Sherman as her beheaded victim. Things quickly went off the rails, though, when Hanks Pumpkins appeared next. The ineffective scare worker, who first appeared in an SNL sketch 10 years ago, was flanked as always by two skeletons played by Mikey Day and in a surprise return Bobby Moynihan. Unfortunately, while Hanks was able to get one jump scare and dance in, he was quickly interrupted by Johnson s Trump. Boom! It s me, Donald Trump, your one true God, pausing an SNL skit yet again. Oh, are you sad you don t get to see your third David Pumpkins scene? the president asked. I ll save you four minutes. He keeps popping up and confusing the people on the ride. The end. You know, I actually have a lot in common with Mr. Pumpkins, Johnson s Trump subsequently noted. We both appeared in 2016. We re both very loud, very orange and very, frankly, annoying. But we love Tom Hanks. Look at him back there. Good acting, great ass. It s a great ass on Hanks. That s something I ve been doing lately. Admiring men s asses . history’s most heinous, homicidal haunts https://t.co/udeRgaZLhw 
+
+### The 7 Best New Movies on Paramount+ in October
+Sun, 01 Nov 2026 00:00:00 +0000 — https://www.thewrap.com/creative-content/what-to-watch/best-movies-paramount-october-2026/
+
+Paramount+ added a bunch of great movies to their library in October but a few really stood out. The streamer added a glut of horror films to the streamer in October just in time for the Halloween season. But they didn t stop there, with some stellar comedies and even a couple non-traditional comic book adaptations being added to the list. But with every one of these monthly drops, there are a few titles that either scream for a rewatch or mark the perfect time to finally settle in and watch for the first time. From a pair of Stephen King adaptations to an all-time road trip comedy, these are the movies to dive into that were added in October 2026. Maika Monroe in It Follows (Radius-TWC) It Follows It Follows captures one of the great human fears – being relentlessly pursued. The film follows ( zing ) a woman who contracts a horrific STD that manifests a monster that slow walks toward you at all times and if it catches you, it kills you. The only way to get rid of it is by passing it on to another. The constant slow-walking and the dread of knowing the entity was getting closer to you creates a real slow-burn dread that permeates through the film s runtime. It s a tense 100 minutes and prime for a rewatch. (And don t even get us started on the A+ score the film is set to.) Ewan McGregor in Doctor Sleep (Warner Bros.) Doctor Sleep “Doctor Sleep” deserved more love than it got. “The Shining” is one of Stephen King’s most iconic novels, and the Stanley Kubrick adaptation is equa
+
+### The 9 Best Halloween Movies on Hulu Right Now
+Sat, 31 Oct 2026 22:00:00 +0000 — https://www.thewrap.com/creative-content/movies/9-best-halloween-movies-hulu-2026/
+
+This is the week for horror fanatics to sit back and watch movies to their hearts content. Whether you re chilling at home or headed to a get-together, it s good to have a few horror flicks that are currently streaming in your back pocket. Right now, Hulu has a delightfully frightening set of options, including some of the best scary movies ever made. Here are the nine best Halloween movies on Hulu right now. (Credit: 20th Century) The Fly David Cronenberg s The Fly is one of the best films on Hulu, full stop. The 1986 creature feature is a masterpiece of the body horror subgenre, marking some of the best work of Cronenberg, Jeff Goldblum and Geena Davis respective careers. Just as heartbreaking as it is disgusting, the film remains a disgusting and emotional watch to this day. If you re already a fan of The Fly and looking for more body horror to stream, be sure to check out Emilie Blichfeldt s The Ugly Stepsister , also streaming on Hulu. This film, nominated for Best Makeup and Hairstyling at the 2026 Academy Awards, is both gorgeous and gruesome with some jaw-dropping gross-out effects. It s a disgusting delight. (Credit: A24) Hereditary Ari Aster s Hereditary became an almost immediate horror classic, one of the most influential films of the genre this century. Aster knows how to make you fear dark corners of cluttered rooms and things that go bump in the night, imbuing every frame of the film with utter dread. It s a masterfully directed film with a performance from Ton
+
+### The Gen Z Horror Canon: 10 Scary Movies That Mean the Most to Zoomers
+Sat, 31 Oct 2026 21:45:00 +0000 — https://www.thewrap.com/creative-content/movies/gen-z-horror-canon-top-10-scary-movies/
+
+Every generation has its beloved horror movies. In 2026, some of Gen Z’s future favorites have finally started to take shape. It’s an impossible task to distill a whole generation s interests and sensibilities into a mere list of 10 films. But as someone who counts themselves among their number, this reporter has started to notice over the years what horror flicks have really taken root for Zoomers — the films that feel pivotal to the demographic s perception of horror. So what makes a horror movie a part of the Gen Z canon? That’s hard to narrow down. Maybe the movie actually comes from a young filmmaker. Maybe it simply arrived at an important time for the turn-of-the-century gen. Maybe it comes from an older filmmaker but speaks to themes and anxieties that are distinctly modern. It’s also not just a measure of quality (“ Sinners ” is a masterpiece that feels like it transcends generation) or box office (though “Longlegs” came close). It’s just a feeling that these films will be uniquely important to horror Hollywood’s next class. With that being said, here are 10 movies from the Gen Z horror canon: Backrooms (Credit: A24) Backrooms The past decade has seen the rise of the liminal space subgenre of horror, focusing on settings that feel close to our own reality but spookily off . The posterchild for this haunted house offshoot is Backrooms — merely a collection of scary stories, fluorescent-tinted photos and found footage YouTube videos on the Internet before Kane Parsons 
+
+### The 3 Best Movies Streaming Free on YouTube This Week
+Sat, 31 Oct 2026 21:00:00 +0000 — https://www.thewrap.com/creative-content/what-to-watch/best-movies-free-on-youtube-this-week-oct-30-nov-1/
+
+YouTube boasts a surprisingly strong library of feature-length movies, many of which are available to watch for free with ads on the platform. Currently, the streamer s best offerings include a late 90s blockbuster that is still just as beloved today as it was when it was released. Users can also catch an underrated 2013 crime drama starring Ryan Gosling and Bradley Cooper on YouTube right now, as well as a 1996 classic that single-handedly kicked off a popular horror franchise and redefined the entire slasher subgenre. Here are the three best movies streaming free on YouTube this week. Brendan Fraser and Rachel Weisz in The Mummy (Credit: Universal) The Mummy (1999) A seminal blockbuster for many moviegoers born over the last 35 years, 1999 s The Mummy is one of Hollywood s only truly successful attempts at recapturing the magic of the Indiana Jones franchise. Directed by Stephen Sommers, this late 90s monster movie follows an adventurous treasure hunter (Brendan Fraser) who sets out to discover the City of the Dead with a curious librarian (Rachel Weisz) and her older brother (John Hannah) only to accidentally awaken a long-dead, cursed Egyptian high priest (Arnold Vosloo). Punctuated by a handful of legitimately scary set pieces and enough playful energy to bring a smile to your face, The Mummy is a contemporary classic that continues to endure. Come for the monstrous thrills, stay for the early-movie star magic radiated throughout by both Weisz and Fraser. Drew Barrymore 
+
+### Taika Waititi Calls Out His Klara and the Sun Critics: Irrelevant, Out of Touch, Obsolete
+Sat, 31 Oct 2026 20:55:39 +0000 — https://www.thewrap.com/creative-content/movies/taika-waititi-responds-klara-and-the-sun-critics-irrelevant/
+
+Taika Waititi has heard what the critics are saying about his latest film Klara and the Sun and he doesn t seem too happy, no matter what his use of emojis might say. The filmmaker responded to his detractors directly on Saturday, calling them irrelevant, out of touch and obsolete following negative reviews of the Jenna Ortega and Amy Adams-led film. I haven t read a review of anything aimed at me or my peers in almost 15 years. But I do listen to the people, the director and screenwriter wrote on Instagram . So this Halloween, let s spare a thought for those sad lost souls who couldn t achieve their dreams of becoming artists, and thus became critics. The same people who also hated Jojo Rabbit,' he added. Irrelevant. Out of touch. Obsolete. In the bin. View this post on Instagram A post shared by Taika Waititi (@taikawaititi) His post also features a Screenrant note about the film winning over moviegoers despite the reviews. Released last weekend in the United States, Klara and the Sun currently has a 26% rating on Rotten Tomatoes (though 75% of the platform s audience currently approves). In his review of the film for TheWrap , critic William Bibbiani said that the defective robot movie struggles with human emotions, adding that Taika Waititi’s adaptation of Kazuo Ishiguro’s sci-fi novel, about a naive robot who worships the sun, is a three-hanky movie that can’t count to three. We only break out the expression emotionally manipulative if the filmmaking is so clumsy that th
 
 ### Trump s $10 Billion Defamation Lawsuit Against WSJ, Murdoch Dismissed With Prejudice
 Sat, 31 Oct 2026 20:12:43 +0000 — https://www.thewrap.com/industry-news/public-policy-legal/trump-wall-street-journal-murdoch-defamation-lawsuit-dismissed-epstein/
 
-President Donald Trump s $10 billion defamation suit against the Wall Street Journal and publisher Rupert Murdoch has been dismissed with prejudice, putting an end to the year-long legal battle. Judge Darrin P. Gayles granted the paper s motion to dismiss Trump s first amended complaint on Saturday for failing to prove that any potentially defamatory comments were made with actual malice. The president had initially sued the WSJ, Murdoch and parent company Dow Jones & Co. for libel in 2025 after the paper published his alleged 50th birthday messages to Jeffrey Epstein from 2003. He then amended his complaint in April 2026 after a judge dismissed that suit , with the Journal filing its corresponding motion in June. The U.S. District Judge out of Miami noted in his ruling that Trump s team was “grasping at straws” while trying to “manufacture” flaws in the initial report. More to come The post Trump s $10 Billion Defamation Lawsuit Against WSJ, Murdoch Dismissed With Prejudice appeared first on TheWrap .
+President Donald Trump s $10 billion defamation suit against the Wall Street Journal and publisher Rupert Murdoch has been dismissed with prejudice, putting an end to the year-long legal battle. Judge Darrin P. Gayles granted the paper s motion to dismiss Trump s first amended complaint on Saturday for failing to prove that any potentially defamatory comments were made with actual malice. The president had initially sued the WSJ, Murdoch and parent company Dow Jones & Co. for libel in July 2025 after the paper published his alleged 50th birthday messages to Jeffrey Epstein from 2003. He then amended his complaint in April 2026 after a judge dismissed that suit for being nowhere close to defamation, with the Journal filing its corresponding motion in June. The U.S. District Judge out of Miami noted in this weekend s ruling that Trump s team was “grasping at straws” while trying to “manufacture” flaws in the initial WSJ report. “President Trump will continue to press forward in his powerhouse lawsuit against The Wall Street Journal and all of the other defendants,” a spokesman for Trump’s legal team told the New York Times on Saturday. “The president will continue to hold those who mislead the American People with Fake News and smears accountable for their actions.” In September 2025, the Journal published his alleged birthday note in full , complete with what appears to be his signature. The message also featured the quotes “We have certain things in common” and “May every day
 
 ### Hollywood s Best Pop Culture Halloween Costumes of 2026 So Far
 Sat, 31 Oct 2026 18:50:00 +0000 — https://www.thewrap.com/culture-lifestyle/culture/best-halloween-costumes-2026/
 
 We re being treated to an extra-long Halloween this weekend thanks to the end of daylight saving time, which means one more hour than usual to celebrate the spooky season. As such, your favorite celebrities are proudly showing off their costumes after Halloweekend 2026 kicked off on Friday night (or even earlier, for some). Naturally, the network morning shows made the most of the holiday, with GMA introducing George Skeleton-opoulos and Today celebrating 100 years of NBC. Meanwhile, celebs like Camila Mendes, Madelaine Petsch, Chlöe Bailey, Benito Skinner and Mary Beth Barone have already gone viral for their unique looks. Check out some of Hollywood s best pop culture Halloween costumes of 2026, below: View this post on Instagram A post shared by Madelaine Petsch (@madelame) View this post on Instagram A post shared by IShowSpeed (@ishowspeed) View this post on Instagram A post shared by Benito Skinner (@bennydrama7) View this post on Instagram A post shared by TODAY (@todayshow) View this post on Instagram A post shared by Chlöe (@chloebailey) View this post on Instagram A post shared by Good Morning America (@goodmorningamerica) View this post on Instagram A post shared by Live with Kelly and Mark (@livekellyandmark) View this post on Instagram A post shared by Michael Gelman (@gelmanlive) View this post on Instagram A post shared by Janelle Monáe (@janellemonae) View this post on Instagram A post shared by Kim Kardashian (@kimkardashian) View this post on Instagram A po
 
-### Janelle Monáe Celebrates Halloween With a Siren Song on The Jennifer Hudson Show
-Sat, 31 Oct 2026 18:30:00 +0000 — https://www.thewrap.com/culture-lifestyle/culture/janelle-monae-halloween-2026-jennifer-hudson-show/
-
-Janelle Monáe is one of Hollywood s undisputed Queens of Halloween and she s reclaiming her title in 2026 with some new, specially designed costumes. Halloween is an entry point into creativity. Transform, be creative, play. The energy has to be right, and thankfully I have an incredible community of friends and family, she teased on Instagram ahead of Halloweekend. They re going to come with positive energy, they re going to come ready to celebrate the season. You have to pick your character, and you need to be there with the costume on. After kicking off spooky season earlier this month with a deteriorating zombie, the singer dressed up as a pirate alongside her guitarist Kellindo last weekend to bring some laughter to the kids over at Children s Hospital L.A. She then hosted her second Wondaween Festival at the Santa Monica Pier on Thursday night, introducing her Phish Boy character for her Creature Carnival theme, complete with BACARDÍ Spookitos and other cocktails as well as a surprise performance. Phish Boy also popped up on Friday s episode of The Jennifer Hudson Show, where she sang a siren song to a sad mime and Jennifer Hudson s butterfly. View this post on Instagram A post shared by Janelle Monáe (@janellemonae) On Saturday morning, Monáe brought out yet another costume for 2026 this time dressed as Mother Creature, an original being who would be right at home in Barbarian. And the weekend isn t even over yet. Now we just need to wait to see how Heidi Klum responds
-
 ### The 9 Best Horror Movies on Hulu Right Now
 Sat, 31 Oct 2026 17:30:00 +0000 — https://www.thewrap.com/creative-content/movies/best-horror-movies-on-hulu-october/
 
 Hulu has plenty of scares on offer. Tis the season to be over-consuming horror films and the good news is Hulu is stuffed with options. The problem comes when there are too many options and choice paralysis sets in. That s where we come in with recommendations ranging from new releases in 2026 to some of the true horror classics that set the tone. Whether you want a Hokum or Signs, straight scares or a bit of humor, there is plenty on offer and these are what you should move to the front of your list. Rachel McAdams in Send Help (20th Century Studios) Send Help Sam Raimi returned to theaters this year with a survival horror film. If that alone doesn’t get you to queue up the film on Hulu, it’s unclear what will. Rachel McAdams and Dylan O’Brien star as two co-workers stranded on an island while dealing with shifting power dynamics . The film has all of Raimi’s hallmarks: it’s disgusting, it’s brutal and it’s funny. Whether you’re a diehard horror fan or you’ve never sampled the director’s work outside his “Spider-Man” films, “Send Help” is a great choice for a watch or rewatch. Drew Barrymore in Scream (Dimension) Scream A film that set out to be a commentary on the slasher horror classics of the 80s became itself a classic slasher movie. Such is life. Scream has spawned its own mega franchise as the Ghostface Killer mantle manages to be picked up time and again to make creepy phone calls and wield a butcher knife for the killing. The original – but really all of them – have 
 
-### Mike Flanagan s Stephen King Adaptations, Ranked
-Sat, 31 Oct 2026 17:00:00 +0000 — https://www.thewrap.com/creative-content/what-to-watch/mike-flanagan-stephen-king-movies-series-ranked/
-
-Mike Flanagan and Stephen King are continuing to prove they go together like peanut butter and jelly, but as the director s adaptations of the writer s stories grow how do they stack up to each other? The director does not hide his love for King and to this point has four adaptations of his stories under the belt – with one more, The Mist, on the way and another, The Dark Tower, standing as a hope and a dream. Of the four Flanagan has tackled, whats impressive is that each one faced a different uphill challenge. With Gerald s Game, the director took on a story that certainly should not work the way it does on film (ditto for Life of Chuck ), with Doctor Sleep he endeavored to make a film sequel to both the other s renowned book The Shining and Stanley Kubrick s adaptation beloved by all but King himself. Then there is Carrie on Prime Video which had people immediately asking why a story that had multiple adaptations needed another, and one that was longer than all the others. Flanagan has never taken the easy road when it came to handling one of King s stories, and still he s turned out one beloved hit after another. You can t really go wrong with any of his takes on King s books, but here they are ranked for your enjoyment. Summer H. Howell and Samantha Sloyan in Carrie. (Prime Video) 4. Carrie “Carrie” is the first King adaptation Flanagan took on – though hopefully not his last– and is a modernized retelling of the horror author’s first novel . For those hesitant to return
-
-### Lance Oppenheim Shares Scrapped Primetime Title Sequence With Robert Pattinson
-Sat, 31 Oct 2026 16:50:33 +0000 — https://www.thewrap.com/creative-content/movies/lance-oppenheim-scrapped-primetime-title-sequence-robert-pattinson/
-
-Primetime has been out in America for a month now but to celebrate this weekend s opening across the pond, director Lance Oppenheim revealed the opening title sequence that was ultimately scrapped from his final cut. Primetime is opening today in the U.K.! They say you must kill your darlings at some point… and here’s a darling that hurt to let go, Oppenheim shared Friday on Instagram . I really loved this title sequence that [editor] Daniel Garber, Robert Pattinson and I made for the movie, and here it is now, in all its glory. View this post on Instagram A post shared by LANCE (@lanceopp) Thank you to the best cast and crew in the planet that made this movie happen, he continued. And if you’re in the U.S., the movie is still playing in select theaters! The video features Pattinson s Chris Hansen running at night (a scene included in the original trailer but not the movie), superimposed with negatives introducing his co-stars including Merritt Wever, Skyler Gisondo, Matthew Maher, Anna Faris, Bokeem Woodbine, Tony Revolori, Jonathan Lipnicki and Alex Winter. Plus, this isn t Oppenheim s only movie currently in theaters. His hit documentary You Can See Everything with Nathan Fielder is currently on track for a $10.5 million third box office weekend this Halloween, rivaling Clayface for No. 1. Primetime and You Can See Everything are now playing in theaters. The post Lance Oppenheim Shares Scrapped Primetime Title Sequence With Robert Pattinson appeared first on TheWrap .
-
-### A Talent for Murder Star Alden Ehrenreich Is Chasing Opportunities, Not Results
-Sat, 31 Oct 2026 16:30:00 +0000 — https://www.thewrap.com/creative-content/movies/alden-ehrenreich-a-talent-for-murder-interview/
-
-Alden Ehrenreich does not spend a lot of time revisiting past projects. The actor has gradually built an impressive, eclectic collection of screen credits over the past 17 years. His filmography includes blockbuster fare like Solo: A Star Wars Story, Cocaine Bear and Marvel s Ironheart, but also auteur-driven hits like Zach Cregger s horror epic Weapons, Christopher Nolan s Best Picture-winning biographical drama Oppenheimer and writer-director Chloe Domont s breakout Sundance feature directorial debut Fair Play. He has built a career on creative swings of varying size and success. That is to say nothing, either, of the Coen Brothers Hollywood satire Hail, Caesar!, which offered Ehrenreich some breakout success in 2016 and also sits comfortably — in both scope and risk — between the biggest and smallest projects in his filmography. And yet Ehrenreich has developed what he calls a cold calculus for judging and moving on from his projects. They re kind of dead to me now, as soon as they come out or even before then, Ehrenreich told TheWrap. I have certain warm feelings about people I worked with and certain experiences, but the projects themselves… you can t have the relationship with them that an audience member would. I read this quote from an actor one time where they said, The most important movie is always the next one,' Ehrenreich explained. An actor has no control over how a movie comes out or how it does when it s released. So I think that s a fairly healthy mentality t
-
-### The 9 Best Halloween Movies and Shows for Kids on Netflix Right Now
-Sat, 31 Oct 2026 16:00:00 +0000 — https://www.thewrap.com/creative-content/what-to-watch/best-halloween-movies-shows-for-kids-on-netflix/
-
-Halloween is a great time to be a kid, what with all the candy and costumes and everything. But finding a Halloween movie that’s appropriate for children can be tough. Most are too scary, and kids with sensitivities will have a low threshold for terror when it comes to spooky stories. So if you want to celebrate Halloween with your child but don’t want them to have nightmares, we’ve put together a curated list of some of the best Halloween movies and shows for kids on Netflix right now. They range from animated delights to binge-worthy shows to an Eli Roth movie for children (yes really). Sing Thriller “Sing 2” is one of the most-watched titles in Netflix history, so odds are your kiddo is already into this franchise. But this one-off short film “Sing Thriller” is a delightful expansion of the films as it riffs on the Michael Jackson classic in a spooky way and brings the full voice cast back for an 11-minute adventure. The animation is gorgeous, there are solid jokes and yes, they do the dance. Spookley the Square Pumpkin Image via KidToon Films There’s something about “Spookley the Square Pumpkin” that just enraptures kids. The animation isn’t great and the songs are just fine, and yet there’s kind of an old school feel to it that’s reminiscent of the videos your teacher would play in class on VHS back in the ‘90s. The story is simple: Spookley is a square pumpkin who lives on a farm and is bullied for looking different than the other pumpkins. There are songs and a wonky-l
-
-### Trump Continues to Insult Reuters Reporter Over His Weight: One of the Worst
-Sat, 31 Oct 2026 15:37:18 +0000 — https://www.thewrap.com/culture-lifestyle/culture/trump-body-shames-reuters-reporter-jacob-bogage-weight/
-
-President Donald Trump continued to mock Reuters White House correspondent Jacob Bogage over his weight on Saturday, two days after first insulting the reporter in front of his fellow journalists. Reuters (One of the Worst!) Reporter, Trump wrote on Truth Social atop a picture of Bogage to start the weekend, along with the text: Put yourself in shape, you look like hell! That quote is, of course, in Trump s own words following their exchange in front of Air Force One on Thursday. After Bogage initially questioned if Trump was cancelling his Kansas campaign stop because he was sick of traveling ahead of the midterm elections, the president declared the outlet was “terrible” and that the reporter was “a sick guy.” “Can you imagine — look at this dope, look at this guy, he’s way out of shape,” Trump responded. “Look at how badly He comes to me, ‘Sir, you’re not going to go to Kansas.’ I’m not going to go to Kansas because he’s doing very well.” “Tomorrow, I’m doing Florida … He says, ‘What’s the reason for this, sir? That you’re not going to Kansas?’ You know what the reason is? I don’t feel I have to go to Kansas,” he continued. “I’m going to Florida tomorrow, and I’ll do — if something else comes up — but he said, ‘You’re not going to Kansas, sir, are you feeling well?’ You’ve been following me for two weeks. I feel perfect. You are disgusting. Put yourself in shape, you look like hell.” Trump’s Rapid Response team then celebrated his jabs at Bogage on X, insisting the preside
-
-### Clayface, You Can See Everything in Tight Box Office Race on Halloween
-Sat, 31 Oct 2026 15:31:03 +0000 — https://www.thewrap.com/creative-content/movies/clayface-you-can-see-everything-halloween-box-office/
-
-A24 s You Can See Everything and Warner Bros./DC Studios Clayface are in a narrow race for the No. 1 spot at the box office as new releases go on pause for Halloween weekend. Currently, You Can See Everything, which sat in the No. 2 spot for its first two weekends, narrowly holds No. 1 for the first time with an industry estimated $10.6 million. But Clayface is just behind with $10.2 million, which marks a 57% drop from its opening weekend. You Can See Everything is dropping 43% from its $19.5 million second weekend, bringing its domestic total to approximately $63 million. That will make the A24 doc the second highest grossing film of October behind only Amazon MGM s Verity, keeping the box office out of a slump as films like Street Fighter and Other Mommy have faltered. Clayface, meanwhile, has a 10-day total of $44 million as it heads for modest theatrical success. It will not clear the low bar of $241 million to pass Wuthering Heights as Warner s highest grossing film of 2026 to date, but with a reported budget of just $40 million, it will be more profitable than the majority of the studio s releases in its final year as a standalone studio. Fathom/Laika s Wildwood is in third with an estimated $6.8 second weekend, bringing its 10-day total to approximately $25 million and just ahead of the $23.6 million 10-day total of DreamWorks acclaimed but poorly performing Forgotten Island. Black Bear s Wicker is holding well with $4.1 million in its second weekend, proving itself t
-
 ## Collider
 
-### 8 Best Western Video Games of All Time, Ranked
-Sat, 31 Oct 2026 20:16:12 GMT — https://collider.com/best-western-video-games-ranked/
+### 'Dune's’ Best Line Is Still the Greatest Quote in Franchise History
+Sun, 01 Nov 2026 11:22:12 GMT — https://collider.com/dune-best-quote-sci-fi-timothee-chalamet-rebecca-ferguson/
 
-While there is a rich and long-lasting history of Western stories in the mediums of film and television, Western video games are a phenomenon that is much scarcer and more limited when compared to other artistic mediums . This can be attributed to numerous factors, from Westerns as a whole fading from popularity around the time of video games rising in popularity to genres in gaming being more defined by gameplay mechanics instead of fictional archetypes. Ironically, when the term "Western video game" is brought up, several gamers think of games created by studios in the Western hemisphere, like Europe and America, instead of the Western genre.
+Denis Villeneuve’s Dune saga comes to a close this year, with Dune: Part Three looking to conclude the tale of Paul Atreides ( Timothée Chalamet ). Whether a noble, a messiah, or a warlord, his rise to power in the blockbuster trilogy has centered around a relentless mindset that can be traced back to the very beginning of the first film. One speech, taken directly from Frank Herbert’ s book, told us everything we needed to know before a drop of blood was spilled. If you want to find the building blocks of how he became Lisan al Gaib, look to a pivotal scene in the 2021 franchise opener.
 
-### 5 Investigative Journalism Books To Read if You Love 'You Can See Everything'
-Sat, 31 Oct 2026 20:11:12 GMT — https://collider.com/investigative-journalism-books-like-you-can-see-everything/
+### Prime Video’s Twisted Stephen King Adaptation Is Officially a Streaming Nightmare
+Sun, 01 Nov 2026 11:00:12 GMT — https://collider.com/carrie-stephen-king-prime-video-streaming-success-october-2026/
 
-The whole world has become captivated by You Can See Everything , the A24 meta-documentary film directed by Nathan Fielder and Lance Oppenheim. The film follows Elizabeth Holmes , the founder of now-defunct biotech startup Theranos , and her partner, Billy Evans , during the weeks prior to the start of Holmes’ prison sentence. Holmes was convicted of wire fraud and conspiracy after lying about the capabilities of Theranos' blood-testing devices. But her story was not uncovered by Fielder and Oppenheim. Holmes was first exposed by a reporter working for The Wall Street Journal and a group of whistleblowers who dared to air her lies. Before it became the Hulu limited series The Dropout and the HBO documentary The Inventor: Out for Blood in Silicon Valley , the fall of Theranos was told in book form.
+Stephen King , to be blunt, knows how to freak us the heck out , and he's spent 50 years — yes, half a century — doing just that. But you know what? Sometimes the originals are still the scariest. King's most famous novel has already been brought to life numerous times, but Mike Flanagan has given the story an entirely new life with his eight-episode Prime Video adaptation, and it might be the biggest smash nobody saw coming .
 
-### 10 Books From the 2000s That Are Perfect From Cover to Cover
-Sat, 31 Oct 2026 20:04:12 GMT — https://collider.com/books-2000s-perfect-cover-to-cover/
+### CBS' Hit Crime Procedural Officially Reaches a Massive Viewership Milestone
+Sun, 01 Nov 2026 10:40:12 GMT — https://collider.com/cbs-sheriff-country-season-2-premiere-ratings-10-million-viewers/
 
-The 2000s produced no shortage of great books . It was the decade when Harry Potter became practically unavoidable, and several ambitious literary novels became unlikely bestsellers. A few of these projects were experimental; others simply told a classic story exceptionally well.
+Most shows launch with strong viewership, but as seasons progress, much of that viewership erodes, leaving a core fandom. If that core viewership is big enough, as seen with shows like NCIS , then the show survives year in, year out. That model has sustained television for the longest time. But occasionally a show premieres and builds strong word of mouth, leading to the opposite phenomenon. Some shows continue growing their viewership as more people recommend them to others, something CBS ' new hit procedural is experiencing.
 
-### MGM+'s Horror Thriller Officially Becomes the Biggest Show on Netflix Right Now
-Sat, 31 Oct 2026 20:00:12 GMT — https://collider.com/from-amazon-mgm-horror-netflix-streaming-success-october-2026/
+### 10 Great Adventure Video Games You Haven't Played
+Sun, 01 Nov 2026 10:26:12 GMT — https://collider.com/best-adventure-games-you-havent-played/
 
-The era of every streaming service or network keeping its hits exclusive to lure more subscribers is effectively dead. With so many shows being made, a good show alone is not enough. Consistency also matters because it builds viewer trust. And if there is another way to get more eyes on a show, many streaming services are willing to explore it instead of letting their shows die on niche, obscure platforms. That's why some series marketed under another streamer's brand suddenly pop up somewhere else . This is especially common with Netflix , which, as the world's largest streamer, offers other services a great platform — including Amazon.
+Video games have dozens of genres for fans to enjoy, but one of the most popular is adventure. After all, there are few things players love more than setting out on grand journeys to conquer a great foe or simply explore a fascinating world. Titles like The Legend of Zelda: Breath of the Wild and Red Dead Redemption 2 highlight this genre, but plenty of other masterpieces are among the first games fans think about when imagining an adventure.
 
-### Iconic Universal Monsters Got a Much-Needed Upgrade This Halloween Season
-Sat, 31 Oct 2026 19:49:12 GMT — https://collider.com/universal-monsters-legacy-collections-4k-frankenstein-wolf-man/
+### Gary Oldman’s 6-Part Spy Thriller Officially Takes Apple TV’s No. 1 Spot
+Sun, 01 Nov 2026 10:20:12 GMT — https://collider.com/slow-horses-gary-oldman-apple-tv-streaming-success-october-2026/
 
-The iconic world of the Universal Monsters has stood the test of time, and continues to be a must-watch piece of cinema history for horror fans everywhere. The films that brought Dracula , Frankenstein's Monster , and numerous others are every bit as beloved today as they were when the came out nearly a century ago. A big reason for the reason for the continued success is their iconography in the pop culture landscape, as all of these monsters are instantly recognizable to just about everyone. But there's also the craftsmanship to consider, both from the filmmakers who initially put these pictures together, and the stewards of today that continue putting in great work to keep the movies as stunning as ever .
+Gary Oldman is probably your father-in-law's favorite actor by this stage. A man who was the bad guy in countless movies throughout the 1990s and 2000s, and who is now officially the world's most repugnant yet effective spy thanks to a winning combination of remarkable intelligence and flatulence. Yes, this current role might be his most entertaining yet , even if the man himself looks like he hasn't washed his clothes since the Cold War.
 
-### HBO's 5-Episode Miniseries Is 'Downton Abbey's Darker, Grittier Half
-Sat, 31 Oct 2026 19:47:12 GMT — https://collider.com/parades-end-hbo-miniseries-downton-abbey-darker/
+### ‘Top Gun’ Officially Flies High Again With a Massive Streaming Comeback
+Sun, 01 Nov 2026 10:00:12 GMT — https://collider.com/tom-cruise-top-gun-maverick-paramount-plus-streaming-hit-october-2026/
 
-Julian Fellowes ' Downton Abbey , which ran for six seasons from 2010 to 2015, set a new standard for historical dramas, nearly single-handedly rescuing the dying popularity of the Edwardian period. Any historical drama that came after has had to face the challenge of reaching the bar set by Fellowes' work — and not all are successful. However, the 2013 HBO/BBC miniseries, Parade's End , an adaptation of Ford Maddox 's novel of the same name, managed to mount a successful challenge to Downton 's legacy.
+It's not been the best couple of months for Tom Cruise . For the first time since 2017's American Made , Cruise was headlining a non-franchise movie, with his involvement seemingly certain to help make the satirical black comedy Digger a hit. Alas, some scathing initial reviews from critics left Alejandro G. Iñárritu 's first English-language film since his 2015 hit The Revenant struggling for box office relevance. Against a reported $125 million budget, this bold swing-and-a-miss returned less than $50 million worldwide .
 
-### 10 Forgotten Western Movies That Deserve To Be Called Classics
-Sat, 31 Oct 2026 19:36:11 GMT — https://collider.com/forgotten-western-movies-should-be-classics/
+### ‘Resident Evil’ Officially Unleashes a Double Dose of Horror on Netflix
+Sun, 01 Nov 2026 09:40:12 GMT — https://collider.com/resident-evil-apocalypse-netflix-streaming-november-2026/
 
-Everyone loves a good Western. Be it the classics like The Good, the Bad and the Ugly or Butch Cassidy and the Sundance Kid , or something a bit more obscure, there's room in every cinephile's library for a few great horse operas. While die-hard Western fans no doubt already know all the best genre "deep cuts," we put together a list of some of the most overlooked Western movies that deserve another shot . That's right, these are the movies that will rarely make those average "Top 10" lists.
+Milla Jovovich ’s Alice never appeared in the Resident Evil games, but she became one of the franchise’s most recognizable faces anyway. Across six movies , she fought her way through the Umbrella Corporation’s increasingly disgusting experiments, developing a well-earned distrust of anyone associated with the company. Her first two outings remain a good introduction to how that relationship went so spectacularly wrong.
 
-### Clint Eastwood’s $547M War Blockbuster Is Officially Leaving Netflix
-Sat, 31 Oct 2026 19:30:12 GMT — https://collider.com/clint-eastwood-american-sniper-leaving-netflix-october-2026/
+### Ben Affleck’s Forgotten Sci-Fi Flop Officially Scores a Surprising Streaming Comeback
+Sun, 01 Nov 2026 09:20:12 GMT — https://collider.com/ben-affleck-hypnotic-streaming-success-30-days-october-2026/
 
-Few directors can say they’ve given as much to the world of movies as Clint Eastwood , who spent the better part of 60 years starring in and directing iconic Westerns. After his last movie, Juror #2 , was released just a few years ago, it seems that Eastwood has officially retired and is ready to call it quits — this isn’t all that surprising considering he’s over 90 years old. Despite the mostly positive reception to Juror #2 , Warner Bros . declined to give the movie a wide theatrical release, instead releasing the movie straight-to-streaming on HBO Max in America. It has continued to prove the studio wrong throughout the last year by being one of the most-watched movies on the platform . Eastwood is no stranger to his movies being massive hits on various streaming platforms, though.
+2026 has been a busy year for Ben Affleck , who is widely known and celebrated as one of the most prominent actors, producers, and directors in Hollywood. Affleck reunited with his long-time collaborator and friend Matt Damon much earlier in the year for the Netflix original crime thriller, The Rip , which still holds up as one of the most-watched movies of 2026 on the platform. Affleck returned to Netflix not long ago with the debut of Animals , the kidnapping thriller he also directs, in addition to starring opposite Kerry Washington and Steven Yeun . Affleck is also expected to reprise his role as Christian Wolff in a third Accountant movie with Jon Bernthal , but at the time of writing in late October, there’s no word yet on when the movie will be released, or even when it will begin shooting.
 
-### The 8 Best Sci-Fi Horror Books of All Time, Ranked
-Sat, 31 Oct 2026 19:26:12 GMT — https://collider.com/best-sci-fi-horror-books-all-time-ranked/
+### Quentin Tarantino Officially Refuses to Watch Denis Villeneuve’s ‘Dune’ Because of This Movie on HBO Max
+Sun, 01 Nov 2026 09:00:12 GMT — https://collider.com/david-lynch-dune-1984-streaming-hbo-max-november-2026/
 
-What do you want from an introduction to a topic like this, really? You know what a science fiction book is. Dune , Brave New World , Neuromancer , all that jazz (but not All That Jazz ; that one’s a movie). And what a horror book is? That’s also fairly self-explanatory. Some of those aforementioned sci-fi books might have horrific parts, too, but being sometimes scary or unsettling isn't always enough for a sci-fi book to also work as a horror one.
+With the third and final installment of Denis Villeneuve ’s widely acclaimed Dune franchise lined up for release in December, it’s a great time not only to revisit the first two movies, but also the infamous 1984 adaptation directed by David Lynch . The movies are based on the influential Dune series of books by Frank Herbert , which predates George Lucas ’ original Star Wars movie . Lynch’s movie was released around two decades after the first novel’s publication, but it emerged as a major box-office bomb and received poor reviews. Over the years, the film has accumulated a massive cult following, drawing support from not only the fans of the source novel, but also from admirers of Lynch’s inimitable filmmaking .
 
-### Chris Pratt's 128-Minute Action Epic Officially Arrives on HBO Max
-Sat, 31 Oct 2026 19:00:12 GMT — https://collider.com/chris-pratt-jurassic-world-fallen-kingdom-streaming-hbo-max-november-2026/
+### The Greatest Western of the 2010s Is a Remake That Totally Outshines the Original
+Sun, 01 Nov 2026 03:49:12 GMT — https://collider.com/true-grit-2010-greatest-western-movie-remake-coen-brothers/
 
-Having recently returned with the long-awaited second season of the Prime Video series The Terminal List , Chris Pratt is once again riding a wave of streaming success. The Terminal List was off the air for four years, which is an abnormally long period of time between seasons even for the streaming era. But Pratt’s still a star, and the show was quickly able to dominate the Prime Video viewership charts. The first season received mixed reviews, but it premiered during the peak of Pratt’s popularity as a movie star; this was when he had just come off three massively successful franchises in the Guardians of the Galaxy , Jurassic World , and The LEGO Movie .
+Very few remakes are able to stand up to the quality of their predecessors. Even fewer wind up better than the original. When you get filmmakers like Joel and Ethan Coen involved, however, miracles feel a lot more attainable. Given their track record together, it should've come as no surprise that they were able to instantly conquer the modern Western back in 2010, crafting a much better version of a John Wayne classic in the process.
 

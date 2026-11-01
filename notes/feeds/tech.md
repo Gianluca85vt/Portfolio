@@ -1,4 +1,4 @@
-# Tech — harvested 2026-10-31T20:17:21.797Z
+# Tech — harvested 2026-11-01T11:29:21.650Z
 
 ## Ars Technica
 
@@ -64,6 +64,11 @@ In an announcement released Thursday, Fujifilm said it will invest roughly 10 bi
 
 ## The Verge
 
+### Get in the spirit with these horrors from YouTube
+2026-10-31T17:06:58-04:00 — https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror
+
+Rather than recommend a single horror film or an unsettling album for our final installment of spooky season recs, I present you with a small selection of creepy, disturbing, and just plain weird videos from YouTube. There's a little something for everyone here. Whether you're a fan of surreal art house shorts, cosmic horror, or classic viral clips, you're bound to find something below that will get you in the Halloween spirit. Possibly in Michigan This 1983 short film from Cecelia Condit found its audience over 30 years later when it was uploaded to YouTube and eventually found its way to Reddit. If you've ever wondered what a feminist mu … Read the full story at The Verge. ]]>
+
 ### Keyboards of The Verge
 2026-10-31T15:30:00-04:00 — https://www.theverge.com/gadgets/1017979/keyboards-of-the-verge-staff-picks
 
@@ -109,12 +114,12 @@ Hi, friends! Welcome to Installer No. 150, your guide to the best and Verge -ies
 
 "Its James Talarico. Can you please please please please pretty pretty please rush in even just $1?" "Who's working to elect James Talarico? Marxists." "Wow! Wow! Wow! Mark Kelly just made a HUGE announcement!" "We asked Ben Verlander, MLB analyst and former Tigers prospect, to record a quick video about the election this Tuesday, November 3rd." "See which of your friends or family members have voted in the past and remind them to vote this year." If any of these messages sound familiar, it's likely because they're part of the massive stream of text messages flooding your phone leading up to the US midterm elections on Tuesday. The scal … Read the full story at The Verge. ]]>
 
-### Apple Intelligence is finally coming to China with iOS 27.3
-2026-10-30T18:32:53-04:00 — https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3
-
-Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website , as reported by MacRumors . The Apple Intelligence features will be available first in an iOS 27.3 beta that's set to launch on November 4th, with a full iOS 27.3 release scheduled for December. This launch doesn't bring the new Siri AI to China. Instead, Apple is launching several of its earlier Apple Intelligence features like notification summaries, real-time translation, rewriting and proofreading tools, visual intelligence, and removing objects from photos. Apple also says it has worked with Ailbaba to add support for its Q … Read the full story at The Verge. ]]>
-
 ## Tom's Hardware
+
+### College student unofficially breaks world record for fastest jet-powered drone with 491 mph aircraft built in his dorm — Reaper aims to grab the $800,000 Boom Prize
+Sun, 01 Nov 2026 11:00:00 +0000 — https://www.tomshardware.com/tech-industry/drones/college-student-unofficially-breaks-world-record-for-fastest-jet-powered-drone-with-491-mph-aircraft-built-in-his-dorm-reaper-aims-to-grab-the-usd800-000-boom-prize
+
+A new 'Reaper' jet-powered drone project just unofficially broke the previous drone speed world record of 465 mph by hitting 491 mph. Tomas Salvo is an aerospace engineering student at Georgia Tech, and his project was assembled in his dorm room. The drone is comprised of a custom-molded carbon fiber shell, laser-cut internal structure, and a 250N jet engine with a titanium 3D-printed nozzle, costing $13,000 to build. Tomas Salvo aims to win the $800,000 Boom Prize posted by Boom Supersonic CEO Blake Scholl. My college dorm project just broke the world speed record.Reaper hit 790 km/h (491 mph) carrying a 1.2 kg (2.6 lb) payload. These 3 Reapers are now the world’s fastest small jet-powered drones. Each of them can hold that speed for 4 minutes on a full tank.Reaper can be rail- or truck-launched, climb to 2,000 m (6,600 ft) in under 20 seconds, then fly for 50 km (31 mi) at full speed.This is now a reliable and repeatable system. Future testing and small optimizations should push the top speed past 800 km/h (500 mph). October 30, 2026 Tomas Salvo’s Reaper project, which aimed to beat Niels Herbrich’s world record for the fastest jet-powered RC aircraft, went viral and caught the attention of Boom Supersonic CEO Blake Scholl, who sponsors the $800,000 Boom Prize ($750,000 cash, $50,000 Boom stock). The prize’s conditions are: First, pass Mach 1 for at least 5 seconds while climbing or level, not descending. Second, it must be an air-breathing aircraft with no on-board oxidize
 
 ### Grab the award-winning Bambu Lab P1S 3D printer with AMS for $70 off
 Sat, 31 Oct 2026 19:19:50 +0000 — https://www.tomshardware.com/pc-components/grab-the-award-winning-bambu-lab-p1s-3d-printer-with-ams-for-usd70-off-save-usd70-on-one-of-the-best-3d-printers-for-beginners
@@ -171,12 +176,32 @@ Sat, 31 Oct 2026 12:00:00 +0000 — https://www.tomshardware.com/tech-industry/a
 
 Exin Therapeutics, a biotech startup focusing on next-generation neurotherapeutics, claims it has successfully conducted brain surgery on a mouse using an AI agent. Its co-founder and CEO, Gabriel Ocana-Santero, shared the entire procedure on X, showing how the AI agent chose the gene therapy vector and dosage and the brain region where it would be applied. The AI agent also drove the robotic arms that injected the medication into the mouse’s brain. Thankfully, the operation seems to have been a success, with the mouse recovering well and recorded moving around in its enclosure. Last night an AI agent performed brain surgery on a mouse.We gave it 19 gene therapy vectors in a spreadsheet, a mouse model of epilepsy, access to a motorize surgery rig with cameras and one goal: reduce seizures.It picked the drug. It picked the brain region. It derived the coordinates from three papers. Then it drove the stereotaxic arms into the brain and injected 250 nanolitres while watching the entry site through the rig camera for bleeding.A licensed vet gated every irreversible step and held a physical kill switch to stop the AI agent. Thread on what it decided, what it saw, and the moment it refused to let me override it.[Writing this on the spot out of excitement, but I've been 18hrs in front of my laptop coding and coordinating this, so keeping it brief and descriptive, more cohesive thoughts on this soon...] October 28, 2026 “Autonomous surgical robots exist and they are better at the mec
 
-### Veteran Microsoft engineer makes his own RAM from scratch using AI
-Sat, 31 Oct 2026 11:40:00 +0000 — https://www.tomshardware.com/pc-components/ram/veteran-microsoft-engineer-makes-his-own-ram-from-scratch-using-ai-attempts-to-build-4mb-of-1970s-pdp-11-ram-from-scratch
-
-Dave Plummer, former Microsoft engineer and wizard of Task Manager, Windows Pinball, and now TMOG, has an interesting project in his hands once again. After seeing exactly how many zeros were in the price tag for a megabyte of memory for his vintage PDP-11, he decided to take matters into his own hands and conjure up a new RAM board. The PDP-11 is from 1970, and later models could fit in as much as four megabytes of memory. Plummer enlisted the help of ChatGPT and the EasyEDA online circuit simulator , though he notes that he hadn't done complicated projects like this before. As several PDP-11 models used Q-Bus boards for main system components, he designed this RAM as a standalone card, then tested it on a backplane alongside another board containing the system's M8190 CPU. Atop it, he placed a Lattice MachXO2 FPGA serving as a memory controller (model 2000HC, if you're wondering), connected to four ISSI 1 MB memory chips. After adding a U2S I/O chip, a bank of DIP switches, comm ports, and sprinkling a handful of capacitors, he had a complete circuit. The M8190 board design has a 22-bit bus and reserves the top 256 KB for I/O and ROM. However, it wasn't a first-time-lucky project. Plummer encountered a few abortive starts, as he'd never flash-programmed an FPGA chip before. He fixed that after a few attempts, but then he fell into what appears to be a classic PDP-11 trap. The machine's memory bus design means it can only access entire words (two bytes) at once, and treats t
-
 ## Phoronix
+
+### AI Use In The Linux Kernel, Microsoft Defender On Linux & Other October Highlights
+Sun, 01 Nov 2026 05:54:04 -0500 — https://www.phoronix.com/news/October-2026-Highlights
+
+October brought the releases of Linux 7.3, Ubuntu 26.10, the KDE Plasma 6.8 desktop, and a wealth of other open-source software releases. The expanding use of AI/LLMs within Linux kernel development also made for interesting discussions in October. Microsoft bringing their Defender software to the Linux desktop was perhaps the biggest surprise out of October. Here is a look back at the past month...
+
+### Linux s Perf Python Scripts More Robust & Faster With Linux 7.4
+Sun, 01 Nov 2026 05:38:55 -0500 — https://www.phoronix.com/news/Linux-7.4-Perf-Tools
+
+Merged this weekend to Linux 7.4 Git were all of the perf subsystem tooling updates. Most notable to these tooling updates for dealing with performance counters and more on Linux is an overhaul to the Python code...
+
+### Linux 7.4 Merge Window Saw Nearly 20k Commits, Source Tree Approaching 42 Million Lines
+Sun, 01 Nov 2026 05:28:22 -0500 — https://www.phoronix.com/news/Linux-7.4-Merge-Window
+
+Linux 7.3 started out just under 41 million lines in total in the kernel source tree. In the end the Linux v7.3 tag came in at 41,019,555 lines as measured by cloc while now with Linux 7.4 we are inching ever closer to 42 million lines. On a Git commit basis, the Linux 7.4 merge window has been the busiest on record...
+
+### Brief Server Downtime Expected Tonight
+Sat, 31 Oct 2026 20:32:00 -0400 — https://www.phoronix.com/news/RAID-Drive-Replacement-Tonight
+
+Just a friendly heads up that Phoronix.com and associated sites will be down briefly at around midnight PST / 3AM EST on 1 November for a failed drive in the NVMe SSD RAID array...
+
+### OpenShot 4.1 Released With Auto-Optimize, CLI Automation & ARM64 Linux Builds
+Sat, 31 Oct 2026 19:28:50 -0400 — https://www.phoronix.com/news/OpenShot-4.1-Released
+
+OpenShot is closing out the month of October by releasing OpenShot 4.1 as the latest major feature release for this useful open-source video editing solution...
 
 ### Enlightenment 0.28 Released With Many Improvements
 Sat, 31 Oct 2026 10:46:26 -0400 — https://www.phoronix.com/news/Enlightenment-0.28
@@ -213,32 +238,12 @@ Sat, 31 Oct 2026 06:00:00 -0400 — https://www.phoronix.com/news/DXVK-NVAPI-0.9
 
 DXVK-NVAPI 0.9.3 is out this weekend as a new feature update to this NVIDIA NVAPI implementation used by Valve as part of Steam Play with Proton for nicely integrating NVIDIA technologies into various Windows games running on Linux...
 
-### CUDA Oxide 0.3 Vastly Improves Rust Support For NVIDIA CUDA Programming
-Sat, 31 Oct 2026 05:50:00 -0400 — https://www.phoronix.com/news/CUDA-Oxide-0.3
-
-NVIDIA software engineers released CUDA Oxide 0.3 for closing out October. CUDA Oxide as a reminder is their experimental Rust to CUDA compiler that has been seeing a lot of activity in recent months...
-
-### Sculpt OS 26.10 Released - Now Powered By Genode s Custom Microkernel
-Sat, 31 Oct 2026 05:37:22 -0400 — https://www.phoronix.com/news/Sculpt-OS-26.10
-
-Sculpt OS as the general purpose operating system project born out of the Genode initiative is now using the project's own microkernel rather than a third-party microkernel...
-
-### Wine 11.21 Released With Better WoW64 OpenGL Performance
-Fri, 30 Oct 2026 20:29:01 -0400 — https://www.phoronix.com/news/Wine-11.21-Released
-
-Wine 11.21 is out as the newest bi-weekly development release of Wine and as we near Wine 12.0 stable release happenings getting underway in about one month with the official v12.0 release expected early in the new year...
-
-### PostgreSQL 19 Running Behind Schedule Due To AI/LLM Burden
-Fri, 30 Oct 2026 14:06:06 -0400 — https://www.phoronix.com/news/PostgreSQL-19-Late
-
-The PostgreSQL database server typically sees its annual feature release every September~October, but it's not coming until at least November if not longer this year. Due to the increased developer burden due to increased bug reporting and patches via AI/LLM activity, the PostgreSQL developers have been overwhelmed...
-
-### Ubuntu 27.04 "Tenacious T-Rex" Opens For Development
-Fri, 30 Oct 2026 13:32:48 -0400 — https://www.phoronix.com/news/Ubuntu-27.04-Opens-For-Dev
-
-Following this month's release of Ubuntu 26.10, Ubuntu 27.04 development formally got underway today...
-
 ## The Register
+
+### Landline phones will switch off across Britland in 100 days, no extensions – Openreach
+Sun, 01 Nov 2026 09:04:00 +0000 — https://www.theregister.com/networks/2026/11/01/landline-phones-will-switch-off-across-britland-in-100-days-no-extensions-openreach/5306673
+
+Openreach has issued a stark reminder to customers that the legacy phone network is being officially switched off on January 31, and says the deadline will not be postponed. The infrastructure arm of BT Group, Britain’s biggest telecoms biz, circulated the warning this week in a letter to comms providers that use its network to deliver their services. It informs them that any customers still on legacy public switched telephone network (PSTN) connections are at risk of disruption when these are retired at the end of January, 2027. The switch-off could affect businesses and consumers alike. Beyond the plain old telephone, systems that rely on PSTN connectivity include point-of-sale terminals, fire and security alarms, and personal care alarms for elderly and vulnerable people. The move is part of a wider government scheme to get the UK onto all-digital high-speed networks running on fiber-optic infrastructure, and the legacy phone service - with its dependency on copper cabling - was standing in the way. Many households have now ditched landline handsets and instead use only mobile phones, yet for those who still want a landline, the changeover means plugging the phone into the back of a broadband router to access a Digital Voice service. Openreach has been planning this move for the best part of a decade . It has already pushed back the deadline at least once, after the government asked telecoms providers not to force vulnerable customers who use phone-network systems such as 
 
 ### Google's AI satellite sends a very expensive haiku to Earth
 Sat, 31 Oct 2026 15:36:14 +0000 — https://www.theregister.com/ai-and-ml/2026/10/31/googles-ai-satellite-sends-a-very-expensive-haiku-to-earth/5306818
@@ -295,12 +300,52 @@ Fri, 30 Oct 2026 15:30:00 +0000 — https://www.theregister.com/science/2026/10/
 
 Voyager 1 gave controllers the silent treatment for a few days this month before resuming communication weeks before the spacecraft reaches the one-light-day milestone. The incident happened on October 18: NASA's Deep Space Network (DSN) couldn't detect a signal from the probe. On October 19, on the next scheduled communication attempt, there was still nothing. Was this it? Had the decades-long galactic venture finally ended? Things are operating on a knife's edge for the two veteran spacecraft, which will reach their half-century next year. Voyager 2 suffered an antenna pointing issue in 2023, and a low power condition caused Voyager 1 to unexpectedly turn off one of its two radio transmitters. The good news is that on October 20, the signal reappeared, leaving engineers wondering why Voyager 1 temporarily went silent. Thus far, it seems a group of thrusters went offline and their backups were turned on. This could indicate onboard computers detected a problem and put the spacecraft into a safe mode. Kareem Badaruddin, Voyager mission manager at NASA's Jet Propulsion Laboratory, said: "This is the first time we've seen the spacecraft do something like this, but we are also at a point in the mission where we have to expect the unexpected. "We're relieved to be back in contact with Voyager 1 and are eager to understand what happened." The Register spoke to Badaruddin in 2024 , where he described the challenges of working with the veteran spacecraft, but he reckoned the work wa
 
-### AlpineBSD announced – an AI-free FOSS OS
-Fri, 30 Oct 2026 14:45:00 +0000 — https://www.theregister.com/os-platforms/2026/10/30/alpinebsd-announced-an-ai-free-foss-os/5306589
-
-Just days after Daemonarchy, there's another new OS in the BSD family – and one that is heading determinedly in almost the opposite direction. AlpineBSD is so new that it barely exists yet. There are no installation media available, though it's possible to manually bootstrap an installation . What AlpineBSD does already have is an AI policy, and the plan is to avoid "the output of generative AI models (e.g. LLMs)" as far as possible: "Any software whose code, documentation, binaries, or other assets include, in any part, the output of a generative AI tool such as an LLM, is considered 'tainted' for our purposes." The core idea is to combine the kernel of NetBSD with "a userspace inspired by Alpine Linux and the objective of making it possible to use as little AI-generated software as possible." Back in 2024 , the NetBSD project made its position on AI plain. Its commit guidelines say that "code generated by a Large Language Model […] is presumed to be tainted code." Back in July, Linus Torvalds stated that "Linux is not one of those anti-AI projects ". Since then, NetBSD has seen a spike in donations and interest . For someone mainly used to Linux, trying to install NetBSD is a little like hopping in a time machine to 30 years ago, and we speak from personal experience of Linux in the mid-1990s. As we mentioned when Slackware turned 30 a few years ago, back in 1996, this vulture tried Slackware 3.0 on his own hardware, and we never did manage to install it. We tried NetBSD 11
-
 ## Engadget
+
+### 5 expensive hobbies where owning a 3D printer actually saves you money
+Sun, 01 Nov 2026 00:30:00 +0000 — https://www.engadget.com/2300213/3d-printer-expensive-hobbies-where-it-saves-money/
+
+While a personal 3D printer is certainly an investment, if you regularly engage with an expensive hobby, it might actually save you some cash.
+
+### Amazon made the AUX input on older Alexa devices less useful
+Sun, 01 Nov 2026 00:00:00 +0000 — https://www.engadget.com/2300219/amazon-made-alexa-devices-aux-port-less-useful/
+
+Amazon has made a quiet change to older Echo speakers that will leave owners rethinking how they use their devices and manage their home audio setups.
+
+### How big and powerful is SpaceX's Starship rocket?
+Sat, 31 Oct 2026 23:45:00 +0000 — https://www.engadget.com/2300227/how-big-powerful-spacex-starship-rocket/
+
+SpaceX's Starship has a big role to play in NASA's plans to land astronauts on the Moon. Here's how big this rocket is and how its two stages work together.
+
+### Why your Apple AirPods' battery drains so fast and how to make it last longer
+Sat, 31 Oct 2026 23:30:00 +0000 — https://www.engadget.com/2300231/why-airpods-battery-drains-fast-how-to-fix/
+
+It's annoying when your Apple AirPods run out of juice, but the culprit might not be what you think. Here's what's going on and what you can do about it.
+
+### The Slate vs Ford Fathom debate might be settled by this one key tech feature
+Sat, 31 Oct 2026 23:00:00 +0000 — https://www.engadget.com/2300238/slate-vs-ford-fathom-android-auto-carplay-support/
+
+Slate and Ford are both building affordable electric pickups, and that means compromises. But the two automakers are taking very different paths to get there.
+
+### 4 important features you should know if you use Microsoft Teams
+Sat, 31 Oct 2026 22:45:00 +0000 — https://www.engadget.com/2300242/important-features-should-know-microsoft-teams/
+
+A wealth of not-so-well-known features on Microsoft Teams make the experience easier and more stress-free than you may have previously thought.
+
+### The reason most electrical plug prongs have holes in them
+Sat, 31 Oct 2026 22:30:00 +0000 — https://www.engadget.com/2300248/reason-most-electrical-plug-prongs-have-holes/
+
+If you've ever looked at the end of a plug, you've probably wondered why some have holes, and some don't - and no, it's not actually a big conspiracy theory.
+
+### 5 Netflix tips we all wish we knew sooner
+Sat, 31 Oct 2026 22:00:00 +0000 — https://www.engadget.com/2300249/netflix-download-speeds-offline-tricks-wish-knew-sooner/
+
+If there are aspects of Netflix streaming that aren't to your liking, there are several changes you can make to optimize your viewing experience.
+
+### Why your Apple AirPods won't connect to your iPhone and how can you fix it
+Sat, 31 Oct 2026 21:00:00 +0000 — https://www.engadget.com/2302450/why-apple-airpods-wont-connect-to-iphone-fixes/
+
+When your AirPods refuse to show up on your iPhone, the cause is usually simpler than you'd think. Here's where to look first and what to try next.
 
 ### Xbox manager says AI is already being used in game development
 Sat, 31 Oct 2026 20:00:00 +0000 — https://www.engadget.com/2302431/brandon-stirrup-xbox-manager-says-ai-used-game-development/
@@ -317,52 +362,27 @@ Sat, 31 Oct 2026 18:45:00 +0000 — https://www.engadget.com/2298547/why-mac-kee
 
 Handy features of your AirPods can be overzealous, leading to disconnections and unwanted device swapping.
 
-### How to use Claude Duet when it rolls out to you
-Sat, 31 Oct 2026 18:30:00 +0000 — https://www.engadget.com/2300253/how-to-use-claude-duet/
-
-For now, you'll need to first join a waitlist.
-
-### 4 drawbacks you should know before buying a PlayStation 5
-Sat, 31 Oct 2026 18:00:00 +0000 — https://www.engadget.com/2300257/drawbacks-you-should-know-before-buying-playstation-5/
-
-The PS5 isn't as good of a buy today as it was early in its life, so you should be aware of the drawbacks in this awkward console generation.
-
-### Bolt Graphics powers on its first Zeus GPU
-Sat, 31 Oct 2026 17:30:00 +0000 — https://www.engadget.com/2301962/bolt-graphics-powers-on-first-zeus-gpu/
-
-Bolt Graphics has been working on its simulation-centric Zeus GPU for a while now and has reached a significant milestone: a successful test run.
-
-### These Samsung Galaxy Watches won't be getting the new One UI update
-Sat, 31 Oct 2026 17:15:00 +0000 — https://www.engadget.com/2301961/samsung-galaxy-watches-not-getting-one-ui-update/
-
-Samsung has released the latest version of its wearable OS, One UI 9 Watch, and most of its watch lineup will get the update - except these.
-
-### How to fix your phone screen when it's unresponsive to touch​
-Sat, 31 Oct 2026 17:00:00 +0000 — https://www.engadget.com/2301246/how-to-fix-phone-screen-unresponsive-to-touch/
-
-Few things are more annoying than an unresponsive touchscreen. Before you give up on your phone, here's what to try to get it working again.
-
-### How building a cheap home server could save you money in the long run
-Sat, 31 Oct 2026 16:45:00 +0000 — https://www.engadget.com/2301243/how-building-cheap-home-server-save-money/
-
-Using an old PC to create your own server can save you quite a bit of money through a couple of avenues. Here's what it can do.
-
-### Why your Spotify might be using so much storage
-Sat, 31 Oct 2026 16:30:00 +0000 — https://www.engadget.com/2300259/why-spotify-uses-so-much-storage/
-
-Spotify can be a storage hog if you don't have your device's settings optimized. Here's what you can do if Spotify is taking up too much storage.
-
-### How long is too long for a USB cable?
-Sat, 31 Oct 2026 16:15:00 +0000 — https://www.engadget.com/2301242/how-long-should-usb-cable-be-maximum-length/
-
-USB cables, much like their HDMI cousins, have limits on how long they can be. The thing is, those limits are probably much lower than you expected.
-
-### NASA's second year-long Mars simulation mission ends today
-Sat, 31 Oct 2026 16:07:17 +0000 — https://www.engadget.com/2303277/nasa-second-year-long-mars-simulation-mission-ends-today/
-
-The second crew that spent a year inside NASA's simulated Mars habitat is emerging today, and the agency will stream it live.
-
 ## TechCrunch
+
+### Data centers are now a midterm issue, even in Brooklyn
+Sun, 01 Nov 2026 02:22:10 +0000 — https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/
+
+At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers.
+
+### Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’
+Sat, 31 Oct 2026 21:41:00 +0000 — https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/
+
+Apple's new CEO defended the company's current position in the AI landscape.
+
+### 4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale
+Sat, 31 Oct 2026 21:36:07 +0000 — https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/
+
+On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door.
+
+### Judge allows NAACP lawsuit over xAI data center pollution to move forward
+Sat, 31 Oct 2026 21:17:03 +0000 — https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/
+
+An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.
 
 ### OpenAI reportedly lowers funding target for new round
 Sat, 31 Oct 2026 16:12:55 +0000 — https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/
@@ -403,24 +423,4 @@ As an increasing number of AI assistants flood the market, the founder of Ollie,
 Fri, 30 Oct 2026 21:54:34 +0000 — https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/
 
 Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.
-
-### Anthropic expected to receive high junk rating from credit agencies following IPO, FT report says
-Fri, 30 Oct 2026 21:52:03 +0000 — https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/
-
-Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business.
-
-### Applebee s exposed customers personal data after leaving database password in app
-Fri, 30 Oct 2026 21:48:53 +0000 — https://techcrunch.com/2026/10/30/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app/
-
-EXCLUSIVE: A security researcher discovered the hardcoded credential in Applebee's app, allowing unrestricted access to customers' personal data.
-
-### Last-minute Halloween costumes for tech nerds
-Fri, 30 Oct 2026 21:26:59 +0000 — https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/
-
-No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.
-
-### Cracks are emerging in the AI spending boom
-Fri, 30 Oct 2026 21:17:40 +0000 — https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/
-
-Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom.
 

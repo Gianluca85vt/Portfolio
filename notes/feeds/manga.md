@@ -1,6 +1,41 @@
-# Manga — harvested 2026-10-31T20:17:21.797Z
+# Manga — harvested 2026-11-01T11:29:21.650Z
 
 ## Anime News Network
+
+### Hiromasa Okujima Shijūkara ga Naku Koro ni Manga Ends in Next Chapter
+Sun, 01 Nov 2026 05:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-01/hiromasa-okujima-shijukara-ga-naku-koro-ni-manga-ends-in-next-chapter/.243394
+
+Series following lifestyle of 41-year-old businessman debuted in December 2025
+
+### Charisma TV Anime Reveals January 7 Debut in Teaser Video
+Sun, 01 Nov 2026 03:38:56 -0500 — https://www.animenewsnetwork.com/news/2026-11-01/charisma-tv-anime-reveals-january-7-debut-in-teaser-video/.243413
+
+Franchise gets separate short anime series debuting on November 4; more cast also revealed
+
+### Rock is a Lady's Modesty's Hiroshi Fukuda Launches New Manga
+Sun, 01 Nov 2026 03:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-01/rock-is-a-lady-modesty-hiroshi-fukuda-launches-new-manga/.243399
+
+<cite>Koko wa Kagari no Territory</cite> debuts November 30
+
+### Idoly Pride Game Ends Service on March 1
+Sun, 01 Nov 2026 01:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-01/idoly-pride-game-ends-service-on-march-1/.243397
+
+Game launched in June 2021 for iOS, Android
+
+### Shiba Inu Rooms Manga Gets TV Anime in Summer 2027
+Sat, 31 Oct 2026 22:44:52 -0400 — https://www.animenewsnetwork.com/news/2026-10-31/shiba-inu-rooms-manga-gets-tv-anime-in-summer-2027/.243404
+
+Niina Nakabayashi, Mutsumi Tamura star in series at TMS Entertainment
+
+### Happy Halloween 2026 From Around the Anime World, Part V
+Sat, 31 Oct 2026 21:57:58 -0400 — https://www.animenewsnetwork.com/interest/2026-10-31/happy-halloween-2026-from-around-the-anime-world-part-v/.243398
+
+Featuring <i>My Dress-Up Darling, Final Fantasy, Animal Crossing, Dragon Quest, Makeine: Too Many Losing Heroines!, Akira Failing in Love, Hamtaro,</i> Kikuko Inoue, & more!
+
+### Happy Halloween 2026 From Around the Anime World, Part IV
+Sat, 31 Oct 2026 20:20:00 -0400 — https://www.animenewsnetwork.com/interest/2026-10-31/happy-halloween-2026-from-around-the-anime-world-part-iv/.243396
+
+Featuring <i>Oshi no Ko, Mushoku Tensei, Spice & Wolf, Shangri-La Frontier, Bungo Stray Dogs, Tales of, Saiki K., Gushing Over Magical Girls,</i> & more!
 
 ### The Ramparts of Ice Season 2 ‒ Episode 19
 Sat, 31 Oct 2026 12:30:00 -0400 — https://www.animenewsnetwork.com/review/the-ramparts-of-ice-season-2/episode-19/.243393
@@ -27,46 +62,16 @@ Sat, 31 Oct 2026 11:30:00 -0400 — https://www.animenewsnetwork.com/review/the-
 
 In its earliest recorded variants, "The Legend of the White Snake" is a story about a white snake demon who transforms into a beautiful woman to prey on men.
 
-### Romelia War Chronicle Anime's 2nd Part Unveils April 2027 Debut, Ending Song's Artist
-Sat, 31 Oct 2026 11:13:57 -0400 — https://www.animenewsnetwork.com/news/2026-10-31/romelia-war-chronicle-anime-2nd-part-unveils-april-2027-debut-ending-song-artist/.243390
-
-Hiro Shimono to perform ending theme
-
-### Magic Knight Rayearth ‒ Episode 4
-Sat, 31 Oct 2026 10:30:00 -0400 — https://www.animenewsnetwork.com/review/magic-knight-rayearth/episode-4/.243387
-
-Is it weird getting your world-saving spells through a magic Zoom call?
-
-### Happy Halloween 2026 From Around the Anime World, Part I
-Sat, 31 Oct 2026 10:15:00 -0400 — https://www.animenewsnetwork.com/interest/2026-10-31/happy-halloween-2026-from-around-the-anime-world-part-i/.243385
-
-Featuring <i>Frieren, Apothecary Diaries, Spy x Family, Sakamoto Days, My Hero Academia, Medalist,</i> Nintendo, & more!
-
-### STEEL BALL RUN JoJo's Bizarre Adventure ‒ Episode 6
-Sat, 31 Oct 2026 09:30:00 -0400 — https://www.animenewsnetwork.com/review/steel-ball-run-jojo-bizarre-adventure/episode-6/.243386
-
-With episode six, the last pillar of patriarchy is erected and now the two best bros in all of anime can begin tearing the oppressive structure down.
-
-### FX Fighter Kurumi-chan ‒ Episode 5
-Sat, 31 Oct 2026 08:30:00 -0400 — https://www.animenewsnetwork.com/review/fx-fighter-kurumi-chan/episode-5/.243348
-
-Characters are tools. They're just tools for demonstrating ideas. Ideas like the fact that addiction is dangerous. I didn't know that before watching this anime.
-
-### Suikoden: The Anime ‒ Episode 4
-Sat, 31 Oct 2026 07:36:38 -0400 — https://www.animenewsnetwork.com/review/suikoden-the-anime/episode-4/.243347
-
-The two of them sneaking in under the guise of enemy soldiers is just far more immediate and compelling than the earlier political maneuvering.
-
-### Comisma, Sumitomo Mitsui Trust Bank Establish Anime Production Fund
-Sat, 31 Oct 2026 05:04:51 -0400 — https://www.animenewsnetwork.com/news/2026-10-31/comisma-sumitomo-mitsui-trust-bank-establish-anime-production-fund/.243384
-
-Fund to offer investment opportunities to companies that have previously found it difficult to enter anime business
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Jujutsu Kaisen Reveals 12 New Culling Game Character Posters Ahead of Season 4
+Sat, 31 Oct 2026 20:53:30 GMT — https://animecorner.me/jujutsu-kaisen-reveals-12-new-culling-game-character-posters-ahead-of-season-4/
+
+JUJUTSU KAISEN revealed 12 new character poster visuals for Culling Game Arc Part 1 (Season 3) ahead of Season 4.
 
 ### Isshiki-san Wants to Know About Love Anime Reveals New Trailer, Opening Theme Song Artist
 Sat, 31 Oct 2026 11:37:06 GMT — https://animecorner.me/isshiki-san-wants-to-know-about-love-anime-reveals-new-trailer-opening-theme-song-artist/
@@ -84,6 +89,16 @@ Fri, 30 Oct 2026 12:30:00 GMT — https://animecorner.me/fall-2026-anime-ranking
 Bleach wins Fall 2026 Week 4 with 25.31%, followed by Firefly Wedding and Student Council. Both Bleach and Cyberpunk leave the weekly polls after this week.
 
 ## MyAnimeList News
+
+### Rock wa Lady no Tashinami deshite Creator Launches New Manga
+Sun, 01 Nov 2026 01:53:25 -0800 — https://myanimelist.net/news/74893568?_location=rss
+
+The official X (formerly Twitter) account of Comic Heaven announced on Friday that manga creator Hiroshi Fukuda will launch a new manga, titled Koko wa Kagari no Territory (Here is Kagari s territory), in the magazine next issue, scheduled for a November 30 release. Fukuda is best known for Rock wa Lady no Tashinami deshite (Rock Is a Lady s Modesty), which began serializing in Young Animal from October 2022. Hakusensha published the eighth volume in August 2025. Yen Press licensed the...
+
+### Manga Shibatsuki Bukken Gets TV Anime Adaptation in Summer 2027
+Sat, 31 Oct 2026 19:52:56 -0700 — https://myanimelist.net/news/74892534?_location=rss
+
+Publishing company Shueisha announced a television anime adaptation of Esu Omori s Shibatsuki Bukken (Shiba Inu Rooms) on Sunday. An official website also opened and revealed the main staff, cast, a teaser visual (pictured), and a teaser promotional video. The anime is scheduled to air in Summer 2027. Voice actresses Niina Nakabayashi (Awajima Hyakkei) and Mutsumi Tamura (Kobayashi-san Chi no Maid Dragon) are starring as Koori Momose and Muu, respectively. Osamu Yamasaki (Seirei Gensouki, I...
 
 ### Supporting Cast for Kaze wo Tsugumono Announced
 Sat, 31 Oct 2026 00:47:07 -0700 — https://myanimelist.net/news/74888954?_location=rss
@@ -109,26 +124,6 @@ The official website of the Pole Princess!! anime series announced a new theatri
 Fri, 30 Oct 2026 04:51:23 -0700 — https://myanimelist.net/news/74885300?_location=rss
 
 The official X account for Kadokawa s MF Books label announced on Friday that Rifujin na Magonote s Mushoku Tensei: Dasoku-hen (Mushoku Tensei: Redundant Reincarnation) light novel will end with its fourth volume on November 25. Rifujin penned the short story collection of Mushoku Tensei: Isekai Ittara Honki Dasu (Mushoku Tensei: Jobless Reincarnation) on Shousetsuka ni Narou website from May 2015 to September 2017. Kadokawa began publishing the novel through its MF Books label in June...
-
-### Kaketa Tsuki no Mercedes Reveals Additional Cast, Second Promo
-Fri, 30 Oct 2026 02:43:30 -0700 — https://myanimelist.net/news/74885002?_location=rss
-
-The official website for the television anime adaptation of Firehead s Kaketa Tsuki no Mercedes: Kyuuketsuki no Kizoku ni Tensei shita kedo Suteraresou nanode Dungeon wo Seiha suru (Mercedes and the Waning Moon: The Dungeoneering Feats of a Discarded Vampire Aristocrat) light novel revealed additional cast and second promotional video. The anime series will premiere in January 2027. Cast Benkei: Kenta Miyake (Hidarikiki no Eren) Kuro: Ryuunosuke Watanuki (Yomi no Tsugai) Florian: Junichi Su...
-
-### Destiny Unchain Online Reveals Main Cast, Staff, Teaser Promo, 2027 Debut
-Fri, 30 Oct 2026 01:00:02 -0700 — https://myanimelist.net/news/74884436?_location=rss
-
-An official website opened for the Destiny Unchain Online television anime on Friday, revealing the main cast, staff, a teaser visual (pictured), and teaser promotional video. The anime series adapting resn s adventure fantasy light novel will premiere in 2027. Voice actress Ikumi Hasegawa (86, Bocchi the Rock!) is starring as the main character Crim. Staff Director: Kouichi Hatsumi (Tokyo Revengers) Series Composition: Seiko Takagi (Yakusoku no Neverland script) Character Design: Masashi K...
-
-### Kizuguchi to Houtai Unveils Additional Cast, Third Teaser Promo
-Fri, 30 Oct 2026 00:21:46 -0700 — https://myanimelist.net/news/74884610?_location=rss
-
-The official website of the Kizuguchi to Houtai (Wound and Bandage) television anime unveiled additional cast, third teaser visual (pictured), and third promotional video on Friday. The anime series adapting Nanai Umihoshi s romantic comedy manga will premiere on January 9, 2027 at 11:00 p.m. on AT-X, followed by ABC TV and TV Asahi on the ANiMAZiNG programming block. Cast Ginsuke Hatobane: Shouya Ishige (Sono Bisque Doll wa Koi wo Suru) Magical Penpengusa: Yuka Iguchi (Honzuki no Gekokujou...
-
-### Death Stranding: Isolations Reveals Additional Staff, Teaser Promo
-Thu, 29 Oct 2026 19:56:32 -0700 — https://myanimelist.net/news/74883978?_location=rss
-
-The official X of Kojima Productions revealed additional staff, teaser visual (pictured), and a teaser promotional video for the Death Stranding: Isolations anime series on Friday. The anime is scheduled to premiere worldwide on the Disney+ streaming service in 2027. Staff Series Composition, Script: Tow Ubukata (RWBY: Hyousetsu Teikoku) Character Design: Sayaka Koiso (Jujutsu Kaisen 2nd Season) Art Director, Color Script: Yann Le Gall (Ramen Akaneko) Color Design: Ami Kutsuna (The God of High S...
 
 ## Otaku USA
 

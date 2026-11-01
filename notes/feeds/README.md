@@ -1,4 +1,4 @@
-# Source feeds — harvested 2026-10-31T20:17:21.797Z
+# Source feeds — harvested 2026-11-01T11:29:21.650Z
 
 Fetched by GitHub Actions, which is not behind the writer's egress proxy.
 One file per category. Each item is what the publisher syndicates in its
@@ -35,13 +35,13 @@ silently skipping it.
 
 ## Feeds
 
-- [Manga](manga.md) **owed** — 25 items
-- [Games](games.md) — 85 items
+- [Manga](manga.md) **owed** — 24 items
+- [Games](games.md) — 80 items
 - [Tech](tech.md) — 82 items
-- [3D](3d.md) — 15 items
-- [AI](ai.md) — 4 items
-- [Film & TV](film-tv.md) — 65 items
+- [3D](3d.md) — 14 items
+- [AI](ai.md) — 1 items
+- [Film & TV](film-tv.md) — 64 items
 
-Total: 276 items.
+Total: 265 items.
 
 Feeds that did not answer: CGChannel (HTTP 403), VentureBeat AI (HTTP 429).

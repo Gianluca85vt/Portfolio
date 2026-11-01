@@ -1,6 +1,11 @@
-# Games — harvested 2026-10-31T20:17:21.797Z
+# Games — harvested 2026-11-01T11:29:21.650Z
 
 ## Eurogamer
+
+### Pikmin 4 Nintendo Switch 2 Edition launches 12th November and a demo is out tomorrow
+Sun, 01 Nov 2026 10:04:13 +0000 — https://www.eurogamer.net/pikmin-4-switch-2-edition-release-date-demo
+
+Pikmin 4 Nintendo Switch 2 Edition will launch on 12th November, bundled with a new mode called Dandori Academy. Read more
 
 ### PUBG live-action series in the works at Netflix, with Donald Glover set to direct and star
 Sat, 31 Oct 2026 17:35:36 +0000 — https://www.eurogamer.net/pubg-live-action-netflix-series-donald-glover
@@ -57,11 +62,6 @@ Fri, 30 Oct 2026 17:45:23 +0000 — https://www.eurogamer.net/dark-souls-servers
 
 Things might get even darker over in the world of Lordran without those silly, only sometimes helpful notes left by other players. Developer FromSoftware has announced that it's temporarily closing Dark Souls 2 and Dark Souls 3 servers because of an unspecified issue. Read more
 
-### 8-bit horror Tenebris Somnia mixes weird live-action horror with a retro 2D adventure to impressive and unsettling effect
-Fri, 30 Oct 2026 15:15:54 +0000 — https://www.eurogamer.net/tenebris-somnia-horror-game-fmv-live-action-faith
-
-I've been captivated by the idea of wrong-footing an audience ever since playing Faith: The Unholy Trinity . That game presents like an 8-bit horror, then proceeds to bend the rules of what an 8-bit game can do - or perhaps what you remember they could do - in order to surprise and scare you. Tenebris Somnia is very similar. Indeed, it's executive produced by the developer of Faith, Airdorf Games, so the connection runs even deeper. Tenebris Somnia utilises the same retro aesthetic with its grinding chiptune music, its pixelated graphics, and old-school presentation. But the difference is it takes the rule-bending a step further, essentially welding two very different experiences together: a retro-styled 2D adventure and a full-on live-action film. And it's horrific, in all the right ways. Read more
-
 ## GamesIndustry.biz
 
 ### Studio Atelico launches Atelico AI Engine into Early Access
@@ -79,21 +79,21 @@ Fri, 30 Oct 2026 12:00:00 +0000 — https://www.gamesindustry.biz/gaming-storefr
 
 There is currently a concerted and not-so-subtle campaign underway to try to manufacture consent for the use of AI in game development. Read more
 
-### Roblox Q3 results beat expectations despite bookings falling 12% to $1.7bn
-Fri, 30 Oct 2026 10:44:44 +0000 — https://www.gamesindustry.biz/roblox-q3-results-beat-expectations-despite-bookings-falling-12-to-17bn
-
-Roblox's latest financial results beat expectations for its third quarter, with revenue up 16% year-on-year to $1.6 billion. Read more
-
-### Why asking "what's the budget for your game?" doesn't make sense in 2026 | Opinion
-Fri, 30 Oct 2026 09:00:00 +0000 — https://www.gamesindustry.biz/why-asking-whats-the-budget-for-your-game-doesnt-make-sense-in-2026-opinion
-
-Three years ago, we launched our Kickstarter campaign for Trash Goblin , our cosy shop sim. It was an existential moment for Spilt Milk Studios. Seventy-four publishers had turned down the game - one of them pulling out in the meeting that we thought was to sign the final publishing contract - but players seemed to love it. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Rumour: Alleged Persona 1 Remake Gameplay Leaks Online
+Sun, 01 Nov 2026 01:00:00 GMT — https://www.pushsquare.com/news/2026/11/rumour-alleged-persona-1-remake-gameplay-leaks-online
+
+But is it real? Atlus apparently can’t keep a secret. Alleged footage of a Persona 1 Remake has emerged online, although in this age of AI generated content it’s incredibly difficult to ascertain whether this is legit or not. Read the full article on pushsquare.com
+
+### Rumour: Days Gone Dev to Announce and Launch New PS5 Game in 2027
+Sun, 01 Nov 2026 00:00:00 GMT — https://www.pushsquare.com/news/2026/11/rumour-days-gone-dev-to-announce-and-launch-new-ps5-game-in-2027
+
+Third-person game with co-op, it's reported. Bend Studio, the first-party team best known for Days Gone , plans to reveal and potentially even release its next game in 2027. That's according to a new MP1st report , which shares more details on the project. The outlet claims an announcement will take place next year and it's "much further along in development" than you might think, so much so that Bend Studio is also planning to release it in 2027. Read the full article on pushsquare.com
 
 ### Poll: Are You Happy with Your PS Plus Essential Games for November 2026?
 Sat, 31 Oct 2026 18:00:00 GMT — https://www.pushsquare.com/features/poll-are-you-happy-with-your-ps-plus-essential-games-for-november-2026
@@ -144,16 +144,6 @@ So says new Bloomberg report. The next Mass Effect game was cancelled and BioWar
 Fri, 30 Oct 2026 15:00:00 GMT — https://www.pushsquare.com/news/2026/10/this-new-ps5-visual-novel-is-absolutely-bursting-with-style
 
 No word on a western release just yet. Those of you reading the re-release of Steins;Gate this week may want to keep a close eye on Japanese dev MAGES’ latest effort, Seeker Eye . The game’s due out in Japan on 25th February, and while there’s no word on an English localisation just yet, I’m pretty confident it’ll make its way overseas eventually. Read the full article on pushsquare.com
-
-### The Scale of Crimson Desert Just Got Even More Absurd After New PS5 DLC
-Fri, 30 Oct 2026 13:15:00 GMT — https://www.pushsquare.com/news/2026/10/the-scale-of-crimson-desert-just-got-even-more-absurd-after-new-ps5-dlc
-
-A scarily big map after Charting the Unknown. Crimson Desert has always been a ridiculously huge open world game, but now this week's new Charting the Unknown DLC has launched, its sheer size has reached new levels. The base game becomes just a corner of the map once you've got Charting the Unknown installed. Read the full article on pushsquare.com
-
-### The Wolf Among Us Remastered Hit with PS5 Upgrade Pricing Issues
-Fri, 30 Oct 2026 12:30:00 GMT — https://www.pushsquare.com/news/2026/10/the-wolf-among-us-remastered-hit-with-ps5-upgrade-pricing-issues
-
-Promised discounts not appearing. The launch of The Wolf Among Us Remastered has not gone as smoothly as TellTale Games would have liked, as many fans are reporting not being able to access the discounted upgrade offer they were promised. Last week, the developer shared price discounts that owners of the PS4 version of The Wolf Among Us could take advantage of, should they want to upgrade to the remastered PS5 edition. Also open to PS Plus members, those were: Read the full article on pushsquare.com
 
 ## Game Developer
 
@@ -229,64 +219,84 @@ Fri, 30 Oct 2026 12:18:44 +0000 — https://www.videogameschronicle.com/news/ubi
 
 Black Flag Resynced will be the only remade Assassin's Creed for now… Source
 
-### AAA publishers abusing Early Access are setting unrealistic expectations, say Deadhaus Sonata leads
-Fri, 30 Oct 2026 09:47:26 +0000 — https://www.videogameschronicle.com/news/aaa-publishers-abusing-early-access-are-setting-unrealistic-expectations-say-deadhaus-sonata-leads/
-
-It's just a "marketing beat" for them, says Eternal Darkness director Denis Dyack… Source
-
 ## Polygon
 
-### 6 Essential Activities GTA Needs to Let Players Experience in Vice City
-Sat, 31 Oct 2026 20:01:17 GMT — https://www.polygon.com/gta-6-side-activities/
+### 6 Perfect 'Peanuts' Comics from the 1960s that Prove Charles Schulz is a Genius
+Sun, 01 Nov 2026 11:00:17 GMT — https://www.polygon.com/best-peanuts-comics-1960s/
 
-GTA 6 is just around the corner, and despite Rockstar releasing quite a lot of footage over the last month, I still think there's very little to show what we'll actually be doing in the game. Crime, yes. The usual spate of side activities, yes. Having sex, apparently . But there's still a lot of room for speculation about what you can do in those in-between moments. I hope some of these activities make the cut.
+By the 1960s, Schulz hit his sweet spot with well-defined characters and a freshness to the material which would sometimes flag in the decades to come. Don’t get me wrong, there are plenty of hilarious, heartwarming, and inspired Peanuts comics from the ‘70s, ‘80s, and ‘90s, but taken as a whole, nothing tops 1960s Peanuts .
 
-### Helen Mirren and Alden Ehrenreich on Playing Tom Ripley and His Creator Patricia Highsmith
-Sat, 31 Oct 2026 18:00:17 GMT — https://www.polygon.com/helen-mirren-alden-ehrenreich-interview-a-talent-for-murder/
+### Welcome to the New Era of Video Game Adaptations
+Sun, 01 Nov 2026 10:00:17 GMT — https://www.polygon.com/patch-notes-video-game-adaptations/
 
-That was my favorite takeaway when I recently spoke with the Academy Award winner for her new film A Talent for Murder , which she stars in alongside Alden Ehrenreich ( Weapons , Solo: A Star Wars Story ).
+Buckle up, because that trend is about to kick into full gear. This week, we got a flood of news stories confirming that Hollywood is in a full-on gold rush. The film rights to video games are currently getting snapped up at an alarming rate. While that’s not exactly new for an industry that has a long history of eyeing game movies that never pass the scripting phase, we’re actually seeing significant developments that signal an approaching tidal wave.
 
-### Peter Jackson's Worst Lord of the Rings Sin Was Forgetting the Story's Fairy Tale Roots
-Sat, 31 Oct 2026 17:00:17 GMT — https://www.polygon.com/the-hobbit-movies-lord-of-the-rings-fairy-tale-roots/
+### 20 Years Later, The Departed's Best Line Is Still One Of The Greatest Quotes In Gangster Movie History
+Sun, 01 Nov 2026 09:09:17 GMT — https://www.polygon.com/best-quote-gangster-movie-the-departed/
 
-I couldn’t have been more excited for a movie adaptation of J.R.R. Tolkien’s The Hobbit . The story of Bilbo Baggins is my favorite book — I even prefer it to The Lord of the Rings — and I try to read it again every year. By virtue of being less ambitious, The Hobbit lets Tolkien deliver a compact narrative that makes his talent as a worldbuilder and writer shine.
+In crime cinema, a lethal line of dialogue can carry just as much weight as a loaded gun. Martin Scorsese's Goodfellas hooks audiences with Henry Hill's seductive declaration, “As far back as I can remember, I always wanted to be a gangster,” framing a life of crime as the ultimate aspiration. Miller's Crossing features Tom Reagan's wonderfully blunt take on underworld survival, while Casino , Scarface , and The Godfather overflow with dialogue that has long since bled into the cultural lexicon. Immortal phrases like “keep your friends close, but your enemies closer” and “an offer you can’t refuse” remain cinematic icons right alongside the actors and directors who brought them to life.
 
-### Phantom Blade Zero Just Killed Crimson Desert's Chances At a GOTY
-Sat, 31 Oct 2026 16:00:19 GMT — https://www.polygon.com/phantom-blade-zero-crimson-desert-goty-chances/
+### Forget Jason Statham, the Best Action Movie of the Last 30 Years Is Back on Netflix
+Sun, 01 Nov 2026 09:04:19 GMT — https://www.polygon.com/air-force-one-harrison-ford-netflix-november-2026/
 
-Phantom Blade Zero is off to a roaring start. The Wuxia action game by S-Game started the week with strong reviews and ended it with stratospheric player numbers on Steam , where the Chinese audience can be relied upon to turn out for a big release from their native country.
+Harrison Ford spent decades making wildly implausible heroes feel like ordinary guys having a terrible day. An archaeologist outrunning a giant boulder? Sure. A space smuggler taking on an evil empire? Absolutely. In Air Force One , he pulls off something that now feels considerably more farfetched: an American president you’d trust with your life.
 
-### Skyblivion's Biggest Legal Challenge Yet Is Not Coming From Bethesda
-Sat, 31 Oct 2026 15:57:49 GMT — https://www.polygon.com/skyblivion-legal-threats-former-volunteer/
+### 24 Years Later, the Funniest Lord of the Rings Movie Quote Is Still a Legendary Fantasy Line
+Sun, 01 Nov 2026 09:00:17 GMT — https://www.polygon.com/funniest-lord-of-the-rings-quote-meats-back-on-the-menu-boys-histry/
 
-Skyblivion , an ambitious mod aiming to recreate all of The Elder Scrolls 4: Oblivion within Skyrim's game engine , has run into a new legal challenge after over a decade of volunteer-driven development. Surprisingly, these legal troubles don't stem from Bethesda Game Studios or Microsoft, but a former volunteer.
+Somewhere in Middle-earth, is there a Chili’s that serves orcs? Does an Uruk-hai host greet hungry customers, tell them it’ll be a 20-minute wait, and hand them a menu? Does the kitchen run out of manflesh halfway through the dinner rush? Is halfling served as an appetizer? What precisely is in the Triple Dipper? These are unreasonable questions to ask of an otherwise perfect fantasy epic. Unfortunately, The Lord of the Rings : The Two Towers invites every one of them with one line that feels deeply anachronistic.
 
-### 'No Man's Sky' Players Pay Homage To Star Trek's Patrick Stewart
-Sat, 31 Oct 2026 15:18:18 GMT — https://www.polygon.com/no-mans-sky-players-patrick-stewart-memorial-star-systems/
+### 9 Years Later, Jon Bernthal’s Action Series Is a Masterpiece From Start to Finish
+Sun, 01 Nov 2026 05:30:17 GMT — https://www.polygon.com/jon-bernthal-punisher-action-masterpiece-marvel-disney-plus/
 
-Patrick Stewart was a celebrated actor whose career spanned decades of film, television, and theater. He became a household name playing Professor Charles Xavier in the X-Men films , but his work also included decades of live performances with the Royal Shakespeare Company and memorable roles as Gurney Halleck in Dune (1984) and King Richard in Robin Hood: Men in Tights (1993). But, of course, for millions of fans, he'll always be Captain Jean-Luc Picard in Star Trek: The Next Generation .
+Ever since superhero movies and television became popular, fans have debated which actors are the perfect fit for their characters. The debate has escalated over the years, especially when multiple actors have played iconic characters like Superman and Spider-Man . Nine years ago, one of the best actor-to-character pairings came when Jon Bernthal took on Frank Castle in The Punisher . In the process, Bernthal delivered one of the grittiest and most action -packed comic book adaptations in history.
 
-### Austin Abrams Was Grabbed by Tentacles in a 35-Foot Whale Head for the Thriller ‘Whalefall’
-Sat, 31 Oct 2026 15:01:18 GMT — https://www.polygon.com/whalefall-bts-interview/
+### Ridley Scott's Near-Perfect Sci-Fi Masterpiece is Waiting to Be Rediscovered on Streaming
+Sun, 01 Nov 2026 04:26:17 GMT — https://www.polygon.com/ridley-scott-blade-runner-final-cut-streaming-november-2026/
 
-“It was super important that Austin felt like he was in these environments and his body had to respond to them,” Avery told Polygon in a virtual interview. “All that motion on camera is motion that we’re making. It’s not animated. That means Austin’s body is responding to real action in real time.”
+The ‘70s and ‘80s was a major turning point for science fiction . Star Wars revitalized the genre in 1977 and turned it into one of Hollywood’s main box office draws, inspiring a wave of films that reshaped the entire industry. Two years later, Ridley Scott threw down the gauntlet with Alien , taking a big step away from the optimism that had once permeated sci-fi pulp storytelling and instead infusing it with corporate anxiety and untrustworthy artificial intelligence. It was a signal for things to come.
 
-### Warframe officially adds a whole new star system in December
-Sat, 31 Oct 2026 14:58:43 GMT — https://www.polygon.com/warframe-tau-release-window/
+### All 8 Dungeon Crawler Carl Books Ranked (by Their Goodreads Score)
+Sun, 01 Nov 2026 04:00:17 GMT — https://www.polygon.com/every-dungeon-crawler-carl-book-ranked-by-their-goodreads-score/
 
-Before the end of the year, Warframe will get a whole lot bigger . The Warframe: Tau expansion will be released for free in December and adds its namesake star system to the live service shooter alongside a lot of other new content.
+Matt Dinniman's Dungeon Crawler Carl takes one of fantasy's oldest setups and throws it into a blender with reality television, apocalyptic horror, and video game logic, creating a series that has evolved into one of the biggest breakout hits in modern speculative fiction. The premise is fairly simple, starting with a fight for survival inside an alien-dominated game show that escalates into a sprawling saga of bizarre monsters, convoluted mechanics, and a talking cat with an ego to match.
 
-### Walmart Gives Surprise Gift Cards Over Canceled Zelda Switch 2 Orders
-Sat, 31 Oct 2026 14:30:49 GMT — https://www.polygon.com/nintendo-switch-2-zelda-ocarina-of-time-walmart-compensation/
+### Patrick Stewart's Perfect 'Simpsons' Episode Reveals the Beloved Actor's Secret Weapon
+Sun, 01 Nov 2026 03:00:17 GMT — https://www.polygon.com/patrick-stewart-the-simpsons-guest-star/
 
-On Thursday, Nintendo released a special edition of the Nintendo Switch 2 in anticipation of The Legend of Zelda: Ocarina of Time , which is set to launch Nov. 5. As with most special hardware releases, the Legend of Zelda 40th Anniversary-themed Switch 2 sold out quickly . Walmart oversold the consoles and found itself having to cancel orders a day before launch.
+Yesterday, news broke that Sir Patrick Stewart died at age 86. With his background performing Shakespeare and his incredible sense of dignity and gravitas, Stewart is being celebrated primarily for his work as Captain Jean-Luc Picard on Star Trek: The Next Generation , as well as being the perfect man to portray Professor Charles Xavier in the X-Men films. But while he was beloved for the dramatic weight he brought to his roles, it's worth acknowledging that the man pulled off some incredibly memorable comedic performances, one of the first was on The Simpsons , where he guest-starred in the season 6 episode, “Homer the Great.”
 
-### It: Welcome to Derry Drops News Episode To Celebrate Halloween
-Sat, 31 Oct 2026 14:21:44 GMT — https://www.polygon.com/it-welcome-to-derry-halloween-special/
+### 10 Video Games With the Best Twist Endings Nobody Saw Coming
+Sun, 01 Nov 2026 01:00:17 GMT — https://www.polygon.com/best-video-game-twist-endings/
 
-It: Welcome to Derry shocked and surprised fans to celebrate Halloween this year, as an unannounced 30-minute special episode was added to HBO Max at midnight.
+The best twist endings in video games change what you thought you were playing. A great one makes you want to start over to spot the clues, and a perfect one hides those clues in plain sight: in dialogue, in chapter titles, perhaps even the controller you’re holding. These ten games span three decades and nearly every genre, from horror to puzzle-platformers to a Game Boy adventure about a dream. But they all have one thing in common: Every one of them had us totally fooled the first time.
 
 ## PC Gamer
+
+### Forza co-creator Dan Greenawalt is reportedly leaving Microsoft
+Sun, 01 Nov 2026 04:05:48 +0000 — https://www.pcgamer.com/games/racing/forza-co-creator-dan-greenawalt-is-reportedly-leaving-microsoft/
+
+The Verge reports that Dan Greenawalt, studio head of Forza Motorsport developer Turn 10, is planning to retire after nearly 27 years, quoting an internal memo from Trevor Williams of Playground Games. "Dan Greenawalt has decided that this is the right time for him to retire from Microsoft," Williams is reported to have said, clarifying that Greenawalt will stay on temporarily as an adviser during a changeover period. Microsoft announced in September that it plans to merge Turn 10 and Playground, the two Forza studios, into one entity as part of the same restructure that will merge Obsidian into Bethesda and hand Halo over to Activision . Oh, and that restructure will also see another 268 employees being laid off. Turn 10 had already been turned into a support studio for Playground's Forza Horizon following the 2023 reboot of Forza Motorsport, with former developer Fred Russell saying last year that the Motorsport series died in a prior round of cuts at Microsoft . 2026 games : All the upcoming games Best PC games : Our all-time favorites Free PC games : Freebie fest Best FPS games : Finest gunplay Best RPGs : Grand adventures Best co-op games : Better together ]]>
+
+### After almost a decade of work, Alien: Isolation mod tools hit 1.0 with support for 'full custom maps, missions, modes, characters, weapons, animations, sounds, models, textures, and more'
+Sun, 01 Nov 2026 01:30:27 +0000 — https://www.pcgamer.com/games/horror/after-almost-a-decade-of-work-alien-isolation-mod-tools-hit-1-0-with-support-for-full-custom-maps-missions-modes-characters-weapons-animations-sounds-models-textures-and-more/
+
+Nine years ago, Matt Filer officially began work on the OpenCAGE mod tools for Alien: Isolation—following two-and-a-half years of work on prototype versions. During that time the tools have been available for anyone to use, which is part of the reason Creative Assembly's legendarily scary horror game has a variety of mods already. (Though the VR mod works differently, since it's actually enabling an unfinished mode that shipped with the game.) OpenCAGE has finally made it to version 1.0, which can be downloaded on Steam . Filer proudly told us his mod tools have "now reached the point where you're able to implement full custom maps, missions, modes, characters, weapons, animations, sounds, models, textures, and more!" As a demonstration of what's possible, Filer is making a Halo-themed custom map. "It features custom cinematics, enemies, weapons, all on a brand new map with a custom HUD," he said. "It has reached a point now of being able to make full total conversion mods, which has always been my end goal, so it's cool to finally be here!" Alien: Isolation just won our scariest videogame poll , and I consider it a well-earned victory. It's one of the few games I've seen frighten even people who aren't normally bothered by horror thanks to how unpredictable and relentless the xenomorph is when pursuing you. And those dead-eyed Worker Joe robots are no slouches either. Hopefully some creative mods will give us reason to go back to Alien: Isolation, and help tide over the wait
+
+### FromSoftware temporarily shuts down Dark Souls 2 and 3 multiplayer over 'server issue'
+Sat, 31 Oct 2026 21:40:23 +0000 — https://www.pcgamer.com/games/dark-souls/fromsoftware-temporarily-shuts-down-dark-souls-2-and-3-multiplayer-over-server-issue/
+
+As reported by Eurogamer , FromSoftware has shut down multiplayer (invasions, co-op, messages) in Dark Souls 2 and 3 for an indeterminate amount of time due to an undisclosed "server issue." The company shared the news in an October 30 post on X, "The Everything App." The closure affects all platforms for each respective game, and the company said that it would provide an updated timeline for server restoration once it had more information. This isn't the first time something like this has happened with FromSoftware's back catalogue. In early 2022, on the eve of Elden Ring's release, a catastrophic remote code execution vulnerability was discovered in all of the Dark Souls games . That resulted in PC servers for the series getting shut down for months. But there are key differences here: It's only Dark Souls 2 and 3 this time around, while the issue extends to all platforms, not just PC. That gives me some hope that this issue is not only less serious, but it will take less time to resolve as well. It honestly couldn't have happened at a better time for PC players, though: Legend modder Yui's Seamless co-op series runs on its own servers, separate from the official FromSoft ones, meaning the party's still going if you download the mod and play that way. Dark Souls 2 finally got the Seamless co-op treatment at the end of September (Dark Souls 3 has been covered for awhile). As its name implies, Seamless Co-op makes it easier to play through the entirety of these games together
+
+### Fanfiction Library of Alexandria AO3 down for up to a month following hack
+Sat, 31 Oct 2026 21:11:46 +0000 — https://www.pcgamer.com/gaming-industry/fanfiction-library-of-alexandria-ao3-down-for-up-to-a-month-following-hack/
+
+On October 29, bedrock fanfiction website Archive of Our Own (AO3) was taken down for maintenance that was initially predicted to last 12 hours. Later that day, the estimated downtime was upped to two to four weeks. On October 30, the site's volunteer leadership shared a more substantial update about the security intrusion behind the takedown. At the time of writing, the team is "still in the early stages" of determining the scope of the intrusion. AO3 has assured readers and authors that the archive itself and associated data (bookmarks, kudos, etc.) remain intact. Donor information is stored on a completely separate system, meaning that data is safe. The AO3 team is "unable to rule out" that its user database was compromised in the hack. AO3 user accounts include emails, usernames, IP addresses, and hashed (encrypted) passwords. In an abundance of caution, the team advises users to update passwords they may have reused from AO3⁠—but that's just good practice in general, gamers. Over the coming weeks, the team anticipates that AO3 will be brought back in a "degraded" state, meaning incomplete or read-only access, as well as further intermittent downtime. As for why this happened, that remains unclear. AO3 is a very widely-used service, and the sheer numbers game of weak passwords combined with emails in its user database could make it valuable on the black market. I also don't think you can rule out a more ideological motivation for such an attack, given fanfiction's long as
+
+### Elder Scrolls Skyblivion mod faces lawsuit from former volunteer, project lead urges 'Please don't turn this into any kind of witch hunt'
+Sat, 31 Oct 2026 20:29:22 +0000 — https://www.pcgamer.com/games/the-elder-scrolls/elder-scrolls-skyblivion-mod-faces-lawsuit-from-former-volunteer-project-lead-urges-please-dont-turn-this-into-any-kind-of-witch-hunt/
+
+The case as presented by Rebelzize seems fairly open and shut: A volunteer team being sued by a former volunteer over contributions excised from the project? There are potential material benefits to consider: Skyblivion has a level of scope and popularity that could leave participation in it as strong a resume line as shipping a commercial game. Fallout London's developers even pivoted to being their own indie studio. But that's not a clear-cut monetary incentive, and the clout of participation is contingent on productive contribution to the project. While it is worth noting that we only have Rebelzize's accounting of events, I think there are green flags pointing to his trustworthiness: The call to action is for pro bono legal aid in line with the project's overall volunteer nature, not fundraising. The former volunteer is not named, and Rebelzize urges against the sort of Reddit gumshoe sleuthing you see so often in these situations. Skyblivion as a whole has run for a long time without major scandal. Unless you, the reader, are or know a lawyer with expertise in IP/GDPR cases⁠—check out Skyblivion's website to contact them, in that case⁠—there's not much for a given fan of the project to do. Rebelzize noted that he has paid legal help lined up should the call for volunteers fail. Even if a lawsuit is filed, it does not sound⁠—at least from this vlog⁠—like it could imperil Skyblivion's release. I have questions, but ideally this whole situation will resolve cleanly enough t
 
 ### Celeste and TowerFall have delisted from Xbox's digital storefronts to support BDS boycott
 Sat, 31 Oct 2026 18:57:47 +0000 — https://www.pcgamer.com/games/action/celeste-and-towerfall-have-delisted-from-xboxs-digital-storefronts-to-support-bds-boycott/
@@ -313,40 +323,15 @@ Sat, 31 Oct 2026 17:25:20 +0000 — https://www.pcgamer.com/games/horror/the-vot
 
 A week ago, I asked PC Gamer readers to nominate the scariest PC games they could think of. I collected the top 16 submissions from that comment section (with some editorial discretion) and randomly seeded a bracket. After a week of voting, we've finally got a winner. The scariest game on PC is... 🏆 Alien: Isolation 🏆 (Image credit: Sega) Some of you called it from the start, and Alien: Isolation plowed through its competition without much resistance, beating SOMA, Darkwood, Silent Hill 2, and finally Amnesia: The Dark Descent. Having a Xenomorph stalker is scary: reconfirmed. "Alien: Isolation completely destroys me, drenching me in sweat and causing me to take leave of my senses," Fraser wrote a couple years ago. It took him 10 years to get up the courage to finish it. The completed bracket. (Image credit: Future) Presented by (Image credit: Torn Banner) This article is brought to you by No More Room in Hell 2 . Our runner up is classic first-person horror game Amnesia: The Dark Descent, which entered the final after a close battle with one of its younger siblings, Amnesia: The Bunker. Solid arguments were made for the scariness of The Bunker, which Ted once said is the scariest game he's ever played, but The Dark Descent was a landmark PC horror game that lodged itself in a lot of our memories 16 years ago as a very scary thing that once happened to us. Speaking to PC Gamer back in 2010, Frictional Games co-founder Thomas Grip said that their strategy was "to hint at thi
 
-### 'Are we going too far with this?': One of the worst scenes in Outlast had its devs debating whether to add it to the game or not
-Sat, 31 Oct 2026 17:00:00 +0000 — https://www.pcgamer.com/games/horror/are-we-going-too-far-with-this-one-of-the-worst-scenes-in-outlast-had-its-devs-debating-whether-to-add-it-to-the-game-or-not/
-
-There are many scenes from Outlast that are burned into my memory, The Groom's sequence in Outlast's Whistleblower DLC, the finger amputation from the first game, or perhaps it was landing on a bunch of baby bones in Outlast 2 . There's quite a lot to pick from over two games, a DLC, and the live service The Outlast Trials . But if Philippe Morin, co-founder of Red Barrels, had to pick the scene that made the team really stop and think about whether this was ok he'd go back to the first game. For those who don't remember, or perhaps have never played the game, or maybe just wiped the encounter from your memory, as the protagonist Miles Upshur is navigating the abandoned Mount Massive Asylum he stumbles across an inmate engaging in necrophilia. It's a pretty startling moment, and was actually the last thing I thought I'd come across, even in an Outlast game. But that was the whole point of that scene. (Image credit: Red Barrels) "We felt like we needed something that's going to make people think that anything can happen in this game," Morin explains. "Then J.T. Petty, [lead writer for Outlast] came up with this whole dialogue of switching things around, having the [necrophiliac] say to you, 'You like to watch? You're fucked up!' So that was a really nice spin because it turned things around. Because obviously, yes, the player is making the choice to watch. So yeah, I mean that's probably the very first sequence that got a bit [heated]." The only other time Morin can recall whe
-
 ### I spoke to one of the world's only gaming political scientists and he taught me how to avoid getting murdered in Arc Raiders
 Sat, 31 Oct 2026 17:00:00 +0000 — https://www.pcgamer.com/games/third-person-shooter/i-spoke-to-one-of-the-worlds-only-gaming-political-scientists-and-he-taught-me-how-to-avoid-getting-murdered-in-arc-raiders/
 
 Weird Weekend Weird Weekend is our regular Saturday column where we celebrate PC gaming oddities: peculiar games, strange bits of trivia, forgotten history. Pop back every weekend to find out what Jeremy, Josh, Rick and Ted have become obsessed with this time, whether it's the canon height of Thief's Garrett or that time someone in the Vatican pirated Football Manager . If you've played an extraction shooter like Arc Raiders or Marathon , you've probably experienced the agony of trusting another player only for them to shoot you in the head and nick all your stuff. Whenever that happens—and it's happened to me more than I'd like to admit—the same questions run through my head (after the traditional wailing and gnashing of teeth). Was that always going to happen? Did I do something wrong? Should I have said something different? Behaved differently? Or should I have simply foregone any attempt at diplomacy and shot first? I've often wondered if there's a way to get better at this. Not just to convince other players that I'm not a threat, but to make them not want to shoot me. Conveniently, I recently had the chance to speak to someone who knows a thing or two about resolving such situations, both in videogames and real life. (Image credit: Embark) James 'Pigeon' Fielder is one of only two political scientists in the world who specialise in gaming. Or at least, if there are more than two, Fielder is yet to be made aware of them: "When I talk about my research with fellow politic
 
-### Dune: Awakening is getting a free DLC that adds a whole new map and swaps out sand for snow
-Sat, 31 Oct 2026 16:20:31 +0000 — https://www.pcgamer.com/games/mmo/dune-awakening-is-getting-a-free-dlc-that-adds-a-whole-new-map-and-swaps-out-sand-for-snow/
+### 'Are we going too far with this?': One of the worst scenes in Outlast had its devs debating whether to add it to the game or not
+Sat, 31 Oct 2026 17:00:00 +0000 — https://www.pcgamer.com/games/horror/are-we-going-too-far-with-this-one-of-the-worst-scenes-in-outlast-had-its-devs-debating-whether-to-add-it-to-the-game-or-not/
 
-Thus far, Funcom has focussed mainly on changes to its survival MMO Dune: Awakening , with the Norwegian studio reworking the entire game to function as both a solo experience and a PvE adventure. Now that overhaul is done, however, Funcom is now set on expanding players' adventures on Arrakis, having just announced a free expansion that adds a new and completely different map to explore. Coming in December, the Blood and Ice DLC will let players depart the searing sands of Arrakis for the planet's frozen north, adding a new survival map called the Polar Sink that flips the game's central survival concept on its head. Rather than avoiding the heat, players will actively have to seek it out, while also developing new technologies to help them adapt to the extreme change in climate. There's some variance within this environment too. The Polar Sink is composed of two different biomes, the tundra and the icecap. While the icecap is the more extreme of the two, both areas are closely guarded by "water shippers", wealthy traders who supply Arrakis' second most-valuable resource from the polar regions down to the deserts. Players' primary objective in the DLC will be breaking the water shippers' stranglehold on the ice, which they can then use to cool their base equipment back in the desert and speed up resource production. Funcom says that the expansion adds "around 35 hours of new progression", which sounds pretty beefy for a free DLC. It also apparently "brings the focus back to 
-
-### id Software co-director says the Doom developer is 'working more closely with MachineGames than ever' after Xbox laid off 'about half of our studio'
-Sat, 31 Oct 2026 16:10:44 +0000 — https://www.pcgamer.com/games/fps/id-software-co-director-says-the-doom-developer-is-working-more-closely-with-machinegames-than-ever-after-xbox-laid-off-about-half-of-our-studio/
-
-Id Software has tightened its relationship with fellow shooter specialists MachineGames according to studio co-director Marty Stratton, after Xbox laid off roughly half of the Doom developer's employees earlier this year. Stratton was asked how the studio was doing following Xbox's massive job cuts at a recent press event for Doom: The Dark Ages' Revelations DLC (via IGN ) and he was keen to assure everyone that things are hunky dory at the legendary FPS developer. "We're doing great," Stratton explained. "Not to handwave the [layoffs] away … everybody knows we had about half of our studio exit as part of that. But there was a very deliberate effort to make sure that we were incredibly viable coming out of that across everything we do, across game development and [the] technology department." As part of its response to those layoffs, id Software has apparently deepened its ties with MachineGames, developers of Wolfenstein: The New Order and, more recently, the excellent Indiana Jones and the Great Circle . "We're working more closely with MachineGames than ever," Stratton said. "We've always had a very close partnership with them, but I think we're at the point with technology development that both teams are incredibly talented and have incredibly talented engineers and we're really on an amazing path that had started pre-[layoffs]. We'd kicked this off earlier this year. We're really excited about that. We're both really, really bullish on what we have ahead. Stratton's comm
-
-### How fast do you type, and has playing MMOs improved your typing in any way?
-Sat, 31 Oct 2026 16:00:00 +0000 — https://www.pcgamer.com/games/mmo/how-fast-do-you-type-and-has-playing-mmos-improved-your-typing-in-any-way/
-
-Terminally Online (Image credit: Future) This is Terminally Online : PC Gamer's very own MMO column. Every other week, I'll be sharing my thoughts on the genre, interviewing fellow MMO-heads like me, taking a deep-dive into mechanics we've all taken for granted, and, occasionally, bringing in guest writers to talk about their MMO of choice. Final Fantasy 14 released a new typing minigame recently—you hop on over to the Gold Saucer, you rock up with a party of four, and you compete with each other to see how many waves you can defeat with the literal power of words. It's a fun little laugh, and as someone who types for a living, I spent a couple hours getting all of my rewards from it. But not everyone has had as much fun as I—someone who has spent arguably too much of their life in front of a keyboard—am having. Typing speeds among MMO players vary greatly, despite it being the predominant form of communication. This became incredibly obvious to me when I sat down and tip-tapped my way through this mode. Some players, I left in the dust—others I was level-pegging with, and some of them seemed blessed with divine powers of fingerwork (stop giggling) that left me agog. Also some people were just using bots, but hey, not everyone who's faster than me did. Which got me thinking—you, my fellow MMO players. How fast do you type? If you're not familiar with your own speed, I invite you to go on your WPM tester of choice (there are plenty on Google) and pump some numbers. For referen
-
-### Anthropic updates Claude to 'steer it away' from letting users clone games following weeks of Steam being inundated with AI slop
-Sat, 31 Oct 2026 15:23:04 +0000 — https://www.pcgamer.com/gaming-industry/anthropic-updates-claude-to-steer-it-away-from-letting-users-clone-games-following-weeks-of-steam-being-inundated-with-ai-slop/
-
-Anthropic has updated Claude Opus 5.5 to "steer it away" from letting users clone other developers' games, after weeks of Steam being overrun with AI slop and outcries from the game development community. In an update spotted by X user Chasm (via Game Developer ) Anthropic added a new rule to Claude Code's "Rules". Listed under "tengu_heron_brook", the rule reads, "Do build original games, games in a genre, and games from the user's own designs and assets. Do not build a recreation of a specific existing game, even if it is renamed or called original." The addition was later confirmed by Addy Osmani, a member of Anthropic's technical staff. In a response to Chasm's post, Osmani stated, "We added two sentences to Claude Code's prompt on Opus 5.5 to steer it away from recreating someone else's specific game because using Claude to infringe IP is against our usage policy." Osmani added that "original games, genre games, and games built from your own design are meant to keep working. We'll continue to iterate to ensure that we're striking the right balance. In the meantime, if Claude turns down something that's yours, send it my way." Opus 5.5 has proved adept at reverse engineering code, causing all manner of disruption within the games industry. The effects range from rapid decompiling of old console games to the PS5 being jailbroken. Anthropic's latest change arrives in the wake of multiple reports from game developers that their games and demos have been flagrantly copied wit
-
-### Red Barrels' co-founder is just as confused as we are as to why no one's tried to replicate Outlast's success: 'Honestly, I don't know'
-Sat, 31 Oct 2026 14:11:55 +0000 — https://www.pcgamer.com/games/horror/red-barrels-co-founder-is-just-as-confused-as-we-are-as-to-why-no-ones-tried-to-replicate-outlasts-success-honestly-i-dont-know/
-
-The Outlast series has been providing horror fans with some of the most grotesque and outrageous scenes for 13 years, and to over 50 million players. The most surprising thing about all of that, though, isn't how it's able to keep players terrified, it's that no one else has tried to capitalise on its success. Sure, there've been games which have had their fair share of gore involved, Resident Evil 7 , Harvester, or Agony are just a few that come to mind. But none of them have either managed to top the gore seen in Outlast and also achieve its continued success. (Image credit: Red Barrels) I decided that no one else would be better to ask about this strange phenomenon than Red Barrels' co-founder Philippe Morin, but he seems just as confused as I am that Outlast hasn't had any imitators: "Honestly, I don't know. Sometimes I ask myself the same thing, but I'm glad that we're still different from other games because it can be so hard. There's thousands games coming out on Steam every year. So that's a lot of other games people can decide to spend time with." But that doesn't mean the Red Barrels team doesn't get a scare every now and then. "Sometimes there's a game coming up, and we're like, 'alright, this one is probably gonna be the next Outlast'," Morin says. "But so far [nothing's come of them]. It's maybe a combination of different things. The fact that there is no combat or the gore [is lacking]." My working theory as to why no one has attempted to ride the coattails of O
+There are many scenes from Outlast that are burned into my memory, The Groom's sequence in Outlast's Whistleblower DLC, the finger amputation from the first game, or perhaps it was landing on a bunch of baby bones in Outlast 2 . There's quite a lot to pick from over two games, a DLC, and the live service The Outlast Trials . But if Philippe Morin, co-founder of Red Barrels, had to pick the scene that made the team really stop and think about whether this was ok he'd go back to the first game. For those who don't remember, or perhaps have never played the game, or maybe just wiped the encounter from your memory, as the protagonist Miles Upshur is navigating the abandoned Mount Massive Asylum he stumbles across an inmate engaging in necrophilia. It's a pretty startling moment, and was actually the last thing I thought I'd come across, even in an Outlast game. But that was the whole point of that scene. (Image credit: Red Barrels) "We felt like we needed something that's going to make people think that anything can happen in this game," Morin explains. "Then J.T. Petty, [lead writer for Outlast] came up with this whole dialogue of switching things around, having the [necrophiliac] say to you, 'You like to watch? You're fucked up!' So that was a really nice spin because it turned things around. Because obviously, yes, the player is making the choice to watch. So yeah, I mean that's probably the very first sequence that got a bit [heated]." The only other time Morin can recall whe
 
 ## GameSpot
 
@@ -386,6 +371,11 @@ Fri, 30 Oct 2026 13:33:59 +0000 — https://www.gamespot.com/articles/dont-expec
 Destiny's future lies in its past, as Bungie is working to bring content from the infamous Destiny vault back to the game. Big plans are in place to rework fan-favorite campaigns like the Red War and Forsaken back into Destiny 2 , and while that content won't be out for quite a while, Bungie has also detailed what you should not expect from the studio as the year winds down. Long story short: Don't expect to see Destiny 3 teased at The Game Awards. "Knowing we are early in incubating our future and actively working on projects to bridge us to that new home, don't expect us to make a Destiny announcement at the TGAs this year, or to randomly drop a logo that sets the world on fire right away," head of product Josh Deane wrote . Bungie says it secured an "initial greenlight to begin scoping the work" back in June, and a yet-to-be-revealed studio will help with its Destiny legacy content revival. To keep fans up to date, the studio has unveiled a progress bar, with which will signal when major milestones have been reached: The new Destiny 2 progress bar. "Right now, we are in our pre-production, proof-of-work stage where we will ensure the process is working and hitting our quality bar as we port the legacy content. We expect this part of the process to last until roughly January/February. From that point we expect full production will be about 12 months. to fully complete the porting process. It’s a lot of content," Deane added. What else is on the Destiny horizon? Deane said t
 
 ## Rock Paper Shotgun
+
+### The Sunday Papers
+Sun, 01 Nov 2026 10:00:00 +0000 — https://www.rockpapershotgun.com/the-sunday-papers-834
+
+Sundays are for looking upon my DIY works and despairing. Strewn sawdust, spilled paint, and hunks of broken MDF litter my living room kingdom. When will it be over? When will I be free? When will I be able to reassemble my sofa, sit down with a cup of tea in hand, and admire my books, unpacked and arranged on perfectly fitted alcove bookshelves? "Today?" I whisper hopefully in response to a paragraph of rhetorical questions. "Probably not," snaps back Reality. Especially if I don't get out of bed soon. Still, here in bed I can read the best writing about and not about games from the past week. Read more
 
 ### Horror-steeped card game Forbidden Solitaire shows how a strong theme can elevate even decade-old mechanics
 Sat, 31 Oct 2026 12:00:00 +0000 — https://www.rockpapershotgun.com/horror-steeped-card-game-forbidden-solitaire-shows-how-a-strong-theme-can-elevate-even-decade-old-mechanics
@@ -431,19 +421,4 @@ As we've previously covered, a vote on recognition of a union made up of UK-base
 Fri, 30 Oct 2026 12:58:41 +0000 — https://www.rockpapershotgun.com/helldivers-2-boss-can-absolutely-see-making-a-game-parody-of-generative-ai-but-it-would-need-to-be-quirky-rather-than-doom-laden
 
 Arrowhead's chief creative officer Johan Pilestedt can well imagine the Helldivers studio developing a videogame that satirises or parodies today's generative AI technology. The game in question wouldn't be a Helldivers project, however, and Pilestedt says it would need to be relatively upbeat, rather than an exercise in feverish despair. This seems like a tall order right now, at least while Tim Sweeney still has access to Twitter . Read more
-
-### There are no more Assassin's Creed remakes in development, because Ubisoft are focused on Hexe, Invictus and "projects you haven't heard about yet"
-Fri, 30 Oct 2026 11:00:00 +0000 — https://www.rockpapershotgun.com/there-are-no-more-assassins-creed-remakes-in-development-because-ubisoft-are-focused-on-hexe-invictus-and-projects-you-havent-heard-about-yet
-
-Ubisoft have announced that they aren't working on any more Assassin's Creed remakes for the moment, despite learning a "tremendous amount" from Assassin's Creed Black Flag Resynced. Instead, it's all shoulders to the wheel for a thrilling future that contains witches, a stronger sense of narrative cohesion, and possibly some kind of Assassin's Creed Smash Bros equivalent. In the shorter term, Ubisoft are still adding things to both Resynced and Assassin's Creed Valhalla. Read more
-
-### Baldur's Gate 3 custom campaign mod channels World of Warcraft with an adventure about undead former slaves fighting to reclaim a kingdom
-Fri, 30 Oct 2026 10:33:55 +0000 — https://www.rockpapershotgun.com/baldurs-gate-3-custom-campaign-mod-channels-world-of-warcraft-with-an-adventure-about-undead-former-slaves-fighting-to-reclaim-a-kingdom
-
-The opening act of a Baldur's Gate 3 custom campaign mod which injects an adventure set in the World of Warcraft universe into Larian's RPG has been released. The mod, Forsaken, is another ambitious bit of work from a modder who recently expanded the second act of BG3's main story with a new region to explore before you head into the final chapter. This time, they've abandoned the D&Dverse for a tale of undead slaves rising up after being freed from serving a Lich King. Read more
-
-### Mouthwashing is getting a feature film adaptation from Sony and I need all of you to be normal about it whenever it comes out
-Thu, 29 Oct 2026 22:53:00 +0000 — https://www.rockpapershotgun.com/mouthwashing-is-getting-a-feature-film-adaptation-from-sony-and-i-need-all-of-you-to-be-normal-about-it-whenever-it-comes-out
-
-I quite liked that there video game Mouthwashing . It had a lot to say about how corporations take advantage of their workers, it played around with character perspective to let you in on certain narrative threads and withhold others until they're taut enough to snap, and was short enough so that its misery didn't outstay its welcome. What I wasn't so fond of was much of the fandom response that came afterwards, which is why I am quite scared to say that it's getting a movie from Sony. Read more
 
