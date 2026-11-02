@@ -1,170 +1,170 @@
-# Film & TV — harvested 2026-11-01T18:33:44.543Z
+# Film & TV — harvested 2026-11-02T12:51:46.730Z
 
 ## Variety
 
-### How Soviet TV Audiences Fell Under the Spell of Mass Hypnosis Artist Anatoly Kashpirovskiy
-Sun, 01 Nov 2026 18:16:01 +0000 — https://variety.com/2026/film/global/soviet-tv-audiences-mass-hypnosis-anatoly-kashpirovskiy-1236936646/
+### Spain’s Indie Distribution Surges but Large Challenges Remain, Highlighted at Valladolid’s Merci Market
+Mon, 02 Nov 2026 12:44:00 +0000 — https://variety.com/2026/film/global/spain-independent-distribution-merci-valladolid-1236936846/
 
-While Western TV audiences of the 80s surveying the Soviet world were following Mikhail Gorbachev, those inside the bloc were just as likely to be interested in a bizarre mass hypnosis artist by the name of Anatoly Kashpirovskiy, as Ji.hlava doc fest audiences have seen this week. A trained medical doctor who said he first [ ]
+Spain’s indie film distributors are flexing growing box office muscle — and attracting a broader range of buyers to Valladolid’s Merci market. Presented at Merci, Rentrak figures showed that members of Adicine, Spain’s leading association of independent film distributors, saw box office receipts rise 45% through September. Elastica Films’ “La Bola Negra,” released Sept. 25, [ ]
 
-### Judi Dench Says Robin Williams Was ‘Gently Supportive’ During Her Late Husband’s Cancer Battle: ‘I’ve Often Thought About’ His ‘Sensitivity and Understanding’
-Sun, 01 Nov 2026 18:11:39 +0000 — https://variety.com/2026/film/news/judi-dench-robin-williams-husband-cancer-battle-1236936832/
+### Russell Brand Is Not ‘Some Kind of Psychopath Who Rapes People and Thinks It’s Normal,’ Defense Lawyer Says in Closing Argument
+Mon, 02 Nov 2026 12:29:58 +0000 — https://variety.com/2026/tv/global/russell-brand-defense-closing-arguments-trial-1236937304/
 
-Judi Dench is reflecting on her relationship with Robin Williams and how he supported her when her husband, Michael Williams, was battling lung cancer in her forthcoming memoir, “Is It Too Late to Make a Run For It?” Nearly 30 years earlier, Dench had been staying at actor Billy Connolly’s Scotland home with her late [ ]
+Russell Brand’s lawyer has told the jury there is “no evidence” that the comedian is “some kind of psychopath who rapes people and thinks it s normal” in his closing argument. “The fact he behaved normally during and after all of those ‘rapes’ tells you what you need to know. He believed they were all consenting,” [ ]
 
-### 23 Best Movies New to Streaming in November: Tony, Misty Green, Possible Love and More
-Sun, 01 Nov 2026 17:45:00 +0000 — https://variety.com/lists/best-movies-streaming-november-2026/
+### Raye to Headline BST Hyde Park With Sienna Spiro Opening
+Mon, 02 Nov 2026 12:00:00 +0000 — https://variety.com/2026/music/global/raye-headline-bst-hyde-park-sienna-spiro-1236937285/
 
-With temperatures dropping and the holiday season right around the corner, streaming boosts are all but guaranteed in November. Netflix is diving head first into the Christmas season with the launch of several original holiday movies, but the streamer is also getting a jump on Oscar season with the launch of international awards season hopefuls [ ]
+Raye is set to headline BST Hyde Park in London this coming summer with special guest Sienna Spiro. The singer — who just won the U.K. s prestigious Mercury Prize for her latest album, This Music May Contain Hope — will play the festival on Saturday, July 10. Sienna Spiro is the first opener to be [ ]
 
-### Savannah Guthrie Shares New Post Asking for Information About Her Mother’s Disappearance: ‘We Ache for Her, We Cry Out for Answers’
-Sun, 01 Nov 2026 17:16:29 +0000 — https://variety.com/2026/tv/news/savannah-guthrie-nancy-guthrie-kidnapping-1236936812/
+### Ji.hlava New Visions Award Winner Karim Akalay Mixes Magic With ‘Anti-Social Realism’ in ‘6TM’: ‘It’s About Collective Strength Rather Than One Hero’
+Mon, 02 Nov 2026 11:51:20 +0000 — https://variety.com/2026/film/global/karim-akalay-jihlava-new-visions-award-winner-6tm-1236937251/
 
-Savannah Guthrie has taken to social media to urge anyone with knowledge about her mother, Nancy, who was presumed kidnapped in February and has yet to be found, to come forward. Guthrie shared a drawing to her Instagram account done by her daughter that shows an umbrella, raindrops and the text: “I know it might [ ]
+Karim Akalay’s “6TM” won the New Visions Award for the most promising European project at Ji.hlava Documentary Film Festival. Variety spoke to Akalay at the festival. Set during a scorching summer at Brussels’ largest housing estate, Cité Modèle, the story follows three intertwining narratives within one family. Two kids chase a magic key to prevent [ ]
 
-### Harry Styles Closes Out 30-Night Madison Square Garden Residency With Two ‘Harryween’ Shows, Dressed as Elvis and Pizza Rat, and a Jalen Brunson Guest Appearance
-Sun, 01 Nov 2026 16:38:34 +0000 — https://variety.com/2026/music/news/harry-styles-closes-madison-square-garden-harryween-1236936778/
+### Ukraine-Set Drama About a Trans Man Barred From Fleeing War, ‘I Rarely Wake Up Dreaming,’ Wins Tokyo’s Ethical Film Award
+Mon, 02 Nov 2026 11:14:08 +0000 — https://variety.com/2026/film/festivals/ukraine-drama-trans-man-tokyo-ethical-film-award-1236937339/
 
-Harry Styles record-setting 30-night residency at New York’s Madison Square Garden came to a close over the weekend, with a pair of Styles’ recurring “Harryween” concerts that saw the star, his band and much of the audience dressed for the occasion — in his case as 1970s-era Elvis Presley on the first night and the [ ]
+German director and screenwriter Isabelle Stever’s “I Rarely Wake Up Dreaming” has won the Tokyo International Film Festival’s Ethical Film Award. The award, set up in 2023 with sponsor Sumitomo Corporation, highlights films that shed light on issues such as the environment, poverty and discrimination. A jury picks the winner from three nominees drawn from [ ]
 
-### Box Office: You Can See Everything and Clayface Battle for No. 1 With $10.5 Million in Sleepy Halloween Weekend
-Sun, 01 Nov 2026 15:58:23 +0000 — https://variety.com/2026/film/box-office/you-can-see-everything-clayface-battle-for-no-1-box-office-1236936664/
+### ‘Harry Potter’ Agent The Blair Partnership Taps Merlin s Will Obbard, Amazon s Alex Flanagan for Senior Roles as It Eyes New Growth Phase (EXCLUSIVE)
+Mon, 02 Nov 2026 11:09:20 +0000 — https://variety.com/2026/biz/global/blair-partnership-alex-flanagan-will-obbard-1236937319/
 
-A24 s Elizabeth Holmes documentary You Can See Everything and DC s comic book adaptation Clayface are vying for first place at the domestic box office, with each film on track to collect around $10.5 million over the weekend. Although it ll be a close call, You Can See Everything has the slight edge with $10.6 million while [ ]
+“Harry Potter” agent The Blair Partnership has appointed Will Obbard and Alex Flanagan to senior roles as the company eyes a new phase of growth. “I’m delighted to welcome Alex and Will to The Blair Partnership,” said Neil Blair, founding partner of The Blair Partnership. “Both bring exceptional experience in their respective fields and their [ ]
 
-### Michael Mann Hospitalized After Accidentally Shooting Himself in the Leg at Los Angeles Gun Range
-Sun, 01 Nov 2026 15:16:59 +0000 — https://variety.com/2026/film/news/michael-mann-shot-himself-gun-range-accident-1236936667/
+### The Debut to Open Marrakech Film Festival, With Artificial and Paper Tiger Among Gala Screenings
+Mon, 02 Nov 2026 10:53:27 +0000 — https://variety.com/2026/film/festivals/the-debut-marrakech-film-festival-lineup-1236937291/
 
-Michael Mann was hospitalized on Saturday after he accidentally shot himself in the leg at a Los Angeles gun range, according to the L.A. Police Department. The director was trying to holster a firearm during a target practice at a sanctioned gun range when the weapon accidentally went off, as first reported by TMZ. The [ ]
+Jesse Eisenberg s The Debut, starring Julianne Moore as a shy housewife who is cast in a community theater musical and transforms into a zealous Method actor, has been set as the opening film of the 23rd Marrakech International Film Festival. Eisenberg is expected to be on hand for the out-of-competition gala. The fest, running from [ ]
 
-### The Best Pop-Culture Advent Calendars for 2026: Bluey, The Nightmare Before Christmas, Marvel and More
-Sun, 01 Nov 2026 14:00:00 +0000 — https://variety.com/2026/shopping/news/best-pop-culture-advent-calendars-2026-shop-online-1236912504/
+### Palestinian-Jordanian Filmmaker Darin J. Sallam on the Backlash to Farha : ‘I Never Regretted It’
+Mon, 02 Nov 2026 10:48:33 +0000 — https://variety.com/2026/film/global/darin-j-sallam-backlash-farha-1236937302/
 
-Why wait until Christmas to start unwrapping? Advent calendars make the case for treating yourself all December long, and this year s lineup goes well beyond the usual bite-sized chocolates. This year, brands are finding increasingly creative ways to cash in on the tradition. Nespresso has teamed up with Swarovski for a sparkly caffeine fix, Lego [ ]
+Palestinian-Jordanian filmmaker Darin J. Sallam has no regrets about making “Farha,” her debut feature about a Palestinian girl coming of age during the Nakba, the mass displacement and dispossession of Palestinians surrounding the creation of the state of Israel in 1948. The film sparked controversy that Sallam was warned could derail her career before it [ ]
 
-### Valladolid Festival Prizes: Alain Gomis’ ‘Dao’ Wins Golden Spike, ‘La Gradiva’ Takes Silver
-Sun, 01 Nov 2026 13:02:00 +0000 — https://variety.com/2026/film/global/valladolid-prizes-dao-la-gradiva-lisandro-alonso-1236936281/
+### Disney and the NFL Launch Limited-Edition Mickey Friends Merch Ahead of Super Bowl LXI
+Mon, 02 Nov 2026 10:33:04 +0000 — https://variety.com/2026/shopping/news/disney-nfl-super-bowl-merch-shop-online-1236935576/
 
-French-Senegalese filmmaker Alain Gomis’ “Dao,” an expansive family saga spanning Europe and Africa, was awarded the Golden Spike for best film at Spain’s 71st Valladolid International Film Festival (Seminci) while Marine Atlan’s acclaimed debut “La Gradiva” received the Silver Spike. Unfolding between a wedding in France and an ancestral memorial ceremony in Guinea-Bissau, Gomis’ three-hour [ ]
+Mickey Friends are getting ready to head to Super Bowl LXI with a new lineup of limited-edition merchandise. Through their collaboration with the NFL, Disney launched three new collections on Thursday: Disney x Champion, Disney x FOCO and Disney Pinnacle by Dapper Labs. Featuring an array of T-shirts and crewnecks, the Disney x Champion [ ]
 
-### Inde Navarrette Wins Halloween With Penis-Destroying Robot ‘SNL’ Sketch ‘The Inventor’s Wife’
-Sun, 01 Nov 2026 08:33:26 +0000 — https://variety.com/2026/tv/news/inde-navarrette-snl-halloween-the-inventors-wife-penis-robot-1236936629/
+### Brian Gleeson, Colm Meaney, Alex Murphy and Aidan Gillen to Star in Paddy Power Film Charting Rise of Irish Gambling Giant (EXCLUSIVE)
+Mon, 02 Nov 2026 10:02:36 +0000 — https://variety.com/2026/film/global/brian-gleeson-colm-meaney-aiden-gillen-paddy-power-1236937267/
 
-After a pretty weak cold open that was crashed by Tom Hanks’ David S. Pumpkins, Donald Trump (who admitted he “might be gay”) and his MAGA minion Nicki Minaj, and an amusing opening monologue where host Inde Navarrette took a swipe at Shane Gillis, the Halloween edition of “Saturday Night Live” aired a surprisingly fun [ ]
+The story of how a small Dublin bookmaker turned into one of the world s most recognizable betting companies is being made into a feature film, with a quartet of Irish actors attached to star. Brian Gleeson ( Under Salt Marsh, Logan Lucky ), Colm Meaney ( Law Abiding Citizen, Layer Cake ), Alex Murphy ( Saipan, The Young Offenders ) and [ ]
 
 ## The Hollywood Reporter
 
-### O.J. s Accomplice Has Its Own The Jinx Hot Mic Moment
-Sun, 01 Nov 2026 17:30:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/ojs-accomplice-hot-mic-moment-like-the-jinx-robert-durst-1236742348/
+### Netflix Layoffs Hit U.K., With VP, Production Anna Mallett Among 2-3 Percent of Staff Affected
+Mon, 02 Nov 2026 12:06:07 +0000 — https://www.hollywoodreporter.com/business/business-news/netflix-layoffs-uk-london-hit-anna-mallett-vp-production-1236745775/
 
-The Peacock docuseries floats a forgotten yet compelling theory about the 1994 murders of Nicole Brown Simpson and Ronald Goldman.
+The former CEO of ITN and BBC Studios top executive was hired by the global streamer's London office in November 2020.
 
-### You Can See Everything, Clayface Fighting for No. 1 in Quiet Halloween Weekend
-Sun, 01 Nov 2026 17:02:16 +0000 — https://www.hollywoodreporter.com/movies/movie-news/you-can-see-everything-clayface-box-office-halloween-1236744345/
+### Jack Lowden Is Tight-Lipped on Those Bond Rumors: I m Not Going to Add to the Noise
+Mon, 02 Nov 2026 11:04:35 +0000 — https://www.hollywoodreporter.com/movies/movie-news/jack-lowden-james-bond-cast-movie-screen-tests-slow-horses-1236745765/
 
-The Elizabeth Holmes documentary could land the first No. 1 of its buzzy three-week run as the studios avoided major releases over the spooky frame.
+The 'Slow Horses' star, who is next set to play Mr. Darcy in Netflix's 'Pride and Prejudice' adaptation, admitted the speculation is "very flattering."
 
-### Michael Mann Accidentally Shoots Himself at L.A. Gun Range
-Sun, 01 Nov 2026 16:16:01 +0000 — https://www.hollywoodreporter.com/news/general-news/michael-mann-accidentally-shoots-himself-l-a-gun-range-1236744347/
+### Series’ Women Participants Revealed for European Female Leadership Program
+Mon, 02 Nov 2026 09:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/series-women-2026-participants-europe-female-leadership-1236744148/
 
-The incident happened on Saturday during target practice at a sanctioned gun range.
+Germany’s Erich Pommer Institut has unveiled the 15 women producers selected for the sixth edition of its program.
 
-### Lola Blankets Early Black Friday Sale Delivers Half Off Hollywood s Most Coveted Throws
-Sun, 01 Nov 2026 16:00:00 +0000 — https://www.hollywoodreporter.com/lifestyle/shopping/lola-blankets-black-friday-sale-2026-discount-code-50-off-1236744043/
+### Tallinn Black Nights Fest Turns 30 With New Artistic Director, a Latin American Streak and a Baltic Boom
+Mon, 02 Nov 2026 07:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/tallinn-2026-poff-30-preview-baltics-focus-oscars-scandinavia-1236741690/
 
-The viral blanket brand's famous fans include Selena Gomez, Simone Biles, Oprah Winfrey and Tate McRae, to name a few.
+In her first year at the programming helm, Triin Tramberg is making few changes and watching closely to see what works: "I made the decision that this year is really observational for me."
 
-### Netflix’s New Releases Coming in November 2026
-Sun, 01 Nov 2026 13:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/netflix-november-2026-new-releases-movies-tv-1236744265/
+### Tokyo: ‘Diamond Diplomacy’ Doc Tracks the History of Baseball in Japan and Its Impact on U.S. Relations
+Mon, 02 Nov 2026 01:30:00 +0000 — https://www.hollywoodreporter.com/movies/movie-features/tokyo-diamond-diplomacy-doc-baseball-japan-shohei-ohtani-1236739515/
 
-Take a look at the movies and TV shows that are hitting the streaming service this month.
+Film traces stories of players from both countries crossing the Pacific, racial and diplomatic tensions, wartime baseball, through to the phenomenon that is Shohei Ohtani.
 
-### ‘Godzilla Minus Zero’ Crashes Into Tokyo Film Festival With Stars Ryunosuke Kamiki, Minami Hamabe in Tow
-Sun, 01 Nov 2026 08:57:37 +0000 — https://www.hollywoodreporter.com/movies/movie-news/godzilla-minus-zero-crashes-tokyo-film-festival-ryunosuke-kamiki-minami-hamabe-1236744328/
+### Book to Scream: How Universal Orlando s Halloween Event Embraced Horror s Literary Roots for 35 Years
+Mon, 02 Nov 2026 01:00:00 +0000 — https://www.hollywoodreporter.com/lifestyle/arts/halloween-horror-nights-35-orlando-hellraiser-house-booktok-1236743712/
 
-Takashi Yamazaki’s sequel brought costumed fans, monster figurines and rapturous applause at two sold-out festival screenings ahead of its Nov. 3 Japanese release.
+Members of the Halloween Horror Nights' creative team go inside this year's 'Hellraiser' maze and menu, detail over three decades of literary-inspired houses and scare zones, and examine how one of their original shows is growing the event's audience with readers.
 
-### SNL : Inde Navarrette Digs at Shane Gillis Joke About Women Dressing Like Whores at the Gym as Tom Hanks Crashes Cold Open
-Sun, 01 Nov 2026 03:54:45 +0000 — https://www.hollywoodreporter.com/tv/tv-news/inde-navarrette-snl-shane-gillis-whore-gym-tom-hanks-1236744238/
+### Marty Erlichman, Barbra Streisand s Longtime Manager, Dies at 97
+Sun, 01 Nov 2026 23:57:32 +0000 — https://www.hollywoodreporter.com/music/music-news/marty-erlichman-dead-barbra-streisand-longtime-manager-1236745589/
 
-"Every morning, I put on my little whore outfit, and I hit the gym," the 'Obsession' actress said of her prep for Marvel's X-Men reboot.
+He discovered the singer at 19 years old and managed her career for more than six decades.
 
-### Heidi Klum Reveals This Year s (Very Bloody) Halloween Costume
-Sun, 01 Nov 2026 02:36:46 +0000 — https://www.hollywoodreporter.com/lifestyle/lifestyle-news/heidi-klum-2026-halloween-costume-reveal-1236741385/
+### Martha Stewart Responds to Backlash Over Halloween Costume Depicting Homeless Person: Never My Intention
+Sun, 01 Nov 2026 23:11:41 +0000 — https://www.hollywoodreporter.com/news/general-news/martha-stewart-responds-backlash-halloween-costume-homeless-1236745531/
 
-The star transformed into a severed hand for her famous Halloween party on Saturday night.
+In the since-deleted photo, the lifestyle guru appears to be wearing ripped clothing and holding a clipboard with the message, "I AM HUNGRY HELP ME!!"
 
-### Tovah Feldshuh Shuts Down Nobody Wants This Cast Tension Rumors Amid Adam Brody Free Palestine” Support
-Sun, 01 Nov 2026 01:12:39 +0000 — https://www.hollywoodreporter.com/tv/tv-news/tovah-feldshuh-nobody-wants-this-tension-adam-brody-palestine-1236744254/
+### Harry Styles Goes Full Pizza Rat for Halloween at Final MSG Show, Jalen Brunson Makes Surprise Visit
+Sun, 01 Nov 2026 21:01:42 +0000 — https://www.hollywoodreporter.com/music/music-features/harry-styles-rat-halloween-final-msg-show-jalen-brunson-1236744359/
 
-"Tensions are NOT RISING. Profound differences of opinion are. Please do not conflate the two — And none of it will be brought to the set," the actress wrote in response to a Threads post.
+The Hollywood Reporter was inside the arena Saturday night for night two of Styles' traditional "Harryween" concerts, where the musician gave an emotional farewell to his 30-show residency.
 
-### Green Room Director Recalls How Patrick Stewart Saved Movie From Being Scrapped
-Sun, 01 Nov 2026 00:13:53 +0000 — https://www.hollywoodreporter.com/movies/movie-news/how-patrick-stewart-saved-green-room-scrapped-jeremy-saulnier-1236744241/
+### Criminal Minds: Evolution Cast Reacts to Show s Cancellation: There’s So Many More Stories to Tell
+Sun, 01 Nov 2026 18:50:17 +0000 — https://www.hollywoodreporter.com/tv/tv-news/criminal-minds-evolution-cast-react-cancellation-1236744378/
 
-Ahead of a screening of the film on Friday, Jeremy Saulnier recounted how 'Green Room' was "close to shutting down" when the sci-fi icon, "out of the blue, expressed interest in the project."
+The police procedural will be ending after its forthcoming 20th season on Paramount+.
 
 ## Deadline
 
-### Clayface Still Boss With Near $23M WW; Resident Evil Racks Up $400M WW Poised To Scare Away Backrooms Global Box Office Update
-Sun, 01 Nov 2026 18:14:45 +0000 — https://deadline.com/2026/11/box-office-global-clayface-resident-evil-1237210872/
+### Russell Brand s Defense Argues Channel 4 Film Poisoned Well Of Justice Deliberately
+Mon, 02 Nov 2026 11:43:44 +0000 — https://deadline.com/2026/11/russell-brand-defense-channel-4-film-poisoned-well-justice-1237211158/
 
-It was an awful weekend at the global box office, but a lot of that has to do with the fact that there s no major wide Hollywood release (or China local blockbuster title for that matter) more than the Halloween holiday itself impacting worldwide ticket sales. If there s any indication of how bad the weekend [ ]
+Editor’s note: This story contains details of alleged sexual offenses that some readers may find distressing. The 2023 Channel 4 documentary about Russell Brand poisoned the well of justice deliberately and fundamentally corrupted his accusers, according to the closing defense argument of Brand s lawyer. Ian Winter leaned on a phrase, coined by a mid-19th century [ ]
 
-### Nobody Wants This Actress Tovah Feldshuh Insists Tensions Are Not Rising With Adam Brody, Hopes We Are Chosen For Season 4
-Sun, 01 Nov 2026 17:22:28 +0000 — https://deadline.com/2026/11/nobody-wants-this-actress-tensions-not-rising-adam-brody-1237210876/
+### Goodfellas Unveils First Images For Toho’s Sci-Fi Thriller ‘Leviathan’ Fall Lineup AFM
+Mon, 02 Nov 2026 10:20:21 +0000 — https://deadline.com/2026/11/goodfellas-toho-sci-fi-thriller-leviathan-first-images-1237209570/
 
-Amid disagreements about major world issues on the set of Nobody Wants This, one series star insists it will not impact a potential Season 4. Tovah Feldshuh, who plays Rabbi Noah Roklov s (Adam Brody) mother Bina, recently denied that tensions are emerging among the cast and creator of Netflix s Jewish romantic-comedy after she took issue [ ]
+EXCLUSIVE: Goodfellas has unveiled first images for Toho’s highly anticipated sci-fi thriller Leviathan, a live action adaptation of Shiro Kuroi’s best-selling manga, as it launches sales ahead of the AFM. Set in 2127, the film follows a group of students pitted against each other in a brutal battle for survival in the depths of space [ ]
 
-### Savannah Guthrie Renews Plea For Information About Mom Nancy s Disappearance: We Cannot Move Forward
-Sun, 01 Nov 2026 16:50:54 +0000 — https://deadline.com/2026/11/savannah-guthrie-renews-plea-information-mom-disappearance-1237210866/
+### Anna Mallett Exits Netflix Amid UK Layoffs
+Mon, 02 Nov 2026 10:09:47 +0000 — https://deadline.com/2026/11/netflix-uk-layoffs-anna-mallett-1000-layoffs-sarandos-1237211138/
 
-Nine months after her mother s disappearance, Savannah Guthrie is not resting until her family can get closure. On Sunday, the Today co-anchor expressed that they cannot move forward until they know what happened to Nancy Guthrie, reminding her followers that the FBI reward is still available for information that helps locate her. Savannah shared the [ ]
+Netflix layoffs have trickled down to the UK. Deadline is told that around 2% to 3% of the London office of several hundred staff have been laid off, including Anna Mallett, who was VP Production in the UK and EMEA. Others to have left work in areas like PR and marketing, we are told. Mallett [ ]
 
-### ‘Planted!’ Game Dev Ben Cawthorne On Digging Up Chaos In A Competitive Gardening Game
-Sun, 01 Nov 2026 16:31:53 +0000 — https://deadline.com/2026/11/planted-video-game-interview-ben-cawthorne-1237210860/
+### Jesse Eisenberg’s ‘The Debut’ To Open 2026 Marrakech Film Festival; Full Lineup Unveiled
+Mon, 02 Nov 2026 09:56:02 +0000 — https://deadline.com/2026/11/marrakech-2026-lineup-jesse-eisenberg-the-debut-opening-1237211139/
 
-There are plenty of ways to tend to your garden, but launching a freshly harvested potato at a friend probably isn’t the first thing that comes to mind. Proverbial death by roots is the entertainingly offbeat premise behind Cloth Cat Games’ Planted!, a quirky combat game that turns gardening into an all-out competition starring your [ ]
+Jesse Eisenberg’s comedy The Debut, starring Julianne Moore as a shy housewife who discovers a passion for amateur theater, has been unveiled as the opening film of the 23rd Marrakech International Film Festival later this month. It will be among 76 films from 39 countries playing in Morocco’s premiere film festival across the Official Competition [ ]
 
-### Clayface In Staring Contest With Elizabeth Holmes Nathan Fielder For No. 1 Over Sluggish Halloween Weekend Sunday AM Update
-Sun, 01 Nov 2026 15:51:00 +0000 — https://deadline.com/2026/11/box-office-you-can-see-everything-clayface-halloween-1237209579/
+### Paramount+ Doc Series The Real Wolf Of Wall Street Set For BBC Stan
+Mon, 02 Nov 2026 09:50:00 +0000 — https://deadline.com/2026/11/real-wolf-of-wall-street-bbc-stan-paramount-plus-1237209389/
 
-SUNDAY AM: Warner Bros Clayface with all his trick-or-treat attitude thinks he s No. 1 for the weekend with $10.4M, however, A24 s You Can See Everything is reporting $10.6M. Clayface won Halloween with $4.2M while Nathan Fielder and Elizabeth Holmes collected $3.58M from moviegoers. Sunday looks to belong to the duo with $3.45M. Clayface is looking [ ]
+The Real Wolf of Wall Street, the Paramount+ documentary series about the life of broker Jordan Belfort, is headed to the UK and Australia. The BBC and Stan have acquired the three-part doc from Hat Trick International, which launched the program at MIPCOM Cannes earlier this month. Co-producers on the show are Maxine Productions, which [ ]
 
-### Michael Mann Injured When Weapon Accidentally Discharges; Filmmaker OK
-Sun, 01 Nov 2026 15:11:47 +0000 — https://deadline.com/2026/11/michael-mann-injured-weapon-discharges-filmmaker-ok-1237210846/
+### Emmy-Winners Gesbeen Mohammad Robin Barnwell Launch Current Affairs Indie Telling Stories Of The Year From Iran, Afghanistan Beyond
+Mon, 02 Nov 2026 09:30:00 +0000 — https://deadline.com/2026/11/sisu-pictures-gesbeen-mohammad-robin-barnwell-docs-1237208046/
 
-On Saturday, at a gun range, a weapon accidentally discharged while holstered resulting in a superficial injury to film director Michael Mann. He was treated and is being released. Mann is scheduled to direct Heat 2 in January. Deadline spoke exclusively to a source close to the filmmaker, and this will not impact start of [ ]
+EXCLUSIVE: Current affairs producer-directors Gesbeen Mohammad and Robin Barnwell, who between them have scooped Emmys, Peabodys and BAFTAs, are launching an indie dedicated to taking on the stories of the year. Sisu Pictures kicks off with two docs airing on the same night in the shape of the BBC’s Iran: The People s Story and Channel [ ]
 
-### Robert Downey Jr. Pedro Pascal Serve MCU Role Reversal For Halloween: Costume Swap!
-Sun, 01 Nov 2026 05:35:33 +0000 — https://deadline.com/2026/10/robert-downey-jr-pedro-pascal-mcu-role-reversal-halloween-1237210827/
+### First-Ever Saturday Night Live International Spin-Off Lands In Korea
+Mon, 02 Nov 2026 09:00:00 +0000 — https://deadline.com/2026/11/saturday-night-live-korea-spin-off-smile-clinic-first-1237209533/
 
-With less than two months left on the Avengers: Doomsday clock, Robert Downey Jr. and Pedro Pascal swapped sides for Halloween. The pair traded off their MCU roles in a paired costume, with Downey dressing as Pascal s character Mr. Fantastic and Pascal as Downey s Dr. Doom, ahead of the movie s Dec. 18 premiere in theaters. [ ]
+EXCLUSIVE: The first-ever spin-off from an international version of Saturday Night Live is landing in Korea. With SNL on something of a roll internationally, SNL Korea digital short The Smile Clinic is to become a 10 x 30-minute sitcom. Emerging from SNL Korea Season 8, the skit takes aim at Korea’s cosmetic dermatology business and [ ]
 
-### Gracie Abrams Channels Baz Luhrmann s Romeo + Juliet For SNL Halloween Performance
-Sun, 01 Nov 2026 05:23:35 +0000 — https://deadline.com/2026/10/gracie-abrams-baz-luhrmann-romeo-juliet-snl-halloween-1237210810/
+### New Japanese Drama Series The Employee Is Smashing Stereotypes About Women In The Workplace, Says NHK Producer
+Mon, 02 Nov 2026 06:00:00 +0000 — https://deadline.com/2026/11/nhk-the-employee-japan-women-in-workplace-stereotypes-1237208248/
 
-As Gracie Abrams celebrated Halloween with Saturday Night Live, she gave viewers a 2-for-1 costume special during her performances. The 2x Grammy nominee channeled Baz Luhrmann s Romeo + Juliet (1996) as she serenaded the Studio 8H live audience, dressing as Leonardo DiCaprio and Claire Danes doomed lovers from the ultra-stylized adaptation of William Shakespeare s tragedy. [ ]
+EXCLUSIVE: A new Japanese drama series is turning stereotypes around women in the workplace on their head, according to one of the top producers at public broadcaster NHK. The Employee launched a fortnight ago and has got Japanese people talking about the double bind women face as they progress up the career ladder, Akiko Ueda, [ ]
 
-### SNL Pays Tribute To Patrick Stewart With Clip From His 1994 Episode
-Sun, 01 Nov 2026 05:11:21 +0000 — https://deadline.com/2026/10/snl-pays-tribute-patrick-stewart-1237210812/
+### Dave Bautista Packs On 20 Pounds Looks A Lot More Like Kratos
+Mon, 02 Nov 2026 04:32:44 +0000 — https://deadline.com/2026/11/dave-bautista-kratos-weight-gain-1237211049/
 
-As the world mourns Patrick Stewart, Saturday Night Live paid tribute to the late former host on this weekend s episode. Before the goodnights, the NBC sketch comedy show played an archive clip of the three-time Oscar nominee introducing musical guest Salt-N-Pepa during a 1994 episode, in addition to sharing one of his promo photos from [ ]
+Ever since Deadline reported he was circling the role of Kratos in Prime Video’s upcoming God of War series, Dave Bautista has been sharing his physical progress transforming himself for the part. (In Greek mythology, which the God of War video game is partially inspired by, Kratos is a god and the divine personification of [ ]
 
-### Milwaukee Brewers Make Surprise Weekend Update Appearance After World Series Win With Returning SNL Alum Bobby Moynihan
-Sun, 01 Nov 2026 04:48:53 +0000 — https://deadline.com/2026/10/milwaukee-brewers-weekend-update-after-world-series-1237210800/
+### ‘The Gilded Age’ Season 4 Star Taissa Farmiga Talks Gladys’ “Intense” First Episode
+Mon, 02 Nov 2026 03:30:00 +0000 — https://deadline.com/2026/11/gladys-birth-the-gilded-age-season-4-taissa-farmiga-1237209819/
 
-Coming off their World Series victory, the Milwaukee Brewers showed off their trophy on Weekend Update with a Saturday Night Live alum. The team s manager Pat Murphy, Christian Yelich and Brice Turang made a surprise appearance on the segment with Bobby Moynihan, who reprised his Drunk Uncle character. Hey, I know you. You re Pete Davidson, [ ]
+SPOILER ALERT: This post contains spoilers for the first episode of The Gilded Age Season 4. Duchess Gladys Russell (Taissa Farmiga) has more challenges to face in Season 4 of The Gilded Age following her arranged marriage to Hector, the Duke of Buckingham (Ben Lamb). The first episode of Season 4 plunges viewers into Gladys’ [ ]
 
-### Inde Navarrette Kicks Off Saturday Night Live Debut With Shane Gillis Quip About Her Little Whore Outfit For Getting Into Marvel Shape
-Sun, 01 Nov 2026 03:58:13 +0000 — https://deadline.com/2026/10/inde-navarrette-snl-debut-shane-gillis-quip-little-whore-outfit-1237210738/
+### Matt Damon David Letterman Make Blink You Missed It Cameos On The Gilded Age Season 4 Premiere
+Mon, 02 Nov 2026 03:10:21 +0000 — https://deadline.com/2026/11/matt-damon-david-letterman-cast-the-gilded-age-season-4-1237211033/
 
-Following her scream queen debut in Obsession, Inde Navarrette flexed her comedy muscle with her Saturday Night Live hosting debut. On this weekend s episode of the sketch comedy show, the actress teased her upcoming MCU role as Rogue in X-Men, noting that she has to get into Marvel shape while making a joke about Shane [ ]
+SPOILER ALERT: The following reveals major plot points from HBO s The Gilded Age s Season 4 premiere. Surprise! The Gilded Age kicked off its fourth season with multiple surprises, including the quiet appearances of Matt Damon and David Letterman. At about 8:33, two gentlemen are crossing the street together, played by Damon and Letterman. Damon is [ ]
 
-### Tom Hanks Returns As David S. Pumpkins For Saturday Night Live Opener Interrupted By Donald Trump s Fear Of A Midterm Ass-Whipping
-Sun, 01 Nov 2026 03:52:52 +0000 — https://deadline.com/2026/10/saturday-night-live-open-tom-hanks-trump-halloween-1237210760/
+### The Gilded Age Stars Harry Richardson And Louisa Jacobson Unpack One Night Shift For Their Characters In Season 4 Premiere
+Mon, 02 Nov 2026 03:10:00 +0000 — https://deadline.com/2026/11/the-gilded-age-larry-marian-sleep-together-season-4-1237210915/
 
-Tom Hanks returned to Saturday Night Live as David S. Pumpkins for a Halloween-themed opener, albeit his skit was suddenly interrupted by Donald Trump (James Austin Johnson) as he implored supporters to try to prevent a potential midterm drubbing. The midterms are on Tuesday, and the polls say we re doing very badly, Johnson s Trump said. [ ]
+SPOILER ALERT: This post spoils the premiere episode of The Gilded Age, Season 4, now streaming. Marian Brooke (Louisa Jacobson) has been quite unlucky in love throughout her time on The Gilded Age, and the Season 4 premiere continues to suggest this may be the case after she reunites with Larry Russell (Harry Richardson). Following [ ]
 
 ## befores & afters
 
@@ -205,12 +205,42 @@ Sat, 31 Oct 2026 15:00:00 +0000 — https://www.indiewire.com/news/events/watch-
 
 At IndieWire's Future of Filmmaking Summit, a panel of executives and representatives explain how they look for breakout hits.
 
-### Watch the Rehearsals for a Revolution Director and Editor Explain How Memories Can Help Fight Authoritarianism
-Fri, 30 Oct 2026 21:14:42 +0000 — https://www.indiewire.com/news/events/watch-rehearsals-for-a-revolution-director-art-of-the-doc-1235224797/
-
-At our Art of the Doc event, director Pegah Ahangurani and editor Arash Ashtiani went deep on one of the year's most acclaimed films.
-
 ## The Wrap
+
+### ‘The Gilded Age’ Bosses Break Down Season 4 Premiere’s Messy Hookup and the Russells’ Tricky Road Ahead
+Mon, 02 Nov 2026 03:00:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/the-gilded-age-season-4-premiere-julian-fellowes-sonja-warfield-interview/
+
+Note: This story contains spoilers from “The Gilded Age” Season 4, Episode 1. “The Gilded Age” returned for another round of high-society chaos, kicking off with a marriage of convenience, a massive tropical storm and more than one character facing potential ruin. Sunday’s Season 4 premiere, titled “Ring the Bells,” reunited viewers with the sprawling ensemble populating this tale of 1880s New York City opulence, introducing plenty of new dynamics and big twists to set up the chaos to come. That started with the wedding of Oscar van Rhijn (Blake Ritson) and Enid Winterton (née Turner) (Kelley Curran), as the duo cemented their platonic partnership: He would use his status and she her means to climb the city’s social ladder and make their own rules. “We like to start with very big openings where we have all of our characters so we can kind of reset for people,” co-showrunner Sonja Warfield told TheWrap. “And there was in fact a tropical storm historically at that time. So we used that to help increase the drama and the stakes.” Blake Ritson and Kelley Curran in The Gilded Age. (HBO) Indeed, the wedding kicked off several sources of tension that will undoubtedly reverberate throughout the season. For the happy couple, their mutual acceptance of each other’s desires and ambitions made the marriage seem like a worthy match. But Oscar’s rejection of Enid’s offer to consummate the marriage in hopes of producing an heir was an early sign of cracks in their otherwise brilliant plan —
+
+### You Can See Everything Helps Surge October Box Office 37% Over Last Year
+Mon, 02 Nov 2026 00:13:21 +0000 — https://www.thewrap.com/creative-content/movies/you-can-see-everything-helps-surge-october-box-office-37-over-last-year/
+
+Three months ago, nobody outside of the offices of A24 knew that You Can See Everything even existed. It was expected that theaters would have to turn to movies like Amazon MGM s Verity and Paramount s Street Fighter to tide them over during what would likely be an autumn slowdown. Instead, Nathan Fielder and Lance Oppenheim s wildly acclaimed documentary has become even more of an unexpected box office boost than Obsession was, even if it isn t reaching the $200 million-plus heights of that summer hit. As it has passed $60 million in domestic grosses in its third weekend, You Can See Everything now stands just outside of the top five highest domestic grossing documentaries of all time, and in the process has become the second-highest grossing film this month behind only Verity with $73.5 million. Without You Can See Everything, the October box office would have reached $530 million. That still would have been a 23.5% increase over the $429 million grossed in October 2025, when the poorly received Tron: Ares was the highest grossing film amidst a deep autumn slump. But with the doc s grosses added, that overall total rises to $590 million with the year-over-year increase rising to 37.5%. It also tops the $556 million of October 2023, the year in which Taylor Swift s The Eras Tour bailed out exhibitors with a $151 million total. Outside of You Can See Everything, very few wide release films have been well received this month. Verity, which was seen as a possible $100 million-p
+
+### Trump Courts Haley Stevens for GOP After Michigan s Democratic Chair Shuts Her Out of Party
+Sun, 01 Nov 2026 22:59:56 +0000 — https://www.thewrap.com/media-platforms/politics/trump-courts-haley-stevens-republican-party-midterms-abdul-el-sayed-rejection/
+
+President Donald Trump wasted no time in courting Michigan Democrat Haley Stevens to change colors to the GOP on Sunday after the congresswoman endorsed Republican Mike Rogers for Senate over her former Democratic opponent Abdul El-Sayed. Steven s defection to Rogers was roundly ridiculed among Democrats on Sunday, with prominent leaders like Chuck Schumer, Nancy Pelosi and Bernie Sanders all denouncing the congresswoman s decision to reject El-Sayed as a betrayal to the party at large. Michigan s Democratic Party Chair Curtis Hertel later announced that Stevens is no longer a current member of the Michigan Democratic Party, nor will she be in the future. The president told reporters Sunday that he called Stevens and thanked her for doing the right thing by endorsing his supporter Rogers, whom she previously criticized as a rubber stamp for Donald Trump’s dangerous agenda. “I’d love to have her,” Trump added when asked if he thinks she should join the Republican Party. The president then handed the spotlight to Speaker Mike Johnson, who said that he d also sent Stevens a note of thanks for her action on Sunday. Q: Do you plan to reach out to Haley Stevens? Trump: Yes, to thank her. Q: Do you think she should be a member of the Republican Party? Trump: I’d love to have her. Johnson: I sent her a note. pic.twitter.com/dF3X4HTgxc &mdash; Acyn (@Acyn) November 1, 2026 I sent her a note and told her how great she was and how much we appreciated that. She’s standing for truth, John
+
+### Adam Brody s Nobody Wants This Mom Addresses Cast Tension After Vocally Dissenting Free Palestine
+Sun, 01 Nov 2026 22:18:03 +0000 — https://www.thewrap.com/creative-content/tv-shows/adam-brody-tovah-feldshuh-nobody-wants-this-free-palestine-tension/
+
+Tovah Feldshuh, Adam Brody s on-screen mother in Netflix s Nobody Wants This, pushed back Saturday on speculation that their public disagreement over Israel and Gaza have led to on-set friction between cast and crew. “Tensions are not rising. Profound differences of opinion are,” Feldshuh wrote in a statement on Threads . “Please do not conflate the two — and none of it will be brought to the set. I deeply enjoy filming NWT and hope we are chosen to go on for a fourth season.” The actress, 77, was responding at the time to a post from Armenian media company Azat TV that claimed, tensions are emerging on the set following public comments by Adam Brody expressing support for a free Palestine and labeling the Gaza conflict a genocide. Earlier in the week, Feldshuh lambasted Brody s public support of Gaza and said his comments were right out of Hitler s playbook. Feldshuh plays Bina Roklov (the mother of Brody’s Rabbi Noah Roklov) on Erin Foster’s Netflix series, and spoke out in an interview with the New York Post against the actor s GQ interview in which he said of the Gaza war, “Put me down as thinking it’s a genocide. Put me down as wanting a free Palestine.” “To accuse the Jewish people of genocide is wild,” Feldshuh said in response. “It’s right out of Hitler’s playbook. You take the victim and you make the victim the perpetrator.” Feldshuh did not mince words in her comments about her on-screen son, stating that it “makes a difference to the (Jewish) community” when accusa
+
+### Martha Stewart Says Halloween Costume Was Meant to Raise Homelessness Awareness Amid Outcry
+Sun, 01 Nov 2026 20:40:59 +0000 — https://www.thewrap.com/culture-lifestyle/culture/martha-stewart-homeless-halloween-costume-explained/
+
+Martha Stewart responded Sunday to outcry over her Halloween costume, in which she dressed as an unhoused person holding a sign reading, I am hungry. Help me!! The lifestyle and media mogul was criticized for the since-deleted image showing her dressed in tattered clothing and frowning, but she explained that it was meant to raise more awareness for homelessness in the United States. “I am distressed that my Halloween costume yesterday, which was intended to bring more awareness to the very serious subject of homelessness, has offended people, which was never my intention,” Stewart said in a statement first obtained by Page Six . “Homelessness continues to remain one of America’s greatest challenges and ongoing crises, something that I care deeply about and I have spent a significant amount of time and effort supporting charities that combat this ongoing social epidemic,” she continued, adding that she is committed to continuing to make a difference. Martha Stewart shared photo seemingly dressed up as a homeless person for Halloween. She has since deleted the post. pic.twitter.com/PzTX1BoDhK &mdash; Pop Base (@PopBase) November 1, 2026 While the photo of her Halloween costume no longer exists on her personal social media pages, critics are still sharing their thoughts online about the decision to dress as an unhoused person at all. Girl you have enough money to raise awareness without turning homelessness into a halloween costume, one user wrote of Stewart under the image. Wh
+
+### Haley Stevens Pulls Plug on Presser While Heckled as Traitor for Endorsing Mike Rogers
+Sun, 01 Nov 2026 19:05:14 +0000 — https://www.thewrap.com/media-platforms/journalism/haley-stevens-endorses-mike-rogers-heckled-traitor-abdul-el-sayed/
+
+Haley Stevens, former Democratic hopeful for Senate in Michigan, pulled the plug on a Detroit press conference alongside Mike Rogers on Sunday after a heckler accused her of being a traitor for endorsing the Republican over Democratic nominee Abdul El-Sayed. The media fiasco came just after Stevens Chief of Staff Justin German and much of the rest of Stevens team resigned and endorsed El-Sayed for Senate, saying in a statement that they feel shocked and heartbroken by Congresswoman Stevens decision to support Mike Rogers. Standing with Rogers in Detroit on Sunday after attending an event at Perfecting Church, Stevens was grilled on her decision to support a candidate who stands so firmly with some of the policies that you stand so firmly against. Well, nothing is perfect, nothing is perfect yeah, Stevens said as a heckler off camera shouted her down. Haley Stevens is a traitor! the unidentified man said. At that, Stevens was hurriedly whisked away with Rogers and stopped answering questions. Wow — a protester yells “Haley Stevens is a traitor!” and Stevens then wraps up her news conference with Mike Rogers in a hurry pic.twitter.com/Wcqgpu2ypI &mdash; Aaron Rupar (@atrupar) November 1, 2026 Tensions have been mounting between El-Sayed and Stevens all week after the congresswoman called on the Democratic nominee to denounce an antisemitic ad that linked U.S. military aid to Israel and prices spiking in the grocery store. The ad came from an outside group, and El-Sayed said he 
+
+### The 3 Best Movies to Watch on Netflix This Week
+Sun, 01 Nov 2026 19:00:00 +0000 — https://www.thewrap.com/creative-content/what-to-watch/best-movies-on-netflix-this-week-nov-1-7/
+
+Netflix has an impressively diverse array of movies streaming on its platform right now. The streamer s best current offerings include a 2003 romantic comedy starring Diane Keaton and Jack Nicholson that has not lost an ounce of its charm in the last 23 years. An early 2020s horror comedy send-up of the high-end culinary world is also streaming on Netflix right now, as is an acclaimed, quietly devastating 2018 drama co-written by East of Eden showrunner Zoe Kazan . Here are the three best movies on Netflix you can watch this week. Something s Gotta Give (Sony Pictures) Something s Gotta Give (2003) Writer-director Nancy Meyers Something s Gotta Give is an opposites-attract romantic comedy for the ages. Jack Nicholson and Diane Keaton lead the film as a lecherous male womanizer and proud female playwright, respectively, who find themselves growing increasingly attracted to each other despite their many differences. Boasting Meyers best screenplay to date, Something s Gotta Give is everything a Hollywood rom-com should be — namely, legitimately funny and wildly romantic. Nicholson and Keaton prove to have crackling comedic and romantic chemistry together onscreen, which only makes the joy of watching two screen legends of their caliber bounce off each other all the more potent throughout Something s Gotta Give. The Menu (Searchlight Pictures) The Menu (2022) 2022 s The Menu is an acid-tongued horror comedy that Netflix subscribers looking for some genre entertainment that isn t
 
 ### Colin Jost s Jaw Hits the Floor Over Michael Che s Israel Genocide Joke on SNL
 Sun, 01 Nov 2026 18:31:54 +0000 — https://www.thewrap.com/creative-content/tv-shows/snl-weekend-update-israel-genocide-joke-colin-jost-michael-che/
@@ -227,90 +257,55 @@ Sun, 01 Nov 2026 17:25:22 +0000 — https://www.thewrap.com/culture-lifestyle/cu
 
 Savannah Guthrie renewed her plea for more information on her mother Nancy s disappearance on Sunday, We ache for her, we cry out for answers, we cannot move forward. We need someone to help us, tell us what you know. The Today host s post came the morning after Halloween and was shared alongside an old drawing from her daughter that shows a rainy day, a lone umbrella and the message, I know it might not seem like it but I really need my mommy. It says so much about how I feel, Guthrie said. The world goes on, things appear normal as we try to keep going and be strong, especially for our young kids but it’s not and it never will be. View this post on Instagram A post shared by Savannah Guthrie (@savannahguthrie) We need someone to help us, tell us what you know, Guthrie continued. Our mom was a light in this world. We want to celebrate her and give her the dignity she deserves. The reward is still available. Please. We are begging you. Please help us. Thank you to all those who have been kind and shown the best of humanity. Join us in praying without ceasing. Nancy Guthrie was last seen on the evening of Jan. 31, when family dropped her off at her Tucson, Arizona, home following a dinner and game night. However, by late-midday on Feb. 1, she was reported missing after she didn’t show up at a friend’s place to watch a virtual church service. Pima County investigators later shared that they believed Nancy was taken against her will. Her security camera, which had been disabled,
 
-### Michael Mann Hospitalized After Shooting Himself in Leg at Gun Range
-Sun, 01 Nov 2026 16:54:43 +0000 — https://www.thewrap.com/creative-content/movies/michael-mann-shoots-himself-hospitalized/
-
-Michael Mann was hospitalized on Saturday afternoon after accidentally shooting himself in the leg at a West Los Angeles gun range. Mann s reps told TMZ , who first reported the accident, that the Heat director suffered superficial injuries when his gun accidentally discharged while he was attempting to holster it. The director, who is an experienced target shooter, has since been treated and released. “On Saturday, at a gun range, a weapon accidentally discharged while holstered resulting in a superficial injury to film director Michael Mann. He was treated and is being released,” Mann’s reps said. The incident occurred at 4 PM on Saturday at The Range L.A. near Sawtelle Japantown, and Mann was stable when LAPD and medics responded to the call. Mann s most recent film was the 2023 biopic Ferrari, which starred Adam Driver as famed car manufacturing legend Enzo Ferrari and Penelope Cruz as his wife, Laura. His other films include Collateral starring Jamie Foxx and Tom Cruise and Manhunter starring William Petersen, Tom Noonan and Brian Cox. The 83-year-old filmmaker is currently working on a sequel to his 1995 hit crime drama Heat, which starred Al Pacino and Robert De Niro. The sequel will see Mann reunite with Driver alongside Leonardo DiCaprio and Christian Bale and will be adapted from a 2022 novel Mann co-wrote with Meg Gardiner. The post Michael Mann Hospitalized After Shooting Himself in Leg at Gun Range appeared first on TheWrap .
-
-### You Can See Everything Narrowly Leads Clayface for First No. 1 at Box Office
-Sun, 01 Nov 2026 15:57:23 +0000 — https://www.thewrap.com/creative-content/movies/you-can-see-everything-narrowly-leads-clayface-for-first-no-1-at-box-office/
-
-It will come down to final Monday totals to determine who took No. 1 at the box office on Halloween weekend, but A24 s You Can See Everything is currently in line to lead the weekend charts for the first time in its run with $10.6 million in its third weekend, just beating the $10.4 million second weekend of Warner Bros./DC Studios Clayface. The buzzy documentary about Elizabeth Holmes was No. 2 on the charts in previous weekends behind Clayface and Paramount s Street Fighter. But its critical acclaim and overwhelming word-of-mouth have pushed it to an estimated $63.9 million domestic total, currently sixth among all documentaries in U.S./Canada history. While its 43% drop from its $19.5 million second weekend likely means it will not join Michael Moore s Fahrenheit 9/11 as the second non-music or nature doc to clear $100 million domestic, it is still a remarkable performance that has made You Can See Everything the second-highest grossing film this month, pushing overall grosses for October up 32% year-over-year to $570 million and above the $556 million of October 2023, the month that brought theaters Taylor Swift: The Eras Tour. Clayface, meanwhile, stands at $44 million domestic and $83 million worldwide after 10 days against a reported $40 million budget. At this pace, the DC film will not pass the $241 million global total of Wuthering Heights to become the highest grossing film of Warner Bros. terrible 2026. But it should still be a modest theatrical success and provid
-
-### Inde Navarrette Takes a Swipe at Shane Gillis in ‘SNL’ Monologue
-Sun, 01 Nov 2026 04:25:52 +0000 — https://www.thewrap.com/creative-content/tv-shows/snl-inde-navarrette-monologue-shane-gillis-joke-womens-gym-clothes/
-
-Obsession star Inde Navarrette came out swinging in her debut Saturday Night Live monologue by taking a swipe at previous host Shane Gillis over his controversial joke about women dressing like whores at the gym. During her monologue, Navarrette addressed her casting as the iconic comic book mutant Rogue in Marvel Studios first-ever X-Men film. Navarrette officially joined the film s cast this past summer and noted Saturday night that she has been busy getting in superhero shape ever since. I know it’s really important for Marvel that you get really fit, so I’ve been working out a lot, the actress said. Every morning, I put on my little whore outfit and I hit the gym. Navarrette s SNL joke came three weeks after Gillis hosted the NBC sketch comedy series Oct. 10, 2026 episode. During his monologue that night, which marked Gillis third time hosting SNL, he made waves with a joke criticizing how women dress at the gym . I haven’t been to the gym in so long, I didn’t know women just dress like whores now. Look, I’m sorry, there’s no other way to describe [it]. Have you seen it? I’ve seen it. You’ve seen the shorts? Gillis said. And don’t look! You’re not allowed to look, he continued, adding, For real! Don’t look, ‘cause they are filming. The joke was widely criticized online as sexist. Schitt s Creek star and creator Dan Levy posted an Instagram video denouncing Gillis bit and criticizing SNL for platforming it in the first place. Women wearing short shorts at the gym does not 
-
-### ‘SNL’: Trump Crashes Tom Hanks’ David Pumpkins Return in Cold Open
-Sun, 01 Nov 2026 03:45:06 +0000 — https://www.thewrap.com/creative-content/tv-shows/snl-cold-open-trump-david-pumpkins-tom-hanks/
-
-President Trump (James Austin Johnson) crashed Tom Hanks triumphant(?) return as David S. Pumpkins in tonight s Saturday Night Live cold open, asking viewers, Oh, are you sad you don t get to see your third David Pumpkins scene? A pair of visitors (Grace Reiter and Jeremy Culhane) to the Tombs of Doom were treated first to a Monster -inspired exhibit featuring SNL star Jane Wickline as Lizzie Borden and Sarah Sherman as her beheaded victim. Things quickly went off the rails, though, when Hanks Pumpkins appeared next. The ineffective scare worker, who first appeared in an SNL sketch 10 years ago, was flanked as always by two skeletons played by Mikey Day and in a surprise return Bobby Moynihan. Unfortunately, while Hanks was able to get one jump scare and dance in, he was quickly interrupted by Johnson s Trump. Boom! It s me, Donald Trump, your one true God, pausing an SNL skit yet again. Oh, are you sad you don t get to see your third David Pumpkins scene? the president asked. I ll save you four minutes. He keeps popping up and confusing the people on the ride. The end. You know, I actually have a lot in common with Mr. Pumpkins, Johnson s Trump subsequently noted. We both appeared in 2016. We re both very loud, very orange and very, frankly, annoying. But we love Tom Hanks. Look at him back there. Good acting, great ass. It s a great ass on Hanks. That s something I ve been doing lately. Admiring men s asses . history’s most heinous, homicidal haunts https://t.co/udeRgaZLhw 
-
-### The 7 Best New Movies on Paramount+ in October
-Sun, 01 Nov 2026 00:00:00 +0000 — https://www.thewrap.com/creative-content/what-to-watch/best-movies-paramount-october-2026/
-
-Paramount+ added a bunch of great movies to their library in October but a few really stood out. The streamer added a glut of horror films to the streamer in October just in time for the Halloween season. But they didn t stop there, with some stellar comedies and even a couple non-traditional comic book adaptations being added to the list. But with every one of these monthly drops, there are a few titles that either scream for a rewatch or mark the perfect time to finally settle in and watch for the first time. From a pair of Stephen King adaptations to an all-time road trip comedy, these are the movies to dive into that were added in October 2026. Maika Monroe in It Follows (Radius-TWC) It Follows It Follows captures one of the great human fears – being relentlessly pursued. The film follows ( zing ) a woman who contracts a horrific STD that manifests a monster that slow walks toward you at all times and if it catches you, it kills you. The only way to get rid of it is by passing it on to another. The constant slow-walking and the dread of knowing the entity was getting closer to you creates a real slow-burn dread that permeates through the film s runtime. It s a tense 100 minutes and prime for a rewatch. (And don t even get us started on the A+ score the film is set to.) Ewan McGregor in Doctor Sleep (Warner Bros.) Doctor Sleep “Doctor Sleep” deserved more love than it got. “The Shining” is one of Stephen King’s most iconic novels, and the Stanley Kubrick adaptation is equa
-
-### The 9 Best Halloween Movies on Hulu Right Now
-Sat, 31 Oct 2026 22:00:00 +0000 — https://www.thewrap.com/creative-content/movies/9-best-halloween-movies-hulu-2026/
-
-This is the week for horror fanatics to sit back and watch movies to their hearts content. Whether you re chilling at home or headed to a get-together, it s good to have a few horror flicks that are currently streaming in your back pocket. Right now, Hulu has a delightfully frightening set of options, including some of the best scary movies ever made. Here are the nine best Halloween movies on Hulu right now. (Credit: 20th Century) The Fly David Cronenberg s The Fly is one of the best films on Hulu, full stop. The 1986 creature feature is a masterpiece of the body horror subgenre, marking some of the best work of Cronenberg, Jeff Goldblum and Geena Davis respective careers. Just as heartbreaking as it is disgusting, the film remains a disgusting and emotional watch to this day. If you re already a fan of The Fly and looking for more body horror to stream, be sure to check out Emilie Blichfeldt s The Ugly Stepsister , also streaming on Hulu. This film, nominated for Best Makeup and Hairstyling at the 2026 Academy Awards, is both gorgeous and gruesome with some jaw-dropping gross-out effects. It s a disgusting delight. (Credit: A24) Hereditary Ari Aster s Hereditary became an almost immediate horror classic, one of the most influential films of the genre this century. Aster knows how to make you fear dark corners of cluttered rooms and things that go bump in the night, imbuing every frame of the film with utter dread. It s a masterfully directed film with a performance from Ton
-
-### The Gen Z Horror Canon: 10 Scary Movies That Mean the Most to Zoomers
-Sat, 31 Oct 2026 21:45:00 +0000 — https://www.thewrap.com/creative-content/movies/gen-z-horror-canon-top-10-scary-movies/
-
-Every generation has its beloved horror movies. In 2026, some of Gen Z’s future favorites have finally started to take shape. It’s an impossible task to distill a whole generation s interests and sensibilities into a mere list of 10 films. But as someone who counts themselves among their number, this reporter has started to notice over the years what horror flicks have really taken root for Zoomers — the films that feel pivotal to the demographic s perception of horror. So what makes a horror movie a part of the Gen Z canon? That’s hard to narrow down. Maybe the movie actually comes from a young filmmaker. Maybe it simply arrived at an important time for the turn-of-the-century gen. Maybe it comes from an older filmmaker but speaks to themes and anxieties that are distinctly modern. It’s also not just a measure of quality (“ Sinners ” is a masterpiece that feels like it transcends generation) or box office (though “Longlegs” came close). It’s just a feeling that these films will be uniquely important to horror Hollywood’s next class. With that being said, here are 10 movies from the Gen Z horror canon: Backrooms (Credit: A24) Backrooms The past decade has seen the rise of the liminal space subgenre of horror, focusing on settings that feel close to our own reality but spookily off . The posterchild for this haunted house offshoot is Backrooms — merely a collection of scary stories, fluorescent-tinted photos and found footage YouTube videos on the Internet before Kane Parsons 
-
 ## Collider
 
-### Apple TV’s 6-Year Legal Battle With M. Night Shyamalan Officially Ends
-Sun, 01 Nov 2026 18:30:12 GMT — https://collider.com/servant-lawsuit-dismissed-apple-tv-m-night-shyamalan/
+### 10 Best George R.R. Martin Books of All Time, Ranked According to Goodreads
+Mon, 02 Nov 2026 12:38:12 GMT — https://collider.com/best-george-r-r-martin-books-ranked-goodreads/
 
-Like many businesses, Hollywood faces legal challenges. Courts regularly hear cases involving working conditions, breach of contract, and even intellectual property rights. Many shows have faced legal trouble after someone sues for intellectual property theft. Massive hits like The Pitt , Yellowstone , and P-Valley have been engaged in years-long battles after being accused of stealing concepts from other creatives. Many of these cases take years to resolve, and in 2020, Apple TV and M. Night Shyamalan found themselves engaged in a legal fight over Servant .
+George R.R. Martin is perhaps the preeminent titan of contemporary fantasy. His A Song of Ice and Fire books captured the world's imagination like nothing since the heyday of Harry Potter . Despite the lackluster conclusion to the Game of Thrones show, House of the Dragon is still very popular, and HBO is currently developing a host of spinoffs. People can't get enough of Martin's grittier, bloodier, more morally gray take on the genre's beloved tropes.
 
-### Apple TV’s ‘Neuromancer’ Opens the Door to a Much Bigger Sci-Fi Universe
-Sun, 01 Nov 2026 18:11:12 GMT — https://collider.com/apple-tv-neuromancer-sci-fi-universe-sprawl-trilogy-count-zero-mona-lisa-overdrive/
+### The 10 Greatest Epic War Movies of the Last 100 Years, Ranked
+Mon, 02 Nov 2026 12:31:12 GMT — https://collider.com/best-epic-war-movies-last-100-years-ranked/
 
-Apple TV is bringing one of the most beloved science fiction novels of all time to life with Neuromancer — premiering on January 22, 2027 — but it doesn't have to end there. Author William Gibson wrote two sequels to Neuromancer immediately after its publication: Count Zero in 1986 and Mona Lisa Overdrive in 1988. Together these three books are known as the Sprawl Trilogy , named after the most distinctive feature in the futuristic setting Gibson created here. There's one more story set in the world of the Sprawl as well, "Burning Chrome," first published in 1981. Each of these works is just as compelling as Neuromancer itself , but adapting them all to TV won't be easy. The connections between these stories are loose, and audiences might feel a bit lost by the changes in between.
+War is one of those horrific things that should never have to occur in reality but which makes for undeniably compelling films — put it right up there with serial killers and the apocalypse. There's no denying that the violence and destructive nature of war can make for visceral and technically impressive viewing, whether the films want to grapple with the psychological and political implications of it or not. War is hell, but war movies are monuments of filmmaking .
 
-### 5 Nintendo Masterpieces That Deserve an 'Ocarina of Time'-Style Remake
-Sun, 01 Nov 2026 18:03:12 GMT — https://collider.com/nintendo-masterpieces-that-deserve-a-remake/
+### 8 Miniseries That Are Nearly Perfect, Ranked
+Mon, 02 Nov 2026 12:25:12 GMT — https://collider.com/nearly-perfect-miniseries/
 
-The Legend of Zelda: Ocarina of Time remake launches on Nintendo Switch 2 on November 5, and it might be the biggest remake in gaming history. Nintendo rebuilt its 1998 masterpiece from the ground up, adding full voice acting, revamped controls, quality-of-life fixes, and an ocarina you can play by humming into the console's microphone. It also brings a gorgeous visual upgrade that makes it the best-looking game on the Nintendo Switch 2 .
+A good miniseries usually announces itself fast. You put on the first episode half expecting to bail, and about twenty minutes in you’re already texting a friend to say start watching this with me. That happened with every show on this list, and most of them took me a weekend or less to finish.
 
-### Fast & Furious Movies Officially Exit Streaming Ahead of Franchise Finale
-Sun, 01 Nov 2026 18:00:12 GMT — https://collider.com/the-fast-and-furious-movies-leaving-netflix-october-2026/
+### The 5 Greatest Movies of the Last 6 Months, Ranked
+Mon, 02 Nov 2026 12:20:12 GMT — https://collider.com/greatest-movies-last-6-months-ranked/
 
-Few action franchises have been around as long and produced as many hits as Fast & Furious , which started as a drag-racing series back in the early 2000s. Fast-forward over 25 years, and now the franchise has become something much more ambitious, with blockbusters going as far as to take cars into space. It’s been over three years since the last Fast & Furious movie, Fast X , was released in theaters, and there are still many months until Fast Forever arrives on the big screen on March 17, 2028. Details about the film are being kept under wraps for now, but with Dwayne Johnson , Jason Statham , and a host of other stars confirmed to return, it’s expected to be quite the swan song. The film has plenty of hurdles to overcome before it hits the finish line, though.
+The calendar year of 2026 has proven to be extraordinary in the world of movies . From extraordinary science fiction masterpieces to instant animated classics, movie lovers have been given everything and more. While we await the highly anticipated award season showdowns, we can honor some of the greats that might be in that coveted conversation .
 
-### ‘Zootopia 3’ Will Officially Expand the Franchise in a New Direction
-Sun, 01 Nov 2026 17:48:18 GMT — https://collider.com/zootopia-3-story-update-birds-release-window/
+### 97 Years Later, This Sherlock Holmes Quote Still Defines the Franchise
+Mon, 02 Nov 2026 12:02:12 GMT — https://collider.com/sherlock-holmes-best-quote-mystery-series/
 
-Zootopia ’s city planners had a difficult enough assignment accommodating giraffes and mice in the same neighborhood. The result is a metropolis where the infrastructure is as much a part of the appeal as the animals using it . Every district invites another question about how this place works, and every new species makes the answer more complicated within Disney's fantastical animal world.
+Sherlock Holmes is a character who simply won’t go away , with the 139-year-old consistently being revisited and reimagined in media adaptations, from 1900's silent short film Sherlock Holmes Baffled to a recently-announced project , with the working title Animated Sherlock , which will see the famed detective in an animated series aimed at an adults-only audience, currently in production. That comes in a year that has already seen the Sherlock-adjacent third installment of Netflix's Enola Holmes and Prime Video's Young Sherlock , developed by Guy Ritchie , the man behind 2009's Sherlock Holmes and its follow-up, Sherlock Holmes: A Game of Shadows . These projects have generated a number of memorable quotes ( including this one ), but only one, first uttered in 1929, still defines the character to this day: "Elementary, my dear Watson."
 
-### Jennifer Lawrence’s R-Rated 'Black Widow' Replacement Officially Debuts on HBO Max
-Sun, 01 Nov 2026 17:31:12 GMT — https://collider.com/jennifer-lawrence-red-sparrow-streaming-hbo-max-november-2026/
+### The 10 Best Swords in Middle-earth, Ranked by Power
+Mon, 02 Nov 2026 11:32:12 GMT — https://collider.com/best-swords-lord-of-the-rings-ranked-power/
 
-With the sixth season of Apple TV’s Slow Horses having recently wrapped up and the second season of Netflix’s Black Doves around the corner, the appetite for sleek spy thrillers is high. Now, another espionage thriller has been added to the HBO Max library, more than eight years after its theatrical release. The movie in question was a solid hit in theaters, having been released during the peak of its star’s popularity. It received mostly mixed reviews , which limited its broad appeal. The movie was based on a trilogy of novels by a former CIA officer, which means that it could have spawned a franchise had it been more successful at the box office, or better received by critics.
+J. R. R. Tolkien's Legendarium is one of the most beloved and detailed secondary worlds in the entirety of the fantasy genre. Drawing deeply from real history, mythology, and his Catholic faith, Tolkien created a sprawling mythos that detailed the creation of the world of Arda and the numerous factions, both good and evil, that would call it home. The most famous parts of the legendarium, The Lord of the Rings , became so influential that nearly every modern fantasy series has been inspired by it one way or another.
 
-### The 6 Best Superhero Movies of 2019, Ranked
-Sun, 01 Nov 2026 17:23:12 GMT — https://collider.com/best-superhero-movies-2019-ranked/
+### Jason Statham's Biggest Sci-Fi Double Feature Officially Swims Onto HBO Max
+Mon, 02 Nov 2026 11:00:12 GMT — https://collider.com/jason-statham-meg-2-trench-streaming-hbo-max-november-2026/
 
-Ever since superhero films have become the talk of the town in cinema, they've taken audiences on quite a rollercoaster ride. By the time of the year 2019, things like the Marvel Cinematic Universe had reached the end of their first big saga, DC Comics was making big changes to their game plans, and the animated superhero film space was nothing to be messed with, either.
+2026 hasn't been too kind to Jason Statham at the box office, with Mutiny grossing approximately $30 million worldwide on a budget of roughly $40 million, and Shelter raking in only $56 million after a $50 million budget. However, Statham is sure to return to box office glory when The Beekeeper 2 lands in January 2027 ; the original made a whopping $126 million on a $40 million budget. Additionally, Statham has always found massive success on streaming , with underdogs including Operation Fortune: Ruse de Guerre and A Working Man finding plenty of viewers at home. Now, a classic Statham double feature is swimming back onto streaming, and sure to take a bite out of the competition.
 
-### Most Likely to...? With the Cast of Hunger Games: Sunrise on the Reaping!
-Sun, 01 Nov 2026 17:12:54 GMT — https://collider.com/video/most-likely-to-with-the-cast-of-hunger-games-sunrise-on-the-reaping/
+### The 15 Best Epic Animated Movies, Ranked
+Mon, 02 Nov 2026 10:11:12 GMT — https://collider.com/best-epic-animated-movies-ranked/
 
-Joseph Zada (Haymitch Abernathy), Mckenna Grace (Maysilee Donner), Whitney Peak (Lenore Dove Baird) and Ben Wang (Wyatt Callow) get cheeky with it and assign superlatives to their castmates.
+Epic films are among the best examples of cinema's power. These grand movies offer cinematic reinterpretations of the past and make the most of their available technology to create a truly one-of-a-kind experience. Though they usually focus on visual spectacle, many epics also have equally grand characters, stories, and themes.
 
-### Forget ‘Hacks,’ This 2-Season Dark Comedy Is So Good, You’ll Finish It in a Day
-Sun, 01 Nov 2026 17:07:12 GMT — https://collider.com/hacks-replacement-dark-comedy-series-back-to-life/
+### Forget 'Saving Private Ryan,' This World War II Movie Is the Perfect Replacement
+Mon, 02 Nov 2026 10:09:12 GMT — https://collider.com/bridge-on-the-river-kwai-saving-private-ryan-replacement-streaming-youtube-november-2026/
 
-Earlier this year, on May 28, 2026 , the beloved HBO Max series Hacks came to an end after five Emmy-winning series. Since then, while Jean Smart 's Deborah Vance will continue to live on in TV history, viewers of the show are undoubtedly looking for a new comedy show to fill the same gap. Among their options is Showtime's Back to Life , a 2019 dark comedy that, much like Hacks , is all about second chances.
+Just a couple of years before he fully redefined the cinematic epic with his 1962 World War I biopic Lawrence of Arabia , David Lean (along with producer Sam Spiegel ) offered audiences another epic, this one set in the Pacific theater of World War II. His 1958 film Bridge on the River Kwai could have been a proto- Great Escape , a movie about daring men breaking out of their harsh conditions. The story, about British and American prisoners of war in a Japanese camp, would seem to demand it, and a decent chunk of the movie does revel in some heroic moments of adventure. But at its best, it’s something much stranger — a story of obsession, corruption, and even British supremacist thought. Much like Lawrence of Arabia , it sits in the uneasy space between lionizing the hypothetical heroes and examining them with more psychological depth.
 
-### Forget 'Game of Thrones,' Prime Video’s New Fantasy Series Is Ready To Be a Streaming Hit
-Sun, 01 Nov 2026 16:54:12 GMT — https://collider.com/fourth-wing-prime-video-fantasy-series-game-of-thrones/
+### The Biggest Horror Movie of 2026 Is Officially Ready to Scare Netflix
+Mon, 02 Nov 2026 10:00:12 GMT — https://collider.com/curry-barker-obsession-streaming-netflix-november-2026/
 
-Look out, Westeros, because Prime Video is coming to claim the title of TV’s next big, fire-breathing obsession with its upcoming adaptation of Rebecca Yarros ’s viral fantasy series, Fourth Wing . The streamer’s planned entry into the romantasy landscape is an action-packed epic that pairs those ancient winged beasts small-screen audiences seem addicted to these days with the kind of thrilling danger and cutthroat politics that make for the most watchable prestige dramas of the moment. But the biggest difference? The dragons here aren’t set dressing; they’re intelligent, unpredictable, and occasionally lethal, and survival often depends on keeping them from roasting you alive. At the center of the story (its book form, at least) is Violet Sorrengail ( Esther McGregor ), a reluctant cadet whose sharp mind may be her only advantage in a brutal military academy where the cost of mistakes is measured in ashes – usually, your own. Add forbidden romances, rival factions scrambling for dominance, and a world teetering on the edge of chaos, and you have a series primed to turn a curious weekend watch into a multi-season commitment .
+Inde Navarrette is a name everyone will know by 2027, if they don't already. The horror genre's newest final girl hosted Saturday Night Live on Halloween, and is set to join the Marvel Cinematic Universe as Rogue in the upcoming X-Men reboot . She will star alongside Samara Weaving as Emma Frost , Sadie Sink as Jean Grey , Christopher Abbot as Professor X, Adam Driver as Mr. Sinister, and Kit Connor as Cyclops . As fans eagerly obsess over Navarrette's next career move, the film that launched her to stardom is about to find a new streaming home.
 

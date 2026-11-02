@@ -1,6 +1,21 @@
-# Games — harvested 2026-11-01T18:33:44.543Z
+# Games — harvested 2026-11-02T12:51:46.730Z
 
 ## Eurogamer
+
+### "We're doing great," says id Software boss, despite losing "about half of our studio" amid devastating Xbox cuts
+Mon, 02 Nov 2026 12:12:11 +0000 — https://www.eurogamer.net/id-software-doing-great-losing-half-the-studio
+
+Iconic Doom and Quake developer id Software was among the most heavily impacted Microsoft-owned studios during Xbox CEO Asha Sharma's devastating business "reset" earlier this year, with around 136 employees reportedly losing their jobs. Read more
+
+### Soulframe to launch into free open beta this week, as Warframe devs go head-to-head with WoW: Forever
+Mon, 02 Nov 2026 11:17:46 +0000 — https://www.eurogamer.net/soulframe-open-prelude-date-verse-of-the-veillands
+
+Soulframe's Preludes (its own version of a beta) is finally opening its doors to the whole world ahead of the Verse of the Veilands update. Starting this week, anyone who wants to can simply download the game and hop in, no invite required. Read more
+
+### Phantom Blade Zero is Steam's biggest launch of the year so far, selling over 4 million copies in three days
+Mon, 02 Nov 2026 09:24:45 +0000 — https://www.eurogamer.net/phantom-blade-zero-4-million-copies-steam-biggest-launch
+
+Phantom Blade Zero studio S-Game has announced that its debut title has sold more than 4m copies in its first 72 hours on sale. The game's official X account broke the news alongside a celebratory message, though without providing a per-platform breakdown of copies sold. Read more
 
 ### At Dead of Night sequel The Great Hugo is coming "(very) soon"
 Sun, 01 Nov 2026 18:16:20 +0000 — https://www.eurogamer.net/at-dead-of-night-2-the-great-hugo-sequel-announced
@@ -47,30 +62,73 @@ Sat, 31 Oct 2026 14:39:25 +0000 — https://www.eurogamer.net/final-fantasy-14-e
 
 Final Fantasy 14 's next expansion, Evercold, will launch on 23rd February 2027, and its second new job is zephyr, a physical ranged DPS that fights with a crossbow and a bird. Read more
 
-### Silent Hill: Townfall adds new Hard difficulty in latest update
-Sat, 31 Oct 2026 13:53:19 +0000 — https://www.eurogamer.net/silent-hill-townfall-hard-mode-update
-
-Silent Hill: Townfall has added a new Hard difficulty mode and rebalanced every existing setting to make room for it. Read more
-
-### A former volunteer is threatening legal action against fan-made game project Skyblivion
-Sat, 31 Oct 2026 13:21:03 +0000 — https://www.eurogamer.net/skyblivion-former-volunteer-legal-threats
-
-A former volunteer is threatening legal action against Skyblivion, the long-running fan remake of Oblivion built in Skyrim's engine, over code they contributed to the project. Read more
-
-### Silver Pines is a great survival horror throwback with an unexpected Metroidvania twist, but it makes me glad the genre's moved on
-Sat, 31 Oct 2026 10:00:00 +0000 — https://www.eurogamer.net/silver-pines-now-playing
-
-It's those bloody typewriters all over again. Developer Wych Elm Games' Silver Pines is fantastic in a whole bunch of ways, from its woozy small-town ambience to its mix of taut survival horror and exploratory Metroidvania. But from the very first moment I saw its save system, its please-insert-coin phone box demands, I knew our relationship was going to be a fractious one. Read more
-
 ## GamesIndustry.biz
 
-_Nothing in the last 48 hours._
+### Among Us VR co-developer Schell Games announces second round of layoffs this year
+Mon, 02 Nov 2026 11:51:05 +0000 — https://www.gamesindustry.biz/among-us-vr-co-developer-schell-games-announces-second-round-of-layoffs-this-year
+
+VR developer Schell Games has announced a second round of layoffs this year. Read more
+
+### Gang of Dragon developer Nagoshi Studio shutters months after NetEase cut funding
+Mon, 02 Nov 2026 10:00:16 +0000 — https://www.gamesindustry.biz/gang-of-dragon-developer-nagoshi-studio-shutters-months-after-netease-cut-funding
+
+Gang of Dragon developer Nagoshi Studio has been closed after NetEase withdrew funding earlier this year. Read more
+
+### A vital message to people in HR: "Protecting our own wellbeing is paramount"
+Mon, 02 Nov 2026 09:00:00 +0000 — https://www.gamesindustry.biz/a-vital-message-to-people-in-hr-protecting-our-own-wellbeing-is-paramount
+
+Sarah Venables, an experienced HR veteran of 25 years, opened her keynote at the GamesIndustry.biz HR Summit with a story. It was a personal story, one of how she realised she had reached her lowest moments. Read more
 
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Sony Fighting GTA 6 PS5 Piracy with New Firmware Demands
+Mon, 02 Nov 2026 12:45:00 GMT — https://www.pushsquare.com/news/2026/11/sony-fighting-gta-6-ps5-piracy-with-new-firmware-demands
+
+Today's new PS5 firmware reportedly required. PlayStation appears to be taking absolutely no risks, as it closes in on the launch of GTA 6 for its platform while fending off PS5 jailbreak, piracy, and hacking attempts. From the start of last month, hackers began cracking the PS5 firmware via AI tools on firmware v7.00 through v13.60. In response, Sony has issued multiple PS5 firmware updates to cut down on potential emulators for the current-gen box going forward. Read the full article on pushsquare.com
+
+### Housemarque Issues Saros PS5 Patch for Bug Fixes, Update Out Now
+Mon, 02 Nov 2026 12:30:00 GMT — https://www.pushsquare.com/news/2026/11/housemarque-issues-saros-ps5-patch-for-bug-fixes-update-out-now
+
+We're on version 02.000.003 now. Here's a quick one: Saros developer Housemarque has today updated the PS5 exclusive and issued version 02.000.003, available to download now. It's a very simple set of patch notes that predominantly focuses on bug fixes, like issues in the Overlord Rush mode and problems affecting Trophy unlocks. Perhaps the most interesting note in relation to changing when the Saros: Zenith splash screen appears. Read the full article on pushsquare.com
+
+### Guide: These 28+ PS5 and PS Plus Games Are Coming Out This Week (2nd-8th November)
+Mon, 02 Nov 2026 12:15:00 GMT — https://www.pushsquare.com/guides/these-28plus-ps5-and-ps-plus-games-are-coming-out-this-week-2nd-8th-november
+
+Godzilla: Destroy All Monsters! CRYMELIGHT! Zero Parades! We’re fast approaching the GTA 6 evacuation zone, so expect the number of new releases to dip dramatically in November. There are some noteworthy titles this time, though, with highlights including the PS5 version of Zero Parades as well as Alice in Wonderland roguelite CRYMELIGHT . Read the full article on pushsquare.com
+
+### Soon Playable on PS5, Nubby s Number Factory Is the Strangest Roguelike You ll See Today
+Mon, 02 Nov 2026 12:00:00 GMT — https://www.pushsquare.com/news/2026/11/soon-playable-on-ps5-nubbys-number-factory-is-the-strangest-roguelike-youll-see-today
+
+Give it a Trophy. Sometimes, a game will crop up that I really want to write about, but can't because it's not available on PlayStation. Nubby's Number Factory is one of those games. Originally released on PC in March 2025, this bizarre little roguelike is so up my street, and I'm very pleased to be able to say it's heading to Sony's systems in the future. Read the full article on pushsquare.com
+
+### Feature: Last Chance to Buy These 50+ PS5, PS4 Games in PS Store s Planet of the Deals Sale
+Mon, 02 Nov 2026 11:30:00 GMT — https://www.pushsquare.com/features/last-chance-to-buy-these-50plus-ps5-ps4-games-in-ps-stores-planet-of-the-deals-sale
+
+Recommended games going cheap. Planet of the Deals is the PS Store's latest sale, but it's not around much longer, ending on 4th November, 2026. As always, there are thousands of PS5 and PS4 games on offer, and that's an awful lot of potential purchases to scroll through. Read the full article on pushsquare.com
+
+### Yakuza Creator s Gang of Dragon PS5 Game and New Studio Officially Dead
+Mon, 02 Nov 2026 11:00:00 GMT — https://www.pushsquare.com/news/2026/11/yakuza-creators-gang-of-dragon-ps5-game-and-new-studio-officially-dead
+
+Dissolved days ago on 31st October. Gang of Dragon , the Yakuza -esque title Toshiro Nagoshi planned to make with a newly set-up developer under NetEase, will never see the light of day. Nagoshi Studio has now officially been closed, as of 31st October 2026. This news had been expected for some time, as reports dating back to March 2026 detail publisher NetEase pulling its funding . The game had only been revealed a few months prior at The Game Awards . Now we know for sure the studio and PS5 game are both gone, as a notice has appeared in the Japanese government gazette Kanpo (via Gematsu ). Read the full article on pushsquare.com
+
+### Phantom Blade Zero Is an Instant Hit with 4 Million Sales on PS5, PC
+Mon, 02 Nov 2026 10:30:00 GMT — https://www.pushsquare.com/news/2026/11/phantom-blade-zero-is-an-instant-hit-with-4-million-sales-on-ps5-pc
+
+Milestone achieved in just three days. Phantom Blade Zero sold over four million copies during its first three days on the market across PS5 and PC, studio S-GAME has announced. Having released on 29th October 2026, the new action game achieved the milestone by the end of the weekend. "Thank you everyone from the bottom of our hearts for all the love and support," the developer said on social media. Read the full article on pushsquare.com
+
+### New PS5 Firmware Update Available Now as Sony Cracks Down on Jailbreaks
+Mon, 02 Nov 2026 10:00:00 GMT — https://www.pushsquare.com/news/2026/11/new-ps5-firmware-update-available-now-as-sony-cracks-down-on-jailbreaks
+
+What does version 26.07-14.22.00 do? Sony has released another system software update for PS5, hot on the heels of the last one from less than a fortnight ago. Version 26.07-14.22.00 is available to download and install now, and the singular patch note makes it fairly clear what it's targeting: Read the full article on pushsquare.com
+
+### Fortnite s Pirate Shop Unlocks the Entire Item Shop for Free
+Mon, 02 Nov 2026 00:00:00 GMT — https://www.pushsquare.com/news/2026/11/fortnites-pirate-shop-unlocks-the-entire-item-shop-for-free
+
+Battle Royale tops five million concurrent players. In case you haven’t been paying attention, Fortnite is running a pirate-themed season with One Piece crossover content available right now. But the big news is the discovery of a Pirate Shop , which makes the entire Item Shop free for two weeks. If you’re running in a squad, then everyone on your team gets the reward. Read the full article on pushsquare.com
 
 ### Hardware Review: SCUF Omega PS5 Controller - No-Frills Pro Controller Doesn t Do Much to Impress
 Sun, 01 Nov 2026 14:00:00 GMT — https://www.pushsquare.com/features/hardware-review-scuf-omega-ps5-controller-no-frills-pro-controller-doesnt-do-much-to-impress
@@ -87,118 +145,120 @@ Sun, 01 Nov 2026 13:00:00 GMT — https://www.pushsquare.com/news/2026/11/hoyove
 
 New cosy game picks Nintendo. HoYoverse is undoubtedly gunning for the Animal Crossing audience with its next title Petit Planet , so it’s perhaps no surprise to see the Chinese dev focus on Switch 2 with its upcoming cosy title. However, it’s noteworthy as the juggernaut Chinese dev has brought practically all of its releases to Sony’s system since Genshin Impact – the ginormous open world RPG which launched during the peak of the pandemic in 2020. Read the full article on pushsquare.com
 
-### Rumour: Alleged Persona 1 Remake Gameplay Leaks Online
-Sun, 01 Nov 2026 01:00:00 GMT — https://www.pushsquare.com/news/2026/11/rumour-alleged-persona-1-remake-gameplay-leaks-online
-
-But is it real? Atlus apparently can’t keep a secret. Alleged footage of a Persona 1 Remake has emerged online, although in this age of AI generated content it’s incredibly difficult to ascertain whether this is legit or not. Read the full article on pushsquare.com
-
-### Rumour: Days Gone Dev to Announce and Launch New PS5 Game in 2027
-Sun, 01 Nov 2026 00:00:00 GMT — https://www.pushsquare.com/news/2026/11/rumour-days-gone-dev-to-announce-and-launch-new-ps5-game-in-2027
-
-Third-person game with co-op, it's reported. Bend Studio, the first-party team best known for Days Gone , plans to reveal and potentially even release its next game in 2027. That's according to a new MP1st report , which shares more details on the project. The outlet claims an announcement will take place next year and it's "much further along in development" than you might think, so much so that Bend Studio is also planning to release it in 2027. Read the full article on pushsquare.com
-
-### Poll: Are You Happy with Your PS Plus Essential Games for November 2026?
-Sat, 31 Oct 2026 18:00:00 GMT — https://www.pushsquare.com/features/poll-are-you-happy-with-your-ps-plus-essential-games-for-november-2026
-
-Plus or minus? November's PS Plus Essential games were revealed earlier this week, and I think it's quite an interesting selection. That's because all three games offer something completely different. We've got a fairly big-name headliner, a collection of remastered adventures, and a highly-rated indie on our hands. Read the full article on pushsquare.com
-
-### Meet Marvel Tokon s Newest Fighting Soul in Full Phoenix Cyclops Character Guide
-Sat, 31 Oct 2026 15:15:00 GMT — https://www.pushsquare.com/news/2026/10/meet-marvel-tokons-newest-fighting-soul-in-full-phoenix-cyclops-character-guide
-
-Sweet Scott Summers child. Ahead of his release next week on 2nd November, Sony’s dropped a full character guide for the upcoming Marvel Tokon: Fighting Souls addition, Phoenix Cyclops. Like similar videos prior to the game’s launch, this runs through the combatant’s full roster of moves, including his ability to transform into Dark Phoenix state by assembling Solar Shards. Read the full article on pushsquare.com
-
-### PS5 Adds Another Free Open World Game to Your Rotation with Surprise Silver Palace Release Date
-Sat, 31 Oct 2026 14:30:00 GMT — https://www.pushsquare.com/news/2026/10/ps5-adds-another-free-open-world-game-to-your-rotation-with-surprise-silver-palace-release-date
-
-A console exclusive for now. Victorian-inspired free-to-play open world game Silver Palace will release worldwide on 14th December, which has really shocked me. I played this stylish effort at Gamescom earlier in the year, but assumed it was still quite a way away. Read the full article on pushsquare.com
-
-### Guide: These 28+ PS5 and PS Plus Games Are Coming Out Next Week (2nd-8th November)
-Sat, 31 Oct 2026 12:00:00 GMT — https://www.pushsquare.com/guides/these-28plus-ps5-and-ps-plus-games-are-coming-out-next-week-2nd-8th-november
-
-Godzilla: Destroy All Monsters! CRYMELIGHT! Zero Parades! We’re fast approaching the GTA 6 evacuation zone, so expect the number of new releases to dip dramatically in November. There are some noteworthy titles this time, though, with highlights including the PS5 version of Zero Parades as well as Alice in Wonderland roguelite CRYMELIGHT . Read the full article on pushsquare.com
-
-### PS5 Dynamic Pricing Concerns Revived by New Sony Job Listing
-Sat, 31 Oct 2026 01:00:00 GMT — https://www.pushsquare.com/news/2026/10/ps5-dynamic-pricing-concerns-revived-by-new-sony-job-listing
-
-Company looking for someone to lead initiative. A new PlayStation job listing has sparked a fresh wave of fan concerns regarding dynamic pricing on the PS Store . Spotted by The Game Post , the role – for a Senior Director of Digital Games Monetisation – includes some phrases which have spooked gamers, including a reference to “intelligent pricing”. Read the full article on pushsquare.com
-
-### Talking Point: What Are You Playing This Weekend? - Issue 656
-Sat, 31 Oct 2026 00:00:00 GMT — https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-656
-
-Raise hell. Another week has come to a close, and that means it's time for us to WAYP together. I love how eclectic these articles have become over the years; it's always interesting to see what everyone's playing. Aaron Bayne I recently started Zero Parades: For Dead Spies Director's Cut , since I fancied something a bit slower-paced. Really digging it so far. Read the full article on pushsquare.com
-
 ## Game Developer
 
-### Anthropic orders AI tool Claude to stop remaking video games
-Fri, 30 Oct 2026 18:52:20 GMT — https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games
-
-Update: Anthropic has confirmed it's released an update to Opus 5.5 to "steer" Claude Code away from "recreating someone else's specific game."
+_Nothing in the last 48 hours._
 
 ## VGC
 
-### The Arduview is the world s first fully transparent handheld, including the screen
-Sat, 31 Oct 2026 12:30:58 +0000 — https://www.videogameschronicle.com/news/the-arduview-is-the-worlds-first-fully-transparent-handheld-including-the-screen/
+### A trailer for a remake of the original Persona appears to have leaked
+Mon, 02 Nov 2026 11:57:11 +0000 — https://www.videogameschronicle.com/news/a-trailer-for-a-remake-of-the-original-persona-appears-to-have-leaked/
 
-The small credit card-sized handheld has hit its goal on Kickstarter… Source
+The producer of Persona 4 Revival recently said Persona 1 and 2 remakes should happen… Source
 
-### Fanatical s Mystery Chest Bundle offers up to 25 mystery Steam keys for $17.49, with a chance to get Phantom Blade Zero
-Fri, 30 Oct 2026 18:42:36 +0000 — https://www.videogameschronicle.com/news/fanaticals-mystery-chest-bundle-offers-up-to-25-mystery-steam-keys-for-17-49-with-a-chance-to-get-phantom-blade-zero/
+### Nintendo announces Zelda: Ocarina of Time UK midnight launch, with free N64 boxes up for grabs
+Mon, 02 Nov 2026 10:50:16 +0000 — https://www.videogameschronicle.com/news/nintendo-announces-zelda-ocarina-of-time-uk-midnight-launch-with-free-n64-boxes-up-for-grabs/
 
-Other prizes could be won on top of the games on offer, including a Steam Frame… Source
+Nintendo is hosting a UK midnight launch for Zelda: Ocarina of Time's Switch 2 remake… Source
+
+### Google s Zelda Ocarina of Time easter egg transports users back to 1998
+Mon, 02 Nov 2026 10:37:12 +0000 — https://www.videogameschronicle.com/news/googles-zelda-ocarina-of-time-easter-egg-transports-users-back-to-1998/
+
+By clicking the Master Sword, you can travel back in time to the old Google homepage… Source
+
+### Days Gone developer Bend Studio s next game will be revealed and released next year, report claims
+Mon, 02 Nov 2026 09:49:37 +0000 — https://www.videogameschronicle.com/news/days-gone-developer-bend-studios-next-game-will-be-revealed-and-released-next-year-report-claims/
+
+The game will reportedly not be live-service, nor will it be Days Gone 2… Source
+
+### Nagoshi Studio officially closes after NetEase cuts funding
+Mon, 02 Nov 2026 08:01:35 +0000 — https://www.videogameschronicle.com/news/nagoshi-studio-officially-closes-after-netease-cuts-funding/
+
+Nagoshi Studio, founded by Yakuza creator Toshihiro Nagoshi… Source
 
 ## Polygon
 
-### Fable Is Ditching the One Feature That Made Fable 3 An Instant Classic
-Sun, 01 Nov 2026 18:00:02 GMT — https://www.polygon.com/fable-reboot-no-co-op/
+### 23 Years Later, Gandalf’s Greatest Lord of the Rings Line Is Still the Wisest Quote in Fantasy History
+Mon, 02 Nov 2026 12:00:18 GMT — https://www.polygon.com/lord-of-the-ring-gandalf-greatest-quote/
 
-The original Fable checked all of the boxes of a good fairy tale: a classic good-versus-evil tale set in a high-fantasy version of Fake Britain. You played as a hero (literally, the “Hero of Oakvale”) fighting against a guy who considered burning down villages his idea of a good time. Fable ’s big innovation lay in its morality system: Depending on your actions, the hero’s appearance would change (ex: you’d grow devil horns if you were evil), as would the way the citizens of Albion would react to him. Just like the main characters of stories like Jack and the Beanstalk , Little Red Riding Hood , and other quintessential fairy tales, you were consigned to live with the consequences of your actions — good or bad.
+Peter Jackson’s epic adaptation of J.R.R. Tolkien’s The Lord of the Rings trilogy features a massive cast, with many characters delivering at least one incredibly poetic line across the films. Honestly, is there any line more heartbreaking than Boromir’s anguished “I would have followed you, my brother, my captain, my king”?
 
-### The best local co-op games to play in 2026
-Sun, 01 Nov 2026 17:13:08 GMT — https://www.polygon.com/best-local-coop-games/
+### Yakuza Creator's Studio Officially Shuts Down After Backers Desert It
+Mon, 02 Nov 2026 11:25:24 GMT — https://www.polygon.com/nagoshi-studio-shuts-down-yakuza-gang-of-dragon/
 
-As we approach the colder months, it's becoming the time when sitting inside and playing some of the best local co-op games is looking more and more appealing. Even though couch co-op and split-screen play is often pushed to the side in favor of online co-op, there are still plenty of modern games that allow players to sit side-by-side and play together. And believe it or not, some of those games are great!
+Nagoshi Studio, the developer founded by Yakuza creator Toshihiro Nagoshi, has officially closed its doors after backer NetEase stopped its funding . Nagoshi Studio had been working on Gang of Dragon , a Yakuza-style crime drama starring Ma Dong-seok.
 
-### 6 Perfect Star Trek Episodes to Watch to Say Goodbye to Patrick Stewart
-Sun, 01 Nov 2026 17:00:19 GMT — https://www.polygon.com/best-patrick-stewart-picard-star-trek-episodes/
+### Elon Musk Officially Confirms He Doesn't Get Star Wars
+Mon, 02 Nov 2026 11:20:26 GMT — https://www.polygon.com/elon-musk-star-wars-tweet-x-post/
 
-Even more significant than the quantity of Star Trek that Stewart made was the quality. Kirk is in many ways a classic pulp action hero. He faces conflicts head on, never afraid to throw a punch or flirt with a sexy alien. Picard represents a different form of masculinity, valuing compassion, knowledge, and communication above all else. He is the endlessly patient father figure for his crew, and for the next generation of Star Trek viewers, presiding over one of the most beautiful visions of what the future could look like. It’s that connection that has left fans in mourning following his death on Thursday at the age of 86.
+Elon Musk, owner of Tesla and SpaceX, and an avid Grok advocate , has never been shy about expressing his opinion online. He had plenty to say about award-winning director Christopher Nolan's wildly successful adaptation of The Odyssey — including claiming an AI-influenced reimagining of the series would be "true to the art of Homer" — and even more on the finale of Amazon's gritty superhero series, The Boys .
 
-### Doom Creator John Romero Revives Xbox-Canceled Game At New Publisher
-Sun, 01 Nov 2026 16:58:37 GMT — https://www.polygon.com/john-romero-game-new-publisher/
+### Phantom Blade Zero Became One of 2026's Best-Selling Games in Just 72 Hours
+Mon, 02 Nov 2026 11:11:02 GMT — https://www.polygon.com/phantom-blade-zero-4-million-copies-opening-weekend/
 
-The fate of the next game from Doom creator John Romero was in jeopardy after Xbox canceled the project last year. Thankfully, Romero confirmed in a new interview that the project will see the light of day, as his studio has found another publisher.
+Phantom Blade Zero had an incredible opening weekend. It received very positive reviews, reaching a score of 88 on Metacritic , climbed to the top of the charts on Steam, and sold 4 million copies worldwide within 72 hours.
 
-### A Persona 1 Remake Is In Development, New Leak Suggests
-Sun, 01 Nov 2026 16:14:13 GMT — https://www.polygon.com/persona-1-remake-leak/
+### All active Escape From Tarkov codes and rewards
+Mon, 02 Nov 2026 10:41:09 GMT — https://www.polygon.com/escape-from-tarkov-promo-codes-list-active-expired/
 
-Persona 4 Revival and Persona 6 aren't even out yet, and another Persona game has already leaked. Fittingly for Halloween, some new footage of an in-development Persona remake emerged online. It appears to be for a remake of Revelations: Persona , the first game in the series.
+Escape From Tarkov promo codes are used in the classic extraction shooter for all sorts of rewards. From in-game gear and weapons to currency, cosmetics, and more, redeeming as many of these Tarkov codes as you can will set you up for your next raid. Especially since these goodies don't actually require a successful extraction to obtain them.
 
-### Itch.io Reveals Just How Much AI Slop Is Flooding Gaming Storefronts
-Sun, 01 Nov 2026 15:36:02 GMT — https://www.polygon.com/itch-io-doubled-game-pages-ai-slop/
+### 10 Near-Perfect Netflix Miniseries With Less Than 10 Episodes Each
+Mon, 02 Nov 2026 10:30:18 GMT — https://www.polygon.com/netflix-miniseries-near-perfect-binge-watch/
 
-A quick glance at Steam or itch.io shows how gaming storefronts are flooded with new games as more developers use generative AI, making it harder than ever for indie devs with hand-crafted games to stand out. A recent social media post by itch.io revealed some new data highlighting just how bad the situation has become.
+Real-life horrors can also serve as inspiration, which is the case with HBO’s Chernobyl , which uses five harrowing episodes to examine a catastrophic tragedy and the true cost of it. At other times, an existing franchise can lead to an in-universe offshoot like Cyberpunk: Edgerunners , whose first installment is the definition of perfect storytelling. Netflix is home to a wide variety of miniseries, thanks to an audience that is increasingly partial to the binge-watch model. Although the results have been a mixed bag, several competent miniseries are Netflix originals.
 
-### New Fortnite Item Makes Everything on the Item Shop Completely Free
-Sun, 01 Nov 2026 15:14:23 GMT — https://www.polygon.com/fortnite-pirate-item-shop-access-token-free-how-to-get/
+### 'Calvin and Hobbes' Best Babysitter Quote Is Still Among the Funniest in Comic Strip History
+Mon, 02 Nov 2026 09:00:17 GMT — https://www.polygon.com/best-quote-rosalyn-babysitter-calvin-and-hobbes/
 
-Fortnite Treasure Hunters is here at last. This season is all about pirates and plundering treasure. Players can look the part using the Straw Hat Pirates skins from One Piece . It can get expensive to purchase cosmetics in Fortnite , but this season, there's an in-game item that makes everything in the Item Shop free. It almost sounds too good to be true, but it's real, and it's out there on the Battle Royale island.
+Batman has the Joker, Superman has Lex Luthor, Captain America has the Red Skull, and for six-year-old Calvin, his avowed arch-nemesis is Rosalyn, the diabolical babysitter who makes him go to bed at 6:30.
 
-### Animal Crossing Is Finally Getting Some Real Competition With Petit Planet for Switch 2 In 2027
-Sun, 01 Nov 2026 14:27:56 GMT — https://www.polygon.com/petit-planet-switch-2-release-date-animal-crossing-competitor/
+### Forget ‘Crystal Lake,’ the Best Action Thriller in TV History Remains Unbeaten 29 Years Later
+Mon, 02 Nov 2026 08:00:17 GMT — https://www.polygon.com/crystal-lake-action-thriller-buffy/
 
-Many Animal Crossing competitors have emerged since New Horizons became a breakout success in 2020 , but few have a chance to take on the popular Nintendo series like HoYoverse's Petit Planet . Now, we've learned that a showdown between the two games will take place on Nintendo Switch 2, as a release window for a port was recently confirmed.
+Crystal Lake has been dominating the streaming charts. Over the past week, the series became Peacock’s fourth most-watched scripted original. It inspired hundreds of online videos analyzing its twists and turns, and reminded the world of the everlasting magic of Linda Cardellini.
 
-### The 10 Most Anticipated Sci-Fi and Fantasy Books of November 2026
-Sun, 01 Nov 2026 14:00:17 GMT — https://www.polygon.com/most-anticipated-sci-fi-fantasy-books-november-2026/
+### Luke Skywalker's Single Greatest Star Wars Line Hits Harder Than Any Sci-Fi Quote Since
+Mon, 02 Nov 2026 05:00:17 GMT — https://www.polygon.com/luke-skywalker-best-quote-has-nothing-to-do-with-darth-vader/
 
-When fall brings cold, windy, and wet weather, it’s the perfect time to stay inside and curl up with a good book. November offers plenty of options, with fresh entries in long-running series, standalones by bestselling authors, and brand-new talent to check out. Whether you want to imagine sailing with sky pirates, exploring a haunted forest, or flirting with faeries, the 10 most anticipated sci-fi and fantasy books of November offer plenty of ways to pass a rainy day.
+Since its 2018 debut, Rian Johnson’s The Last Jedi has sparked heated debate over whether it was a fantastic or terrible Star Wars film for Luke Skywalker. Still, whatever your opinion, it’s hard to deny that Johnson’s take on the greatest Jedi ever came with some truly epic quotes. And no, we’re not talking about the zinger, “Amazing. Every word of what you just said was wrong.”
 
-### 15 Years Ago, Zelda Told its Most Memorable Story with its Worst Gameplay
-Sun, 01 Nov 2026 13:00:17 GMT — https://www.polygon.com/legend-zelda-skyward-sword-retrospective/
+### Quentin Tarantino’s First New Movie in 7 Years Officially Arrives in Theaters Next Month
+Mon, 02 Nov 2026 04:00:17 GMT — https://www.polygon.com/quentin-tarantino-the-further-mis-adventures-of-cliff-booth-release-date/
 
-Hold the controller over your head. The Master Sword glows. Point it at the screen, hit Y to recenter, and swing. On the screen, Link swings… kind of the right way. Then, your chatty companion, Fi, chimes in with a very long and earnest explanation of something you figured out several minutes ago. Rinse and repeat for about 40 hours, and that’s Skyward Sword , one of the most cinematic, heartrending, memorable stories Zelda has ever told — and the one saddled with the most finicky gameplay.
+Quentin Tarantino fans have spent the better part of seven years waiting to see what one of the best filmmakers in the industry might do next. Since the Oscar-winning Once Upon a Time in Hollywood hit theaters in 2019, Tarantino has kept himself busy with books, interviews, and plans for what he once described as his final film. That milestone was initially meant to arrive in 2024 with The Movie Critic , but Quentin Tarantino famously shelved the script before production could begin, leaving fans in the dark about what could come next. But that's about to change next month.
 
 ## PC Gamer
+
+### Final Fantasy 14: Evercold's story will have a faster tempo, with worldbuilding in side quests, says Yoshi-P—but I'm not sure that was the problem with Dawntrail
+Mon, 02 Nov 2026 11:53:51 +0000 — https://www.pcgamer.com/games/mmo/final-fantasy-14-evercolds-story-will-have-a-faster-tempo-with-worldbuilding-in-side-quests-says-yoshi-p-but-im-not-sure-that-was-the-problem-with-dawntrail/
+
+Best MMOs : Most massive Best strategy games : Number crunching Best open world games : Unlimited exploration Best survival games : Live craft love Best horror games : Fight or flight ]]>
+
+### The HeroQuest board game is coming to Steam with a quest editor and multiplayer
+Mon, 02 Nov 2026 04:12:30 +0000 — https://www.pcgamer.com/games/board-games/the-heroquest-board-game-is-coming-to-steam-with-a-quest-editor-and-multiplayer/
+
+Avalon Hill's deluxe rerelease of the classic dungeon crawl board game HeroQuest is getting a digital edition courtesy of Nomad Games, who previously adapted board games like Talisman, Love Letter, and Fury of Dracula. Expect goblin-bashing, trap-disarming, treasure-hunting, and spell-casting. I'll use my broadsword. As well as solo play, with the computer taking on the role of the Evil Wizard and his minions, it'll support online multiplayer with up to four players as the heroes, and a fifth optionally taking over as the villainous Zargon. (It's based on the American version, so no Morcar here.) The most promising detail revealed so far is the inclusion of a quest editor so players can create their own maps and missions, as well as downloading quests made by others through mod.io integration. Hopefully it includes the rules additions from HeroQuest First Light , especially the option to just move eight squares per turn instead of rolling to move if there aren't any monsters on the board. Slogging across the dungeon to get back to the exit 2d6 squares at a time is a real chore otherwise. HeroQuest: Digital Edition is scheduled for release on Steam in 2027, with a closed beta playtest coming soon. Best laptop games : Low-spec life Best Steam Deck games : Handheld must-haves Best browser games : No install needed Best indie games : Independent excellence Best co-op games : Better together ]]>
+
+### Footage of what sure looks like a Persona 1 remake has leaked
+Mon, 02 Nov 2026 02:06:50 +0000 — https://www.pcgamer.com/games/rpg/footage-of-what-sure-looks-like-a-persona-1-remake-has-leaked/
+
+Persona tragics have been begging for remakes of the first two games in the series for ages (at least, the ones who aren't begging for remakes of the PS2-era Shin Megami Tensei games instead). After thoroughly milking Persona 4 and 5, series producer Kazuhisa Wada said in August , "personally, I think it's something we should definitely do." Now, almost two minutes of footage from what sure looks like a Persona 1 remake has leaked via the GamingLeaksAndRumours subreddit . It shows some dungeon exploration, typically flashy combat, and a dialogue scene all in the modern Persona style. Oddly, Tatsuya from Persona 2 is one of the party members, though it's possible this is a cross-promotional skin you can equip. Or maybe the remakes will incorporate some kind of Persona Q-style crossover? While it's fair to be suspicious this could be AI-generated footage, it seems both a bit too long and too internally consistent for that to be the case. And it's not like Atlus hasn't got form, given that we found out the Persona 3 remake was real via a leak as well. Best cozy games : Relaxed gaming Best anime games : Animation-inspired Best JRPGs : Classics and beyond Best cyberpunk games : Techno futures Best gacha games : Freemium fanatics ]]>
+
+### Obsidian's Josh Sawyer on RPG cities: 'Compared to a dungeon, generally speaking, a town is 4x the expense per square foot'
+Mon, 02 Nov 2026 01:39:58 +0000 — https://www.pcgamer.com/games/rpg/obsidians-josh-sawyer-on-rpg-cities-compared-to-a-dungeon-generally-speaking-a-town-is-4x-the-expense-per-square-foot/
+
+In a new Q&A vlog on his YouTube channel, Obsidian studio design director Josh Sawyer took a question about why there are so few RPGs in contemporary urban settings. Part of the problem, according to Sawyer: They're more difficult and costly to make than other RPG environments. Elsewhere in this section, Sawyer cited Baldur's Gate 2's Athkatla, Disco Elysium, and the recent Zero Parades as RPGs that land the plane on believable, dense urban environments⁠—though Sawyer notes that the latter two have the advantage of not needing to work in as many believable combat encounters as other RPGs. A few others spring to mind for me: Vampire: The Masquerade - Bloodlines, Cyberpunk 2077, and Baldur's Gate 3's version of the titular city. But all of those really highlight Sawyer's point about expense and challenge. Vampire and Cyberpunk were notoriously difficult development cycles for their respective studios. I'll always be a BG3 Act 3 defender, but it's definitely the part of the game with the most noticeable seams. But even if they're hard to make, I love urban adventures in RPGs, whether as part or the whole of a game. Novigrad and Oxenfurt are two of my favorite parts of The Witcher 3, for example. For a real niche example of an urban RPG you should have on your radar, I highly recommend the early access Moves of the Diamond Hand . 2026 games : All the upcoming games Best PC games : Our all-time favorites Free PC games : Freebie fest Best FPS games : Finest gunplay Best RPGs : Gran
+
+### Here's one bit of good news for Mass Effect: modders are bringing the multiplayer mode to Mass Effect Legendary Edition
+Mon, 02 Nov 2026 01:19:58 +0000 — https://www.pcgamer.com/games/mass-effect/heres-one-bit-of-good-news-for-mass-effect-modders-are-bringing-the-multiplayer-mode-to-mass-effect-legendary-edition/
+
+When Mass Effect 3's beloved multiplayer mode was left out of the Legendary Edition, there was much wailing and gnashing of teeth. Redemption has finally come in the form of the ME3Tweaks modding team, who have spent the last three years quietly working to not only get multiplayer working, but improve it. "It's not just a ME3MP port but rather an extensive remaster of the experience," says modder Audemus. "This includes new features like bringing forward LE's native features like controller support/HDR, overhauled UI, rebaked level lighting, upscaled/redrawn textures, upgraded shaders, improved networking/server replication, extensive bug fixes, new gameplay modes, and a stable format for future mod support and easy installation/compatibility." They're even adding new game modes, like one called "Unified" that combines enemies from multiple factions, and letting players either join ME3Tweaks' server, or set up their own private servers. The ME3Tweaks team are the same modders who previously revived and revised the Pinnacle Station expansion , a lost DLC for the original Mass Effect that was also left out of the Legendary Edition. They're planning to release the multiplayer mod on N7 Day, which is also when composer Sam Hulick plans to release a re-scored version of the leaked Mass Effect Universe trailer . Best MMOs : Most massive Best strategy games : Number crunching Best open world games : Unlimited exploration Best survival games : Live craft love Best horror games : Figh
+
+### Jagex partnered with a RuneScape-inspired idle game to turn the sequel into an official spinoff
+Sun, 01 Nov 2026 18:41:29 +0000 — https://www.pcgamer.com/games/rpg/jagex-partnered-with-a-runescape-inspired-idle-game-to-turn-the-sequel-into-an-official-spinoff/
+
+It's easy to knock old-school RPGs, especially grindfests like RuneScape, for being games where you endlessly and sometimes mindlessly make numbers go up. But Melvor Idle, which self-bills as a RuneScape-inspired idle adventure game that claims to squeeze the genre into its "purest form," leans into that—and Jagex has partnered with developer Games by Malcs to make the RuneScape connection official. The announcement blog from Jagex reads, "Melvor Idle takes a lot of inspiration from RuneScape and you can just feel it," adding that Jagex's support (and branding) is intended to help make the game "even bigger … while Melvor Idle 2 doesn’t take place in Gielinor, we think a fan-built idle game inspired by our MMOs is more than worthy of the title." This isn't the first time Jagex has collaborated with Games by Malcs. It became the first Melvor Idle's publisher five years ago, albeit without a branding tweak. While RuneScape has had its fair share of monetization controversies over the years (you can see just how skeptical people were of the partnership when it was first announced on Reddit ), it doesn't seem like Melvor has been compromised by trouble along those lines—the announcement blog proudly proclaims the sequel will have "no microtransactions." Beyond that, it seems like a bigger version of the familiar idle RPG with overhauled visuals and a higher level cap of 120. You might find it a bit odd that it's a "RuneScape Adventure" that doesn't take place in the MMO's setting
 
 ### Grand Theft Auto 6 teased a handful of its upcoming radio stations and its music curation is as strong as ever
 Sun, 01 Nov 2026 18:00:00 +0000 — https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-teased-a-handful-of-its-upcoming-radio-stations-and-its-music-curation-is-as-strong-as-ever/
@@ -230,41 +290,41 @@ Sun, 01 Nov 2026 16:42:09 +0000 — https://www.pcgamer.com/games/sim/chronicles
 
 Chronicles: Medieval is an impressive looking open-world sandbox where players explore a dynamic Medieval world and fight in massive, authentic battles. It's been in development for more than four years and is due to launch into Steam early access early in 2027. However, there is a very real chance this will no longer happen, as developer Raw Power Games suddenly faces closure after funding for its game was pulled. On Friday, Raw Power Games posted a statement to Steam and on social media channels (via IGN ), explaining how the studio has suddenly found itself in dire straits. "Due to circumstances outside our control, the necessary funding for Raw Power Games is no longer in place," the studio wrote. "Without it, we can't keep building Chronicles: Medieval, and right now the studio is at real risk of closing." This appears to be a sudden development. Through October, the studio had been posting regular development updates, including an incredibly detailed deep dive on Medieval coats of arms and how they would appear in the game. None of it suggested a studio that's in trouble, so it seems this has caught Raw Power off guard. By the sounds of it, Chronicles: Medieval isn't all that far away from being done, either. Or at least ready for its planned alpha launch: "What makes it hurt is how close we are. Early access is within reach," Raw Power Games writes in its statement. "The world we've been building for years is finally starting to feel alive, and we have so much we've be
 
-### It's not just Steam: New game pages created per day on Itch.io have doubled in the last two months, with AI slop the likely culprit
-Sun, 01 Nov 2026 16:25:23 +0000 — https://www.pcgamer.com/gaming-industry/game-development/its-not-just-steam-new-game-pages-created-per-day-on-itch-io-has-doubled-in-the-last-two-months-with-ai-slop-the-likely-culprit/
-
-It seems it isn't just Steam that's being flooded with AI slop. Indie games storefront itch.io has reported that the number of new game pages being created per day on the site has doubled in the past two months, and just like Valve's much bigger distribution service, the finger is being pointed at AI. Over on Bluesky, itch.io shared an image of a bar chart labelled "game events". The chart shows that, between August 3 and October 30, the number of new game pages being created per day has risen from around 3,000 to regularly surpassing 6,000. It's a ratio that more or less matches the increase in Steam demos showcased at the most recent Next Fest , which rose from around 4,000 to over 8,000. While Itch doesn't explicitly point the finger at AI as the cause, it heavily infers it. When Bluesky user Tommy's Homemade Games asked "Do you know why?" Itch responded "take a guess" followed by emojis of a crying face and a robot. Another Bluesky account, BardZaku, asked "is it AI dreck?" to which the account replied with an emoji of a face with bags under its eyes. The rapid uptick in Itch pages also coincides with the launch of Claude Opus 5, which arrived on July 24. The latest iteration of Anthropic's LLM—which is now at version 5.5—has proved particularly adept at reverse engineering code. This has had a bunch of knock-on effects in various areas of game development, ranging from much faster decompilations of old games, to Steam being flooded with AI slop, and developers cancelling
-
-### I'm glad that WoW: Forever'll have a slower, lo-fi update schedule, because I'm not playing this thing to be in a rush
-Sun, 01 Nov 2026 16:00:00 +0000 — https://www.pcgamer.com/games/world-of-warcraft/im-glad-that-wow-foreverll-have-a-slower-lo-fi-update-schedule-because-im-not-playing-this-thing-to-be-in-a-rush/
-
-Harvey Randall (Image credit: Future) I've played about 50+ hours of the World of Warcraft: Forever beta, and wouldn't you know it, I'm going to be playing a lot more when it comes out November 4. Earlier this week, Kris Zierhut, principal game designer on World of Warcraft: Forever, said that the game would have a release schedule that's a "little more laid back" . Rather than the blisteringly fast eight to 10 week schedule of Season of Discovery, Forever'll aim to release major updates once every four months or so. This is honestly music to my ears—I've been impressed by retail WoW's blistering pace and its seasonal structure, even if there have been some rocky, bug-filled patches in the past; and it's certainly something I've praised before, especially in contrast to other certain MMOs that have been coming to a standstill. But I've been playing WoW… well, for a long time, but I've had a consistent sub since Dragonflight, and I've been able to see the arc of Blizzard whipping up its schedule into a proper roadmap . Which did pull the game back from the brink, true, but three expansions in and I'm just sort of exhausted. There's always some new bar to fill, some new doohickey to collect, some new reputation track to chew on, and it all moves so fast that if I, say, have an off-week to go play another game, I feel pretty lost. While Midnight does major patches at roughly the same release tempo (12.0.0 came out in January, 12.1.0 came out in August) it also has a ton of inter
-
-### Forza co-creator Dan Greenawalt is reportedly leaving Microsoft
-Sun, 01 Nov 2026 04:05:48 +0000 — https://www.pcgamer.com/games/racing/forza-co-creator-dan-greenawalt-is-reportedly-leaving-microsoft/
-
-The Verge reports that Dan Greenawalt, studio head of Forza Motorsport developer Turn 10, is planning to retire after nearly 27 years, quoting an internal memo from Trevor Williams of Playground Games. "Dan Greenawalt has decided that this is the right time for him to retire from Microsoft," Williams is reported to have said, clarifying that Greenawalt will stay on temporarily as an adviser during a changeover period. Microsoft announced in September that it plans to merge Turn 10 and Playground, the two Forza studios, into one entity as part of the same restructure that will merge Obsidian into Bethesda and hand Halo over to Activision . Oh, and that restructure will also see another 268 employees being laid off. Turn 10 had already been turned into a support studio for Playground's Forza Horizon following the 2023 reboot of Forza Motorsport, with former developer Fred Russell saying last year that the Motorsport series died in a prior round of cuts at Microsoft . 2026 games : All the upcoming games Best PC games : Our all-time favorites Free PC games : Freebie fest Best FPS games : Finest gunplay Best RPGs : Grand adventures Best co-op games : Better together ]]>
-
-### After almost a decade of work, Alien: Isolation mod tools hit 1.0 with support for 'full custom maps, missions, modes, characters, weapons, animations, sounds, models, textures, and more'
-Sun, 01 Nov 2026 01:30:27 +0000 — https://www.pcgamer.com/games/horror/after-almost-a-decade-of-work-alien-isolation-mod-tools-hit-1-0-with-support-for-full-custom-maps-missions-modes-characters-weapons-animations-sounds-models-textures-and-more/
-
-Nine years ago, Matt Filer officially began work on the OpenCAGE mod tools for Alien: Isolation—following two-and-a-half years of work on prototype versions. During that time the tools have been available for anyone to use, which is part of the reason Creative Assembly's legendarily scary horror game has a variety of mods already. (Though the VR mod works differently, since it's actually enabling an unfinished mode that shipped with the game.) OpenCAGE has finally made it to version 1.0, which can be downloaded on Steam . Filer proudly told us his mod tools have "now reached the point where you're able to implement full custom maps, missions, modes, characters, weapons, animations, sounds, models, textures, and more!" As a demonstration of what's possible, Filer is making a Halo-themed custom map. "It features custom cinematics, enemies, weapons, all on a brand new map with a custom HUD," he said. "It has reached a point now of being able to make full total conversion mods, which has always been my end goal, so it's cool to finally be here!" Alien: Isolation just won our scariest videogame poll , and I consider it a well-earned victory. It's one of the few games I've seen frighten even people who aren't normally bothered by horror thanks to how unpredictable and relentless the xenomorph is when pursuing you. And those dead-eyed Worker Joe robots are no slouches either. Hopefully some creative mods will give us reason to go back to Alien: Isolation, and help tide over the wait
-
-### FromSoftware temporarily shuts down Dark Souls 2 and 3 multiplayer over 'server issue'
-Sat, 31 Oct 2026 21:40:23 +0000 — https://www.pcgamer.com/games/dark-souls/fromsoftware-temporarily-shuts-down-dark-souls-2-and-3-multiplayer-over-server-issue/
-
-As reported by Eurogamer , FromSoftware has shut down multiplayer (invasions, co-op, messages) in Dark Souls 2 and 3 for an indeterminate amount of time due to an undisclosed "server issue." The company shared the news in an October 30 post on X, "The Everything App." The closure affects all platforms for each respective game, and the company said that it would provide an updated timeline for server restoration once it had more information. This isn't the first time something like this has happened with FromSoftware's back catalogue. In early 2022, on the eve of Elden Ring's release, a catastrophic remote code execution vulnerability was discovered in all of the Dark Souls games . That resulted in PC servers for the series getting shut down for months. But there are key differences here: It's only Dark Souls 2 and 3 this time around, while the issue extends to all platforms, not just PC. That gives me some hope that this issue is not only less serious, but it will take less time to resolve as well. It honestly couldn't have happened at a better time for PC players, though: Legend modder Yui's Seamless co-op series runs on its own servers, separate from the official FromSoft ones, meaning the party's still going if you download the mod and play that way. Dark Souls 2 finally got the Seamless co-op treatment at the end of September (Dark Souls 3 has been covered for awhile). As its name implies, Seamless Co-op makes it easier to play through the entirety of these games together
-
-### Fanfiction Library of Alexandria AO3 down for up to a month following hack
-Sat, 31 Oct 2026 21:11:46 +0000 — https://www.pcgamer.com/gaming-industry/fanfiction-library-of-alexandria-ao3-down-for-up-to-a-month-following-hack/
-
-On October 29, bedrock fanfiction website Archive of Our Own (AO3) was taken down for maintenance that was initially predicted to last 12 hours. Later that day, the estimated downtime was upped to two to four weeks. On October 30, the site's volunteer leadership shared a more substantial update about the security intrusion behind the takedown. At the time of writing, the team is "still in the early stages" of determining the scope of the intrusion. AO3 has assured readers and authors that the archive itself and associated data (bookmarks, kudos, etc.) remain intact. Donor information is stored on a completely separate system, meaning that data is safe. The AO3 team is "unable to rule out" that its user database was compromised in the hack. AO3 user accounts include emails, usernames, IP addresses, and hashed (encrypted) passwords. In an abundance of caution, the team advises users to update passwords they may have reused from AO3⁠—but that's just good practice in general, gamers. Over the coming weeks, the team anticipates that AO3 will be brought back in a "degraded" state, meaning incomplete or read-only access, as well as further intermittent downtime. As for why this happened, that remains unclear. AO3 is a very widely-used service, and the sheer numbers game of weak passwords combined with emails in its user database could make it valuable on the black market. I also don't think you can rule out a more ideological motivation for such an attack, given fanfiction's long as
-
 ## GameSpot
 
 _Nothing in the last 48 hours._
 
 ## Rock Paper Shotgun
+
+### Delve into "a deep underground facility full of secrets and horrors" in the latest Fallout 4 quest mod from the Commonwealth Story Expansion Project
+Mon, 02 Nov 2026 12:36:42 +0000 — https://www.rockpapershotgun.com/delve-into-a-deep-underground-facility-full-of-secrets-and-horrors-in-the-latest-fallout-4-quest-mod-from-the-commonwealth-story-expansion-project
+
+After adding a whole new town to Fallout 4 last month, a group of modders have released another in their long string of extra quests for the RPG. This latest mission revolves around a dungeon delve in the Glowing Sea, where a mysterious bunker's just been unearthed. Read more
+
+### Skyblivion modders reveal a former volunteer is "threatening to sue for damages upwards of €30,000" over work on the unofficial Oblivion remake project
+Mon, 02 Nov 2026 11:51:26 +0000 — https://www.rockpapershotgun.com/skyblivion-modders-reveal-a-former-volunteer-is-threatening-to-sue-for-damages-upwards-of-30000-over-work-on-the-unofficial-oblivion-remake-project
+
+The team behind Oblivion remake mod Skyblivion are being threatened with legal action by a former volunteer on the project, according a video posted by current lead Kyle 'Rebelzize' Rebel. The situation looks like it'll need resolving before the mod, which was originally set to release last year , can finally make its way out of the Imperial City sewers. Read more
+
+### As if the injury descriptions weren't already ghastly enough in Dwarf Fortress, the legendary outpost builder is getting a "meat biome"
+Mon, 02 Nov 2026 10:41:30 +0000 — https://www.rockpapershotgun.com/as-if-the-injury-descriptions-werent-already-ghastly-enough-in-dwarf-fortress-the-legendary-outpost-builder-is-getting-a-meat-biome
+
+Legendary outpost builder Dwarf Fortress is getting a meat biome. A terrible netherworld of bone and artery. A sunken redoubt of gristle and gizzard. An appalling labyrinth of squirt and squelch. Honestly, the biggest shock here is that Dwarf Fortress doesn't appear to have a meat biome already. It certainly has plenty of florid descriptions of fatal injuries. Read more
+
+### Gag Order is a co-op, SCP-ish horror shooter about surviving as best you can against some nasty, tentacle covered cephalopod creatures
+Sun, 01 Nov 2026 22:56:41 +0000 — https://www.rockpapershotgun.com/gag-order-is-a-co-op-scp-ish-horror-shooter-about-surviving-as-best-you-can-against-some-nasty-tentacle-covered-cephalopod-creatures
+
+What makes Carrion interesting obviously lies in playing as the monster in a horror game rather than being the one chased down by it. The game's nasty tentacle monster still gives me the heebie jeebies, so I really would hate to be hunted by one. This is where I point you towards Gag Order, a shooter where you are in fact hunted by a disgusting cephalopod creature all while tracking down a distress signal. Read more
+
+### Dune: Awakening's seasonally appropriate Blood and Ice expansion gets a December release date, and in a plus for preservation, an offline mode this month
+Sun, 01 Nov 2026 21:34:06 +0000 — https://www.rockpapershotgun.com/dune-awakenings-seasonally-appropriate-blood-and-ice-expansion-gets-a-december-release-date-and-in-a-plus-for-preservation-an-offline-mode-this-month
+
+December is certainly going to be the month of Dune. The biggest Dune of Dunecember will obviously go to Dune: Part 3, which is Duen out December 18th. A little bit before that, however, is a well-timed free expansion coming to Dune: Awakening . It's called Blood and Ice, which sounds gross, but hey, I guess free blood and ice isn't entirely a bad thing? Read more
+
+### What remains of canned Portal prequel white whale F-Stop is now fully playable thanks to modders and some big leaks
+Sun, 01 Nov 2026 19:08:44 +0000 — https://www.rockpapershotgun.com/what-remains-of-canned-portal-prequel-white-whale-f-stop-is-now-fully-playable-thanks-to-modders-and-some-big-leaks
+
+If you're something of a Portal or Half-Life head, you'll probably already be familiar with F-Stop, an unreleased Portal prequel that remained quite mysterious for many years. Back in 2020 , a much deeper look was revealed in a semi-official capacity, revealing a pretty neat concept (that isn't so dissimilar to that of Superliminal). Now, all these years later, assets and source code for the game has leaked, and what exists of F-Stop is fully playable. Read more
 
 ### Final Fantasy 14: Evercold sets itself a release date at the tail end of winter, alongside offering a look at its second, avian-inclined new job
 Sun, 01 Nov 2026 18:07:48 +0000 — https://www.rockpapershotgun.com/final-fantasy-14-evercold-sets-itself-a-release-date-at-the-tail-end-of-winter-alongside-offering-a-look-at-its-second-avian-inclined-new-job
@@ -280,19 +340,4 @@ In this genAI world, every single leak that makes its way out into the world sho
 Sun, 01 Nov 2026 10:00:00 +0000 — https://www.rockpapershotgun.com/the-sunday-papers-834
 
 Sundays are for looking upon my DIY works and despairing. Strewn sawdust, spilled paint, and hunks of broken MDF litter my living room kingdom. When will it be over? When will I be free? When will I be able to reassemble my sofa, sit down with a cup of tea in hand, and admire my books, unpacked and arranged on perfectly fitted alcove bookshelves? "Today?" I whisper hopefully in response to a paragraph of rhetorical questions. "Probably not," snaps back Reality. Especially if I don't get out of bed soon. Still, here in bed I can read the best writing about and not about games from the past week. Read more
-
-### Horror-steeped card game Forbidden Solitaire shows how a strong theme can elevate even decade-old mechanics
-Sat, 31 Oct 2026 12:00:00 +0000 — https://www.rockpapershotgun.com/horror-steeped-card-game-forbidden-solitaire-shows-how-a-strong-theme-can-elevate-even-decade-old-mechanics
-
-Like a tag team of oiled snakes that have entered a wrestling contest, theme is a difficult quality to pin down. A game can be well designed, but if it lacks a coherence between those mechanics and its appearance, narrative, and its framing, there is a dissonance that can be hard to ignore. I realise I've just stepped into an old argument by using the word 'dissonance' , but Hocking was right, games that don't cohere can be jarring. A developer may desire that sensation of discomfort, but often it is accidental and unwanted. (Much like opening an article with a simile about wrestling snakes when there is nothing connecting that image to a game about solitaire. It might be a good line, but it doesn't smoothly connect with the rest of the article to elevate its argument.) Anyway, what does this all have to do with Forbidden Solitaire , a game in which you're delving deeper into a dungeon filled with horrors, progressing by clearing screens of cards? Well, it's an excellent example of how well-handled theming can raise a game into something more than its parts. Read more
-
-### What are we all playing this weekend?
-Sat, 31 Oct 2026 09:45:21 +0000 — https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-406
-
-My scares should have been reserved for today, what with it being All Hallows' Eve and all, but my fright came on Thursday. Read more
-
-### Warframe's fantasy-pilled sister Soulframe finally goes open to all this November, though Digital Extremes are "nervous" about certain changes
-Fri, 30 Oct 2026 20:30:00 +0000 — https://www.rockpapershotgun.com/warframes-fantasy-pilled-sister-soulframe-finally-goes-open-to-all-this-november-though-digital-extremes-are-nervous-about-certain-changes
-
-Warframe creators Digital Extremes have announced that their free-to-play fantasy RPG Soulframe will be available for everyone to download on 6th November, after two years in closed alpha. Finally, you serfs without "prelude" keys will be able to fire up Soulframe.com and make sense of my ranting about the sleeping animals on the lobby screen. The new "open prelude" will land shortly before the game's 17th major update, Verse of the Veilands, which lets you grow your Omen wolfpup allies into rideable adult wolves by finding the ingredients for a special biscuit. More importantly, prelude 17 violently rearranges the game's wistful world, adding an Ubisoft-esque region purging system that is designed to guide new players a bit more emphatically towards the game's "votives". Aka, missions. Yes, Digital Extremes sort of have a bespoke term for every game feature in Soulframe. I find this can be either charming or maddening, depending on how much sleep I've had. Read more
 

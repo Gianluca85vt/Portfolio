@@ -1,72 +1,77 @@
-# Manga — harvested 2026-11-01T18:33:44.543Z
+# Manga — harvested 2026-11-02T12:51:46.730Z
 
 ## Anime News Network
 
-### Lego One Piece Animation Review
-Sun, 01 Nov 2026 12:00:00 -0500 — https://www.animenewsnetwork.com/review/lego-one-piece-animation/.242772
+### My Lovesick Life as a '90s Otaku's Nico Nicholson Launches New Manga
+Mon, 02 Nov 2026 07:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-02/my-lovesick-life-as-a-90s-otaku-nico-nicholson-launches-new-manga/.243426
 
-Lego One Piece is a rare marriage of form and function that is downright pleasant, if not the fullest extent of what would be possible.
+<cite>Yosojito Konkatsu</cite> debuts December 1
 
-### Japanese Animation TV Ranking, October 19-25
-Sun, 01 Nov 2026 11:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-01/japanese-animation-tv-ranking-october-19-25/.243409
+### New Resident Evil Reboot Film Earns US$400 Million Globally
+Mon, 02 Nov 2026 06:44:14 -0500 — https://www.animenewsnetwork.com/news/2026-11-02/new-resident-evil-reboot-film-earns-usd400-million-globally/.243442
 
-<cite>Apothecary Diaries</cite> earns 3.5% rating; both <cite>Vermilion Mask, Dragon Ball Super: Beerus</cite> earn 2.9%
+Film becomes highest-grossing installment in horror franchise
 
-### Japan's Video Game Rankings, October 19-25
-Sun, 01 Nov 2026 09:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-01/japan-video-game-rankings-october-19-25/.243410
+### Voltage, Toei Animation Reveal Kakan Ruirui: The Caged Lantern of Yomi Otome Game For Release in 2027 on Switch
+Mon, 02 Nov 2026 05:54:53 -0500 — https://www.animenewsnetwork.com/news/2026-11-02/voltage-toei-animation-reveal-kakan-ruirui-the-caged-lantern-of-yomi-otome-game-for-release-in-2027-/.243441
 
-<cite>Final Fantasy Resonance</cite> debuts at #2-#4
+Game will feature illustrations by <cite>Hakuōki's</cite> Yone Kazuki; 1st teaser video will debut at AGF 2026 event next weekend
 
-### Bocchi the Rock! Manga Gets Anime Film in 2027
-Sun, 01 Nov 2026 09:11:57 -0500 — https://www.animenewsnetwork.com/news/2026-11-01/bocchi-the-rock-manga-gets-anime-film-in-2027/.243417
+### Toshihiro Nagoshi's Nagoshi Studio Shuts Down
+Mon, 02 Nov 2026 05:22:38 -0500 — https://www.animenewsnetwork.com/news/2026-11-02/toshihiro-nagoshi-nagoshi-studio-shuts-down/.243440
 
-Film adapts manga prologue story about Nijika Ichiji's older sister Seika
+Studio announced <cite>Gang of Dragon</cite> game during The Game Awards last December
 
-### Jun Kirarazaka's Blobtopia Manga Ends in 3 Chapters
-Sun, 01 Nov 2026 07:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-01/jun-kirarazaka-blobtopia-manga-ends-in-3-chapters/.243401
+### Tomoo Performs Ending Theme for Hirayasumi TV Anime
+Mon, 02 Nov 2026 05:01:48 -0500 — https://www.animenewsnetwork.com/news/2026-11-02/tomoo-performs-ending-theme-for-hirayasumi-tv-anime/.243439
 
-Series debuted on March 13
+Series debuts in January 2027
 
-### Hiromasa Okujima Shijūkara ga Naku Koro ni Manga Ends in Next Chapter
-Sun, 01 Nov 2026 05:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-01/hiromasa-okujima-shijukara-ga-naku-koro-ni-manga-ends-in-next-chapter/.243394
+### Claymore's Norihiro Yagi Launches Bartlet Fairy Basslet Manga
+Mon, 02 Nov 2026 04:42:36 -0500 — https://www.animenewsnetwork.com/news/2026-11-02/claymore-norihiro-yagi-launches-bartlet-fairy-basslet-manga/.243435
 
-Series following lifestyle of 41-year-old businessman debuted in December 2025
+Manga Plus, Viz Media both publish "hack and slash fantasy epic" series in English
 
-### Charisma TV Anime Reveals January 7 Debut in Teaser Video
-Sun, 01 Nov 2026 03:38:56 -0500 — https://www.animenewsnetwork.com/news/2026-11-01/charisma-tv-anime-reveals-january-7-debut-in-teaser-video/.243413
+### Opera Manga Magazine Announces Shift to Digital Publication
+Mon, 02 Nov 2026 01:39:27 -0500 — https://www.animenewsnetwork.com/news/2026-11-02/opera-manga-magazine-announces-shift-to-digital-publication/.243425
 
-Franchise gets separate short anime series debuting on November 4; more cast also revealed
+Final print edition shipped on October 30
 
-### Rock is a Lady's Modesty's Hiroshi Fukuda Launches New Manga
-Sun, 01 Nov 2026 03:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-01/rock-is-a-lady-modesty-hiroshi-fukuda-launches-new-manga/.243399
+### 2026 Today's Korean Comics Awards Announce 5 Winners
+Mon, 02 Nov 2026 00:26:41 -0500 — https://www.animenewsnetwork.com/news/2026-11-02/2026-today-korean-comics-awards-announce-5-winners/.243308
 
-<cite>Koko wa Kagari no Territory</cite> debuts November 30
+<i>Low Orbit Human</i> by artist Cho Eun-young also receives Korea Cartoonist Association President's Award
 
-### Idoly Pride Game Ends Service on March 1
-Sun, 01 Nov 2026 01:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-01/idoly-pride-game-ends-service-on-march-1/.243397
+### Nobuyuki Takahashi Ends Parallel Leap Syndrome Manga in 2 Chapters
+Sun, 01 Nov 2026 23:05:43 -0500 — https://www.animenewsnetwork.com/news/2026-11-01/nobuyuki-takahashi-ends-parallel-leap-syndrome-manga-in-2-chapters/.243416
 
-Game launched in June 2021 for iOS, Android
+Romantic comedy manga launched in 2022
 
-### Shiba Inu Rooms Manga Gets TV Anime in Summer 2027
-Sat, 31 Oct 2026 22:44:52 -0400 — https://www.animenewsnetwork.com/news/2026-10-31/shiba-inu-rooms-manga-gets-tv-anime-in-summer-2027/.243404
+### Attack on Titan 3 Game's New Trailer Introduces Gameplay
+Sun, 01 Nov 2026 23:02:33 -0500 — https://www.animenewsnetwork.com/news/2026-11-01/attack-on-titan-3-game-new-trailer-introduces-gameplay/.243418
 
-Niina Nakabayashi, Mutsumi Tamura star in series at TMS Entertainment
+Koei Tecmo game launches on December 10 for PS5, Switch 2, Xbox X|S, PC via Steam
 
-### Happy Halloween 2026 From Around the Anime World, Part V
-Sat, 31 Oct 2026 21:57:58 -0400 — https://www.animenewsnetwork.com/interest/2026-10-31/happy-halloween-2026-from-around-the-anime-world-part-v/.243398
+### Happy Dog Day 2026 From Around the Anime World, Part II
+Sun, 01 Nov 2026 23:00:00 -0500 — https://www.animenewsnetwork.com/interest/2026-11-01/happy-dog-day-2026-from-around-the-anime-world-part-ii/.243424
 
-Featuring <i>My Dress-Up Darling, Final Fantasy, Animal Crossing, Dragon Quest, Makeine: Too Many Losing Heroines!, Akira Failing in Love, Hamtaro,</i> Kikuko Inoue, & more!
+Featuring Space Brothers, Keiichi Sigsawa, You Are a Four Leaf Clover, Thunder 3, Tono to Inu, Someone Hertz, Shū Uchida, & more!
 
-### Happy Halloween 2026 From Around the Anime World, Part IV
-Sat, 31 Oct 2026 20:20:00 -0400 — https://www.animenewsnetwork.com/interest/2026-10-31/happy-halloween-2026-from-around-the-anime-world-part-iv/.243396
+### Food Wars! Shokugeki no Soma Manga Artist Shun Saeki Ends Exclusive Contract With Shueisha
+Sun, 01 Nov 2026 22:58:31 -0500 — https://www.animenewsnetwork.com/news/2026-11-01/food-wars-shokugeki-no-soma-manga-artist-shun-saeki-ends-exclusive-contract-with-shueisha/.243415
 
-Featuring <i>Oshi no Ko, Mushoku Tensei, Spice & Wolf, Shangri-La Frontier, Bungo Stray Dogs, Tales of, Saiki K., Gushing Over Magical Girls,</i> & more!
+Saeki now accepts new project inquiries, but cannot take long-term projects
 
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Interview: ONE OR EIGHT on All-Or-Nothing Musical Identity, Creative Ambitions, and First Manila Concert
+Mon, 02 Nov 2026 05:57:14 GMT — https://animecorner.me/interview-one-or-eight-on-all-or-nothing-musical-identity-creative-ambitions-and-first-manila-concert/
+
+On October 23, ONE OR EIGHT brought their high-energy music to Samsung Hall, Manila,&hellip;
 
 ### Interview: Voice Actor Cassandra Lee Morris
 Sun, 01 Nov 2026 17:12:15 GMT — https://animecorner.me/interview-voice-actor-cassandra-lee-morris/
@@ -82,16 +87,6 @@ Bocchi the Rock is getting a movie in 2027 that stars Nijika and Seika.&hellip;
 Sat, 31 Oct 2026 20:53:30 GMT — https://animecorner.me/jujutsu-kaisen-reveals-12-new-culling-game-character-posters-ahead-of-season-4/
 
 JUJUTSU KAISEN revealed 12 new character poster visuals for Culling Game Arc Part 1 (Season 3) ahead of Season 4.
-
-### Isshiki-san Wants to Know About Love Anime Reveals New Trailer, Opening Theme Song Artist
-Sat, 31 Oct 2026 11:37:06 GMT — https://animecorner.me/isshiki-san-wants-to-know-about-love-anime-reveals-new-trailer-opening-theme-song-artist/
-
-Isshiki-san Wants to Know About Love anime revealed a new trailer and the opening&hellip;
-
-### Hiragi-san's House of Vampires Gets Anime
-Sat, 31 Oct 2026 10:49:24 GMT — https://animecorner.me/hiragi-sans-house-of-vampires-gets-anime/
-
-Hiragi-san's House of Vampires manga by Miki Yoshikawa (A Couple of Cuckoos) is getting&hellip;
 
 ## MyAnimeList News
 
@@ -125,24 +120,11 @@ Sat, 31 Oct 2026 19:52:56 -0700 — https://myanimelist.net/news/74892534?_locat
 
 Publishing company Shueisha announced a television anime adaptation of Esu Omori s Shibatsuki Bukken (Shiba Inu Rooms) on Sunday. An official website also opened and revealed the main staff, cast, a teaser visual (pictured), and a teaser promotional video. The anime is scheduled to air in Summer 2027. Voice actresses Niina Nakabayashi (Awajima Hyakkei) and Mutsumi Tamura (Kobayashi-san Chi no Maid Dragon) are starring as Koori Momose and Muu, respectively. Osamu Yamasaki (Seirei Gensouki, I...
 
-### Supporting Cast for Kaze wo Tsugumono Announced
-Sat, 31 Oct 2026 00:47:07 -0700 — https://myanimelist.net/news/74888954?_location=rss
-
-The official website for the Kaze wo Tsugumono (Inherit the Winds) original television anime announced supporting cast on Saturday. An advance theatrical screening will run for two weeks starting November 13. The anime will premiere in January 2027 at 11:30 p.m. on the Agaru Anime programming block on CBC and TBS 28 affiliated stations. Cast Nishiki Niimi: Daisuke Hirakawa (Tefuda ga Oome no Victoria) Kisaburou Kawai: Toshiyuki Toyonaga (Mao) Kyuusai Momoyama: Kappei Yamaguchi (Yomi no Ts...
-
-### Sumitomo Mitsui Trust Bank, Comisma Plan 10 Billion Yen Anime Production Fund
-Fri, 30 Oct 2026 22:20:15 -0700 — https://myanimelist.net/news/74888629?_location=rss
-
-Sumitomo Mitsui Trust Bank and IP platform company Comisma have agreed in principle to establish an investment fund focused on anime production, targeting 10 billion yen (approximately US$63.4 million) in assets under management by the end of fiscal 2027. The initiative aims to broaden access to production financing, attract a broader range of investors, and improve financial returns for creators as demand for Japanese animation continues to grow worldwide. Under the proposed arrangement, the t...
-
 ## Otaku USA
 
 _Nothing in the last 48 hours._
 
 ## Anime UK News
 
-### Autumn 2026 Preview – What’s New?
-Sat, 31 Oct 2026 11:00:54 +0000 — https://animeuknews.net/2026/10/autumn-2026-preview-whats-new/
-
-So many continuations! Can there be too many returning series? Our reviewers take a first look at the Autumn Season and select some titles – old and new – well worth your time!
+_Nothing in the last 48 hours._
 
