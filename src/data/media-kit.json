@@ -1,54 +1,58 @@
 {
-  "updated": "2026-10-26",
+  "updated": "2026-11-02",
   "search": {
-    "from": "2026-09-26",
-    "to": "2026-10-23",
-    "impressions": 5402,
-    "clicks": 64,
-    "position": 8.9,
+    "from": "2026-10-03",
+    "to": "2026-10-30",
+    "impressions": 9448,
+    "clicks": 91,
+    "position": 8.5,
     "queries": [
       "paintbridge krita",
       "duke nukem 3d dlss 5",
       "immersion blender for photographers",
+      "blender vs websocket",
       "blender 5.3 dispersion",
-      "blender painterly shadows",
       "hellraiser revival ray tracing",
-      "silent hill townfall frame generation",
+      "dlss 5 pass count",
       "gears of war e day megalights",
-      "unreal engine 6",
       "blender for photographers 2024",
       "blender krita bridge",
-      "dlss 5 pass count",
-      "blender geometry nodes feathers",
+      "unreal engine 6",
+      "blender downtown generator",
+      "blender krita texture paint",
+      "blender spectral rendering",
       "cinema 4d 2026.4",
-      "downtown generator blender",
+      "fsr 4.1 xbox series x",
+      "is fsr 4 ai",
       "krita blender plugin",
-      "quadify blender",
+      "painterly shadows blender",
+      "silent hill townfall frame generation",
+      "substance painter cage",
       "wildwood frames per second",
-      "fire emblem fortune's weave review",
-      "is it the end of the game after coronation? dawnwalker",
-      "ace combat 8 900 meaning",
-      "how long is wildwood movie",
       "wildwood production time",
-      "end of abyss opencritic",
-      "transport fever 3 mods",
-      "hypernova 60b",
-      "mobygames credits",
-      "silent hill townfall stuttering",
-      "end of abyss metacritic",
-      "framework laptop 16 rtx 5070 module price images release date"
+      "how long is wildwood movie",
+      "clayface makeup",
+      "how long was wildwood in production",
+      "wildwood duration",
+      "wildwood length",
+      "wildwood how long did it take to make",
+      "how long did it take to film wildwood"
     ],
     "countries": [
       {
         "name": "United States",
-        "share": 20
+        "share": 25
       },
       {
         "name": "United Kingdom",
+        "share": 15
+      },
+      {
+        "name": "Canada",
         "share": 7
       },
       {
-        "name": "Sweden",
+        "name": "Australia",
         "share": 4
       },
       {
@@ -56,20 +60,19 @@
         "share": 4
       },
       {
-        "name": "Russia",
-        "share": 4
-      },
-      {
-        "name": "Japan",
-        "share": 4
+        "name": "Germany",
+        "share": 3
       }
     ]
   },
   "archive": {
-    "articles": 260,
-    "craft": 102,
+    "articles": 275,
+    "craft": 106,
     "reviews": 40
   },
-  "newsletter": null,
-  "bluesky": 41
+  "newsletter": {
+    "subscribers": 2,
+    "openRate": 0
+  },
+  "bluesky": 47
 }
