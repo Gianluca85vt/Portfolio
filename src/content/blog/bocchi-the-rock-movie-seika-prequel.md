@@ -3,7 +3,7 @@ title: "Bocchi the Rock movie: Seika, a third director"
 date: 2026-11-01
 category: Manga
 excerpt: A prequel about Nijika's older sister opens in Japan in 2027, directed by Shin Wakabayashi. Three productions, three directors, one very specific style.
-cover: /img/blog/bocchi-the-rock-movie-seika-prequel/cover.svg
+cover: /img/blog/bocchi-the-rock-movie-seika-prequel/video-thumb.jpg
 sources:
   - outlet: Anime News Network
     url: https://www.animenewsnetwork.com/news/2026-11-01/bocchi-the-rock-manga-gets-anime-film-in-2027/.243417
@@ -34,7 +34,15 @@ directed Wonder Egg Priority, is directing.
 That is a feature built out of original footage from a prologue chapter. It is
 an expansion job, and the franchise has not done one before.
 
-## What the style is actually for
+<figure>
+  <button class="video-embed" data-video="4pYw8hZRVCM" data-title="【特報】「映画ぼっち・ざ・ろっく！ 星のあしあと」2027年公開決定！" type="button">
+    <img src="/img/blog/bocchi-the-rock-movie-seika-prequel/video-thumb.jpg" loading="lazy" width="1440" height="810" alt="Still from the official announcement teaser for Eiga Bocchi the Rock! Hoshi no Ashiato" />
+    <span class="play" aria-hidden="true"></span>
+  </button>
+  <figcaption>The announcement teaser, posted on the film’s official channel on 1 November 2026. It is a teaser rather than a trailer, and until the production says otherwise it is the only moving footage of it that exists.</figcaption>
+</figure>
+
+## What the style is for
 
 If you have only heard about this show second-hand, you have heard about the
 guitar. Fair enough — the performance animation is the part that makes other
