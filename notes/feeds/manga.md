@@ -1,66 +1,66 @@
-# Manga — harvested 2026-11-02T12:51:46.730Z
+# Manga — harvested 2026-11-02T22:27:45.838Z
 
 ## Anime News Network
 
-### My Lovesick Life as a '90s Otaku's Nico Nicholson Launches New Manga
-Mon, 02 Nov 2026 07:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-02/my-lovesick-life-as-a-90s-otaku-nico-nicholson-launches-new-manga/.243426
+### Television Producer/Distributor Sandy Frank Dies at 97
+Mon, 02 Nov 2026 16:30:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-02/television-producer-distributor-sandy-frank-dies-at-97/.243457
 
-<cite>Yosojito Konkatsu</cite> debuts December 1
+Sandy Frank distributed <cite>Battle of the Planets</cite> anime; <cite>Name That Tune</cite>, <cite>The Dating Game</cite> game shows
 
-### New Resident Evil Reboot Film Earns US$400 Million Globally
-Mon, 02 Nov 2026 06:44:14 -0500 — https://www.animenewsnetwork.com/news/2026-11-02/new-resident-evil-reboot-film-earns-usd400-million-globally/.243442
+### All-Female Troupe Takarazuka Revue to Perform Musical for My Happy Marriage Series
+Mon, 02 Nov 2026 15:30:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-02/all-female-troupe-takarazuka-revue-to-perform-musical-for-my-happy-marriage-series/.243454
 
-Film becomes highest-grossing installment in horror franchise
+Flower Troupe to perform show in Hyōgo from June 26-August 8, Tokyo from August 28-October 10
 
-### Voltage, Toei Animation Reveal Kakan Ruirui: The Caged Lantern of Yomi Otome Game For Release in 2027 on Switch
-Mon, 02 Nov 2026 05:54:53 -0500 — https://www.animenewsnetwork.com/news/2026-11-02/voltage-toei-animation-reveal-kakan-ruirui-the-caged-lantern-of-yomi-otome-game-for-release-in-2027-/.243441
+### The Remarried Empress Live-Action Series Episodes 1-3 Preview
+Mon, 02 Nov 2026 14:30:00 -0500 — https://www.animenewsnetwork.com/review/the-remarried-empress/episodes-1-3/.243445
 
-Game will feature illustrations by <cite>Hakuōki's</cite> Yone Kazuki; 1st teaser video will debut at AGF 2026 event next weekend
+Navier’s story is really just beginning. We have a sense of who everyone else is as a person, but she remains a little hidden, because that’s what she needs to do to survive a situation that has shaken her to the core.
 
-### Toshihiro Nagoshi's Nagoshi Studio Shuts Down
-Mon, 02 Nov 2026 05:22:38 -0500 — https://www.animenewsnetwork.com/news/2026-11-02/toshihiro-nagoshi-nagoshi-studio-shuts-down/.243440
+### Recording/Sound Mixer Yoshio Obara Dies
+Mon, 02 Nov 2026 14:30:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-02/recording-sound-mixer-yoshio-obara-dies/.243451
 
-Studio announced <cite>Gang of Dragon</cite> game during The Game Awards last December
+Obara worked on <cite>In This Corner of the World</cite>, <cite>Summer Wars</cite>, <cite>Wolf Children</cite>, more anime
 
-### Tomoo Performs Ending Theme for Hirayasumi TV Anime
-Mon, 02 Nov 2026 05:01:48 -0500 — https://www.animenewsnetwork.com/news/2026-11-02/tomoo-performs-ending-theme-for-hirayasumi-tv-anime/.243439
+### Crunchyroll Adds Gunma-chan Anime's English Dub
+Mon, 02 Nov 2026 13:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-02/crunchyroll-adds-gunma-chan-anime-english-dub/.243450
 
-Series debuts in January 2027
+Anime based on Gunma Prefecture's mascot character premiered in October 2021
 
-### Claymore's Norihiro Yagi Launches Bartlet Fairy Basslet Manga
-Mon, 02 Nov 2026 04:42:36 -0500 — https://www.animenewsnetwork.com/news/2026-11-02/claymore-norihiro-yagi-launches-bartlet-fairy-basslet-manga/.243435
+### From Swords, to Cat Girls, Boy Love, and Fairy Tail: An Interview with Shinji Ishihara and Yosuke Shimada
+Mon, 02 Nov 2026 12:39:33 -0500 — https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-anime-nyc/from-swords-to-cat-girls-boy-love-and-fairy-tail-an-interview-with-shinji-ishihara-and-yosuke-/.240994
 
-Manga Plus, Viz Media both publish "hack and slash fantasy epic" series in English
+With a delicate balance of high-stakes action and wacky comedy, this new season of <i>Reincarnated as a Sword</i> has Ishihara doing what he does best.
 
-### Opera Manga Magazine Announces Shift to Digital Publication
-Mon, 02 Nov 2026 01:39:27 -0500 — https://www.animenewsnetwork.com/news/2026-11-02/opera-manga-magazine-announces-shift-to-digital-publication/.243425
+### We Are Aliens Film Wins Award at Hawai'i Int'l Film Festival
+Mon, 02 Nov 2026 12:30:34 -0500 — https://www.animenewsnetwork.com/news/2026-11-02/we-are-aliens-film-wins-award-at-hawaii-intl-film-festival/.243448
 
-Final print edition shipped on October 30
+Film won Kau Ka Hōkū Award, honoring international filmmaker's 1st/2nd feature
 
-### 2026 Today's Korean Comics Awards Announce 5 Winners
-Mon, 02 Nov 2026 00:26:41 -0500 — https://www.animenewsnetwork.com/news/2026-11-02/2026-today-korean-comics-awards-announce-5-winners/.243308
+### From Far Away ‒ Episode 5
+Mon, 02 Nov 2026 12:30:00 -0500 — https://www.animenewsnetwork.com/review/from-far-away/episode-5/.243449
 
-<i>Low Orbit Human</i> by artist Cho Eun-young also receives Korea Cartoonist Association President's Award
+Noriko’s barely been at Gaya’s for a day when a man with a knife attacks her. Definitely safer than being with Izark.
 
-### Nobuyuki Takahashi Ends Parallel Leap Syndrome Manga in 2 Chapters
-Sun, 01 Nov 2026 23:05:43 -0500 — https://www.animenewsnetwork.com/news/2026-11-01/nobuyuki-takahashi-ends-parallel-leap-syndrome-manga-in-2-chapters/.243416
+### The Forsaken Saintess and Her Foodie Roadtrip in Another World Anime Series Review
+Mon, 02 Nov 2026 12:00:00 -0500 — https://www.animenewsnetwork.com/review/the-forsaken-saintess-and-her-foodie-roadtrip-in-another-world/anime-series/.243146
 
-Romantic comedy manga launched in 2022
+It seems appropriate that a show with “foodie” in the title should try to have its cake and eat it too.
 
-### Attack on Titan 3 Game's New Trailer Introduces Gameplay
-Sun, 01 Nov 2026 23:02:33 -0500 — https://www.animenewsnetwork.com/news/2026-11-01/attack-on-titan-3-game-new-trailer-introduces-gameplay/.243418
+### New 'Nippon Anime Awards' Event Announced for November 2027
+Mon, 02 Nov 2026 11:40:18 -0500 — https://www.animenewsnetwork.com/news/2026-11-02/new-nippon-anime-awards-event-announced-for-november-2027/.243447
 
-Koei Tecmo game launches on December 10 for PS5, Switch 2, Xbox X|S, PC via Steam
+New awards event to take place at SGC Hall Ariake on November 21, 2027
 
-### Happy Dog Day 2026 From Around the Anime World, Part II
-Sun, 01 Nov 2026 23:00:00 -0500 — https://www.animenewsnetwork.com/interest/2026-11-01/happy-dog-day-2026-from-around-the-anime-world-part-ii/.243424
+### A Certain Dark Item ‒ Episode 4
+Mon, 02 Nov 2026 11:30:00 -0500 — https://www.animenewsnetwork.com/review/a-certain-dark-item/episode-4/.243428
 
-Featuring Space Brothers, Keiichi Sigsawa, You Are a Four Leaf Clover, Thunder 3, Tono to Inu, Someone Hertz, Shū Uchida, & more!
+You know, all things considered, Mugino's a pretty chill boss.
 
-### Food Wars! Shokugeki no Soma Manga Artist Shun Saeki Ends Exclusive Contract With Shueisha
-Sun, 01 Nov 2026 22:58:31 -0500 — https://www.animenewsnetwork.com/news/2026-11-01/food-wars-shokugeki-no-soma-manga-artist-shun-saeki-ends-exclusive-contract-with-shueisha/.243415
+### Voice Actor Ryūji Nakagi Dies at 89
+Mon, 02 Nov 2026 10:50:52 -0500 — https://www.animenewsnetwork.com/news/2026-11-02/voice-actor-ryuji-nakagi-dies-at-89/.243446
 
-Saeki now accepts new project inquiries, but cannot take long-term projects
+Nakagi voiced Gōzō in <cite>Yawara!</cite>, Tokuo in <cite>Oishinbo</cite>, Sakuma in <cite>Patlabor</cite>
 
 ## Crunchyroll News
 
@@ -82,11 +82,6 @@ During Anime Central 2026 we had the incredible opportunity to speak with voice 
 Sun, 01 Nov 2026 12:07:27 GMT — https://animecorner.me/bocchi-the-rock-gets-movie-starring-nijika-and-seika-in-2027/
 
 Bocchi the Rock is getting a movie in 2027 that stars Nijika and Seika.&hellip;
-
-### Jujutsu Kaisen Reveals 12 New Culling Game Character Posters Ahead of Season 4
-Sat, 31 Oct 2026 20:53:30 GMT — https://animecorner.me/jujutsu-kaisen-reveals-12-new-culling-game-character-posters-ahead-of-season-4/
-
-JUJUTSU KAISEN revealed 12 new character poster visuals for Culling Game Arc Part 1 (Season 3) ahead of Season 4.
 
 ## MyAnimeList News
 
