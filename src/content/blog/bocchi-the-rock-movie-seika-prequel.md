@@ -20,7 +20,6 @@ artistView:
   misses:
     - "Pipeline: a style built out of one-off techniques does not scale, and it does not hand over cleanly either. Every switch is a bespoke shot somebody has to invent, schedule and composite, which is a tax a feature pays per cut."
     - "Character design: Seika has been a background adult in a show about teenagers. Promoting her to a lead means a design built to sit still now has to carry performance, and the announcement art is not where you can tell whether that work has been done."
-draft: true
 ---
 
 Sunday brought a Bocchi the Rock! film announcement, and it is not the one the
