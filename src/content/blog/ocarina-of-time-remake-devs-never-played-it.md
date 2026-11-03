@@ -17,7 +17,6 @@ artistView:
   misses:
     - "Environment: Hyrule Field's emptiness began as a draw-distance budget and turned into the game's sense of scale. Hands-on previews disagree about how much of the layout moved, and that is the detail I want pinned down before launch."
     - "Animation: full voice acting is new, and it loads facial performance onto characters whose 1998 faces were a texture on a flat plane. Nothing in the coverage so far says how that got solved."
-draft: true
 ---
 
 Nintendo published the twenty-fourth volume of Ask the Developer on 2 November,
