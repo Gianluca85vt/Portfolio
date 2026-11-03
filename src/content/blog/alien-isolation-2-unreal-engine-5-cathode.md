@@ -21,7 +21,6 @@ artistView:
   misses:
     - "Art direction: UE5 pulls toward soft bounced light and dense geometry, and the Nostromo look is built on hard shadows and chunky low-detail industrial shapes. That fight is won in the material library, not in the engine settings."
     - "Level design: an open colony surface gives up the corridor, which was the first game's lighting rig and its tension in one object. Nothing in the trailers has yet shown what replaces it."
-draft: true
 ---
 
 Creative Assembly is rebuilding the Alien look in somebody else's engine. The
