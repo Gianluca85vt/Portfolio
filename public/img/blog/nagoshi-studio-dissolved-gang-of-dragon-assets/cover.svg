@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Nagoshi Studio dissolved 31 October 2026">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0.65" y2="1">
+      <stop offset="0" stop-color="#18011F"/>
+      <stop offset="0.62" stop-color="#4A0A28"/>
+      <stop offset="1" stop-color="#D6294E"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <g fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">
+    <text x="80" y="150" font-size="34" letter-spacing="6" opacity="0.72">NAGOSHI STUDIO</text>
+    <text x="80" y="310" font-size="190" font-weight="700">¥7bn</text>
+    <text x="80" y="382" font-size="38" opacity="0.88">short of finishing GANG OF DRAGON</text>
+    <text x="80" y="470" font-size="30" opacity="0.6">Dissolved by shareholders' resolution, 31 October 2026</text>
+    <text x="80" y="512" font-size="30" opacity="0.6">Games shipped: none</text>
+  </g>
+  <rect x="80" y="560" width="190" height="4" fill="#FFFFFF" opacity="0.5"/>
+</svg>
