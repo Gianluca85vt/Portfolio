@@ -19,7 +19,6 @@ artistView:
   misses:
     - "Scope: two minutes of in-engine footage in a six-street district tells you nothing about crowd density or streaming, which is exactly where a Kabukicho open world would have got expensive."
     - "Car chases: the driving cuts are short and heavily edited, which is what studios do when vehicle handling is still being tuned."
-draft: true
 ---
 
 A company dissolution in Japan leaves a paper trail. On 2 November a notice
