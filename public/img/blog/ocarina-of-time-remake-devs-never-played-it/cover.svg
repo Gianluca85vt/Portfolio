@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-label="Ocarina of Time remake: the devs who never played it">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0.7" y2="1">
+      <stop offset="0%" stop-color="#18011F"/>
+      <stop offset="100%" stop-color="#7A3B12"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#g)"/>
+  <text x="80" y="150" fill="#E6B98A" font-family="Helvetica,Arial,sans-serif" font-size="30" letter-spacing="6">OCARINA OF TIME · SWITCH 2</text>
+  <text x="80" y="310" fill="#FFFFFF" font-family="Helvetica,Arial,sans-serif" font-size="150" font-weight="700">4KB</text>
+  <text x="80" y="385" fill="#FFFFFF" font-family="Helvetica,Arial,sans-serif" font-size="52" font-weight="600">of texture memory</text>
+  <text x="80" y="455" fill="#E6B98A" font-family="Helvetica,Arial,sans-serif" font-size="40">shaped the art being rebuilt</text>
+  <text x="80" y="560" fill="#C9A98F" font-family="Helvetica,Arial,sans-serif" font-size="34">Nintendo gave the revision calls to staff</text>
+  <text x="80" y="606" fill="#C9A98F" font-family="Helvetica,Arial,sans-serif" font-size="34">who never played the 1998 original</text>
+  <text x="80" y="820" fill="#9C8070" font-family="Helvetica,Arial,sans-serif" font-size="28">Ask the Developer Vol. 24 · 2 November 2026</text>
+</svg>
