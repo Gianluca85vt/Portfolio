@@ -40,7 +40,6 @@ artistView:
   misses:
     - "Shot economy: reviewers describe long human stretches between monster sequences, and a near-square frame at IMAX resolution is exactly the thing that makes a producer count kaiju shots twice."
     - "Environments: one review notes the climactic battlegrounds read grey and unpeopled next to Minus One's, which is what happens when set dressing loses the argument with sim time."
-draft: true
 ---
 
 Rotten Tomatoes has the sequel in the nineties. The star ratings underneath
