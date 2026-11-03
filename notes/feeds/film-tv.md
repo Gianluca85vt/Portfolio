@@ -1,170 +1,170 @@
-# Film & TV — harvested 2026-11-03T12:21:19.925Z
+# Film & TV — harvested 2026-11-03T20:16:38.433Z
 
 ## Variety
 
-### Versant Sees Q3 Profit Drop Despite Upticks in Non-TV Operations
-Tue, 03 Nov 2026 12:00:00 +0000 — https://variety.com/2026/tv/news/versant-q3-profit-drop-ms-now-cnbc-1236938298/
+### ‘The Elder Scrolls 6’ Title Revealed (Gaming News Roundup)
+Tue, 03 Nov 2026 19:16:47 +0000 — https://variety.com/2026/gaming/news/gaming-news-roundup-november-2-1236937743/
 
-Versant Media said third quarter profit fell as its dependence on traditional media properties forced it to navigate with drops in cash from both advertising and distribution even as the company acquires new direct-to-consumer operations and launches digital businesses tied to its linear properties. The owner of MS NOW, CNBC and USA said net income [ ]
+Bethesda Game Studios has officially revealed the subtitle and logo for “The Elder Scrolls 6.” The sixth edition was announced as “Sentinel” alongside a logo reveal in a video message from longtime franchise director Todd Howard as part of Bethesda’s 40th anniversary Tuesday. The game will serve as the followup to “Skyrim,” the 2011 installation [ ]
 
-### The Celebrity Traitors Star James Acaster Rejects Report He Complained About Competitors: Completely Fabricated
-Tue, 03 Nov 2026 11:21:40 +0000 — https://variety.com/2026/tv/global/celebrity-traitors-james-acaster-slams-report-complained-on-set-1236938273/
+### Netflix Orders YA Drama Prep Based on Curtis Sittenfeld Novel From Nicole Taylor
+Tue, 03 Nov 2026 19:05:33 +0000 — https://variety.com/2026/tv/news/netflix-ya-drama-prep-curtis-sittenfeld-novel-nicole-taylor-1236938734/
 
-James Acaster is clearing the air about his time on The Celebrity Traitors, calling a report that he complained about his competitors completely fabricated. A few weeks ago, the Daily Mail claimed that the comedian had complained to producers that he was being teased by fellow players (and comedians) Rob Beckett and Romesh Ranganathan and [ ]
+Netflix has given a straight-to-series order to the drama Prep, based on the novel of the same name by Curtis Sittenfeld. The show is officially described as a coming-of-age story about scholarship girl Lee Fiora’s high school years at Ault, a prestigious New England boarding school, and her journey to navigate friendship, crushes and class [ ]
 
-### Shin Min-a, Ju Ji-hoon, Lee Jong-suk and Lee Se-young Take Webtoon Juggernaut The Remarried Empress to Disney+ and Hulu
-Tue, 03 Nov 2026 10:57:11 +0000 — https://variety.com/2026/tv/festivals/shin-min-lee-jong-suk-remarried-empress-disney-hulu-1236908746/
+### James Wan and Jason Blum Unveil New Company Name: Blumhouse Atomic
+Tue, 03 Nov 2026 18:30:01 +0000 — https://variety.com/2026/film/news/james-wan-jason-blum-new-company-name-blumhouse-atomic-1236938695/
 
-One of Naver Webtoon’s most popular titles, “The Remarried Empress” has drawn nearly 3 billion views in 10 languages since it launched in 2019. As a live-action series on Disney+, and on Hulu in the U.S., it carrys the expectations of a fan base that already knows every character. Originally scheduled to premiere on Nov. [ ]
+James Wan and Jason Blum have unveiled a new umbrella title for their merged horror production companies, Blumhouse and Atomic Monster: Blumhouse Atomic. Blumhouse and Atomic Monster will continue to operate as distinct production labels, and their respective creative teams will develop and produce film and television projects under each banner. “When we merged our [ ]
 
-### Alice in Borderland Star Isomura Hayato on the Role He Was Warned Off, Judging Tokyo’s Ethical Film Award and Why Japanese Cinema Needs Government Backing
-Tue, 03 Nov 2026 10:47:29 +0000 — https://variety.com/2026/film/festivals/alice-in-borderland-star-isomura-hayato-role-warned-off-1236938269/
+### What Election Day Commentators Are Saying: Trump Rants, Hasan Piker Wonders if MAGA Cult Is Over and More (Updating)
+Tue, 03 Nov 2026 18:28:33 +0000 — https://variety.com/2026/tv/news/election-day-reactions-hasan-piker-trump-1236938513/
 
-When Isomura Hayato was considering a part in “The Moon,” Ishii Yuya’s drama drawn from a real incident at a facility for people with disabilities, the people around him tried to talk him out of it. The events were still fresh, and they worried the role could damage his career. He took it anyway. The [ ]
+It s Election Day in America, which means that pundits were falling over each other to discuss the day s results as soon as the polls opened. At stake: all 435 seats in the House of Representatives, 35 Senate seats and plenty of high-profile state races. Here s what some of the country s loudest and most influential talkers [ ]
 
-### Elsinore, I See Buildings Fall Like Lightning and Animol Lead British Independent Film Awards Nominations
-Tue, 03 Nov 2026 10:00:00 +0000 — https://variety.com/2026/awards/global/bifa-nominations-2026-elsinore-i-see-buildings-animol-1236937954/
+### Netflix Launches First AI-Branded Content Recommendations Feature on TVs
+Tue, 03 Nov 2026 18:00:00 +0000 — https://variety.com/2026/tv/news/netflix-launches-ai-discover-content-recommendations-1236937769/
 
-Elsinore, the acclaimed biographical drama that has already propelled its lead star Andrew Scott into the Oscars best actor race, has emerged as the film to beat at the 2026 British Independent Film Awards. The Studiocanal feature, in which Scott portrays Ian Charleson, the Chariots of Fire star who was offered the career-peak role of [ ]
+Netflix, which has seen viewer engagement slide in recent quarters, is turning to AI for a new feature aimed at spurring users to find something new to watch. The company on Tuesday (Nov. 3) is debuting AI Discover, a new feature on the Netflix TV app, initially to a limited number of subscribers in the [ ]
 
-### Independent Talent to Rep Outernet London for Creative Commercial Strategy (EXCLUSIVE)
-Tue, 03 Nov 2026 10:00:00 +0000 — https://variety.com/2026/music/global/independent-talent-outernet-london-1236938228/
+### Hinotama: Ball of Fire Review: Gentle, Handsomely Shot Domestic Drama Is a Promising Debut for Yaza Takenoshin
+Tue, 03 Nov 2026 17:56:11 +0000 — https://variety.com/2026/film/reviews/hinotama-ball-of-fire-review-1236938672/
 
-Independent Talent Group have been appointed creative commercial agency for immersive U.K. venue Outernet London. The partnership will unite Independent’s substantial client list – which includes artists, filmmakers, creators, musicians and producers – with Outernet’s immersive capabilities. The central London entertainment district offers wrap-around immersive digital screens which are among the largest and most advanced [ ]
+The early moments of Hinotama: Ball of Fire, the debut feature from young Japanese director Yaza Takenoshin (who graduated from Harvard this past summer), almost move like clockwork, finding a pleasing rhythm in everyday mundanities — matching the repetition of numbers being called out for test papers to a mother having groceries counted at the [ ]
 
-### Tallinn Black Nights Festival: New Artistic Director Triin Tramberg on Making Sure That at 30 It Stays ‘Bold, Unpredictable Yet Accessible’
-Tue, 03 Nov 2026 09:48:23 +0000 — https://variety.com/2026/film/global/tallinn-black-nights-triin-tramberg-new-artistic-director-1236938233/
+### Just Before Dawn Producer Prevails in Cult Horror Courtroom Drama
+Tue, 03 Nov 2026 17:40:00 +0000 — https://variety.com/2026/film/news/just-before-dawn-cult-horror-courtroom-drama-1236935610/
 
-The Tallinn Black Nights Film Festival – also known as PÖFF – marks a milestone this year as the festival celebrates its 30th anniversary and the first under the helm of artistic director Triin Tramberg as festival founder Tiina Lokk moves sideways to a strategic role within PÖFF. Tramberg’s own imprint on the festival as [ ]
+A surreal legal battle unfolded last month in a courtroom in West Palm Beach, Fla., where a retired accountant faced off against a distributor of cult horror DVDs over ownership of a 1981 slasher film. The distributor, David DeFalco, goes by “The Demon and taunted the accountant in a series of unhinged livestream videos, calling [ ]
 
-### Mahesh Babu Invests in Indian PC and Console Game Studio Shortgun Games
-Tue, 03 Nov 2026 08:59:39 +0000 — https://variety.com/2026/gaming/news/mahesh-babu-invests-indian-console-studio-shortgun-games-1236938224/
+### Billy Evans Answers You Can See Everything Burning Questions on Alleged Cocaine Use, Nathan Fielder Regrets and More
+Tue, 03 Nov 2026 17:37:23 +0000 — https://variety.com/2026/film/news/billy-evans-you-can-see-everything-cocaine-nathan-fielder-1236938565/
 
-Telugu cinema superstar Mahesh Babu has signed on as a strategic investor in Mumbai-based Shortgun Games, backing a studio that is building original titles for PC and console rather than mobile, long the focus of India’s digital entertainment sector. The studio, founded by Jeet Chandan and Vidhit Mehta, is developing original, franchise-scale IP aimed at [ ]
+Billy Evans, Elizabeth Holmes romantic partner and the villainous third wheel in Nathan Fielder s You Can See Everything, has taken to social media to answer burning questions about the documentary. In a post on X Monday night, Evans invited viewers to AMA (ask me anything), with the addendum: Needs to be legally permissable [sic]. Asked [ ]
 
-### BTS, Katseye Drive Hybe to Record Quarterly Revenue and Profit
-Tue, 03 Nov 2026 08:24:40 +0000 — https://variety.com/2026/music/news/bts-katseye-hybe-record-quarterly-revenue-profit-1236938217/
+### Magic Atlas Review: Surreal, Shapeshifting Animation Is a Sometimes Mystifying Technical Marvel
+Tue, 03 Nov 2026 17:20:57 +0000 — https://variety.com/2026/film/reviews/magic-atlas-review-1236938231/
 
-BTS’ world tour sent K-pop powerhouse Hybe to the highest quarterly revenue and operating profit in its history in the third quarter of 2026. Revenue for the quarter reached KRW1.5257 trillion ($1.13 billion) and operating profit came in at KRW188.5 billion ($140.2 million). Both numbers beat the records the company set in the second quarter. [ ]
+There’s an increasingly undeniable hunger for the hand-crafted. As discourse around animation becomes more and more absorbed by anaesthetizing questions about AI, it becomes clearer that people who care about the medium are pushing for tactility and foregrounding real texture, materials imprinted with genuine human feeling. This feels especially true of Sun Xun’s Magic Atlas, [ ]
 
-### Kefi Review: A Grief-Stricken Family Reunion Is Beset by Aliens, Drugs and Dinosaurs in Kisin Saito s Kaleidoscopic, Genre-Fluid Debut
-Tue, 03 Nov 2026 08:19:52 +0000 — https://variety.com/2026/film/reviews/kefi-review-1236938211/
+### La Bola Negra Becomes Spain’s Third Biggest Spanish Hit Ever as Its Box Office Surges 8% Above Pre-Pandemic Average
+Tue, 03 Nov 2026 17:02:10 +0000 — https://variety.com/2026/film/global/la-bola-negra-spain-2026-box-office-surge-1236936640/
 
-Late on in Kefi, one of its central protagonists — the youngest of three sisters — justifies a spontaneous hook-up with a random stranger by claiming that “the flow” of their chance encounter “was really cinematic.” The same, perhaps, can be said for Kisin Saito’s brazenly confident debut feature as a whole — a genre-fluid [ ]
+Javier Calvo and Javier Ambrossi’s “La Bola Negra” has become the third highest-grossing Spanish film of all time at Spain’s domestic box office, earning an estimated €36.7 million ($41.0 million) through Nov. 1, according to Rentrak figures. Only Emilio Martínez-Lázaro’s blockbuster comedy “Ocho apellidos vascos” (“Spanish Affair,” $61.8 million) and J.A. Bayona’s disaster survival drama [ ]
 
 ## The Hollywood Reporter
 
-### Versant Earnings Best Estimates in Quarter of Fandango, MS NOW Expansion
-Tue, 03 Nov 2026 12:01:13 +0000 — https://www.hollywoodreporter.com/business/business-news/versant-q3-earnings-beat-forecasts-1236745988/
+### Prep Series Based on Curtis Sittenfeld Bestseller a Go at Netflix
+Tue, 03 Nov 2026 19:32:02 +0000 — https://www.hollywoodreporter.com/tv/tv-news/netflix-prep-series-curtis-sittenfeld-novel-1236746995/
 
-The spinoff company posts $1.59 billion in revenue.
+'One Day' creator Nicole Taylor is the showrunner for the YA drama.
 
-### Cinemark Posts Sharply Higher Third-Quarter Results Amid Hollywood Box Office Rebound
-Tue, 03 Nov 2026 11:57:00 +0000 — https://www.hollywoodreporter.com/business/business-news/cinemark-third-quarter-earnings-1236746456/
+### Nicolas Cage Says He s a Little Bit Homeless After Sinkhole Damaged His Malibu Home
+Tue, 03 Nov 2026 19:09:15 +0000 — https://www.hollywoodreporter.com/news/general-news/nicolas-cage-homeless-sinkhole-damaged-malibu-home-1236746872/
 
-The movie theater giant, led by CEO Sean Gamble, saw concession and admissions revenues rise from year-earlier levels.
+"I’m just sort of living in hotels," the Oscar winner shared at Los Angeles Comic Con over the weekend.
 
-### ABC News Drops New Episode of The Dropout That Tackles You Can See Everything
-Tue, 03 Nov 2026 11:00:00 +0000 — https://www.hollywoodreporter.com/business/digital/new-episode-the-dropout-podcast-released-holmes-film-1236746484/
+### Chris Rock Gets Real on Giving Up Porn and Moving Past the Crazy Night of the Oscar Slap
+Tue, 03 Nov 2026 18:53:36 +0000 — https://www.hollywoodreporter.com/news/general-news/chris-rock-interview-oscar-slap-porn-addiction-gq-cover-1236746896/
 
-The podcast that inspired the Hulu series last released a new episode in 2022, but listenership has surged following the success of the Elizabeth Holmes documentary film.
+The 'Misty Green' filmmaker opens up on "crying like a bitch" in therapy, picking up the pieces after his multi-million dollar divorce and cleaning up his vices: "I haven’t watched porn in five, six years."
 
-### British Independent Film Awards: Elsinore Leads Nominations With 12
-Tue, 03 Nov 2026 10:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/bifa-nominations-2026-list-elsinore-andrew-scott-1236746638/
+### Jason Blum and James Wan Rename Their Company
+Tue, 03 Nov 2026 18:30:00 +0000 — https://www.hollywoodreporter.com/business/business-news/jason-blum-and-james-wan-blumhouse-atomic-1236746882/
 
-Andrew Scott, Erin Doherty, Bella Ramsey and Juliette Binoche are among the big names nominated in performance categories at this year's BIFAs.
+Blumhouse Atomic Monster will now be known as Blumhouse Atomic.
 
-### Jon Stewart, Jimmy Kimmel, Seth Meyers Take Aim at Trump, Michigan s Haley Stevens on Eve of Election Day
-Tue, 03 Nov 2026 08:22:49 +0000 — https://www.hollywoodreporter.com/tv/tv-news/stewart-kimmel-meyers-mock-trump-haley-stevens-eve-election-1236746597/
+### How to Stream 2026 Midterm Election News Coverage Online
+Tue, 03 Nov 2026 18:12:05 +0000 — https://www.hollywoodreporter.com/tv/tv-news/watch-midterm-election-results-news-free-cnn-fox-cbs-abc-nbc-2026-1236746837/
 
-Late night hosts delighted in the rather demented final days of midterms, focusing on Trump's meandering rallies and Stevens' bizarre endorsement of GOP candidate Mike Rogers.
+Election Day is upon us. Here's how to stream dedicated news programming on ABC, NBC, CBS, CNN, Fox News, MS Now and NewsNation without a traditional TV plan.
 
-### Marilyn Monroe, Audrey Hepburn, PÖFF Garments Bring the Glitz to New Fashion Museum Near Tallinn
-Tue, 03 Nov 2026 08:01:00 +0000 — https://www.hollywoodreporter.com/lifestyle/style/marilyn-monroe-audrey-hepburn-poff-tallinn-fashion-museum-1236741709/
+### Netflix’s New AI Feature Wants to Know Your Exact Mood
+Tue, 03 Nov 2026 18:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/netflix-ai-discover-tab-mood-1236745968/
 
-Cinema meets couture at Keila-Joa Castle, also known as Schloss Fall, with its inaugural exhibition, "Red Carpet: From Ballrooms to Film Galas," with one room dedicated to the Tallinn Black Nights Film Festival.
+The streamer is launching AI Discover, a new feature to help answer the company's decades-long question: What do subscribers really want to watch?
 
-### A Royal Surprise: ‘The Remarried Empress’ Releases One Day Early on Disney+ and Hulu
-Tue, 03 Nov 2026 02:20:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/the-remarried-empress-release-early-disney-hulu-1236746504/
+### Neve Campbell Confirms She s Returning for Scream 8
+Tue, 03 Nov 2026 17:37:58 +0000 — https://www.hollywoodreporter.com/movies/movie-news/scream-8-neve-campbell-confirms-return-1236746818/
 
-The wildly anticipated Korean fantasy romance, starring Shin Min-a, Ju Ji-hoon, Lee Jong-suk and Lee Se-young, will launch with four episodes Nov. 3, followed by two new installments every Wednesday.
+The actress has appeared in every installment of the slasher franchise except 'Scream VI,' which she sat out over salary disputes.
 
-### Inde Navarrette, Michael B. Jordan and Yerin Ha Front David Yurman s New York-Set Holiday Campaign
-Tue, 03 Nov 2026 01:35:51 +0000 — https://www.hollywoodreporter.com/lifestyle/shopping/david-yurman-holiday-2026-inde-navarrette-michael-b-jordan-1236746332/
+### The Cat in the Hat Review: Bill Hader in a Dr. Seuss Adaptation That Captures the Antic Silliness but Misses the Charm
+Tue, 03 Nov 2026 17:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/the-cat-in-the-hat-review-bill-hader-1236746055/
 
-A peek into the luxury jewelry brand's 2026 holiday campaign, unraveling through a collection of quintessential New York moments.
+The voice cast also includes Quinta Brunson, Bowen Yang, America Ferrera, Giancarlo Esposito and Matt Berry.
 
-### Red Before Dawn Review: A Road Movie Revisits the Indonesian Revolution in Ways More Didactic Than Climactic
-Tue, 03 Nov 2026 01:15:23 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/red-before-dawn-review-indonesian-film-1236746350/
+### Starlog Magazine Returns with First Cover in 17 Years
+Tue, 03 Nov 2026 16:48:33 +0000 — https://www.hollywoodreporter.com/business/business-news/starlog-magazine-returns-with-first-cover-1236746201/
 
-Garin Nugroho’s wartime drama follows a group of disparate characters dangerously making their way across Indonesia as the fight for independence rages on.
+The publication, once a fixture of geek culture, will relaunch as an annual offering.
 
-### ‘Dancing With the Stars’ Disney Night Makes Magic (3 Perfect Scores!) as Group Dances Return, Another Celeb Departs: See the Scores, Who Went Home
-Tue, 03 Nov 2026 00:58:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/dwts-season-35-disney-week-8-recap-scores-elimination-1236746352/
+### GQ Expands Men of the Year Footprint in L.A.
+Tue, 03 Nov 2026 16:00:00 +0000 — https://www.hollywoodreporter.com/lifestyle/lifestyle-news/gq-men-of-the-year-2026-chris-rock-matt-damon-andrew-garfield-1236745695/
 
-Cynthia Erivo joined as the night's special guest judge in a night meant to honor Disney stories and their stage adaptations.
+GQ drafted cover stars Chris Rock, Andrew Garfield and Matt Damon as Men of the Year co-hosts.
 
 ## Deadline
 
-### Bosses At Clangold Producer Beetz Brothers Hail Skydance For Backing Casey Bloys: A Strong Sign The HBO Line Will Continue
-Tue, 03 Nov 2026 10:00:00 +0000 — https://deadline.com/2026/11/beetz-brothers-clangold-launch-hbo-max-casey-bloys-1237211145/
+### Netflix Launches AI Discovery Tool As Test Kitchen For Viewers Seeking Appetizing Content
+Tue, 03 Nov 2026 20:09:30 +0000 — https://deadline.com/2026/11/netflix-ai-discovery-tool-viewers-programming-1237212413/
 
-Ever since Paramount and Warner Bros. merged, producers around the world have been wondering what it will mean for their prospects. For Germany s Beetz Brothers, which launches crime doc Clangold on HBO Max globally on November 13, the appointment of Casey Bloys as Skydance s content chief is a strong sign those making high-end, mainstream productions [ ]
+Netflix has introduced a new tab on its TV app giving a subset of its subscriber base an AI-driven way to discover new programming. AI Discover, as the new offering is known, builds on the streaming giant s previous efforts to serve up recommendations. It invites users to provide input about their mood and interests and [ ]
 
-### British Independent Film Awards: ‘Elsinore’ Leads Nominations
-Tue, 03 Nov 2026 10:00:00 +0000 — https://deadline.com/2026/11/british-independent-film-awards-elsinore-2026-1237211788/
+### Matthew Perry Doc Premieres Atop Netflix s Weekly English TV Rankings; Lupin Part 4 Leads All Series As Non-English Fare Commands Attention
+Tue, 03 Nov 2026 20:02:26 +0000 — https://deadline.com/2026/11/matthew-perry-doc-lupin-part-4-premiere-viewership-netflix-1237212421/
 
-Simon Stone’s Elsinore, starring Andrew Scott, leads this year’s British Independent Film Awards nominations with 12 nods. Scroll down for the full list of winners. Elsinore earned nominations for Best British Independent Film, Best Director for Simon Stone, Best Screenplay for Simon Beresford, Best Lead Performance for previous winner Andrew Scott, and Best Supporting Performance [ ]
+Friends fans showed up on Netflix last week to watch the streamer s new three-part documentary series on Matthew Perry. The One About Matthew Perry was the top English-language television series on Netflix from October 26 to November 1, gathering 9.5 million views in its first weekend of availability. The series, which is the first in-depth [ ]
 
-### Queen Silvia Team Hopes For Multiple Seasons After Royal Drama’s Cannes Premiere
-Tue, 03 Nov 2026 09:21:50 +0000 — https://deadline.com/2026/11/queen-silvia-series-world-premiere-cannes-prime-video-1237209352/
+### Jimmy Akingbola Signs With Paradigm
+Tue, 03 Nov 2026 19:58:10 +0000 — https://deadline.com/2026/11/jimmy-akingbola-bel-air-paradigm-1237211811/
 
-Queen Silvia was crowned in Cannes with a world premiere screening for the upcoming royal drama series. German actress Alicia von Rittberg (Call My Agent Berlin), who stars as the titular Silvia Sommerlath, and Swedish actor Edvin Endre (Vikings), who plays Crown Prince Carl Gustaf, were in town for the premiere. A grand piano was [ ]
+EXCLUSIVE: Jimmy Akingbola, known best for the fan-favorite role of Geoffrey on Bel-Air, has signed with Paradigm for representation. Akingbola played the Banks family house manager Geoffrey Thompson in 38 episodes of Bel-Air, the reimagining of the classic 1990s sitcom The Fresh Prince of Bel-Air. He ll next be seen in ITV and ZDF‘s upcoming space [ ]
 
-### The Celebrity Traitors Star James Acaster Trashes Report That He Made Complaint About Co-Stars
-Tue, 03 Nov 2026 09:13:16 +0000 — https://deadline.com/2026/11/the-celebrity-traitors-james-acaster-trashes-complaint-1237212001/
+### Chanel Pysnik Departing As Head Of Nonfiction For Prince Harry Meghan Markle’s Archewell Prods.
+Tue, 03 Nov 2026 19:44:15 +0000 — https://deadline.com/2026/11/chanel-pysnik-exits-head-nonfiction-harry-meghan-archewell-1237212368/
 
-James Acaster has said it is completely fabricated that he complained about The Celebrity Traitors co-stars, Rob Beckett and Romesh Ranganathan. On Alan Carr s Life s A Beach Podcast, the Ghostbusters: Frozen Empire star was incredulous about a report in The Mail on Sunday claiming he told Celebrity Traitors producers that he was uncomfortable with macho banter during filming. I ve never had stuff [ ]
+EXCLUSIVE: Chanel Pysnik is leaving Prince Harry and Meghan Markle’s Archewell Productions where she served as Head of Nonfiction, Film TV for the past five and a half years. No immediate replacement has been named for Pysnik who joined Archewell Productions in May 2021, less than a year after the company s official launch with [ ]
 
-### New Anti-Harassment Laws Lead To Questions From UK Film TV Industry
-Tue, 03 Nov 2026 09:00:00 +0000 — https://deadline.com/2026/11/anti-harassment-laws-questions-uk-film-tv-industry-1237211132/
+### Blumhouse Atomic Monster Unveil New Name For Combined Studio
+Tue, 03 Nov 2026 18:45:00 +0000 — https://deadline.com/2026/11/blumhouse-atomic-new-name-jason-blum-james-wan-1237212295/
 
-EXCLUSIVE: Big UK production groups and studios have been busily preparing for new anti-harassment laws that will impact the film and TV industry, but questions remain. Last Friday, UK-wide legislation came into force that means employers are now liable for harassment of their staff, cast and crew by third parties. Employers must take all reasonable [ ]
+Two years after merging, Jason Blum s Blumhouse and James Wan s Atomic Monster will now call their combined entity Blumhouse Atomic. The producers of Obsession, Backrooms and the Conjuring franchise will continue as distinct production labels with their own creative teams shepherding film and TV projects under each label. Since the merger, Blumhouse Atomic together have [ ]
 
-### Johnny Depp Open To Reprising Pirates Of The Caribbean Role To Send Them Off On A Better Note
-Tue, 03 Nov 2026 04:29:28 +0000 — https://deadline.com/2026/11/johnny-depp-reprising-pirates-of-the-caribbean-role-1237211975/
+### Netflix Orders Prep YA Series Based On Book From One Day EP Nicole Taylor Gloria Sanchez Prods.
+Tue, 03 Nov 2026 18:30:00 +0000 — https://deadline.com/2026/11/prep-netflix-series-book-nicole-taylor-gloria-sanchez-1237211818/
 
-Johnny Depp is open to revisiting the Pirates of the Caribbean universe and reprising his role as Jack Sparrow. In a new interview, Depp revealed that he is open to working with Jerry Bruckheimer again. If things are exactly where they need to be with regard to how they are going to top off the [ ]
+EXCLUSIVE: Netflix is turning to a 2005 book in search for its next YA hit. The streamer has given a straight-to-series order to Prep, an adaptation of Curtis Sittenfeld s bestselling debut novel. The half-hour project, which had been developed internally, comes from Nicole Taylor, head writer and executive producer of Netflix s limited series One Day [ ]
 
-### Disney To Undergo More Layoffs With Divisions Eyeing Up To 20% In Cost Savings
-Tue, 03 Nov 2026 03:29:18 +0000 — https://deadline.com/2026/11/disney-more-layoffs-2026-tv-networks-movie-studio-savings-1237211939/
+### Milo Hutton, Booboo Stewart KaDee Strickland Board Horror Thriller The Thing In The Hall
+Tue, 03 Nov 2026 18:30:00 +0000 — https://deadline.com/2026/11/booboo-stewart-milo-hutton-join-the-thing-in-the-hall-1237212112/
 
-The Walt Disney company is laying the groundwork for more cuts, with thousands poised to be impacted. According to sources, the new round of layoffs will be made across multiple divisions, including TV networks and the motion picture studio, at varying amounts. As is customary in the run-up to staff reductions, managers of the affected [ ]
+EXCLUSIVE: Milo Hutton (The Night Agent), Booboo Stewart (Twilight franchise) and KaDee Strickland (Private Practice) have boarded The Thing in the Hall, a psychological horror thriller now shooting in Los Angeles. Inspired by E. F. Benson s short story, the feature is the first from writer-director Logan Kishi. The story revolves around Francis Assheton (Stewart), a [ ]
 
-### Mckenna Grace On Declining Nude Scenes: I Respect Anybody Who Can, But It s Terrifying To Me
-Tue, 03 Nov 2026 03:24:16 +0000 — https://deadline.com/2026/11/mckenna-grace-declining-nude-scenes-1237211838/
+### Steve Ellis Dies: Everlasting Love Singer Was 76
+Tue, 03 Nov 2026 18:13:01 +0000 — https://deadline.com/2026/11/steve-ellis-dead-1237212331/
 
-Mckenna Grace has opened up about refusing to do nude scenes in film, and she has a powerful reason why. In a new interview, the star of The Hunger Games: Sunrise on the Reaping shared why she won t be doing any nudity in her acting roles. At this point, I definitely don’t do nudity or [ ]
+Steve Ellis, singer for the British pop band Love Affair best known for the 1967 hit Everlasting Love, died October 30, of complications from a chronic illness. He was 76. His death was announced on his Facebook page. Ellis lived in Brighton, England, and the family statement notes that he passed peacefully in the presence [ ]
 
-### Jimmy Review: KJ Apa Expertly Channels James Stewart In An Inspiring Movie That Tells The Story The Beloved Oscar Winning Star Kept To Himself
-Tue, 03 Nov 2026 03:03:19 +0000 — https://deadline.com/2026/11/jimmy-review-kj-apa-james-stewart-world-war-2-biopic-1237211897/
+### Black Snow : Travis Fimmel Is Back On Cold Case Trail In Teaser For Season 3; Premiere Date Set In Australia
+Tue, 03 Nov 2026 18:00:00 +0000 — https://deadline.com/2026/11/black-snow-season-3-premiere-date-trailer-travis-fimmel-1237212017/
 
-When Kelly Stewart Harcourt (who is also an Executive Producer) was told about the idea of making a movie about her father, the Oscar winning legend James Stewart, her reaction was that it might be pretty boring since her dad didn t live a life full of scandals, drugs, drinking or other staples of biopics about [ ]
+EXCLUSIVE: Travis Fimmel will return as Black Snow investigator James Cormack on New Year s Day. You can see a teaser of Dune: Prophecy actor Fimmel in Black Snow Season 3 above and in first-look pictures below ahead of a January 1 double-episode return for the series on Stan in Australia. AMC Global Media is the [ ]
 
-### Dancing With The Stars Season 35 Recap: Team Dances Shake Up The Competition On Disney Night
-Tue, 03 Nov 2026 02:58:36 +0000 — https://deadline.com/2026/11/dancing-with-the-stars-season-35-recap-disney-night-1237211461/
+### Lili Taylor Joins The Beast In Me Season 2 Cast
+Tue, 03 Nov 2026 18:00:00 +0000 — https://deadline.com/2026/11/lili-taylor-the-beast-in-me-season-2-1237211569/
 
-SPOILER ALERT! This post contains details from Disney Night on Dancing with the Stars. It s hard to believe, but the Dancing with the Stars Season 35 contestants are in the final stretch of the competition. Week 8 is upon us, and not only is it Disney Night in the ballroom, but we ve also arrived at [ ]
+EXCLUSIVE: Lili Taylor (Outer Range, The Hunger Games: Sunrise on the Reaping) is set as a series regular opposite Claire Danes and John Goodman in the upcoming second season of Netflix’s psychological crime thriller The Beast In Me. The streamer is yet to confirm plot details about Season 2 of The Beast In Me, in [ ]
 
-### The Remarried Princess Korean Romantic Drama To Release One Day Early On Disney+ Hulu
-Tue, 03 Nov 2026 02:22:59 +0000 — https://deadline.com/2026/11/the-remarried-princess-korean-romantic-drama-early-release-1237211813/
+### Moroccan-Belgian Superhero Picture ‘Atoman’ Secures North American Release AFM
+Tue, 03 Nov 2026 17:30:20 +0000 — https://deadline.com/2026/11/north-african-superhero-atoman-north-american-release-afm-1237212305/
 
-Epic romantic K-drama The Remarried Empress, starring Shin Mina, Ju Jihoon, Lee Jongsuk and Lee Seyoung, will launch with the first four episodes on Tuesday, November 3 on Disney+ and Hulu, one day earlier than the originally scheduled November 4 premiere date. The surprise reveal, announced during a press conference from Seoul, South Korea, is [ ]
+EXCLUSIVE: Disrupt Entertainment has acquired all North American distribution rights to North African superhero picture Atoman ahead of an international sales push for the film at the AFM. The Pennsylvania-based company is gearing up to rollout the picture theatrically on at least 100 screens in early 2027 through AMC Theatres and other exhibitors. The sci-fi [ ]
 
-### The Key 2026 Midterm Races Hollywood Is Watching
-Tue, 03 Nov 2026 02:15:13 +0000 — https://deadline.com/2026/11/hollywood-midterms-2026-1237173601/
+### Paul W.S. Anderson Sets Film Adaptations Of Kevin J. Anderson Books Nether Station Nether Vortex
+Tue, 03 Nov 2026 17:30:00 +0000 — https://deadline.com/2026/11/paul-ws-anderson-to-direct-nether-station-nether-vortex-1237212142/
 
-As encouraging as polls are for Democrats, left-leaning Hollywood activists are viewing Tuesday s midterm elections with a lot of anxiety and just a bit of cautious optimism. In fact, throughout the cycle, as candidates courted the industry s deep pockets at tony backyard venues and one-on-one phone calls, the fatigue of donors was well apparent, [ ]
+EXCLUSIVE: Paul W.S. Anderson, the filmmaker known for his work on six Resident Evil films, is set to direct Nether Station and Nether Vortex, film adaptations of the sci-fi horror books from bestselling author Kevin J. Anderson. The novels follow Cammie Skoura, a brilliant, neurodivergent young scientist aboard a deep-space expedition that uncovers a trail [ ]
 
 ## befores & afters
 
@@ -174,6 +174,56 @@ Tue, 03 Nov 2026 00:37:00 +0000 — https://beforesandafters.com/2026/11/03/comi
 Here s a sneak peek at inside the magazine. Coming very soon is the befores afters issue on The Mandalorian and Grogu . Here s just a taste just for you. If you d like to get the mag in DIGITAL as soon as it s released, sign up to be a member of the DIGITAL EDITION right here: https://www.patreon.com/c/beforesandafters/membership The post Coming soon: huge mag on The Mandalorian and Grogu appeared first on befores & afters .
 
 ## IndieWire
+
+### What Are Local Movie Theaters Showing on Election Night?
+Tue, 03 Nov 2026 20:15:00 +0000 — https://www.indiewire.com/features/interviews/what-are-movie-theaters-showing-election-night-2026-1235225182/
+
+From “The Devils” and David Lynch to a one-person erotic cinema and “Hardball,” here's how film programmers all across the U.S. are serving their communities on November 3.
+
+### Don t Forget, Oscar Watchers: The Odyssey, Project Hail Mary, and Other Big Guns Are Coming Back
+Tue, 03 Nov 2026 20:00:00 +0000 — https://www.indiewire.com/awards/predictions/oscar-big-guns-odyssey-disclosure-day-project-hail-mary-campaigns-1235225111/
+
+The studios are ramping up their blockbusters for Oscar consideration as "Disclosure Day" star Emily Blunt hits the promo trail and "The Odyssey" Best Actor front-runner Matt Damon takes on "Project Hail Mary" charmer Ryan Gosling.
+
+### The Intertwining Review: Two Medical Students Uncover Buried Truths in Tense Psychological Drama
+Tue, 03 Nov 2026 19:00:00 +0000 — https://www.indiewire.com/criticism/movies/the-intertwining-movie-review-1235225255/
+
+A Japanese woman and a Korean woman learn they were switched during IVF in an intensely controlled film from Kiyoshi Kurosawa protegé Akira Yamamoto.
+
+### Billy Evans Hosts AMA on (His Own) X Account: You Can See Everything Subject on Not Being a Cocaine Fan, Going Full Frontal, and What His Cousin s Thing Was
+Tue, 03 Nov 2026 18:56:05 +0000 — https://www.indiewire.com/news/general-news/billy-evans-you-can-see-everything-elizabeth-holmes-cocaine-full-frontal-1235225245/
+
+Elizabeth Holmes' life partner spend Monday answering "legally permissible" questions from fans.
+
+### Jordan Firstman Opens Up with ‘Club Kid, His Hilarious, Tender, and Must-See Feature Filmmaking Debut
+Tue, 03 Nov 2026 18:30:00 +0000 — https://www.indiewire.com/features/interviews/jordan-firstman-club-kid-interview-1235193584/
+
+“I’ve softened a lot in the process of making it,” Firstman told IndieWire, reflecting on the melancholy portrait he paints in a film about queer nightlife and learning how to be seen.
+
+### Even Netflix Is Turning to AI to Help Audiences Figure Out What to Watch
+Tue, 03 Nov 2026 18:00:00 +0000 — https://www.indiewire.com/news/general-news/netflix-ai-discover-function-1235225158/
+
+A new function called AI Discover launches today for select users in the United States.
+
+### To Follow Her Best Picture Win, Siân Heder Opted to Make the Hardest Story She Could Imagine
+Tue, 03 Nov 2026 16:30:01 +0000 — https://www.indiewire.com/features/interviews/sian-heder-best-picture-coda-next-film-being-heumann-1235213849/
+
+For "Being Heumann," Heder takes on a seminal moment in the life of the remarkable disability activist Judy Heumann. She imagined a risky film, populated by all manner of disabled performers, that felt more "Dog Dog Afternoon" than cultural vegetables. All that? It was scary. It was worth it.
+
+### How to Make IndieWire a Preferred Source on Google
+Tue, 03 Nov 2026 15:30:12 +0000 — https://www.indiewire.com/news/general-news/how-to-make-indiewire-preferred-news-source-google-1235217335/
+
+You can ensure that IndieWire's reporting and analysis informs all of your searches in a few simple steps.
+
+### Taika Waititi s Delusional Klara and the Sun Instagram Post Exemplifies the Dangers of a Growing Divide Between Critics and Artists in the Digital Age
+Tue, 03 Nov 2026 14:30:00 +0000 — https://www.indiewire.com/features/commentary/taika-waititi-bad-instagram-post-critics-klara-and-the-sun-1235225140/
+
+Let's spare a thought for those sad lost souls who couldn’t achieve their dreams of staying relevant artists.
+
+### Before He Played Sylvester Stallone in I Play Rocky, Star Anthony Ippolito Fought Hard for His Own Big Break
+Tue, 03 Nov 2026 14:00:00 +0000 — https://www.indiewire.com/features/interviews/sylvester-stallone-i-play-rocky-star-anthony-ippolito-1235225053/
+
+To snag the starring role in Peter Farrelly's crowd-pleasing "I Play Rocky," the breakout star tells IndieWire how he — somewhat accidentally — ended up following the iconoclastic actor and filmmaker's own playbook.
 
 ### Okinawa Saudade Review: A Moving Documentary About the Okinawan-Brazilian Community Explores the History of Displacement
 Tue, 03 Nov 2026 03:42:52 +0000 — https://www.indiewire.com/criticism/movies/okinawa-saudade-documentary-review-1235225173/
@@ -185,157 +235,107 @@ Tue, 03 Nov 2026 01:04:27 +0000 — https://www.indiewire.com/news/events/indiew
 
 A week after partnering on our Future of Filmmaking Summit, AT T and IndieWire teamed up again to celebrate the next generation of storytellers.
 
-### The First Time Producers Had to Find a New James Bond, the Result Was the Best 007 Movie Ever
-Mon, 02 Nov 2026 21:45:00 +0000 — https://www.indiewire.com/features/commentary/george-lazenby-james-bond-on-her-majestys-secret-service-1235224936/
-
-As the makers of the next James Bond film zero in on their Agent 007, we look back at "On Her Majesty's Secret Service," which replaced Sean Connery with unknown George Lazenby and became a favorite of filmmakers like Christopher Nolan and Steven Soderbergh.
-
-### The Liberation Trailer: Carrie Coon Is Lured Into Lily James Cult in a Gut-Wrenching Drama
-Mon, 02 Nov 2026 21:30:00 +0000 — https://www.indiewire.com/news/trailers/the-liberation-trailer-carrie-coon-1235225057/
-
-The fall festival hit opens in theaters on January 8, courtesy of Bleecker Street.
-
-### Godzilla Minus Zero Review: The King of the Monsters Returns with a Direct Sequel That s One Better Than the Last Movie in Almost Every Way
-Mon, 02 Nov 2026 21:00:00 +0000 — https://www.indiewire.com/criticism/movies/godzilla-minus-zero-movie-review-1235218720/
-
-Godzilla squares off against King Ghidorah in an IMAX-sized melodrama that features some of the most thrilling kaiju fights ever.
-
-### The Hunger Games: Sunrise on the Reaping Will Be in 3D in Theaters — and on Meta s New VR Glasses
-Mon, 02 Nov 2026 20:00:00 +0000 — https://www.indiewire.com/news/breaking-news/hunger-games-sunrise-reaping-3d-version-meta-vr-glasses-1235225062/
-
-Lionsgate is partnering with Facebook parent company Meta on the 3D version of the film and will collaborate on future titles for the VR glasses hitting shelves next spring.
-
-### Mouse Review: Saint Frances and Ghostlight Filmmakers Bring Their Singular Humanity to a Coming-of-Age Tale
-Mon, 02 Nov 2026 20:00:00 +0000 — https://www.indiewire.com/criticism/movies/mouse-review-kelly-osullivan-alex-thompson-1235178567/
-
-Around these parts, every Kelly O'Sullivan and Alex Thompson feature film is an event. The pair's third production together is no exception — and their best to date.
-
-### I Play Rocky Review: Sylvester Stallone s Wild Hollywood Underdog Story Gets a Punchy Crowdpleaser
-Mon, 02 Nov 2026 19:00:00 +0000 — https://www.indiewire.com/criticism/movies/i-play-rocky-review-sylvester-stallone-1235216617/
-
-Peter Farrelly continues his reign of making audience-delighting hits for the TIFF crowd, but this one pulls its punches a bit.
-
-### IndieWire s Trevor Wallace Wins Daytime Emmy for Editing IndieWire Craft Roundtables
-Mon, 02 Nov 2026 18:28:45 +0000 — https://www.indiewire.com/awards/results/trevor-wallace-wins-emmy-indiewire-craft-roundtables-1235225038/
-
-IndieWire's long-time video producer won for editing the first season of our PBS series.
-
-### The Fall and Rise of Reggie Dinkins Is the Funniest Series of the Year
-Mon, 02 Nov 2026 18:00:00 +0000 — https://www.indiewire.com/criticism/shows/the-fall-and-rise-of-reggie-dinkins-season-2-review-1235224563/
-
-In an era filled with too many forgettable revivals and too few legitimate comedies, the "30 Rock" team made something new while adhering to their joke-dense, pop-culture savvy, and network-friendly approach to sitcoms. The result? The year's funniest show.
-
-### Netflix Will Give Joel Coen s Gothic Mystery Jack of Spades a Theatrical Release in 2027
-Mon, 02 Nov 2026 17:00:00 +0000 — https://www.indiewire.com/news/breaking-news/netflix-joel-coen-jack-of-spades-theatrical-release-2027-1235225019/
-
-The film stars Patsy Ferran, Josh O’Connor, Damian Lewis, and Lesley Manville.
-
-### As Production Jobs Flee California, Governor Gavin Newsom Pushes to Expand Film and TV Tax Credit to $1 Billion Annually
-Mon, 02 Nov 2026 16:00:00 +0000 — https://www.indiewire.com/news/breaking-news/production-jobs-flee-california-governor-newsom-film-tax-credit-plan-1235225005/
-
-As California continues to lose production jobs, can the state find a way to keep Hollywood local?
-
 ## The Wrap
 
-### Cinemark Q3 Revenue Surges 24% to Record $1.1 Billion Thanks to Spider-Man and Odyssey
-Tue, 03 Nov 2026 12:10:44 +0000 — https://www.thewrap.com/industry-news/box-office/cinemark-q3-earnings-revenue-odyssey-spider-man/
+### The One About Matthew Perry Debuts Atop Netflix TV List With 9.5 Million Views
+Tue, 03 Nov 2026 20:00:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/the-one-about-matthew-perry-netflix-ratings/
 
-Revenue cleared $1 billion for the second consecutive quarter after reaching a record $1.1 billion in the second quarter The domestic box office reached an unadjusted third quarter record of $3.04 billion , with 51% coming from the combined $1.56 billion of Spider-Man: Brand New Day and The Odyssey Concession revenue per patron spending reach $6.50, down slightly from the $6.80 reported last quarter Cinemark reaped the rewards of a resurgent summer at the box office with its second straight quarter with more than $1 billion in revenue, reaching $1.1 billion in a third quarter that was driven by the historic success of Sony/Marvel s Spider-Man: Brand New Day and Universal s The Odyssey. That total is in line with the Cinemark record $1.1 billion recorded in the second quarter and marks a 24% year-over-year increase. Off that, Cinemark recorded net income of $124 million and earnings of $1.04 per share, exceeding projections of 94 cents per share by Zacks Investment Research. “Our ability to translate positive box office momentum from a compelling slate of summer releases into consistent, meaningful earnings growth reflects the strength of our operating model, the effectiveness of our team and the sustained impact of our strategic initiatives,” said Sean Gamble, Cinemark’s President and CEO. “Looking ahead, we remain highly confident in our long-term growth prospects and value proposition, supported by favorable consumer trends and content dynamics, as well as the distinct adva
+The One About Matthew Perry debuted atop Netflix s most-watched English-language TV list in its first week on the streamer. The three-part docuseries, which hails from Sony Pictures Television s Maxine Productions and documents the life of the late Friends star, tallied 9.5 million views in its first six days on the streamer, landing as the No. 1 show on the English-language list. That viewership, however, was outpaced by French favorite, Lupin, which debuted its fourth installment to 10.8 million views, landing as the top show on the non-English-langauge TV list. Notably, the top performers on the non-English-language lists — Lupin and Mexican drama Surviving Hurricane Otis — outpaced their English-language counterparts, with Surviving Hurricane Otis stirring up 12.4 million views as compared to the 4.7 million views brought in by Animals, remained in the top spot on the English-langauge list for its fourth week. Behind “The One About Matthew Perry” was “Nobody Wants This” Season 3 with 7.2 million views and “Below” with 3.8 million views. More to come The post The One About Matthew Perry Debuts Atop Netflix TV List With 9.5 Million Views appeared first on TheWrap .
 
-### Versant Revenue Falls 4% Despite Digital Growth, Stronger TV Ratings
-Tue, 03 Nov 2026 12:07:23 +0000 — https://www.thewrap.com/industry-news/business/versant-q3-2026-earnings-revenue-digital-growth/
+### Fox News Host Yells at Pete Buttigieg Over Michigan Senate Race: Address That!
+Tue, 03 Nov 2026 19:48:47 +0000 — https://www.thewrap.com/media-platforms/politics/fox-news-lawrence-jones-pete-buttigieg-interview-abdul-el-sayed-haley-stevens/
 
-Versant reported revenue of $1.59 billion, exceeding the $1.57 billion expected by analysts, according to Yahoo Finance. Net income fell 41.1% to $47 million. Linear distribution revenue declined 5.8% to $935 million, while advertising revenue fell 5.3% to $373 million despite stronger TV ratings. Platforms revenue grew 9.6% to $245 million, driven largely by Fandango, while the company raised its full-year free cash flow outlook. Versant Media Group beat Wall Street s revenue expectations in the third quarter, even as declines in cable distribution and advertising weighed on the parent company of MS NOW and CNBC. Revenue fell 4.2% to $1.59 billion from $1.66 billion a year earlier, compared with the $1.57 billion expected by analysts, according to Yahoo Finance . Adjusted earnings before interest, taxes, depreciation and amortization (EBITDA) declined 7.4% to $353 million compared with the prior year s standalone results, while net income dropped 41.1% to $47 million. The results highlight the challenge facing Versant in its first year as an independent publicly traded company following its January separation from Comcast: growing its digital businesses fast enough to offset continued declines in traditional pay television. Linear distribution revenue declined 5.8% to $935 million, primarily due to subscriber losses that were partially offset by contractual rate increases. Advertising revenue fell 5.3% to $373 million, with Versant citing the timing of last year s Ryder Cup 
+Fox & Friends co-host Lawrence Jones got into a tense confrontation with former Transportation Secretary Pete Buttigieg early Tuesday over the Michigan Senate race between Republican Mike Rogers and Democratic candidate Abdul El-Sayed , whose campaign has been accused of promoting antisemitic language. Jones noted early in the conversation that Democratic Michigan Congresswoman Haley Stevens made the controversial decision to endorse Rogers this week instead of El-Sayed, following her narrow loss to the latter in Michigan s Democratic primary race. Stevens has been accused of betraying her fellow Democrats over her endorsement of Rogers. Jones, however, argued Tuesday that she did so over her objections to antisemitic comments that are coming from those on the side of El-Sayed. He argued that Michigan voters are following the candidate that narrowly lost in the primary, referencing Stevens, and calling her loss to El-Sayed razor thin. "I can t approach this conversation in good faith" Lawrence Jones as he unsuccessfully attempts a series of gotchas against Pete Buttigieg https://t.co/aQ1fC6GCuC &mdash; Aaron Rupar (@atrupar) November 3, 2026 For his part, Buttigieg attempted to keep the conversation about affordability and the cost of living, which he argued is Michigan voters No. 1 concern heading into this year s midterm elections. He also argued that rising antisemitism is a problem plaguing both the Republican and Democratic parties right now. He pointed specifically to a
 
-### Michael Jackson’s Daughter Seeks $600 Million From His Estate, Says Trust Remains Unfunded
-Tue, 03 Nov 2026 07:02:03 +0000 — https://www.thewrap.com/industry-news/public-policy-legal/michael-jackson-daughter-seeks-600-million-from-estate-trust-unfunded/
+### Pierce Brosnan Has High Praise for ‘Strong’ James Bond Contender Callum Turner
+Tue, 03 Nov 2026 19:06:06 +0000 — https://www.thewrap.com/creative-content/movies/pierce-brosnan-next-james-bond-actor-callum-turner/
 
-Paris Jackson , the daughter of the late King of Pop Michael Jackson, petitioned a Los Angeles probate court to order a $600 million distribution from her father’s estate to the Michael Jackson Family Trust, arguing that she and her brothers have waited more than 17 years for it to be funded. In legal documents, obtained and viewed by TheWrap, Jackson claimed that her father always intended for his children, including brothers Prince and Bigi Jackson, to receive income from the Trust on their respective twenty-first birthdays. However, as the document highlighted, Those dates have all long passed. More than 17 years after his passing, Michael Jackson’s family trust remains unfunded, the filing stated. In 2011, Executors informed the Court they are contemplating and do intend to file a separate Petition for Preliminary Distribution. Fifteen years later, Michael’s beneficiaries are still waiting. Paris respectfully submits that the Estate’s wealth is a testament to the singular talent and incredible work ethic of her father, the document continued. That said, Executors’ contributions to the Estate’s liquidity, including the restructuring of debt, certain high-risk entertainment projects, and principally the selling off of assets, have produced considerable amounts of cash. Executors, however, have never presented any plan for funding the Michael Jackson Family Trust to the Court. That needs to change. Later on in the filing, Jackson claimed that she and her siblings received le
+Pierce Brosnan, like pretty much everyone else on the planet, is “eager” to see who will be cast as the next James Bond. He admitted, however, that he has a bit of a soft spot for one of the frontrunners: Callum Turner. As TheWrap reported last month , four actors made it to the final round of screen tests. According to insiders, Turner, “Slow Horses” breakout Jack Lowden and Josh O’Connor were among those tested, along with an unknown actor, for the role of the next 007 for Amazon. “All the men who are on the list now are actors I admire,” the former Bond actor told Vanity Fair in an interview published Tuesday. “Callum Turner is someone I’ve worked with, and he’s so strong. Although he s a fan of Turner, Brosnan said he thinks any of the actors left in the running would do a great job as the iconic spy. They all have a voice and a physique, and a presence on film, he shared. They all have longevity as actors, all of these young men. Whoever plays the role, I wish him the very best of life and strength and courage. It’s hard to tell who it would be, but I eagerly await to hear the news and the celebration of the next James Bond.” Brosnan may be the only former Bond to comment on the next 007 thus far, but he’s not the only former co-star to weigh in. Gary Oldman, who stars in Apple TV’s “Slow Horses” alongside Lowden, told Canada’s Global News in a September interview that the next James Bond had already been chosen and that he hoped it was Lowden. “It’s been rumored that he
 
-### Jimmy Kimmel Stuns Audience With Jab at JD Vance’s Halloween Costume
-Tue, 03 Nov 2026 06:07:05 +0000 — https://www.thewrap.com/creative-content/tv-shows/jimmy-kimmel-audience-reacts-jd-vance-halloween-costume-jab/
+### CBS Secures Fall s Top New Shows With NCIS: New York and Cupertino Exclusive
+Tue, 03 Nov 2026 19:00:37 +0000 — https://www.thewrap.com/creative-content/tv-shows/cbs-fall-top-new-shows-ncis-new-york-cupertino-ratings/
 
-Jimmy Kimmel stunned his late night audience with a biting jab directed at Vice President JD Vance s Halloween costume . During his monologue for Jimmy Kimmel Live!, the comedian touched on Vance s decision to dress as Harry Potter character Professor Albus Dumbledore. As Kimmel highlighted, the vice president s decision to wear a Dumbledore costume sparked controversy since the fictional wizard is a prominent LGBTQ+ literary character. JD Vance didn t go to the [Mar-a-Lago] party. He was at home in Washington. His family had a Harry Potter theme, Kimmel said. And you can see he dressed as Dumbledore. He got a lot of flack online for this, because Dumbledore is gay and that s not allowed in MAGA Land. Kimmel didn t stop there, lobbing another pointed zinger Vance s way. So afterwards, JD released a statement clarifying that the only boys he s into are La-Z-Boys, Kimmel quipped, making a clear reference to the fabricated internet meme that claimed the vice president once had sex with a couch. This jab appeared to take several of Kimmel s audience members off guard, as they could be heard groaning before erupting into applause and laughter. As the crowd s reaction carried on for several seconds, Kimmel had to briefly pause his monologue, swallowing down a laugh in the process. “You get it, right, Guillermo?” the late night host then asked his sidekick, who couldn t stop laughing over the dig. Guillermo, explain it to those who haven t been following along. No, no, go ahead, Gui
+CBS has secured the top new shows of the fall thanks to impressive performance from NCIS: New York and Cupertino in their second week, TheWrap can reveal exclusively. Both “NCIS: New York” and “Cupertino” ranked within the top 20 most-watched broadcast shows from Oct. 12-18 — following CBS premiere week the week prior — across broadcast and streaming, according to Nielsen live-plus-seven-day big data and streaming. “NCIS: New York” brought in 8.9 million viewers during the week, ranking as the No. 7 show of the week behind broadcast favorites like “Marshals,” “Tracker” and “Sheriff Country.” Likewise, “Cupertino” scored 6.8 million viewers, landing in the No. 20 spot for the week. Cupertino more than doubled its live plus same-day audience of 2.9 million viewers, and even grew to 9.6 million viewers with the encore episode on Sunday, Oct. 18 included. “Eternally Yours” wasn’t far behind with 6.4 million viewers, landing one of the two top comedies alongside “Georgie & Mandy’s First Marriage,” which scored 8.1 million viewers in the No. 13 spot, and rose 2% from its second episode a year ago. With Eternally Yours, CBS was home to the three top new shows of the fall for the week. CBS was also home to 14 of the top 20 shows of the week, with top hitters “Marshals” and “Tracker” coming in the top two spots with 13.5 million and 13.4 million viewers, respectively. Behind “Marshals” and “Tracker” were another three CBS series rounding out the top 5 shows of the week belonging to th
 
-### Jon Stewart Gets Big Laughs Blaming Haley Stevens for Anderson Cooper’s On-Air ‘Sass’
-Tue, 03 Nov 2026 05:10:54 +0000 — https://www.thewrap.com/creative-content/tv-shows/jon-stewart-reacts-haley-stevens-anderson-cooper-interview/
+### Jason Blum and James Wan Rename Their Horror Business as Blumhouse Atomic
+Tue, 03 Nov 2026 18:58:36 +0000 — https://www.thewrap.com/creative-content/movies/jason-blum-james-wan-rebrand-as-blumhouse-atomic/
 
-Jon Stewart roasted Haley Stevens for bringing the “sass” out of Anderson Cooper during their interview , joking that the Michigan representative had turned the newsman “into Andy Cohen.” During Monday s monologue for The Daily Show, the comedian touched on Rep. Stevens (D-Mich.) s tense conversation with Cooper, which occurred after the congresswoman broke from her party to endorse Republican senate candidate Mike Rogers over Democratic nominee Abdul El-Sayed. I mean, of course, we all knew there was drama in Michigan when Senate candidate Abdul El-Sayed defeated Haley Stevens in a contentious primary for the Democratic nomination, Stewart said. But Stevens has always been very clear as to their shared goal of defeating Republican Senate candidate Mike Rogers. The Daily Show editors then cut to all the times Stevens denounced Rogers as a Donald Trump lackey. Nonetheless, on Sunday, Stevens revealed she d be voting for Rogers – in a video that was awkwardly filmed at an angle. Is her car in a ditch? Stewart quipped after watching the footage. Is she endorsing Mike Rogers after getting in a car accident? Real quick, before I lose consciousness, I am endorsing the nightmare.' As Stewart went on, he wondered aloud what the f k happened?, adding that it was the most diabolical episode of Fargo I ve ever seen. What could have driven, somewhat erratically he joked, before seriously asking, What could have driven Haley Stevens into the arms of the Rogers campaign? The show then cut 
+James Wan and Jason Blum today unveiled Blumhouse Atomic, the new corporate name for the company formed by the 2024 merger of Blumhouse and Atomic Monster, the company announced Tuesday. Blumhouse and Atomic Monster will continue as distinct production labels, with their respective creative teams developing and producing film and television projects under each banner. Since the merger, the combined company’s horror slate has generated more than $2.5 billion in worldwide box office against combined production budgets of less than $330 million, including more than $1 billion in worldwide box office in each of 2025 and 2026. This year’s films have earned nearly $1.3 billion on less than $70 million in production budgets. Recent successes include Curry Barker’s “Obsession” and Kane Parsons’ “Backrooms,” two of the year’s breakout horror films. The results reflect the company’s approach to pairing ambitious storytelling with disciplined budgets across a slate of original films and established franchises. “When we merged our companies, we believed the whole would be greater than the sum of its parts, and that is exactly what has happened,” Jason Blum, Co-Founder of Blumhouse Atomic, said in a statement. “Blumhouse Atomic is a natural evolution of what we’ve built together. The Conjuring franchise, Insidious, Saw, no filmmaker has created more horror franchises than James Wan, and together we’ve brought some of the genre’s most recognizable properties under one roof. Bringing Saw ba
 
-### Billy Evans Confirms He Felt ‘Violated’ by Full-Frontal ‘You Can See Everything’ Scene
-Tue, 03 Nov 2026 04:17:50 +0000 — https://www.thewrap.com/creative-content/movies/you-can-see-everything-billy-evans-felt-violated-full-frontal-nude-scene/
+### Netflix Greenlights Prep YA Drama Series Adaptation From Nicole Taylor
+Tue, 03 Nov 2026 18:51:44 +0000 — https://www.thewrap.com/creative-content/tv-shows/netflix-prep-adaptation-ya-series-nicole-taylor/
 
-Billy Evans, the longtime partner of convicted Theranos founder Elizabeth Holmes, confirmed he felt violated by his nude scene in Lance Oppenheim and Nathan Fielder s documentary, You Can See Everything . The businessman shared his feelings about the headline-making scene on X Monday, after asking fans to AMA or ask me anything. When one follower challenged that the shower scene, in which Evans bared all for the camera, was something he wanted, Holmes significant other slammed that take as a false narrative . A different fan then responded looking for clarity, writing, They forced themselves into the shower with you or they just started filming and you didn t tell them to stop? In response, Evans shared a link to a news article, titled Elizabeth Holmes’ Partner Billy Evans Felt ‘Violated’ by Full-Frontal Nude Scene in Nathan Fielder Doc, Source Says . He also wrote, Trust the sources.' The article in-question, which came from People, cited a source familiar with the situation and claimed that Evans felt his trust was violated over [the] full-frontal nude scene. “The shower scene wasn’t Billy’s idea, the source stated to the outlet. He only agreed to it with an understanding they would keep it PG. “Finding out otherwise via media coverage would be unsettling for anyone, to say the least,” the source added. “It’s a violation of trust and exploiting that trust for shock value.” A representative for A24 did not immediately respond to TheWrap s request for comment. Evans narrative
+Netflix has ordered YA drama series Prep to series from showrunner, writer and executive producer Nicole Taylor. Based on Curtis Sittenfeld s debut novel of the same name, the coming-of-age series will follow scholarship student Lee Fiora’s high school years at Ault, a prestigious New England boarding school, as she navigates life as a fish out of water among her privileged classmates. Prep is my all time favourite novel and I have longed to adapt it for the entire twenty years since I first read it and found myself reflected uncannily back, Taylor said. There is no more acute depiction of the introspective, bookish self-conscious adolescent girl and no more truthful or excoriating take on the perils of social mobility than in Curtis Sittenfeld’s beautiful first novel. I am overjoyed to be adapting for Netflix. Taylor previously created dramedy mini-series One Day for Netflix and wrote on the limited series Three Girls. Prep joins Netflix s growing slate of YA titles. This fall alone the streamer has released Crew Girl, A Different World and Outer Banks. Upcoming series The Sticks, The Body, Poser and Sid & Zoey will continue to expand the slate. The series also will join the platform s increasing slate of book adaptations, including Walter Boys and To All the Boys I ve Loved Before. “I m overjoyed that Netflix is making Prep as a TV show the 22-year wait was worth it! Sittenfeld said. Alix Taylor at Gloria Sanchez has guided the project forward with such intelligence and ent
 
-### Disney Eyes Thousands of Layoffs in Push for 20% Cost Cuts
-Tue, 03 Nov 2026 03:36:09 +0000 — https://www.thewrap.com/industry-news/business/disney-plans-thousands-more-layoffs/
+### Netflix Adds AI Recommendation Option to TV App
+Tue, 03 Nov 2026 18:00:00 +0000 — https://www.thewrap.com/media-platforms/tv/netflix-ai-discover-tv-app/
 
-The Walt Disney Company is looking at eliminating thousands of positions and has asked some managers to target 20% in annual cost savings, according to multiple media reports. The possible job cuts come as CEO Josh D’Amaro is reportedly facing challenges from growing AI use, weaker box office revenue, mounting competition from streaming challengers and a slowdown in theme park attendance abroad, according to Bloomberg , which first reported the news. It’s said that some operations within Disney are set to face larger cuts than others. Though, per the reports, D’Amaro plans to reinvest the savings from the cuts into the company’s film and TV programming, technology, theme parks and cruise ship operations. It’s currently unclear how many jobs could be impacted, but Disney employed about 231,000 people at the end of 2025 s fiscal year. Still, the company has made a number of substantial cuts this year. In fact, just last week, the Walt Disney Company’s theme parks division laid off between 100 and 200 people. As we reported at the time , the staff cuts followed a regular evaluation of the division’s investments and pending projects. The layoffs impacted those across all parts of Imagineering, which is the creative and technical arm that brings to life theme parks, attractions, resorts, cruise ships and live entertainment. The decision came after Disney offered voluntary early retirement packages in August to executives as part of a cost-reduction effort. “Over the past few years
+Netflix is further embracing AI when it comes to helping subscribers find what they want to watch next. AI Discover is a new tab on Netflix s TV app that will be available to a small group of members before rolling out to more subscribers. The first experience within AI Discover is built around themes. Users will be asked to pick one of several themes, each of which are previewed with a clip from a show or a movie. These themes range from general feelings, like Scare Me, to categories based on who is watching, like Family Movie Night, to selections based around time constraints, like Quick Watches. After a theme is selected, Netflix will unveil its list of recommendations. As users explore, more specific themes will emerge. Users will also have the ability to select Something Different and will be given a fresh set of recs. Additionally, every title will have a Tune Your Recommendations button next to Play and My List. This option lets users either keep a recommended title in their lineup or tell Netflix not to recommend that title again. The tool is built to adjust its recommendations based on what users tell the platform and is designed to keep learning. It s essentially a more interactive form of the streamer s current algorithm. Think of AI Discover as our test kitchen: we’re trying out new recipes for discovery, and your use and feedback help us decide which ones to keep, improve or serve up next, a press release about the offering reads. Some may even make their way int
 
-### Johnny Depp Wants to End Pirates of the Caribbean Franchise On a Better Note
-Tue, 03 Nov 2026 03:10:12 +0000 — https://www.thewrap.com/creative-content/movies/johnny-depp-end-pirates-of-the-caribbean-better-note-video/
+### Bill Hader Tells Jimmy Kimmel Why Their Group Chat With John Mulaney and Fred Armisen Makes Him Paranoid
+Tue, 03 Nov 2026 17:58:52 +0000 — https://www.thewrap.com/creative-content/tv-shows/jimmy-kimmel-bill-hader-group-chat-john-mulaney-fred-armisen/
 
-Johnny Depp wants to right the ship — the pirate ship, that is. The Alice in Wonderland star talked to Entertainment Tonight as part of the press tour for Ebenezer, a return to the spotlight after Depp s highly publicized legal saga with Amber Heard involving claims of domestic violence and defamation. In the interview, Depp said that he would be willing to return to his Oscar-nominated role of Jack Sparrow in a long-discussed sixth Pirates of the Caribbean movie. If things are exactly where they need to be with regards to how they re going to top off the Pirates, the only involvement that I really want to have, truly, is just to send them off on a better note, Depp told the outlet. Depp isn t wrong that the series left off on a sour note. The fourth film in the franchise, Pirates of the Caribbean: On Stranger Tides, and the fifth, Pirates of the Caribbean: Dead Men Tell No Tales, were both critically panned in comparison to the first trilogy of films. While On Stranger Tides was the franchise s second-highest grossing entry with a $1.045 billion haul, Dead Men Tell No Tales was the second-lowest, bringing home roughly $795 million (still a high sum). View this post on Instagram A post shared by Entertainment Tonight (@entertainmenttonight) After debuting as Jack Sparrow in 2003 s Pirates of the Caribbean: The Curse of the Black Pearl, Depp said he would be willing to return for any sequel so long as producer Jerry Bruckheimer is involved. I ll go to work with Bruckheimer tom
+Bill Hader confessed to Jimmy Kimmel on Monday night that he gets really paranoid and neurotic participating in their text chain with John Mulaney and Fred Armisen because they are just incredibly funny people. We ve been on this text chain for about three years, I would say, maybe longer. We text every day, Hader told the Jimmy Kimmel Live! audience. Kimmel, meanwhile, said that the chain has been going on so long it has become a problem in his and Hader s homes. Oh, yeah. My kids are like, Are you on your old man chain? Let me guess, you put periods at the end of sentences? I m like, Well, what are you supposed to put at the end of a sentence?' Hader joked, adding, I get really paranoid and neurotic because it s three incredibly funny people, you and John and Fred. I ll get a Ha-Ha on something, and then I won t get a Ha-Ha. I get really anxious, so then I actually will, like, focus group. If I m gonna send another video, I ll be like, Do you guys think Jimmy Kimmel would find this funny?' Hader explained. Fortunately, Kimmel said he shared Hader s anxiety about the chat. I feel the same way about the ha-has. Because if I get one Ha-Ha, I m fine. I m like, Alright, one guy at least patronized me. And if you get three, that s a home run, the late night host said, to which Hader responded, Three is, like I could throw away my phone. Kimmel added that it feels like a statement if he does not get a single Ha-Ha to one of his texts. Hader agreed, calling that situation genuinely
 
-### DWTS Week 8: Harry Shum Jr. Nabs Another Perfect Score as Jenna Dewan Joins the Club
-Tue, 03 Nov 2026 03:06:05 +0000 — https://www.thewrap.com/media-platforms/tv/dancing-with-the-stars-week-8-disney-night/
+### The View : Sunny Hostin Side-Eyes Her Voting Location for Having Zero Functional Ballot Machines
+Tue, 03 Nov 2026 17:54:52 +0000 — https://www.thewrap.com/creative-content/tv-shows/the-view-sunny-hostin-westchester-county-ballot-machine-glitch-reaction/
 
-After last week s Horror Movie Night ended with a double elimination, “Dancing With the Stars” lightened the mood with a magical Disney night that saw not one, but two perfect scores. Joined by guest judge Cynthia Erivo for a special Monday night edition of the ballroom dancing competition show, which shifted from Tuesday due to election day, Disney night saw Harry Shum Jr. and Jenna Johnson score yet another perfect score with a Dick Van Dyke-inspired jazz performance to a Mary Poppins classic. And they weren t alone: Jenna Dewan and Val Chmerkovskiy also landed a perfect score for their “Beauty and the Beast quickstep, but it was Shum Jr. and Johnson that secured immunity for the next week s Grammys night, which will see performances from Brandy and Monica, Maren Morris and Sheryl Crow. The addition of team dances this week meant the leaderboard was slightly shifted after the couples performances, but, when accounting for fan votes, it was eventually Julia Stiles and Ezra Sosa who were sent home. Disney night kicked off with a lively opening number featuring a medley of “Circle of Life/Nants Ingonyama” from “The Lion King,” “Belle” from “Beauty and the Beast,” “Seize the Day” from “Newsies and “The Greatest Show” from “The Greatest Showman. After the medley, Amber Glenn and partner Pasha Pashkov kicked off the night with a quickstep to “A Star Is Born” from “Hercules. But this time, both Glenn and Pashkov played Hercules, with Glenn taking the lead, which judge Carrie Ann I
+The View host Sunny Hostin cast her midterm vote early on Tuesday morning but, according to the ABC host, her polling location didn t have a single working ballot machine and she was a bit skeptical about that. To kick off the day s Hot Topics, the women all agreed how thrilled they were that election day is finally here, if only so they can stop seeing all the campaign ads and discourse. But, they also worried for what s to come if and when a projected blue wave really does happen, and the president starts trying to challenge results. Hostin was already suspicious, considering her own experience. I live in Westchester County, and I tried to vote very early this morning before 7 a.m., she explained. And I got there, and I filled out my my ballot, and I took it back to go to the ballot machine, and I was told to fold my ballot and put it into an orange bag, because that voting machine wasn t working. According to the ABC host, she immediately inquired about every other machine in the room, and apparently, none of them were working. Host Alyssa Farah Griffin qas quick to chime in and note that it was a countywide problem that outlets were widely reporting on all morning. According to those reports, the issue stemmed from the thickness of paper ballots, but the Westchester County Board of Elections is reassuring voters that every ballot cast will still be counted. Honestly, the ballot felt like every ballot that I ve cast in the past 20 years in Westchester, Hostin said skeptica
 
-### Martin McDonagh Reevaluates His Use of N-Word, Racist Language in Prior Works: ‘My Heart Was in the Right Place’
-Tue, 03 Nov 2026 02:12:05 +0000 — https://www.thewrap.com/creative-content/movies/martin-mcdonagh-racist-language-wild-horse-nine/
+### The View : Whoopi Goldberg Genuinely Impressed by Alyssa Farah Griffin Dig Comparing Trump to MLK
+Tue, 03 Nov 2026 17:35:16 +0000 — https://www.thewrap.com/creative-content/tv-shows/the-view-whoopi-goldberg-impressed-by-alyssa-farah-griffin-trump-insult/
 
-Martin McDonagh took a closer look at past use of racist language in his work while speaking with the New York Times on Saturday, saying that slurs like the N-word have been used to be either outrageous or to be truthful and that his heart was in the right place when he wrote such material. Sitting with the filmmaker and playwright for the Times The Interview podcast , co-host David Marchese asked McDonagh if past criticisms of his brash language have inspired him to change his approach to writing and more pointedly, if he thought the barometer of acceptability with such language has changed with shifting expectations of political correctness. I think it s gotten worse, especially in the last 10 years, McDonagh said of those expectations. Only in the last 10 years have I been asked to change words in place from 25, 30 years ago because of offense taken by certain words that weren t there 25 years ago. And my approach to it is that those words were there to be either outrageous or to be truthful. If you re writing a, for instance, racist character, they re going to use racist language. To try and cut those out 25 years later for what reason? I m never quite sure. It feels not just problematic, but it feels like things are getting troublingly worse about that because I was never asked to do that back in the day. And I think if you don t like that in a play, you should just not do the play. You shouldn t try and change the play 25 years later. McDonagh was then asked about speci
+More often than not, a quick punchline on The View will earn a chuckle, or an eye roll, or a straight cut to commercial from Whoopi Goldberg. But on Tuesday morning the ABC moderator appeared genuinely impressed by a dig from Alyssa Farah Griffin, comparing the president to Martin Luther King Jr. The moment came during the first Hot Topics discussion of the day, as the women discussed Trump s closing message to midterm voters at a rally in front of the Lincoln Memorial Reflecting Pool. During the event, he once again bragged about renovating the body of water, and floated the idea of naming it for himself, before immediately begging press not to report that he said that. So MLK gave us I Have a Dream, he gave us I cleaned the pool,' Farah Griffin quipped. Like, just the juxtaposition of being in front of the Lincoln Memorial TRUMP LAUDS REFLECTING POOL RENOVATION PRE-ELECTION DAY: ‘The View’ co-hosts weigh in on the president’s last-minute pitch to voters and question if it was his most effective message. pic.twitter.com/tF5vF1KzRn &mdash; The View (@TheView) November 3, 2026 Well done! Goldberg cut in to praise, clapping her hands. Well done! Farah Griffin accepted the compliment, but she also wasn t done roasting Trump s speech and the other bangers he dropped in it. I have kept far more promises than I made. That s not possible! Farah Griffin reminded with a laugh. That doesn t even makes sense. And we did play it in the clip, but I just want to reiterate this poetry: Like
 
 ## Collider
 
-### The Greatest Crime Epic's Final Line Officially Changed the Genre
-Tue, 03 Nov 2026 12:03:12 GMT — https://collider.com/killers-of-the-flower-moon-best-final-quote-crime-epic-film-martin-scorsese/
+### 5 Years Later, Netflix’s Brilliant 4-Part Crime Thriller Only Gets Better With Every Season
+Tue, 03 Nov 2026 19:56:12 GMT — https://collider.com/lupin-netflix-rotten-tomatoes-scores-quality-increase/
 
-After nearly three and a half hours of bloodshed, betrayal, and thorny interpersonal relationships, Killers of the Flower Moon ended with a bang, but not in the traditional sense one would typically expect from a crime epic. Martin Scorsese 's historical saga about a coordinated genocide of members of the Osage nation in Oklahoma is a complex, dense, and aggressively challenging film that forces the viewer to reckon with the director's beloved filmography. Everyone who adores Taxi Driver and Goodfellas may find themselves the subject of criticism in Killers of the Flower Moon 's ending, which features a stunning cameo by none other than Scorsese himself, who plays a presenter in a radio play years after the events of the movie. In a film ripe with stellar performances by Leonardo DiCaprio , Robert De Niro , and breakout star Lily Gladstone , Scorsese's final line, in which he reveals that "there was no mention of the murders," is its most powerful line delivery and a damning indictment of the glorification of crime on the big screen, especially by Scorsese himself.
+Netflix has had issues with its original series in recent years. Long-running series like Stranger Things have ended on a note that soured longtime fans. Lengthy gaps between seasons are eroding audience interest and their desire to keep renewing their subscriptions. The streaming market is getting more crowded, especially as subscribers feel their pockets being pinched. Luckily, there's a Netflix show worth the subscription cost that gets better with each season , telling the story of a master thief seeking justice against those who wronged him and his family.
 
-### Rebecca Ferguson's New Fantasy Epic Officially Arrives on Streaming This Month
-Tue, 03 Nov 2026 12:00:12 GMT — https://collider.com/the-magic-faraway-tree-streaming-hbo-max-rebecca-ferguson/
+### 9-1-1: The Sinkhole Stunt Survived Nearly 8 Drops | Collider BTS
+Tue, 03 Nov 2026 19:16:12 GMT — https://collider.com/video/9-1-1-the-sinkhole-stunt-survived-nearly-8-drops-collider-bts/
 
-Over the decades, we have seen our fair share of superstar actresses. In recent years, Rebecca Ferguson has become one of the biggest names in entertainment. Starring as Elizabeth Woodville in the British historical drama miniseries The White Queen in 2013 brought Ferguson international attention, as the role earned her a Golden Globe nomination. In 2026 alone, Ferguson featured in the divisive sci-fi blockbuster Mercy , which cost $60 million to produce but ultimately disappointed at the box office despite also starring Chris Pratt . Mercy would later go on to find major success on streaming , but Ferguson's upcoming 2026 blockbuster is also poised to perform a lot better at the box office.
+How does 9-1-1 pull off its massive disasters, collapsing structures, and dangerous stunts? Special Effects Supervisor Elia Popov takes Collider behind the scenes to explain the practical effects and engineering that make the show's biggest action sequences possible.
 
-### The 6 Best Miniseries Released Between 2010 and Now
-Tue, 03 Nov 2026 11:55:12 GMT — https://collider.com/best-miniseries-since-2010/
+### Forget Taylor Sheridan’s ‘Lawmen,’ Netflix’s New Bass Reeves Series Is Officially Perfect
+Tue, 03 Nov 2026 19:13:35 GMT — https://collider.com/bass-x-machina-netflix-rotten-tomatoes-score-is-it-good/
 
-The best thing about a miniseries is that nobody has to stretch the plot to fill a third season. There’s no “it gets good in season two,” so no one has to wait a year to find out if the show got better. You watch it, it ends, and you can tell a friend to go see it without adding a list of warnings.
+If your favorite part of a Taylor Sheridan series is watching a man insist that everything he does is for his family while making their lives considerably more dangerous, Netflix has something for you. There are familiar pleasures in a Western about protecting your own in a place where the law offers little reassurance. Adding machines and supernatural threats certainly gives that predicament a few new complications.
 
-### Marvel's Oldest Hero Officially Gets a Major Redesign and New Powers
-Tue, 03 Nov 2026 11:45:16 GMT — https://collider.com/marvel-comics-namor-redesign-new-powers/
+### The 10 Most Amazing Sci-Fi Books Ever Written
+Tue, 03 Nov 2026 18:52:12 GMT — https://collider.com/most-amazing-sci-fi-books-ever-written/
 
-There aren't many characters who can claimed they've been around the world of Marvel for even longer than the likes of Captain America, Iron Man or the Fantastic Four and yet one particular hero has been flying around since before the Second World War. He's been a friend, a foe, an absolute nuisance to many and he's never been that interested in playing nice but now, Marvel has decided it's time to give this hero one of the biggest power upgrades in their history.
+Science fiction is a lot more than just spaceships and robots. By imagining different worlds, futures, technologies, and even versions of humanity, the genre's classics look at our own world from new angles. Some even anticipated technologies and social developments that wouldn't arrive until decades later.
 
-### The 6 Most Amazing Books of the 2020s, Ranked
-Tue, 03 Nov 2026 11:41:12 GMT — https://collider.com/most-amazing-books-2020s-ranked/
+### Stephen King’s 6-Part Sci-Fi on Prime Video Is So Good, You’ll Wish You Found It Sooner
+Tue, 03 Nov 2026 18:47:12 GMT — https://collider.com/most-underrated-stephen-king-series-the-dead-zone-prime-video/
 
-I have already had the humiliating experience of calling several books from this decade “recent” and then realizing they have been living in my head for years. That is probably the better test anyway. Not whether I loved them during the first week, but whether a family argument, a strange friendship, a house full of impossible rooms, or one furious voice keeps resurfacing long after I have forgotten half the other books I read around them.
+Stephen King might be more famous for his supernatural horror staples like Castle Rock and Chapelwaite , but the writer also knows how to work up a solid sci-fi thriller. The Dead Zone is an overlooked King classic, often overshadowed by the 1983 film of the same name. However, the 2002 series is just as thrilling, packed with classic King-isms and a strong sense of mystery that keeps the show engaging for all six seasons. Following a simple man with not-so-simple powers, The Dead Zone remains one of King's most overlooked TV adaptations, even nearly two decades after its cancellation.
 
-### Peter Capaldi Warns the BBC About ‘Doctor Who’: “They Don’t Really Understand It”
-Tue, 03 Nov 2026 11:30:12 GMT — https://collider.com/doctor-who-future-peter-capaldi-bbc-comments/
+### Patrick Stewart’s Most Terrifying Role Officially Surges on Streaming
+Tue, 03 Nov 2026 18:45:11 GMT — https://collider.com/green-room-patrick-stewart-streaming-top-four-november-2026/
 
-For a show all about time travel, there are many Doctor Who fans who would love to jump in the TARDIS and head back in time before all the chaos began. Years before a disappointing Disney era , Ncuti Gatwa 's controversial exit, declining ratings, and a new sour relationship between fans and returning showrunner Russell T. Davies saw the timey-wimey series put out to tender, Doctor Who fans enjoyed a retrospectively appreciated era led by star Peter Capaldi .
+Some actors become so synonymous with one or two roles that it's easy to forget that they're immensely talented performers, and when you've spent decades commanding the Enterprise or guiding the X-Men as Professor Charles Xavier, audiences probably aren't expecting you to suddenly become one of the most terrifying villains in modern horror. Yet that's precisely what Patrick Stewart did ten years ago as he gave audiences one of the most unpleasant performances in recent memory. Audiences are now rediscovering it.
 
-### The 15 Best Horror Fantasy Movies, Ranked
-Tue, 03 Nov 2026 11:27:12 GMT — https://collider.com/horror-fantasy-movies-best-ranked/
+### Matt Damon Officially Joins 'The Gilded Age' for Season 4
+Tue, 03 Nov 2026 18:30:12 GMT — https://collider.com/matt-damon-the-gilded-age-season-4-david-letterman-cameo/
 
-Fantasy is a genre of fiction that uses aspects such as mythical creatures, magic, or alternate physics to deliver a story in which the rules of reality do not apply, allowing for more creative freedom and more versatile stories. It tends to go hand-in-hand with other genres, too, with many different films twisting the typical conventions of fantasy and incorporating them into whatever story they want to tell. Star Wars , for example, is a near-perfect blend of fantasy and sci-fi, while The Lord of the Rings is the embodiment of epic fantasy.
+There have always been plenty of familiar faces wandering around the expensive drawing rooms of The Gilded Age , but even the biggest, boldest and wealthiest families in New York were probably taken aback by two of the newest additions to high society this week. Julian Fellowes ' lavish historical drama has spent years assembling one of TV's best casts but with the fourth season now underway, HBO has managed to sneak in an Oscar-winning superstar and a late-night television legend.
 
-### The 10 Worst Sci-Fi Movies in Film History
-Tue, 03 Nov 2026 11:23:12 GMT — https://collider.com/worst-sci-fi-movies-film-history/
+### Godzilla Officially Gets His First-Ever LEGO Set
+Tue, 03 Nov 2026 18:28:15 GMT — https://collider.com/lego-godzilla-first-set-5363-pieces-release-date-price/
 
-Sci-fi gets a lot of room to dream big , which is also why it gets so much room to fail . A bad romance or a bad thriller can only go wrong in so many ways. A bad sci-fi movie can go wrong with the story, the effects, the worldbuilding, the dialogue, and the casting all at once.
+For anyone who looks at a carefully arranged LEGO city and thinks it could use a catastrophic insurance event, Godzilla is an obvious addition. The King of the Monsters doesn’t need much encouragement to rearrange a skyline , and putting him within stomping distance of a modular building feels like tempting fate. Those little plastic residents have enjoyed a suspiciously peaceful existence for too long.
 
-### Before Apple TV’s ‘Neuromancer,’ One William Gibson Story Is the Perfect Starting Point
-Tue, 03 Nov 2026 11:06:12 GMT — https://collider.com/apple-tv-neuromancer-william-gibson-burning-chrome/
+### ‘Succession’ Star’s New 112-Minute Legal Thriller Officially Removed From All 2,606 Theaters
+Tue, 03 Nov 2026 18:17:53 GMT — https://collider.com/the-social-reckoning-removed-2000-theaters-box-office/
 
-If you want to try to understand cyberpunk as a genre, or as a sub-genre of science fiction, there’s use in just jumping into William Gibson ’s body of work, since his earlier works are all definitive and influential as pieces of cyberpunk fiction. You can go back further than Neuromancer , which was Gibson’s first novel, to see other books that might be cyberpunk in nature, including Do Androids Dream of Electric Sheep? , which later got adapted as Blade Runner . But Neuromancer is heightened with all the expected things, like technology being advanced and everywhere despite societal inequality, people existing between reality and some kind of cyber realm, and the world as a whole feeling dystopian, even with all the advances that, on paper, sound great.
+Aaron Sorkin has spent decades writing some of the most celebrated movies and television shows in Hollywood, but it's fair to say his work as a director has never quite hit the same heights, and that is sadly the case once more with his sequel to The Social Network . The 2010 drama, directed by David Fincher , transformed the creation of Facebook into an Oscar-winning masterpiece, but unfortunately, audiences haven't exactly been rushing to see what happened next, and the sequel's theatrical journey has now come to a rather spectacularly disappointing end.
 
-### Liam Neeson’s New Action Movie Is Officially One of His Worst-Rated Movies Ever
-Tue, 03 Nov 2026 11:00:12 GMT — https://collider.com/liam-neeson-the-mongoose-rotten-tomatoes-is-it-good/
+### New Mistborn Movie Officially Gets Major Kelsier and Vin Casting Update
+Tue, 03 Nov 2026 18:16:43 GMT — https://collider.com/mistborn-movie-kelsier-vin-casting-brandon-sanderson-apple/
 
-Liam Neeson is a supremely talented actor with one of the longest and most impressive filmographies in Hollywood. From dazzling in Steven Spielberg 's moving historical drama Schindler's List and warming hearts in the Christmas classic Love Actually , to reigniting the brilliant Naked Gun franchise and defining the modern action thriller in Taken , there's little this Academy Award nominee hasn't done. However, for every great Neeson film, there seems to be another that is panned by critics.
+Casting Mistborn means finding someone who can make overthrowing an immortal ruler sound like a reasonable use of an afternoon. Kelsier needs that kind of confidence. He’s recruiting a crew for an undertaking that should be impossible, and much of the fun of Brandon Sanderson ’s first novel comes from watching him convince people to attempt it anyway. Whoever plays him has to make that enthusiasm infectious without sanding off his more dangerous edges.
 
