@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Godzilla Minus Zero review: seven verdicts, a four-point spread">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0.65" y2="1">
+      <stop offset="0" stop-color="#18011F"/>
+      <stop offset="1" stop-color="#5B3FBF"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <g fill="#FFFFFF" font-family="Helvetica, Arial, sans-serif">
+    <text x="80" y="150" font-size="34" opacity="0.72" letter-spacing="3">GODZILLA MINUS ZERO</text>
+    <text x="80" y="330" font-size="190" font-weight="700">7</text>
+    <text x="250" y="330" font-size="56" opacity="0.85">out of 10</text>
+    <text x="80" y="420" font-size="46" font-weight="600">Seven verdicts, 6 to 10</text>
+    <text x="80" y="486" font-size="34" opacity="0.74">Effects praised almost everywhere.</text>
+    <text x="80" y="534" font-size="34" opacity="0.74">Pacing splits the room.</text>
+  </g>
+  <g stroke="#FFFFFF" stroke-width="5" opacity="0.5">
+    <line x1="80" y1="600" x2="1120" y2="600"/>
+  </g>
+  <g fill="#FFFFFF" font-family="Helvetica, Arial, sans-serif" font-size="26" opacity="0.6">
+    <text x="80" y="652">6</text>
+    <text x="1096" y="652">10</text>
+  </g>
+</svg>
