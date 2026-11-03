@@ -1,6 +1,26 @@
-# Games — harvested 2026-11-02T22:27:45.838Z
+# Games — harvested 2026-11-03T12:21:19.925Z
 
 ## Eurogamer
+
+### Indie game website itch.io expands its AI disclosure filter as 'AI slop' continues to overwhelm Steam and other storefronts
+Tue, 03 Nov 2026 12:03:56 +0000 — https://www.eurogamer.net/itchio-generative-ai-filters-slop
+
+Indie game storefront itch.io has expanded its AI disclosure filters, allowing its users to better separate games made with the controversial technology from those who don't. Read more
+
+### It looks like Call of Duty: Modern Warfare 4 had fewer active players at launch in the US compared to last year's Black Ops 7
+Tue, 03 Nov 2026 11:22:41 +0000 — https://www.eurogamer.net/call-of-duty-modern-warfare-4-player-engagement-black-ops-7
+
+It's been speculated for a while that Call of Duty may be losing its lustre. Although we don't have concrete data with detailed statistics for each game released in the last several years, there's an observable trend in player numbers that's hard to ignore. Read more
+
+### Remedy revenue soars by 226% following release of Control Resonant, the developer's fastest-selling game ever
+Tue, 03 Nov 2026 09:56:48 +0000 — https://www.eurogamer.net/control-resonant-remedy-revenue-leaps
+
+Remedy - the developer behind the recently released Control Resonant - has released a scorcher of a quarterly financial report. It shows that following Resonant's release in September, the company's revenue surged by 226 percent, bringing in &euro;39.6m in Q3. Read more
+
+### Days Gone studio's next PlayStation exclusive to be revealed and released in 2027, according to new report
+Tue, 03 Nov 2026 09:18:39 +0000 — https://www.eurogamer.net/sony-bend-studio-next-playstation-game-2027
+
+Sony's Bend Studio, perhaps one of its lesser discussed development houses, has apparently been deep in development on its next title. The game is reportedly set to be announced in 2027, and released in the same year. Read more
 
 ### Yakuza creator's new studio and its debut game Gang of Dragon are no more after losing funding from NetEase
 Mon, 02 Nov 2026 20:30:09 +0000 — https://www.eurogamer.net/yakuza-creator-new-studio-closed-netease
@@ -42,27 +62,12 @@ Mon, 02 Nov 2026 12:12:11 +0000 — https://www.eurogamer.net/id-software-doing-
 
 Iconic Doom and Quake developer id Software was among the most heavily impacted Microsoft-owned studios during Xbox CEO Asha Sharma's devastating business "reset" earlier this year, with around 136 employees reportedly losing their jobs. Read more
 
-### Soulframe to launch into free open beta this week, as Warframe devs go head-to-head with WoW: Forever
-Mon, 02 Nov 2026 11:17:46 +0000 — https://www.eurogamer.net/soulframe-open-prelude-date-verse-of-the-veillands
-
-Soulframe's Preludes (its own version of a beta) is finally opening its doors to the whole world ahead of the Verse of the Veilands update. Starting this week, anyone who wants to can simply download the game and hop in, no invite required. Read more
-
-### Phantom Blade Zero is Steam's biggest launch of the year so far, selling over 4 million copies in three days
-Mon, 02 Nov 2026 09:24:45 +0000 — https://www.eurogamer.net/phantom-blade-zero-4-million-copies-steam-biggest-launch
-
-Phantom Blade Zero studio S-Game has announced that its debut title has sold more than 4m copies in its first 72 hours on sale. The game's official X account broke the news alongside a celebratory message, though without providing a per-platform breakdown of copies sold. Read more
-
-### At Dead of Night sequel The Great Hugo is coming "(very) soon"
-Sun, 01 Nov 2026 18:16:20 +0000 — https://www.eurogamer.net/at-dead-of-night-2-the-great-hugo-sequel-announced
-
-Baggy Cat Games, the team behind viral FMV horror game At Dead Of Night, has confirmed that a sequel is "coming (very) soon". Read more
-
-### Modern Warfare 4 on Switch 2 has much worse input lag than PS5
-Sun, 01 Nov 2026 17:27:29 +0000 — https://www.eurogamer.net/modern-warfare-4-switch-2-input-lag-digital-foundry
-
-Call of Duty: Modern Warfare 4 on Switch 2 has noticeably worse input lag than on PS5, which could put Nintendo players at a disadvantage in multiplayer. Read more
-
 ## GamesIndustry.biz
+
+### Remedy Q3 revenue triples to €39.6m following launch of Control Resonant
+Tue, 03 Nov 2026 08:39:15 +0000 — https://www.gamesindustry.biz/remedy-q3-revenue-triples-to-396m-following-launch-of-control-resonant
+
+Remedy's third quarter revenue surged by 226% following the September 24 launch of Control Resonant , which CEO Jean-Charles Gaudechon called "a defining milestone for the company." Read more
 
 ### Saudi-backed Kingdom of Gaming event delayed to 2027
 Mon, 02 Nov 2026 21:46:06 +0000 — https://www.gamesindustry.biz/saudi-backed-kingdom-of-gaming-event-delayed-to-2027
@@ -115,6 +120,31 @@ _Nothing in the last 48 hours._
 
 ## Push Square
 
+### PS Store Black Friday Sale Begins Tomorrow with Thousands of PS5 Deals
+Tue, 03 Nov 2026 12:15:00 GMT — https://www.pushsquare.com/news/2026/11/ps-store-black-friday-sale-begins-tomorrow-with-thousands-of-ps5-deals
+
+Here's a teaser of some games on offer. Sony has announced its big PS Store sale for Black Friday will begin tomorrow, 4th November 2026. It's promising "thousands" of deals across PS5 and PS4 titles, and it's even shared a list of a few of the standout games that'll be discounted. We don't know how much cheaper they'll be yet, but Sony has shared the following will be part of the Black Friday sale: Read the full article on pushsquare.com
+
+### Sonic Racing: CrossWorlds Gets Massive Update, Godzilla DLC Today as Year Two Begins
+Tue, 03 Nov 2026 12:00:00 GMT — https://www.pushsquare.com/news/2026/11/sonic-racing-crossworlds-gets-massive-update-godzilla-dlc-today-as-year-two-begins
+
+The race goes on. Sonic Racing: CrossWorlds has been getting some great DLC and post-launch support from SEGA, and that's set to continue for another year, starting today, 3rd November 2026. A major game update is set to be released today, bringing the kart racer to version 2.0.0 and marking the beginning of the game's official Year Two. Read the full article on pushsquare.com
+
+### Borderlands Has Sold 100 Million Units Across the Series, and There s a Shift Key to Celebrate
+Tue, 03 Nov 2026 11:00:00 GMT — https://www.pushsquare.com/news/2026/11/borderlands-has-sold-100-million-units-across-the-series-and-theres-a-shift-key-to-celebrate
+
+No claptrap detected. Publisher 2K Games has announced a major sales milestone for its super popular looter shooter series, Borderlands . The franchise has now sold more than 100 million copies to date, across all platforms and games. It's marked the occasion with this video: Read the full article on pushsquare.com
+
+### November 2026 PS Plus Essential Games Available to Download Now
+Tue, 03 Nov 2026 09:00:00 GMT — https://www.pushsquare.com/news/2026/11/november-2026-ps-plus-essential-games-available-to-download-now
+
+Tour a Dead Island, board a Monster Train. Today's the day for Sony's penultimate PS Plus Essential update of 2026, which delivers a further three PS5, PS4 games for members to download and play. Here's what PlayStation has to offer this month, available to redeem until 1st December 2026: Read the full article on pushsquare.com
+
+### Sony Wants You to Trade In Your PS5 for $400 if You re Not Using It
+Tue, 03 Nov 2026 00:00:00 GMT — https://www.pushsquare.com/news/2026/11/sony-wants-you-to-trade-in-your-ps5-for-usd400-if-youre-not-using-it
+
+Circulate those systems. Sony is sending out notifications to PS5 players in the US, encouraging them to trade-in their console for cash if they’re not using it. The programme – which runs through a third-party named Back Market – promises up to $400 for a base PS5 console with two DualSense controllers, depending on their overall condition. Read the full article on pushsquare.com
+
 ### Poll: Which PS5 Games Did You Buy During the Insane Pre-GTA 6 Rush?
 Mon, 02 Nov 2026 18:00:00 GMT — https://www.pushsquare.com/features/poll-which-ps5-games-did-you-buy-during-the-insane-pre-gta-6-rush
 
@@ -150,31 +180,6 @@ Mon, 02 Nov 2026 13:30:00 GMT — https://www.pushsquare.com/news/2026/11/god-of
 
 Gym of War. Dave Bautista has been busy in the gym after being cast as Kratos in Amazon Prime’s upcoming live action God of War adaptation. Showing off in a branded shirt on social media , the former wrestler confirmed he’d put on 20lbs in muscle to play the role. That’s about 9kgs for those of you outside of the US. Read the full article on pushsquare.com
 
-### Sony Fighting GTA 6 PS5 Piracy with New Firmware Demands
-Mon, 02 Nov 2026 12:45:00 GMT — https://www.pushsquare.com/news/2026/11/sony-fighting-gta-6-ps5-piracy-with-new-firmware-demands
-
-Today's new PS5 firmware reportedly required. PlayStation appears to be taking absolutely no risks, as it closes in on the launch of GTA 6 for its platform while fending off PS5 jailbreak, piracy, and hacking attempts. From the start of last month, hackers began cracking the PS5 firmware via AI tools on firmware v7.00 through v13.60. In response, Sony has issued multiple PS5 firmware updates to cut down on potential emulators for the current-gen box going forward. Read the full article on pushsquare.com
-
-### Housemarque Issues Saros PS5 Patch for Bug Fixes, Update Out Now
-Mon, 02 Nov 2026 12:30:00 GMT — https://www.pushsquare.com/news/2026/11/housemarque-issues-saros-ps5-patch-for-bug-fixes-update-out-now
-
-We're on version 02.000.003 now. Here's a quick one: Saros developer Housemarque has today updated the PS5 exclusive and issued version 02.000.003, available to download now. It's a very simple set of patch notes that predominantly focuses on bug fixes, like issues in the Overlord Rush mode and problems affecting Trophy unlocks. Perhaps the most interesting note in relation to changing when the Saros: Zenith splash screen appears. Read the full article on pushsquare.com
-
-### Guide: These 28+ PS5 and PS Plus Games Are Coming Out This Week (2nd-8th November)
-Mon, 02 Nov 2026 12:15:00 GMT — https://www.pushsquare.com/guides/these-28plus-ps5-and-ps-plus-games-are-coming-out-this-week-2nd-8th-november
-
-Godzilla: Destroy All Monsters! CRYMELIGHT! Zero Parades! We’re fast approaching the GTA 6 evacuation zone, so expect the number of new releases to dip dramatically in November. There are some noteworthy titles this time, though, with highlights including the PS5 version of Zero Parades as well as Alice in Wonderland roguelite CRYMELIGHT . Read the full article on pushsquare.com
-
-### Soon Playable on PS5, Nubby s Number Factory Is the Strangest Roguelike You ll See Today
-Mon, 02 Nov 2026 12:00:00 GMT — https://www.pushsquare.com/news/2026/11/soon-playable-on-ps5-nubbys-number-factory-is-the-strangest-roguelike-youll-see-today
-
-Give it a Trophy. Sometimes, a game will crop up that I really want to write about, but can't because it's not available on PlayStation. Nubby's Number Factory is one of those games. Originally released on PC in March 2025, this bizarre little roguelike is so up my street, and I'm very pleased to be able to say it's heading to Sony's systems in the future. Read the full article on pushsquare.com
-
-### Feature: Last Chance to Buy These 50+ PS5, PS4 Games in PS Store s Planet of the Deals Sale
-Mon, 02 Nov 2026 11:30:00 GMT — https://www.pushsquare.com/features/last-chance-to-buy-these-50plus-ps5-ps4-games-in-ps-stores-planet-of-the-deals-sale
-
-Recommended games going cheap. Planet of the Deals is the PS Store's latest sale, but it's not around much longer, ending on 4th November, 2026. As always, there are thousands of PS5 and PS4 games on offer, and that's an awful lot of potential purchases to scroll through. Read the full article on pushsquare.com
-
 ## Game Developer
 
 ### Toshihiro Nagoshi's post-Sega game studio, Nagoshi Studio, shuts down after NetEase funding cuts
@@ -193,6 +198,26 @@ Mon, 02 Nov 2026 16:33:26 GMT — https://www.gamedeveloper.com/production/zelda
 The latest The Legend of Zelda title remakes one of the series' most beloved games, which Eiji Aonuma chose to pursue to help junior staff think about the modern games differently.
 
 ## VGC
+
+### Dead by Daylight studio apologises for gifting offensive streamer DLC and telling them we can take the heat
+Tue, 03 Nov 2026 12:10:50 +0000 — https://www.videogameschronicle.com/news/dead-by-daylight-studio-apologises-for-gifting-offensive-streamer-dlc-and-telling-them-we-can-take-the-heat/
+
+Behaviour Interactive says it showed "a disregard for the context we were suddenly in" Source
+
+### South of Midnight director says he wouldn t have funded it if he was Xbox, and he knew Rome would burn eventually
+Tue, 03 Nov 2026 10:57:21 +0000 — https://www.videogameschronicle.com/news/south-of-midnight-director-says-he-wouldnt-have-funded-it-if-he-was-xbox-and-a-bad-outcome-was-inevitable/
+
+Funding games like it was an unsustainable practice… Source
+
+### Expanding Horizons: How Wuthering Waves Won Over a Global Audience Through Sustained Live Support
+Tue, 03 Nov 2026 10:12:22 +0000 — https://www.videogameschronicle.com/news/expanding-horizons-how-wuthering-waves-won-over-a-global-audience-through-sustained-live-support/
+
+Wuthering Waves is now more than two years old, but somehow, it’s bigger and more … Source
+
+### Final Fantasy 7 Remake and Rebirth currently have huge price drops on the Switch 2 eShop
+Tue, 03 Nov 2026 09:35:53 +0000 — https://www.videogameschronicle.com/news/final-fantasy-7-remake-and-rebirth-currently-have-huge-price-drops-on-the-switch-2-eshop/
+
+Each game is at least 80% off, with Rebirth on sale for $7.49 / £7.49… Source
 
 ### Not even the most frustrating hands-on could stop me being excited for Stage Tour
 Mon, 02 Nov 2026 17:25:10 +0000 — https://www.videogameschronicle.com/features/not-even-the-most-frustrating-hands-on-could-stop-me-being-excited-for-stage-tour/
@@ -224,74 +249,74 @@ Mon, 02 Nov 2026 10:50:16 +0000 — https://www.videogameschronicle.com/news/nin
 
 Nintendo is hosting a UK midnight launch for Zelda: Ocarina of Time's Switch 2 remake… Source
 
-### Google s Zelda Ocarina of Time easter egg transports users back to 1998
-Mon, 02 Nov 2026 10:37:12 +0000 — https://www.videogameschronicle.com/news/googles-zelda-ocarina-of-time-easter-egg-transports-users-back-to-1998/
-
-By clicking the Master Sword, you can travel back in time to the old Google homepage… Source
-
-### Days Gone developer Bend Studio s next game will be revealed and released next year, report claims
-Mon, 02 Nov 2026 09:49:37 +0000 — https://www.videogameschronicle.com/news/days-gone-developer-bend-studios-next-game-will-be-revealed-and-released-next-year-report-claims/
-
-The game will reportedly not be live-service, nor will it be Days Gone 2… Source
-
-### Nagoshi Studio officially closes after NetEase cuts funding
-Mon, 02 Nov 2026 08:01:35 +0000 — https://www.videogameschronicle.com/news/nagoshi-studio-officially-closes-after-netease-cuts-funding/
-
-Nagoshi Studio, founded by Yakuza creator Toshihiro Nagoshi… Source
-
 ## Polygon
 
-### 2024's Best Action Game Is (Mostly) Just as Good in Stunning Switch 2 Port
-Mon, 02 Nov 2026 22:00:17 GMT — https://www.polygon.com/stellar-blade-nintendo-switch-2-impressions/
+### 'VisionQuest' Star Officially Breaks Silence on Her Character's Avengers Movie Future
+Tue, 03 Nov 2026 12:00:18 GMT — https://www.polygon.com/visionquest-lauren-morais-interview/
 
-Shift Up’s Stellar Blade is one of the decade’s great action games, blending together quick-paced sword combat and powerful parries. A sequel is on the way , but before it arrives, Shift Up isn’t done with the first game. It arrives on Nintendo Switch 2 later this week, the latest in a long line of satisfying Switch 2 ports, even if it shares the same issues as most of them.
+Six episodes into VisionQuest , it's clear Marvel ’s latest show has a lot going on. In addition to seeing the evolution of characters like Vision (Paul Bettany) and Ultron (James Spader), we saw the death of J.A.R.V.I.S. (James D’Arcy), and the rebirth of Tommy Maximoff (Ruaridh Mollica). The show is also giving us the origins of Jocasta ( T’Nia Miller ), Paladin (Todd Stashwick), and Lisa Molinari (Lauren Morais), the latter becomes the character Coat of Arms in Marvel Comics.
 
-### Daniel Craig's Taut 92-minute Thriller Is Blowing Up on Streaming
-Mon, 02 Nov 2026 21:23:51 GMT — https://www.polygon.com/daniel-craig-dream-house-streaming-success-hbo-max-november-2026/
+### WoW: Forever Makes Every Class More Powerful in Last-Minute Change
+Tue, 03 Nov 2026 11:48:05 GMT — https://www.polygon.com/wow-world-of-warcraft-forever-1-0-patch-class-changes/
 
-Daniel Craig has established himself as one of Hollywood's most reliable leading men, particularly when it comes to action movies and suspenseful thrillers. From his gritty breakout role in Layer Cake to the high-stakes mysteries of Knives Out and The Girl With the Dragon Tattoo , Craig has built an impressive filmography outside his best-known role as James Bond.
+Blizzard has detailed a final round of fixes and balance changes that it's making to World of Warcraft: Forever , based on feedback from the recent beta, before the retro MMO launches this week. The headline change is both simple and pretty dramatic: every class will do more damage.
 
-### Jurassic Park Meets Outlast in Terrifying Steam Game Coming Next Week
-Mon, 02 Nov 2026 20:00:18 GMT — https://www.polygon.com/wilderdark-survival-horror-jurassic-park-steam-release/
+### Behaviour Interactive Addresses Dead by Daylight Controversy
+Tue, 03 Nov 2026 11:13:57 GMT — https://www.polygon.com/dead-by-daylight-theburntpeanut-controversy-response/
 
-For some reason, there haven't been that many truly great dinosaur video games throughout history. Ark: Survival Evolved had plenty of success despite the fact it was quite janky, and The Isle has spawned myriad viral videos thanks to its proximity chat. Jurassic World Evolution 3 is by far the best licensed dinosaur game, but it focuses on managing the theme park, as opposed to fighting and surviving.
+Behaviour Interactive is under fire for supporting VTuber TheBurntPeanut following a Halloween stream. Many community members dislike the controversial streamer due to repeated accusations of offensive behavior, alleged viewbotting, and the use of racial and homophobic slurs. This caused dozens of players to uninstall Dead by Daylight and voice their discontent on social media. Behaviour Interactive is doing damage control and has issued a statement addressing the matter.
 
-### One of the GameCube’s Great Cult Classics Gets the Remaster It Deserves
-Mon, 02 Nov 2026 19:31:18 GMT — https://www.polygon.com/godzilla-destroy-all-monsters-melee-remastered-review/
+### Dragon Ball Manga Return Hopes Officially Dashed by Shueisha
+Tue, 03 Nov 2026 10:29:00 GMT — https://www.polygon.com/dragon-ball-super-jump-festa-manga-return/
 
-When I was a kid, there were some games I only knew through magazines. I never played them, but they were all over the pages of Electronic Gaming Monthly and Nintendo Power, so I knew everything about them anyway. Godzilla: Destroy All Monsters Melee was firmly a “magazine game” when it was released for the GameCube in 2002. I even had a free poster of it on my wall as a kid, one I kept hung up even after a wave of middling reviews eventually dropped.
+It's almost time for Jump Festa, the annual event where Japanese publisher Shueisha showcases its most important manga and gives fans exciting updates for the future. Except that this year, Shueisha's most famous property, Dragon Ball , will barely be featured at Jump Festa. Fans speculate that the franchise's complicated status could be the reason, and that surprising changes could be on the horizon.
 
-### Hideo Kojima's Next Game Officially Gets New Teaser Image, Fans Already Hunting for Clues
-Mon, 02 Nov 2026 19:30:27 GMT — https://www.polygon.com/od-teaser-image-hideo-kojima-horror/
+### 'Avatar: Seven Havens' Season 2 Could Return to 'The Last Airbender’s Most Iconic Location
+Tue, 03 Nov 2026 09:00:17 GMT — https://www.polygon.com/avatar-seven-havens-season-2-new-ba-sing-se-theory/
 
-More than four years after its initial announcement, OD remains one of the biggest mysteries in the video game industry. We know Kojima Productions ’ next game is some sort of horror experience, and that genre auteur Jordan Peele contributed to the project, but specifics are hard to come by. Despite the caginess, we got a new look at OD as part of Kojima Productions’ 10th anniversary exhibition, which is running through Dec. 20 at Azabudai Hills Gallery in Tokyo.
+Ba Sing Se once survived a century-long war by pretending the war didn’t exist at all, only to get taken over by the Fire Nation during Avatar: The Last Airbender . Despite ongoing political turmoil extending through The Legend of Korra ’s era, the Earth Kingdom’s former capital persisted — and one version of it even survived the Cataclysm. Avatar: Seven Havens revealed the existence of a Haven called New Ba Sing Se during season 1, offering a glimpse of a society still clinging to old traditions while its people go hungry. And based on one specific detail from the season finale, there’s a very good reason to suspect we'll get to see the city of New Ba Sing Se firsthand in season 2.
 
-### FF7 Remake and Rebirth Are Less than $8 Each on Nintendo Switch 2
-Mon, 02 Nov 2026 18:54:22 GMT — https://www.polygon.com/final-fantasy-7-remake-rebirth-switch-2-sale/
+### 'The Mandalorian' Meets 'Avatar' in Netflix's New Sci-Fi Western Masterpiece
+Tue, 03 Nov 2026 08:01:18 GMT — https://www.polygon.com/bass-x-machina-review-netflix/
 
-If you've been waiting for Final Fantasy 7 Remake and Rebirth to go on sale before checking them out, your patience has paid off. At least, as long as you're okay with a bit of DLSS hair-frizz . Square Enix is hosting a huge sale on the Nintendo Switch and Switch 2 eShop, and included in that sale are FF7 Remake and FF7 Rebirth for $7.99 and $7.49, respectively.
+Created by LeSean Thomas and Studio Mir, who both worked on The Legend of Korra , Bass X Machina is a reimagining of the story of Bass Reeves (Brian Tyree Henry), an escaped slave who worked in Indian Territory as a deputy U.S. Marshal. Reeves’ real life was extraordinary, and is said to have inspired the character of the Lone Ranger, but Bass X Machina also gives him a cybernetic arm that shoots magic bullets. The criminals he fights get even bigger upgrades, and the stakes can at times escalate to truly ludicrous levels. Henry does an especially great job expressing exasperation as Bass faces plenty of absurd foes, like an outlaw in a rampaging bull mech that requires complex cooperation to take down.
 
-### Huge Square Enix Sale for Switch 2 Includes 90+ Games At Discounts Up to 85% Off
-Mon, 02 Nov 2026 18:52:20 GMT — https://www.polygon.com/square-enix-nintendo-switch-2-sale-november-2026/
+### Zelda Ocarina of Time release time in your time zone
+Tue, 03 Nov 2026 05:01:17 GMT — https://www.polygon.com/zelda-ocarina-of-time-release-time-est-pst-pre-orders/
 
-Nintendo Switch 2 owners have plenty of great RPGs to choose from, but building up a digital library can get expensive. Fortunately, Square Enix is making that a little easier with a massive Nintendo eShop sale, offering steep discounts on some of its biggest franchises.
+The Zelda Ocarina of Time remake release time is just around the corner, as Nintendo introduces a new generation to one of its classic games. Unlike the 3DS port from 2011, Ocarina of Time on Switch 2 includes a massive visual overhaul, along with several quality-of-life features that weren't present in the original Nintendo 64 release. Pre-orders are still open at some retailers if you're hoping to snag a special bonus, though US-based folks only get one bonus to choose from.
 
-### Percy Jackson Season 3 Official Trailer Shows Off Star-Studded New Cast
-Mon, 02 Nov 2026 18:19:46 GMT — https://www.polygon.com/percy-jackson-season-3-disney-plus-trailer-titans-curse/
+### 20 Years Later, Uncle Iroh's Wisest 'Avatar: The Last Airbender Quote' Is Still Undefeated
+Tue, 03 Nov 2026 05:00:17 GMT — https://www.polygon.com/avatar-the-last-airbenders-best-quote/
 
-With just a few weeks until season 3 of Percy Jackson and the Olympians premieres, Disney has released a stunning new trailer for the next chapter of the Rick Riordan adaptation. Season 3, which will cover the 2007 novel The Titan's Curse , looks to be the darkest entry in the show yet. While the new trailer sets up the stakes of the latest adventure for Percy and friends, it also signals that the end of the road isn't far off.
+Avatar: The Last Airbender has more than its fair share of heartfelt moments and poignant lines. Whether it’s Aang reassuring a downtrodden Toph in the vast loneliness of the desert, or Ursa’s parting words to her son Zuko before disappearing in the middle of the night, the series can be surprisingly deep for what some might (incorrectly) consider a mere children’s show. No character embodies that richness and depth more than Uncle Iroh, who begins as Zuko's wise mentor and becomes so much more. Time and again, Iroh sits at the center of The Last Airbender 's most moving moments, offering quiet wisdom just when it's needed most.
 
-### 9 Ways Mina the Hollower Was as Complex and Audacious to Make as Any AAA Game
-Mon, 02 Nov 2026 18:00:18 GMT — https://www.polygon.com/mina-the-hollower-yacht-club-games-interview/
+### New Star Wars Book Reveals the Surprising '90s Inspiration for an Iconic New Character
+Tue, 03 Nov 2026 00:47:17 GMT — https://www.polygon.com/exclusive-look-the-art-of-the-mandalorian-and-grogu/
 
-David D'Angelo, programmer at Yacht Club Games: Mina actually started with, Alec, the director, as a side project. He wanted to get better at doing art stuff. He said, “I'm gonna make a little game where I could make Game Boy Color art.
+After years on Disney Plus, Din Djarin (Pedro Pascal) and his surrogate Jedi son, Grogu, made their big-screen debut in The Mandalorian and Grogu earlier this year. Now, The Art of Star Wars: The Mandalorian and Grogu by Phillip Szostak is set to hit shelves this week, offering a behind-the-scenes look at the film’s production from start to finish.
 
-### Google Is Quietly Hiding A New Zelda: Ocarina of Time Easter Egg
-Mon, 02 Nov 2026 17:57:46 GMT — https://www.polygon.com/google-search-legend-of-zelda-ocarina-of-time-tloz-switch-2-easter-egg/
+### World of Warcraft Forever release time in your time zone
+Mon, 02 Nov 2026 23:01:17 GMT — https://www.polygon.com/world-of-warcraft-forever-wow-release-time-est-pst/
 
-The official release of the Switch 2 remake of The Legend of Zelda: Ocarina of Time is only a couple of days away, but search engine Google has already started the festivities with a clever nod to Nintendo's landmark adventure game.
+The release of World of Warcraft: Forever brings a third — or, depending on how you count them, a sixth or seventh — way to play World of Warcraft to everyone with a WoW subscription. Joining the modern game and the Classic servers, Forever is based on WoW as it was at launch in 2004, but with new content, rebalanced classes, graphical enhancements, and lots of modernization.
 
 ## PC Gamer
+
+### Upcoming Final Fantasy 14 update should massively cut down on dungeon queue times
+Tue, 03 Nov 2026 11:47:55 +0000 — https://www.pcgamer.com/games/mmo/upcoming-final-fantasy-14-update-should-massively-cut-down-on-dungeon-queue-times/
+
+Final Fantasy 14's queues can get long—not for roulettes, mind, those are usually pretty nippy—but if you're trying to complete a specific alliance raid as a newer player, you can be stuck twiddling your thumbs for ages. Square Enix is planning to make a change that'll fix that soon, though. In a recent blog post to the game's website , it's been announced that same-region player matchmaking'll be available starting November 10 after a successful trial period on its Japanese servers. What does that mean? Basically, FF14's server architecture is into physical data centers (Japan, Europe, Oceania, and North America), then logical data centers, which are sort of like realms in other MMOs. For instance, the NA servers have Crystal, Aether, Dynamis, and Primal (then within those centers are "worlds", which can be travelled and matchmade between pretty easily). You've been able to hop between these logical data centers manually for some time—it's pretty common, for instance, for Crystal players to hop on over to Aether to group up with folks for high-end content. But you need to log out to do so, with said parties constructed through the in-game party finder. After November 10, however, matchmaking for things like roulettes will also be possible within the same physical data center, as will the party finder writ large, cross-world linkshells, fellowships, and friend list and /tell functionality. Travelling between data centers will also be made easier, too. This is a huge quality-o
+
+### Users pull $3.6 bn from Binance as it reopens following $6.3 billion mega-hack - FBI says North Korean hacking group 'TraderTraitor' to blame, North Korea says nuh-uh
+Tue, 03 Nov 2026 10:54:30 +0000 — https://www.pcgamer.com/software/security/users-pull-usd3-6-bn-from-binance-as-it-reopens-following-usd6-3-billion-mega-hack-fbi-says-north-korean-hacking-group-tradertraitor-to-blame-north-korea-says-nuh-uh/
+
+Binance saw a huge outpouring of withdrawals when it re-opened to customers on Sunday following a hack for the history books. The cryptocurrency exchange lost $6.3 billion, roughly $3 billion of which was frozen in transit and the rest covered by the company, but it lost a bunch more once it let customers take their money out on November 1. Customers withdrew $4.649 billion from the exchange in just under 10 hours since it reopened. That's a whole lot of value to lose in a day, and not wholly surprising given the context, but what is more surprising is how many deposits were made in that same timeframe: roughly $1 billion worth. "Withdrawals were temporarily suspended as a precaution while our teams worked to contain the incident loss, assess its impact, restore affected services, and complete security checks," Binance said of the move. Users may face slowdowns as systems get back up and running, the company has said. In later updates, Binance says that deposits into the exchange have begun to creep back up in excess of withdrawals; the total cashflow of the crypto exchange is still a net negative, at -$5 billion by November 3, but the withdrawals are no longer outpacing the deposits by any significant amount. It's still early days and a long way to go to make up for the initial loss in customer funds, but the exchange may still live to fight another day. Withdrawal data updateBy 03:00 UTC, we are seeing hourly deposits exceed withdrawals, reflecting improving user activity a
+
+### Queen's Domain might be the best game like Metroid Prime since Metroid Prime
+Mon, 02 Nov 2026 22:41:29 +0000 — https://www.pcgamer.com/games/rpg/queens-domain-might-be-the-best-game-like-metroid-prime-since-metroid-prime/
+
+I tried the demo for Queen's Domain last year and liked it a lot⁠—though it definitely had some friction I wasn't sure about. The full game launched on October 30 , and I eagerly rushed through the parts I'd already played in the demo. Turns out, that demo cut out right when things were about to go nuts. Five hours in out of an estimated 30+, and Queen's Domain is easily one of my top games of the year. I am only begrudgingly writing this, because I'd rather be playing right now. Queen's Domain starts out resembling other entries in a growing subgenre of indie King's Field-likes , paying homage to the first-person dark fantasy RPG series FromSoftware put out before its soulsward turn. In its first half hour or so, Queen's Domain distinguishes itself similarly to fellow genre standout Lunacid: Fantastic art, maybe even better music , and a mastery of nostalgic intangibles (menu, UI, sound cues, etc.) After beating the first boss, Queen's Domain rewards you with a magic airdash sword, and it's at that point that the game truly begins. Queen of the skies Queen's Domain is a very deliberately paced game and, like a lot of first-person RPGs, it starts out feeling like your boots will always be on the ground. Think the difference between Doom and Quake: You can mostly tell when a game will let you get some air or not. Freshly Baked Games Freshly Baked Games Freshly Baked Games Freshly Baked Games But once I was rocking the Holy Sword, Endu? Holy shit . Queen's Domain's first area o
 
 ### Enshrouded 1.0 review
 Mon, 02 Nov 2026 21:47:58 +0000 — https://www.pcgamer.com/games/survival-crafting/enshrouded-1-0-review/
@@ -337,21 +362,6 @@ Preorders are opening up for physical editions of Nightdive's Thief Remaster , a
 Mon, 02 Nov 2026 14:00:00 +0000 — https://www.pcgamer.com/games/card-games/monster-train-2-the-punished-review/
 
 Their aesthetic? Chains, whips; spiked. Their mood? Afflicted, condemned, ritualistic. Their angels? Dark. Their maiden? Iron. Friendship ended with dwarven gearsmiths ; my new favorite clan in Monster Train 2 is the tortured edgelords. The final faction being added to Monster Train 2, The Punished, arrive November 10 as a paid DLC. Their theme is self-damage, with new keywords and spells that, primarily, reward power in exchange for hurting yourself. Your pain? Enemies' bane. Leaving a mark Though existing MT2 clans like the Melting Remnant revolve around forms of sacrifice, The Punished are absolutely thirsty for it. They bring new keywords like Chained (enemy units take half the damage that your units take) that make damage an active solution to enemy waves. The self-flagellation angle likewise brings new purpose to some existing spells and equipment, and jives great with partner clans that provide protection from pain (Lazarus League) or more ways to inflict it (Pyreborne). Damaging my own guys sounds like a risk-reward tactic that requires sophisticated play. In my first run as The Punished, I anticipated having to do brain-wracking calculus about how much damage to absorb. But instead, I've found the new clan to be one of the most powerful and, at least with one of their champions, easy to play. A lot of that is down to the utility of their new gimmick, a big purple gem called the Monolith . Here's a breakdown of what makes it special: Their clan mechanic, the Monolith,
-
-### Ray tracing memory usage could be reduced by up to 90% thanks to 'most significant' DirectX update
-Mon, 02 Nov 2026 13:38:24 +0000 — https://www.pcgamer.com/hardware/memory/ray-tracing-memory-usage-could-be-reduced-by-up-to-90-percent-thanks-to-most-significant-directx-update/
-
-While I go 'oo' at every perfectly lit videogame vista, ray tracing can sometimes make my gaming rig go 'HNNNG'. I love a traced ray as much as the next person, but realistic reflections and lighting can be a bit of a memory hog. Thankfully, Microsoft is previewing something new for DirectX that could significantly take the load off many ageing rigs. It's a pair of features called 'Clustered Geometry' and 'Partitioned TLAS'. At the risk of oversimplifying, you can think of this DirectX update as bringing tech very similar to Nvidia RTX Mega Geometry to every other GPU vendor. Obviously there's more to it than that, though, with Microsoft describing this as the " most significant update [to DXR] since its debut in 2018 ." Top line: Microsoft's own testing of this update suggests it could reduce ray tracing memory load by as much as 90% without the need for a team green GPU (via Techspot ). So, how does it work? Well, without this update, ray tracing is already beaming between less detailed versions of the geometry you see in-game. Traditional ray tracing tech does this because bouncing around detailed models afresh for every frame would simply take too long. Clustered geometry slices up the detailed models into neat little packages of 256 triangles or fewer. Partitioned TLAS then does a similar thing for the entire videogame vista, splitting a scene into smaller regions. Why? Well, rather than searching the entire map every time, looking for what's changed and updating the fra
-
-### Arc Raiders devs used a music sample 'from a piano in Chernobyl' that someone had discovered in the Forbidden Zone
-Mon, 02 Nov 2026 13:35:31 +0000 — https://www.pcgamer.com/games/third-person-shooter/arc-raiders-devs-have-used-a-music-sample-from-a-piano-in-chernobyl-that-someone-had-discovered-in-the-forbidden-zone/
-
-Arc Raiders has a terrific soundscape, although it can sometimes be hard to hear it when you're getting hunted down by your fellow players or bloodthirsty arcs. The game is quite quiet, aside from the occasional sound of distant gunfire, the clicks and cracks from small roaming arcs, and the noise of shuffling scrap as raiders sort through abandoned buildings for valuable items. But perhaps the best noise in all of Arc Raiders comes from the few instruments raiders can find amid the rubble. "One of the gameplay designers, really early on, made a trumpet," Pajor says. "And it was so out of place, and we were like 'why are we making it?'" The musical items in Arc Raiders serve multiple purposes. There's the social incentive to play an instrument, to bond with strangers and just show them that you're a harmless, relatively chill dude. But there's also the strategic purpose of using noises to lure arcs. Perhaps you're herding them into a trap or ambush or maybe you're trying to distract the aggro of one arc away from another vulnerable player. Avid players of Arc Raiders will notice, however, that there's no trumpet available in game. Well that's because the trumpet eventually became what we now know as the lure grenade. Apparently a playable trumpet was just too silly to the devs at first, so they settled on something a bit more useful. But now, over a year later from launch players can enjoy multiple instruments like the piano, guitar, harmonica, flute, banjo, recorder, and the
-
-### Valve's Steam Frame has taken a spot in the top ten most popular VR headsets on Steam
-Mon, 02 Nov 2026 13:26:24 +0000 — https://www.pcgamer.com/hardware/vr-hardware/valves-steam-frame-has-taken-a-spot-in-the-top-ten-most-popular-vr-headsets-on-steam/
-
-Valve's second mighty expensive, yet mighty impressive VR headset, the Steam Frame , launched in the latter half of September, meaning October was the first full month where players could actually use it. The latest Steam Hardware Survey suggests a rather big bump in usage for Valve's VR headset this past month. In September, the Steam Frame accounted for just 0.41% of VR headset usage. In October, that number jumped to 4.13%. That means it surpassed the Oculus Rift S, Sony PS VR2, HTC Vive, Windows Mixed Reality (which is a platform, as opposed to a single headset), the first Oculus Rift and Bigscreen Beyond. It is now the sixth most popular VR headset, sitting just .37% behind the Pico 4, and a hefty 24.14% behind the Meta Quest 3. The 3.72% increase for the Steam Frame is the biggest jump upwards in October, and the biggest tumble was taken by the Oculus Quest 2, which lost 3.57%. The Steam Frame officially released on September 18, with preorders going live on September 14, but that doesn't mean buyers got their hands on the headset on the day it went live. So the bump can not only be partially attributed to continued sales over October, but also to shipping times. It's also worth noting that both the 256 GB and 1 TB models are backordered, meaning even if you sign up for one now, you will simply be put on a waiting list. That means Frame usage is unlikely to entirely stagnate from here. Top 10 most popular VR headsets in Steam's October Hardware Survey Headset Percentage
 
 ## GameSpot
 
@@ -417,6 +427,16 @@ It's the start of a new month, which means new additions and departures on Xbox 
 
 ## Rock Paper Shotgun
 
+### "There’s always a night when Rome burns": South Of Midnight director says that Xbox funding it was "unsustainable", at least in hindsight
+Tue, 03 Nov 2026 11:49:29 +0000 — https://www.rockpapershotgun.com/theres-always-a-night-when-rome-burns-south-of-midnight-director-says-that-xbox-funding-it-was-unsustainable-at-least-in-hindsight
+
+Compulsion Games parted ways with former owners Xbox , having landed on the long list of things Microsoft were determined to ditch as part of multi-round mass cuts this year. Now, South of Midnight creative director David Sears has suggested that an eventual pulling of the rug was something he feared throughout the game's development, to the point where he seemingly doesn't think he'd have funded it if he'd been in the shoes of Xbox execs. Read more
+
+### itch.io will soon let you filter games with genAI disclosures out of your search results on the site, after admitting it was previously "critically lacking"
+Tue, 03 Nov 2026 10:12:22 +0000 — https://www.rockpapershotgun.com/itchio-will-soon-let-you-filter-games-with-genai-disclosures-out-of-your-search-results-on-the-site-after-admitting-it-was-previously-critically-lacking
+
+itch.io has unfortunately, much like Steam, long had an issue with genAI content being uploaded in droves, drowning out perfectly good games made by human hands. The apparent standard method against this, voluntary genAI disclosure, has been itch's primary tool to combat this wave of low-quality slop, but hasn't worked out too well; itch revealed a few days ago that ' the number of game pages being created per-day has doubled in the past two months '. Now, in attempts to further combat this, beyond just game assets requiring a genAI disclosure to upload as they have for two years, itch will be expanding the mandatory disclosure to tabletop games, books, comics, and soundtracks, as well as adding a 'no AI' filter directly into the search function. Read more
+
 ### You can make a vampire hunter who's afraid of the dark, disease and small spaces in Hunter: The Reckoning - Deathwish, and that's surely the best way to play
 Mon, 02 Nov 2026 19:00:00 +0000 — https://www.rockpapershotgun.com/you-can-make-a-vampire-hunter-whos-afraid-of-the-dark-disease-and-small-spaces-in-hunter-the-reckoning-deathwish-and-thats-surely-the-best-way-to-play
 
@@ -466,14 +486,4 @@ December is certainly going to be the month of Dune. The biggest Dune of Dunecem
 Sun, 01 Nov 2026 19:08:44 +0000 — https://www.rockpapershotgun.com/what-remains-of-canned-portal-prequel-white-whale-f-stop-is-now-fully-playable-thanks-to-modders-and-some-big-leaks
 
 If you're something of a Portal or Half-Life head, you'll probably already be familiar with F-Stop, an unreleased Portal prequel that remained quite mysterious for many years. Back in 2020 , a much deeper look was revealed in a semi-official capacity, revealing a pretty neat concept (that isn't so dissimilar to that of Superliminal). Now, all these years later, assets and source code for the game has leaked, and what exists of F-Stop is fully playable. Read more
-
-### Final Fantasy 14: Evercold sets itself a release date at the tail end of winter, alongside offering a look at its second, avian-inclined new job
-Sun, 01 Nov 2026 18:07:48 +0000 — https://www.rockpapershotgun.com/final-fantasy-14-evercold-sets-itself-a-release-date-at-the-tail-end-of-winter-alongside-offering-a-look-at-its-second-avian-inclined-new-job
-
-Let's start with the bad news: Final Fantasy 14: Evercold has been delayed. The good news, that doesn't matter all that much, as it's only a delay of roughly a month, and a release date has been set in stone too: February 23rd, 2027. It's cutting it a bit close to the seasons shifting towards spring, making the game seasonally inappropriate, but hey ho, February is still winter! Read more
-
-### It looks like footage of a Persona 1 remake has leaked, and if it's legit I really hope you don't hate the colour purple
-Sun, 01 Nov 2026 17:17:15 +0000 — https://www.rockpapershotgun.com/it-looks-like-footage-of-a-persona-1-remake-has-leaked-and-if-its-legit-i-really-hope-you-dont-hate-the-colour-purple
-
-In this genAI world, every single leak that makes its way out into the world should be seen as more of a "leak" until proven otherwise. With that said, it does kind of seem like a remake of the first Persona game is on the way, with some footage supposedly leaking and showing it in action. Read more
 

@@ -1,186 +1,196 @@
-# Film & TV — harvested 2026-11-02T22:27:45.838Z
+# Film & TV — harvested 2026-11-03T12:21:19.925Z
 
 ## Variety
 
-### Justin Timberlake to Release Four-Part ‘Tell-All’ Docuseries, Featuring Janet Jackson, on Apple (EXCLUSIVE)
-Mon, 02 Nov 2026 22:11:37 +0000 — https://variety.com/2026/music/news/justin-timberlake-apple-docuseries-janet-jackson-1236937847/
+### Versant Sees Q3 Profit Drop Despite Upticks in Non-TV Operations
+Tue, 03 Nov 2026 12:00:00 +0000 — https://variety.com/2026/tv/news/versant-q3-profit-drop-ms-now-cnbc-1236938298/
 
-Justin Timberlake is set to release a four-part docuseries on Apple TV in December, described as a “tell-all,” three sources confirm to Variety. One source says the series will feature Janet Jackson discussing the infamous “wardrobe malfunction” that took place during the pair’s performance at the 2004 Super Bowl. Further details on the series were [ ]
+Versant Media said third quarter profit fell as its dependence on traditional media properties forced it to navigate with drops in cash from both advertising and distribution even as the company acquires new direct-to-consumer operations and launches digital businesses tied to its linear properties. The owner of MS NOW, CNBC and USA said net income [ ]
 
-### Apple Services Revenue Hits New Record of $31.6 Billion, up 10%, in September Quarter
-Mon, 02 Nov 2026 22:04:38 +0000 — https://variety.com/2026/digital/news/apple-september-2026-earnings-services-revenue-hits-new-record-1236937903/
+### The Celebrity Traitors Star James Acaster Rejects Report He Complained About Competitors: Completely Fabricated
+Tue, 03 Nov 2026 11:21:40 +0000 — https://variety.com/2026/tv/global/celebrity-traitors-james-acaster-slams-report-complained-on-set-1236938273/
 
-Apple continued to see sales in its flagship iPhone family balloon, while the tech giant’s services business hit a new all-time high, in the first earnings report under CEO John Ternus. The financial results were for Apple’s fiscal 2026 fourth quarter ended Sept. 26, 2026. Total iPhone revenue of $57.58 billion increased 17% and Apple’s [ ]
+James Acaster is clearing the air about his time on The Celebrity Traitors, calling a report that he complained about his competitors completely fabricated. A few weeks ago, the Daily Mail claimed that the comedian had complained to producers that he was being teased by fellow players (and comedians) Rob Beckett and Romesh Ranganathan and [ ]
 
-### Bruce Springsteen Endorses Abdul El-Sayed for Senator: He s a Fighter Against Trump s Corrupt, Lawless, Anti-American Leadership
-Mon, 02 Nov 2026 22:03:36 +0000 — https://variety.com/2026/music/news/bruce-springsteen-abdul-el-sayed-senator-election-1236937898/
+### Shin Min-a, Ju Ji-hoon, Lee Jong-suk and Lee Se-young Take Webtoon Juggernaut The Remarried Empress to Disney+ and Hulu
+Tue, 03 Nov 2026 10:57:11 +0000 — https://variety.com/2026/tv/festivals/shin-min-lee-jong-suk-remarried-empress-disney-hulu-1236908746/
 
-Bruce Springsteen is throwing his support behind Abdul El-Sayed, who s running as the Democratic candidate in the race to be Michigan s senator. El-Sayed is running against Republican nominee Mike Rogers in this year s midterms, and if elected he would become the first Muslim senator is U.S. history. Because of his religious background, El-Sayed has faced [ ]
+One of Naver Webtoon’s most popular titles, “The Remarried Empress” has drawn nearly 3 billion views in 10 languages since it launched in 2019. As a live-action series on Disney+, and on Hulu in the U.S., it carrys the expectations of a fan base that already knows every character. Originally scheduled to premiere on Nov. [ ]
 
-### Fox News Sets Midterm Elections Coverage: Here s How to Stream Democracy 26 Online Free
-Mon, 02 Nov 2026 22:00:00 +0000 — https://variety.com/2026/shopping/news/watch-midterm-elections-coverage-fox-news-livestream-online-1236935544/
+### Alice in Borderland Star Isomura Hayato on the Role He Was Warned Off, Judging Tokyo’s Ethical Film Award and Why Japanese Cinema Needs Government Backing
+Tue, 03 Nov 2026 10:47:29 +0000 — https://variety.com/2026/film/festivals/alice-in-borderland-star-isomura-hayato-role-warned-off-1236938269/
 
-Fox News Channel has set its lineup for election night, with Bret Baier and Martha MacCallum set to co-anchor the network&#x2019;s midterm election coverage on Tuesday. Baier, Fox News&#x2019; chief political anchor and executive editor of &#x201C;Special Report,&#x201D; and MacCallum, the anchor and executive editor of &#x201C;The Story,&#x201D; will front Fox News&#x2019; &#x201C;Democracy 26&#x201D; special, [ ]
+When Isomura Hayato was considering a part in “The Moon,” Ishii Yuya’s drama drawn from a real incident at a facility for people with disabilities, the people around him tried to talk him out of it. The events were still fresh, and they worried the role could damage his career. He took it anyway. The [ ]
 
-### Oscar Predictions: Documentary Feature — Will the Branch Embrace ‘You Can See Everything’ or Snub the Frontrunner (Again)?
-Mon, 02 Nov 2026 21:45:00 +0000 — https://variety.com/feature/2027-oscars-best-documentary-feature-predictions-1236878524/
+### Elsinore, I See Buildings Fall Like Lightning and Animol Lead British Independent Film Awards Nominations
+Tue, 03 Nov 2026 10:00:00 +0000 — https://variety.com/2026/awards/global/bifa-nominations-2026-elsinore-i-see-buildings-animol-1236937954/
 
-Variety Awards Circuit section is the home for all awards news and related content throughout the year, featuring the following: the official predictions for the upcoming Oscars, Emmys, Grammys and Tony Awards ceremonies, curated by Variety chief awards editor Clayton Davis. The prediction pages reflect the current standings in the race and do not reflect [ ]
+Elsinore, the acclaimed biographical drama that has already propelled its lead star Andrew Scott into the Oscars best actor race, has emerged as the film to beat at the 2026 British Independent Film Awards. The Studiocanal feature, in which Scott portrays Ian Charleson, the Chariots of Fire star who was offered the career-peak role of [ ]
 
-### HBO Renews Sharon Horgan Comedy Youth For a Season 2
-Mon, 02 Nov 2026 21:30:24 +0000 — https://variety.com/2026/tv/news/youth-sharon-horgan-hbo-renewed-season-2-1236937886/
+### Independent Talent to Rep Outernet London for Creative Commercial Strategy (EXCLUSIVE)
+Tue, 03 Nov 2026 10:00:00 +0000 — https://variety.com/2026/music/global/independent-talent-outernet-london-1236938228/
 
-HBO has given a Season 2 order to “Youth,” the latest series from Peabody and BAFTA winner Sharon Horgan. The series Season 1 is currently streaming on HBO Max. In the show, Horgan plays a 50-year-old divorcee navigating relationships, her ailing parents and her troubled son, who isn’t quite gelling at his new college. Horgan [ ]
+Independent Talent Group have been appointed creative commercial agency for immersive U.K. venue Outernet London. The partnership will unite Independent’s substantial client list – which includes artists, filmmakers, creators, musicians and producers – with Outernet’s immersive capabilities. The central London entertainment district offers wrap-around immersive digital screens which are among the largest and most advanced [ ]
 
-### Golden Globes Predictions: ‘The Odyssey’ Eyes Double Digits as Studios Flood the Comedy Races
-Mon, 02 Nov 2026 21:15:00 +0000 — https://variety.com/lists/2027-golden-globes-predictions/
+### Tallinn Black Nights Festival: New Artistic Director Triin Tramberg on Making Sure That at 30 It Stays ‘Bold, Unpredictable Yet Accessible’
+Tue, 03 Nov 2026 09:48:23 +0000 — https://variety.com/2026/film/global/tallinn-black-nights-triin-tramberg-new-artistic-director-1236938233/
 
-Variety Awards Circuit section is the home for all awards news and related content throughout the year, featuring the following: the official predictions for the upcoming Oscars, Emmys, Grammys and Tony Awards ceremonies, curated by Variety chief awards editor Clayton Davis. The prediction pages reflect the current standings in the race and do not reflect [ ]
+The Tallinn Black Nights Film Festival – also known as PÖFF – marks a milestone this year as the festival celebrates its 30th anniversary and the first under the helm of artistic director Triin Tramberg as festival founder Tiina Lokk moves sideways to a strategic role within PÖFF. Tramberg’s own imprint on the festival as [ ]
 
-### Roku Delivers Another Stellar Quarter: Q3 Sales Soar 24% as Media and Entertainment Ad Spending Sees Biggest Growth in Four Years
-Mon, 02 Nov 2026 21:05:00 +0000 — https://variety.com/2026/tv/news/roku-q3-2026-earnings-media-advertising-sales-growth-1236937827/
+### Mahesh Babu Invests in Indian PC and Console Game Studio Shortgun Games
+Tue, 03 Nov 2026 08:59:39 +0000 — https://variety.com/2026/gaming/news/mahesh-babu-invests-indian-console-studio-shortgun-games-1236938224/
 
-Roku s financial engines are cranking in overdrive ahead of the streaming platform company s takeover by Fox Corp. next year. For the third quarter, Roku handily topped Wall Street earnings expectations, with top-line growth of 24% to $1.50 billion in revenue. Total gross profit was $649 million, up 24%, and Roku generated net income of $183 [ ]
+Telugu cinema superstar Mahesh Babu has signed on as a strategic investor in Mumbai-based Shortgun Games, backing a studio that is building original titles for PC and console rather than mobile, long the focus of India’s digital entertainment sector. The studio, founded by Jeet Chandan and Vidhit Mehta, is developing original, franchise-scale IP aimed at [ ]
 
-### X-Men : Hunger Games Actor Ben Wang Circling Iceman Role in Marvel s Reboot
-Mon, 02 Nov 2026 20:37:15 +0000 — https://variety.com/2026/film/news/x-men-hunger-games-ben-wang-iceman-marvel-reboot-1236937787/
+### BTS, Katseye Drive Hybe to Record Quarterly Revenue and Profit
+Tue, 03 Nov 2026 08:24:40 +0000 — https://variety.com/2026/music/news/bts-katseye-hybe-record-quarterly-revenue-profit-1236938217/
 
-After battling it out in the arena in “The Hunger Games: Sunrise on the Reaping” and leading the latest “Karate Kid” installment, Ben Wang is circling another major franchise: Marvel Studios “X-Men” reboot. Wang is in negotiations to play Bobby Drake, aka Iceman, who was one of the founding X-Men. Created by Stan Lee and [ ]
+BTS’ world tour sent K-pop powerhouse Hybe to the highest quarterly revenue and operating profit in its history in the third quarter of 2026. Revenue for the quarter reached KRW1.5257 trillion ($1.13 billion) and operating profit came in at KRW188.5 billion ($140.2 million). Both numbers beat the records the company set in the second quarter. [ ]
 
-### Jessica Alba Battled Major Impostor Syndrome as She Built The Honest Company Into an Early Star-Led Business Success Story
-Mon, 02 Nov 2026 20:10:10 +0000 — https://variety.com/2026/biz/news/jessica-alba-us-bank-honest-courtney-kelso-1236937782/
+### Kefi Review: A Grief-Stricken Family Reunion Is Beset by Aliens, Drugs and Dinosaurs in Kisin Saito s Kaleidoscopic, Genre-Fluid Debut
+Tue, 03 Nov 2026 08:19:52 +0000 — https://variety.com/2026/film/reviews/kefi-review-1236938211/
 
-Jessica Alba was nine months pregnant, stressed out of her mind and battling a bad allergic reaction to laundry detergent when she decided to launch her first business. Alba spoke about her experience as a successful entrepreneur in a conversation with Courtney Kelso, senior executive VP and head of payments: consumer and small business for [ ]
+Late on in Kefi, one of its central protagonists — the youngest of three sisters — justifies a spontaneous hook-up with a random stranger by claiming that “the flow” of their chance encounter “was really cinematic.” The same, perhaps, can be said for Kisin Saito’s brazenly confident debut feature as a whole — a genre-fluid [ ]
 
 ## The Hollywood Reporter
 
-### Dancing With the Stars Disney Night Rescheduled Ahead of Midterms: When and Where to Watch Online
-Mon, 02 Nov 2026 21:52:03 +0000 — https://www.hollywoodreporter.com/tv/tv-news/watch-dancing-with-the-stars-disney-night-2026-free-stream-1236746242/
+### Versant Earnings Best Estimates in Quarter of Fandango, MS NOW Expansion
+Tue, 03 Nov 2026 12:01:13 +0000 — https://www.hollywoodreporter.com/business/business-news/versant-q3-earnings-beat-forecasts-1236745988/
 
-Cynthia Erivo joins this week's judging panel, while co-hosts Julianne Hough and Alfonso Ribeiro will participate in the evening's highly-anticipated team dances.
+The spinoff company posts $1.59 billion in revenue.
 
-### Former Ellen Executive Producer Matthew Wright Dies as Ellen DeGeneres Posts Tearful Video Calling Him The Glue to Our Entire Family
-Mon, 02 Nov 2026 21:46:51 +0000 — https://www.hollywoodreporter.com/tv/tv-news/matthew-wright-dead-ellen-degeneres-executive-producer-1236746277/
+### Cinemark Posts Sharply Higher Third-Quarter Results Amid Hollywood Box Office Rebound
+Tue, 03 Nov 2026 11:57:00 +0000 — https://www.hollywoodreporter.com/business/business-news/cinemark-third-quarter-earnings-1236746456/
 
-Both DeGeneres and former 'Ellen' executive producer Andy Lassner said the news was shocking as a GoFundMe, which aimed to raise money for a funeral, called Wright's death an "unfathomable tragedy."
+The movie theater giant, led by CEO Sean Gamble, saw concession and admissions revenues rise from year-earlier levels.
 
-### Sharon Horgan Comedy Youth Renewed for Second Season at HBO
-Mon, 02 Nov 2026 21:36:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/youth-renewed-season-2-hbo-sharon-horgan-1236746286/
+### ABC News Drops New Episode of The Dropout That Tackles You Can See Everything
+Tue, 03 Nov 2026 11:00:00 +0000 — https://www.hollywoodreporter.com/business/digital/new-episode-the-dropout-podcast-released-holmes-film-1236746484/
 
-The renewal comes on the heels of the show's first season finale.
+The podcast that inspired the Hulu series last released a new episode in 2022, but listenership has surged following the success of the Elizabeth Holmes documentary film.
 
-### Roku Sees Soaring Sales, Net Income of $183M, As It Blasts Past Analyst Expectations
-Mon, 02 Nov 2026 21:20:47 +0000 — https://www.hollywoodreporter.com/business/business-news/roku-earnings-sales-net-income-beats-analyst-expectations-1236746261/
+### British Independent Film Awards: Elsinore Leads Nominations With 12
+Tue, 03 Nov 2026 10:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/bifa-nominations-2026-list-elsinore-andrew-scott-1236746638/
 
-The move comes as Roku awaits the close of its acquisition by Fox.
+Andrew Scott, Erin Doherty, Bella Ramsey and Juliette Binoche are among the big names nominated in performance categories at this year's BIFAs.
 
-### The Lives of Others Theater Review: Keira Knightley Shines in Stage Version of Oscar-Winning Cold War Drama
-Mon, 02 Nov 2026 20:55:57 +0000 — https://www.hollywoodreporter.com/lifestyle/arts/the-lives-of-others-theater-review-keira-knightley-1236745815/
+### Jon Stewart, Jimmy Kimmel, Seth Meyers Take Aim at Trump, Michigan s Haley Stevens on Eve of Election Day
+Tue, 03 Nov 2026 08:22:49 +0000 — https://www.hollywoodreporter.com/tv/tv-news/stewart-kimmel-meyers-mock-trump-haley-stevens-eve-election-1236746597/
 
-The actress returns to the stage after 11 years, alongside Stephen Dillane and Luke Thompson, in Robert Icke’s adaptation of Florian Henckel von Donnersmarck's political Stasi thriller.
+Late night hosts delighted in the rather demented final days of midterms, focusing on Trump's meandering rallies and Stevens' bizarre endorsement of GOP candidate Mike Rogers.
 
-### Jon Bernthal Adds Another Notch on Packed 2026 Résumé by Fronting Fear of God Campaign
-Mon, 02 Nov 2026 20:16:12 +0000 — https://www.hollywoodreporter.com/lifestyle/style/jon-bernthal-fear-of-god-campaign-2026-1236746205/
+### Marilyn Monroe, Audrey Hepburn, PÖFF Garments Bring the Glitz to New Fashion Museum Near Tallinn
+Tue, 03 Nov 2026 08:01:00 +0000 — https://www.hollywoodreporter.com/lifestyle/style/marilyn-monroe-audrey-hepburn-poff-tallinn-fashion-museum-1236741709/
 
-"He's always growing, always pushing himself but never losing sight of what grounds him. I think that's something we strive for at Fear of God," praises Fear of God founder and creative director Jerry Lorenzo.
+Cinema meets couture at Keila-Joa Castle, also known as Schloss Fall, with its inaugural exhibition, "Red Carpet: From Ballrooms to Film Galas," with one room dedicated to the Tallinn Black Nights Film Festival.
 
-### Michael Wilbon Takes Leave From ESPN for Health Reasons
-Mon, 02 Nov 2026 20:15:03 +0000 — https://www.hollywoodreporter.com/tv/tv-news/pardon-the-interruption-michael-wilbon-on-leave-1236746211/
+### A Royal Surprise: ‘The Remarried Empress’ Releases One Day Early on Disney+ and Hulu
+Tue, 03 Nov 2026 02:20:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/the-remarried-empress-release-early-disney-hulu-1236746504/
 
-The 'Pardon the Interruption' host says he'll be off the air indefinitely.
+The wildly anticipated Korean fantasy romance, starring Shin Min-a, Ju Ji-hoon, Lee Jong-suk and Lee Se-young, will launch with four episodes Nov. 3, followed by two new installments every Wednesday.
 
-### Lionsgate Inks Deal With Meta to Bring New Hunger Games Movie to VR Glasses
-Mon, 02 Nov 2026 20:00:00 +0000 — https://www.hollywoodreporter.com/business/digital/hunger-games-sunrise-on-the-reaping-1236745888/
+### Inde Navarrette, Michael B. Jordan and Yerin Ha Front David Yurman s New York-Set Holiday Campaign
+Tue, 03 Nov 2026 01:35:51 +0000 — https://www.hollywoodreporter.com/lifestyle/shopping/david-yurman-holiday-2026-inde-navarrette-michael-b-jordan-1236746332/
 
-The studio is partnering to bring its latest franchise pic in 3D to Mark Zuckerberg's lightweight VR product after a theatrical release kicking off Nov. 20.
+A peek into the luxury jewelry brand's 2026 holiday campaign, unraveling through a collection of quintessential New York moments.
 
-### NFL and TMRW Sports Set Premier Flag League Launch for Summer 2027
-Mon, 02 Nov 2026 19:21:24 +0000 — https://www.hollywoodreporter.com/business/business-news/nfl-premier-flag-launch-2027-1236746043/
+### Red Before Dawn Review: A Road Movie Revisits the Indonesian Revolution in Ways More Didactic Than Climactic
+Tue, 03 Nov 2026 01:15:23 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/red-before-dawn-review-indonesian-film-1236746350/
 
-The new league, with both mens and womens divisions, will launch ahead of the 2028 Olympics in Los Angeles, where flag football will be a sport.
+Garin Nugroho’s wartime drama follows a group of disparate characters dangerously making their way across Indonesia as the fight for independence rages on.
 
-### Golden Globes: I Play Rocky Submitted as Comedy (Exclusive)
-Mon, 02 Nov 2026 18:57:52 +0000 — https://www.hollywoodreporter.com/movies/movie-news/golden-globes-i-play-rocky-submitted-comedy-exclusive-1236746064/
+### ‘Dancing With the Stars’ Disney Night Makes Magic (3 Perfect Scores!) as Group Dances Return, Another Celeb Departs: See the Scores, Who Went Home
+Tue, 03 Nov 2026 00:58:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/dwts-season-35-disney-week-8-recap-scores-elimination-1236746352/
 
-Peter Farrelly's film and its star Anthony Ippolito had been widely expected to compete on the drama side of the ledger.
+Cynthia Erivo joined as the night's special guest judge in a night meant to honor Disney stories and their stage adaptations.
 
 ## Deadline
 
-### Josh Hartnett, Emma Thompson, Sally Hawkins, Danny Huston, Robert Aramayo Chloe Pirrie Join Elle Fanning Julianne Moore In Rebecca Miller’s ‘Moonsong: A Life In Seven Verses’ AFM
-Mon, 02 Nov 2026 22:16:50 +0000 — https://deadline.com/2026/11/hartnett-thompson-hawkins-huston-aramayo-miller-moonsong-1237211647/
+### Bosses At Clangold Producer Beetz Brothers Hail Skydance For Backing Casey Bloys: A Strong Sign The HBO Line Will Continue
+Tue, 03 Nov 2026 10:00:00 +0000 — https://deadline.com/2026/11/beetz-brothers-clangold-launch-hbo-max-casey-bloys-1237211145/
 
-EXCLUSIVE: Rebecca Miller’s biopic Moonsong: A Life In Seven Verses, starring Elle Fanning as Goodnight Moon and The Runaway Bunny children’s author Margaret Wise Brown, has added a roster of A-listers to its ensemble cast as The Veterans prepares to launch international sales at the AFM. Josh Hartnett (Verity), Academy Award winner Emma Thompson (Sense and [ ]
+Ever since Paramount and Warner Bros. merged, producers around the world have been wondering what it will mean for their prospects. For Germany s Beetz Brothers, which launches crime doc Clangold on HBO Max globally on November 13, the appointment of Casey Bloys as Skydance s content chief is a strong sign those making high-end, mainstream productions [ ]
 
-### Grail Names Skateland Director Anthony Burns As In-House Creative Producer
-Mon, 02 Nov 2026 21:50:13 +0000 — https://deadline.com/2026/11/grail-skateland-director-anthony-burns-creative-producer-1237211655/
+### British Independent Film Awards: ‘Elsinore’ Leads Nominations
+Tue, 03 Nov 2026 10:00:00 +0000 — https://deadline.com/2026/11/british-independent-film-awards-elsinore-2026-1237211788/
 
-EXCLUSIVE: Writer, director and producer Anthony Burns has joined U.S. production and rep company Grail as in-house creative producer to develop and package original film and TV projects. Burns made his feature directorial debut with Skateland, which he co-wrote and produced. The coming of-age drama premiered at Sundance in 2010, screened at SXSW and starred [ ]
+Simon Stone’s Elsinore, starring Andrew Scott, leads this year’s British Independent Film Awards nominations with 12 nods. Scroll down for the full list of winners. Elsinore earned nominations for Best British Independent Film, Best Director for Simon Stone, Best Screenplay for Simon Beresford, Best Lead Performance for previous winner Andrew Scott, and Best Supporting Performance [ ]
 
-### Apple FYQ4 Revenue Tops Forecasts On iPhone Sales As New CEO John Ternus Steps Up
-Mon, 02 Nov 2026 21:48:11 +0000 — https://deadline.com/2026/11/apple-iphone-fyq4-earnings-new-ceo-john-ternus-1237211541/
+### Queen Silvia Team Hopes For Multiple Seasons After Royal Drama’s Cannes Premiere
+Tue, 03 Nov 2026 09:21:50 +0000 — https://deadline.com/2026/11/queen-silvia-series-world-premiere-cannes-prime-video-1237209352/
 
-Apple revenue beat Wall Street forecasts rising 12% for the fiscal fourth quarter ended in September, led by strong iPhone sales. Mac sales boomed. The giant services sector, home of Apple TV, was a hair soft and numbers for iPads and Wearables were below estimates. Earnings per share were boosted by a hefty tariff refund. [ ]
+Queen Silvia was crowned in Cannes with a world premiere screening for the upcoming royal drama series. German actress Alicia von Rittberg (Call My Agent Berlin), who stars as the titular Silvia Sommerlath, and Swedish actor Edvin Endre (Vikings), who plays Crown Prince Carl Gustaf, were in town for the premiere. A grand piano was [ ]
 
-### Bruce Springsteen Endorses Michigan Senate Candidate Abdul El-Sayed: I m In His Corner 100%
-Mon, 02 Nov 2026 21:38:15 +0000 — https://deadline.com/2026/11/springsteen-endorses-el-sayed-michigan-1237211618/
+### The Celebrity Traitors Star James Acaster Trashes Report That He Made Complaint About Co-Stars
+Tue, 03 Nov 2026 09:13:16 +0000 — https://deadline.com/2026/11/the-celebrity-traitors-james-acaster-trashes-complaint-1237212001/
 
-The Boss is supporting the Doc. On the eve of the bitterly fought 2026 midterms, Bruce Springsteen on Monday came out strong for Michigan Senate candidate Abdul El-Sayed. Dr. El-Sayed is a fighter for our American Constitution, he’s a fighter for our American Democracy, and he’s a fighter against the corrupt, lawless, and anti-American leadership [ ]
+James Acaster has said it is completely fabricated that he complained about The Celebrity Traitors co-stars, Rob Beckett and Romesh Ranganathan. On Alan Carr s Life s A Beach Podcast, the Ghostbusters: Frozen Empire star was incredulous about a report in The Mail on Sunday claiming he told Celebrity Traitors producers that he was uncomfortable with macho banter during filming. I ve never had stuff [ ]
 
-### Sharon Horgan s ‘Youth’ Renewed For Season 2 At HBO
-Mon, 02 Nov 2026 21:30:00 +0000 — https://deadline.com/2026/11/youth-renewed-season-2-hbo-1237211644/
+### New Anti-Harassment Laws Lead To Questions From UK Film TV Industry
+Tue, 03 Nov 2026 09:00:00 +0000 — https://deadline.com/2026/11/anti-harassment-laws-questions-uk-film-tv-industry-1237211132/
 
-Sharon Horgan is returning as literary agent Alex after HBO renewed Youth for a second season. The news comes less than 24 hours after the season one finale. Youth follows a 50-year-old divorcee’s search for sex and love whilst juggling caring for her ailing parents and parenting her should-be grown up son. Horgan stars as [ ]
+EXCLUSIVE: Big UK production groups and studios have been busily preparing for new anti-harassment laws that will impact the film and TV industry, but questions remain. Last Friday, UK-wide legislation came into force that means employers are now liable for harassment of their staff, cast and crew by third parties. Employers must take all reasonable [ ]
 
-### The Liberation Trailer: Carrie Coon Stars In Guy Nattiv s Complex Cult Thriller
-Mon, 02 Nov 2026 21:30:00 +0000 — https://deadline.com/2026/11/the-liberation-trailer-carrie-coon-guy-nattiv-1237211620/
+### Johnny Depp Open To Reprising Pirates Of The Caribbean Role To Send Them Off On A Better Note
+Tue, 03 Nov 2026 04:29:28 +0000 — https://deadline.com/2026/11/johnny-depp-reprising-pirates-of-the-caribbean-role-1237211975/
 
-Bleecker Street on Monday released the first trailer from The Liberation, the dramatic thriller written and directed by Guy Nattiv and starring Carrie Coon in a role that has been garnering award-season buzz since the pic s world premiere at the Telluride Film Festival. Coon (The Gilded Age, The White Lotus) plays Rita, a 1980s New [ ]
+Johnny Depp is open to revisiting the Pirates of the Caribbean universe and reprising his role as Jack Sparrow. In a new interview, Depp revealed that he is open to working with Jerry Bruckheimer again. If things are exactly where they need to be with regard to how they are going to top off the [ ]
 
-### As Roku s Merger With Fox Clears More Hurdles, Streaming Provider Delivers Strong Q3 Results
-Mon, 02 Nov 2026 21:20:36 +0000 — https://deadline.com/2026/11/roku-fox-merger-q3-2026-earnings-streaming-1237211628/
+### Disney To Undergo More Layoffs With Divisions Eyeing Up To 20% In Cost Savings
+Tue, 03 Nov 2026 03:29:18 +0000 — https://deadline.com/2026/11/disney-more-layoffs-2026-tv-networks-movie-studio-savings-1237211939/
 
-As its pending $22 billion merger with Fox Corp. inches continues to wind its way through the regulatory process, Roku delivered strong third-quarter results Monday. Total revenue in the July-to-September period surged 24% from the prior-year period to hit $1.5 billion, with earnings per share zooming to $1.20 from 16 cents in the same frame [ ]
+The Walt Disney company is laying the groundwork for more cuts, with thousands poised to be impacted. According to sources, the new round of layoffs will be made across multiple divisions, including TV networks and the motion picture studio, at varying amounts. As is customary in the run-up to staff reductions, managers of the affected [ ]
 
-### Zoe Kazan s East Of Eden Adaptation Manifests Audience Growth Comparable To Adolescence — Here s How It Happened
-Mon, 02 Nov 2026 21:00:00 +0000 — https://deadline.com/2026/11/east-of-eden-audience-growth-adolescence-zoe-kazan-explains-1237211507/
+### Mckenna Grace On Declining Nude Scenes: I Respect Anybody Who Can, But It s Terrifying To Me
+Tue, 03 Nov 2026 03:24:16 +0000 — https://deadline.com/2026/11/mckenna-grace-declining-nude-scenes-1237211838/
 
-EXCLUSIVE: Zoe Kazan s adaptation of John Steinbeck s classic American novel East of Eden is slowly but surely staking its claim on Netflix. The series has now amassed 4.4x its debut-week views, Deadline can reveal exclusively, growing from 6.5 million views in Week 1 to a cumulative 28.9 million views in Week 4. Per Netflix, only [ ]
+Mckenna Grace has opened up about refusing to do nude scenes in film, and she has a powerful reason why. In a new interview, the star of The Hunger Games: Sunrise on the Reaping shared why she won t be doing any nudity in her acting roles. At this point, I definitely don’t do nudity or [ ]
 
-### Antonin Baudry Simon Abkarian Talk French Box Office Hit ‘De Gaulle’: The National Icon Did Not Exist In 1940
-Mon, 02 Nov 2026 20:51:37 +0000 — https://deadline.com/2026/11/antonin-baudry-simon-abkarian-charles-de-gaulle-1237211598/
+### Jimmy Review: KJ Apa Expertly Channels James Stewart In An Inspiring Movie That Tells The Story The Beloved Oscar Winning Star Kept To Himself
+Tue, 03 Nov 2026 03:03:19 +0000 — https://deadline.com/2026/11/jimmy-review-kj-apa-james-stewart-world-war-2-biopic-1237211897/
 
-Charles de Gaulle is arguably one of the most iconic figures in French history but for filmmaker Antonin Baudry, the story of how the wartime leader came to embody the French Resistance during World War II had largely been overlooked by filmmakers. With De Gaulle: Resistance and Liberty, an ambitious two-part historical epic, Baudry looked [ ]
+When Kelly Stewart Harcourt (who is also an Executive Producer) was told about the idea of making a movie about her father, the Oscar winning legend James Stewart, her reaction was that it might be pretty boring since her dad didn t live a life full of scandals, drugs, drinking or other staples of biopics about [ ]
 
-### ‘The Hunger Games: Sunrise On The Reaping’ Album Full Tracklist Revealed
-Mon, 02 Nov 2026 20:45:00 +0000 — https://deadline.com/feature/hunger-games-sunrise-on-the-reaping-songs-soundtrack-album-1237165820/
+### Dancing With The Stars Season 35 Recap: Team Dances Shake Up The Competition On Disney Night
+Tue, 03 Nov 2026 02:58:36 +0000 — https://deadline.com/2026/11/dancing-with-the-stars-season-35-recap-disney-night-1237211461/
 
-UPDATED with full tracklist: We now know all of the songs that will be on the soundtrack double album for the upcoming Hunger Games film. Along with the three already-announced tracks Noah Kahan’s “Draw You Out,” Gigi Perez’s “Favor” and The Smashing Pumpkins’ “Black Stars” The Hunger Games: Sunrise on the Reaping (The [ ]
+SPOILER ALERT! This post contains details from Disney Night on Dancing with the Stars. It s hard to believe, but the Dancing with the Stars Season 35 contestants are in the final stretch of the competition. Week 8 is upon us, and not only is it Disney Night in the ballroom, but we ve also arrived at [ ]
 
-### The American French Film Festival At 30: Building Bridges Between French Cinema Hollywood
-Mon, 02 Nov 2026 20:25:46 +0000 — https://deadline.com/2026/11/the-american-french-film-festival-in-waves-fjord-minotaur-1237211229/
+### The Remarried Princess Korean Romantic Drama To Release One Day Early On Disney+ Hulu
+Tue, 03 Nov 2026 02:22:59 +0000 — https://deadline.com/2026/11/the-remarried-princess-korean-romantic-drama-early-release-1237211813/
 
-The American French Film Festival is kicking of its 30th edition tomorrow (November 3) at the DGA Theater Complex in L.A. and this year looks set to be one of its biggest lineups to date. The six-day event, which will open with animated feature In Waves, will screen 60 French films and series, many of [ ]
+Epic romantic K-drama The Remarried Empress, starring Shin Mina, Ju Jihoon, Lee Jongsuk and Lee Seyoung, will launch with the first four episodes on Tuesday, November 3 on Disney+ and Hulu, one day earlier than the originally scheduled November 4 premiere date. The surprise reveal, announced during a press conference from Seoul, South Korea, is [ ]
 
-### Ellen DeGeneres Show Exec Producer Matthew Wright Dies At 52 In Unfathomable Tragedy ; DeGeneres Posts Emotional Video Tribute
-Mon, 02 Nov 2026 20:24:58 +0000 — https://deadline.com/2026/11/ellen-degeneres-matthew-wright-ep-1237211547/
+### The Key 2026 Midterm Races Hollywood Is Watching
+Tue, 03 Nov 2026 02:15:13 +0000 — https://deadline.com/2026/11/hollywood-midterms-2026-1237173601/
 
-Ellen DeGeneres is mourning the loss of Matthew Wright, who worked as an executive producer on The Ellen DeGeneres Show for 16 years and appeared frequently on the show. Wright died Friday, October 30, in an unfathomable tragedy while he was working remotely in Los Angeles, according to a GoFundMe for his family. He was [ ]
+As encouraging as polls are for Democrats, left-leaning Hollywood activists are viewing Tuesday s midterm elections with a lot of anxiety and just a bit of cautious optimism. In fact, throughout the cycle, as candidates courted the industry s deep pockets at tony backyard venues and one-on-one phone calls, the fatigue of donors was well apparent, [ ]
 
 ## befores & afters
 
-### An interesting piece of Tippett Studio history is up for auction
-Sun, 01 Nov 2026 08:47:23 +0000 — https://beforesandafters.com/2026/11/01/an-interesting-piece-of-tippett-studio-history-is-up-for-auction/
+### Coming soon: huge mag on The Mandalorian and Grogu
+Tue, 03 Nov 2026 00:37:00 +0000 — https://beforesandafters.com/2026/11/03/coming-soon-huge-mag-on-the-mandalorian-and-grogu/
 
-A DID motion capture rig for humans? Many befores & afters readers will know the story about the Dinosaur Input Device (or Digital Input Device) that was developed by Tippett Studio, ILM and Pixar for Jurassic Park. The DID was a dino-shaped sensor-covered armature with encoders that could translate stop-motion-like input to a CG model, allowing Tippett’s traditionally trained animators to lend their skills to a new wave of digital animation. You can read the huge oral history here at the site . Well, after Jurassic , Tippett Studio continued the development of encoder-covered capture devices, including for use on Starship Troopers and other projects. At one point, the team made a whole motion capture suit exoskeleton with encoders, designed to be worn by a performer and used for human motion capture. In the wake of Tippett Studio shutting down its Berkeley studio, that exoskeleton has now become available for auction. See the listing here . The starting bid is $1,000. The blurb for the auction mentions the suit was utilized on Starship Troopers . I believe there was some mocap done for a panoramic crowd shot for scenes after the brain bug had been defeated. I had heard, too, there might have been some experimentation done for Hollow Man with the suit, but I m not 100% sure on this. In any case, it s definitely an interesting look back at mocap and Tippett Studio history. The post An interesting piece of Tippett Studio history is up for auction appeared first on befores & aft
+Here s a sneak peek at inside the magazine. Coming very soon is the befores afters issue on The Mandalorian and Grogu . Here s just a taste just for you. If you d like to get the mag in DIGITAL as soon as it s released, sign up to be a member of the DIGITAL EDITION right here: https://www.patreon.com/c/beforesandafters/membership The post Coming soon: huge mag on The Mandalorian and Grogu appeared first on befores & afters .
 
 ## IndieWire
+
+### Okinawa Saudade Review: A Moving Documentary About the Okinawan-Brazilian Community Explores the History of Displacement
+Tue, 03 Nov 2026 03:42:52 +0000 — https://www.indiewire.com/criticism/movies/okinawa-saudade-documentary-review-1235225173/
+
+Yoju Matsubayashi's latest film follows third-generation Okinawan-Brazilian as they reflect on their distant homeland.
+
+### AT T and IndieWire s Filmmaker Party at AFI Fest Celebrated Filmmakers and Those Who Champion Them
+Tue, 03 Nov 2026 01:04:27 +0000 — https://www.indiewire.com/news/events/indiewire-att-afi-fest-filmmaker-party-photos-1235225085/
+
+A week after partnering on our Future of Filmmaking Summit, AT T and IndieWire teamed up again to celebrate the next generation of storytellers.
 
 ### The First Time Producers Had to Find a New James Bond, the Result Was the Best 007 Movie Ever
 Mon, 02 Nov 2026 21:45:00 +0000 — https://www.indiewire.com/features/commentary/george-lazenby-james-bond-on-her-majestys-secret-service-1235224936/
 
 As the makers of the next James Bond film zero in on their Agent 007, we look back at "On Her Majesty's Secret Service," which replaced Sean Connery with unknown George Lazenby and became a favorite of filmmakers like Christopher Nolan and Steven Soderbergh.
 
-### The Liberation Trailer: Carrie Coon Is Lured Into Lily James Cult in a Gut-Wrenching Grief Drama
+### The Liberation Trailer: Carrie Coon Is Lured Into Lily James Cult in a Gut-Wrenching Drama
 Mon, 02 Nov 2026 21:30:00 +0000 — https://www.indiewire.com/news/trailers/the-liberation-trailer-carrie-coon-1235225057/
 
 The fall festival hit opens in theaters on January 8, courtesy of Bleecker Street.
@@ -208,7 +218,7 @@ Peter Farrelly continues his reign of making audience-delighting hits for the TI
 ### IndieWire s Trevor Wallace Wins Daytime Emmy for Editing IndieWire Craft Roundtables
 Mon, 02 Nov 2026 18:28:45 +0000 — https://www.indiewire.com/awards/results/trevor-wallace-wins-emmy-indiewire-craft-roundtables-1235225038/
 
-IndieWire's long-time video producer won on his first nomination for editing the first season of our PBS series.
+IndieWire's long-time video producer won for editing the first season of our PBS series.
 
 ### The Fall and Rise of Reggie Dinkins Is the Funniest Series of the Year
 Mon, 02 Nov 2026 18:00:00 +0000 — https://www.indiewire.com/criticism/shows/the-fall-and-rise-of-reggie-dinkins-season-2-review-1235224563/
@@ -225,117 +235,107 @@ Mon, 02 Nov 2026 16:00:00 +0000 — https://www.indiewire.com/news/breaking-news
 
 As California continues to lose production jobs, can the state find a way to keep Hollywood local?
 
-### Earthlings in Love Review: A Sentimental Sci-fi Journey Makes the Leap from TikTok to the Tokyo International Film Festival
-Mon, 02 Nov 2026 15:15:00 +0000 — https://www.indiewire.com/criticism/movies/earthlings-in-love-movie-review-microdrama-1235225000/
-
-“One Cut of the Dead” director Shinichiro Ueda helms a project that’s better than a “vertical drama” has any right to be.
-
-### Ruth Madeley Never Thought Acting Was an Option — Now, She s Playing a Disability Rights Legend in Being Heumann
-Mon, 02 Nov 2026 14:00:00 +0000 — https://www.indiewire.com/features/interviews/being-heumann-ruth-madeley-interview-1235224957/
-
-Madeley talks to IndieWire about her role as 1970s wheelchair-using activist Judy Heumann in Siân Heder's Oscar-contending biopic.
-
 ## The Wrap
 
-### The 3 Best Movies to Watch on Prime Video This Week
-Mon, 02 Nov 2026 22:00:00 +0000 — https://www.thewrap.com/creative-content/movies/3-best-movies-prime-video-this-week-nov-2-8/
+### Cinemark Q3 Revenue Surges 24% to Record $1.1 Billion Thanks to Spider-Man and Odyssey
+Tue, 03 Nov 2026 12:10:44 +0000 — https://www.thewrap.com/industry-news/box-office/cinemark-q3-earnings-revenue-odyssey-spider-man/
 
-It s not only a new week but it s also a new month, and that means you have even more to choose from when it comes to streaming. Overwhelmed already? That s fair. As always, we re here to help you out with a few recommendations that feel like they fit the vibes of the week. To kick off November on Prime Video, we re going for a holiday movie that s not the kind of holiday you re thinking (technically), a 2006 classic, and a Shakespeare adaptation. Here are the three best movies to watch on Prime this week. Paramount Pictures Last Holiday For some, it may be a little early to get into Christmas movies, and that s totally fair. The Last Holiday does technically take place in the Christmas season, but here, holiday is more so referring to the UK usage of the word, meaning vacation. In the movie, Queen Latifah stars as Georgia Byrd, a department store assistant who s never really chased after any of her someday dream. But, when she s told she has a rare brain condition and only has a few weeks to live, Georgia decides to spend literally all of her money on a luxury holiday in Europe before she dies. This movie is more about embracing the moment and living for yourself than it is a Christmas movie, making it a perfect transitional movie post-Halloween. Just My Luck Remember when Lindsay Lohan served so much in a paparazzi photo that a studio just decided to use it for their movie poster? Well, that movie is on Prime right now, and Just My Luck really holds up. In it, Lohan plays A
+Revenue cleared $1 billion for the second consecutive quarter after reaching a record $1.1 billion in the second quarter The domestic box office reached an unadjusted third quarter record of $3.04 billion , with 51% coming from the combined $1.56 billion of Spider-Man: Brand New Day and The Odyssey Concession revenue per patron spending reach $6.50, down slightly from the $6.80 reported last quarter Cinemark reaped the rewards of a resurgent summer at the box office with its second straight quarter with more than $1 billion in revenue, reaching $1.1 billion in a third quarter that was driven by the historic success of Sony/Marvel s Spider-Man: Brand New Day and Universal s The Odyssey. That total is in line with the Cinemark record $1.1 billion recorded in the second quarter and marks a 24% year-over-year increase. Off that, Cinemark recorded net income of $124 million and earnings of $1.04 per share, exceeding projections of 94 cents per share by Zacks Investment Research. “Our ability to translate positive box office momentum from a compelling slate of summer releases into consistent, meaningful earnings growth reflects the strength of our operating model, the effectiveness of our team and the sustained impact of our strategic initiatives,” said Sean Gamble, Cinemark’s President and CEO. “Looking ahead, we remain highly confident in our long-term growth prospects and value proposition, supported by favorable consumer trends and content dynamics, as well as the distinct adva
 
-### Apple Services Hit All-Time High of Over $31 Billion
-Mon, 02 Nov 2026 21:42:50 +0000 — https://www.thewrap.com/industry-news/business/apple-earnings-q4-2026/
+### Versant Revenue Falls 4% Despite Digital Growth, Stronger TV Ratings
+Tue, 03 Nov 2026 12:07:23 +0000 — https://www.thewrap.com/industry-news/business/versant-q3-2026-earnings-revenue-digital-growth/
 
-Apple reported net sales of $114.48 billion and a profit of $2.10 per share, compared to net sales of $113.35 billion and a profit of $1.99 per share expected by Wall Street analysts, per Yahoo Finance Services reached an all-time high with $31.57 billion coming in for Apple TV, Apple Music, iCloud, the App Store and more The tech conglomerate welcomed new CEO John Ternus after taking over for Tim Cook on Sept. 1 Apple reported fourth quarter earnings that saw the tech giant reach an all-time high in services with $31.57 billion coming in for Apple TV, Apple Music, iCloud, the App Store and more. That s up nearly 10% from a year ago, when the services division brought in $28,750 billion. I m delighted with where our services business is today and where it s going, CEO John Ternus said on Monday s earnings call, his first time helming the call. And with an installed base of more than 2.5 billion active devices, I m looking forward to expanding our offerings and improving the lives of users around the world. Wall Street analysts estimated Apple to report a net revenue of $113.35 billion and a profit of $1.99 per share, per Yahoo Finance, but the tech giant blew past those estimates to reach a net revenue of $114.48 billion and earnings of $2.10 per share, reaching a September quarter revenue record. Revenue was up 11.72% from a year ago and earnings were up 13.51% from a year ago. Net income came in at $30.71 billion, rising from the previous year’s income of $27.47 billion. Th
+Versant reported revenue of $1.59 billion, exceeding the $1.57 billion expected by analysts, according to Yahoo Finance. Net income fell 41.1% to $47 million. Linear distribution revenue declined 5.8% to $935 million, while advertising revenue fell 5.3% to $373 million despite stronger TV ratings. Platforms revenue grew 9.6% to $245 million, driven largely by Fandango, while the company raised its full-year free cash flow outlook. Versant Media Group beat Wall Street s revenue expectations in the third quarter, even as declines in cable distribution and advertising weighed on the parent company of MS NOW and CNBC. Revenue fell 4.2% to $1.59 billion from $1.66 billion a year earlier, compared with the $1.57 billion expected by analysts, according to Yahoo Finance . Adjusted earnings before interest, taxes, depreciation and amortization (EBITDA) declined 7.4% to $353 million compared with the prior year s standalone results, while net income dropped 41.1% to $47 million. The results highlight the challenge facing Versant in its first year as an independent publicly traded company following its January separation from Comcast: growing its digital businesses fast enough to offset continued declines in traditional pay television. Linear distribution revenue declined 5.8% to $935 million, primarily due to subscriber losses that were partially offset by contractual rate increases. Advertising revenue fell 5.3% to $373 million, with Versant citing the timing of last year s Ryder Cup 
 
-### New York Times, Chicago Tribune Sue Tech Company Brave Over AI Copyright Claims
-Mon, 02 Nov 2026 21:37:26 +0000 — https://www.thewrap.com/industry-news/tech/new-york-times-chicago-tribune-brave-ai-copyright-lawsuit/
+### Michael Jackson’s Daughter Seeks $600 Million From His Estate, Says Trust Remains Unfunded
+Tue, 03 Nov 2026 07:02:03 +0000 — https://www.thewrap.com/industry-news/public-policy-legal/michael-jackson-daughter-seeks-600-million-from-estate-trust-unfunded/
 
-The New York Times, New York Daily News, Chicago Tribune and Orlando Sentinel sued Brave Software on Monday, accusing the web browser and AI search company of illegally copying their reporting and selling access to copyrighted content to artificial intelligence companies, including Anthropic and Perplexity. The lawsuits, filed separately in Manhattan federal court, target Brave s business of supplying AI companies with content collected from across the Internet. The publishers argue that Brave is profiting from their journalism without paying for it, potentially cutting into the subscription, advertising and licensing revenue on which they rely. In a 69-page complaint, the Daily News, Chicago Tribune and Orlando Sentinel accused Brave of copying copyrighted articles and distributing their content through its Brave Search API, a service that allows AI companies to retrieve web content for use in their products. The filing identifies Anthropic, Perplexity, Mistral, xAI and Cohere among companies that have used Brave s services. The newspapers cite several examples of Brave s AI search tool, Ask Brave, allegedly reproducing substantial portions of their reporting. According to the complaint, the tool generated more than 1,200 words from a Chicago Tribune article about tax breaks for data centers and nearly 600 words from a Daily News article about Central Park horse carriages. The New York Times, in a separate 72-page complaint , said it repeatedly warned Brave to stop using its
+Paris Jackson , the daughter of the late King of Pop Michael Jackson, petitioned a Los Angeles probate court to order a $600 million distribution from her father’s estate to the Michael Jackson Family Trust, arguing that she and her brothers have waited more than 17 years for it to be funded. In legal documents, obtained and viewed by TheWrap, Jackson claimed that her father always intended for his children, including brothers Prince and Bigi Jackson, to receive income from the Trust on their respective twenty-first birthdays. However, as the document highlighted, Those dates have all long passed. More than 17 years after his passing, Michael Jackson’s family trust remains unfunded, the filing stated. In 2011, Executors informed the Court they are contemplating and do intend to file a separate Petition for Preliminary Distribution. Fifteen years later, Michael’s beneficiaries are still waiting. Paris respectfully submits that the Estate’s wealth is a testament to the singular talent and incredible work ethic of her father, the document continued. That said, Executors’ contributions to the Estate’s liquidity, including the restructuring of debt, certain high-risk entertainment projects, and principally the selling off of assets, have produced considerable amounts of cash. Executors, however, have never presented any plan for funding the Michael Jackson Family Trust to the Court. That needs to change. Later on in the filing, Jackson claimed that she and her siblings received le
 
-### Roku Q3 Profit, Revenue Soar on Higher Media Entertainment Ad Spending, Subscription Growth
-Mon, 02 Nov 2026 21:31:44 +0000 — https://www.thewrap.com/industry-news/business/roku-earnings-q3-2026/
+### Jimmy Kimmel Stuns Audience With Jab at JD Vance’s Halloween Costume
+Tue, 03 Nov 2026 06:07:05 +0000 — https://www.thewrap.com/creative-content/tv-shows/jimmy-kimmel-audience-reacts-jd-vance-halloween-costume-jab/
 
-Roku reported revenue of $1.5 billion and a profit of $1.20 per share, compared to revenue of $1.41 billion and a profit of 55 cents per share expected by analysts, per Yahoo Finance. The media & entertainment vertical saw its highest year over year ad revenue growth in four years as media companies invested on Roku s platform to promote their content and services. The company also benefitted from higher political advertising, which exceeded the comparable quarter from the 2024 U.S. presidential election cycle. The company did not host an earnings call due to Fox s pending $22 billion acquisition, which is on track to close in the first half of 2027 As Roku prepares to be acquired by Fox, the streaming hardware maker smashed Wall Street expectations for its third quarter on Monday. Profits soared 639% to $183.3 million and revenue climbed 24% to $1.5 billion, driven by strength in its advertising and subscription businesses. Ad revenue grew 23% to $727.4 million, driven by the highest year over year spending growth for the media & entertainment vertical in four years as companies invested on Roku s platform to promote their content and services. It was also fueled by higher political advertising, which exceeded the comparable quarter from the 2024 U.S. presidential election cycle. Meanwhile, subscriptions revenue grew 23% to $581 million boosted by the World Cup, which drove over one million sign-ups across services including Peacock, Paramount+, Fox One and ViX. In September
+Jimmy Kimmel stunned his late night audience with a biting jab directed at Vice President JD Vance s Halloween costume . During his monologue for Jimmy Kimmel Live!, the comedian touched on Vance s decision to dress as Harry Potter character Professor Albus Dumbledore. As Kimmel highlighted, the vice president s decision to wear a Dumbledore costume sparked controversy since the fictional wizard is a prominent LGBTQ+ literary character. JD Vance didn t go to the [Mar-a-Lago] party. He was at home in Washington. His family had a Harry Potter theme, Kimmel said. And you can see he dressed as Dumbledore. He got a lot of flack online for this, because Dumbledore is gay and that s not allowed in MAGA Land. Kimmel didn t stop there, lobbing another pointed zinger Vance s way. So afterwards, JD released a statement clarifying that the only boys he s into are La-Z-Boys, Kimmel quipped, making a clear reference to the fabricated internet meme that claimed the vice president once had sex with a couch. This jab appeared to take several of Kimmel s audience members off guard, as they could be heard groaning before erupting into applause and laughter. As the crowd s reaction carried on for several seconds, Kimmel had to briefly pause his monologue, swallowing down a laugh in the process. “You get it, right, Guillermo?” the late night host then asked his sidekick, who couldn t stop laughing over the dig. Guillermo, explain it to those who haven t been following along. No, no, go ahead, Gui
 
-### Brad Pitt and Angelina Jolie’s Daughter Vivienne Becomes 4th to Drop His Name
-Mon, 02 Nov 2026 21:18:11 +0000 — https://www.thewrap.com/culture-lifestyle/culture/brad-pitt-angelina-jolie-daughter-vivienne-name-change/
+### Jon Stewart Gets Big Laughs Blaming Haley Stevens for Anderson Cooper’s On-Air ‘Sass’
+Tue, 03 Nov 2026 05:10:54 +0000 — https://www.thewrap.com/creative-content/tv-shows/jon-stewart-reacts-haley-stevens-anderson-cooper-interview/
 
-Brad Pitt and Angelina Jolie s daughter Vivienne has officially dropped Pitt from her last name, becoming the fourth child of the former couple to do so. According to documents obtained by TheWrap on Monday, Vivienne Marcheline Jolie no longer uses the hyphenated surname Jolie-Pitt following a name-change hearing that day. She is the latest of the former it couple s children to make the change official, following siblings Shiloh, Maddox and Zahara. Shiloh’s petition was granted in 2024. Maddox began the process in May, while Zahara filed in June; both hearings were held in September. The couple’s two children who have not petitioned for the name change are Pax and Knox, the latter of whom is Vivienne’s twin. Vivienne initially filed her petition in Los Angeles County Superior Court on July 21, nine days after turning 18. Pitt and Jolie’s divorce became one of Hollywood’s longest and most contentious legal battles after Jolie filed for divorce in September 2016, just two years after the couple married. The split followed an alleged altercation aboard a private plane as the family traveled from France to Los Angeles. Jolie sought primary custody of the couple’s six children, and the two spent years fighting over custody and finances. Pitt was investigated over allegations stemming from the plane incident but was not charged. Although Pitt and Jolie were declared legally single in 2019, it took another five years to resolve the remaining divorce issues. They reached a settlement
+Jon Stewart roasted Haley Stevens for bringing the “sass” out of Anderson Cooper during their interview , joking that the Michigan representative had turned the newsman “into Andy Cohen.” During Monday s monologue for The Daily Show, the comedian touched on Rep. Stevens (D-Mich.) s tense conversation with Cooper, which occurred after the congresswoman broke from her party to endorse Republican senate candidate Mike Rogers over Democratic nominee Abdul El-Sayed. I mean, of course, we all knew there was drama in Michigan when Senate candidate Abdul El-Sayed defeated Haley Stevens in a contentious primary for the Democratic nomination, Stewart said. But Stevens has always been very clear as to their shared goal of defeating Republican Senate candidate Mike Rogers. The Daily Show editors then cut to all the times Stevens denounced Rogers as a Donald Trump lackey. Nonetheless, on Sunday, Stevens revealed she d be voting for Rogers – in a video that was awkwardly filmed at an angle. Is her car in a ditch? Stewart quipped after watching the footage. Is she endorsing Mike Rogers after getting in a car accident? Real quick, before I lose consciousness, I am endorsing the nightmare.' As Stewart went on, he wondered aloud what the f k happened?, adding that it was the most diabolical episode of Fargo I ve ever seen. What could have driven, somewhat erratically he joked, before seriously asking, What could have driven Haley Stevens into the arms of the Rogers campaign? The show then cut 
 
-### X-Men : Ben Wang in Talks for Iceman
-Mon, 02 Nov 2026 20:41:56 +0000 — https://www.thewrap.com/creative-content/movies/x-men-ben-wang-in-talks-for-iceman/
+### Billy Evans Confirms He Felt ‘Violated’ by Full-Frontal ‘You Can See Everything’ Scene
+Tue, 03 Nov 2026 04:17:50 +0000 — https://www.thewrap.com/creative-content/movies/you-can-see-everything-billy-evans-felt-violated-full-frontal-nude-scene/
 
-The Marvel Cinematic Universe may have just found another of its original X-Men . Karate Kid: Legends and The Long Walk star Ben Wang is currently in talks to play Bobby Drake, a.k.a. Iceman, in the upcoming X-Men feature. Wang would join Sadie Sink (Jean Grey), Kit Connor (Cyclops) and Asa Germann (Angel) as one of the original five X-Men that debuted in Stan Lee and Jack Kirby s foundational 1963 comic. This leaves Beast as the only member of the original crew to join the film. Christopher Abbott, meanwhile, has been cast as team leader Professor X, while Adam Driver will play the villainous Mr. Sinister. Rounding out the mutant crew are Inde Navarrette, cast as Rogue, Samara Weaving as Emma Frost and Maya Boyd, who will play fan-favorite Storm. Jake Schreier will direct the X-Men reboot, returning to the Marvel Cinematic Universe after helming Thunderbolts* (later known as The New Avengers ). Joanna Calo, Lee Sung Jin and Michael Lesslie will pen the screenplay. X-Men is currently slated as the first film out the gate after Avengers: Secret Wars. That movie, currently dated for December 2027, will draw Jonathan Hickman and Esad Ribić comic of the same name, which provided the Marvel Comics universe a clean avenue for a line-wide soft reboot — keeping some elements the same while incorporating new details, like bringing Miles Morales into the main Marvel universe. This may provide the MCU an explanation for why the mutants are now a major presence after mostly not appearing
+Billy Evans, the longtime partner of convicted Theranos founder Elizabeth Holmes, confirmed he felt violated by his nude scene in Lance Oppenheim and Nathan Fielder s documentary, You Can See Everything . The businessman shared his feelings about the headline-making scene on X Monday, after asking fans to AMA or ask me anything. When one follower challenged that the shower scene, in which Evans bared all for the camera, was something he wanted, Holmes significant other slammed that take as a false narrative . A different fan then responded looking for clarity, writing, They forced themselves into the shower with you or they just started filming and you didn t tell them to stop? In response, Evans shared a link to a news article, titled Elizabeth Holmes’ Partner Billy Evans Felt ‘Violated’ by Full-Frontal Nude Scene in Nathan Fielder Doc, Source Says . He also wrote, Trust the sources.' The article in-question, which came from People, cited a source familiar with the situation and claimed that Evans felt his trust was violated over [the] full-frontal nude scene. “The shower scene wasn’t Billy’s idea, the source stated to the outlet. He only agreed to it with an understanding they would keep it PG. “Finding out otherwise via media coverage would be unsettling for anyone, to say the least,” the source added. “It’s a violation of trust and exploiting that trust for shock value.” A representative for A24 did not immediately respond to TheWrap s request for comment. Evans narrative
 
-### Ellen DeGeneres Tearfully Remembers Longtime EP Matt Wright in Video to Fans: It s Just Shocking
-Mon, 02 Nov 2026 20:35:05 +0000 — https://www.thewrap.com/creative-content/tv-shows/ellen-degeneres-tearfully-remembers-matt-wright-video/
+### Disney Eyes Thousands of Layoffs in Push for 20% Cost Cuts
+Tue, 03 Nov 2026 03:36:09 +0000 — https://www.thewrap.com/industry-news/business/disney-plans-thousands-more-layoffs/
 
-Ellen DeGeneres tearfully remembered her late executive producer Matthew Wright in a video to fans on Monday, sharing that everybody loved him and his sudden death on Friday is shocking. “He was an amazing guy. He was funny. God, he made me laugh. He would surprise me with things that he did all the time, DeGeneres said through tears while sitting outside along the coast. He was smart. He was kind. He was the part of our show that — I mean, everyone loved him. I loved him. And it’s just shocking — it’s shocking.” Wright, who served as an EP on The Ellen DeGeneres Show from 2006-2022, died in what his family described as an unfathomable tragedy in Los Angeles on Friday. They are raising money via a GoFundMe campaign to cover costs of transporting his remains back to New York City to his husband and family. The bereft DeGeneres appeared to lose her train of thought a few times throughout the video, sharing in one breath that she and Wright were exploring working together again we were working on a project to do together that we were supposed to start and relating Wright s loss to that of the Ellen dancer and emcee Stephen Laurel tWitch Boss in the next. He and tWitch were so close, so now he and tWitch are together, dancing and laughing, the former talk show host said. We’re gonna miss him. He is and always will be the glue to our entire family at the ‘Ellen Show,’” she continued. And to Justin, his husband, and to his family, I’m so sorry, because we lost a good guy. He was a 
+The Walt Disney Company is looking at eliminating thousands of positions and has asked some managers to target 20% in annual cost savings, according to multiple media reports. The possible job cuts come as CEO Josh D’Amaro is reportedly facing challenges from growing AI use, weaker box office revenue, mounting competition from streaming challengers and a slowdown in theme park attendance abroad, according to Bloomberg , which first reported the news. It’s said that some operations within Disney are set to face larger cuts than others. Though, per the reports, D’Amaro plans to reinvest the savings from the cuts into the company’s film and TV programming, technology, theme parks and cruise ship operations. It’s currently unclear how many jobs could be impacted, but Disney employed about 231,000 people at the end of 2025 s fiscal year. Still, the company has made a number of substantial cuts this year. In fact, just last week, the Walt Disney Company’s theme parks division laid off between 100 and 200 people. As we reported at the time , the staff cuts followed a regular evaluation of the division’s investments and pending projects. The layoffs impacted those across all parts of Imagineering, which is the creative and technical arm that brings to life theme parks, attractions, resorts, cruise ships and live entertainment. The decision came after Disney offered voluntary early retirement packages in August to executives as part of a cost-reduction effort. “Over the past few years
 
-### John Goodman Laments Bad Digger Reviews: Kind of Killed Us Before We Even Opened
-Mon, 02 Nov 2026 20:17:47 +0000 — https://www.thewrap.com/creative-content/movies/john-goodman-digger-reviews-killed-movie/
+### Johnny Depp Wants to End Pirates of the Caribbean Franchise On a Better Note
+Tue, 03 Nov 2026 03:10:12 +0000 — https://www.thewrap.com/creative-content/movies/johnny-depp-end-pirates-of-the-caribbean-better-note-video/
 
-John Goodman thinks negative reviews for Digger kept potential viewers from giving the movie a chance, admitting it hurt to see the response unfold. While talking on the Happy Sad Confused podcast, the actor was asked about the Alejandro G. Iñárritu flop in which he starred alongside Tom Cruise. Goodman pointed to the early reviews that gave the movie a negative wrap as the reason for moviegoers not trying it out for themselves. “People are talking. It hurt. It kind of killed us before we even opened. [Headlines like]: ‘This will only make $5.’ It was good reason for people to avoid it,” he said. “I am proud of it. I had a ball doing it. It was a good six months out of my life. It is a huge swing. It’s going to be around for a long time.” The actor also said that although he tries not to let it affect him, he does still hear what critics have to say. “Unfortunately, I have to say that I am, Goodman shared. I have to be very honest. I used to be less so. Maybe I am getting old and pathetic and it’s like, ‘Don’t hit me again!’ I put so much into this film and here you go. I am over it now. I am proud I did it.” He added: Everything I have done for the Coen Brothers flopped initially… so who cares, man? I still have people coming up to me in the streets asking me about Barton Fink and ‘Big Lebowski.' Shortly after the film s first box office numbers were released, TheWrap exclusively reported that Digger – a film about an oil man who s operation dooms the planet to a coming ecol
+Johnny Depp wants to right the ship — the pirate ship, that is. The Alice in Wonderland star talked to Entertainment Tonight as part of the press tour for Ebenezer, a return to the spotlight after Depp s highly publicized legal saga with Amber Heard involving claims of domestic violence and defamation. In the interview, Depp said that he would be willing to return to his Oscar-nominated role of Jack Sparrow in a long-discussed sixth Pirates of the Caribbean movie. If things are exactly where they need to be with regards to how they re going to top off the Pirates, the only involvement that I really want to have, truly, is just to send them off on a better note, Depp told the outlet. Depp isn t wrong that the series left off on a sour note. The fourth film in the franchise, Pirates of the Caribbean: On Stranger Tides, and the fifth, Pirates of the Caribbean: Dead Men Tell No Tales, were both critically panned in comparison to the first trilogy of films. While On Stranger Tides was the franchise s second-highest grossing entry with a $1.045 billion haul, Dead Men Tell No Tales was the second-lowest, bringing home roughly $795 million (still a high sum). View this post on Instagram A post shared by Entertainment Tonight (@entertainmenttonight) After debuting as Jack Sparrow in 2003 s Pirates of the Caribbean: The Curse of the Black Pearl, Depp said he would be willing to return for any sequel so long as producer Jerry Bruckheimer is involved. I ll go to work with Bruckheimer tom
 
-### The Hunger Games: Sunrise on the Reaping to Screen in 3D Through Lionsgate, Meta Partnership
-Mon, 02 Nov 2026 20:00:00 +0000 — https://www.thewrap.com/creative-content/movies/hunger-games-sunrise-on-the-reaping-3d-lionsgate-meta/
+### DWTS Week 8: Harry Shum Jr. Nabs Another Perfect Score as Jenna Dewan Joins the Club
+Tue, 03 Nov 2026 03:06:05 +0000 — https://www.thewrap.com/media-platforms/tv/dancing-with-the-stars-week-8-disney-night/
 
-Lionsgate is teaming up with Meta to bring The Hunger Games: Sunrise on the Reaping to audiences in 3D. The collaboration marks the first time that the Mark Zuckerberg-led tech giant has partnered with a Hollywood studio to convert a feature film into 3D to support its theatrical release. The 3D conversion was completed in collaboration with the film s director Francis Lawrence and DNEG, the Academy Award-winning visual effects and animation studio whose Stereo team has been a leader in 3D conversion for more than 15 years. Following its theatrical release, the film will also be available in 3D on Meta VR Glasses when they launch in the spring. Meta VR Glasses feature a 5K Infinite Display, Dolby Vision, Dolby Atmos spatial audio and are Imax enhanced. “From the beginning, we wanted The Hunger Games: Sunrise on the Reaping to feel visceral and immersive, pulling audiences deep into Haymitch’s experience,” Lawrence said in a Monday statement. “Adapting the film for 3D gave us another creative tool to bring audiences even closer to his perspective. I’m excited for people to see the film on the big screen and ultimately experience it in an entirely new way on Meta’s VR glasses.” “With our upcoming VR Glasses, we’re proud to create premium entertainment the way it s meant to be felt, and Lionsgate is an ideal partner because of the artistic strength and global appeal of its franchises,” Meta Reality Labs Entertainment Head Sarah Malkin added. “ The Hunger Games: Sunrise on the Re
+After last week s Horror Movie Night ended with a double elimination, “Dancing With the Stars” lightened the mood with a magical Disney night that saw not one, but two perfect scores. Joined by guest judge Cynthia Erivo for a special Monday night edition of the ballroom dancing competition show, which shifted from Tuesday due to election day, Disney night saw Harry Shum Jr. and Jenna Johnson score yet another perfect score with a Dick Van Dyke-inspired jazz performance to a Mary Poppins classic. And they weren t alone: Jenna Dewan and Val Chmerkovskiy also landed a perfect score for their “Beauty and the Beast quickstep, but it was Shum Jr. and Johnson that secured immunity for the next week s Grammys night, which will see performances from Brandy and Monica, Maren Morris and Sheryl Crow. The addition of team dances this week meant the leaderboard was slightly shifted after the couples performances, but, when accounting for fan votes, it was eventually Julia Stiles and Ezra Sosa who were sent home. Disney night kicked off with a lively opening number featuring a medley of “Circle of Life/Nants Ingonyama” from “The Lion King,” “Belle” from “Beauty and the Beast,” “Seize the Day” from “Newsies and “The Greatest Show” from “The Greatest Showman. After the medley, Amber Glenn and partner Pasha Pashkov kicked off the night with a quickstep to “A Star Is Born” from “Hercules. But this time, both Glenn and Pashkov played Hercules, with Glenn taking the lead, which judge Carrie Ann I
 
-### Lenny Kravitz Reps Quash Untrue Rumors He Died in Florida Plane Crash
-Mon, 02 Nov 2026 19:49:26 +0000 — https://www.thewrap.com/culture-lifestyle/culture/lenny-kravitz-not-on-board-florida-plane-crash/
+### Martin McDonagh Reevaluates His Use of N-Word, Racist Language in Prior Works: ‘My Heart Was in the Right Place’
+Tue, 03 Nov 2026 02:12:05 +0000 — https://www.thewrap.com/creative-content/movies/martin-mcdonagh-racist-language-wild-horse-nine/
 
-Lenny Kravitz s representatives have confirmed that the singer was not on board the private plane that crashed into a Florida neighborhood on Nov. 1. The plane was traveling from Austin, Texas, to the Bahamas when it went down in Cresthaven, Fla. Transportation Secretary Sean Duffy confirmed after the crash that all nine people aboard the Learjet 60 plane, including identified co-pilot Nathalia Filgueiras, had died. Today s plane crash in Palm Beach County, Florida is a horrific tragedy, Duffy said in his statement . Please join me in praying for the families and loved ones of those we lost. Shortly after the plane crash, rumors began circulating online that Kravitz was among the passengers who died. The speculation followed a since-deleted social media post by a female pilot who was incorrectly identified as one of the crashed plane s pilots. In the post, she said she was going to fly Kravitz from Austin to the Bahamas. Kravitz s representative, Carleen Donovan, told BocaNewsNow that speculation that Kravitz was aboard the crashed plane was untrue and incorrect. In addition to lamenting the tragic nature of the crash and sending his prayers to the families of those killed, Duffy confirmed that the Federal Aviation Administration (FAA) would send a team to the crash site to assist with the National Transportation Safety Board s investigation. Florida Gov. Ron DeSantis told reporters that no one on the ground was reported injured or killed as a result of the crash. He also cal
+Martin McDonagh took a closer look at past use of racist language in his work while speaking with the New York Times on Saturday, saying that slurs like the N-word have been used to be either outrageous or to be truthful and that his heart was in the right place when he wrote such material. Sitting with the filmmaker and playwright for the Times The Interview podcast , co-host David Marchese asked McDonagh if past criticisms of his brash language have inspired him to change his approach to writing and more pointedly, if he thought the barometer of acceptability with such language has changed with shifting expectations of political correctness. I think it s gotten worse, especially in the last 10 years, McDonagh said of those expectations. Only in the last 10 years have I been asked to change words in place from 25, 30 years ago because of offense taken by certain words that weren t there 25 years ago. And my approach to it is that those words were there to be either outrageous or to be truthful. If you re writing a, for instance, racist character, they re going to use racist language. To try and cut those out 25 years later for what reason? I m never quite sure. It feels not just problematic, but it feels like things are getting troublingly worse about that because I was never asked to do that back in the day. And I think if you don t like that in a play, you should just not do the play. You shouldn t try and change the play 25 years later. McDonagh was then asked about speci
 
 ## Collider
 
-### The Battlestar Galactica Franchise Officially Returns In 2027
-Mon, 02 Nov 2026 22:21:26 GMT — https://collider.com/battlestar-galactica-board-game-new-edition-2027-return/
+### The Greatest Crime Epic's Final Line Officially Changed the Genre
+Tue, 03 Nov 2026 12:03:12 GMT — https://collider.com/killers-of-the-flower-moon-best-final-quote-crime-epic-film-martin-scorsese/
 
-One of the cheesiest science fiction franchises of the 1970s became one of the best sci-fi offerings of the early 21st century when Battlestar Galactica made its grand return in 2003. That series ended in 2009, and much discussion about a revival or reboot has surfaced ever since. Now, while a new TV series or movie may be as difficult to find as the thirteenth colony, there's something coming to tide fans over.
+After nearly three and a half hours of bloodshed, betrayal, and thorny interpersonal relationships, Killers of the Flower Moon ended with a bang, but not in the traditional sense one would typically expect from a crime epic. Martin Scorsese 's historical saga about a coordinated genocide of members of the Osage nation in Oklahoma is a complex, dense, and aggressively challenging film that forces the viewer to reckon with the director's beloved filmography. Everyone who adores Taxi Driver and Goodfellas may find themselves the subject of criticism in Killers of the Flower Moon 's ending, which features a stunning cameo by none other than Scorsese himself, who plays a presenter in a radio play years after the events of the movie. In a film ripe with stellar performances by Leonardo DiCaprio , Robert De Niro , and breakout star Lily Gladstone , Scorsese's final line, in which he reveals that "there was no mention of the murders," is its most powerful line delivery and a damning indictment of the glorification of crime on the big screen, especially by Scorsese himself.
 
-### 'Coraline' Meets 'The Boogeyman' as Jessica Chastain's 93-Minute Movie Officially Hits a Box Office Milestone
-Mon, 02 Nov 2026 22:00:12 GMT — https://collider.com/other-mommy-100-million-box-office-milestone/
+### Rebecca Ferguson's New Fantasy Epic Officially Arrives on Streaming This Month
+Tue, 03 Nov 2026 12:00:12 GMT — https://collider.com/the-magic-faraway-tree-streaming-hbo-max-rebecca-ferguson/
 
-Halloween is always a successful time for horror at the box office. The devil's favorite genre can prove popular all year round, but during spooky season, millions flock to the theaters to frighten themselves into the spirit. Last year, the big horror winner was Black Phone 2 , the sequel to Scott Derrickson ’s 2021 supernatural horror flick The Black Phone , which topped the all-important Halloween weekend box office charts.
+Over the decades, we have seen our fair share of superstar actresses. In recent years, Rebecca Ferguson has become one of the biggest names in entertainment. Starring as Elizabeth Woodville in the British historical drama miniseries The White Queen in 2013 brought Ferguson international attention, as the role earned her a Golden Globe nomination. In 2026 alone, Ferguson featured in the divisive sci-fi blockbuster Mercy , which cost $60 million to produce but ultimately disappointed at the box office despite also starring Chris Pratt . Mercy would later go on to find major success on streaming , but Ferguson's upcoming 2026 blockbuster is also poised to perform a lot better at the box office.
 
-### These 5 Clint Eastwood Movies Are Masterpieces
-Mon, 02 Nov 2026 21:48:12 GMT — https://collider.com/clint-eastwood-movie-masterpieces/
+### The 6 Best Miniseries Released Between 2010 and Now
+Tue, 03 Nov 2026 11:55:12 GMT — https://collider.com/best-miniseries-since-2010/
 
-Clint Eastwood has retired, as of 2026 , but his final film came at the end of 2024: Juror No. 2 . It was his 40th film as a director, and over a span of a little over half a century, he directed a bit of everything, and was even in the director’s chair for two Best Picture winners. Yet even if he’d never directed anything, he’d still be legendary for all the movies he starred in (admittedly, some of those starring roles were in films he also directed, but definitely not all his iconic performances were).
+The best thing about a miniseries is that nobody has to stretch the plot to fill a third season. There’s no “it gets good in season two,” so no one has to wait a year to find out if the show got better. You watch it, it ends, and you can tell a friend to go see it without adding a list of warnings.
 
-### 3 Elite Netflix Series to Binge This Week (Nov 2-6)
-Mon, 02 Nov 2026 21:47:11 GMT — https://collider.com/netflix-shows-binge-november-2-2026/
+### Marvel's Oldest Hero Officially Gets a Major Redesign and New Powers
+Tue, 03 Nov 2026 11:45:16 GMT — https://collider.com/marvel-comics-namor-redesign-new-powers/
 
-October was a strong month on Netflix, with plenty of new and returning shows keeping the whole world entertained. The return of Adam Brody and Kristen Bell 's rabbi and sex podcaster in Nobody Wants This was the latest big hit of October, with other favorites last month including the six-episode miniseries Below , written and created by The Umbrella Academy 's Jesse McKeown , Florence Pugh 's adaptation of East of Eden , and so much more. So how do you start November? Here's a look at three shows you should binge-watch on Netflix this weekend .
+There aren't many characters who can claimed they've been around the world of Marvel for even longer than the likes of Captain America, Iron Man or the Fantastic Four and yet one particular hero has been flying around since before the Second World War. He's been a friend, a foe, an absolute nuisance to many and he's never been that interested in playing nice but now, Marvel has decided it's time to give this hero one of the biggest power upgrades in their history.
 
-### Netflix’s 10/10 Crime Thriller Officially Wraps Filming on a Bigger Season 2
-Mon, 02 Nov 2026 21:36:43 GMT — https://collider.com/dept-q-season-2-filming-wrap-netflix-2027/
+### The 6 Most Amazing Books of the 2020s, Ranked
+Tue, 03 Nov 2026 11:41:12 GMT — https://collider.com/most-amazing-books-2020s-ranked/
 
-Netflix has been pulling some of its biggest crime thrillers straight from the pages lately. 2026 alone has seen the introduction of Jo Nesbø's Harry Hole and the twisty Tessa Thompson and Jon Bernthal team-up, His & Hers , based on the novel by Alice Feeney , to rave reviews and global success. Gabriel Basso also returned as Peter Sutherland for the penultimate season of The Night Agent at the start of the year, with Season 4 wrapping filming back in September . Now, the streamer just got one step closer to reopening its department of misfit detectives.
+I have already had the humiliating experience of calling several books from this decade “recent” and then realizing they have been living in my head for years. That is probably the better test anyway. Not whether I loved them during the first week, but whether a family argument, a strange friendship, a house full of impossible rooms, or one furious voice keeps resurfacing long after I have forgotten half the other books I read around them.
 
-### 20 Years Later, One of Sci-Fi’s Greatest Masterpieces Is Officially Getting a New Release
-Mon, 02 Nov 2026 21:34:03 GMT — https://collider.com/dune-new-audiobook-recording-frank-herbert-november-24/
+### Peter Capaldi Warns the BBC About ‘Doctor Who’: “They Don’t Really Understand It”
+Tue, 03 Nov 2026 11:30:12 GMT — https://collider.com/doctor-who-future-peter-capaldi-bbc-comments/
 
-Dune fans have loads to be excited about right now, but not least of which is the franchise’s return to the big screen next month with Dune: Part Three . Denis Villeneuve is back in the director’s chair for one final round of sci-fi greatness on the desert planet of Arrakis, and once Dune: Part Three is out in theaters around the world, he will shift his focus to directing the next James Bond movie. Dune fans who also own PlayStations have been enjoying the new release of Dune: Awakening on the console in recent weeks, and the developers recently announced a new string of updates and content coming to the game that will keep people tuned in for a while. All these new releases are thanks to the writings of the late, great Frank Herbert , who died 40 years ago this year.
+For a show all about time travel, there are many Doctor Who fans who would love to jump in the TARDIS and head back in time before all the chaos began. Years before a disappointing Disney era , Ncuti Gatwa 's controversial exit, declining ratings, and a new sour relationship between fans and returning showrunner Russell T. Davies saw the timey-wimey series put out to tender, Doctor Who fans enjoyed a retrospectively appreciated era led by star Peter Capaldi .
 
-### ‘The Gilded Age’ Star Carrie Coon Officially Joins a Cult in Chilling New Thriller Trailer
-Mon, 02 Nov 2026 21:30:12 GMT — https://collider.com/the-liberation-trailer-carrie-coon-lily-james-bella-ramsey/
+### The 15 Best Horror Fantasy Movies, Ranked
+Tue, 03 Nov 2026 11:27:12 GMT — https://collider.com/horror-fantasy-movies-best-ranked/
 
-Carrie Coon is an actor who fans instantly know is going to elevate any project she joins. From her role in projects like The Leftovers or Gone Girl to her work on stage in the play Bug , Coon delivers a captivating performance at every turn. Now, her new movie is taking fans into the fascinating world of a cult. Coon plays Rita, a mother who needs a change in her life, who meets Ricki ( Lily James ) when she needs her most — or just when she's most vulnerable. The new trailer for the new film, The Liberation , was released today, and it yet again proves to fans that Coon is a powerhouse performer.
+Fantasy is a genre of fiction that uses aspects such as mythical creatures, magic, or alternate physics to deliver a story in which the rules of reality do not apply, allowing for more creative freedom and more versatile stories. It tends to go hand-in-hand with other genres, too, with many different films twisting the typical conventions of fantasy and incorporating them into whatever story they want to tell. Star Wars , for example, is a near-perfect blend of fantasy and sci-fi, while The Lord of the Rings is the embodiment of epic fantasy.
 
-### ‘Lost’ Star Officially Joins ‘Tracker’ Season 4
-Mon, 02 Nov 2026 21:28:16 GMT — https://collider.com/tracker-season-4-cast-josh-holloway-guest-star/
+### The 10 Worst Sci-Fi Movies in Film History
+Tue, 03 Nov 2026 11:23:12 GMT — https://collider.com/worst-sci-fi-movies-film-history/
 
-As of the first week of October, the fourth season of Tracker is off and running on CBS. New episodes continue to be released every Sunday night on CBS before streaming the next day on Paramount Plus, and the show has now been in the top 10 since the day after its Season 4 premiere — it’s showing no signs of giving up its top spot, either. Fans were treated to quite the surprise during the most recent episodes of Tracker when Jensen Ackles finally returned as Russell Shaw, but only time will tell what the rest of the season has in store for him. Most fans and critics agree that Tracker is only getting better with time , and although the show hasn’t been officially picked up for Season 5 yet, it would be surprising if it wasn’t given the chance to continue.
+Sci-fi gets a lot of room to dream big , which is also why it gets so much room to fail . A bad romance or a bad thriller can only go wrong in so many ways. A bad sci-fi movie can go wrong with the story, the effects, the worldbuilding, the dialogue, and the casting all at once.
 
-### Why Did Max Thieriot Leave ‘SEAL Team’?
-Mon, 02 Nov 2026 21:24:12 GMT — https://collider.com/max-thieriot-seal-team-exit/
+### Before Apple TV’s ‘Neuromancer,’ One William Gibson Story Is the Perfect Starting Point
+Tue, 03 Nov 2026 11:06:12 GMT — https://collider.com/apple-tv-neuromancer-william-gibson-burning-chrome/
 
-It came as a massive shock to audiences when Clay Spenser was unceremoniously killed off in the back half of SEAL Team 's sixth season. Max Thieriot's character had been with the CBS-turned-Paramount+ series from the very beginning and was as much a part of the Bravo Team as anyone else. But all of that changed when Thieriot started balancing his work on SEAL Team with that of his then-new CBS/Paramount+ series Fire Country . And, as it turns out, trying to manage two first responder/military drama shows at once — especially with many large seasons — can't last forever. Eventually, one of these shows had to go.
+If you want to try to understand cyberpunk as a genre, or as a sub-genre of science fiction, there’s use in just jumping into William Gibson ’s body of work, since his earlier works are all definitive and influential as pieces of cyberpunk fiction. You can go back further than Neuromancer , which was Gibson’s first novel, to see other books that might be cyberpunk in nature, including Do Androids Dream of Electric Sheep? , which later got adapted as Blade Runner . But Neuromancer is heightened with all the expected things, like technology being advanced and everywhere despite societal inequality, people existing between reality and some kind of cyber realm, and the world as a whole feeling dystopian, even with all the advances that, on paper, sound great.
 
-### 'Severance’ Meets ‘Black Mirror’ in Apple TV’s Near-Perfect 2-Part Sci-Fi Thriller
-Mon, 02 Nov 2026 21:14:11 GMT — https://collider.com/severance-meets-black-mirror-in-apple-tvs-near-perfect-2-part-sci-fi-thriller/
+### Liam Neeson’s New Action Movie Is Officially One of His Worst-Rated Movies Ever
+Tue, 03 Nov 2026 11:00:12 GMT — https://collider.com/liam-neeson-the-mongoose-rotten-tomatoes-is-it-good/
 
-Every streaming service eventually finds its niche. Netflix pioneered the binge-watch model, not to mention the streaming format and original content. Prime Video, Disney+ and Paramount+ thrive on genre and franchise fare . For Apple TV, science fiction is where it shines , as most of its best shows fall into that genre . Severance and Silo have become major hits, while For All Mankind recently expanded its reach with the spin-off series Star City . However, one of Apple TV's best shows is currently hiding in plain sight for sci-fi fans.
+Liam Neeson is a supremely talented actor with one of the longest and most impressive filmographies in Hollywood. From dazzling in Steven Spielberg 's moving historical drama Schindler's List and warming hearts in the Christmas classic Love Actually , to reigniting the brilliant Naked Gun franchise and defining the modern action thriller in Taken , there's little this Academy Award nominee hasn't done. However, for every great Neeson film, there seems to be another that is panned by critics.
 

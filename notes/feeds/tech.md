@@ -1,6 +1,16 @@
-# Tech — harvested 2026-11-02T22:27:45.838Z
+# Tech — harvested 2026-11-03T12:21:19.925Z
 
 ## Ars Technica
+
+### "At Home in Space" opens, caps Air and Space Museum renovation
+Mon, 02 Nov 2026 23:30:16 +0000 — https://arstechnica.com/space/2026/11/at-home-in-space-opens-caps-air-and-space-museum-renovation/
+
+After seven years of work and nearly $1 billion, the Smithsonian has completed the renovation of the National Air and Space Museum's flagship building in Washington, DC. On October 30, the museum debuted its last-to-open spaceflight exhibition , returning "home" with a gallery devoted to establishing a spacefaring civilization. "Welcome to 'At Home in Space'!" said curator Jennifer Levasseur, who guided us through a virtual tour of the gallery. "This is the story of long-duration spaceflight in the last few decades. We generally call it 'reaching orbit.'" Read full article Comments ]]>
+
+### Why large dogs age faster than small ones, and other October research highlights
+Mon, 02 Nov 2026 22:54:35 +0000 — https://arstechnica.com/science/2026/11/research-roundup-6-cool-science-stories-we-almost-missed-7/
+
+It’s a regrettable reality that there is never enough time to cover all the interesting scientific stories we come across. So every month, we highlight a handful of the best stories that nearly slipped through the cracks. October’s list includes an epigenetic mechanism for why large dogs age faster than smaller ones; physicists who trapped a single particle of antimatter for months; and invisible tattoo inks that only show up under UV light. Why large dogs age faster In many mammalian species, larger creatures tend to have longer lifespans. Mice, for instance, live an average of just two years, while some whales can last for as long as 200 years. Dogs, however, buck this pattern; larger dogs tend to age faster and die younger than smaller ones, which makes canines an ideal model for biologists to study to learn more about aging in general. Arizona State University scientists report that these lifespan differences seem to be due to so-called "jumping genes," according to a paper published in the journal Science. The authors used data from 864 dogs collected in the Dog Aging Project to map patterns of DNA methylation (which influences how much certain genes are turned on or off) across the entire genome. It's part of the epigenome, whose markers can change over time in response to stress and other environmental factors. Genetic sequences, by contrast, are largely fixed. So DNA methylation is a good chemical indicator of aging and DNA regulation. Read full article Comments ]]>
 
 ### Third person dies of bird flu since virus started jumping to livestock
 Mon, 02 Nov 2026 21:21:43 +0000 — https://arstechnica.com/health/2026/11/third-person-dies-of-bird-flu-since-virus-started-jumping-to-livestock/
@@ -49,17 +59,32 @@ One of the most useful gadgets in my kitchen is now a screen that never asks me 
 
 ## The Verge
 
+### Redmagic upgrades its liquid-cooled gaming phone with extra RGBs
+2026-11-03T07:00:00-05:00 — https://www.theverge.com/gadgets/1024504/redmagic-12-pro-liquid-cooling-rgb-lighting-185hz-camera
+
+The circular liquid-cooling system now features its own RGB lights. | Photo: Dominic Preston / The Verge After introducing true liquid cooling to its gaming phones last year, Redmagic is upping the ante in its 12 Pro by building RGB lights into the transparent cooling loop, too. And they work! Sort of. The lights do turn on, and they can be set to glow in set patterns, activate for specific apps, or trigger for notifications and calls. The problem is that like last year's 11 Pro , the cooling system itself uses fluorescent blue liquid, which the lights have to work against. Blue or white lighting just makes it look more blue, green turns out turquoise, and red or orange lights mostly produce colored bubbles swimming in a blue tide. The liquid- … Read the full story at The Verge. ]]>
+
+### Rivian spinoff Also wants to reinvent the wheel — but first, it has to ship
+2026-11-03T07:00:00-05:00 — https://www.theverge.com/transportation/1024747/rivian-spinoff-also-chris-yu-interview-ebike-production-ramp
+
+Chris Yu, president of Also, stands behind the TM-B electric bike at the company's headquarters in Palo Alto, California, in October 2025. | Photo: Jason Henry / Bloomberg via Getty Images When Rivian quietly spun off its micromobility brand, Also, a lot of observers wondered if the luxury EV maker had bitten off more than it can chew. Chris Yu insists that's not the case. Yu, a Stanford aeronautics PhD and former CTO at Specialized, runs the startup as an independent business that counts Rivian as a minority shareholder. Under his lead, Also rolled out the TM-B - a quirky, modular e-bike with a raft of unique features, including a swappable top frame, USB-C chargeable battery, a built-in screen, a series hybrid pedal-by-wire system, and proprietary "Dream Ride" software. There's also the TM-Q, an electric four-wheeler aimed … Read the full story at The Verge. ]]>
+
+### Apple is ‘not able to predict’ when it ll have enough iPhone Duos to go around
+2026-11-02T17:56:11-05:00 — https://www.theverge.com/tech/1024915/apple-iphone-duo-supply-chain-constraints
+
+Apple CEO John Ternus doesn't have a timeline for when iPhone Duo supply constraints could lift. During an interview with Reuters , Ternus said the company is "working hard to get it to as many customers as quickly as possible, but at this point, we're not able to predict when supply and demand will be in balance." Apple launched its first foldable last month for $1,999, featuring a 5.4 outer display and 7.6-inch inner screen. Preorders for the iPhone Duo quickly sold out, with some shipments expected to arrive in 2027. Apple also made a limited number of iPhone Duo models available in-store at launch. In his interview with Reuters , Ternu … Read the full story at The Verge. ]]>
+
 ### Apple set an iPhone sales record even without a new standard iPhone
 2026-11-02T17:02:36-05:00 — https://www.theverge.com/tech/1024748/apple-q4-2026-iphone-sales-earnings
 
-Apple had a record-breaking quarter for iPhone sales - despite not releasing a standard model during its latest refresh. In its fourth-quarter earnings report released on Monday, Apple says it earned $57.58 billion in iPhone revenue, marking a 17 percent jump from the same time last year. The increase in revenue follows the launch of Apple's iPhone 18 lineup in September, which included a pricier iPhone 18 Pro and Pro Max model. The company raised prices across its older models at the same time. Apple also took the wraps off its first folding phone, the iPhone Duo , but its preorder sales aren't included in this earnings report. Like other … Read the full story at The Verge. ]]>
+Apple had a record-breaking quarter for iPhone sales - despite not releasing a standard model during its latest refresh. In its fourth-quarter earnings report released on Monday, Apple says it earned $57.58 billion in iPhone revenue, a 17 percent jump from the same time last year. The increase in revenue follows the launch of Apple's iPhone 18 lineup in September, which included a pricier iPhone 18 Pro and Pro Max model. The company raised prices across its older models at the same time. Apple also took the wraps off its first folding phone, the iPhone Duo , but its preorder sales aren't included in this earnings report. Like other device-m … Read the full story at The Verge. ]]>
 
 ### Meta will end Quest 2 OS updates in 2027
 2026-11-02T16:04:20-05:00 — https://www.theverge.com/tech/1024835/meta-vr-quest-2-pro-os-end-updates
 
 Meta is planning to release the last OS update for its Quest 2 and Quest Pro VR headsets by March 2027, the company announced today . The last OS update for those devices is planned to be v213, and after that, Meta will continue to ship security patches and critical bug fixes through the end of 2027. Apps that support the Quest 2 or Quest Pro can also be submitted through December 2027, Meta says. Meta is calling the Quest 3 and 3S "now the baseline for Meta VR gamers." The company is announcing this shift ahead of the planned release of its new VR Glasses , which are set to launch sometime in spring 2027. "Quest 2 and Quest Pro laid the fou … Read the full story at The Verge. ]]>
 
-### One of Google s Android partners turned 1.3 million set-top boxes into a botnet
+### One of Google’s Android partners turned 1.3 million set-top boxes into a botnet
 2026-11-02T15:37:49-05:00 — https://www.theverge.com/1024807/google-botnet-android-tv-shut-down
 
 A current Videostrong Android TV device. Google says one of its Android manufacturing partners secretly built a backdoor in 1.3 million devices and turned them into a botnet. The company says it has now dismantled the backdoor and "cut ties" with the manufacturer, the Shenzhen, China-based Videostrong Technology Co., which has been banned from building or selling certified Android devices or supplying software for them. The infected devices were used without owners' knowledge for "malicious activity," like ad fraud, data exfiltration, and routing unauthorized network traffic. Google claims the "backdoor and botnet were intentionally developed, deployed, and operated for financial … Read the full story at The Verge. ]]>
@@ -82,24 +107,34 @@ Ford vowed to never sell customer driving data to third-party data brokers as pa
 ### Anthropic clamps down on Claude’s AI video game clones
 2026-11-02T13:56:02-05:00 — https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones
 
-Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to recreate existing video games, as reported by Tom's Hardware . Retro gaming is currently being overrun with AI-made decompilations, recompilations, and ports , but while Anthropic will still let people use Claude Code to make games, it doesn't want people to use it for direct clones. Last week, a user on X posted a screenshot allegedly showing two new sentences added to Claude Code's system prompt: "Do build original games, games in a genre, and games from the user's own designs and assets. Don't build a recreation of a specific existing game, even if … Read the full story at The Verge. ]]>
-
-### Xbox s former COO has ‘serious concerns’ about her abrupt departure
-2026-11-02T13:43:24-05:00 — https://www.theverge.com/news/1024649/xbox-chief-operating-officer-helen-chiang-depature-comments
-
-Xbox's former chief operating officer, Helen Chiang, suddenly left Microsoft less than two weeks ago after being promoted into the role in July. I wrote in my Notepad newsletter last week that it seemed very weird for Chiang to suddenly depart Microsoft after 21 years with a surprisingly short memo from Xbox CEO Asha Sharma. Now, Chiang says she has "serious concerns" about how she was treated. In a lengthy LinkedIn post - entitled "clarity is kindness," a reference to Sharma's WSJ profile - Chiang doesn't dispute that she was fired, but she doesn't say why she was let go. Eurogamer reported last month that Chiang had been "terminated for p … Read the full story at The Verge. ]]>
-
-### OpenAI pitches data center power plants as a way to protect nearby areas
-2026-11-02T13:01:30-05:00 — https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program
-
-In an announcement on Monday , OpenAI says it will pilot its "Grid Protectors Program" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power during extreme weather or emergencies, enough to power air conditioners in around 700,000 homes. The announcement comes as opposition to data centers spreads across the US, in response to massive projects that have begun development and construction, frequently with little or no input from local residents. In Utah, residents protested after Box Elder County commissioners signed off on a data center expected to consume more than double … Read the full story at The Verge. ]]>
-
-### The New York Times sues Brave web browser for AI scraping and bypassing paywalls
-2026-11-02T12:51:19-05:00 — https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times
-
-The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass their paywalls, as reported by Reuters . According to a complaint filed by the New York Daily News , the Chicago Tribune , and the Orlando Sentinel , Brave Software has monetized its index of scraped websites by, in part, providing AI companies with paid access to "real-time online content from the Brave Index." The AI companies then use that index to train their models, access content to "respond to specific user queries," or both. Brave has allege … Read the full story at The Verge. ]]>
+Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-create existing video games, as reported by Tom's Hardware . Retro gaming is currently being overrun with AI-made decompilations, recompilations, and ports , but while Anthropic will still let people use Claude Code to make games, it doesn't want people to use it for direct clones. Last week, a user on X posted a screenshot allegedly showing two new sentences added to Claude Code's system prompt: "Do build original games, games in a genre, and games from the user's own designs and assets. Don't build a recreation of a specific existing game, even if … Read the full story at The Verge. ]]>
 
 ## Tom's Hardware
+
+### AI chip smugglers exploit trade control loophole to bring banned HBM from South Korea into China — expensive memory chips packaged with cheap, unsanctioned processors to become legal exports
+Tue, 03 Nov 2026 12:04:32 +0000 — https://www.tomshardware.com/tech-industry/semiconductors/ai-chip-smugglers-exploit-trade-control-loophole-to-bring-banned-hbm-from-south-korea-into-china-expensive-memory-chips-packaged-with-cheap-unsanctioned-processors-to-become-legal-exports
+
+A memory smuggler has detailed how he gets export-controlled HBM chips from South Korea into China using a loophole. According to The Information , the smuggler owns a chip design firm that build cheap, low-performing processors that fall under the U.S. and South Korea’s export controls. They are then paired with expensive HBM from Samsung and SK hynix, that, on their own, are banned for export to China. But because export control rules only look at the performance of the server processor and not at the other components attached to it, this allows the HBM chips attached inside them to slip under the radar and make their way into China. Go deeper with TH Premium: Taiwan, trade, and tariffs (Image credit: tsmc) While the U.S. flip-flops on chip sanctions, China is building its own chip supply market The state of China's decade-long semiconductor push Huawei Ascend NPU roadmap examined China's CXMT targets 30% DRAM memory market share by 2030 with sixth mega-fab China's latest round of rare-earth export controls explained It’s not a risk-free operation, though. Once the mediocre processors with high-end memory chips land in Hong Kong and are smuggled across the border into Shenzhen in the luggage of commuters that cross between the two regions daily, they end up in workshops where technicians heat up the boards to soften the solder, gingerly lift the crucial memory chips, and discard the rest of the components. Despite having a high failure rate, the high price of HBM chips make
+
+### Steam Survey shockwaves felt as proportion of 32GB RAM systems drops by more than 5% — the percentage of PC gamers with 1TB+ total storage also shrunk by nearly 5%
+Tue, 03 Nov 2026 12:00:00 +0000 — https://www.tomshardware.com/pc-components/ram/steam-survey-shockwaves-felt-as-proportion-of-32gb-ram-systems-drops-by-more-than-5-percent-the-percentage-of-pc-gamers-with-1tb-total-storage-also-shrunk-by-nearly-5-percent
+
+The latest Steam Survey appears to show that gamers blessed with systems packing 32GB or more RAM and 1TB or more storage are a dwindling breed. This survey is posted without comment by Valve, as usual, but appears to show a significant proportional rise in gamers using 8GB and 16GB RAM PCs, which occurs largely at the expense of the 32GB brigade. The latest stats also show a noticeable increase in storage capacity poverty in the last month. Are the symptoms of the AI industry-induced components crunch now becoming evident among the PC gaming public? Steam Survey Steam Survey The AI-pocalypse delivered components crunch has been in the headlines for months but it is still jarring to see it impact the vast PC gaming landscape. When we’ve browsed desktop and laptop PCs for the best gaming PC deals over the past months, the trend is clear. Systems that look like they are designed for gamers or enthusiasts are now frequently fitted with just 16GB of RAM as standard, and also feature smaller storage devices that one might have expected. But to see the Steam Survey suggesting that the share of 32GB systems has now collapsed by -5.16% is startling. Only last month, 32GB was the most popular configuration among gamers according to the same survey. RAM is probably the hardest-hit component segment of AI-driven demand so far. We maintain a RAM price tracking page at Tom’s Hardware and the current state of the market means that DIYers or upgraders need to spend about $250 for 16GB DDR5 
+
+### Developer manages to run Windows 11 26H2 with just 128MB of RAM, just 3.1% of recommended minimum — stripped-down installation can access Desktop, File Explorer, and Notepad
+Tue, 03 Nov 2026 11:30:00 +0000 — https://www.tomshardware.com/software/windows/developer-manages-to-run-windows-11-26h2-with-just-128mb-of-ram-just-3-1-percent-of-recommended-minimum-stripped-down-installation-can-access-desktop-file-explorer-and-notepad
+
+NTDEV, the popular developer behind the Tiny11 project, has once again pushed the limits of just how little hardware is required to run Windows 11. In a video shared on YouTube, the developer claims to have successfully booted the latest Windows 11 26H2 on a system with just 128MB of RAM. Despite severe memory constraints, the heavily stripped-down installation manages to load the Desktop and File Explorer, access the Start menu, and even run the classic Notepad app. While it is an impressive achievement, the developer acknowledges that the system is "painfully slow," making this more of a technical experiment than a practical way to run Windows 11 on older hardware. According to Microsoft’s official requirements, Windows 11 requires at least 4GB of RAM, meaning NTDEV's latest experiment uses just 3.125% of the recommended minimum. The developer has not shared a detailed breakdown of every component removed or disabled to achieve the result, but the project builds on years of experimentation with stripped-down Windows installations. This is not NTDEV's first attempt at pushing Windows 11 beyond its usual hardware limitations. Back in 2023, the developer managed to get the operating system running with only 176MB of RAM by extensively trimming its system components, drivers, and background services. That experiment relied on an IDE storage interface to reduce the number of drivers required, and sacrificed the standard Windows desktop environment. Last month, the developer show
+
+### Grab a huge $1,229 saving on this 18-inch Alienware gaming laptop with an RTX 5070
+Tue, 03 Nov 2026 11:06:59 +0000 — https://www.tomshardware.com/laptops/gaming-laptops/grab-a-huge-usd1-229-saving-on-this-18-inch-alienware-gaming-laptop-with-an-rtx-5070-area-51-machine-packs-a-24-core-intel-cpu-32gb-ddr5-and-a-1tb-ssd-for-usd2-449-99
+
+There's an eye-catching saving of $1,229 available right now on an RTX 5070 gaming laptop, thanks to Woot. This 18-inch Alienware Area-51 gaming laptop is down to $2,449.99 , a 33% saving that makes it a steal in the current market. ● Grab this gaming laptop deal at Woot! While the specs aren't easily found on the page, the images on the listing do confirm the RAM and storage you're getting with this laptop. For the CPU, it's the Intel Core Ultra 9 275HX. It's a 24-core powerhouse with eight performance cores and 16 efficiency cores, with a max boost clock speed of 5.4 GHz. This is a high spec laptop CPU that'll ensure no bottlenecks at the highest resolutions. It's also used in a couple of our best gaming laptop picks, including the best choice overall, the Razer Blade 18. Area-51 gaming laptop (RTX 5070): was $3679 now $2449.99 A powerful 18-inch gaming laptop with 300Hz LCD display for gaming at 1600p. It ships with the 24-core Intel Core Ultra 9 275HX, Nvidia GeForce RTX 5070, 32GB DDR5, and a 1TB SSD. View Deal This is a laptop, so the display you're getting here is important. You're getting an 18-inch LCD display with a whopping 300Hz refresh rate. The top resolution on this panel is 2,560 x 1,600, and the specs in this build should mean you're able to use the highest graphics presets when playing at 1600p. This model is rated for 500 nits of brightness, too. To play games at 1600p, though, you're going to need to take advantage of this Alienware laptop's Nvidia GeForce
+
+### Creator says Amazon closed his account after he tried to buy seven Nvidia DGX Sparks
+Tue, 03 Nov 2026 11:00:00 +0000 — https://www.tomshardware.com/desktops/mini-pcs/amazon-closes-ai-creators-account-after-he-attempts-to-buy-seven-nvidia-dgx-spark-mini-pcs-epic-ceo-tim-sweeney-says-his-regular-orders-were-canceled-before-arrival-after-he-tried-to-buy-two-gpus
+
+AI creator Nick Saraev says on X that Amazon closed his account after he tried to buy seven Nvidia DGX Spark AI mini-PCs. The closure email cites a verification process and gives no reason. Epic CEO Tim Sweeney chimed in that his regular orders would go through, then get canceled before arrival, after he tried to buy two GPUs. Update: Amazon just closed my account.Buying even modest amounts of compute immediately puts you on a watchlist. Be careful! November 1, 2026 Saraev puts it plainly that “Amazon just closed my account” and that “Buying even modest amounts of compute immediately puts you on a watchlist.” He was “4 orders deep,” and Amazon will no longer allow him to buy DGX Sparks. The shared screenshots indicate those orders were all canceled, with each stating, “Your order was canceled. You have not been charged for this order.” Although he does not give a unit count, the screenshots indicate he tried to buy seven DGX Sparks in total. All show the same listing, with 128GB of memory and 4TB of storage. Amazon’s support account did respond to his earlier post, about three hours before his closure post, offering a review. The shared email shows that Amazon had “made the final decision” to close his account after review; no reason was given. However, it did mention “previous attempts to verify your account,” and he says he did go through the verification process, but seven DGX Sparks is a significant amount that might draw suspicion. Either way, Amazon’s Conditions of Use 
 
 ### OpenAI considers rebranding data centers to 'AI compute campuses" as data center backlash intensifies
 Mon, 02 Nov 2026 19:15:31 +0000 — https://www.tomshardware.com/tech-industry/data-centers/openai-considers-rebranding-data-centers-to-ai-compute-campuses-as-data-center-backlash-intensifies-company-reportedly-sees-2028-presidential-election-becoming-an-ai-issue
@@ -136,32 +171,37 @@ Mon, 02 Nov 2026 14:34:50 +0000 — https://www.tomshardware.com/monitors/gaming
 
 A Redditor by the name of /u/antisocialnae describes their Asus TUF VG258QM 280Hz gaming monitor as "the best $280 [they] ever spent" after it blocked a bullet that passed through the wall of their home, nearly striking them directly as they were playing some "late-night Call of Duty ." Asus has responded to the post with a promise to investigate, though no confirmation of a replacement monitor just yet. It probably doesn't need explaining that the only reason the plastic-and-plastic monitor was able to stop a bullet is that it had already passed through the exterior wall of the home, and that monitors are generally not ideal for sheltering from gunfire. Best $280 I ever spent! from r/ASUS But even still, it's a wonderful tale, especially given the TUF branding of the display. TUF technically stands for "The Ultimate Force" , but most TUF gear is actually subjected to U.S. Department of Defense MIL-STD-810H testing protocols, including shock & drop tests, vibration tests, high-and-low temperature tests, humidity, sand and dust ingress, and more. That sand and dust ingress protection could be important given the sheetrock powder all over the back of his rig. What Asus doesn't test for is bullet ingress , which would be quite a thing. While it wouldn't actually be that hard to build, it's difficult to imagine the circumstances where someone would specifically select for that when buying a display. Three photos showing a bullet hole on the exterior of the home, the interior wall
 
-### Apple finally has a touchscreen MacBook. Why now?
-Mon, 02 Nov 2026 14:00:00 +0000 — https://www.tomshardware.com/laptops/macbooks/apple-finally-has-a-touchscreen-macbook-why-now
-
-Last week, Apple finally brought two new display technologies to the MacBook Pro: OLED and touch. For the former, it was just a matter of time; Apple has been using OLED in the iPhone and Apple Watch for years, and also just brought it to the iPad Mini. But touch has never felt like a sure thing. While many of Apple's most successful products have relied on touch: the iPhone, the iPad, the Apple Watch, and some late-stage iPods all featured touchscreens. But until now, it never made its way to Apple's laptops. Former Apple CEO Steve Jobs' words are infamous: "It's ergonomically terrible," he said of touchscreen laptops in 2010, describing how "your arm wants to fall off" due to fatigue. "Touch surfaces want to be horizontal," he added. Since then, touchscreens have become ubiquitous on Windows PCs and Chromebooks. Outside of the Touch Bar, which was ultimately reversed because Mac users were not fans, Apple hasn't had a real touchscreen on the Mac. That changed, as the company announced 14-inch and 16-inch MacBook Pros with "PROLED XDR" displays with, yes, touch support. The devices are also lighter than existing MacBook Pros, have updated speaker systems, and, yes, are more expensive. Apple eschewed touch on its laptops for years. But it seems, however, that at least some Mac owners disagreed. "Apple tends not to move to a new technology until it can bring to market a differentiated product," Tom Mainelli, group vice president of device and consumer research at IDC, told Tom
-
-### Nvidia Brev security breach may have exposed SSH keys used to access customer VMs
-Mon, 02 Nov 2026 14:00:00 +0000 — https://www.tomshardware.com/tech-industry/cyber-security/nvidia-brev-security-breach-may-have-exposed-ssh-keys-used-to-access-customer-vms-investigation-finds-unauthorized-activity-spanning-16-days-but-no-evidence-of-misuse
-
-Hackers have struck Nvidia again, this time targeting its BREV cloud development platform, with users reporting unauthorized activity between October 4 and October 20. According to a notification sent to affected customers, some accounts may have been exposed. The company said it had investigated the incident and identified unidentified activity on the platform, adding that information stored on the platform may have been exposed to malicious actors. The said information included the SHH key set up by Brev. The company has already replaced the affected SHH keys and updated customer machines with new ones but says they found no evidence of improper use. “We are writing to inform you that Nvidia Corporation has experienced a security incident that may have affected the security of your data," the notification reads. “Our analysis determined that your information from our Brev network may have been affected. This SSH key has since been rotated, and your instances have been updated with the replacement key.” However, the company fell short of explaining how the attackers gained access, or whether anyone attempted to use the compromised data. Moreover, it has not disclosed whether customer data or workloads were accessed. SSH is a protocol used to establish a secure connection between ‘virtual machines’ or remote computers working together. Developers or system administrators can use it to manage remote servers, transfer files, and execute commands without needing physical access 
-
-### AI model gets a 32-bit RISC-V CPU compiled directly into its weights, then runs DOOM on it
-Mon, 02 Nov 2026 13:30:00 +0000 — https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-engineer-successfully-compiles-a-32-bit-risc-v-cpu-in-qwen-3-5-4b-llm-inserted-directly-into-its-weights-built-in-cpu-can-run-processor-arithmetic-operations-code-and-of-course-doom
-
-AI engineer Divyansh Agrawal has revealed the Qwenputer . Described in its most basic terms, Qwenputer is an experimental blend of the stock Qwen 3.5 4B AI LLM with a 32-bit RISC-V CPU compiled and inserted directly into its weights. In use, Qwenputer can run processor arithmetic operations – or even run C and MicroPython code on its built-in CPU, eschewing any external runtime or tool use. Moreover, it can run Doom , albeit very slowly. You can see the Qwenputer running Doom on its RISC-V CPU by expanding the tweet below. QWenputer by @divagr1925 is so cool! but... can it run DOOM? Ofc yes! E1M1 on the RISC-V CPU compiled into Qwen3.5-4B weights. will opensource too https://t.co/hEa46rD6CJ October 29, 2026 The implementation of Qwenputer raises some interesting concepts and solutions. For example, the developer used Qwen’s Gated DeltaNet (GND) state as RAM, which Agrawal reckons is “a pretty neat trick.” They admit that using these ‘fast weights’ as RAM isn’t an original concept, but modifying Qwen 3.5 this way does seem to be a first. Unlike traditional LLM creation, adding a ‘CPU’ doesn’t involve training. This RISC-V CPU implementation “is 11 transformer layers in front of Qwen's own, and none of their weights are learned: a compiler computes every one,” it is explained. Agrawal boasts that Qwenputer’s built-in CPU “passes the official riscv-tests, its programs match qemu, and it has run 18 million instructions free-running without a single error.” The developer stresses 
-
-### Google data center wins approval in Minnesota after protests delay council vote twice
-Mon, 02 Nov 2026 13:00:00 +0000 — https://www.tomshardware.com/tech-industry/data-centers/google-data-center-wins-approval-in-minnesota-after-protests-delay-council-vote-twice-200-acre-project-moves-forward-despite-opposition-from-local-residents-tech-giant-scales-down-project-and-drops-usd80-million-tax-break-request
-
-Google has secured approval for a proposed data center in Hermantown, Minnesota, following a unanimous vote by the city council, MPR News reports. The decision, reached on Friday, October 30, clears a major hurdle for the company following at least two postponed meetings and hours of public opposition, though the project still faces lawsuits and a separate inquiry into its electricity supply. The proposed development could cover just over 200 acres in a rural residential area outside Duluth with three data center buildings spanning approximately 1.66 million square feet. Go deeper with TH Premium: AI and data centers (Image credit: Microsoft) The data center cooling state of play The custom AI ASIC state of play America’s AI chip rules keep changing — and the rest of the world is paying the price GTC 2026: Ian Buck press Q&A transcript — VP of Hyperscale and HPC speaks out on shelving CPX and shipping LPU decode this year Demand for data center CPUs has surged, and AI agents are responsible The council approved a development agreement, a special use permit, and provisions for decommissioning the site if construction is abandoned or the facility eventually closes. The meeting, which was capped at 85 people and offered a livestream, ended shortly before midnight, with some criticizing the attendance restriction. Council member John Geisler, however, clarified the move, noting that the decision concerned local land use application rather than the wide debate over artificial inte
-
-### Triple your Nintendo Switch 2's storage for just $99
-Mon, 02 Nov 2026 12:54:57 +0000 — https://www.tomshardware.com/pc-components/microsd-cards/triple-your-nintendo-switch-2s-storage-for-just-usd99-save-usd50-on-this-ultra-fast-512gb-samsung-p9-microsd-card-for-a-limited-time-only
-
-As prices soar, you'll want to pick up a bargain on storage when you can find it. For a limited time only, you can pick up a 512GB Samsung P9 microSD Express card for just $99.99 at Amazon . This price brings it back down to its original MSRP and means you're saving $50 compared to its current list price. This is the perfect option for a Nintendo Switch 2 owner looking to boost their storage for new games. ● Check out this Samsung deal at Amazon The Samsung P9 is one of the best microSD Express cards you can buy right now, delivering ultra-fast sequential read speeds of up to 800 MB/s. Those speeds mean it's a great option for installing games and playing them on your Switch 2 without gameplay lag. Write speeds aren't shared, but in this class and capacity, you can usually expect up to 300 MB/s. P9 512GB: was $149.99 now $99.99 The Samsung P9 is a microSD Express card that offers great performance and reliability for its price. The 512GB model is currently priced at its original MSRP of $99.99. View Deal You'll want the highest possible write speeds, but for a Switch 2 owner, 300 MB/s is still going to be fast enough to install new games and updates without huge waiting times. The high speeds you're seeing here will mean you won't have too big a bottleneck compared to installing directly onto the Switch 2's internal storage. That said, these speeds make the Samsung P9 Express up to four times faster than a typical UHS-I microSD card. It also ships with features to help get th
-
 ## Phoronix
+
+### The Linux Kernel Preparing To Remove The Last Of Its MMX Optimized Code
+Tue, 03 Nov 2026 06:18:16 -0500 — https://www.phoronix.com/news/Linux-Dropping-Last-MMX-Opt
+
+For what will likely be merged to the Linux 7.5 kernel, the mainline kernel is preparing to drop its last optimization its been carrying for far outdated MMX processors. This affects the likes of Intel Pentium MMX and Pentium II processors running modern software with up-to-date kernels when Linux 7.5 is released in 2027...
+
+### Intel Compute Runtime Continues Prepping For GPU D Series, OpenCL LEO for Nova Lake P
+Tue, 03 Nov 2026 05:52:14 -0500 — https://www.phoronix.com/news/Intel-Compute-26.40.40196.8
+
+Released today was the Intel Compute Runtime 26.40.40196.8 as the newest version of their open-source GPU compute stack for both Windows and Linux systems...
+
+### SUSE Laying Off 10% Of Its Workforce Due To AI & Automation
+Tue, 03 Nov 2026 05:31:00 -0500 — https://www.phoronix.com/news/SUSE-Layoffs-10p-AI
+
+Bavarian-based enterprise Linux distribution vendor SUSE is laying off 10% of its global workforce as a result of AI and automation...
+
+### GCC 17 Compiler Merges Support For AVX10V1AUX
+Tue, 03 Nov 2026 05:22:12 -0500 — https://www.phoronix.com/news/GCC-17-Merges-AVX10V1AUX
+
+Landing today into the GCC 17 compiler codebase is initial support for AVX10V1AUX as the auxillary updates to AVX10.1 that are out of the cross-vendor AI Compute Extensions "ACE" initiative between AMD and Intel...
+
+### Intel Brings RPL-M/RPL-P SoundWire To Upstream Linux For Raptor Lake Powered Automobiles
+Mon, 02 Nov 2026 20:22:44 -0500 — https://www.phoronix.com/news/Intel-SoundWire-Raptor-Lake
+
+Intel today posted a set of patches for bringing SoundWire support in the upstream Intel AVS driver for Raptor Lake. While Intel SoundWire activities are not new, I was curious to see them focusing on Raptor Lake improvements in 2026 for what will then go into a 2027 Linux kernel version...
+
+### AerynOS 2026.11 Released With New Installer Option, Other Improvements
+Mon, 02 Nov 2026 19:40:38 -0500 — https://www.phoronix.com/news/AerynOS-2026.11
+
+AerynOS 2026.11 was released today along with a lengthy blog post highlighting the recent development work on this original Linux distribution...
 
 ### Radeon RADV Vulkan Driver Adopts An LLM Policy
 Mon, 02 Nov 2026 06:16:22 -0500 — https://www.phoronix.com/news/RADV-Adopts-LLM-Policy
@@ -193,37 +233,57 @@ Sun, 01 Nov 2026 16:51:34 -0500 — https://www.phoronix.com/news/Linux-7.4-rc1
 
 Even with Linus Torvalds having been on holiday, Linux 7.4-rc1 is out today on-schedule for capping off the Linux 7.4 merge window...
 
-### Kwi Being Developed As New KDE Terminal Emulator With 3x To 35x Performance
-Sun, 01 Nov 2026 08:41:39 -0500 — https://www.phoronix.com/news/KDE-Kwi-Terminal-Emulator
-
-A new KDE terminal emulator is in development as a modern alternative to Konsole. Kwi is this new terminal app being built atop the Ghostty library...
-
-### The Linux 7.4 Merge Window Is Easily The Largest In Kernel History
-Sun, 01 Nov 2026 07:00:11 -0500 — https://www.phoronix.com/news/Linux-7.4-Massive-Window
-
-After writing this morning with some stats about the size of the Linux 7.4 merge window and the kernel's source tree approaching 42 million lines, I was curious to run some numbers for putting the size of the merge window into perspective against the major kernel releases of the past 15 years. This shows the definite recent uptick due to AI/LLM activity...
-
-### OverlayFS Sees Many Fixes Thanks To AI Code Review
-Sun, 01 Nov 2026 06:37:07 -0500 — https://www.phoronix.com/news/OverlayFS-Many-Fixes
-
-Merged this weekend for Linux 7.4 and also marked for back-porting to current stable kernel versions are a number of fixes to the OverlayFS union mount file-system...
-
-### AI Use In The Linux Kernel, Microsoft Defender On Linux & Other October Highlights
-Sun, 01 Nov 2026 05:54:04 -0500 — https://www.phoronix.com/news/October-2026-Highlights
-
-October brought the releases of Linux 7.3, Ubuntu 26.10, the KDE Plasma 6.8 desktop, and a wealth of other open-source software releases. The expanding use of AI/LLMs within Linux kernel development also made for interesting discussions in October. Microsoft bringing their Defender software to the Linux desktop was perhaps the biggest surprise out of October. Here is a look back at the past month...
-
-### Linux s Perf Python Scripts More Robust & Faster With Linux 7.4
-Sun, 01 Nov 2026 05:38:55 -0500 — https://www.phoronix.com/news/Linux-7.4-Perf-Tools
-
-Merged this weekend to Linux 7.4 Git were all of the perf subsystem tooling updates. Most notable to these tooling updates for dealing with performance counters and more on Linux is an overhaul to the Python code...
-
-### Linux 7.4 Merge Window Saw Nearly 20k Commits, Source Tree Approaching 42 Million Lines
-Sun, 01 Nov 2026 05:28:22 -0500 — https://www.phoronix.com/news/Linux-7.4-Merge-Window
-
-Linux 7.3 started out just under 41 million lines in total in the kernel source tree. In the end the Linux v7.3 tag came in at 41,019,555 lines as measured by cloc while now with Linux 7.4 we are inching ever closer to 42 million lines. On a Git commit basis, the Linux 7.4 merge window has been the busiest on record...
-
 ## The Register
+
+### Broadcom denied names of cloud providers backing VMware merger challenge
+Tue, 03 Nov 2026 11:00:00 +0000 — https://www.theregister.com/virtualization/2026/11/03/broadcom-denied-names-of-cloud-providers-backing-vmware-merger-challenge/5307178
+
+Euro cloud trade association CISPE can keep the identities of members backing its VMware merger challenge confidential from Broadcom following a ruling by the EU General Court. Cloud Infrastructure Services Providers in Europe filed an action last year seeking to annul the European Commission's approval of Broadcom's acquisition of the cloud and virtualization giant. CISPE believes the Commission erred in allowing the purchase to go ahead without imposing any conditions on Broadcom to protect the many European cloud providers and their customers who depend on VMware's software. Broadcom sought access to redacted information identifying members supporting the action, arguing that it needed the information to challenge the action's admissibility. CISPE says the ruling allows the case to proceed without disclosing those identities to Broadcom. "It is a procedural ruling on confidentiality rather than a decision on the substance of the case, but it removes the immediate obstacle to the action moving forward," a CISPE spokesperson told The Register . CISPE argued that identifying the members, which are or have been VMware customers, would expose them to a significant risk of retaliation because of Broadcom's market power. Those members had supplied information about their commercial relationships with VMware. As far as the case itself goes, CISPE says it warned the Commission that Broadcom would use VMware's pre-eminent position in the private cloud market to rewrite licensing ter
+
+### UK.gov lacks understanding of climate impact, says watchdog
+Tue, 03 Nov 2026 10:15:00 +0000 — https://www.theregister.com/public-sector/2026/11/03/ukgov-lacks-understanding-of-climate-impact-says-watchdog/5306918
+
+Public bodies in the UK expect higher operating costs and energy charges as a result of climate changes and the transition to lower carbon energy, but few have a good picture of the risks, according to government auditors. A new report from the National Audit Office (NAO) says some public bodies expect financial impact from the risks they identified, although bodies were often not able to cost these – even approximately. "Bodies anticipate costs to arise from damage to assets and infrastructure, driven by physical damage from extreme weather, as well as from chronic shifts to higher temperatures and more precipitation. Bodies also expect higher maintenance and repair costs, potential asset upgrades, and transition costs. Many bodies expect increased operating costs, including energy charges. Bodies controlling significant property or infrastructure are particularly concerned with decarbonization and adaptation costs," the report stated. His Majesty’s Treasury (HMT) has set out rules for climate-related financial disclosure in larger central government bodies' annual reports, which produced their first set of reports for the 2025-26 financial year. Other rules for disclosure have been in place since 2022. However, the NAO found [PDF] that understanding of the risks in the impact of climate change – increasing temperatures, higher risk of flooding, higher winds and longer droughts – was poor, as was insight into costs of moving to a low-carbon economy. "Bodies did not articulat
+
+### Raspberry Pi hikes prices again, barely a month after the last round
+Tue, 03 Nov 2026 09:30:00 +0000 — https://www.theregister.com/personal-tech/2026/11/03/raspberry-pi-hikes-prices-again-barely-a-month-after-the-last-round/5307004
+
+Raspberry Pi has announced yet another round of price hikes, this time adding $80 to the cost of its 16GB Pi 5, which now sells for more than three times its original launch price. The latest bump, announced by Raspberry Pi boss Eben Upton, takes the 16GB Pi 5 to a whopping $385. The 16GB Compute Module 5 variants are also getting $40 more expensive, although the Raspberry Pi 500+, which packs the same amount of RAM, has escaped this particular round. Upton blamed a familiar culprit: soaring memory costs, worsened by a lack of alternative suppliers for 16GB DRAM and ongoing shortages of other components. "Unfortunately, a lack of alternative supply for 16GB DRAM, compounded by other ongoing component shortages, means we now need to make further price increases on some of our highest-density products," Upton wrote. It's becoming an expensive habit for Raspberry Pi customers. The 16GB Pi 5 cost $120 when it launched in January 2025, which seems almost reasonable now. Raspberry Pi added $25 in December, another $60 in February, and a further $100 in April . With today's $80 increase, buyers are being asked to cough up $265 more than they were less than two years ago, a price hike of 221 percent. And it's barely been a month since Raspberry Pi raised prices on its 2GB Pi 4 and Pi 5 models by $12.50 apiece, taking them to $67.50 and $77.50 respectively. The repeated markups come despite Raspberry Pi reporting record first-half results in September. Revenue jumped 90 percent to $25
+
+### Everyone has the file. Nobody has the right version
+Tue, 03 Nov 2026 09:00:00 +0000 — https://www.theregister.com/storage/2026/11/03/sponsored-everyone-has-the-file-nobody-has-the-right-version/5306650
+
+Distributed teams need to collaborate on shared information, but duplicated files, delays, and competing versions keep getting in the way. Picture a video production team with editors in different cities. One person updates a project file, another keeps working from an earlier copy, and a third waits for a large transfer to finish. When teams need to collaborate on large files across locations, traditional storage and file-sharing arrangements introduce friction precisely where people expect technology to help. Collaboration shouldn't require detective work The hard part isn't merely moving a file. It's knowing who has the authoritative copy, when changes are available, and whether somebody else is still working on an outdated version. Consider a game studio preparing a build for review. A designer exports an updated asset, but a colleague pulls an older version from a synced folder. The mistake only becomes obvious when the pieces are assembled. The team must trace the mismatch, resend files, and repeat work. Sync-and-download workflows depend on a chain of uploads, downloads, and decisions about which copy is current. Under deadline pressure, that chain breaks. Delayed access means missed handoffs; duplicated files mean extra checking and sometimes rework. For IT, each workaround creates another question: where does the data live, who can access it, and how do teams maintain consistent controls? Adding another collaboration application doesn't resolve those underlying quest
+
+### Forget retraining - AI can now tweak another AI's weights
+Tue, 03 Nov 2026 08:15:00 +0000 — https://www.theregister.com/ai-and-ml/2026/11/03/forget-retraining-ai-can-now-tweak-another-ais-weights/5307105
+
+The outputs of AI models are the result of a complex interplay between neurons, weights, training, and inference, and are therefore difficult to follow. But in some ways they're starting to look more like open books. Recent work by Anthropic safety fellow Joshua Fonseca Rivera has revealed how certain neurons in a neural network can be associated with a specific persona . Now, computer scientists from MIT's Computer Science and Artificial Intelligence Laboratory (CSAIL) have found that frontier AI models like OpenAI's GPT-6 Astra can rewrite the weights of another model directly, as opposed to indirectly through training, and alter their behavior. "We find early signs that frontier LLMs are surprisingly good at natively reading, writing, and reasoning about neural network weights," said Rikiya Takehi, a PhD student at MIT CSAIL, in a social media post . "Instead of training, models may treat raw weights like readable, editable code: diagnosing failures and patching them directly." To demonstrate that, Takehi and colleagues Jayden Teoh, Alex Zhang, and Omar Khattab asked GPT-6 Astra to edit Qwen3.5-0.8B weights to make it better at math. Astra changed only 0.016 percent of the model's weights, reducing its reasoning loops and improving its math performance by as much as sixfold on the MATH-500 benchmark, while boosting its instruction-following score on the IFEval benchmark roughly threefold. There was no training using gradient descent ; Astra just revised the numerical value
+
+### Open models can do 90% of agentic work at a twentieth of the cost of a frontier LLM: Gartner
+Tue, 03 Nov 2026 06:19:50 +0000 — https://www.theregister.com/ai-and-ml/2026/11/03/open-models-can-do-90-of-agentic-work-at-a-twentieth-of-the-cost-of-a-frontier-llm-gartner/5307132
+
+For-profit model-makers, many of which are spending billions on AI infrastructure, will be chasing revenue from just ten percent of steps involved in agentic AI workflows, according to analyst firm Gartner. “Nine in 10 agent workflow steps are routine, and open-weight models handle them at parity for a quarter of the price of the cheapest closed model,” the firm’s senior director Mark Petty and group vice president Raymond Paquet wrote last week in new document titled “Open-Weight Models Will Run 90% of Enterprise Agentic Workflow Steps.” “Typical operational workflows involve hundreds of routine executions, such as classification, tool calling, passing, validating and reconciling data,” the pair observe, before suggesting open-weight models “can handle hundreds of these routine steps for every one that needs frontier reasoning.” “Against the cheapest closed model at the same score, the open model costs a quarter as much. Against a frontier model run on every step, it costs as little as a twentieth,” the pair add. Those are the best-case numbers, because the analysts admit “Current open models can be more verbose and retry more often, so the saving per task against a frontier model is closer to five or six times.” That’s still a lovely saving, but the analysts rate it as the welcome by-product of moving to open models rather than an end in itself. “Years of workflow history are a large part of what an acquirer pays for in a SaaS company and every routine step sent to a fronti
+
+### Architect creates open source replacement for VM migration tool VMware has hidden
+Tue, 03 Nov 2026 04:45:59 +0000 — https://www.theregister.com/virtualization/2026/11/03/architect-creates-open-source-replacement-for-vm-migration-tool-vmware-has-hidden/5307124
+
+A cloud architect has created an open source alternative to VMware’s Virtual Disk Development Kit (VDDK), which the virtualization giant recently withdrew from public downloads. VMware describes VDDK as “a set of libraries and utilities that enable software developers to create applications that can access and manipulate virtual disks” and “a valuable tool for developers of storage and backup applications.” Users, along with VMware’s rivals, had another use for VDDK: migrating VMs to alternative virtualization platforms. In August, VMware restricted access to VDDK downloads to its partners, meaning VMware customers couldn’t access the tool and some of its rivals’ migration tools became less effective. Cloud architect Andrija Panić decided to do something about it. “Many tools that have nothing in common except VMware use the same small library to read a virtual machine’s disks: virt-v2v and nbdkit, the importers in Forklift/MTV, Proxmox VE and Apache CloudStack, and countless in-house scripts,” he told The Register by email. “When public VDDK downloads ended, all of them became harder to install and run.” “I didn’t think it was fair that people’s ability to move or protect their own data should depend on a download page.” He describes the project as “an independent drop-in for libvixDiskLib.so.8.0.3, the disk library that VMware backup and migration tools load to read virtual disks. It was written from scratch, using only public documentation and black-box testing, and contai
+
+### Toyota shows off SoC that stores model weights and its OS on integrated memory
+Tue, 03 Nov 2026 03:25:32 +0000 — https://www.theregister.com/systems/2026/11/03/toyota-shows-off-soc-that-stores-model-weights-and-its-os-on-integrated-memory/5307117
+
+Japanese carmaker Toyota has decided to have a crack at the market for AI processors. Toyota is the major shareholder in a company called AISIN, a manufacturer of automotive components. Both companies are aware that cars are increasingly reliant on tech like image recognition, and that robotics and other forms of “physical AI” will need parts that overlap with cars. AISIN thinks existing chips aren’t a good fit for such roles, because they rely on external memory to store AI models and then generate a lot of traffic between a processor and the model. That traffic, the company contends, makes image recognition and other on-device uses of AI less effective. DRAM is also currently vastly expensive. The company’s response is a system-on-chip built on a 16nm FinFET process, an Arm Cortex A53 dual-core CPU, plus an Arm MaliG31 GPU. The chip includes built-in STT-MRAM, which stores both model weights and an operating system. AISIN and its research partners at Tohoku University say that approach means the chip can go from power-on to kernel startup in 65.7 milliseconds – 38 times faster than is possible if using external memory – and run the Tiny YOLOv3 object detection algorithm on the chip. “To effectively utilize the limited on-chip memory capacity, a hybrid multiplication architecture combining 8-bit and 16-bit multiplication was developed” according to a machine translation of Tohoku University’s announcement [PDF]. “By combining 16x16, 16x8, and 8x8 bit multiplication, the amou
+
+### Anthropic's compute tab could top $1T as Q3 revenue nears $17B
+Mon, 02 Nov 2026 23:25:00 +0000 — https://www.theregister.com/ai-and-ml/2026/11/02/anthropics-compute-tab-could-top-1t-as-q3-revenue-nears-17b/5307089
+
+Anthropic has published a regulatory filing revealing nearly $900 billion in compute and infrastructure commitments, with additional estimated payments potentially pushing the total beyond $1 trillion. The Monday filing reports that Anthropic expects to pay nearly $70 billion in contractual obligations by September 2027, with a total of roughly $447.5 billion in commitments expected to be incurred by the end of 2030. That's assuming of course its revenues continue their upward trajectory, which the prospectus warns is far from guaranteed. "In the nine months ended September 30, 2026, our revenue was $33.2 billion, representing a year-over-year growth rate of 1,206%," the prospectus reads. "We do not expect our revenue will continue to grow at comparable rates, and we cannot assure you that it will continue to grow at all." "Our ability to meet the substantial and growing financial obligations of these requirements to secure compute depends on our ability to generate significant revenue growth," the filing reads. Which is to say, if Anthropic's revenues don't grow faster than its compute commitments, it could end up falling into a nasty spiral. And while Anthropic has several options, including debt and equity financing, relying on these long term could dilute existing shareholders or force the company to borrow on unfavorable terms. Every IPO filing reads a bit like this because no company can guarantee eternal success and growth. A lot of this filing's language, as damning a
+
+### Max-severity bug in widely used OT programming tool exploited to deliver Linux malware
+Mon, 02 Nov 2026 22:55:17 +0000 — https://www.theregister.com/security/2026/11/02/max-severity-bug-in-widely-used-ot-programming-tool-exploited-to-deliver-linux-malware/5307086
+
+Unknown criminals are exploiting a maximum-severity vulnerability in Node-RED, a flow-based programming tool that is widely used in critical infrastructure, to deploy a flow that downloads and runs a Linux bot. Node-RED is commonly used for workflow automation in industrial control systems (ICS) and operational technology (OT) environments. It’s built on top of Node.js and is used in commercial products including Siemens SIMATIC IoT2050 . In August, Siemens assigned the vulnerability identifier – CVE-2026-58115 – to describe the bug and explain its perfect 10-out-of-10 CVSS rating. Affected Siemens devices do not enforce authentication on the Node-RED HTTP interface, allowing unauthenticated access to programming nodes that can execute system commands on the device. This means unauthenticated remote attackers can create malicious flows, which is what VulnCheck researchers began documenting last Friday. “On October 30, 2026, one of our canaries caught an attacker exploiting CVE-2026-58115,” VulnCheck researcher Patrick Garrity warned in a Monday advisory, adding that two Node-RED built-in nodes make this vulnerability “trivial to weaponize.” One is an inject node, which fires a message either on a schedule or once at startup. The second, an exec node, can run shell commands. “Wire one to the other and the flow executes a command as soon as it is deployed, with no further interaction,” Garrity said. Plus, these exploits come as criminals increasingly look to target internet-exp
 
 ### These smart glasses promise to turn your silent mouth movements into text
 Mon, 02 Nov 2026 21:50:00 +0000 — https://www.theregister.com/offbeat/2026/11/02/these-smart-glasses-promise-to-turn-your-silent-mouth-movements-into-text/5307070
@@ -235,57 +295,47 @@ Mon, 02 Nov 2026 21:12:21 +0000 — https://www.theregister.com/ai-and-ml/2026/1
 
 If AI can find the holes in programming code, it can do the same with legal code, paving the way for chaos. Felix Ringe, a visiting fellow at Stanford Law School’s liftlab and legal scholar, suggests large language models (LLMs) have become potent enough that they could break legal systems by identifying exploitable inconsistencies at scale. "Legal systems encode the foundations of social order in natural language," Ringe and collaborator Linus Folkerts argued in a blog post last week. "Similar to computer systems, the written law can contain vulnerabilities that invite exploitation." Ringe contends that while courts tend to pave over these text vulnerabilities through statutory interpretation, the ability to discover adversarially useful inconsistencies in the law in an automated way risks overwhelming the legal system's ability to bridge the gaps. To buttress his thesis, he points to recent work by other legal scholars that frames laws as vulnerable code, such as " Legal Zero-Days : A Novel Risk Vector for Advanced AI Systems" and " Hardware and Software Bugs in the Legal System " [PDF]. The analogy dates back at least to 1999, with Lawrence Lessig's Code and Other Laws of Cyberspace [PDF] and Code Is Law: On Liberty in Cyberspace . Lessig credits William J. Mitchell, in City of Bits: Space, Place, and the Infobahn (1995), with the idea that code is cyberspace's law, adding that he "drew the metaphor from others as well." Ringe has turned this on its head by proposing that 
 
-### Cops bust botnet of 1.3M infected Android TV boxes
-Mon, 02 Nov 2026 19:03:31 +0000 — https://www.theregister.com/cyber-crime/2026/11/02/cops-bust-botnet-of-13m-infected-android-tv-boxes/5307045
-
-A coalition of private-sector security firms working with Japan’s National Police Agency has disrupted XCPE, a backdoor used to build a massive botnet comprising more than 1.3 million Android devices across more than 200 countries. Google, Lumen, Human Security, Plume, Synthient, and TrendAI participated in the disruption. “We assess with high confidence that the backdoor and botnet were intentionally developed, deployed, and operated for financial gain by Videostrong Technology,” the Google Threat Intelligence Group (GTIG) said in a Monday blog. Videostrong Technology is a hardware manufacturer based in Shenzhen, China. It builds Android devices, including home TV boxes and projectors. According to Google, Videostrong deliberately embedded the XCPE backdoor in device firmware and sold access to criminal affiliates , allowing them to install additional malware modules on devices shipped to unsuspecting customers. When buyers connected these devices to their home networks, the preinstalled backdoor allowed operators to create proxy networks and hide malicious traffic using the customers' internet connections without their knowledge. The firmware’s pre-installed management agent purported to be a standard remote-management client, according to TrendAI. It pulled updates from a GitHub page, and connected to a Message Queuing Telemetry Transport (MQTT) server that gave the operator full remote control of each box, allowing them to install and remove apps, change settings, and pus
-
-### Marvell wants to be a copper topper, bets $115B on photonics leader to push optical networking
-Mon, 02 Nov 2026 18:02:55 +0000 — https://www.theregister.com/systems/2026/11/02/marvell-wants-to-be-a-copper-topper-bets-115b-on-photonics-leader-to-push-optical-networking/5307028
-
-Hoping to dominate the next phase of AI networking, Marvell Technology plans to acquire photonics giant Lumentum in an all-stock deal valued at $115 billion. The move will fill several key gaps in Marvell's photonics portfolio, particularly with regard to high-performance laser sources, optical transceivers, optical circuit switches, and specialized compound semiconductor manufacturing capabilities involving indium phosphide. Higher speed interconnects combined with larger compute domains are the driving forces behind the move to photonics. As interconnects push beyond 400 Gbps per lane, copper interconnects are being pushed to their limit, necessitating denser, hotter rack systems. Optics offer a reprieve from these scaling laws. Traditional copper wire can only maintain a 400 Gbps signal over about 1.25 meters. Every time the per lane speed doubles, the reach is halved. Photonics are largely immune to this and can push that signal over kilometers, enabling infrastructure providers to scale their systems across entire aisles, while also reducing the power and cooling requirements of each individual rack. Due to close in the first half of 2028, the all-stock transaction comes as AI infrastructure builders, including Nvidia and AMD, eye larger rack-scale systems, which will rely heavily on optical interconnects to stitch hundreds and even thousands of GPUs together into a single compute domain for training or inference. At Computex 2026 in Taipei earlier this year, Jensen Huan
-
-### Oracle gobbles $20 billion borrowing limit a week after setting it
-Mon, 02 Nov 2026 17:35:00 +0000 — https://www.theregister.com/paas-and-iaas/2026/11/02/oracle-gobbles-20-billion-borrowing-limit-a-week-after-setting-it/5307014
-
-The week after promising to cap new borrowing at $20 billion until the end of its 2030 financial year, Oracle launched plans to borrow all that in one go. In notices to investors on Monday, Big Red said it is offering bonds worth $10 billion together with $10 billion in shares of its common stock . It said it could use the money for working capital, capital expenditures, contractual obligations, acquisitions, dividends, stock repurchases, debt repayments and other matters. The most likely candidate is financing datacenters, as the tech giant is in the middle of capex binge which saw $55.7 billion spent in fiscal year 2026, which ended in May. The company plans to spend between $90 billion and $95 billion in fiscal 2027. Last week, the company told investors it would limit new borrowing to $20 billion until the end of its financial year 2030, which ends in May that year. It promised to get more revenue from customers by charging for AI usage on top of seat-based subscriptions. CFO Hilary Maxson also told an analysts' event that Big Red would look to borrow the $20 billion during the remainder of fiscal 2027, which ends in May, implying there would be no new borrowing for the following two years. Maxson confirmed this was correct. “That's a real commitment. We don't expect other forms of structured financing or other things using our Oracle credit out in the market,” she said. In July, Oracle said it could face more than $100 million a year in financing costs to guarantee the p
-
-### Ericsson says it can detect, track drones using only mobile networks
-Mon, 02 Nov 2026 17:29:00 +0000 — https://www.theregister.com/networks/2026/11/02/ericsson-says-it-can-detect-track-drones-using-only-mobile-networks/5306958
-
-Ericsson is bringing drone detection to mobile networks, analyzing radio signal reflections to identify and track low-altitude objects. The telecoms infrastructure maker says its Integrated Sensing and Communication (ISAC) tech adds detection to existing mobile networks, closing a security gap in tracking low-flying, fast-moving objects such as drones. Following tests over the past few months, Ericsson says it will introduce the tech commercially in phases. Small-scale, sensing-only pilots with selected customers will start in 2027, followed by broader deployments from 2028. CCS Insight research director Ian Fogg, said told The Register : "While sensing can be used for other things — like tracking boats in a port, traffic patterns or weather conditions — drone detection [in civilian areas] is the most pressing need which cannot easily be solved using other technologies. "Mobile networks are useful as drone detection solutions because their antennas are already covering low elevations, close to ground level where drones often fly, unlike traditional radar." Although it is possible to use 5G networks for sensing, a standards-based 6G method could improve precision by letting different suppliers' base stations "interoperate", alongside a mix of client devices, tracking the "smallest and fastest moving drones in difficult environments," Fogg added. "The new spectrum that should arrive with 6G will also make it easier to deploy sensing on wide channels which further improves detec
-
-### Thieves pilfer environment variables from Trigger AI workflow tool
-Mon, 02 Nov 2026 16:44:30 +0000 — https://www.theregister.com/security/2026/11/02/thieves-pilfer-environment-variables-from-trigger-ai-workflow-tool/5306998
-
-If you're a customer of cloud-hosted AI workflow platform Trigger.dev, take heed, because your environment variables may have been exposed in a security incident disclosed on Sunday. Trigger offered little explanation in its Sunday security incident report , noting that its investigation had identified “exposure across a subset of organizations” and that an attacker had gained unauthorized access to environment variables belonging to those organizations. Whatever exploit was used to gain access has been blocked, the company added, and affected customers have been notified of steps they need to take to prevent further security problems. We likely don't have to tell The Reg readers how important environment variables are in SaaS and cloud services like Trigger. If compromised environment variables contain sensitive credentials, an attacker could basically end up with the keys to the kingdom, potentially gaining access to connected services and digital infrastructure. For those unfamiliar with Trigger.dev, it’s a platform for building AI agents and workflows in TypeScript, but here’s the kicker: Trigger advertises itself as a durable execution platform that handles pesky things like retries, scaling, and keeping long-running tasks going through crashes and redeployments, while providing tools to monitor what those tasks are doing. Trigger, the company’s site notes, can be used to “build durable AI agents that survive refreshes, redeploys, and crashes,” and is ideal for “long-run
-
-### Token thieves costing companies $100K+ per day in illicit LLM charges
-Mon, 02 Nov 2026 16:00:00 +0000 — https://www.theregister.com/security/2026/11/02/token-thieves-costing-companies-100k-per-day-in-illicit-llm-charges/5306967
-
-Victim organizations are losing millions of dollars in token charges as criminals hijack their corporate LLM access to steal expensive computing resources and AI services. These fraudulent charges from resource consumption can exceed $100,000 a day, according to a Monday report by Google's Mandiant incident responders, who saw cumulative charges at some organizations hit $1 million before the victim companies revoked intruders' access. "Whenever possible, threat actors want to use this technology to gain a scale advantage over defenders. They achieve that with agentic tools and by stealing tokens from unwitting third parties,” John Hultquist, chief analyst at Google Threat Intelligence Group, told The Register . “Locking down these resources will not only protect organizations from runaway costs, but also protect the broader community from a deluge of cheap, autonomous attacks.” This tactic of hijacking access to LLMs is called LLMJacking , and it’s been increasing steadily over the past two years. In one extreme case, documented in an August report from CrowdStrike, a token thief sent about 200,000 API requests in just two minutes. In one case detailed in the report, a group Google tracks as UNC6993 illicitly gained access to LLM API keys, then generated additional keys and enabled services within the victim’s cloud projects, racking up $100,000 in charges. The threat intel biz also documented a different token thief subscribing victim accounts to Pay-As-You-Go agreements to
-
-### SUSE to cut one in ten employees because of... AI
-Mon, 02 Nov 2026 15:30:00 +0000 — https://www.theregister.com/software/2026/11/02/suse-to-cut-one-in-ten-employees-because-of-ai/5306950
-
-One in ten employees at SUSE are facing the chop due to "automation and AI," according to a memo dispatched by management at the privately owned open source software biz. In an email to the 1,900 strong workforce on Monday - seen by The Register - CEO Dirk-Peter van Leeuwen, the former Red Hat exec who joined SUSE in March 2023, confirmed the "difficult news." "We are announcing a reduction of SUSE’s global workforce of approximately 10 percent," he said. "These decisions are painful for our people, our culture, and our open source community, but they are necessary for us to adapt and build a sustainable, resilient SUSE for the long term." Van Leeuwen says the business, bought by Swedish private equity provider EQT, decided to cut jobs after scrutinizing its "future strategy, required capabilities, and team structures." The rest of the organization will get a look at the fiscal year 2027 strategy on November 16. He said in the message to staff: "What is clear is that automation and AI are fundamentally shifting how software companies operate. AI capabilities are advancing exponentially, forcing us to radically reimagine our work. We have seen this trend already both inside our sector and in the wider economy. This means that the organizational design and cost base that SUSE is built on today will not carry us forward successfully. "We are adapting. Across SUSE, modern tooling is already changing our daily workflows, enabling teams to move faster with less operational overhead
-
-### Nuclear threats and street brawls: Russia, Ukraine report attacks on their emergency alert apps
-Mon, 02 Nov 2026 14:45:00 +0000 — https://www.theregister.com/security/2026/11/02/nuclear-threats-and-street-brawls-russia-ukraine-report-attacks-on-their-emergency-alert-apps/5306901
-
-Cyberattacks on both Russia’s and Ukraine’s emergency alert apps resulted in fake messages about missile and nuclear strikes broadcast to the public. Officials from both countries confirmed the attacks, which occurred at similar times, on Sunday evening. According to public statements and messages sent via social media, Ukraine’s alert app was hit first, with the country’s Air Force quick to dispel nuclear fears. "The Air Alert app has likely been compromised," it said via Telegram at around 2100 UTC. "There is no radiation threat! Stay calm, follow our messages on our channel!" At around 0030 UTC on Monday, Russia's Ministry of Emergency Situations confirmed the country’s app had also been abused, with fake messages sent to citizens' devices. "Attention! The Russian Ministry of Emergency Situations' mobile app has been subjected to a massive cyberattack, allowing attackers to send fake information to the public," it said, also via Telegram. "Work is currently underway to patch the vulnerability and restore normal operation." The ministry issued an update around 90 minutes later, saying the app was once again functioning normally, and pointing out that an attack on the app was not the same as a compromise of the state’s national alert system. "Citizens are alerted through primary channels: regional and municipal alert systems (sirens, loudspeakers), communication networks (SMS messaging), and television and radio broadcasts. The mobile app is merely an additional, supporting 
-
-### Microsoft's Canada timezone troubles leave admins fixing calendars, pretending they're in Bogota
-Mon, 02 Nov 2026 14:00:00 +0000 — https://www.theregister.com/software/2026/11/02/microsofts-canada-timezone-troubles-leave-admins-fixing-calendars-pretending-theyre-in-bogota/5306934
-
-Microsoft has discovered once again that few things strike fear into the heart of a software engineer quite like a government deciding to fiddle with the clocks. Parts of Canada stopped observing seasonal clock changes on November 1, leaving affected areas of British Columbia, Alberta, and Manitoba permanently on UTC-07:00, UTC-06:00 and UTC-05:00 respectively. Unfortunately, Microsoft's sprawling software empire hasn't entirely caught up. The company has confirmed problems across a chunk of its software estate, leaving some customers facing incorrect times, broken schedules and a collection of workarounds while Redmond catches up. Outlook users have been left with the most homework. Switching to the new Canadian time zones won't automatically update existing calendar entries, meaning that meetings scheduled after November 1 are potentially an hour out of whack. Microsoft advises users to change their Outlook calendar time zone, then update upcoming events and meetings to use it. For meetings involving other people, only the organizer can make the change. Recurring meetings come with an additional treat: changing the time zone resets any previously moved occurrences, which then have to be recreated. Anyone with a calendar full of recurring meetings may wish to put the kettle on first. Microsoft is working on an Exchange Online PowerShell cmdlet to remediate non-recurring meetings, but according to its guidance, that's not due until later this week. A fix for recurring meeting
-
-### Frozen part II: Hackers remotely defrost produce in Euro supermarkets ... again
-Mon, 02 Nov 2026 13:15:00 +0000 — https://www.theregister.com/cyber-crime/2026/11/02/frozen-part-ii-hackers-remotely-defrost-produce-in-euro-supermarkets-again/5306924
-
-The cyberattacks on commercial refrigerators and freezers in Europe continue, as a slew of grocery stores in Belgium, Ireland, Luxembourg, and Sweden report widespread food wastage as a result of miscreants raising the temperatures to highs of 50ºC (122°F). In Belgium, around 40 Delhaize stores were affected after the attackers reportedly switched fridges and freezers into defrost mode overnight, between Sunday and Monday, resulting in stock issues. Diego Louwers, a Proxy Delhaize store manager in Overijse, near Brussels, told RTL Info that the consequences of the cyberattacks were "catastrophic," forcing the store to throw out the entirety of its fresh and frozen products. "We can't have anything worse in our line of work," he said. "We have to throw away all of our merchandise, and it's both heartbreaking and very complicated operationally." A Delhaize spokesperson said it took steps to ensure stores remain stocked, although fresh and frozen products are "temporarily somewhat limited." "On Monday, 2 November, we identified an IT incident affecting the refrigeration systems in several dozen of our stores," they said. "We immediately took the necessary measures to keep our stores operational and ensure that our customers can continue to do their shopping as usual. "In the affected stores, the range of fresh and frozen products is temporarily somewhat limited. Our distribution centres are operating normally, and there has been no disruption to deliveries to our stores. "We are
-
 ## Engadget
+
+### Apple will start mandating age requirements for dating apps
+Tue, 03 Nov 2026 10:32:28 +0000 — https://www.engadget.com/2305017/apple-start-mandating-age-requirements-dating-apps/
+
+Apple developers will have to declare whether their app enables dating between real people and/or AI companions, so the company can apply the proper age rating.
+
+### Apple's latest watchOS 27 beta enables Siri Recap and Live Rewind audio features
+Tue, 03 Nov 2026 09:21:36 +0000 — https://www.engadget.com/2304993/apples-latest-watchos-27-beta-enables-siri-recap-and-live-rewind-audio-features/
+
+First revealed at the company's event in September, Apple's AI-powered Apple Watch features are finally landing in beta.
+
+### This Chinese Android phone brand has launched a Harry Potter collab
+Tue, 03 Nov 2026 01:30:00 +0000 — https://www.engadget.com/2300381/chinese-android-phone-brand-realme-harry-potter-collaboration/
+
+Everything about this latest collectible Android phone is designed to evoke the popular franchise, from its magical packaging to its themed accessories.
+
+### Is it actually safe to charge your iPhone at airport USB ports?
+Tue, 03 Nov 2026 00:30:00 +0000 — https://www.engadget.com/2279347/is-it-safe-to-charge-phone-with-airport-usb-port/
+
+Using a random USB charger can be unsafe, even though the risk is minimal. Thankfully, you have ways to protect your devices.
+
+### The reason why some iPhone calls don't have a decline option, and others do
+Tue, 03 Nov 2026 00:00:00 +0000 — https://www.engadget.com/2300377/some-iphone-calls-decline-option-reason-why/
+
+Sometimes your iPhone lets you decline a call and sometimes it doesn't. Here's why that happens, and a few easy ways to handle the calls you'd rather skip.
+
+### Why it's important to never plug power strips into each other
+Mon, 02 Nov 2026 23:30:00 +0000 — https://www.engadget.com/2300370/why-important-never-plug-power-strip-each-other/
+
+Power strips are lifesavers when you don't have enough outlets to power all of your electronics and some also offer protection from power surges.
+
+### How to use your phone's camera to translate anything
+Mon, 02 Nov 2026 23:00:00 +0000 — https://www.engadget.com/2300368/how-to-use-phone-camera-built-in-translation-feature-google/
+
+With the aid of a quick picture, you can use your phone's camera to translate pretty much any text while you're traveling across the globe.
+
+### How long could HDDs and SSDs remain expensive?
+Mon, 02 Nov 2026 21:00:00 +0000 — https://www.engadget.com/2302215/how-long-hdd-ssd-stay-expensive/
+
+Thanks to shortages of microchips and other computer components, we've been experiencing high prices for years.
 
 ### Casio's new keyboard lets anyone play along to songs without ever hitting a wrong note
 Mon, 02 Nov 2026 19:41:36 +0000 — https://www.engadget.com/2304552/casio-new-keyboard-lets-anyone-play-along-to-songs-without-ever-hitting-a-wrong-note/
@@ -307,47 +357,57 @@ Mon, 02 Nov 2026 19:00:00 +0000 — https://www.engadget.com/2300357/websites-bl
 
 AI agents can be a great tool to help make purchases for you online - but it can become a frustrating problem if the website you're using blocks their access.
 
-### Think twice before putting your gaming console inside a cabinet
-Mon, 02 Nov 2026 18:15:00 +0000 — https://www.engadget.com/2302571/think-twice-before-putting-gaming-console-inside-cabinet/
-
-A cabinet might seem like a convenient spot for your console, but it can't provide enough airflow for the system to run safely.
-
-### SpaceX is reportedly looking at buying Boost Mobile or using its cell network
-Mon, 02 Nov 2026 18:05:52 +0000 — https://www.engadget.com/2304301/spacex-is-reportedly-looking-at-buying-boost-mobile-or-using-its-cell-network/
-
-A potential deal with Boost Mobile could serve as a shortcut to establishing SpaceX as a mobile carrier.
-
-### This Samsung Galaxy problem sadly still exists in 2026, but you can easily fix it
-Mon, 02 Nov 2026 17:45:00 +0000 — https://www.engadget.com/2300355/samsung-galaxy-phones-bloatware-problem-easy-fix/
-
-Your premium Samsung Galaxy phone likely has a bunch of preinstalled software you don't want that just takes up space.
-
-### Gemini could be poking through your emails - here's how to stop it
-Mon, 02 Nov 2026 17:15:00 +0000 — https://www.engadget.com/2300353/google-gemini-poking-through-email-how-to-stop/
-
-Gemini can read your emails, summarize them and draft replies. If you'd rather it didn't, here's what Google actually does with your data and how to opt out.
-
-### One annoying problem with the iPhone Messages app has an easy fix
-Mon, 02 Nov 2026 16:45:00 +0000 — https://www.engadget.com/2300351/one-problem-iphone-messages-additional-options-easy-fix/
-
-Apple's iMessage app offers a lot of useful features and several default apps included in its latest update. However, they may be in an order you dislike.
-
-### What to do if your smart home devices keep disconnecting from Wi-Fi
-Mon, 02 Nov 2026 16:15:00 +0000 — https://www.engadget.com/2300349/smart-home-devices-disconnecting-wifi/
-
-Smart home devices usually won't work properly when they lose Wi-Fi signal, so it's frustrating when they keep disconnecting. Here's why it might be happening.
-
-### Nagoshi Studio, from the creator of the Yakuza series, officially shuts down
-Mon, 02 Nov 2026 16:03:12 +0000 — https://www.engadget.com/2303975/nagoshi-studio-from-the-creator-of-the-yakuza-series-officially-shuts-down/
-
-It's unclear what will happen to the studio's work on Gang of Dragon.
-
-### Google's Ocarina of Time Easter egg is a link to a past when Search wasn't horrible
-Mon, 02 Nov 2026 15:51:36 +0000 — https://www.engadget.com/2303943/googles-ocarina-of-time-easter-egg-is-a-link-to-a-past-when-search-wasnt-horrible/
-
-Turn the clock back to 1998, when the internet was a little more functional.
-
 ## TechCrunch
+
+### Yvonne Bajela is bringing $17M in fresh capital to Europe s startup scene
+Tue, 03 Nov 2026 08:01:00 +0000 — https://techcrunch.com/2026/11/03/yvonne-bajela-is-bringing-17m-in-fresh-capital-to-europes-startup-scene/
+
+Evertrue Capital announces $17M debut fund to back early stage AI and fintech.
+
+### Apple Watch s AI features for rewinding and recapping conversations begin beta testing
+Tue, 03 Nov 2026 07:20:00 +0000 — https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/
+
+Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations.
+
+### Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses
+Tue, 03 Nov 2026 03:30:00 +0000 — https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/
+
+Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.
+
+### Apple may try to increase revenue by doing something with third-party AI apps
+Tue, 03 Nov 2026 01:49:52 +0000 — https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/
+
+Apple hinted at ways that it could spur revenue through third-party "opportunities" during its Monday night earnings call.
+
+### Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them
+Tue, 03 Nov 2026 01:12:55 +0000 — https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/
+
+A Kyiv startup’s pocket-sized, 10-ounce receiver lets Ukrainian troops watch the video feeds of Russian drones, though Russian moves toward digital video and AI-guided drones that emit no signals could make the victory short-lived.
+
+### Y Combinator s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens
+Tue, 03 Nov 2026 00:35:52 +0000 — https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/
+
+Y Combinator Garry Tan has jokingly admitted that he's suffered from "cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on his passion.
+
+### Hinge tests a cheaper plan as users become more fed up paying for dating apps
+Tue, 03 Nov 2026 00:14:51 +0000 — https://techcrunch.com/2026/11/02/hinge-tests-a-cheaper-plan-as-users-become-more-fed-up-paying-for-dating-apps/
+
+At a time when people are increasingly tired of dating apps, Hinge is testing a cheaper subscription plan.
+
+### Apple says it s hard to predict when iPhone Duo constraints will improve
+Mon, 02 Nov 2026 23:25:32 +0000 — https://techcrunch.com/2026/11/02/apple-says-its-hard-to-predict-when-iphone-duo-constraints-will-improve/
+
+Apple says iPhone Duo production is ramping up, but it still can't say when supply will catch up with demand as shipping delays stretch into next year.
+
+### Trajectory raises $45M to make AI model training accessible to nontechnical experts
+Mon, 02 Nov 2026 23:13:53 +0000 — https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/
+
+The one-year-old startup is now valued at $300 million.
+
+### Apple s inventory surges 154% as memory chip costs climb
+Mon, 02 Nov 2026 23:04:57 +0000 — https://techcrunch.com/2026/11/02/apples-inventory-surges-154-as-memory-chip-costs-climb/
+
+Apple says unprecedented memory chip costs will continue to rise, raising questions about future device prices as its inventory climbs to $14.5 billion.
 
 ### Anthropic warns that it s very close to RSI capability, aka self-building AI
 Mon, 02 Nov 2026 22:14:50 +0000 — https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/
@@ -358,54 +418,4 @@ RSI is the point at which AI grows so good at training itself that it spawns a d
 Mon, 02 Nov 2026 19:45:54 +0000 — https://techcrunch.com/2026/11/02/germany-says-lawmakers-iphones-may-have-been-hacked-with-spyware/
 
 German lawmakers and a filmmaker are among the people who received notifications from Apple warning that their phones may have been hacked.
-
-### Web host Squarespace lays off 19% of its employees
-Mon, 02 Nov 2026 19:25:59 +0000 — https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/
-
-The website builder said that the job losses are part of a broader restructuring of its organization.
-
-### New York Times and other outlets sue web browser Brave over alleged content scraping
-Mon, 02 Nov 2026 19:19:17 +0000 — https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/
-
-The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity.
-
-### Snap settles lawsuit accusing platform of fueling teen depression and eating disorders
-Mon, 02 Nov 2026 19:11:49 +0000 — https://techcrunch.com/2026/11/02/snap-settles-lawsuit-accusing-platform-of-fueling-teen-depression-and-eating-disorders/
-
-The plaintiffs said they started using YouTube as young as age 3 and other social media platforms at around age 9 and developed compulsive usage habits that they attributed to features such as autoplay and infinite scrolling.
-
-### In one of the largest deals in tech history, Marvell buys Lumentum for $115B
-Mon, 02 Nov 2026 17:54:11 +0000 — https://techcrunch.com/2026/11/02/in-one-of-the-largest-deals-in-tech-history-marvell-buys-lumentum-for-115b/
-
-Marvell's planned purchase of Lumentum is one of the biggest acquisitions in tech history. And they both have the same strategic investor: Nvidia.
-
-### Readwise takes on Amazon s Kindle and Goodreads with its new app for book lovers
-Mon, 02 Nov 2026 17:49:41 +0000 — https://techcrunch.com/2026/11/02/readwise-takes-on-amazons-kindle-and-goodreads-with-its-new-app-for-book-lovers/
-
-Readwise Books combines an e-book store, reading tracker, detailed reading stats, and AI features in a bid to challenge Amazon's ecosystem.
-
-### SpaceX reportedly wants to buy Boost Mobile to compete with AT T, T-Mobile, and Verizon
-Mon, 02 Nov 2026 16:44:48 +0000 — https://techcrunch.com/2026/11/02/spacex-reportedly-wants-to-buy-boost-mobile-to-compete-with-att-t-mobile-and-verizon/
-
-SpaceX has been looking for new ways to use its Starlink network, and a tie-up with cellular operator Boost Mobile could give it the terrestrial access it needs.
-
-### 42AI comes out of stealth with $62.5M and a world model that can predict human behavior
-Mon, 02 Nov 2026 16:30:00 +0000 — https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/
-
-Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?
-
-### Elon Musk throttles Grok Bot limits due to unsustainably high costs
-Mon, 02 Nov 2026 16:23:21 +0000 — https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/
-
-Musk recently referred to Grok Bot as having "the fastest growth of a product that I've ever seen in my life."
-
-### Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition
-Mon, 02 Nov 2026 15:00:00 +0000 — https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/
-
-Two startups tackling the data center water problem are joining forces in a $16 million deal.
-
-### Ninja’s first-ever microwave just replaced two of my kitchen appliances at once
-Mon, 02 Nov 2026 14:42:38 +0000 — https://techcrunch.com/2026/11/02/ninjas-first-ever-microwave-just-replaced-two-of-my-kitchen-appliances-at-once/
-
-The Ninja Crispi Microwave stands out for its FusionCrisp technology, which combines the speed of a microwave with the crispy results you'd expect from an air fryer.
 

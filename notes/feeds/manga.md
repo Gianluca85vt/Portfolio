@@ -1,6 +1,36 @@
-# Manga — harvested 2026-11-02T22:27:45.838Z
+# Manga — harvested 2026-11-03T12:21:19.925Z
 
 ## Anime News Network
+
+### The Iceblade Sorcerer Shall Rule the World Season 2 Unveils 5 Cast Members
+Tue, 03 Nov 2026 05:01:33 -0500 — https://www.animenewsnetwork.com/news/2026-11-03/the-iceblade-sorcerer-shall-rule-the-world-season-2-unveils-5-cast-members/.243478
+
+Yūki Wakai, Toshiyuki Morikawa, Tetsu Inada, Daiki Hamano, Riona Imaizumi join anime's cast from episode 5 on Thursday
+
+### Live-Action Quiztopia Series Unveils Trailer, Key Art
+Mon, 02 Nov 2026 22:45:56 -0500 — https://www.animenewsnetwork.com/news/2026-11-02/live-action-quiztopia-series-unveils-trailer-key-art/.243460
+
+Series debuting on Netflix on December 17 with scenes with 8,000 extras
+
+### Urban Myth Dissolution Center Manga Ends
+Mon, 02 Nov 2026 19:30:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-02/urban-myth-dissolution-center-manga-ends/.243452
+
+Manga adaptation launched on April 2025
+
+### Drama Queen Manga Ends in 4 Chapters
+Mon, 02 Nov 2026 18:30:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-02/drama-queen-manga-ends-in-4-chapters/.243455
+
+Kuraku Ichikawa debuted series in December 2024
+
+### Fortnite Game Pays Homage to 1st One Piece Opening in New Video
+Mon, 02 Nov 2026 18:00:00 -0500 — https://www.animenewsnetwork.com/interest/2026-11-02/fortnite-game-pays-homage-to-1st-one-piece-opening-in-new-video/.243436
+
+We are on the cruise!
+
+### Trigun Anime Gets New Novel This Winter
+Mon, 02 Nov 2026 17:30:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-02/trigun-anime-gets-new-novel-this-winter/.243456
+
+Series creator Yasuhiro Nightow, <cite>Trigun Stampede<cite> writer Takehiko Oxi collaborate on <cite>Trigun Manuscript</cite>
 
 ### Television Producer/Distributor Sandy Frank Dies at 97
 Mon, 02 Nov 2026 16:30:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-02/television-producer-distributor-sandy-frank-dies-at-97/.243457
@@ -32,36 +62,6 @@ Mon, 02 Nov 2026 12:39:33 -0500 — https://www.animenewsnetwork.com/convention/
 
 With a delicate balance of high-stakes action and wacky comedy, this new season of <i>Reincarnated as a Sword</i> has Ishihara doing what he does best.
 
-### We Are Aliens Film Wins Award at Hawai'i Int'l Film Festival
-Mon, 02 Nov 2026 12:30:34 -0500 — https://www.animenewsnetwork.com/news/2026-11-02/we-are-aliens-film-wins-award-at-hawaii-intl-film-festival/.243448
-
-Film won Kau Ka Hōkū Award, honoring international filmmaker's 1st/2nd feature
-
-### From Far Away ‒ Episode 5
-Mon, 02 Nov 2026 12:30:00 -0500 — https://www.animenewsnetwork.com/review/from-far-away/episode-5/.243449
-
-Noriko’s barely been at Gaya’s for a day when a man with a knife attacks her. Definitely safer than being with Izark.
-
-### The Forsaken Saintess and Her Foodie Roadtrip in Another World Anime Series Review
-Mon, 02 Nov 2026 12:00:00 -0500 — https://www.animenewsnetwork.com/review/the-forsaken-saintess-and-her-foodie-roadtrip-in-another-world/anime-series/.243146
-
-It seems appropriate that a show with “foodie” in the title should try to have its cake and eat it too.
-
-### New 'Nippon Anime Awards' Event Announced for November 2027
-Mon, 02 Nov 2026 11:40:18 -0500 — https://www.animenewsnetwork.com/news/2026-11-02/new-nippon-anime-awards-event-announced-for-november-2027/.243447
-
-New awards event to take place at SGC Hall Ariake on November 21, 2027
-
-### A Certain Dark Item ‒ Episode 4
-Mon, 02 Nov 2026 11:30:00 -0500 — https://www.animenewsnetwork.com/review/a-certain-dark-item/episode-4/.243428
-
-You know, all things considered, Mugino's a pretty chill boss.
-
-### Voice Actor Ryūji Nakagi Dies at 89
-Mon, 02 Nov 2026 10:50:52 -0500 — https://www.animenewsnetwork.com/news/2026-11-02/voice-actor-ryuji-nakagi-dies-at-89/.243446
-
-Nakagi voiced Gōzō in <cite>Yawara!</cite>, Tokuo in <cite>Oishinbo</cite>, Sakuma in <cite>Patlabor</cite>
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
@@ -78,12 +78,12 @@ Sun, 01 Nov 2026 17:12:15 GMT — https://animecorner.me/interview-voice-actor-c
 
 During Anime Central 2026 we had the incredible opportunity to speak with voice actor&hellip;
 
-### Bocchi the Rock Gets Movie Starring Nijika and Seika in 2027
-Sun, 01 Nov 2026 12:07:27 GMT — https://animecorner.me/bocchi-the-rock-gets-movie-starring-nijika-and-seika-in-2027/
-
-Bocchi the Rock is getting a movie in 2027 that stars Nijika and Seika.&hellip;
-
 ## MyAnimeList News
+
+### Hyouken no Majutsushi ga Sekai wo Suberu II Announces Additional Cast
+Tue, 03 Nov 2026 01:29:45 -0800 — https://myanimelist.net/news/74900432?_location=rss
+
+The official website for the television anime adaptation of Nana Mikoshiba s Hyouken no Majutsushi ga Sekai wo Suberu (The Iceblade Sorcerer Shall Rule the World) light novel announced five additional cast members for the second season on Tuesday. The new season premiered on TBS on October 9 at 1.28 a.m., followed by BS11 at 11.00 p.m. on the same day. Cast Cathy Alphelius: Yuuki Wakai (Kakegurui) Abel Alphelius: Toshiyuki Morikawa (Nohara Hiroshi: Hiru Meshi no Ryuugi) Cyril Alphelius: Te...
 
 ### North American Anime & Manga Releases for November
 Sun, 01 Nov 2026 08:44:16 -0800 — https://myanimelist.net/news/74894552?_location=rss
@@ -105,21 +105,14 @@ Sun, 01 Nov 2026 05:22:13 -0800 — https://myanimelist.net/news/74893965?_locat
 
 The official website of the Bocchi the Rock! anime series announced a new prequel anime movie subtitled Hoshi no Ashiato, revealing the main cast, staff, a teaser visual (pictured), and an announcement promo on Sunday. The movie is scheduled to open in Japanese theaters in 2027. Voice actresses Maaya Uchida (Chuunibyou demo Koi ga Shitai!) and Sayumi Suzushiro (Kaguya-sama wa Kokurasetai) are starring as Seika Ijichi and Nijika Ijichi, respectively. Staff Director: Shin Wakabayashi (Wonder Egg P...
 
-### Rock wa Lady no Tashinami deshite Creator Launches New Manga
-Sun, 01 Nov 2026 01:53:25 -0800 — https://myanimelist.net/news/74893568?_location=rss
-
-The official X (formerly Twitter) account of Comic Heaven announced on Friday that manga creator Hiroshi Fukuda will launch a new manga, titled Koko wa Kagari no Territory (Here is Kagari s territory), in the magazine next issue, scheduled for a November 30 release. Fukuda is best known for Rock wa Lady no Tashinami deshite (Rock Is a Lady s Modesty), which began serializing in Young Animal from October 2022. Hakusensha published the eighth volume in August 2025. Yen Press licensed the...
-
-### Manga Shibatsuki Bukken Gets TV Anime Adaptation in Summer 2027
-Sat, 31 Oct 2026 19:52:56 -0700 — https://myanimelist.net/news/74892534?_location=rss
-
-Publishing company Shueisha announced a television anime adaptation of Esu Omori s Shibatsuki Bukken (Shiba Inu Rooms) on Sunday. An official website also opened and revealed the main staff, cast, a teaser visual (pictured), and a teaser promotional video. The anime is scheduled to air in Summer 2027. Voice actresses Niina Nakabayashi (Awajima Hyakkei) and Mutsumi Tamura (Kobayashi-san Chi no Maid Dragon) are starring as Koori Momose and Muu, respectively. Osamu Yamasaki (Seirei Gensouki, I...
-
 ## Otaku USA
 
 _Nothing in the last 48 hours._
 
 ## Anime UK News
 
-_Nothing in the last 48 hours._
+### Fan/Girl X Call/Boy Volume 1 Review
+Tue, 03 Nov 2026 10:00:55 +0000 — https://animeuknews.net/2026/11/fan-girl-x-call-boy-volume-1-review/
+
+When shut-in otaku Sakurako calls an escort service, she gets more than she could have imagined when she meets Fuji: a handsome young man who is actually just as big a geek as she is! Now this unlikely duo have become friends...?
 
