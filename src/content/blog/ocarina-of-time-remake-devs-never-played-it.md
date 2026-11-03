@@ -34,6 +34,11 @@ decide which elements needed revising.
 
 ## A canon text, handed to people who missed it
 
+<figure>
+  <img src="/img/blog/ocarina-of-time-remake-devs-never-played-it/shot-02.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>Evan-Amos, via Wikimedia Commons (public domain)</figcaption>
+</figure>
+
 Think about what that means in a production sense. Ocarina of Time is the most
 canonised 3D game there is. Every argument about how a third-person action game
 should feel — the camera, the lock-on, the dungeon as a machine you learn —
