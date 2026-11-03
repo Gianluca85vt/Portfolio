@@ -37,6 +37,11 @@ and it was good at being narrow.
 
 ## The archive is the real asset
 
+<figure>
+  <img src="/img/blog/alien-isolation-2-unreal-engine-5-cathode/shot-02.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>Creative Assembly / Sega, via the official Alien: Isolation 2 Steam page</figcaption>
+</figure>
+
 When Fox opened its vaults for the first game, Creative Assembly got roughly
 three terabytes of original production material — behind-the-scenes
 photographs, video, design blueprints, costume shots, a lot of it never
