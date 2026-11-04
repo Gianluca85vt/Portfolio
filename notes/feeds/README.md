@@ -1,4 +1,4 @@
-# Source feeds — harvested 2026-11-04T12:31:58.478Z
+# Source feeds — harvested 2026-11-04T20:32:28.303Z
 
 Fetched by GitHub Actions, which is not behind the writer's egress proxy.
 One file per category. Each item is what the publisher syndicates in its
@@ -8,12 +8,6 @@ own feed: headline, link, date, and their summary.
 > links to the same publication, which is one source read twice. If only
 > one outlet has the story, write it, keep `draft: true`, and say so in
 > the first line of the body. See notes/article-voice.md.
-
-## Broadcasts in the feeds
-
-Already aired, so a round-up rather than a preview:
-
-- GamesIndustry.biz — Gamescom Asia x Thailand Game Show "most international yet", attracting nearly 220,000 visitors from 113 countries
 
 > **A dated showcase gets two articles, not one.** A preview before it
 > airs, carrying the stream link and the start time in Italian time, and a
@@ -35,13 +29,13 @@ silently skipping it.
 
 ## Feeds
 
-- [Manga](manga.md) **owed** — 30 items
+- [Manga](manga.md) **owed** — 33 items
 - [Games](games.md) — 99 items
 - [Tech](tech.md) — 82 items
 - [3D](3d.md) — 14 items
-- [AI](ai.md) — 13 items
+- [AI](ai.md) — 12 items
 - [Film & TV](film-tv.md) — 66 items
 
-Total: 304 items.
+Total: 306 items.
 
 Feeds that did not answer: CGChannel (HTTP 403), VentureBeat AI (HTTP 429).

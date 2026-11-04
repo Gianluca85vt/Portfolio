@@ -1,72 +1,82 @@
-# Manga — harvested 2026-11-04T12:31:58.478Z
+# Manga — harvested 2026-11-04T20:32:28.303Z
 
 ## Anime News Network
+
+### Martial Arts Manhwa Artist Seung-nam Ha Dies at 68
+Wed, 04 Nov 2026 15:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-04/martial-arts-manhwa-artist-seung-nam-ha-dies-at-68/.243512
+
+Ha became 1st Korean comic artist to join Japan Cartoonists Association as full member in 2007
+
+### Pokémon Pokopia Game Adds Expansion Pass DLC Part 2 'Dazzling Decorations' on December 9
+Wed, 04 Nov 2026 12:30:11 -0500 — https://www.animenewsnetwork.com/daily-briefs/2026-11-04/pokemon-pokopia-game-adds-expansion-pass-dlc-part-2-dazzling-decorations-on-december-9/.243522
+
+The official X/Twitter account for the Pokémon franchise announced on Wednesday that the second part of the paid Expansion Pass DLC for Pok&eacute;mon...
+
+### Reincarnated as a Sword Season 2 Anime Reveals Trailer, Visual, Cast for Seedrun Arc
+Wed, 04 Nov 2026 12:00:45 -0500 — https://www.animenewsnetwork.com/news/2026-11-04/reincarnated-as-a-sword-season-2-anime-reveals-trailer-visual-cast-for-seedrun-arc/.243523
+
+Satsuki Kokubu, Yurie Kozakai, Hazuki Ogino, Sayumi Suzushiro, Katsuyuki Konishi join cast
+
+### Castlevania: Belmont's Curse Game Review
+Wed, 04 Nov 2026 12:00:00 -0500 — https://www.animenewsnetwork.com/review/game/nintendo-switch-playstation-5-microsoft-windows-xbox-series-x-and-series-s/castlevania/belmont-curse/.243431
+
+Konami, Evil Empire, and Motion Twin seemed to hit it off on the first date, and decided to give it another shot with a far more ambitious project.
+
+### Yayū Murata Launches Kickstarter for Across the Strange Edge Manga's 2nd Volume, Deluxe Hardcover Omnibus
+Wed, 04 Nov 2026 11:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-04/yayu-murata-launches-kickstarter-for-across-the-strange-edge-manga-2nd-volume-deluxe-hardcover-/.243521
+
+Campaign to raise €7,000 launches on November 19
+
+### Sugar Apple Fairy Tale's Miri Mikawa, Brave10's Kairi Shimotsuki Launch New Manga on November 24
+Wed, 04 Nov 2026 10:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-04/sugar-apple-fairy-tale-miri-mikawa-brave10-kairi-shimotsuki-launch-new-manga-on-november-24/.243510
+
+Mikawa writes, Shimotsuki draws <cite>Ryū no Kuni Gensō</cite> fantasy manga
+
+### Overgeared ‒ Episode 6
+Wed, 04 Nov 2026 09:30:00 -0500 — https://www.animenewsnetwork.com/review/overgeared/episode-6/.243516
+
+If the show is determined to on the unenviable task of crafting Grid into a more likeable person, it sure has a lot it needs to prove.
+
+### Interview: All Things Rakugo with Akane-banashi Lead Voice Actor Anna Nagase
+Wed, 04 Nov 2026 09:00:00 -0500 — https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-anime-expo/interview-all-things-rakugo-with-akane-banashi-lead-voice-actor-anna-nagase/.239696
+
+Rising star Anna Nagase has rapidly established herself as one of modern anime's most compelling voice talents
+
+### Sakamoto Holidays Manga Heads Towards Climax
+Wed, 04 Nov 2026 08:46:36 -0500 — https://www.animenewsnetwork.com/news/2026-11-04/sakamoto-holidays-manga-heads-towards-climax/.243496
+
+<i>Sakamoto Days</i> spinoff series debuted in July 2024
+
+### Nia Liston: The Merciless Maiden ‒ Episode 5
+Wed, 04 Nov 2026 08:30:00 -0500 — https://www.animenewsnetwork.com/review/nia-liston-the-merciless-maiden/episode-5/.243501
+
+From my early childhood sequestering via exceptionalism to world-framing college experiences, <i>Nia Liston</i> depicts some of the most formative moments of my life.
+
+### Even the Student Council Has Its Holes! ‒ Episode 5
+Wed, 04 Nov 2026 07:30:00 -0500 — https://www.animenewsnetwork.com/review/even-the-student-council-has-its-holes/episode-5/.243499
+
+Fans of hot springs antics will be pleased, especially with all the details afforded to OceanVeil subscribers. However, uncensored bathing is not all this episode offers.
 
 ### Reincarnation in the Game World Dan-Katsu Anime's Teaser Reveals More Cast, Theme Songs
 Wed, 04 Nov 2026 04:59:56 -0500 — https://www.animenewsnetwork.com/news/2026-11-04/reincarnation-in-the-game-world-dan-katsu-anime-teaser-reveals-more-cast-theme-songs/.243515
 
 Ayaka Nanase, Kotone Izumi, Hikaru Iida, Chihaya Asakura join cast of January anime
 
-### Butt Detective TV Anime Gets New Episodes Starting Next April
-Tue, 03 Nov 2026 22:57:16 -0500 — https://www.animenewsnetwork.com/news/2026-11-03/butt-detective-tv-anime-gets-new-episodes-starting-next-april/.243508
-
-Previous batch of new episodes debuted on October 3
-
-### Promise Me the Spotlight Anime Unveils Teaser, Main Cast, Staff
-Tue, 03 Nov 2026 22:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-03/promise-me-the-spotlight-anime-unveils-teaser-main-cast-staff/.243469
-
-Haruna Mikawa, Taihi Kimura, Mai Kanno, Yukari Anzai star in studio TEAM TillDawn's anime
-
-### Pero Pero★Sparkles Anime Reveals Cast, Staff, January Debut
-Tue, 03 Nov 2026 21:54:42 -0500 — https://www.animenewsnetwork.com/news/2026-11-03/pero-pero-sparkles-anime-reveals-cast-staff-january-debut/.243506
-
-Yuki Sakakihara, Mai Kanno, Ai Fairouz, Yōhei Azakami star
-
-### Kemono Jihen Manga's Climax Is 'Imminent'
-Tue, 03 Nov 2026 21:42:35 -0500 — https://www.animenewsnetwork.com/news/2026-11-03/kemono-jihen-manga-climax-is-imminent/.243495
-
-Series to end in 26th volume
-
-### Travel Back in Time with Zelda Easter Egg on Google
-Tue, 03 Nov 2026 20:00:00 -0500 — https://www.animenewsnetwork.com/interest/2026-11-03/travel-back-in-time-with-zelda-easter-egg-on-google/.243471
-
-Will you take on the mantle of "Hero of Time?"
-
-### Witch on the Holy Night Film Gets Manga Adaptation
-Tue, 03 Nov 2026 19:56:45 -0500 — https://www.animenewsnetwork.com/news/2026-11-03/witch-on-the-holy-night-film-gets-manga-adaptation/.243494
-
-<i>Shikimori's Not Just a Cutie's</i> Keigo Maki debuts manga on November 11
-
-### Kaeruno Erefante Launches Manga Diary of a Male Porn Star Sequel
-Tue, 03 Nov 2026 19:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-03/kaeruno-erefante-launches-manga-diary-of-a-male-porn-star-sequel/.243477
-
-<cite>AV Danyū Hajimemashita Reiwa-hen</cite> sequel manga launched on October 30
-
-### Otaku Vampire's Love Bite Manga Gets TV Anime
-Tue, 03 Nov 2026 18:41:39 -0500 — https://www.animenewsnetwork.com/news/2026-11-03/otaku-vampire-love-bite-manga-gets-tv-anime/.243498
-
-"Bloody romantic comedy" from Kamisama Kiss creator Julietta Suzuki
-
-### Mashle: Magic and Muscles Manga Gets Live-Action Film on March 19
-Tue, 03 Nov 2026 18:20:53 -0500 — https://www.animenewsnetwork.com/news/2026-11-03/mashle-magic-and-muscles-manga-gets-live-action-film-on-march-19/.243497
-
-Warner Brothers, Fuji TV, Credeus, Toho collaborate on project
-
-### Watari Sakou's Honey Trap Method Manga Ends on December 1
-Tue, 03 Nov 2026 18:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-03/watari-sakou-honey-trap-method-manga-ends-on-december-1/.243466
-
-Spy romance manga launched in March earlier this year
-
-### 'I'm Running for Crown Princess, but All I Want is a Steady Paycheck!' Manga Ends
-Tue, 03 Nov 2026 17:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-03/im-running-for-crown-princess-but-all-i-want-is-a-steady-paycheck-manga-ends/.243474
-
-Makana Watari's manga adaptation of Yuuri Seo's light novels launched in 2019
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Reincarnation in the Game World Dan-Katsu Reveals New Trailer Featuring Additional Cast, Theme Songs
+Wed, 04 Nov 2026 13:05:39 GMT — https://animecorner.me/reincarnation-in-the-game-world-dan-katsu-reveals-new-trailer-featuring-additional-cast-theme-songs/
+
+Reincarnation in the Game World Dan-Katsu: Game Addict Plays "Encouragement for Job Hunting in&hellip;
+
+### Mashle: Magic and Muscles Live-Action Film Adaptation Announced
+Wed, 04 Nov 2026 12:59:27 GMT — https://animecorner.me/mashle-magic-and-muscles-live-action-film-adaptation-announced/
+
+Mashle: Magic and Muscles manga is officially getting a live-action film adaptation, with its Japanese theatrical premiere set for March 19, 2027.
 
 ### My Dress-Up Darling Reveals ¥1.32 Million Life-Size Marin Kitagawa Figure
 Wed, 04 Nov 2026 12:00:03 GMT — https://animecorner.me/my-dress-up-darling-reveals-1-32-million-life-size-marin-kitagawa-figure/
@@ -114,6 +124,11 @@ Tue, 03 Nov 2026 12:52:35 GMT — https://animecorner.me/girls-band-cry-the-movi
 The previously teased Girls Band Cry THE MOVIE revealed a teaser visual and trailer&hellip;
 
 ## MyAnimeList News
+
+### Tensei shitara Ken deshita II Reveals Supporting Cast, Third Promo
+Wed, 04 Nov 2026 08:33:53 -0800 — https://myanimelist.net/news/74904410?_location=rss
+
+The official website of the television anime adaptation of Yuu Tanaka s Tensei shitara Ken deshita (Reincarnated as a Sword) light novel revealed supporting cast, second key visual (pictured), and third promotional video for the "Seedrun Arc" on Thursday. The second season premiered on October 8 at 12.00 a.m. on Tokyo MX, followed by ABC TV, BS Asahi, and AT-X. Cast Valuza: Katsuyuki Konishi (Tongari Boushi no Atelier) Furuto: Satsuki Kokubu (Hoshifuru Oukoku no Nina) Satia: Yurie...
 
 ### Ramen Akeneko 2nd Season Announces New Staff
 Wed, 04 Nov 2026 03:39:25 -0800 — https://myanimelist.net/news/74903763?_location=rss

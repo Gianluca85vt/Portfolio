@@ -1,6 +1,16 @@
-# AI — harvested 2026-11-04T12:31:58.478Z
+# AI — harvested 2026-11-04T20:32:28.303Z
 
 ## OpenAI
+
+### OpenAI to acquire Pierre Computer Company, Inc.
+Wed, 04 Nov 2026 14:30:00 GMT — https://openai.com/index/openai-to-acquire-pierre
+
+OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.
+
+### Daybreak Red is now available in AWS GovCloud (US-East)
+Wed, 04 Nov 2026 07:00:00 GMT — https://openai.com/index/daybreak-red-aws-govcloud
+
+Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.
 
 ### Accelerating engineering for the physical world
 Tue, 03 Nov 2026 12:00:00 GMT — https://openai.com/index/accelerating-engineering-for-the-physical-world
@@ -22,27 +32,10 @@ Tue, 03 Nov 2026 00:00:00 GMT — https://openai.com/index/jill-hazelbaker-chief
 
 Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.
 
-### Scaling Git at OpenAI
-Mon, 02 Nov 2026 15:30:00 GMT — https://openai.com/index/scaling-git-at-openai
-
-How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.
-
-### Introducing the Grid Protectors Program
-Mon, 02 Nov 2026 15:00:00 GMT — https://openai.com/index/grid-protectors-program
-
-OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.
-
-### Preparing our next security sprint to harden OpenAI
-Mon, 02 Nov 2026 18:00:00 GMT — https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai
-
-OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.
-
-### Rewarding defenders with bigger bug bounties
-Mon, 02 Nov 2026 18:00:00 GMT — https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties
-
-OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.
-
 ## Hugging Face
+
+### Dharma Field Extractor: Any Document In, Structured Fields in JSON Out
+Wed, 04 Nov 2026 17:50:10 GMT — https://huggingface.co/blog/Dharma-AI/dharma-field-extractor
 
 ### StateBench: Testing how language models track state changes over long documents
 Tue, 03 Nov 2026 17:15:21 GMT — https://huggingface.co/blog/allenai/statebench
