@@ -17,7 +17,6 @@ artistView:
   misses:
     - "Environment: Starfield's open surfaces are where Creation Engine 2 looks thinnest, and dunes are the same problem with better lighting — long sightlines, few occluders, visible tiling."
     - "Reveal: a logo over sand after eight years says the environment art is not locked, because a studio with a locked biome shows the biome."
-draft: true
 ---
 
 Bethesda left a title card on the internet for eight years and on 3 November it
