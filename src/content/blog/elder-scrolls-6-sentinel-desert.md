@@ -37,6 +37,11 @@ continues and it will be a while before there is more.
 
 ## Hammerfell takes away the trees
 
+<figure>
+  <img src="/img/blog/elder-scrolls-6-sentinel-desert/shot-02.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>Bethesda Game Studios, via the official Starfield Steam page</figcaption>
+</figure>
+
 Every Bethesda world since Oblivion has been held together by clutter. Pines
 and birch in Skyrim, collapsed suburbs in Fallout 4, rock spires and wrecks
 dropped onto Starfield's tiles. The clutter is not decoration. It is the budget.
