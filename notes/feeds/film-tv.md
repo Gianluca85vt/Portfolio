@@ -1,172 +1,177 @@
-# Film & TV — harvested 2026-11-03T20:16:38.433Z
+# Film & TV — harvested 2026-11-04T12:31:58.478Z
 
 ## Variety
 
-### ‘The Elder Scrolls 6’ Title Revealed (Gaming News Roundup)
-Tue, 03 Nov 2026 19:16:47 +0000 — https://variety.com/2026/gaming/news/gaming-news-roundup-november-2-1236937743/
+### Jessica Rothe SXSW Sci-Fi Thriller Imposters Sells to Brainstorm Media for U.S., Racks Up International Deals Ahead of AFM (EXCLUSIVE)
+Wed, 04 Nov 2026 11:00:00 +0000 — https://variety.com/2026/film/markets-festivals/jessica-rothe-sxsw-sci-fi-thriller-imposters-us-distribution-1236938971/
 
-Bethesda Game Studios has officially revealed the subtitle and logo for “The Elder Scrolls 6.” The sixth edition was announced as “Sentinel” alongside a logo reveal in a video message from longtime franchise director Todd Howard as part of Bethesda’s 40th anniversary Tuesday. The game will serve as the followup to “Skyrim,” the 2011 installation [ ]
+“Imposters,” the SXSW 2026 sci-fi thriller from first-time feature director Caleb Phillips, has landed U.S. distribution with Brainstorm Media, which plans to open the film theatrically in early 2027. Jessica Rothe (“River”), Barnett (“Russian Doll”) and Vazquez (“Severance”) lead the cast. Phillips also wrote the screenplay. His short “Other Side of the Box” won awards [ ]
 
-### Netflix Orders YA Drama Prep Based on Curtis Sittenfeld Novel From Nicole Taylor
-Tue, 03 Nov 2026 19:05:33 +0000 — https://variety.com/2026/tv/news/netflix-ya-drama-prep-curtis-sittenfeld-novel-nicole-taylor-1236938734/
+### Hannah Einbinder Breaks Out Haley Stevens Impression After Abdul El-Sayed Michigan Victory
+Wed, 04 Nov 2026 10:49:43 +0000 — https://variety.com/2026/politics/news/hannah-einbinder-haley-stevens-impression-midterm-election-1236939138/
 
-Netflix has given a straight-to-series order to the drama Prep, based on the novel of the same name by Curtis Sittenfeld. The show is officially described as a coming-of-age story about scholarship girl Lee Fiora’s high school years at Ault, a prestigious New England boarding school, and her journey to navigate friendship, crushes and class [ ]
+Hannah Einbinder made good on her promise to debut an impression of Michigan Rep. Haley Stevens if Abdul El-Sayed won the state’s Senate race on Tuesday night. Watching the midterm results roll in from a bar, the Hacks” star promptly posted a video of her Stevens impression following El-Sayed’s victory. “We’re gonna give ’em a [ ]
 
-### James Wan and Jason Blum Unveil New Company Name: Blumhouse Atomic
-Tue, 03 Nov 2026 18:30:01 +0000 — https://variety.com/2026/film/news/james-wan-jason-blum-new-company-name-blumhouse-atomic-1236938695/
+### Milcho Manchevski’s Sister Brother Manhole Cover Wins Top Prize at Tokyo Film Festival
+Wed, 04 Nov 2026 09:48:37 +0000 — https://variety.com/2026/film/festivals/sister-brother-manhole-cover-top-prize-tokyo-film-festival-1236938999/
 
-James Wan and Jason Blum have unveiled a new umbrella title for their merged horror production companies, Blumhouse and Atomic Monster: Blumhouse Atomic. Blumhouse and Atomic Monster will continue to operate as distinct production labels, and their respective creative teams will develop and produce film and television projects under each banner. “When we merged our [ ]
+Milcho Manchevski’s “Sister Brother Manhole Cover,” a comic allegory about two siblings who strip scrap metal from the streets of Skopje, won the Tokyo Grand Prix at the 39th Tokyo International Film Festival on Wednesday. A steady drizzle failed to dampen the spirits of a full house at Hulic Hall for closing night, a gentler [ ]
 
-### What Election Day Commentators Are Saying: Trump Rants, Hasan Piker Wonders if MAGA Cult Is Over and More (Updating)
-Tue, 03 Nov 2026 18:28:33 +0000 — https://variety.com/2026/tv/news/election-day-reactions-hasan-piker-trump-1236938513/
+### Quentin Tarantino Thought He Was ‘Letting Down’ Brad Pitt by Not Directing Cliff Booth Sequel: ‘I Felt Bad About That’
+Wed, 04 Nov 2026 09:37:11 +0000 — https://variety.com/2026/film/news/quentin-tarantino-letting-down-brad-pitt-cliff-booth-sequel-1236939103/
 
-It s Election Day in America, which means that pundits were falling over each other to discuss the day s results as soon as the polls opened. At stake: all 435 seats in the House of Representatives, 35 Senate seats and plenty of high-profile state races. Here s what some of the country s loudest and most influential talkers [ ]
+Quentin Tarantino has admitted that Brad Pitt was on his mind when he stepped away from directing his sequel to Once Upon a Time in Hollywood. “[Pitt] was the one I felt I was really letting down when I didn’t do it,” Tarantino told Empire. “I felt bad about that.” Pitt landed a best supporting [ ]
 
-### Netflix Launches First AI-Branded Content Recommendations Feature on TVs
-Tue, 03 Nov 2026 18:00:00 +0000 — https://variety.com/2026/tv/news/netflix-launches-ai-discover-content-recommendations-1236937769/
+### Dylan Sprouse Says the Only Residual Check He’s Received for ‘The Suite Life of Zack and Cody’ Was ‘Five Cents’: ‘I’m Not Joking’
+Wed, 04 Nov 2026 09:21:20 +0000 — https://variety.com/2026/tv/news/dylan-sprouse-residual-check-suite-life-of-zack-and-cody-1236939089/
 
-Netflix, which has seen viewer engagement slide in recent quarters, is turning to AI for a new feature aimed at spurring users to find something new to watch. The company on Tuesday (Nov. 3) is debuting AI Discover, a new feature on the Netflix TV app, initially to a limited number of subscribers in the [ ]
+Dylan Sprouse revealed that the only residual check he ever received for “The Suite Life of Zack and Cody,” the Disney Channel sitcom that made him and his twin brother Cole stars, was “for five cents,” despite the show s hit status during its three-season run. In an interview on his Disney co-star Phil Lewis “Wildmen” [ ]
 
-### Hinotama: Ball of Fire Review: Gentle, Handsomely Shot Domestic Drama Is a Promising Debut for Yaza Takenoshin
-Tue, 03 Nov 2026 17:56:11 +0000 — https://variety.com/2026/film/reviews/hinotama-ball-of-fire-review-1236938672/
+### Chinese Pop Star Chen Chusheng Commissions 14 Paintings From Artist Li Erpeng for Wasteland of Wonders Vinyl (EXCLUSIVE)
+Wed, 04 Nov 2026 09:00:00 +0000 — https://variety.com/2026/music/news/chinese-pop-star-chen-chusheng-li-erpeng-vinyl-paintings-1236938985/
 
-The early moments of Hinotama: Ball of Fire, the debut feature from young Japanese director Yaza Takenoshin (who graduated from Harvard this past summer), almost move like clockwork, finding a pleasing rhythm in everyday mundanities — matching the repetition of numbers being called out for test papers to a mother having groceries counted at the [ ]
+Chen Chusheng, the Chinese singer-songwriter who won Hunan TV’s “Singer 2025,” has brought in contemporary artist Li Erpeng to paint 14 original works for the vinyl release of his album “Wasteland of Wonders.” On June 9, the day pre-orders opened, QQ Music awarded the vinyl edition its “Double Diamond” sales certification. “I’ve always felt that [ ]
 
-### Just Before Dawn Producer Prevails in Cult Horror Courtroom Drama
-Tue, 03 Nov 2026 17:40:00 +0000 — https://variety.com/2026/film/news/just-before-dawn-cult-horror-courtroom-drama-1236935610/
+### Cristian Mungiu’s Cinematographer Tudor Vladimir Panduru Breaks Down Long Takes on Fjord, R.M.N. at Jakarta World Cinema Masterclass
+Wed, 04 Nov 2026 05:53:52 +0000 — https://variety.com/2026/film/festivals/cristian-mungiu-cinematographer-tudor-vladimir-panduru-long-takes-masterclass-1236939064/
 
-A surreal legal battle unfolded last month in a courtroom in West Palm Beach, Fla., where a retired accountant faced off against a distributor of cult horror DVDs over ownership of a 1981 slasher film. The distributor, David DeFalco, goes by “The Demon and taunted the accountant in a series of unhinged livestream videos, calling [ ]
+Known for his long-time collaboration with Romanian auteur Cristian Mungiu, cinematographer Tudor Vladimir Panduru shared his experience making “Graduation,” “R.M.N.,” “Fjord” and Iraqi director Hasan Hadi’s “The President’s Cake” during his masterclass at Jakarta World Cinema. Benh Zeitlin, the Oscar-nominated director of “Beasts of the Southern Wild,” said he was moderating the session because “we [ ]
 
-### Billy Evans Answers You Can See Everything Burning Questions on Alleged Cocaine Use, Nathan Fielder Regrets and More
-Tue, 03 Nov 2026 17:37:23 +0000 — https://variety.com/2026/film/news/billy-evans-you-can-see-everything-cocaine-nathan-fielder-1236938565/
+### NBCUniversal, Hornbill Capital Back EloElo, Parent of Indian Microdrama Platform Story TV, in $80 Million Funding Round
+Wed, 04 Nov 2026 05:00:00 +0000 — https://variety.com/2026/tv/news/nbcuniversal-microdrama-story-tv-eloelo-80-million-1236938992/
 
-Billy Evans, Elizabeth Holmes romantic partner and the villainous third wheel in Nathan Fielder s You Can See Everything, has taken to social media to answer burning questions about the documentary. In a post on X Monday night, Evans invited viewers to AMA (ask me anything), with the addendum: Needs to be legally permissable [sic]. Asked [ ]
+NBCUniversal and India-focused investment firm Hornbill Capital have co-led an $80 million Series C round in EloElo Group, the Bengaluru-based company behind Indian microdrama platform Story TV. MIT Investment Co. joined the round alongside existing backers Play Ventures, Kalaari Capital, Waterbridge Ventures and Griffin Gaming Partners, among others. The raise takes EloElo’s total funding to [ ]
 
-### Magic Atlas Review: Surreal, Shapeshifting Animation Is a Sometimes Mystifying Technical Marvel
-Tue, 03 Nov 2026 17:20:57 +0000 — https://variety.com/2026/film/reviews/magic-atlas-review-1236938231/
+### Karen Bass and Nithya Raman in Tight Race for L.A. Mayor in Early Returns
+Wed, 04 Nov 2026 04:50:19 +0000 — https://variety.com/2026/politics/news/karen-bass-nithya-raman-l-a-mayor-1236938860/
 
-There’s an increasingly undeniable hunger for the hand-crafted. As discourse around animation becomes more and more absorbed by anaesthetizing questions about AI, it becomes clearer that people who care about the medium are pushing for tactility and foregrounding real texture, materials imprinted with genuine human feeling. This feels especially true of Sun Xun’s Magic Atlas, [ ]
+Karen Bass and Nithya Raman are in a tight race for L.A. mayor in early returns, and the race may not be called for days. At Raman’s election-night event in the plaza of the Greek Theatre, the mood was buoyant as the crowd watched Democrat wins steadily march across the South and East. “I can’t [ ]
 
-### La Bola Negra Becomes Spain’s Third Biggest Spanish Hit Ever as Its Box Office Surges 8% Above Pre-Pandemic Average
-Tue, 03 Nov 2026 17:02:10 +0000 — https://variety.com/2026/film/global/la-bola-negra-spain-2026-box-office-surge-1236936640/
+### Democrats Win House and Senate in Sweeping Rout of GOP
+Wed, 04 Nov 2026 04:37:06 +0000 — https://variety.com/2026/politics/news/midterm-election-results-democrats-win-house-senate-1236938473/
 
-Javier Calvo and Javier Ambrossi’s “La Bola Negra” has become the third highest-grossing Spanish film of all time at Spain’s domestic box office, earning an estimated €36.7 million ($41.0 million) through Nov. 1, according to Rentrak figures. Only Emilio Martínez-Lázaro’s blockbuster comedy “Ocho apellidos vascos” (“Spanish Affair,” $61.8 million) and J.A. Bayona’s disaster survival drama [ ]
+In an outcome seen as a backlash to President Donald Trump, Democrats decisively won control of the U.S. Senate and the House of Representatives in the 2026 midterm elections. The Senate s flip to the Democrats was called by CNN at 11:35 p.m. ET, with the network projecting the party had won at least 51 seats [ ]
 
 ## The Hollywood Reporter
 
-### Prep Series Based on Curtis Sittenfeld Bestseller a Go at Netflix
-Tue, 03 Nov 2026 19:32:02 +0000 — https://www.hollywoodreporter.com/tv/tv-news/netflix-prep-series-curtis-sittenfeld-novel-1236746995/
+### Ulya Director Dives Into His Third Latvian Oscar Contender, Which Stars a Rising Actor as a Female Basketball Legend and Became a Blockbuster
+Wed, 04 Nov 2026 10:01:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/oscars-2027-film-latvia-ulya-basketball-blockbuster-interview-1236745736/
 
-'One Day' creator Nicole Taylor is the showrunner for the YA drama.
+Viesturs Kairišs also shares Herzog and Bergman inspirations for the film, opening Tallinn and starring Kārlis Arnolds Avots as Uljana Semjonova, the first non-U.S. woman in the Basketball Hall of Fame.
 
-### Nicolas Cage Says He s a Little Bit Homeless After Sinkhole Damaged His Malibu Home
-Tue, 03 Nov 2026 19:09:15 +0000 — https://www.hollywoodreporter.com/news/general-news/nicolas-cage-homeless-sinkhole-damaged-malibu-home-1236746872/
+### BAFTA Breakthrough Ted Evans Shares What Sign Language Taught Him About Film – and What s Next After Retreat
+Wed, 04 Nov 2026 09:30:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/2026-bafta-breakthrough-ted-evans-retreat-deaf-film-bsl-1236743428/
 
-"I’m just sort of living in hotels," the Oscar winner shared at Los Angeles Comic Con over the weekend.
+The British writer-director, featured on the 2026 U.K. BAFTA Breakthrough list, supported by Netflix, also tells THR how "I always feel I have two audiences" and about his vision for "sign language cinema."
 
-### Chris Rock Gets Real on Giving Up Porn and Moving Past the Crazy Night of the Oscar Slap
-Tue, 03 Nov 2026 18:53:36 +0000 — https://www.hollywoodreporter.com/news/general-news/chris-rock-interview-oscar-slap-porn-addiction-gq-cover-1236746896/
+### Nithya Raman and Karen Bass Head to Costner Swing Vote’ Territory
+Wed, 04 Nov 2026 08:06:23 +0000 — https://www.hollywoodreporter.com/news/politics-news/nithya-raman-karen-bass-winner-election-results-1236747476/
 
-The 'Misty Green' filmmaker opens up on "crying like a bitch" in therapy, picking up the pieces after his multi-million dollar divorce and cleaning up his vices: "I haven’t watched porn in five, six years."
+Wasn’t it only Florida that was supposed to be this dramatic?
 
-### Jason Blum and James Wan Rename Their Company
-Tue, 03 Nov 2026 18:30:00 +0000 — https://www.hollywoodreporter.com/business/business-news/jason-blum-and-james-wan-blumhouse-atomic-1236746882/
+### Trumper’s Remorse: Voters Look at the Last Two Years and Ask for a Redo
+Wed, 04 Nov 2026 07:26:24 +0000 — https://www.hollywoodreporter.com/news/politics-news/democrats-win-midterms-how-much-results-election-1236747464/
 
-Blumhouse Atomic Monster will now be known as Blumhouse Atomic.
+With a crushing Democratic rout in both the House and Senate, America seems to want to Replayola everything that's happened since 2024.
 
-### How to Stream 2026 Midterm Election News Coverage Online
-Tue, 03 Nov 2026 18:12:05 +0000 — https://www.hollywoodreporter.com/tv/tv-news/watch-midterm-election-results-news-free-cnn-fox-cbs-abc-nbc-2026-1236746837/
+### Kimmel Bashes Trump After Democrats Midterms Tsunami : The Only Ass on His Mind Is the One That Just Got Handed to Him
+Wed, 04 Nov 2026 06:17:01 +0000 — https://www.hollywoodreporter.com/news/politics-news/jimmy-kimmel-bashes-trump-democrats-midterm-election-wins-1236747389/
 
-Election Day is upon us. Here's how to stream dedicated news programming on ABC, NBC, CBS, CNN, Fox News, MS Now and NewsNation without a traditional TV plan.
+The ABC fixture was the first late night host to weigh in on the dramatic election results that included historic wins and the Democrats projected to take control of both chambers of Congress.
 
-### Netflix’s New AI Feature Wants to Know Your Exact Mood
-Tue, 03 Nov 2026 18:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/netflix-ai-discover-tab-mood-1236745968/
+### Ben Shapiro Says 2026 Midterms Were A Wipeout for Republicans : The President Was Kind of on the Ballot
+Wed, 04 Nov 2026 05:38:49 +0000 — https://www.hollywoodreporter.com/news/politics-news/ben-shapiro-2026-midterms-wipeout-republicans-president-ballot-1236747358/
 
-The streamer is launching AI Discover, a new feature to help answer the company's decades-long question: What do subscribers really want to watch?
+The conservative commentator noted Tuesday night, before most of the major race results were called, that "this not an evening to remember."
 
-### Neve Campbell Confirms She s Returning for Scream 8
-Tue, 03 Nov 2026 17:37:58 +0000 — https://www.hollywoodreporter.com/movies/movie-news/scream-8-neve-campbell-confirms-return-1236746818/
+### Hasan Piker Threatens Further Legal Action Against Conservative Pundits He Claims Have Defamed Him
+Wed, 04 Nov 2026 04:38:48 +0000 — https://www.hollywoodreporter.com/news/general-news/hasan-piker-legal-action-conservative-pundits-defamation-1236747327/
 
-The actress has appeared in every installment of the slasher franchise except 'Scream VI,' which she sat out over salary disputes.
+The Twitch streamer's legal team recently filed a $72.5 million defamation lawsuit against CNN contributor Scott Jennings.
 
-### The Cat in the Hat Review: Bill Hader in a Dr. Seuss Adaptation That Captures the Antic Silliness but Misses the Charm
-Tue, 03 Nov 2026 17:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/the-cat-in-the-hat-review-bill-hader-1236746055/
+### Xavier Becerra Defeats Steve Hilton to Become California s First Latino Governor in 150 Years
+Wed, 04 Nov 2026 04:17:59 +0000 — https://www.hollywoodreporter.com/news/politics-news/xavier-becerra-defeats-steve-hilton-california-governor-1236745490/
 
-The voice cast also includes Quinta Brunson, Bowen Yang, America Ferrera, Giancarlo Esposito and Matt Berry.
+The former attorney general cruised to victory. But now he has his work cut out for him.
 
-### Starlog Magazine Returns with First Cover in 17 Years
-Tue, 03 Nov 2026 16:48:33 +0000 — https://www.hollywoodreporter.com/business/business-news/starlog-magazine-returns-with-first-cover-1236746201/
+### Texas Turns Blue: How James Talarico, Gina Hinojosa Broke Dems 36-Year Losing Streak
+Wed, 04 Nov 2026 04:10:28 +0000 — https://www.hollywoodreporter.com/news/politics-news/james-talarico-won-texas-senate-election-1236747140/
 
-The publication, once a fixture of geek culture, will relaunch as an annual offering.
+Why Talarico and Hinojosa managed to flip both Texas’ U.S. Senate seat and governor’s mansion.
 
-### GQ Expands Men of the Year Footprint in L.A.
-Tue, 03 Nov 2026 16:00:00 +0000 — https://www.hollywoodreporter.com/lifestyle/lifestyle-news/gq-men-of-the-year-2026-chris-rock-matt-damon-andrew-garfield-1236745695/
+### Chris Pappas Becomes First Openly Gay Man Elected to Senate
+Wed, 04 Nov 2026 02:57:41 +0000 — https://www.hollywoodreporter.com/news/politics-news/chris-pappas-first-openly-gay-man-us-senate-1236747281/
 
-GQ drafted cover stars Chris Rock, Andrew Garfield and Matt Damon as Men of the Year co-hosts.
+Elsewhere in history-making results from the 2026 midterms, Keisha Lance Bottoms is the first Black woman ever elected governor.
 
 ## Deadline
 
-### Netflix Launches AI Discovery Tool As Test Kitchen For Viewers Seeking Appetizing Content
-Tue, 03 Nov 2026 20:09:30 +0000 — https://deadline.com/2026/11/netflix-ai-discovery-tool-viewers-programming-1237212413/
+### Harry Potter Oxford Street Store Opening Disrupted By Trans Rights Protesters Chanting Blood On Her Hands About J.K. Rowling
+Wed, 04 Nov 2026 12:09:39 +0000 — https://deadline.com/2026/11/harry-potter-oxford-street-store-opening-trans-protest-1237212999/
 
-Netflix has introduced a new tab on its TV app giving a subset of its subscriber base an AI-driven way to discover new programming. AI Discover, as the new offering is known, builds on the streaming giant s previous efforts to serve up recommendations. It invites users to provide input about their mood and interests and [ ]
+Harry Potter fans lining up to enter the franchise s new Oxford Street store in London were greeted by trans rights protesters chanting that J.K. Rowling has blood on her hands. A group of around a dozen protesters stood to the side of the flagship store, wielding megaphones and placards with messages that included: Trans kids [ ]
 
-### Matthew Perry Doc Premieres Atop Netflix s Weekly English TV Rankings; Lupin Part 4 Leads All Series As Non-English Fare Commands Attention
-Tue, 03 Nov 2026 20:02:26 +0000 — https://deadline.com/2026/11/matthew-perry-doc-lupin-part-4-premiere-viewership-netflix-1237212421/
+### Jean-Claude Van Damme Returning To Martial Arts Roots In Yakuza Action Pic Katana For Jeremy Zag The Veterans AFM
+Wed, 04 Nov 2026 11:46:23 +0000 — https://deadline.com/2026/11/jean-claude-van-damme-returning-martial-arts-roots-katana-1237212968/
 
-Friends fans showed up on Netflix last week to watch the streamer s new three-part documentary series on Matthew Perry. The One About Matthew Perry was the top English-language television series on Netflix from October 26 to November 1, gathering 9.5 million views in its first weekend of availability. The series, which is the first in-depth [ ]
+EXCLUSIVE: Action icon Jean-Claude Van Damme is returning to his martial arts roots in Japan-set Yakuza movie Katana, which is being launched for sales by The Veterans ahead of the AFM. Jeremy Zag, the French producer, writer and director best known for creating the hit Miraculous franchise, is behind the film, which will return Van [ ]
 
-### Jimmy Akingbola Signs With Paradigm
-Tue, 03 Nov 2026 19:58:10 +0000 — https://deadline.com/2026/11/jimmy-akingbola-bel-air-paradigm-1237211811/
+### The Assassin Star Keeley Hawes Joins Season 2 Of George Kay s ITV Thriller Gone
+Wed, 04 Nov 2026 11:09:36 +0000 — https://deadline.com/2026/11/itv-gone-season-2-keeley-hawes-eve-myles-george-kay-1237212082/
 
-EXCLUSIVE: Jimmy Akingbola, known best for the fan-favorite role of Geoffrey on Bel-Air, has signed with Paradigm for representation. Akingbola played the Banks family house manager Geoffrey Thompson in 38 episodes of Bel-Air, the reimagining of the classic 1990s sitcom The Fresh Prince of Bel-Air. He ll next be seen in ITV and ZDF‘s upcoming space [ ]
+Keeley Hawes has boarded the second season of ITV thriller Gone from Lupin creator George Kay. Three-time BAFTA nominee Hawes will play Ruth Manning, a pre-eminent and devoted paediatric surgeon working at Bristol s Makeway Hospital, who comes into the crosshairs of DS Annie Cassidy, played by Eve Myles, when it becomes apparent that, for the [ ]
 
-### Chanel Pysnik Departing As Head Of Nonfiction For Prince Harry Meghan Markle’s Archewell Prods.
-Tue, 03 Nov 2026 19:44:15 +0000 — https://deadline.com/2026/11/chanel-pysnik-exits-head-nonfiction-harry-meghan-archewell-1237212368/
+### ‘Ashland’ Trailer: First Look At Wyatt Maw’s Debut Feature Ahead Of DOC NYC
+Wed, 04 Nov 2026 10:42:47 +0000 — https://deadline.com/2026/11/ashland-trailer-wyatt-maw-doc-nyc-1237212981/
 
-EXCLUSIVE: Chanel Pysnik is leaving Prince Harry and Meghan Markle’s Archewell Productions where she served as Head of Nonfiction, Film TV for the past five and a half years. No immediate replacement has been named for Pysnik who joined Archewell Productions in May 2021, less than a year after the company s official launch with [ ]
+EXCLUSIVE: Wyatt Maw makes his feature debut with Ashland, which screens in competition at DOC NYC. Check out the film’s trailer above. Shot on Super 16mm film over the course of eight years, the panoramic portrait explores the hopes and dreams through the traditions, triumphs, and tragedies of a diverse group of people living today [ ]
 
-### Blumhouse Atomic Monster Unveil New Name For Combined Studio
-Tue, 03 Nov 2026 18:45:00 +0000 — https://deadline.com/2026/11/blumhouse-atomic-new-name-jason-blum-james-wan-1237212295/
+### Hannah Einbinder Debuts Perfect Haley Stevens Impression After Abdul El-Sayed Takes Michigan
+Wed, 04 Nov 2026 10:11:52 +0000 — https://deadline.com/2026/11/hannah-einbinder-haley-stevens-impression-abdul-el-sayed-1237212962/
 
-Two years after merging, Jason Blum s Blumhouse and James Wan s Atomic Monster will now call their combined entity Blumhouse Atomic. The producers of Obsession, Backrooms and the Conjuring franchise will continue as distinct production labels with their own creative teams shepherding film and TV projects under each label. Since the merger, Blumhouse Atomic together have [ ]
+Hannah Einbinder has been toasting Abdul El-Sayed s historic Senate race victory in Michigan. The Hacks star debuted what she described as her perfect Haley Stevens impression after the prominent Michigan Democrat switched sides to the Republicans at the eleventh hour, endorsing Mike Rogers. Einbinder teased the impression on her Instagram Stories on Tuesday night: If [ ]
 
-### Netflix Orders Prep YA Series Based On Book From One Day EP Nicole Taylor Gloria Sanchez Prods.
-Tue, 03 Nov 2026 18:30:00 +0000 — https://deadline.com/2026/11/prep-netflix-series-book-nicole-taylor-gloria-sanchez-1237211818/
+### ‘Sister Brother Manhole Cover’ Wins Grand Prix At Tokyo International Film Festival
+Wed, 04 Nov 2026 09:44:16 +0000 — https://deadline.com/2026/11/sister-brother-manhole-cover-tokyo-film-festival-awards-1237212894/
 
-EXCLUSIVE: Netflix is turning to a 2005 book in search for its next YA hit. The streamer has given a straight-to-series order to Prep, an adaptation of Curtis Sittenfeld s bestselling debut novel. The half-hour project, which had been developed internally, comes from Nicole Taylor, head writer and executive producer of Netflix s limited series One Day [ ]
+Sister Brother Manhole Cover, from Macedonian filmmaker Milcho Manchevski, won the the top award at this year’s Tokyo International Film Festival. The film was presented with the Tokyo Grand Prix/The Governor of Tokyo Award, which comes with a cash prize of $19,000 (JYP3M). One of 15 films in Tokyo’s main competition section, it follows a [ ]
 
-### Milo Hutton, Booboo Stewart KaDee Strickland Board Horror Thriller The Thing In The Hall
-Tue, 03 Nov 2026 18:30:00 +0000 — https://deadline.com/2026/11/booboo-stewart-milo-hutton-join-the-thing-in-the-hall-1237212112/
+### Kartik Aaryan To Star In Ladaku With Kabir Khan Directing; Worldwide Release Date Set For 2027
+Wed, 04 Nov 2026 09:15:33 +0000 — https://deadline.com/2026/11/ladaku-karthik-aaryan-kabir-khan-directing-1237212954/
 
-EXCLUSIVE: Milo Hutton (The Night Agent), Booboo Stewart (Twilight franchise) and KaDee Strickland (Private Practice) have boarded The Thing in the Hall, a psychological horror thriller now shooting in Los Angeles. Inspired by E. F. Benson s short story, the feature is the first from writer-director Logan Kishi. The story revolves around Francis Assheton (Stewart), a [ ]
+Kartik Aaryan is to lead Ladaku, a heart-tugging, inspiring move from Kabul Express director Kabir Khan. Birla Studios is leading on production ahead of a June 18, 2027, worldwide theatrical release, with Kabir Khan Entertainment also attached. Aaryan will also make his debut as a producer through his Dopamine Studios, which he launched earlier this [ ]
 
-### Steve Ellis Dies: Everlasting Love Singer Was 76
-Tue, 03 Nov 2026 18:13:01 +0000 — https://deadline.com/2026/11/steve-ellis-dead-1237212331/
+### Star Of Horrible Histories Tracey Ullman s Show Launches Talent Agency For Kids
+Wed, 04 Nov 2026 09:00:00 +0000 — https://deadline.com/2026/11/dominique-moore-dma-talent-agency-horrible-histories-1237212068/
 
-Steve Ellis, singer for the British pop band Love Affair best known for the 1967 hit Everlasting Love, died October 30, of complications from a chronic illness. He was 76. His death was announced on his Facebook page. Ellis lived in Brighton, England, and the family statement notes that he passed peacefully in the presence [ ]
+EXCLUSIVE: Horrible Histories star Dominique Moore has launched a development talent agency for kids. DMA Talent opens with around 10 clients including Waffle s After School Club actor Sienna Grey Moore along with an agent, Geri Spicer, and employees focused on wellbeing and safeguarding. From age six to adulthood, DMA Talent will work with specialists and [ ]
 
-### Black Snow : Travis Fimmel Is Back On Cold Case Trail In Teaser For Season 3; Premiere Date Set In Australia
-Tue, 03 Nov 2026 18:00:00 +0000 — https://deadline.com/2026/11/black-snow-season-3-premiere-date-trailer-travis-fimmel-1237212017/
+### UK s Creative Cities Convention Reveals 2027 Location
+Wed, 04 Nov 2026 09:00:00 +0000 — https://deadline.com/2026/11/creative-cities-convention-2027-glasgow-location-1237212292/
 
-EXCLUSIVE: Travis Fimmel will return as Black Snow investigator James Cormack on New Year s Day. You can see a teaser of Dune: Prophecy actor Fimmel in Black Snow Season 3 above and in first-look pictures below ahead of a January 1 double-episode return for the series on Stan in Australia. AMC Global Media is the [ ]
+The UK s Creative Cities Convention (CCC), a rival to the relocating TV Festival, has revealed its 2027 host city. As the TV Festival moves down south from Scotland after 50 years, the CCC will take place in the Scottish city of Glasgow, backed by Screen Scotland. This will come a few months before a different [ ]
 
-### Lili Taylor Joins The Beast In Me Season 2 Cast
-Tue, 03 Nov 2026 18:00:00 +0000 — https://deadline.com/2026/11/lili-taylor-the-beast-in-me-season-2-1237211569/
+### Molly Vs The Machines Producer Snowstorm Hires Vice Studios Head Of Development Joe Ingham
+Wed, 04 Nov 2026 08:53:27 +0000 — https://deadline.com/2026/11/molly-vs-the-machines-snowstorm-hires-vice-joe-ingham-1237212363/
 
-EXCLUSIVE: Lili Taylor (Outer Range, The Hunger Games: Sunrise on the Reaping) is set as a series regular opposite Claire Danes and John Goodman in the upcoming second season of Netflix’s psychological crime thriller The Beast In Me. The streamer is yet to confirm plot details about Season 2 of The Beast In Me, in [ ]
+EXCLUSIVE: Snowstorm, the production company co-founded by J.K. Rowling s agent Neil Blair and Cow producer Kat Mansoor, has turned to Vice Studios to bolster its team. Snowstorm has hired Joe Ingham, former head of development and executive producer at Vice Studios, as an executive producer. His credits include Ross Kemp: Lost Boys, Deadly Men (Crime [ ]
 
-### Moroccan-Belgian Superhero Picture ‘Atoman’ Secures North American Release AFM
-Tue, 03 Nov 2026 17:30:20 +0000 — https://deadline.com/2026/11/north-african-superhero-atoman-north-american-release-afm-1237212305/
+### Shah Rukh Khan’s ‘King’ To Be Released In International Territories By Phars Film
+Wed, 04 Nov 2026 07:55:23 +0000 — https://deadline.com/2026/11/shah-rukh-khan-king-siddarth-anand-phars-film-1237212918/
 
-EXCLUSIVE: Disrupt Entertainment has acquired all North American distribution rights to North African superhero picture Atoman ahead of an international sales push for the film at the AFM. The Pennsylvania-based company is gearing up to rollout the picture theatrically on at least 100 screens in early 2027 through AMC Theatres and other exhibitors. The sci-fi [ ]
+Phars Film will release Shah Rukh Khan starrer King, directed by Siddarth Anand, in international cinemas on December 24. The film is opening day-and-date with its India release, where Pen Marudhar has distribution rights. Produced by Red Chillies Entertainment in association with Marflix Pictures, King marks the highly-anticipated reunion of Khan and Anand following their [ ]
 
-### Paul W.S. Anderson Sets Film Adaptations Of Kevin J. Anderson Books Nether Station Nether Vortex
-Tue, 03 Nov 2026 17:30:00 +0000 — https://deadline.com/2026/11/paul-ws-anderson-to-direct-nether-station-nether-vortex-1237212142/
+### Nithya Raman Karen Bass In Dead Heat As L.A. Mayor Vote Counting Continues In Nailbiter Election
+Wed, 04 Nov 2026 07:03:48 +0000 — https://deadline.com/2026/11/la-mayor-election-2026-results-1237212620/
 
-EXCLUSIVE: Paul W.S. Anderson, the filmmaker known for his work on six Resident Evil films, is set to direct Nether Station and Nether Vortex, film adaptations of the sci-fi horror books from bestselling author Kevin J. Anderson. The novels follow Cammie Skoura, a brilliant, neurodivergent young scientist aboard a deep-space expedition that uncovers a trail [ ]
+After a campaign that got more personal at times than a Bravo reality series, no one Tuesday night has been elected Mayor of Los Angeles. In a Democrat vs. Democrat race that saw old allies Councilmember Nithya Raman and incumbent Karen Bass face off for many of the same constituents, tonight s results so far reflected [ ]
 
 ## befores & afters
+
+### Laika animator breaks down work on Wildwood
+Tue, 03 Nov 2026 23:14:27 +0000 — https://beforesandafters.com/2026/11/04/laika-animator-breaks-down-work-on-wildwood/
+
+Animator Tilly Fidler goes behind the scenes. The post Laika animator breaks down work on Wildwood appeared first on befores & afters .
 
 ### Coming soon: huge mag on The Mandalorian and Grogu
 Tue, 03 Nov 2026 00:37:00 +0000 — https://beforesandafters.com/2026/11/03/coming-soon-huge-mag-on-the-mandalorian-and-grogu/
@@ -174,6 +179,21 @@ Tue, 03 Nov 2026 00:37:00 +0000 — https://beforesandafters.com/2026/11/03/comi
 Here s a sneak peek at inside the magazine. Coming very soon is the befores afters issue on The Mandalorian and Grogu . Here s just a taste just for you. If you d like to get the mag in DIGITAL as soon as it s released, sign up to be a member of the DIGITAL EDITION right here: https://www.patreon.com/c/beforesandafters/membership The post Coming soon: huge mag on The Mandalorian and Grogu appeared first on befores & afters .
 
 ## IndieWire
+
+### The Mad (Color) Science Behind Rian Johnson s New Camera App
+Tue, 03 Nov 2026 23:00:00 +0000 — https://www.indiewire.com/features/craft/steve-yedlin-interview-chromagraph-camera-app-rian-johnson-1235225234/
+
+Steve Yedlin talks to IndieWire about designing the Chromagraph app and bullying the iPhone camera to behave more cinematically — with math!
+
+### 5 Big Challenges in Creating Criterion’s ‘The Complete Kubrick’: From Navigating HDR/4K to Preserving Stanley Kubrick s Love of Mono Sound
+Tue, 03 Nov 2026 22:45:00 +0000 — https://www.indiewire.com/features/interviews/the-complete-kubrick-inside-criterion-box-set-1235225343/
+
+The producer of Criterion's new Stanley Kubrick Box Set tells IndieWire about trying to get inside the mind of a director who was obsessed with his films' home video presentation.
+
+### Ebenezer s Venmo and How to Rob a Bank ATMs: Studios Are Now Promoting Movies by Just Giving Away Money
+Tue, 03 Nov 2026 20:30:00 +0000 — https://www.indiewire.com/features/general/ebenezer-venmo-how-to-rob-a-bank-atm-studios-giveaway-1235225185/
+
+Film marketing teams are creating stunts around cold, hard cash — a bid at virality built for the internet's bleak age of endless transactions.
 
 ### What Are Local Movie Theaters Showing on Election Night?
 Tue, 03 Nov 2026 20:15:00 +0000 — https://www.indiewire.com/features/interviews/what-are-movie-theaters-showing-election-night-2026-1235225182/
@@ -220,122 +240,107 @@ Tue, 03 Nov 2026 14:30:00 +0000 — https://www.indiewire.com/features/commentar
 
 Let's spare a thought for those sad lost souls who couldn’t achieve their dreams of staying relevant artists.
 
-### Before He Played Sylvester Stallone in I Play Rocky, Star Anthony Ippolito Fought Hard for His Own Big Break
-Tue, 03 Nov 2026 14:00:00 +0000 — https://www.indiewire.com/features/interviews/sylvester-stallone-i-play-rocky-star-anthony-ippolito-1235225053/
-
-To snag the starring role in Peter Farrelly's crowd-pleasing "I Play Rocky," the breakout star tells IndieWire how he — somewhat accidentally — ended up following the iconoclastic actor and filmmaker's own playbook.
-
-### Okinawa Saudade Review: A Moving Documentary About the Okinawan-Brazilian Community Explores the History of Displacement
-Tue, 03 Nov 2026 03:42:52 +0000 — https://www.indiewire.com/criticism/movies/okinawa-saudade-documentary-review-1235225173/
-
-Yoju Matsubayashi's latest film follows third-generation Okinawan-Brazilian as they reflect on their distant homeland.
-
-### AT T and IndieWire s Filmmaker Party at AFI Fest Celebrated Filmmakers and Those Who Champion Them
-Tue, 03 Nov 2026 01:04:27 +0000 — https://www.indiewire.com/news/events/indiewire-att-afi-fest-filmmaker-party-photos-1235225085/
-
-A week after partnering on our Future of Filmmaking Summit, AT T and IndieWire teamed up again to celebrate the next generation of storytellers.
-
 ## The Wrap
 
-### The One About Matthew Perry Debuts Atop Netflix TV List With 9.5 Million Views
-Tue, 03 Nov 2026 20:00:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/the-one-about-matthew-perry-netflix-ratings/
+### New York Times Adds 420,000 Subscribers as Q3 Digital Revenue Rises
+Wed, 04 Nov 2026 12:22:48 +0000 — https://www.thewrap.com/industry-news/business/new-york-times-adds-420000-subscribers-as-q3-digital-revenue-rises/
 
-The One About Matthew Perry debuted atop Netflix s most-watched English-language TV list in its first week on the streamer. The three-part docuseries, which hails from Sony Pictures Television s Maxine Productions and documents the life of the late Friends star, tallied 9.5 million views in its first six days on the streamer, landing as the No. 1 show on the English-language list. That viewership, however, was outpaced by French favorite, Lupin, which debuted its fourth installment to 10.8 million views, landing as the top show on the non-English-langauge TV list. Notably, the top performers on the non-English-language lists — Lupin and Mexican drama Surviving Hurricane Otis — outpaced their English-language counterparts, with Surviving Hurricane Otis stirring up 12.4 million views as compared to the 4.7 million views brought in by Animals, remained in the top spot on the English-langauge list for its fourth week. Behind “The One About Matthew Perry” was “Nobody Wants This” Season 3 with 7.2 million views and “Below” with 3.8 million views. More to come The post The One About Matthew Perry Debuts Atop Netflix TV List With 9.5 Million Views appeared first on TheWrap .
+The New York Times reported third-quarter revenue of $768.5 million, above the $766.9 million expected by analysts. Net income rose 19.2% to $97.4 million. Digital-only subscription revenue rose 14.6% to $421.3 million, while the publisher added approximately 420,000 digital-only subscribers, bringing its total subscriber base to 13.8 million. Digital advertising revenue rose 12% to $109.9 million. The company had previously forecast mid-to-high-teens digital advertising growth. The New York Times added 420,000 subscribers in the third quarter as both earnings and revenue topped Wall Street expectations. The company reported third-quarter revenue of $768.5 million, up 9.7% from $700.8 million a year earlier. Net income rose 19..2% to $97.4 million, while diluted earnings per share came in at 60 cents a share. Excluding one-time items, per-share earnings would ve come in at 68 cents a share. The results topped analyst consensus estimates of $766.9 million and 65 cents a share, according to Yahoo Finance. Shares rose 4.1% to $69.93 in early trading. The Times added 420,000 digital-only subscribers during the quarter, bringing its total subscriber base to 13.8 million. The company ended June with 13.35 million subscribers, including 12.8 million digital-only subscribers, after adding 280,000 digital subscribers in the second quarter. Digital-only subscription revenue rose 14.6% to $421.3 million, compared with $367.4 million a year earlier. The company previously forecast growth
 
-### Fox News Host Yells at Pete Buttigieg Over Michigan Senate Race: Address That!
-Tue, 03 Nov 2026 19:48:47 +0000 — https://www.thewrap.com/media-platforms/politics/fox-news-lawrence-jones-pete-buttigieg-interview-abdul-el-sayed-haley-stevens/
+### Where the Los Angeles Mayor s Race Stands
+Wed, 04 Nov 2026 07:02:17 +0000 — https://www.thewrap.com/media-platforms/politics/where-los-angeles-mayors-race-stands-election-night/
 
-Fox & Friends co-host Lawrence Jones got into a tense confrontation with former Transportation Secretary Pete Buttigieg early Tuesday over the Michigan Senate race between Republican Mike Rogers and Democratic candidate Abdul El-Sayed , whose campaign has been accused of promoting antisemitic language. Jones noted early in the conversation that Democratic Michigan Congresswoman Haley Stevens made the controversial decision to endorse Rogers this week instead of El-Sayed, following her narrow loss to the latter in Michigan s Democratic primary race. Stevens has been accused of betraying her fellow Democrats over her endorsement of Rogers. Jones, however, argued Tuesday that she did so over her objections to antisemitic comments that are coming from those on the side of El-Sayed. He argued that Michigan voters are following the candidate that narrowly lost in the primary, referencing Stevens, and calling her loss to El-Sayed razor thin. "I can t approach this conversation in good faith" Lawrence Jones as he unsuccessfully attempts a series of gotchas against Pete Buttigieg https://t.co/aQ1fC6GCuC &mdash; Aaron Rupar (@atrupar) November 3, 2026 For his part, Buttigieg attempted to keep the conversation about affordability and the cost of living, which he argued is Michigan voters No. 1 concern heading into this year s midterm elections. He also argued that rising antisemitism is a problem plaguing both the Republican and Democratic parties right now. He pointed specifically to a
+The Los Angeles mayoral race was too close to call after polling closed Tuesday night, with incumbent Mayor Karen Bass facing off with competitor Nithya Raman, the councilmember from Los Angeles City Council District 4. At the time of writing, with 50% of the votes counted, Bass held a narrow lead over Raman, securing 50.7% of the vote to Raman’s 49.3%. Bass fought to keep her spot as Los Angeles s leader against Councilmember Raman in the general election on Tuesday, with the mayor hosting an election night party in Hollywood at the Loews Hotel and Raman hosting at the Greek Theater. The final poll from the UC Berkeley Institute of Governmental Studies found the mayoral candidates neck and neck with 40% of likely L.A. voters said they supported Bass, while another 40% supported challenger Raman. The poll also found that about 20% of Angelenos were still undecided just a week before Election Day. For the incumbent, the poll comes as a sigh of relief after a September poll found Raman ahead with an 11-percentage-point lead. Bass had not led a poll since August. Polling closed in Los Angeles at 8 p.m., but the final results are unlikely to come in until later this week. During the pandemic, California began mailing every registered voter a ballot, giving every voter the option to mail-in their ballots. Those ballots require far more time to process than in-person ballots, often delaying the results. Bass gathered with supporters at the Loews Hotel in Hollywood at the L.A. Count
 
-### Pierce Brosnan Has High Praise for ‘Strong’ James Bond Contender Callum Turner
-Tue, 03 Nov 2026 19:06:06 +0000 — https://www.thewrap.com/creative-content/movies/pierce-brosnan-next-james-bond-actor-callum-turner/
+### Bill de Blasio Torches Fox News Panel After MAGA Bloodbath: ‘You’re Missing the Plot’
+Wed, 04 Nov 2026 05:49:42 +0000 — https://www.thewrap.com/media-platforms/politics/bill-de-blasio-hits-back-fox-news-reaction-gop-midterm-losses/
 
-Pierce Brosnan, like pretty much everyone else on the planet, is “eager” to see who will be cast as the next James Bond. He admitted, however, that he has a bit of a soft spot for one of the frontrunners: Callum Turner. As TheWrap reported last month , four actors made it to the final round of screen tests. According to insiders, Turner, “Slow Horses” breakout Jack Lowden and Josh O’Connor were among those tested, along with an unknown actor, for the role of the next 007 for Amazon. “All the men who are on the list now are actors I admire,” the former Bond actor told Vanity Fair in an interview published Tuesday. “Callum Turner is someone I’ve worked with, and he’s so strong. Although he s a fan of Turner, Brosnan said he thinks any of the actors left in the running would do a great job as the iconic spy. They all have a voice and a physique, and a presence on film, he shared. They all have longevity as actors, all of these young men. Whoever plays the role, I wish him the very best of life and strength and courage. It’s hard to tell who it would be, but I eagerly await to hear the news and the celebration of the next James Bond.” Brosnan may be the only former Bond to comment on the next 007 thus far, but he’s not the only former co-star to weigh in. Gary Oldman, who stars in Apple TV’s “Slow Horses” alongside Lowden, told Canada’s Global News in a September interview that the next James Bond had already been chosen and that he hoped it was Lowden. “It’s been rumored that he
+Bill de Blasio torched the Fox News election panel straight to their faces on Tuesday night as Republicans collected one midterm loss after the next. The former mayor of New York City sat on the Fox News midterm election night panel. But as the blue tsunami continued to wash over the GOP and Democrats flipped both the Senate and the House of Representatives, the politician criticized the conservative news network for missing the plot in its coverage of President Trump, the Iran War and more. I ve been on many Fox programs. I respect this network, but I ve got to tell you guys you re missing the plot, he said. The American people are looking at a war they do not believe in and they did not authorize, they are looking at prices that are making it impossible for middle class people, let alone working class people, to live, they are losing their healthcare. It s not about Medicare for all, some of us believe that would be a good policy, it s not going to happen tomorrow. Right now people can t get the healthcare they need. Here's that moment: https://t.co/OV2wmUI597 pic.twitter.com/ccwg0A1FDQ &mdash; Brian Stelter (@brianstelter) November 4, 2026 He added: So this is what s happening and the Republican party had an opportunity to speak to it, the Congress had an opportunity to legislate, they did not do it in this last year. So I think Republicans in Florida – there are plenty of Republicans tonight who said I m not getting what I expected from this president.' The reality check 
 
-### CBS Secures Fall s Top New Shows With NCIS: New York and Cupertino Exclusive
-Tue, 03 Nov 2026 19:00:37 +0000 — https://www.thewrap.com/creative-content/tv-shows/cbs-fall-top-new-shows-ncis-new-york-cupertino-ratings/
+### Trump Says Fox News ‘Bears the Responsibility’ for GOP’s Midterm Election Losses
+Wed, 04 Nov 2026 05:42:16 +0000 — https://www.thewrap.com/media-platforms/politics/trump-blames-fox-news-gop-midterm-losses/
 
-CBS has secured the top new shows of the fall thanks to impressive performance from NCIS: New York and Cupertino in their second week, TheWrap can reveal exclusively. Both “NCIS: New York” and “Cupertino” ranked within the top 20 most-watched broadcast shows from Oct. 12-18 — following CBS premiere week the week prior — across broadcast and streaming, according to Nielsen live-plus-seven-day big data and streaming. “NCIS: New York” brought in 8.9 million viewers during the week, ranking as the No. 7 show of the week behind broadcast favorites like “Marshals,” “Tracker” and “Sheriff Country.” Likewise, “Cupertino” scored 6.8 million viewers, landing in the No. 20 spot for the week. Cupertino more than doubled its live plus same-day audience of 2.9 million viewers, and even grew to 9.6 million viewers with the encore episode on Sunday, Oct. 18 included. “Eternally Yours” wasn’t far behind with 6.4 million viewers, landing one of the two top comedies alongside “Georgie & Mandy’s First Marriage,” which scored 8.1 million viewers in the No. 13 spot, and rose 2% from its second episode a year ago. With Eternally Yours, CBS was home to the three top new shows of the fall for the week. CBS was also home to 14 of the top 20 shows of the week, with top hitters “Marshals” and “Tracker” coming in the top two spots with 13.5 million and 13.4 million viewers, respectively. Behind “Marshals” and “Tracker” were another three CBS series rounding out the top 5 shows of the week belonging to th
+Donald Trump blamed Fox News for the GOP’s sweeping midterm election losses, declaring that the conservative news network “bears the responsibility” for the “Blue Tsunami. ” Shortly after it was projected that the Senate would flip for the Democrats alongside the House of Representatives, Trump took to Truth Social and zeroed in on Fox News, writing , Fox News bears responsibility for these losses by constantly and consistently putting on the Dumocrat opposition, and worse. In a separate Truth Social post , Trump vowed to become a Political Pundit, promising to share the reasons these Candidates won and lost! A representative for Fox News did not immediately respond to TheWrap s request for comment. These comments echoed Trump and the White House s earlier remarks, which deflected blame away from the president . Specifically, Trump wrote on Truth Social earlier Tuesday evening, I wasn’t on the Ballot and if I was, we would have won IN A LANDSLIDE! Thank you for your attention to this matter. This was similar to the statement the White House gave CNN s Kaitlan Collins, which read: President Trump did a better job promoting many of the candidates on the ballots than the candidates did themselves President Trump was not on the ballot and it’s proven that Trump voters show up when he is on the ballot. Trump s criticism of Fox News came hours after the president railed against the news network for its pre-election coverage. “Watching the Pre-Election Results on Fox News, but I can
 
-### Jason Blum and James Wan Rename Their Horror Business as Blumhouse Atomic
-Tue, 03 Nov 2026 18:58:36 +0000 — https://www.thewrap.com/creative-content/movies/jason-blum-james-wan-rebrand-as-blumhouse-atomic/
+### Democrats Blue Tsunami Midterm Wins Celebrated as Republican Red Wedding
+Wed, 04 Nov 2026 05:35:18 +0000 — https://www.thewrap.com/media-platforms/politics/democrats-react-house-of-representatives-flipped/
 
-James Wan and Jason Blum today unveiled Blumhouse Atomic, the new corporate name for the company formed by the 2024 merger of Blumhouse and Atomic Monster, the company announced Tuesday. Blumhouse and Atomic Monster will continue as distinct production labels, with their respective creative teams developing and producing film and television projects under each banner. Since the merger, the combined company’s horror slate has generated more than $2.5 billion in worldwide box office against combined production budgets of less than $330 million, including more than $1 billion in worldwide box office in each of 2025 and 2026. This year’s films have earned nearly $1.3 billion on less than $70 million in production budgets. Recent successes include Curry Barker’s “Obsession” and Kane Parsons’ “Backrooms,” two of the year’s breakout horror films. The results reflect the company’s approach to pairing ambitious storytelling with disciplined budgets across a slate of original films and established franchises. “When we merged our companies, we believed the whole would be greater than the sum of its parts, and that is exactly what has happened,” Jason Blum, Co-Founder of Blumhouse Atomic, said in a statement. “Blumhouse Atomic is a natural evolution of what we’ve built together. The Conjuring franchise, Insidious, Saw, no filmmaker has created more horror franchises than James Wan, and together we’ve brought some of the genre’s most recognizable properties under one roof. Bringing Saw ba
+With Democrats projected to win both the House and Senate after Tuesday s midterms, many took to social media to celebrate the GOP s loss as a Republican Red Wedding. The decisive wins across swing states including Texas and North Carolina delivered a major setback to President Donald Trump midway through his second term. The takeover will give Democrats the power to potentially block much of Trump’s legislative agenda, act as guard dogs for his administration and launch congressional investigations, ending two years of unified Republican control in Washington. Trump himself responded initially to the House flip shortly after it was reported by shuffling the blame away from himself. I wasn’t on the Ballot and if I was, we would have won IN A LANDSLIDE! Thank you for your attention to this matter, Trump wrote on Truth Social . The president later congratulated Democrats in a statement to CBS News, saying that he s looking forward to working with them. Democrats, meanwhile, celebrated nationwide and across social media. Political figures, media personalities and even popular influencers on platforms like X all celebrated and joked about what 2027 and beyond could look like with the Democrats overtaking Congress. MAGA extremists are on the run from sea to shining sea, House Minority Leader Rep. Hakeem Jeffries wrote . I’m not sure we’re mentally or emotionally ready for a lame duck Donald Trump, The View co-host Alyssa Farah Griffin said . Buckle up, folks. Although it wasn t ju
 
-### Netflix Greenlights Prep YA Drama Series Adaptation From Nicole Taylor
-Tue, 03 Nov 2026 18:51:44 +0000 — https://www.thewrap.com/creative-content/tv-shows/netflix-prep-adaptation-ya-series-nicole-taylor/
+### Xavier Becerra to Win California Governor’s Race
+Wed, 04 Nov 2026 04:21:23 +0000 — https://www.thewrap.com/media-platforms/politics/xavier-becerra-elected-california-governor/
 
-Netflix has ordered YA drama series Prep to series from showrunner, writer and executive producer Nicole Taylor. Based on Curtis Sittenfeld s debut novel of the same name, the coming-of-age series will follow scholarship student Lee Fiora’s high school years at Ault, a prestigious New England boarding school, as she navigates life as a fish out of water among her privileged classmates. Prep is my all time favourite novel and I have longed to adapt it for the entire twenty years since I first read it and found myself reflected uncannily back, Taylor said. There is no more acute depiction of the introspective, bookish self-conscious adolescent girl and no more truthful or excoriating take on the perils of social mobility than in Curtis Sittenfeld’s beautiful first novel. I am overjoyed to be adapting for Netflix. Taylor previously created dramedy mini-series One Day for Netflix and wrote on the limited series Three Girls. Prep joins Netflix s growing slate of YA titles. This fall alone the streamer has released Crew Girl, A Different World and Outer Banks. Upcoming series The Sticks, The Body, Poser and Sid & Zoey will continue to expand the slate. The series also will join the platform s increasing slate of book adaptations, including Walter Boys and To All the Boys I ve Loved Before. “I m overjoyed that Netflix is making Prep as a TV show the 22-year wait was worth it! Sittenfeld said. Alix Taylor at Gloria Sanchez has guided the project forward with such intelligence and ent
+Xavier Becerra was named the winner of California’s gubernatorial race, making history as the first Latino elected governor of the state. “Ladies and gentlemen you have now entered the Becerra era,” the governor-elect said in his victory speech on Tuesday evening, adding: “Let me make something clear I didn’t run to make history. I ran to make a difference.” AP News called the race in Becerra s favor at exactly 8 p.m. PT Tuesday evening, writing, The AP will only declare a winner at poll closing time in races not expected to be competitive when all available evidence points to an overwhelming victory. This could include past vote results; pre-election polling; campaign fundraising and spending; and results from AP s Voter Poll, which surveyed actual voters. The Democratic candidate defeated the Trump-endorsed Republican Steve Hilton. However, Becerra was already poised to beat his Republican competitor, according to polling from last week. In his victory speech, the politician emphasized, Diversity is not our shortcoming, it’s our super power. His victory was led by a crowd in Sacramento chanting, Si se puede!, which roughly translates to, It is possible! The poll from UC Berkeley Institute of Governmental Studies and co-sponsored by the Los Angeles Times found the veteran Democratic politician would garner 61% of likely California voters, compared to 34% for the former Fox News commentator. Becerra has spent much of his career in public service. Most notably, the Democrat se
 
-### Netflix Adds AI Recommendation Option to TV App
-Tue, 03 Nov 2026 18:00:00 +0000 — https://www.thewrap.com/media-platforms/tv/netflix-ai-discover-tv-app/
+### Jake Tapper Can’t Hold Back Laughter at Trump’s Response to GOP Losses
+Wed, 04 Nov 2026 04:05:27 +0000 — https://www.thewrap.com/media-platforms/politics/jake-tapper-laughs-at-trump-midterms-reaction-cnn/
 
-Netflix is further embracing AI when it comes to helping subscribers find what they want to watch next. AI Discover is a new tab on Netflix s TV app that will be available to a small group of members before rolling out to more subscribers. The first experience within AI Discover is built around themes. Users will be asked to pick one of several themes, each of which are previewed with a clip from a show or a movie. These themes range from general feelings, like Scare Me, to categories based on who is watching, like Family Movie Night, to selections based around time constraints, like Quick Watches. After a theme is selected, Netflix will unveil its list of recommendations. As users explore, more specific themes will emerge. Users will also have the ability to select Something Different and will be given a fresh set of recs. Additionally, every title will have a Tune Your Recommendations button next to Play and My List. This option lets users either keep a recommended title in their lineup or tell Netflix not to recommend that title again. The tool is built to adjust its recommendations based on what users tell the platform and is designed to keep learning. It s essentially a more interactive form of the streamer s current algorithm. Think of AI Discover as our test kitchen: we’re trying out new recipes for discovery, and your use and feedback help us decide which ones to keep, improve or serve up next, a press release about the offering reads. Some may even make their way int
+Jake Tapper did the best he could biting back laughter while hearing President Donald Trump s response to Republicans midterms losses live on CNN. In the midst of Election Night 2026, Tapper s colleague Kaitlan Collins read off some comments she was getting from White House officials as Trump and his team watched the results come in and things looking increasingly bleak for the GOP. After so much campaigning across the country, Trump decided to play the blame game with the candidates he endorsed, which got an audible laugh out of the CNN anchor live on air. White House official reacts to the results so far tonight: “President Trump was not on the ballot, and it’s proven that Trump voters show up when he is on the ballot." pic.twitter.com/CWWk0OcM8O &mdash; Kaitlan Collins (@kaitlancollins) November 4, 2026 Despite the president telling voters for the better part of two months to act like he was on the ballot tonight, when they went to cast their ballot, to get out to vote, The White House is now casting blame on some of the candidates that the president hand-picked to run in these races, Collins said. A White House official just texted me and said, President Trump did a better job promoting many of the candidates on the ballots than the candidates did themselves.' She added: They said despite what they are seeing playing out in these races right now where a lot of those hand-picked candidates are struggling or have lost in some of these races they said the mood at the White H
 
-### Bill Hader Tells Jimmy Kimmel Why Their Group Chat With John Mulaney and Fred Armisen Makes Him Paranoid
-Tue, 03 Nov 2026 17:58:52 +0000 — https://www.thewrap.com/creative-content/tv-shows/jimmy-kimmel-bill-hader-group-chat-john-mulaney-fred-armisen/
+### Democrats to Flip House and Senate in 2026 Midterms, Ending GOP Control
+Wed, 04 Nov 2026 03:21:52 +0000 — https://www.thewrap.com/media-platforms/tv/democrats-flip-house-2026-midterm-election-results/
 
-Bill Hader confessed to Jimmy Kimmel on Monday night that he gets really paranoid and neurotic participating in their text chain with John Mulaney and Fred Armisen because they are just incredibly funny people. We ve been on this text chain for about three years, I would say, maybe longer. We text every day, Hader told the Jimmy Kimmel Live! audience. Kimmel, meanwhile, said that the chain has been going on so long it has become a problem in his and Hader s homes. Oh, yeah. My kids are like, Are you on your old man chain? Let me guess, you put periods at the end of sentences? I m like, Well, what are you supposed to put at the end of a sentence?' Hader joked, adding, I get really paranoid and neurotic because it s three incredibly funny people, you and John and Fred. I ll get a Ha-Ha on something, and then I won t get a Ha-Ha. I get really anxious, so then I actually will, like, focus group. If I m gonna send another video, I ll be like, Do you guys think Jimmy Kimmel would find this funny?' Hader explained. Fortunately, Kimmel said he shared Hader s anxiety about the chat. I feel the same way about the ha-has. Because if I get one Ha-Ha, I m fine. I m like, Alright, one guy at least patronized me. And if you get three, that s a home run, the late night host said, to which Hader responded, Three is, like I could throw away my phone. Kimmel added that it feels like a statement if he does not get a single Ha-Ha to one of his texts. Hader agreed, calling that situation genuinely
+Democrats are set to regain control of the House of Representatives and the Senate, ending Republicans narrow majority and delivering a major setback to President Donald Trump halfway through his second term. The projected takeover would give Democrats the power to block much of Trump s legislative agenda, oversee his administration and launch congressional investigations, ending two years of unified Republican control in Washington, D.C. In response to, what news networks have dubbed the Blue Tsunami, the president said in a statement to CBS News, My message is, congratulations to the Democrats, and I look forward to working with you for the good of our country. NewsNation s Decision Desk HQ projected Democrats would take the House at 9:11 p.m. ET Tuesday, nearly 50 minutes before MS NOW made its own call. CNN, NBC News and CBS News followed over the next 12 minutes, according to TheWrap s monitoring of election coverage. As for the Senate flip, NBC News and NewsNation called in favor of the Democrats taking control just before 11:30 p.m. ET. CNN followed suit with the same call minutes later. Democrats picked up several Republican-held districts early in the night. In western North Carolina, Jamie Ager defeated Republican state Rep. Jennifer Balkcom for the seat previously held by Rep. Chuck Edwards, flipping a district Trump carried by nearly 10 percentage points in 2024. In New Jersey, Rebecca Bennett, a former Navy helicopter pilot, unseated Republican Rep. Tom Kean Jr. 
 
-### The View : Sunny Hostin Side-Eyes Her Voting Location for Having Zero Functional Ballot Machines
-Tue, 03 Nov 2026 17:54:52 +0000 — https://www.thewrap.com/creative-content/tv-shows/the-view-sunny-hostin-westchester-county-ballot-machine-glitch-reaction/
+### Bret Baier Warns Jesse Watters to ‘Be Careful’ After He Calls Darline Graham s Senate Race Loss Early
+Wed, 04 Nov 2026 03:20:41 +0000 — https://www.thewrap.com/media-platforms/journalism/bret-baier-warns-jesse-watters-calling-lost-senate-race/
 
-The View host Sunny Hostin cast her midterm vote early on Tuesday morning but, according to the ABC host, her polling location didn t have a single working ballot machine and she was a bit skeptical about that. To kick off the day s Hot Topics, the women all agreed how thrilled they were that election day is finally here, if only so they can stop seeing all the campaign ads and discourse. But, they also worried for what s to come if and when a projected blue wave really does happen, and the president starts trying to challenge results. Hostin was already suspicious, considering her own experience. I live in Westchester County, and I tried to vote very early this morning before 7 a.m., she explained. And I got there, and I filled out my my ballot, and I took it back to go to the ballot machine, and I was told to fold my ballot and put it into an orange bag, because that voting machine wasn t working. According to the ABC host, she immediately inquired about every other machine in the room, and apparently, none of them were working. Host Alyssa Farah Griffin qas quick to chime in and note that it was a countywide problem that outlets were widely reporting on all morning. According to those reports, the issue stemmed from the thickness of paper ballots, but the Westchester County Board of Elections is reassuring voters that every ballot cast will still be counted. Honestly, the ballot felt like every ballot that I ve cast in the past 20 years in Westchester, Hostin said skeptica
+Bret Baier was quick to warn Jesse Watters against being too defeatist about Darline Graham s South Carolina Senate bid, as Fox News had yet to call the contest at the time. During Fox News coverage of Election Night 2026, Watters was asked his read on things and he was quick to comment that the situation was bleak for the GOP. He pointed to the fact that Florida s Byron Donalds struggled so much to win the governor seat – which he eventually did – before turning to Graham, who he said choked in her race. That is too close for comfort in the state of Florida, Watters said. A lot of Republicans take Florida for granted now because they ve been so rock solid red for some many years but nobody expected Byron to be in such a dog fight and then to eek out that slim victory over Angie Nixon. Watters: Darline graham, nice woman, but she choked. The president did all he could to save that seat, campaigned a lot in South Carolina. Baier: We haven’t called South Carolina yet. pic.twitter.com/MbkPAeHpHR &mdash; Acyn (@Acyn) November 4, 2026 He added: If Florida is that close it could be trouble for the rest of the country. Darline Graham, nice woman, but she choked. First question, foreign policy at that debate was awful and she couldn t recover from that. The president did all he could to save that seat. Campaigned for her a lot in South Carolina – was down in Florida a lot. So was AOC. AOC, Bernie Sanders, they put a lot of miles in going down to sunny south Florida to help Angie and 
 
-### The View : Whoopi Goldberg Genuinely Impressed by Alyssa Farah Griffin Dig Comparing Trump to MLK
-Tue, 03 Nov 2026 17:35:16 +0000 — https://www.thewrap.com/creative-content/tv-shows/the-view-whoopi-goldberg-impressed-by-alyssa-farah-griffin-trump-insult/
+### Youth Creator Sharon Horgan Unpacks Season 1 Finale s Ambiguous Ending
+Wed, 04 Nov 2026 00:13:56 +0000 — https://www.thewrap.com/creative-content/tv-shows/youth-season-1-finale-sharon-horgan-interview/
 
-More often than not, a quick punchline on The View will earn a chuckle, or an eye roll, or a straight cut to commercial from Whoopi Goldberg. But on Tuesday morning the ABC moderator appeared genuinely impressed by a dig from Alyssa Farah Griffin, comparing the president to Martin Luther King Jr. The moment came during the first Hot Topics discussion of the day, as the women discussed Trump s closing message to midterm voters at a rally in front of the Lincoln Memorial Reflecting Pool. During the event, he once again bragged about renovating the body of water, and floated the idea of naming it for himself, before immediately begging press not to report that he said that. So MLK gave us I Have a Dream, he gave us I cleaned the pool,' Farah Griffin quipped. Like, just the juxtaposition of being in front of the Lincoln Memorial TRUMP LAUDS REFLECTING POOL RENOVATION PRE-ELECTION DAY: ‘The View’ co-hosts weigh in on the president’s last-minute pitch to voters and question if it was his most effective message. pic.twitter.com/tF5vF1KzRn &mdash; The View (@TheView) November 3, 2026 Well done! Goldberg cut in to praise, clapping her hands. Well done! Farah Griffin accepted the compliment, but she also wasn t done roasting Trump s speech and the other bangers he dropped in it. I have kept far more promises than I made. That s not possible! Farah Griffin reminded with a laugh. That doesn t even makes sense. And we did play it in the clip, but I just want to reiterate this poetry: Like
+Note: This story contains spoilers from the Youth Season 1 finale. Just when you think things could not get any messier on Youth, its heroine goes and sleeps with Goblin Seed author Malcolm (Douglas Hodge) or did she? The Youth Season 1 finale follows Alex ( Sharon Horgan ) as she copes with the discovery of Patrick s (Rupert Friend) list of pros and cons of dating her, which include her inability to give him any kids of his own, by, well, not coping with it. She avoids Pat for much of the episode and instead spends it attending an awards ceremony where several of her agency s clients are set to be honored. While there, she makes repeated trips to the men s bathroom to deal with her ongoing UTI, disappoints her son Ruairí (Aran Murphy) by humoring Malcolm and insults her boss Sam (Sharlene Whyte) over her crumbling marriage to Frank (Robbie Gee). And then, just when you think it cannot get any worse for Alex, she flirts with Malcolm at the end of the night and wakes up the next morning in his bed. Malcolm implies that they slept together, a notion that is further reinforced when Sam calls and informs her — much to Alex s horror — that Malcolm has agreed to re-sign with their agency. I don t want that! she tearfully exclaims, only for her protests to be ignored by Sam. Speaking with TheWrap, Horgan, who created Youth in addition to starring in it, floated the idea that things are not quite as black-and-white in the show s Season 1 finale as her character may fear. The thing is
 
 ## Collider
 
-### 5 Years Later, Netflix’s Brilliant 4-Part Crime Thriller Only Gets Better With Every Season
-Tue, 03 Nov 2026 19:56:12 GMT — https://collider.com/lupin-netflix-rotten-tomatoes-scores-quality-increase/
+### 'Game of Thrones' Star's Return to the Fantasy Genre Is Officially a Box Office Winner
+Wed, 04 Nov 2026 12:30:12 GMT — https://collider.com/peter-dinklage-wicker-box-office-13-million/
 
-Netflix has had issues with its original series in recent years. Long-running series like Stranger Things have ended on a note that soured longtime fans. Lengthy gaps between seasons are eroding audience interest and their desire to keep renewing their subscriptions. The streaming market is getting more crowded, especially as subscribers feel their pockets being pinched. Luckily, there's a Netflix show worth the subscription cost that gets better with each season , telling the story of a master thief seeking justice against those who wronged him and his family.
+While Bill Skarsgård can be seen in the recently released World War II action film The Mosquito Bowl and Gustaf Skarsgård headlines the Netflix movie The Storm , their older brother Alexander Skarsgård has delivered a word-of-mouth hit at the box office. The movie has defied the odds over the course of the past week, providing much-needed counter-programming for older women while the market is dominated by films aimed at other demographics. A24's You Can See Everything remains the number-one choice for younger crowds, while Heart of the Beast continues to pull older men. The romance fantasy starring Skarsgård, on the other hand, delivered a better hold this past weekend than either of those films.
 
-### 9-1-1: The Sinkhole Stunt Survived Nearly 8 Drops | Collider BTS
-Tue, 03 Nov 2026 19:16:12 GMT — https://collider.com/video/9-1-1-the-sinkhole-stunt-survived-nearly-8-drops-collider-bts/
+### ‘The Gilded Age’ Officially Replaces Bertha and George Russell With a New Power Couple
+Wed, 04 Nov 2026 12:28:12 GMT — https://collider.com/the-gilded-age-season-4-premiere-oscar-enid-russells-replacement/
 
-How does 9-1-1 pull off its massive disasters, collapsing structures, and dangerous stunts? Special Effects Supervisor Elia Popov takes Collider behind the scenes to explain the practical effects and engineering that make the show's biggest action sequences possible.
+Editor's note: The below contains spoilers for The Gilded Age Season 4 premiere.
 
-### Forget Taylor Sheridan’s ‘Lawmen,’ Netflix’s New Bass Reeves Series Is Officially Perfect
-Tue, 03 Nov 2026 19:13:35 GMT — https://collider.com/bass-x-machina-netflix-rotten-tomatoes-score-is-it-good/
+### 10 Books To Read if You Love 'Shōgun'
+Wed, 04 Nov 2026 12:16:12 GMT — https://collider.com/books-like-shogun-to-read/
 
-If your favorite part of a Taylor Sheridan series is watching a man insist that everything he does is for his family while making their lives considerably more dangerous, Netflix has something for you. There are familiar pleasures in a Western about protecting your own in a place where the law offers little reassurance. Adding machines and supernatural threats certainly gives that predicament a few new complications.
+Shōgun is the hit Hulu and FX miniseries that took audiences by storm, hitting streaming services in 2024 to unanimous approval from critics. The show is based on a novel by James Clavell and is set in the Edo Period of Japan. The story and characters are entirely fictional, but take inspiration from real historical figures, making it a sort of alternate history TV show . While the series was initially intended to be a "one and done," consisting of no more than eight episodes, its enormous success has prompted the showrunners to develop a highly anticipated second season.
 
-### The 10 Most Amazing Sci-Fi Books Ever Written
-Tue, 03 Nov 2026 18:52:12 GMT — https://collider.com/most-amazing-sci-fi-books-ever-written/
+### 30 Years Ago, This Paramount+ Hit Made Patrick Stewart an Action Star
+Wed, 04 Nov 2026 12:08:12 GMT — https://collider.com/patrick-stewart-star-trek-first-contact-streaming-paramount-plus-november-2026/
 
-Science fiction is a lot more than just spaceships and robots. By imagining different worlds, futures, technologies, and even versions of humanity, the genre's classics look at our own world from new angles. Some even anticipated technologies and social developments that wouldn't arrive until decades later.
+When the cast of the original Star Trek series made the leap to the big screen, they did so after the beloved show, which ran for only three seasons, was off the air for over a decade. This left a lot of untapped potential to explore new stories, especially since the characters were now older and more reflective. Star Trek: The Next Generation was a much more successful series that ran for seven seasons and thoroughly explored a multitude of social, political, and philosophical issues, which gave each member of the cast room to shine. Although the result was an excellent series , because of this, there was more pressure on the films to perform and feel like more than just extended episodes.
 
-### Stephen King’s 6-Part Sci-Fi on Prime Video Is So Good, You’ll Wish You Found It Sooner
-Tue, 03 Nov 2026 18:47:12 GMT — https://collider.com/most-underrated-stephen-king-series-the-dead-zone-prime-video/
+### Taylor Sheridan’s ‘Sicario’ Replacement Officially Arrives in 2027
+Wed, 04 Nov 2026 12:00:12 GMT — https://collider.com/taylor-sheridans-sicario-replacement-fast-release-date-may-2027/
 
-Stephen King might be more famous for his supernatural horror staples like Castle Rock and Chapelwaite , but the writer also knows how to work up a solid sci-fi thriller. The Dead Zone is an overlooked King classic, often overshadowed by the 1983 film of the same name. However, the 2002 series is just as thrilling, packed with classic King-isms and a strong sense of mystery that keeps the show engaging for all six seasons. Following a simple man with not-so-simple powers, The Dead Zone remains one of King's most overlooked TV adaptations, even nearly two decades after its cancellation.
+Taylor Sheridan has been booked and busy so far this year with new releases almost every month, but he’s finally set to return to the world of movies next year. Sheridan has expanded the Yellowstone universe with shows such as Marshals and Dutton Ranch — the former has already returned for its second season on CBS . Dutton Ranch is a Paramount production and not a network TV show, so while it is set to return for Season 2, it will likely take much longer for the show to come back. Earlier in the summer, while fans were still awaiting the second season of Marshals , Sheridan dropped the long-awaited third season of Lioness . Unfortunately, Sheridan’s Landman is not going to return before the end of this year as Season 3 has been delayed to a currently unknown date in 2027 .
 
-### Patrick Stewart’s Most Terrifying Role Officially Surges on Streaming
-Tue, 03 Nov 2026 18:45:11 GMT — https://collider.com/green-room-patrick-stewart-streaming-top-four-november-2026/
+### 8 Perfect Thrillers That Will Hook You in Less Than 10 Minutes
+Wed, 04 Nov 2026 11:38:12 GMT — https://collider.com/perfect-thrillers-hook-you-less-than-10-minutes/
 
-Some actors become so synonymous with one or two roles that it's easy to forget that they're immensely talented performers, and when you've spent decades commanding the Enterprise or guiding the X-Men as Professor Charles Xavier, audiences probably aren't expecting you to suddenly become one of the most terrifying villains in modern horror. Yet that's precisely what Patrick Stewart did ten years ago as he gave audiences one of the most unpleasant performances in recent memory. Audiences are now rediscovering it.
+Thrillers are meant by design to get their hooks into you and hold you captive until the credits roll, but not all of them do it quickly. Plenty of thrillers thrive on slow-burning suspense and quiet captivation, but there are also those that hook you right in the first ten minutes . This list is for those movies, perfect thrillers that dispense with any filler and get right to the killer at the beginning.
 
-### Matt Damon Officially Joins 'The Gilded Age' for Season 4
-Tue, 03 Nov 2026 18:30:12 GMT — https://collider.com/matt-damon-the-gilded-age-season-4-david-letterman-cameo/
+### Quentin Tarantino's First Sequel in 22 Years Officially Adds 2 Huge Names
+Wed, 04 Nov 2026 11:30:12 GMT — https://collider.com/quentin-tarantino-the-further-mis-adventures-of-cliff-booth-composers-atticus-ross-trent-reznor/
 
-There have always been plenty of familiar faces wandering around the expensive drawing rooms of The Gilded Age , but even the biggest, boldest and wealthiest families in New York were probably taken aback by two of the newest additions to high society this week. Julian Fellowes ' lavish historical drama has spent years assembling one of TV's best casts but with the fourth season now underway, HBO has managed to sneak in an Oscar-winning superstar and a late-night television legend.
+In 2019, Quentin Tarantino delivered his latest ambitious masterpiece in the form of Once Upon a Time… in Hollywood , which stole the hearts and minds of both critics and audiences across the world. The movie made more than $400 million against a $90 million budget and earned widespread praise from reviewers, leading to eventual success at the Oscars. At the 92nd Academy Awards, the movie won two of its ten nominations, with the most high-profile being a Best Supporting Actor victory for Brad Pitt .
 
-### Godzilla Officially Gets His First-Ever LEGO Set
-Tue, 03 Nov 2026 18:28:15 GMT — https://collider.com/lego-godzilla-first-set-5363-pieces-release-date-price/
+### 57 Years Later, This John Wayne Final Line Still Officially Defines the Western Genre
+Wed, 04 Nov 2026 11:05:12 GMT — https://collider.com/john-wayne-best-final-line-best-final-quote-western-film-true-grit/
 
-For anyone who looks at a carefully arranged LEGO city and thinks it could use a catastrophic insurance event, Godzilla is an obvious addition. The King of the Monsters doesn’t need much encouragement to rearrange a skyline , and putting him within stomping distance of a modular building feels like tempting fate. Those little plastic residents have enjoyed a suspiciously peaceful existence for too long.
+John Wayne was a giant of cinema – a Western icon the likes of which had never been seen before or since. You can’t talk about the genre without mentioning his many classic movies such as The Searchers , Rio Bravo , or 1969’s True Grit . As that film's Rooster Cogburn, he was far from the square-jawed hero of his past movies, but his rugged authenticity made it one of his most beloved performances. It also gave us perhaps his best closing line — not because of its profundity, but because it seemed to sum up the tough, eternal icon in one off-the-cuff remark.
 
-### ‘Succession’ Star’s New 112-Minute Legal Thriller Officially Removed From All 2,606 Theaters
-Tue, 03 Nov 2026 18:17:53 GMT — https://collider.com/the-social-reckoning-removed-2000-theaters-box-office/
+### HBO Officially Renews 10/10 New Series Just 48 Hours After Season 1 Finale
+Wed, 04 Nov 2026 11:00:12 GMT — https://collider.com/hbo-youth-season-2-confirmed/
 
-Aaron Sorkin has spent decades writing some of the most celebrated movies and television shows in Hollywood, but it's fair to say his work as a director has never quite hit the same heights, and that is sadly the case once more with his sequel to The Social Network . The 2010 drama, directed by David Fincher , transformed the creation of Facebook into an Oscar-winning masterpiece, but unfortunately, audiences haven't exactly been rushing to see what happened next, and the sequel's theatrical journey has now come to a rather spectacularly disappointing end.
+From the bold American satire Life, Larry and the Pursuit of Unhappiness: An Almost History of America and Richard Gadd 's six-part British series, Half Man , to Steve Conrad 's offbeat murder mystery series DTF St. Louis and the second Game of Thrones spin-off A Knight of the Seven Kingdoms , HBO has been blessed with plenty of must-watch new shows over the past twelve months.
 
-### New Mistborn Movie Officially Gets Major Kelsier and Vin Casting Update
-Tue, 03 Nov 2026 18:16:43 GMT — https://collider.com/mistborn-movie-kelsier-vin-casting-brandon-sanderson-apple/
+### Hippos Get a 'Jaws' Makeover in Prime Video’s New Hit Thriller
+Wed, 04 Nov 2026 10:39:12 GMT — https://collider.com/hungry-hippo-movie-prime-video-thriller-hit-animal-attack/
 
-Casting Mistborn means finding someone who can make overthrowing an immortal ruler sound like a reasonable use of an afternoon. Kelsier needs that kind of confidence. He’s recruiting a crew for an undertaking that should be impossible, and much of the fun of Brandon Sanderson ’s first novel comes from watching him convince people to attempt it anyway. Whoever plays him has to make that enthusiasm infectious without sanding off his more dangerous edges.
+There aren't nearly enough good animal attack movies out there. Back in 1975, Steven Spielberg perfected the terrifying animal thriller (and invented the modern blockbuster) with the release of Jaws . The '80s and '90s had a run of memorable animal attack pictures, with movies like Lake Placid and Congo finding success and building long-term cult audiences. Lately, though, there haven't been nearly as many solid animal flicks, with Alejandre Aja's Crawl standing out as the biggest exception.
 

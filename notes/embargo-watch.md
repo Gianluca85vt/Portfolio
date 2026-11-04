@@ -1,4 +1,4 @@
-# Review radar — updated 2026-11-03
+# Review radar — updated 2026-11-04
 
 Built by `scripts/harvest-embargoes.mjs` from Steam's upcoming releases,
 sorted by date and filtered to titles priced at €25 or more. That price line is
@@ -18,20 +18,18 @@ Games only. Film and television still come from `notes/feeds/film-tv.md`.
 
 ## Reviews expected within three days
 
-| Title | Publisher | Release | Away | Reviews from | Price |
-|---|---|---|---|---|---|
-| ArcheAge Chronicles | XLGAMES | 2026-11-03 | today | 2026-11-02 | €29.99 |
+_Nothing inside three days._
 
 ## Further out, within 14 days
 
 | Title | Publisher | Release | Away | Reviews from | Price |
 |---|---|---|---|---|---|
-| Football Manager 27 | SEGA | 2026-11-10 | 7d | 2026-11-09 | €59.99 |
-| DreamWorks Shrek 2 Remastered | Aspyr Media | 2026-11-10 | 7d | 2026-11-09 | €29.99 |
+| Football Manager 27 | SEGA | 2026-11-10 | 6d | 2026-11-09 | €59.99 |
+| DreamWorks Shrek 2 Remastered | Aspyr Media | 2026-11-10 | 6d | 2026-11-09 | €29.99 |
 
 ---
 
-*1500 upcoming titles scanned, 1458 with a firm date inside
-14 days, 3 above the price line. Titles showing
+*1500 upcoming titles scanned, 1479 with a firm date inside
+14 days, 2 above the price line. Titles showing
 "Q4 2026" or "To be announced" are dropped: a quarter says nothing about when
 reviews arrive.*

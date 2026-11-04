@@ -1,72 +1,102 @@
-# Manga — harvested 2026-11-03T20:16:38.433Z
+# Manga — harvested 2026-11-04T12:31:58.478Z
 
 ## Anime News Network
 
-### The Super Mario Galaxy Movie, Resident Evil Reboot Film Earn Nominations for Hollywood Music in Media Awards
-Tue, 03 Nov 2026 15:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-03/the-super-mario-galaxy-movie-resident-evil-reboot-film-earn-nominations-for-hollywood-music-in-/.243484
+### Reincarnation in the Game World Dan-Katsu Anime's Teaser Reveals More Cast, Theme Songs
+Wed, 04 Nov 2026 04:59:56 -0500 — https://www.animenewsnetwork.com/news/2026-11-04/reincarnation-in-the-game-world-dan-katsu-anime-teaser-reveals-more-cast-theme-songs/.243515
 
-<cite>Monster Hunter Outlanders</cite> game also gets nomination
+Ayaka Nanase, Kotone Izumi, Hikaru Iida, Chihaya Asakura join cast of January anime
 
-### HIDIVE Confirms English Dub for Nia Liston: The Merciless Maiden Anime, Series Leaving Service in November
-Tue, 03 Nov 2026 15:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-03/hidive-confirms-english-dub-for-nia-liston-the-merciless-maiden-anime-series-leaving-service-in-/.243492
+### Butt Detective TV Anime Gets New Episodes Starting Next April
+Tue, 03 Nov 2026 22:57:16 -0500 — https://www.animenewsnetwork.com/news/2026-11-03/butt-detective-tv-anime-gets-new-episodes-starting-next-april/.243508
 
-Dub debuts on November 18
+Previous batch of new episodes debuted on October 3
 
-### Hollywood Reporter: Sony to Co-Finance, Distribute Live-Action Naruto Film, Begin Production in Spring 2027
-Tue, 03 Nov 2026 14:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-03/hollywood-reporter-sony-to-co-finance-distribute-live-action-naruto-film-begin-production-in-spring-/.243485
+### Promise Me the Spotlight Anime Unveils Teaser, Main Cast, Staff
+Tue, 03 Nov 2026 22:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-03/promise-me-the-spotlight-anime-unveils-teaser-main-cast-staff/.243469
 
-Sony to handle international distribution for Lionsgate's film adaptation following multi-studio bidding
+Haruna Mikawa, Taihi Kimura, Mai Kanno, Yukari Anzai star in studio TEAM TillDawn's anime
 
-### Stellar Blade Game Review
-Tue, 03 Nov 2026 13:00:00 -0500 — https://www.animenewsnetwork.com/review/game/switch-2/stellar-blade/.243411
+### Pero Pero★Sparkles Anime Reveals Cast, Staff, January Debut
+Tue, 03 Nov 2026 21:54:42 -0500 — https://www.animenewsnetwork.com/news/2026-11-03/pero-pero-sparkles-anime-reveals-cast-staff-january-debut/.243506
 
-This game was made for people who specifically want a sexy action RPG.
+Yuki Sakakihara, Mai Kanno, Ai Fairouz, Yōhei Azakami star
 
-### Hyperspace Neptunia: Unlimited Game Heads West in 2027
-Tue, 03 Nov 2026 12:52:47 -0500 — https://www.animenewsnetwork.com/news/2026-11-03/hyperspace-neptunia-unlimited-game-heads-west-in-2027/.243488
+### Kemono Jihen Manga's Climax Is 'Imminent'
+Tue, 03 Nov 2026 21:42:35 -0500 — https://www.animenewsnetwork.com/news/2026-11-03/kemono-jihen-manga-climax-is-imminent/.243495
 
-Game launches for Switch 2, Switch, PS5, PS4, PC
+Series to end in 26th volume
 
-### HIDIVE to Stream I'm Dating a Dark Summoner Omake Shorts Anime
-Tue, 03 Nov 2026 12:24:33 -0500 — https://www.animenewsnetwork.com/news/2026-11-03/hidive-to-stream-im-dating-a-dark-summoner-omake-shorts-anime/.243489
+### Travel Back in Time with Zelda Easter Egg on Google
+Tue, 03 Nov 2026 20:00:00 -0500 — https://www.animenewsnetwork.com/interest/2026-11-03/travel-back-in-time-with-zelda-easter-egg-on-google/.243471
 
-HIDIVE streams <i>chibi</i>-style sketch show spinoff on Friday
+Will you take on the mantle of "Hero of Time?"
 
-### Dragon's Dogma II: Dark Arisen Game Review
-Tue, 03 Nov 2026 12:00:00 -0500 — https://www.animenewsnetwork.com/review/game/ps5-xbox-series-x-s-nintendo-switch-2-pc/dragon-dogma-ii/dark-arisen/.242680
+### Witch on the Holy Night Film Gets Manga Adaptation
+Tue, 03 Nov 2026 19:56:45 -0500 — https://www.animenewsnetwork.com/news/2026-11-03/witch-on-the-holy-night-film-gets-manga-adaptation/.243494
 
-This is the definitive version of a bona fide Capcom classic that absolutely deserves your attention.
+<i>Shikimori's Not Just a Cutie's</i> Keigo Maki debuts manga on November 11
 
-### Cyberpunk Edgerunners 2 Anime Streams New Music Videos
-Tue, 03 Nov 2026 11:58:17 -0500 — https://www.animenewsnetwork.com/news/2026-11-03/cyberpunk-edgerunners-2-anime-streams-new-music-videos/.243487
+### Kaeruno Erefante Launches Manga Diary of a Male Porn Star Sequel
+Tue, 03 Nov 2026 19:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-03/kaeruno-erefante-launches-manga-diary-of-a-male-porn-star-sequel/.243477
 
-Jack-Amin Ibrahim directs new music video about Weak Kingsley, Avida
+<cite>AV Danyū Hajimemashita Reiwa-hen</cite> sequel manga launched on October 30
 
-### Hello, I Am a Witch and My Crush Wants Me to Make a Love Potion! ‒ Episode 5
-Tue, 03 Nov 2026 10:30:00 -0500 — https://www.animenewsnetwork.com/review/hello-i-am-a-witch-and-my-crush-wants-me-to-make-a-love-potion/episode-5/.243483
+### Otaku Vampire's Love Bite Manga Gets TV Anime
+Tue, 03 Nov 2026 18:41:39 -0500 — https://www.animenewsnetwork.com/news/2026-11-03/otaku-vampire-love-bite-manga-gets-tv-anime/.243498
 
-And just like that, we know where the kids got the idea that witches are evil: the adults in their lives are clearly afraid of Rose.
+"Bloody romantic comedy" from Kamisama Kiss creator Julietta Suzuki
 
-### This Week in Anime - Spice World
-Tue, 03 Nov 2026 10:00:00 -0500 — https://www.animenewsnetwork.com/this-week-in-anime/2026-11-03/.243473
+### Mashle: Magic and Muscles Manga Gets Live-Action Film on March 19
+Tue, 03 Nov 2026 18:20:53 -0500 — https://www.animenewsnetwork.com/news/2026-11-03/mashle-magic-and-muscles-manga-gets-live-action-film-on-march-19/.243497
 
-Sylvia and Chris explore the world of hentai artists who toned it down to break into the mainstream.
+Warner Brothers, Fuji TV, Credeus, Toho collaborate on project
 
-### Magical Girl Raising Project restart ‒ Episode 5
-Tue, 03 Nov 2026 09:30:00 -0500 — https://www.animenewsnetwork.com/review/magical-girl-raising-project-restart/episode-5/.243462
+### Watari Sakou's Honey Trap Method Manga Ends on December 1
+Tue, 03 Nov 2026 18:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-03/watari-sakou-honey-trap-method-manga-ends-on-december-1/.243466
 
-With this episode, our magical girl murder mystery kicks into high gear.
+Spy romance manga launched in March earlier this year
 
-### New Girls Band Cry Anime Film's Teaser Unveils May 21 Opening
-Tue, 03 Nov 2026 09:22:56 -0500 — https://www.animenewsnetwork.com/news/2026-11-03/new-girls-band-cry-anime-film-teaser-unveils-may-21-opening/.243482
+### 'I'm Running for Crown Princess, but All I Want is a Steady Paycheck!' Manga Ends
+Tue, 03 Nov 2026 17:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-03/im-running-for-crown-princess-but-all-i-want-is-a-steady-paycheck-manga-ends/.243474
 
-Returning cast & staff, stage production also announced
+Makana Watari's manga adaptation of Yuuri Seo's light novels launched in 2019
 
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### My Dress-Up Darling Reveals ¥1.32 Million Life-Size Marin Kitagawa Figure
+Wed, 04 Nov 2026 12:00:03 GMT — https://animecorner.me/my-dress-up-darling-reveals-1-32-million-life-size-marin-kitagawa-figure/
+
+A life-size figure of Marin Kitagawa from My Dress-Up Darling has been revealed, with pre-orders now open via the official Prime 1 Studio online store.
+
+### From Gaming to Lifestyle: TTRacing Unveils the ORA Sofa Chair BT21 Collection
+Wed, 04 Nov 2026 10:47:57 GMT — https://animecorner.me/from-gaming-to-lifestyle-ttracing-unveils-the-ora-sofa-chair-bt21-collection/
+
+TTRacing has officially unveiled its first-ever sofa chair with the ORA Sofa Chair BT21&hellip;
+
+### Black Clover Season 2 Episode 6 Previews Noelle and Charlotte Facing Vanica
+Wed, 04 Nov 2026 10:18:11 GMT — https://animecorner.me/black-clover-season-2-episode-6-previews-noelle-and-charlotte-facing-vanica/
+
+Black Clover Season 2 has released preview images and synopsis for Episode 6 (Episode&hellip;
+
+### Yasuharu Takanashi and Far East Groove Madrid Concert 2026
+Wed, 04 Nov 2026 09:54:28 GMT — https://animecorner.me/yasuharu-takanashi-and-far-east-groove-madrid-concert-2026/
+
+Far East Groove, the musical project led by composer Yasuharu Takanashi, wrapped up its&hellip;
+
+### Promise Me the Spotlight Anime Reveals Visual, Trailer, Cast, Opening Theme Song
+Wed, 04 Nov 2026 06:46:48 GMT — https://animecorner.me/promise-me-the-spotlight-anime-reveals-visual-trailer-cast-opening-theme-song/
+
+The previously announced Promise Me the Spotlight anime adaptation revealed a key visual along&hellip;
+
+### Otaku Vampire's Love Bite Anime Adaptation Announced
+Wed, 04 Nov 2026 00:20:36 GMT — https://animecorner.me/otaku-vampires-love-bite-anime-adaptation-announced/
+
+Otaku Vampire's Love Bite manga by Julietta Suzuki (Kamisama Kiss) is getting an anime&hellip;
 
 ### Jim Rugg Creates Limited Edition Astro Boy Blacklight Poster for TEZUKA! God of Manga Documentary
 Tue, 03 Nov 2026 17:58:24 GMT — https://animecorner.me/jim-rugg-creates-limited-edition-astro-boy-blacklight-poster-for-tezuka-god-of-manga-documentary/
@@ -83,12 +113,32 @@ Tue, 03 Nov 2026 12:52:35 GMT — https://animecorner.me/girls-band-cry-the-movi
 
 The previously teased Girls Band Cry THE MOVIE revealed a teaser visual and trailer&hellip;
 
-### Interview: ONE OR EIGHT on All-Or-Nothing Musical Identity, Creative Ambitions, and First Manila Concert
-Mon, 02 Nov 2026 05:57:14 GMT — https://animecorner.me/interview-one-or-eight-on-all-or-nothing-musical-identity-creative-ambitions-and-first-manila-concert/
-
-On October 23, ONE OR EIGHT brought their high-energy music to Samsung Hall, Manila,&hellip;
-
 ## MyAnimeList News
+
+### Ramen Akeneko 2nd Season Announces New Staff
+Wed, 04 Nov 2026 03:39:25 -0800 — https://myanimelist.net/news/74903763?_location=rss
+
+The official website for the television anime adaptation of Angyaman s Ramen Akaneko (Red Cat Ramen) revealed new staff and key visual (pictured) for the upcoming second season. The anime is scheduled to premiere in January 2027 on Tokyo TV. Staff Director: Hisatoshi Shimizu (Taisou Zamurai) Series Composition, Script: Shigeru Murakoshi (Kaya-chan wa Kowakunai) NEW Character design, Chief Animation Director: Michinori Chiba (SK&infin;) Art Director: Julieta Col&aacute;s (Ousama Ranking: Yuu...
+
+### Game Sekai Tensei "Dankatsu" Reveals Additional Cast, Second Teaser Promo
+Wed, 04 Nov 2026 01:24:11 -0800 — https://myanimelist.net/news/74903583?_location=rss
+
+The official website for the television anime adaptation of Kaede Nishikigi s Game Sekai Tensei "Dankatsu": Gamer wa "Dungeon Shuukatsu no Susume" wo "Hajime kara" Play suru (Reincarnation in the Game World Dankatsu: Game Addict Plays "Encouragement for Job Hunting in Dungeons" from a "New Game") light novel revealed additional cast and second teaser promotional video on Wednesday. The anime will premiere in January 2027. Cast Hannah: Ayaka...
+
+### Watashi wo Center ni Suru to Chikaimasu ka? Reveals Main Cast, Staff, Opening Theme, Teaser Promo
+Tue, 03 Nov 2026 19:37:09 -0800 — https://myanimelist.net/news/74903023?_location=rss
+
+The official website of the Watashi wo Center ni Suru to Chikaimasu ka? (Promise Me the Spotlight) television anime revealed the main cast, staff, a key visual (pictured), the opening theme, and a teaser promotional video on Wednesday. The anime series adapting Jun Wakatsuki s idol romance manga is scheduled to air on TV Tokyo s six affiliated stations. Cast Mizuki Natsuno: Haruna Mikawa (Ore dake Level Up na Ken) Kouichi Okuta: Taihi Kimura (Onmyou Kaiten Re:Birth) Awayuki Shiroi: Mai...
+
+### Mashle Gets Live-Action Movie Adaptation
+Tue, 03 Nov 2026 16:41:36 -0800 — https://myanimelist.net/news/74902561?_location=rss
+
+Production company Warner Bros. Japan announced a live-action movie adaptation of Hajime Koumoto s Mashle (Mashle: Magic and Muscles) manga on Wednesday, revealing a super teaser visual (pictured above). The live-action movie will premiere in Japanese theaters on March 19, 2027. Warner Bros. Pictures and Fuji TV are credited as production coordinators, while Credeus&mdash;the live-action studio behind the Kingdom and Golden Kanuy film series&mdash;is producing the live-action adaptation. T...
+
+### Manga Oshi ni Amagami Receives TV Anime Adaptation
+Tue, 03 Nov 2026 15:33:08 -0800 — https://myanimelist.net/news/74902452?_location=rss
+
+Production company Shogakukan-Shueisha Productions announced a television anime adaptation of Julietta Suzuki s Oshi ni Amagami (Otaku Vampire s Love Bite) manga on Wednesday, revealing special visual (pictured) and announcement promo. Suzuki (Kamisama Hajimemashita) began serializing the comedy romance manga in Hana to Yume magazine in April 2022. Hakusensha published the tenth volume on July 17, with the 11th volume scheduled to be released on November 20. VIZ Media licensed the mang...
 
 ### Kawaii dake ja Nai Shikimori-san Creator Begins Mahoutsukai no Yoru Manga Adaptation
 Tue, 03 Nov 2026 05:34:03 -0800 — https://myanimelist.net/news/74900816?_location=rss
@@ -105,6 +155,11 @@ The official website for the television anime adaptation of Nana Mikoshiba s Hyo
 _Nothing in the last 48 hours._
 
 ## Anime UK News
+
+### Honey Bee Lemon Balm: sweet moment Review
+Wed, 04 Nov 2026 10:00:05 +0000 — https://animeuknews.net/2026/11/honey-bee-lemon-balm-sweet-moment-review/
+
+Florist Yuichiro and trainee florist (and ex-con) Kaoru are going out together. But after six months, things aren’t making much progress – until Kaoru goes to someone’s aid and ends up without his wallet…
 
 ### Fan/Girl X Call/Boy Volume 1 Review
 Tue, 03 Nov 2026 10:00:55 +0000 — https://animeuknews.net/2026/11/fan-girl-x-call-boy-volume-1-review/

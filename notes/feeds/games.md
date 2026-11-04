@@ -1,6 +1,31 @@
-# Games — harvested 2026-11-03T20:16:38.433Z
+# Games — harvested 2026-11-04T12:31:58.478Z
 
 ## Eurogamer
+
+### Nexus Mods introduces new AI disclosure rules, but won't ban AI mods outright
+Wed, 04 Nov 2026 12:18:44 +0000 — https://www.eurogamer.net/nexus-mods-gen-ai-disclosure-rules
+
+Nexus Mods, the largest website for finding and downloading PC mods, has revealed new guidelines aimed at properly identifying mods created entirely using gen-AI or those created with AI assistance. Read more
+
+### The Legend of Zelda: Ocarina of Time (2026) review
+Wed, 04 Nov 2026 11:00:00 +0000 — https://www.eurogamer.net/the-legend-of-zelda-ocarina-of-time-remake-review
+
+I have a friend who first played The Legend of Zelda: Ocarina of Time back in the day, when the game was only just released and he was home from university for Christmas. This is objectively the best of all times to play any video game: not Christmas specifically, but dropped out of the regular world and faced with a few weeks filled with nothing pressing to do whatsoever. Years later, though, my friend told me that the magic of the game didn't just come down to the playing of it, but the way that the playing of it unfolded. Read more
+
+### Dragon's Dogma 2 gets a timed collaboration with beloved anime and manga series Delicious in Dungeon, and it's out right now on PC, PlayStation and Xbox
+Wed, 04 Nov 2026 10:03:46 +0000 — https://www.eurogamer.net/dragons-dogma-2-dungeon-meshi-collaboration-out-now
+
+Have you ever seen - or read - the wonderful Dungeon Meshi (known in English as 'Delicious in Dungeon')? It's a phenomenal manga series written and illustrated by Ryoko Kui, which was adapted into an anime series produced by Trigger in 2024. Long story short, it's about a group of adventurers in a fantasy world who lose an encounter with a dragon - who eats one of the party. What follows is a quest to revive the fallen party member (who happens to be the sister of one of the main characters), with the adventuring party learning to cook and eat monsters in dungeons as they uncover the stranger truth behind the world they inhabit. Read more
+
+### Guild Wars gets its first major gameplay update in almost 20 years
+Wed, 04 Nov 2026 09:59:17 +0000 — https://www.eurogamer.net/guild-wars-1-afterlife-announced-20-years
+
+ArenaNet and co-dev studio 2Weeks have announced Guild Wars Afterlife - the first major update for the game in nearly 20 years. Read more
+
+### Ubisoft and at least two other companies are interested in buying Arkane, according to new report
+Wed, 04 Nov 2026 09:17:51 +0000 — https://www.eurogamer.net/arkane-studios-ubisoft-interested-buyers
+
+Arkane Studios, which spent the last several months in limbo following Xbox's decision to divest itself from the studio, has apparently received buyout offers from several bidders. Read more
 
 ### Arc Raiders devs say that using generative AI voice acting was necessary as actors "would just go crazy if they had to read all of that"
 Tue, 03 Nov 2026 15:34:03 +0000 — https://www.eurogamer.net/arc-raiders-ai-voice-acting-would-go-crazy
@@ -37,32 +62,17 @@ Tue, 03 Nov 2026 09:56:48 +0000 — https://www.eurogamer.net/control-resonant-r
 
 Remedy - the developer behind the recently released Control Resonant - has released a scorcher of a quarterly financial report. It shows that following Resonant's release in September, the company's revenue surged by 226 percent, bringing in &euro;39.6m in Q3. Read more
 
-### Days Gone studio's next PlayStation exclusive to be revealed and released in 2027, according to new report
-Tue, 03 Nov 2026 09:18:39 +0000 — https://www.eurogamer.net/sony-bend-studio-next-playstation-game-2027
-
-Sony's Bend Studio, perhaps one of its lesser discussed development houses, has apparently been deep in development on its next title. The game is reportedly set to be announced in 2027, and released in the same year. Read more
-
-### Yakuza creator's new studio and its debut game Gang of Dragon are no more after losing funding from NetEase
-Mon, 02 Nov 2026 20:30:09 +0000 — https://www.eurogamer.net/yakuza-creator-new-studio-closed-netease
-
-Nagoshi Studio has officially shut down and its first game called Gang of Dragon is seemingly no more, months after publisher NetEase pulled funding from the Yakuza-like project. Read more
-
-### The Borderlands series has sold over 100 million copies, and Gearbox is "cooking hard on more Borderlands 4 content for next year"
-Mon, 02 Nov 2026 18:44:15 +0000 — https://www.eurogamer.net/borderlands-100-million-copies-gearbox
-
-The Borderlands series has sold more than 100m copies across all games, developer Gearbox Software has announced. No surprise, then - the studio also said it's cooking up "big plans" for the evergreen looter shooter's future. Read more
-
-### Nintendo tried adding fast travel to The Legend of Zelda: Ocarina of Time remake, before devs realised "we were missing out on the moments of discovery"
-Mon, 02 Nov 2026 18:01:38 +0000 — https://www.eurogamer.net/nintendo-fast-travel-legend-of-zelda-ocarina-of-time-remake
-
-The Legend of Zelda: Ocarina of Time is being wrapped up in all kinds of modern touches for its imminent Nintendo Switch 2 remake (that owl seems to be less chatty , for starters), but there's at least one quality-of-life feature borrowed from Breath of the Wild that the developers felt was better left on the cutting room floor: fast travel. Read more
-
-### COD Modern Warfare 4 has seemingly answered DMZ players' PvE calls with new Story Mission changes - but there are major caveats
-Mon, 02 Nov 2026 16:19:40 +0000 — https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-story-missions-pve
-
-For as long as Call of Duty: Modern Warfare 4's DMZ extraction mode has been available, there've been calls for PvE-only servers . Developer Infinity Ward , for its part, has maintained the mode is designed as a PvPvE experience , but it's now seemingly made a change offering solo players something of a compromise, albeit with caveats. Read more
-
 ## GamesIndustry.biz
+
+### Advertising Standards Authority bans mobile ads from King, Scopely, and others for misrepresenting gameplay
+Wed, 04 Nov 2026 10:43:47 +0000 — https://www.gamesindustry.biz/advertising-standards-authority-bans-mobile-ads-from-king-scopely-and-others-for-misrepresenting-gameplay
+
+The UK Advertising Standards Authority (ASA) has banned mobile ads from developers such as King and Scopely for misleading consumers with non-representative gameplay. Read more
+
+### Ubisoft reportedly seeking to acquire Arkane Lyon from Xbox
+Wed, 04 Nov 2026 08:35:49 +0000 — https://www.gamesindustry.biz/ubisoft-reportedly-seeking-to-acquire-arkane-lyon-from-xbox
+
+Ubisoft is reportedly seeking to acquire Arkane Lyon following an extension of its consultation period with Xbox. Read more
 
 ### How traditional book clubs inspired The Game Club to help gamers forge friendships as adults
 Tue, 03 Nov 2026 14:51:34 +0000 — https://www.gamesindustry.biz/how-traditional-book-clubs-inspired-the-game-club-to-help-gamers-forge-friendships-as-adults
@@ -114,21 +124,41 @@ Mon, 02 Nov 2026 13:30:00 +0000 — https://www.gamesindustry.biz/we-all-met-by-
 
 What do you get if you cross a SpaceX engineer, a TV writer, and a former professor? Read more
 
-### Among Us VR co-developer Schell Games announces second round of layoffs this year
-Mon, 02 Nov 2026 11:51:05 +0000 — https://www.gamesindustry.biz/among-us-vr-co-developer-schell-games-announces-second-round-of-layoffs-this-year
-
-VR developer Schell Games has announced a second round of layoffs this year. Read more
-
-### Gang of Dragon developer Nagoshi Studio shutters months after NetEase cut funding
-Mon, 02 Nov 2026 10:00:16 +0000 — https://www.gamesindustry.biz/gang-of-dragon-developer-nagoshi-studio-shutters-months-after-netease-cut-funding
-
-Gang of Dragon developer Nagoshi Studio has been closed after NetEase withdrew funding earlier this year. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Marvel Tokon s Magik Gets Fired Up with Free New Costume for All Players
+Wed, 04 Nov 2026 12:15:00 GMT — https://www.pushsquare.com/news/2026/11/marvel-tokons-magik-gets-fired-up-with-free-new-costume-for-all-players
+
+Seeing red. If you're playing Marvel Tokon: Fighting Souls , you'll probably be aware of the recent DLC and updates to the superhero fighter. Phoenix Cyclops has joined the roster as the first post-launch character, and to celebrate his arrival, developer Arc System Works has provided all players with a fun bonus. Read the full article on pushsquare.com
+
+### Secret PS4 Firmware Update 14.02 to Fight New Wave of Piracy, Hacking
+Wed, 04 Nov 2026 10:15:00 GMT — https://www.pushsquare.com/news/2026/11/secret-ps4-firmware-update-14-02-to-fight-new-wave-of-piracy-hacking
+
+Security fixes made to system software. Sony has deployed an unannounced PS4 firmware update in the last couple of hours for its last-gen PS4 console that is designed to combat the current wave of piracy, hacking, and jailbreaks targeting PlayStation consoles. The PS5 has received plenty of system patches in the past few weeks, and now the PS4 is subject to a firmware update. Read the full article on pushsquare.com
+
+### Dragon s Dogma 2 Is Getting Anime Crossover Updates Now, So Start Praying for Berserk
+Wed, 04 Nov 2026 03:00:00 GMT — https://www.pushsquare.com/news/2026/11/dragons-dogma-2-is-getting-anime-crossover-updates-now-so-start-praying-for-berserk
+
+Delicious in Dungeon comes to the RPG. Dragon's Dogma 2 players have had a damn good run over the last few months, and Capcom doesn't appear to be ceasing support for its open world RPG anytime soon. Having released the excellent Dark Arisen expansion in October — and reviving the title's popularity in the process — the developer is starting to roll out surprise collaborations. Read the full article on pushsquare.com
+
+### PS Store Black Friday Sale Live Now with 2,200+ PS5 Discounts
+Wed, 04 Nov 2026 00:30:00 GMT — https://www.pushsquare.com/news/2026/11/ps-store-black-friday-sale-live-now-with-2200plus-ps5-discounts
+
+Here are some of the best PS5 deals. Sony has announced its big PS Store sale for Black Friday will begin tomorrow, 4th November 2026. It's promising "thousands" of deals across PS5 and PS4 titles, and it's even shared a list of a few of the standout games that'll be discounted. We don't know how much cheaper they'll be yet, but Sony has shared the following will be part of the Black Friday sale: Read the full article on pushsquare.com
+
+### Ubisoft One of Multiple Companies to Bid for Dishonored Dev Arkane
+Wed, 04 Nov 2026 00:15:00 GMT — https://www.pushsquare.com/news/2026/11/ubisoft-one-of-multiple-companies-to-bid-for-dishonored-dev-arkane
+
+At least three bids for Arkane Studios. Ubisoft is one of multiple companies to submit a bid for Dishonored team Arkane Studios, as Microsoft looks to offload the developer in the coming weeks. That's according to Bloomberg journalist Jason Schreier, who claims that at least two other gaming firms have tried to acquire the developer. No deal has been agreed with Microsoft yet, and Xbox has also weighed up "selling the studio to its management". Read the full article on pushsquare.com
+
+### Try One of 2026 s Best PS5 Games on PS Plus Premium Now
+Wed, 04 Nov 2026 00:00:00 GMT — https://www.pushsquare.com/news/2026/11/try-one-of-2026s-best-ps5-games-on-ps-plus-premium-now
+
+Give 007 First Light a go today. The selection of limited-time Game Trials available to PS Plus Premium subscribers has been updated today with a PS5 banger: 007 First Light . The new James Bond simulator from IO Interactive is available to play for 60 minutes on the top tier of the membership service, which begins from the start of the campaign. That one hour of play should see you through the entire prologue mission, Against the Odds , and then you should have enough time left to sample the training mission, The Needle's Eye . Read the full article on pushsquare.com
 
 ### The Elder Scrolls 6: Sentinel Is Still At Least Two Years Away as Disappointment Follows New Trailer
 Tue, 03 Nov 2026 19:00:00 GMT — https://www.pushsquare.com/news/2026/11/the-elder-scrolls-6-sentinel-is-still-at-least-two-years-away-as-disappointment-follows-new-trailer
@@ -159,36 +189,6 @@ Yes way. Bill & Ted's Excellent Adventure Arcade has just been announced for PS5
 Tue, 03 Nov 2026 16:00:00 GMT — https://www.pushsquare.com/news/2026/11/south-of-midnights-director-wouldnt-have-funded-it-says-xboxs-approach-was-unsustainable
 
 David Sears explains. South of Midnight is the latest title from Compulsion Games, a studio that used to be under Microsoft's umbrella before it reclaimed its independence earlier this year . It seemingly underperformed, even with ports to other platforms, including PS5, just under a year after its Xbox launch. Read the full article on pushsquare.com
-
-### Skyrim s Successor Finally Re-Revealed as The Elder Scrolls 6: Sentinel
-Tue, 03 Nov 2026 15:30:00 GMT — https://www.pushsquare.com/news/2026/11/skyrims-successor-finally-re-revealed-as-the-elder-scrolls-6-sentinel
-
-Bethesda unveils its next RPG. It's official: The Elder Scrolls 6: Sentinel is the full title of Bethesda's next open world RPG. The subtitle has been announced as part of the developer's 40th anniversary celebrations. Confirmation comes via a very brief trailer at the end of the company's new video, which you can watch below. Read the full article on pushsquare.com
-
-### GTA 6 PS5 File Size Confirmed to Be 212GB, Physical Map Available But Not in Boxed Copies
-Tue, 03 Nov 2026 15:15:00 GMT — https://www.pushsquare.com/news/2026/11/gta-6-ps5-file-size-confirmed-to-be-212gb-physical-map-available-but-not-in-boxed-copies
-
-Preload brought forward two days. Rockstar Games has today shared more details on the launch of GTA 6 , across both its digital and physical versions on PS5. Rumoured last week via a social media account, it has now been confirmed that GTA 6 requires 212GB of space to be downloaded and installed. You'll be able to preload the game, and that option has actually been brought forward by two days. Read the full article on pushsquare.com
-
-### Sony Seemingly Winding Down PSVR2 Sales, Gone from USA Store
-Tue, 03 Nov 2026 14:45:00 GMT — https://www.pushsquare.com/news/2026/11/sony-seemingly-winding-down-psvr2-sales-gone-from-usa-store
-
-Nowhere to be seen on PlayStation Direct. Sony may be taking steps to wind down sales of its PSVR2 headset, as it's been spotted that the VR device is no longer being sold through some of its official regional outlets and at third-party retailers. For a few weeks now, fans have been picking up on the fact PSVR2 no longer appears on the official PlayStation Direct website in the USA. I did a search of the website today, and the headset is nowhere to be seen. Read the full article on pushsquare.com
-
-### Sony Commits to China Hero Project with Further Investment into Promising PS5 Games
-Tue, 03 Nov 2026 13:30:00 GMT — https://www.pushsquare.com/news/2026/11/sony-commits-to-china-hero-project-with-further-investment-into-promising-ps5-games
-
-Many titles getting an additional $1 million. While the vast majority of its four million sales have no doubt been made on PC, Sony’s enjoying a big win with the console exclusive Phantom Blade Zero right now. And at a press conference in Shanghai earlier today, it recommitted to its ongoing China Hero Project, which is now in its fourth phase. Read the full article on pushsquare.com
-
-### Bonus PS Plus Premium Game Is Out Now for PS5
-Tue, 03 Nov 2026 12:30:00 GMT — https://www.pushsquare.com/news/2026/11/bonus-ps-plus-premium-game-is-out-now-for-ps5
-
-Two games in one, actually. You have got to wait another couple of weeks to gain access to the official set of new PS Plus Premium games for this month, but in the meantime, there's been a bonus addition to the service. Not announced or highlighted by Sony or publisher Deep Silver, the new PS5 version of Metro Redux — which improves and enhances Metro 2033 and Metro: Last Light — has been added to PS Plus Premium. The old PS4 version was on there already, but now the listing has been updated to support the PS5 edition too. Read the full article on pushsquare.com
-
-### PS Store Black Friday Sale Begins Tomorrow with Thousands of PS5 Deals
-Tue, 03 Nov 2026 12:15:00 GMT — https://www.pushsquare.com/news/2026/11/ps-store-black-friday-sale-begins-tomorrow-with-thousands-of-ps5-deals
-
-Here's a teaser of some games on offer. Sony has announced its big PS Store sale for Black Friday will begin tomorrow, 4th November 2026. It's promising "thousands" of deals across PS5 and PS4 titles, and it's even shared a list of a few of the standout games that'll be discounted. We don't know how much cheaper they'll be yet, but Sony has shared the following will be part of the Black Friday sale: Read the full article on pushsquare.com
 
 ## Game Developer
 
@@ -229,109 +229,144 @@ The latest The Legend of Zelda title remakes one of the series' most beloved gam
 
 ## VGC
 
-### PlayStation s Black Friday sale includes Wolverine, Astro Bot, and more
-Tue, 03 Nov 2026 19:53:36 +0000 — https://www.videogameschronicle.com/news/playstations-black-friday-sale-includes-wolverine-astro-bot-and-more/
+### Zelda Ocarina of Time: Full Biggoron’s Sword trade sequence quest explained
+Wed, 04 Nov 2026 12:30:12 +0000 — https://www.videogameschronicle.com/guide/zelda-oot-biggorons-sword-trade-sequence-quest/
 
-Marvel's Wolverine and The Blood of Dawnwalker are amongst the recent releases included in PlayStation's Black Friday sale… Source
+Everything you need to get the Biggoron's Sword in The Legend of Zelda: Ocarina of Time on N64 or Nintendo Switch 2… Source
 
-### Itch mass deletes AI slop , lets users filter out any AI assisted games
-Tue, 03 Nov 2026 18:18:37 +0000 — https://www.videogameschronicle.com/news/itch-mass-deletes-ai-slop-lets-users-filter-out-any-ai-assisted-games/
+### The Zelda Ocarina of Time remake has shot to the top of Metacritic s best games of 2026 so far, makes its all-time top 30
+Wed, 04 Nov 2026 11:45:46 +0000 — https://www.videogameschronicle.com/news/the-zelda-ocarina-of-time-remake-has-shot-to-the-top-of-metacritics-best-games-of-2026-so-far-makes-its-all-time-top-30/
 
-Itch users can now filter out any game that has an generative AI disclaimer… Source
+Nintendo's remake is comfortably the highest reviewed game of the year to date… Source
 
-### Cyberpunk: Edgerunners 2 music video reveals entire new scenes, character backstories
-Tue, 03 Nov 2026 17:23:22 +0000 — https://www.videogameschronicle.com/news/cyberpunk-edgerunners-2-music-video-reveals-entire-new-scenes-character-backstories/
+### DD2 Dark Arisen: All Delicious in Dungeon collab items and bonuses
+Wed, 04 Nov 2026 11:18:02 +0000 — https://www.videogameschronicle.com/guide/dd2-dark-arisen-delicious-in-dungeon-collab-items-bonuses/
 
-Studio Trigger drops a music video for Cyberpunk: Edgerunners 2, delving into Weak and Avida's backstory. Source
+How to get Delicious in Dungeon collab items and Pawns in Dragon's Dogma 2: Dark Arisen… Source
 
-### A new retro-inspired game based on Bill Ted is in development
-Tue, 03 Nov 2026 16:49:22 +0000 — https://www.videogameschronicle.com/news/a-new-retro-inspired-game-based-on-bill-ted-is-in-development/
+### Zelda: Ocarina of Time Remake Review: Nintendo’s timeless masterpiece
+Wed, 04 Nov 2026 11:00:49 +0000 — https://www.videogameschronicle.com/review/zelda-ocarina-of-time-remake-review/
 
-Bill & Ted's Excellent Adventure: Arcade features the voices of Keanu Reeves and Alex Winter… Source
+Smart updates and beautiful restorations ensure this must-play Zelda stands the test of time… Source
 
-### Nintendo explains why Zelda: Ocarina of Time remake s auto jump was hard to drop
-Tue, 03 Nov 2026 16:27:58 +0000 — https://www.videogameschronicle.com/news/nintendo-explains-why-zelda-ocarina-of-time-remakes-auto-jump-was-hard-to-drop/
+### Steam says it s running behind when reviewing pre-release games because of how many re-reviews it has to do
+Wed, 04 Nov 2026 10:50:08 +0000 — https://www.videogameschronicle.com/news/steam-says-its-running-behind-when-reviewing-pre-release-games-because-of-how-many-re-reviews-it-has-to-do/
 
-A simple decision to let players jump whenever they wanted has big implications for Zelda: Ocarina of Time remake… Source
+Valve has provided a new checklist to help developers pass first time… Source
 
-### COD MW4 Multiplayer: Best meta PPSH-41 build
-Tue, 03 Nov 2026 15:53:58 +0000 — https://www.videogameschronicle.com/guide/cod-mw4-multiplayer-best-meta-ppsh-41-build/
+### Zelda Ocarina of Time Switch 2 remake review published in Famitsu
+Wed, 04 Nov 2026 09:22:16 +0000 — https://www.videogameschronicle.com/news/zelda-ocarina-of-time-switch-2-remake-review-published-in-famitsu/
 
-The best meta loadout for the PPSH-41 in Call of Duty: Modern Warfare 4… Source
+The first verdict on Nintendo's remake has been delivered… Source
 
-### COD MW4 Multiplayer: Best meta VEL 46 build
-Tue, 03 Nov 2026 15:49:17 +0000 — https://www.videogameschronicle.com/guide/cod-mw4-multiplayer-best-meta-vel-46-build/
+### Nexus Mods rules out full AI ban despite community backlash
+Tue, 03 Nov 2026 22:12:59 +0000 — https://www.videogameschronicle.com/news/nexus-mods-rules-out-full-ai-ban-despite-community-backlash/
 
-The best meta loadout for the VEL 46 SMG in Call of Duty: Modern Warfare 4… Source
+Nexus Mods rolls out new rules on AI usage in mods, but rules out banning AI mods altogether… Source
 
-### COD MW4 Multiplayer: Best meta Mosin-Nagant build
-Tue, 03 Nov 2026 15:45:11 +0000 — https://www.videogameschronicle.com/guide/cod-mw4-multiplayer-best-meta-mosin-nagant-build/
+### Ubisoft has reportedly offered to buy Arkane Lyon from Xbox
+Tue, 03 Nov 2026 21:15:26 +0000 — https://www.videogameschronicle.com/news/ubisoft-has-reportedly-offered-to-buy-arkane-lyon-from-xbox/
 
-The best loadout for the Mosin-Nagant marksman rifle in Call of Duty: Modern Warfare 4… Source
+A new report suggests that Arkane Lyon could go indie, or be bought by Ubisoft… Source
 
-### Control Resonant is the fastest selling game in Remedy’s history, says CEO
-Tue, 03 Nov 2026 15:33:46 +0000 — https://www.videogameschronicle.com/news/control-resonant-is-the-fastest-selling-game-in-remedys-history-says-ceo/
+### Expanding Horizons: How Wuthering Waves Won Over a Global Audience Through Sustained Live Support
+Tue, 03 Nov 2026 21:05:22 +0000 — https://www.videogameschronicle.com/news/expanding-horizons-how-wuthering-waves-won-over-a-global-audience-through-sustained-live-support/
 
-Control Resonant reached one million in sales on the same day as its physical release… Source
+Wuthering Waves is now more than two years old, but somehow, it’s bigger and more … Source
 
-### COD MW4 Multiplayer: Best meta Axion build
-Tue, 03 Nov 2026 15:32:26 +0000 — https://www.videogameschronicle.com/guide/cod-mw4-multiplayer-best-meta-axion-build/
+### Xbox s first wave of November Game Pass releases includes Vampire Crawlers
+Tue, 03 Nov 2026 20:51:19 +0000 — https://www.videogameschronicle.com/news/xboxs-first-wave-of-november-game-pass-releases-includes-vampire-crawlers/
 
-The best Axion assault rifle loadout in Call of Duty: Modern Warfare 4… Source
+Xbox reveals the additions to Game Pass coming in the first half of November… Source
 
 ## Polygon
 
-### Sony Pushes PS5 Owners To Trade In Consoles Amid Unprecedented Price Hikes
-Tue, 03 Nov 2026 19:48:27 GMT — https://www.polygon.com/ps5-trade-in-sony-offer-how-much-pro-digital-model-refurbished-used/
+### The Zelda: Ocarina of Time Remake Is the Best-Reviewed Game of the Year by Far
+Wed, 04 Nov 2026 12:30:49 GMT — https://www.polygon.com/the-legend-of-zelda-ocarina-of-time-remake-switch-2-review-roundup/
 
-The future of affordable video game consoles is not looking good, and hardware makers like Sony know it. The PlayStation 5 has undergone two major price hikes while the Xbox Series X has jumped in price three times in a single year. The AI-driven VRAM crisis at the heart of the issue is expected to worsen. Given the supply constraints, Sony has limited options for selling PS5s at prices customers might find acceptable.
+Nintendo has been deluged with rave reviews for The Legend of Zelda: Ocarina of Time , its Switch 2 remake of the classic 1998 adventure.
 
-### For GTA 6, Xbox Put an Xbox Series X in an Alligator
-Tue, 03 Nov 2026 19:40:39 GMT — https://www.polygon.com/xbox-alligator-console-giveaway-november-2026/
+### 20 Years Later, Bong Joon-Ho Looks Back at His Sci-Fi Thriller Masterpiece: 'It Was a Very Tough Process'
+Wed, 04 Nov 2026 12:00:18 GMT — https://www.polygon.com/bong-joon-ho-the-host-4k-interview/
 
-Xbox has come up with a rather unusual way to celebrate Florida wildlife ahead of the upcoming Grand Theft Auto 6 launch, unveiling a custom Xbox Series X that looks like it has been swallowed whole by an alligator. Even stranger, the console inside actually works, and one lucky fan could soon have the bizarre gaming accessory sitting in their home.
+"I don't know exactly what it was," Bong said at the time. "What is clear is that it was a living creature, and it wasn't human. Its size was probably similar to a monster from a movie."
 
-### 'Overwatch’s New Mythic Skin Shows Blizzard Is Finally Shaking Things Up
-Tue, 03 Nov 2026 19:05:17 GMT — https://www.polygon.com/overwatch-mid-season-update-stellar-blade-roadhog-mythic/
+### Netflix's Assassin's Creed Live-Action Series Officially Wraps Up Filming
+Wed, 04 Nov 2026 11:13:13 GMT — https://www.polygon.com/netflix-assassins-creed-live-action-filming-complete/
 
-Overwatch season 5's mid-season update is here, and with it comes quite a lot more than your typical mid-season update. Staples like Junkrat's Loot Hunt return, and it coincides with another round of the Excavation Initiative this time. There's a big end-of-season story event set in Rialto that caps off Vendetta's rise to (and recent fall from) power and locks some of its rewards behind a paid pass. And rather unexpectedly, there's also an Overwatch x Stellar Blade collaboration.
+Netflix unveiled its plans to make a live-action Assassin's Creed series in 2020 . Development only began in 2025 when Halo 's screenwriter David Wiener and Roberto Patino came on board . Six years after the announcement of this project, as reported by Matt's Inside Line , filming is complete. It's now time to get it ready for the TV screen as the series enters the post-production phase.
 
-### Playstation Store Black Friday 2026 Sale Officially Revealed
-Tue, 03 Nov 2026 18:35:23 GMT — https://www.polygon.com/playstation-store-black-friday-2026-ps5-deals-announced/
+### The Legend of Zelda: Ocarina of Time Is Still Perfect on Switch 2 | Review
+Wed, 04 Nov 2026 11:00:17 GMT — https://www.polygon.com/the-legend-of-zelda-ocarina-of-time-switch-2-review/
 
-Sony is starting the Black Friday festivities early this year. The company has revealed that PlayStation 's 2026 Black Friday Sale will start sooner than expected and last longer than usual. That means PlayStation 5 owners have plenty of time to take advantage of countless deals on games, including a handful of this year's GOTY contenders . There may be a downside, though, for anybody hoping for a discount on hardware.
+As the time-afflicted Link comes to learn in the seminal Nintendo 64 classic, a lot can change in seven years. Shifting political struggles leave a neighborhood in total disrepair. That one local eccentric he came to love is nowhere to be seen. There’s a Starbucks — or an archery range, I mean — in town now. Seriously? But underneath the jarring changes that taunt your memory, you know that the place that you love is still there. You can feel its heart beat when you plant yourself in the shade of that tall tree you played around as a kid.
 
-### Zelda: Ocarina of Time's Most Hated Dungeon Gets Reworked in Remake
-Tue, 03 Nov 2026 18:32:18 GMT — https://www.polygon.com/the-legend-of-zelda-ocarina-of-time-water-temple-fixed/
+### Apple TV's Best Sci-Fi Show Begins Filming for Season 2, but the Wait Will Be Long
+Wed, 04 Nov 2026 10:19:27 GMT — https://www.polygon.com/pluribus-season-2-start-filming-apple-tv/
 
-The Legend of Zelda: Ocarina of Time is rightly praised as one of the best games ever made, but that exalted status has always come with a caveat: the Water Temple stinks. It seems that the people working on Ocarina of Time ’s imminent remake are very much aware of this.
+Apple TV's hit 2025 sci-fi show, Pluribus , has reportedly started filming for its season 2. On Oct. 1, Production List reported that Pluribus season 2 was in pre-production, with filming scheduled to begin on Oct. 31. While Apple has not released any official statements, Forbes reported on Nov. 2 that shooting for season 2 of Pluribus has begun in Albuquerque, New Mexico.
 
-### Overwatch Mid-Season 5 Patch Notes Released With Big Tweaks
-Tue, 03 Nov 2026 18:30:18 GMT — https://www.polygon.com/overwatch-season-5-mid-season-patch-notes-dmon-illari-doctrine/
+### 'Wonder Man' Actor Officially Breaks Silence on the Marvel Show's Sudden Cancellation
+Wed, 04 Nov 2026 09:30:17 GMT — https://www.polygon.com/wonder-man-season-2-canceled-joey-pants/
 
-The penultimate season of Blizzard's big Overwatch revamp is coming to a close in the next few weeks, and Blizzard's got quite a lot more hero tweaks than usual in the mid-season patch notes. Some of them are minor, prompted by this season's changes to projectile sizes. Reaper's a big guy and an easier target now, for example, so Blizzard's bumped up his base health. Meanwhile, Illari's primary fire charge finally gets dropped a bit, and her healing pylon pumps out a bit more health. It's not quite the full kit overhaul folks have been asking for in the last few months, but it's a start.
+Marvel Studios ' six-year experiment in streaming television seems to be winding down, at least for the moment. This has been clear for a while now (despite some vague promises of more new series in the future), but perhaps the biggest sign that the Marvel Cinematic Universe was retreating from live-action TV was the sudden cancellation of Wonder Man .
 
-### The Elder Scroll 6: Sentinel's Name Quietly Teases Juicy 'Skyrim' Sequel
-Tue, 03 Nov 2026 17:55:26 GMT — https://www.polygon.com/tes6-elder-scrolls-6-sentinel-name-skyrim-lore-hammerfell-quote-meaning/
+### 25 Years Later, Aragorn's Best Lord of the Rings Quote Still Defines the Entire Trilogy
+Wed, 04 Nov 2026 09:00:17 GMT — https://www.polygon.com/aragorn-lord-of-the-rings-best-quote/
 
-Eight years after the original announcement , we've finally learned the name of Bethesda's next RPG: The Elder Scrolls 6: Sentinel . Since the developer didn't show any gameplay footage, all fans can really do is muse on the meaning of the title. As disappointing as that is, Elder Scrolls loreheads do have plenty to chew on.
+Peter Jackson’s adaptation of J.R.R. Tolkien’s The Lord of the Rings trilogy remains one of cinema’s most poignant and beautiful works. For better or worse, the trilogy also helped shape the visual style we now associate with fantasy. No matter how much time has passed, The Lord of the Rings has left a lasting mark on the genre.
 
-### 'Control Resonant' Becomes a Much-Needed Surprise Hit for Remedy
-Tue, 03 Nov 2026 17:51:12 GMT — https://www.polygon.com/control-resonant-sales-remedy-fastest-selling-game/
+### GTA 5’s Unsolvable Mystery Broke Fans for Over a Decade, and GTA 6 Should Do It Again
+Wed, 04 Nov 2026 04:00:17 GMT — https://www.polygon.com/gta-5-mount-chiliad-mystery-unsolvable-broke-fans/
 
-Fans of Alan Wake and Control creator Remedy Entertainment can finally breathe a sigh of relief. After executive shake-ups and fiscal underperformance at the beloved studio, it seems that the team’s latest game is finding an audience. In a new report released on Tuesday, Remedy wrote that Control Resonant “received excellent player reception and became the fastest-selling Remedy game to date .” The company's third-quarter revenue more than tripled compared to last year, surging by 226%.
+In Grand Theft Auto 5 , one landmark was visible practically no matter where you were in San Andreas: Mount Chiliad. "Claimed by the Spanish in 1769, Mount Chiliad is the highest peak in San Andreas, sitting at a height of 2,744 meters," reads a sign at the nearby Silent Probe Mountain art installation. "Taken under Mexican control in 1821, it was then, and remains in American hands since 1847."
 
-### 'Spider-Man: Brand New Day' Director’s Next Movie Officially Picked up by Sony
-Tue, 03 Nov 2026 17:19:21 GMT — https://www.polygon.com/naruto-live-action-movie-sony-lionsgate-destin-daniel-cretton/
+### 'It Follows' Star Officially Addresses Her Return to Another Iconic 2010s Thriller Franchise
+Wed, 04 Nov 2026 01:00:17 GMT — https://www.polygon.com/the-guest-2-maika-monroe-interview/
 
-The live-action Naruto movie is officially moving forward, thanks to some help from Sony. The anime adaptation from Destin Daniel Cretton ( Spider-Man: Brand New Day , Short Term 12 ) has been in the works at Lionsgate and is now set to begin production next year. This marks yet another collaboration between Cretton and Sony, a partnership that saw massive success this year with the latest Tom Holland Spider-Man movie.
+Maika Monroe has built a career as a modern scream queen. After a breakout 2014, when she starred in both It Follows and The Guest , she became a key figure in horror, continuing to revisit the genre in everything from Longlegs to Victorian Psycho . This year, both It Follows and The Guest have been a part of the horror conversation: It Follows just wrapped a sequel, wonderfully titled They Follow , while The Guest just received a quasi-sequel with Onslaught , which director Adam Wingard set in the same continuity as his previous 2014 film.
 
-### D&D’s World of Warcraft Crossover Is the Bold Shake-Up the Game Needed
-Tue, 03 Nov 2026 17:00:18 GMT — https://www.polygon.com/dungeons-dragons-world-warcraft-review/
+### The Wendy’s JRPG Is a Searing Anti-Capitalist Screed About Humans Making Real Art
+Tue, 03 Nov 2026 23:00:17 GMT — https://www.polygon.com/wendyquest-81monkeys-interview-wendys-jrpg/
 
-Wizards of the Coast has been playing things safe since updating the rules of Dungeons & Dragons 5th Edition in 2024. After lead designers Jeremy Crawford and Chris Perkins left Wizards in 2025 to join Critical Role ’s Darrington Press, Wizards slowed the pace of new D&D releases. Recent books have focused mostly on updating the lore and rules for the game’s most popular campaign settings and rebalancing previously published character options. D&D’s newest release bucks the trend, delivering an ambitious collection of innovative character options, monsters, and ways to use some of the game’s less developed subsystems. It just requires venturing to a new world.
+Over the past year, Wendy’s — yes, the same Wendy’s known for its square burgers, thick milkshakes, and unlikely stewardship of a mid-tier donut chain — has made waves through a series of unconventional creative partnerships. Amid slumps in sales and attention , Wendy’s has turned to popular artistic mediums, like music and video games, to try and reverse course.
 
 ## PC Gamer
+
+### WoW: Forever's massive pre-launch balance patch breaks from the chains Classic power, increasing 'the health of higher level creatures to compensate'
+Wed, 04 Nov 2026 11:45:45 +0000 — https://www.pcgamer.com/games/world-of-warcraft/wow-forevers-massive-pre-launch-balance-patch-breaks-from-the-chains-classic-power-increasing-the-health-of-higher-level-creatures-to-compensate/
+
+Best MMOs : Most massive Best strategy games : Number crunching Best open world games : Unlimited exploration Best survival games : Live craft love Best horror games : Fight or flight ]]>
+
+### Dodgy download and spoofed job ad led to $6.3 billion Binance hack: attacker offered fake software and fake job to infiltrate company wallets and steal billions
+Wed, 04 Nov 2026 11:12:58 +0000 — https://www.pcgamer.com/software/security/dodgy-download-and-spoofed-job-ad-led-to-usd6-3-billion-binance-hack-attacker-offered-fake-software-and-fake-job-to-infiltrate-company-wallets-and-steal-billions/
+
+A chain of events that led to a record-breaking $6.3 billion mega-hack began with a dodgy download, so says the company that was hacked , Binance. The world's largest cryptocurrency exchange says that the hack was not a "single isolated breach or simple phishing incident"; multiple steps were required to break through its security measures. It all began when a Wallet DevOps engineer (named Engineer A) downloaded a tampered Homebrew installation that was suggested to them by an unnamed search engine. Homebrew is a third-party package manager for macOS. A report from the SANS Technology Institute , linked to in Binance's investigation, suggests that malicious adverts for Homebrew have been spotted in search engine results, hoping to ensnare users into installing malware on a user's PC. "Our security team detected the anomaly, replaced the device, and rotated all related credentials as a proactive security action," Binance says. "However, Engineer A’s role and his related colleagues on our wallet infrastructure team was exposed to the hacker." https://t.co/sU9dUqLQDH November 3, 2026 Then came a separate incident with a software engineer (named Engineer B). They were contacted through a job hunting platform (Binance says it was a legitimate platform) and was asked to attend a first-round interview with a HR representative. This was followed by up a second-round interview with the CEO. Not the HR representative, nor the CEO, however, were real; the company was made up. The aim of
+
+### Bethesda's associate art director really did try to fit 7,000 actual steps into Skyrim's 7,000 Steps: 'I take no responsibility for the Frost Troll'
+Wed, 04 Nov 2026 00:18:41 +0000 — https://www.pcgamer.com/games/the-elder-scrolls/bethesdas-associate-art-director-really-did-try-to-fit-7-000-actual-steps-into-skyrims-7-000-steps-i-take-no-responsibility-for-the-frost-troll/
+
+When the Greybeards invite you to High Hrothgar in Skyrim, you have to climb a mountain to reach them. There's a messenger called Klimmek waiting in the village of Ivarstead at the bottom to warn you what an arduous journey this is going to be. To get to the top of the Throat of the World, he says, you have to work your way up The 7,000 Steps. It's well-documented that there aren't actually 7,000 steps carved into the side of the mountain. Some of them are buried under the snow, making an exact count impossible, but the actual number is closer to 700. And even if you argue that The 7,000 Steps refers to the number of footsteps it takes to ascend the mountain, according to the dedicated researchers at the Ultimate Elder Scrolls Portal it only takes "approximately 2,400 footsteps" to get there. As part of Bethesda's 40th anniversary, which included the reveal of The Elder Scrolls 6's subtitle , the studio reminisced about their previous work , which is how we know they really did try to get 7,000 steps into the side of the mountain. Of course, like most open world games, Skyrim isn't designed to scale—otherwise the capital city of Solitude would have a population of less than 100 people. But in the same way that for every named NPC we should assume there are a bunch of people off-camera, distances are compressed so that it doesn't take a week to get anywhere. For every step we watched the Dragonborn climb there are another nine implied steps we don't see, and even more frost tr
+
+### Valve admits it's 'running behind' on approving Steam games because it has to keep re-reviewing them, which surely has nothing to do with AI
+Tue, 03 Nov 2026 23:51:13 +0000 — https://www.pcgamer.com/gaming-industry/valve-admits-its-running-behind-on-approving-steam-games-because-it-has-to-keep-re-reviewing-them-which-surely-has-nothing-to-do-with-ai/
+
+A new kind of Steam problem has emerged: Games keep missing their release dates because Valve can't keep up with approving them. Several frustrated indie devs have publicly posted about the limbo status of their finished games in the past week—including the developers of Food Devils, Wheel Make It, and Cubic Earth—saying that their applications have gone unanswered after up to 20 days, despite Valve's listed review window of three to five business days. In the case of Cubic Earth, developer structmira hasn't been able to contact Valve and has no choice but to wait. "Our game's trailer amassed more than 60,000 views on YouTube, and we had more than 6,000 wishlists," the developer told PC Gamer over email. "Now, our Steam Community page is rapidly filling with player complaints, and we've lost all momentum." Valve commented on the backlog today in the form of a Steamworks update aimed at helping developers pass the preview process. In it, the company admitted that it's "running a little behind" with wait times that are up to double the usual. "We aim to test every game build in a timely manner, typically within 3-5 days. However, we're running a little behind right now and taking up to 12 business days," Valve's FAQ reads. "Much of that delay is due to having to re-review games, which isn't great for you or for us." The update itself is, primarily, a new series of checklists that places the onus on developers to submit better applications that "pass review quickly the first tim
+
+### Google criticized by NYC mayor Zohran Mamdani following AI policy change: 'Google is trying to use its monopoly power to force AI into our public schools'
+Tue, 03 Nov 2026 22:58:03 +0000 — https://www.pcgamer.com/software/ai/google-criticized-by-nyc-mayor-zohran-mamdani-following-ai-policy-change-google-is-trying-to-use-its-monopoly-power-to-force-ai-into-our-public-schools/
+
+Saying that it believes "schools should have control over AI in their classrooms," Google announced today that it will turn off access to its AI tools for K-12 student accounts. But there's a catch: Along with those AI tools, it will also disable Google search functionality. In a blog post entitled " Designing responsible AI for learning ," Chris Phillips, Google's vice president and general manager of education, extolled the virtues of AI tools in "productive struggle," which he described as "enabling students to be actively challenged without getting so overwhelmed that they give up." "That's the philosophy behind Guided Learning ," Philips wrote. "In Gemini, Guided Learning acts as an interactive study tool that coaches students through the process of problem solving through open-ended questions and step-by-step breakdowns. Our research shows that Guided Learning leads to measurable learning gains for students, and we're now bringing Guided Learning to more products." Those products include Google Search and Google Classroom. "After listening to schools, teachers, leading researchers, and policymakers, we are now updating our approach to controls for Gemini, Gemini Notebook, Gemini in Classroom, and Google Search," Phillips continued. "Access to these products will be entirely off for K-12 student accounts until school administrators explicitly turn them on." It sounds like Google Search on student accounts can be re-enabled separately, but that also ushers AI back into th
+
+### Ubisoft reportedly wants to buy Arkane from Xbox
+Tue, 03 Nov 2026 22:12:35 +0000 — https://www.pcgamer.com/gaming-industry/ubisoft-reportedly-wants-to-buy-arkane-from-xbox/
+
+A new report from Bloomberg says Dishonored developer Arkane might not be as doomed as it appeared last month, as multiple companies have made offers to acquire the studio. Citing "people familiar with the negotiations," the Bloomberg report says Ubisoft is among Arkane's suitors, as are at least two other unnamed gaming companies. Xbox has also considered selling the studio to its own management, effectively making it independent, although whether that option is still on the table isn't clear. Despite producing an enviable slate of acclaimed immersive sims over the years (until it was compelled by senior leadership to do otherwise ), Arkane fell victim to the Xbox "reset" in July that saw thousands of employees laid off (with more still awaiting their fates) and four studios cast adrift. Arkane avoided being the fifth, reportedly thanks to France's "Florange Law" that compelled Xbox to search for a buyer before pulling the plug. The deadline for that search was November 13, after which Arkane would be shuttered—but a few weeks ahead of that date, Microsoft extended it by a month , to "explore options, including finding a partner to support the studio through the development work still ahead," a reference to the Marvel's Blade game Arkane currently has in development. That extension suggested there was at least some hope that Arkane might find a new home, instead of being closed. Going from Xbox to Ubisoft could be viewed as a "frying pan to fire" move, given Ubisoft's own on
+
+### Control Resonant is Remedy's fastest-selling game to date, tripling the studio's quarterly revenue
+Tue, 03 Nov 2026 21:54:41 +0000 — https://www.pcgamer.com/games/action/control-resonant-is-remedys-fastest-selling-game-to-date-tripling-the-studios-quarterly-revenue/
+
+It's been a good few months for Remedy Entertainment. In its latest financial results , the Finnish game developer announced that its third quarter revenue had more than tripled to €39.6 million ($44.3 million) from the €12.2 million ($13.7 million) it made during the same quarter last year. That spike in income is all thanks to preorders and launch sales of Control Resonant—of which only the first seven days of sales were counted in Remedy's third quarter figures. On October 15, Resonant sold its millionth copy, making it the fastest-selling game in Remedy history. (Image credit: Remedy Entertainment) "This is our first self-published game of this scale, built on our own Control IP," said Remedy CEO Jean-Charles Gaudechon, who was appointed to the position earlier this year . "Praised by players and critics alike, it marks a defining milestone for the company." Gaudechon also noted that "close to 50%" of Resonant players were Control newcomers, indicating the sequel had achieved "a key goal" of expanding the audience for Remedy's brand of stylish interdimensional sicko content. Its mission for the immediate future, the CEO said, is to continue delivering Resonant to more interested players—2.4 million of whom still have yet to turn their wishlists into purchases, according to Remedy data. "Our priority now is to get Control Resonant into the hands of more players. Excellent player reviews, penetration in all our target markets and a substantial outstanding wishlist base give
 
 ### Crowning the greatest FPS mode of all time through 1v1 combat—SEMIFINALS!
 Tue, 03 Nov 2026 19:41:04 +0000 — https://www.pcgamer.com/games/fps/crowning-the-greatest-fps-mode-of-all-time-through-1v1-combat-semifinals/
@@ -358,42 +393,17 @@ Tue, 03 Nov 2026 17:50:31 +0000 — https://www.pcgamer.com/games/action/the-lat
 
 Konami might have finally set down the Metal Gear Solid Master Collection Vol 1 to focus on releasing Metal Gear Solid 4 from its PS3 prison, but modders continue chipping away at the PS2-and-earlier era Metal Gear games. MGSHDFix, whose mission statement is to repair broken visual bugs, fix crashes, and generally give the older Metal Gears a bit of a spitshine, has got a big new update. Now is the era of MGSHDFix 5.0 (actually, 5.0.1. There was a hotfix). "We've got performance improvements, massive vanilla loading time reductions for MGS2, loose .MP3/.WAV/.OGG/FLAC soundtrack loading for MG1/MG2, WIP raw mouse input support, and loads of new restoration and bugfixes", writes author Afevis Solmunko. There are, to be honest, way too many fixes to properly delve into here, so I recommend either checking the patch notes out yourself or taking the mod for a spin in your preferred Metal Gear. We can call out some of the big ones, though. For example, want to play Metal Gear 2 as Mel Gibson? No? Well that's a shame, bucko, because MGSHDFix 5.0 provides an option to restore that game's MSX2 sprites. "Yes, you can finally experience Mel Gibson fighting Sean Connery as Kojima intended," writes Solmunko. Also in the OG MGs, there's now an option "to make doors automatically check your inventory for keycards (how MGS2 keycards work)", which frankly sounds blasphemous to me. We're keeping track of all the Amazon Prime Day PC gaming deals here More practically, the latest version of the 
 
-### World of Warcraft's D&D crossover is neat, but inconsistent—novel on one page, then shrugging and pointing to the PHB you already own on the next
-Tue, 03 Nov 2026 17:00:00 +0000 — https://www.pcgamer.com/games/world-of-warcraft/world-of-warcrafts-d-and-d-crossover-is-neat-but-inconsistent-novel-on-one-page-then-shrugging-and-pointing-to-the-phb-you-already-own-on-the-next/
-
-World of Warcraft's big crossover with Dungeons & Dragons is finally here—and despite being a huge flagship collaboration, one of the biggest MMOs meeting with one of the biggest TTRPGs, I'm sad to say I'm feeling just a touch whelmed. This sourcebook is inconsistent—filled with very cool character options in some places, and just pointing at the already-existing player's handbook in others. That inconsistency doesn't let the whole project down, mind. There are still some rules tucked away in here that I think are great additions to any campaign, not just a World of Warcraft-themed one. Let's start with the big one: Classes. WoW and D&D do have a lot of overlap in terms of class fantasy—there's not much in the way of appreciable differences between a Fighter and a Warrior, other than a few iconic abilities being missing from the pack. As a result, this rulebook essentially uses the pre-existing classes as a template to throw some WoW flavour on. Some of these changes are meaningful—take, for example, the Death Knight. This uses the Paladin's chassis, but throws in a ton of impactful changes, replacing Lay on Hands with Death Coil, for example. It also throws a whole new raft of Death Knight-adjacent spells, adjusts your Find Steed with a cool undead ghost that can phase through objects, and more. A lot of the classes are solved by custom spells like this—the Paladin, for instance, has just the one new subclass to cover for Holy and a bunch of iconic Paladin spells. But the ba
-
-### The Elder Scrolls 6: Sentinel is finally made official
-Tue, 03 Nov 2026 15:33:59 +0000 — https://www.pcgamer.com/games/the-elder-scrolls/the-elder-scrolls-6-sentinel-is-finally-made-official/
-
-Eight years after it was announced , it's finally officially official: The next RPG in Bethesda's long-running Elder Scrolls series is called Sentinel. The title was revealed in a video celebrating Bethesda's 40th anniversary, narrated by Todd Howard (of course), who cast back to the studio's first game, Gridiron—Bethesda was big on sports games back in the day—before moving into The Elder Scrolls series, the games that would take it to the big leagues, in the early 1990s. "As we're here in the 40th anniversary, we think about all of the games we've made," Howard says as the video draws to an end. "And so even though yes, we're looking back,we're also looking forward to all we're doing, particularly with the Fallout franchise and obviously The Elder Scrolls. You know, everybody's always asking about Elder Scrolls 6. And we thought, hey, given the moment, what a perfect time to tell you what The Elder Scrolls 6 is actually called." And thus is the title revealed: Sentinel . There's an interesting quote after the title is revealed: "The scroll offered only a shimmer, a veil thinly lifted to my eyes. A future lost. A victory undone. Sands of time scattered by fate." Those words were uttered by Yazar, Moth Priest of High Queen Iradne of Hammerfell in the year 4E 206, which was UESP pointed out puts Sentinel at least five years after the events of Skyrim. No other details are revealed, but the title (and that quote) presumably also reveals the setting: Hammerfell, home of the redg
-
-### The top 100 PC games
-Tue, 03 Nov 2026 15:30:00 +0000 — https://www.pcgamer.com/games/the-top-100-pc-games-2026/
-
-Welcome to the PC Gamer Top 100—our annual list of the best games you can play right now. Every year, we look at the hundreds of thousands of PC games that are available to buy, and think, "yes, we can whittle this down into a numbered list". Hubris? Yes. A months-long crucible of heated arguments and impassioned pleas? Also yes. More than anything, the Top 100 is designed to capture a moment in time. It's a place where the 'canon' classics of the past rub shoulders against the fresh new hotness. Where being a game that a significant portion of the team currently loves is as important as being a game that is recognised worldwide for its contributions to the medium. It is a deeply subjective process—a way for PC Gamer's editorial team to advocate for the games they're passionate about. One member of our team has spent years attempting to get Overwatch back on the list, taking every opportunity to persuade their fellow editors to give it a chance. Not every entry required that level of dedication to earn its spot, but every pick is a game that at least a handful of our staff cares deeply about. How we make the list Ahead of the vote, the PC Gamer team is free to nominate any PC game for voting, giving us a longlist of over 300 games. Each member of the team is then asked to rate those games subjectively across three weighted categories: Quality: Is it good? A rating of the game's calibre. (60% of the Top 100 Score) Importance: Is it noteworthy? A rating of the game's influence.
-
-### Morrowind's gravity is no longer '0.01% off' in the new release of its fan-made engine, finally making it playable
-Tue, 03 Nov 2026 15:19:10 +0000 — https://www.pcgamer.com/games/the-elder-scrolls/morrowinds-gravity-is-no-longer-0-01-percent-off-in-the-new-release-of-its-fan-made-engine-finally-making-it-playable/
-
-If you are playing Morrowind in 2026, my recommendation is that you do so using OpenMW , its 18-year-old fan-made and open-source engine reimplementation that makes it run smooth as butter on any modern machine you point it at, whether you're running Windows, Linux, macOS or, hell, FreeBSD if you wanna get really sicko with it. It's simply the most convenient way to get a cromulent version of Bethesda's best game running on modern systems. And now it has a new version. Or rather, a new release candidate that will prove the basis of its upcoming 0.52 version. Released a couple of days ago, OpenMW 0.52 RC1 contains a bunch of fixes, some new features, and one minor alteration to the fundamental forces of the universe. It's not the doozy of, say, OpenMW 0.50—which added gamepad support and thereby made Morrowind on Steam Deck dizzyingly easy—but it's still pretty meaty. For instance, consider: "Water-walking actors now drown when knocked out" and "Implemented terminal velocity". Say what you like, but the second of those seems pretty meaningful for a game that contains Scrolls of Icarian Flight and the first is quite a funny sentence. The terminal velocity fix contains, within itself, a sub-fix for the basic laws of reality: "fixed gravity being 0.01% off"). We are free of our shared hell. The biggest new feature in OpenMW 0.52 is probably the lighting stuff. It's called clustered lighting and it removes "the normal per-object light limit". I don't really know what that means ei
-
-### Here's the WoW: Forever release time for your region
-Tue, 03 Nov 2026 15:00:00 +0000 — https://www.pcgamer.com/games/world-of-warcraft/forever-release-date-launch-times/
-
-(Image credit: Blizzard) WoW: Forever 's release is imminent, transporting us back to the good ol' days of adventuring through Azeroth, but with new content, visuals, plus class and race tweaks to try out. You can even create your character early and reserve your name, though that feature ends today. Forever releases on November 4 or 5 depending on where you call home, but it is a simultaneous release around the globe. Here's when you can play: West Coast US : 3 pm PST (November 4) East Coast US : 6 pm EST (November 4) UK : 11 pm GMT (November 4) Europe : 12 am CET (November 5) Australia : 10 am AEDT (November 5) New Zealand : 1 pm NZDT (November 5) For full times, check the image above. There is a preload available on BattleNet which clocks in at around 50GB, though if you've already got Classic or Retail WoW installed, the size should be smaller as the game shares some of the same files. 2026 games : All the upcoming games Best PC games : Our all-time favorites Free PC games : Freebie fest Best FPS games : Finest gunplay Best RPGs : Grand adventures Best co-op games : Better together ]]>
-
-### 2 of my favorite studios are teaming up for their first-ever showcase this week, and have a Steam sale going right now
-Tue, 03 Nov 2026 14:38:29 +0000 — https://www.pcgamer.com/games/adventure/2-of-my-favorite-studios-are-teaming-up-for-their-first-ever-showcase-this-week-and-have-a-steam-sale-going-right-now/
-
-Two of my favorite game studios getting together for a tag-team showcase in a classic PC gaming genre that doesn't get the love it deserves? You better believe I'm going to have a word or two to say about that—so allow me to draw your attention to the upcoming Point-and-Click Showcase being co-hosted by Amanita Design and Rusty Lake. The Point-and-Click Showcase will feature world premieres, release date announcements, and new demos for more than 35 adventure games of all types, including ghost stories, murder mysteries, cozy puzzle games, and whatever's going on here: (Image credit: Amanita Design/Rusty Lake) The Point-and-Click Showcase takes place on November 4, but ahead of that—as in, right now —you can take advantage of the Point-and-Click Showcase Steam Sale . Running until November 9, the sale features discounts on dozens of adventure games across a range of styles, from the classic Excavation of Hob's Barrow to the award-winning Heaven's Vault , the bizarre Dropsy , the horror of Stories Untold , and the time-wasting of The Longing . Primordia is a steal for $3, and yes, I am once again going to foist The Night of the Rabbit upon you, because it's brilliant and you can get it right now for just $2.49. You can pick up Rusty Lake's latest, Servant of the Lake , for $5.35—33% off—and while Amanita's most recent release, Phonopolis, is not on sale, Chuchel is, and I will never not recommend that. So, long story short, it's a good time to be an adventure gamer and if you 
-
-### Mike Flanagan thinks 'Warhammer is a fascinating world' but can't tell us anything else about the upcoming Warhammer 40,000 project because 'Henry Cavill would be furious'
-Tue, 03 Nov 2026 14:08:33 +0000 — https://www.pcgamer.com/movies-tv/mike-flanagan-thinks-warhammer-is-a-fascinating-world-but-cant-tell-us-anything-else-about-the-upcoming-warhammer-40-000-project-because-henry-cavill-would-be-furious/
-
-(Image credit: Prime Video) Game Workshop and Henry Cavill's Warhammer 40,000 project has been in the works for two years now , with the most recent news being that renowned horror director, writer, and showrunner Mike Flanagan—known for projects such as the Carrie miniseries or The Haunting of Hill House—has joined the crew and will be writing the script. Otherwise mum's the word concerning this project, with very little being shared about it. In fact, the most we've got so far has been Flanagan recently chatting about a few bits and pieces during his Carrie press tour. Flanagan describes the process of discovering all that Warhammer 40,000 has to offer as "a very cool and unexpected on-ramp into it, which I think is very exciting. I’m sworn to secrecy on all of it, but I'm having the time of my life working on it." It's good to hear that, at the very least, he's having fun. There's certainly a lot of material to work with here and a lot to get stuck into for a horror director. I haven't been completely convinced by some of Flanagan's projects. Midnight Mass took too long to get going, The Fall of the House of Usher felt confused, and The Haunting of Bly Manor was too much of a Hill House clone. Though, I am still intrigued to see how this Warhammer 40,000 will turn out, especially with Cavill working on it. I actually quite enjoyed Amazon's Secret Level Warhammer 40,000 short. You can hardly go wrong when focusing on the Deathwatch, but the gore and the violence still went 
-
 ## GameSpot
+
+### Guild Wars Is Getting Its First New Expansion In Almost 20 Years
+Wed, 04 Nov 2026 10:39:48 +0000 — https://www.gamespot.com/articles/guild-wars-is-getting-its-first-new-expansion-in-almost-20-years/
+
+ArenaNet may be hard at work on a new entry in the Guild Wars series , but it apparently won't stop it from releasing brand-new content for the 21-year-old original. Guild Wars Afterlife has just been announced, and it's a full paid expansion for Guild Wars arriving next January. Excitingly for old-school Guild Wars fans, Afterlife seems to bring back some content from the long-cancelled Utopia campaign , including the mystical, Mesoamerican-inspired setting of Xotecha. The new expansion will take players away from the continent of Tyria and into the Mists to explore the lost land of the dead. https://www.youtube.com/watch?v=yaHUtkayKzk The expansion's mechanics seem to be purpose-built for replayability. Xotecha's new dungeon is an ever-changing expanse called the Unformed, where no two runs will be the same. This dynamic design even extends to your character build, with a custom skill-drafting mechanic allowing you to change up your abilities on the fly. While the skill-drafting mechanic seems unique to Xotecha, playing through Afterlife lets players unlock rewards they can take back with them out of the Mists. Afterlife will be the second true expansion for the original Guild Wars, after 2007's Eye of the North. Players looking to get into the new expansion will need Guild Wars Reforged, the 2025 re-release of the original game. Alongside Reforged, ArenaNet continues to support 2012's Guild Wars 2, while the brand-new Guild Wars 3 is also in the works . When the new game w
+
+### This Custom Xbox-Inside-An-Alligator Console Is Actually One Big Ad For GTA 6
+Tue, 03 Nov 2026 21:22:30 +0000 — https://www.gamespot.com/articles/this-custom-xbox-inside-an-alligator-console-is-actually-one-big-ad-for-gta-6/
+
+Given that Sony holds the marketing rights for Grand Theft Auto 6 , Microsoft has had to get creative to promote the open-world crime game for Xbox--and the company's latest effort in that department goes big. Say Hello to the X-Bite, a playable Xbox Series X console that was designed to look like it was swallowed whole by one of Florida's millions of alligators. Microsoft only made one of these ornate consoles, and you have to win a contest to get it. Microsoft's blog post doesn't mention GTA 6 or Rockstar Games, but Xbox marketing boss Josh Munsee said the system has "pure Miami vibes," and that's a pretty obvious reference to GTA 6 given the game takes place in a stand-in, Vice City, for the popular Florida city. The blog post says the winner of the console can play "some of the biggest games of the year" using it, and that's no doubt another nod to GTA 6. https://www.youtube.com/watch?v=YJptn7J1xeI&t=1s "This November, Xbox is heading to Florida--home to incredible wildlife, unforgettable places, and every now and then, stories you have to see to believe," Microsoft said in its announcement of the X-Bite. The X-Bite is about five feet long, and the console itself sits inside the alligator, with the Nexus/Guide button illuminated through the gator's skin. The lucky winner will also get a custom Xbox controller with simulated bite marks on it. The custom console was designed by creature animatronic specialist John Nolan Studio, which did work for The Witcher and Jurassic Wo
 
 ### WoW: Forever Shamans Are Protesting Class Changes After Being Completely Ignored
 Tue, 03 Nov 2026 19:54:31 +0000 — https://www.gamespot.com/articles/wow-forever-shamans-are-protesting-class-changes-after-being-completely-ignored/
@@ -445,17 +455,32 @@ Tue, 03 Nov 2026 14:14:06 +0000 — https://www.gamespot.com/articles/south-of-m
 
 Xbox funded and published 2025's South of Midnight, a highly acclaimed action-adventure game set in the American Deep South. The game's creative director, David Sears, said he believes South of Midnight is a "generational" game that he hopes people discover and play for a long time and one that he thought would help elevate the "prestige" of Xbox. At the same time, Sears said he wasn't sure Microsoft's spending spree under the previous leaders Phil Spencer and Sarah Bond--which is how Sears' studio Compulsion got the funding to make South of Midnight--was going to work out long term. "I literally told people, I was like, 'Yeah, wow, this could be terrible.' Because somebody is going to say, someday, 'The money tap ... we're closing those floodgates.' And that's going to have really traumatic results downstream," he told Ben Hanson on MinnMax . https://www.youtube.com/watch?v=815z1trpMdQ Microsoft spent billions and billions of dollars to buy studios and franchises to help get Xbox Game Pass off the ground. The bet did not work out , and now Spencer and Bond are out. The new Xbox CEO is Asha Sharma, and one of her first moves was to cut costs dramatically with layoffs, studio divestures--including Compulsion--and game cancellations. Sharma also talked about how Game Pass needs to evolve into something that's "more enticing to a broader range of customers.” Asked directly if he had been in control of the Xbox funding at the time, would Sears have stopped writing checks for game
 
-### Remedy s Big Bet On Control Resonant Appears To Be Paying Off
-Tue, 03 Nov 2026 13:51:01 +0000 — https://www.gamespot.com/articles/remedys-big-bet-on-control-resonant-appears-to-be-paying-off/
-
-Following the September release of Control Resonant , business is boomin' for developer Remedy Entertainment. The studio reported that its third-quarter revenue surged 226% to €39.6 million / $44.3 million after the game's release, following the financial review period on October 15, a feat CEO Jean-Charles Gaudechon called "a defining milestone" for Remedy. In terms of operating profit, Remedy said it made €0.6 million / $670,794, and while that may not sound like much, it's still better than the €16.4 million / $18.3 million loss the studio posted in the same quarter last year. Control Resonant has sold over 1 million units, making it Remedy's fastest-selling title to date, with most sales coming from the US. The game has also been popular in the US and the UK, and Remedy says that half of the players were new to the franchise. https://www.youtube.com/watch?v=f1LEHPr8e_o&pp=0gcJCSsMAYcqIYzv "Reaching new players was a key goal for this game, and these early results indicate a growing audience for the franchise and for Remedy," Gaudechon said, adding that the developer is looking to get the game into the hands of more people. Control Resonant's predecessor, Control, also saw increased sales, and that financial runway will help Remedy as it continues working on other projects, like its Max Payne 1 & 2 remake. Gaudechon also noted that Control Resonant is currently on 2.4 million wishlists, which could provide a "substantial potential audience" for the future. "Excellent playe
-
-### Borderlands Franchise Hits 100 Million Sales As Gearbox Hints At What s Next
-Tue, 03 Nov 2026 13:17:37 +0000 — https://www.gamespot.com/articles/borderlands-2-is-still-the-best-selling-game-in-the-series-despite-borderlands-4-milestone/
-
-The Borderlands franchise has reached a new sales milestone, as developer Gearbox Software announced that Borderlands 4 had pushed the series over the 100 million units sold mark. Celebrating the achievement, the studio also took time to reveal what's next for Borderlands 4 as it enters its second year, as well as plans it's busy cooking up for the IP. "We just wrapped our Year 1 roadmap, and the team is cooking hard on more Borderlands 4 content for next year," Gearbox wrote in a blog post , adding that weekly activity refreshes and Community Challenges will continue in the game. So what's next for Borderlands? Gearbox says that it's "a bigger look at the franchise as a whole," and it's also listening to fans to gauge which characters they want to spend more time with. https://www.youtube.com/watch?v=PbS1fqf-Yb8 Don't expect Gearbox to drop a Borderlands 5 announcement anytime soon, as the developer said it needs time and space to work on future projects. "Big plans take time, and we need some room to work. You can trust that we’ll talk more when the time is right," Gearbox added. Thirteen months ago, Gearbox Software boss Randy Pitchford had predicted that Borderlands 4 would continue to sell millions of copies and would help the franchise cross the 100 million units sold line eventually. "We will break 100 million units with this launch, easily, all in, with the franchise," Pitchford said at the time. To put that in perspective, the Borderlands franchise had sold 94 millio
-
 ## Rock Paper Shotgun
+
+### The Elder Scrolls 6: Sentinel already has a Nexus Mods page, so now all we have to do is wait
+Wed, 04 Nov 2026 12:08:24 +0000 — https://www.rockpapershotgun.com/the-elder-scrolls-6-sentinel-already-has-a-nexus-mods-page-so-now-all-we-have-to-do-is-wait
+
+Aha. Here it is . Freshly poked live and right on time . Now, we wait for the inevitable flood of mods, like the ceaseless current of add-ons which still flows into Skyrim . Read more
+
+### Smash hit cyberpunk storekeeper Probably Stolen was originally a different, non-cyberpunk game that seemed destined to sink without trace
+Wed, 04 Nov 2026 11:00:00 +0000 — https://www.rockpapershotgun.com/smash-hit-cyberpunk-storekeeper-probably-stolen-was-originally-a-different-non-cyberpunk-game-that-seemed-destined-to-sink-without-trace
+
+Space station trading game Probably Stolen &ndash; Cyberpunk Shopkeeper Sim has been doing rather well on Steam, attracting over 162,000 concurrent players last night. I've been feeling the urge to fire it up again myself, after my brief launch-day trawl through its quagmire of black market economics and factional rivalries. The game's big numbers come as a shock given that it began life as another, non-cyberpunk kiosk job sim called Deepspace Emporium, which still has a Steam page as of writing. Deepspace Emporium seemed doomed to fizzle out in obscurity. But publisher tinyBuild got behind it regardless, working with developers Questing Goose to overhaul the art direction and lay on extra brainchips. The gamble paid off. Read more
+
+### "An outright ban will not eliminate AI from the modding process," Nexus Mods say as they rule out barring generated creations from their site
+Wed, 04 Nov 2026 10:34:07 +0000 — https://www.rockpapershotgun.com/nexus-mods-rule-out-barring-ai-generated-creations-from-their-site
+
+The owners of Nexus Mods have ruled out instituting an outright ban on AI-generated works being uploaded the site, instead opting to expand their current rules on modders disclosing how they've used AI in making their mods. This latest move to address the waves of AI-created or AI-thumbnailed mods now hitting Nexus Mods on a daily basis follows Nexus' modus operandi up to this point, which has been simply to try and ensure AI usage is clearly labelled so prospective downloaders can make informed decisions. Read more
+
+### Ubisoft are reportedly tapped as one potential company that could acquire Arkane, though the Dishonored studio's own management may be in the running too
+Tue, 03 Nov 2026 22:51:31 +0000 — https://www.rockpapershotgun.com/ubisoft-are-reportedly-tapped-as-one-potential-company-that-could-acquire-arkane-though-the-dishonored-studios-own-management-may-be-in-the-running-too
+
+Things are potentially looking up for Arkane, depending on how you feel about Ubisoft (and depending on who actually ends up acquiring them). I mention the Assassin's Creed developer because, reportedly, they're interested in buying the studio from Microsoft, having even made a bid for it. I'll go out on a limb here and say it's the whole being French thing, but uh, I'd really rather someone else bought Arkane. Read more
+
+### "Steam's review queue is clogged up by AI slop": Salacious Fire Emblem-ish Food Devils gets a delay because its devs think Valve is inundated with genAI games
+Tue, 03 Nov 2026 21:41:08 +0000 — https://www.rockpapershotgun.com/steams-review-queue-is-clogged-up-by-ai-slop-salacious-fire-emblem-ish-food-devils-gets-a-delay-because-its-devs-think-valve-is-inundated-with-genai-games
+
+You might have seen that for today's grub, Edwin decided to in part feed The Maw with Food Devils, an incredibly salacious, foodie take on Fire Emblem, as it was meant to release today. The only problem is, it's not actually out yet. That might prompt you to call Edwin a rotten liar and march up to his castle at the top of the hill on a dark and stormy night with pitchforks and torches, but I beseech you to wait, because it's actually Steam's fault. And potentially, it's the fault of all those awful AI games that have been flooding Steam recently. Read more
 
 ### The Citadel Project is a Thief-inspired dark fantasy, survival-horror lite stealth-em-up with some lovely shadows set in a medieval megastructure
 Tue, 03 Nov 2026 20:10:03 +0000 — https://www.rockpapershotgun.com/the-citadel-project-is-a-thief-inspired-dark-fantasy-survival-horror-lite-stealth-em-up-with-some-lovely-shadows-set-in-a-medieval-megastructure
@@ -491,29 +516,4 @@ Bandai Namco have released the initial announcement trailer for Mobile Suit Gund
 Tue, 03 Nov 2026 16:09:52 +0000 — https://www.rockpapershotgun.com/the-elder-scrolls-6-sentinel-teaser-all-but-confirms-hammerfell-setting-and-means-we-can-finally-stop-using-that-eight-year-old-header-image-with-the-hills
 
 Praise Talos and whatever other Elder Scrolls deities you might worship. We here at RPS and in the wider gaming press finally have new material to use when hunting for images to symbolise The Elder Scrolls 6 . No more will we be limited to that shot of some hills from the 2018 teaser, because Bethesda have shown off an elder scroll covered in sand while revealing the new game's subtitle and all but locking in a setting. As a recent report from The Verge claimed, it's called The Elder Scrolls 6: Sentinel and looks to be set in Hammerfell. Read more
-
-### I'm sad that the Like A Dragon creator's new studio is closing, but I wish their now-cancelled debut Gang of Dragon wasn't just LAD again
-Tue, 03 Nov 2026 14:51:18 +0000 — https://www.rockpapershotgun.com/im-sad-that-the-like-a-dragon-creators-new-studio-is-closing-but-i-wish-their-now-cancelled-debut-gang-of-dragon-wasnt-just-lad-again
-
-Less than a year after the announcement of their first game, and only four years after the studio's creation, Gang of Dragon developers Nagoshi Studio have been dissolved by a shareholders' resolution (thanks, Gematsu .) That also means a premature end for Gang of Dragon, which was announced at last year's Game Awards with a flashy trailer featuring Like a Dragon-esque realistic visuals, combat and exploration through Kabukicho, a couple new elements like actual gunplay and car chases, as well as the star power of actor Ma Dong-seok (a.k.a. Don Lee). Following reports in March that NetEase, the studio's source of funding, would be pulling said funding in May due to ballooning costs reaching around seven billion yen, the time has sadly come for Nagoshi Studio, having not found any alternative funding sources in the time since. Read more
-
-### Workers & Resources: Soviet Republic's next DLC is set to expand the city building sim into the one place not corrupted by capitalism: SPACE
-Tue, 03 Nov 2026 14:03:00 +0000 — https://www.rockpapershotgun.com/workers-resources-soviet-republics-next-dlc-is-set-to-expand-the-city-building-sim-into-the-one-place-not-corrupted-by-capitalism-space
-
-Following not the inherent liberal capitalistic framework of city builders like SimCity but instead a revolutionary (sorry) interpretation of planning and logistical simulation that prioritises centralisation and minute detail, Hooded Horse and 3DIVISION's Workers & Resources: Soviet Republic offers a tense, socialist look at what a citybuilder could be. Fellow contributor Sin Vega, in her 1.0 review , described it like this: "You have to build things to demolish things. That might be Workers & Resources in a nutshell. You're not managing budgets (money is exclusively for imports/exports), you're organising stuff." Now, having previously expanding out of the Soviet Republic and across the globe with the World Maps DLC, the next step for socialist citybuilding is, of course, space. Our Edwin outright predicted this two years ago , correctly calling that "the logical endgame here is to go to space." Good on him. Read more
-
-### Arc Raiders devs Embark insist that using genAI for voice lines was necessary, as "actors would just go crazy if they had to read all of that"
-Tue, 03 Nov 2026 12:32:19 +0000 — https://www.rockpapershotgun.com/arc-raiders-devs-embark-insist-that-using-genai-for-voice-lines-was-necessary-as-actors-would-just-go-crazy-if-they-had-to-read-all-of-that
-
-Despite taking the voice performances of actors and feeding them into machines to spurt out AI-generated mimicry, Embark CCO Stefan Strandberg insists that "we are not in the industry of replacing actors." In a new video posted to the Arc Raiders channel focused on audio design, Strandberg refers back to the infamous use of genAI in Arc Raiders to generate voice lines based on real voice actors' performances, something which the game was heavily ( and rightly ) criticised for before and since its release. In that linked piece (thanks Oisin!), CEO Patrick S&ouml;derlund stated that they have been replacing lines that were originally generated with actual recorded lines, presumably because Arc Raiders has made quite a bit of money and now they feel that they can continue paying actors to record more lines, rather than just scraping their talents and avoiding the dreaded fee of paying professionals for their work. This choice already came after their previous game, The Finals , was heavily criticised for the exact same thing , which is just a fascinating series of decisions to consider. Read more
-
-### "There’s always a night when Rome burns": South Of Midnight director says that Xbox funding it was "unsustainable", at least in hindsight
-Tue, 03 Nov 2026 11:49:29 +0000 — https://www.rockpapershotgun.com/theres-always-a-night-when-rome-burns-south-of-midnight-director-says-that-xbox-funding-it-was-unsustainable-at-least-in-hindsight
-
-Compulsion Games parted ways with former owners Xbox , having landed on the long list of things Microsoft were determined to ditch as part of multi-round mass cuts this year. Now, South of Midnight creative director David Sears has suggested that an eventual pulling of the rug was something he feared throughout the game's development, to the point where he seemingly doesn't think he'd have funded it if he'd been in the shoes of Xbox execs. Read more
-
-### itch.io will soon let you filter games with genAI disclosures out of your search results on the site, after admitting it was previously "critically lacking"
-Tue, 03 Nov 2026 10:12:22 +0000 — https://www.rockpapershotgun.com/itchio-will-soon-let-you-filter-games-with-genai-disclosures-out-of-your-search-results-on-the-site-after-admitting-it-was-previously-critically-lacking
-
-itch.io has unfortunately, much like Steam, long had an issue with genAI content being uploaded in droves, drowning out perfectly good games made by human hands. The apparent standard method against this, voluntary genAI disclosure, has been itch's primary tool to combat this wave of low-quality slop, but hasn't worked out too well; itch revealed a few days ago that ' the number of game pages being created per-day has doubled in the past two months '. Now, in attempts to further combat this, beyond just game assets requiring a genAI disclosure to upload as they have for two years, itch will be expanding the mandatory disclosure to tabletop games, books, comics, and soundtracks, as well as adding a 'no AI' filter directly into the search function. Read more
 

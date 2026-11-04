@@ -1,4 +1,4 @@
-# AI — harvested 2026-11-03T20:16:38.433Z
+# AI — harvested 2026-11-04T12:31:58.478Z
 
 ## OpenAI
 
@@ -41,21 +41,6 @@ OpenAI is preparing its next internal security sprint with Cathedral Systems to 
 Mon, 02 Nov 2026 18:00:00 GMT — https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties
 
 OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.
-
-### LifeVal
-Mon, 02 Nov 2026 09:00:00 GMT — https://openai.com/index/lifeval
-
-Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.
-
-### OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization
-Mon, 02 Nov 2026 00:00:00 GMT — https://openai.com/index/dan-driscoll-joins-openai
-
-OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.
-
-### Qodo builds context into AI code review with Codex
-Mon, 02 Nov 2026 00:00:00 GMT — https://openai.com/index/qodo-codex-plugin
-
-Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.
 
 ## Hugging Face
 
