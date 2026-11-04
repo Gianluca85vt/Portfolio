@@ -3,7 +3,7 @@ title: "Elder Scrolls 6: Sentinel is a desert problem"
 date: 2026-11-04
 category: Games
 excerpt: Eight years on, the title card finally got a word. Sentinel means Hammerfell, and Bethesda's environment art has always hidden its seams behind trees.
-cover: /img/blog/elder-scrolls-6-sentinel-desert/cover.svg
+cover: /img/blog/elder-scrolls-6-sentinel-desert/shot-03.jpg
 sources:
   - outlet: Kotaku
     url: https://kotaku.com/elder-scrolls-6-gets-a-new-teaser-confirming-its-name-but-still-no-release-date-2000752777
@@ -38,8 +38,8 @@ continues and it will be a while before there is more.
 ## Hammerfell takes away the trees
 
 <figure>
-  <img src="/img/blog/elder-scrolls-6-sentinel-desert/shot-02.jpg" loading="lazy" width="1440" height="810" alt="" />
-  <figcaption>Bethesda Game Studios, via the official Starfield Steam page</figcaption>
+  <img src="/img/blog/elder-scrolls-6-sentinel-desert/shot-01.jpg" loading="lazy" width="1440" height="810" alt="A Starfield cockpit interior, hull struts and instrument panels filling most of the frame while a hazy mountain sits in the window beyond." />
+  <figcaption>Every image on this page is Starfield, not Sentinel — Bethesda has released no Hammerfell footage beyond a few seconds of sand. This cockpit does the job a stand of pines does in Skyrim: foreground geometry eats most of the frame, so the distance only has to survive a window. Bethesda Game Studios, via the official Starfield Steam page.</figcaption>
 </figure>
 
 Every Bethesda world since Oblivion has been held together by clutter. Pines
@@ -95,6 +95,11 @@ market streets where thirty people are visible at once in a space you cannot
 thin with distance. Outdoors you can cull a crowd by pushing it past the fog.
 In a souk you cannot.
 
+<figure>
+  <img src="/img/blog/elder-scrolls-6-sentinel-desert/shot-04.jpg" loading="lazy" width="1440" height="810" alt="A Starfield character in close-up inside a warm, prop-dense room, a lit fireplace and dressed mantelpiece behind her." />
+  <figcaption>A dressed Starfield interior: shelves, clutter, a fire doing the lighting. Rooms like this are what Bethesda puts behind a loading door, and a Sentinel market street asks for the same density with the door taken away. Bethesda Game Studios, via the official Starfield Steam page.</figcaption>
+</figure>
+
 Bethesda's answer to dense interiors has always been the loading door, and the
 loading door is the single most dated thing about their games. Starfield shipped
 in 2023 with one in front of every ship ladder and took a beating for it.
@@ -120,8 +125,8 @@ onto someone else's foundation is a rewrite, not a port.
 
 So the likeliest shape of Sentinel is Creation Engine 2 with another few years
 of rendering work bolted on, pointed at the one biome that gives their toolset
-the least to hide behind. Eight years for a word. The sand is the interesting
-part of the picture.
+the least to hide behind. Eight years for a word. What I want now is a minute
+of that sand running at speed.
 
 ---
 
@@ -129,4 +134,6 @@ part of the picture.
 Kotaku and The Escapist, 3 November 2026. In-universe dating is one outlet's
 reading of the closing card and has not been confirmed by Bethesda. Engine
 details for Sentinel have not been announced; the Starfield and Oblivion
-Remastered comparisons are to shipped work.*
+Remastered comparisons are to shipped work. All images are Starfield press
+shots from the official Steam page, used to illustrate the toolset rather than
+Sentinel, which has none.*
