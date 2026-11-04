@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Elder Scrolls 6: Sentinel, eight years for one word">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#18011F"/>
+      <stop offset="58%" stop-color="#6B1327"/>
+      <stop offset="100%" stop-color="#D6294E"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="900" fill="url(#bg)"/>
+
+  <!-- a horizon with nothing on it: the whole argument -->
+  <g fill="#FFFFFF">
+    <rect x="96" y="128" width="1008" height="3" fill-opacity="0.30"/>
+    <rect x="96" y="150" width="736" height="3" fill-opacity="0.18"/>
+    <rect x="96" y="172" width="392" height="3" fill-opacity="0.10"/>
+  </g>
+
+  <text x="96" y="368" font-family="Helvetica, Arial, sans-serif" font-size="184" font-weight="700" fill="#FFFFFF">SENTINEL</text>
+  <text x="96" y="438" font-family="Helvetica, Arial, sans-serif" font-size="44" font-weight="400" fill="#FFFFFF" fill-opacity="0.84">The Elder Scrolls 6, named 3 November 2026</text>
+  <text x="96" y="506" font-family="Helvetica, Arial, sans-serif" font-size="44" font-weight="400" fill="#FFFFFF" fill-opacity="0.66">Hammerfell. No date, no engine, no gameplay.</text>
+
+  <text x="96" y="792" font-family="Helvetica, Arial, sans-serif" font-size="38" font-weight="400" fill="#FFFFFF" fill-opacity="0.52">A desert gives environment art nothing to hide behind</text>
+</svg>
