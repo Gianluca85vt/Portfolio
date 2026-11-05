@@ -1,72 +1,97 @@
-# Manga — harvested 2026-11-04T20:32:28.303Z
+# Manga — harvested 2026-11-05T12:44:07.282Z
 
 ## Anime News Network
 
-### Martial Arts Manhwa Artist Seung-nam Ha Dies at 68
-Wed, 04 Nov 2026 15:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-04/martial-arts-manhwa-artist-seung-nam-ha-dies-at-68/.243512
+### Fool Night Anime's Trailer Reveals Theme Songs, Additional Cast
+Thu, 05 Nov 2026 06:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-05/fool-night-anime-trailer-reveals-theme-songs-additional-cast/.243524
 
-Ha became 1st Korean comic artist to join Japan Cartoonists Association as full member in 2007
+Tempalay, Nowlu perform theme songs for November 26 anime
 
-### Pokémon Pokopia Game Adds Expansion Pass DLC Part 2 'Dazzling Decorations' on December 9
-Wed, 04 Nov 2026 12:30:11 -0500 — https://www.animenewsnetwork.com/daily-briefs/2026-11-04/pokemon-pokopia-game-adds-expansion-pass-dlc-part-2-dazzling-decorations-on-december-9/.243522
+### Senren * Banka Anime Reveals TV Format
+Thu, 05 Nov 2026 05:10:31 -0500 — https://www.animenewsnetwork.com/daily-briefs/2026-11-05/senren-banka-anime-reveals-tv-format/.243554
 
-The official X/Twitter account for the Pokémon franchise announced on Wednesday that the second part of the paid Expansion Pass DLC for Pok&eacute;mon...
+The official X (formerly Twitter) account for the anime&nbsp;adaptation of Yuzu Soft's&nbsp;Senren * Banka visual novel opened on Thursday and revealed...
 
-### Reincarnated as a Sword Season 2 Anime Reveals Trailer, Visual, Cast for Seedrun Arc
-Wed, 04 Nov 2026 12:00:45 -0500 — https://www.animenewsnetwork.com/news/2026-11-04/reincarnated-as-a-sword-season-2-anime-reveals-trailer-visual-cast-for-seedrun-arc/.243523
+### Satoshi Mizukami's Spirit Circle Manga Gets TV Anime in December
+Thu, 05 Nov 2026 04:31:49 -0500 — https://www.animenewsnetwork.com/news/2026-11-05/satoshi-mizukami-spirit-circle-manga-gets-tv-anime-in-december/.243555
 
-Satsuki Kokubu, Yurie Kozakai, Hazuki Ogino, Sayumi Suzushiro, Katsuyuki Konishi join cast
+Late director Tatsuo Satō helmed his final work at studios NAGOMI x EOTA
 
-### Castlevania: Belmont's Curse Game Review
-Wed, 04 Nov 2026 12:00:00 -0500 — https://www.animenewsnetwork.com/review/game/nintendo-switch-playstation-5-microsoft-windows-xbox-series-x-and-series-s/castlevania/belmont-curse/.243431
+### New Code Geass Star Chaser Aspal Anime Unveils Cast, More Staff
+Thu, 05 Nov 2026 04:05:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-05/new-code-geass-star-chaser-aspal-anime-unveils-cast-more-staff/.243547
 
-Konami, Evil Empire, and Motion Twin seemed to hit it off on the first date, and decided to give it another shot with a far more ambitious project.
+Ivan Shibata, Hibiku Yamamura star in Sunrise anime
 
-### Yayū Murata Launches Kickstarter for Across the Strange Edge Manga's 2nd Volume, Deluxe Hardcover Omnibus
-Wed, 04 Nov 2026 11:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-04/yayu-murata-launches-kickstarter-for-across-the-strange-edge-manga-2nd-volume-deluxe-hardcover-/.243521
+### The Seven Knights of the Marronnier Kingdom Anime Casts Ryōta Takeuchi
+Wed, 04 Nov 2026 23:25:45 -0500 — https://www.animenewsnetwork.com/news/2026-11-04/the-seven-knights-of-the-marronnier-kingdom-anime-casts-ryota-takeuchi/.243538
 
-Campaign to raise €7,000 launches on November 19
+Takeuchi plays character Saturno in episode 6 on Saturday
 
-### Sugar Apple Fairy Tale's Miri Mikawa, Brave10's Kairi Shimotsuki Launch New Manga on November 24
-Wed, 04 Nov 2026 10:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-04/sugar-apple-fairy-tale-miri-mikawa-brave10-kairi-shimotsuki-launch-new-manga-on-november-24/.243510
+### Live-Action Wandance Film's Trailer Previews Theme Song, Dance Scenes
+Wed, 04 Nov 2026 23:21:18 -0500 — https://www.animenewsnetwork.com/news/2026-11-04/live-action-wandance-film-trailer-previews-theme-song-dance-scenes/.243536
 
-Mikawa writes, Shimotsuki draws <cite>Ryū no Kuni Gensō</cite> fantasy manga
+Film opens in Japan on November 27
 
-### Overgeared ‒ Episode 6
-Wed, 04 Nov 2026 09:30:00 -0500 — https://www.animenewsnetwork.com/review/overgeared/episode-6/.243516
+### Yakuza Game Series Like A Dragon Infiltrates Roblox
+Wed, 04 Nov 2026 21:00:00 -0500 — https://www.animenewsnetwork.com/interest/2026-11-04/yakuza-game-series-like-a-dragon-infiltrates-roblox/.243470
 
-If the show is determined to on the unenviable task of crafting Grid into a more likeable person, it sure has a lot it needs to prove.
+Everyone's favorite <cite>Yakuza</cite> game is making it to the blocky game platform
 
-### Interview: All Things Rakugo with Akane-banashi Lead Voice Actor Anna Nagase
-Wed, 04 Nov 2026 09:00:00 -0500 — https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-anime-expo/interview-all-things-rakugo-with-akane-banashi-lead-voice-actor-anna-nagase/.239696
+### Look Back Anime Film Wins Kineko Int'l Film Fest's Teens Feature Award
+Wed, 04 Nov 2026 20:30:45 -0500 — https://www.animenewsnetwork.com/news/2026-11-04/look-back-anime-film-wins-kineko-intl-film-fest-teens-feature-award/.243503
 
-Rising star Anna Nagase has rapidly established herself as one of modern anime's most compelling voice talents
+Film opened in Japan in June 2024
 
-### Sakamoto Holidays Manga Heads Towards Climax
-Wed, 04 Nov 2026 08:46:36 -0500 — https://www.animenewsnetwork.com/news/2026-11-04/sakamoto-holidays-manga-heads-towards-climax/.243496
+### Godzilla Minus Zero Earns Highest-Ever Opening Day for Live-Action Film in Japan
+Wed, 04 Nov 2026 20:28:12 -0500 — https://www.animenewsnetwork.com/news/2026-11-04/godzilla-minus-zero-earns-highest-ever-opening-day-for-live-action-film-in-japan/.243535
 
-<i>Sakamoto Days</i> spinoff series debuted in July 2024
+Film sold 590,000 tickets for 910 million yen on Tuesday opening
 
-### Nia Liston: The Merciless Maiden ‒ Episode 5
-Wed, 04 Nov 2026 08:30:00 -0500 — https://www.animenewsnetwork.com/review/nia-liston-the-merciless-maiden/episode-5/.243501
+### Seven Seas Licenses Led by Stars Manga, Melting Point Manhwa, 3 Audiobooks
+Wed, 04 Nov 2026 19:26:43 -0500 — https://www.animenewsnetwork.com/news/2026-11-04/seven-seas-licenses-led-by-stars-manga-melting-point-manhwa-3-audiobooks/.243530
 
-From my early childhood sequestering via exceptionalism to world-framing college experiences, <i>Nia Liston</i> depicts some of the most formative moments of my life.
+<cite>Beacon of Light in the Dark Sea</cite>, <cite>Dangers in My Heart</cite>, <i>7th Time Loop</i> audiobooks
 
-### Even the Student Council Has Its Holes! ‒ Episode 5
-Wed, 04 Nov 2026 07:30:00 -0500 — https://www.animenewsnetwork.com/review/even-the-student-council-has-its-holes/episode-5/.243499
+### Live-Action Mashle: Magic and Muscles Film Reveals Cast, Director
+Wed, 04 Nov 2026 18:26:04 -0500 — https://www.animenewsnetwork.com/news/2026-11-04/live-action-mashle-magic-and-muscles-film-reveals-cast-director/.243531
 
-Fans of hot springs antics will be pleased, especially with all the details afforded to OceanVeil subscribers. However, uncensored bathing is not all this episode offers.
+Mackenyu Maeda stars as Mash Burnedead with <i>Gintama's</i> Yūichi Fukuda directing
 
-### Reincarnation in the Game World Dan-Katsu Anime's Teaser Reveals More Cast, Theme Songs
-Wed, 04 Nov 2026 04:59:56 -0500 — https://www.animenewsnetwork.com/news/2026-11-04/reincarnation-in-the-game-world-dan-katsu-anime-teaser-reveals-more-cast-theme-songs/.243515
+### Make the Exorcist Fall in Love Manga Starts Final Arc
+Wed, 04 Nov 2026 16:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-04/make-the-exorcist-fall-in-love-manga-starts-final-arc/.243514
 
-Ayaka Nanase, Kotone Izumi, Hikaru Iida, Chihaya Asakura join cast of January anime
+Final arc starts in manga's 16th volume released on Wednesday
 
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Code Geass Star Chaser Aspal Anime Reveals Main Visual and Voice Cast
+Thu, 05 Nov 2026 12:02:06 GMT — https://animecorner.me/code-geass-star-chaser-aspal-anime-reveals-main-visual-and-voice-cast/
+
+CODE GEASS Star Chaser Aspal new anime revealed the main key visual, along with the main voice cast members.
+
+### Fool Night Anime by SHAFT and SUNRISE Reveals Main Trailer, Theme Songs, New Key Visual
+Thu, 05 Nov 2026 11:10:21 GMT — https://animecorner.me/fool-night-anime-by-shaft-and-sunrise-reveals-main-trailer-theme-songs-new-key-visual/
+
+FOOL NIGHT anime by studios SHAFT and SUNRISE revealed a new key visual, theme songs and main trailer ahead of its November 26 premiere.
+
+### Spirit Circle TV Anime Announced for December 2026, Reveals Cast and First Trailer
+Thu, 05 Nov 2026 10:09:29 GMT — https://animecorner.me/spirit-circle-tv-anime-announced-for-december-2026-reveals-cast-and-first-trailer/
+
+Satoshi Mizukami's Spirit Circle manga is officially getting a TV anime adaptation, with the release date set for December 2026.
+
+### Halloween Night at Lucca Comics and Games 2026 (Photo Gallery)
+Wed, 04 Nov 2026 23:59:17 GMT — https://animecorner.me/halloween-night-at-lucca-comics-and-games-2026-photo-gallery/
+
+Lucca Comics & Games concluded last week, but we can't forget the lively Halloween&hellip;
+
+### Mashle Live-Action Film Teaser Reveals Mackenyu Cast as Mash, Yuichi Fukuda Directs
+Wed, 04 Nov 2026 23:39:46 GMT — https://animecorner.me/mashle-live-action-film-teaser-reveals-mackenyu-cast-as-mash-yuichi-fukuda-directs/
+
+The live-action film adaptation of MASHLE: MAGIC AND MUSCLES has cast Mackenyu as protagonist Mash Burnedead.
 
 ### Reincarnation in the Game World Dan-Katsu Reveals New Trailer Featuring Additional Cast, Theme Songs
 Wed, 04 Nov 2026 13:05:39 GMT — https://animecorner.me/reincarnation-in-the-game-world-dan-katsu-reveals-new-trailer-featuring-additional-cast-theme-songs/
@@ -103,32 +128,32 @@ Wed, 04 Nov 2026 06:46:48 GMT — https://animecorner.me/promise-me-the-spotligh
 
 The previously announced Promise Me the Spotlight anime adaptation revealed a key visual along&hellip;
 
-### Otaku Vampire's Love Bite Anime Adaptation Announced
-Wed, 04 Nov 2026 00:20:36 GMT — https://animecorner.me/otaku-vampires-love-bite-anime-adaptation-announced/
-
-Otaku Vampire's Love Bite manga by Julietta Suzuki (Kamisama Kiss) is getting an anime&hellip;
-
-### Jim Rugg Creates Limited Edition Astro Boy Blacklight Poster for TEZUKA! God of Manga Documentary
-Tue, 03 Nov 2026 17:58:24 GMT — https://animecorner.me/jim-rugg-creates-limited-edition-astro-boy-blacklight-poster-for-tezuka-god-of-manga-documentary/
-
-Cartoonist and designer Jim Rugg has created a limited edition Astro Boy blacklight poster&hellip;
-
-### Exclusive: I'm Dating a Dark Summoner Omake Shorts Premieres on HIDIVE on November 6, Key Visual and Trailer Revealed
-Tue, 03 Nov 2026 16:01:49 GMT — https://animecorner.me/exclusive-im-dating-a-dark-summoner-omake-shorts-premieres-on-hidive-on-november-6-key-visual-and-trailer-revealed/
-
-I'm Dating a Dark Summoner Omake Shorts will premiere exclusively on HIDIVE on November&hellip;
-
-### Girls Band Cry THE MOVIE Reveals Teaser Visual, Trailer, May 21 Release Date
-Tue, 03 Nov 2026 12:52:35 GMT — https://animecorner.me/girls-band-cry-the-movie-reveals-teaser-visual-trailer-may-21-release-date/
-
-The previously teased Girls Band Cry THE MOVIE revealed a teaser visual and trailer&hellip;
-
 ## MyAnimeList News
+
+### Fool Night Unveils Additional Cast, Theme Songs, First Promo
+Thu, 05 Nov 2026 03:25:30 -0800 — https://myanimelist.net/news/74906712?_location=rss
+
+The official website of the Fool Night original net anime unveiled additional cast, a key visual (pictured), the theme songs, and first promotional video on Thursday. The anime adapting Kasumi Yasuda s sci-fi drama manga will debut worldwide exclusively on Netflix on November 26. Cast Sumi Matsuno: Shion Wakayama (Dandadan) Ken Hikasa: Hiroshi Tsuchida (Usagi Drop) Nishi: Nobuhiko Okamoto (Boku no Hero Academia) Mei Okumura: Sayaka Senbongi (Dungeon Meshi) Ivy: Yumiko Kobayashi (Soul Eater)...
+
+### Manga Spirit Circle Gets TV Anime in December 2026
+Thu, 05 Nov 2026 01:55:21 -0800 — https://myanimelist.net/news/74906596?_location=rss
+
+Production company Twin Engine opened an official website for a television anime adaptation of Satoshi Mizukami s Spirit Circle manga on Thursday, revealing the main cast, staff, a teaser visual (pictured), the ending theme, and first promotional video. The anime series is scheduled to premiere in December 2026, with a total of 18 episodes. Cast Fuuta Okeya: Kazuki Ura (Tougen Anki) Kouko Ishigami: Anna Nagase (Koori no Jouheki) Rune: Eri Yukimura (Leadale no Daichi nite) East: Yuuichi Naka...
+
+### Code Geass: Hoshi Oi no Aspal Announces Main Cast, Additional Staff
+Thu, 05 Nov 2026 01:49:09 -0800 — https://myanimelist.net/news/74906589?_location=rss
+
+The official website for the Code Geass: Hoshi Oi no Aspal (Code Geass: Star Chaser Aspal) new anime series revealed the main cast, additional staff, and the main visual (pictured) on Thursday. The anime is scheduled to premiere in 2027, with advance screenings beginning in January 2027. Voice actors Ivan Shibata (Kaijuu 8-gou) and Hibiku Yamamura (Pon no Michi) are starring in the anime as Aspal and Zo&eacute;, respectively. Staff Assistant Director: Shinnosuke Itou (Kidou Senshi Gundam: GQuuuu...
+
+### Magic Knight Rayearth Unveils Additional Cast Pair
+Thu, 05 Nov 2026 01:16:43 -0800 — https://myanimelist.net/news/74906532?_location=rss
+
+The official website for the new Magic Knight Rayearth (Mahou Kishi Rayearth) television anime announced additional cast pair on Thursday. The anime series premiered on October 7 at 11.45 p.m. on TV Asahi s "IMAnimation W" frame. Voice actors Shinichiro Miki (Youjo Senki) and Megumi Toyoguchi (Mushoku Tensei) joined the cast as Umi s father and Umi s mother, respectively. Yui Umemoto (Ninja Kamui) is directing at E&amp;H Production, with Takayuki Sano (Bullet/Bullet epi...
 
 ### Tensei shitara Ken deshita II Reveals Supporting Cast, Third Promo
 Wed, 04 Nov 2026 08:33:53 -0800 — https://myanimelist.net/news/74904410?_location=rss
 
-The official website of the television anime adaptation of Yuu Tanaka s Tensei shitara Ken deshita (Reincarnated as a Sword) light novel revealed supporting cast, second key visual (pictured), and third promotional video for the "Seedrun Arc" on Thursday. The second season premiered on October 8 at 12.00 a.m. on Tokyo MX, followed by ABC TV, BS Asahi, and AT-X. Cast Valuza: Katsuyuki Konishi (Tongari Boushi no Atelier) Furuto: Satsuki Kokubu (Hoshifuru Oukoku no Nina) Satia: Yurie...
+The official website of the television anime adaptation of Yuu Tanaka s Tensei shitara Ken deshita (Reincarnated as a Sword) light novel revealed supporting cast, second key visual (pictured), and third promotional video for the "Seedrun Arc" on Thursday. The second season premiered on October 8 at 12.00 a.m. on Tokyo MX, followed by ABC TV, BS Asahi, and AT-X. Cast Valuza: Katsuyuki Konishi (Tongari Boushi no Atelier) Fult: Satsuki Kokubu (Hoshifuru Oukoku no Nina) Satia: Yurie K...
 
 ### Ramen Akeneko 2nd Season Announces New Staff
 Wed, 04 Nov 2026 03:39:25 -0800 — https://myanimelist.net/news/74903763?_location=rss
@@ -160,24 +185,19 @@ Tue, 03 Nov 2026 05:34:03 -0800 — https://myanimelist.net/news/74900816?_locat
 
 Manga creator Keigo Maki (Kawaii dake ja Nai Shikimori-san) will draw a manga adaptation of Type-Moon s Mahoutsukai no Yoru (Witch on the Holy Night) visual novel, the official X (formerly Twitter) account of the manga announced on Tuesday. The series will begin serialization in Weekly Shounen Magazine s 50th issue on November 11. Kinoko Nasu (Fate/stay night) and Type-Moon are credited for the original work, while Hirokazu Koyama (22/7) is credited for the original character designs....
 
-### Hyouken no Majutsushi ga Sekai wo Suberu II Announces Additional Cast
-Tue, 03 Nov 2026 01:29:45 -0800 — https://myanimelist.net/news/74900432?_location=rss
-
-The official website for the television anime adaptation of Nana Mikoshiba s Hyouken no Majutsushi ga Sekai wo Suberu (The Iceblade Sorcerer Shall Rule the World) light novel announced five additional cast members for the second season on Tuesday. The new season premiered on TBS on October 9 at 1.28 a.m., followed by BS11 at 11.00 p.m. on the same day. Cast Cathy Alphelius: Yuuki Wakai (Kakegurui) Abel Alphelius: Toshiyuki Morikawa (Nohara Hiroshi: Hiru Meshi no Ryuugi) Cyril Alphelius: Te...
-
 ## Otaku USA
 
 _Nothing in the last 48 hours._
 
 ## Anime UK News
 
+### Dragon Quest: The Mark of Erdrick Volume 5 Review
+Thu, 05 Nov 2026 10:00:48 +0000 — https://animeuknews.net/2026/11/dragon-quest-the-mark-of-erdrick-volume-5-review/
+
+The adventures of Arus and his party continue as they arrive in Aliahan, famed birthplace of Erdrick himself, but things don’t go according to plan, because… well that would be boring, wouldn’t it?
+
 ### Honey Bee Lemon Balm: sweet moment Review
 Wed, 04 Nov 2026 10:00:05 +0000 — https://animeuknews.net/2026/11/honey-bee-lemon-balm-sweet-moment-review/
 
 Florist Yuichiro and trainee florist (and ex-con) Kaoru are going out together. But after six months, things aren’t making much progress – until Kaoru goes to someone’s aid and ends up without his wallet…
-
-### Fan/Girl X Call/Boy Volume 1 Review
-Tue, 03 Nov 2026 10:00:55 +0000 — https://animeuknews.net/2026/11/fan-girl-x-call-boy-volume-1-review/
-
-When shut-in otaku Sakurako calls an escort service, she gets more than she could have imagined when she meets Fuji: a handsome young man who is actually just as big a geek as she is! Now this unlikely duo have become friends...?
 
