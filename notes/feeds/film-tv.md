@@ -1,172 +1,177 @@
-# Film & TV — harvested 2026-11-05T12:44:07.282Z
+# Film & TV — harvested 2026-11-05T20:48:57.299Z
 
 ## Variety
 
-### Liam Neeson Says There s Nobody Better Than Meryl Streep to Take Over Aslan Role in ‘Narnia, but Admits He Didn t Know About Greta Gerwig s Movie: This Is News to Me
-Thu, 05 Nov 2026 11:16:35 +0000 — https://variety.com/2026/film/news/liam-neeson-meryl-streep-aslan-narnia-1236940112/
+### Kimmarie Johnson, Beverly Hills, 90210 Actress and Miss USA Contestant, Dies at 50
+Thu, 05 Nov 2026 20:41:07 +0000 — https://variety.com/2026/tv/obituaries-people-news/kimmarie-johnson-dead-beverly-hills-90210-model-1236940671/
 
-Liam Neeson is all for Meryl Streep taking over the role of Aslan in Greta Gerwig s upcoming Narnia movie — even if he s just learning about it now. Neeson, who voiced the mythical lion in the original Chronicles of Narnia film trilogy, admitted he was unaware of the new adaptation in a recent interview with [ ]
+Kimmarie Johnson, a model and actress who appeared in Beverly Hills, 90210, Dude, Where s My Car? and more, died Wednesday, Nov. 4, after suffering a heart event at her Los Angeles home on Oct. 27. She was 50. Johnson had been taken to Cedars-Sinai Hospital and was diagnosed with a “heart aneurysm condition.” “She radiated [ ]
 
-### Conclave’ Director Edward Berger Teases Upcoming Brad Pitt A24 Film ‘The Riders’: It’s a ‘European Odyssey’
-Thu, 05 Nov 2026 11:10:35 +0000 — https://variety.com/2026/film/global/conclave-director-edward-berger-a24-the-riders-brad-pitt-1236938487/
+### HBO s The Gilded Age Season 4 Ratings: Most-Watched Premiere Yet
+Thu, 05 Nov 2026 20:05:46 +0000 — https://variety.com/2026/tv/news/the-gilded-age-season-4-ratings-season-premiere-hbo-1236940637/
 
-“All Quiet on the Western Front” director Edward Berger gave a brief update on “The Riders,” his upcoming A24 film starring Brad Pitt. Speaking at Evolution Mallorca, where he is the recipient of this year’s Evolution Vision Award, the filmmaker confirmed they have already shot the film, which he calls a “singular perspective story told [ ]
+Things are still looking gilded for HBO’s “The Gilded Age.” The series returned on Nov. 1 to its most-watched season premiere yet, averaging nearly 4 million viewers across platforms, according to the cabler/streamer. In the first three days of availability, “The Gilded Age” scored just under 4 million viewers across linear and HBO Max, the [ ]
 
-### South International Series Festival Prizes: ’Blindspot Berlin,’ ‘The Oligarch and the Art Dealer’ Win Big
-Thu, 05 Nov 2026 10:46:24 +0000 — https://variety.com/2026/tv/global/south-international-series-festival-prizes-blindspot-berlin-1236940109/
+### Nithya Raman Wins L.A. Mayor s Race as Karen Bass Concedes
+Thu, 05 Nov 2026 19:38:50 +0000 — https://variety.com/2026/politics/news/nithya-raman-wins-los-angeles-mayor-1236939950/
 
-“Blindspot Berlin,” a TIFF standout starring “All Quiet on the Western Front” lead Albrecht Schuch, swept Best Fiction Series, Screenplay and an Audience Award at the 4th edition of Cadiz’s South International Series Festival on Wednesday night. Its triple whammy was announced at a SISF prize gala whose other awards recognized many of the buzziest [ ]
+Nithya Raman will be the next mayor of Los Angeles, as incumbent Karen Bass conceded defeat after a hard-fought campaign. In a video, Raman thanked Bass for her service and vowed to provide a city government that is actually capable of delivering on its promises. She cited priorities such as affordable housing, parks and public [ ]
 
-### Married at First Sight U.K. Canceled by Channel 4 Following Sexual Assault Allegations
-Thu, 05 Nov 2026 10:30:06 +0000 — https://variety.com/2026/tv/global/married-at-first-sight-uk-canceled-1236940065/
+### Hyena, Thriller Exec Produced by David Lynch, to Star Kiernan Shipka, D’Pharaoh Woon-A-Tai, Edgar Ramírez and Rosemarie DeWitt
+Thu, 05 Nov 2026 19:16:31 +0000 — https://variety.com/2026/film/global/hyena-thriller-exec-produced-david-lynch-kiernan-shipka-1236940574/
 
-“Married at First Sight” U.K. has been canceled following allegations of sexual assault on the show, broadcaster Channel 4 confirmed today. Based on an Australian format, the series sees experts match two single strangers who meet for the first time on their wedding day before immediately moving in together. Earlier this year a BBC investigation [ ]
+One of the final film projects of the late Hollywood icon David Lynch is heading to the American Film Market with a fresh cast and a production start date. The psychological thriller Hyena, which Lynch exec produced, will star Kiernan Shipka, D’Pharaoh Woon-A-Tai, Edgar Ramírez, Rosemarie DeWitt. Scott Coffey, who starred in Lynch s Mullholland Drive, [ ]
 
-### Awkwafina s ‘Kate Might Die,’ ‘Outside of Cleveland’ With Alex Wolff Among Projects Selected for U.S. in Progress
-Thu, 05 Nov 2026 10:30:00 +0000 — https://variety.com/2026/film/global/awkwafina-alex-wolff-projects-us-in-progress-1236937689/
+### What Legend of Zelda Superfan Jon Batiste Thinks of Ocarina of Time Remake and the Game s Iconic Score
+Thu, 05 Nov 2026 19:13:33 +0000 — https://variety.com/2026/gaming/news/legend-of-zelda-ocarina-of-time-review-score-jon-batiste-1236940357/
 
-Eight independent films in the final stages of editing have been selected for the U.S. in Progress co-production forum at Tauron American Film Festival in Wrocław, Poland. “Kate Might Die,” directed by Mercedes Bryce Morgan, boasts some recognizable names including Awkwafina, Anthony Ramos, Ken Jeong and Zosia Mamet. Its protagonist appears to have the perfect [ ]
+Hey! Listen! “The Legend of Zelda: Ocarina of Time” remake is out, and the initial response from critics is overwhelmingly positive. And while it’s still too early to tell exactly what gamers will make of the reimagined title, which released Thursday, musician Jon Batiste has offered up a teaser review as one of the lucky [ ]
 
-### Griffin Dunne on Renewed Interest in Practical Magic and An American Werewolf in London : I Seem to Be the King of Lapsed Love
-Thu, 05 Nov 2026 10:30:00 +0000 — https://variety.com/2026/film/awards/griffin-dunne-practical-magic-resurgence-american-werewolf-london-1236938556/
+### T-Mobile Taps Bryan Cranston in Bid to Wake Consumers Up to T-Mix Plan
+Thu, 05 Nov 2026 19:00:00 +0000 — https://variety.com/2026/tv/news/t-mobile-bryan-cranston-t-mix-1236940344/
 
-Acclaimed actor and “Practical Magic” director Griffin Dunne is glad to see its renaissance. “I don’t know when it could have started. Maybe 10 years ago, the conversation about ‘Practical Magic’ started to pick up more steam, particularly around Halloween. I’d see memes with ‘midnight margaritas’ and when my friends’ daughters found out I directed [ ]
+We are all about to get a very loud wake-up call from T-Mobile. The telecommunications provider, one of the biggest and most colorful advertisers in the U.S., has dispatched actor Bryan Cranston in a new campaign that may surprise those who have grown familiar with its playful spots featuring celebrities such as Billy Bob Thornton, [ ]
 
-### Sky News Stands by Journalist Following Heated Exchange With Abdul El-Sayed: We re Proud of Our Correspondent, Who Was Doing His Job
-Thu, 05 Nov 2026 10:06:13 +0000 — https://variety.com/2026/tv/global/sky-news-james-matthews-abdul-el-sayed-proud-1236940080/
+### Levon Hawke to Star With Anthony Hopkins in Indie Drama Twenty-Seven (EXCLUSIVE)
+Thu, 05 Nov 2026 18:45:00 +0000 — https://variety.com/2026/film/news/levon-hawke-anthony-hopkins-twenty-seven-gregory-caruso-1236940057/
 
-Sky News has said it is “proud” of U.S. correspondent James Matthews following his heated exchange with newly-elected Senator Abdul El-Sayed, telling Variety the journalist “was doing his job.” Meanwhile Matthews himself has weighed in on the confrontation, saying he hadn t had a chance to ask the politician any questions directly before El-Sayed made a [ ]
+Levon Hawke (“Blink Twice,” “The Crowded Room”) will star opposite Academy Award winner Anthony Hopkins (“The Father”) in the drama “Twenty-Seven.” In the film, written and directed by Gregory Caruso, Hawke portrays a 27-year-old aspiring screenwriter attempting to manage his relationships and his OCD while struggling to break into the film industry. Hopkins plays his [ ]
 
-### Pamela Anderson Set for Torino Film Festival Lifetime Achievement Award (EXCLUSIVE)
-Thu, 05 Nov 2026 10:05:13 +0000 — https://variety.com/2026/film/festivals/pamela-anderson-torino-film-festival-lifetime-achievement-award-1236940049/
+### Saudi-Backed LIV Golf, After Five Years of Trying to Challenge PGA Tour, Is Shutting Down
+Thu, 05 Nov 2026 18:42:03 +0000 — https://variety.com/2026/tv/news/liv-golf-shutting-down-1236940535/
 
-Pamela Anderson will be honored with a lifetime achievement award at Italy s Torino Film Festival, where she will introduce a special screening of Gia Coppola s The Last Showgirl. At the Torino fest — which is a preeminent event for young directors and indie cinema run by Italy’s National Film Museum — Anderson will hold an [ ]
+LIV Golf, the pro-golfing startup venture whose biggest investor had been the sovereign wealth fund of Saudi Arabia, is shutting down after it couldn t reach an agreement with a new investor on a bankruptcy reorganization. The league was founded in 2021 by a group of pro golfers, led by Phil Mickleson and Greg Norman, who [ ]
 
-### Olivier Dahan’s Period Drama ‘Nana’ Kicks Off Marvelous Productions, Kapa Studios Pact (EXCLUSIVE)
-Thu, 05 Nov 2026 08:00:00 +0000 — https://variety.com/2026/film/global/olivier-dahan-nana-marvelous-productions-kapa-studios-1236937292/
+### Warner Records Hit With Executive Layoffs
+Thu, 05 Nov 2026 18:42:01 +0000 — https://variety.com/2026/music/news/warner-records-executive-layoffs-1236940551/
 
-French production company Marvelous Productions and Greek production outfit Kapa Studios are joining forces on a cross-border partnership that will begin with a feature film and expand into television series and additional projects. The collaboration, which will be announced Thursday at the Thessaloniki Intl. Film Festival, will see the two companies developing and producing projects [ ]
+Warner Records was hit with approximately a dozen layoffs across the company this week, including executive marketing VPs Victoria “Torie” Mason and Dalia Ganz and senior VP of publicity Fount Lynch, sources confirm to Variety. At least five of the layoffs took place at the company’s Nashville office, where Mason and Lynch are based; VP [ ]
 
-### Sea of Glass Brings Country Gothic Noir Tradition to Greece With Story of Two Women Finding Solidarity Across Generations
-Thu, 05 Nov 2026 08:00:00 +0000 — https://variety.com/2026/film/global/sea-of-glass-country-gothic-noir-greece-women-solidarity-1236938537/
+### The Odyssey Returns to Imax 70mm Theaters Again After Record-Breaking Run
+Thu, 05 Nov 2026 18:30:01 +0000 — https://variety.com/2026/film/news/the-odyssey-rerelease-imax-70mm-christopher-nolan-universal-1236940500/
 
-Greek filmmaker Alexis Alexiou arrives at the Thessaloniki Intl. Film Festival with his third feature, “Sea of Glass,” fresh off its premiere out of competition at Edinburgh. The moody, noir-infused drama will have a special screening in Thessaloniki before a limited theatrical release across Greece on Nov. 12. Best known for the Tribeca-premiering “Wednesday 04:45” [ ]
+Couldn t make the cross-country journey to catch The Odyssey in Imax 70mm last summer? Luckily, you ll have another chance. Universal, starting Dec. 11, is re-releasing Christopher Nolan s epic on more than 1,000 screens in the U.S. and Canada in all formats, including Imax and the coveted Imax 70mm. Released on July 17, The Odyssey, despite [ ]
 
 ## The Hollywood Reporter
 
-### Harry Potter Oxford Street Christmas Lights Details Revealed: Hogwarts Houses and a Tree With Enchanted Snowfall
-Thu, 05 Nov 2026 11:20:19 +0000 — https://www.hollywoodreporter.com/news/general-news/harry-potter-christmas-lights-oxford-street-event-tree-hogwarts-1236748385/
+### It Gets Worse Review: Paramount+ s Hilariously Observed, Affectionately Drawn Comedy About the Agony and Ecstasy of Early Adulthood
+Thu, 05 Nov 2026 20:37:27 +0000 — https://www.hollywoodreporter.com/tv/tv-reviews/it-gets-worse-review-paramount-plus-a24-1236748276/
 
-Floating candles and more await fans in the heart of London's West End as the decorations, inspired by the upcoming 'Harry Potter and the Philosopher’s Stone' series, get ready to go live in a switch-on event.
+Comedian Leo Reich created and stars in the A24-produced six-parter about three 20something best friends in London, with Lena Dunham and Andrew Scott among guest stars.
 
-### Married at First Sight UK Canceled Amid Rape Claims, Review Finds Implicit Pressure on Contestants to Be Intimate
-Thu, 05 Nov 2026 10:30:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/married-at-first-sight-uk-review-canceled-rape-channel-4-1236748366/
+### Dark Slope to Open New Virtual Production Stage in Vancouver (Exclusive)
+Thu, 05 Nov 2026 20:24:02 +0000 — https://www.hollywoodreporter.com/business/business-news/dark-slope-tvirtual-production-stage-1236748603/
 
-CEO Priya Dogra has decided that the "right course was to bring 'MAFS UK' on Channel 4 to an end."
+The new stage will use LED assets picked up from former Pixomondo stages in Vancouver and the Sony VFX firm's LED stage Dark Slope acquired from Pinewood Studios Toronto.
 
-### Fruitcakes: Dawn of Drag Goes Back to Happy Gays, Reclaiming History Through a Timely Film (Exclusive Trailer and Chat)
-Thu, 05 Nov 2026 09:30:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/tallinn-2026-doc-film-fruitcakes-dawn-of-drag-happy-gays-poff-1236746810/
+### Philo Adds Bravo to Its Streaming Lineup After Years of Subscriber Requests
+Thu, 05 Nov 2026 20:12:31 +0000 — https://www.hollywoodreporter.com/lifestyle/shopping/stream-bravo-on-philo-shop-plans-prices-online-1236748684/
 
-Finnish filmmaker Vesa Kuosmanen discusses his doc, premiering at Tallinn, how it feels like a story for our time amid a backlash against trans and queer rights, and how fear drives anger.
+The new addition gives reality TV fans even more to watch, with access to Bravo and 70-plus channels starting at $25 a month.
 
-### Sony Pictures Q2 Profits Soars to $581 Million Due to Spider-Man: Brand New Day
-Thu, 05 Nov 2026 08:28:53 +0000 — https://www.hollywoodreporter.com/business/business-news/sony-pictures-q2-results-spiderman-brand-new-day-1236748325/
+### MS NOW Bets On New Brand Campaign to Help It Ride Midterm Election Wave (Exclusive)
+Thu, 05 Nov 2026 20:07:36 +0000 — https://www.hollywoodreporter.com/business/business-news/ms-now-new-ad-campaign-midterms-unites-us-1236748565/
 
-Revenue topped $3.23 billion for the period in which the movie unit released 'Evil Dead Burn,' 'Insidious: Out of the Further' and 'Resident Evil.'
+The campaign is launching a new spot Thursday with the tagline "Now There's More That Unites Us" as MS NOW looks to boost its membership program.
 
-### Sophie Stone Has Been Writing a Play and a Sitcom and Says, There s So Much to Gain” From Our Differences
-Thu, 05 Nov 2026 08:01:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/sophie-stone-play-sitcom-retreat-falling-bafta-breakthrough-1236746119/
+### ‘Blade Runner 2049’ Producer Settles Lawsuit Against Warner Bros. Discovery Over AI Images
+Thu, 05 Nov 2026 19:56:10 +0000 — https://www.hollywoodreporter.com/business/business-news/blade-runner-2049-producer-lawsuit-tesla-1236748701/
 
-The 'Falling' and 'Retreat' star discusses what it means to be part of the 2026 U.K. BAFTA Breakthrough cohort and how the world has "a collective chance to listen to what deaf people are saying."
+Alcon Entertainment had accused the studio of helping Elon Musk create unlicensed promotional material using an artificial intelligence image generator. It continues to pursue claims against him and Tesla.
 
-### Black Doves Season 2 Review: Keira Knightley and Ben Whishaw Return for More Crackling Chemistry and Bittersweet Thrills in Netflix Spy Thriller
-Thu, 05 Nov 2026 08:01:00 +0000 — https://www.hollywoodreporter.com/tv/tv-reviews/black-doves-season-2-review-keira-knightley-netflix-1236747277/
+### 2027 Met Gala Unveils New Everyday Wear Theme After Galliano Controversy
+Thu, 05 Nov 2026 19:34:19 +0000 — https://www.hollywoodreporter.com/lifestyle/style/2027-met-gala-theme-extraordinary-galliano-1236748673/
 
-Neve Campbell and Ambika Mod join the sophomore outing of Joe Barton's drama following an undercover agent and an assassin who work for a private intelligence agency in London.
+The star-studded event, now entitled ‘extraORDINARY: fashion and the poetics of the everyday,' will look to put the the media storm over honoring the controversial French designer behind it.
 
-### ‘Sounds of the Desert’ Explores Lives, Music and Cosmic Visions of Two Members of the Sun Ra Arkestra (Exclusive Tallinn Trailer)
-Thu, 05 Nov 2026 07:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/tallinn-sounds-of-the-desert-doc-film-trailer-sun-ra-arkestra-1236744161/
+### Gilmore Girls‘ Star Kelly Bishop to Release First Novel
+Thu, 05 Nov 2026 19:03:36 +0000 — https://www.hollywoodreporter.com/lifestyle/arts/gilmore-girls-star-kelly-bishop-first-novel-1236748606/
 
-“In a time of displacement and division, their music reminds me that we can still build a shelter together,” says Lithuanian filmmaker Emilija Škarnulytė, whose new doc premieres at Estonia’s Black Nights Film Festival.
+'Broad Appeal,‘ releasing next year, will blend "the friendship and humor of 'The Golden Girls' with the banter of 'Sex and the City.'"
 
-### Nicolas Cage Weighs in on Ryan Gosling s Ghost Rider, 20 Years After His Version
-Thu, 05 Nov 2026 04:29:09 +0000 — https://www.hollywoodreporter.com/movies/movie-news/nicolas-cage-ryan-gosling-ghost-rider-20-years-1236748268/
+### The Wizard of Oz Was a Big Reference for Doc A Want in Her. Now Its Creator Is Moving Into Fiction.
+Thu, 05 Nov 2026 19:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/the-wizard-of-oz-a-want-in-her-bafta-breakthrough-myrid-carten-1236745912/
 
-"I was happy for him and wished him best of luck on his adventures and I look forward to seeing the movie," Cage said of passing the fiery baton.
+Irish artist-turned-filmmaker Myrid Carten, who won three BIFAs for her feature debut and made the U.K. BAFTA Breakthrough list, talks to THR about her journey so far – and what lies ahead.
 
-### The Top 26 Looks in 2026 (So Far), According to 50 of Hollywood’s Biggest Stylists
-Thu, 05 Nov 2026 03:00:25 +0000 — https://www.hollywoodreporter.com/gallery/best-celebrity-looks-2026-1236746424/
+### La Bola Negra Ups Planned Theater Count Heading Into Netflix Film s Widest Weekend Yet (Exclusive)
+Thu, 05 Nov 2026 18:58:07 +0000 — https://www.hollywoodreporter.com/movies/movie-news/la-bola-negra-netflix-movie-theatrical-count-expand-weekend-1236748279/
 
-The Hollywood Reporter presents its inaugural data-driven stylists’ survey, in which tastemakers voted on their peers’ most impressive looks this year. What’s being served: fashion as art.
+Directors Javier Calvo and Javier Ambrossi's acclaimed feature has grossed $1.3 million domestically since opening Oct. 16.
 
-### Six Hollywood Consequences of Tuesday s Democratic Blockbuster
-Thu, 05 Nov 2026 02:58:53 +0000 — https://www.hollywoodreporter.com/news/politics-news/hollywood-consequences-democrat-blockbuster-midterms-trump-1236748202/
+### Alex Karpovsky on Returning to Filmmaking (and Maybe Girls ) After More Than a Decade Away
+Thu, 05 Nov 2026 18:53:47 +0000 — https://www.hollywoodreporter.com/movies/movie-features/alex-karpovsky-on-returning-to-filmmaking-girls-1236747708/
 
-From the federal tax credit to cable-news trolling to AI regulation, the world looks a lot different today than just days before the election.
+The actor and director is making the indie festival rounds with his wild jungle comedy ‘Riptides,’ while also reflecting on his ‘Girls’ experience ahead of the revival: “Will I be in it? Who knows!”
 
 ## Deadline
 
-### Former England Soccer Manager Gareth Southgate Strikes Content Deal With Sky Sports
-Thu, 05 Nov 2026 11:58:26 +0000 — https://deadline.com/2026/11/gareth-southgate-sky-sports-content-deal-football-dugout-1237214217/
+### The Gilded Age Season 4 Debuts To Series Best Premiere Audience Yet
+Thu, 05 Nov 2026 20:17:08 +0000 — https://deadline.com/2026/11/the-gilded-age-season-4-premiere-audience-record-hbo-1237214741/
 
-Ex-England soccer manager Gareth Southgate has struck a content deal with Sky Sports. Southgate s 1071 Media is partnering with Sky Sports on YouTube and podcast content, with Sky Media representing the formats commercially. Hosted by Match of the Day s Mark Chapman with Conor Coady, The Football Dugout will be a weekly podcast and YouTube show [ ]
+The Gilded Age has returned to HBO with its largest premiere audience ever. The Season 4 premiere, which aired November 1, drew nearly 4 million cross-platform U.S. viewers in its first three days of availability, HBO said Thursday. That makes it the series most-watched season premiere ever, up 25% from Season 3 s 3.2 million. For [ ]
 
-### Channel 4 Cancels Married At First Sight UK After Rape Allegations
-Thu, 05 Nov 2026 10:30:00 +0000 — https://deadline.com/2026/11/channel-4-cancels-married-at-first-sight-uk-rape-1237214149/
+### Duplass Brothers Board Jan Naszewski’s Oscar-Qualifying Short ‘Exam’ As Executive Producers
+Thu, 05 Nov 2026 20:08:00 +0000 — https://deadline.com/2026/11/duplass-brothers-jan-naszewski-oscar-short-exam-ep-1237214738/
 
-Channel 4 has canceled Married at First Sight UK (MAFS UK) following two external reviews into welfare on the show that was hit by rape allegations earlier this year. Despite one review saying it would be reasonable to continue producing future series, Channel 4 CEO Priya Dogra said MAFS UK has now run its course. [ ]
+EXCLUSIVE: Mark Duplass, Mel Elsyn and Jay Duplass have joined Jan Naszewski’s short comedy film Exam as executive producers through the Duplass Brothers’ Productions label. To folks on the international film sales and distribution circuit, Naszewski is known as the congenial founding head of Warsaw-based company New Europe Film Sales. The industry veteran, who has [ ]
 
-### TrustNordisk Boards Viking Drama ‘Stiklestad’ — AFM
-Thu, 05 Nov 2026 10:00:00 +0000 — https://deadline.com/2026/11/trustnordisk-stiklestad-erik-skjoldbjaerg-afm-1237214164/
+### Nithya Raman Wins L.A. Mayor Race As Karen Bass Concedes
+Thu, 05 Nov 2026 19:39:00 +0000 — https://deadline.com/2026/11/la-mayor-election-2026-results-1237212620/
 
-TrustNordisk has acquired international sales rights to the Viking drama Stiklestad and will present the project at the upcoming American Film Market. Stiklestad will be directed by Erik Skjoldbjærg, whose previous credits include Insomnia, starring Stellan Skarsgårdm, which was later remade in English under the same name and directed by Christopher Nolan. Skjoldbjærg’s credits also [ ]
+UPDATED with Karen Bass concession statement: Nithya Raman will be Los Angeles’ next mayor as Karen Bass has conceded the race. The latest voter results released Thursday morning by the L.A. County Register-Recorder/County Clerk show Raman, a two-term City Councilmember, with a continuing commanding and growing lead over incumbent Bass. As of right now, with [ ]
 
-### JioStar s Alok Jain On Reality TV Competition, Building Indian Formats The End Of Koffee With Karan
-Thu, 05 Nov 2026 09:49:57 +0000 — https://deadline.com/2026/11/jiostar-unscripted-interview-koffee-with-karan-ending-1237212979/
+### Russell Brand Trial Reveals Worst Best Of TV Industry That Protected, Then Exposed A Predator
+Thu, 05 Nov 2026 19:20:09 +0000 — https://deadline.com/2026/11/russell-brand-trial-reveals-worst-best-of-tv-industry-1237214490/
 
-EXCLUSIVE: JioStar is so bullish about its unscripted slate that last month it released a coffee table book dedicated to its top shows. JioStar Home of Unscripted: The Billion Emotions Engine was packed with eye-catching stats – one billion viewers and over 460 billion minutes of watch time in 12 months prior to its [ ]
+Russell Brand has been convicted of rape and sexual assault after spending the best part of a month on trial. In many ways, the business that propelled Brand to fame and power was also in the dock. In the first major #MeToo court case for the British television industry, London s Southwark Crown Court heard from [ ]
 
-### The Walking Dead Star Lennie James Leading ITV Thriller Nightswimming From Harry Jack Williams
-Thu, 05 Nov 2026 09:30:00 +0000 — https://deadline.com/2026/11/nightswimming-lennie-james-itv-thriller-two-brothers-1237213214/
+### David Lynch-EP’d Thriller ‘Hyena’ Sets Q1 2027 Start As Kiernan Shipka D’Pharaoh Woon-A-Tai Replace Previously Announced Leads
+Thu, 05 Nov 2026 19:15:01 +0000 — https://deadline.com/2026/11/david-lynch-thriller-hyena-q1-2027-kiernan-shipka-1237214669/
 
-EXCLUSIVE: The Walking Dead star Lennie James is leading an ITV thriller about a man accused of brutally murdering his family years ago. In Nightswimming, which comes from Fleabag and The Tourist creatives Harry and Jack Williams, James plays Matthew, returning to his home in Portugal where he was convicted. Weaving between past and present, [ ]
+Psychological thriller Hyena, one of the final films late director David Lynch signed onto as an executive producer, has announced a Q1, 2027 start date, and new co-stars. Industry and Longlegs star Kiernan Shipka and Emmy nominee D’Pharaoh Woon-A-Tai are set to costar alongside further fresh cast additions, César Award winner and Golden Globe nominee [ ]
 
-### Spider-Man: Brand New Day Propels Sony Pictures To Huge Q2 Profit Boost
-Thu, 05 Nov 2026 07:05:49 +0000 — https://deadline.com/2026/11/sony-q2-earnings-spider-man-brand-new-day-1237214122/
+### Teyonah Parris To Co-Star With Denzel Washington In Christopher McQuarrie s Thriller For United Artists
+Thu, 05 Nov 2026 19:15:00 +0000 — https://deadline.com/2026/11/teyonah-parris-denzel-washington-christopher-mcquarrie-1237214613/
 
-The friendly neighborhood Spider-Man has swung Sony Pictures Entertainment (SPE) to a massive hike in second quarter profit. The box office success of Spider-Man: Brand New Day was the main reason SPE posted earnings of $581 million for the three months to September 30, a huge 527% swing on the $93 million posted in the [ ]
+EXCLUSIVE: Teyonah Parris is set to star opposite Denzel Washington in Amazon MGM Studios’ and United Artists’ untitled thriller with Christopher McQuarrie on board to direct. The film, which is penned by Scott Barkan and Gregg Zehentner, will be released in theaters on October 1. The plot centers on a former police detective serving a [ ]
 
-### Liam Neeson Reacts To Meryl Streep Taking Over Narnia Role Of Aslan: Nobody Better
-Thu, 05 Nov 2026 03:04:46 +0000 — https://deadline.com/2026/11/liam-neeson-reacts-meryl-streep-narnia-aslan-1237213943/
+### LIV Golf Shutting Down After Last-Ditch Financing Plan Fails
+Thu, 05 Nov 2026 19:06:18 +0000 — https://deadline.com/2026/11/liv-golf-shuts-down-bankruptcy-1237214408/
 
-After 16 years, Liam Neeson is passing one of literary s great characters on to one of Hollywood s greatest talents. The Oscar nominee, who voiced Aslan in Disney s The Chronicles of Narnia movies (2005- 10), recently shared his reaction to the news of Greta Gerwig s Narnia: The Magician s Nephew, premiering in Feb. 12 in theaters, giving Meryl [ ]
+Five years after it began its quest to upend a genteel sport with billions in Saudi Arabian money and brash style, LIV Golf is liquidating its operations. The would-be rival to the PGA Tour, which was championed by major winner Phil Mickelson and run until 2025 by another former player of note, Greg Norman, was [ ]
 
-### Joe Miñoso Talks Cruz s Exit From Chicago Fire, Storylines That Almost Happened Plans To Direct
-Thu, 05 Nov 2026 03:02:00 +0000 — https://deadline.com/2026/11/chicago-fire-joe-minoso-exit-interview-1237213901/
+### ‘Primetime’ Star Skyler Gisondo On Pushing Beyond His Comfort Zone Teasing What’s Next For Jimmy Olsen
+Thu, 05 Nov 2026 19:02:12 +0000 — https://deadline.com/2026/11/skyler-gisondo-interview-primetime-the-people-v-gorilla-grodd-1237214604/
 
-SPOILER ALERT: The following reveals major plot points from tonight s episode of NBC s Chicago Fire. NBC s Chicago Fire celebrated its landmark 300th episode tonight, and it was bittersweet. While there was a lot to celebrate, it also marked Day 1 er Joe Miñoso s final episode in the firefighter drama after 14+ years portraying the beloved Joe [ ]
+You d think in the last year, especially given that he’s coming off a successful outing as Jimmy Olsen in James Gunn’s Superman, that Skyler Gisondo would imagine himself as pretty cool. Though, jokingly, by his own account, nothing quite topped appearing in Phoebe Bridgers’ “Lost Boys” music video. “I never felt cooler in my life [ ]
 
-### How Joe Miñoso Exits Chicago Fire As Cruz In Season 15
-Thu, 05 Nov 2026 03:00:00 +0000 — https://deadline.com/2026/11/joe-minoso-exit-cruz-chicago-fire-season-15-recap-1237211554/
+### Ari Stidham Joins Reacher For Season 5
+Thu, 05 Nov 2026 19:00:00 +0000 — https://deadline.com/2026/11/ari-stidham-cast-reacher-season-5-1237214644/
 
-SPOILER ALERT: The following reveals major plot points for NBC s Chicago Fire s Season 15 Episode 5 titled Three Hundred. It s the end of an era on NBC s Chicago Fire, as we say goodbye to Joe Miñoso, who has played Firefighter Josef Joe Cruz since Season 1. And what better way to send him off than [ ]
+EXCLUSIVE: Ari Stidham (Scorpion) has joined the cast of Reacher for Season 5 in a recurring role. Stidham will play Dean Lassider, a sleazy businessman and long-time associate of Nokes (Kevin Durand) who runs his shady operations out of a desert strip club. The project reunites Stidham with Reacher executive producer and showrunner Nick Santora. [ ]
 
-### Harold Greene Dies: Longtime L.A. News Anchor Was 82
-Thu, 05 Nov 2026 02:54:41 +0000 — https://deadline.com/2026/11/harold-greene-dead-l-a-news-anchor-1237213947/
+### Paul Bettany To Star In Netflix Series Pagans
+Thu, 05 Nov 2026 19:00:00 +0000 — https://deadline.com/2026/11/paul-bettany-star-pagans-netflix-series-1237214546/
 
-Harold Greene, the likeable longtime news anchor for many of L.A. s local news stations, died last night. His passing was announced by family. Greene was 82. At various junctures in his career, Greene worked for ABC7 Eyewitness News, KCAL 9 News and CBS 2 News. Greene also worked in San Diego for a period, and [ ]
+EXCLUSIVE: Paul Bettany (VisionQuest, Amadeus) has been tapped as a lead opposite Steven Yeun in Pagans, Netflix s upcoming supernatural drama from Say Nothing creator Joshua Zetumer. In addition to Yeun, Bettany joins previously cast main cast members Sabine Grace, Logan Kim, Marin Ireland and Intae Kim. Pagans, a show that unearths darkest thoughts about family, [ ]
 
-### Charles Porter Dies: Finding Faith Producer Actor Was 47
-Thu, 05 Nov 2026 02:17:17 +0000 — https://deadline.com/2026/11/charles-porter-actor-dead-1237213861/
+### The Odyssey Venturing Back Into Cinemas After Mid-November In-Home Release
+Thu, 05 Nov 2026 18:30:00 +0000 — https://deadline.com/2026/11/the-odyssey-theatrical-re-release-1237214537/
 
-Charles F. Porter, the actor and producer known for backing the 2025 film Finding Faith and playing the titular NASCAR phenom in ESPN s Wendell Scott: A Race Story, died on Monday after a long battle with cancer. His passing was announced by his wife, Candice Tab-Porter. He was 47. Porter was a multihyphenate in more [ ]
+Universal and Christopher Nolan s highest-grossing movie ever, The Odyssey, isn t done with its stateside theatrical run and will return to 1,000 screens, including Imax and Imax 70mm, on December 11. The Odyssey s return to cinemas follows in the wake of the 2-hour and 52-minute feature becoming available in homes on Premium VOD, 4K and DVD [ ]
 
-### Scrubs Star Sarah Chalke On J.D. Elliot s Big Reveal Surprise Twist, Sean Charlie s Quick Exit, Ollie s Arrival What Comes Next
-Thu, 05 Nov 2026 01:31:00 +0000 — https://deadline.com/2026/11/scrubs-sarah-chalke-j-d-elliot-sean-charlie-interview-1237211745/
+### Palm Springs Film Awards: Martin McDonagh To Receive Director Honor
+Thu, 05 Nov 2026 18:22:00 +0000 — https://deadline.com/2026/11/palm-springs-film-awards-2027-list-1237206429/
 
-SPOILER ALERT: The story includes details about Episode 207 of ABC s Scrubs My Story. Episode 207 of ABC s Scrubs revival gave fans answers about what led to J.D. (Zach Braff) and Elliot s (Sarah Chalke) shocking divorce, it gave them a glimpse at what a romantic reconciliation may look like and it gave them hope that [ ]
+The Palm Springs International Film Awards, the event that annually kicks off the Palm Springs Film Festival in the heart of awards season, is revealing its list of 2027 honorees. We are updating as the list rolls out ahead of the opening-night gala ceremony, set for January 7, 2027 at the Palm Springs Convention Center, [ ]
 
 ## befores & afters
+
+### The Pedestrian, Mutant Bryan and all the crazy creatures in Zach Cregger’s ‘Resident Evil’
+Thu, 05 Nov 2026 19:59:15 +0000 — https://beforesandafters.com/2026/11/06/the-pedestrian-mutant-bryan-and-all-the-crazy-creatures-in-zach-creggers-resident-evil/
+
+A deep dive into the visual effects of the film with production VFX supervisor Alessandro Ongaro and Wētā FX. The world of video game Resident Evil has long been defined by its grotesque mutations, terrifying creatures and relentless survival-horror scenarios. For the 2026 big-screen adaptation, director Zach Cregger took a fresh approach to the franchise, following Bryan (Austin Abrams), a medical courier who finds himself caught up in a terrifying night of chaos as the T-Virus outbreak spreads through Raccoon City. Tasked with delivering a package to the city hospital, Bryan embarks on an increasingly nightmarish journey through the infected city, encountering a growing assortment of mutated humans, animals and other biological horrors along the way. Bringing these creatures to the screen required a combination of practical creature effects and digital visual effects. Creature designer Shane Mahan and the team at Legacy Effects developed several practical creature effects, while production visual effects supervisor Alessandro Ongaro oversaw a range of creature augmentations and entirely digital ones, alongside environmental and other visual effects, totalling 708 shots. Leading the charge visual effects vendor-wise was Wētā FX, with UPP handling several visual effects sequences. Wylie Co. VFX delivered postvis and a number of VFX shots. Lola Visual Effects crafted specialized make-up fixes. Finally, Eyeline’s volumetric capture stage was utilized to capture Abrams’ performa
 
 ### New VFX Notes episode on the visual effects of Sinners
 Thu, 05 Nov 2026 09:17:09 +0000 — https://beforesandafters.com/2026/11/05/new-vfx-notes-episode-on-the-visual-effects-of-sinners/
@@ -180,167 +185,167 @@ Animator Tilly Fidler goes behind the scenes. The post Laika animator breaks dow
 
 ## IndieWire
 
-### Pixar Promotes Jonathan Garson to President, Taking Reins from Retiring Executive Jim Morris
-Thu, 05 Nov 2026 00:45:00 +0000 — https://www.indiewire.com/news/breaking-news/pixar-names-jonathan-garson-president-1235225568/
+### Everytime Review: Sandra Wollner s Infinitely Beguiling Portrait of Grief in the Digital Age Is One of the Most Haunting Films of the Decade
+Thu, 05 Nov 2026 20:00:00 +0000 — https://www.indiewire.com/criticism/movies/everytime-movie-review-sandra-wollner-1235215903/
 
-Garson, who has worked within Disney for more than 30 years, will assume the role in January.
+Picking up where the likes of "Aftersun" and "Personal Shopper" left off, Wollner's unforgettable third feature explores the modern world's changing relationship to death.
 
-### Cinematography Legend Robert Richardson Answered a Film Student s Email — Their Conversation Became The White Devil
-Thu, 05 Nov 2026 00:30:00 +0000 — https://www.indiewire.com/features/interviews/robert-richardson-white-devil-documentary-jana-hojdova-1235225542/
+### La Bola Negra Wins Denver Film Festival Top Prize as More Regional Fests Boost Oscar Hopefuls
+Thu, 05 Nov 2026 19:41:33 +0000 — https://www.indiewire.com/news/festivals/denver-film-festival-2026-award-winners-1235225777/
 
-Jana Hojdová wanted to ask the Oscar-winning cinematographer about his life. A pandemic lockdown and 650 hours of footage later, her documentary captures what it means for a legend to feel understood.
+The Sly Stallone behind-the-scenes biopic "I Play Rocky" won the narrative feature audience award, repeating a pattern that started in Toronto.
 
-### Watch The Greatest Team Discuss How They Made the Impossible Possible on Muhammad Ali Series
-Thu, 05 Nov 2026 00:00:00 +0000 — https://www.indiewire.com/news/events/watch-the-greatest-crafts-team-panel-muhammad-ali-1235225455/
+### The Weed Eaters Lands Expanded Release from Yellow Veil Pictures: New Zealand Cannibal Movie Sets Winter Rollout
+Thu, 05 Nov 2026 19:30:00 +0000 — https://www.indiewire.com/news/business/the-weed-eaters-cannibal-horror-acquired-yellow-veil-1235225546/
 
-Creator Ben Watkins and his team discuss the challenges they faced making the Prime Video series, from costume quick changes at the Colosseum to a last minute original song from Wyclef Jean.
+Exclusive: Director Callum Devlin's feature gets expanded stateside distribution after debuting in the Letterboxd Video Store in September.
 
-### The Ballad of Lieutenant Dan, Documentary About Gary Sinise s Work with Veterans, Acquired by Freestyle Digital Media
-Wed, 04 Nov 2026 19:38:46 +0000 — https://www.indiewire.com/news/general-news/ballad-of-lieutenant-dan-documentary-gary-sinise-acquired-1235225475/
+### Wild Horse Nine Review: Martin McDonagh s Prickly but Unconvincing CIA Satire Recasts In Bruges as the Stuff of a Classic Western
+Thu, 05 Nov 2026 18:30:00 +0000 — https://www.indiewire.com/criticism/movies/wild-horse-nine-movie-review-1235213912/
 
-Exclusive: The film follows the Oscar-nominated actor as he grapples with the death of his son.
+John Malkovich and Sam Rockwell are two CIA agents vacationing on Easter Island in McDonagh's sardonic look at American interventionism.
 
-### Wildwood Director Travis Knight on How Live-Action Filmmaking Shaped His Stop-Motion Animated Adventure
-Wed, 04 Nov 2026 18:30:00 +0000 — https://www.indiewire.com/features/animation/wildwood-laika-travis-knight-director-interview-1235225035/
+### North of North Season 2 Review: Netflix s Defiantly Nice Arctic Sitcom Is for the Warmhearted F**k-Ups
+Thu, 05 Nov 2026 18:00:00 +0000 — https://www.indiewire.com/criticism/shows/north-of-north-season-2-review-netflix-comedy-series-good-1235225266/
 
-Director Travis Knight tells IndieWire about bringing techniques he learned in live action to Laika's stop-motion epic adventure story.
+Indie Spirit and Gotham Award nominee Anna Lambe shines even brighter in a second season that sees her single mom double down on "leveling up" — at work, in love, and as a contributing member of her cherished Inuk community, which, like her, needs all the help it can get.
 
-### Club Kid Review: Jordan Firstman s Brazen, Funny, and Surprisingly Earnest Directing Debut Is a Wild Party Movie with Heart
-Wed, 04 Nov 2026 18:00:00 +0000 — https://www.indiewire.com/criticism/movies/club-kid-review-jordan-firstman-1235193965/
+### Hen Review: A Cockeyed Comedy Sees Europe s Migrant Crisis Through the Eyes of a Chicken
+Thu, 05 Nov 2026 17:30:00 +0000 — https://www.indiewire.com/criticism/movies/hen-movie-review-1235225630/
 
-The controversy-courting comedian/actor reinvents himself as a filmmaker, and as the star of his own hugely crowdpleasing movie as a washed-up New York party promoter forced to mature the hard way.
+Executive-produced by Ari Aster, György Pálfi's new film evokes "EO" and "Flow" with its animal POV on humanity's moral failures.
 
-### Being Heumann Review: Siân Heder s CODA Follow-Up Is an Essential Biopic That s Not Afraid to Have Some Fun
-Wed, 04 Nov 2026 17:00:00 +0000 — https://www.indiewire.com/criticism/movies/being-heumann-review-sian-heder-biopic-judy-1235213657/
+### Robert Pattinson to Receive 2026 American Cinematheque Award
+Thu, 05 Nov 2026 17:00:00 +0000 — https://www.indiewire.com/awards/results/robert-pattinson-american-cinematheque-award-2026-1235225639/
 
-Heder's look at a remarkable period in activist Judy Heumann's work is life-affirming in myriad ways, and boasts a star turn from Ruth Madeley.
+The prolific star of several successful 2026 films, from "The Odyssey" to "Primetime," will be the 40th recipient of the award from American Cinematheque after Ryan Gosling backed out of the event in October.
 
-### Will Brill Won a Tony and Got His First Leading Film Role, but That s Not How He Measures Success
-Wed, 04 Nov 2026 16:00:00 +0000 — https://www.indiewire.com/features/interviews/will-brill-tony-stereophonic-the-musical-being-heumann-1235225224/
+### AI Movie Gods Don t Give Gifts Gets Serious with AI-Generated Grimes Cameo, Times Square Marketing Push, Oscar Screenings
+Thu, 05 Nov 2026 17:00:00 +0000 — https://www.indiewire.com/news/breaking-news/ai-movie-gods-dont-give-gifts-grimes-cameo-times-square-1235225119/
 
-A Tony winner for "Stereophonic," a leading man thanks to "The Musical," and the kind of supporting star who makes everything better (like this week's "Being Heumann"), Brill tells IndieWire what real creative joy looks like.
+Creator and YouTuber Gossip Goblin says it would be "disingenuous to write it all off" as just a stunt.
 
-### Cherry Virgin Review: A Fantastic Indie Anime Blends Different Art Styles and a Slew of Pop Culture References into an Innovative Modern Rom-Com
-Wed, 04 Nov 2026 15:45:00 +0000 — https://www.indiewire.com/criticism/movies/cherry-virgin-anime-movie-review-1235225440/
+### Cannes 2026 Movies Sold: Kino Lorber Buys Clio Barnard s BIFA Contender I See Buildings Fall Like Lightning
+Thu, 05 Nov 2026 16:05:18 +0000 — https://www.indiewire.com/news/festivals/cannes-2026-movies-sold-so-far-paper-tiger-minotaur-1235191174/
 
-An erotic manga artist who's never had sex falls in love with a similarly inexperienced illustrator in Masanao Kawajiri's Tokyo International Film Festival standout.
+The film was recently nominated for eight British Independent Film Awards, including best British independent film, best director, best screenplay, and best ensemble performance.
 
-### Alan Cumming Says Tip Toe Was His Greatest Role Ever — but He Never Wants to Think About It Again
-Wed, 04 Nov 2026 15:00:00 +0000 — https://www.indiewire.com/features/interviews/alan-cumming-tip-toe-greatest-role-ever-finale-1235225300/
+### Sony Pictures Classics Buys Jean-Pierre Jeunet s Violette
+Thu, 05 Nov 2026 16:00:09 +0000 — https://www.indiewire.com/news/breaking-news/sony-pictures-classics-buys-jean-pierre-jeunets-violette-amelie-1235225702/
 
-Series creator Russell T. Davies and Cumming tells IndieWire all about that devastating finale and why this role made the actor's career.
+This marks the indie studio's fourth collaboration with the director of "Amelie" and "The City of Lost Children."
 
-### Caligula Director Tinto Brass Dies at 93
-Wed, 04 Nov 2026 14:03:26 +0000 — https://www.indiewire.com/news/obituary/caligula-director-tinto-brass-dies-1235225432/
+### Henry Jaglom s Tracks Is a Masterpiece of Post-Vietnam Cinema — Watch the Trailer for the New Restoration
+Thu, 05 Nov 2026 16:00:00 +0000 — https://www.indiewire.com/news/trailers/tracks-restoration-henry-jaglom-dennis-hopper-1235225564/
 
-The Italian filmmaker was best known for his hardcore portrait of the Roman emperor, but also made several notable erotic movies.
+Jaglom's body of work is one of the most important in American independent cinema, and now it's returning the big screen thanks to a major new restoration effort from Cinématographe and Hope Runs High.
 
-### The Greatest Review: Amazon s Handsome Muhammed Ali Biopic Connects in Spite of Itself
-Wed, 04 Nov 2026 14:00:00 +0000 — https://www.indiewire.com/criticism/shows/the-greatest-review-muhammad-ali-amazon-prime-series-1235225022/
+### I Remember Rocky : My Front Row Seat to the Marketing of a Million-to-One Blockbuster
+Thu, 05 Nov 2026 15:30:00 +0000 — https://www.indiewire.com/awards/industry/rocky-sylvester-stallone-i-play-rocky-oscars-marketing-classic-1235225580/
 
-Produced in collaboration with the iconic athlete's estate, creator Ben Watkins' earnest eight-part series follows Ali from his Gold Medal win through his first championship belt.
+Back in 1976, no one knew who Sly Stallone was. Luckily, the United Artists marketing department knew how to build a box office contender.
 
 ## The Wrap
 
-### Imax Sails to $175 Million in Revenue Thanks to The Odyssey
-Thu, 05 Nov 2026 12:41:08 +0000 — https://www.thewrap.com/creative-content/movies/imax-earnings-q3-2026/
+### Women in Film CEO Sounds Off on Exec Ousters and Declining Representation: We Have a Real Problem
+Thu, 05 Nov 2026 20:42:48 +0000 — https://www.thewrap.com/culture-lifestyle/culture/women-in-film-ceo-kirsten-schaffer-honors-inteview/
 
-Imax recorded a quarterly record $712 million at the global box office, with $550 million coming from The Odyssey. EPS for Imax came in at $2.21 per share, sharply up from the 47 cents per share recorded in the prior year quarter Ramayana, Hunger Games: Sunrise on the Reaping, and Dune: Part Three highlight the films coming to Imax in the fourth quarter Call it the Christopher Nolan bump. Imax had a huge third quarter earnings to report on Thursday morning as the record-breaking run of The Odyssey, the first film shot entirely on the company s cameras, lifted the company to $175 million in revenue. From that revenue, Imax reported net income of $117 million for earnings of $2.21 per share. By comparison, the third quarter of 2025 brought $103 million in income for revenue of 47 cents per share. Wall Street projections for this quarter were set at $154 million in revenue. Global box office grosses for Imax reached an all-time quarterly record of $712 million, with $550 million of that, or 77%, coming from The Odyssey. Nolan s acclaimed film created around-the-clock demand for Imax tickets on opening weekend that extended more than two months into its run for the 41 global locations screening the film in Imax 70mm. “What Imax achieved goes beyond simply a ‘great quarter’ and transcends the many records we shattered in the period. What we believe we are witnessing is an awakening to the power and potential of our platform to impact global culture, unlock new commercial opportuni
+On Thursday night, there will be a heaviness in the air at the Women in Film (WIF) Honors when former Warner Bros. film chief Pamela Abdy takes the stage to accept the Inaugural Vanguard Award. Abdy was selected as an honoree months ago due to the strong run of films she and Michael De Luca spearheaded at Warner Bros. (2025 saw big swings like Sinners, One Battle After Another and Weapons, to name a few). But her recognition will take on a new meaning now that she and De Luca are out of their positions following Skydance s acquisition of her studio. We are really excited to be honoring Pam Abdy at Thursday s event because she has done so much for women over her entire career, and particularly in the last few years at Warner Bros., WIF CEO Kirsten Schaffer told TheWrap. They made a lot of films directed by women, and we thought this was the right moment to honor her, not knowing what was to come. Schaffer admitted it s disappointing Abdy is no longer leading the studio, noting that she had a budget to use to make a whole variety of films that have been really important to the culture and the industry. As for how Abdy will address the room in the wake of her departure and amid other high-profile exits from female executives like Bela Bajaria and Cindy Holland, Schaffer hasn t read Abdy s speech, but imagined that it will be poignant, maybe a little fiery. In light of high-profile departures of female executives this year, Schaffer is glad Skydance Pictures co-chairs Dana Goldbe
 
-### Spider-Man Jolts Sony Pictures Earnings by 527%
-Thu, 05 Nov 2026 07:39:23 +0000 — https://www.thewrap.com/creative-content/movies/spider-man-sony-pictures-earnings-q3-2026/
+### Netflix Debuts New ‘KPop Demon Hunters’ Content Hub
+Thu, 05 Nov 2026 20:39:53 +0000 — https://www.thewrap.com/creative-content/movies/kpop-demon-hunters-content-hub-netflix-explained/
 
-Sony s theatrical revenue rose by more than 1,100% year-over-year to $1.28 billion thanks to Spider-Man: Brand New Day with an assist from Resident Evil The $2.5 billion Marvel Studios box office hit offset a 45% year-over-year decrease in TV revenue to $483 million Overall net income rose 44% to $2.8 billion off $21.5 billion in revenue The good times keep rolling for quarterly earnings in Hollywood as Sony reported a 44% increase in overall net income thanks in large part to the historic $2.52 billion box office run of Sony Pictures/Marvel Studios Spider-Man: Brand New Day. For the overall company, Sony reported revenue of 3.429 trillion yen ($21.5 billion), up 10% from the previous year quarter, and net income of 450 billion yen ($2.8 billion), up 44%. And within Sony Pictures Entertainment, revenue increased 37% year-over-year to $3.23 billion with a net income of $488 million, which is a whopping 527% increase over the prior year quarter. The theatrical division recorded revenue of $1.28 billion, more than 1,100% increase year-over-year fueled by Spider-Man with an assist from the September release of Resident Evil, which has grossed $400 million worldwide. That offset a 45% decrease in television revenue to $483 million. Spider-Man: Brand New Day now stands as Sony Pictures highest grossing film ever and the third highest of all-time before inflation adjustment behind only Avengers: Endgame and Avatar. In an interview with TheWrap after the film s record-setting $360 mi
+You might have thought it was done, done, done, but the “KPop Demon Hunters” phenomenon continues. Starting Thursday, fans can access the “KPop Demon Hunters: For the Fans! page, described as a “first-of-its-kind, all-new destination” on Netflix that brings together “the ultimate collection of ‘KPop Demon Hunters’ content that celebrates the music and characters fans love while discovering original and playful creations.” Alongside the Academy Award-winning film and the sing-along version (which had a brief theatrical release last year), there is stuff like all-new official choreography videos featuring new HUNTR/X animation and popular dance creators, and custom stop-motion animation videos showcasing HUNTR/X in a new style,” per a Thursday press release. And just when you got “Soda Pop” out of your head. Honestly, there’s an impressive amount of new content that will stoke the interest in longtime fans and also, undoubtedly, create new fans for the film, which has spent a staggering 67 weeks (!) on Netflix’s Global Top 10 list of most-viewed movies. It also speaks to Netflix’s current strategy of blending traditional Netflix content with more user-generated, YouTube-y material. In the PLAYlist Stories (capitalization theirs), are “HUNTR/X Backstage Pass,” described as a “visually kinetic and fun stop-motion narrative” with six episodes that give fans “exclusive access to HUNTR/X behind the scenes: rehearsals, photoshoots, costume fittings and more.” With “KPop Toy Creations
 
-### Chris Sullivan Shocks Mandy Moore and Sterling K. Brown With Admission That ‘This Is Us’ Isn’t His ‘Biggest’ Credit
-Thu, 05 Nov 2026 06:21:22 +0000 — https://www.thewrap.com/media-platforms/tv/chris-sullivan-stuns-mandy-moore-sterling-k-brown-geico-ad-role/
+### Netflix Effect Strikes Again With MGM+’s ‘From’ Dominating Nielsen Streaming Charts With 1.65 Billion Minutes
+Thu, 05 Nov 2026 20:15:34 +0000 — https://www.thewrap.com/creative-content/tv-shows/from-ratings-netflix-nielsen-streaming-charts/
 
-Chris Sullivan shocked former This Is Us co-stars Mandy Moore and Sterling K. Brown with a confession about his biggest role to date: the GEICO Hump Day camel. During Tuesday s episode of the That Was Us podcast, Sullivan told his co-hosts that the insurance company had decided to bring back his commercial, in which he voiced a camel declaring it s Hump Day over and over again. They brought my commercial, back by the way. Hump Day, he noted after Wednesday being called Hump Day was mentioned by his peers. “What?” a genuinely confused Moore asked, prompting Sullivan to say, “You know I’m the GEICO camel?” You re what? You re the GEICO camel? the Candy singer responded in disbelief. At this moment, Brown admitted this was news to him too, noting, You know what? I don t think I knew that either, but like now that you say it. Sullivan then broke out into an impression of his viral character, which first debuted 13 years ago. A stunned Moore and Brown insisted that this was breaking news to them, with the latter noting he would ve remember[ed] this. “Thirteen years ago. I did that commercial, Sullivan shared. And the NFL just did a new one for the Tuesday night kickoff. That ran, and then they brought the old commercial back, and I just went back in the studio doing a whole bunch of new commercials.” Moore and Brown were beyond excited by the news, breaking out into applause for Sullivan. That s amazing, Moore commented. We live for that. What a job. Brown expressed a similar sent
+The Netflix effect has struck again, this time with MGM s From, which grew its cult following to a massive mainstream audience. While From has cultivated a strong fanbase on MGM+, its launch on Netflix brought the show atop Nielsen s top streaming lists. After the first three seasons hit Netflix on Oct. 19, From tallied up 1.65 billion minutes across 30 available episodes during the week of Oct. 19, landing as the week s No. 1 show on streaming. Notably, 40% of watch-time for From came from Hispanic and Black viewers, with 27% and 18% respectively. Behind “From” on the top streaming charts was “The Diplomat,” also on Netflix, which added 200 million minutes in its second week, bringing its viewership to 1.19 billion minutes for the week of Oct. 19. “The Diplomat” landing as the No. 2 overall streaming program and the No. 1 streaming original, given that “From” is an acquired title. Streaming hit “The Big Bang Theory” rounded out the top three titles on Nielsen’s chart with 867 million minutes viewed, continuing the show’s streaming resurgence on HBO Max. Longrunning favorite “Grey’s Anatomy” was right behind “The Big Bang Theory” as the No. 4 streaming title with 845 million minutes viewed. Other notable streaming original series include Prime Video’s “The Terminal List” with 830 million minutes viewed, Peacock’s “Crystal Lake” with 790 million minutes viewed, Netflix’s “Love Is Blind” with 780 million viewed and Netflix’s “Nobody Wants This” with 725 million minutes viewed. 
 
-### Jimmy Kimmel Gets Loud Audience Reaction With ‘Just Shut Up’ Message to Trump Over Midterm Excuses
-Thu, 05 Nov 2026 05:33:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/jimmy-kimmel-sends-trump-just-shut-up-message-about-midterms/
+### Salon, Pioneering Digital News Website, Shutters After 31 Years
+Thu, 05 Nov 2026 20:03:39 +0000 — https://www.thewrap.com/media-platforms/journalism/salon-shuts-down/
 
-Jimmy Kimmel sounded off on Donald Trump s excuses for the GOP s poor performance during the Midterm Elections, telling the president point-blank to just shut up. The late night host further commented on Tuesday s blue wave during Wednesday s episode for Jimmy Kimmel Live!, where he took aim at Trump for deflecting blame for his party underperforming . And, in the face of defeat, he is doing what he does best, blaming everyone other than him, Kimmel said. He absolved himself of all responsibility. He wrote, I wasn t on the ballot. And if I was, we would have won in a landslide. Oh, shut up. Just shut up, please. At this moment, Kimmel s studio audience erupted into cheers, whistles and applause. Kimmel then doubled down on his criticism of Trump, adding, I mean, give us a break for one day and shut that ridiculous mouth. You are such a spoiled child. Did you ever learn anything about manners or sportsmanship or simple common decency? Nothing is ever your fault. The comedian then dished out a reality check to the president, highlighting that every Republican pretty much everywhere, everywhere but the deepest of the deep red sea, lost. That s not because of you? he continued. All your big handpicked candidates lost. You picked Darline Graham to run in South Carolina. You ran Thom Tillis out of the Senate. You backed that pathetic Ken Paxton in Texas. You went all in on Vivek Ramaswamy and his disgusting campaign ad. And if you hadn t picked Mr. Charisma JD Vance to be your vice
+Salon.com, the pioneering digital news website known for its political and cultural commentary, permanently shuttered on Thursday, sharing in an open letter that we are saddened to announce that Salon is ceasing publication. It’s difficult to find the right words for the end of something that has meant so much to so many people, the letter, titled Goodbye From Salon, read. Salon was never just a website. It was an idea about what journalism could be, born at a moment when the internet was still a largely unexplored frontier. The site was launch on Nov. 20, 1995. The publication s outgoing editor-in-chief is Joseph Neese, who s been with Salon since 2017. Today, after 31 years, we are saddened to announce that Salon is ceasing publication. It has been an extraordinary privilege. https://t.co/a103i0aEKi pic.twitter.com/GTFbVqAzvz &mdash; Salon (@Salon) November 5, 2026 Founded by a small group of journalists on an aspirational idea of what journalism could be, the site touted a strong voice, a curiosity about the world and a belief that the internet could bring journalism and readers together in new ways. Its founding editors helped pioneer the internet news medium that came to define an entirely new era of publishing, the letter reads. The site s shuttering came after years of downsizing in the Salon newsroom and amid widespread cuts in the entertainment and media sphere due to waves of consolidation, AI-driven change and cost-cutting efforts industry-wide. In 2025 , entertain
 
-### Jimmy Fallon Suppresses a Laugh After ‘Reverse Jan. 6’ Joke About GOP’s Midterm Losses
-Thu, 05 Nov 2026 04:48:46 +0000 — https://www.thewrap.com/creative-content/tv-shows/jimmy-fallon-suppresses-laugh-gop-midterms-loss-joke/
+### ‘The Gilded Age’ Season 4 Boasts Show’s Most-Watched Premiere to Date With Nearly 4 Million Viewers
+Thu, 05 Nov 2026 20:00:50 +0000 — https://www.thewrap.com/creative-content/tv-shows/the-gilded-age-season-4-premiere-ratings-hbo/
 
-Jimmy Fallon couldn t help but laugh at his own monologue joke Wednesday evening as he mocked the GOP for its sweeping losses in the midterm elections . The late night host touched on Tuesday s blue wave during the new episode of The Tonight Show, kicking off the episode with a jab at President Donald Trump. President Trump couldn t do it with the [Lincoln Memorial] Reflecting Pool, but last night he turned the whole country blue, Fallon said, prompting cheers and applause from his studio audience. Last night, history was made, as the Democrats delivered stunning upsets in Republican strongholds across the country and took control of the House and Senate. Fallon then lobbed a couple of zinger s the president s way, noting Trump was so upset by the election results that he didn t even want to get out of his tanning bed. Democrats flipped seven Senate seats, including in North Carolina, South Carolina and Texas, Fallon said. You know it s a tough night for Republicans when they lose the Waffle House states. After shouting out the history-making elections, including Keisha Lance Bottoms becoming the first-ever Black woman elected governor and Chris Pappas becoming the first openly gay man elected to the U.S. Senate, Fallon quipped that it was a total blue wave caused by an orange president. Here s where Fallon zeroed in on the wider Republican Party, joking, The Republicans lost the House and the Senate. There s going to be so many Republicans leaving the Capitol, it ll look lik
+The Gilded Age is keeping its ratings momentum going with Season 4. The HBO period drama from Julian Fellowes and Sonja Warfield gathered nearly 4 million viewers with its latest episode, making the series most-watched season premiere to date and a 25% increase from its previous premiere, which gathered 3.2 million viewers. The ratings win continues an impressive streak for the drama series, which rose to prominence with its third season — leveraging a passionate cult audience to five consecutive weeks of series-high viewership , peaking at 5 million viewers for the finale after three days. Season 3 averaged 8.8 million global viewers across platforms. The Gilded Age Season 3 made a big impact on social media, with conversations seeing a 185% uptick from last season and doubling the number of engagements on owned posts compared to Season 2. HBO did not yet share an impact on social media impact for Season 4. Season 4 kicked off with plenty of action, as Bertha (Carrie Coon) traveled to the U.K. for her daughter Gladys (Taissa Farmiga) difficult birth, while the New York luminaries gathered for the wedding of Oscar van Rhijn (Blake Ritson) and Enid van Rhijn (Kelley Curran). It also kicked off drama for Marian Brook (Louisa Jacobson) and Larry Russell (Harry Richardson), after their latest romantic rekindling led to an unexpected hookup and her potential ruin. And George Russell (Morgan Spector), still reeling from being shot in the Season 3 finale, circled in on the culprit w
 
-### Adam Driver Says The Hunt for Ben Solo Is Dead Despite Incredible Fan Support: We Tried
-Thu, 05 Nov 2026 03:34:27 +0000 — https://www.thewrap.com/creative-content/movies/adam-driver-hunt-for-ben-solo-dead-despite-fans-videos/
+### Can The Gilded Age and All s Fair Keep Their Ratings Momentum?
+Thu, 05 Nov 2026 19:30:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/alls-fair-the-gilded-age-ratings-momentum/
 
-Adam Driver wants to thank fans for supporting The Hunt for Ben Solo , but the Star Wars actor thinks his days as Kylo Ren are over. It s over, Driver said on Wednesday. No more Star Wars. We tried. The actor appeared on The Rich Eisen Show to talk about his upcoming film, Paper Tiger , which premiered at Cannes Film Festival earlier this year. During the interview, Eisen asked if he planned on returning to the sci-fi/fantasy franchise, which prompted Driver to discuss The Hunt for Ben Solo, a sequel to The Rise of Skywalker that he and Steven Soderbergh worked on that ultimately wasn t picked up by Disney. We tried to do one more, yeah, but they were like, No, he s dead,' Driver said, referring to Ben Solo s demise in Episode IX. Yeah, I know, but, I mean, these things, you can make anything up, Eisner responded. I don t know if you re aware Darth Vader turned out to be somebody s father, you know? That came out of nowhere back in the day. Driver said that he and Soderbergh worked on the potential Ben Solo starring vehicle really and earnestly for two years, pulling together a really good script with Scott Z. Burns and Jules Asner (under the pseudonym Rebecca Blunt). The film was ultimately passed on by Disney executives after it was brought to them by Lucasfilm. Driver noted that someone at Disney or Lucasfilm could resurrect the project if they wanted to, but that he thinks the ship has sailed. The fans response to it, though, was pretty incredible. I didn t expect that it
+Beyond their premiere dates and glitzy vibe, “The Gilded Age” and “All’s Fair” have little in common — but they both stirred up notable ratings the last time they aired. As they launch new seasons this week, can they keep that ratings momentum going? As both shows return for their next installments, they face the increasingly difficult task of retaining, and hopefully growing, their viewership — an issue that s been plaguing even the most established streamers, most notably Netflix, which is facing serious questions about its engagement struggles. HBO Max s The Gilded Age and Hulu s All s Fair hope to buck that trend and build upon their earlier successes. The shows sit on two very different ends of ratings success. All s Fair, Ryan Murphy s campy Hulu legal drama starring Kim Kardashian, Naomi Watts, Niecy Nash-Betts, Sarah Paulson and Glenn Close, was panned critically. But the joke was on the critics as it secured Hulu’s biggest scripted series debut in three years with 3.2 million views, leading the streamer to grant a Season 2 renewal less than three weeks after its debut. In fact, the critical bashing and subsequent social media chatter — which generated 10 billion impressions from the trailer s release on Oct. 8 to Nov. 20 — might have, in part, boosted viewership as audiences scurried to form their own opinion on All s Fair to share on social media. A year later, the show is back and as campy as ever. Will curious audiences tune back in? Conversely, The Gilded Age was
 
-### Constantine Film in the Works at DC Studios
-Thu, 05 Nov 2026 03:04:09 +0000 — https://www.thewrap.com/creative-content/movies/constantine-film-in-the-works-dc-studios/
+### DOJ Intensifies Criminal Probe Into Supreme Court’s Politico Leak
+Thu, 05 Nov 2026 19:20:12 +0000 — https://www.thewrap.com/media-platforms/journalism/doj-supreme-court-abortion-leak-politico-investigation/
 
-The Hellblazer is back. A new film starring fan-favorite horror character John Constantine is currently in the works at DC Studios, TheWrap has learned. This new feature will be helmed by Francis Galluppi, the filmmaker behind the upcoming seventh Evil Dead movie, Evil Dead Wrath. This film comes hot on the heels of Clayface, a film that proved that the DCU can support films of differing genres and budgets alongside massive blockbusters like 2025 s Superman (and its 2027 sequel Man of Tomorrow ). Clayface held an R-rating and a modest budget, opening to a promising start of $43 million at the worldwide box office. John Constantine is a character who, like Clayface, can operate well in the horror genre — an element that s been there since the character s routes. The hard-edged paranormal investigator debuted in 1985 s Swamp Thing #37 from Alan Moore, Stephen R. Bissette and John Totleben. Before breaking out into his own title, Constantine would go on to teach Swamp Thing about the more supernatural elements of his plant-based powers in Moore s groundbreaking horror comic. The Hellblazer, as he was later known (including in DC s iconic horror title John Constantine, Hellblazer ), has already appeared on the screen a few times before. He was notably portrayed by Keanu Reeves in Francis Lawrence s 2005 film Constantine. A potential sequel to that film was kicked around in the 2020s. Matt Ryan also portrayed the character on NBC s Constantine series, later joining the CW s DC sup
+The Justice Department has stepped up its criminal investigation into the 2022 leak of a draft Supreme Court opinion overturning Roe v. Wade, issuing grand jury subpoenas as prosecutors seek to identify who provided the document to Politico, The New York Times reported Thursday . The investigation, overseen by U.S. Attorney Jeanine Pirro in Washington, D.C., has accelerated in recent weeks, with prosecutors seeking testimony and information from people who worked at the court when the draft was disclosed. Politico s May 2022 report revealed that the justices were preparing to eliminate the constitutional right to abortion, nearly two months before the court formally issued its ruling. The renewed probe comes more than three years after the Supreme Court s internal investigation failed to identify the leaker. Prosecutors have not disclosed whether they have uncovered new evidence or what prompted the renewed push. Chief Justice John Roberts ordered an internal investigation shortly after Politico published the draft. Court investigators interviewed 97 staff members and clerks, while the justices were consulted but not formally interviewed, according to the Times. The inquiry ended in January 2023 without identifying a suspect and highlighted weaknesses in the court s security procedures. President Donald Trump has repeatedly called for the leaker to be identified. In July, he publicly demanded that the person responsible be found, joining conservatives who have pressed for a c
 
-### ‘Chicago Fire’ Star Joe Miñoso Breaks Down Cruz’s 300th Episode Exit and Coming Back to Direct
-Thu, 05 Nov 2026 03:00:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/chicago-fire-joe-cruz-exit-season-15-episode-5-joe-minoso-interview/
+### Carrie Coon Applauds Taylor Swift s Very Good Impression of Her Gilded Age Character: She s So Bertha
+Thu, 05 Nov 2026 18:53:38 +0000 — https://www.thewrap.com/creative-content/tv-shows/taylor-swift-carrie-coon-gilded-age-impression-bertha-tonight-show/
 
-“Chicago Fire” said goodbye to one of its longest running cast members as it celebrated 300 episodes on the air. The NBC drama series celebrated the milestone Wednesday with some big investigations and firehouse 51 going through new squad photos. For firefighter Joe Cruz (Joe Miñoso), the episode saw him push hard in physical therapy following a serious injury last season. He also welcomed twin girls with his wife Chloe (Kristen Gutoskie), which makes the character fans first met as a young member of the squad in the pilot into a father of four. After introducing his sons to the new babies, the family is surprised with the news that Cruz could make a full recovery from his injury and return to the firehouse imminently. After Joe’s young son protested at his father going back to his risky job, the firefighter realized it was time to hang up his gear for the last time — but not before an emotional conversation with Severide (Taylor Kinney), a squad photo and a heart-to-heart with his late friend Otis. “The moment that his son, who was named after his best friend who died in the line of duty, says, ‘Can t someone else’s dad do it?’ I think the decision was made for him,” Miñoso told TheWrap. “It’s been an incredible journey. I think they wrote it so well, and I was honored to say every word.” Below, Miñoso breaks down his farewell episode, returning as a director and starting a rewatch podcast with Otis fan-favorite Yuri Sardarov. This interview has been edited for length and cl
+Carrie Coon had nothing but good things to say Wednesday night about Taylor Swift s impression of her character, Bertha Russell, from The Gilded Age. Last year, Swift stopped by The Tonight Show and opened up about her love of the HBO series and Coon s performance in it. In that same interview, she even launched into an impression of her character Bertha, which made waves online last October (as most things involving Swift typically do). During Coon s Tonight Show visit Wednesday night, Jimmy Fallon re-upped the clip of Swift s impression, which garnered some immediate praise from the actress. She s very good, Coon replied. I didn t see it that night [last year], and then I woke up to thousands of text messages and Instagram, being like, Can you believe it?!' she added. I have to say, it s very good. Coon went on to draw some parallels between Swift and her Gilded Age character, the ambitious matriarch of the show s new money Russell family. It s the right affectation, she said of the impression. She s so Bertha. I mean, she s such an entrepreneur. Bertha would be like Taylor Swift if she was living today, Coon argued, before conceding, Well, maybe not the singing. Coming off Matt Damon and David Letterman s surprise, blink-and-you ll-miss-it cameo appearance in the Gilded Age Season 4 premiere last week, Fallon asked Coon whether or not she thinks Swift should be the next star to show up in the HBO series. I think she should! Coon said. She went on to reference Swift s cameo
 
-### Nicki Minaj’s Former Lawyers Return to Court Seeking Over $295,000 in Unpaid Legal Fees
-Thu, 05 Nov 2026 02:12:46 +0000 — https://www.thewrap.com/industry-news/public-policy-legal/nicki-minaj-ex-lawyers-renewed-claims-for-unpaid-legal-bills/
+### Nithya Raman Wins LA Mayor s Race, Beating Karen Bass
+Thu, 05 Nov 2026 18:34:18 +0000 — https://www.thewrap.com/media-platforms/politics/nithya-raman-to-win-los-angeles-mayor-seat-beating-karen-bass/
 
-Nicki Minaj’s former legal team has renewed its request for over $295,000 in allegedly unpaid legal fees stemming from a copyright infringement lawsuit. Lawyers for the firm Gordon Rees Scully Mansukhani filed their renewed request for a default judgment Tuesday afternoon, following Minaj’s public appearance with a Trump-endorsed Republican in New Hampshire. In documents obtained by TheWrap, the firm said its underlying lawsuit, filed in March to recover the money, “has not been responded to in any way by [the rapper].” Now that 30 days have passed since Minaj was served, the firm is again requesting $295,605 as a default judgment. A hearing on the request is set for Nov. 16. The firm represented Minaj in a copyright infringement lawsuit alleging that her song “I Lied” copied the instrumentation and beat of “onmysleeve” by Julius Johnson. In a declaration obtained by TheWrap, the firm said it billed Minaj and Harajuku Barbie Music LLC $229,541.75, which remained unpaid when it filed its complaint in March. The firm subsequently accrued $25,249.51 in contractual late fees. Minaj entered into a legal services agreement with the firm in October 2024. Representatives for Minaj have not responded to TheWrap’s request for comment. Minaj has reentered the spotlight in recent weeks as a staunch supporter of President Donald Trump. She appeared with the president at a rally in Michigan last week, leading the crowd in a “We love Trump” chant. It was her latest public show of support fo
+Councilmember Nithya Raman has officially ousted incumbent Mayor Karen Bass for Los Angeles top leadership position with the latest ballot count drop on Thursday. The District 4 councilmember took 52.1% of the vote with the incumbent falling just 4.2% behind with 47.9%. Raman leads Bass by about 34,000 votes. AP reported 76% of the votes have been counted as of Thursday morning at the time of this publication. The next ballot count will be dropped around 4 p.m. PT. Raman, who initially endorsed Bass for mayor, entered the race hours before the deadline in February and still came out on top. The incumbent conceded the race to her opponent Thursday midday, thanking her supporters for sticking beside her throughout her campaign. While this is not the outcome we hoped for, the people of Los Angeles have spoken, Bass wrote in her concession statement. I have called Councilmember Nithya Raman to congratulate her on her victory, and I have committed to ensuring a smooth and seamless transition. Moving this city forward is what Los Angeles needs from all of us. The mayor-elect will be the first Asian-American mayor elected to lead L.A., and the second woman elected to the highest citywide office. Raman is also an affiliated member of the Democratic Socialists of America. Her election follows in the footsteps of New York City s Mayor Zohran Mamdani and, most recently, Washington, D.C. s elected mayor Janeese Lewis George. Raman s advantage of 405,193 to 379,069 votes Wednesday night e
 
-### Godzilla Minus Zero Could Become Just the 4th Non-English Film to Top the US Box Office
-Thu, 05 Nov 2026 00:48:21 +0000 — https://www.thewrap.com/creative-content/movies/godzilla-minus-zero-cat-in-the-hat-box-office-tracking/
+### The Odyssey Will Return to Theaters, Including Imax 70mm, in December
+Thu, 05 Nov 2026 18:30:00 +0000 — https://www.thewrap.com/creative-content/movies/the-odyssey-theaters-re-release-details/
 
-Three years ago, Takashi Yamazaki and Toho surprised the world with Godzilla Minus One, an acclaimed new installment in the longest running franchise in movie history that made nearly $114 million at the global box office including $57.1 million in the U.S. and Canada — and became the first Godzilla film to win an Oscar. Now they re back with Godzilla Minus Zero, a film that could not only reach even greater box office heights but is currently projected to take the No. 1 spot this weekend from Warner Bros. The Cat in the Hat. While the original Godzilla Minus One was a surprise hit in 2023 with a No. 3 opening of $11.4 million behind the Beyonce concert film Renaissance, Godzilla Minus Zero, which will be getting Imax support, is expected to triple that opening with a $30-35 million domestic opening weekend. That would make it just the fourth non-English movie in U.S. box office history to top the weekend charts. The first to reach No. 1 in the U.S. was Mel Gibson s The Passion of the Christ in February 2004 with a still-record $83.8 million opening. Though it was an American production, Gibson chose to shoot the Gospel adaptation in Hebrew, Latin and reconstructed Aramaic. Six months later, during the final weeks of summer 2004, the Mandarin-language wuxia film Hero from director Zhang Yimou was released by Miramax and topped the charts with an $18 million opening, still standing as one of the top 5 highest domestic grossing non-English films. Then, 21 years later, Sony/Crun
+After becoming the highest grossing film in Universal Pictures history, The Odyssey will return to 1,000 theaters in the U.S. and Canada for a limited time starting Dec. 11. The re-release, which comes the weekend before the much anticipated opening of Avengers: Doomsday and Dune: Part Three, will include screening in Imax and Imax 70mm, where the film has made a record $550 million of its $1.8 billion global gross. As the first film shot entirely with Imax cameras, The Odyssey now stands as director Christopher Nolan s highest-grossing film ever, even after inflation adjustment, topping the unadjusted $1.08 billion total of The Dark Knight Rises. Other records now held by The Odyssey include the highest-grossing R-rated film in history, passing the Marvel Studios film Deadpool & Wolverine. Combined with films like The Super Mario Galaxy Movie and Michael, Universal became the first studio to cross $5 billion in global grosses this year, with $3 billion coming from outside the U.S. The Odyssey is also expected to be one of the top contenders at next year s Academy Awards, competing in Best Director and Best Picture among likely a dozen other categories. Stars like Matt Damon, Tom Holland, Anne Hathaway, John Leguizamo and Robert Pattinson are also expected to compete in the acting categories, while DP Hoyte van Hoytema will almost certainly earn his third Best Cinematography nomination for his work with Imax s cameras. The post The Odyssey Will Return to Theaters, Including I
 
 ## Collider
 
-### 10 Family Movie Flops That Are Actually Misunderstood Masterpieces
-Thu, 05 Nov 2026 12:43:13 GMT — https://collider.com/family-movie-flops-misunderstood-masterpieces/
+### Ramayana: Hans Zimmer Said Yes Before the Pitch Was Over | Collider BTS
+Thu, 05 Nov 2026 20:33:41 GMT — https://collider.com/video/ramayana-hans-zimmer-said-yes-before-the-pitch-was-over-collider-bts/
 
-Family and kids' movies are some of the most imaginative and captivating in cinema. From updated takes on old classics to completely new stories, there are infinite combinations of creativity to admire . Within such a profitable and prolific genre, not every family-friendly film has received the admiration it deserves.
+The costumes of Ramayana: Rise of a Legend tell a story of their own, from Ravana's elaborate crown to the challenges of bringing Lord Ram and Sita's iconic appearances to life.
 
-### Netflix Officially Scores New Series Based on 20-Year-Old Classic
-Thu, 05 Nov 2026 12:30:12 GMT — https://collider.com/netflix-prep-coming-of-age-series-nicole-taylor/
+### The Perfect Back to the Future Cast if It Were Made in 2026
+Thu, 05 Nov 2026 20:33:12 GMT — https://collider.com/perfect-back-to-the-future-cast-2026/
 
-Netflix is making a long-standing habit of turning successful novels into huge streaming hits. Recently, the streamer did this with an adaptation of John Steinbeck 's celebrated 1952 family saga, East of Eden , with Avengers: Doomsday and Dune: Part Three 's Florence Pugh starring as Cathy Ames. The series became an instant hit on the platform, topping the Netflix charts in America, before continuing its success much longer than many had predicted.
+At this point, the number of original film franchises that haven’t been rebooted, remade, or legacy sequelized is far outnumbered by those that have been. Nothing is sacred, and nothing has ever been, since remakes and the like have been part of filmmaking forever. Even so, it’s nice when a franchise is able to avoid the kind of continued dilution that comes with over-saturation. That’s certainly the case with the beloved sci-fi comedy Back to the Future .
 
-### The 8 Greatest Martial Arts War Movies, Ranked
-Thu, 05 Nov 2026 12:21:12 GMT — https://collider.com/best-martial-arts-war-movies-all-time-ranked/
+### ‘Riverdale’ Star Officially Confirms ‘X-Men’ Audition Status
+Thu, 05 Nov 2026 20:30:12 GMT — https://collider.com/marvel-x-men-reboot-kj-apa-audition/
 
-Martial arts mayhem makes for one of the most majestic and admired niches in world cinema. It is a defining pillar of action cinema on the global stage, a feat of performance, choreography, and kinetic, attention-grabbing filmmaking that inspires fist-pumping bravado and enthusiasm. It also has far more subgenres than many initially recognize, with its forays into war cinema making for some of the most absorbing and awe-inspiring action flicks international cinema has ever seen.
+Marvel fans are boiling over with excitement for the franchise’s return to the big screen for Avengers: Doomsday , but there are plenty of other Marvel films lined up on the release schedule in the works. The next film after Doomsday is Avengers: Secret Wars , which will set the stage for a reset into a new saga, with new characters and new direction similar to what the franchise experienced at the start of the Multiverse Saga.
 
-### 8 Classic Action Thrillers That Are Still Perfect From Start to Finish
-Thu, 05 Nov 2026 12:04:13 GMT — https://collider.com/classic-action-thrillers-perfect-start-to-finish/
+### Prime Video’s Forgotten Sci-Fi Miniseries Is So Good, You Can Rewatch It Multiple Times
+Thu, 05 Nov 2026 19:58:12 GMT — https://collider.com/best-prime-video-sci-fi-miniseries-stargate-origins/
 
-Some action movies make me admire the stunt team. The greatest action thrillers make me forget there is a stunt team. I stop thinking about choreography, editing, camera placement, any of it. I am simply trapped in the car, the building, the tunnel, the checkpoint, the bank, desperately calculating whether the person I care about has one decent option left.
+For those who love Stargate , it’s no secret that we’ve been waiting for the franchise to continue for some time. After Amazon canceled its planned revival earlier this year , fans finally have another reason to be hopeful. Last month, news broke that WandaVision creator Jac Schaeffer is developing a new Stargate series for Amazon MGM Studios , potentially bringing more adventures across the galaxy — and through the gate — to Prime Video. But several years back, in honor of Stargate SG-1 's 20th anniversary, MGM briefly revisited the franchise in a mythology-rich 10-part miniseries that aired across several weeks in 2018. If you're looking for a quick sci-fi-flavored binge on Prime Video this weekend, look no further than Stargate Origins .
 
-### Netflix’s New ‘Squid Game’ Replacement Officially Becomes a Global Streaming Hit
-Thu, 05 Nov 2026 12:00:13 GMT — https://collider.com/dead-end-job-streaming-success-netflix-november-2026/
+### Potential ‘Godzilla Minus Zero’ Sequel Officially Confirmed
+Thu, 05 Nov 2026 19:34:45 GMT — https://collider.com/godzilla-minus-zero-sequel-comments-takashi-yamazaki/
 
-Would you risk your life for a large cash reward? While this might sound like something out of Squid Game , it's also the premise of Netflix's latest series, which has recently become a streaming hit. This latest binge-worthy show should also scratch the itch if you're looking for something similar to Squid Game , especially since the franchise has ended and its U.S. adaptation has reportedly been scrapped.
+Hollywood came calling after Godzilla Minus One won the Oscar for Best Visual Effects , and Takashi Yamazaki had to turn down projects he would have jumped at under different circumstances. This was a filmmaker who grew up going to see American science fiction in theaters. Now, some of the people who made those movies were watching his. He still wanted to make Godzilla Minus Zero first.
 
-### 8 HBO Shows That Are Nearly Perfect, Ranked
-Thu, 05 Nov 2026 11:56:13 GMT — https://collider.com/hbo-shows-nearly-perfect-ranked/
+### Mary Shelley's Classic Book Is a Tragic Masterpiece That Hollywood Never Understood
+Thu, 05 Nov 2026 19:34:12 GMT — https://collider.com/mary-shelley-frankenstein-book/
 
-Picking eight HBO shows is the easy part. Leaving the rest off is where it gets hard, and I already know somebody’s going to yell at me about Deadwood and Curb Your Enthusiasm . I went with the ones where I can still remember individual scenes years later , which is a better test than any awards list.
+Frankenstein was formed from tragedy. An egregious excess of heartache followed author Mary Shelley throughout her life . The mother she never met, women's rights advocate Mary Wollstonecraft , passed away from childbirth complications. Shelley herself almost bled to death from a miscarriage, while three of her four children with her husband, Percy Bysshe Shelley , didn't survive past their early childhoods. Both her half-sister and Percy's first wife died by suicide within a few months of each other. Six years later, Shelley became a widow at 24 years old .
 
-### 6 Best Thriller Books Released Since 2000, Ranked
-Thu, 05 Nov 2026 11:53:13 GMT — https://collider.com/best-thriller-books-since-2000-ranked/
+### 7 Netflix Mystery Shows That Hook You in the First Scene
+Thu, 05 Nov 2026 19:09:12 GMT — https://collider.com/netflix-mystery-shows-hook-you-first-scene/
 
-Thrillers live and die by the simple promise that the reader won’t be able to put the book down until the very end. However, making good on that promise is easier said than done. Thrillers often end up feeling predictable and boring if they drag the story on for too long or reveal too much too soon. Since 2000, though, the genre has seen a massive boom, with several authors pushing it in darker and more unpredictable directions than ever before.
+Leading the streaming crusade, Netflix has stood at the top of excellent content. From legendary shows during its early days like Orange Is the New Black to modern masterpieces like The Diplomat , viewers seek brilliant, risky storytelling for their binge-watching pleasure. The thrill of a good series is being drawn in so much that you'll keep watching until the very end . When it comes to Netflix's mystery options, a handful hook you within the first scene.
 
-### The 10 Greatest Cozy Fantasy Books of All Time, Ranked
-Thu, 05 Nov 2026 11:42:13 GMT — https://collider.com/best-cozy-fantasy-books-all-time-ranked/
+### 6 Near-Perfect Prime Video Miniseries With 8 Episodes or Less
+Thu, 05 Nov 2026 18:18:12 GMT — https://collider.com/near-perfect-prime-video-miniseries-8-episodes-or-less/
 
-The term "cozy fantasy" as a recognized, distinct subgenre of fantasy was only coined around 2020, mostly driven by the desire for emotional escapism and comfy entertainment during the COVID-19 pandemic and subsequent global lockdown. However, its ancestors and most foundational roots can be traced much further back, retroactively making many great classics some of the best cozy fantasy titles in history.
+Miniseries have to tell a complete story without wasting a single minute. That's easier said than done, because so many of them lose their way by stretching a two-hour idea across 10 episodes. However, Prime Video seems to have perfected the art of short-term storytelling because, over the years, the platform has amassed a pretty impressive collection of endlessly entertaining and brilliantly written miniseries.
 
-### 15 'Invincible' Episodes That Are Considered Masterpieces, Ranked
-Thu, 05 Nov 2026 11:36:13 GMT — https://collider.com/best-invincible-episodes-ranked/
+### 3 Best Short Books To Read in One Afternoon This Weekend (November 7-8)
+Thu, 05 Nov 2026 18:08:12 GMT — https://collider.com/best-short-books-read-this-weekend-november-7-8/
 
-Invincible is, without a doubt, one of the most popular superhero animated series of all time . In the vein of The Boys , this Prime Video show is brutal, bloody, and vulgar. However, it is filled to the brim with far more heart, love, and soul that helps define this series as one not of ridiculous gore and shock value, but telling a story about heroism, the price of it, and what it means to truly be one as a young person.
+Sometimes, it's hard to find something to watch while at home in the afternoon. Streaming services have so many movies and TV shows that it's tough to pick one, and going out is often less than desirable, especially when you've already settled in. Then again, you can always read a great book — in fact, few things are better than reading a truly great book, and luckily for you, some of the best are rather short.
 
-### The Fate of Stephen Graham's Perfect Crime Series Has Officially Been Decided
-Thu, 05 Nov 2026 11:30:13 GMT — https://collider.com/stephen-graham-time-season-4-cancelled-jimmy-mcgovern/
+### ‘Elsbeth’ Creators’ 10/10 Legal Thriller Officially Takes on Its First Murder Case
+Thu, 05 Nov 2026 18:01:29 GMT — https://collider.com/cupertino-episode-8-images-mike-colter-rachel-keller/
 
-Only a week ago, Stephen Graham' s Apple TV crime drama premiered with two gripping episodes , both of which have been well received by fans and critics alike. Created by Rowan Joffé as an adaptation of Lars Kepler's bestselling crime novels Lazarus and The Sandman , Nocturne is the 10/10 series currently taking over Apple TV globally . The psychological thriller is expected to conclude its first season after ten episodes on December 25, 2026, and has not yet been officially renewed for a second season.
+When it comes to murder mysteries, Robert and Michelle King have more than provided with the past four seasons of the acclaimed Elsbeth . The Carrie Preston -led "howcatchem" series has attracted big stars left and right to fill out every new case that the unconventional titular detective takes on throughout every corner of New York City.
 

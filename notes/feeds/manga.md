@@ -1,72 +1,77 @@
-# Manga — harvested 2026-11-05T12:44:07.282Z
+# Manga — harvested 2026-11-05T20:48:57.299Z
 
 ## Anime News Network
 
-### Fool Night Anime's Trailer Reveals Theme Songs, Additional Cast
-Thu, 05 Nov 2026 06:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-05/fool-night-anime-trailer-reveals-theme-songs-additional-cast/.243524
+### The World's Strongest Witch ‒ Episode 5
+Thu, 05 Nov 2026 14:30:00 -0500 — https://www.animenewsnetwork.com/review/the-world-strongest-witch/episode-5/.243553
 
-Tempalay, Nowlu perform theme songs for November 26 anime
+This episode reminds audiences that the internet can be good if you bring the right attitude, and I think everyone could use that reminder every so often.
 
-### Senren * Banka Anime Reveals TV Format
-Thu, 05 Nov 2026 05:10:31 -0500 — https://www.animenewsnetwork.com/daily-briefs/2026-11-05/senren-banka-anime-reveals-tv-format/.243554
+### I'm Kodama Kawashiri Manga Gets Live-Action Short Series
+Thu, 05 Nov 2026 14:30:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-05/im-kodama-kawashiri-manga-gets-live-action-short-series/.243570
 
-The official X (formerly Twitter) account for the anime&nbsp;adaptation of Yuzu Soft's&nbsp;Senren * Banka visual novel opened on Thursday and revealed...
+Kanna Hashimoto stars in series starting on January 11
 
-### Satoshi Mizukami's Spirit Circle Manga Gets TV Anime in December
-Thu, 05 Nov 2026 04:31:49 -0500 — https://www.animenewsnetwork.com/news/2026-11-05/satoshi-mizukami-spirit-circle-manga-gets-tv-anime-in-december/.243555
+### Eternal Palace Sakura Game Launches for Switch, PC
+Thu, 05 Nov 2026 14:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-05/eternal-palace-sakura-game-launches-for-switch-pc/.243562
 
-Late director Tatsuo Satō helmed his final work at studios NAGOMI x EOTA
+Denneko Yuugi's 3D action roguelite game streams trailer
 
-### New Code Geass Star Chaser Aspal Anime Unveils Cast, More Staff
-Thu, 05 Nov 2026 04:05:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-05/new-code-geass-star-chaser-aspal-anime-unveils-cast-more-staff/.243547
+### Reincarnated as a Sword Season 2 ‒ Episode 6
+Thu, 05 Nov 2026 13:30:00 -0500 — https://www.animenewsnetwork.com/review/reincarnated-as-a-sword-season-2/episode-6/.243541
 
-Ivan Shibata, Hibiku Yamamura star in Sunrise anime
+This episode sells the appeal of any reincarnation story: stop looking at those stat sheets and relish the wonder of the incredible fantasy world you escaped death into.
 
-### The Seven Knights of the Marronnier Kingdom Anime Casts Ryōta Takeuchi
-Wed, 04 Nov 2026 23:25:45 -0500 — https://www.animenewsnetwork.com/news/2026-11-04/the-seven-knights-of-the-marronnier-kingdom-anime-casts-ryota-takeuchi/.243538
+### Crunchyhroll to Stream Dragon Ball Super: Beerus Anime's English Dub on November 12
+Thu, 05 Nov 2026 12:33:37 -0500 — https://www.animenewsnetwork.com/news/2026-11-05/crunchyhroll-to-stream-dragon-ball-super-beerus-anime-english-dub-on-november-12/.243565
 
-Takeuchi plays character Saturno in episode 6 on Saturday
+English trailer previews returning dub cast
 
-### Live-Action Wandance Film's Trailer Previews Theme Song, Dance Scenes
-Wed, 04 Nov 2026 23:21:18 -0500 — https://www.animenewsnetwork.com/news/2026-11-04/live-action-wandance-film-trailer-previews-theme-song-dance-scenes/.243536
+### Titan Manga Licenses Kuruno Loves the Occult!, Dominating at the Academy of Returned Heroes, More Manga
+Thu, 05 Nov 2026 12:01:15 -0500 — https://www.animenewsnetwork.com/news/2026-11-05/titan-manga-licenses-kuruno-loves-the-occult-dominating-at-the-academy-of-returned-heroes-more-manga/.243564
 
-Film opens in Japan on November 27
+Also: <cite>The Limits of High-Spec Marriages</cite>, <cite>Revenge of the Rock 'n' Roll Sisters</cite>, <cite>Mountain God's Personal Manga Artist</cite>
 
-### Yakuza Game Series Like A Dragon Infiltrates Roblox
-Wed, 04 Nov 2026 21:00:00 -0500 — https://www.animenewsnetwork.com/interest/2026-11-04/yakuza-game-series-like-a-dragon-infiltrates-roblox/.243470
+### Cyberpunk: Edgerunners 2 Anime Series Review
+Thu, 05 Nov 2026 12:00:00 -0500 — https://www.animenewsnetwork.com/review/cyberpunk/edgerunners-2/anime-series/.243505
 
-Everyone's favorite <cite>Yakuza</cite> game is making it to the blocky game platform
+The characters' individual wants rob them of the precious time they could have had being happy. That is the tragedy of Edgerunners 2—and also the key ingredient that makes a Cyberpunk story feel like a Cyberpunk story.
 
-### Look Back Anime Film Wins Kineko Int'l Film Fest's Teens Feature Award
-Wed, 04 Nov 2026 20:30:45 -0500 — https://www.animenewsnetwork.com/news/2026-11-04/look-back-anime-film-wins-kineko-intl-film-fest-teens-feature-award/.243503
+### Good Smile Company Partially Reopens on November 6 Following Data Breach of Online Store
+Thu, 05 Nov 2026 11:16:04 -0500 — https://www.animenewsnetwork.com/news/2026-11-05/good-smile-company-partially-reopens-on-november-6-following-data-breach-of-online-store/.243561
 
-Film opened in Japan in June 2024
+Store reopens for viewing product information only after company discovered breach on October 23
 
-### Godzilla Minus Zero Earns Highest-Ever Opening Day for Live-Action Film in Japan
-Wed, 04 Nov 2026 20:28:12 -0500 — https://www.animenewsnetwork.com/news/2026-11-04/godzilla-minus-zero-earns-highest-ever-opening-day-for-live-action-film-in-japan/.243535
+### Lycoris Recoil: Friends are thieves of time. Anime Short Films Get Manga Adaptation
+Thu, 05 Nov 2026 11:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-05/lycoris-recoil-friends-are-thieves-of-time-anime-short-films-get-manga-adaptation/.243556
 
-Film sold 590,000 tickets for 910 million yen on Tuesday opening
+<cite>Lycoris Recoil</cite> manga adaptation's Yasunori Bizen to draw new manga
 
-### Seven Seas Licenses Led by Stars Manga, Melting Point Manhwa, 3 Audiobooks
-Wed, 04 Nov 2026 19:26:43 -0500 — https://www.animenewsnetwork.com/news/2026-11-04/seven-seas-licenses-led-by-stars-manga-melting-point-manhwa-3-audiobooks/.243530
+### The Dangers in My Heart Season 3 Anime's Teaser Trailer Reveals April 2027 Premiere
+Thu, 05 Nov 2026 10:44:10 -0500 — https://www.animenewsnetwork.com/news/2026-11-05/the-dangers-in-my-heart-season-3-anime-teaser-trailer-reveals-april-2027-premiere/.243560
 
-<cite>Beacon of Light in the Dark Sea</cite>, <cite>Dangers in My Heart</cite>, <i>7th Time Loop</i> audiobooks
+Manga's 14th, final volume shipped on Friday
 
-### Live-Action Mashle: Magic and Muscles Film Reveals Cast, Director
-Wed, 04 Nov 2026 18:26:04 -0500 — https://www.animenewsnetwork.com/news/2026-11-04/live-action-mashle-magic-and-muscles-film-reveals-cast-director/.243531
+### OceanVeil Streams English Dub of Even the Student Council Has It's Holes! Anime
+Thu, 05 Nov 2026 10:00:37 -0500 — https://www.animenewsnetwork.com/news/2026-11-05/oceanveil-streams-english-dub-of-even-the-student-council-has-its-holes-anime/.243546
 
-Mackenyu Maeda stars as Mash Burnedead with <i>Gintama's</i> Yūichi Fukuda directing
+Alan Lee, Courtney Lin, Xanthe Huynh, more star in English dub that debuted on October 31
 
-### Make the Exorcist Fall in Love Manga Starts Final Arc
-Wed, 04 Nov 2026 16:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-04/make-the-exorcist-fall-in-love-manga-starts-final-arc/.243514
+### This Week in Anime - Speaking Your Language
+Thu, 05 Nov 2026 10:00:00 -0500 — https://www.animenewsnetwork.com/this-week-in-anime/2026-11-05/.243511
 
-Final arc starts in manga's 16th volume released on Wednesday
+New columnist Jairus brings his English dub expertise to the table as he and Lucas talk recent dubs!
 
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### The Dangers in My Heart (BokuYaba) Season 3 New Visual and Trailer Revealed, April 2027 Release
+Thu, 05 Nov 2026 15:08:16 GMT — https://animecorner.me/the-dangers-in-my-heart-bokuyaba-season-3-new-visual-and-trailer-revealed-april-2027-release/
+
+The Dangers in My Heart (BokuYaba) Season 3 revealed a key visual and trailer, along with an April 2027 release date.
 
 ### Code Geass Star Chaser Aspal Anime Reveals Main Visual and Voice Cast
 Thu, 05 Nov 2026 12:02:06 GMT — https://animecorner.me/code-geass-star-chaser-aspal-anime-reveals-main-visual-and-voice-cast/
@@ -123,11 +128,6 @@ Wed, 04 Nov 2026 09:54:28 GMT — https://animecorner.me/yasuharu-takanashi-and-
 
 Far East Groove, the musical project led by composer Yasuharu Takanashi, wrapped up its&hellip;
 
-### Promise Me the Spotlight Anime Reveals Visual, Trailer, Cast, Opening Theme Song
-Wed, 04 Nov 2026 06:46:48 GMT — https://animecorner.me/promise-me-the-spotlight-anime-reveals-visual-trailer-cast-opening-theme-song/
-
-The previously announced Promise Me the Spotlight anime adaptation revealed a key visual along&hellip;
-
 ## MyAnimeList News
 
 ### Fool Night Unveils Additional Cast, Theme Songs, First Promo
@@ -180,16 +180,16 @@ Tue, 03 Nov 2026 15:33:08 -0800 — https://myanimelist.net/news/74902452?_locat
 
 Production company Shogakukan-Shueisha Productions announced a television anime adaptation of Julietta Suzuki s Oshi ni Amagami (Otaku Vampire s Love Bite) manga on Wednesday, revealing special visual (pictured) and announcement promo. Suzuki (Kamisama Hajimemashita) began serializing the comedy romance manga in Hana to Yume magazine in April 2022. Hakusensha published the tenth volume on July 17, with the 11th volume scheduled to be released on November 20. VIZ Media licensed the mang...
 
-### Kawaii dake ja Nai Shikimori-san Creator Begins Mahoutsukai no Yoru Manga Adaptation
-Tue, 03 Nov 2026 05:34:03 -0800 — https://myanimelist.net/news/74900816?_location=rss
-
-Manga creator Keigo Maki (Kawaii dake ja Nai Shikimori-san) will draw a manga adaptation of Type-Moon s Mahoutsukai no Yoru (Witch on the Holy Night) visual novel, the official X (formerly Twitter) account of the manga announced on Tuesday. The series will begin serialization in Weekly Shounen Magazine s 50th issue on November 11. Kinoko Nasu (Fate/stay night) and Type-Moon are credited for the original work, while Hirokazu Koyama (22/7) is credited for the original character designs....
-
 ## Otaku USA
 
 _Nothing in the last 48 hours._
 
 ## Anime UK News
+
+### Secondhand Sisters Volume 1 Review
+Thu, 05 Nov 2026 13:00:26 +0000 — https://animeuknews.net/2026/11/secondhand-sisters-volume-1-review/
+
+Secondhand Sisters follows two sisters who have always held a deep resentment for one another. Now, after the passing of their mother, they find themselves living under the same roof which is sure to be nothing but trouble...
 
 ### Dragon Quest: The Mark of Erdrick Volume 5 Review
 Thu, 05 Nov 2026 10:00:48 +0000 — https://animeuknews.net/2026/11/dragon-quest-the-mark-of-erdrick-volume-5-review/

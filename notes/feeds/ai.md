@@ -1,6 +1,11 @@
-# AI — harvested 2026-11-05T12:44:07.282Z
+# AI — harvested 2026-11-05T20:48:57.299Z
 
 ## OpenAI
+
+### GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents
+Thu, 05 Nov 2026 09:00:00 GMT — https://openai.com/index/introducing-gpt-6-cyber
+
+Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.
 
 ### Setting a new standard for responsible AI infrastructure
 Thu, 05 Nov 2026 02:00:00 GMT — https://openai.com/index/setting-new-standard-responsible-ai-infrastructure
@@ -34,24 +39,19 @@ DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, spe
 
 ## Hugging Face
 
+### New NVIDIA Cosmos 3 Open Models for Interactive World Simulation
+Thu, 05 Nov 2026 19:35:16 GMT — https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation
+
 ### A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.
 Thu, 05 Nov 2026 00:00:00 GMT — https://huggingface.co/blog/phonon-tts
 
 ### Dharma Field Extractor: Any Document In, Structured Fields in JSON Out
 Wed, 04 Nov 2026 17:50:10 GMT — https://huggingface.co/blog/Dharma-AI/dharma-field-extractor
 
-### StateBench: Testing how language models track state changes over long documents
-Tue, 03 Nov 2026 17:15:21 GMT — https://huggingface.co/blog/allenai/statebench
-
-### Palette: teaching a small model to build decks in your design language
-Tue, 03 Nov 2026 16:35:36 GMT — https://huggingface.co/blog/ibm-research/palette-deck-building
-
 ## Google DeepMind
 
-### Agentic cheminformatics with Google Antigravity
-Tue, 03 Nov 2026 17:01:49 +0000 — https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/
-
-Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.
+### Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips
+Thu, 05 Nov 2026 17:05:16 +0000 — https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/
 
 ## VentureBeat AI
 
