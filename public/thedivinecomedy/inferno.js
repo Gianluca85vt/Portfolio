@@ -322,7 +322,7 @@ const sposta = { x: 0, y: 0, mx: 0, my: 0 };
 function metaSpostamento() {
   const w = stage.clientWidth, h = stage.clientHeight, largo = w / h > 1.25;
   if (aperto >= 0) { sposta.mx = largo ? 0.17 : 0; sposta.my = largo ? 0 : 0.3; }
-  else { sposta.mx = largo ? -0.15 : 0; sposta.my = 0; }
+  else { sposta.mx = largo ? -0.15 : 0; sposta.my = largo ? 0 : -0.17; } // sul telefono l'imbuto scende sotto il titolo
 }
 function applicaSpostamento() {
   const w = stage.clientWidth, h = stage.clientHeight;
