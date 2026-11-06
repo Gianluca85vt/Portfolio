@@ -1,6 +1,56 @@
-# Manga — harvested 2026-11-05T20:48:57.299Z
+# Manga — harvested 2026-11-06T12:28:02.086Z
 
 ## Anime News Network
+
+### Rainy Day Serenade Anime's Teaser Reveals Cast, Staff, April 2027 Debut
+Fri, 06 Nov 2026 06:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-06/rainy-day-serenade-anime-teaser-reveals-cast-staff-april-2027-debut/.243586
+
+Yume Miyamoto, Takeo Ōtsuka star in anime
+
+### Wound & Bandage Anime's New Video Reveals More Cast & Staff, Opening Song
+Fri, 06 Nov 2026 05:31:34 -0500 — https://www.animenewsnetwork.com/news/2026-11-06/wound-and-bandage-anime-new-video-reveals-more-cast-and-staff-opening-song/.243587
+
+Kō Bonkobara, Kengo Takanashi join cast
+
+### Laid-Back Camp Season 4's Trailer Unveils April 2027 Debut
+Fri, 06 Nov 2026 04:21:42 -0500 — https://www.animenewsnetwork.com/news/2026-11-06/laid-back-camp-season-4-trailer-unveils-april-2027-debut/.243588
+
+Trailer also previews Asaka, Eri Sasaki's theme songs
+
+### He Does a Body Good Webtoon Gets AnimeFesta Anime in January 2027
+Fri, 06 Nov 2026 01:13:06 -0500 — https://www.animenewsnetwork.com/news/2026-11-06/he-does-a-body-good-webtoon-gets-animefesta-anime-in-january-2027/.243585
+
+Atsushi Hizashi, Ion Momoyama, Towa Miyako, Milk Amai star in anime
+
+### Booty Royale: Never Go Down Without a Fight! Manga Gets TV Anime in January
+Fri, 06 Nov 2026 00:41:13 -0500 — https://www.animenewsnetwork.com/news/2026-11-06/booty-royale-never-go-down-without-a-fight-manga-gets-tv-anime-in-january/.243584
+
+Hisako Tōjō, Nao Shiraki, Natsumi Murakami, Hikaru Iida star in risque martial arts anime
+
+### Dragon Ball Z's English Dub Composer Elected as Texas Attorney General
+Thu, 05 Nov 2026 23:00:00 -0500 — https://www.animenewsnetwork.com/interest/2026-11-05/dragon-ball-z-english-dub-composer-elected-as-texas-attorney-general/.243558
+
+Will his power level go over 9,000?
+
+### Amahara's 33 Years Old Single Girl Knight Captain Manga Gets Anime
+Thu, 05 Nov 2026 22:47:35 -0500 — https://www.animenewsnetwork.com/news/2026-11-05/amahara-33-years-old-single-girl-knight-captain-manga-gets-anime/.243579
+
+Digital Shokunin produces anime about overworked, sex-starved knight captain
+
+### Ninja Skooler Anime Unveils Pilot Film, Images, Song
+Thu, 05 Nov 2026 20:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-05/ninja-skooler-anime-unveils-pilot-film-images-song/.243571
+
+Shunsuke Takarai to direct light-hearted ninja anime based on concept by Kinema Citrus
+
+### PlayStation 5 Reaches Over 97 Million Shipments
+Thu, 05 Nov 2026 17:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-05/playstation-5-reaches-over-97-million-shipments/.243569
+
+Sony shipped 4.2 million PS5 units for current fiscal year so far
+
+### Nintendo Switch 2 Sells Over 26 Million Units
+Thu, 05 Nov 2026 16:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-05/nintendo-switch-2-sells-over-26-million-units/.243567
+
+<cite>Mario Kart World</cite>, <cite>Donkey Kong Bananza</cite>, <cite>Pokémon Legends: Z-A</cite>, <cite>Pokémon Pokopia</cite> top Switch 2 sales
 
 ### The World's Strongest Witch ‒ Episode 5
 Thu, 05 Nov 2026 14:30:00 -0500 — https://www.animenewsnetwork.com/review/the-world-strongest-witch/episode-5/.243553
@@ -12,61 +62,31 @@ Thu, 05 Nov 2026 14:30:00 -0500 — https://www.animenewsnetwork.com/news/2026-1
 
 Kanna Hashimoto stars in series starting on January 11
 
-### Eternal Palace Sakura Game Launches for Switch, PC
-Thu, 05 Nov 2026 14:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-05/eternal-palace-sakura-game-launches-for-switch-pc/.243562
-
-Denneko Yuugi's 3D action roguelite game streams trailer
-
-### Reincarnated as a Sword Season 2 ‒ Episode 6
-Thu, 05 Nov 2026 13:30:00 -0500 — https://www.animenewsnetwork.com/review/reincarnated-as-a-sword-season-2/episode-6/.243541
-
-This episode sells the appeal of any reincarnation story: stop looking at those stat sheets and relish the wonder of the incredible fantasy world you escaped death into.
-
-### Crunchyhroll to Stream Dragon Ball Super: Beerus Anime's English Dub on November 12
-Thu, 05 Nov 2026 12:33:37 -0500 — https://www.animenewsnetwork.com/news/2026-11-05/crunchyhroll-to-stream-dragon-ball-super-beerus-anime-english-dub-on-november-12/.243565
-
-English trailer previews returning dub cast
-
-### Titan Manga Licenses Kuruno Loves the Occult!, Dominating at the Academy of Returned Heroes, More Manga
-Thu, 05 Nov 2026 12:01:15 -0500 — https://www.animenewsnetwork.com/news/2026-11-05/titan-manga-licenses-kuruno-loves-the-occult-dominating-at-the-academy-of-returned-heroes-more-manga/.243564
-
-Also: <cite>The Limits of High-Spec Marriages</cite>, <cite>Revenge of the Rock 'n' Roll Sisters</cite>, <cite>Mountain God's Personal Manga Artist</cite>
-
-### Cyberpunk: Edgerunners 2 Anime Series Review
-Thu, 05 Nov 2026 12:00:00 -0500 — https://www.animenewsnetwork.com/review/cyberpunk/edgerunners-2/anime-series/.243505
-
-The characters' individual wants rob them of the precious time they could have had being happy. That is the tragedy of Edgerunners 2—and also the key ingredient that makes a Cyberpunk story feel like a Cyberpunk story.
-
-### Good Smile Company Partially Reopens on November 6 Following Data Breach of Online Store
-Thu, 05 Nov 2026 11:16:04 -0500 — https://www.animenewsnetwork.com/news/2026-11-05/good-smile-company-partially-reopens-on-november-6-following-data-breach-of-online-store/.243561
-
-Store reopens for viewing product information only after company discovered breach on October 23
-
-### Lycoris Recoil: Friends are thieves of time. Anime Short Films Get Manga Adaptation
-Thu, 05 Nov 2026 11:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-05/lycoris-recoil-friends-are-thieves-of-time-anime-short-films-get-manga-adaptation/.243556
-
-<cite>Lycoris Recoil</cite> manga adaptation's Yasunori Bizen to draw new manga
-
-### The Dangers in My Heart Season 3 Anime's Teaser Trailer Reveals April 2027 Premiere
-Thu, 05 Nov 2026 10:44:10 -0500 — https://www.animenewsnetwork.com/news/2026-11-05/the-dangers-in-my-heart-season-3-anime-teaser-trailer-reveals-april-2027-premiere/.243560
-
-Manga's 14th, final volume shipped on Friday
-
-### OceanVeil Streams English Dub of Even the Student Council Has It's Holes! Anime
-Thu, 05 Nov 2026 10:00:37 -0500 — https://www.animenewsnetwork.com/news/2026-11-05/oceanveil-streams-english-dub-of-even-the-student-council-has-its-holes-anime/.243546
-
-Alan Lee, Courtney Lin, Xanthe Huynh, more star in English dub that debuted on October 31
-
-### This Week in Anime - Speaking Your Language
-Thu, 05 Nov 2026 10:00:00 -0500 — https://www.animenewsnetwork.com/this-week-in-anime/2026-11-05/.243511
-
-New columnist Jairus brings his English dub expertise to the table as he and Lucas talk recent dubs!
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Rainy Day Serenade Anime Reveals Key Visual, Teaser Trailer, Main Cast, April 2027 Premiere
+Fri, 06 Nov 2026 12:20:03 GMT — https://animecorner.me/rainy-day-serenade-anime-reveals-key-visual-teaser-trailer-main-cast-april-2027-premiere/
+
+Rainy Day Serenade anime revealed a key visual and teaser trailer on Friday, featuring&hellip;
+
+### Laid-Back Camp Season 4 Anime Reveals New Trailer, Visual, April 2027 Release Date
+Fri, 06 Nov 2026 09:19:55 GMT — https://animecorner.me/laid-back-camp-season-4-anime-reveals-new-trailer-visual-april-2027-release-date/
+
+Laid-Back Camp Season 4 anime released a new visual and trailer, along with an&hellip;
+
+### Interview: The Creators and Cast of Sentenced to Be a Hero
+Fri, 06 Nov 2026 06:14:24 GMT — https://animecorner.me/interview-the-creators-and-cast-of-sentenced-to-be-a-hero/
+
+Sentenced to Be a Hero is a light novel series and anime that flips&hellip;
+
+### Interview: Asta Voice Actors Gakuto Kajiwara and Dallas Reid on Black Clover Season 2
+Fri, 06 Nov 2026 04:01:32 GMT — https://animecorner.me/interview-asta-voice-actors-gakuto-kajiwara-and-dallas-reid-on-black-clover-season-2/
+
+Black Clover returned after 5 years this Fall with Season 2, bringing with it&hellip;
 
 ### The Dangers in My Heart (BokuYaba) Season 3 New Visual and Trailer Revealed, April 2027 Release
 Thu, 05 Nov 2026 15:08:16 GMT — https://animecorner.me/the-dangers-in-my-heart-bokuyaba-season-3-new-visual-and-trailer-revealed-april-2027-release/
@@ -108,27 +128,37 @@ Wed, 04 Nov 2026 12:59:27 GMT — https://animecorner.me/mashle-magic-and-muscle
 
 Mashle: Magic and Muscles manga is officially getting a live-action film adaptation, with its Japanese theatrical premiere set for March 19, 2027.
 
-### My Dress-Up Darling Reveals ¥1.32 Million Life-Size Marin Kitagawa Figure
-Wed, 04 Nov 2026 12:00:03 GMT — https://animecorner.me/my-dress-up-darling-reveals-1-32-million-life-size-marin-kitagawa-figure/
-
-A life-size figure of Marin Kitagawa from My Dress-Up Darling has been revealed, with pre-orders now open via the official Prime 1 Studio online store.
-
-### From Gaming to Lifestyle: TTRacing Unveils the ORA Sofa Chair BT21 Collection
-Wed, 04 Nov 2026 10:47:57 GMT — https://animecorner.me/from-gaming-to-lifestyle-ttracing-unveils-the-ora-sofa-chair-bt21-collection/
-
-TTRacing has officially unveiled its first-ever sofa chair with the ORA Sofa Chair BT21&hellip;
-
-### Black Clover Season 2 Episode 6 Previews Noelle and Charlotte Facing Vanica
-Wed, 04 Nov 2026 10:18:11 GMT — https://animecorner.me/black-clover-season-2-episode-6-previews-noelle-and-charlotte-facing-vanica/
-
-Black Clover Season 2 has released preview images and synopsis for Episode 6 (Episode&hellip;
-
-### Yasuharu Takanashi and Far East Groove Madrid Concert 2026
-Wed, 04 Nov 2026 09:54:28 GMT — https://animecorner.me/yasuharu-takanashi-and-far-east-groove-madrid-concert-2026/
-
-Far East Groove, the musical project led by composer Yasuharu Takanashi, wrapped up its&hellip;
-
 ## MyAnimeList News
+
+### Namidaame to Serenade Reveals Main Cast, Staff, Teaser Promo, Spring 2027 Premiere
+Fri, 06 Nov 2026 03:34:35 -0800 — https://myanimelist.net/news/74910185?_location=rss
+
+The official website for the television anime adaptation of Haruka Kawachi s Namidaame to Serenade (Rainy Day Serenade) manga revealed the main cast, staff, the first key visual (pictured right), a celebratory illustration drawn by the creator (pictured center), and a teaser promotional video on Friday. The anime is scheduled to premiere in April 2027. Voice actors Yume Miyamoto (Yomi no Tsugai) and Takeo Ootsuka (Medalist) are starring in the anime as Hina Katagiri and Takaaki Hongou, res...
+
+### Manga Killing Bites Concludes with 28th Volume
+Fri, 06 Nov 2026 03:15:31 -0800 — https://myanimelist.net/news/74910161?_location=rss
+
+Shinya Murata and Kazasa Sumita s Killing Bites manga ended its serialization on October 23. The 145th and final chapter marked the end of its nearly 13-year run. The 28th and final volume is scheduled to be released on December 25. In the commemorative message, Murata expressed his gratitude to readers who had followed the manga throughout its nearly 13-year serialization. He also reflected on the central question behind the story, "What is the strongest beast?" Describing it as...
+
+### Yuru Camp△ Season 4 Reveals Additional Staff, Theme Songs, Main Promo, Spring 2027 Premiere
+Fri, 06 Nov 2026 01:36:07 -0800 — https://myanimelist.net/news/74910044?_location=rss
+
+The official website of the Yuru Camp△ (Laid-Back Camp) anime series revealed additional staff, theme songs, main visual (pictured), and main promotional video for Season 4 on Friday. The new season adapting Afro s slice of life manga will begin airing in April 2027. Staff Cooking Design: Kouichi Motomura (Blend S animation director) Prop Design: Masaki Inada (NieR:Automata Ver1.1a Part 2 animation director) Color Design: Nanako Okazaki (Uma Musume: Cinderella Gray) Art Director: Masatoshi...
+
+### Kizuguchi to Houtai Reveals Additional Cast, Staff, Opening Theme, First Promo
+Thu, 05 Nov 2026 23:38:34 -0800 — https://myanimelist.net/news/74909626?_location=rss
+
+The official website for the television anime adaptation of Nanai Umihoshi s Kizuguchi to Houtai (Wound and Bandage) manga revealed additional cast, staff, a key visual (pictured), the opening theme, and first promotional video on Friday. The anime series will premiere on January 9, 2027 at 11:00 p.m. on AT-X, followed by ABC TV and TV Asahi on the ANiMAZiNG programming block. Cast Shouta Kawaramori: Kou Bonkobara (Danjo no Yuujou wa Seiritsu suru? (Iya, Shinai!!)) Mamoru Fujiyoshida: Kengo...
+
+### Manga Hagure Idol: Jigoku-hen Gets TV Anime in Winter 2027
+Thu, 05 Nov 2026 21:11:20 -0800 — https://myanimelist.net/news/74909290?_location=rss
+
+WWWave Corporation s Deregula animation label opened an official website for a television anime adaptation of Rui Takatou s Hagure Idol: Jigoku-hen (Booty Royale: Never Go Down Without a Fight!) manga on Friday, revealing the main cast, staff, and a commemorative visual (pictured). The anime series will premiere in January 2027. Cast Misora Haebaru: Hisako Toujou (Boushoku no Berserk) Sarah Goujima: Nao Shiraki (Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen) Yun-Hui...
+
+### Manga 33-sai Dokushin Onna Kishi Taichou. Gets Anime Adaptation
+Thu, 05 Nov 2026 19:30:22 -0800 — https://myanimelist.net/news/74909101?_location=rss
+
+Content platform Digital Shokunin announced an anime adaptation of Amahara s 33-sai Dokushin Onna Kishi Taichou. (33 Years Old Single Female Knight Captain.) manga on Friday, revealing the main character designs (pictured above) and a commemorative music video. The anime project celebrates the series 10th anniversary. Amahara began serializing comedy fantasy manga on the Ananga Ranga adult digital magazine in October 2015. Flex Comics published the fourth volume on January 15. Synops...
 
 ### Fool Night Unveils Additional Cast, Theme Songs, First Promo
 Thu, 05 Nov 2026 03:25:30 -0800 — https://myanimelist.net/news/74906712?_location=rss
@@ -155,36 +185,16 @@ Wed, 04 Nov 2026 08:33:53 -0800 — https://myanimelist.net/news/74904410?_locat
 
 The official website of the television anime adaptation of Yuu Tanaka s Tensei shitara Ken deshita (Reincarnated as a Sword) light novel revealed supporting cast, second key visual (pictured), and third promotional video for the "Seedrun Arc" on Thursday. The second season premiered on October 8 at 12.00 a.m. on Tokyo MX, followed by ABC TV, BS Asahi, and AT-X. Cast Valuza: Katsuyuki Konishi (Tongari Boushi no Atelier) Fult: Satsuki Kokubu (Hoshifuru Oukoku no Nina) Satia: Yurie K...
 
-### Ramen Akeneko 2nd Season Announces New Staff
-Wed, 04 Nov 2026 03:39:25 -0800 — https://myanimelist.net/news/74903763?_location=rss
-
-The official website for the television anime adaptation of Angyaman s Ramen Akaneko (Red Cat Ramen) revealed new staff and key visual (pictured) for the upcoming second season. The anime is scheduled to premiere in January 2027 on Tokyo TV. Staff Director: Hisatoshi Shimizu (Taisou Zamurai) Series Composition, Script: Shigeru Murakoshi (Kaya-chan wa Kowakunai) NEW Character design, Chief Animation Director: Michinori Chiba (SK&infin;) Art Director: Julieta Col&aacute;s (Ousama Ranking: Yuu...
-
-### Game Sekai Tensei "Dankatsu" Reveals Additional Cast, Second Teaser Promo
-Wed, 04 Nov 2026 01:24:11 -0800 — https://myanimelist.net/news/74903583?_location=rss
-
-The official website for the television anime adaptation of Kaede Nishikigi s Game Sekai Tensei "Dankatsu": Gamer wa "Dungeon Shuukatsu no Susume" wo "Hajime kara" Play suru (Reincarnation in the Game World Dankatsu: Game Addict Plays "Encouragement for Job Hunting in Dungeons" from a "New Game") light novel revealed additional cast and second teaser promotional video on Wednesday. The anime will premiere in January 2027. Cast Hannah: Ayaka...
-
-### Watashi wo Center ni Suru to Chikaimasu ka? Reveals Main Cast, Staff, Opening Theme, Teaser Promo
-Tue, 03 Nov 2026 19:37:09 -0800 — https://myanimelist.net/news/74903023?_location=rss
-
-The official website of the Watashi wo Center ni Suru to Chikaimasu ka? (Promise Me the Spotlight) television anime revealed the main cast, staff, a key visual (pictured), the opening theme, and a teaser promotional video on Wednesday. The anime series adapting Jun Wakatsuki s idol romance manga is scheduled to air on TV Tokyo s six affiliated stations. Cast Mizuki Natsuno: Haruna Mikawa (Ore dake Level Up na Ken) Kouichi Okuta: Taihi Kimura (Onmyou Kaiten Re:Birth) Awayuki Shiroi: Mai...
-
-### Mashle Gets Live-Action Movie Adaptation
-Tue, 03 Nov 2026 16:41:36 -0800 — https://myanimelist.net/news/74902561?_location=rss
-
-Production company Warner Bros. Japan announced a live-action movie adaptation of Hajime Koumoto s Mashle (Mashle: Magic and Muscles) manga on Wednesday, revealing a super teaser visual (pictured above). The live-action movie will premiere in Japanese theaters on March 19, 2027. Warner Bros. Pictures and Fuji TV are credited as production coordinators, while Credeus&mdash;the live-action studio behind the Kingdom and Golden Kanuy film series&mdash;is producing the live-action adaptation. T...
-
-### Manga Oshi ni Amagami Receives TV Anime Adaptation
-Tue, 03 Nov 2026 15:33:08 -0800 — https://myanimelist.net/news/74902452?_location=rss
-
-Production company Shogakukan-Shueisha Productions announced a television anime adaptation of Julietta Suzuki s Oshi ni Amagami (Otaku Vampire s Love Bite) manga on Wednesday, revealing special visual (pictured) and announcement promo. Suzuki (Kamisama Hajimemashita) began serializing the comedy romance manga in Hana to Yume magazine in April 2022. Hakusensha published the tenth volume on July 17, with the 11th volume scheduled to be released on November 20. VIZ Media licensed the mang...
-
 ## Otaku USA
 
 _Nothing in the last 48 hours._
 
 ## Anime UK News
+
+### My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I’m Out For Revenge! Review
+Fri, 06 Nov 2026 10:00:25 +0000 — https://animeuknews.net/2026/11/my-gift-lvl-9999-unlimited-gacha-backstabbed-in-a-backwater-dungeon-im-out-for-revenge-review/
+
+A new anime label debuts in the UK with this fantasy show about a boy with an unlikely power on a vendetta against the party of adventurers that betrayed him.
 
 ### Secondhand Sisters Volume 1 Review
 Thu, 05 Nov 2026 13:00:26 +0000 — https://animeuknews.net/2026/11/secondhand-sisters-volume-1-review/
@@ -195,9 +205,4 @@ Secondhand Sisters follows two sisters who have always held a deep resentment fo
 Thu, 05 Nov 2026 10:00:48 +0000 — https://animeuknews.net/2026/11/dragon-quest-the-mark-of-erdrick-volume-5-review/
 
 The adventures of Arus and his party continue as they arrive in Aliahan, famed birthplace of Erdrick himself, but things don’t go according to plan, because… well that would be boring, wouldn’t it?
-
-### Honey Bee Lemon Balm: sweet moment Review
-Wed, 04 Nov 2026 10:00:05 +0000 — https://animeuknews.net/2026/11/honey-bee-lemon-balm-sweet-moment-review/
-
-Florist Yuichiro and trainee florist (and ex-con) Kaoru are going out together. But after six months, things aren’t making much progress – until Kaoru goes to someone’s aid and ends up without his wallet…
 
