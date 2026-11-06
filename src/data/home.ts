@@ -258,3 +258,26 @@ export const contactCopy = {
     body: 'The short version: senior 3D environment and technical artist, Unreal Engine 5, concept to final frame, with art direction and team coordination behind it. Open to studio roles and to freelance.',
   },
 };
+
+/** The game, on the home page after the blog. Facts come from its own site (Marketing/sito in the game repository). */
+export const game = {
+  name: 'The Divine Comedy',
+  status: 'In development · PC',
+  tagline: 'My game, in development',
+  description:
+    "A souls-like through Dante's Divine Comedy, where every strike is a verse. Dante carries no sword: he writes in his Book with a quill, and the letters tear off the page to strike. In development for PC by MonkeyStudio.",
+  traits: [
+    { title: 'Fight by writing', text: 'Combos are lines of poetry. Spells cost Inspiration, which landed hits restore.' },
+    { title: 'The Weight of the Soul', text: "Every choice makes Dante's soul lighter or heavier, and the fights change with it." },
+    { title: 'The poem, faithfully', text: 'Places, guardians and verses come from the Commedia, in Italian and English.' },
+  ],
+  cta: 'Enter the nine circles',
+  href: '/thedivinecomedy/',
+  charactersHref: '/thedivinecomedy/#personaggi',
+  image: { src: '/thedivinecomedy/img/porta.webp', alt: "Dante before the gate of Hell, with Inferno's inscription hanging in the air" },
+  characters: [
+    { name: 'Dante', src: '/thedivinecomedy/img/dante.webp', alt: 'Dante in his red hood with the laurel crown' },
+    { name: 'Virgil', src: '/thedivinecomedy/img/virgilio.webp', alt: 'Virgil with white hair and beard and a laurel crown' },
+    { name: 'Minos', src: '/thedivinecomedy/img/minosse_ritratto.webp', alt: 'Minos, half man and half serpent, his tail coiled around his body' },
+  ],
+};

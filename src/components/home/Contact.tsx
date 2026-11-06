@@ -201,10 +201,10 @@ export default function Contact() {
     <footer
       id="contact"
       data-section="Contact"
-      data-index="09"
+      data-index="10"
       className="relative px-5 sm:px-8 md:px-10 pt-24 sm:pt-32 pb-16 scroll-mt-16"
     >
-      <Slate index="09" label="Contact" aside="I answer everything" />
+      <Slate index="10" label="Contact" aside="I answer everything" />
       <div className="grid lg:grid-cols-12 gap-6 mt-8 sm:mt-10 items-end">
         <SectionTitle text="Let's talk" className="lg:col-span-7" />
         <Reveal as="p" delay={150} className="lg:col-span-5 text-[#D7E2EA]/65 font-light leading-relaxed text-[1rem] max-w-[480px]">

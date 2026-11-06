@@ -12,6 +12,7 @@ import About, { Direction } from './home/About';
 import Ai from './home/Ai';
 import Blog from './home/Blog';
 import type { HomePost } from './home/Blog';
+import Game from './home/Game';
 import Contact from './home/Contact';
 import { CursorLabel, StatusBar, ViewportCorners } from './home/Chrome';
 import { ModeProvider, ThumbProvider } from './home/ui';
@@ -81,6 +82,7 @@ export default function HomePage({
           <Direction />
           <Ai />
           <Blog posts={posts} total={totalPosts} />
+          <Game />
           <Contact />
           <StatusBar />
           <ViewportCorners />

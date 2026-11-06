@@ -13,6 +13,7 @@ export const homeNav = [
   { label: 'AI', href: '#ai' },
   { label: 'Services', href: '/services/' },
   { label: 'Blog', href: '/blog/' },
+  { label: 'The game', href: '#game' },
 ];
 
 /** Studio / client, switchable from anywhere on the page. */
