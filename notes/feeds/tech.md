@@ -1,11 +1,56 @@
-# Tech — harvested 2026-11-06T12:28:02.086Z
+# Tech — harvested 2026-11-06T20:05:04.732Z
 
 ## Ars Technica
+
+### The folks behind John Wick are back with Karōshi trailer
+Fri, 06 Nov 2026 18:30:19 +0000 — https://arstechnica.com/culture/2026/11/the-folks-behind-john-wick-are-back-with-karoshi-trailer/
+
+Those of us missing the John Wick universe can take heart, because Chad Stahelski—who created that franchise—is coming back early next year with a new dystopian action film. It's called Karōshi (a Japanese term that means "death overwork"), and Lionsgate released a killer trailer that puts this film at the top of my list of "must see" movies of 2027. Dying from working too hard is a very real phenomenon, not just in Japan and much of Asia, but also in Sweden, where some 700 workers die each year from overwork. The physical cause is usually stress-related heart attacks or strokes, as well as suicide ( karōjisatsu in Japan). Writer/director Takashi Doscher has transported that concept to a grim, futuristic corporate Manhattan, specifically a company called Ikigai Technologies. Per the official premise: Karōshi is an action-thriller set in a near-future Manhattan, where corporate loyalty and cultural tradition have reshaped everyday life. When a mysterious outsider infiltrates a powerful company after a worker’s death, he exposes the violent system hidden beneath its polished surface. Teo Yoo ( Past Lives ) stars as the aptly named Hiro, who is clearly out for vengeance against the offending corporation. The cast also includes Takehiro Hira, so memorable in the 2024 miniseries Shōgun , as well as Giancarlo Esposito, Cynthia Erivo, Bill Camp, Richard Harmon, Isabel May, and Show Kasamatsu. Read full article Comments ]]>
+
+### You know the launch market is tough when satellite companies start building rockets
+Fri, 06 Nov 2026 18:20:47 +0000 — https://arstechnica.com/space/2026/11/ast-spacemobile-is-so-desperate-for-launch-theyre-building-their-own-rocket/
+
+There are optimistic plans for spaceflight, and then there are optimistic plans. AST SpaceMobile is a Texas-based, publicly traded company building very large satellites to provide direct-to-cell communications on Earth. But it has been having trouble finding rides to space. So on Friday, AST announced that it is developing a medium-lift rocket, named Blacklift, which will have the capacity to lift 20 metric tons to low-Earth orbit. Oh, and the company said it would start launching commercially in late 2028. "The Blacklift rocket is the springboard to significantly expand our total addressable market, providing AST SpaceMobile with regular unconstrained access to orbit and providing for most favorable owner's economics in the industry," said Abel Avellan, founder, chairman, and CEO of AST SpaceMobile, in a news release. Read full article Comments ]]>
+
+### “Does Meta think we can’t read?” Meta abandons sketchy commercial terms update.
+Fri, 06 Nov 2026 17:43:02 +0000 — https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/
+
+After weeks of backlash —and a failed attempt to quell it —Meta has indefinitely delayed plans to update its commercial terms and require Meta Business account users to allow extensive AI training on external websites linked on Facebook. "We're pausing the ‌changes ⁠as we continue to engage with stakeholders and ​take ​our ⁠time to get this right. ​In the ​meantime, ⁠our existing terms remain in ⁠effect," a Meta spokesperson told Reuters. Soon after Meta notified business account holders of the upcoming changes, legal experts warned Nieman Lab that the vague language could allow the company to ignore scraping preferences specified in robots.txt files and exhaustively crawl vast amounts of off-Facebook content for AI training. Since virtually every news publisher has a Facebook page, Nieman Lab sounded the alarm that Meta could potentially avoid millions in licensing fees if the TOS update happened as planned. Read full article Comments ]]>
+
+### Wisconsin reports measles death of a baby, first death in over 35 years
+Fri, 06 Nov 2026 17:06:32 +0000 — https://arstechnica.com/health/2026/11/wisconsin-reports-measles-death-of-a-baby-first-death-in-over-35-years/
+
+An infant in Wisconsin has died of measles, the first measles death in the state since 1990, officials reported Thursday . The death comes amid an outbreak in the Badger State that has stricken over 430 people across 13 counties this year. "Any death of a child is a tragedy, and even more so when it is related to a vaccine-preventable disease," Wisconsin Health Secretary Kirsten Johnson said in a statement. "Measles can cause serious illness and death, and it is important for all Wisconsinites to evaluate their risk and take steps to protect themselves and their family." The baby's death is the third measles fatality nationally just this week, following the death of a New York child reported on Monday and another death in Pennsylvania reported on Wednesday . The Pennsylvania death was of an unvaccinated person in Jefferson County; the state health department did not provide additional details, such as the age of the person. The state's explosive, ongoing measles outbreak has led to 1,467 cases so far this year. Read full article Comments ]]>
+
+### Could potential AI clones of GTA VI force a quicker official port?
+Fri, 06 Nov 2026 16:19:12 +0000 — https://arstechnica.com/gaming/2026/11/could-potential-ai-clones-of-gta-vi-force-a-quicker-official-port/
+
+Yesterday, when reporting on emerging efforts to pipe the console version of GTA VI through a PC's DLSS-powered Nvidia GPU , we mentioned in passing that PC players could instead just wait for the AI-assisted decompilation port that will no doubt be coming in short order. Now, a former Rockstar tech director says he thinks that exact threat could cause the developer to work faster on the official PC version of its soon-to-release crime/lifestyle simulator. Obbe Vermeij hasn't worked at Rockstar since 2009 , but in a new interview with Rock Paper Shotgun , he recalled how artists for the PC version of the original top-down Grand Theft Auto were incensed when the console version squashed the game's 256-color textures down to 16 colors for the PS1 release. "So it always has been that sort of awkward relationship between PC and the console," Vermeij said. "So in those days, it was like PC first and then console second, even though that didn't really make much sense for the sales, because the PlayStation versions sold way better." Read full article Comments ]]>
+
+### It's a weird time to buy a laptop, but the new MacBook Pro doesn't skimp on quality
+Fri, 06 Nov 2026 15:28:07 +0000 — https://arstechnica.com/apple/2026/11/its-a-weird-time-to-buy-a-laptop-but-the-new-macbook-pro-doesnt-skimp-on-quality/
+
+Apple's new MacBook Pro is expensive as hell. Let's get that out there right away, because for a lot of people, it will be the only thing that matters. As with so many things in life, though, you get what you pay for. There's no questioning the quality of the laptop's display or most of its other hardware components. But should you buy it? Well, that's a complicated question in 2026. Read full article Comments ]]>
+
+### Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns
+Fri, 06 Nov 2026 14:13:32 +0000 — https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/
+
+Top Republican lawmakers have asked Jensen Huang to appear before Congress to answer questions after it was reported that US intelligence officials believe Nvidia’s chief executive has been targeted by a Chinese spying operation. The chairs of the House committees on China, foreign affairs, and intelligence wrote to Huang this week asking him to appear before a joint closed-door briefing for their committees on November 18. “Recent reports raise significant national security concerns regarding the People’s Republic of China’s access to sensitive US technology and information,” representatives John Moolenaar, Brian Mast, and Rick Crawford wrote. Read full article Comments ]]>
+
+### No more Cybertrucks; Musk moves on from the angular metallic flop
+Fri, 06 Nov 2026 13:50:20 +0000 — https://arstechnica.com/cars/2026/11/the-cybertruck-is-dead-makes-way-for-cybercab-says-elon-musk/
+
+Elon’s Edsel is no more. Last night, Tesla CEO Elon Musk revealed on social media that his car company is ending its failed attempt to wrest control of the American pickup truck market. The Cybertruck will cease production in the middle of 2027, liberating that space in Tesla’s cavernous factory for other uses—more Cybercabs , most likely. Musk first revealed the Cybertruck in late 2019 , back when Tesla was still trading at a theoretically understandable price-to-earning ratio. The pickup's unusual angular shape owed more to low-res video game models than any concessions to practicality. At the time, Musk made fanciful claims that the truck would use a stainless steel monocoque construction, telling his audience that “the body and bed don’t do anything useful” on a normal truck. While some race cars use carbon-fiber monocoques for strength and lightness, making a pickup truck with a stainless steel monocoque chassis would only make sense if someone had an awful lot of stainless steel lying around and needed something to do with it all. The truck was supposed to go on sale for less than $40,000, and Tesla made its usual stratospheric sales predictions that (had they been accurate) the bare metal EVs would be as ubiquitous as the Model 3 and Y. Read full article Comments ]]>
+
+### Rocket Report: Artemis II literally tore through the atmosphere; New Glenn delay
+Fri, 06 Nov 2026 13:33:20 +0000 — https://arstechnica.com/space/2026/11/rocket-report-new-glenn-wont-fly-this-year-china-launches-mini-falcon-heavy/
+
+Welcome to Edition 9.18 of the Rocket Report! Blue Origin packed a lot of news into one afternoon Thursday with the reveal of a new kick stage for the New Glenn rocket, a new rocket engine design, and the minor and widely expected delay for New Glenn's return-to-flight mission from December until January. The reconstruction of Blue Origin's wrecked launch pad at Cape Canaveral, Florida, continues apace after a catastrophic explosion nearly six months ago. There's a lot of pent-up demand from NASA, Amazon, and the Space Force for Blue Origin to get New Glenn back in action. As always, we welcome reader submissions , and if you don't want to miss an issue, please subscribe using the box below (the form will not appear on AMP-enabled versions of the site). Each report will include information on small-, medium-, and heavy-lift rockets as well as a quick look ahead at the next three launches on the calendar. SpaceX vets work on water-fed propulsion . Three brothers who worked at SpaceX in the Falcon 9 era are now building satellites that run on water, a potentially harvestable resource on the Moon and found all over the Solar System, Ars reports . In late 2022, the three Carlisle brothers founded Argo Space to build infrastructure in space. Their vision was not just in-space transportation but also removing the need to use propellants from Earth to move around the heavens. Argo Space's satellites will use water not only as a propellant, but also as a coolant and radiation shield.
 
 ### Blue Origin says it is building a higher-performing rocket engine at 1/4 the cost
 Fri, 06 Nov 2026 00:17:06 +0000 — https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/
 
-KENNEDY SPACE CENTER, Fla.—Blue Origin announced two significant upgrades to its New Glenn rocket on Thursday, reducing the cost of manufacturing the vehicle and expanding its capacity for payload delivery to geostationary orbit and the Moon. With these upgrades, the company aims to eventually position New Glenn to launch more than 1,000 times a year. "There has never been higher demand for launch, ever," Dave Limp, chief executive officer of Blue Origin, said during the UP.Summit conference at the Shuttle Landing Facility in Florida. Read full article Comments ]]>
+KENNEDY SPACE CENTER, Florida—Blue Origin announced two significant upgrades to its New Glenn rocket on Thursday, reducing the cost of manufacturing the vehicle and expanding its capacity for payload delivery to geostationary orbit and the Moon. With these upgrades, the company aims to eventually position New Glenn to launch more than 1,000 times a year. "There has never been higher demand for launch, ever," Dave Limp, chief executive officer of Blue Origin, said during the UP.Summit conference at the Shuttle Landing Facility in Florida. Read full article Comments ]]>
 
 ### Meet *sshole, the vulnerability that lets hackers SSH into Linux devices
 Thu, 05 Nov 2026 23:09:36 +0000 — https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/
@@ -17,104 +62,94 @@ Thu, 05 Nov 2026 22:49:03 +0000 — https://arstechnica.com/gadgets/2026/11/nasa
 
 NASA has announced a new experimental aircraft, the X-70 Fractal, that will supposedly feature reconfigurable flight-control technology and a modular design for swapping in different payloads. But much remains unknown about the aircraft’s design and development timeline, even as NASA administrator Jared Isaacman said the X-plane could take flight within two years. The mystery surrounding NASA’s newest X-plane was exemplified by the agency’s press release, including an apparently AI-generated image of the X-70, showing a dark silhouette vaguely resembling a military fighter jet obscured by smoke. The news was announced by Isaacman during the UP.Summit held at the agency’s Kennedy Space Center in Florida on November 4. “The X-70 Fractal gives NASA a crewed, high-performance platform to test advanced flight-control, maneuverability, and other cutting-edge technologies in real flight,” Isaacman said. “Its modular design and ability to rapidly swap internal and external payloads will keep our teams flying, learning, and moving quickly from one experiment to the next.” Read full article Comments ]]>
 
-### Sony revives the original Walkman headphones, adds USB-C
-Thu, 05 Nov 2026 21:56:36 +0000 — https://arstechnica.com/gadgets/2026/11/sony-adds-usb-c-to-its-70s-era-mdr-3-walkman-headphones/
-
-Color us nostalgic. Sony has brought back the MDR-3-series headphones that debuted in 1979 alongside the Walkman TPS-L2 cassette player. In this marketing image Sony shared, you can see the Walkman TPS-L2. Credit: Sony Originally called the "MDR-3L2," the first Walkman headphones were known for their sleek, adjustable gray plastic headband, which extended via metal sliders and ended in signature orange, circular ear cushions. The lightweight, on-ear headphones are a contrast to the bulky headsets that are popular these days, which use wide, cushioned headbands for long-term comfort and large earcups that can support big drivers and are often heavily padded for noise isolation. Read full article Comments ]]>
-
-### Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable
-Thu, 05 Nov 2026 21:40:36 +0000 — https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/
-
-Google faced the ire of educators and parents earlier this week when it announced a new AI policy for K–12 schools . Google said that it developed its new approach to give schools more control, but early reporting also suggested Google would block search access for schools that didn't want to use AI. Google didn't see the backlash coming, but now that it's here, the search giant is clarifying what exactly its new policy means and what's changing. The gist of the new policy, according to Google's blog post, is that schools using Google apps will have to opt into its AI products going forward. Since the company considers search part of its AI portfolio (Gemini, Gemini Notebook, Gemini in Classroom, and Search), schools have to specifically turn that on for logged-in student accounts. When Google revealed its new policy, the company's VP for education spoke exclusively to The New York Times , which interpreted the situation as Google will "turn off search" if schools reject AI. This has a nefarious vibe, but it's probably not the most accurate way to describe how Google's educational AI system will operate. Google's approach may not be entirely altruistic, but it technically offers schools more choice and control than they have now. Instead of Google turning off search, it will let schools make that decision based on their internal AI policies. Read full article Comments ]]>
-
-### Lawsuit: Man introduced his wife to ChatGPT. She used it to plan his murder.
-Thu, 05 Nov 2026 21:39:40 +0000 — https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder/
-
-ChatGPT allegedly helped a North Carolina woman, Cheryl Gates, craft a “personalized plan” to poison her husband, James, after fueling her delusions that he planned to divorce her and leave her with nothing. A grand jury indicted Cheryl Gates on charges of attempted first-degree murder and food contamination in October. About a week prior, the accusations that ChatGPT was a co-conspirator in the attempted murder came in a lawsuit filed in San Francisco County Superior Court that was made public this week. In it, James Gates alleged that OpenAI and Sam Altman failed to employ technical safeguards to shut down Cheryl’s chats even after her queries became “obviously suspicious” and sought advice on how to execute and conceal a homicide. At first, Cheryl told ChatGPT that she was researching poisoning out of fear that her husband might possibly try to kill her—framing her queries as “self-protection.” Coming to the rescue, ChatGPT did not terminate the conversation. Instead, it helped her “with specific instructions for the preparation, dosage, and administration of Oleander, including whether anti-nausea medicine would accelerate or inhibit death, whether it would show on an autopsy report, and whether it could be injected into a vein or muscle instead of being ingested in tea and have the same lethal effect,” the lawsuit said. Read full article Comments ]]>
-
-### BMW bumps battery for the better: The 2027 i7 60 xDrive, driven
-Thu, 05 Nov 2026 20:45:50 +0000 — https://arstechnica.com/cars/2026/11/bmw-bumps-battery-for-the-better-the-2027-i7-60-xdrive-driven/
-
-BMW provided flights from Washington, DC, to Los Angeles and accommodation so Ars could drive the 2027 i7 as well as the 2027 iX5 and X5. Ars does not accept paid editorial content. When BMW debuted the new 7 Series in 2022, it set a new standard for large luxury sedans, increasingly irrelevant though that class is. Rather than siloing off an electric alternative like Mercedes, with its EQS alongside the normal S-Class, BMW simply made the powertrain an option. Stick with a V8 if you want, or consider the rather good electric version instead—only subtle differences like the badging and lack of exhaust pipes give the game away. Since then, BMW has brought out a string of even newer electric vehicles for the 5 and 3 Series (plus their SUV counterparts). It has switched from battery packs made of prismatic cells to more energy-dense arrangements of cylindrical cells. The motors are still electrically excited synchronous ones, but now the drive units feature silicon carbide inverters and more compact packaging. This sixth-generation electric powertrain was designed for the clean-sheet Neue Klasse family, which also threw out the legacy cruft of dozens and dozens of discrete single-function electronic control units for a handful of powerful domain controllers. These computers take over those functions but with much faster processing power—and therefore more capabilities in terms of chassis control or powertrain efficiency—as well as the ability to be more easily updated. Read full
-
-### Software squeezes more data out of Webb Telescope for imaging exoplanets
-Thu, 05 Nov 2026 19:59:22 +0000 — https://arstechnica.com/science/2026/11/getting-software-to-help-block-out-a-star-so-we-can-see-exoplanets/
-
-With a huge and still-growing catalog of exoplanets, researchers are eager to take the next steps: trying to infer what conditions are like on them, either by imaging them directly or by capturing the light that has passed through their atmosphere. Both are substantial challenges, given the presence of stars that are far, far brighter than light that has come to us via the planet. While telescopes can be fitted with devices called coronagraphs that block out much of a star's light, there are limits to their effectiveness, caused by noise from subtle variations in the telescope's configuration and pointing between observations. Now, researchers have developed a new software package that optimizes a physical model of the telescope in a way that allows us to better model these differences, producing low-noise imaging of exoplanets. Point spreads Central to this work is the concept of a point spread function. If you use a telescope to image a single point of light, it will not appear that way in the actual image. Instead, it will be slightly blurry and spread out, due to imperfections in the telescope hardware and the limits of our ability to keep it pointed accurately through the time it takes to image something. The mathematical description of how a telescope distorts a point of light is called its point spread function. Read full article Comments ]]>
-
-### Kalshi court losses pile up as judges refuse to block state gambling laws
-Thu, 05 Nov 2026 19:46:37 +0000 — https://arstechnica.com/tech-policy/2026/11/kalshi-court-losses-pile-up-as-judges-refuse-to-block-state-gambling-laws/
-
-Kalshi is having a bad week in the federal court system. Two circuit appeals courts rejected the prediction market's latest attempts to block state gambling laws in Connecticut, New York, and Nevada. Kalshi is separately facing a new lawsuit filed by the Arkansas attorney general. In all cases involving Kalshi and state governments around the US, the main issue is whether state gambling laws apply to prediction markets despite Kalshi's claim that its platform offers "swaps" that can only be regulated by the US Commodity Futures Exchange (CFTC). The Trump administration is on Kalshi's side, with Donald Trump Jr. serving as an advisor to Kalshi in exchange for a generous equity deal . "Kalshi insists that its products are not gambling," but "Arkansas law is concerned with substance, not semantics," Arkansas Attorney General Tim Griffin said yesterday when announcing his lawsuit against Kalshi. Kalshi's prediction market lets customers "wager money on the outcome of just about anything" despite the fact that "gambling on an unregulated platform is squarely prohibited by Arkansas law," he said. Read full article Comments ]]>
-
-### MAHA lost bigly in the midterms—is it at death's door?
-Thu, 05 Nov 2026 18:49:41 +0000 — https://arstechnica.com/health/2026/11/is-maha-dying-or-will-it-be-reborn-whats-next-after-crushing-midterm-losses/
-
-As Democrats blew away their Republican rivals in an unprecedented midterm sweep Tuesday, the Make America Health Again movement also got bowled over, raising questions about the fate of the motley movement. MAHA—which has centered around anti-vaccine activist and current Health Secretary Robert F. Kennedy Jr.—saw many of its favored candidates and allies lose, while vocal adversaries of Kennedy won. And the coalition was splintering under stress even before the voting started; in recent months, supporters have accused Kennedy and the Trump administration of inaction and betrayals in their two years in power. Now hobbled in Washington, shedding supporters, and showing little to no influence in voting booths, is MAHA on its deathbed? Or will it be reborn—possibly into a new group? Could it be assimilated into a blue platform—after sloughing off the more repulsive, conspiratorial aspects of Kennedy's ideology? These are the questions circling in the aftermath of Tuesday's bloodbath. Read full article Comments ]]>
-
-### Gamers go to ridiculous lengths to "improve" GTA VI with Nvidia's DLSS 5
-Thu, 05 Nov 2026 17:40:27 +0000 — https://arstechnica.com/gaming/2026/11/gamers-go-to-ridiculous-lengths-to-improve-gta-vi-with-nvidias-dlss-5/
-
-While the upcoming Grand Theft Auto VI won't be available on PC this month, some gamers are making ridiculous preparations to use their PC graphics cards to apply Nvidia's DLSS 5 technology to the console exclusive. On an explicitly unmoderated GTAVI subreddit, user RevolutionaryBus8208 lays out a proposed setup, which runs a PlayStation 5 through a 4K capture card to a PC. From there, the video signal is run through Veyra , an open source tool that can apply DLSS 5's AI-powered "neural rendering" to video content. The result—which also uses DLSS frame generation to increase the 30 fps source to a 90 fps output—is then piped back to a 4K TV, theoretically adding some of the benefits of a beefy PC graphics card to a console-exclusive game. To demonstrate the potential of this setup, RevolutionaryBus8208 used Veyra to upscale the Grand Theft Auto VI Extended Look trailer posted in August. The resulting DLSS-ified version looks a bit better in places, with sharper background elements, subtler shadows, and more believable light scattering on some surfaces. But it also seems a bit washed out compared to the original video's deeper blacks and arguably suffers from an unnaturally smooth "soap opera effect" in some scenes. Read full article Comments ]]>
-
-### Statehouse wins give Democrats new power to push clean energy
-Thu, 05 Nov 2026 15:59:51 +0000 — https://arstechnica.com/science/2026/11/statehouse-wins-give-democrats-new-power-to-push-clean-energy/
-
-Before Tuesday’s election, Republicans held more governorships and state legislative seats than Democrats, along with an advantage in state trifectas—unified control of the governor’s office and both chambers of the legislature. That advantage has disappeared, clearing the path for more climate and clean energy legislation, according to analysts and advocates. Democrats swept the vast majority of competitive races at the state level, flipping control of governors’ offices from Republicans in Georgia, Iowa, Ohio, Nevada, and Texas. Read full article Comments ]]>
-
 ## The Verge
 
-### After printing 40,000 whistles, this is the 3D printer I’d buy
-2026-11-06T07:00:00-05:00 — https://www.theverge.com/tech/1025984/best-3d-printer-bambu-p2s-review
+### All the latest updates on AI data centers
+2026-11-06T15:02:22-05:00 — https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy
 
-The Bambu P2S Combo. | Image: Bambu I've been wanting to try 3D printing , people tell me. Which printer should I get? I finally have a fairly easy answer: the Bambu Lab P2S Combo . The auto-loading, fully enclosed touchscreen printer is one of the very few I can recommend. It's the only one I'd buy for myself. It's on sale for $649 through December 1st, but I'd vouch for it even at its normal $749 price. I've spent an entire year testing the P2S alongside several competitors, printing 40,000 whistles for ICE whistleblowers along the way. After racking up 6,770 hours of print time across four different printers, I'm sure of my recommendation. Bambu Lab P2S Combo Where to B … Read the full story at The Verge. ]]>
+Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment. Data centers were a major bipartisan issue ahead of the 2026 midterms , and voters largely opposed data center expansion at the polls. Tech giants like OpenAI and Amazon are promising to work more closely with local communities and cover their data center energy costs. But following the election, Democratic leaders are calling for further data center restrictions and slowdowns that the AI companies will have to grapple with. From audacious plans about data centers into space , heated local battles over buildouts , and potential environmental impacts , here’s The Verge ’s news, coverage, and reporting surrounding data centers and the companies that are building them. Lame-duck Congress might actually do something: speed up energy projects “We are a data center first company,” AMD CEO Lisa Su says. OpenAI is stepping back from NDAs for data center projects This week in the big AI data center buildout. Data centers lost the midterms Maine Republican Susan Collins concedes Senate seat in a tech-fueled race. Democrat projected to win Ohio seat that Republicans warned could spell trouble for data centers. Data center-dense Texas turns blue. OpenAI is quietly renaming data centers ‘compute cam
 
-### The Enough Phone is made by and for people fed up with big screens
-2026-11-06T07:00:00-05:00 — https://www.theverge.com/tech/1028160/enough-small-phone-kickstarter-sleke
+### Shure’s popular podcasting and streaming mic is almost $50 off
+2026-11-06T14:47:02-05:00 — https://www.theverge.com/gadgets/1028846/shure-mv7-plus-podcasting-streaming-mic-deal-sale
 
-Phones used to be this size, if you can believe it. | Photo: Enough Phone It's a bad time and maybe also a great time to make a new smartphone. Brennan Jordan and Austin Boer are two-thirds of the trio behind the Enough Phone , a small phone that will run your choice of stock Android or the minimalist OdysseyOS. They're currently seeking funding on Kickstarter , and just a day after launching, the project is over halfway to its $250,000 goal. The Enough Phone's target specifications include a 5.3-inch display, 3,500mAh user-replaceable battery, MediaTek Dimensity 7500 chipset, a 50-megapixel Sony sensor in the rear camera, and 8GB of RAM. The dimensions listed on the Kickstarter page suggest an iPhone Mini-ish siz … Read the full story at The Verge. ]]>
+Shure’s MV7 Plus is a popular podcasting and streaming mic. | Image: Shure While the Shure Mv7 Plus is popular with streamers and podcasters, it’s equally good at impressing your friends and coworkers on meetings and Discord calls. It’s currently marked down to $255 at various retailers, including Amazon , Guitar Center , and directly from Shure . That’s almost $50 lower than its usual price, and just a few dollars off Amazon’s all-time low. If you don’t already have a stand, both Amazon and Shure are offering a bundle that includes the mic and a desktop stand for $269, and the white model is also discounted at Amazon . Shure MV7 Plus Shure’s MV7 Plus is an updated version of its popular USB microphone. The new version features a USB-C port, a customizable LED light panel, and several additional features available in the Motiv Mix app. Where to Buy: $299 $255 at Amazon $299 $255 at Shure $299 $255 at Guitar Center When our team shared some of our favorite audio gear in late 2024 , we noted that the Mv7 Plus was the mic we send to podcast guests for remote interviews. It’s known for its crisp and clean audio quality, with auto-leveling and denoising, so you can use it without touching an equalizer. The MV7’s unique shape and sonic profile is inspired by the Shure SM7B ( also discounted ), a microphone that’s often used in professional recording. This version is meant as a more budget-friendly variant for content creators looking for a simpler setup, with both an XLR output and
 
-### Protesters break into Microsoft data center site in Amsterdam
-2026-11-06T06:55:19-05:00 — https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam
+### Lame-duck Congress might actually do something: speed up energy projects
+2026-11-06T13:42:30-05:00 — https://www.theverge.com/policy/1028228/energy-infrastructure-permitting-reform-bill-congress-vote
 
-Members of the action group Geef Tegengas put a banner on a crane during a protest. | Image: Getty Images Protesters have broken into a construction site of a new Microsoft data center in Amsterdam this morning. Members of the Geef Tegengas group helped organize the protest against the construction of three 85-meter data center towers in the outskirts of Amsterdam. Reuters reports that around 100 people made it into the construction site, with some scaling a crane to place a "fuck AI" banner. Protesters also unfurled a "Microsoft powers genocide" banner on the construction site, and chanted "Microsoft has got to go" and "free Palestine." Opposition to the new data center in Amsterdam comes more than a year after the city banned new data center … Read the full story at The Verge. ]]>
+A massive permitting bill that could help energy projects come online much quicker and potentially lower utility bills for Americans is advancing with bipartisan support. And while it could be a catalyst for lots of clean energy, it could also speed up polluting projects and limit oversight of new data centers. With data centers demanding more electricity for AI, environmental advocates fear that developers could take advantage of the reforms to evade public scrutiny and rely more heavily on fossil fuels. The bill sacrifices caution for speed, limiting environmental reviews and preventing communities from stopping a project from moving forw … Read the full story at The Verge. ]]>
 
-### Tesla is ‘winding down’ production of the Cybertruck next year
-2026-11-06T05:42:52-05:00 — https://www.theverge.com/transportation/1028542/tesla-cybertruck-winding-down-production-2027
+### Meta s Muse AI can create custom spaces for the version of the app you need right now
+2026-11-06T13:10:10-05:00 — https://www.theverge.com/tech/1028871/meta-muse-ai-spaces
 
-Tesla is getting the Cybertruck ready for retirement in an effort to ramp up its robotaxi output. In an X post on Friday , Tesla CEO Elon Musk said that the company will be "winding down" Cybertruck production at its Texas Gigafactory sometime around the middle of next year, "to make room for increased Cybercab production." The production plant in Austin, Texas, is the only Tesla facility that's known to assemble the Cybertruck, and that's equipped to make the specialized components required to build the vehicles. Musk hasn't mentioned if Cybertruck production will be moved elsewhere, but doing so would be arduous, especially for a car that' … Read the full story at The Verge. ]]>
+Meta will now allow you to build customized, app-like experiences within Muse. The new feature, called "spaces," allows its AI assistant to build things like a shopping hub, school dashboard, music tracker, trivia game, and more, which you can interact with directly in the Muse app. Meta says you can create a new space by describing it. If you connect an outside app to Muse - like Gmail, Google Calendar, OpenTable, Notion, and others Muse works with - the AI assistant will continuously pull information from them, allowing it to update pricing, dates, and other information in your space in the background. You can also interact with elements … Read the full story at The Verge. ]]>
 
-### OpenAI is stepping back from NDAs for data center projects
-2026-11-05T19:37:56-05:00 — https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda
+### Amazon is now making a Melania Trump TV series
+2026-11-06T12:56:58-05:00 — https://www.theverge.com/tech/1028854/amazon-melania-the-series-mgm-studios-prime-video
 
-Following this week's midterms where voters resoundingly voiced their opposition to data center expansion , OpenAI today announced new commitments to communities where it is working on data center projects, including that it won't use non-disclosure agreements (NDAs) with public officials. Many data center projects have come under scrutiny for relying on NDAs to hide discussions between developers and local officials. However, OpenAI says it is now allowing "only narrow protections covering legitimate security information, trade secrets, or proprietary or competitively sensitive information." In October, Amazon announced it would no longer u … Read the full story at The Verge. ]]>
+Following the Melania documentary movie that premiered earlier this year, Amazon is now planning to release a two-part Prime Video series focusing on the first lady. The show, Melania: The Series , is set to debut on November 20th. "MELANIA, The Series reveals never-before-told stories, offering unprecedented insight into Melania Trump's life, including the extraordinary days immediately following the 47th Presidential Inauguration," according to a description in a press release . Here's what Amazon says the two episodes will be about: I. Family & Trust: Melania Trump sets priorities as she prepares to become America's First Lady. B … Read the full story at The Verge. ]]>
 
-### Airbnb is working on an AI travel agent
-2026-11-05T19:06:12-05:00 — https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings
+### Just about anyone can rent access to White House IP addresses
+2026-11-06T12:40:06-05:00 — https://www.theverge.com/tech/1028835/white-house-residential-proxy
 
-Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings shareholder letter released today . "Today's AI agents are good at simple, routine tasks, like making a restaurant reservation or scheduling an appointment," Airbnb said. "But planning a trip on Airbnb is different." The company argued that its experience matching hosts and guests, its current role in being part of reservations already, and a "new interface" built "specifically for travel" gives it an edge. Here's how Airbnb says that new interface will work: We don't think a traditional chatbo … Read the full story at The Verge. ]]>
+Someone at the White House appears to be running software that could enable outsiders to rent access on the presidential network for just "a few dollars," as reported by Krebs on Security and The Register . That's according to findings from the security firms Layer3 Intel and Synthient , which discovered residential proxy activity on the White House network. A residential proxy opens up a way for people to rent access to a home IP address and route their internet traffic through it, allowing them to conceal where their activity is actually coming from. Some apps and browser extensions include third-party software development kits (SDKs) that … Read the full story at The Verge. ]]>
 
-### The New York Times is in talks to buy Letterboxd for around $330 million
-2026-11-05T18:45:10-05:00 — https://www.theverge.com/news/1028375/the-new-york-times-letterboxd-acquisition-report
+### Kobo will soon let you upload and sync your own ebooks across devices, for a price
+2026-11-06T12:32:16-05:00 — https://www.theverge.com/tech/1028715/kobo-stack-cloud-sync-ebooks-epub-pdf-email-files
 
-Letterboxd’s homepage. The New York Times Company is in talks"exclusive negotations" to acquire Letterboxd, the social network for film lovers, for around $330 million, The New York Times reports . The Times Company, Sony Pictures Entertainment, and A24 were all recently rumored to be among those interested in buying Letterboxd. The negotiations with the Times Company have included the potential for Letterboxd's co-founders to stay in charge but report to a Times Company executive. Letterboxd would likely remain standalone for the "foreseeable future," according to the NYT . The company would also integrate the Times Company's ad tech. NYT spokesperson Charlie Sta … Read the full story at The Verge. ]]>
+Kobo is launching a new monthly subscription service called Stack that lets you upload your own ebooks and documents to the company's servers where they'll be synced across multiple devices and apps, including your reading progress, highlights, and annotations. Kobo Stack is similar to Amazon's Send to Kindle feature that allows users to upload a wide variety of files to their Kindle libraries for free, but Kobo's version will cost a few dollars each month. Kobo Stack is being introduced as part of a major 6.0 update to the company's e-reader software , which is available in beta now as an optional upgrade ahead of a wider official release. … Read the full story at The Verge. ]]>
 
-### T-Mobile owner on Elon Musk launching a wireless carrier: Welcome to the party
-2026-11-05T18:17:10-05:00 — https://www.theverge.com/tech/1028346/t-mobile-deutsche-telecom-spacex-starlink-mobile
+### The iPhone Duo has more than 100,000 optimized apps, Apple says
+2026-11-06T12:24:36-05:00 — https://www.theverge.com/tech/1028813/apple-iphone-duo-optimized-apps
 
-The head of T-Mobile's parent company is casting doubt on SpaceX's plans to make Starlink Mobile a "major" carrier in the US. During an earnings call on Thursday , Deutsche Telekom CEO Tim H&ouml;ttges says he takes the Elon Musk-owned company "super serious," but that it will cost at least $200 billion to pull off: He [Musk] has now bought 76 megahertz of spectrum. By the way, we have 400. So if you now say he can buy the spectrum prospectively, do your math. These are kind of triple-digit billions which are needed to gain the spectrum position. If he has the money, go for it. Then he has to build a network. I can tell you, we have 85,000 tower … Read the full story at The Verge. ]]>
+Apple's iPhone Duo has been officially on sale for two weeks, and the company said today that the App Store now has over 100,000 apps that are built for the foldable. "It's been wonderful to see how quickly developers have embraced iPhone Duo, and we're grateful for their creativity and innovation," Susan Prescott, Apple's VP of Worldwide Developer Relations, says in a statement. "Today there are well over 100,000 apps built for iPhone Duo already live on the App Store, and thousands of optimized apps are being added to the store each day." Prescott adds that "the enthusiasm has been incredible, and we're excited to see the pace of updates … Read the full story at The Verge. ]]>
 
-### Perplexity launches its own take on AI agents for work
-2026-11-05T17:26:50-05:00 — https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work
+### AI is the new dating dealbreaker
+2026-11-06T12:00:00-05:00 — https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity
 
-Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on "Teammates" can take on multiple roles within a workspace, while pulling existing projects, skills, and memory from the Perplexity tools you already use. Teammates integrate with Perplexity Computer , an AI system that can deploy agents on your device to complete tasks. But Perplexity says Teammates "build on top" of Computer by offering the ability to collaborate and complete "ongoing, large-scale work." You can assign each Teammate different jobs that they can perform simultaneously - much like OpenAI's Dots and Claude Duet . Perple … Read the full story at The Verge. ]]>
+When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connect with others who care about the things she does. After the 25-year-old analyst downloaded Hinge and started swiping, she noticed a trend. "Hinge has a prompt where you can say, 'We'll get along if''," she recalls. "Sometimes people will be like, 'Fuck AI.'" Usually, the people who include this kind of value statement on their profile work in the arts, nursing, maybe graphic design. Within the span of a few minutes of sitting down and swiping, Irene shows me a second profile where this happened once mo … Read the full story at The Verge. ]]>
 
-### Salon is shutting down after 31 years
-2026-11-05T17:08:14-05:00 — https://www.theverge.com/news/1028281/salon-dot-com-shuts-down
+### Meta’s refurbished Quest 3S headset is nearly $100 off right now
+2026-11-06T11:39:15-05:00 — https://www.theverge.com/gadgets/1028372/meta-quest-3s-headset-philips-hue-gradient-lightstrip-deal-sale
 
-Salon launched 31 years ago as one of the first online-only news magazine outlets, and it announced today in an unsigned post that it's ceasing publication. The company said that the "business realities of independent digital journalism have changed profoundly over the years," and it decided that its publishing model is "no longer sustainable." It didn't go into detail about why, but many websites are grappling with "Google Zero" and the impact of AI tools . When reached for comment, Salon general manager Amanda Wolfe pointed The Verge to today's announcement post. "Thirty-one years is a remarkable run, but what matters most is what happene … Read the full story at The Verge. ]]>
+If you’re curious about virtual reality, Meta’s Quest 3S is a good entry-level headset for dipping your toes in, especially now it’s on sale in refurbished condition for $255.99 directly from Meta’s eBay storefront through November 8th when you use coupon code SAVE20TECH . For comparison, the headset recently dropped to $300 in new condition as part of Amazon’s fall Prime Day event, and currently retails for $349.99. According to eBay, the certified refurbished headset is in “like-new” condition and has undergone professional inspection and cleaning by the manufacturer. More importantly, it comes with either original or new accessories — including a power adapter, a glasses spacer, wrist straps, etc. — alongside a two-year Allstate warranty. Meta Quest 3S Where to Buy: $349.99 $255.99 at eBay (refurbished) The Quest 3S strikes a middle ground between the Quest 3 and Quest 2. Like the pricier Quest 3, it runs on the speedy Snapdragon XR2 Gen 2 chip and supports the same library of games. It also comes with the same cameras for full-color passthrough, letting you interact with the world around you while wearing the headset. It comes with Meta’s Touch Plus controllers, though you can also use your hands to navigate menus and interact with some apps. And because it’s a standalone headset, you don’t need a PC or console to play games. However, its display resolution and optics quality are closer to the Quest 2’s, which, while good, means visuals are narrower and less sharp. Still,
 
 ## Tom's Hardware
+
+### GlobalFoundries VP details FDX Fusion technology, sporting 7nm-class performance without the need for EUV tools — company targets 2030 for high-volume manufacturing, with planar transistors in tow
+Fri, 06 Nov 2026 14:00:00 +0000 — https://www.tomshardware.com/tech-industry/semiconductors/globalfoundries-vp-details-fdx-fusion-technology-sporting-7nm-class-performance-without-the-need-for-euv-tools-company-targets-2030-for-high-volume-manufacturing-with-planar-transistors-in-tow
+
+Eight years after GlobalFoundries abandoned the development of its 7nm FinFET technology, the company is preparing to return to 7nm-class performance, this time by going via a different route. Its FDX Fusion process, built on FD-SOI (fully depleted silicon-on-insulator) technology, promises 7nm-class performance using advanced planar transistors, with no EUV lithography necessary. In an interview with Tom's Hardware Premium , GlobalFoundries' Sudipto Bose, vice president of the FD-SOI business unit, shared new details about its FDX Fusion technology, including its 8nm-class logic density, advanced planar transistors, manufacturing costs, and plans to begin commercial production in 2028. The company also explained how it intends to compete with conventional FinFET technologies and why it believes FD-SOI has a future beyond the 22nm-class generation. Some elements of this interview transcript have been edited for flow and clarity. Sudipto Bose: I have been at GlobalFoundries (GF) for a little bit over six years, and I have been in the industry for 25+ years. I spent the rest of my career at Texas Instruments (TI), so it's really two jobs that I have done: TI and GF. Half and half engineering and business. I spent a lot of my business days in the automotive segment. This was what I was doing at GF when I joined, and now I have the FDX product line role. (Image credit: GlobalFoundries) Sudipto Bose: A little bit on the history of FDX at GF. GF has been investing in FD-SOI for a l
+
+### Elegoo M1 Ultra review: A good first entry into the scanner market
+Fri, 06 Nov 2026 14:00:00 +0000 — https://www.tomshardware.com/3d-printing/3d-scanning/elegoo-m1-ultra-review
+
+The M1 Ultra is Elegoo’s first entry into the 3D scanner market. It is a feature-rich scanner with five scanning modes, four blue light laser modes, and a NIR binocular structured light mode. Most importantly, the scanner has a 3-in color touch screen and long battery life. It even includes a spare rechargeable battery, so you’re always prepared. The scanner can’t run without a fairly high end PC or Mac for processing power. It will need to be tethered to the laptop with a UBS-C cable or connected via Wi-Fi. I was able to get about five feet away from my subject in a harsh RF environment. I didn’t test it further than that, so it may go farther. The cable connection provides the fastest connectivity, making tethered scanning worth the hassle. The scanner’s output rivals any of the scanners I’ve tested, but it did require a little extra work to get there. At a current price of $1,599 at Elegoo, the M1 Ultra has features not found in other scanners at this price point. Specifications: Elegoo M1 Ultra Scanning Mode Blue Laser NIR Infrared Binocular Structured Light Light Type Single, 7, and 34-Line Laser NIR (Near-Infrared) Accuracy Up to 0.02 mm Up to .05mm/m 3D Resolution 0.05-2mm 0.1-2mm Working Distance 200mm-600mm Between 170 and 1200 mm Min Scan Volume 5 x 5 x 5 mm 170mm-1200mm Scan Speed (Standalone) ≤ 100fps ≤ 30fps Alignment 170mm-1200mm Geometry/Texture Connectivity Wired USB, Optional Wi-Fi Color Texture Supported Output Format OBJ/STL/PLY/ASC Operating System Windows
+
+### Protesters storm Microsoft AI data center construction site
+Fri, 06 Nov 2026 13:59:09 +0000 — https://www.tomshardware.com/tech-industry/data-centers/protesters-storm-microsoft-ai-data-center-construction-site-amsterdam-reportedly-first-of-85-targeted-actions-across-europe
+
+A Microsoft data center under construction in Amsterdam, the Netherlands, has been overrun by about a hundred protesters, with some carrying placards saying, “Screw your data center.” According to Reuters , the “Stop Dirty Data Centers” coalition is planning actions across 16 countries on November 6 and 7, 2026, including Amsterdam, Dublin, Warsaw, and another Microsoft site in Denmark. Go deeper with TH Premium: AI and data centers (Image credit: Microsoft) The data center cooling state of play The custom AI ASIC state of play America’s AI chip rules keep changing — and the rest of the world is paying the price GTC 2026: Ian Buck press Q&A transcript — VP of Hyperscale and HPC speaks out on shelving CPX and shipping LPU decode this year Demand for data center CPUs has surged, and AI agents are responsible Pure Data Centers, which owns the Amsterdam data center, said, “We respectfully ask those on site to leave safely and engage with us in dialogue about the development and any concerns they may have.” The report also quoted Microsoft saying that it understood the strong feeling that people have and respected their right to peaceful expression but says that it does not condone any unlawful action. "On 6-7 November 2026 we are taking action across Europe to say Stop Dirty Data Centres," the group's website reads. "Local communities are rising up to stop dirty data centres where they live. We will unite and exercise our democratic rights to speak out, assemble, and protest to h
+
+### Nvidia tightens tracking of AI GPUs in Southeast Asia as Chinese chip smuggling draws scrutiny, report claims
+Fri, 06 Nov 2026 13:49:33 +0000 — https://www.tomshardware.com/tech-industry/big-tech/nvidia-tightens-tracking-of-ai-gpus-in-southeast-asia-as-chinese-chip-smuggling-draws-scrutiny-report-claims-cloud-providers-must-join-monitoring-program-to-qualify-for-official-partner-status
+
+Southeast Asia computing providers are now reportedly required to register with Nvidia's Fleet Intelligence tracking system if they want to become official Nvidia Cloud Partners (NCPs). The move, according to Bloomberg , is aimed at giving the chipmaker another way to monitor where its AI accelerators are deployed, as Washington grows increasingly frustrated with restricted hardware finding its way into China through regional smuggling networks. Nvidia was not immediately available for comment. Go deeper with TH Premium: Taiwan, trade, and tariffs (Image credit: tsmc) While the U.S. flip-flops on chip sanctions, China is building its own chip supply market The state of China's decade-long semiconductor push Huawei Ascend NPU roadmap examined China's CXMT targets 30% DRAM memory market share by 2030 with sixth mega-fab China's latest round of rare-earth export controls explained The NCP designation is worth pursuing as it gives cloud providers Nvidia's public endorsement and preferred access to its sought-after AI chips, putting the company in a position to use those benefits as leverage. Customers seeking the status must now enroll in Fleet Intelligence , according to people familiar with the new requirements. Fleet Management was introduced last December primarily as a data centre management tool. It gathers information about NVIDIA hardware deployed across participating companies' infrastructure, including the locations of individual accelerators. That information could giv
+
+### Six pallets of Nvidia GPUs worth $11.4 million stolen in California cargo heist
+Fri, 06 Nov 2026 13:35:16 +0000 — https://www.tomshardware.com/pc-components/gpus/six-pallets-of-nvidia-gpus-worth-usd11-4-million-stolen-in-california-cargo-heist-authorities-investigate-after-truck-posing-as-a-food-transport-company-disappears
+
+As high-end PC hardware continues to surge in demand and price, GPU theft has become a highly profitable target for criminals. According to a report by ABC7 News , authorities are investigating a major cargo heist involving the disappearance of an $11.4 million shipment of Nvidia hardware. The shipment reportedly consisted of six pallets of Nvidia hardware that left Oakland for Texas on August 29 and was picked up by a truck posing as a food transport company. Investigators eventually lost track of the vehicle in San Bernardino County, with the Oakland Police Department receiving a report of the theft on September 13. "These chips command about double the price that they command inside the United States. So, if a chip costs about $550,000, then they go for about 1 million or more abroad," said Olaf Groth, a professor at UC Berkeley's Haas School of Business. While there has been no announcement regarding any arrests, the authorities are said to be investigating the matter. The incident has also raised concerns among experts about the security of high-value technology shipments and the potential national security risks posed by advanced computing hardware making its way into black-market channels. In a similar incident from Brazil back in September, two pallets containing Nvidia's top-of-the-line GeForce RTX 5090 graphics cards, valued at approximately $470,000 (R$2.5 million), disappeared at Guarulhos International Airport in São Paulo. The shipment, imported from the US, had
+
+### Save 26% on this 142-piece toolkit for your PC repairs and hobbyist projects, now under $28
+Fri, 06 Nov 2026 13:00:00 +0000 — https://www.tomshardware.com/desktops/pc-building/save-26-percent-on-this-142-piece-toolkit-for-your-pc-repairs-and-hobbyist-projects-now-under-usd28-precision-screwdriver-kit-includes-120-magnetic-bits-and-20-different-repair-tools-for-your-next-project
+
+Every hobbyist and PC builder needs a toolkit for repairs and maintenance. With that in mind, there's a 26% discount to be had on this Strebito 142-in-1 screwdriver set, down to just $27.99 . This kit comes with 120 magnetic screw bits, 22 maintenance tools, along with the precious driver itself. ● Check out this deal at Amazon A kit like this gives you the essential tools required to keep your PC repaired and maintained, but it's also a good option for any of those small DIY tasks or hobbyist building tasks. Along with the driver and bits, the brushes, scrapers, and other repair tools will come in useful when you're dealing with small repair jobs at home. This 142-in-1 precision screwdriver set comes with 120 magnetic bits and 22 repair tools for various disassembly and maintenance tasks, along with a precision screwdriver and magnetic tools for your PC building and hobbyist repairs. View Deal The core part of this set is the precision screwdriver. It has an ergonomic handle and a flexible shaft that lets you get into awkward places, with an extension shaft to get you deeper into those deep PC cases. You've got 120 different bits in this set to use with your driver, too, across all the major head styles, including flathead, Phillips, Torx, and Pozidrive. This Strebito set also has a magnetizer/demagnetizer tool. This is useful, as it'll let you grab hold of screws, but also weaken the charge if you're worried about electromagnetic interference in your PC case. There's a 5.7 
+
+### Nvidia wants to repurpose over 130 old telco buildings as tiny data centers, report claims
+Fri, 06 Nov 2026 12:45:00 +0000 — https://www.tomshardware.com/tech-industry/data-centers/nvidia-wants-to-repurpose-over-130-old-telco-buildings-as-tiny-data-centers-report-claims-company-in-talks-with-brightspeed-after-pitching-idea-to-parent-company-apollo-global-management
+
+Internet and telecommunications provider Brightspeed is reportedly in talks with Nvidia to convert several of its buildings into tiny data centers. According to The Information , Nvidia pitched the idea to Apollo Global Management executives, the parent company of Brightspeed, who then asked it to submit written plans to the internet provider. Nvidia complied and has now requested additional information, data, and site visits to some of Brightspeed’s existing infrastructure. Go deeper with TH Premium: AI and data centers (Image credit: Microsoft) The data center cooling state of play The custom AI ASIC state of play America’s AI chip rules keep changing — and the rest of the world is paying the price GTC 2026: Ian Buck press Q&A transcript — VP of Hyperscale and HPC speaks out on shelving CPX and shipping LPU decode this year Demand for data center CPUs has surged, and AI agents are responsible The telecommunications company has around 130 buildings located around the country, many of which are already built to handle data and voice traffic and have the required power infrastructure to run Nvidia servers. Sources say that the AI tech giant estimates that these sites could collectively deliver around 1 gigawatt of compute capacity, which could accommodate more than 2,200 Supermicro Vera Rubin NVL72 racks containing 72 Rubin GPUs and 36 Vera CPUs each. Although these sites already can power these GPUs, it’s still not a plug-and-play solution, as Nvidia would still need to insta
 
 ### Rogue AI tasked with renumbering pages accidentally deletes law professor's entire syllabus, one year of lecture notes
 Fri, 06 Nov 2026 12:12:12 +0000 — https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-claude-ai-tasked-with-renumbering-pages-accidentally-deletes-law-professors-entire-syllabus-one-year-of-lecture-notes-youre-right-to-be-angry-i-deleted-your-files-through-my-own-carelessness-humbled-agent-admits
@@ -141,42 +176,32 @@ Fri, 06 Nov 2026 11:00:00 +0000 — https://www.tomshardware.com/tech-industry/s
 
 A Pat Gelsinger-backed Georgia Tech spinout, Nagare Labs, says its Z2RAM can put SRAM-speed memory , at DRAM density, directly on top of AI chips. The founders’ own papers show a fast-improving cell that, tested up to 85 degrees Celsius, holds data for over 300 seconds. Gen 1 is projected to have 5x SRAM density with six stacked layers, 14x DRAM speed, and 3x less read energy than SRAM. AI chips require a lot of bandwidth, and it has been challenging to get sufficient yields of high-bandwidth memory (HBM) to feed them. Even when manufacturers can get it, some reportedly plan to settle for fewer layers for yield reasons, and heat is another. Heat is also why Samsung’s zHBM , which stacks DRAM directly on the processor, is planned at only about four layers. Alternatives include high-bandwidth flash , still in development, which stacks NAND like HBM and would sit beside the GPU, or SRAM stacked directly on the die, which is less dense and more expensive for the capacity, but also faster. DRAM, which is more capacious, can sit on top of the compute, but heat limits how hard the logic underneath can run. That limit is already shaping chipmakers’ design path for stacked memory. Micron’s vHBM plans, for example, include heat-spreading structures. With HBM stacked on a logic die, and DRAM needing to be kept at or below 95 degrees Celsius, the logic’s heat output is capped at 220 W/cm², or 300 W/cm² with better thermal vias, according to a 2025 simulation by co-founder Shimeng Yu’s gr
 
-### Nintendo’s latest Zelda remake already circulating online as a Switch 2 ROM
-Fri, 06 Nov 2026 11:00:00 +0000 — https://www.tomshardware.com/video-games/nintendo/nintendos-latest-zelda-remake-already-circulating-online-as-a-switch-2-rom-openai-assisted-software-jailbreak-new-game-dumper-let-pirates-share-game-for-free-immediately-following-release
-
-Nintendo’s remake of The Legend of Zelda: Ocarina of Time has reportedly been dumped the same day it launched on the Switch 2. The game launched today, but ONE jailbreak says copies of the original 1.0.0 release and its 1.1.1 update are already circulating outside Nintendo's official distribution channels. The update reportedly weighs 23 GB. The leak is not entirely surprising. Physical copies had already started turning up at buyers' homes several days before the release date. Footage of the game was already appearing online by Nov. 1. Those early cartridges gave hackers access to the remake before most players could get their hands on it, with some gamers sharing videos of themselves playing the game on social media. However, the game still remains far from playable on PC, with emulators struggling to render its graphics correctly. Some users encountered washed-out visuals or black screens, while others saw terrain bleeding through objects or could not get past the title screen. 🚨 BIZARRO! ZELDA: OCARINA OF TIME RODANDO NO PC!O jogo já teve seu dump realizado e está sendo executado no PC através de emulação. Sim, estamos falando de um game que ainda não lançou oficialmente rodando fora do hardware original da Nintendo! https://t.co/giO956ssnI November 5, 2026 Notably, the game is identified by title ID 0400486024DEC000, with its report naming two tools involved in extracting the files: ‘ns2jb and OunceCake’. The first is a software jailbreak developed by security researche
-
-### Grab a Nintendo Switch 2 controller upgrade from $49, just in time for Zelda: Ocarina of Time's remaster
-Thu, 05 Nov 2026 21:00:00 +0000 — https://www.tomshardware.com/video-games/handheld-gaming/grab-a-nintendo-switch-2-controller-upgrade-from-usd49-just-in-time-for-zelda-ocarina-of-times-remaster-secure-the-tools-to-defeat-ganondorf-with-these-top-wireless-gamepads-from-8bitdo-gamesir-and-others
-
-After a long wait, the much-anticipated release of The Legend of Zelda: Ocarina of Time remaster is upon us, and those who have been lucky enough to nab one of the limited edition consoles, or anyone who has purchased a copy of the game, wait with bated breath for the game to go live. With a Nintendo Switch 2, you can, of course, game on the move, but for the best experience, you can't beat plugging the handheld console into the dock and hooking up the console to a big screen. You have a couple of options for wirelessly playing your Nintendo Switch 2 console from the couch. You can either disconnect and use the Joy-Con controllers that are bundled with the Switch 2, or you can opt for a more traditional controller. Here are some of the best options for controllers that can easily hook up to the Switch and have you gaming in no time. Switch 2 Pro Controller: $89 The official Nintendo controller for the Switch 2. Features include HD Rumble 2, motion controls, built-in Amiibo functionality, a capture button, a C button for GameChat, GL/GR buttons that you can map to any button you choose, and a 3.5mm 4-pole audio jack. View Deal S10 Elite Wireless Controller for Switch 2: $59.99 The S10 Elite comes with one-key wake-up functionality and magnetic Hall Effect joysticks. Other features include programmable buttons, HD Rumble, and motion control. View Deal Super Nova Wireless Gaming Controller for Switch 2: $49.99 Compatible with PC, Nintendo Switch 1/2, and Android/iOS, the Super N
-
-### Combined OpenSSH and musl-libc flaws let anyone into Alpine Linux and other distros by typing anything over 256 characters as a password
-Thu, 05 Nov 2026 18:14:56 +0000 — https://www.tomshardware.com/tech-industry/cyber-security/combined-flaws-let-anyone-into-alpine-linux-and-other-distros-by-typing-anything-over-256-characters-as-a-password-emergency-fixes-for-openssh-and-musl-libc-issued-for-millions-of-systems-patch-immediately
-
-The internet is still reeling from the PHP engine vulnerability and all other security vulnerabilities found over the past few weeks, and we're not done. Today's special is quite spicy: you can get into Alpine, OpenWRT, and other Linux distros without needing a password, thanks to a combined bug with OpenSSH and musl libc. Just randomly type over 256 characters on the password prompt and you'll be let in through the SSHhole . It works if you set an empty password for system users, which is the default on multiple distros. The bug is present, though not necessarily enabled, across Buildroot, Yocto, and Void Linux. OpenWRT uses Dropbear for authentication by default, but users can install OpenSSH instead. The largest concern is by far Alpine, though, as it's pretty much the default choice for what could amount to millions of installs across Docker/Kubernetes/Proxmox containers and endless dependencies thereof, servers, cloud VMs, and embedded devices, among many others. Alpine comes with the requisite conditions set and password authentication enabled by default, which is why it needs immediate patching. Broadly speaking, the vulnerability combination is: OpenSSH, musl, password authentication not explicitly disabled, not using PAM, and the one arbitrary user with a password set, using a SHA-512/256 hash. Patch your systems immediately, as per the project's advisory note . Meanwhile, the easiest mitigation is explicitly setting "PasswordAuthentication" to "no" in your OpenSSH c
-
-### India targets creating homegrown GPUs within 2 years and plans to commercialize indigenous SHAKTI and VEGA processors
-Thu, 05 Nov 2026 18:00:00 +0000 — https://www.tomshardware.com/tech-industry/semiconductors/india-targets-creating-homegrown-gpus-within-2-years-and-plans-to-commercialize-indigenous-shakti-and-vega-risc-v-processors-sees-ai-boom-as-a-potential-repeat-of-the-y2k-opportunity-for-its-it-industry
-
-India wants to develop its own graphics processing unit (GPU) within the next two years as the country steps up efforts to build a domestic semiconductor industry and reduce its dependence on foreign chip suppliers, reports ETGovernment . The target was outlined by S.Krishnan, secretary of India's Ministry of Electronics and Information Technology (MeitY), in a November 4 interview. "Under India Semiconductor Mission 2.0, we intend to target the development of an indigenous GPU chip. We should have a GPU chip of our own. This will not happen overnight. It is a project that will require approximately 24 months, and we intend to work towards that objective," Krishnan said. The proposed GPU is part of a wider plan to establish an Indian hardware and software ecosystem, with Krishnan describing five layers needed to support AI development. These include: energy, accelerator chips, computing infrastructure and servers, AI models and applications. Indian companies such as VVDN , Kaynes and Avalon are already manufacturing servers, while the Centre for Development of Advanced Computing (C-DAC) has developed its Rudra server range, whose systems are designed to support AI workloads, after which the government transfers the technology to local manufacturers. Krishnan also sees AI as a potential repeat of the opportunity India's IT industry experienced during the Y2K (the year 2000 bug) transition. "AI could create a similar opportunity, although the nature of the work will be differen
-
-### Chinese AI lab Moonshot reportedly looked at European data centers to access Nvidia chips, report claims
-Thu, 05 Nov 2026 16:48:30 +0000 — https://www.tomshardware.com/tech-industry/policy/chinese-ai-lab-moonshot-reportedly-looked-at-european-data-centers-to-access-nvidia-chips-report-claims-kimi-maker-primarily-interested-in-inferencing-capacity-but-also-asked-about-training-clusters
-
-Moonshot AI, the Chinese lab that made Kimi, is reportedly looking towards Europe to gain access to the latest Nvidia Blackwell AI GPUs. According to CNBC , the company is in talks with at least one European data center to lease clusters with 8,000 or more GPUs for inferencing, and that it’s also interested in securing compute capacity for training. Go deeper with TH Premium: AI and data centers (Image credit: Microsoft) The data center cooling state of play The custom AI ASIC state of play America’s AI chip rules keep changing — and the rest of the world is paying the price GTC 2026: Ian Buck press Q&A transcript — VP of Hyperscale and HPC speaks out on shelving CPX and shipping LPU decode this year Demand for data center CPUs has surged, and AI agents are responsible While Chinese companies are banned from acquiring Nvidia Blackwell and other AI GPUs that offer the same or better performance containing U.S. technologies, a loophole has so far allowed them to gain access to compute by renting them from data centers abroad. The U.S. House is attempting to patch it and passed the Remote Access Security Act , but it must still go through the Senate and the White House before it can turn into law. In the meantime, Chinese AI labs are exploiting the loophole and training their models on foreign data centers that have acquired Nvidia chips. The U.S. and China have been locked in an AI arms race, with the latter’s open-weight models behind frontier U.S. models by just a matter of m
-
-### Nintendo Switch 2 sales dropped by 41% from last year due to console's price increase
-Thu, 05 Nov 2026 16:27:28 +0000 — https://www.tomshardware.com/video-games/nintendo/nintendo-switch-2-sales-dropped-by-41-percent-from-last-year-due-to-consoles-price-increase-pressure-to-release-more-big-games-to-make-up-for-shortfall
-
-Nintendo Switch 2 sales have dropped 41% in the second fiscal quarter compared to the same quarter last year, as reported by CNBC and as predicted by Kantan Games CEO Serkan Toto at the beginning of June, selling only 2.67 million units from July to September. Nintendo is still sticking to its forecast of 16.5 million units sold by the end of the fiscal quarter, but is under pressure from investors to release more big hits to sell more Switch 2 units to hit its goal. In Japan’s second fiscal quarter running from July 1 to September 30, Nintendo increased the price for the Switch 2 in the US, Canada, and Japan after an initial price hike in Japan earlier this year. Serkan Toto, CEO of Kantan Games Inc., which tracks and analyzes the Japanese game industry, expected that the price increase would lead to a decrease in sales. Despite the prediction coming true, Nintendo is assuring its investors that it would hit its forecast of 16.5 million units sold by March 31, 2027, the end of Japan’s current fiscal year. Toto also stated, “Nintendo’s only real blockbuster this fiscal year is the Ocarina of Time remake. It’s not enough to make investors happy, especially after the device is now as expensive as it is.” The remake, set to release tomorrow, disappointed many fans, with its visuals being uncanny and overly photorealistic, instead of being true to the original art style with updated audiovisuals. The game also seems to have limited offerings to expand on the original Ocarina of T
-
-### UPERFECT GR14BU portable monitor review: A 120 Hz 3K OLED touch display at a killer price
-Thu, 05 Nov 2026 15:00:00 +0000 — https://www.tomshardware.com/monitors/portable-monitors/uperfect-gr14bu-portable-monitor-review
-
-As the portable monitor category matures, a number of new players have entered the market to claim their share of the pie. One company that we haven’t had a chance to sample yet is UPERFECT. But the company is coming out of the gate swinging with the first review sample that it sent our way: the GR14BU. As its name suggests, the GR14BU is a 14-inch portable monitor, but it doesn’t have a run-of-the-mill 60 Hz 1080p IPS panel like you’ll find on most of the best portable monitors in this segment. Instead, it features an OLED panel with a dense 2880 × 1800 (3K) resolution and a 120 Hz maximum refresh rate . On top of that, the GR14BU also supports touch input in Windows 11. On paper, it’s a promising product with a street price of under $300. That’s roughly three times the price of a garden-variety 14-inch IPS panels, but is it worth the premium? Design of the UPERFECT GR14BU At first glance, the GR14BU impresses with its black aluminum frame that wraps around the 14-inch panel. The sleek design is enhanced by the glossy glass, which is typical for OLED panels. Things take a downward turn from there, however. While the GR14BU features an integrated kickstand, which is much appreciated on a portable monitor, it’s tiny and is mounted directly in the middle of the back panel of the monitor. Because of this position, the GR14BU can only be used in landscape mode. Even if you could somehow prop the monitor up in portrait mode, this would be hindered by the two USB-C ports and HDMI p
-
 ## Phoronix
+
+### A RISC-V Based TEE With AMD Zen 6 CPUs
+Fri, 06 Nov 2026 14:30:49 -0500 — https://www.phoronix.com/news/AMD-Zen-6-TEE-RISC-V-Based
+
+An interesting technical detail I noticed today from the latest AMD Linux activity is that Zen 6 processors apparently are featuring a RISC-V based Trusted Execution Environment (TEE) where in the past it was an ARM-based core...
+
+### Linux 7.4-rc2 Change Yields As Much As 162x Improvement For FAT32
+Fri, 06 Nov 2026 11:21:38 -0500 — https://www.phoronix.com/news/Linux-7.4-rc2-FAT32
+
+In addition to a FAT32 optimization yielding as much as a 265x improvement that was merged for the Linux 7.4 cycle and separately another big FAT32 improvement expected for Linux 7.5, merged this week as part of the non-MM fixes for Linux 7.4-rc2 was another big FAT32 performance optimization...
+
+### Arch Linux vs. CachyOS vs. Omarchy 4.5 Performance Benchmarks
+Fri, 06 Nov 2026 09:55:52 -0500 — https://www.phoronix.com/review/cachyos-omarchy-benchmarks
+
+With CachyOS recently having rolled out its Linux 7.3 based kernel and various other improvements plus with Omarchy 4.5 having been released this week, this article provides a look at how CachyOS and Omarchy are competing on the performance front relative to upstream Arch Linux.
+
+### Linux x86 32-bit Patches Clean Old Kernel Code After Recently Removing Vintage CPUs
+Fri, 06 Nov 2026 09:11:31 -0500 — https://www.phoronix.com/news/Linux-2026-x86-32-bit-Cleanup
+
+With the Linux kernel having phased out i486 CPU support and dropping old AMD Elan SoC code along with removing other obsolete and stagnate 32-bit x86 hardware support, some x86 32-bit clean-ups are proceeding along with being able to make the kernel depend unconditionally now on some features...
+
+### FEX Awaits The Linux Kernel To Align With Windows & macOS On ARM Register Usage
+Fri, 06 Nov 2026 08:12:24 -0500 — https://www.phoronix.com/news/FEX-2611-Released
+
+FEX 2611 is out for running Linux (and Wine) x86/x86_64 games/applications on AArch64 Linux. FEX 2611 brings JIT improvements while also waiting for the Linux kernel to align with the AArch64 specification and Windows on ARM and macOS Apple Silicon behavior around a particular register's usage...
 
 ### Ubuntu Moving Ahead With Plans For Splitting Up Linux-Firmware, HWE Option
 Fri, 06 Nov 2026 06:19:09 -0500 — https://www.phoronix.com/news/Ubuntu-Going-With-Firmware-HWE
@@ -213,32 +238,47 @@ Thu, 05 Nov 2026 12:09:10 -0500 — https://www.phoronix.com/news/Linux-3x-Faste
 
 For those that use Linux's raid6check command for checking/repairing an MD RAID6 software RAID array's device for errors, newly-merged code is showing up to a 3x performance improvement...
 
-### Servo Browser Engine Continues Broadening Web Compatibility, New Features
-Thu, 05 Nov 2026 10:21:29 -0500 — https://www.phoronix.com/news/Servo-0.7-Changes
-
-The Servo open-source browser engine project is finally out with their status report highlighting the improvements made back in September. There is expanded web compatibility, new HTML and JavaScript features, WebGL2 improvements, and continued work on expanding the embed capabilities of this engine...
-
-### Zlib 1.4 Released With More Than One Dozen Security Fixes
-Thu, 05 Nov 2026 09:11:33 -0500 — https://www.phoronix.com/news/Zlib-1.4-Released
-
-Zlib 1.4 is now available for this widely-used compression library. In these AI times, Zlib 1.4 ships with more than a dozen security fixes...
-
-### Linux Kernel Patches Posted For Review In Enabling Apple AirDrop Support
-Thu, 05 Nov 2026 08:30:00 -0500 — https://www.phoronix.com/news/Linux-Kernel-Apple-AirDrop-Code
-
-A set of Linux kernel patches have been posted for review with a hope of reaching the mainline kernel to provide Apple AirDrop support for Macs equipped with the T2 chip...
-
-### Mir 2.31 Released With Expanded Wayland Protocol Support
-Thu, 05 Nov 2026 07:51:35 -0500 — https://www.phoronix.com/news/Mir-2.31-Released
-
-Mir 2.31 is now available as the latest feature release for this Canonical/Ubuntu solution for providing C++ libraries to build Wayland-based shells...
-
-### Linux x New Core MM Tree Ready With Numerous Fixes For "Nasty Long-Standing Bugs"
-Thu, 05 Nov 2026 06:05:02 -0500 — https://www.phoronix.com/news/Linux-7.4-Core-MM-Nasty-Fixes
-
-New to the Linux 7.4 kernel cycle is the Core MM tree as the route for herding some of the core memory management Linux kernel patches to the mainline kernel rather than it all going through Andrew Morton's "MM" tree. As the second pull request from this new kernel tree, a number of fixes were sent out today to address "nasty long-standing bugs" within the kernel...
-
 ## The Register
+
+### Mac lookalikes multiply as Linux raids Apple's wardrobe
+Fri, 06 Nov 2026 17:02:00 +0000 — https://www.theregister.com/os-platforms/2026/11/06/mac-lookalikes-multiply-as-linux-raids-apples-wardrobe/5308070
+
+Linux can do many things, but good looks aren't always its strong point. Apple has rather more of a reputation in that department, and a crop of new projects is bringing Mac-style polish to the open source desktop. Some are all-new, such as the Argentinian Lord OS , a whole new GUI desktop on top of Debian. Another, Cutefish , is a revival of a pre-ChatGPT project that never got as far as a complete release. Now it has version 1.0 for both x86-64 and Arm64, plus it's working on Mac binary compatibility via a work-in-progress layer called Reef . Ukrainian Desert OS is already at version 5.5 – practically a venerable elder in this company, despite appearing to be only about a year old. Meanwhile, ClokeOS uses Xfce for its desktop, but underneath, the OS is based on Apple's FOSS XNU kernel. The project lead plans to offer compatibility with multiple types of binaries: Linux apps, plus Mac apps via Darling , and Windows apps via Wine. This isn't new. Much as Cutefish has been revived, last year we reported on PearOS Linux , a very Mac-like skin on KDE Plasma. It has hooks in place for ambitious future features, such as Siri-style speech recognition. What's striking is the number of projects appearing and the pace of their development. Some offer both x86-64 and Arm64 builds, with Raspberry Pi editions in certain cases. For human coders, this would be months of hard work, but if it's just checking an additional box in an LLM development tool, then why wouldn't you? It's almost no 
+
+### Oak Ridge labs gets hybrid quantum-HPC system to test qubit error correction
+Fri, 06 Nov 2026 17:00:00 +0000 — https://www.theregister.com/hpc/2026/11/06/oak-ridge-labs-gets-hybrid-quantum-hpc-system-to-test-qubit-error-correction/5308187
+
+Oak Ridge National Laboratory (ORNL) now boasts a system for research into quantum error correction, combining IBM quantum processors with a high-performance compute (HPC) system based on AMD silicon. The Quantum Science Center ( QSC ) at ORNL, funded by the US Department of Energy (DoE), unveiled what it calls a co-design platform for quantum error correction, marrying up quantum and HPC technology. While useful, fault-tolerant quantum systems always seem to be at least a decade away, there have been notable advances over the past several years in the field of quantum error correction, according to ORNL. These include early demonstrations of protecting quantum information from environmental noise, which can cause loss of the fragile quantum states needed for computations. "Solving the challenges of quantum error correction is essential to making quantum computing a practical tool for scientific discovery, which is a priority for Oak Ridge National Laboratory," said QSC director Travis Humble. IBM Fellow and director of IBM Research Jay Gambetta said that it was no longer a question of whether error correction works, but how to accelerate and optimize error correction to build systems that scientists can use to tackle challenging problems. "This new co-design platform for quantum error correction allows us to evaluate different approaches and determine the architectures, software and workflows that will scale," he stated. ORNL's new tool combines an IBM Quantum System Two, eq
+
+### RIP to the world’s ugliest car
+Fri, 06 Nov 2026 16:31:44 +0000 — https://www.theregister.com/offbeat/2026/11/06/rip-to-the-worlds-ugliest-car/5308198
+
+Elon Musk has hit the brakes on the Cybertruck, announcing on X that Tesla will wind down production at its Texas factory around mid-2027. Despite years of delays , the stainless-steel turd Musk claimed was a futuristic, apocalypse-proof tank straight out of Blade Runner is headed for a production wind-down after roughly four years, putting the Cybertruck alongside such automotive flops as the Edsel and the DeLorean. We can’t even put the Cybertruck on the same tier as the Ford Pinto, as that deathtrap was produced for a decade. The first Cybertruck lumbered off Tesla’s production line in mid-2023 before going on sale later that year , and it was practically right out of the gate that the problems began. Within months of the first deliveries, recall notices began piling up on the monstrosity. Trim pieces were flying off, internal components were failing, cameras were malfunctioning – all in all, the thing has faced 11 recalls since hitting the road in late 2023, most recently in April 2026, when a defect in brake rotors was found to potentially cause cracks that could allow wheel studs to separate from their hubs. Musk had pinned a lot of Tesla's hopes on the Cybertruck a few years ago, describing it during the company's Q3 2023 earnings call as "a great product" that would eventually generate "significant positive cash flow" for Tesla. Musk said on that same earnings call that Tesla intended to ramp Cybertruck production up to 250,000 vehicles per year by 2025 to meet the ov
+
+### DoJ's 'Super Intelligence Task Force' up and running
+Fri, 06 Nov 2026 15:15:00 +0000 — https://www.theregister.com/ai-and-ml/2026/11/06/dojs-super-intelligence-task-force-up-and-running/5308074
+
+The US Department of Justice (DoJ) says its Super Intelligence Task Force (SINTF) is now up and running, after president Donald Trump ordered the move in a memo last month. Headed up by director of national intelligence Jay Clayton, as well as associate attorney general Stanley Woodward and associate deputy attorney general Stephen Weiss, SINTF's responsibility is to protect the US's lead in artificial intelligence development. Thursday's announcement, which was littered with the " super intelligence " Trumpism, said the task force will ensure the US's SI/AI leadership remains uncompromised by foreign AI "abuse," including by state and state-backed groups, criminal enterprises, individuals, or corporate entities. Per Trump's October 13 memo [PDF], SITF will take "affirmative measures, as appropriate," to ensure the US stays ahead in AI development. It did not elaborate on what this nebulous phrase meant, but it can be reasonably assumed this means a breadth of proactive steps. The memo also stated that the task force will organize the DoJ's criminal and civil lawsuits involving AI, recommend enforcement priorities concerning public safety and AI misuse, develop prosecution guidance for unlawful AI conduct, and feed into legislative proposals to prevent "burdensome regulation." Addressing a Wall Street Journal tech conference this week, Pentagon CTO and SITF vice chair Emil Michael said the team would release details about its AI regulatory landscape later this month. The task
+
+### Crowd fave Linux Mint update approaches, fresh from autumn release of Cinnamon desktop
+Fri, 06 Nov 2026 14:29:00 +0000 — https://www.theregister.com/os-platforms/2026/11/06/crowd-fave-linux-mint-update-approaches-fresh-from-autumn-release-of-cinnamon-desktop/5307951
+
+Linux Mint 27 is expected next month, and it's starting to take shape. Its flagship desktop, Cinnamon 2.8, is already available. The team behind the popular, beginner-friendly Linux just released Cinnamon 2.8 , which will be the default desktop in Mint 27. Since 2014, Linux Mint versions have been based on the LTS releases of Ubuntu. Since a new LTS, Ubuntu 26.04 "Resolute Raccoon" arrived in late April , that means that a corresponding version of Mint is in development. The Mint project blog post last month revealed the codename: "Adrien." This is the first male codename since Mint 1.0 "Ada" in 2006, based on the first ever Ubuntu LTS release, 6.06 "Dapper Drake", but the project has run through the whole alphabet since then (except for the letter “Y”.) That blog also revealed it will have a new alarm clock app, but the subsequent Mint Blog post imparted more information. The Nemo file manager will gain a preview pane, there will be a new and much more capable system resource-monitor program called "Superlight", a new simple manager for compressed archive files (Zip and so on) called "Unfold," and a new, theme-able terminal emulator called "Velocitty." Mint also has a new Community Website , which uses GitHub to manage logins and eliminates the old website's dependency on PHP. Probably the most significant new feature, though, is that Mint 27 will restore system hibernation. Ubuntu supported hibernation in its early releases, but it has been disabled as standard since 12.04 
+
+### Blue Origin unveils more thrust, less haste as New Glenn slips to 2027
+Fri, 06 Nov 2026 14:01:00 +0000 — https://www.theregister.com/offbeat/2026/11/06/blue-origin-unveils-more-thrust-less-haste-as-new-glenn-slips-to-2027/5308138
+
+New Glenn's return to flight has slipped to January 2027, according to the internal memo, viewed by The Register, from Blue Origin CEO Dave Limp, overshadowing the company's announcements of a new third stage and booster engine. Blue Origin has been rebuilding after its New Glenn rocket exploded during a ground test in May , extensively damaging the launchpad. A month later, the company's CEO, Dave Limp, said that Blue Origin "still plan[s] to fly again this year," which raised a few eyebrows in the space and rocket community. The detonation had pretty much destroyed the facility, and getting back into the launch business so quickly seemed optimistic. That timetable has now slipped. In the memo, Limp praised the team's efforts but said: "We're proactively updating our anticipated launch date to January 2027." A small slip given the damage, but one that leaves less breathing room before NASA's planned Artemis III demonstration mission, involving lunar technologies from Blue Origin and SpaceX, next year. The delay emerged as the Bezos-backed company unveiled GS3, a third stage for New Glenn , designed for missions including direct injection into geostationary orbit and Earth-escape trajectories. The company said: "GS3 is already under contract for a cislunar mission with a government customer scheduled to launch in 2028." Blue Origin says the stage is not required for its lunar lander architecture, although it could support sustained operations around the Moon. The company also
+
+### DigiCert admits 16-month security lapse exposed customer information
+Fri, 06 Nov 2026 13:15:00 +0000 — https://www.theregister.com/security/2026/11/06/digicert-admits-16-month-security-lapse-exposed-customer-information/5308097
+
+DigiCert has admitted that a botched server migration left an internal system exposed to the internet for more than a year, allowing an unauthorized user to access customer data, including passports, driver's licenses, and other identity documents. The certificate authority has begun notifying affected customers but has yet to disclose how many people had their information exposed. In an email seen by The Register , DigiCert confirmed the compromised information included names, business email addresses, phone numbers, and business addresses. Some records may also have contained passports, driver's licenses, utility bills, or other identification documents. "We are completing a review of identification documents to determine the specific individuals involved," DigiCert told those affected, adding that it would notify those people once the review was complete. DigiCert's incident report traces the blunder back to February 2025, when an internal business system was moved from a VPN-protected network to a different availability zone. That change also opened the system up to the public internet, where it sat for more than 16 months without DigiCert realizing. The archive used the same account management platform as DigiCert's customer-facing products, including a self-registration feature that was never supposed to be available on the internal system. This allowed outsiders to create accounts without multifactor authentication and, thanks to a separate permissions flaw, use them t
+
+### Home Office cloud services contract may net AWS £1B
+Fri, 06 Nov 2026 12:47:00 +0000 — https://www.theregister.com/public-sector/2026/11/06/home-office-cloud-services-contract-may-net-aws-1b/5308106
+
+Amazon Web Services (AWS) looks set to win more than a billion pounds of UK taxpayers' money under a new Home Office contract for public cloud hosting. A planning notice , published on October 30, covers the renewal of the department's public cloud services, to meet its current and future hosting needs. The estimated value is £881,621,007 ($1.18 billion), which passes £1 billion once VAT is included. AWS won the existing contract with the Home Office in 2023 for about £450 million (c $603 million). The Register has asked the Home Office why the figure has risen so much, and will update this article if it responds. Once awarded, the contract is expected to run from December 2027 to December 2029, with a possible extension to December 2031 (four years in total). A market engagement event for suppliers on the G-Cloud 15 Lot 1A procurement framework is scheduled for December 8, giving bidders the chance to pitch. The Home Office would not say who else is being considered, saying it does not comment on ongoing procurement. The notice lands as digital sovereignty becomes a bigger problem in the UK and across Europe, amid suspicion that US authorities have cut off access to American technology for political reasons . A survey found that about three-quarters of businesses in the UK, France, and Germany fear Washington could abruptly sever access to the US tech platforms they rely on. Earlier this year, the Open Rights Group warned politicians that the UK is far too dependent on US te
 
 ### Bank of England pours cold water on AI productivity boom
 Fri, 06 Nov 2026 11:43:00 +0000 — https://www.theregister.com/ai-and-ml/2026/11/06/bank-of-england-pours-cold-water-on-ai-productivity-boom/5308059
@@ -260,47 +300,57 @@ Fri, 06 Nov 2026 09:30:00 +0000 — https://www.theregister.com/public-sector/20
 
 Britain's ambitions for AI, advanced chips, and clean energy rest on mineral supply chains dominated by China, and MPs say they cannot establish whether ministers have a credible plan to reduce that dependence. The House of Commons Business, Innovation, Science and Trade Committee has set ministers ten tests for securing critical minerals. Its verdict is hardly glowing – it cannot be confident the government passes any of them. The tests cover whether ministers know which industries and technologies need protecting, what minerals they require, where supplies could be disrupted, and how domestic production, overseas partnerships, skills, and financing will close the gaps. In a report published today , the committee warns that diversifying supplies will take ten to 15 years, and will require sustained investment and cooperation with allies. Completely cutting China out is neither realistic nor desirable, it says. Leaving Beijing with so much leverage is another matter. Critical minerals underpin everything from batteries and semiconductors to datacenters and military equipment. The designation reflects their economic or security importance and vulnerability to supply disruption, rather than membership of an especially exclusive geological club. The UK – like pretty much all major industrialized economies including the US, the EU, Japan, and India – is almost entirely dependent on imports of these materials and mineral product s. But digging up more ore outside China would solve
 
-### Safari's Autofill feature may be distorting time
-Fri, 06 Nov 2026 07:31:00 +0000 — https://www.theregister.com/applications/2026/11/06/safaris-autofill-feature-may-be-distorting-time/5308006
-
-The autofill feature of Apple's Safari browser appears to be suffering from a date handling error that occasionally leads it to supply an incorrect credit card expiration date when filling out forms. The supposed issue has been a sore spot for Apple customers dating back at least to 2017, when the author of an Apple Community forum post complained about changes to the month field in the Autofill credit card expiration date when moving between time zones. "I've noticed for the last year or so, whenever I travel from Eastern time zone (my home) to Central time zone or even Pacific time zone that my credit card expiration date month changes in Safari Autofill," the Safari user wrote. Another post in 2021 raised similar concerns. "I don't know how to reproduce this," the author wrote. "Every few months Safari on any of my devices changes the expiration month of all of my stored credit cards by decreasing the month by 1, for example instead of 10/2029 it changes it to 09/2029." Three years later, another person posting to Apple's Community forum reported the same issue. "For a few years now every time I use Autofill on my computer my credit cards (ALL of them) always have their expiration dates change one month earlier," the 2024 post says. "I thought it was just a glitch on my computer but I bought a new computer and didn't transfer anything from my old one and it is still doing it." An unrelated Autofill bug report from 2024 suggests that if there is an issue, it resides in Appl
-
-### Hospital gave very sick doctor a special PC for his personal, erm, pleasure
-Fri, 06 Nov 2026 06:31:00 +0000 — https://www.theregister.com/security/2026/11/06/hospital-gave-very-sick-doctor-a-special-pc-for-his-personal-erm-pleasure/5307750
-
-Welcome to Friday and therefore to a fresh edition of On Call, The Register 's weekly tale of tech support trials and tribulations that readers kindly share. This week, meet a reader we'll Regomize as "Mason," who told us he once worked at a hospital doing tech support for its research labs. "One of the labs was for a doctor who was one of the world's top organ transplant researchers" Mason told On Call. The doctor was also a voracious consumer of – ahem – adult entertainment, a habit that saw his PC and other machines around the lab often come down with a nasty case of malware. Mason got to clean that up, sometimes multiple times in a single week. The doctor's foibles were widely known around the hospital, as was the fact that his activities violated several workplace policies. Mason pointed this out to his boss every time he cleaned up a fresh malware outbreak but such was the doctor's status that management never intervened. And then the hospital was hit by a nasty cyber-worm that did a lot of damage. During the cleanup, Mason's colleagues found logs that showed the doctor's PC was the source of the infection, and that he had been indulging in his online hobby at the time the worm arrived. Mason assumed this would be the moment at which the doctor would finally be held accountable and face disciplinary action. Instead the doctor made a bargain with the IT department to henceforth use only a designated PC when pursuing – ahem – personal and/or intimate matters. And he would
-
-### AI agents are a 'bane' for some website operators, says Cloudflare
-Fri, 06 Nov 2026 04:25:14 +0000 — https://www.theregister.com/networks/2026/11/06/ai-agents-are-a-bane-for-some-website-operators-says-cloudflare/5308022
-
-Nation-state actors and criminals likely exploited the PHP2SHELL vulnerability before its disclosure, according to Cloudflare CEO Matthew Prince. “These vulnerabilities, like the PHP vulnerabilities that were disclosed the other day, had been in the wild for years,” Prince said on the company’s third quarter earnings call. “We're going back through our logs looking for any evidence that hackers or nation-state actors or others had been using them in the past. I know that we're going to find examples of that.” That was just one of the warnings he offered on the call, among them that some of Cloudflare’s customers believe AI agents are “a bane to their business and want to keep them away.” To explain why, Prince hypothesized that he could use an agent to find him a restaurant to eat at after he finishes his day of investor relations duties. “It might go and scour the internet and look at 1,000 different restaurants' websites, pull down 1,000 different menus, and then I might choose to only go to one of those,” he said. “The problem is that 999 of those restaurants have now had a cost that is just been applied to them, but they are not getting any benefit.” The CEO admitted that web searches have always driven some low-value traffic but feels the volume of agentic activity – which Cloudflare has previously predicted will be one thousand times greater than clicks from humans – means the problem is now at a different scale. Prince also had bad news for Kubernetes aficionados, beca
-
-### Threat actor targets Indian fintechs on weekends when defenders aren’t watching
-Fri, 06 Nov 2026 01:17:40 +0000 — https://www.theregister.com/security/2026/11/06/threat-actor-targets-indian-fintechs-on-weekends-when-defenders-arent-watching/5308000
-
-India’s Computer Emergency Response Team has warned the nation’s financial services industry of a “significant escalation” in attacks by what it describes as an “AI-assisted financial threat actor” that has re-targeted victims after they flubbed remediation efforts. CERT-IN first detected the attacks in October and issued advisory in which it warned digital lending platforms, fintech entities, payment service providers, and wallet operators that attackers were targeting internet-facing applications, exposed APIs and privileged endpoints. If the attackers found a way in, they tried to use payment APIs to steal money. On Thursday, the CERT published an update in which it said it continues to hear of successful attacks, including from outfits that tried to remediate their systems after earlier incidents. “The same entities have been deliberately re-targeted, including after incomplete remediation and attacks have been timed to coincide with holidays, weekends and other low-monitoring windows to delay detection and response,” the CERT warned. CERT-IN has decided the attackers need a name and chose “CRAFTY FALCON.” The security org has also revealed that the crew uses AI-enhanced tools including the ARTEX pen-testing tool, the Cairn attack search engine, and the CyberStrikeAI framework – all of which have been linked to users who appear to speak Chinese . CRAFTY FALCON’s tactics see it go looking for internet-exposed environments used for testing or development, where it finds art
-
-### Feds warn grocers: Don't chill on cyber defenses as freezer hacking spree heats up
-Thu, 05 Nov 2026 22:37:06 +0000 — https://www.theregister.com/security/2026/11/05/feds-warn-grocers-dont-chill-on-cyber-defenses-as-freezer-hacking-spree-heats-up/5307978
-
-If you have any industrial smart freezers, look out. The US federal government is urging owners and operators to disconnect them from the internet, apply patches, change default passwords, and take other security measures to prevent the kind of attacks that have become prevalent in Europe. “We are seeing these systems targeted across critical infrastructure sectors globally, putting inventory and equipment at risk,” FBI Cyber Branch Operations Director Brett Leatherman said in a statement. Since mid-October, unknown miscreants have hacked thousands of remote-controlled refrigeration systems across hundreds of grocery stores in France, Belgium, Ireland, Luxembourg, and Sweden. The attacks increase the temperature inside fridges to highs of 50ºC (122°F), spoiling food, and sparking fires. The Register asked the FBI if it has documented any successful or attempted attacks against refrigeration and cold chain monitoring systems in America. We had not received a response to our questions at the time of publication, nor are we aware of any documented digital attacks against these systems in American supermarkets. But there are signs that stateside operators are aware of the issue. Dutch grocery giant Ahold Delhaize, which operates US supermarket chains Food Lion, Giant Food, and Stop & Shop, last month said it proactively took IT systems offline following a cyberattack that affected most of its US and European brands. Delhaize supermarkets in Europe are among those hit by the destr
-
-### AWS Kiro aims to solve identity crisis by adding another identity: bot orchestrator
-Thu, 05 Nov 2026 22:09:20 +0000 — https://www.theregister.com/ai-and-ml/2026/11/05/aws-kiro-aims-to-solve-identity-crisis-by-adding-another-identity-bot-orchestrator/5307965
-
-AWS Kiro, the cloud giant's AI-oriented integrated development environment, isn't the most popular code editor. That honor goes to Microsoft's Visual Studio Code, at least as measured by Stack Overflow's 2026 Developer Survey . Kiro might rank 27th among the listed IDEs, but then it's not really an IDE anymore. Having shrugged off reports that it played a role in outages last year, Kiro now styles itself "an agentic development environment" after a brief stint as " an agentic IDE ." It's also the inheritor of Amazon Q Developer coding assistant users, who have been directed to migrate to Kiro . It's also " an AI-powered development environment that helps you build software from prototype to production." It's "available as a desktop IDE, a command-line interface, a web app, a mobile app, and a personal AI agent (Crew)." Except that Kiro Crew is also "the persistent, open source development workspace." It's more agent infrastructure – an environment – that supports Kiro Web , IDE , and CLI . To help get Kiro through its identity crisis and perhaps make it more beloved, AWS is expanding Kiro's remit still further. The cloud giant is launching Kiro Crew bots, recalling similar efforts like OpenAI dots and Grok Bot , as well as Claude Duet and Meta Muse. Bots in Kiro Crew are software agents that attempt to carry out long-running tasks. "A bot is a new way to structure and drive agentic work," a Kiro blog post explains. "Instead of working in isolated sessions, each bot is a named
-
-### The White House is apparently a popular residential proxy exit spot
-Thu, 05 Nov 2026 20:50:57 +0000 — https://www.theregister.com/security/2026/11/05/the-white-house-is-apparently-a-popular-residential-proxy-exit-spot/5307969
-
-Whether through malware or other means, devices associated with the White House network appear to be serving as residential proxy exit nodes, potentially posing security risks to one of the world's most sensitive networks. News of the security snafu comes from security firm Layer3 Intel, which reported this week that it discovered the likely illicit activity thanks to its recently launched Residential Proxy Observatory . According to Layer3 founder Sergiy Usatyuk, the White House residential proxy activity might have gone unnoticed if not for the new tool. “The observatory is just a public interface to explore the data we've been collecting for the past year,” Usatyuk told The Register in an email. For those unfamiliar with residential proxies, they're like any old proxy network that obfuscates the location of a user, except in this case their exit nodes use IP addresses associated with residential internet connections, as opposed to datacenters. While many are legitimate, others are exploited by threat actors and used in the commission of cybercrimes, as the FBI warned earlier this year. The FBI bulletin, put out in March, warns users to protect their systems against hijacking via malware, illicit SDK partnerships, VPNs with hidden service terms that repurpose user computers as exit nodes, and other threats used to turn victims into nodes without their consent. Residential proxies are commonly used by threat actors to conceal command-and-control (C2) infrastructure, conduct 
-
-### Get root on a musl Linux system by slamming it with an overly long password
-Thu, 05 Nov 2026 18:29:00 +0000 — https://www.theregister.com/security/2026/11/05/get-root-on-a-musl-linux-system-by-slamming-it-with-an-overly-long-password/5307910
-
-On certain Linux systems, an attacker could gain root access by entering a password longer than 256 bytes. The vulnerability, dubbed *sshole by Wakefield researcher Özgün Kültekin, who discovered it, can only be exploited in very specific conditions. The flaw affects certain Linux systems using musl libc instead of the traditional GNU C library, and even then only those running OpenSSH's secure shell daemon without Pluggable Authentication Modules (PAM) and with password authentication enabled. If those conditions are met, and at least one other account has a valid password hash, accounts that shouldn't accept passwords, such as root, key-only deployment users, and LDAP users, may be accessed by supplying a password between 257 and 1,024 characters. The targeted accounts must have an asterisk (*) in their password field, and direct root login remains subject to OpenSSH's configuration. That might seem niche, but sorry: It’s not. Musl libc is common in embedded Linux systems due to its low footprint. More critically than that, it's also the standard C library for Alpine Linux, which provides official cloud images for both AWS and Azure. Some Alpine systems running in those environments may therefore be vulnerable, depending on their configuration. Dawn of the *sshole The vulnerability in OpenSSH on musl-based Linux systems dates back to 2016, but Kültekin explains that its roots go back much further – to the BSD Unix era, actually. In 1980, Sun Microsystems cofounder and BSD U
-
 ## Engadget
+
+### Google's eyewear partners can't keep a lid on its smart glasses plans
+Fri, 06 Nov 2026 19:45:23 +0000 — https://www.engadget.com/2309631/googles-eyewear-partners-cant-keep-a-lid-on-its-smart-glasses-plans/
+
+Gentle Monster shared that its "Intelligent Eyewear" will be available to pre-order on November 12.
+
+### Fox wraps up its $22 billion Roku deal
+Fri, 06 Nov 2026 17:20:32 +0000 — https://www.engadget.com/2309307/fox-wraps-up-its-dollar22-billion-roku-deal/
+
+No Hannity on your home screen, at least for now.
+
+### The EU accuses TikTok's 'rabbit hole' algorithm of breaching its content rules
+Fri, 06 Nov 2026 17:17:14 +0000 — https://www.engadget.com/2309300/the-eu-accuses-tiktoks-rabbit-hole-algorithm-of-breaching-its-content-rules/
+
+The bloc said the platform needs to change how the For You page works to help protect users' mental health.
+
+### You'll soon be able to text Alexa to shop on Amazon
+Fri, 06 Nov 2026 17:11:10 +0000 — https://www.engadget.com/2309285/youll-soon-be-able-to-text-alexa-to-shop-on-amazon/
+
+The latest Alexa for shopping feature is initially available by invite in the US.
+
+### DOJ just launched something called the Super Intelligence Task Force
+Fri, 06 Nov 2026 16:56:52 +0000 — https://www.engadget.com/2309257/doj-just-launched-something-called-the-super-intelligence-task-force/
+
+The unit is tasked with ensuring that the technology is not "manipulated by bad actors at home or abroad."
+
+### Eufy's clever outdoor security camera that lives inside is now available to buy
+Fri, 06 Nov 2026 16:16:20 +0000 — https://www.engadget.com/2309176/eufys-clever-outdoor-security-camera-that-lives-inside-is-now-available-to-buy/
+
+The $80 Window Camera E10 sticks to your window, pointed outwards.
+
+### A Stranger Things prequel series is coming to Netflix in 2028
+Fri, 06 Nov 2026 15:09:52 +0000 — https://www.engadget.com/2309062/a-stranger-things-prequel-series-is-coming-to-netflix-in-2028/
+
+Other Worlds: A Stranger Things Adventure takes place in Nevada in the 1950s.
+
+### Anker Soundcore Space 2 Pro review: Big bang for less bucks
+Fri, 06 Nov 2026 15:00:00 +0000 — https://www.engadget.com/2309011/anker-soundcore-space-2-pro-review/
+
+The Space 2 Pro is a set of slightly above average headphones with exceptional voice clarity.
+
+### Google's Find Hub can finally notify you if you've left a tracker behind
+Fri, 06 Nov 2026 13:05:16 +0000 — https://www.engadget.com/2308903/googles-find-hub-can-finally-notify-you-if-youve-left-a-tracker-behind/
+
+Google has rolled out 'Notify when left behind' separation alerts for your tracking devices.
+
+### Samsung Galaxy Watch Ultra 2 review: The new standard for smartwatch battery life
+Fri, 06 Nov 2026 13:00:00 +0000 — https://www.engadget.com/2306413/samsung-galaxy-watch-ultra-2-review-2026/
+
+With its bright display and battery life, the Galaxy Watch Ultra 2 hits the sweet spot for smartwatch hardware.
 
 ### Tesla is 'winding down' Cybertruck production at its Texas Gigafactory
 Fri, 06 Nov 2026 11:40:53 +0000 — https://www.engadget.com/2308875/tesla-is-winding-down-cybertruck-production-at-its-texas-gigafactory/
@@ -312,57 +362,52 @@ Fri, 06 Nov 2026 11:18:59 +0000 — https://www.engadget.com/2308870/perplexity-
 
 Perplexity launches personal AI agents that can act as your 'teammates.'
 
-### The New York Times Company is reportedly trying to buy Letterboxd for $330 million
-Fri, 06 Nov 2026 10:17:23 +0000 — https://www.engadget.com/2308852/the-new-york-times-company-reportedly-trying-to-buy-letterboxd/
-
-The New York Times Company declined to comment on The New York Times' story.
-
-### Airbnb is threatening to launch an AI travel agent next year
-Fri, 06 Nov 2026 07:51:42 +0000 — https://www.engadget.com/2308832/airbnb-ai-travel-agent-2027-launch/
-
-Airbnb is developing an AI travel agent that it says will eventually be able to help plan your whole trip.
-
-### Blue Origin's New Glenn launch delay will continue into 2027
-Thu, 05 Nov 2026 22:10:09 +0000 — https://www.engadget.com/2308647/blue-origin-new-glenn-launch-delay-will-continue-into-2027/
-
-Repairs have been slow after an explosion earlier this year.
-
-### Bose recalls S1 Pro battery packs due to fire and overheating risks
-Thu, 05 Nov 2026 21:39:22 +0000 — https://www.engadget.com/2308609/bose-recalls-s1-pro-battery-packs-due-to-fire-and-overheating-risks/
-
-Over 670,000 units are being recalled in the US and Canada.
-
-### Google is ditching Firebase Studio soon, and it wants you to use its newer AI tools instead
-Thu, 05 Nov 2026 21:01:28 +0000 — https://www.engadget.com/2308541/google-is-ditching-firebase-studio-soon-and-it-wants-you-to-use-its-newer-ai-tools-instead/
-
-The company is going all-in on Antigravity and Google AI Studio and hopes developers will do the same.
-
-### A BioWare documentary is set to arrive next year
-Thu, 05 Nov 2026 20:33:13 +0000 — https://www.engadget.com/2308483/a-bioware-documentary-is-set-to-arrive-next-year/
-
-Massive Effect: The BioWare Story started filming two years before EA shut down the studio.
-
-### TikTok just released a standalone Shop app, but it's not in America just yet
-Thu, 05 Nov 2026 19:58:23 +0000 — https://www.engadget.com/2308419/tiktok-just-released-a-standalone-shop-app-but-its-not-in-america-just-yet/
-
-It offers exclusive deals and other goodies.
-
-### The Xbox PC app is getting a speed boost
-Thu, 05 Nov 2026 19:52:39 +0000 — https://www.engadget.com/2308407/the-xbox-pc-app-is-getting-a-speed-boost/
-
-The updated app, rolling out to Xbox Insiders first, launches up to 60 percent faster.
-
-### Warby Parker seemingly spilled the beans on Google's Android XR smart glasses launch
-Thu, 05 Nov 2026 19:39:01 +0000 — https://www.engadget.com/2308376/warby-parker-seemingly-spilled-the-beans-on-googles-android-xr-smart-glasses-launch/
-
-Intelligent Eyewear is apparently only a week away.
-
-### The FAA is finally phasing out floppy disks from air traffic control
-Thu, 05 Nov 2026 19:16:43 +0000 — https://www.engadget.com/2308330/the-faa-is-finally-phasing-out-floppy-disks-from-air-traffic-control/
-
-Seems about time for an upgrade.
-
 ## TechCrunch
+
+### Hundreds of Artex AI hacking tools found publicly exposed to the web
+Fri, 06 Nov 2026 18:44:38 +0000 — https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/
+
+Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.
+
+### Meta introduces Spaces, a new way to collaborate with your Muse agent
+Fri, 06 Nov 2026 18:44:20 +0000 — https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/
+
+Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.
+
+### After the midterms, is the AI industry in for a rough two years?
+Fri, 06 Nov 2026 17:23:52 +0000 — https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/
+
+Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot directly, they were a [ ]
+
+### Pentagon offers battery startup 6K $250M loan to build US factory
+Fri, 06 Nov 2026 16:50:01 +0000 — https://techcrunch.com/2026/11/06/pentagon-offers-battery-startup-6k-250m-loan-to-build-u-s-factory/
+
+The Pentagon has conditionally approved a $250 million loan to help 6K scale up its microwave-plasma battery material manufacturing process.
+
+### Fox completes its $22B acquisition of Roku
+Fri, 06 Nov 2026 16:05:36 +0000 — https://techcrunch.com/2026/11/06/fox-completes-its-22b-acquisition-of-roku/
+
+A few months after DOJ investigators were probing the deal, Fox just completed its $22B acquisition of the streaming giant Roku.
+
+### Ramp data shows AI spending stalling just as Anthropic nears its IPO
+Fri, 06 Nov 2026 15:54:47 +0000 — https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/
+
+AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.
+
+### After blocking Muse, Amazon now lets users text Alexa to help them shop
+Fri, 06 Nov 2026 14:10:00 +0000 — https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/
+
+Amazon said that the feature will roll out to millions of users in coming weeks.
+
+### Underdog shows off a 32MB speech model in new demo
+Fri, 06 Nov 2026 13:02:16 +0000 — https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/
+
+Despite its small size, Underdog's new model can generate both speech and music.
+
+### Physicl raises $10M to make the digital world real enough for robots
+Fri, 06 Nov 2026 13:00:00 +0000 — https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/
+
+Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.
 
 ### Tesla will stop making the Cybertruck in 2027
 Fri, 06 Nov 2026 11:50:10 +0000 — https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/
@@ -378,49 +423,4 @@ The concerns range from privacy to how data is shared (and with whom) to procure
 Fri, 06 Nov 2026 06:28:32 +0000 — https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/
 
 Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.
-
-### The New York Times reportedly in talks to buy Letterboxd for $330 million
-Fri, 06 Nov 2026 00:07:18 +0000 — https://techcrunch.com/2026/11/05/the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-330-million/
-
-Letterboxd, an online platform for movie lovers, has grown dramatically in recent years.
-
-### Meta, Google, and TikTok sue California AG over teen social media law
-Fri, 06 Nov 2026 00:01:38 +0000 — https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/
-
-If it goes into effect next year, this California law would restrict social media access for children under 16.
-
-### Airbnb says it s launching an AI travel agent in the first half of 2027
-Thu, 05 Nov 2026 22:40:55 +0000 — https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/
-
-Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.
-
-### Serve Robotics launches new business to become the AWS for robots
-Thu, 05 Nov 2026 21:15:00 +0000 — https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/
-
-Serve Robotics announced alonsgside its third-quarter earnings that it will launch a new business line called Physical AI Services to offer customers its connectivity and data tools.
-
-### Meta says US users can now video chat with their Muse AI avatar
-Thu, 05 Nov 2026 19:48:28 +0000 — https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/
-
-Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.
-
-### Meta warns that election backlash against data centers could make AI expansion harder
-Thu, 05 Nov 2026 19:12:39 +0000 — https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/
-
-Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.
-
-### OpenAI released a new cybersecurity model. Is that enough?
-Thu, 05 Nov 2026 19:06:12 +0000 — https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/
-
-OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.
-
-### US government warns of ongoing cyber threat amid mass hacks of industrial retail and military freezers
-Thu, 05 Nov 2026 18:48:34 +0000 — https://techcrunch.com/2026/11/05/u-s-government-warns-of-ongoing-cyber-threat-amid-mass-hacks-of-industrial-retail-and-military-freezers/
-
-A joint U.S. government statement says the hacks are affecting the food, transportation, and healthcare industries after reports of global mass hacks.
-
-### OpenAI president Greg Brockman says company could be IPO ready in 2027
-Thu, 05 Nov 2026 18:02:27 +0000 — https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/
-
-Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads.
 

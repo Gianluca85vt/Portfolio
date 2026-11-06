@@ -1,6 +1,36 @@
-# Games — harvested 2026-11-06T12:28:02.086Z
+# Games — harvested 2026-11-06T20:05:04.732Z
 
 ## Eurogamer
+
+### Updated Xbox PC app promises 60% faster loading and easier access to games, but CEO Asha Sharma says there's "plenty more to do"
+Fri, 06 Nov 2026 19:58:20 +0000 — https://www.eurogamer.net/updated-xbox-pc-app-faster-asha-sharma
+
+The Xbox PC app hasn't had the best track record in recent years, but Microsoft is promising that it's now much faster and easier to use than before. Read more
+
+### Mass Effect-like RPG The Expanse: Osiris Reborn ropes in David Gaider, the original lead writer of Bioware's Dragon Age series
+Fri, 06 Nov 2026 18:40:40 +0000 — https://www.eurogamer.net/mass-effect-expanse-rpg-david-gaider
+
+The Expanse: Osiris Reborn looks like it's carrying the best bits of Mass Effect forward, and in an encouraging move, the developers have been collaborating with David Gaider. Read more
+
+### Bringing Bloodborne back is tricky because "there's a lot of involved rights associated," according to former PlayStation boss
+Fri, 06 Nov 2026 17:49:40 +0000 — https://www.eurogamer.net/bloodborne-involved-rights-former-playstation-boss
+
+Every year, Bloodborne fans pray for the birth of another game set in FromSoftware's Lovecraftian world. Every year, we're no closer to a Bloodborne 2 or even a Bloodborne Remastered. But why? PlayStation's former head honcho, Shawn Layden, blames it on the tricky situation of rights ownership. Read more
+
+### World of Warcraft: Forever hotfix puts a stop to super speedy flag carriers that were dominating PvP battlegrounds
+Fri, 06 Nov 2026 14:38:20 +0000 — https://www.eurogamer.net/world-of-warcraft-forever-hotfix-flag-carrier-plainsrunning
+
+World of Warcraft: Forever has received its first major hotfix patch, which among other things has put an end to an especially powerful bug that made PvP battlegrounds like Warsong Gulch favoured to the Horde's advantage. Read more
+
+### In Charting the Unknown, Crimson Desert doubles down on its maximalism in audacious, faintly sinister style
+Fri, 06 Nov 2026 12:32:20 +0000 — https://www.eurogamer.net/crimson-desert-charting-the-unknown-now-playing
+
+And so we are back in Pywel: the super-sized and often super-pretty realm where the deserts are blood-red, the grass is a lurid shade of green, and Kliff and his merry gang of Greymanes seem to be pissed all the time. Yet what's this? Peace seems to have broken out across the region, which means our grizzled action hero is in a reflective mood. Read more
+
+### Square Enix accidentally botches a Nier: Automata update, balloons required file size from 50GB to 366GB on PC
+Fri, 06 Nov 2026 12:28:10 +0000 — https://www.eurogamer.net/square-enix-nier-automata-update-required-file-size-366gb
+
+Yesterday, Nier: Automata received a new patch on Steam, adding more language support to the title - it can now be played with Korean, Simplified Chinese, and Traditional Chinese options - but this new update also, somehow, inflated the file size of the game on PC from about 50GB to 366GB. D'oh! What's worse is, the update is not optional. Read more
 
 ### Following BioWare's shock closure, a new documentary capturing its final moments is coming next year
 Fri, 06 Nov 2026 12:24:20 +0000 — https://www.eurogamer.net/bioware-closure-documentary-release
@@ -32,37 +62,22 @@ Thu, 05 Nov 2026 16:18:40 +0000 — https://www.eurogamer.net/grand-theft-auto-6
 
 Rockstar Games have released 38 new screenshots of Grand Theft Auto 6 , ahead of its release later this month. Read more
 
-### Nintendo says it isn't planning any more Switch 2 price hikes
-Thu, 05 Nov 2026 14:59:30 +0000 — https://www.eurogamer.net/nintendo-switch-2-no-plans-for-more-price-hikes
-
-Nintendo, which unveiled the results of the first half of its fiscal year 2027 earlier today , has now said it has access to enough quantities of memory to manufacture more Switch 2 consoles. Read more
-
-### World of Warcraft: Forever's seemingly stellar launch continues as it soars to the top of Twitch's most viewed games, beating out the likes of League of Legends and Zelda
-Thu, 05 Nov 2026 14:57:50 +0000 — https://www.eurogamer.net/world-of-warcraft-forever-launch-twitch-most-viewed
-
-World of Warcraft: Forever launched last night after a hugely successful beta, and it's not just players getting in on the fun. Blizzard's MMO is also proving quite the attraction for spectators, soaring all the way up to the top of Twitch 's most viewed games. Read more
-
-### Before Dark Souls there was King's Field, and five hours into brilliant homage Queen's Domain, it's already one of my favourite games this year
-Thu, 05 Nov 2026 13:24:20 +0000 — https://www.eurogamer.net/queens-domain-now-playing
-
-The clue, of course, is right there in the title. Developer Freshly Baked Games' Queen's Domain isn't just a retro-fantasy action RPG played in first-person; it's an explicit homage to King's Field, the long-dormant FromSoftware series that - as the precursor to Demon's Souls, Dark Souls, Bloodborne, Sekiro, Elden Ring , and all those other Soulslikes - helped shape the modern gaming landscape in its own small way. That, though, is pretty much where my knowledge of the series begins and ends - as much as I love FromSoftware, I've never actually played a King's Field game. I've no idea how Queen's Domain shapes up as Kings Field-like, then, but I do know that, five or so hours in, it's already one of my favourite games this year. Read more
-
-### Mass Effect petition has enough signatures for the Canadian Government to potentially save BioWare
-Thu, 05 Nov 2026 12:48:40 +0000 — https://www.eurogamer.net/bioware-canada-house-of-commons-petition-save-mass-effect
-
-Following news of EA's decision to shut down iconic RPG studio BioWare , Canadian fans of the studio have escalated their grievances to the governmental level, calling on the Canadian Government to step in and save the Canadian studio from closure, seemingly after Canada's New Democratic Party leader Avi Lewis called on the government to do so . Read more
-
-### Nintendo game sales surge thanks to Tomodachi Life: Living the Dream, but Switch 2 hardware suffers big decline
-Thu, 05 Nov 2026 11:56:40 +0000 — https://www.eurogamer.net/nintendo-switch-2-hardware-decline-software-boom
-
-Nintendo's latest financial earnings report is here, revealing healthy software sales thanks to the enormously popular Tomodachi Life : Living the Dream. Sales of Switch 2 hardware, however, are down. Read more
-
-### PlayStation sees record high player numbers and increased revenue for Q2 2026, and a lot of that success is down to Marvel's Wolverine
-Thu, 05 Nov 2026 10:24:40 +0000 — https://www.eurogamer.net/sony-playstation-fy-2026-wolverine-sales
-
-As part of today's (Thursday 5th November, 2026) financial results, Sony has confirmed that monthly active users, referred to as MAU, across both PlayStation 4 and 5, reached 127 million in September. This represents a seven percent growth year-on-year for the company, and sets a new record high. Read more
-
 ## GamesIndustry.biz
+
+### Elections signal cultural shifts that no creative industry can dare to ignore | Opinion
+Fri, 06 Nov 2026 16:10:00 +0000 — https://www.gamesindustry.biz/elections-signal-cultural-shifts-that-no-creative-industry-can-dare-to-ignore-opinion
+
+There is a perfectly logical way in which you can look at an election result &ndash; even a truly seismic election result &ndash; and say that it is largely irrelevant to the business decision-making of the games industry. Elections do not change your customer demographics; all of Washington or Westminster or Nagatach&omacr; may change overnight, but the people who bought your games yesterday are still the people who will buy them tomorrow, aren't they? Read more
+
+### SAG-AFTRA launches new video game agreement enabling devs to hire professional actors for demos and vertical slices
+Fri, 06 Nov 2026 14:50:40 +0000 — https://www.gamesindustry.biz/sag-aftra-launches-new-video-game-agreement-enabling-devs-to-hire-professional-actors-for-demos-and-vertical-slices
+
+SAG-AFTRA has introduced a video game agreement for pre-funding pitches, allowing creators to use professional actors earlier in development. Read more
+
+### Jobs roundup: November | Nordisk Games appoints Stefanía Halldórsdóttir as CEO and Ásgeir Kröyer as CFO
+Fri, 06 Nov 2026 13:53:10 +0000 — https://www.gamesindustry.biz/jobs-roundup-november-nordisk-games-appoints-stefania-halldorsdottir-as-ceo-and-asgeir-kroyer-as-cfo
+
+It can be difficult keeping track of the various comings and goings in the games industry, which is why we compile them in semi-regular round-ups. Read more
 
 ### Sega Q2 results exceed expectations, driven by surge in operating income for pachislot and pachinko machines
 Fri, 06 Nov 2026 11:30:10 +0000 — https://www.gamesindustry.biz/sega-q2-results-exceed-expectations-driven-by-surge-in-operating-income-for-pachislot-and-pachinko-machines
@@ -109,26 +124,46 @@ Thu, 05 Nov 2026 11:55:30 +0000 — https://www.gamesindustry.biz/playstation-ra
 
 Sony has raised its full-year forecast for its games segment after higher net sales and operating income in the second quarter. Read more
 
-### Nintendo H1 operating profit rises 49.1% supported by new titles including Splatoon Raiders
-Thu, 05 Nov 2026 09:57:30 +0000 — https://www.gamesindustry.biz/nintendo-h1-operating-profit-rises-491-supported-by-new-titles-including-splatoon-raiders
-
-Nintendo reported a 12.1% decrease in net sales for the six months ended September 30, 2026, primarily due to reduced hardware sales. Read more
-
-### Tripwire Presents expands publishing business to support smaller indie developers
-Wed, 04 Nov 2026 20:48:50 +0000 — https://www.gamesindustry.biz/tripwire-presents-expands-publishing-business-to-support-smaller-indie-developers
-
-Tripwire Interactive's publishing division, Tripwire Presents, is expanding to offer publishing support to smaller independent developers. Read more
-
-### Arkane union accuses Microsoft of "sabotaging" Marvel's Blade with 19-month hiring freeze
-Wed, 04 Nov 2026 20:17:10 +0000 — https://www.gamesindustry.biz/arkane-union-accuses-microsoft-of-sabotaging-marvels-blade-with-19-month-hiring-freeze
-
-A French union representing workers at Arkane Lyon has accused Microsoft of sabotaging development of Marvel's Blade, claiming a 19-month hiring freeze caused the delays now being used to justify the studio's closure. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Game of the Month: Phantom Blade Zero (October 2026)
+Fri, 06 Nov 2026 18:00:00 GMT — https://www.pushsquare.com/features/game-of-the-month-phantom-blade-zero-october-2026
+
+As voted by you. Ah, October, otherwise known as the month before GTA 6 . Indeed, it was an incredibly busy 31 days for new PS5 releases, following on from an equally manic September — and that's going to make this latest Game of the Month poll all the more intriguing. Read the full article on pushsquare.com
+
+### Following BioWare Closure, a Documentary About the Legendary Studio Has Been Announced
+Fri, 06 Nov 2026 15:30:00 GMT — https://www.pushsquare.com/news/2026/11/following-bioware-closure-a-documentary-about-the-legendary-studio-has-been-announced
+
+Massive Effect coming next year. In case you missed the news, publisher Electronic Arts recently pulled the plug on one of its most revered studios, BioWare, as part of a wider round of layoffs . The developer, known for its many beloved contributions to the RPG genre, is sadly no more, and the game it was working on, a new Mass Effect, was also cancelled. Read the full article on pushsquare.com
+
+### Synth Riders Dropping 80s MixTape: Vice Wave DLC to Immerse You in Some Neon Dreams
+Fri, 06 Nov 2026 15:00:00 GMT — https://www.pushsquare.com/news/2026/11/synth-riders-dropping-80s-mixtape-vice-wave-dlc-to-immerse-you-in-some-neon-dreams
+
+What A Tracklist! Barely a couple of weeks after PSVR2 darling Synth Riders dropped a new free song , we've got yet more content on the way. Those not satisfied with the previous ' 80s Mixtape ' drops, we've got an additional third set of tunes to liven up your day. Read the full article on pushsquare.com
+
+### Here s What The Expanse: Osiris Reborn s Recast Main Character Looks and Sounds Like
+Fri, 06 Nov 2026 14:30:00 GMT — https://www.pushsquare.com/news/2026/11/heres-what-the-expanse-osiris-reborns-recast-main-character-looks-and-sounds-like
+
+New face and voice revealed. Developer and publisher Owlcat Games has revealed the new face and voice of the male protagonist in The Expanse: Osiris Reborn . Following negative feedback from fans, the company announced it would be recasting the role and making updates to the character's appearance. Read the full article on pushsquare.com
+
+### Guide: GTA 6 Release Times and Preload: When Can You Start Playing?
+Fri, 06 Nov 2026 14:15:00 GMT — https://www.pushsquare.com/guides/gta-6-release-times-and-preload-when-can-you-start-playing
+
+All the GTA 6 release info you need. Probably the most anticipated game of all time, GTA 6 is now less than two weeks away. As the launch draws closer, we're covering everything you need to know about its PS5 launch, including preload options and release times. In this GTA 6 guide , we cover the GTA 6 release times and preload . <toc expand="none"> Read the full article on pushsquare.com
+
+### These 8+ PS5 Games Will Be Delisted in November and December 2026
+Fri, 06 Nov 2026 13:30:00 GMT — https://www.pushsquare.com/news/2026/11/these-8plus-ps5-games-will-be-delisted-in-november-and-december-2026
+
+Going offline. The end of the year is always a prime time for PS5 game delistings and server closures, but fortunately we’re being spared a large list this year. There are about eight titles with impending changes you need to be aware of, so here’s the full list: Read the full article on pushsquare.com
+
+### Sony s Killing This Ratchet & Clank Game Before It Even Comes Out
+Fri, 06 Nov 2026 13:00:00 GMT — https://www.pushsquare.com/news/2026/11/sonys-killing-this-ratchet-and-clank-game-before-it-even-comes-out
+
+No more Ranger Rumble. One of PlayStation's mobile games is shutting up shop, and it's doing so before it's managed to launch globally. You may recall Ratchet & Clank: Ranger Rumble , a mobile multiplayer game set within Insomniac Games' beloved sci-fi universe. Read the full article on pushsquare.com
 
 ### New PS Plus Perks Revealed, Includes Discounts and Free Trials
 Fri, 06 Nov 2026 11:15:00 GMT — https://www.pushsquare.com/news/2026/11/new-ps-plus-perks-revealed-includes-discounts-and-free-trials
@@ -155,168 +190,173 @@ Thu, 05 Nov 2026 16:30:00 GMT — https://www.pushsquare.com/news/2026/11/stella
 
 Witch will you pick? Action game royalty has officially arrived in Sony and ShiftUp's fan favourite hack-and-slasher, Stellar Blade . The sci-fi action title has been updated with a selection of new outfits for Eve, all inspired by SEGA's beloved Bayonetta series. They're freely available to all players. Read the full article on pushsquare.com
 
-### Rockstar Reveals Even More GTA 6 Screenshots as PS5 Release Draws Closer
-Thu, 05 Nov 2026 15:30:00 GMT — https://www.pushsquare.com/news/2026/11/rockstar-reveals-even-more-gta-6-screenshots-as-ps5-release-draws-closer
-
-Check them all out here. You're exactly two weeks away from playing GTA 6 . To celebrate the fact, developer Rockstar has shared another batch of screenshots that are designed to showcase Vice City at its best, and the world beyond. Take a look below at a whopping 37 new screenshots: Read the full article on pushsquare.com
-
-### 007 First Light s First Mission Is Free in New PS5 Starter Pack
-Thu, 05 Nov 2026 15:00:00 GMT — https://www.pushsquare.com/news/2026/11/007-first-lights-first-mission-is-free-in-new-ps5-starter-pack
-
-Available from 10th November. IO Interactive has announced a Starter Pack for 007 First Light will be released on the PS Store in the coming days that lets all PS5 owners play the game's introductory mission for free. The download will be available from 10th November 2026 on PS5, and grants access to the Against the Odds level at the start of the campaign. In this mission, you'll be introduced to the world and the style of gameplay IO Interactive went for after Hitman 3 . Read the full article on pushsquare.com
-
-### Assassin s Creed Valhalla New Game+ Patch Is Way Bigger Than Anticipated, Adds PS5 Pro Support
-Thu, 05 Nov 2026 14:30:00 GMT — https://www.pushsquare.com/news/2026/11/assassins-creed-valhalla-new-gameplus-patch-is-way-bigger-than-anticipated-adds-ps5-pro-support
-
-By Odin's beard. Assassin's Creed Valhalla has received its promised New Game+ patch, and the update is actually way more in-depth than I think most people anticipated. It's been over three years since Ubisoft released Valhalla's "final" patch, but the developer clearly felt as though it had unfinished business. New Game+ ended up being the single most requested feature — and now, it's finally here. Read the full article on pushsquare.com
-
-### Aggressive Investment in Entertainment Is Paying Off : Sony Lifts Profit Outlook After Strong Quarter
-Thu, 05 Nov 2026 13:30:00 GMT — https://www.pushsquare.com/news/2026/11/aggressive-investment-in-entertainment-is-paying-off-sony-lifts-profit-outlook-after-strong-quarter
-
-Japanese giant riding high. Sony’s transition away from electronics and into entertainment is paying serious dividends, after a killer quarter has prompted it to lift its operating income outlook for the fiscal year through March 2027. The Japanese giant now expects to pull ¥1.87 trillion (~$11.8 billion) in profit, up 15% on its previous prediction. Read the full article on pushsquare.com
-
-### Sony Has Secured Enough Memory to Meet Console Demand Through March 2028
-Thu, 05 Nov 2026 12:30:00 GMT — https://www.pushsquare.com/news/2026/11/sony-has-secured-enough-memory-to-meet-console-demand-through-march-2028
-
-Does that include PS6? Amid ever-increasing hardware prices, driven by an AI-led drain on memory components, Sony has reassured investors that it’s secured enough inventory to meet its hardware projections through March 2028. In its new financial report , the manufacturer acknowledged the following: Read the full article on pushsquare.com
-
-### PS6 Development on Track, Sony Making Solid Progress Towards Next-Gen
-Thu, 05 Nov 2026 12:00:00 GMT — https://www.pushsquare.com/news/2026/11/ps6-development-on-track-sony-making-solid-progress-towards-next-gen
-
-Update from Sony CFO Lin Tao. Work on the PS6 and the next console generation as a whole is currently "progressing as scheduled" at PlayStation, it's been confirmed. Speaking alongside the release of Sony's latest quarterly financial results , CFO Lin Tao said the company is on track to deliver its next PlayStation system, and it intends to make "solid progress" towards the next generation within the next fiscal year (via VGC ). Read the full article on pushsquare.com
-
-### PS5 Exclusive Marvel s Wolverine Off to a Soft Start, 2.4 Million Copies Sold to Date
-Thu, 05 Nov 2026 11:00:00 GMT — https://www.pushsquare.com/news/2026/11/ps5-exclusive-marvels-wolverine-off-to-a-soft-start-2-4-million-copies-sold-to-date
-
-"I'm no hero". Sony has officially confirmed sales figures for Marvel's Wolverine for the first time, as part of its recent financial update . According to the report, the PS5 exclusive superhero action adventure has sold 2.4 million units as of 4th November, 2026. Read the full article on pushsquare.com
-
 ## Game Developer
+
+### SAG-AFTRA introduces new process for hiring union actors in game pitches
+Fri, 06 Nov 2026 19:17:10 GMT — https://www.gamedeveloper.com/production/sag-aftra-introduces-new-process-for-using-actors-in-game-pitches
+
+SAG-AFTRA actors can now be recruited for vertical slices, demos, and other forms of content needed to pitch games.
+
+### Report: Silver Lake and the Saudi Arabia PIF hold talks with Unity to explore acquisition
+Fri, 06 Nov 2026 17:57:21 GMT — https://www.gamedeveloper.com/business/silver-lake-and-the-saudi-arabia-pif-hold-talks-with-unity-to-explore-acquisition
+
+The investment partners recently acquired Electronic Arts and are now reportedly turning their gaze toward software engine Unity.
+
+### Sony insists its next-generation console plans are still on schedule
+Fri, 06 Nov 2026 15:36:44 GMT — https://www.gamedeveloper.com/console/sony-insists-next-generation-consoles-are-still-on-schedule-in-new-financial-report
+
+As part of the media giant's quarterly financial report, Sony states that progress toward the next generation of consoles is proceeding on schedule.
 
 ### Nintendo confident in memory supply in new financial report
 Thu, 05 Nov 2026 17:40:57 GMT — https://www.gamedeveloper.com/business/nintendo-confident-in-memory-supply-in-new-financial-report
 
 As part of the company's quarterly financial report, company president Shuntaro Furukawa affirmed that Nintendo is not suffering due to the ongoing memory crisis, and is confident it has enough supply.
 
-### Tripwire Interactive expands publishing business to focus on smaller developers and games
-Wed, 04 Nov 2026 19:45:00 GMT — https://www.gamedeveloper.com/business/tripwire-interactive-expands-publishing-business-to-focus-on-smaller-developers-and-games
-
-The publishing division of Tripwire Interactive seeks to broaden its initiative with a focus on smaller games with scaled support.
-
-### Ubisoft among the bidders for Arkane as Xbox looks to sell the studio
-Wed, 04 Nov 2026 17:37:00 GMT — https://www.gamedeveloper.com/business/ubisoft-among-the-bidders-for-arkane-as-xbox-looks-to-sell-the-studio
-
-The Lyon-based studio has a few options on the table to avoid studio closure, including an acquisition from fellow-French video game industry contemporary Ubisoft.
-
-### Valve warns of slower Steam approvals, possibly due to AI game surge
-Wed, 04 Nov 2026 16:50:48 GMT — https://www.gamedeveloper.com/business/valve-warns-of-slower-steam-approval-process-due-to-flood-of-new-games
-
-New games on Valve's Steam platform are getting delayed due to an extended approval process, which Valve does not directly attribute to any kind of development trend.
-
 ## VGC
+
+### Zelda OOT Remake: Lost Woods map, how to navigate
+Fri, 06 Nov 2026 17:28:42 +0000 — https://www.videogameschronicle.com/guide/zelda-oot-remake-lost-woods-map-how-to-navigate/
+
+How to find everything in the Lost Woods in The Legend of Zelda: Ocarina of Time remake… Source
+
+### Podcast: Ocarina still has the magic after all this Time
+Fri, 06 Nov 2026 16:15:23 +0000 — https://www.videogameschronicle.com/blog/podcast/podcast-ocarina-still-has-the-magic-after-all-this-time/
+
+Plus: What's next for Arkane? Source
+
+### Zelda OOT Remake: All Kakariko Village Cucco locations
+Fri, 06 Nov 2026 15:51:13 +0000 — https://www.videogameschronicle.com/guide/zelda-oot-remake-all-kakariko-village-cucco-locations/
+
+All Kakariko Village Cucco locations in The Legend of Zelda: Ocarina of Time remake… Source
+
+### Zelda OOT Remake: Dampé’s Grave Digging Tour explained, all rewards
+Fri, 06 Nov 2026 15:18:49 +0000 — https://www.videogameschronicle.com/guide/zelda-oot-remake-dampe-grave-digging-tour-explained-rewards/
+
+How to earn a Piece of Heart from Dampé's Grave Digging Tour in The Legend of Zelda: Ocarina of Time Remake… Source
+
+### Sony s free-to-play mobile Ratchet Clank multiplayer shooter has been cancelled
+Fri, 06 Nov 2026 14:44:21 +0000 — https://www.videogameschronicle.com/news/sonys-free-to-play-mobile-ratchet-clank-multiplayer-shooter-has-been-cancelled/
+
+Ratchet & Clank: Ranger Rumble was soft-launched in some regions but never got a full release… Source
+
+### Zelda OOT Remake: Find Richard the Dog in Castle Town Market at night
+Fri, 06 Nov 2026 14:35:09 +0000 — https://www.videogameschronicle.com/guide/zelda-oot-remake-find-richard-the-dog-in-castle-town-market-at-night/
+
+How to figure out which dog is Richard in Zelda: Ocarina of Time's Nintendo Switch 2 remake… Source
+
+### Capcom games including RE Requiem and Pragmata heavily discounted on PC
+Fri, 06 Nov 2026 13:35:24 +0000 — https://www.videogameschronicle.com/news/capcom-games-including-re-requiem-and-pragmata-heavily-discounted-on-pc/
+
+Fanatical’s Birthday Bash Sale sees up to 74% off Capcom' Source
+
+### Xbox is updating its PC app, promising 60% faster boot times and an easier to use game library
+Fri, 06 Nov 2026 12:58:00 +0000 — https://www.videogameschronicle.com/news/xbox-is-updating-its-pc-app-promising-60-faster-boot-times-and-an-easier-to-use-game-library/
+
+Xbox Insiders can try the updated app now before it rolls out to everyone… Source
+
+### All Inside the Deku Tree Gold Skulltula Locations in Zelda: Ocarina of Time Switch 2
+Fri, 06 Nov 2026 12:28:52 +0000 — https://www.videogameschronicle.com/guide/all-inside-the-deku-tree-gold-skulltula-locations-in-zelda-ocarina-of-time-switch-2/
+
+Where to find every Gold Skulltula Inside the Deku Tree… Source
 
 ### All Spirit Temple Gold Skulltula Locations in Zelda: Ocarina of Time Switch 2
 Fri, 06 Nov 2026 12:12:34 +0000 — https://www.videogameschronicle.com/guide/all-spirit-temple-gold-skulltula-locations-in-zelda-ocarina-of-time-switch-2/
 
 Where to find every Gold Skulltula in the Spirit Temple… Source
 
-### All Shadow Temple Gold Skulltula Locations in Zelda: Ocarina of Time Switch 2
-Fri, 06 Nov 2026 09:44:18 +0000 — https://www.videogameschronicle.com/guide/all-shadow-temple-gold-skulltula-locations-in-zelda-ocarina-of-time-switch-2/
-
-Where to find every Gold Skulltula in the Shadow Temple… Source
-
-### Saudi Arabia s PIF and investment firm Silver Lake have reportedly been in talks to buy Unity
-Fri, 06 Nov 2026 09:40:34 +0000 — https://www.videogameschronicle.com/news/saudi-arabias-pif-and-investment-firm-silver-lake-have-reportedly-been-in-talks-to-buy-unity/
-
-The creator of the Unity engine is evaluating its options… Source
-
-### All Bottom of the Well Gold Skulltula locations in Zelda: Ocarina of Time Switch 2
-Fri, 06 Nov 2026 09:27:53 +0000 — https://www.videogameschronicle.com/guide/all-bottom-of-the-well-gold-skulltula-locations-in-zelda-ocarina-of-time-switch-2/
-
-Where to find every Gold Skulltula in the Bottom of the Well… Source
-
-### All Death Mountain Crater Gold Skulltula locations in Zelda: Ocarina of Time Switch 2
-Fri, 06 Nov 2026 09:16:55 +0000 — https://www.videogameschronicle.com/guide/all-death-mountain-crater-gold-skulltula-locations-in-zelda-ocarina-of-time-switch-2/
-
-Where to find every Gold Skulltula in Death Mountain Crater… Source
-
-### All Zora River, Domain, and Fountain Gold Skulltulas in Zelda: Ocarina of Time Switch 2
-Thu, 05 Nov 2026 23:35:44 +0000 — https://www.videogameschronicle.com/guide/all-zora-river-domain-and-fountain-gold-skulltulas-in-zelda-ocarina-of-time-switch-2/
-
-Where to find every Gold Skulltula in Zora River, Domain… Source
-
-### All Goron City and Death Mountain Trail Gold Skulltulas in Zelda: Ocarina of Time Switch 2
-Thu, 05 Nov 2026 23:07:31 +0000 — https://www.videogameschronicle.com/guide/all-goron-city-and-death-mountain-trail-gold-skulltulas-in-zelda-ocarina-of-time-switch-2/
-
-Where to find every Gold Skulltula in Goron City and Death Mountain Trail… Source
-
-### All Gerudo Valley Gold Skulltulas Locations in Zelda: Ocarina of Time Switch 2
-Thu, 05 Nov 2026 22:45:04 +0000 — https://www.videogameschronicle.com/guide/all-gerudo-valley-gold-skulltulas-locations-in-zelda-ocarina-of-time-switch-2/
-
-Where to find every Gold Skulltula in Gerudo Valley, Gerudo Fortress, Mirage Desert… Source
-
-### All Ice Cavern Gold Skulltula Locations in Zelda: Ocarina of Time Switch 2
-Thu, 05 Nov 2026 22:18:58 +0000 — https://www.videogameschronicle.com/guide/all-ice-cavern-gold-skulltula-locations-in-zelda-ocarina-of-time-switch-2/
-
-Where to find every Gold Skulltula in the Ice Cavern… Source
-
-### All Fire Temple Gold Skulltula Locations in Zelda: Ocarina of Time Switch 2
-Thu, 05 Nov 2026 22:07:46 +0000 — https://www.videogameschronicle.com/guide/all-fire-temple-gold-skulltula-locations-in-zelda-ocarina-of-time-switch-2/
-
-Where to find every Gold Skulltula in the Fire Temple… Source
-
 ## Polygon
 
-### 25 Years Later, Buffy's Riskiest Episode Is Still a Brilliant Masterpiece That Changed the Show Forever
-Fri, 06 Nov 2026 12:00:17 GMT — https://www.polygon.com/buffy-vampire-slayer-once-more-with-feeling-musical-25-years-james-marsters/
+### All Gold Skulltula locations in Ocarina of Time
+Fri, 06 Nov 2026 19:46:54 GMT — https://www.polygon.com/zelda-ocarina-of-time-remake-oot-gold-skulltula-token-locations-where-to-find/
 
-“ Once More, With Feeling” isn't just a great musical (although it is) or a great episode of Buffy (it's also that). The brilliance of this 50-minute spectacle is how it combines the two, using a demon's curse that forces everyone in the town of Sunnydale to sing and dance as if they were in a Broadway play to push the show's overarching plot forward in numerous ways.
+Gold Skulltulas act as a collectible in The Legend of Zelda: Ocarina of Time remake, but they're also needed to cure a cursed family in Kakariko Village.
 
-### It's Official: The PlayStation Blackout Protest Did Nothing
-Fri, 06 Nov 2026 11:32:52 GMT — https://www.polygon.com/sony-playstation-5-digital-blackout-failure-financial-records-confirm/
+### Anne Hathaway and JJ Abrams Sci-Fi Thriller Sets Official HBO Max Streaming Date
+Fri, 06 Nov 2026 19:43:13 GMT — https://www.polygon.com/end-of-oak-street-anne-hathaway-hbo-max-streaming-date/
 
-Disgruntled players tried to boycott Sony in August after the company announced it would discontinue physical media. However, it seems that the PlayStation Digital Blackout protest was a bust . Sony released official data for its second fiscal quarter, making it clear the boycott didn't move the needle. Instead, the company continued to grow, proving its point that losing physical media will not affect Sony as a business .
+If you’ve been itching for a sci-fi dinosaur flick that isn’t Jurassic Park , here’s some good news: The End of Oak Street is finally coming to HBO Max, just a few short months after its run in movie theaters. The thriller from writer-director David Robert Mitchell and producer J.J. Abrams follows a suburban American family that finds itself in the prehistoric past when their entire block is inexplicably transported into the Mesozoic Era.
 
-### Zelda: Ocarina of Time Producer Doesn’t Want Nintendo’s Next Generation To Rely on BotW’s Ideas
-Fri, 06 Nov 2026 11:00:18 GMT — https://www.polygon.com/hidemaro-fujibayashi-zelda-ocarina-of-time-botw-interview/
+### Netflix Officially Removes Clint Eastwood’s R-Rated War Thriller
+Fri, 06 Nov 2026 19:10:26 GMT — https://www.polygon.com/clint-eastwood-american-sniper-netflix-new-streaming-home/
 
-Nintendo’s Legend of Zelda series has remained relevant for 40 years, a streak that the Switch 2’s new Ocarina of Time remake is already set to continue. If you’re looking to understand how a game series stays fresh for four decades, part of that answer can be found in the series’ constant reinvention. The Zelda series has a long history of evolving with each new installment, sometimes making radical left turns that upend an established formula. For the series’ producers, that’s very much by design.
+While Clint Eastwood is often associated with the Dirty Harry franchise and Westerns such as The Good, The Bad and The Ugly , The Outlaw Josey Wales , and Unforgiven , as a director, he's frequently explored stories of war. After directing Heartbreak Ridge in 1986, Eastwood returned to war stories in a big way in the 2000s, with back-to-back World War II movies Flags of Our Fathers and Letters from Iwo Jima .
 
-### Tim Burton's Forgotten 10/10 Fantasy Masterpiece is Officially Still Free on Streaming
-Fri, 06 Nov 2026 09:04:18 GMT — https://www.polygon.com/tim-burton-big-fish-free-streaming-november-2026-tubi-youtube/
+### Playing Ocarina of Time for the First Time in 2026 Feels Like Living a Fairy Tale
+Fri, 06 Nov 2026 19:07:32 GMT — https://www.polygon.com/zelda-ocarina-of-time-first-time-newcomers/
 
-When the conversation turns to Tim Burton ’s best movies , the same titles tend to surface: Beetlejuice , his Batman movies , Edward Scissorhands , Ed Wood , and Pee-Wee’s Big Adventure . Even The Nightmare Before Christmas usually gets a mention, despite being directed by Henry Selick . Less likely to enter the discussion is Big Fish , Burton’s 2003 fantasy about a father whose life sounds too extraordinary to believe. That’s a shame, because it’s some of his very best work. It's also available to stream for free right now on YouTube and Tubi.
+It shouldn’t be possible to feel nostalgic for a memory that isn’t yours. But playing Nintendo ’s remake of The Legend of Zelda: The Ocarina of Time for the first time in 2026 feels like remembering a long-forgotten childhood adventure. Though I’ve only spent a few hours with the game so far, I’m besotted with its chipper cast of storybook oddballs, refreshingly unfussy combat, and compact open world.
 
-### 49 Years Later, Steven Spielberg’s Sci-Fi Thriller Masterpiece Is Officially Free on YouTube
-Fri, 06 Nov 2026 05:00:18 GMT — https://www.polygon.com/steven-spielberg-clouse-encounters-directors-cut-streaming-free-youtube/
+### John Wick Creator’s New Action Thriller Gets First Official Trailer
+Fri, 06 Nov 2026 18:14:37 GMT — https://www.polygon.com/karoshi-film-trailer-john-wick-chad-stahelski/
 
-Most creators are lucky if they ever make one truly revolutionary thing in their lives. Steven Spielberg has made at least six.
+John Wick creator Chad Stahelski’s next movie just got a razor-sharp first trailer. Stahelski will be producing Karoshi , an action thriller written and directed by Takashi Doscher. The film is set in a near-future Manhattan where corporations have near-total control over their employees’ lives. It will follow a mysterious outsider who infiltrates a company to expose its violent practices. As the trailer informs us, karoshi is a Japanese word for “death by overwork."
 
-### Classic Halo Trilogy Gets Brand-New Release on Nov. 10
-Thu, 05 Nov 2026 22:50:57 GMT — https://www.polygon.com/halo-master-chief-omnibus-book-november-2026/
+### Captain's Day schedule for the Fortnite Chapter 7 mini season
+Fri, 06 Nov 2026 17:50:20 GMT — https://www.polygon.com/fortnite-chapter-7-mini-season-c7ms-captains-day-schedule-update/
 
-It's been a busy year for Halo fans, with plenty of new releases and surprises keeping the franchise alive. Halo: Campaign Evolved , a remake of the original game, is bringing Master Chief's first adventure to a new generation, while a tabletop adaptation is also in development . Even Halo Infinite isn't quite ready to call it quits, continuing to receive unexpected updates this year despite its major content support coming to an end.
+The Fortnite Chapter 7 mini season is full of changes, including that updates to the season now come on Sundays, dubbed as "Captain's Days." These days add a new captain to the island as well as other changes you may expect from the usual Fortnite update day (like new quests and items, too).
 
-### The brutal reality of making video games in 2026 | Point It Out!
-Thu, 05 Nov 2026 22:34:23 GMT — https://www.polygon.com/video/the-brutal-reality-of-making-video-games-in-2026-point-it-out/
+### How to complete the Treasure Chest minigame in Zelda Ocarina of Time
+Fri, 06 Nov 2026 17:43:06 GMT — https://www.polygon.com/zelda-ocarina-of-time-remake-oot-treasure-chest-minigame/
 
-This week on Point It Out, Patches assembled an all star roundtable of indie gaming creators to discuss the state of the industry, its future and what it takes to make successful games like Shovel Knight, Hyper Light Drifter, Mina and more. Plus, WoW Forever is officially coming out, and Arkane Lyon may have a buyer. All this and more in the bouchon that is Point It Out!
+The Treasure Chest minigame in The Legend of Zelda: Ocarina of Time remake will test how lucky you are as you choose between two chests. As this game is all about luck, it's kind of a scam, but there's one surefire way to make it to the end and claim the prize: the Lenses of Truth . However, you're still free to try without them!
 
-### All Great Fairy's Fountain locations in Ocarina of Time
-Thu, 05 Nov 2026 22:11:41 GMT — https://www.polygon.com/zelda-ocarina-of-time-remake-oot-great-fairy-fountain-locations-rewards/
+### 'Godzilla Minus Zero' Officially Fixes King Ghidorah Canon in 1 Brilliant Way
+Fri, 06 Nov 2026 17:00:20 GMT — https://www.polygon.com/its-almost-singing-how-godzilla-minus-zero-brought-king-ghidorah-to-life-like-never-before/
 
-Great Fairy's Fountains are home to, well, Great Fairies in The Legend of Zelda: Ocarina of Time remake. The Great Fairies are your gateway to magic and abilities. They'll give you spells that let you create fire, teleport in and out of dungeons, and grant yourself temporary invulnerability.
+In an interview with Polygon, the film's producer, Kazuaki Kishida, wouldn't say exactly how big the budget for Godzilla Minus Zero was (though it's been confirmed to be a significantly " more " than Minus One 's $15 million), but he did reveal one way that extra money changed how Yamazaki and his team approached making the sequel.
 
-### How to find Richard the dog in Ocarina of Time
-Thu, 05 Nov 2026 22:10:14 GMT — https://www.polygon.com/zelda-ocarina-of-time-remake-oot-richard-dog-location-how-to-find/
+### EA Officially Brings Back 25 PC Classics With Huge Sale
+Fri, 06 Nov 2026 16:57:40 GMT — https://www.polygon.com/ea-classic-games-rerelease-wing-commander-remaster-ultima/
 
-Finding Richard is a side quest in The Legend of Zelda: Ocarina of Time remake. You might have seen Richard, the adorable dog, during your first visit to Hyrule Castle Town: a white energetic dog that you couldn’t pet because its owner would accuse you of trying to steal her dog. If you visit the town again later, you will learn that Richard has disappeared.
+Electronic Arts is not in players’ good graces right now. On Oct. 21, the publisher announced that it was closing BioWare , the beloved studio behind games like Mass Effect , Dragon Age, and Star Wars: Knights of the Old Republic . The news came just a few months after EA was purchased by the Saudi Arabian government’s Public Investment Fund, Jared Kushner’s Affinity Partners, and private equity firm Silver Lake. Despite these dismal circumstances, including the fact that EA is now owned by a government responsible for numerous human rights abuses , a small group of EA developers just finished an unexpected feel-good preservation project.
 
-### Nintendo Hints the Switch 2 Will Keep Getting Classic Remakes
-Thu, 05 Nov 2026 22:00:18 GMT — https://www.polygon.com/nintendo-nate-bihldorff-ocarina-of-time-interview/
+### New Ratchet & Clank Game Officially Cancelled by Sony
+Fri, 06 Nov 2026 16:42:44 GMT — https://www.polygon.com/ratchet-and-clank-ranger-rumble-canceled-delisted/
 
-This time last year, Nintendo’s 2026 plans were a bit of a mystery. We knew that games like Pokémon Pokopia and Mario Tennis Fever would round out the Switch 2’s first year, but we still had few clues about what would be 2026’s big game for the platform. Now, we know that Nintendo was hiding a big secret during that time. The Legend of Zelda: Ocarina of Time would be the Switch 2’s tentpole 2026 game, giving players (and Nintendo’ holiday sales) a blockbuster remake. Nate Bihldorff, Nintendo’s SVP of product development and publishing, knew that would be a very big deal.
+Sony 's next Ratchet & Clank game has been scrapped before receiving a full release. On Friday, Sony Interactive Entertainment and developer Oh BiBi announced Ratchet & Clank: Ranger Rumble will be pulled from storefronts this month, and fully shut down next May.
 
 ## PC Gamer
+
+### It's hard to meet women when I keep teleporting all the time
+Fri, 06 Nov 2026 18:00:00 +0000 — https://www.pcgamer.com/games/grand-theft-auto/its-hard-to-meet-women-when-i-keep-teleporting-all-the-time/
+
+Los Santos Customs I'm modding GTA 5 every day in a quest to either transform it into a PC version of GTA 6 or break it entirely. Come back tomorrow to find out what new horrible thing I've done to Rockstar's baby, or check out what I got up to earlier . Am I cheating? I might be cheating. I did not actually install a new mod for today's iteration of Los Santos Customs. Like I mentioned yesterday, updating my Script Hook thing seems to have breathed life into a host of old mods I'd installed, but which did not work. Now they work, and here we are. I'm definitely not cheating on my wife though. I have a wife now, by the way, and all I had to do to get her was teleport her to the roof of a skyscraper and gift her 22 sports cars. No more lonely nights for me, and it's all thanks to Dating Simulator (Public Beta) , a mod we probably shouldn't look too deep into in case it gets weird. Dating Simulator—which refers to itself as Anoxic Dating in the in-game menus—brings the experience of real-life dating into GTA 5. You approach women on the street, ask them how they are 40 times, and then they give you their number. This makes you "Friends" according to the mod's hierarchy of romance, unlocking new, vaguely more intimate dialogue. Discuss the weather with your muse 50 times, then tell her you miss her 60 times and, brother, you're well on the way to wife town. You can't go through this process with men because it would, obviously, be weird to say "Tell me about your interests" to a
+
+### All that stands between a hacker and admin privileges on some Linux distros is a 257-character long string of literally anything
+Fri, 06 Nov 2026 17:31:29 +0000 — https://www.pcgamer.com/software/linux/all-that-stands-between-a-hacker-and-admin-privileges-on-some-linux-distros-is-a-257-character-long-string-of-literally-anything/
+
+Some implementations of secure shell (SSH), one of Linux's most trusted and secure connection protocols, have been found vulnerable to the most peculiarly simple methods of bypass: spamming characters. On some distros, simply type 257–1,024 characters and you get access to the root (admin) login. Thankfully, the list of vulnerable distros is quite small and niche, and OpenSSH has already issued a workaround/fix. In some new release notes , OpenSSH explains that "this release contains a critical security workaround that affects Linux systems that use the musl libc and PAM disabled." "Sshd(8): avoid password authentication bypass that is exploitable through sshd(8) that affects some Linux systems when built and run with PAM support disabled. We consider the root cause of this bug to be outside sshd, but it is exploitable via sshd and can be avoided there." SSH itself is a longstanding and ubiquitous networking protocol that anyone who has dabbled even lightly in Linux networking projects will be familiar with. It's what manages comms between Linux machines. If you've ever used a Raspberry Pi remotely, for instance, you'll likely have logged into it using SSH. Same goes for a NAS. It's also used by devs to push/pull/manage GitHub files. Thankfully, it's not SSH in general that has the problem but just a small number of distros that use SSH. According to an explanation on sshhole.com —a website written by Ozgun Kultekin who discovered the bug—this is an issue with "musl Linux." T
+
+### A public petition to save BioWare has drawn enough signatures that the Canadian government will at least have to think about it: 'This is absolutely possible,' MP says
+Fri, 06 Nov 2026 16:14:55 +0000 — https://www.pcgamer.com/games/mass-effect/a-public-petition-to-save-bioware-has-drawn-enough-signatures-that-the-canadian-government-will-at-least-have-to-think-about-it-this-is-absolutely-possible-mp-says/
+
+A lot of attention has been focused on the "Save Mass Effect" petition on Change.org, which has now drawn over 300,000 signatures collectively calling on Electronic Arts to make a new Mass Effect game. But there's another petition in the works , asking the government of Canada to save BioWare—the people, not the product—and while it only has a tiny fraction of names attached to it, it's enough that the Canadian government will actually have to look at it. Unlike the Change.org petition, this one is official, in that it's actually part of the legislative process: Public petitions like e-7989, as it's formally known, are "used to draw attention to an issue of public concern . They ask the House of Commons, the Government of Canada, a minister or a member to take or refrain from taking some action." The requested actions in this case are three: 1. Provide BioWare with the capital necessary to secure independence of themselves and their intellectual property from Electronic Arts and resume business as an independent, Canadian company; 2. Protect Canadian businesses and cultural institutions from being dictated by American and foreign corporate interests; and 3. Champion the values of inclusivity, tolerance, democracy, justice, and civil rights at the centre of Canada's national identity by preserving BioWare's invaluable contribution to the global entertainment industry. As I write this, the petition is nosing toward 3,000 signatures, not a huge amount but enough to trigger the n
+
+### Epomaker HE75 V2 TMR review
+Fri, 06 Nov 2026 15:58:29 +0000 — https://www.pcgamer.com/hardware/gaming-keyboards/epomaker-he75-v2-tmr-review/
+
+It feels like every new bit of tech in a gaming keyboard or gaming mouse is treated as the next frontier, from new switch types to higher polling rates, and even the materials used. But if you want 8,000 Hz polling, it actually does feel like TMR might be the next frontier, because not only is it snappy and responsive, but it's super efficient, which helps counteract some of the problems with high polling in the first place. Right now, the pickings are fairly slim for TMR keyboards. We've got some from Logitech , some from Cherry , and a few others , but it's still a relatively niche sensor technology for switches right now, and not exactly cheap. But TMR is great, and it's particularly good if you want to go wireless thanks to its power efficiency. Epomaker's HE75 V2 TMR is interesting partly because it crams that switch technology into an 8,000 Hz board with a ton of little quality-of-life features, and does it all at a price point amongst the cheapest TMR keyboards. But whether it's worth the asking fee will come down to feel and play. Buy if… ✅ You want a compact competitive keeb: It might not look it, but the HE75 V2 TMR is a beast in the specs department, and it fits that into an ickle frame. Don't Buy if… ❌ You don't care about TMR switches or high polling: If you can make do with Hall effect or plain 'ol mechanical switches, you can get a keyboard for cheaper, or one loaded with more features. Features Epomaker HE75 V2 TMR specs Switches Epomaker Creamy Jade Magnetic 
+
+### David Gaider has been working on Owlcat's Expanse RPG: 'The Expanse has long been one of my favourite series, and so obviously I jumped at the opportunity to be involved'
+Fri, 06 Nov 2026 15:53:01 +0000 — https://www.pcgamer.com/games/rpg/david-gaider-has-been-working-on-owlcats-expanse-rpg-the-expanse-has-long-been-one-of-my-favourite-series-and-so-obviously-i-jumped-at-the-opportunity-to-be-involved/
+
+David Gaider, the creator of Dragon Age's Thedas and co-founder of Summerfall Studios, has been moonlighting on The Expanse: Osiris Reborn , lending Owlcat Games his expertise. Gaider revealed that he's been working with Owlcat on Bluesky today, saying, "Alongside my work at Summerfall, I've also been collaborating with the Owlcat Games team on The Expanse: Osiris Reborn, focusing on certain aspects of the game's narrative. The Expanse has long been one of my favourite series, and so obviously I jumped at the opportunity to be involved." The Expanse is a bit of a departure for Owlcat, which is known for its elaborate isometric CRPGs like Wrath of the Righteous and Rogue Trader. The Expanse, meanwhile, is more of a cinematic RPG and third-person shooter in the vein of Mass Effect. That said, it's still full of skill checks and roleplaying, and when I played it at Gamescom Owlcat's CRPG legacy was still very much present. While Gaider worked on Dragon Age rather than Mass Effect, he's got plenty of experience working on both classic CRPGs (he was a writer on Baldur's Gate 2 and Neverwinter Nights) and their more cinematic successors (he was lead writer on Dragon Age: Origins and Inquisition). I really enjoy Gaider's writing, so this sounds like great news. Along with Gaider's announcement, Owlcat has also shown off the new voice for the game's male protagonist and their twin. The studio decided to recast the role after getting feedback from beta players, and settled on voice ac
+
+### WoW: Forever takes 250,000 GB of memory to run, and I can't even joke about Sam Altman being jealous because that's almost nothing compared to the monolithic demands of AI
+Fri, 06 Nov 2026 15:50:34 +0000 — https://www.pcgamer.com/games/world-of-warcraft/wow-forever-takes-250-000-gb-of-memory-to-run-and-i-cant-even-joke-about-sam-altman-being-jealous-because-thats-almost-nothing-compared-to-the-monolithic-demands-of-ai/
+
+MMOs are kinda costly to run, but as it turns out, nowhere near as costly as a datacenter. I was going to spend most of this article joking about how Sam Altman, who doesn't like that we have RAM , would be frothing at the mouth for that kind of compute power. After a bit of research I am leaving horrified at the sheer industrial heft the AI industry requires. The numbers were revealed by the official WoW X account , which states that WoW Forever runs on about 3,924 virtual machines, 251,136 GB of memory, and 70,480 CPU cores. To give you an idea of how much server infrastructure that is, our best budget CPU goes for around $110 at the moment, and it has six cores. Fudge the maths a bit and that's $1.2 million in cores alone. Which is pricey, don't get me wrong—though not perhaps for a company that has hundreds of thousands of players paying a sub each month. Moreover, while it's funny to imagine Altman simply salivating at the amount of hardware that's going towards entertaining people, rather than whatever AI does, it turns out the RAM baron himself wouldn't so much as lift an eyebrow at the amount of tech it takes to run one of the biggest MMO events of the decade. It's just actually not that much, at least, not compared to AI. We reported on a $60 million AI rack cluster just last month that had about 1.4 petabytes of memory in it—that's around 1.4 million GB—and around 4,200 CPUs (each of which likely have a lot of cores, so a lot more than 70,000 cores in general). And 
+
+### Skyrim's lead designer has 2 big asks of The Elder Scrolls 6: Sentinel, and only one of them is something most players have ever thought about
+Fri, 06 Nov 2026 14:21:52 +0000 — https://www.pcgamer.com/games/the-elder-scrolls/skyrims-lead-designer-has-2-big-asks-of-the-elder-scrolls-6-sentinel-and-only-one-of-them-is-something-most-players-have-ever-thought-about/
+
+Psst, hey kid, what are the big changes you'd like to see in The Elder Scrolls 6: Sentinel ? Because all have them, don't we? We've all got our big lists for Todd Howard: Five Easy Ways to Turn This Enormously Profitable Ship Around. You know who else has some changes he'd like to see in Sentinel? Bethesda alum and Skyrim lead designer Bruce Nesmith, who recently sat down with The Examined Game and said that the things he'd really like Bethesda to knuckle down on in TES 6 are mounts and ladders. "I'd like to see a much better implementation of mounts," said Nesmith. "That's been a common complaint; I'm not alone in that." But mounts can be hard to get right. "They're really tricky, there's a lot of hard decisions to be made in those. "You can ride a horse, but that's all you can do in Skyrim. That's it, you just ride the horse. Well, I should be able to do some other things too, maybe fight on the horse, or have it fight with me, you know, stuff like that." In fairness, Skyrim does have some fairly rudimentary mounted combat—though players had to wait for it to be added in a patch back in the day—but I suspect Nesmith would like to see something a bit less awkward in future Elder Scrolls games. I imagine a lot of players would echo Nesmith on mounts. I'm less sure they share his concern about ladders, which strikes me as a very charming and very game-designer-y fixation to have. "You don't climb up and down ladders [in current Elder Scrolls games]. It seems simple, it seems s
+
+### Adding PvE to Arc Raiders 'isn't a difficult thing to do' but the question still stands how Embark can 'cater to the specific needs of the players'
+Fri, 06 Nov 2026 13:49:21 +0000 — https://www.pcgamer.com/games/third-person-shooter/adding-pve-to-arc-raiders-isnt-a-difficult-thing-to-do-but-the-question-still-stands-how-embark-can-cater-to-the-specific-needs-of-the-players/
+
+The biggest 'will they, won't they' in gaming right now involves Arc Raiders and whether it will finally add a PvE mode. All seemed promising after a very successful PvE test during the start of Frozen Trial, but news has since petered out, with Embark saying it needs a bit more time to figure everything out . I thought this meant Embark needed time to get all its ducks in a row and figure out the logistics of a permanent PvE mode, but it turns out that adding one isn't actually that hard. "We could just frankly add PvE,” Embark's CEO Patrick Söderlund says in an interview with The Game Business . “It’s not a difficult thing to do. But we didn’t want to obstruct or fiddle too much with the core loop of the game where the PvP aspect of a PvPvE game does add, we believe, adequate tension." (Image credit: Embark Studios) The biggest issue concerning a PvE mode is what it means for the game itself. The whole point of Arc Raiders being PvPvE is so players suffer even more tension as you never know when you're going to be jumped by an arc or other player. PvE obviously removes one of those threats, and the worry is that "by removing one substantial component, you’re fiddling with the core emotional loop." Something that Embark has previously decided "was not the right thing to do". "We’ve now since tried it and realised that it’s fine," Söderlund adds. "Maybe people can choose what they like. But that was our fear all along. People may have been wondering, 'why the hell aren’t they
 
 ### Discord is cutting memory usage and speeding up boot times - joins Xbox, Epic, Steam, and more for similar upgrades just this year
 Fri, 06 Nov 2026 12:06:34 +0000 — https://www.pcgamer.com/hardware/discord-is-cutting-memory-usage-and-speeding-up-boot-times-joins-xbox-epic-steam-and-more-for-similar-upgrades-just-this-year/
@@ -338,109 +378,94 @@ Fri, 06 Nov 2026 11:28:35 +0000 — https://www.pcgamer.com/games/world-of-warcr
 
 World of Warcraft: Forever 's launch has been downright impressive—MMOs are notoriously difficult to run servers for, particularly when it comes to launch, where players will get bottlenecked into servers, throwing devs into a catch 22: Do they increase capacity and wind up wasting money in the long run while things die down, or do they ride out the wave? And yet, after the chaos of the beta, it's been buttery smooth. Which is why I'm willing to forgive Blizzard for a weird quirk of its realmless layering technology—cities have been empty, empty as hell. Which is a shame, given I know that hundreds of thousands of players are technically on this thing—and yet, none of them are in my Stormwind. Well, Forever's devs are working on a fix, per the official forums : "Just wanted to chime in," says Aggrend, "And say that we are aware of some issues with certain areas not feeling as populated as they should. We will be tweaking some numbers tomorrow to help things feel a bit more lively. Thanks for the feedback on this one!" That's a relief to hear, especially given I'm on a roleplay server, and there have been problems with this sort of thing where phasing has interrupted the flow of narrative commerce in the past. Cities, especially, should feel lived-in, and it's hard to create a sense of community when people you could be writing with keep bamfing in and out of existence. But even if you aren't a roleplayer like yours truly , I think you should be gladdened by this news—big citi
 
-### Saudi Arabia owns EA, and according to a Reuters report, Unity is next
-Fri, 06 Nov 2026 05:27:40 +0000 — https://www.pcgamer.com/gaming-industry/saudi-arabia-owns-ea-and-according-to-a-reuters-report-unity-is-next/
-
-Earlier this year, Electronic Arts was snapped up by a consortium including Saudi Arabia's Public Investment Fund (PIF) and the investment firms Silver Lake and Affinity Partners in a deal worth $55 billion. According to Reuters , now the PIF and Silver Lake have their sights set on Unity Software, the company behind the multiplatform game engine of the same name. Silver Lake is already one of Unity's bigger shareholders, owning roughly 8% of the company since investing around $400 million in it back in 2017. "Silver ​Lake’s Egon Durban also sits ⁠on Unity's board," as Reuters notes, "a dual role that would typically lead him to recuse himself from board deliberations on a sale." The deliberations so far apparently include a valuation of about $25 billion, though since then Unity's most recent earnings report has come in, showing profits higher than estimated. Unity's come a long way since the Runtime Fee scandal , but it's not all about improvements to the engine like its ability to integrate with Unreal . As Reuters reports, "Strong ⁠growth in Unity's AI-powered Vector advertising platform helped it post its first quarterly profit on a GAAP basis since going public in September 2020." The first thing that happened to EA after it was acquired was mass layoffs and being saddled with $18 billion of debt . I can't imagine anyone actually working at Unity has their fingers crossed for this deal to go through, but the videogame industry does seem determined to speedrun its way in
-
-### Richard Garriott on the state of the games industry: 'The bells and whistles are no longer what's important'
-Fri, 06 Nov 2026 03:17:27 +0000 — https://www.pcgamer.com/gaming-industry/richard-garriott-on-the-state-of-the-games-industry-the-bells-and-whistles-are-no-longer-whats-important/
-
-Ultima creator Richard Garriott was one of several developers on a recent panel hosted by the Georgia Game Developers Association, and Lord British was in fine form. Calling himself the "great-grandpa" of the group, he began by summarizing the current problems faced by the videogame industry. "It's not just one thing," Garriott began. "I think if it was one thing it would be a lot easier to diagnose and come back from, but it's a lot of folks who don't understand videogames trying to make money off of videogames, it's a political climate, it's a billion things. All the threads have woven together into this horrible knot that we're seeing now." He went on to describe a cycle he's seen play out multiple times over his years in the industry, where a technological advance comes along and everyone races to make a simple game that highlights that advance—whether it's the CD-ROM or a 3D-rendering pipeline or the internet—and only in the short gaps between these leaps forward is there much demand for something deeper. "That cycle has been normal," Garriott said. "But we're at a new one, and this new one is machines are now fast enough to where the bells and whistles are no longer what's important." Without another advance having the same impact, he said, "we're at this kind of creative cliff where I think people don't know exactly what to do to prevent it and I think we've lost a lot of the original creators that were associated with those IPs and the bigger companies, and so I think
-
-### Xbox enters the 'faster PC launcher' arms race, its app loads faster now too
-Thu, 05 Nov 2026 22:32:22 +0000 — https://www.pcgamer.com/software/platforms/xbox-enters-the-faster-pc-launcher-arms-race-its-app-loads-faster-now-too/
-
-Xbox has joined the 'faster launcher load times' arms race, announcing that its updated Xbox PC app, available now to Xbox Insiders, launches up to 60% faster , and has also been overhauled to offer "simpler navigation, updated filters, and new ways to organize your games." Along with the faster launch time, Xbox said the home, store, and Game Pass pages in the updated app load up to 50% faster, while in-app windows open up to 65% faster—depending upon factors including device, internet connection, system configuration, and usage, of course. Library navigation has been simplified, search has been improved, and friends and social features are now part of the main navigational window. Credit where it's due: That change to friends and social features is welcome. I don't use the Xbox App much—to be blunt, it's pretty much exclusively for Sea of Thieves. But after a long stretch away from it, I recently jumped back in for some high seas adventures with the crew, and I'll tell you this: Figuring out how to connect with my fellow online swashbucklers was kind of a headache compared to the super-simplicity of Steam. It worked fine, it just wasn't smooth and easy, so anything that helps with that, I'm happy to take. I'm less excited about the faster loading times. Not that I'm going to complain about performance improvements, I'm just not sure it matters in the grand scheme of things. When the Epic Games Store promised that its "vibe coded" launcher was faster than Steam , a common re
-
-### Warren Spector sounds even angrier about BioWare's closure as he recounts the massive salaries of EA execs: 'Is there ANY accountability left in this world?'
-Thu, 05 Nov 2026 22:20:18 +0000 — https://www.pcgamer.com/gaming-industry/warren-spector-sounds-even-angrier-about-biowares-closure-as-he-recounts-the-massive-salaries-of-ea-execs-is-there-any-accountability-left-in-this-world/
-
-Two weeks after literally calling "bullshit" on EA's decision to close BioWare, immsim legend Warren Spector has posted a follow-up message on LinkedIn that avoids the spicy language but sounds angrier than ever. "I recently posted my thoughts about EA’s shuttering of BioWare," Spector wrote. "Those of you who read my post know that I was unhappy. I remain so. "The tragedy of so many layoffs the last few years hasn’t been lost on me, but for some reason, BioWare hit me on an emotional level nothing before had. I was gut-punched." But some readers, he continued, replied to say that BioWare's best days were behind it, and that shutting it down was a "sound business decision." Those reactions appear to have re-stoked Spector's rage, as he said those people missed his actual complaint: That the game industry executives who are responsible for these problems are never the ones to suffer the consequences. "If studio-level people leave, resulting in dilution of talent, someone is creating an environment that pushes them out. Do those culture-killers pay any price?" Spector wrote in his new message. "If executives misread the market, over-hire, or make decisions that result in under-funded, over-funded, poorly-marketed games, do they lose sleep, let alone jobs? Do those same executives suffer like developers when the needs of financial partners and investors take precedence over players, does anyone up there care? "Is there ANY accountability left in this world?" Then he took direct 
-
-### Sam Altman is annoyed his DRAM comment was 'taken out of context'
-Thu, 05 Nov 2026 20:34:00 +0000 — https://www.pcgamer.com/software/ai/sam-altman-is-annoyed-his-dram-comment-was-taken-out-of-context/
-
-OpenAI CEO Sam Altman said on a recent podcast that "from a global allocation perspective, actually it's quite terrible to have everyone have a bunch of the world's limited supply of DRAM sitting in their own computer, and be used 5% of the time." Altman was talking about people running AI models locally rather than relying on data centers, which allow RAM usage to be maxed out in this "very supply-constrained environment." What many heard and responded to—PC gamers in particular—was resentment directed at those of us who don't run AI companies, but would still like to have and use our own personal computers, as a treat. (Image credit: Sam Altman) In an exchange on X this week, Altman said that his remark was "taken out of context" and that he actually wants "the world to have tons of memory and people to put as much as they want in their computers." "I have been arguing for the world to ramp up memory production for a long time," Altman said. Altman's argument for increased memory production is no consolation to the tech enthusiasts and gamers who've been priced out of new hardware by his company and the rest of the AI industry. What we've been calling the RAMpocalypse hasn't just affected high-end PCs, either: In the lead-up to GTA 6's console launch, a PlayStation Pro is $900, if you can even find one. The bitter reaction to Altman's comment also comes from concerns that big tech companies want to push gamers off of local hardware so that they can rent us cloud computing. 
-
-### Nvidia, Micron, and other AI stocks take a dive after elections
-Thu, 05 Nov 2026 19:32:47 +0000 — https://www.pcgamer.com/software/ai/nvidia-micron-and-other-ai-stocks-take-a-dive-after-elections/
-
-Some air was let out of the AI bubble this morning as tech stocks took a dive. After seeing gains on Wednesday, the S&P 500—the index which tracks big companies including Nvidia, Oracle, and other bettors on the AI buildout—has dropped by around 3.9% as of 2:30 pm EST. Nvidia shares are now trading lower than they were at the start of the year. Memory and storage company Micron is down about 15%. Democratic victories in the US midterms, and country-wide votes to curb data center expansion , have contributed to the reduced confidence in AI stocks. Speaking to CNBC , One Point BFG Wealth Partners chief investment officer Peter Boockvar said that investors are now "questioning" the $1.2 trillion in AI-related capital expenditure Wall Street has forecast for next year. "Well, maybe that's not going to happen," he said. ]]>
-
-### EA's releasing a truckload of classic games on Steam, and 7 of them are remasters
-Thu, 05 Nov 2026 18:30:00 +0000 — https://www.pcgamer.com/games/eas-releasing-a-truckload-of-classic-games-on-steam-and-7-of-them-are-remasters/
-
-Last month we got news that Wing Commander 3 , the FMV space-combat sim with perhaps the highest concentration of Mark Hamill in any videogame, would be getting a remaster. Producer Jim Vessella is heading up the project, and revealed it during a presentation at the Portland Retro Gaming Expo. What he did not reveal, it turns out, is that five other Wing Commander games—plus Road Rash—would be getting their own dolled-up re-releases, and that they'd all be dropping on Steam , GOG, and the EA App today as part of a larger bundle of 25 "EA Classics". No, I don't know why you'd buy them on the EA App either. It takes all sorts to make a world. Here's the full list of games that are dropping. Anything labelled "Anniversary Edition" is an updated, remastered version of the original game. Anything not labelled that is simply a re-release. Road Rash: 30th Anniversary Edition Wing Commander: 35th Anniversary Edition Wing Commander II: Vengeance of the Kilrathi: 35th Anniversary Edition Wing Commander III: Heart of the Tiger: 30th Anniversary Edition Wing Commander IV: The Price of Freedom: 30th Anniversary Edition Wing Commander Prophecy: 30th Anniversary Edition Privateer 2: The Darkening: 30th Anniversary Edition Wing Commander: Privateer Wing Commander: Academy Wing Commander: Armada Strike Commander Theme Hospital Crusader: No Remorse Crusader: No Regret Ultima I: The First Age of Darkness Ultima II : The Revenge of the Enchantress Ultima III: Exodus Ultima IV: Quest of the Avata
-
-### I have added parkour to GTA 5, and also accidentally turned on like 20 mods I forgot I'd installed
-Thu, 05 Nov 2026 18:00:00 +0000 — https://www.pcgamer.com/games/grand-theft-auto/i-have-added-parkour-to-gta-5-and-also-accidentally-turned-on-like-20-mods-i-forgot-id-installed/
-
-Los Santos Customs I'm modding GTA 5 every day in a quest to either transform it into a PC version of GTA 6 or break it entirely. Come back tomorrow to find out what new horrible thing I've done to Rockstar's baby, or check out what I got up to earlier . Today's article is about ParkourV , but it is also about the vast graveyard of mods I have hitherto infected Grand Theft Auto 5 with and which then did not work. Did you know I at some point tried to install some sort of dating mod? I'd forgotten, but then there it was, asking me precisely how I would like to rizz up a babe as I initiated a frontflip from the roof of an 80-storey building. Why? Because to make ParkourV work, I had to update my installation of ScriptHookVDotNet , one of those fundamental building blocks of modding on GTA, a bit like the Skyrim Script Extender for Skyrim. So now we live in a world in which I am constantly hitting keys and accidentally reanimating the corpses of mods I had installed and written off months ago. That's the world we have now and we're just gonna keep living in it. Anyway. Parkour. The thing is, you see, GTA 5 is not really designed for parkour. Franklin, Trevor and Mike don't have the points of articulation for it. Attempting to do flips, then, just sort of rotates your entire body below the diaphragm while your head and chest area remain bolt upright, rigid in such a way that you could feasibly fly a flag from your own thorax. Which looks odd. Nevertheless, it is pretty fun to sco
-
 ## GameSpot
 
-### EA Killed Mass Effect But Is Still Trying To Make Money On It
-Thu, 05 Nov 2026 20:25:46 +0000 — https://www.gamespot.com/articles/ea-killed-mass-effect-but-is-still-trying-to-make-money-on-it/
+### Donuts Beat AI: Nvidia Has Lost $1 Trillion+ In The Past Month, While Krispy Kreme Surges
+Fri, 06 Nov 2026 18:50:58 +0000 — https://www.gamespot.com/articles/donuts-beat-ai-nvidia-has-lost-1-trillion-in-the-past-month-while-krispy-kreme-surges/
 
-Electronic Arts recently killed off Mass Effect and closed developer BioWare entirely, but the publisher is still trying to make money from the franchise's fanbase. Ahead of the annual Mass Effect holiday of N7 Day on November 7, EA is promoting Mass Effect via posts about what fans can buy on the BioWare Gear Store. A lot of people online are saying this is tone deaf and gross behavior. The BioWare Gear Store's social media presence came back to life after a month of darkness today to start hawking Mass Effect merch. The post that kicked things off is the one below, in which fans are invited to "celebrate the legacy" of Mass Effect by giving EA money. EA followed the post up with eight more, pushing people to visit the BioWare Gear Store to buy things like mugs, tote bags, clothing, and shoes, among other things. https://twitter.com/BioWareGear/status/2118417071415476477 The replies under every one of the posts call out how cold and gross it is to promote the brand so soon after cancelling Mass Effect 5 and closing BioWare. EA made the drastic changes as part of a big organizational shift and wider pullback that also included layoffs and other game cancellations, like a new The Sims game. These moves came after EA was taken private by an investor consortium led by Saudi Arabia's Public Investment Fund in a deal that included billions of debt. It subsequently was reported that EA chose to pursue a new Star Wars Battlefront game over funding the next Mass Effect and BioWare's 
+Following the US midterm elections this week, shares of Nvidia--the world's No. 2 most valuable company by market cap behind Apple--slid downhill in a big way. In fact, more than $1 trillion has been wiped out from Nvidia's market cap since its peak in October. Nvidia stock rebounded today, November 6, following the huge selloff on November 5 that also affected numerous other AI and technology stocks. However, Nvidia is still lagging behind Krispy Kreme in terms of growth in 2026. Krispy Kreme's stock exploded this week. That's right, shares of Krispy Kreme stock--$DNUT--are up about 3% in 2026, compared to negative returns for Nvidia this year. If you invested $1,000 into both $DNUT and $NVDA this year, you'd be making money on donuts and losing money on AI. Krispy Kreme's stock price exploded on November 5 after a solid earnings report, but has moderated since. In any event, Krispy Kreme is beating Nvidia so far in 2026 based on the percent gain for its stock price. To be sure, Nvidia and Krispy Kreme are not competitors in the market and their stock prices are not comparable except for the purpose of some laughs. Nvidia, with a market cap of more than $4.5 trillion, remains a juggernaut that captures the world's attention. Krispy Kreme, meanwhile, has a market cap of under $1 billion, but they do make a damn good glazed donut. Krispy Kreme also rolled out a new line of Pokemon donuts this year, and they're delicious . The Nvidia selloff was due in part to Democrats taking 
 
-### Buy Games On Prime? Your Membership Now Gets You Free Uber Eats Delivery, Too
-Thu, 05 Nov 2026 20:03:32 +0000 — https://www.gamespot.com/articles/buy-games-on-prime-your-membership-now-gets-you-free-uber-eats-delivery-too/
+### You Can Finally Drive A Dreamcast, Thanks To Sonic
+Fri, 06 Nov 2026 18:42:41 +0000 — https://www.gamespot.com/articles/you-can-finally-drive-a-dreamcast-thanks-to-sonic/
 
-If you're among the millions of Amazon Prime subscribers--maybe you use the platform to buy games--you're getting a new perk in the form of free delivery with Uber Eats. Amazon and Uber today announced a partnership where US Prime subscribers can get free delivery on orders of $25 or more. Orders can be placed on Amazon's website or through the app, as opposed to the Uber Eats app. https://twitter.com/UberEats/status/2118334756274241547 The benefit works for Prime members in the US, including the cheaper Prime for Young Adults and Prime Access membership tiers. Additionally, Uber Eats is offering $20 off each of your first two orders of $25 or more through November 18. With this added perk, you can order some wings or a burrito to enjoy after buying GTA 6 , all within one app. And that's the whole idea: Amazon does these partnerships to help keep you subscribed. Lucia and Jason in GTA 6. It bears mentioning that Amazon is a good place to buy games, but it's not perfect or without issue. In fact, a lot of Nintendo fans are upset with the marketplace for delaying their Ocarina of Time remake deliveries . Here are some more detailed instructions on how this works, as written by Amazon: Prime members can visit www.amazon.com/ubereats or open the Amazon Shopping app and search “Uber Eats” to get started in three simple steps. Log in with existing Amazon credentials, browse from nearby restaurants, and then place an order with existing Amazon payment methods. Once an order is place
+Sonic Racing: CrossWorlds is gearing up for a second year of action, and while you can expect new courses, modes, and characters to join the game, the real headline act here is the new cars coming to it. As part of the Sega Consoles Pack, players will be able to tear around courses while driving a four-wheeled Sega video game console, with each vehicle expertly blending the design of that classic gaming hardware into a lean-and-mean racing machine. The new cars are based on the Sega Genesis (or Mega Drive for anyone who lived outside the US), the Sega Saturn, and Sega's final home console, the Dreamcast. According to the Sonic Racing: CrossWorlds development team, the idea was to incorporate design elements that would instantly remind players of each console into their respective vehicle frames, like the rounded form of the Dreamcast or the angular silhouettes and subdued tones of the Saturn. The team even went so far as to recreate the Dreamcast’s Visual Memory Unit using original reference data from that era. "Rather than directly recreating the hardware itself, we translated rounded forms into fenders and nose sections, while angular lines became body panels and hoods, adding the sense of speed expected from a racing machine," the development team explained in a PlayStation Blog post . "While preserving recognizable colors and components from each system, we also designed around the game’s front-and-rear combination mechanic, incorporating the fun of pairing consoles and c
 
-### Switch 2 Won t Get Another Price Hike, At Least Not Soon, Nintendo Says
-Thu, 05 Nov 2026 18:08:03 +0000 — https://www.gamespot.com/articles/switch-2-wont-get-another-price-hike-at-least-not-soon-nintendo-says/
+### Mass Effect Is Getting A New Art Collection At A Difficult Time For Its Fans
+Fri, 06 Nov 2026 18:00:00 +0000 — https://www.gamespot.com/articles/mass-effect-is-getting-a-new-art-collection-at-a-difficult-time-for-its-fans/
 
-As part of Nintendo's latest earnings briefing, the company said it has no plans to increase the Switch 2 price again, or at least not anytime soon. VGC reported that management said Nintendo has enough memory stockpiled to shield itself and thus not need to implement another price hike. Nintendo raised the price of the Switch 2 in September, bringing it up from $450 to $500. This followed price hikes for the PlayStation 5 and Xbox Series X|S consoles, meaning that all three major platforms have seen hikes. https://www.youtube.com/watch?v=_xMM7L2XoMc The price increases are the result of macroeconomic factors including tariffs and the demand for memory and components from AI companies. Following the US midterm elections, technology stocks--and specifically AI stocks--have massively sold off, at least temporarily. It remains to be seen when or if there would be any relief on the memory and component market, though. Nintendo also reported in its earnings briefing that it received many millions in tariff refunds , but the company is keeping all of it for themselves, just like PlayStation and other companies are doing with their own refunds. Nintendo had a tone-deaf and cringey tariff sale . Nintendo's latest big game release was The Legend of Zelda: Ocarina of Time's remake for Switch 2 , and it's the best-reviewed game of 2026 overall .
+This year's annual Mass Effect Day looks to be somber in light of the studio behind the games, BioWare, being shut down last month. But while no new Mass Effect games are currently on the horizon, you can celebrate its legacy through some classy art prints that are going up for sale ahead of N7 Day. Preorders for the Mass Effect Collection will begin on Friday, November 6, at 10 AM PT / 1 PM ET / 6 PM BST on the Moor-Art website . The Mass Effect Collection Moor-Art says it began collaborating with BioWare over a year ago to release a new selection of limited-edition posters. "What began as a celebration of an ongoing saga now feels like the bastion in the continuation of a studio's legacy," the studio said in a press release. The collection from Moor-Art is inspired by the characters and worlds of Mass Effect, with the original artwork being produced by acclaimed artists and Mass Effect die-hard fans Matt Essom and Dan Mumford. The designs will also be available as T-shirts. The first one is by Essom, and Moor-Art says this illustration captures the spirit and emotional depth of the series, as well as the bonds forged on the Normandy as her crew traveled to unknown worlds. This will be limited to 200 hand-numbered prints worldwide, plus 30 Giclée prints with a certificate of authenticity signed by the artist. Mumford's "Mass Effect 2" poster aims to capture the sci-fi horror elements of the confrontations against the Reapers, and it features a full ensemble of crew members. 
 
-### GTA 6 Looks Pretty Realistic, Until It Comes To Gym Etiquette
-Thu, 05 Nov 2026 16:47:41 +0000 — https://www.gamespot.com/articles/gta-6-looks-pretty-realistic-until-it-comes-to-gym-etiquette/
+### GTA 6 Is Going All Out On Details You Might Never Even Notice
+Fri, 06 Nov 2026 16:25:51 +0000 — https://www.gamespot.com/articles/gta-6-is-going-all-out-on-details-you-might-never-even-notice/
 
-Compared to previous games in the series, Grand Theft Auto 6 looks like it'll only be a few steps removed from reality when it launches this month. Actions have consequences , working on a relationship requires more than just hitting a few button prompts, and bulking up means that you'll have to visit an in-game gym regularly. Will all of that add up to an experience that can give a little dude in green a run for his money as the best-reviewed game of the year ? Who knows, but what I do know is that Rockstar Games better have some hygiene options in the game, because Jason's gym etiquette is disgusting . Maybe I'm reading too much into this, but amongst the dozens of new GTA 6 screenshots released today, there's this one of Jason pumping iron: GTA 6 has a gym hygiene problem, and I can't stop thinking about it. While I keep telling myself that comparison is the thief of joy and that I shouldn't compare the few strands of muscle fiber I have next to a digital character who looks like he curls Jack Reacher actors for a morning routine, I also can't help but find myself repulsed by Jason's lack of hygiene. I'm also told that Miami--the city that GTA 6's location of Vice City is inspired by--is hot as hell, but that's still no excuse to not be wearing any gym clothing up top. Hell, even if it's one of those gym tank tops with spaghetti straps, that's still better than nothing, because I cannot imagine how much disinfectant you'd need to clean up that rack when Jason is done with 
+It's the smallest details that stand out most in Grand Theft Auto 6 , and thanks to all the screenshots that developer Rockstar Games has posted since the game was officially announced, there's been no shortage of stuff to analyze. Last week, senior video producer Jake Dekker grabbed all 99 of those official screenshots--with the number of images increasing this week thanks to a new screenshot dump--and started going through each and every single one of them. He found plenty of cool little secrets hidden in each image, from legal tender celebrating paranoia to surprisingly realistic flesh, and this week, he's back with another look at GTA 6's impressive attention to detail. Some of these include colorful iguana lizards dotted around Vice City, references to real-life abandoned bridge projects, and local hangouts where you can catch some downtime between heists. Check it for yourself in the video below: https://youtu.be/oxqys4Nm4Cs Some of the other cool secrets hidden inside of these screenshots include vibrant underwater environments with scuba gear that looks very authentic, and co-protagonist Lucia's high-thread-count gym gear--maybe Jason could learn a thing or two from her about proper gym etiquette. The screenshots also show off Rockstar's technical skills for camera angles, lighting effects, and reflections, making each scene pop when you start to examine them closely. If these screenshots are a solid indicator of what to expect, it looks like GTA 6 could be one of the
 
-### GTA 6: Lots Of New Images Have Been Released
-Thu, 05 Nov 2026 15:55:32 +0000 — https://www.gamespot.com/articles/gta-6-lots-of-new-images-have-been-released/
+### Ratchet & Clank Game Shutting Down Before Ever Fully Launching
+Fri, 06 Nov 2026 16:09:00 +0000 — https://www.gamespot.com/articles/ratchet-clank-game-shutting-down-before-ever-fully-launching/
 
-Rockstar has released a big batch of new Grand Theft Auto 6 screenshots as part of what the developer is calling a "launch gallery." The brand-new images show off main characters Jason and Lucia in a variety of settings, including a nightclub, the dive bar The Rusty Anchor, and the gym, where Jason is putting in some work on the bench. A new look at GTA 6's dive bar, The Rusty Anchor. There is also a shot of people on an airboat hunting alligators in the night, and another scene where police are closing in on a superyacht, presumably in pursuit of Jason and Lucia. Another image provides a close-up look at Jason as he leans out of a car window, wielding an automatic rifle while police helicopters chase him. A new look at Jason in GTA 6. Head to Rockstar's GTA 6 website to see all of the newly released images. Rockstar released these images to celebrate the fact that GTA 6 is now under two weeks away from its release date of November 19. The game has reportedly already sold 8 million units, generating close to $1 billion . The game’s file size is about 212GB , and thankfully, preloading begins more than a week before launch. The game unlocks on November 19 at midnight local time , and that means US players will be among the last in the world to get in. People in New Zealand, meanwhile, will be the first in the world to play GTA 6. If you’re thinking about booking a flight to the land of Hobbits, here are some tips for packing your PS5 safely.
+Sony Interactive Entertainment and French developer Oh BiBi have announced Ratchet & Clank: Ranger Rumble, a phone and tablet game, is coming to a close before it was even released fully. In a statement , the developers said the game's final update is coming today, November 6, and the game itself will be removed from digital stores on November 21, 2026. No information was provided as to why Ranger Rumble is shutting down. The game soft-launched in 2025 in limited territories, and expanded to more markets, but it's no longer going ahead with a full global release. People who already have the game installed can keep playing until May 1, 2027, which is when the game's servers permanently close. Once the servers are shut down, the game will be completely unplayable. Ranger Rumble is described as a "fast-paced multiplayer platformer arena shooter" where you battle others on a quest to become a galactic ranger. https://www.youtube.com/watch?v=AlblXRS14Mg In-app purchases have been removed from Ranger Rumble, and if you have a balance of currency, you should spend it before May 1, 2027. Alternatively, you can seek a refund from Apple’s App Store or Google Play . "On behalf of the dev team and everyone helping to make the game, thanks to our amazing community for all your support, especially to those who have spent time playing, sharing feedback, and helping shape Ranger Rumble throughout its development," the developer said. The latest entry in the mainline Ratchet & Clank series wa
 
-### Arkane Union Accuses Microsoft Of Sabotaging Development Of Marvel s Blade
-Thu, 05 Nov 2026 15:45:56 +0000 — https://www.gamespot.com/articles/arkane-union-accuses-microsoft-of-sabotaging-development-of-marvels-blade/
+### Head Of GTA 6 Owner Reveals His Advice To Be Healthy, Fit, And Live A Long Time
+Fri, 06 Nov 2026 15:09:40 +0000 — https://www.gamespot.com/articles/head-of-gta-6-owner-reveals-his-advice-to-be-healthy-fit-and-live-a-long-time/
 
-As the fate of Arkane Lyon hangs in the balance, a union representing workers from the French studio offered strong words toward Arkane's parent company, Microsoft. In short, the union blames Microsoft for "sabotaging" the production of its Blade game. French trade union STJV (per VGC ) claimed that development on Marvel's Blade is "going fine," but said that workers face the "harsh reality" that Microsoft may close the studio for financial reasons. But the union said that the onus for Arkane's tough financial situation is on Microsoft itself, claiming that a hiring freeze that lasted 19 months "artificially caused delay and additional cost." STJV asserts that closing Arkane would be more costly than finishing Marvel's Blade, adding that a studio closure would be the result of Microsoft's "never-ending search for maximum profit optimization." The union argues that Arkane is profitable, but "not profitable enough for Microsoft." The union's statement lists demands that include protections for employees and giving workers a say in a potential buyer for Arkane. In accordance with French labor laws, the studio has been in a "consultation period" since Xbox began its reset earlier this year, and it was recently granted an extra month to find a buyer before facing closure. A recent report suggests that three companies, including Ubisoft, submitted bids to acquire Arkane. Arkane is perhaps best known for developing the Dishonored games. Its Arkane Lyon team is primarily responsible 
+Strauss Zelnick, the head of Rockstar Games owner Take-Two, is known for his dedication to health and fitness. In 2018, he published a book titled Becoming Ageless: The Four Secrets To Looking and Feeling Younger Than Ever, and images of the executive looking shredded and lean at 8% body fat have circulated online. Zelnick has now spoken more about his health and fitness lifestyle, and offered some advice for people who want to get in shape and feel better. Zelnick started off by telling Business Insider that he's good friends with Bryan Johnson, the billionaire who is trying to live forever, but Zelnick doesn't subscribe to the kinds of things Johnson is trying to do in terms of longevity in that regard. Instead, Zelnick said he got some advice from his former doctor, the celebrity longevity doctor Peter Attia who appeared in the Epstein files , who told him he could help him with his healthspan but not his lifespan, and Zelnick was into that. In 2016, Zelnick filmed a video for Business Insider where he showed off his workout routine--you can see it below. https://www.youtube.com/watch?v=lhCRcB_k0W8 Zelnick said his No. 1 piece of advice for anyone trying to improve their health is to avoid smoking altogether. "Smoking is the factor most highly correlated with a short, unhealthy, and frankly unhappy life. Don't smoke." Second, Zelnick said people should not abuse alcohol and drugs. "Those are the two most highly correlated factors with a bad old age, or no old age," he said
 
-### Marvel s Wolverine Has Lost Its Momentum, And Sony s Numbers Show It
-Thu, 05 Nov 2026 14:36:41 +0000 — https://www.gamespot.com/articles/marvels-wolverine-has-lost-its-momentum-and-sonys-numbers-show-it/
+### Bill Skarsgard Didn t Need Much Convincing To Join Hideo Kojima s Physint
+Fri, 06 Nov 2026 15:01:47 +0000 — https://www.gamespot.com/articles/bill-skarsgard-didnt-need-much-convincing-to-join-hideo-kojimas-physint/
 
-Marvel's Wolverine got off to a strong start when it launched in September, but since then, it looks like things have cooled off massively for the game. In its new earnings report , Sony finally dropped a sales number for Insomniac's new Marvel game, revealing that it has sold 2.4 million units so far. Marvel's Wolverine, as it initially debuted as September's best-selling game, delivering the highest launch-month dollar sales for a Sony-published game since Helldivers 2 back in February 2024. While 2.4 million sales on its own sounds pretty impressive, compared to other Sony first-party titles, the numbers do not look good. In its report, Sony listed several more games that drastically outperformed Marvel's Wolverine, including Insomniac's previous release, Marvel's Spider-Man 2. That game sold through 2.5 million units on its first day of release, while other titles like Ghost of Yotei outperformed Marvel's Wolverine in just a few days. The game also arrived during a busy time on the gaming calendar, as the last two months have seen multiple games launch ahead of GTA 6 on November 19. https://youtu.be/7nGnaG7kVIA Between Control Resonant, Onimusha: Way of the Sword, Fire Emblem: Fortune's Weave, Call of Duty: Modern Warfare 4, and live-service games jockeying for both attention and money, Marvel's Wolverine was facing an uphill battle--and that hill probably felt very steep amidst lukewarm reviews and negative online chatter. Sony hasn't revealed how much it cost to develop
+Hideo Kojima's Physint has a leading man in Bill Skarsgård, and the Hollywood actor recently spoke more about his part in the game. Billed as a spiritual successor to Kojima's Metal Gear Solid franchise, Physint is an action-espionage game that features Skarsgård alongside several other actors, like Charlee Fraser, Don Lee, and Minami Hamabe. Skarsgård's love for the Metal Gear Solid franchise and a chance to work with Kojima proved to be the deciding factors in taking on the role of the unnamed Physint protagonist. "I played every single one," Skarsgård said to Josh Horowitz on the Happy Sad Confused podcast . "Starting from the one on PlayStation One all the way to the last one. I was very enamored by him [Kojima], the mythology and the universes that he creates, but also the mystique and the allure about him, as well. He is an auteur, but he's a video game auteur. He's fluent in filmmaking, and film, and cinema." https://youtu.be/7dyrwLAH6Mg?t=2819 Skarsgård believes that Kojima's cinematic video games are a new medium that he's pioneering, and with Physint, the developer is getting closer to "something that's photorealistic and also interactive," the actor said. "I think he's a pioneer, and he keeps going out to untreaded waters." Kojima is also a fan of Skarsgård, and he recently spoke about how he was introduced to him through a mutual acquaintance, Death Stranding 2: On the Beach composer Yoann "Woodkid" Lemoine. After traveling to Sweden to meet Skarsgard and his fami
 
-### GTA 6 Boss Talks The Game s Budget And Calls Out A High-Profile Game For Releasing In A Rough State
-Thu, 05 Nov 2026 14:13:02 +0000 — https://www.gamespot.com/articles/gta-6-boss-talks-the-games-budget-and-calls-out-a-high-profile-game-for-releasing-in-a-rough-state/
+### Nier Automata s File Size Now Reflects How Good It Is
+Fri, 06 Nov 2026 14:42:57 +0000 — https://www.gamespot.com/articles/nier-automatas-file-size-now-reflects-how-good-it-is/
 
-Grand Theft Auto 6 is the biggest game that Rockstar Games has ever made, and it was no doubt very expensive to produce. But just how much did it cost? We know it's not $1.5 billion , but Take-Two CEO Strauss Zelnick has now reacted to the discussion around the game's development costs. He told The Wall Street Journal , "It was expensive and it took a long time." The game has been in development for years, and was delayed multiple times. Zelnick said Take-Two's mission is to "make the best entertainment on Earth," and this takes time. "Our strategy is to be the most creative, the most innovative, and the most efficient. Our cultural tenets are seek excellence in everything we do, work together as a team, and be kind. That approach sometimes is, in fact, really expensive," the executive said. "The good news is that we have a P&L and a balance sheet that supports that. And if we get it right--we don't always--but if we get it right, it actually pays for itself and then some." https://www.youtube.com/watch?v=klc0fQmAL6k Everyone expects GTA 6 to be a huge commercial success, but Zelnick said in the interview that he will not claim success before it occurs. "Arrogance is the enemy of continued success," he said. Rockstar's ambition is to make the "most amazing entertainment experience of all time," Zelnick added. "They've done that before, and I'm hopeful that we will do that again. Like everyone else, I'm going to wait and see how it's received. I feel really good about it, but 
+Nier Automata is my favorite game of all time, and I've been telling everyone I know to play it for nearly a decade. On PC, however, Square Enix accidentally made that a little bit more difficult, because the game's latest patch ballooned the game's file size by more than 600%. The update, tested by RPG Site , takes what was a pretty reasonable 50GB file size and raises it to 366GB. It appears to be incorrectly assigning a file size of more than 40GB to each piece of DLC. The patch itself was supposed to simply add three new languages to the Steam version: Simplified Chinese, Traditional Chinese, and Korean. https://www.youtube.com/watch?v=eIMZYgb85xg "We are currently investigating the cause and working to resolve the issue. We apologize for the inconvenience," Square Enix said in a post on Steam . Because the giant file size is linked to the different pieces of DLC, you can temporarily resolve the issue by going to "Properties" and "DLC" on Steam and unselecting them. Of course, this also means you won't be able to enjoy that DLC, so if you mostly want to fight the former CEO of Square Enix in the game, you're going to have to wait. As for what's next for the Nier series, Square Enix and director Yoko Taro have been pretty hush-hush, but Automata has been an immense success. As of February 2026, it had sold more than 10 million units. An anime adaptation is also available now on Crunchyroll.
 
-### The Legend of Zelda: Ocarina Of Time s 2026 Remake Looks Stunning Next To The Original N64 Game
-Thu, 05 Nov 2026 13:21:32 +0000 — https://www.gamespot.com/articles/the-legend-of-zelda-ocarina-of-time-2026-remake-looks-stunning-next-to-the-original-n64-game/
+### We Failed, Take-Two Boss Says Of The Mega-Flop Borderlands Movie
+Fri, 06 Nov 2026 14:19:05 +0000 — https://www.gamespot.com/articles/we-failed-take-two-boss-says-of-the-mega-flop-borderlands-movie/
 
-Since its launch last year, the Switch 2 has proven itself to be a portable powerhouse, and The Legend of Zelda: Ocarina of Time remake may just be the best game to show off its capabilities. The upgraded version of the timeless adventure looks even better when compared to the original N64 game that first debuted in 1998, as Nintendo has leveraged the Switch 2 hardware to create the definitive version of the game, blending atmospheric design with imaginatively designed character models. And if you want to see just how gorgeous that glow-up is, click the video below for a guided tour of Hyrule across two eras of Nintendo hardware. No commentary, just comparisons. https://youtu.be/M1DfD7B5oUM For this video, we captured footage using an original NTSC 1.0 N64 cartridge running on an Analogue 3D with de-blur enabled. While there are a couple of Nintendo 64 emulators on the market, the Analogue 3D is generally considered to be the best of the lot. It's designed to capture the essence of a CRT TV display through various effects and filters. Ocarina of Time on the N64 was a game that had to work creatively around the limitations of the console and its cartridge system, at a time when the gaming industry was embracing CD-ROMs. Limitations do breed creativity, and the game is still fondly remembered for being a visual tour de force from an era when 3D games were making impressive strides. As for the Switch 2 version, the footage speaks for itself. It's crisp, the text is sharp, the ex
+2024's Borderlands movie was a massive flop at the box office, and Take-Two's CEO has now reacted to this, readily acknowledging, "We failed." Speaking at Business Insider Live , Strauss Zelnick said Take-Two's mission is to "make the best entertainment on Earth," and with the Borderlands film, the company failed to meet that mark. He said the company "tried incredibly hard" on the Borderlands movie, and pointed out that Take-Two didn't actually lose any money on it because Lionsgate funded it. "But I am here to tell you, it was not the best entertainment on Earth. We failed," he said. The Borderlands movie featured a stacked cast of big names, including Cate Blanchett as Lilith, Kevin Hart as Roland, Jack Black as the voice of Claptrap, Ariana Greenblatt as Tiny Tina, and Jamie Lee Curtis as Tannis. The film was directed by Eli Roth, with Tim Miller stepping in for reshoots. The Borderlands movie made just $15.5 million in the US and $17.5 million internationally for a total of only about $33 million worldwide. https://www.youtube.com/watch?v=M42sC7MMGB0 Zelnick said this in response to a question about why Take-Two doesn't do more in terms of adapting its franchises for film, TV, theme parks, and live events. He said Take-Two is "very selective" when it comes to these kinds of projects. "If our mission is to make the best entertainment on Earth, we only want to make a movie if it's going to be the best entertainment on Earth," he said. But with the Borderlands film, Zelnick
 
-### This Handheld Gaming Hub Has A Lot More Going On Than You d Expect
-Thu, 05 Nov 2026 13:20:23 +0000 — https://www.gamespot.com/articles/this-handheld-gaming-hub-has-a-lot-more-going-on-than-youd-expect/
+### Nintendo’s Wisest Investment Continues To Pay Off With Zelda: Ocarina Of Time
+Fri, 06 Nov 2026 14:02:51 +0000 — https://www.gamespot.com/articles/zelda-ocarina-of-time-remake-involved-xenoblade-chronicles-creator-monolith-soft/
 
-There's no shortage of dedicated video capture devices on the market, but if you're looking for something that cuts down on cable clutter and adds some cyberpunk vibes to your setup, you'll want to check out the Chizha Mount Ling 2 Pro . GameSpot recently went hands-on with it, and while it's a great capture device for PC handhelds like the Steam Deck and the Asus ROG Xbox Ally X, it's hard to recommend if you're planning to grab Switch 2 footage specifically. See on Kickstarter According to Chizha, the Mount Ling Pro 2can be used as a dock; it has a built-in capture card that can record gameplay at up to 4K 60fps, and you can install an NVMe solid-state drive (up to 4TB) in the bottom slot for your recording purposes. This essentially condenses multiple devices into one portable hub, and if that sounds good to you, you can check out the Kickstarter for it right now. If you pledge now, you can get the device for $150 for the version with a capture card, after which it will cost $250 at retail. https://www.youtube.com/shorts/m543mHe3bKU One of the cool things about it is that it has a front display that will tell you what resolution your system is currently outputting as well as how much power you're drawing from it--useful information for content creators. In our testing, we found that it works very nicely with PC gaming handhelds, but there's still work to be done on the Switch 2 front. "I noticed that the color being displayed was a lot more washed out than when using an of
+We should acknowledge that Monolith Soft isn't just a Xenoblade developer, but also a major supporter of The Legend of Zelda franchise. The studio confirmed on X that it assisted with programming and graphics (per a machine translation) on the Ocarina of Time remake . This marks the fifth time the team has contributed to a mainline Zelda title, starting with 2011's Skyward Sword . There were a lot of theories in the past couple of months about what team was behind The Legend of Zelda: Ocarina of Time on Switch 2--especially considering the visual overhaul and the Internet's reaction . Earlier this week, Nintendo revealed that its internal team responsible for Breath of the Wild and Tears of the Kingdom, Entertainment Planning & Development (EPD) Production Group No. 3, was responsible for the remake. We now know that Monolith Soft also pitched in, as the team did with the two Switch mainline entries, too. In 2007, Nintendo acquired Monolith Soft from Bandai Namco , with the developer at the time working on Disaster: Day of Crisis for Wii. The studio was probably best known for the Xenosaga series, but it's doubtful anyone could predict how prolific Monolith Soft would become over the past 19 years. Just looking at Monolith Soft's portfolio , the developer has already contributed to three Switch 2 heavy hitters: Ocarina of Time, Splatoon Raiders, and Mario Kart World . This is all in addition to overseeing and creating the Xenoblade franchise, with Xenoblade Genesis planned fo
 
-### PS5 Is Closing In On 100 Million Sales, Despite Getting More Expensive
-Thu, 05 Nov 2026 13:18:07 +0000 — https://www.gamespot.com/articles/ps5-is-closing-in-on-100-million-sales-despite-getting-more-expensive/
+### Stellar Blade On Switch 2 Looks Like A Great Port, Until You Start Fighting
+Fri, 06 Nov 2026 13:46:33 +0000 — https://www.gamespot.com/articles/stellar-blade-on-switch-2-looks-like-a-great-port-until-you-start-fighting/
 
-During a briefing on its latest financial results, Sony revealed it sold 2.6 million PS5 consoles in its last quarter, which ended on September 30. This brings lifetime PS5 sales to 97.9 million, just months before the console enters its sixth year on the market. By comparison, the PS4 had shipped 103.0 million units at the same point in its lifecycle, but Sony's gaming ecosystem is performing much better thanks to higher digital revenue and a massive active user base. This comes at a time when the PS5 has only gotten more expensive since launch, thanks to the global components shortage that has seen memory prices surge. Sony says it has been in discussions with manufacturers to secure enough memory for the next fiscal year and expects its hardware sales to remain profitable into the next year. The company has raised its forecast, as it expects sales of first- and third-party games--like GTA 6--to increase. https://www.youtube.com/watch?v=wmKu9Uow-os&t=2s GTA 6 is projected to have sold almost 8 million copies ahead of its November 19 launch, and PS5 sales are said to be dominating by a wide margin compared with Xbox Series X|S. Sony also keeps 30% of the revenue from the game through platform fees, so GTA 6's early success will only improve PlayStation's fortunes. With manufacturing adjustments that make the PS5 cheaper to produce and monetization of its monthly active users--which peaked at 127 million in September--business looks solid for Sony's game division. Sony also t
+There's no denying that Stellar Blade is one seriously good-looking game. On Switch 2, it runs surprisingly well on Nintendo's hybrid system, and it'd be a perfect port if it wasn't for one glaring issue that holds it back. On the surface, Stellar Blade looks like a smooth port with few compromises, as it still offers plenty of graphical detail at a lower resolution. Stellar Blade on Switch 2 also targets 60fps, but in order to achieve that, it uses a very aggressive form of frame generation to create a smooth sense of action. The problem with this is that it makes the game harder to play, because your actions are delayed. https://youtu.be/9zr4QK15BNs Parries and dodges require perfect timing, and because the game is delayed, pressing a button right as an enemy hits you is often too late, causing you to take damage. This also means that controlling the protagonist Eve feels somewhat sluggish, navigating the environments feels sluggish, and during chaotic fights, the game can lag so badly that it feels like your controller is completely ignoring your inputs. This is at odds with how the game teaches you to master its gameplay, as the natural rhythm you're supposed to pick up alongside visual cues simply does not match up with the delicate timing needed to pull off counters and parries. Because Stellar Blade is an action game that's tightly centered on strict frame windows for counters and dodges--think of it as being soulslike-adjacent with its combat--the disconnect between t
 
-### Nintendo Wanted Ocarina Of Time To Feel Better In The Remake, Not Just Different
-Thu, 05 Nov 2026 05:00:00 +0000 — https://www.gamespot.com/articles/nintendo-wanted-ocarina-of-time-to-feel-better-in-the-remake-not-just-different/
+### After EA, Saudi Arabia Is Reportedly Setting Its Sights On One Of Gaming s Biggest Engines
+Fri, 06 Nov 2026 13:14:02 +0000 — https://www.gamespot.com/articles/after-ea-saudi-arabia-is-reportedly-setting-its-sights-on-one-of-gamings-biggest-engines/
 
-Remaking a game like The Legend of Zelda: The Ocarina of Time required Nintendo to nail a fine balance between staying faithful to the original and updating it where it mattered. The Ocarina of Time remake largely sticks to the original's foundations while adding features like a dedicated jump button and updated controls. That was one of several changes, as Nintendo's core design philosophy was to modernize execution and comfort while preserving the original emotional and narrative intent. As Legend of Zelda producer Hidemaro Fujibayashi explained in an interview with GameSpot, early pre-production focused on setting clear boundaries for what would and wouldn't change in the remake. "One of the first discussions we had leading up to the full-blown development of the title was really clearly establishing what it is we were going to change and what it is that we weren't going to change," Fujibayashi said via a translator. "Starting with the kind of stuff that we wanted to change, was really focused on leveraging the capabilities of the Nintendo Switch 2 hardware because it was going to be developed for that hardware. Leveraging all that capability so that we can remove any stress from the gameplay experience so that people can enjoy the game, fully." https://www.youtube.com/watch?v=_xMM7L2XoMc In addition to the changes in the game's controls, Fujibayashi added that the updated graphics also allowed the team to "provide a lot more information" to players, and the sound design a
+Unity Software is reportedly being eyed as the next acquisition by Saudi Arabia's Public Investment Fund and a consortium of investors, including US private equity firm Silver Lake Partners. According to Reuters , Unity is already in talks with interested parties, with the software company reportedly valued as high as $25 billion, a significant increase from its current public price of $21.5 billion following its latest earnings report. Silver Lake already owns 8% of Unity, and talks are said to be in place as Unity considers the best options moving forward. If the company is sold, it'll represent another major investment by Saudi Arabia's sovereign wealth fund and partners into the gaming industry, following the recent acquisition of Electronic Arts for $55 billion (that Silver Lake was also involved in). That takeover hasn't been without controversy, as the billions in leveraged debt that EA was saddled with has forced the company to make drastic cuts across the board , including the heavily criticized decision to shut down fan-favorite developer BioWare . https://www.youtube.com/watch?v=oxqys4Nm4Cs Alongside its ownership of several studios--like mobile game developer Scopely--and stakes in gaming publishers like Nintendo and Capcom, a Unity acquisition could result in Saudi Arabia having an even bigger influence in the industry. Unity is the second-most popular game-development engine after Epic's Unreal, and it has been used to power multiple hit games, from indie hits l
 
 ## Rock Paper Shotgun
+
+### Real-time strategy game The Fertile Crescent 2 is an isometric odyssey inspired by Age of Empires, with the 1.0 release out now
+Fri, 06 Nov 2026 17:20:50 +0000 — https://www.rockpapershotgun.com/real-time-strategy-game-the-fertile-crescent-2-is-an-isometric-odyssey-inspired-by-age-of-empires-releasing-out-of-early-access-now
+
+Age of Empires -influenced real-time strategy game The Fertile Crescent 2: Collapse of the Bronze Age leaves early access today, publishers MicroProse have announced, with the 1.0 version adding the final chapters of the singleplayer story. You'll also get your grubby fingers on the very same map editor developers Wield Interactive used to design the campaign. I'm new to The Fertile Crescent 2 myself. I do like the sound of a strategy sim in which you guide a fugitive community through the Late Bronze Age Collapse. The land has been thrown into turmoil by the arrival of the Sea People, this being a loose historical term for assorted ocean-going migrants who, I gather, are often blamed for the crumbling of the Hittites among other once-glorious Bronze Age powers. I don't have much scholarly insight to share - I thought the "Sea People" referred to expansionist mermaids, at first - but I do have a trailer. Read more
+
+### I just found out you can use your Steam Wishlist to search for deals on games outside of Steam, saving my nephew more than £40 on Total War: Warhammer 3
+Fri, 06 Nov 2026 15:45:00 +0000 — https://www.rockpapershotgun.com/i-just-found-out-you-can-use-your-steam-wishlist-to-search-for-deals-on-games-outside-of-steam-saving-my-nephew-more-than-40-on-total-war-warhammer-3
+
+I may be very late to the party with this discovery, but I only just realised you can connect your Steam Wishlist to a third-party deals tracker. The beauty of which is that, once hooked up, you can see what games you've been pining for are going cheap not just on Steam but through any major shopfront across the internet. I worry that I will be coming across as 'Use this one trick to save money &ndash; greengrocers hate it!', but it's already helped save my nephew more than &pound;40. Even if it meant using a slightly underhand method. Read more
+
+### Terrific fantasy RPG Queen's Domain gets first proper update, adding a new throwing weapon and options to make puzzles "less frustrating"
+Fri, 06 Nov 2026 14:58:30 +0000 — https://www.rockpapershotgun.com/terrific-fantasy-rpg-queens-blade-gets-first-proper-update-adding-a-new-throwing-weapon-and-options-to-make-puzzles-less-frustrating
+
+Extremely good King's Field-style RPG Queen's Domain &ndash; or is it a Metroid Prime homage? Or a stealth Morrowind-up? We hacks simply cannot decide &ndash; has received its first proper patch, adding a hitherto "missing" throwing weapon, the Grave Knife, alongside a bunch of quality-of-life fixes. They've stirred in the ability to disable screenshake, alongside some new icons to make status effects more obvious. They've also introduced "options to make some late game puzzles less frustrating", though they don't specify which. How frustrating! Still, it's a tidy overhaul for a game that has rapidly become one of my 2026 favourites . Read more
+
+### Airframe Ultra's PS1 cyberpunk city is an amazing tribute to G-Police and WipEout, and I wish you people would slow down to appreciate it
+Fri, 06 Nov 2026 14:00:00 +0000 — https://www.rockpapershotgun.com/airframe-ultras-ps1-cyberpunk-city-is-an-amazing-tribute-to-g-police-and-wipeout-and-i-wish-you-people-would-slow-down-to-appreciate-it
+
+I do not wish to "rule the streets" of Megacity West, dear creators of Airframe Ultra . I wish to be ravished by them, rubbing my face against the rusty corrugated metal of the shipping containers, and savouring the acid blue waters of the bay. I do not want to "become the one thing with freedom in a city of billions: A racer." I want to become the other thing with freedom in a city of billions: a person who slowly drives or &ndash; whisper it - walks around just looking at stuff, because gadzooks, this is one of the prettiest PS1 cyberpunk burgs I've laid eyes on. Those eroded pastel chevrons. Those seductively wobbling vertices. That electric reef of a downtown backdrop, murderously luring your gaze from the on-coming trucks. That layer of invigorating crackle over everything. Every moment or so, I dismount from my hoverbike to inspect some concrete ruin I could swear I last saw in G-Police, or ponder the resemblance between a subway tunnel and WipEout 2097's Gare d'Europa. Then, somebody waps me in the skull with a stop sign at 300 kilometres an hour. But I was already stopped, frantic stranger! Your brutal poetic ironies are wasted on me. Read more
+
+### Steam gets a boatload of restored Wing Commanders and Ultima ports after EA producer stumbles across cupboard of old tapes
+Fri, 06 Nov 2026 12:38:00 +0000 — https://www.rockpapershotgun.com/steam-gets-a-boatload-of-restored-wing-commanders-and-ultima-ports-after-ea-producer-stumbles-across-cupboard-of-old-tapes
+
+EA have stuck a bunch of restored versions and ports of classic games, on Steam, GOG and the EA App. 25 games in all, including multiple entries in the Wing Commander and Ultima series, are part of the haul. Why's this happening now? Well, an EA producer stumbled across a cupboard full of old tapes, film reels and CDs. Read more
 
 ### "It's a brave new world": GTA 6's PC port will release sooner than you think to avoid losing money to AI rip-offs, says former Rockstar tech director
 Fri, 06 Nov 2026 11:09:10 +0000 — https://www.rockpapershotgun.com/its-a-brave-new-world-gta-6s-pc-port-will-release-sooner-than-you-think-to-avoid-losing-money-to-ai-rip-offs-says-former-rockstar-tech-director
@@ -476,29 +501,4 @@ Lord almighty, video games take a while to make, 'ey? Especially if you're just 
 Thu, 05 Nov 2026 18:00:00 +0000 — https://www.rockpapershotgun.com/the-legend-of-khiimoris-mongolian-expanse-update-brings-in-frosty-mountains-and-scorching-deserts-thatll-require-a-lot-more-than-a-fur-coat-and-a-sturdy-horse
 
 Another day, another opportunity for some horsing around! I'm being literal here, to be clear, as a new update for The Legend of Khiimori dropped yesterday. It's called The Mongolian Expanse, opening up the map a whole lot more and making a sweep of other additions to the game. Read more
-
-### Apex Legends adds a grumpy, teamwiping Godzilla to its growing history of unappealing crossovers
-Thu, 05 Nov 2026 17:30:00 +0000 — https://www.rockpapershotgun.com/apex-legends-adds-a-grumpy-teamwiping-godzilla-to-its-growing-history-of-unappealing-crossovers
-
-No doubt eager as peas to help pay off EA's billions in debt , battle royale shooter Apex Legends is set to run another of its intellectual propertytastic crossover events. This one, starting on November 10th, stars Godzilla, of Godzilla Minus Zero, Godzilla vs. Kong, Godzilla (1954), Godzilla 2000: Millennium, Godzilla (1998), Son of Godzilla, and Godzilla (2014). I might be missing some. Read more
-
-### Nvidia ensure unboxing a ludicrously expensive new graphics card isn't limited to real life in these RAM crisis times by releasing a GeForce 8800 GTX unpacking sim
-Thu, 05 Nov 2026 16:55:40 +0000 — https://www.rockpapershotgun.com/nvidia-ensure-unboxing-a-ludicrously-expensive-new-graphics-card-isnt-limited-to-real-life-in-these-ram-crisis-times-by-releasing-a-geforce-8800-gtx-unpacking-sim
-
-In what feels a fairly cheeky move during a time when memory shortages have infamously made it pretty much impossible to buy a decently powerful new graphics card without spending approximately a gazillion pounds/dollars/dollarpounds, Nvidia have decided to put out a Steam demo that allows folks to re-live the feeling of unboxing a ludicrously expensive graphics card in 2006. Read more
-
-### Goddess of Victory: Nikke's PC launcher suffers potential malware infection, with its publishers suggesting folks who've booted since late September do a security check
-Thu, 05 Nov 2026 15:43:10 +0000 — https://www.rockpapershotgun.com/goddess-of-victory-nikkes-pc-launcher-suffers-potential-malware-infection-with-its-publishers-suggesting-folks-whove-booted-since-late-september-do-a-security-check
-
-Goddess of Victory: Nikke, a gacha shooter/RPG developed by Stellar Blade makers Shift Up, has suffered a "security incident" which has seen its PC launcher potentially be infected with third-party malware. Thankfully, it seems a patch to make the launcher safe again has been quickly dished out, but publishers Level Infinite are still advising players who've booted the game up since September 27th to do some security checks. Read more
-
-### You can now play Pillars of Eternity and Pillars of Eternity 2: Deadfire with a controller on PC from start to finish, thanks to a new update open for testing
-Thu, 05 Nov 2026 12:27:20 +0000 — https://www.rockpapershotgun.com/you-can-now-play-pillars-of-eternity-and-pillars-of-eternity-2-deadfire-with-a-controller-on-pc-from-start-to-finish-thanks-to-a-new-update-open-for-testing
-
-After gifting Pillars of Eternity a turn-based mode for its tenth anniversary , Obsidian have now rolled out full PC controller support for both the RPG and its younger sibling Pillars of Eternity 2: Deadfire. The support, along with some tweaks to Deadfire's turn-based mode, are currently out in public test form. Read more
-
-### "BioWare's closure represents an immense loss to and possibly a targeted attack on Canada's cultural legacy" argues petition calling on Canadian government to step in
-Thu, 05 Nov 2026 10:51:50 +0000 — https://www.rockpapershotgun.com/biowares-closure-represents-an-immense-loss-to-and-possibly-a-targeted-attack-on-canadas-cultural-legacy-argues-petition-calling-on-canadian-government-to-step-in
-
-Calls for the Canadian government to help ressurect recently shuttered RPG makers BioWare have progressed from a single post by a politician to a petition with enough signatures that it looks set to be presented to the Canadian House of Commons for an official response. So far, 1,662 people from the country of maple syrup and also other things have signed this call for their leaders to consider stepping in. Read more
 

@@ -1,6 +1,16 @@
-# AI — harvested 2026-11-06T12:28:02.086Z
+# AI — harvested 2026-11-06T20:05:04.732Z
 
 ## OpenAI
+
+### Partnering with Hacktron to find vulnerabilities in OpenAI’s systems
+Fri, 06 Nov 2026 08:00:00 GMT — https://openai.com/index/partnering-with-hacktron
+
+OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.
+
+### Measuring how AI agents handle everyday wet-lab science
+Fri, 06 Nov 2026 00:00:00 GMT — https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science
+
+OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.
 
 ### Australian universities are creating AI-native graduates
 Thu, 05 Nov 2026 17:00:00 GMT — https://openai.com/index/australian-universities-ai-native-graduates
@@ -37,12 +47,10 @@ Thu, 05 Nov 2026 00:00:00 GMT — https://openai.com/index/franklin-templeton
 
 Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.
 
-### OpenAI to acquire Pierre Computer Company, Inc.
-Wed, 04 Nov 2026 14:30:00 GMT — https://openai.com/index/openai-to-acquire-pierre
-
-OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.
-
 ## Hugging Face
+
+### ToyBlocks: A controlled world for robot learning and evaluation
+Fri, 06 Nov 2026 14:00:48 GMT — https://huggingface.co/blog/allenai/toyblocks
 
 ### Egyptian and Nigerian English join the Open ASR Leaderboard
 Fri, 06 Nov 2026 00:00:00 GMT — https://huggingface.co/blog/open-asr-leaderboard-liva
@@ -52,9 +60,6 @@ Thu, 05 Nov 2026 19:35:16 GMT — https://huggingface.co/blog/nvidia/cosmos-inte
 
 ### A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.
 Thu, 05 Nov 2026 00:00:00 GMT — https://huggingface.co/blog/phonon-tts
-
-### Dharma Field Extractor: Any Document In, Structured Fields in JSON Out
-Wed, 04 Nov 2026 17:50:10 GMT — https://huggingface.co/blog/Dharma-AI/dharma-field-extractor
 
 ## Google DeepMind
 

@@ -1,6 +1,31 @@
-# Manga — harvested 2026-11-06T12:28:02.086Z
+# Manga — harvested 2026-11-06T20:05:04.732Z
 
 ## Anime News Network
+
+### Devils' Crest ‒ Episodes 1-2
+Fri, 06 Nov 2026 14:30:00 -0500 — https://www.animenewsnetwork.com/review/devils-crest/episodes-1-2/.243580
+
+The ever-growing pile of questions is already staggeringly large. I wouldn't call this show captivating so far, but I am interested in seeing what it becomes now that the groundwork is out of the way.
+
+### Petals of Reincarnation Anime Series Review
+Fri, 06 Nov 2026 12:00:00 -0500 — https://www.animenewsnetwork.com/review/petals-of-reincarnation-anime-series/.243049
+
+<i>Petals of Reincarnation</i> is aimless in its anger, tries to do way too much, and doesn’t seem to care much (if at all) about what it’s communicating.
+
+### This Week in Games - Hacking your Evercold Pikmin
+Fri, 06 Nov 2026 10:00:00 -0500 — https://www.animenewsnetwork.com/this-week-in-games/2026-11-06/hacking-your-evercold-pikmin/.243468
+
+Jean-Karlo has the update on the <cite>Goddess of Victory: NIKKE</cite> security exploit, a brand-new holiday, and the new classes coming to <cite>Final Fantasy XIV</cite>.
+
+### EXCLUSIVE: Dr. Poro, the Manga Writer Behind The Vermilion Mask
+Fri, 06 Nov 2026 09:00:00 -0500 — https://www.animenewsnetwork.com/interview/2026-11-06/exclusive-dr-poro-the-manga-writer-behind-the-vermilion-mask/.243221
+
+Dr. Poro and ANN discuss The Vermilion Mask's origins, how the characters reflect their creator, and why Dr. Poro always chooses the healer in RPGs.
+
+### Paradox Live The Animation's Film Announces Title, 2027 Opening
+Fri, 06 Nov 2026 07:32:30 -0500 — https://www.animenewsnetwork.com/daily-briefs/2026-11-06/paradox-live-the-animation-film-announces-title-2027-opening/.243590
+
+The official website for the hip-hop-themed multimedia franchise presented the early teaser visual for its upcoming film project on Friday. The visual...
 
 ### Rainy Day Serenade Anime's Teaser Reveals Cast, Staff, April 2027 Debut
 Fri, 06 Nov 2026 06:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-06/rainy-day-serenade-anime-teaser-reveals-cast-staff-april-2027-debut/.243586
@@ -37,36 +62,16 @@ Thu, 05 Nov 2026 22:47:35 -0500 — https://www.animenewsnetwork.com/news/2026-1
 
 Digital Shokunin produces anime about overworked, sex-starved knight captain
 
-### Ninja Skooler Anime Unveils Pilot Film, Images, Song
-Thu, 05 Nov 2026 20:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-05/ninja-skooler-anime-unveils-pilot-film-images-song/.243571
-
-Shunsuke Takarai to direct light-hearted ninja anime based on concept by Kinema Citrus
-
-### PlayStation 5 Reaches Over 97 Million Shipments
-Thu, 05 Nov 2026 17:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-05/playstation-5-reaches-over-97-million-shipments/.243569
-
-Sony shipped 4.2 million PS5 units for current fiscal year so far
-
-### Nintendo Switch 2 Sells Over 26 Million Units
-Thu, 05 Nov 2026 16:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-05/nintendo-switch-2-sells-over-26-million-units/.243567
-
-<cite>Mario Kart World</cite>, <cite>Donkey Kong Bananza</cite>, <cite>Pokémon Legends: Z-A</cite>, <cite>Pokémon Pokopia</cite> top Switch 2 sales
-
-### The World's Strongest Witch ‒ Episode 5
-Thu, 05 Nov 2026 14:30:00 -0500 — https://www.animenewsnetwork.com/review/the-world-strongest-witch/episode-5/.243553
-
-This episode reminds audiences that the internet can be good if you bring the right attitude, and I think everyone could use that reminder every so often.
-
-### I'm Kodama Kawashiri Manga Gets Live-Action Short Series
-Thu, 05 Nov 2026 14:30:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-05/im-kodama-kawashiri-manga-gets-live-action-short-series/.243570
-
-Kanna Hashimoto stars in series starting on January 11
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Fall 2026 Anime Rankings – Week 5
+Fri, 06 Nov 2026 12:30:00 GMT — https://animecorner.me/fall-2026-anime-rankings-week-5/
+
+STEEL BALL RUN JoJo’s Bizarre Adventure 2nd-3rd STAGE has won its first weekly poll&hellip;
 
 ### Rainy Day Serenade Anime Reveals Key Visual, Teaser Trailer, Main Cast, April 2027 Premiere
 Fri, 06 Nov 2026 12:20:03 GMT — https://animecorner.me/rainy-day-serenade-anime-reveals-key-visual-teaser-trailer-main-cast-april-2027-premiere/
@@ -118,16 +123,6 @@ Wed, 04 Nov 2026 23:39:46 GMT — https://animecorner.me/mashle-live-action-film
 
 The live-action film adaptation of MASHLE: MAGIC AND MUSCLES has cast Mackenyu as protagonist Mash Burnedead.
 
-### Reincarnation in the Game World Dan-Katsu Reveals New Trailer Featuring Additional Cast, Theme Songs
-Wed, 04 Nov 2026 13:05:39 GMT — https://animecorner.me/reincarnation-in-the-game-world-dan-katsu-reveals-new-trailer-featuring-additional-cast-theme-songs/
-
-Reincarnation in the Game World Dan-Katsu: Game Addict Plays "Encouragement for Job Hunting in&hellip;
-
-### Mashle: Magic and Muscles Live-Action Film Adaptation Announced
-Wed, 04 Nov 2026 12:59:27 GMT — https://animecorner.me/mashle-magic-and-muscles-live-action-film-adaptation-announced/
-
-Mashle: Magic and Muscles manga is officially getting a live-action film adaptation, with its Japanese theatrical premiere set for March 19, 2027.
-
 ## MyAnimeList News
 
 ### Namidaame to Serenade Reveals Main Cast, Staff, Teaser Promo, Spring 2027 Premiere
@@ -155,10 +150,10 @@ Thu, 05 Nov 2026 21:11:20 -0800 — https://myanimelist.net/news/74909290?_locat
 
 WWWave Corporation s Deregula animation label opened an official website for a television anime adaptation of Rui Takatou s Hagure Idol: Jigoku-hen (Booty Royale: Never Go Down Without a Fight!) manga on Friday, revealing the main cast, staff, and a commemorative visual (pictured). The anime series will premiere in January 2027. Cast Misora Haebaru: Hisako Toujou (Boushoku no Berserk) Sarah Goujima: Nao Shiraki (Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen) Yun-Hui...
 
-### Manga 33-sai Dokushin Onna Kishi Taichou. Gets Anime Adaptation
+### Manga 33-sai Dokushin Onna Kishi Taichou. Gets Anime Adaptation in 2027
 Thu, 05 Nov 2026 19:30:22 -0800 — https://myanimelist.net/news/74909101?_location=rss
 
-Content platform Digital Shokunin announced an anime adaptation of Amahara s 33-sai Dokushin Onna Kishi Taichou. (33 Years Old Single Female Knight Captain.) manga on Friday, revealing the main character designs (pictured above) and a commemorative music video. The anime project celebrates the series 10th anniversary. Amahara began serializing comedy fantasy manga on the Ananga Ranga adult digital magazine in October 2015. Flex Comics published the fourth volume on January 15. Synops...
+Content platform Digital Shokunin announced an anime adaptation of Amahara s 33-sai Dokushin Onna Kishi Taichou. (33 Years Old Single Female Knight Captain.) manga on Friday, revealing the main character designs (pictured above) and a commemorative music video. The anime project celebrates the series 10th anniversary and is scheduled to premiere in 2027. Amahara began serializing comedy fantasy manga on the Ananga Ranga adult digital magazine in October 2015. Flex Comics published th...
 
 ### Fool Night Unveils Additional Cast, Theme Songs, First Promo
 Thu, 05 Nov 2026 03:25:30 -0800 — https://myanimelist.net/news/74906712?_location=rss
@@ -179,11 +174,6 @@ The official website for the Code Geass: Hoshi Oi no Aspal (Code Geass: Star Cha
 Thu, 05 Nov 2026 01:16:43 -0800 — https://myanimelist.net/news/74906532?_location=rss
 
 The official website for the new Magic Knight Rayearth (Mahou Kishi Rayearth) television anime announced additional cast pair on Thursday. The anime series premiered on October 7 at 11.45 p.m. on TV Asahi s "IMAnimation W" frame. Voice actors Shinichiro Miki (Youjo Senki) and Megumi Toyoguchi (Mushoku Tensei) joined the cast as Umi s father and Umi s mother, respectively. Yui Umemoto (Ninja Kamui) is directing at E&amp;H Production, with Takayuki Sano (Bullet/Bullet epi...
-
-### Tensei shitara Ken deshita II Reveals Supporting Cast, Third Promo
-Wed, 04 Nov 2026 08:33:53 -0800 — https://myanimelist.net/news/74904410?_location=rss
-
-The official website of the television anime adaptation of Yuu Tanaka s Tensei shitara Ken deshita (Reincarnated as a Sword) light novel revealed supporting cast, second key visual (pictured), and third promotional video for the "Seedrun Arc" on Thursday. The second season premiered on October 8 at 12.00 a.m. on Tokyo MX, followed by ABC TV, BS Asahi, and AT-X. Cast Valuza: Katsuyuki Konishi (Tongari Boushi no Atelier) Fult: Satsuki Kokubu (Hoshifuru Oukoku no Nina) Satia: Yurie K...
 
 ## Otaku USA
 
