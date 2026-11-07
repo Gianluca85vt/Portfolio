@@ -1,6 +1,11 @@
-# Games — harvested 2026-11-06T20:05:04.732Z
+# Games — harvested 2026-11-07T11:19:46.962Z
 
 ## Eurogamer
+
+### What we've been playing - "Sniffing out the warehouses on Prawn Island"
+Sat, 07 Nov 2026 08:02:00 +0000 — https://www.eurogamer.net/what-weve-been-playing-vice-city-zelda-world-of-warcraft-forever
+
+Well, hello! I am once again wearing the Bertie hat in your usual host's absence, so joyous welcomes to our regular feature in which we talk about what we've been playing in recent times. This week, Marie has been revisiting Zelda - although perhaps not the one you might expect - while Dom is rediscovering Vice City of the 80s. Kelsey is playing some very weird cards, Connor is back in WoW - possibly forever - and I'm equally smitten with a different RPG. Read more
 
 ### Updated Xbox PC app promises 60% faster loading and easier access to games, but CEO Asha Sharma says there's "plenty more to do"
 Fri, 06 Nov 2026 19:58:20 +0000 — https://www.eurogamer.net/updated-xbox-pc-app-faster-asha-sharma
@@ -56,11 +61,6 @@ After acquiring EA for $55bn earlier this year , Saudi Arabia and private equity
 Fri, 06 Nov 2026 09:40:50 +0000 — https://www.eurogamer.net/remakes-and-new-games-both-have-a-place-in-the-stable-says-nintendo-boss-buoyed-by-the-success-of-star-fox-and-ocarina-of-time
 
 It's been a good year for Nintendo: between Star Fox - the N64 classic with a dazzling facelift on Switch 2 - and the newly-launched and utterly fantastic Ocarina of Time remake, the platform holder is having a good run. And that's before you get to the likes of Fire Emblem: Fortune's Weave , Nintendo Switch Sports Resort , Mario Tennis Fever or any of the Switch 2 re-releases of first-party Switch games, like Xenoblade Chronicles 3 or Animal Crossing: New Horizons . Read more
-
-### Rockstar shares 38 new screenshots of Grand Theft Auto 6, showing off Vice City, Jason and Lucia, and much more
-Thu, 05 Nov 2026 16:18:40 +0000 — https://www.eurogamer.net/grand-theft-auto-6-38-new-screenshots
-
-Rockstar Games have released 38 new screenshots of Grand Theft Auto 6 , ahead of its release later this month. Read more
 
 ## GamesIndustry.biz
 
@@ -130,6 +130,11 @@ _Nothing in the last 48 hours._
 
 ## Push Square
 
+### Talking Point: What Are You Playing This Weekend? - Issue 657
+Sat, 07 Nov 2026 00:00:00 GMT — https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-657
+
+Killing time. Another week has come to a conclusion, and we are very much in the GTA 6 evacuation zone now. Less than two weeks until Rockstar's sequel, folks. Jamie O'Neill I've only managed about three hours on Lone Survivor: The Director's Cut , so I'll break out the PS Vita, because I can't leave that masked protagonist stuck in a disease riddled city, after all. Read the full article on pushsquare.com
+
 ### Game of the Month: Phantom Blade Zero (October 2026)
 Fri, 06 Nov 2026 18:00:00 GMT — https://www.pushsquare.com/features/game-of-the-month-phantom-blade-zero-october-2026
 
@@ -184,11 +189,6 @@ A Terra-ble idea? Could a remake of Final Fantasy 6 happen at some point? The id
 Thu, 05 Nov 2026 17:30:00 GMT — https://www.pushsquare.com/features/opinion-hey-that-hellraiser-revival-game-is-pretty-good
 
 Liam finds fun in AA horror. For as much as I love the horror genre, I've never seen a Hellraiser film. If they're as fun to watch as Hellraiser: Revival is to play, though, then maybe I need to catch up. Since we've got The Legend of Zelda: Ocarina of Time and GTA 6 right around the corner (I'm now playing the former), I haven't wanted to start a big game that requires a serious time investment. With a 10-hour playthrough for the Platinum Trophy (which I did earn), this new Hellraiser game seemed like the perfect fit. Read the full article on pushsquare.com
-
-### Stellar Blade s Free Bayonetta Crossover Outfits Are Available Now on PS5, PC
-Thu, 05 Nov 2026 16:30:00 GMT — https://www.pushsquare.com/news/2026/11/stellar-blades-free-bayonetta-crossover-outfits-are-available-now-on-ps5-pc
-
-Witch will you pick? Action game royalty has officially arrived in Sony and ShiftUp's fan favourite hack-and-slasher, Stellar Blade . The sci-fi action title has been updated with a selection of new outfits for Eve, all inspired by SEGA's beloved Bayonetta series. They're freely available to all players. Read the full article on pushsquare.com
 
 ## Game Developer
 
@@ -266,57 +266,87 @@ Where to find every Gold Skulltula in the Spirit Temple… Source
 
 ## Polygon
 
-### All Gold Skulltula locations in Ocarina of Time
-Fri, 06 Nov 2026 19:46:54 GMT — https://www.polygon.com/zelda-ocarina-of-time-remake-oot-gold-skulltula-token-locations-where-to-find/
+### Magic: The Gathering Star Trek Perfectly Captures the Sci-Fi Show’s Most Brutal Running Joke
+Sat, 07 Nov 2026 11:00:17 GMT — https://www.polygon.com/star-trek-redshirts-tokens-explainer/
 
-Gold Skulltulas act as a collectible in The Legend of Zelda: Ocarina of Time remake, but they're also needed to cure a cursed family in Kakariko Village.
+Generating creature tokens is a common way to make the most out of your resources in a game of Magic: The Gathering . They can be sacrificed for powerful effects, used to chump block , or amassed to overwhelm your opponent. Cards typically generate tokens of the same color, like white Warriors for Secure the Wastes , green Squirrels for Deranged Hermit , and black Zombies for Ghoulish Procession . Yet numerous cards in Magic: The Gathering Star Trek generate 1/1 red Officer tokens regardless of the base color, from the white Captain Benjamin Sisko to the green MACO Strike Team . The discrepancy is a nod to the sci-fi franchise’s darkest running joke.
 
-### Anne Hathaway and JJ Abrams Sci-Fi Thriller Sets Official HBO Max Streaming Date
-Fri, 06 Nov 2026 19:43:13 GMT — https://www.polygon.com/end-of-oak-street-anne-hathaway-hbo-max-streaming-date/
+### 5 Sci-Fi Series To Watch If You Love HBO's 'Lanterns'
+Sat, 07 Nov 2026 09:04:17 GMT — https://www.polygon.com/best-sci-fi-tv-shows-to-watch-if-you-love-hbos-lanterns/
 
-If you’ve been itching for a sci-fi dinosaur flick that isn’t Jurassic Park , here’s some good news: The End of Oak Street is finally coming to HBO Max, just a few short months after its run in movie theaters. The thriller from writer-director David Robert Mitchell and producer J.J. Abrams follows a suburban American family that finds itself in the prehistoric past when their entire block is inexplicably transported into the Mesozoic Era.
+HBO's Lanterns more than delivered when it comes to being both a great comic book series and a great piece of television. Not only did the series thrive thanks to the dynamic between Hal Jordan (Kyle Chandler) and John Stewart (Aaron Pierre), but it also managed to revitalize interest in the Green Lantern franchise following the less-than-stellar Green Lantern movie from 2011. That's a superhuman feat in and of itself, and Lanterns creators Damon Lindelof, Chris Mundy, and Tom King deserve credit for pulling that off.
 
-### Netflix Officially Removes Clint Eastwood’s R-Rated War Thriller
-Fri, 06 Nov 2026 19:10:26 GMT — https://www.polygon.com/clint-eastwood-american-sniper-netflix-new-streaming-home/
+### 38 Years Later, Calvin and Hobbes' Lost Character Remains Bill Watterson's Biggest Failure
+Sat, 07 Nov 2026 09:00:17 GMT — https://www.polygon.com/uncle-max-calvin-hobbes/
 
-While Clint Eastwood is often associated with the Dirty Harry franchise and Westerns such as The Good, The Bad and The Ugly , The Outlaw Josey Wales , and Unforgiven , as a director, he's frequently explored stories of war. After directing Heartbreak Ridge in 1986, Eastwood returned to war stories in a big way in the 2000s, with back-to-back World War II movies Flags of Our Fathers and Letters from Iwo Jima .
+The author Lois McMaster Bujold has said that “the writer should always reserve the right to come up with a better idea.” That's a useful guideline for any reader to keep in mind. As any long-form story evolves, it usually picks up a few dead plot branches or abandoned characters , because the author can exercise their option to drop what they're doing for any (or no) reason. Sometimes it's not a continuity error; it's a deliberate change in direction.
 
-### Playing Ocarina of Time for the First Time in 2026 Feels Like Living a Fairy Tale
-Fri, 06 Nov 2026 19:07:32 GMT — https://www.polygon.com/zelda-ocarina-of-time-first-time-newcomers/
+### The 8 Best Castlevania Games Of All Time, Ranked
+Sat, 07 Nov 2026 03:52:17 GMT — https://www.polygon.com/best-castlevania-games/
 
-It shouldn’t be possible to feel nostalgic for a memory that isn’t yours. But playing Nintendo ’s remake of The Legend of Zelda: The Ocarina of Time for the first time in 2026 feels like remembering a long-forgotten childhood adventure. Though I’ve only spent a few hours with the game so far, I’m besotted with its chipper cast of storybook oddballs, refreshingly unfussy combat, and compact open world.
+Castlevania is one of the most beloved franchises in video game history, despite a period of 13 years when we didn’t see a new installment until the launch of Castlevania: Belmont’s Curse earlier this year.
 
-### John Wick Creator’s New Action Thriller Gets First Official Trailer
-Fri, 06 Nov 2026 18:14:37 GMT — https://www.polygon.com/karoshi-film-trailer-john-wick-chad-stahelski/
+### 10 Essential GBA Games Still Disappointingly Missing From Nintendo Switch Online
+Sat, 07 Nov 2026 03:29:33 GMT — https://www.polygon.com/game-boy-advance-games-missing-nintendo-switch-online/
 
-John Wick creator Chad Stahelski’s next movie just got a razor-sharp first trailer. Stahelski will be producing Karoshi , an action thriller written and directed by Takashi Doscher. The film is set in a near-future Manhattan where corporations have near-total control over their employees’ lives. It will follow a mysterious outsider who infiltrates a company to expose its violent practices. As the trailer informs us, karoshi is a Japanese word for “death by overwork."
+When the original Game Boy came out, games like the ones people enjoyed on their NES were finally playable on the go, and players loved Nintendo for it. The green and black color palette was a bit of a bummer, but finally was rectified with the Game Boy Color. Even so, most of the games were still pretty basic. The next step was to make a handheld unit that could replicate the superior experience offered on the Super Nintendo, and the Game Boy Advance did precisely that.
 
-### Captain's Day schedule for the Fortnite Chapter 7 mini season
-Fri, 06 Nov 2026 17:50:20 GMT — https://www.polygon.com/fortnite-chapter-7-mini-season-c7ms-captains-day-schedule-update/
+### 10 Devastating Game Cancellations That Are Still Disappointing Years Later
+Sat, 07 Nov 2026 03:03:27 GMT — https://www.polygon.com/game-cancellations/
 
-The Fortnite Chapter 7 mini season is full of changes, including that updates to the season now come on Sundays, dubbed as "Captain's Days." These days add a new captain to the island as well as other changes you may expect from the usual Fortnite update day (like new quests and items, too).
+Sometimes, it’s fun to think about the great games that might have been — until they were canceled without ever getting the chance to make their mark. Most of the time, we just shrug our shoulders and move on, because that’s life. But sometimes, we mourn the wasted potential.
 
-### How to complete the Treasure Chest minigame in Zelda Ocarina of Time
-Fri, 06 Nov 2026 17:43:06 GMT — https://www.polygon.com/zelda-ocarina-of-time-remake-oot-treasure-chest-minigame/
+### GTA 6's Biggest Competition Officially Arrives on PC in 2027
+Sat, 07 Nov 2026 02:43:17 GMT — https://www.polygon.com/ananta-anime-gta-pc-ps5-release-date-2027-netease-games/
 
-The Treasure Chest minigame in The Legend of Zelda: Ocarina of Time remake will test how lucky you are as you choose between two chests. As this game is all about luck, it's kind of a scam, but there's one surefire way to make it to the end and claim the prize: the Lenses of Truth . However, you're still free to try without them!
+Grand Theft Auto 6 is set to dominate 2026 with its long-awaited release on PlayStation 5 and Xbox Series X, another game — one heavily inspired by GTA, Marvel's Spider-Man , and Genshin Impact — will give Rockstar Games a run for its money: Ananta .
 
-### 'Godzilla Minus Zero' Officially Fixes King Ghidorah Canon in 1 Brilliant Way
-Fri, 06 Nov 2026 17:00:20 GMT — https://www.polygon.com/its-almost-singing-how-godzilla-minus-zero-brought-king-ghidorah-to-life-like-never-before/
+### Ryan Gosling is Officially Reviving The Flintstones for New Project
+Sat, 07 Nov 2026 01:30:17 GMT — https://www.polygon.com/ryan-gosling-flintstones-bamm-bamm-movie/
 
-In an interview with Polygon, the film's producer, Kazuaki Kishida, wouldn't say exactly how big the budget for Godzilla Minus Zero was (though it's been confirmed to be a significantly " more " than Minus One 's $15 million), but he did reveal one way that extra money changed how Yamazaki and his team approached making the sequel.
+Ryan Gosling has been incredibly booked and busy of late. He starred in the lead role in the sci-fi smash hit Project Hail Mary earlier this year. In 2027, he'll travel to the galaxy far, far away in St ar Wars: Starfighter . Then in 2028 he'll make his long-awaited MCU debut as Ghost Rider , re-teaming with Starfighter director Shawn Levy. If all that wasn't enough, Gosling has lined up one more unexpected project: The Flintstones .
 
-### EA Officially Brings Back 25 PC Classics With Huge Sale
-Fri, 06 Nov 2026 16:57:40 GMT — https://www.polygon.com/ea-classic-games-rerelease-wing-commander-remaster-ultima/
+### Every GTA Game, Ranked by Metacritic Score
+Sat, 07 Nov 2026 00:30:17 GMT — https://www.polygon.com/gta-games-ranked-metacritic-scores/
 
-Electronic Arts is not in players’ good graces right now. On Oct. 21, the publisher announced that it was closing BioWare , the beloved studio behind games like Mass Effect , Dragon Age, and Star Wars: Knights of the Old Republic . The news came just a few months after EA was purchased by the Saudi Arabian government’s Public Investment Fund, Jared Kushner’s Affinity Partners, and private equity firm Silver Lake. Despite these dismal circumstances, including the fact that EA is now owned by a government responsible for numerous human rights abuses , a small group of EA developers just finished an unexpected feel-good preservation project.
+With plenty of installments boasting Metacritic scores in the high 90s, GTA 6 has an exceptionally high bar to meet. That said, the series has had occasional growing pains over the years, even if true stinkers are a rarity among Rockstar Games’ back catalog. These are the top 10 GTA games of all time, ranked according to their Metacritic scores.
 
-### New Ratchet & Clank Game Officially Cancelled by Sony
-Fri, 06 Nov 2026 16:42:44 GMT — https://www.polygon.com/ratchet-and-clank-ranger-rumble-canceled-delisted/
+### All Happy Mask Shop buyer locations in Zelda Ocarina of Time
+Fri, 06 Nov 2026 22:38:46 GMT — https://www.polygon.com/zelda-ocarina-of-time-happy-mask-shop-spooky-skull-bunny-hood/
 
-Sony 's next Ratchet & Clank game has been scrapped before receiving a full release. On Friday, Sony Interactive Entertainment and developer Oh BiBi announced Ratchet & Clank: Ranger Rumble will be pulled from storefronts this month, and fully shut down next May.
+The Legend of Zelda: Ocarina of Time remake's Happy Mask Shop quest sends you around Hyrule peddling masks to specific customers. That sounds like a cushy gig, except you have very little guidance about who your customers are, and you occasionally even have to pay back the cost of the mask, too. However, if you want a big chunk of cash and a chance to see and hear everything in Ocarina of Time , it's worth the hassle.
 
 ## PC Gamer
+
+### Here's what's in Path of Exile 2’s huge 1.0 release, coming in December
+Fri, 06 Nov 2026 23:36:21 +0000 — https://www.pcgamer.com/games/rpg/heres-whats-in-path-of-exile-2s-huge-1-0-release-coming-in-december/
+
+Path of Exile 2's full release is out on December 11, and coming with it are two new classes, two new acts, a new league, tons of new monsters, bosses, battles, endgame changes, gem updates, atlas and skill tree updates, a new pinnacle boss, base types, uniques, and, I don't know, probably a kitchen sink or something. Let's go over it. First of all, we'll have two new classes: the Shadow and the Duelist. With them, we'll get all new skill gems for daggers and swords, with tons of new builds available. Daggers introduce new mechanics around stealth, traps, shadow skills with clones that attack with you, and classic skills like blade vortex and fire trap. The Duelist will introduce swords, and with it fan favorite skills like cyclone and hemorrhage. With swords we'll be able to use stances like blood and sand or ready stance. Add to this being able to two-hand, dual wield, or sword and board and swords look to add a huge amount of mechanical complexity. After two years of early access, the campaign will finally be fully finished. Acts five and six will complete our story of chasing the Beast through the world, with a return to Oriath and beyond. The campaign will also feature new bespoke rare monsters with their own abilities, appearances, and even mods. In addition, the campaign will feature an introduction to the league mechanic for 1.0, Conquerors of Wraeclast. The league will feature a base building mechanic, where you recruit armies and build up a castle. As you progress t
+
+### Rockstar's having a sale on old GTA games on the only platform Grand Theft Auto 6 isn't coming to (ours)
+Fri, 06 Nov 2026 23:11:50 +0000 — https://www.pcgamer.com/games/grand-theft-auto/rockstars-having-sale-on-old-gta-games-on-the-only-platform-grand-theft-auto-6-isnt-coming-to-ours/
+
+Grand Theft Auto 6 finally arrives on November 19, but not for us, no—the big day is only for gamers on PlayStation 5 and Xbox Series X/S. We're not being completely excluded, though: We can't have GTA 6 in November, but we can take advantage of pre-release discounts on a bunch of older GTA games—deals that, ironically, don't appear to be available on consoles. As noted by GamesRadar , there are four GTA games available in two releases: Grand Theft Auto 3, Vice City, and San Andreas bundled up in the GTA Trilogy for $19.79/£19.79/€19.79—67% off the regular price—and Grand Theft Auto 4: Complete Edition , which includes The Lost and Damned and The Ballad of Gay Tony expansions, for $6/£5.09/€6, a 70% discount. Those aren't the deepest discounts ever seen, but Grand Theft Auto games typically don't venture into the 90% off territory we all enjoy so much—and according to Isthereanydeal.com, this is as low as the GTA Trilogy has ever gone, and close to the mark for GTA 4 . You may recall that the GTA Trilogy Definitive Edition was a mess when it launched in 2021, but it seems to have turned that frown upside-down since then: On Steam, where the trilogy arrived in 2023, Vice City and San Andreas both hold "very positive" ratings. GTA 3 is stuck at a "mixed" rating, which is unfortunate: Glancing at user reviews, it sounds like the game still isn't in perfect shape, but it's also suffering from the fact that it's 25 years old, and was the first 3D game in the series—some jank and r
+
+### The AI posting war is heating up: 'Please, leave me behind,' says artist who got into it with Epic CEO Tim Sweeney on X
+Fri, 06 Nov 2026 22:21:50 +0000 — https://www.pcgamer.com/software/ai/the-ai-posting-war-is-heating-up-please-leave-me-behind-says-artist-who-got-into-it-with-epic-ceo-tim-sweeney-on-x/
+
+Kenney, an artist known for giving away thousands of free game assets , did not expect to wind up directly arguing with specific billionaires after telling off billionaires in general in a recent X post. But a few hours after he encouraged other artists not to give in to pressure to use generative AI, Epic Games CEO Tim Sweeney was in his replies. "This is bullshit, Kenney," Sweeney told the artist , concluding his rebuttal with a cute double entendre: "I've upped my expectations of AI. Up yours!" Richest-person-in-the-world Elon Musk also chimed in to back up Sweeney. Hundreds of other comments on the exchange inevitably followed, spanning the full spectrum of AI opinions. Kenney's contentious post was: "Don't let billionaires convince you slop is the future. They're used to managing & directing, not making things themselves. Of course they can't see the difference. They don't understand your love for the craft. Keep making personal, beautiful games. You've got my support 💖" (Image credit: Kenney/Tim Sweeney) The artist had not had Sweeney in mind when he wrote the post; it was a response to something Musk had said. Kenney expected it to be read by other artists who may feel pressured to use generative AI despite objecting to it. "I think AI has some benefit but there's just too many problems with it that I find it immoral to use in its current state," Kenney told PC Gamer in a chat after that exchange. "Whether it's the environmental issues, data centers, theft during trai
+
+### Path of Exile 2 announces a second new class, the Shadow, for its December 1.0 release
+Fri, 06 Nov 2026 21:50:58 +0000 — https://www.pcgamer.com/games/rpg/path-of-exile-2-announces-a-second-new-class-the-shadow-for-its-december-1-0-release/
+
+Today during ExileCon's keynote address Grinding Gear Games announced that Path of Exile 2's full release on December 11 will bring not one, but two new classes: Alongside the previously announced Duelist, 1.0 will also introduce the dagger-heavy, trap-wielding Shadow, capable of employing a suite of new stealth mechanics. The Shadow's addition had been hinted at with a cryptic teaser trailer, which you can see here . The class's inclusion is welcome news to those of us—like yours truly—who very much enjoy playing these sneaky stabbers. On release, Shadows will be able to ascend as the returning Assassin, or choose a new ascendancy: the Infiltrator. We know that eventually, every PoE2 character class will have (at least) three ascendancies. Whether the Shadow's third will be the Saboteur, the Trickster, or something new like the Sorceress's Disciple of Varashta is yet to be seen. As has been the case with previous PoE 2 class additions, the Shadow's arrival will also introduce a new weapon type and abilities. In 1.0, alongside the Duelist's swords, we'll also be getting the dagger, and with it all new skill gems and supports. We should see an absolute explosion of playstyle archetypes on top of PoE2's already healthy build diversity. The Shadow will introduce new mechanics like stealth, which prevents monsters from seeing you until you’re close by. It has a cooldown, but since it’s reset on kill, you should be able to use it to kill quickly from the shadows and get moving aga
+
+### Underkeep is my favorite old-school dungeon crawler since Legend of Grimrock, and yes that includes Queen's Domain
+Fri, 06 Nov 2026 21:14:51 +0000 — https://www.pcgamer.com/games/rpg/underkeep-is-my-favorite-old-school-dungeon-crawler-since-legend-of-grimrock-and-yes-that-includes-queens-domain/
+
+Everyone's talking about Queen's Domain right now, but as someone who tried Queen's Domain and did not care for it, allow me to direct your attention to an alternative old-school dungeon crawler: Underkeep, which launched on Steam on November 5 and has been absolutely phenomenal through the roughly four hours I've put into it so far. Like Queen's Domain, Underkeep is firmly rooted in the 1990s, but I'm talkin' the early '90s, and even before that: Classic grid-based RPGs like The Bard's Tale, Dungeon Master, Wizardry, and Eye of the Beholder. In fact, as someone who loves Eye of the Beholder (specifically the second one, The Legend of Darkmoon), I noticed a lot of nearly direct lifts from that series: primarily visual, but also a few audio cues, that I swear I've heard before. But my concerns that Underkeep might be a low-effort knockoff evaporated pretty quickly. After four hours of play I feel like I've barely scratched the game's surface: I still haven't found the titular village of Underkeep, where I assume the real action will begin, but I've crashed (literally, in a few cases) through multiple dungeons, all interconnected horizontally or vertically, and explored an overworld that's a whole lot bigger than I expected. At the very least, Underkeep looks beefy . Underkeep's gameplay preserves the vibe of those old-time RPGs while eliminating most of their more objectionable nonsense. Its shared inventory is divided into categories that make managing and swapping equipment 
+
+### 'It came out of nowhere. I was shocked and sad': He was the face of Hunt: Showdown for years, then Crytek laid him off
+Fri, 06 Nov 2026 21:06:01 +0000 — https://www.pcgamer.com/games/fps/it-came-out-of-nowhere-i-was-shocked-and-sad-he-was-the-face-of-hunt-showdown-for-years-then-crytek-laid-him-off/
+
+The Hunt: Showdown community received a sucker punch in September when it learned that Bence "Beedyboy" Hamos, a beloved community-facing figure for the long-running extraction shooter, was unceremoniously let go in a wave of Crytek layoffs that affected at least 30 people. For years Hamos was one of the faces of Hunt: Showdown, hosting livestreams, vlogs, and social media videos that kept players abreast of their favorite game's happenings. Through the highs and lows of Hunt's updates, events, and occasional controversies , he was a steady presence—calm, exuberant, and in touch with the experience of average players. Hamos began at Crytek in 2018 in a social media role, eventually climbing to senior broadcast manager. As someone who absorbs the work of community managers constantly for work, I believe Hamos was particularly good at it—which is why his sudden departure hit Hunt's most dedicated players hard . I caught up with Hamos last month, soon after his last day at Crytek, to learn what it was like to cultivate Hunt's community over nine years and talk about his unexpected departure. "I really looked up to Crytek," Hamos told me. "[Getting hired] was such an unbelievable moment in my life, which obviously completely changed my whole career. It was nothing I never imagined I'd do. I was super happy." Hamos said he had never worked in games when he interviewed at Crytek, but managed to charm the studio with his experience managing his rock band's social media, interacting 
 
 ### It's hard to meet women when I keep teleporting all the time
 Fri, 06 Nov 2026 18:00:00 +0000 — https://www.pcgamer.com/games/grand-theft-auto/its-hard-to-meet-women-when-i-keep-teleporting-all-the-time/
@@ -348,37 +378,12 @@ Fri, 06 Nov 2026 15:50:34 +0000 — https://www.pcgamer.com/games/world-of-warcr
 
 MMOs are kinda costly to run, but as it turns out, nowhere near as costly as a datacenter. I was going to spend most of this article joking about how Sam Altman, who doesn't like that we have RAM , would be frothing at the mouth for that kind of compute power. After a bit of research I am leaving horrified at the sheer industrial heft the AI industry requires. The numbers were revealed by the official WoW X account , which states that WoW Forever runs on about 3,924 virtual machines, 251,136 GB of memory, and 70,480 CPU cores. To give you an idea of how much server infrastructure that is, our best budget CPU goes for around $110 at the moment, and it has six cores. Fudge the maths a bit and that's $1.2 million in cores alone. Which is pricey, don't get me wrong—though not perhaps for a company that has hundreds of thousands of players paying a sub each month. Moreover, while it's funny to imagine Altman simply salivating at the amount of hardware that's going towards entertaining people, rather than whatever AI does, it turns out the RAM baron himself wouldn't so much as lift an eyebrow at the amount of tech it takes to run one of the biggest MMO events of the decade. It's just actually not that much, at least, not compared to AI. We reported on a $60 million AI rack cluster just last month that had about 1.4 petabytes of memory in it—that's around 1.4 million GB—and around 4,200 CPUs (each of which likely have a lot of cores, so a lot more than 70,000 cores in general). And 
 
-### Skyrim's lead designer has 2 big asks of The Elder Scrolls 6: Sentinel, and only one of them is something most players have ever thought about
-Fri, 06 Nov 2026 14:21:52 +0000 — https://www.pcgamer.com/games/the-elder-scrolls/skyrims-lead-designer-has-2-big-asks-of-the-elder-scrolls-6-sentinel-and-only-one-of-them-is-something-most-players-have-ever-thought-about/
-
-Psst, hey kid, what are the big changes you'd like to see in The Elder Scrolls 6: Sentinel ? Because all have them, don't we? We've all got our big lists for Todd Howard: Five Easy Ways to Turn This Enormously Profitable Ship Around. You know who else has some changes he'd like to see in Sentinel? Bethesda alum and Skyrim lead designer Bruce Nesmith, who recently sat down with The Examined Game and said that the things he'd really like Bethesda to knuckle down on in TES 6 are mounts and ladders. "I'd like to see a much better implementation of mounts," said Nesmith. "That's been a common complaint; I'm not alone in that." But mounts can be hard to get right. "They're really tricky, there's a lot of hard decisions to be made in those. "You can ride a horse, but that's all you can do in Skyrim. That's it, you just ride the horse. Well, I should be able to do some other things too, maybe fight on the horse, or have it fight with me, you know, stuff like that." In fairness, Skyrim does have some fairly rudimentary mounted combat—though players had to wait for it to be added in a patch back in the day—but I suspect Nesmith would like to see something a bit less awkward in future Elder Scrolls games. I imagine a lot of players would echo Nesmith on mounts. I'm less sure they share his concern about ladders, which strikes me as a very charming and very game-designer-y fixation to have. "You don't climb up and down ladders [in current Elder Scrolls games]. It seems simple, it seems s
-
-### Adding PvE to Arc Raiders 'isn't a difficult thing to do' but the question still stands how Embark can 'cater to the specific needs of the players'
-Fri, 06 Nov 2026 13:49:21 +0000 — https://www.pcgamer.com/games/third-person-shooter/adding-pve-to-arc-raiders-isnt-a-difficult-thing-to-do-but-the-question-still-stands-how-embark-can-cater-to-the-specific-needs-of-the-players/
-
-The biggest 'will they, won't they' in gaming right now involves Arc Raiders and whether it will finally add a PvE mode. All seemed promising after a very successful PvE test during the start of Frozen Trial, but news has since petered out, with Embark saying it needs a bit more time to figure everything out . I thought this meant Embark needed time to get all its ducks in a row and figure out the logistics of a permanent PvE mode, but it turns out that adding one isn't actually that hard. "We could just frankly add PvE,” Embark's CEO Patrick Söderlund says in an interview with The Game Business . “It’s not a difficult thing to do. But we didn’t want to obstruct or fiddle too much with the core loop of the game where the PvP aspect of a PvPvE game does add, we believe, adequate tension." (Image credit: Embark Studios) The biggest issue concerning a PvE mode is what it means for the game itself. The whole point of Arc Raiders being PvPvE is so players suffer even more tension as you never know when you're going to be jumped by an arc or other player. PvE obviously removes one of those threats, and the worry is that "by removing one substantial component, you’re fiddling with the core emotional loop." Something that Embark has previously decided "was not the right thing to do". "We’ve now since tried it and realised that it’s fine," Söderlund adds. "Maybe people can choose what they like. But that was our fear all along. People may have been wondering, 'why the hell aren’t they
-
-### Discord is cutting memory usage and speeding up boot times - joins Xbox, Epic, Steam, and more for similar upgrades just this year
-Fri, 06 Nov 2026 12:06:34 +0000 — https://www.pcgamer.com/hardware/discord-is-cutting-memory-usage-and-speeding-up-boot-times-joins-xbox-epic-steam-and-more-for-similar-upgrades-just-this-year/
-
-We've been early adopters of Rust since 2018 and a lot of our infra, voice tech, and even some of the current client is already Rust, the holy grail was getting the whole client there. That means Electron goes away, and so does React Native, mobile keeps native UI but shares app… https://t.co/2CgWyOzaq0 pic.twitter.com/IdOGd4nUgl November 4, 2026 Open up Task Manager and check how much memory Discord is currently hogging on your PC. If it's anything like mine, it's probably north of 500 MB. Alas, things should change soon, as Discord is moving the client completely over to a new programming language. It might not sound like that big of a deal, but Discord's CTO, Stanislav Vishnevskiy, shows it running on as little as 290 MB of memory. Discord is switching from Electron to Rust. Electron is a software framework, a building block that allows JavaScript apps (among others) to run standalone on desktops. Built on Chromium, the underlying model behind Google Chrome, there is an overhead here that swapping to Rust aims to fix. Vishnevskiy says, "We've been early adopters of Rust since 2018 and a lot of our infra, voice tech, and even some of the current client is already Rust, the holy grail was getting the whole client there. That means Electron goes away, and so does React Native, mobile keeps native UI but shares app code with desktop via Rust." Though some suspected Discord would be swapping to Rust using Tauri (an open-source framework for desktop and mobile platforms), Vishne
-
-### Zelda: Ocarina of Time remake reportedly running at 60 fps on PC just hours after game's official Nintendo Switch 2 release
-Fri, 06 Nov 2026 11:43:06 +0000 — https://www.pcgamer.com/software/zelda-ocarina-of-time-remake-reportedly-running-at-60-fps-on-pc-just-hours-after-games-official-nintendo-switch-2-release/
-
-I've spent all night playing The Legend of Zelda: Ocarina of Time remake on the Switch 2, and it's a fantastic experience, but some would prefer to tinker and toil over an emulator than enjoy Link's new look. The game is already running on PC, but performance issues are aplenty. You can see progress is moving pretty fast from the emulator crowd, just from these two videos by Unreal Gaming PC on YouTube. Published on the game's official launch day, November 5, this video shows the game getting over the splash screen and running the cutscenes fairly well; however, it suffers from bad flickering, stuttering, and frame rates around the 20-30 fps mark during gameplay. 12 hours later, another video. This time showing the game running between 30–60 fps during gameplay, albeit with some persistent flickering and stutters throughout. There's undoubtedly still a long way to go to a playable experience to match the native Switch 2, but that's marked progress for half a day's work. Especially considering the game is designed for an Arm-powered handheld with very different hardware to what's running the emulator (Ryzen 7 9800X3D, 64 GB of RAM, and RTX 4080). User akakevinvro on X also posted a video claiming a pretty steady 60 fps. Both are running on the Lichii emulator for the Nintendo Switch and Nintendo Switch 2. It's called the "VERY experimental Nintendo Switch 2 emulator" on its GitHub page. It's an open-source project that has similarities to projects of the same ilk, such as Yuzu
-
-### Zelnick doesn't regret GTA 6's delay because shipping an unfinished game rarely ends well: 'There was a very high profile release that fell into this category'
-Fri, 06 Nov 2026 11:40:38 +0000 — https://www.pcgamer.com/games/grand-theft-auto/zelnick-doesnt-regret-gta-6s-delay-because-shipping-an-unfinished-game-rarely-ends-well-there-was-a-very-high-profile-release-that-fell-into-this-category/
-
-Remember when Grand Theft Auto 6 was delayed, not once but twice ? It's hard to forget: its first release date was treated as a day of mourning by some particularly upset fans. Despite all the outcries from fans, Take-Two Interactive chief Strauss Zelnick has repeatedly explained that he doesn't regret the decision . Talking to WSJ the interviewer asks Zelnick what his immediate emotion was after hearing from the team that GTA 6 needed to be delayed: "I don't always feel calm but I tend to come across as calm … The timing of the call was not great for an array of reasons. We had just had a board retreat 10 days earlier so I wasn't thrilled about the timing. That said, this is a balancing act with all creative executives and it's not just time, it could be resources." (Image credit: Rockstar) "These are very difficult decisions to make," Zelnick continues. "If, on the other hand, if as a refresher course, your mission is to make the best entertainment on earth and part of your three part strategy is to be the most creative, sometimes you have to make these expensive and inconvenient decisions in service of that mission goal. The delay was essential, Zelnick says, to stay true to Take-Two's mission "to make the best entertainment on earth." "What happens when people take the other approach," Zelnick asks. "The other approach being we're slavishly devoted to a schedule and we're just going to ship despite what is going on. I'm not going to throw any competitors under the bus, bu
-
-### WoW: Forever is working on its server tech to make cities less empty, say devs
-Fri, 06 Nov 2026 11:28:35 +0000 — https://www.pcgamer.com/games/world-of-warcraft/wow-forever-is-working-on-its-server-tech-to-make-cities-less-empty-say-devs/
-
-World of Warcraft: Forever 's launch has been downright impressive—MMOs are notoriously difficult to run servers for, particularly when it comes to launch, where players will get bottlenecked into servers, throwing devs into a catch 22: Do they increase capacity and wind up wasting money in the long run while things die down, or do they ride out the wave? And yet, after the chaos of the beta, it's been buttery smooth. Which is why I'm willing to forgive Blizzard for a weird quirk of its realmless layering technology—cities have been empty, empty as hell. Which is a shame, given I know that hundreds of thousands of players are technically on this thing—and yet, none of them are in my Stormwind. Well, Forever's devs are working on a fix, per the official forums : "Just wanted to chime in," says Aggrend, "And say that we are aware of some issues with certain areas not feeling as populated as they should. We will be tweaking some numbers tomorrow to help things feel a bit more lively. Thanks for the feedback on this one!" That's a relief to hear, especially given I'm on a roleplay server, and there have been problems with this sort of thing where phasing has interrupted the flow of narrative commerce in the past. Cities, especially, should feel lived-in, and it's hard to create a sense of community when people you could be writing with keep bamfing in and out of existence. But even if you aren't a roleplayer like yours truly , I think you should be gladdened by this news—big citi
-
 ## GameSpot
+
+### Can You Upgrade To GTA 6 s $100 Edition? Yes, And It s Easy Here s How
+Fri, 06 Nov 2026 20:23:39 +0000 — https://www.gamespot.com/articles/can-you-upgrade-to-gta-6s-100-edition-yes-and-its-easy-heres-how/
+
+Rockstar's Grand Theft Auto 6 launches on November 19. If you're planning to buy the $80 edition but want to upgrade later to the $100 version, you might be interested to know if such a thing is possible. Thankfully, yes, it is-and it's very easy to do. Rockstar will offer an "Ultimate Edition Upgrade" for $20, so for anyone who buys the $80 version and decides they do want the additional perks, they can upgrade. This applies to both the digital edition of GTA 6 that you can buy from the Xbox and PlayStation stores, as well the code-in-a-box physical edition. You can get a haircut like this at Sara's Unisex Hair Salon, which is exclusive to the $100 edition. The $100 Ultimate Edition, which is not sold in stores, includes a lot of extras, including vehicles, weapons, clothing for your in-game characters . The items are "threaded across all aspects of Jason and Lucia's story," Rockstar said , with new items becoming available "behind each chapter." Additionally, people who buy the $100 version get access to in-game businesses that won't be available to everyone else, including a hair salon, a tattoo parlor, a mod shop, and more. Meanwhile, all preorders for GTA 6 come with the The Vintage Vice City Pack and one month of GTA+ . In other news, preloading for GTA 6 begins November 10, and that's good news considering the game weighs in at a whopping 212GB . The game officially unlocks at midnight local time, so pack your bags for New Zealand if you want to play it sooner.
 
 ### Donuts Beat AI: Nvidia Has Lost $1 Trillion+ In The Past Month, While Krispy Kreme Surges
 Fri, 06 Nov 2026 18:50:58 +0000 — https://www.gamespot.com/articles/donuts-beat-ai-nvidia-has-lost-1-trillion-in-the-past-month-while-krispy-kreme-surges/
@@ -435,12 +440,12 @@ Fri, 06 Nov 2026 13:46:33 +0000 — https://www.gamespot.com/articles/stellar-bl
 
 There's no denying that Stellar Blade is one seriously good-looking game. On Switch 2, it runs surprisingly well on Nintendo's hybrid system, and it'd be a perfect port if it wasn't for one glaring issue that holds it back. On the surface, Stellar Blade looks like a smooth port with few compromises, as it still offers plenty of graphical detail at a lower resolution. Stellar Blade on Switch 2 also targets 60fps, but in order to achieve that, it uses a very aggressive form of frame generation to create a smooth sense of action. The problem with this is that it makes the game harder to play, because your actions are delayed. https://youtu.be/9zr4QK15BNs Parries and dodges require perfect timing, and because the game is delayed, pressing a button right as an enemy hits you is often too late, causing you to take damage. This also means that controlling the protagonist Eve feels somewhat sluggish, navigating the environments feels sluggish, and during chaotic fights, the game can lag so badly that it feels like your controller is completely ignoring your inputs. This is at odds with how the game teaches you to master its gameplay, as the natural rhythm you're supposed to pick up alongside visual cues simply does not match up with the delicate timing needed to pull off counters and parries. Because Stellar Blade is an action game that's tightly centered on strict frame windows for counters and dodges--think of it as being soulslike-adjacent with its combat--the disconnect between t
 
-### After EA, Saudi Arabia Is Reportedly Setting Its Sights On One Of Gaming s Biggest Engines
-Fri, 06 Nov 2026 13:14:02 +0000 — https://www.gamespot.com/articles/after-ea-saudi-arabia-is-reportedly-setting-its-sights-on-one-of-gamings-biggest-engines/
-
-Unity Software is reportedly being eyed as the next acquisition by Saudi Arabia's Public Investment Fund and a consortium of investors, including US private equity firm Silver Lake Partners. According to Reuters , Unity is already in talks with interested parties, with the software company reportedly valued as high as $25 billion, a significant increase from its current public price of $21.5 billion following its latest earnings report. Silver Lake already owns 8% of Unity, and talks are said to be in place as Unity considers the best options moving forward. If the company is sold, it'll represent another major investment by Saudi Arabia's sovereign wealth fund and partners into the gaming industry, following the recent acquisition of Electronic Arts for $55 billion (that Silver Lake was also involved in). That takeover hasn't been without controversy, as the billions in leveraged debt that EA was saddled with has forced the company to make drastic cuts across the board , including the heavily criticized decision to shut down fan-favorite developer BioWare . https://www.youtube.com/watch?v=oxqys4Nm4Cs Alongside its ownership of several studios--like mobile game developer Scopely--and stakes in gaming publishers like Nintendo and Capcom, a Unity acquisition could result in Saudi Arabia having an even bigger influence in the industry. Unity is the second-most popular game-development engine after Epic's Unreal, and it has been used to power multiple hit games, from indie hits l
-
 ## Rock Paper Shotgun
+
+### What are we all playing this weekend?
+Sat, 07 Nov 2026 08:00:00 +0000 — https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-407
+
+This is the last empty weekend before I go on holiday for a frankly indulgent three weeks. As such, it will likely be spent either remembering all the things my partner and I've not organised for the time we're away or racing to clear through the pile of things I've already remembered I've not organised for the holiday. Whatever the case, it shall not be restful. Where am I going? Let's just say, I hope to return with some new pairs of glasses and a pair of trainers. If that doesn't give it away, I don't know what will.* Read more
 
 ### Real-time strategy game The Fertile Crescent 2 is an isometric odyssey inspired by Age of Empires, with the 1.0 release out now
 Fri, 06 Nov 2026 17:20:50 +0000 — https://www.rockpapershotgun.com/real-time-strategy-game-the-fertile-crescent-2-is-an-isometric-odyssey-inspired-by-age-of-empires-releasing-out-of-early-access-now
@@ -496,9 +501,4 @@ Sometimes, you come across a game and instantly know it's for the sickos. Today 
 Thu, 05 Nov 2026 18:30:00 +0000 — https://www.rockpapershotgun.com/after-a-16-year-long-dev-period-faraway-a-shooting-star-arcade-game-about-siphoning-the-energy-of-other-stars-is-out-now
 
 Lord almighty, video games take a while to make, 'ey? Especially if you're just one person working on it by yourself. Such is the case with Faraway, out today, an arcade game that reminds me of the early days of PS3 indies "about a shooting star that creates constellations to stay alive," all made single-handedly by creator of cult-classic mobile game Eliss, Steph Thirion. Did I mention that Faraway took 16 years to make? Like I said, game development is a lengthy process. Read more
-
-### The Legend of Khiimori's Mongolian Expanse update brings in frosty mountains and scorching deserts that'll require a lot more than a fur coat and a sturdy horse
-Thu, 05 Nov 2026 18:00:00 +0000 — https://www.rockpapershotgun.com/the-legend-of-khiimoris-mongolian-expanse-update-brings-in-frosty-mountains-and-scorching-deserts-thatll-require-a-lot-more-than-a-fur-coat-and-a-sturdy-horse
-
-Another day, another opportunity for some horsing around! I'm being literal here, to be clear, as a new update for The Legend of Khiimori dropped yesterday. It's called The Mongolian Expanse, opening up the map a whole lot more and making a sweep of other additions to the game. Read more
 

@@ -1,72 +1,77 @@
-# Manga — harvested 2026-11-06T20:05:04.732Z
+# Manga — harvested 2026-11-07T11:19:46.962Z
 
 ## Anime News Network
 
-### Devils' Crest ‒ Episodes 1-2
-Fri, 06 Nov 2026 14:30:00 -0500 — https://www.animenewsnetwork.com/review/devils-crest/episodes-1-2/.243580
+### Bless TV Anime's 1st Full Promo Video Announces January 8 Debut
+Sat, 07 Nov 2026 03:59:25 -0500 — https://www.animenewsnetwork.com/news/2026-11-07/bless-tv-anime-1st-full-promo-video-announces-january-8-debut/.243605
 
-The ever-growing pile of questions is already staggeringly large. I wouldn't call this show captivating so far, but I am interested in seeing what it becomes now that the groundwork is out of the way.
+Hikka's ending theme song "New Page" also previewed
 
-### Petals of Reincarnation Anime Series Review
-Fri, 06 Nov 2026 12:00:00 -0500 — https://www.animenewsnetwork.com/review/petals-of-reincarnation-anime-series/.243049
+### 'There Was a Cute Girl in the Hero's Party, So I Tried Confessing to Her' Anime Gets 2nd Season
+Sat, 07 Nov 2026 03:46:11 -0500 — https://www.animenewsnetwork.com/news/2026-11-07/there-was-a-cute-girl-in-the-hero-party-so-i-tried-confessing-to-her-anime-gets-2nd-season/.243604
 
-<i>Petals of Reincarnation</i> is aimless in its anger, tries to do way too much, and doesn’t seem to care much (if at all) about what it’s communicating.
+Main cast to reprise roles
 
-### This Week in Games - Hacking your Evercold Pikmin
-Fri, 06 Nov 2026 10:00:00 -0500 — https://www.animenewsnetwork.com/this-week-in-games/2026-11-06/hacking-your-evercold-pikmin/.243468
+### Everyone's Darling Has a Secret Anime's New Teaser Unveils More Cast, Ending Song
+Sat, 07 Nov 2026 03:38:46 -0500 — https://www.animenewsnetwork.com/news/2026-11-07/everyone-darling-has-a-secret-anime-new-teaser-unveils-more-cast-ending-song/.243603
 
-Jean-Karlo has the update on the <cite>Goddess of Victory: NIKKE</cite> security exploit, a brand-new holiday, and the new classes coming to <cite>Final Fantasy XIV</cite>.
+≒JOY idols Aimi Ozawa, Renon Esumi, Aoi Ōnishi join cast
 
-### EXCLUSIVE: Dr. Poro, the Manga Writer Behind The Vermilion Mask
-Fri, 06 Nov 2026 09:00:00 -0500 — https://www.animenewsnetwork.com/interview/2026-11-06/exclusive-dr-poro-the-manga-writer-behind-the-vermilion-mask/.243221
+### Abema Selects Project PRISMation's 1st Open Call Finalists to Make 3 Pilot Anime
+Sat, 07 Nov 2026 03:19:34 -0500 — https://www.animenewsnetwork.com/news/2026-11-07/abema-selects-project-prismation-1st-open-call-finalists-to-make-3-pilot-anime/.243602
 
-Dr. Poro and ANN discuss The Vermilion Mask's origins, how the characters reflect their creator, and why Dr. Poro always chooses the healer in RPGs.
+"OXY-HEAVEN," "Amneka," "Kandy-Killers for Hire" pilots slated for 2027 or later
 
-### Paradox Live The Animation's Film Announces Title, 2027 Opening
-Fri, 06 Nov 2026 07:32:30 -0500 — https://www.animenewsnetwork.com/daily-briefs/2026-11-06/paradox-live-the-animation-film-announces-title-2027-opening/.243590
+### Dragon's Dogma 2: Dark Arisen Game Collaborates With Delicious in Dungeon
+Fri, 06 Nov 2026 21:00:00 -0500 — https://www.animenewsnetwork.com/interest/2026-11-06/dragon-dogma-2-dark-arisen-game-collaborates-with-delicious-in-dungeon/.243563
 
-The official website for the hip-hop-themed multimedia franchise presented the early teaser visual for its upcoming film project on Friday. The visual...
+What sort of wild new recipes will Laios come up with?
 
-### Rainy Day Serenade Anime's Teaser Reveals Cast, Staff, April 2027 Debut
-Fri, 06 Nov 2026 06:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-06/rainy-day-serenade-anime-teaser-reveals-cast-staff-april-2027-debut/.243586
+### Magic Knight Rayearth ‒ Episode 5
+Fri, 06 Nov 2026 19:30:00 -0500 — https://www.animenewsnetwork.com/review/magic-knight-rayearth/episode-5/.243594
 
-Yume Miyamoto, Takeo Ōtsuka star in anime
+Even Fuu knows that Fuu is the best character here. Queen.
 
-### Wound & Bandage Anime's New Video Reveals More Cast & Staff, Opening Song
-Fri, 06 Nov 2026 05:31:34 -0500 — https://www.animenewsnetwork.com/news/2026-11-06/wound-and-bandage-anime-new-video-reveals-more-cast-and-staff-opening-song/.243587
+### Hana-Kimi Manga Gets New Live-Action Series, 1st Stage Play
+Fri, 06 Nov 2026 18:51:13 -0500 — https://www.animenewsnetwork.com/news/2026-11-06/hana-kimi-manga-gets-new-live-action-series-1st-stage-play/.243601
 
-Kō Bonkobara, Kengo Takanashi join cast
+Hana Kawamura, The Rampage's Makoto Hasegawa & Itsuki Fujiwara star in both
 
-### Laid-Back Camp Season 4's Trailer Unveils April 2027 Debut
-Fri, 06 Nov 2026 04:21:42 -0500 — https://www.animenewsnetwork.com/news/2026-11-06/laid-back-camp-season-4-trailer-unveils-april-2027-debut/.243588
+### North American Anime, Manga Releases, November 1-7
+Fri, 06 Nov 2026 17:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-06/north-american-anime-manga-releases-november-1-7/.243459
 
-Trailer also previews Asaka, Eri Sasaki's theme songs
+<cite>KPop Demon Hunters</cite> animated film; <cite>Black Jack, Full Metal Panic! Family</cite> manga ship
 
-### He Does a Body Good Webtoon Gets AnimeFesta Anime in January 2027
-Fri, 06 Nov 2026 01:13:06 -0500 — https://www.animenewsnetwork.com/news/2026-11-06/he-does-a-body-good-webtoon-gets-animefesta-anime-in-january-2027/.243585
+### FX Fighter Kurumi-chan ‒ Episode 6
+Fri, 06 Nov 2026 16:30:00 -0500 — https://www.animenewsnetwork.com/review/fx-fighter-kurumi-chan/episode-6/.243581
 
-Atsushi Hizashi, Ion Momoyama, Towa Miyako, Milk Amai star in anime
+It's like slapstick, watching a stupid character fail, then succumb to the consequences—if instead of comically tripping down a flight of stairs, she was losing all of her student aid money and trashing her laptop in a fit of rage
 
-### Booty Royale: Never Go Down Without a Fight! Manga Gets TV Anime in January
-Fri, 06 Nov 2026 00:41:13 -0500 — https://www.animenewsnetwork.com/news/2026-11-06/booty-royale-never-go-down-without-a-fight-manga-gets-tv-anime-in-january/.243584
+### Odd Taxi Manga Author Launches New Rematch With You Manga in Late November
+Fri, 06 Nov 2026 16:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-06/odd-taxi-manga-author-launches-new-rematch-with-you-manga-in-late-november/.243576
 
-Hisako Tōjō, Nao Shiraki, Natsumi Murakami, Hikaru Iida star in risque martial arts anime
+Abaraya previously published <i>dōjin</i> version of manga at Comitia in November 2025
 
-### Dragon Ball Z's English Dub Composer Elected as Texas Attorney General
-Thu, 05 Nov 2026 23:00:00 -0500 — https://www.animenewsnetwork.com/interest/2026-11-05/dragon-ball-z-english-dub-composer-elected-as-texas-attorney-general/.243558
+### STEEL BALL RUN JoJo's Bizarre Adventure ‒ Episode 8
+Fri, 06 Nov 2026 15:30:00 -0500 — https://www.animenewsnetwork.com/review/steel-ball-run-jojo-bizarre-adventure/episode-8/.243593
 
-Will his power level go over 9,000?
+Intertwined with Johnny's growing dedication to walking again, the fight that propels much of this episode forward feels both narratively fulfilling and naturally progressing.
 
-### Amahara's 33 Years Old Single Girl Knight Captain Manga Gets Anime
-Thu, 05 Nov 2026 22:47:35 -0500 — https://www.animenewsnetwork.com/news/2026-11-05/amahara-33-years-old-single-girl-knight-captain-manga-gets-anime/.243579
+### The Fall 2026 Anime Preview Guide - Devils' Crest
+Fri, 06 Nov 2026 14:52:04 -0500 — https://www.animenewsnetwork.com/preview-guide/2026/fall/devils-crest/.243578
 
-Digital Shokunin produces anime about overworked, sex-starved knight captain
+The creative mind behind <cite>Sword Art Online</cite> has a brand-new anime series. Read our reviews of Reki Kawahara's latest deadly VRMMORPG story!
 
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### A Tsujita Artisan Noodle X Umamusume Collab Starts November 12
+Sat, 07 Nov 2026 06:53:59 GMT — https://animecorner.me/a-tsujita-artisan-noodle-x-umamusume-collab-starts-november-12/
+
+Tsujita Artisan Noodle has announced a collaboration with the Umamusume: Pretty Derby franchise. The&hellip;
 
 ### Fall 2026 Anime Rankings – Week 5
 Fri, 06 Nov 2026 12:30:00 GMT — https://animecorner.me/fall-2026-anime-rankings-week-5/
@@ -103,27 +108,27 @@ Thu, 05 Nov 2026 12:02:06 GMT — https://animecorner.me/code-geass-star-chaser-
 
 CODE GEASS Star Chaser Aspal new anime revealed the main key visual, along with the main voice cast members.
 
-### Fool Night Anime by SHAFT and SUNRISE Reveals Main Trailer, Theme Songs, New Key Visual
-Thu, 05 Nov 2026 11:10:21 GMT — https://animecorner.me/fool-night-anime-by-shaft-and-sunrise-reveals-main-trailer-theme-songs-new-key-visual/
-
-FOOL NIGHT anime by studios SHAFT and SUNRISE revealed a new key visual, theme songs and main trailer ahead of its November 26 premiere.
-
-### Spirit Circle TV Anime Announced for December 2026, Reveals Cast and First Trailer
-Thu, 05 Nov 2026 10:09:29 GMT — https://animecorner.me/spirit-circle-tv-anime-announced-for-december-2026-reveals-cast-and-first-trailer/
-
-Satoshi Mizukami's Spirit Circle manga is officially getting a TV anime adaptation, with the release date set for December 2026.
-
-### Halloween Night at Lucca Comics and Games 2026 (Photo Gallery)
-Wed, 04 Nov 2026 23:59:17 GMT — https://animecorner.me/halloween-night-at-lucca-comics-and-games-2026-photo-gallery/
-
-Lucca Comics & Games concluded last week, but we can't forget the lively Halloween&hellip;
-
-### Mashle Live-Action Film Teaser Reveals Mackenyu Cast as Mash, Yuichi Fukuda Directs
-Wed, 04 Nov 2026 23:39:46 GMT — https://animecorner.me/mashle-live-action-film-teaser-reveals-mackenyu-cast-as-mash-yuichi-fukuda-directs/
-
-The live-action film adaptation of MASHLE: MAGIC AND MUSCLES has cast Mackenyu as protagonist Mash Burnedead.
-
 ## MyAnimeList News
+
+### Houkago no Idol ni wa Himitsu ga Aru Reveals Additional Cast, Ending Theme
+Sat, 07 Nov 2026 01:30:53 -0800 — https://myanimelist.net/news/74913365?_location=rss
+
+The official website of the Houkago no Idol ni wa Himitsu ga Aru (Everyone s Darling Has a Secret) television anime revealed additional cast and the ending theme on Saturday. The anime series adapting Kashiko Amane s romantic comedy manga will premiere in April 2027. Cast Houfu: Aimi Ozawa (≒JOY) (Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita.) Saikyou: Renon Esumi (≒JOY) (Gacha wo Mawashite Nakama wo Fuyasu) Okaniwa: Aoi Oonishi (≒JOY) The cast members Hikaru Tono, Iori No...
+
+### Additional Cast for Gacha wo Mawashite Nakama wo Fuyasu Announced
+Sat, 07 Nov 2026 01:02:11 -0800 — https://myanimelist.net/news/74913326?_location=rss
+
+The official website for the television anime adaptation of Chinkururi and Nanashina s Gacha wo Mawashite Nakama wo Fuyasu: Saikyou no Bishoujo Gundan wo Tsukuriagero (Gacha Girls Corps) light novel revealed a pair of additional cast and key visual (pictured) on Sunday. The anime series will premiere on January 7 at 9:25 p.m. on Tokyo MX, Hokkaido Broadcasting, RKB Mainichi Broadcasting, BS11, and AT-X. Voice actresses Aimi Ozawa (Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita.)...
+
+### Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita. Second Season in Production
+Sat, 07 Nov 2026 00:39:43 -0800 — https://myanimelist.net/news/74913297?_location=rss
+
+The official website for the television anime adaptation of Suisei and Kairi&rsquo;s Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita. (There was a Cute Girl in the Hero&rsquo;s Party, so I Tried Confessing to Her.) manga announced a second season on Saturday, revealing an announcement visual (pictured). Produced by Gekkou, the first season aired in 13-episodes in Winter 2026. Crunchyroll simulcasted the anime with subtitle in multiple languages. Kairi began serializing the manga adapt...
+
+### Mixed Media Project Harajuku Himegoto House Announces TV Anime Adaptation
+Fri, 06 Nov 2026 21:07:54 -0800 — https://myanimelist.net/news/74912747?_location=rss
+
+Entertainment company Plott announced a television anime adaptation of its Harajuku Himegoto House mixed-media project on Saturday, revealing the main cast, staff, a key visual (pictured), and a teaser promotional video. Cast Mizuki Otokozawa: Yuuya Hirose (Mato Seihei no Slave) Mero Togariishi: Tetsuei Sumiya (Fairy Ranmaru) Takara Rokurokusou: Souhei Horikane (Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku) Kentarou Jinbayama: Masaru Yoshimura Yuki Inubou: Takuma Nagatsuka (SK&infin;)...
 
 ### Namidaame to Serenade Reveals Main Cast, Staff, Teaser Promo, Spring 2027 Premiere
 Fri, 06 Nov 2026 03:34:35 -0800 — https://myanimelist.net/news/74910185?_location=rss
@@ -160,26 +165,16 @@ Thu, 05 Nov 2026 03:25:30 -0800 — https://myanimelist.net/news/74906712?_locat
 
 The official website of the Fool Night original net anime unveiled additional cast, a key visual (pictured), the theme songs, and first promotional video on Thursday. The anime adapting Kasumi Yasuda s sci-fi drama manga will debut worldwide exclusively on Netflix on November 26. Cast Sumi Matsuno: Shion Wakayama (Dandadan) Ken Hikasa: Hiroshi Tsuchida (Usagi Drop) Nishi: Nobuhiko Okamoto (Boku no Hero Academia) Mei Okumura: Sayaka Senbongi (Dungeon Meshi) Ivy: Yumiko Kobayashi (Soul Eater)...
 
-### Manga Spirit Circle Gets TV Anime in December 2026
-Thu, 05 Nov 2026 01:55:21 -0800 — https://myanimelist.net/news/74906596?_location=rss
-
-Production company Twin Engine opened an official website for a television anime adaptation of Satoshi Mizukami s Spirit Circle manga on Thursday, revealing the main cast, staff, a teaser visual (pictured), the ending theme, and first promotional video. The anime series is scheduled to premiere in December 2026, with a total of 18 episodes. Cast Fuuta Okeya: Kazuki Ura (Tougen Anki) Kouko Ishigami: Anna Nagase (Koori no Jouheki) Rune: Eri Yukimura (Leadale no Daichi nite) East: Yuuichi Naka...
-
-### Code Geass: Hoshi Oi no Aspal Announces Main Cast, Additional Staff
-Thu, 05 Nov 2026 01:49:09 -0800 — https://myanimelist.net/news/74906589?_location=rss
-
-The official website for the Code Geass: Hoshi Oi no Aspal (Code Geass: Star Chaser Aspal) new anime series revealed the main cast, additional staff, and the main visual (pictured) on Thursday. The anime is scheduled to premiere in 2027, with advance screenings beginning in January 2027. Voice actors Ivan Shibata (Kaijuu 8-gou) and Hibiku Yamamura (Pon no Michi) are starring in the anime as Aspal and Zo&eacute;, respectively. Staff Assistant Director: Shinnosuke Itou (Kidou Senshi Gundam: GQuuuu...
-
-### Magic Knight Rayearth Unveils Additional Cast Pair
-Thu, 05 Nov 2026 01:16:43 -0800 — https://myanimelist.net/news/74906532?_location=rss
-
-The official website for the new Magic Knight Rayearth (Mahou Kishi Rayearth) television anime announced additional cast pair on Thursday. The anime series premiered on October 7 at 11.45 p.m. on TV Asahi s "IMAnimation W" frame. Voice actors Shinichiro Miki (Youjo Senki) and Megumi Toyoguchi (Mushoku Tensei) joined the cast as Umi s father and Umi s mother, respectively. Yui Umemoto (Ninja Kamui) is directing at E&amp;H Production, with Takayuki Sano (Bullet/Bullet epi...
-
 ## Otaku USA
 
 _Nothing in the last 48 hours._
 
 ## Anime UK News
+
+### Teacher, We Will Destroy the World! Volume 2 Review
+Sat, 07 Nov 2026 10:00:48 +0000 — https://animeuknews.net/2026/11/teacher-we-will-destroy-the-world-volume-2-review/
+
+Solo's plan to get Xioa back to class has hit a roadblock as the boy turns against him and takes Ibuki hostage. What did he truly wish to learn forbidden magic for?
 
 ### My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I’m Out For Revenge! Review
 Fri, 06 Nov 2026 10:00:25 +0000 — https://animeuknews.net/2026/11/my-gift-lvl-9999-unlimited-gacha-backstabbed-in-a-backwater-dungeon-im-out-for-revenge-review/
@@ -190,9 +185,4 @@ A new anime label debuts in the UK with this fantasy show about a boy with an un
 Thu, 05 Nov 2026 13:00:26 +0000 — https://animeuknews.net/2026/11/secondhand-sisters-volume-1-review/
 
 Secondhand Sisters follows two sisters who have always held a deep resentment for one another. Now, after the passing of their mother, they find themselves living under the same roof which is sure to be nothing but trouble...
-
-### Dragon Quest: The Mark of Erdrick Volume 5 Review
-Thu, 05 Nov 2026 10:00:48 +0000 — https://animeuknews.net/2026/11/dragon-quest-the-mark-of-erdrick-volume-5-review/
-
-The adventures of Arus and his party continue as they arrive in Aliahan, famed birthplace of Erdrick himself, but things don’t go according to plan, because… well that would be boring, wouldn’t it?
 

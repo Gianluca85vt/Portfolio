@@ -1,4 +1,4 @@
-# AI — harvested 2026-11-06T20:05:04.732Z
+# AI — harvested 2026-11-07T11:19:46.962Z
 
 ## OpenAI
 
@@ -22,44 +22,9 @@ Thu, 05 Nov 2026 20:00:00 GMT — https://openai.com/index/cultfit-builds-with-c
 
 Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.
 
-### GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents
-Thu, 05 Nov 2026 09:00:00 GMT — https://openai.com/index/introducing-gpt-6-cyber
-
-Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.
-
-### Merge builds product and business tools with OpenAI technology
-Thu, 05 Nov 2026 08:00:00 GMT — https://openai.com/index/merge-builds-with-openai
-
-Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.
-
-### Setting a new standard for responsible AI infrastructure
-Thu, 05 Nov 2026 02:00:00 GMT — https://openai.com/index/setting-new-standard-responsible-ai-infrastructure
-
-OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.
-
-### Flipsnack grows product signups with conversion optimization
-Thu, 05 Nov 2026 00:45:15 GMT — https://openai.com/ads/customers/flipsnack
-
-Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.
-
-### Franklin Templeton uses OpenAI to support investment research
-Thu, 05 Nov 2026 00:00:00 GMT — https://openai.com/index/franklin-templeton
-
-Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.
-
 ## Hugging Face
 
-### ToyBlocks: A controlled world for robot learning and evaluation
-Fri, 06 Nov 2026 14:00:48 GMT — https://huggingface.co/blog/allenai/toyblocks
-
-### Egyptian and Nigerian English join the Open ASR Leaderboard
-Fri, 06 Nov 2026 00:00:00 GMT — https://huggingface.co/blog/open-asr-leaderboard-liva
-
-### New NVIDIA Cosmos 3 Open Models for Interactive World Simulation
-Thu, 05 Nov 2026 19:35:16 GMT — https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation
-
-### A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.
-Thu, 05 Nov 2026 00:00:00 GMT — https://huggingface.co/blog/phonon-tts
+_Feed unavailable: HTTP 429_
 
 ## Google DeepMind
 
