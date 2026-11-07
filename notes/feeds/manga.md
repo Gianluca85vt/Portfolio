@@ -1,6 +1,21 @@
-# Manga — harvested 2026-11-07T11:19:46.962Z
+# Manga — harvested 2026-11-07T18:18:11.126Z
 
 ## Anime News Network
+
+### Memoirs of Amorous Gentlemen Musical Review
+Sat, 07 Nov 2026 12:00:00 -0500 — https://www.animenewsnetwork.com/review/memoirs-of-amorous-gentlemen/musical/.243017
+
+The first American manga musical and final work of Duncan Sheik is a mixed bag, carried by an amazing lead performance.
+
+### Makoto Furukawa Writes, Sings Ending for One-Punch Man Season 3's 2nd Part
+Sat, 07 Nov 2026 06:22:28 -0500 — https://www.animenewsnetwork.com/news/2026-11-07/makoto-furukawa-writes-sings-ending-for-one-punch-man-season-3-2nd-part/.243608
+
+4 new hero visuals, 2 monster visuals also presented
+
+### Gacha Girls Corps Anime Reveals More Cast, January 7 Debut
+Sat, 07 Nov 2026 05:36:55 -0500 — https://www.animenewsnetwork.com/news/2026-11-07/gacha-girls-corps-anime-reveals-more-cast-january-7-debut/.243607
+
+≒JOY idols Aimi Ozawa, Renon Esumi join cast
 
 ### Bless TV Anime's 1st Full Promo Video Announces January 8 Debut
 Sat, 07 Nov 2026 03:59:25 -0500 — https://www.animenewsnetwork.com/news/2026-11-07/bless-tv-anime-1st-full-promo-video-announces-january-8-debut/.243605
@@ -47,26 +62,26 @@ Fri, 06 Nov 2026 16:30:00 -0500 — https://www.animenewsnetwork.com/review/fx-f
 
 It's like slapstick, watching a stupid character fail, then succumb to the consequences—if instead of comically tripping down a flight of stairs, she was losing all of her student aid money and trashing her laptop in a fit of rage
 
-### Odd Taxi Manga Author Launches New Rematch With You Manga in Late November
-Fri, 06 Nov 2026 16:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-06/odd-taxi-manga-author-launches-new-rematch-with-you-manga-in-late-november/.243576
-
-Abaraya previously published <i>dōjin</i> version of manga at Comitia in November 2025
-
-### STEEL BALL RUN JoJo's Bizarre Adventure ‒ Episode 8
-Fri, 06 Nov 2026 15:30:00 -0500 — https://www.animenewsnetwork.com/review/steel-ball-run-jojo-bizarre-adventure/episode-8/.243593
-
-Intertwined with Johnny's growing dedication to walking again, the fight that propels much of this episode forward feels both narratively fulfilling and naturally progressing.
-
-### The Fall 2026 Anime Preview Guide - Devils' Crest
-Fri, 06 Nov 2026 14:52:04 -0500 — https://www.animenewsnetwork.com/preview-guide/2026/fall/devils-crest/.243578
-
-The creative mind behind <cite>Sword Art Online</cite> has a brand-new anime series. Read our reviews of Reki Kawahara's latest deadly VRMMORPG story!
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Gacha Girls Corps Anime Premieres January 7
+Sat, 07 Nov 2026 15:57:58 GMT — https://animecorner.me/gacha-girls-corps-anime-premieres-january-7/
+
+Gacha Girls Corps anime announced a January 7, 2027 premiere date. A main visual&hellip;
+
+### There Was a Cute Girl in the Hero’s Party, so I Tried Confessing to Her Anime Gets Season 2
+Sat, 07 Nov 2026 15:48:21 GMT — https://animecorner.me/there-was-a-cute-girl-in-the-heros-party-so-i-tried-confessing-to-her-anime-gets-season-2/
+
+There Was a Cute Girl in the Hero’s Party, so I Tried Confessing to&hellip;
+
+### Everyone's Darling Has a Secret Reveals Additional Cast, Ending Theme Song
+Sat, 07 Nov 2026 15:36:43 GMT — https://animecorner.me/everyones-darling-has-a-secret-reveals-additional-cast-ending-theme-song/
+
+Everyone’s Darling Has a Secret anime has three additional cast and the ending theme&hellip;
 
 ### A Tsujita Artisan Noodle X Umamusume Collab Starts November 12
 Sat, 07 Nov 2026 06:53:59 GMT — https://animecorner.me/a-tsujita-artisan-noodle-x-umamusume-collab-starts-november-12/
@@ -98,16 +113,6 @@ Fri, 06 Nov 2026 04:01:32 GMT — https://animecorner.me/interview-asta-voice-ac
 
 Black Clover returned after 5 years this Fall with Season 2, bringing with it&hellip;
 
-### The Dangers in My Heart (BokuYaba) Season 3 New Visual and Trailer Revealed, April 2027 Release
-Thu, 05 Nov 2026 15:08:16 GMT — https://animecorner.me/the-dangers-in-my-heart-bokuyaba-season-3-new-visual-and-trailer-revealed-april-2027-release/
-
-The Dangers in My Heart (BokuYaba) Season 3 revealed a key visual and trailer, along with an April 2027 release date.
-
-### Code Geass Star Chaser Aspal Anime Reveals Main Visual and Voice Cast
-Thu, 05 Nov 2026 12:02:06 GMT — https://animecorner.me/code-geass-star-chaser-aspal-anime-reveals-main-visual-and-voice-cast/
-
-CODE GEASS Star Chaser Aspal new anime revealed the main key visual, along with the main voice cast members.
-
 ## MyAnimeList News
 
 ### Houkago no Idol ni wa Himitsu ga Aru Reveals Additional Cast, Ending Theme
@@ -123,7 +128,7 @@ The official website for the television anime adaptation of Chinkururi and Nanas
 ### Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita. Second Season in Production
 Sat, 07 Nov 2026 00:39:43 -0800 — https://myanimelist.net/news/74913297?_location=rss
 
-The official website for the television anime adaptation of Suisei and Kairi&rsquo;s Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita. (There was a Cute Girl in the Hero&rsquo;s Party, so I Tried Confessing to Her.) manga announced a second season on Saturday, revealing an announcement visual (pictured). Produced by Gekkou, the first season aired in 13-episodes in Winter 2026. Crunchyroll simulcasted the anime with subtitle in multiple languages. Kairi began serializing the manga adapt...
+The official website for the television anime adaptation of Suisei and Kairi s Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita. (There was a Cute Girl in the Hero&rsquo;s Party, so I Tried Confessing to Her.) manga announced a second season on Saturday, revealing an announcement visual (pictured). Produced by Gekkou, the first season aired in 13-episodes in Winter 2026. Crunchyroll simulcasted the anime with subtitle in multiple languages. Kairi began serializing the manga adapta...
 
 ### Mixed Media Project Harajuku Himegoto House Announces TV Anime Adaptation
 Fri, 06 Nov 2026 21:07:54 -0800 — https://myanimelist.net/news/74912747?_location=rss
@@ -160,11 +165,6 @@ Thu, 05 Nov 2026 19:30:22 -0800 — https://myanimelist.net/news/74909101?_locat
 
 Content platform Digital Shokunin announced an anime adaptation of Amahara s 33-sai Dokushin Onna Kishi Taichou. (33 Years Old Single Female Knight Captain.) manga on Friday, revealing the main character designs (pictured above) and a commemorative music video. The anime project celebrates the series 10th anniversary and is scheduled to premiere in 2027. Amahara began serializing comedy fantasy manga on the Ananga Ranga adult digital magazine in October 2015. Flex Comics published th...
 
-### Fool Night Unveils Additional Cast, Theme Songs, First Promo
-Thu, 05 Nov 2026 03:25:30 -0800 — https://myanimelist.net/news/74906712?_location=rss
-
-The official website of the Fool Night original net anime unveiled additional cast, a key visual (pictured), the theme songs, and first promotional video on Thursday. The anime adapting Kasumi Yasuda s sci-fi drama manga will debut worldwide exclusively on Netflix on November 26. Cast Sumi Matsuno: Shion Wakayama (Dandadan) Ken Hikasa: Hiroshi Tsuchida (Usagi Drop) Nishi: Nobuhiko Okamoto (Boku no Hero Academia) Mei Okumura: Sayaka Senbongi (Dungeon Meshi) Ivy: Yumiko Kobayashi (Soul Eater)...
-
 ## Otaku USA
 
 _Nothing in the last 48 hours._
@@ -180,9 +180,4 @@ Solo's plan to get Xioa back to class has hit a roadblock as the boy turns again
 Fri, 06 Nov 2026 10:00:25 +0000 — https://animeuknews.net/2026/11/my-gift-lvl-9999-unlimited-gacha-backstabbed-in-a-backwater-dungeon-im-out-for-revenge-review/
 
 A new anime label debuts in the UK with this fantasy show about a boy with an unlikely power on a vendetta against the party of adventurers that betrayed him.
-
-### Secondhand Sisters Volume 1 Review
-Thu, 05 Nov 2026 13:00:26 +0000 — https://animeuknews.net/2026/11/secondhand-sisters-volume-1-review/
-
-Secondhand Sisters follows two sisters who have always held a deep resentment for one another. Now, after the passing of their mother, they find themselves living under the same roof which is sure to be nothing but trouble...
 

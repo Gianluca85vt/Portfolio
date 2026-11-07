@@ -1,6 +1,41 @@
-# Film & TV — harvested 2026-11-07T11:19:46.962Z
+# Film & TV — harvested 2026-11-07T18:18:11.126Z
 
 ## Variety
+
+### Richard Lloyd, Television s Fiery and Fluent Guitarist, Dies at 75
+Sat, 07 Nov 2026 18:06:47 +0000 — https://variety.com/2026/music/news/richard-lloyd-dead-television-guitarist-1236942055/
+
+Richard Lloyd, whose fluent and fiery guitar work was a vital element in the influential 1970s-era New York City band Television, died on Saturday at his home in Chattanooga, Tenn., according to the New York Times. The cause of death was bile duct cancer; he was 75. While commonly associated with the punk rock movement [ ]
+
+### Godzilla Minus Zero Director Takashi Yamazaki Dreamed of Seeing His Hometown Destroyed by King Ghidorah. He Finally Made It Happen.
+Sat, 07 Nov 2026 17:16:00 +0000 — https://variety.com/2026/artisans/news/godzilla-minus-zero-vfx-water-particles-1236939477/
+
+It s been just over two years since “Godzilla Minus One” collected the Oscar in visual effects. Writer, director and VFX supervisor Takashi Yamazaki became the first helmer to receive a VFX trophy since Stanley Kubrick for 1968’s “2001: A Space Odyssey.” Reflecting on that historic night, Yamazaki, speaking through a translator, said, “It was just [ ]
+
+### Oscar Predictions: Production Design — Could Something as Innovative and Cool as Backrooms Find Love?
+Sat, 07 Nov 2026 17:00:00 +0000 — https://variety.com/feature/2027-oscars-best-production-design-predictions-1236878514/
+
+Variety Awards Circuit section is the home for all awards news and related content throughout the year, featuring the following: the official predictions for the upcoming Oscars, Emmys, Grammys and Tony Awards ceremonies, curated by Variety chief awards editor Clayton Davis. The prediction pages reflect the current standings in the race and do not reflect [ ]
+
+### Laika’s ‘Wildwood’ Sets Limited-Edition 4K SteelBook Release
+Sat, 07 Nov 2026 17:00:00 +0000 — https://variety.com/2026/shopping/news/laika-wildwood-limited-edition-4k-steelbook-buy-online-1236941466/
+
+Just two weeks after arriving in theaters, Laika&#x2019;s latest stop-motion fantasy, &#x201C;Wildwood,&#x201D; is already getting the collector&#x2019;s edition treatment. A limited-edition 4K Ultra HD SteelBook of the animated adventure is now available to preorder on Amazon. The two-disc release, distributed by Shout! Studios, includes both a 4K UHD disc and Blu-ray. &#x201C;Wildwood&#x201D; hit theaters on [ ]
+
+### Box Office: ‘Godzilla Minus Zero’ Dominates With $14.5 Million on Friday as ‘Cat in the Hat’ Follows With $6 Million
+Sat, 07 Nov 2026 16:42:52 +0000 — https://variety.com/2026/film/box-office/box-office-godzilla-minus-zero-cat-in-the-hat-1236942032/
+
+Sorry, Dr. Seuss — “The Cat in the Hat” was no match for “Godzilla Minus Zero,” which thrashed its way to the top of the box office on Friday. “Godzilla Minus Zero,” the highly anticipated sequel to 2023’s “Godzilla Minus One,” generated $14.5 million from 3,254 North American theaters on Friday, easily taking the No. [ ]
+
+### Elvis Music Owners, Eminem Publisher File Sprawling New Lawsuits Against AI Music Generator Suno: ‘The Next Elvis Won’t Pick Up a Guitar’
+Sat, 07 Nov 2026 16:15:26 +0000 — https://variety.com/2026/music/news/elvis-eminem-sue-suno-ai-music-generator-1236941798/
+
+A collection of Elvis Presley music rightsholders and the publisher of many of Eminem s records have filed sprawling new federal lawsuits against the AI music generator Suno, with each party making separate allegations that add to the AI company s legal challenges. The Presley lawsuit — brought by a group that includes Authentic Brands Group, Raleigh [ ]
+
+### Here s How to Watch WWE Crown Jewel 2026 Live Online
+Sat, 07 Nov 2026 13:00:00 +0000 — https://variety.com/2026/shopping/news/how-to-watch-wwe-crown-jewel-2026-live-online-free-1236938579/
+
+After an epic Money in the Bank event with Roman Reigns defeated LA Knight to retain the World Heavyweight Championship, WWE travels to Saudi Arabia for WWE Crown Jewel 2026, a premium live event on Saturday, Nov. 7. The event features four bouts, including three title matches for the Crown Jewel Championship, Women s Crown Jewel [ ]
 
 ### 3 Body Problem Director Derek Tsang Boards DEA True-Crime Series Group 41 From Zhang Yimou’s Shadow Producer Jonah Greenberg (EXCLUSIVE)
 Sat, 07 Nov 2026 09:50:17 +0000 — https://variety.com/2026/tv/asia/3-body-problem-director-derek-tsang-dea-true-crime-series-group-41-1236941978/
@@ -17,42 +52,22 @@ Sat, 07 Nov 2026 08:19:35 +0000 — https://variety.com/2026/film/markets-festiv
 
 Taiwanese technology company imCore Corp. launched Core Studio, an AI filmmaking platform that aims to cover the full production process, from script development and storyboarding to image generation, editing and color grading, at the Taiwan Creative Content Fest (TCCF) in Taipei on Saturday. Built by a Taiwanese team with roots in animation and visual effects, [ ]
 
-### Triplets of Belleville Director Sylvain Chomet Fires Back at AI Accusations Over Dior Film Featuring Robert Pattinson s Voice: ‘Everything Was Drawn by Hand’ (EXCLUSIVE)
-Sat, 07 Nov 2026 08:12:53 +0000 — https://variety.com/2026/film/global/sylvain-chomet-denies-ai-accusations-dior-robert-pattinson-1236941945/
-
-French animation filmmaker Sylvain Chomet, the four-time Oscar nominee behind “The Triplets of Belleville” and “The Illusionist,” is pushing back against accusations that generative AI was used to create his animated short for Dior featuring a voice cast led by Robert Pattinson, Rihanna, Josh O’Connor, LaKeith Stanfield, Louis Garrel and Camille Cottin. The whimsical six-minute [ ]
-
-### Stephen Chow Told Japan to Stop Aping Kung Fu, Says Boss of Film Fund Behind Kore-eda Hirokazu s Look Back
-Sat, 07 Nov 2026 04:41:35 +0000 — https://variety.com/2026/film/markets-festivals/stephen-chow-japan-stop-aping-kung-fu-k2-pictures-1236941939/
-
-Hong Kong star-director Stephen Chow once told K2 Pictures founder Kii Muneyuki that Japanese filmmakers should stop imitating kung fu and build action films on their own martial arts instead, Kii said Saturday at Taiwan Creative Content Fest (TCCF) in Taipei. “He said, ‘You have karate, judo, jujitsu and kendo. That is Japanese culture. Only [ ]
-
-### Adam Driver Won t Return for Girls : I Wish Them the Best of Luck
-Sat, 07 Nov 2026 04:01:01 +0000 — https://variety.com/2026/film/news/adam-driver-wont-return-girls-revival-lena-dunham-1236941924/
-
-Adam Driver had a major breakout thanks to his role on Girls, but the actor shut down the idea of returning for the reboot of the iconic series in a recent interview. While talking about his role in James Gray s new movie Paper Tiger, Driver was asked by Cinema Blend if he will be returning [ ]
-
-### Taiwan’s Chunghwa Telecom Unveils 10 Content Investments, From Gunshot to Call of Lobster
-Sat, 07 Nov 2026 03:36:02 +0000 — https://variety.com/2026/film/markets-festivals/taiwan-chunghwa-telecom-backs-gunshot-call-of-lobster-1236941920/
-
-Chunghwa Telecom, Taiwan’s largest telecom operator, announced 10 new investments at its “Chunghwa Telecom Content Slate and Partnership Showcase,” spanning film, TV and music projects as well as stakes in two production companies. The company pitched the slate as a way to back Taiwanese original IP and link local creators with partners abroad. The event [ ]
-
-### Bill Maher Rubs Salt in Trump’s Midterms Wound: ‘Donnie, Are You OK?’
-Sat, 07 Nov 2026 03:20:01 +0000 — https://variety.com/2026/tv/news/bill-maher-trump-midterms-loss-real-time-hbo-lindsey-graham-1236941912/
-
-While his HBO counterpart John Oliver issued an urgent warning about voting GOP during the midterms, Bill Maher spent the majority of his time in the lead-up to the critical election dining with the Trump at the White House (and then bickering with him publicly), conducting an embarrassingly softball interview with Trump’s former press secretary [ ]
-
-### James Bond Shocker: Robert Pattinson and Nicholas Hoult Late Contenders for 007 After Auditioning for Denis Villeneuve
-Sat, 07 Nov 2026 03:07:18 +0000 — https://variety.com/2026/film/news/james-bond-casting-robert-pattinson-nicholas-hoult-1236941881/
-
-As James Bond casting rumors heat up, a couple more A-list actors have entered the mix: Robert Pattinson and Nicholas Hoult were among the stars who screen-tested to play the new 007. Both British actors certainly have the acting pedigree to play the suave spy, taking up the mantle after Daniel Craig’s 15-year run. They [ ]
-
-### Chang Chen Urges Emerging Taiwanese Actors to Be Like Water at Taiwan Creative Content Fest Golden Horse Showcase
-Sat, 07 Nov 2026 03:00:25 +0000 — https://variety.com/2026/film/markets-festivals/chang-chen-emerging-taiwanese-actors-taiwan-creative-content-fest-1236941891/
-
-Chang Chen, chair of the Taipei Golden Horse Film Festival Executive Committee and last year’s Golden Horse best leading actor winner for “Lucky Lu,” advised six of Taiwan’s rising performers on working across different film sets at a Taiwan Creative Content Fest (TCCF) showcase in Taipei. The “TCCF x The Golden Horse Awards: Taiwan Emerging [ ]
-
 ## The Hollywood Reporter
+
+### Connor Wood Reveals What Happened on 8th Avenue With Jennifer Lawrence in New Smoothie King Collab: Missed My Moment (Exclusive)
+Sat, 07 Nov 2026 18:00:00 +0000 — https://www.hollywoodreporter.com/news/general-news/connor-wood-jennifer-lawrence-8th-avenue-smoothie-king-1236749871/
+
+The 'Dancing With the Stars' contestant teamed up with Smoothie King to debut “Connor’s Paid Me No Mind Smoothie," a play on the trendy moment sparked by the Oscar winner.
+
+### Nobody Wants This Stars Hint at Season 4 and Declare Timothy Simons the Lead of the Show Now
+Sat, 07 Nov 2026 17:37:09 +0000 — https://www.hollywoodreporter.com/tv/tv-news/nobody-wants-this-season-4-timothy-simons-lead-1236749956/
+
+Kristen Bell, Justine Lupe, Jackie Tohn and Simons united (minus Adam Brody) for a FYC conversation about the Netflix rom-com's latest batch of episodes.
+
+### Godzilla Minus Zero Barrels Toward Historic $32M Box Office Launch With Cat in the Hat at No. 2
+Sat, 07 Nov 2026 16:43:46 +0000 — https://www.hollywoodreporter.com/movies/movie-news/godzilla-minus-zero-box-office-opening-the-cat-in-the-hat-1236750019/
+
+The sequel to 2023's 'Godzilla Minus One' is making noise as 'Ramayana' and 'Wild Horse Nine' also debut.
 
 ### PÖFF Stands With Ukraine: A Look at Films Featured at Tallinn Made Despite, and Because of, the War
 Sat, 07 Nov 2026 11:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/poff-standing-with-ukraine-tallinn-2026-films-events-war-1236741671/
@@ -89,22 +104,42 @@ Sat, 07 Nov 2026 01:23:33 +0000 — https://www.hollywoodreporter.com/tv/tv-news
 
 The Korean romantic epic, starring Shin Mina, Ju Jihoon, Lee Jongsuk and Lee Seyoung, scored record debuts for a Korean title in more than 50 markets, including the U.S., Britain, France, Germany and Mexico.
 
-### AFM Hot Project: Rosamund Pike to Star in Body Horror Feed
-Sat, 07 Nov 2026 00:45:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/rosamund-pike-to-star-in-body-horror-feed-afm-project-1236749179/
-
-The 'Gone Girl' star will also produce the film from 'Russian Doll' director Leslye Headland, with The Veterans launching sales at AFM.
-
-### Paul Howard, Son of Moe Howard of The Three Stooges, Dies at 91
-Fri, 06 Nov 2026 23:57:33 +0000 — https://www.hollywoodreporter.com/movies/movie-news/paul-howard-dead-three-stooges-moe-howard-1236749877/
-
-He connected with fans of the iconic comedy act at conventions and hosted a nine-part 2015 docuseries called ‘Hey Moe, Hey Dad!’
-
-### The Other Midterms Flip: Broadcast Networks, Led by NBC, Dominated Election Night Coverage
-Fri, 06 Nov 2026 23:18:41 +0000 — https://www.hollywoodreporter.com/tv/tv-news/broadcast-networks-nbc-midterm-elections-tv-ratings-1236749456/
-
-Broadcasters accounted for 57 percent of primetime viewing on Tuesday.
-
 ## Deadline
+
+### Adam Driver Says No More Kylo Ren: Star Wars Ship Has Sailed
+Sat, 07 Nov 2026 18:04:39 +0000 — https://deadline.com/2026/11/adam-driver-kylo-ren-1237216296/
+
+We know Adam Driver has no plans to return to Lena Dunham s Girls reboot, but what about the Star Wars franchise? Any chance fans will see Kylo Ren again? Nah. “Yeah, yeah, it’s over,” Driver said this week on The Rich Eisen Show podcast with regard to the possibility that he d return to play Kylo [ ]
+
+### Former DWTS Contestant Danielle Fishel Says Judges Tougher On Female Contestants: Men Get A Pass
+Sat, 07 Nov 2026 17:24:57 +0000 — https://deadline.com/2026/11/dancing-with-the-stars-danielle-fishel-judges-women-1237216270/
+
+Danielle Fishel, the former Dancing With The Stars contestant who got booted from the show last year, says female competitors generally have a tougher time winning over judges than male dancers. On her podcast Ballroom Breakdown, Fishel, best known for her Boy Meets World role, was discussing DWTS Horror Movie Night episode with her guest [ ]
+
+### Deep Purple s Ian Gillan Recovering After Successful Surgery Following Medical Emergency
+Sat, 07 Nov 2026 16:38:00 +0000 — https://deadline.com/2026/11/ian-gillan-deep-purple-medical-emergency-1237210620/
+
+UPDATE: Deep Purple singer Ian Gillan says he s recovering after successful surgery that followed a recent medical emergency that prompted the band to postpone European tour dates. “I had a procedure yesterday which was successful,” Gillan writes on Facebook today. “I now have to rest, in order to make a complete recovery and ensure that [ ]
+
+### Godzilla Minus Zero Is A Box Office Hero With $32M Live-Action Foreign-Language Opening Record Saturday AM Update
+Sat, 07 Nov 2026 16:10:00 +0000 — https://deadline.com/2026/11/box-office-godzilla-minus-zero-cat-in-the-hat-1237215161/
+
+SATURDAY AM: In what is a never-before-seen stat, 74% of Imax and PLFs combined are driving the weekend gross of Gkids Godzilla Minus Zero s $32M opening after a $14.5M Friday. That share is bigger than the first weekend gross of Universal s The Odyssey which collected 52% of its $123.5M opening weekend from both Imax and [ ]
+
+### Magenta TV’s Cypriot-Set Thriller ‘Brothers’ Wasn’t Allowed To Shoot In The Country. The Producers Explain Why: “The Reasons Were Political”
+Sat, 07 Nov 2026 14:43:39 +0000 — https://deadline.com/2026/11/magenta-tv-brothers-cyprus-thessaloniki-1237216243/
+
+Nicosia, the capital of Cyprus, is at the center of Brothers, the new 6-part series by Simon Farmakas, but producers Fenia Cossovitsa and Alexandra Hoesdorff revealed this afternoon during a panel in Thessaloniki that the show couldn t shoot in the city. Cossovitsa and Hoesdorff were joined on the panel by Faye Tsitsipi, Deputy Director of [ ]
+
+### Paul Howard Dies: Son Of Three Stooges Moe Howard, Keeper Of The Flame Was 91
+Sat, 07 Nov 2026 14:34:20 +0000 — https://deadline.com/2026/11/paul-howard-dead-three-stooges-1237216234/
+
+Paul Howard, the only son of The Three Stooges Moe Howard and the last surviving son of the comedy team s classic line up Moe, brothers Curly and Shemp, and Larry Fine died this week. He was 91. The death was confirmed by a spokesperson for C3 Entertainment, the owner of The Three Stooges [ ]
+
+### How A Mistake In Warner Bros. Contracts Helped Eleven Film Jack Thorne Land ‘Lord Of The Flies’ TV Rights — Thessaloniki
+Sat, 07 Nov 2026 11:40:44 +0000 — https://deadline.com/2026/11/joel-wilson-eleven-films-jack-thorne-lord-of-the-flies-1237216218/
+
+“It’s the only thing I’ve ever done that I’d describe, without feeling embarrassed, as hard work,” Joel Wilson of Eleven Film said when discussing his role as an executive producer on Jack Thorne’s Lord of the Flies adaptation. Wilson was speaking on a panel at the Thessaloniki Film Festival, where the series is screening this [ ]
 
 ### Toei CEO Fumio Yoshimura Talks Global Expansion, GenAI Adoption Entry Into Games
 Sat, 07 Nov 2026 07:55:02 +0000 — https://deadline.com/2026/11/kamen-rider-toei-gen-ai-gaming-dear-stranger-iris-1237215381/
@@ -130,41 +165,6 @@ Netflix didn t end up owning the legendary Warner Bros lot after losing out earl
 Sat, 07 Nov 2026 02:30:00 +0000 — https://deadline.com/2026/11/2026-sound-and-screen-film-lineup-schedule-1237211717/
 
 Music is the fuel that so often drives our deep emotional connection to the storytelling we see on screen, so what better way to feel its power than with a live orchestra playing against the backdrop of some of our favorite films of the season at Sound Screen Film? The event, one of Deadline s [ ]
-
-### The Remarried Empress Sets Disney+ Record As Most Viewed Local Original Launch Ever
-Sat, 07 Nov 2026 02:19:10 +0000 — https://deadline.com/2026/11/the-remarried-empress-disney-record-1237216159/
-
-Korean drama The Remarried Empress has become the most viewed local original premiere of all time on Disney+ globally, just three days after its launch on November 3. The show currently ranks as the number one Korean title premiere in over 50 global markets including the U.S., UK, France, Spain, Germany, Mexico, Chile, Australia [ ]
-
-### Ellen DeGeneres Show EP Matthew Wright s Cause Of Death Revealed
-Sat, 07 Nov 2026 01:51:32 +0000 — https://deadline.com/2026/11/ellen-degeneres-show-ep-matthew-wright-cause-death-1237216153/
-
-A cause of death has been determined for Matthew Wright after he died at age 52 last Friday. The Ellen DeGeneres Show executive producer s death certificate lists cardiopulmonary arrest as the cause, with hypertension as the underlying cause and contributing conditions including obstructive sleep apnea and class II obesity, according to People. Wright s family announced [ ]
-
-### Trump Reveals Plans For Post-Midterm Firings In ‘60 Minutes’ Interview, Hours Before Announcing That Susie Wiles Was Out
-Sat, 07 Nov 2026 00:35:58 +0000 — https://deadline.com/2026/11/trump-60-minutes-midterms-1237216042/
-
-CBS s 60 Minutes landed the first sitdown interview with Donald Trump since Republicans midterm drubbing, and a natural question was whether he expected to fire anyone. I do, Trump told correspondent Ross Douthat. I ll be making a few changes. I don t want to mention who, Trump said, while he expressed confidence in someone Douthat spotted [ ]
-
-### Adam Driver Shuts Down Girls Return But Wishes Lena Dunham Co-Stars Best Of Luck
-Sat, 07 Nov 2026 00:00:21 +0000 — https://deadline.com/2026/11/adam-driver-shuts-down-girls-return-1237216089/
-
-Although Lena Dunham is bringing back Girls for a limited run, don t expect all the boys to return. Adam Driver, who played Dunham s romantic lead Adam Sackler in the 2012- 17 HBO series, recently shut down a return to the character, following HBO s announcement of a five-episode revival. No, but I wish them the best of [ ]
-
-### Knicks Rep Thanks Taylor Swift For Many Years Of Fan Support After Tyler Kolek Comments
-Fri, 06 Nov 2026 22:34:45 +0000 — https://deadline.com/2026/11/knicks-thanks-taylor-swift-many-years-fan-support-1237216026/
-
-Nobody can accuse Taylor Swift of being a fake Knicks fan not even Knicks point guard Tyler Kolek. Following Kolek s claim that the 14x Grammy winner is a very performative fan of the 2026 NBA champions, a rep for the team defended Swift and thanked her for many years of support. Taylor Swift has been [ ]
-
-### Idris Elba To Star In Direct Action-Comedy In Laws ; A Higher Standard Launching For AFM
-Fri, 06 Nov 2026 22:15:42 +0000 — https://deadline.com/2026/11/idris-elba-to-star-in-direct-action-comedy-in-laws-1237216006/
-
-EXCLUSIVE: Golden Globe winner and BAFTA and Emmy nominee Idris Elba is set to star in and direct the action-comedy In Laws, which A Higher Standard is launching for sales ahead of the American Film Market. Principal photography is scheduled to start in March 2027 in Spain. Additional casting is in process. In Laws follows [ ]
-
-### Godzilla Minus Zero Roars Toward Live-Action Foreign-Language Record $30M-$33M Opening At Domestic Box Office
-Fri, 06 Nov 2026 22:09:00 +0000 — https://deadline.com/2026/11/box-office-godzilla-minus-zero-cat-in-the-hat-1237215161/
-
-FRIDAY PM UPDATE: Gkids Godzilla Minus Zero looks to be coming in at its opening range of $30 million-$33 million after a $13.5M Friday at 3,254 theaters that includes $6.7M in previews. At that level, that s not only the biggest-ever opening for distributor Gkids, but it also would be the biggest opening for a live-action [ ]
 
 ## befores & afters
 
@@ -242,6 +242,16 @@ Gray joined IndieWire's "Screen Talk" podcast live at the Virginia Film Festival
 
 ## The Wrap
 
+### Jimmy Fallon Lights Up Mike Pence With Scathing Heated Rivalry Gay Joke
+Sat, 07 Nov 2026 17:53:42 +0000 — https://www.thewrap.com/creative-content/tv-shows/jimmy-fallon-mike-pence-gay-joke-heated-rivlary-tonight-show/
+
+Jimmy Fallon took a swipe at former Vice President Mike Pence s notorious stance on LGBTQ+ rights on Friday, mocking the conservative politician for getting hot and bothered by HBO Max s gay romance drama Heated Rivalry. For good measure, the late night host reenacted the former Indiana governor swooning over the series muscled hockey players Shane Hollander (played by Hudson Williams) and Ilya Rozanov (played by Connor Storrie) while calling out to his wife, Karen, whom he reportedly refers to as mother. WNBA superstar Caitlin Clark is here tonight, Fallon said in his week-capping Tonight Show monologue, quipping Caitlin plays for the Indiana Fever, which sounds like something Mike Pence gets whenever he watches ‘Heated Rivalry.’ Fallon then put his Saturday Night Live chops to work and caricatured the former Indiana governor as a loose-limbed swooner, fanning himself and calling out to his wife. ‘Mother, mother! They’re off the ice again mother!’ Fallon said, to laughs from the studio audience. He paused and picked it back up: ‘They’re in the same bed together, Mother! They’re in the same bed!’ Based on Rachel Reid’s bestselling book series, “Heated Rivalry” follows Shane Hollander and Ilya Rozanoy, two superstar professional hockey players whose fierce rivalry on the ice masks a growing relationship. What begins as a secret fling between the two rookies develops over eight years into a complicated romance with steamy sex scenes to match. Season 2 is currently in the works;
+
+### Godzilla Minus Zero Kicks Off November Box Office With $31 Million Opening
+Sat, 07 Nov 2026 16:15:12 +0000 — https://www.thewrap.com/creative-content/movies/godzilla-minus-zero-saturday-box-office/
+
+Toho/GKids Godzilla Minus Zero is off to a roaring start at the box office with a $14.7 million opening day at the box office, putting it on course for an industry estimated $31 million opening from 3,254 locations. That is nearly triple the $11.4 million that Takashi Yamazaki s previous kaiju film, Godzilla Minus One, earned in December 2023 en route to a $57.4 million domestic total. Minus Zero is now just the fourth non-English film ever to take the No. 1 spot at the U.S. box office, joining The Passion of the Christ, the Zhang Yimou wuxia film Hero, and the anime film Demon Slayer: Infinity Castle, which was released by Crunchyroll last year in English and Japanese dubs. We will see if this sequel is able to exceed its predecessor s total or if it proves to be more frontloaded with fans of Minus One simply rushing out faster to see it on opening weekend. But there are signs that Minus Zero may be in for a longer run as the movie not only has stellar scores with an A on CinemaScore and Rotten Tomatoes scores of 90% critics and 96% audience, but streaming guide site JustWatch reports that Godzilla Minus One has become the most watched film on streaming across all platforms this past week, showing a desire among uninitiated audiences to get caught up. In second is Warner Bros. Picture Animation s The Cat in the Hat with a $6 million opening day from 4,003 locations as it is now tracking for an $18 million opening weekend. It s an opening that s below past Warner animated fil
+
 ### ‘Sunrise on the Reaping’ Director Makes a Pitch for Next ‘Hunger Games’ Prequel: ‘Could Be Really Interesting’
 Sat, 07 Nov 2026 06:00:22 +0000 — https://www.thewrap.com/creative-content/movies/sunrise-on-the-reaping-director-makes-a-pitch-for-next-hunger-games-prequel/
 
@@ -282,65 +292,55 @@ Sat, 07 Nov 2026 00:31:08 +0000 — https://www.thewrap.com/creative-content/mov
 
 Bill Damaschke, the head of Warner Bros. Pictures Animation, a new division of the company (now under the overarching Skydance umbrella) that looks to develop original ideas alongside its deep bench of legacy IP, dug through some paperwork recently. He wanted to figure out when the deal between Warner Bros. and Dr. Seuss Enterprises, which controls the rights to author Theodor Geisel s vast library, was signed. It was November 2, 2017. “This movie has been in conversation at Warner Bros. for nine years, through multiple regime changes and against all odds. The fact that we have a movie coming out this week is a small miracle,” Damaschke said. And he’s right. “The Cat in the Hat,” the first film from Warner Bros. Pictures Animation, has had a long journey to the big screen, full of the usual twists and turns, which seems appropriate for the lopsided world of Dr. Seuss. “The Cat in the Hat” sees the Cat (Bill Hader), now reimagined as an employee of a whimsical corporation (Institute for the Institution of Imagination and Inspiration, LLC) in its own universe, who is sent on a nearly impossible mission – to cheer up some very glum children (voiced by Xochitl Gomez and Tiago Martinez). The movie mixes hallmarks of the original Seuss story (Matt Berry voices Waffles, the kids’ pet fish) with all new elements, like them traveling into moving boxes full of memories and fantasies. One of the first people on the project was Erica Rivinoja, an Oscar-nominated writer whose animation cr
 
-### Billionaire Joe Ricketts Straight Arrow News Shutters After 5 Years
-Fri, 06 Nov 2026 23:16:37 +0000 — https://www.thewrap.com/media-platforms/journalism/straight-arrow-news-shuts-down-joe-ricketts-billionaire-founder/
-
-Straight Arrow News, the digital news outlet founded by billionaire TD Ameritrade founder Joe Ricketts in 2021 with a mission to deliver nonpartisan journalism, is shutting down after just five years. Employees were informed of the decision during a meeting Friday, and Ricketts shared the news in an open letter later that day. It was not immediately clear how many employees would be affected, but the outlet ceased publishing effective immediately. When I started Straight Arrow, I believed there was both a need and an audience for journalism that worked hard to separate facts from opinion and gave readers the information they needed to make up their own minds, Ricketts said. I still believe that. But belief in a mission does not by itself make a business sustainable. After considerable investment and effort, I have made the difficult decision to cease Straight Arrow’s operations. The shutdown comes less than three months after the Omaha-based outlet launched a premium subscription service , charging readers $12.95 per month or $99.90 annually for ad-free access and exclusive content. At the time, the company touted a significant newsroom expansion and plans to grow its audience. Refunds are being made available for all current subscribers. Ricketts launched Straight Arrow in June 2021, promising an alternative to politically slanted coverage. The outlet, which publishes at SAN.com, built its identity around delivering unbiased, fact-based journalism and presenting competing pe
-
-### Netflix’s Radford Studios Deal Has Yet to Close
-Fri, 06 Nov 2026 22:55:18 +0000 — https://www.thewrap.com/industry-news/business/netflix-radford-studios-lot-deal-stalls/
-
-Netflix’s deal to acquire Radford Studios remains unresolved, according to Hudson Pacific CEO Victor Coleman. In an earnings call, Coleman explained that the proposed acquisition of the historic lot has not been finalized, and that it likely won t be until later in the year. Netflix has not closed that transaction, and they are not deciding to close it until sometime, maybe, later in the year, or not, Coleman said. The streamer is one of Hudson Pacific Properties biggest tenants, leasing over 700,000 square feet of office and production space in the heart of Hollywood. Netflix is said to be weighing how much studio space they actually need in Los Angeles going forward. I can tell you that the replacement of Radford for their existing office doesn t fit the footprint, as we ve talked about in the past, Coleman added. We have and continue to have very fruitful, very productive conversations with them. I think we will have some resolution on some levels of that, hopefully by year end, and continuing these conversations positively for them to extend beyond 2031 is looking in the direction that we re comfortable with. In response to Coleman s comments, a Netflix spokesperson told TheWrap that the Radford Studios deal is progressing on the agreed upon timetable and with the agreed upon sets of milestone dates. The latest news comes months after it was reported that Hackman Capital Partners was set to give up ownership of Radford Studio Center after refinancing talks between HCP and
-
 ## Collider
 
-### 7 Forgotten Christmas Movies That Deserve to Be Classics
-Sat, 07 Nov 2026 11:05:12 GMT — https://collider.com/forgotten-christmas-movies-classics/
+### 5 TV Antiheroes That Make Walter White Look Tame
+Sat, 07 Nov 2026 18:04:12 GMT — https://collider.com/antihero-tv-characters-better-than-walter-white-breaking-bad/
 
-Christmas movies, for some time now, have been an essential part of the holiday season, bringing audiences together with their memorable characters, heartwarming stories, and festive humor . While certain holiday films have become timeless gems that are revisited each year, there are plenty of Christmas masterpieces that have gradually been forgotten about despite being incredibly entertaining and quite meaningful. These forgotten favorites capture the magic of Christmas through their unique stories, emotional moments, and wholesome messages about generosity, love, and togetherness.
+In recent decades, antiheroes have become a defining component of prestige television drama: complex and challenging protagonists whose amorality is explored over the course of multiple seasons. Brilliantly portrayed by Bryan Cranston , Walter White is something of an icon in this space, with Breaking Bad tracking his grim evolution from a suburban family man and chemistry teacher to a cruel and conniving international drug lord. The series’ five-season arc is one of the most compelling television has ever seen, a frightfully bleak descent into moral corruption, ego-fueled destruction, and ruthless ambition. But does Walter White stand as the most confronting and ferocious TV antihero of all time?
 
-### 'The Matrix's Best Line Is Still the Greatest Quote in Franchise History
-Sat, 07 Nov 2026 11:04:12 GMT — https://collider.com/the-matrix-best-quote-sci-fi-keanu-reeves/
+### Win a Free 'Victorian Psycho' Popcorn Bucket from Bleecker Street
+Sat, 07 Nov 2026 18:01:12 GMT — https://collider.com/victorian-psycho-popcorn-bucket-giveaway/
 
-Though there are many great sci-fi quotes that have been influential in how we view the genre, one line in The Wachowskis’ seminal blockbuster The Matrix has left the biggest mark. The 1999 classic changed the game for how we look at cinema effects, but this line, delivered by Laurence Fishburne to Keanu Reeves , also shows how the movie changed our perception of storytelling. While the film coined some famous phrases that are used to this day, the one that had the most impact is probably the least celebrated.
+Bleecker Street’s Victorian Psycho is coming for Dune 3 ’s throat with the latest popcorn bucket reveal . Maika Monroe ’s new horror movie is appropriately set to open in theaters on Friday the 13th this month, and this brand-new merch design is enough to turn your stomach — while you snack on your delicious popcorn. This new popcorn bucket release even has the internet questioning its design, and Collider is thrilled to be partnering with Bleecker Street for an exclusive giveaway!
 
-### 10 Essential K-Drama Shows That Belong on Every Fan's Bucket List
-Sat, 07 Nov 2026 11:02:12 GMT — https://collider.com/essential-k-drama-shows-bucket-list/
+### 10 Drama Films That Are Perfect From Start to Finish
+Sat, 07 Nov 2026 17:36:12 GMT — https://collider.com/drama-films-that-are-perfect-from-start-to-finish/
 
-There’s no shortage of K-dramas to watch, but choosing what to put on next can be an arduous task. With stories spanning everything from slow-burn romances to coming-of-age dramas, K-dramas have something for everyone. No longer limited by geographical boundaries, the genre has also gained considerable popularity in Western markets.
+Drama is the hardest genre to get right, because there’s nothing to hide behind . There’s no monster, chase, and twist at the end to save you, just performances and a script, and if either one slips, you notice right away. When it works, though, nothing else in movies comes close.
 
-### Alan Ritchson and Jason Statham’s 141-Minute Action Thriller Is Officially a Global Streaming Juggernaut
-Sat, 07 Nov 2026 11:00:12 GMT — https://collider.com/alan-ritchson-jason-statham-fast-x-streaming-success-apple-tv-hulu-november-2026/
+### One of the Most Outrageous Zombie Movies Ever Made Officially Arrives on Streaming
+Sat, 07 Nov 2026 17:31:12 GMT — https://collider.com/return-of-the-living-dead-1985-streaming-prime-video-november-2026/
 
-Few movie stars have had as busy a year as Alan Ritchson , who has starred in huge movies and TV shows both in theaters and on streaming. Ritchson opened the year by starring in War Machine , the Netflix sci-fi thriller that earned over 135 million views. This is enough to be crowned one of the top 10 most-watched Netflix movies of all time, and a sequel to War Machine is officially on the way. Later in the year, Ritchson also returned to his star-making role as Reacher in the Prime Video series of the same name. Prime Video is also so confident that the show will continue to be a hit that Reacher has not only been renewed for Season 5 , but also Season 6. No word yet on a potential return date, but it’s expected the show will be back next year.
+Zombies have been terrifying audiences for decades , but there's only so much shambling around and eating people that the undead can do before things start getting a little repetitive. Fortunately, some filmmakers realized that the apocalypse could actually be quite funny, particularly when the people trying to survive it are spectacularly ill-equipped to deal with the situation. And back in 1985, one movie managed to combine punk rock, outrageous practical effects, and some of the most memorable zombies ever put on screen into an absolute cult classic. More than 40 years later, it's still an absolute riot.
 
-### Guy Ritchie's 123-Minute War Thriller Officially Crowned Prime Video Mega-Hit
-Sat, 07 Nov 2026 10:40:12 GMT — https://collider.com/guy-ritchie-the-covenant-streaming-success-november-2026/
+### The 10 Best Alternative Rock Albums of the 1980s, Ranked
+Sat, 07 Nov 2026 17:18:12 GMT — https://collider.com/best-alternative-rock-albums-1980s-ranked/
 
-Guy Ritchie has been as busy this year as almost any year of his career, but things are finally slowing down now that the holiday season is almost here. Ritchie took his talents to Prime Video at the start of the year for Young Sherlock , the Sherlock Holmes prequel series that was dropped as a binge back in March. Prime Video has already picked up the show for a second season, and it’s expected to return to streaming before the end of 2027. Ritchie also returned to the big screen this year with the release of In The Grey , the long-gestating action thriller starring Henry Cavill . The movie managed only $28 million at the global box office, but it is quietly becoming one of streaming’s biggest hits on Starz .
+Alternative rock is a bit of a difficult genre to define, since looking at the different definitions does show different things, or different views on what the genre is, and how long it lasted, during what time, all of that. So, it’s hard to settle on that, and that’s before going ahead and trying to label a handful of alternative rock albums as being the best of a certain era, which’ll be divisive for more obvious reasons.
 
-### Gerard Butler’s 109-Minute Action Thriller Officially Removed From Netflix
-Sat, 07 Nov 2026 10:20:12 GMT — https://collider.com/gerard-butler-law-abiding-citizen-leaving-netflix-november-2026/
+### ‘Godzilla Minus Zero’ Officially Smashes a Box Office Record on Day 1
+Sat, 07 Nov 2026 17:00:13 GMT — https://collider.com/godzilla-minus-zero-box-office-opening-33-million/
 
-2026 has been a rocky year for Gerard Butler so far, who maintains his status as one of the biggest action stars in the world despite a recent few misfires. Butler returned to his role as John Garrity in Greenland 2: Migration earlier this year, but things certainly didn’t go according to plan for the sequel. Greenland 2 came into theaters carrying a $90 million budget, meaning the film needed to make close to $200 million just to break even, but it managed to earn only $52 million during its entire theatrical run. Butler also starred in the Netflix crime thriller, In The Hand of Dante , but the film was dumped onto the platform without much marketing after earning poor reviews from early screenings at various film festivals. It co-stars Jason Momoa and Oscar Isaac .
+International movies are taking over the domestic box office this weekend, with Japan's Godzilla Minus Zero and India's Ramayana: Rise of a Legend taking the first and second spots on Thursday. Godzilla Minus Zero is eying a record-breaking opening-weekend haul on the back of excellent reviews, stomping out competition from this week's major new American offering, The Cat in the Hat . The Roald Dahl adaptation looks set to become Warner Bros.' latest box-office disappointment in a year the studio would like to forget.
 
-### 6 Best Psychological Thriller Shows Where Every Episode Is a Masterpiece, Ranked
-Sat, 07 Nov 2026 10:18:12 GMT — https://collider.com/best-psychological-thriller-shows-every-episode-masterpiece/
+### Netflix Officially Turns Amazon’s Sci-Fi Thriller Into the No. 1 Streaming Show
+Sat, 07 Nov 2026 16:30:12 GMT — https://collider.com/from-netflix-nielsen-1-billion-minutes-streaming-november-2026/
 
-From the police procedurals of yesteryear to exhilarating action series like Reacher and The Night Agent that populate streaming services today, the thriller genre has been a staple of television entertainment for decades. However, many of the genre’s most defining series have been spectacles of fast-paced, adrenaline-pumping bombast, hooking audiences in with their propulsive momentum. It is much rarer for thriller series to exude a creeping, methodical dread, a sense of festering tension that twists and torments the viewer’s mind.
+Several shows over the years have been blessed by "the Netflix effect." This is when a network or a streaming platform makes one of its high-potential series available on Netflix, in an effort to introduce it to a wider audience. Typically, only a part of the show is released on Netflix, with the goal being to divert audiences to the original platform for the latest episodes. Breaking Bad is perhaps the most popular example of the Netflix effect, with AMC having leased the show's first few seasons to Netflix and transformed it into a culture-defining hit. More recently, the TNT series The Last Ship became a massive hit years after its conclusion thanks to a Netflix drop. Now, an even bigger beneficiary of the Netflix effect has revealed itself .
 
-### 'M3GAN 2.0' Is Officially Being Removed From Streaming
-Sat, 07 Nov 2026 10:00:12 GMT — https://collider.com/megan-2-leaving-netflix-november-2026/
+### 10 Sci-Fi Shows That Get Even Better Once You Understand the Rules
+Sat, 07 Nov 2026 16:24:12 GMT — https://collider.com/sci-fi-shows-complex-better-once-you-understand/
 
-2026 has been a good year for sci-fi movies, but not every new sci-fi film that hits theaters finds the box office success studio executives were hoping for. 2026 began with a pair of sci-fi bombs in Greenland 2: Migration and Mercy , but it’s poised to continue bounding back in the final few months of the year with new releases like Dune: Part Three . Gerard Butler returned to star in the long-awaited Greenland sequel, but a $90 million production budget left the film with a near-$200 million break-even point. Mercy , which stars Chris Pratt and Rebecca Ferguson , didn’t struggle as much at the box office thanks to a more modest $60 million budget. The film has also found streaming redemption on Prime Video as one of the platform’s most-watched titles of 2026.
+If there's one genre that can get away with being built on rules so complex and intricate that it takes a good, long while for audiences to fully understand them, it's science fiction. Since its birth in early 19th-century literature, and particularly as it has evolved to grow even more layered, the sci-fi genre has been all about building an internal consistency in its rules , since its worlds most often don't operate under the laws of reality.
 
-### Steven Spielberg's New Sci-Fi Thriller Is Officially the King of Prime Video
-Sat, 07 Nov 2026 09:40:12 GMT — https://collider.com/steven-spielberg-disclosure-day-streaming-success-prime-video-november-2026/
+### Disney Officially Steals a Romantasy Franchise from Paramount
+Sat, 07 Nov 2026 16:13:17 GMT — https://collider.com/divine-rivals-disney-paramount-rebecca-ross-movie/
 
-The biggest sci-fi event of 2026 is closer than ever. On December 18, Denis Villeneuve will complete his trilogy of once-thought "unfilmable" adaptations with Dune: Part Three , and the film-watching world will flood into theaters in the millions. Timothée Chalamet 's Paul Atreides, haunted by his visions and the holy war fought in his name, will face the consequences of his power as he turns full villain in the upcoming epic. He is joined by a stacked cast that includes Zendaya as Chani, Javier Bardem as Stilgar, Rebecca Ferguson as Lady Jessica, Anya Taylor-Joy as Alia Atreides, and more.
+Disney has built its reputation as the place where magic comes to life. The conglomerate is one of the biggest companies, having properties across various media verticals and theme parks. Much of Disney's success comes from its commitment to producing high-quality stories across multiple genres, including fantasy and romance. Disney owns recognizable IPs like Marvel , Star Wars , Pixar , and the extensive library of classic Disney Animation . By strategically acquiring massive entertainment powerhouses, the company has transformed itself from a traditional animation studio into an unparalleled global media empire.
 
-### Tim Curry’s Most Iconic Role Officially Becomes One of Prime Video’s Biggest Hits
-Sat, 07 Nov 2026 09:20:12 GMT — https://collider.com/tim-curry-the-rocky-horror-picture-show-streaming-success-prime-video-november-2026/
+### Chris Pratt’s ‘Reacher’ Rival Officially Delivers Half Its Viewers
+Sat, 07 Nov 2026 16:00:12 GMT — https://collider.com/terminal-list-reacher-prime-video-viewership-chris-pratt/
 
-Halloween weekend has reminded the world of one of the late Tim Curry 's most iconic performances. In August, it was announced that Curry had passed away at the age of 80 , and the world mourned the devastating loss of one of cinema's very best performers. Curry's impact on the industry is long and well discussed, including his iconic role as Pennywise in the 1990 miniseries based on Stephen King 's IT , his performance as Darkness in Ridley Scott 's Legend , as Mr. Hector in Home Alone 2: Lost in New York , and as Wadsworth in the murder mystery classic Clue .
+The numbers are in, and it seems like the worst-case scenario for Prime Video's flagship series is playing out. The series in question took an inordinately long time to return for a second season — four years, to be exact — and this appears to have affected viewer retention. Research has shown that audiences tend to drop out of programs that take longer than others between seasons. For instance, this year's second season of The Gentlemen registered a 45% decline in viewership compared to Season 1, which was released only two years ago. The Prime Video show had a four-year hiatus to overcome, and recently released viewership figures aren't promising.
 

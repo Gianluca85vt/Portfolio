@@ -1,4 +1,4 @@
-# AI — harvested 2026-11-07T11:19:46.962Z
+# AI — harvested 2026-11-07T18:18:11.126Z
 
 ## OpenAI
 
@@ -12,11 +12,6 @@ Fri, 06 Nov 2026 00:00:00 GMT — https://openai.com/index/measuring-how-ai-agen
 
 OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.
 
-### Australian universities are creating AI-native graduates
-Thu, 05 Nov 2026 17:00:00 GMT — https://openai.com/index/australian-universities-ai-native-graduates
-
-Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.
-
 ### Cult.fit builds operational muscle with Codex
 Thu, 05 Nov 2026 20:00:00 GMT — https://openai.com/index/cultfit-builds-with-codex
 
@@ -24,12 +19,18 @@ Cult.fit is using Codex to help teams across functions build tools, move faster,
 
 ## Hugging Face
 
-_Feed unavailable: HTTP 429_
+### ToyBlocks: A controlled world for robot learning and evaluation
+Fri, 06 Nov 2026 14:00:48 GMT — https://huggingface.co/blog/allenai/toyblocks
+
+### Egyptian and Nigerian English join the Open ASR Leaderboard
+Fri, 06 Nov 2026 00:00:00 GMT — https://huggingface.co/blog/open-asr-leaderboard-liva
+
+### New NVIDIA Cosmos 3 Open Models for Interactive World Simulation
+Thu, 05 Nov 2026 19:35:16 GMT — https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation
 
 ## Google DeepMind
 
-### Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips
-Thu, 05 Nov 2026 17:05:16 +0000 — https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/
+_Nothing in the last 48 hours._
 
 ## VentureBeat AI
 

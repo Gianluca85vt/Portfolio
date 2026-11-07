@@ -1,6 +1,16 @@
-# Tech — harvested 2026-11-07T11:19:46.962Z
+# Tech — harvested 2026-11-07T18:18:11.126Z
 
 ## Ars Technica
+
+### The Bantu expansion changed Africa. Scientists are still tracing how.
+Sat, 07 Nov 2026 12:15:55 +0000 — https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/
+
+It’s not easy to extract iron from its ore. But the peoples of the ancient city of Great Zimbabwe—the capital of a thriving kingdom in southern Africa between 1000 to 1700 AD—were masters. At sites near the city’s stone ruins, clusters of iron-smelting furnaces survive today as mounds of rubble. At Mashava, a village 25 miles northwest, fragments bear fingermarks of those who long ago smoothed the structures’ clay interiors. Some of the furnaces were nearly an adult’s arm span in width, with walls thick and strong to contain the heat of more than 2,100° Fahrenheit needed to smelt iron. Unlike other furnaces that required workers to force air into them with bellows, these were designed to suck air in, then out through a chimney, no human labor required. This would have made it significantly easier to produce the iron, which was fashioned into hoes, axes, and arrowheads. Read full article Comments ]]>
+
+### British soldier ignored order to pull his SIM card, then got blackmailed
+Sat, 07 Nov 2026 11:00:34 +0000 — https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/
+
+An Estonian newspaper recently revealed that a British soldier disobeyed a direct order to remove the SIM card from his cellphone before being deployed to a part of Estonia, approximately 90 miles west of the Russian border. As a result of his refusal to engage in this element of operational security (opsec), the soldier, Daniel Barton-Kennedy, had his phone hacked, and nude photos of himself were stolen and used as blackmail against him. Eventually, Barton-Kennedy was court-martialed for disobeying a lawful command, pled guilty, was reduced in rank, and ordered to serve 10 months in detention. Read full article Comments ]]>
 
 ### Doctors pull knife from man's eye that went through his brain—and he's fine now
 Fri, 06 Nov 2026 23:09:45 +0000 — https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/
@@ -52,131 +62,141 @@ Fri, 06 Nov 2026 18:20:47 +0000 — https://arstechnica.com/space/2026/11/ast-sp
 
 There are optimistic plans for spaceflight, and then there are optimistic plans. AST SpaceMobile is a Texas-based, publicly traded company building very large satellites to provide direct-to-cell communications on Earth. But it has been having trouble finding rides to space. So on Friday, AST announced that it is developing a medium-lift rocket, named Blacklift, which will have the capacity to lift 20 metric tons to low-Earth orbit. Oh, and the company said it would start launching commercially in late 2028. "The Blacklift rocket is the springboard to significantly expand our total addressable market, providing AST SpaceMobile with regular unconstrained access to orbit and providing for most favorable owner's economics in the industry," said Abel Avellan, founder, chairman, and CEO of AST SpaceMobile, in a news release. Read full article Comments ]]>
 
-### “Does Meta think we can’t read?” Meta abandons sketchy commercial terms update.
-Fri, 06 Nov 2026 17:43:02 +0000 — https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/
-
-After weeks of backlash —and a failed attempt to quell it —Meta has indefinitely delayed plans to update its commercial terms and require Meta Business account users to allow extensive AI training on external websites linked on Facebook. "We're pausing the ‌changes ⁠as we continue to engage with stakeholders and ​take ​our ⁠time to get this right. ​In the ​meantime, ⁠our existing terms remain in ⁠effect," a Meta spokesperson told Reuters. Soon after Meta notified business account holders of the upcoming changes, legal experts warned Nieman Lab that the vague language could allow the company to ignore scraping preferences specified in robots.txt files and exhaustively crawl vast amounts of off-Facebook content for AI training. Since virtually every news publisher has a Facebook page, Nieman Lab sounded the alarm that Meta could potentially avoid millions in licensing fees if the TOS update happened as planned. Read full article Comments ]]>
-
-### Wisconsin reports measles death of a baby, first death in over 35 years
-Fri, 06 Nov 2026 17:06:32 +0000 — https://arstechnica.com/health/2026/11/wisconsin-reports-measles-death-of-a-baby-first-death-in-over-35-years/
-
-An infant in Wisconsin has died of measles, the first measles death in the state since 1990, officials reported Thursday . The death comes amid an outbreak in the Badger State that has stricken over 430 people across 13 counties this year. "Any death of a child is a tragedy, and even more so when it is related to a vaccine-preventable disease," Wisconsin Health Secretary Kirsten Johnson said in a statement. "Measles can cause serious illness and death, and it is important for all Wisconsinites to evaluate their risk and take steps to protect themselves and their family." The baby's death is the third measles fatality nationally just this week, following the death of a New York child reported on Monday and another death in Pennsylvania reported on Wednesday . The Pennsylvania death was of an unvaccinated person in Jefferson County; the state health department did not provide additional details, such as the age of the person. The state's explosive, ongoing measles outbreak has led to 1,467 cases so far this year. Read full article Comments ]]>
-
 ## The Verge
+
+### The UV-tracking Gem made me rethink how sunlight affects my health, not just my appearance
+2026-11-07T12:00:00-05:00 — https://www.theverge.com/tech/1023230/the90-gem-necklace-hands-on-impressions
+
+With temperatures rising to the 90s in Los Angeles, avoiding the heat wasn't exactly an option while I was at a relative's outdoor party in August. So I sat beneath a patio umbrella with a powerful fan nearby, figuring I was protected from the sun and heat. Half an hour later, I felt exhausted, dizzy, nauseous, and generally unwell, symptoms consistent with heat exhaustion. Around the same time, I received a notification from an app used by the $249 ($149 at the time of publication) UV-tracking necklace I'd been wearing, called Gem , from a company called The90. It warned that my UV exposure had climbed considerably. It turns out UV radiatio … Read the full story at The Verge. ]]>
+
+### Costco members can get $5 off the reimagined Ocarina of Time
+2026-11-07T11:00:00-05:00 — https://www.theverge.com/gadgets/1028917/legend-of-zelda-ocarina-of-time-remake-switch-2-costco-deal-sale
+
+The Legend of Zelda: Ocarina of Time remake showcases plenty of modern effects. | Image: Nintendo While some retailers were offering preorder discounts on the remastered Legend of Zelda: The Ocarina of Time , it’s not too late to save if you missed out. Costco members can currently get $5 off the digital version online, bringing the price down to $54.99. Considering an annual Costco membership runs $65 , that discount almost offsets one month of your plan — a prime example of “gamer math.” The Legend of Zelda: The Ocarina of Time Where to Buy: $59.99 $54.99 at Costco (digital) My colleague Andrew Webster recently shared his thoughts on Nintendo’s latest Switch 2 exclusive, noting how impressed he was with how much impact a few modern quality-of-life changes had on what is otherwise a classic experience. The updated graphics are as thoughtful as they are beautiful, pairing realistic scenery with puppet-like characters. Perhaps, more importantly, Link can now jump anytime he likes, rather than being limited to specific ledges. ]]>
+
+### Discogs’ Kevin Lewandowski can’t live without his AeroPress
+2026-11-07T11:00:00-05:00 — https://www.theverge.com/tech/1029474/discogs-kevin-lewandowski-aeropress-interview
+
+Twenty-five years ago, Kevin Lewandowski founded Discogs , arguably the destination online for obsessive vinyl collectors and music nerds of all stripes. It is a marketplace for buying and selling records, obviously, but it's also become so much more. It's a shockingly comprehensive database that covers not just albums and singles, but all the various versions and pressings. It's a really fun rabbit hole to disappear down when you're trying to figure out what obscure pressing of Ministry's The Mind is a Terrible Thing to Taste or Psalm 69 you had in high school, because you definitely blasted the cover of "Lay Lady Lay" all the time and 100 p … Read the full story at The Verge. ]]>
+
+### NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake
+2026-11-07T10:50:00-05:00 — https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review
+
+The NYT Cooking app now has a built in AI assistant. | Photo: Jennifer Pattison Tuohy / The Verge Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, "Chicken again ?" Yes, I should meal plan more, but I don't, so this is where I'm at. A nightly battle in which the chicken usually wins. Recently, my best weapon in this fight has been AI. Between Alexa Plus in the Echo smart display on my kitchen counter, the Samsung Food app on my fridge, and even an AI-powered cooking robot , AI has become my go-to sous chef - albeit one I need to keep a close eye on. It's helped me swap ingredients, generate ideas, fix things when I mess up, and yes, even … Read the full story at The Verge. ]]>
+
+### The US let Nvidia sell chips to an empty office in China
+2026-11-07T10:43:45-05:00 — https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government
+
+Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times , New Matrix is on the list of approved firms, yet its offices are empty, "a hollow gray shell with wires dangling from the ceiling where lights should be." In fact, the paper could find little evidence that the company exists in any meaningful way: Only scant information can be found online about New Matrix, which was created 17 months ago. At the building that New Matrix lists as its address, a company directory does not … Read the full story at The Verge. ]]>
+
+### AI broke the cybersecurity world. What’s next?
+2026-11-07T10:00:00-05:00 — https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos
+
+Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real life. I’ve always enjoyed talking to Alex because he’s so direct, and you’re going to hear him say that the multibillion-dollar cybersecurity industry as we’ve known it is essentially overdue to the unrelenting, AI-boosted waves of hacks, breaches, and attacks — and this is only the beginning of how much AI is changing security. Verge subscribers, don t forget you get exclusive access to ad-free Decoder wherever you get your podcasts. Head here . Not a subscriber? You can sign up here . Both private actors and also state actors, like Russia or North Korea, are breaking into systems all over thanks to AI helping them both detect and exploit vulnerabilities all at the same time. It’s got a real frontier feel to it, Alex notes, just like the ’90s, when the whole idea of an always-online world was brand-new. That much disruption means a lot of places where bad guys can get in while everyone else is left scrambling. Alex isn’t a doomer in the long run, but he does think we’re in for a “dark age” while we try to figure out how on earth to adapt to the new era. There’s a lot going on here — we even got all the way to how AI-powered misinformation and slop might be managed on our social networks. Before we get going, do me a favor and subscribe to Decoder on YouTube,
+
+### Good riddance, Cybertruck!
+2026-11-07T09:40:06-05:00 — https://www.theverge.com/transportation/1029460/elon-musk-cybertruck-death-election-backlash
+
+I'm calling it: time of death, November 6th, 1:30 AM, by tweet. Elon Musk's declaration Friday that Tesla would be "winding down" production of the Cybertruck next year to make room for the Cybercab was fascinating for a number of reasons. First, it was a humiliating way to kill a vehicle that was once hailed as the pinnacle of Tesla's engineering - faster than a Porsche 911, more powerful than an F-150, able to leap over the Model Y as a singular representation of Musk's Blade Runner -inspired designs for the future. "I think the Tesla Cybertruck is our best product ever," he declared during a 2019 earnings call . (He prefaced the statement … Read the full story at The Verge. ]]>
+
+### Zelda is back and better than ever
+2026-11-07T08:49:01-05:00 — https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer
+
+Hi, friends! Welcome to Installer No. 151, your guide to the best and Verge -iest stuff in the world. (If you're new here, welcome, get psyched because it's officially Bad Holiday Movie Season, and also you can read all the old editions at the Installer homepage .) This week, I've been reading about Andrew Garfield and GTA VI and sexy joke thieves , finally actually watching The Sopranos for the first time (I know, I know), mourning the end of Salon , reinstalling the new and extremely improved Notion Calendar , testing the new Keurig Alta coffee machine, reviewing the iPad Mini and the touchscreen MacBook Pro , and really thinking about just thr … Read the full story at The Verge. ]]>
+
+### Why a new report on Anthropic automating AI development is alarming researchers
+2026-11-07T07:30:00-05:00 — https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development
+
+Anthropic CEO Dario Amodei. | Photo: Jason Henry/Bloomberg via Getty Images Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down. That's according to a new report published Thursday by the AI safety research organization METR, following an 11-week investigation inside the company, as part of a report evaluating its AI research and development. The probe is separate from a program offering safety researchers "employee-like" access to systems in the wake of high-profile hacking incidents over the summer. The findings offer some of the clearest evidence yet of AI … Read the full story at The Verge. ]]>
 
 ### OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO
 2026-11-06T18:46:18-05:00 — https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation
 
 OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg . That would make it one of the world's most valuable companies, not long after raising $122 billion from investors in March at a valuation of $852 billion. Echoing FT and Wall Street Journal reports from last week, Bloomberg says OpenAI is still pursuing additional investments that could increase the amount to $20 billion, and that it had initially hoped to raise as much as $30 billion at a higher valuation of $1.4 trillion. That was before tech stocks dropped, and the results of the midterms showed how much public o … Read the full story at The Verge. ]]>
 
-### China reportedly recruited AI exec to spy on Jensen Huang
-2026-11-06T18:00:44-05:00 — https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy
-
-China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times . The Ministry of State Security (MSS) enlisted her to glean information about American AI chips and "potentially influence the company to push for its most advanced chips to be made available to China." Megaspeed is a customer of Nvidia's, and Alice Huang also has "relationships with executives at the highest levels of the A.I. chip industry," including leaders at Gigabyte, the NYT says. Last week, the NYT reported that Jensen Huang was seen as the target of a "Chinese spy plot" and shared details about Al … Read the full story at The Verge. ]]>
-
-### Starlink Mobile: All the news on SpaceX s major mobile carrier ambitions
-2026-11-06T17:45:43-05:00 — https://www.theverge.com/science/1029162/spacex-starlink-mobile-elon-musk-news
-
-SpaceX has declared that it s going to make Starlink Mobile a major mobile carrier. The Elon Musk-owned company has already deployed thousands of direct-to-cell satellites, but its next big challenge is building out its 5G network here on Earth. As part of its plans to rival AT&T, Verizon, and T-Mobile, SpaceX has inked a deal with Qualcomm , which will deploy its cellular technology across tens of thousands of 5G cell sites starting in 2027. SpaceX is also reportedly in talks to buy Boost Mobile , potentially allowing it to launch Starlink Mobile through the service. Another report suggests SpaceX may tap into 80,000 cell sites across the US to build out its network. SpaceX’s big plans have garnered some reactions in the telecom industry. Tim Höttges, the CEO of T-Mobile s parent company Deutsche Telekom, said he takes SpaceX s plans super serious but that it could cost Musk more than $200 billion to pull off. Follow along for the latest updates on Starlink s major mobile carrier ambitions. What will it take for SpaceX to launch its “major” mobile network? SpaceX is working with Qualcomm to build its Starlink Mobile 5G network SpaceX could buy Boost Mobile as part of its big mobile carrier plans SpaceX’s mobile carrier push reportedly involves tapping into 80,000 cell sites SpaceX announces plan to become a ‘major mobile carrier’ SpaceX is coming for T-Mobile, AT&T and Verizon ]]>
-
-### KPop Demon Hunters on 4K Blu-ray costs less than a month of Netflix Premium
-2026-11-06T16:50:32-05:00 — https://www.theverge.com/gadgets/1028640/kpop-demon-hunters-4k-criterion-bluray-deal-sale
-
-Buying the 4K Blu-ray disc version of KPop Demon Hunters was already going to be a wise idea for some people, especially those who primarily keep their $26.99 Netflix Premium subscription just to watch the hit animated flick in 4K. But at just $24.99 from Barnes and Noble and Amazon instead of its original $49.95 price, it’s easier than ever to recommend. KPop Demon Hunters (4K Blu-ray) Where to Buy: $49.95 $24.99 at Amazon $49.95 $24.99 at Barnes & Noble The Criterion Collection version of the film recently launched, and comes with a bunch of extras in a gorgeous set. In addition to the 4K digital master, complete with Dolby Vision HDR and Dolby Atmos sound, you also get two standard 1080p Blu-rays, one containing the film, and the other packed with special features (a full feature-length animatic, a making-of documentary, lyric videos, and more). It includes physical goodies, too, like collectible postcards, as well as an essay by Polygon alum Karen Han. Kpop Demon Hunters was on my list of physical movies to buy, and this deal just turned it into a must-buy ahead of the holiday season. Update, 4:50PM ET, November 6th: Previously, this deal was available for in-store pickup at Barnes and Noble, but it’s currently available online at both Barnes and Noble and Amazon. ]]>
-
-### All the latest updates on AI data centers
-2026-11-06T15:02:22-05:00 — https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy
-
-Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment. Data centers were a major bipartisan issue ahead of the 2026 midterms , and voters largely opposed data center expansion at the polls. Tech giants like OpenAI and Amazon are promising to work more closely with local communities and cover their data center energy costs. But following the election, Democratic leaders are calling for further data center restrictions and slowdowns that the AI companies will have to grapple with. From audacious plans about data centers into space , heated local battles over buildouts , and potential environmental impacts , here’s The Verge ’s news, coverage, and reporting surrounding data centers and the companies that are building them. Lame-duck Congress might actually do something: speed up energy projects “We are a data center first company,” AMD CEO Lisa Su says. OpenAI is stepping back from NDAs for data center projects This week in the big AI data center buildout. Data centers lost the midterms Maine Republican Susan Collins concedes Senate seat in a tech-fueled race. Democrat projected to win Ohio seat that Republicans warned could spell trouble for data centers. Data center-dense Texas turns blue. OpenAI is quietly renaming data centers ‘compute cam
-
-### Shure’s popular podcasting and streaming mic is almost $50 off
-2026-11-06T14:47:02-05:00 — https://www.theverge.com/gadgets/1028846/shure-mv7-plus-podcasting-streaming-mic-deal-sale
-
-Shure’s MV7 Plus is a popular podcasting and streaming mic. | Image: Shure While the Shure Mv7 Plus is popular with streamers and podcasters, it’s equally good at impressing your friends and coworkers on meetings and Discord calls. It’s currently marked down to $255 at various retailers, including Amazon , Guitar Center , and directly from Shure . That’s almost $50 lower than its usual price, and just a few dollars off Amazon’s all-time low. If you don’t already have a stand, both Amazon and Shure are offering a bundle that includes the mic and a desktop stand for $269, and the white model is also discounted at Amazon . Shure MV7 Plus Shure’s MV7 Plus is an updated version of its popular USB microphone. The new version features a USB-C port, a customizable LED light panel, and several additional features available in the Motiv Mix app. Where to Buy: $299 $255 at Amazon $299 $255 at Shure $299 $255 at Guitar Center When our team shared some of our favorite audio gear in late 2024 , we noted that the Mv7 Plus was the mic we send to podcast guests for remote interviews. It’s known for its crisp and clean audio quality, with auto-leveling and denoising, so you can use it without touching an equalizer. The MV7’s unique shape and sonic profile is inspired by the Shure SM7B ( also discounted ), a microphone that’s often used in professional recording. This version is meant as a more budget-friendly variant for content creators looking for a simpler setup, with both an XLR output and
-
-### Lame-duck Congress might actually do something: speed up energy projects
-2026-11-06T13:42:30-05:00 — https://www.theverge.com/policy/1028228/energy-infrastructure-permitting-reform-bill-congress-vote
-
-A massive permitting bill that could help energy projects come online much quicker and potentially lower utility bills for Americans is advancing with bipartisan support. And while it could be a catalyst for lots of clean energy, it could also speed up polluting projects and limit oversight of new data centers. With data centers demanding more electricity for AI, environmental advocates fear that developers could take advantage of the reforms to evade public scrutiny and rely more heavily on fossil fuels. The bill sacrifices caution for speed, limiting environmental reviews and preventing communities from stopping a project from moving forw … Read the full story at The Verge. ]]>
-
-### Meta s Muse AI can create custom spaces for the version of the app you need right now
-2026-11-06T13:10:10-05:00 — https://www.theverge.com/tech/1028871/meta-muse-ai-spaces
-
-Meta will now allow you to build customized, app-like experiences within Muse. The new feature, called "spaces," allows its AI assistant to build things like a shopping hub, school dashboard, music tracker, trivia game, and more, which you can interact with directly in the Muse app. Meta says you can create a new space by describing it. If you connect an outside app to Muse - like Gmail, Google Calendar, OpenTable, Notion, and others Muse works with - the AI assistant will continuously pull information from them, allowing it to update pricing, dates, and other information in your space in the background. You can also interact with elements … Read the full story at The Verge. ]]>
-
-### Amazon is now making a Melania Trump TV series
-2026-11-06T12:56:58-05:00 — https://www.theverge.com/tech/1028854/amazon-melania-the-series-mgm-studios-prime-video
-
-Following the Melania documentary movie that premiered earlier this year, Amazon is now planning to release a two-part Prime Video series focusing on the first lady. The show, Melania: The Series , is set to debut on November 20th. "MELANIA, The Series reveals never-before-told stories, offering unprecedented insight into Melania Trump's life, including the extraordinary days immediately following the 47th Presidential Inauguration," according to a description in a press release . Here's what Amazon says the two episodes will be about: I. Family & Trust: Melania Trump sets priorities as she prepares to become America's First Lady. B … Read the full story at The Verge. ]]>
-
-### Just about anyone can rent access to White House IP addresses
-2026-11-06T12:40:06-05:00 — https://www.theverge.com/tech/1028835/white-house-residential-proxy
-
-Someone at the White House appears to be running software that could enable outsiders to rent access on the presidential network for just "a few dollars," as reported by Krebs on Security and The Register . That's according to findings from the security firms Layer3 Intel and Synthient , which discovered residential proxy activity on the White House network. A residential proxy opens up a way for people to rent access to a home IP address and route their internet traffic through it, allowing them to conceal where their activity is actually coming from. Some apps and browser extensions include third-party software development kits (SDKs) that … Read the full story at The Verge. ]]>
-
 ## Tom's Hardware
+
+### This week in Tom's Hardware Premium: November 7, 2026
+Sat, 07 Nov 2026 15:00:00 +0000 — https://www.tomshardware.com/tech-industry/this-week-in-toms-hardware-premium-november-7-2026-micron-roadmap-apples-touchscreen-ambitions-globalfoundries-interview-and-much-more
+
+This week on Tom's Hardware Premium, we've published in-depth interviews, roadmaps, and features that you won't want to miss. To read any of the articles we feature in this weekly roundup, you'll need to first arm yourself with a subscription. Headlining our coverage this week is our story from Laptop expert Andrew Freedman, in his exploration of how and why Apple has chosen 2026 as the time to release an OLED — excuse me — PROLED display, with touch. After all, touch is a feature that Windows laptops have sported for well over a decade, along with OLED displays, offering unparalleled contrast ratios when compared to any other panel technology. In this feature, he explores the justifications and the likelihood of Apple slowly trickling the "brand-new" functionality to its suite of devices. Apple finally has a touchscreen MacBook. Why now? Last month, Micron revealed its brand-new product roadmap, featuring new DRAM devices, 3D NAND, the use of high-NA EUV lithography tools, and much more. NAND and DRAM are both incredibly hot topics, due to the ongoing rush to build faster, more capable AI accelerators, with Micron as one of the companies benefiting from the rush in demand. We go into detail about its 1δ DRAM, which is set to be manufactured on American shores. Beyond that, the company has also demonstrated its 11th-Gen NAND, which sports over 400 layers. With the next few years of its technologies explored in unrelenting technical detail, this roadmap details exactly where M
+
+### US intelligence believes Jensen Huang had affair with Chinese spy in honeypot operation
+Sat, 07 Nov 2026 14:47:37 +0000 — https://www.tomshardware.com/tech-industry/artificial-intelligence/us-intelligence-believes-jensen-huang-had-romantic-relationship-with-chinese-spy-in-honeypot-operation-spy-suspect-linked-to-company-accused-of-smuggling-usd2-billion-in-ai-chips
+
+Nvidia chief Jensen Huang is the center of a new controversy as the U.S. intelligence community believes that he had a romantic relationship with a suspected Chinese spy. According to the Financial Times , Alice Huang, sometimes referred to as Huang Le, was a top executive at Singaporean firm Megaspeed and was reportedly romantically involved with the CEO of the world's largest AI chip manufacturer. Notably, Jensen is currently married to his wife of 41 years, Lori Huang. It’s unclear whether Alice Huang was recruited by the Chinese Ministry of State Security (MSS) before she joined Megaspeed or after she had already established a business relationship with Jensen, but it’s been reported that the suspected agent was apparently targeting the Nvidia head to help Chinese companies gain access to banned AI chips. Go deeper with TH Premium: AI shortages (Image credit: Nvidia) AI data centers are swallowing the world's memory and storage supply Demand for data center CPUs has surged, and AI agents are responsible Chip scarcity assaults auto industry amid the worsening Nexperia and DRAM crisis The custom AI ASIC state of play Megaspeed has been accused of smuggling $2 billion worth of AI chips into China via its subsidiary Speedmatrix, although Nvidia insists the company has no ties to China. Megaspeed sits at the center of a web of companies linked to China, and it was previously connected to a Chinese gaming company called 7Road International. It was founded in 2023 and reportedly
+
+### Grab a new Elegoo 3D printer from as little as $159 right now, thanks to Black Friday sale, now live
+Sat, 07 Nov 2026 14:30:00 +0000 — https://www.tomshardware.com/3d-printing/grab-a-new-elegoo-3d-printer-from-as-little-as-usd159-right-now-thanks-to-black-friday-sale-now-live-early-discounts-mean-you-can-score-up-to-54-percent-off-filament-and-resin-machines-perfect-for-pro-hobbyists-and-beginners
+
+It's November, which means we're officially in the season for deals on tech. While it's a few weeks before the big sales event starts, 3D printer manufacturers are already slashing their prices. If you fancied investing in a new 3D printer ahead of the holidays, Elegoo's big sale has started, and it's slashing prices by as much as 54%, according to its website. The combo deals are where you're going to save cash. Not only has the company cut the cost of a new resin or filament 3D printer, but it's also coupling the consumables you'll need to print with them. For instance, you can pick up an Elegoo Centauri Carbon 2 bundle with 1KG of filament for $270 , with the filament only costing you $1. The same applies to its resin printers, too, with a similar deal on the Elegoo Saturn 4 Ultra 16K for $400 . ● Check out Elegoo's 3D printer deals Elegoo is a big name in the 3D printing world, with some of its models sitting in our best 3D printer guide. These discounts make it a brilliant time to invest in a new printer, whether you're a beginner starting out or a seasoned pro looking to expand their setup further. Yes, this is officially Elegoo's Black Friday sales event, and it'll be running until December 1, but there's no guarantee that the printers themselves will still be around by then. We've seen stock dry up in previous events from the big brands before the sales are over, so if you want a printer to arrive before the holidays, you'll need to make sure you get your order in soo
+
+### TeamGroup GA Pro 2TB SSD Review: A faltering attempt at a mid-range PCIe 5.0 SSD
+Sat, 07 Nov 2026 14:00:00 +0000 — https://www.tomshardware.com/pc-components/ssds/teamgroup-ga-pro-2tb-ssd-review
+
+Every once in a while we get a drive that comes across our desk that stands out, for good or for bad. The TeamGroup GA Pro falls into the latter category, enough so that we re-checked our results and contacted the company. We’ve managed to mostly sort out what’s going on and, while this is not the worst drive around, it has enough problems that we would generally not recommend it except if it's on steep sale. TeamGroup’s array of storage offerings knows no bounds: if there’s a niche to cover, it makes an attempt. The GA Pro feels like such a try, although we’re not completely sure where it fits into the mix. The company is still working to iron out the bugs, if it can, but the technology is old enough that we wouldn’t hold our breath. On paper, it’s a PCIe 5.0 drive with DRAM that should beat any PCIe 4.0 SSD, but we found it struggles to live up to its own class of drive. Bright points are few and far between, but at least we can say it’s not the worst drive we’ve seen. The edges are just rougher than usual. TeamGroup GA Pro Specifications Product 1TB 2TB 4TB 8TB Pricing N/A $331.99 N/A N/A Form Factor M.2 2280 (graphene heatsink) M.2 2280 (graphene heatsink) M.2 2280 (graphene heatsink) M.2 2280 (AirFlow I heatsink) Interface / Protocol PCIe 5.0 x4 / NVMe 2.0 PCIe 5.0 x4 / NVMe 2.0 PCIe 5.0 x4 / NVMe 2.0 PCIe 5.0 x4 / NVMe 2.0 Controller InnoGrit IG5666 InnoGrit IG5666 InnoGrit IG5666 InnoGrit IG5666 DRAM Yes 2GB DDR4 Yes Yes Memory YMTC 232-layer TLC YMTC 232-layer TLC YMT
+
+### Nvidia's Jensen Huang officially called to Congress due to reports of a Chinese spy plot
+Sat, 07 Nov 2026 13:30:00 +0000 — https://www.tomshardware.com/tech-industry/big-tech/nvidias-jensen-huang-officially-called-to-congress-due-to-reports-of-a-chinese-spy-plot-officials-mention-growing-concerns-over-national-security
+
+Nvidia CEO Jensen Huang is a man who likely attends numerous meetings, and today one more was added to his busy schedule. The U.S. Congress wants to have a closed-door chat with Huang over mounting concerns about national security. The congressmen bidding for his time say last week's report spurred the move that he may be the target of espionage by a reported Chinese asset: Megaspeed exec Alice Huang (family unrelated). Go deeper with TH Premium: AI and data centers (Image credit: Microsoft) The data center cooling state of play The custom AI ASIC state of play America’s AI chip rules keep changing — and the rest of the world is paying the price GTC 2026: Ian Buck press Q&A transcript — VP of Hyperscale and HPC speaks out on shelving CPX and shipping LPU decode this year Demand for data center CPUs has surged, and AI agents are responsible The meeting was set up by Republican House representatives John Moolenaar, Brian Mast, and Rick Crawford, respective Chairs of the House committees on China, Foreign Affairs, and Intelligence. In the House's letter on the matter, the lawmakers say the aforementioned reports "raise significant national security concerns" about China gaining access to U.S. technology and information. The previously reported claim is that Alice Huang is a Chinese plant in Singaporean data center outfit Megaspeed, siphoning information to Beijing. The Wall Street Journal (WSJ) further claims that she was recruited by Chinese authorities due to her existing rela
+
+### TSMC denies exploring 3D DRAM at Nvidia's request
+Sat, 07 Nov 2026 13:00:00 +0000 — https://www.tomshardware.com/pc-components/dram/tsmc-denies-exploring-3d-dram-at-nvidias-request-advanced-memory-tech-is-still-years-from-market-viability
+
+A recent report from The Information suggested that TSMC is exploring 3D DRAM production at Nvidia's request as surging demand for AI hardware strains global DRAM supplies and drives up prices. If the proposal were to come to fruition, it could mean a new, albeit prone to cyclical risks, business for TSMC and could dramatically expand its role in the AI supply chain. For its part, TSMC states that it is a pure-play logic foundry and plans to remain a logic foundry, which essentially means a denial of the report. Go deeper with TH Premium: Memory (Image credit: SK Hynix) AI data centers are swallowing the world's memory and storage supply Samsung debuts three next-generation memory technologies for AI data centers The future of DRAM: From DDR5 to future ICs High-bandwidth memory roadmap Inside the history of DRAM price-fixing lawsuits "Please note that TSMC focuses on our core business at all times, which is dedicated IC foundry," a TSMC spokesperson told Tom's Hardware. "Our mission is to be the trusted technology and capacity provider of the global logic IC industry for years to come." Despite the denial, according to two people familiar with the initiative cited by The Information , TSMC has begun preparing plans for 3D DRAM manufacturing following a request from Nvidia, its largest customer. The initiative is reportedly overseen by Hsu Kuo-chin, TSMC’s vice president responsible for advanced packaging and former head of Micron’s Taiwanese operations. The effort comes amid 
+
+### New Bluetooth High Data Throughput may finally satisfy audiophiles
+Sat, 07 Nov 2026 12:30:00 +0000 — https://www.tomshardware.com/peripherals/wearable-tech/new-bluetooth-high-data-throughput-may-finally-satisfy-audiophiles-bluetooth-hdt-offers-a-maximum-bandwidth-of-7-5mbps-allowing-true-lossless-transmission
+
+The Bluetooth Special Interest Group (SIG) just announced the new Bluetooth High Data Throughput (HDT) feature on November 4, allowing a maximum bandwidth of 7.5 Mbps, almost 4x that of the previous Bluetooth LE 2M (2 Mbps). The new bandwidth is intended for high-bandwidth interactions between devices, such as AI, spatial computing, and even lossless audio transmission; the latter of which may finally satisfy audiophiles and their enjoyment of uncompressed audio. Bluetooth HDT is Bluetooth’s new feature allowing for up to 7.5 Mbps of bandwidth. This new feature is needed by sophisticated modern devices that use a lot of data in their communication. It could be smartwatches, AI, or even extended reality (XR); less sophisticated but high-bandwidth, however, is lossless audio, which Bluetooth has never had enough bandwidth for, until HDT, that is. Purists have long since criticized Bluetooth, but HDT may finally be the feature that satisfies them. Audiophiles have always preferred wired over Bluetooth, especially those who prefer lossless audio over compressed formats. Bluetooth LE 2M, even with its 2 Mbps bandwidth, cannot reliably transmit CD-quality 1.4 Mbps lossless audio, so it gets compressed through various means: SBC, AAC, aptX, LDAC, LC3, etc., and for audiophiles who want to listen to their lossless audio, compression is a downgrade to their experience, even if they likely can’t tell the difference between lossless and a high-quality 320kbps MP3 file. However, HDT not 
+
+### Enthusiast abandons self-hosted Microsoft Exchange after 27 years, moving mailboxes to Microsoft 365
+Sat, 07 Nov 2026 12:30:00 +0000 — https://www.tomshardware.com/software/enthusiast-abandons-self-hosted-microsoft-exchange-after-27-years-moving-mailboxes-to-microsoft-365-replaces-final-on-premises-relay-with-postfix-starttls-and-lets-encrypt-certificates
+
+Running your own email server is one thing. Keeping it alive for nearly three decades is quite another. One homelab enthusiast has finally decided to call time on his Microsoft Exchange installation after maintaining it since 1999, replacing the last remaining server with Postfix on Ubuntu Server LTS. The user, posting as Meta4X on Reddit’s r/homelab on November 5, said they had already moved their mailboxes and email delivery to Microsoft 365 a couple of years ago. Exchange was still hanging around, however, serving as a relay for alerts generated by hardware and software on their local network. With that final job now being handed to Postfix, the 27-year run is coming to an end. Pour One Out For My Homies - 27 Years of Exchange at Home from r/homelab Meta4X’s installation began with Exchange 5.5 running on Windows NT 4 . Since then, they have upgraded through Exchange 2000, 2003, 2007, 2010, 2013, 2016 and finally Exchange 2019. They said access to Microsoft’s software through MSDN, TechNet and the Microsoft Action Pack had allowed them to keep the setup running over the years. The end of support for Exchange 2019 last year was one reason to consider keeping the server around. Microsoft has since moved its on-premises Exchange platform to Exchange Server Subscription Edition (SE), which comes with ongoing licensing requirements. That said, the transition is not quite as straightforward as the original post suggests. In the post, the Redditor shared a photo from 2003, when t
+
+### EA producer found 20,000 archival media assets in secret physical vault at its HQ
+Sat, 07 Nov 2026 11:30:00 +0000 — https://www.tomshardware.com/video-games/retro-gaming/ea-producer-found-20-000-archival-media-assets-in-secret-physical-vault-at-its-hq-betacam-vhs-and-d1-tapes-among-6000-assets-digitized-to-remaster-seven-classic-games
+
+Jim Vessella, a Senior Producer at the EA Partner teams at Electronic Arts, stumbled upon EA’s secret physical media vault at the company’s Redwood Shores campus. This wasn't just any storage room containing copies of old games; instead, it held nearly 20,000 archival media assets stored in various media, including Betacam, VHS, D1, Film Reels, CD-ROMs, and more. Vessella discovered it in 2022 and spent the next six months outside of his working hours unpacking the room. He was eventually joined by Greg Roensch, who worked with the EA Story initiative, which is the company’s own preservation project, and reorganized the room chronologically. From there, EA shared how this effort turned from an archival project into a remaster of several classic titles. Vessella, who also worked on the Command & Conquer Remastered Collection in 2019, built a proposal to digitize the room once it was organized, with efforts starting in 2024. Two years later, the team working on the project had digitized 6,000 media assets and 2,500 hours of historical footage, including the Master Source tapes for the Wing Commander and Road Rash franchises. This has allowed the team to build Wing Commander III: Heart of the Tiger: 30th Anniversary Edition using those original master tapes. But more than just putting in new footage in the game, Vessella reached out to the Wing Commander community to help make the game playable on modern systems. This included Matt Wells (Mash), who built an Enhancement Patch fo
 
 ### US FAA to eliminate floppy disks from air traffic control by 2028
 Sat, 07 Nov 2026 11:00:00 +0000 — https://www.tomshardware.com/tech-industry/us-faa-to-eliminate-floppy-disks-from-air-traffic-control-by-2028-new-system-will-centralize-flight-alerts-restricted-airspace-schedules-and-pilot-reports
 
 The US federal Aviation Administration (FAA) is finally moving to retire floppy disks from its air traffic control infrastructure, with plans to replace four decades-old information systems across 435 facilities by the end of 2028. The agency announced the rollout on November 5, introducing a centralized platform that will give controllers faster access to weather reports, flight alerts and other operational information. “We’re moving away from outdated, manual processes and replacing technology that once relied on floppy disks with a modern system that allows controllers to instantly share critical flight alerts, restricted airspace schedules and pilot reports,” FAA administrator Bryan Bedford said, adding the agency wants to make critical information available more quickly across its networks. Notably, the new Enterprise Information Display System (E-IDS) is designed to replace four legacy systems dating back to the 1980s. Rather than relying on separate information displays and manual processes, controllers will get a centralized view of operational updates, equipment problems, weather disruptions, and aviation advisories. The first five locations receiving E-IDS include Atlantic City International Airport, Nashville International Airport, Greater Rochester International Airport, and FAA data processing hubs in Atlanta and Salt Lake City, although the system could be extended to 453 sites by the end of 2028. Floppy disks from the 1980s: OUT 🤯 21st century tech: IN 🛫The n
 
-### Elegoo M1 Ultra review: A good first entry into the scanner market
-Fri, 06 Nov 2026 14:00:00 +0000 — https://www.tomshardware.com/3d-printing/3d-scanning/elegoo-m1-ultra-review
-
-The M1 Ultra is Elegoo’s first entry into the 3D scanner market. It is a feature-rich scanner with five scanning modes, four blue light laser modes, and a NIR binocular structured light mode. Most importantly, the scanner has a 3-in color touch screen and long battery life. It even includes a spare rechargeable battery, so you’re always prepared. The scanner can’t run without a fairly high end PC or Mac for processing power. It will need to be tethered to the laptop with a UBS-C cable or connected via Wi-Fi. I was able to get about five feet away from my subject in a harsh RF environment. I didn’t test it further than that, so it may go farther. The cable connection provides the fastest connectivity, making tethered scanning worth the hassle. The scanner’s output rivals any of the scanners I’ve tested, but it did require a little extra work to get there. At a current price of $1,599 at Elegoo, the M1 Ultra has features not found in other scanners at this price point. Specifications: Elegoo M1 Ultra Scanning Mode Blue Laser NIR Infrared Binocular Structured Light Light Type Single, 7, and 34-Line Laser NIR (Near-Infrared) Accuracy Up to 0.02 mm Up to .05mm/m 3D Resolution 0.05-2mm 0.1-2mm Working Distance 200mm-600mm Between 170 and 1200 mm Min Scan Volume 5 x 5 x 5 mm 170mm-1200mm Scan Speed (Standalone) ≤ 100fps ≤ 30fps Alignment 170mm-1200mm Geometry/Texture Connectivity Wired USB, Optional Wi-Fi Color Texture Supported Output Format OBJ/STL/PLY/ASC Operating System Windows
-
 ### GlobalFoundries VP details FDX Fusion technology, sporting 7nm-class performance without the need for EUV tools — company targets 2030 for high-volume manufacturing, with planar transistors in tow
 Fri, 06 Nov 2026 14:00:00 +0000 — https://www.tomshardware.com/tech-industry/semiconductors/globalfoundries-vp-details-fdx-fusion-technology-sporting-7nm-class-performance-without-the-need-for-euv-tools-company-targets-2030-for-high-volume-manufacturing-with-planar-transistors-in-tow
 
 Eight years after GlobalFoundries abandoned the development of its 7nm FinFET technology, the company is preparing to return to 7nm-class performance, this time by going via a different route. Its FDX Fusion process, built on FD-SOI (fully depleted silicon-on-insulator) technology, promises 7nm-class performance using advanced planar transistors, with no EUV lithography necessary. In an interview with Tom's Hardware Premium , GlobalFoundries' Sudipto Bose, vice president of the FD-SOI business unit, shared new details about its FDX Fusion technology, including its 8nm-class logic density, advanced planar transistors, manufacturing costs, and plans to begin commercial production in 2028. The company also explained how it intends to compete with conventional FinFET technologies and why it believes FD-SOI has a future beyond the 22nm-class generation. Some elements of this interview transcript have been edited for flow and clarity. Sudipto Bose: I have been at GlobalFoundries (GF) for a little bit over six years, and I have been in the industry for 25+ years. I spent the rest of my career at Texas Instruments (TI), so it's really two jobs that I have done: TI and GF. Half and half engineering and business. I spent a lot of my business days in the automotive segment. This was what I was doing at GF when I joined, and now I have the FDX product line role. (Image credit: GlobalFoundries) Sudipto Bose: A little bit on the history of FDX at GF. GF has been investing in FD-SOI for a l
 
-### Protesters storm Microsoft AI data center construction site
-Fri, 06 Nov 2026 13:59:09 +0000 — https://www.tomshardware.com/tech-industry/data-centers/protesters-storm-microsoft-ai-data-center-construction-site-amsterdam-reportedly-first-of-85-targeted-actions-across-europe
+### Elegoo M1 Ultra review: A good first entry into the scanner market
+Fri, 06 Nov 2026 14:00:00 +0000 — https://www.tomshardware.com/3d-printing/3d-scanning/elegoo-m1-ultra-review
 
-A Microsoft data center under construction in Amsterdam, the Netherlands, has been overrun by about a hundred protesters, with some carrying placards saying, “Screw your data center.” According to Reuters , the “Stop Dirty Data Centers” coalition is planning actions across 16 countries on November 6 and 7, 2026, including Amsterdam, Dublin, Warsaw, and another Microsoft site in Denmark. Go deeper with TH Premium: AI and data centers (Image credit: Microsoft) The data center cooling state of play The custom AI ASIC state of play America’s AI chip rules keep changing — and the rest of the world is paying the price GTC 2026: Ian Buck press Q&A transcript — VP of Hyperscale and HPC speaks out on shelving CPX and shipping LPU decode this year Demand for data center CPUs has surged, and AI agents are responsible Pure Data Centers, which owns the Amsterdam data center, said, “We respectfully ask those on site to leave safely and engage with us in dialogue about the development and any concerns they may have.” The report also quoted Microsoft saying that it understood the strong feeling that people have and respected their right to peaceful expression but says that it does not condone any unlawful action. "On 6-7 November 2026 we are taking action across Europe to say Stop Dirty Data Centres," the group's website reads. "Local communities are rising up to stop dirty data centres where they live. We will unite and exercise our democratic rights to speak out, assemble, and protest to h
-
-### Nvidia tightens tracking of AI GPUs in Southeast Asia as Chinese chip smuggling draws scrutiny, report claims
-Fri, 06 Nov 2026 13:49:33 +0000 — https://www.tomshardware.com/tech-industry/big-tech/nvidia-tightens-tracking-of-ai-gpus-in-southeast-asia-as-chinese-chip-smuggling-draws-scrutiny-report-claims-cloud-providers-must-join-monitoring-program-to-qualify-for-official-partner-status
-
-Southeast Asia computing providers are now reportedly required to register with Nvidia's Fleet Intelligence tracking system if they want to become official Nvidia Cloud Partners (NCPs). The move, according to Bloomberg , is aimed at giving the chipmaker another way to monitor where its AI accelerators are deployed, as Washington grows increasingly frustrated with restricted hardware finding its way into China through regional smuggling networks. Nvidia was not immediately available for comment. Go deeper with TH Premium: Taiwan, trade, and tariffs (Image credit: tsmc) While the U.S. flip-flops on chip sanctions, China is building its own chip supply market The state of China's decade-long semiconductor push Huawei Ascend NPU roadmap examined China's CXMT targets 30% DRAM memory market share by 2030 with sixth mega-fab China's latest round of rare-earth export controls explained The NCP designation is worth pursuing as it gives cloud providers Nvidia's public endorsement and preferred access to its sought-after AI chips, putting the company in a position to use those benefits as leverage. Customers seeking the status must now enroll in Fleet Intelligence , according to people familiar with the new requirements. Fleet Management was introduced last December primarily as a data centre management tool. It gathers information about NVIDIA hardware deployed across participating companies' infrastructure, including the locations of individual accelerators. That information could giv
-
-### Six pallets of Nvidia GPUs worth $11.4 million stolen in California cargo heist
-Fri, 06 Nov 2026 13:35:16 +0000 — https://www.tomshardware.com/pc-components/gpus/six-pallets-of-nvidia-gpus-worth-usd11-4-million-stolen-in-california-cargo-heist-authorities-investigate-after-truck-posing-as-a-food-transport-company-disappears
-
-As high-end PC hardware continues to surge in demand and price, GPU theft has become a highly profitable target for criminals. According to a report by ABC7 News , authorities are investigating a major cargo heist involving the disappearance of an $11.4 million shipment of Nvidia hardware. The shipment reportedly consisted of six pallets of Nvidia hardware that left Oakland for Texas on August 29 and was picked up by a truck posing as a food transport company. Investigators eventually lost track of the vehicle in San Bernardino County, with the Oakland Police Department receiving a report of the theft on September 13. "These chips command about double the price that they command inside the United States. So, if a chip costs about $550,000, then they go for about 1 million or more abroad," said Olaf Groth, a professor at UC Berkeley's Haas School of Business. While there has been no announcement regarding any arrests, the authorities are said to be investigating the matter. The incident has also raised concerns among experts about the security of high-value technology shipments and the potential national security risks posed by advanced computing hardware making its way into black-market channels. In a similar incident from Brazil back in September, two pallets containing Nvidia's top-of-the-line GeForce RTX 5090 graphics cards, valued at approximately $470,000 (R$2.5 million), disappeared at Guarulhos International Airport in São Paulo. The shipment, imported from the US, had
-
-### Save 26% on this 142-piece toolkit for your PC repairs and hobbyist projects, now under $28
-Fri, 06 Nov 2026 13:00:00 +0000 — https://www.tomshardware.com/desktops/pc-building/save-26-percent-on-this-142-piece-toolkit-for-your-pc-repairs-and-hobbyist-projects-now-under-usd28-precision-screwdriver-kit-includes-120-magnetic-bits-and-20-different-repair-tools-for-your-next-project
-
-Every hobbyist and PC builder needs a toolkit for repairs and maintenance. With that in mind, there's a 26% discount to be had on this Strebito 142-in-1 screwdriver set, down to just $27.99 . This kit comes with 120 magnetic screw bits, 22 maintenance tools, along with the precious driver itself. ● Check out this deal at Amazon A kit like this gives you the essential tools required to keep your PC repaired and maintained, but it's also a good option for any of those small DIY tasks or hobbyist building tasks. Along with the driver and bits, the brushes, scrapers, and other repair tools will come in useful when you're dealing with small repair jobs at home. This 142-in-1 precision screwdriver set comes with 120 magnetic bits and 22 repair tools for various disassembly and maintenance tasks, along with a precision screwdriver and magnetic tools for your PC building and hobbyist repairs. View Deal The core part of this set is the precision screwdriver. It has an ergonomic handle and a flexible shaft that lets you get into awkward places, with an extension shaft to get you deeper into those deep PC cases. You've got 120 different bits in this set to use with your driver, too, across all the major head styles, including flathead, Phillips, Torx, and Pozidrive. This Strebito set also has a magnetizer/demagnetizer tool. This is useful, as it'll let you grab hold of screws, but also weaken the charge if you're worried about electromagnetic interference in your PC case. There's a 5.7 
-
-### Nvidia wants to repurpose over 130 old telco buildings as tiny data centers, report claims
-Fri, 06 Nov 2026 12:45:00 +0000 — https://www.tomshardware.com/tech-industry/data-centers/nvidia-wants-to-repurpose-over-130-old-telco-buildings-as-tiny-data-centers-report-claims-company-in-talks-with-brightspeed-after-pitching-idea-to-parent-company-apollo-global-management
-
-Internet and telecommunications provider Brightspeed is reportedly in talks with Nvidia to convert several of its buildings into tiny data centers. According to The Information , Nvidia pitched the idea to Apollo Global Management executives, the parent company of Brightspeed, who then asked it to submit written plans to the internet provider. Nvidia complied and has now requested additional information, data, and site visits to some of Brightspeed’s existing infrastructure. Go deeper with TH Premium: AI and data centers (Image credit: Microsoft) The data center cooling state of play The custom AI ASIC state of play America’s AI chip rules keep changing — and the rest of the world is paying the price GTC 2026: Ian Buck press Q&A transcript — VP of Hyperscale and HPC speaks out on shelving CPX and shipping LPU decode this year Demand for data center CPUs has surged, and AI agents are responsible The telecommunications company has around 130 buildings located around the country, many of which are already built to handle data and voice traffic and have the required power infrastructure to run Nvidia servers. Sources say that the AI tech giant estimates that these sites could collectively deliver around 1 gigawatt of compute capacity, which could accommodate more than 2,200 Supermicro Vera Rubin NVL72 racks containing 72 Rubin GPUs and 36 Vera CPUs each. Although these sites already can power these GPUs, it’s still not a plug-and-play solution, as Nvidia would still need to insta
-
-### Rogue AI tasked with renumbering pages accidentally deletes law professor's entire syllabus, one year of lecture notes
-Fri, 06 Nov 2026 12:12:12 +0000 — https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-claude-ai-tasked-with-renumbering-pages-accidentally-deletes-law-professors-entire-syllabus-one-year-of-lecture-notes-youre-right-to-be-angry-i-deleted-your-files-through-my-own-carelessness-humbled-agent-admits
-
-A University of Chicago law professor has warned of the dangers of using AI for mundane tasks after Claude AI accidentally deleted an entire year of Constitutional Law lecture notes and his entire current syllabus. While the files were later recovered via Dropbox, William Baude shared the story as a public service announcement, the latest story shared in a line of unfortunate AI missteps as proliferation increases. Go deeper with TH Premium: AI and data centers (Image credit: Microsoft) The data center cooling state of play The custom AI ASIC state of play America’s AI chip rules keep changing — and the rest of the world is paying the price GTC 2026: Ian Buck press Q&A transcript — VP of Hyperscale and HPC speaks out on shelving CPX and shipping LPU decode this year Demand for data center CPUs has surged, and AI agents are responsible Baude, who is the Harry Kalven, Jr. Professor of Law and the Faculty Director of the Constitutional Law Institute at the University of Chicago Law School, says he tasked Claude (it is unclear which model he was using) with updating the page numbers in an old set of lecture notes. This seemingly routine task went south quickly, however. Returning from his lunch break, Baude found a note from Claude which read, "I deleted your Fall 2026 FINAL syllabus .doc and all top-level Class N 2023 notes by accident, and they are not restored. The page check found one wrong cite... but I haven't edited the notes." Yesterday while I was at lunch, Claude delete
-
-### Tesla unveils AI accelerator roadmap, adopts new 'SI' branding in 'Super Intelligence' push
-Fri, 06 Nov 2026 12:00:00 +0000 — https://www.tomshardware.com/tech-industry/artificial-intelligence/tesla-unveils-ai-accelerator-roadmap-adopts-new-si-branding-in-super-intelligence-push-si6-to-bring-80x-more-compute-performance-dojo-3-headed-to-space
-
-Tesla has disclosed its revamped AI accelerator roadmap that sheds some light on the future of the company's chip development efforts. The Elon Musk company expects that its 6 th Generation inference accelerator will bring 80X more compute performance than the existing 4 th Generation chip, whereas its D3 training accelerator will cease to use SRAM-centric architecture in favor of a multi-chiplet design with stacked HBM. Also, Tesla has adopted the term "super intelligence" instead of artificial intelligence for its AI accelerators, renaming them with SI monikers. Musk recently confirmed SpaceXAI would be redubbed SpaceXSI for the same reason. Wait a minute… I thought @elonmusk ’s Tesla chips were called AI4, AI5, and AI6.But in this latest presentation, they’re now labeled SI4, SI5, and SI6.Then I remembered: President Trump wants to replace “Artificial Intelligence” (AI) with “Super Intelligence” (SI).Looks like Elon Musk may already be embracing the new terminology. 🤔 November 4, 2026 HW3 | AI3 SI4 | HW4 SI5 | AI5 SI6 | AI6 Dojo D1 Dojo D3 Application Inference Inference Inference Inference Training Training Process technology Samsung 14nm Samsung 7nm TSMC 3nm / Samsung 2nm 2nm-class TSMC 7nm TBD Architecture Monolithic Monolithic MCM MCM SoW Chiplets Packaging FCBGA FCBGA MCM MCM InFO_SoW (training tile) 2.5D + 3D Memory type LPDDR4 GDDR6 GDDR6/GDDR7 (?) GDDR7 (?) On-chip SRAM Stacked HBM Memory capacity 8 GB 16 GB 96 GB 144 GB 440 MB SRAM per die 11 GB SRAM per wafer TB
-
-### Intel’s next-gen Nova Lake needs new motherboards — what we expect from Nova Point and Z990, Z970, and B960 chipsets
-Fri, 06 Nov 2026 12:00:00 +0000 — https://www.tomshardware.com/pc-components/chipsets/intels-next-gen-nova-lake-needs-new-motherboards-what-we-expect-from-nova-point-and-z990-z970-and-b960-chipsets
-
-Intel’s new Nova Lake-S CPUs are rumored to be on track to start mass production in Q4 2026, with a launch expected in Q1 2027. Unlike previous launches, we’re supposed to see mid-range SKU(s), supposedly an unlocked 28-core product(s), first in Q1, followed later in 2027 by flagship-class models that allegedly use two compute tiles and feature up to 52 cores. Lip-Bu Tan, Intel CEO, said earlier this year that Nova Lake is “coming at the end of 2026.” Despite the growing number of rumors and statements, we still don’t have a concrete date, but we can expect to see the CPUs soon, and with them, a brand-new socket and motherboard chipsets. Regardless of how many cores they have or when they arrive, you will need a new motherboard for Nova Lake. The LGA 1851 socket is at the end of its life with the release of Core Ultra Series 2 processors like the Core Ultra 7 270K Plus , released earlier in 2026; that means no more new processors and a dead end. A new socket, LGA 1954, is necessary because Nova Lake CPUs have a significant increase in I/O and power needs. It’s also Intel’s first bLLC (big last-level cache) intended to take on AMD’s X3D CPUs. We haven’t seen many details about the boards themselves, like pricing, official configurations, or product stacks, and we've only caught glimpses of one or two early models at Computex. Still, we have seen a few interesting platform details and rumors. To that end, we’ve put together a table of what we know so far about the specification
-
-### Score a huge $600 saving on this RTX 5070 Ti gaming laptop from HP, now under $2,100
-Fri, 06 Nov 2026 11:44:37 +0000 — https://www.tomshardware.com/laptops/gaming-laptops/score-a-huge-usd600-saving-on-this-rtx-5070-ti-gaming-laptop-from-hp-now-under-usd2-100-hyperx-omen-max-16-machine-is-fully-customizable-base-model-ships-with-16gb-ddr5-and-a-512gb-ssd
-
-There's a seriously good price on a HP gaming laptop right now with an RTX 5070 Ti and a top spec AMD Ryzen CPU. HP has cut this HyperX Omen Max 16 gaming laptop down to $2,099.99 right now , or slightly more if you fancy the OLED, giving you a $600 saving in the process. ● Check out this HP laptop deal The big selling point here is the current-gen Nvidia GPU, giving you the performance you'll need for gaming. The mobile version of the Nvidia GeForce RTX 5070 Ti isn't quite a match for the desktop version, and ships with a set of 5,888 CUDA cores and 12GB GDDR7 VRAM. This is still a 115W GPU with plenty of power for high-resolution gaming, however, especially compared to the CPU's integrated GPU you'd be stuck with otherwise. There won't be much of an issue here hitting high frame rates on this HP laptop's 1600p display. DLSS support, meanwhile, means you've got breathing room to boost to the best settings, with multi-frame generation able to cut some of the slack with AI-generated frames to give you an uplift in the most power-intensive games. This is an extremely competitive option for gaming with this discount, offsetting some of the criticisms we made in our HyperX Omen Max 16 review , and the build quality will remain the same, whatever spec you choose. If you change other components, like the RAM, GPU, and display, then performance will vary. HyperX Omen Max 16 (RTX 5070 Ti) 16z-ak100: was $2699.99 now $2099.99 This HyperX Omen Max 16 gaming laptop features a powerful (
+The M1 Ultra is Elegoo’s first entry into the 3D scanner market. It is a feature-rich scanner with five scanning modes, four blue light laser modes, and a NIR binocular structured light mode. Most importantly, the scanner has a 3-in color touch screen and long battery life. It even includes a spare rechargeable battery, so you’re always prepared. The scanner can’t run without a fairly high end PC or Mac for processing power. It will need to be tethered to the laptop with a UBS-C cable or connected via Wi-Fi. I was able to get about five feet away from my subject in a harsh RF environment. I didn’t test it further than that, so it may go farther. The cable connection provides the fastest connectivity, making tethered scanning worth the hassle. The scanner’s output rivals any of the scanners I’ve tested, but it did require a little extra work to get there. At a current price of $1,599 at Elegoo, the M1 Ultra has features not found in other scanners at this price point. Specifications: Elegoo M1 Ultra Scanning Mode Blue Laser NIR Infrared Binocular Structured Light Light Type Single, 7, and 34-Line Laser NIR (Near-Infrared) Accuracy Up to 0.02 mm Up to .05mm/m 3D Resolution 0.05-2mm 0.1-2mm Working Distance 200mm-600mm Between 170 and 1200 mm Min Scan Volume 5 x 5 x 5 mm 170mm-1200mm Scan Speed (Standalone) ≤ 100fps ≤ 30fps Alignment 170mm-1200mm Geometry/Texture Connectivity Wired USB, Optional Wi-Fi Color Texture Supported Output Format OBJ/STL/PLY/ASC Operating System Windows
 
 ## Phoronix
+
+### Automake 1.20 Brings New Features, Desires To Re-Establish GNU As Leading Build System
+Sat, 07 Nov 2026 10:22:00 -0500 — https://www.phoronix.com/news/GNU-Automake-1.20
+
+Out today is GNU Automake 1.20 with the new --enable-jobserver option and opting for GPLv3+ licensing...
+
+### HyprBSD Provides Wayland-Based Desktop Built Atop FreeBSD, Complete With Steam Gaming
+Sat, 07 Nov 2026 07:45:00 -0500 — https://www.phoronix.com/news/HyprBSD
+
+While FreeBSD has been working to improve its desktop and laptop experience, that work isn't yet shipping in released form for the OS installer and other ongoing efforts. Now there's a new desktop FreeBSD distribution on the scene with HyprBSD providing a Wayland-based desktop experience and with the Linux binary compatibility layer even an easy route to gaming with Steam...
+
+### Kmorph Aims To Provide Rebootless Linux Kernel Crash Recovery
+Sat, 07 Nov 2026 07:05:00 -0500 — https://www.phoronix.com/news/Kmorph-Linux-Crash-Recovery
+
+Kmorph aims to provide reboot-less kernel crash recovery for Linux systems and can yield as little as ~2 second downtime for recovering the Nginx web server or other important services in the case of a kernel crash...
+
+### KDE Plasma 6.9 Will Stop Leaking Memory When Right Clicking Files/Folders On Desktop
+Sat, 07 Nov 2026 06:34:48 -0500 — https://www.phoronix.com/news/KDE-Plasma-6.9-Leak-Desktop
+
+With Plasma 6.8 stable approaching one month old, KDE developers continue ramping up work toward Plasma 6.9. Here is some of the interesting work they've been up to so far in November...
 
 ### Vulkan 1.4.368 Released With New Extensions From Valve & NVIDIA
 Sat, 07 Nov 2026 05:53:10 -0500 — https://www.phoronix.com/news/Vulkan-1.4.368
@@ -218,27 +238,12 @@ Fri, 06 Nov 2026 09:55:52 -0500 — https://www.phoronix.com/review/cachyos-omar
 
 With CachyOS recently having rolled out its Linux 7.3 based kernel and various other improvements plus with Omarchy 4.5 having been released this week, this article provides a look at how CachyOS and Omarchy are competing on the performance front relative to upstream Arch Linux.
 
-### Linux x86 32-bit Patches Clean Old Kernel Code After Recently Removing Vintage CPUs
-Fri, 06 Nov 2026 09:11:31 -0500 — https://www.phoronix.com/news/Linux-2026-x86-32-bit-Cleanup
-
-With the Linux kernel having phased out i486 CPU support and dropping old AMD Elan SoC code along with removing other obsolete and stagnate 32-bit x86 hardware support, some x86 32-bit clean-ups are proceeding along with being able to make the kernel depend unconditionally now on some features...
-
-### FEX Awaits The Linux Kernel To Align With Windows & macOS On ARM Register Usage
-Fri, 06 Nov 2026 08:12:24 -0500 — https://www.phoronix.com/news/FEX-2611-Released
-
-FEX 2611 is out for running Linux (and Wine) x86/x86_64 games/applications on AArch64 Linux. FEX 2611 brings JIT improvements while also waiting for the Linux kernel to align with the AArch64 specification and Windows on ARM and macOS Apple Silicon behavior around a particular register's usage...
-
-### Ubuntu Moving Ahead With Plans For Splitting Up Linux-Firmware, HWE Option
-Fri, 06 Nov 2026 06:19:09 -0500 — https://www.phoronix.com/news/Ubuntu-Going-With-Firmware-HWE
-
-A few months back were discussions of a Linux firmware HWE package for Ubuntu to carry updated firmware blobs under the hardware enablement (HWE) umbrella. Plus also splitting up the monolithic linux-firmware package for easing of firmware updates. Those plans didn't materialize in time for the official Ubuntu 26.10 release but are now being pursued for Ubuntu 27.04 and may then be SRU'ed into Ubuntu 26.10 and potentially Ubuntu 26.04 LTS...
-
-### Linux Developers Look To Drop RT_GROUP_SCHED As It s "Broken Beyond Repair"
-Fri, 06 Nov 2026 06:09:14 -0500 — https://www.phoronix.com/news/Linux-Drop-RT_GROUP_SCHED
-
-Linux kernel developers are looking at dropping the RT_GROUP_SCHED feature that is used for group scheduling of real-time tasks using cgroups...
-
 ## The Register
+
+### Fireworks says you’re wasting money on AI unless you’re using all the models
+Sat, 07 Nov 2026 15:00:00 +0000 — https://www.theregister.com/ai-and-ml/2026/11/07/fireworks-says-youre-wasting-money-on-ai-unless-youre-using-all-the-models/5308277
+
+Fireworks AI is fine with helping companies run AI models in their own datacenters, though VP Rob Ferguson argues against doing so. Ferguson told The Register in an interview that while Fireworks AI, a managed inference provider, supports on-prem AI, "we're trying to push people more and more away from it because frankly, it's just the economics." The GPU hardware is just so expensive that if you can't keep it fully utilized, it's a waste of money, he contends. Ten thousand GPUs, he said, represent a billion dollars of capital. "You don't want those things to be sitting idle," he said. For companies with particularly sensitive workloads, Ferguson said, Fireworks is happy to work something out – it offers a service called Sovereign for just that purpose and it has partners like Microsoft that can help. But most inference work probably doesn't need that level of protection, he said. "The state of the art for everyone is to have a portfolio of models," he explained. "In fact, I think most people don't know that the best model in the world's not Astra. The best model in the world's not Fable. The best model is literally a portfolio and we can prove it. You are always better routing between a few models than to do one singular model." That's what Fireworks does through Nexus and its API, alongside competitors like Together AI, Baseten, and DeepInfra. As a managed inference platform, Fireworks AI routes inference tasks to whichever model, frontier model subscription, or API is best
 
 ### NHS breach helpline left staff carrying a 'significant emotional burden'
 Sat, 07 Nov 2026 10:30:00 +0000 — https://www.theregister.com/security/2026/11/07/nhs-breach-helpline-left-staff-carrying-a-significant-emotional-burden/5308201
@@ -295,74 +300,79 @@ Fri, 06 Nov 2026 14:01:00 +0000 — https://www.theregister.com/offbeat/2026/11/
 
 New Glenn's return to flight has slipped to January 2027, according to the internal memo, viewed by The Register, from Blue Origin CEO Dave Limp, overshadowing the company's announcements of a new third stage and booster engine. Blue Origin has been rebuilding after its New Glenn rocket exploded during a ground test in May , extensively damaging the launchpad. A month later, the company's CEO, Dave Limp, said that Blue Origin "still plan[s] to fly again this year," which raised a few eyebrows in the space and rocket community. The detonation had pretty much destroyed the facility, and getting back into the launch business so quickly seemed optimistic. That timetable has now slipped. In the memo, Limp praised the team's efforts but said: "We're proactively updating our anticipated launch date to January 2027." A small slip given the damage, but one that leaves less breathing room before NASA's planned Artemis III demonstration mission, involving lunar technologies from Blue Origin and SpaceX, next year. The delay emerged as the Bezos-backed company unveiled GS3, a third stage for New Glenn , designed for missions including direct injection into geostationary orbit and Earth-escape trajectories. The company said: "GS3 is already under contract for a cislunar mission with a government customer scheduled to launch in 2028." Blue Origin says the stage is not required for its lunar lander architecture, although it could support sustained operations around the Moon. The company also
 
-### DigiCert admits 16-month security lapse exposed customer information
-Fri, 06 Nov 2026 13:15:00 +0000 — https://www.theregister.com/security/2026/11/06/digicert-admits-16-month-security-lapse-exposed-customer-information/5308097
-
-DigiCert has admitted that a botched server migration left an internal system exposed to the internet for more than a year, allowing an unauthorized user to access customer data, including passports, driver's licenses, and other identity documents. The certificate authority has begun notifying affected customers but has yet to disclose how many people had their information exposed. In an email seen by The Register , DigiCert confirmed the compromised information included names, business email addresses, phone numbers, and business addresses. Some records may also have contained passports, driver's licenses, utility bills, or other identification documents. "We are completing a review of identification documents to determine the specific individuals involved," DigiCert told those affected, adding that it would notify those people once the review was complete. DigiCert's incident report traces the blunder back to February 2025, when an internal business system was moved from a VPN-protected network to a different availability zone. That change also opened the system up to the public internet, where it sat for more than 16 months without DigiCert realizing. The archive used the same account management platform as DigiCert's customer-facing products, including a self-registration feature that was never supposed to be available on the internal system. This allowed outsiders to create accounts without multifactor authentication and, thanks to a separate permissions flaw, use them t
-
 ## Engadget
 
-### Google's eyewear partners can't keep a lid on its smart glasses plans
-Fri, 06 Nov 2026 19:45:23 +0000 — https://www.engadget.com/2309631/googles-eyewear-partners-cant-keep-a-lid-on-its-smart-glasses-plans/
+### 5 iPhone security settings you should change to protect your data
+Sat, 07 Nov 2026 18:00:00 +0000 — https://www.engadget.com/2306607/iphone-security-settings-data-protection/
 
-Gentle Monster shared that its "Intelligent Eyewear" will be available to pre-order on November 12.
+Your iPhone has great security features, but some of them need configuration to work their best.
 
-### Fox wraps up its $22 billion Roku deal
-Fri, 06 Nov 2026 17:20:32 +0000 — https://www.engadget.com/2309307/fox-wraps-up-its-dollar22-billion-roku-deal/
+### What is System Data on an iPhone's storage, and how much is normal?
+Sat, 07 Nov 2026 17:45:00 +0000 — https://www.engadget.com/2306455/what-is-iphone-storage-system-data/
 
-No Hannity on your home screen, at least for now.
+Your iPhone's storage breaks down into many categories; System Data is often large but doesn't have a clear explanation.
 
-### The EU accuses TikTok's 'rabbit hole' algorithm of breaching its content rules
-Fri, 06 Nov 2026 17:17:14 +0000 — https://www.engadget.com/2309300/the-eu-accuses-tiktoks-rabbit-hole-algorithm-of-breaching-its-content-rules/
+### Snapchat's Find Friends feature will be off by default for UK users under 18
+Sat, 07 Nov 2026 17:31:17 +0000 — https://www.engadget.com/2310117/snapchats-find-friends-feature-will-be-off-by-default-for-uks-under-18-users/
 
-The bloc said the platform needs to change how the For You page works to help protect users' mental health.
+The platform is rolling out this change in the country starting this month.
 
-### You'll soon be able to text Alexa to shop on Amazon
-Fri, 06 Nov 2026 17:11:10 +0000 — https://www.engadget.com/2309285/youll-soon-be-able-to-text-alexa-to-shop-on-amazon/
+### 5 Google Messages settings you might want to disable
+Sat, 07 Nov 2026 17:30:00 +0000 — https://www.engadget.com/2306181/google-messages-settings-might-want-to-disable/
 
-The latest Alexa for shopping feature is initially available by invite in the US.
+Google Messages is easily one of the best messaging apps available on Android, but that doesn't mean it's configured perfectly out of the box.
 
-### DOJ just launched something called the Super Intelligence Task Force
-Fri, 06 Nov 2026 16:56:52 +0000 — https://www.engadget.com/2309257/doj-just-launched-something-called-the-super-intelligence-task-force/
+### How to legally download free movies to your computer
+Sat, 07 Nov 2026 17:15:00 +0000 — https://www.engadget.com/2306356/how-to-legally-download-free-movies/
 
-The unit is tasked with ensuring that the technology is not "manipulated by bad actors at home or abroad."
+There are services that will allow you to download movies from the public domain, and several streaming services let you download shows for offline viewing.
 
-### Eufy's clever outdoor security camera that lives inside is now available to buy
-Fri, 06 Nov 2026 16:16:20 +0000 — https://www.engadget.com/2309176/eufys-clever-outdoor-security-camera-that-lives-inside-is-now-available-to-buy/
+### Apple also made its classical music app's logo black and white
+Sat, 07 Nov 2026 17:06:13 +0000 — https://www.engadget.com/2310114/apple-also-made-its-classical-music-apps-logo-black-and-white/
 
-The $80 Window Camera E10 sticks to your window, pointed outwards.
+Apple Music Classical now has a black-and-white logo, as well.
 
-### A Stranger Things prequel series is coming to Netflix in 2028
-Fri, 06 Nov 2026 15:09:52 +0000 — https://www.engadget.com/2309062/a-stranger-things-prequel-series-is-coming-to-netflix-in-2028/
+### How does the digital ink in ereaders work?
+Sat, 07 Nov 2026 17:00:00 +0000 — https://www.engadget.com/2306305/how-does-ereader-nook-amazon-kindle-digital-ink-work/
 
-Other Worlds: A Stranger Things Adventure takes place in Nevada in the 1950s.
+Unlike regular LCD and OLED displays, ereaders rely on e-ink tech that lets them gently sip power and last for months. Here's the science behind how it works.
 
-### Anker Soundcore Space 2 Pro review: Big bang for fewer bucks
-Fri, 06 Nov 2026 15:00:00 +0000 — https://www.engadget.com/2309011/anker-soundcore-space-2-pro-review/
+### Solar panel breakthrough could almost double the efficiency of today's panels
+Sat, 07 Nov 2026 16:45:00 +0000 — https://www.engadget.com/2306188/solar-panel-efficiency-breakthrough-doubles-output/
 
-The Space 2 Pro is a set of slightly above average headphones with exceptional voice clarity.
+Solar panels have become much more efficient since their infancy, but research breakthroughs show there's still plenty of room for improvement.
 
-### Google's Find Hub can finally notify you if you've left a tracker behind
-Fri, 06 Nov 2026 13:05:16 +0000 — https://www.engadget.com/2308903/googles-find-hub-can-finally-notify-you-if-youve-left-a-tracker-behind/
+### This GPS navigation app should be the go-to for older drivers
+Sat, 07 Nov 2026 16:30:00 +0000 — https://www.engadget.com/2305919/gps-navigation-app-go-to-older-drivers-google-maps/
 
-Google has rolled out 'Notify when left behind' separation alerts for your tracking devices.
+Nervous about driving somewhere new? One familiar navigation app has simple turn-by-turn directions that help older drivers feel more confident.
 
-### Samsung Galaxy Watch Ultra 2 review: The new standard for smartwatch battery life
-Fri, 06 Nov 2026 13:00:00 +0000 — https://www.engadget.com/2306413/samsung-galaxy-watch-ultra-2-review-2026/
+### What gamers should know when bringing their consoles through TSA
+Sat, 07 Nov 2026 16:15:00 +0000 — https://www.engadget.com/2305767/gamers-tsa-game-console-rules/
 
-With its bright display and battery life, the Galaxy Watch Ultra 2 hits the sweet spot for smartwatch hardware.
+You're allowed to bring your game consoles through the TSA line, but what exactly you need to do depends on the airport and console size.
 
-### Tesla is 'winding down' Cybertruck production at its Texas Gigafactory
-Fri, 06 Nov 2026 11:40:53 +0000 — https://www.engadget.com/2308875/tesla-is-winding-down-cybertruck-production-at-its-texas-gigafactory/
+### The right way to fix your MacBook keyboard if it isn't responding
+Sat, 07 Nov 2026 16:00:00 +0000 — https://www.engadget.com/2305570/macbook-keyboard-fix-not-responding/
 
-Tesla Cybertruck production will wind down in the middle of 2027 to make room for the Cybercab robotaxi.
+Don't count out your MacBook's keyboard just yet - a quick hardware cleaning or software toggle could get it working again.
 
-### Perplexity's 'teammates' are the company's AI agents for daily work tasks
-Fri, 06 Nov 2026 11:18:59 +0000 — https://www.engadget.com/2308870/perplexity-teammates-ai-agents-for-ongoing-work/
+### Cleaning your PC with expired isopropyl alcohol can be risky — here's why
+Sat, 07 Nov 2026 15:45:00 +0000 — https://www.engadget.com/2305456/why-isopropyl-alcohol-degrades-pc-cleaning/
 
-Perplexity launches personal AI agents that can act as your 'teammates.'
+Think twice before grabbing that old bottle. Here's why expired isopropyl alcohol can harm your PC and how to clean it the safe way instead.
 
 ## TechCrunch
+
+### Binance CFO is leaving to pursue a new venture after $6.3 billion hack
+Sat, 07 Nov 2026 17:24:07 +0000 — https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/
+
+The announcement comes barely more than a week after hackers stole $6.3 billion worth of cryptocurrency from Binance users.
+
+### Amazon s new basic Kindle proves you don t need all the bells and whistles
+Sat, 07 Nov 2026 17:18:00 +0000 — https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/
+
+Amazon's redesigned basic Kindle costs more than before, but its lighter build and improved display make a compelling case for skipping the pricier models.
 
 ### Sequoia shutting down its Scouts program marks the end of an era
 Sat, 07 Nov 2026 05:01:54 +0000 — https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/
@@ -413,14 +423,4 @@ The Pentagon has conditionally approved a $250 million loan to help 6K scale up 
 Fri, 06 Nov 2026 16:05:36 +0000 — https://techcrunch.com/2026/11/06/fox-completes-its-22b-acquisition-of-roku/
 
 A few months after DOJ investigators were probing the deal, Fox just completed its $22B acquisition of the streaming giant Roku.
-
-### Ramp data shows AI spending stalling just as Anthropic nears its IPO
-Fri, 06 Nov 2026 15:54:47 +0000 — https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/
-
-AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.
-
-### After blocking Muse, Amazon now lets users text Alexa to help them shop
-Fri, 06 Nov 2026 14:10:00 +0000 — https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/
-
-Amazon said that the feature will roll out to millions of users in coming weeks.
 

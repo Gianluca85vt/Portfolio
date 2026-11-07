@@ -1,6 +1,16 @@
-# Games — harvested 2026-11-07T11:19:46.962Z
+# Games — harvested 2026-11-07T18:18:11.126Z
 
 ## Eurogamer
+
+### Wardogs Season 3 brings an urban map, Limited Mode, and a 185,000-account ban wave
+Sat, 07 Nov 2026 16:55:30 +0000 — https://www.eurogamer.net/wardogs-season-3-release-date-limited-mode-ban-wave
+
+Wardogs' Season 3 will launch on 12th November, complete with a new urban map, a new Limited Mode, and a ban wave targeting 185,000 accounts. Read more
+
+### Xbox is testing a way to use your phone as a controller on smart TVs
+Sat, 07 Nov 2026 12:30:10 +0000 — https://www.eurogamer.net/xbox-cloud-gaming-phone-controller-smart-tv-nano-cloud-connect
+
+Xbox is testing two new ways to play its cloud games, and one of them doesn't require a controller at all. Read more
 
 ### What we've been playing - "Sniffing out the warehouses on Prawn Island"
 Sat, 07 Nov 2026 08:02:00 +0000 — https://www.eurogamer.net/what-weve-been-playing-vice-city-zelda-world-of-warcraft-forever
@@ -52,16 +62,6 @@ Fri, 06 Nov 2026 10:15:20 +0000 — https://www.eurogamer.net/bioware-closure-wa
 
 It's only been two weeks since we last heard Warren Spector sound off about EA's sudden decision to close BioWare , following the publisher's acquisition by Saudi Arabia's PIF and venture capitalist concerns. But now, the storied developer is back and - apparently - angrier than ever. Read more
 
-### After gobbling up EA, Saudi Arabia and private equity firm Silver Lake reportedly looking to buy Unity
-Fri, 06 Nov 2026 10:00:50 +0000 — https://www.eurogamer.net/unity-game-engine-saudi-arabia-silver-lake
-
-After acquiring EA for $55bn earlier this year , Saudi Arabia and private equity firm Silver Lake are reportedly in the market for another massive video game company. And according to new reports, it's Unity. Read more
-
-### Remakes and new games "both have a place in the stable" says Nintendo boss, buoyed by the success of Star Fox and Ocarina of Time
-Fri, 06 Nov 2026 09:40:50 +0000 — https://www.eurogamer.net/remakes-and-new-games-both-have-a-place-in-the-stable-says-nintendo-boss-buoyed-by-the-success-of-star-fox-and-ocarina-of-time
-
-It's been a good year for Nintendo: between Star Fox - the N64 classic with a dazzling facelift on Switch 2 - and the newly-launched and utterly fantastic Ocarina of Time remake, the platform holder is having a good run. And that's before you get to the likes of Fire Emblem: Fortune's Weave , Nintendo Switch Sports Resort , Mario Tennis Fever or any of the Switch 2 re-releases of first-party Switch games, like Xenoblade Chronicles 3 or Animal Crossing: New Horizons . Read more
-
 ## GamesIndustry.biz
 
 ### Elections signal cultural shifts that no creative industry can dare to ignore | Opinion
@@ -99,36 +99,26 @@ Fri, 06 Nov 2026 07:55:00 +0000 — https://www.gamesindustry.biz/how-to-get-inv
 
 GamesIndustry.biz hosted a panel during Game Republic's Investment Summit at MCM Comic Con in London on October 23 , where editorial director Jon Hicks talked to Lirui Ding (principal at Transcend Fund), Nick Cavander (senior portfolio manager at Creative UK), and Cassia Curran (founder of Curran Games Agency) about the current state of investment in the games industry. Read more
 
-### Investment firm Denmu closes oversubscribed debut fund, surpassing $50 million target
-Thu, 05 Nov 2026 16:00:00 +0000 — https://www.gamesindustry.biz/investment-firm-denmu-closes-oversubscribed-debut-fund-surpassing-50-million-target
-
-Earlier this year, Denmu launched its debut fund with a $50 million target . The firm has now closed the oversubscribed fund, surpassing its initial goal. Read more
-
-### Sensor Tower: GTA 6 pre-orders almost reach 8m, 74% bought on PlayStation 5
-Thu, 05 Nov 2026 14:13:50 +0000 — https://www.gamesindustry.biz/sensor-tower-gta-6-pre-orders-almost-reach-8m-74-bought-on-playstation-5
-
-Grand Theft Auto 6 is two weeks away, and the highly anticipated title has nearly reached eight million pre-orders, according to recent data. Read more
-
-### "It's such a massively underserved market in the gaming industry" – The creators of Dressmaker on why more games should be aimed at women
-Thu, 05 Nov 2026 13:15:00 +0000 — https://www.gamesindustry.biz/its-such-a-massively-underserved-market-in-the-gaming-industry-the-creators-of-dressmaker-on-why-more-games-should-be-aimed-at-women
-
-You may have seen enthusiastic posts about Dressmaker doing the rounds on social media. It's yet another example of an indie game blowing up on Steam , seemingly out of nowhere: Video Game Insights estimates that Dressmaker has sold over 482,000 units since its release on September 21. Read more
-
-### IGN Entertainment promotes Alex Simmons to lead editorial across its portfolio, with Wesley Yin-Poole overseeing IGN
-Thu, 05 Nov 2026 12:23:50 +0000 — https://www.gamesindustry.biz/ign-entertainment-promotes-alex-simmons-to-lead-editorial-across-its-portfolio-with-wesley-yin-poole-overseeing-ign
-
-IGN Entertainment, the parent company of GamesIndustry.biz , has appointed Alex Simmons as VP, Editorial and Group Editor-in-Chief, overseeing the firm&rsquo;s entire portfolio of editorial brands. Read more
-
-### PlayStation raises full-year forecast after revenue growth in network services and first-party software
-Thu, 05 Nov 2026 11:55:30 +0000 — https://www.gamesindustry.biz/playstation-raises-full-year-forecast-after-revenue-growth-in-network-services-and-first-party-software
-
-Sony has raised its full-year forecast for its games segment after higher net sales and operating income in the second quarter. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### PlayStation Exclusive Branding Added to Tentpole PS5 Games as Sony Doubles Down
+Sat, 07 Nov 2026 15:30:00 GMT — https://www.pushsquare.com/news/2026/11/playstation-exclusive-branding-added-to-tentpole-ps5-games-as-sony-doubles-down
+
+Only on PS5. For a period of the PS5 generation, Sony ported its games to the PC, rendering very few of its titles genuine exclusives. In the last year and a bit it’s made an internal decision to focus solely on exclusivity , and it’s slowly beginning to promote that again. Read the full article on pushsquare.com
+
+### GTA 6 s PS5 Physical Edition Revealed in First Photo
+Sat, 07 Nov 2026 15:00:00 GMT — https://www.pushsquare.com/news/2026/11/gta-6s-ps5-physical-edition-revealed-in-first-photo
+
+Code-in-box. An image of GTA 6’s physical edition has emerged on Reddit , ahead of its release later in the month. The anticipated open world game – which won’t include a disc – looks practically identical to every other PS5 release, in a sealed blue plastic case with the usual logos and layout. Read the full article on pushsquare.com
+
+### Guide: These 13+ PS5 Games Are Coming Out Next Week (9th-15th November)
+Sat, 07 Nov 2026 12:00:00 GMT — https://www.pushsquare.com/guides/these-13plus-ps5-games-are-coming-out-next-week-9th-15th-november
+
+Shrek 2! Sonic! Barbie! The release schedule has been on fire for a while now, but it's finally started to calm down, with a smaller selection of PS5 and PS4 games arriving next week. In terms of highlights, there's Shrek 2 Remastered , which revives a fan favourite movie tie-in, and Warhammer Survivors , which is basically another Vampire Survivors game, which I'm definitely down for. Read the full article on pushsquare.com
 
 ### Talking Point: What Are You Playing This Weekend? - Issue 657
 Sat, 07 Nov 2026 00:00:00 GMT — https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-657
@@ -175,21 +165,6 @@ Fri, 06 Nov 2026 11:15:00 GMT — https://www.pushsquare.com/news/2026/11/new-ps
 
 Available in the UK, France, and Germany. Sony has revealed a new slate of perks for having an active PS Plus membership at any tier. In addition to what it offers on your PS5, PS4 console, these additions let you try subscriptions and receive discounts on products if you are signed up to PS Plus. Please note these offers are only open to PS Plus members in the UK, France, and Germany. Here is what you can claim: Read the full article on pushsquare.com
 
-### Petition to Save Mass Effect Dev BioWare to Be Considered by Canada s Government
-Fri, 06 Nov 2026 00:00:00 GMT — https://www.pushsquare.com/news/2026/11/petition-to-save-mass-effect-dev-bioware-to-be-considered-by-canadas-government
-
-Paragon action. A petition to save BioWare is set to be presented before the Canadian government. The country's law states that any public petition with at least 500 signatures must be added to the House's agenda — and this fan-driven effort has amassed over 2,300 at the time of writing. Read the full article on pushsquare.com
-
-### There s Demand to Remake Final Fantasy 6 from Within Square Enix, Says Series Boss
-Thu, 05 Nov 2026 18:30:00 GMT — https://www.pushsquare.com/news/2026/11/theres-demand-to-remake-final-fantasy-6-from-within-square-enix-says-series-boss
-
-A Terra-ble idea? Could a remake of Final Fantasy 6 happen at some point? The idea's been floating around for a while, but we're now, apparently, at a point where Square Enix employees want to see it. This is according to series veteran and current brand manager Yoshinori Kitase, who specifically notes that there's an internal demand for said remake while speaking to IGN . Read the full article on pushsquare.com
-
-### Opinion: Hey, That Hellraiser: Revival Game Is Pretty Good
-Thu, 05 Nov 2026 17:30:00 GMT — https://www.pushsquare.com/features/opinion-hey-that-hellraiser-revival-game-is-pretty-good
-
-Liam finds fun in AA horror. For as much as I love the horror genre, I've never seen a Hellraiser film. If they're as fun to watch as Hellraiser: Revival is to play, though, then maybe I need to catch up. Since we've got The Legend of Zelda: Ocarina of Time and GTA 6 right around the corner (I'm now playing the former), I haven't wanted to start a big game that requires a serious time investment. With a 10-hour playthrough for the Platinum Trophy (which I did earn), this new Hellraiser game seemed like the perfect fit. Read the full article on pushsquare.com
-
 ## Game Developer
 
 ### SAG-AFTRA introduces new process for hiring union actors in game pitches
@@ -207,12 +182,22 @@ Fri, 06 Nov 2026 15:36:44 GMT — https://www.gamedeveloper.com/console/sony-ins
 
 As part of the media giant's quarterly financial report, Sony states that progress toward the next generation of consoles is proceeding on schedule.
 
-### Nintendo confident in memory supply in new financial report
-Thu, 05 Nov 2026 17:40:57 GMT — https://www.gamedeveloper.com/business/nintendo-confident-in-memory-supply-in-new-financial-report
-
-As part of the company's quarterly financial report, company president Shuntaro Furukawa affirmed that Nintendo is not suffering due to the ongoing memory crisis, and is confident it has enough supply.
-
 ## VGC
+
+### Zelda OOT Remake: Business Scrub Password solution
+Sat, 07 Nov 2026 18:06:58 +0000 — https://www.videogameschronicle.com/guide/zelda-oot-remake-business-scrub-password-solution/
+
+How to find the Business Scrub's Password in The Legend of Zelda: Ocarina of Time remake… Source
+
+### Zelda OOT Remake: Scarecrow Song explained, how to get and use it
+Sat, 07 Nov 2026 16:07:39 +0000 — https://www.videogameschronicle.com/guide/zelda-oot-remake-scarecrow-song-explained-unlock/
+
+How to unlock the Scarecrow Song and use it in The Legend of Zelda: Ocarina of Time remake… Source
+
+### Zelda OOT Remake: All Masks and where to sell them
+Sat, 07 Nov 2026 14:29:27 +0000 — https://www.videogameschronicle.com/guide/zelda-oot-remake-all-masks-buyers-locations-profit/
+
+All Happy Mask Shop masks and who will buy them in The Legend of Zelda: Ocarina of Time's remake… Source
 
 ### Zelda OOT Remake: Lost Woods map, how to navigate
 Fri, 06 Nov 2026 17:28:42 +0000 — https://www.videogameschronicle.com/guide/zelda-oot-remake-lost-woods-map-how-to-navigate/
@@ -249,74 +234,99 @@ Fri, 06 Nov 2026 13:35:24 +0000 — https://www.videogameschronicle.com/news/cap
 
 Fanatical’s Birthday Bash Sale sees up to 74% off Capcom' Source
 
-### Xbox is updating its PC app, promising 60% faster boot times and an easier to use game library
-Fri, 06 Nov 2026 12:58:00 +0000 — https://www.videogameschronicle.com/news/xbox-is-updating-its-pc-app-promising-60-faster-boot-times-and-an-easier-to-use-game-library/
-
-Xbox Insiders can try the updated app now before it rolls out to everyone… Source
-
-### All Inside the Deku Tree Gold Skulltula Locations in Zelda: Ocarina of Time Switch 2
-Fri, 06 Nov 2026 12:28:52 +0000 — https://www.videogameschronicle.com/guide/all-inside-the-deku-tree-gold-skulltula-locations-in-zelda-ocarina-of-time-switch-2/
-
-Where to find every Gold Skulltula Inside the Deku Tree… Source
-
-### All Spirit Temple Gold Skulltula Locations in Zelda: Ocarina of Time Switch 2
-Fri, 06 Nov 2026 12:12:34 +0000 — https://www.videogameschronicle.com/guide/all-spirit-temple-gold-skulltula-locations-in-zelda-ocarina-of-time-switch-2/
-
-Where to find every Gold Skulltula in the Spirit Temple… Source
-
 ## Polygon
 
-### Magic: The Gathering Star Trek Perfectly Captures the Sci-Fi Show’s Most Brutal Running Joke
-Sat, 07 Nov 2026 11:00:17 GMT — https://www.polygon.com/star-trek-redshirts-tokens-explainer/
+### I Wouldn’t Dream of Playing the Zelda: Ocarina of Time Remake Right Now
+Sat, 07 Nov 2026 18:00:17 GMT — https://www.polygon.com/switchboard-zelda-ocarina-of-time-switch-2-remake/
 
-Generating creature tokens is a common way to make the most out of your resources in a game of Magic: The Gathering . They can be sacrificed for powerful effects, used to chump block , or amassed to overwhelm your opponent. Cards typically generate tokens of the same color, like white Warriors for Secure the Wastes , green Squirrels for Deranged Hermit , and black Zombies for Ghoulish Procession . Yet numerous cards in Magic: The Gathering Star Trek generate 1/1 red Officer tokens regardless of the base color, from the white Captain Benjamin Sisko to the green MACO Strike Team . The discrepancy is a nod to the sci-fi franchise’s darkest running joke.
+Switchboard is Polygon's weekly newsletter for all things Nintendo, sent on Thursdays and published on the site on Saturdays. You can subscribe here .
 
-### 5 Sci-Fi Series To Watch If You Love HBO's 'Lanterns'
-Sat, 07 Nov 2026 09:04:17 GMT — https://www.polygon.com/best-sci-fi-tv-shows-to-watch-if-you-love-hbos-lanterns/
+### Grand Theft Auto 6 Physical Copies Are Officially in the Wild
+Sat, 07 Nov 2026 17:26:29 GMT — https://www.polygon.com/gta-6-grand-theft-auto-physical-copies-retail/
 
-HBO's Lanterns more than delivered when it comes to being both a great comic book series and a great piece of television. Not only did the series thrive thanks to the dynamic between Hal Jordan (Kyle Chandler) and John Stewart (Aaron Pierre), but it also managed to revitalize interest in the Green Lantern franchise following the less-than-stellar Green Lantern movie from 2011. That's a superhuman feat in and of itself, and Lanterns creators Damon Lindelof, Chris Mundy, and Tom King deserve credit for pulling that off.
+With preloads for Grand Theft Auto 6 just around the corner, Rockstar Games has sent the code-in-box editions to retailers, so stores can deliver them to customers on time. Shipments have started to arrive, giving us a first look at the physical edition of Grand Theft Auto 6 .
 
-### 38 Years Later, Calvin and Hobbes' Lost Character Remains Bill Watterson's Biggest Failure
-Sat, 07 Nov 2026 09:00:17 GMT — https://www.polygon.com/uncle-max-calvin-hobbes/
+### Commander Shepard’s Actors Are ‘Wildly Hopeful’ for Mass Effect, Despite Everything
+Sat, 07 Nov 2026 17:00:19 GMT — https://www.polygon.com/mass-effect-commander-shepard-jennifer-hale-mark-meer-interview-n7-day-2026/
 
-The author Lois McMaster Bujold has said that “the writer should always reserve the right to come up with a better idea.” That's a useful guideline for any reader to keep in mind. As any long-form story evolves, it usually picks up a few dead plot branches or abandoned characters , because the author can exercise their option to drop what they're doing for any (or no) reason. Sometimes it's not a continuity error; it's a deliberate change in direction.
+Fans have tangled with a mix of emotions knowing that it’s unlikely they’ll ever get to play a new BioWare-developed Mass Effect again. But, if you ask the voices of Commander Shepard, they’re oddly optimistic about the future despite the circumstances. Polygon recently spoke to Mark Meer and Jennifer Hale , the voice actors for Shepard, about the strength of Mass Effect’s community, the closure of BioWare, and the studio’s legacy.
 
-### The 8 Best Castlevania Games Of All Time, Ranked
-Sat, 07 Nov 2026 03:52:17 GMT — https://www.polygon.com/best-castlevania-games/
+### Wardogs Season 3 Will Add A Mode That Limits What Weapons Players Can Use
+Sat, 07 Nov 2026 16:47:52 GMT — https://www.polygon.com/wardogs-season-3-reveal/
 
-Castlevania is one of the most beloved franchises in video game history, despite a period of 13 years when we didn’t see a new installment until the launch of Castlevania: Belmont’s Curse earlier this year.
+Bulkhead and Team17 shared the first details on what players can expect from Wardogs Season 3 in a new video. One of the most notable additions is Limited Mode, a new way to play Wardogs that restricts what weapons and other upgrades players have access to.
 
-### 10 Essential GBA Games Still Disappointingly Missing From Nintendo Switch Online
-Sat, 07 Nov 2026 03:29:33 GMT — https://www.polygon.com/game-boy-advance-games-missing-nintendo-switch-online/
+### Path of Exile 2 Sets The Stage For Massive Update Alongside December Launch
+Sat, 07 Nov 2026 16:13:09 GMT — https://www.polygon.com/path-of-exile-2-launch-update/
 
-When the original Game Boy came out, games like the ones people enjoyed on their NES were finally playable on the go, and players loved Nintendo for it. The green and black color palette was a bit of a bummer, but finally was rectified with the Game Boy Color. Even so, most of the games were still pretty basic. The next step was to make a handheld unit that could replicate the superior experience offered on the Super Nintendo, and the Game Boy Advance did precisely that.
+At ExileCon 2026, Grinding Gear Games gave us a deep dive into everything we can expect to be added to Path of Exile 2 by the time its 1.0 launch happens next month. That includes a new stealth-driven class, two more narrative acts for its campaign, and a new league called Conquerors of Wraeclast .
 
-### 10 Devastating Game Cancellations That Are Still Disappointing Years Later
-Sat, 07 Nov 2026 03:03:27 GMT — https://www.polygon.com/game-cancellations/
+### GI Joe and Paranormal Activity Get New Official Release Dates from Paramount
+Sat, 07 Nov 2026 15:31:59 GMT — https://www.polygon.com/paramount-gi-joe-release-date-paranormal-activity-delay/
 
-Sometimes, it’s fun to think about the great games that might have been — until they were canceled without ever getting the chance to make their mark. Most of the time, we just shrug our shoulders and move on, because that’s life. But sometimes, we mourn the wasted potential.
+Paramount Pictures has announced that Danny McBride's G.I. Joe reboot is expected to premiere in movie theaters in late 2028. Unfortunately, not all news is good; Paramount has also pushed back the next installment in the Paranormal Activity horror series by six months.
 
-### GTA 6's Biggest Competition Officially Arrives on PC in 2027
-Sat, 07 Nov 2026 02:43:17 GMT — https://www.polygon.com/ananta-anime-gta-pc-ps5-release-date-2027-netease-games/
+### World of Warcraft Forever Officially Breaks Records For The 22-Year-Old MMO
+Sat, 07 Nov 2026 15:25:08 GMT — https://www.polygon.com/world-of-warcraft-forever-record-breaking-launch/
 
-Grand Theft Auto 6 is set to dominate 2026 with its long-awaited release on PlayStation 5 and Xbox Series X, another game — one heavily inspired by GTA, Marvel's Spider-Man , and Genshin Impact — will give Rockstar Games a run for its money: Ananta .
+Blizzard Entertainment launched World of Warcraft Forever on Nov. 4, and it already seems very happy with the results. The launch went much more smoothly than some previous Blizzard game releases, and it even broke some records, an impressive feat for something building on a nearly 22-year-old MMO.
 
-### Ryan Gosling is Officially Reviving The Flintstones for New Project
-Sat, 07 Nov 2026 01:30:17 GMT — https://www.polygon.com/ryan-gosling-flintstones-bamm-bamm-movie/
+### One Of Hollywood's Biggest Stars Just Auditioned For James Bond
+Sat, 07 Nov 2026 14:51:43 GMT — https://www.polygon.com/james-bond-robert-pattinson/
 
-Ryan Gosling has been incredibly booked and busy of late. He starred in the lead role in the sci-fi smash hit Project Hail Mary earlier this year. In 2027, he'll travel to the galaxy far, far away in St ar Wars: Starfighter . Then in 2028 he'll make his long-awaited MCU debut as Ghost Rider , re-teaming with Starfighter director Shawn Levy. If all that wasn't enough, Gosling has lined up one more unexpected project: The Flintstones .
+As auditions for the next James Bond continue, new names are emerging and revealing which actors are up for the role. The latest on this from The Hollywood Reporter was particularly surprising, as it revealed some A-list Hollywood talent screen-tested for 007.
 
-### Every GTA Game, Ranked by Metacritic Score
-Sat, 07 Nov 2026 00:30:17 GMT — https://www.polygon.com/gta-games-ranked-metacritic-scores/
+### Ridley Scott’s R-Rated Sci-Fi Masterpiece is Officially Being Cut From Netflix
+Sat, 07 Nov 2026 13:16:18 GMT — https://www.polygon.com/alien-ridley-scott-sci-fi-movie-streaming-december-2026/
 
-With plenty of installments boasting Metacritic scores in the high 90s, GTA 6 has an exceptionally high bar to meet. That said, the series has had occasional growing pains over the years, even if true stinkers are a rarity among Rockstar Games’ back catalog. These are the top 10 GTA games of all time, ranked according to their Metacritic scores.
+Ridley Scott has directed some of the most iconic science fiction movies of all time, from Blade Runner to The Martian . However, few have had the same lasting impact as his 1979 sci-fi horror classic Alien . The film helped redefine the genre by combining the terror of a slasher movie with the vast, isolating setting of outer space, introducing audiences to one of cinema's most memorable monsters in the process.
 
-### All Happy Mask Shop buyer locations in Zelda Ocarina of Time
-Fri, 06 Nov 2026 22:38:46 GMT — https://www.polygon.com/zelda-ocarina-of-time-happy-mask-shop-spooky-skull-bunny-hood/
+### 10 Funniest 'Far Side' Comics About Cows
+Sat, 07 Nov 2026 12:14:17 GMT — https://www.polygon.com/funniest-far-side-comics-cows/
 
-The Legend of Zelda: Ocarina of Time remake's Happy Mask Shop quest sends you around Hyrule peddling masks to specific customers. That sounds like a cushy gig, except you have very little guidance about who your customers are, and you occasionally even have to pay back the cost of the mask, too. However, if you want a big chunk of cash and a chance to see and hear everything in Ocarina of Time , it's worth the hassle.
+From 1980 until 1995, cartoonist Gary Larson wrote and drew The Far Side . It was a single panel comic strip filled with non-sequitur, surreal jokes mostly aimed at adults instead of children, which was unusual for newspaper comics at the time. Also unusual was the fact that, unlike most daily comic strips, The Far Side had no recurring characters. Peanuts has its gang of kids and Garfield has its cast of humans and animals, but every panel of The Far Side introduces new characters and scenarios all aimed at delivering one single joke.
 
 ## PC Gamer
+
+### AMD CEO Lisa Su: 'We are a data center-first company'
+Sat, 07 Nov 2026 18:10:16 +0000 — https://www.pcgamer.com/gaming-industry/amd-ceo-lisa-su-we-are-a-data-center-first-company/
+
+In a Thursday, November 5 interview with Yahoo Finance (via TechRadar ), AMD CEO Lisa Su emphasized the company's AI commitments. Separately, in a Q3 2026 earnings call, Su forecasted an overall "dobule-digit" slump in PC sales in 2027. 2026 games : All the upcoming games Best PC games : Our all-time favorites Free PC games : Freebie fest Best FPS games : Finest gunplay Best RPGs : Grand adventures Best co-op games : Better together ]]>
+
+### After seeing them myself, I'm convinced WoW: Forever's RP servers don't need to be this separate, and I say that as a decorated veteran of MMO roleplay
+Sat, 07 Nov 2026 18:00:00 +0000 — https://www.pcgamer.com/games/world-of-warcraft/after-seeing-them-myself-im-convinced-wow-forevers-rp-servers-dont-need-to-be-this-separate-and-i-say-that-as-a-decorated-veteran-of-mmo-roleplay/
+
+I've been stuck into World of Warcraft: Forever —at the time of writing, I'm around 15 hours /played (and will likely be 20+ hours by the time you're reading this) on my warrior. I chose the roleplay ruleset because, well, I'm a roleplayer. I've been writing and being cringe in videogames for over 15 years . RP in WoW is, actually, what got me into writing in the first place. My clear and obvious mastery over the written word was hard-won by being a terribly annoying edgelord death knight, for which I apologise. I was curious about the implementation of the roleplay ruleset back when it was properly announced—back then, I thought it was great that we're being given our own place, but being completely split off from "normal" ruleset (which I'll be calling PvE for simplicity) didn't seem necessary to me. Having played in the roleplay ruleset for a little while, my opinion has only been vindicated. Splitting PvE and PvP rulesets does make sense. For instance, a resource node might be easier to gather on PvE, throwing the economic balance of the PvP server out of the window. But beyond technical limitations, a complete, strict divide between RP and PvE just has me scratching my head. There are things I like about having our own little nook of the Forever servers to putz about on. For starters, the vibes are a lot chiller. I don't want to cast generalisations about players, but I do think roleplayers are just smarter, sexier, have bigger muscles, and will solve climate change. In 
+
+### What's the toughest choice you've made in an RPG?
+Sat, 07 Nov 2026 17:00:00 +0000 — https://www.pcgamer.com/games/rpg/whats-the-toughest-choice-youve-made-in-an-rpg/
+
+Dungeon Master (Image credit: Future) Welcome to Dungeon Master , PC Gamer's regular RPG column, where Online Editor Fraser Brown delves into PC gaming's most beloved and enduring genre. Grab a seat in our badly-lit tavern and please ignore the goblin puke. We love a big RPG dilemma, don't we? Right up until the point where we actually have to make the choice and we stare at our screens for an uncomfortably long time, hoping we'll figure out a way to make a call and not feel absolutely terrible about it later. For my money, the best—agonising, guilt-inducing—choices are the really personal ones. I love that Mass Effect lets me determine the fate of the galaxy in all these different ways, but it never gives me a reason to care about the rachni, for instance, or the council, so when I have to decide to save them or let them die, it becomes more of an abstract moral choice. Disco Elysium , then, left me in tatters. It's more personal and intimate than a productive therapy session. There's a card you can read pretty early on, stuck inside a ledger, that opens the wound that Harry worked very hard—by abusing alcohol and drugs—to forget. If you toss it, you never get it back. That was a hard one. Is ignoring it a kind of liberation? Or are you just helping Harry hide from his trauma? It's effective because it's powerfully relatable. You don't even need to have experienced a cataclysmic breakup to understand Harry in that moment. We've all got shit we'd really love to forget. Self-d
+
+### Linux on the desktop marches on as GOG announces its Galaxy client is getting a revamp headed to Windows, macOS, and your distro of choice
+Sat, 07 Nov 2026 15:00:00 +0000 — https://www.pcgamer.com/software/linux/linux-on-the-desktop-marches-on-as-gog-announces-its-galaxy-client-is-getting-a-revamp-headed-to-windows-macos-and-your-distro-of-choice/
+
+GOG Galaxy—the DRM-free storefront's go at a desktop client and launcher—was always a nice dream that didn't measure up in reality. The pitch was: all your games, from all your PC game storefronts, in one centralised hub, but it never left beta in its 2.0 form and, in general, ran pretty poorly compared to its most obvious competition (Steam). But that was old GOG. New, independent GOG has big plans for Galaxy. In the storefront's first "GOG Showcase", released Thursday, it announced the launcher would be getting a revamp in 2027, and it's coming to Linux too. "We know this has been a long time coming, but we wanted to do it properly: GOG Galaxy is officially heading to Linux", says the studio. "At the same time, we’ve reworked the client on Windows and Mac to be simpler, run faster, and give you cleaner ways to view your library. Most importantly, our core promise stays untouched: GOG Galaxy is entirely optional. Your games are yours to download and keep through offline installers, exactly as they’ve always been". That is to say, you'll still be able to find offline game installers in your GOG library if you want to prep for the digital ownership apocalypse (which, let me be clear, is probably a wise move). Of course, if you're someone who plays games on Linux (cool people, I believe is the technical term), then you likely already have perhaps several tools which do the GOG Galaxy thing of letting you configure and install games from multiple storefronts: programs like Heroi
+
+### Mass Effect composer Sam Hulick releases his 're-scored' trailer for N7 Day, 'my way of saying goodbye… at least for now'
+Sat, 07 Nov 2026 15:00:00 +0000 — https://www.pcgamer.com/games/mass-effect/mass-effect-composer-sam-hulick-releases-his-re-scored-trailer-for-n7-day-my-way-of-saying-goodbye-at-least-for-now/
+
+Mass Effect composer Sam Hulick revealed in October that he was 're-scoring' the leaked trailer for Mass Effect: Universe to reflect his own "musical vision" for the game. The original, with an edit of " Quartz " by French 79, is pretty groovy, but now Hulick's work is done and this may not come as much of a surprise but I think I like his version better. So here we have it—Mass Effect: Universe - Sam Hulick Edit: I'm not a music critic but I know what I like, and I really like the Mass Effect soundtracks. There's a broadly common sound threaded through all three games (I didn't play Andromeda so I'm just pretending it never happened) but they evolved over the course of the trilogy, too: Hulick told me his music in this trailer is "'a balancing act between paying homage to the original trilogy and exploring new ground", but leans most heavily toward Mass Effect 1 and 3. "Mass Effect's earliest tracks were more about raw analog synth blended with orchestral elements, but more subdued and 'vibey' for lack of a better word," Hulick said in a recent chat with PC Gamer. "Mass Effect 2 leaned more into orchestral bombast (as with Jack Wall’s forever-famous 'Suicide Mission' ), and Mass Effect 3 combined the best of both worlds, with plenty of epic, fist-pump-into-the-air orchestral moments, as well as sparse, moody synth-forward tracks like the ones I wrote for Mars." Jack Wall, for the record, was lead composer on the original Mass Effect while Hulick served as co-composer; the Ma
+
+### Todd Howard's game design power is knowing when to make things 'simple and digestible' according to Skyrim's lead designer
+Sat, 07 Nov 2026 14:16:28 +0000 — https://www.pcgamer.com/games/the-elder-scrolls/todd-howards-game-design-power-is-knowing-when-to-make-things-simple-and-digestible-according-to-skyrims-lead-designer/
+
+Todd Howard is one of the most recognisable names in game development, yet despite this, the Bethesda director's overarching thoughts on game design remain something of an enigma. Howard has admitted that he doesn't like talking about his games. As such, we rarely get much insight into his broader design philosophy. Yet according to Bruce Nesmith, lead designer of Skyrim , Howard certainly has a specific set of skills when it comes to game design. In a wide-ranging interview with The Examined Game , Nesmith discussed his time working with Bethesda. During the chat, Nesmith was asked what it was like working with Howard, and he credited Howard with a knack for seeing things from the player's point of view: "Part of what Todd has, historically for Skyrim and Fallout 3 and everything, been very good at is putting himself in the seat of your typical player," Nesmith explained. "As a developer, I sit in an ivory tower. It's inescapable … I think more deeply about games, definitely, than your typical player. And he's able to cut through that and see 'Oh yeah, they're looking for a little bit of joy here. Don't get in the way with your math and your complex decision here'". When working up close with code and the day-to-day design of things, Nesmith pointed out that developers can overcomplicate things. "I would try to make things a little more complex, and he was more than willing to say 'No, no, that's not what the players are going to want. They're going to want something simple 
+
+### After furloughing its developers and then hiring some of them back, Star Wars Zero Company developer has laid off an unspecified number of staff
+Sat, 07 Nov 2026 12:18:55 +0000 — https://www.pcgamer.com/games/strategy/after-furloughing-its-developers-and-then-hiring-some-of-them-back-star-wars-zero-company-developer-has-laid-off-an-unspecified-number-of-staff/
+
+Star Wars Zero Company developer Bit Reactor has laid of an unspecified number of developers, after furloughing its entire team and then hiring some of that staff back. As reported by the Star Wars website Bespin Bulletin, several designers of the acclaimed tactics game have taken to LinkedIn to announce that they have been let go by the studio. Among those affected are senior environment artist Ryan Lopez, who worked on the game for three and a half years and has been on furlough for the past three and a half months. "While it stings, I'm really proud of what we built together," Lopez wrote in a LinkedIn post . Other designers who lost their jobs include UI Engineer Tyler Eichten and senior quality assurance analyst Ryan Mosher , who spent two years at Firaxis and a further two years at 1047 Games before joining Bit Reactor in October 2024. It's been a tumultuous few months for Bit Reactor. In September, it was reported that the studio had furloughed up to 80% of its staff in the weeks leading up to Zero Company's launch, with the studio having reportedly "run out of most of its money" ahead of the game's launch. At the time, former senior technical artist Zachariah Scott said the project was built with "shocking austerity". Scott also accused Bit Reactor of "concealing the fact that the team was furloughed weeks ago" after the company made the announcement. Within a month, Zero Company had sold one million copies and Bit Reactor subsequently announced it had hired back some
+
+### Nier: Automata developer is 'currently investigating' a bizarre update bug that drastically inflated the game's file size from 50GB to 366GB
+Sat, 07 Nov 2026 11:15:54 +0000 — https://www.pcgamer.com/games/rpg/nier-automata-developer-is-currently-investigating-a-bizarre-update-bug-that-drastically-inflated-the-games-file-size-from-50gb-to-366gb/
+
+Usually, it's a good thing when a patch makes an already excellent game substantially larger. But in the case of Nier: Automata 's most recent update, bigger is most certainly not better. On Friday, the beloved action RPG from Square Enix received what should have been a straightforward update to add localisation support for Simplified Chinese, Traditional Chinese and Korean languages. But as reported by Automaton Media, the update also increased the game's file size from 50 gigabytes to a staggering 366 (and a half) gigabytes. "We have identified an issue following the latest update for Nier: Automata … where installation requires significantly more storage space than intended," wrote Square Enix in a Steam post . "We are currently investigating the cause and working to resolve the issue. We apologise for the inconvenience." It isn't clear how this issue has occurred, but it may be related to Nier: Automata's DLC. When selected for download on Steam, each DLC appears to have the same file size as the base game. Weirdly though, this is only true for the initial download and installation. Once the game is installed, the file reportedly reverts to a more appropriate size of roughly 50 gigs. Indeed, as a temporary solution, Square Enix suggests that anyone who needs to download Nier: Automata deselects all eight DLC when they do so. "As a temporary workaround, you can download the base game using the intended amount of storage space by going to "Properties" à "DLC" in Steam and 
 
 ### Here's what's in Path of Exile 2’s huge 1.0 release, coming in December
 Fri, 06 Nov 2026 23:36:21 +0000 — https://www.pcgamer.com/games/rpg/heres-whats-in-path-of-exile-2s-huge-1-0-release-coming-in-december/
@@ -337,46 +347,6 @@ Kenney, an artist known for giving away thousands of free game assets , did not 
 Fri, 06 Nov 2026 21:50:58 +0000 — https://www.pcgamer.com/games/rpg/path-of-exile-2-announces-a-second-new-class-the-shadow-for-its-december-1-0-release/
 
 Today during ExileCon's keynote address Grinding Gear Games announced that Path of Exile 2's full release on December 11 will bring not one, but two new classes: Alongside the previously announced Duelist, 1.0 will also introduce the dagger-heavy, trap-wielding Shadow, capable of employing a suite of new stealth mechanics. The Shadow's addition had been hinted at with a cryptic teaser trailer, which you can see here . The class's inclusion is welcome news to those of us—like yours truly—who very much enjoy playing these sneaky stabbers. On release, Shadows will be able to ascend as the returning Assassin, or choose a new ascendancy: the Infiltrator. We know that eventually, every PoE2 character class will have (at least) three ascendancies. Whether the Shadow's third will be the Saboteur, the Trickster, or something new like the Sorceress's Disciple of Varashta is yet to be seen. As has been the case with previous PoE 2 class additions, the Shadow's arrival will also introduce a new weapon type and abilities. In 1.0, alongside the Duelist's swords, we'll also be getting the dagger, and with it all new skill gems and supports. We should see an absolute explosion of playstyle archetypes on top of PoE2's already healthy build diversity. The Shadow will introduce new mechanics like stealth, which prevents monsters from seeing you until you’re close by. It has a cooldown, but since it’s reset on kill, you should be able to use it to kill quickly from the shadows and get moving aga
-
-### Underkeep is my favorite old-school dungeon crawler since Legend of Grimrock, and yes that includes Queen's Domain
-Fri, 06 Nov 2026 21:14:51 +0000 — https://www.pcgamer.com/games/rpg/underkeep-is-my-favorite-old-school-dungeon-crawler-since-legend-of-grimrock-and-yes-that-includes-queens-domain/
-
-Everyone's talking about Queen's Domain right now, but as someone who tried Queen's Domain and did not care for it, allow me to direct your attention to an alternative old-school dungeon crawler: Underkeep, which launched on Steam on November 5 and has been absolutely phenomenal through the roughly four hours I've put into it so far. Like Queen's Domain, Underkeep is firmly rooted in the 1990s, but I'm talkin' the early '90s, and even before that: Classic grid-based RPGs like The Bard's Tale, Dungeon Master, Wizardry, and Eye of the Beholder. In fact, as someone who loves Eye of the Beholder (specifically the second one, The Legend of Darkmoon), I noticed a lot of nearly direct lifts from that series: primarily visual, but also a few audio cues, that I swear I've heard before. But my concerns that Underkeep might be a low-effort knockoff evaporated pretty quickly. After four hours of play I feel like I've barely scratched the game's surface: I still haven't found the titular village of Underkeep, where I assume the real action will begin, but I've crashed (literally, in a few cases) through multiple dungeons, all interconnected horizontally or vertically, and explored an overworld that's a whole lot bigger than I expected. At the very least, Underkeep looks beefy . Underkeep's gameplay preserves the vibe of those old-time RPGs while eliminating most of their more objectionable nonsense. Its shared inventory is divided into categories that make managing and swapping equipment 
-
-### 'It came out of nowhere. I was shocked and sad': He was the face of Hunt: Showdown for years, then Crytek laid him off
-Fri, 06 Nov 2026 21:06:01 +0000 — https://www.pcgamer.com/games/fps/it-came-out-of-nowhere-i-was-shocked-and-sad-he-was-the-face-of-hunt-showdown-for-years-then-crytek-laid-him-off/
-
-The Hunt: Showdown community received a sucker punch in September when it learned that Bence "Beedyboy" Hamos, a beloved community-facing figure for the long-running extraction shooter, was unceremoniously let go in a wave of Crytek layoffs that affected at least 30 people. For years Hamos was one of the faces of Hunt: Showdown, hosting livestreams, vlogs, and social media videos that kept players abreast of their favorite game's happenings. Through the highs and lows of Hunt's updates, events, and occasional controversies , he was a steady presence—calm, exuberant, and in touch with the experience of average players. Hamos began at Crytek in 2018 in a social media role, eventually climbing to senior broadcast manager. As someone who absorbs the work of community managers constantly for work, I believe Hamos was particularly good at it—which is why his sudden departure hit Hunt's most dedicated players hard . I caught up with Hamos last month, soon after his last day at Crytek, to learn what it was like to cultivate Hunt's community over nine years and talk about his unexpected departure. "I really looked up to Crytek," Hamos told me. "[Getting hired] was such an unbelievable moment in my life, which obviously completely changed my whole career. It was nothing I never imagined I'd do. I was super happy." Hamos said he had never worked in games when he interviewed at Crytek, but managed to charm the studio with his experience managing his rock band's social media, interacting 
-
-### It's hard to meet women when I keep teleporting all the time
-Fri, 06 Nov 2026 18:00:00 +0000 — https://www.pcgamer.com/games/grand-theft-auto/its-hard-to-meet-women-when-i-keep-teleporting-all-the-time/
-
-Los Santos Customs I'm modding GTA 5 every day in a quest to either transform it into a PC version of GTA 6 or break it entirely. Come back tomorrow to find out what new horrible thing I've done to Rockstar's baby, or check out what I got up to earlier . Am I cheating? I might be cheating. I did not actually install a new mod for today's iteration of Los Santos Customs. Like I mentioned yesterday, updating my Script Hook thing seems to have breathed life into a host of old mods I'd installed, but which did not work. Now they work, and here we are. I'm definitely not cheating on my wife though. I have a wife now, by the way, and all I had to do to get her was teleport her to the roof of a skyscraper and gift her 22 sports cars. No more lonely nights for me, and it's all thanks to Dating Simulator (Public Beta) , a mod we probably shouldn't look too deep into in case it gets weird. Dating Simulator—which refers to itself as Anoxic Dating in the in-game menus—brings the experience of real-life dating into GTA 5. You approach women on the street, ask them how they are 40 times, and then they give you their number. This makes you "Friends" according to the mod's hierarchy of romance, unlocking new, vaguely more intimate dialogue. Discuss the weather with your muse 50 times, then tell her you miss her 60 times and, brother, you're well on the way to wife town. You can't go through this process with men because it would, obviously, be weird to say "Tell me about your interests" to a
-
-### All that stands between a hacker and admin privileges on some Linux distros is a 257-character long string of literally anything
-Fri, 06 Nov 2026 17:31:29 +0000 — https://www.pcgamer.com/software/linux/all-that-stands-between-a-hacker-and-admin-privileges-on-some-linux-distros-is-a-257-character-long-string-of-literally-anything/
-
-Some implementations of secure shell (SSH), one of Linux's most trusted and secure connection protocols, have been found vulnerable to the most peculiarly simple methods of bypass: spamming characters. On some distros, simply type 257–1,024 characters and you get access to the root (admin) login. Thankfully, the list of vulnerable distros is quite small and niche, and OpenSSH has already issued a workaround/fix. In some new release notes , OpenSSH explains that "this release contains a critical security workaround that affects Linux systems that use the musl libc and PAM disabled." "Sshd(8): avoid password authentication bypass that is exploitable through sshd(8) that affects some Linux systems when built and run with PAM support disabled. We consider the root cause of this bug to be outside sshd, but it is exploitable via sshd and can be avoided there." SSH itself is a longstanding and ubiquitous networking protocol that anyone who has dabbled even lightly in Linux networking projects will be familiar with. It's what manages comms between Linux machines. If you've ever used a Raspberry Pi remotely, for instance, you'll likely have logged into it using SSH. Same goes for a NAS. It's also used by devs to push/pull/manage GitHub files. Thankfully, it's not SSH in general that has the problem but just a small number of distros that use SSH. According to an explanation on sshhole.com —a website written by Ozgun Kultekin who discovered the bug—this is an issue with "musl Linux." T
-
-### A public petition to save BioWare has drawn enough signatures that the Canadian government will at least have to think about it: 'This is absolutely possible,' MP says
-Fri, 06 Nov 2026 16:14:55 +0000 — https://www.pcgamer.com/games/mass-effect/a-public-petition-to-save-bioware-has-drawn-enough-signatures-that-the-canadian-government-will-at-least-have-to-think-about-it-this-is-absolutely-possible-mp-says/
-
-A lot of attention has been focused on the "Save Mass Effect" petition on Change.org, which has now drawn over 300,000 signatures collectively calling on Electronic Arts to make a new Mass Effect game. But there's another petition in the works , asking the government of Canada to save BioWare—the people, not the product—and while it only has a tiny fraction of names attached to it, it's enough that the Canadian government will actually have to look at it. Unlike the Change.org petition, this one is official, in that it's actually part of the legislative process: Public petitions like e-7989, as it's formally known, are "used to draw attention to an issue of public concern . They ask the House of Commons, the Government of Canada, a minister or a member to take or refrain from taking some action." The requested actions in this case are three: 1. Provide BioWare with the capital necessary to secure independence of themselves and their intellectual property from Electronic Arts and resume business as an independent, Canadian company; 2. Protect Canadian businesses and cultural institutions from being dictated by American and foreign corporate interests; and 3. Champion the values of inclusivity, tolerance, democracy, justice, and civil rights at the centre of Canada's national identity by preserving BioWare's invaluable contribution to the global entertainment industry. As I write this, the petition is nosing toward 3,000 signatures, not a huge amount but enough to trigger the n
-
-### Epomaker HE75 V2 TMR review
-Fri, 06 Nov 2026 15:58:29 +0000 — https://www.pcgamer.com/hardware/gaming-keyboards/epomaker-he75-v2-tmr-review/
-
-It feels like every new bit of tech in a gaming keyboard or gaming mouse is treated as the next frontier, from new switch types to higher polling rates, and even the materials used. But if you want 8,000 Hz polling, it actually does feel like TMR might be the next frontier, because not only is it snappy and responsive, but it's super efficient, which helps counteract some of the problems with high polling in the first place. Right now, the pickings are fairly slim for TMR keyboards. We've got some from Logitech , some from Cherry , and a few others , but it's still a relatively niche sensor technology for switches right now, and not exactly cheap. But TMR is great, and it's particularly good if you want to go wireless thanks to its power efficiency. Epomaker's HE75 V2 TMR is interesting partly because it crams that switch technology into an 8,000 Hz board with a ton of little quality-of-life features, and does it all at a price point amongst the cheapest TMR keyboards. But whether it's worth the asking fee will come down to feel and play. Buy if… ✅ You want a compact competitive keeb: It might not look it, but the HE75 V2 TMR is a beast in the specs department, and it fits that into an ickle frame. Don't Buy if… ❌ You don't care about TMR switches or high polling: If you can make do with Hall effect or plain 'ol mechanical switches, you can get a keyboard for cheaper, or one loaded with more features. Features Epomaker HE75 V2 TMR specs Switches Epomaker Creamy Jade Magnetic 
-
-### David Gaider has been working on Owlcat's Expanse RPG: 'The Expanse has long been one of my favourite series, and so obviously I jumped at the opportunity to be involved'
-Fri, 06 Nov 2026 15:53:01 +0000 — https://www.pcgamer.com/games/rpg/david-gaider-has-been-working-on-owlcats-expanse-rpg-the-expanse-has-long-been-one-of-my-favourite-series-and-so-obviously-i-jumped-at-the-opportunity-to-be-involved/
-
-David Gaider, the creator of Dragon Age's Thedas and co-founder of Summerfall Studios, has been moonlighting on The Expanse: Osiris Reborn , lending Owlcat Games his expertise. Gaider revealed that he's been working with Owlcat on Bluesky today, saying, "Alongside my work at Summerfall, I've also been collaborating with the Owlcat Games team on The Expanse: Osiris Reborn, focusing on certain aspects of the game's narrative. The Expanse has long been one of my favourite series, and so obviously I jumped at the opportunity to be involved." The Expanse is a bit of a departure for Owlcat, which is known for its elaborate isometric CRPGs like Wrath of the Righteous and Rogue Trader. The Expanse, meanwhile, is more of a cinematic RPG and third-person shooter in the vein of Mass Effect. That said, it's still full of skill checks and roleplaying, and when I played it at Gamescom Owlcat's CRPG legacy was still very much present. While Gaider worked on Dragon Age rather than Mass Effect, he's got plenty of experience working on both classic CRPGs (he was a writer on Baldur's Gate 2 and Neverwinter Nights) and their more cinematic successors (he was lead writer on Dragon Age: Origins and Inquisition). I really enjoy Gaider's writing, so this sounds like great news. Along with Gaider's announcement, Owlcat has also shown off the new voice for the game's male protagonist and their twin. The studio decided to recast the role after getting feedback from beta players, and settled on voice ac
-
-### WoW: Forever takes 250,000 GB of memory to run, and I can't even joke about Sam Altman being jealous because that's almost nothing compared to the monolithic demands of AI
-Fri, 06 Nov 2026 15:50:34 +0000 — https://www.pcgamer.com/games/world-of-warcraft/wow-forever-takes-250-000-gb-of-memory-to-run-and-i-cant-even-joke-about-sam-altman-being-jealous-because-thats-almost-nothing-compared-to-the-monolithic-demands-of-ai/
-
-MMOs are kinda costly to run, but as it turns out, nowhere near as costly as a datacenter. I was going to spend most of this article joking about how Sam Altman, who doesn't like that we have RAM , would be frothing at the mouth for that kind of compute power. After a bit of research I am leaving horrified at the sheer industrial heft the AI industry requires. The numbers were revealed by the official WoW X account , which states that WoW Forever runs on about 3,924 virtual machines, 251,136 GB of memory, and 70,480 CPU cores. To give you an idea of how much server infrastructure that is, our best budget CPU goes for around $110 at the moment, and it has six cores. Fudge the maths a bit and that's $1.2 million in cores alone. Which is pricey, don't get me wrong—though not perhaps for a company that has hundreds of thousands of players paying a sub each month. Moreover, while it's funny to imagine Altman simply salivating at the amount of hardware that's going towards entertaining people, rather than whatever AI does, it turns out the RAM baron himself wouldn't so much as lift an eyebrow at the amount of tech it takes to run one of the biggest MMO events of the decade. It's just actually not that much, at least, not compared to AI. We reported on a $60 million AI rack cluster just last month that had about 1.4 petabytes of memory in it—that's around 1.4 million GB—and around 4,200 CPUs (each of which likely have a lot of cores, so a lot more than 70,000 cores in general). And 
 
 ## GameSpot
 
@@ -442,6 +412,21 @@ There's no denying that Stellar Blade is one seriously good-looking game. On Swi
 
 ## Rock Paper Shotgun
 
+### Path of Exile 2's 1.0 version is out this year after all, arriving in December with a full campaign, two neat new classes, and more
+Sat, 07 Nov 2026 18:00:40 +0000 — https://www.rockpapershotgun.com/path-of-exile-2s-10-version-is-out-this-year-after-all-arriving-in-december-with-a-full-campaign-two-neat-new-classes-and-more
+
+About a year ago, the devs behind Path of Exile 2 delayed the game's 1.0 release to an unspecified point in time, only offering the hope that it wouldn't slip into 2027 (doing much the same about half a year later). But there's good news: it won't! As the action RPG now has a 1.0 release date locked in, alongside a look at what you can expect when it arrives. Read more
+
+### "I feel that sense of responsibility more acutely": After BioWare's closure, the makers of a new Mass Effect 3 co-op remaster mod look to carry their legacy
+Sat, 07 Nov 2026 17:00:00 +0000 — https://www.rockpapershotgun.com/i-feel-that-sense-of-responsibility-more-acutely-after-biowares-closure-the-makers-of-a-new-mass-effect-3-co-op-remaster-mod-look-to-carry-their-legacy
+
+It appears I was premature in suggesting that the closure of BioWare might quickly spell an end for Mass Effect 3 's strangely good , preposterously enduring co-op mode. I reinstalled and logged on just last week, and easily found a series of packed lobbies. Still, it was always regrettable that 2021's Mass Effect Legendary Edition opted not to remaster this multiplayer component alongside its dolled-up main trilogy, thus failing to introduce to a new generation the joys of performing teleporting psychic headbutts as a millennia-old bipedal frog. Read more
+
+### After Star Wars Zero Company dev Bit Reactor brought back an unspecified number of furloughed devs, some of those who weren't have seemingly been laid off
+Sat, 07 Nov 2026 16:57:30 +0000 — https://www.rockpapershotgun.com/after-star-wars-zero-company-dev-bit-reactor-brought-back-an-unspecified-number-of-furloughed-devs-some-of-those-who-werent-have-seemingly-been-laid-off
+
+Early last month, Star Wars Zero Company developer Bit Reactor brought back a number of developers who had been furloughed before the game launched in August. At the time they did not specify how many devs were returning to the studio, with a separate report claiming more than half had become full time staffers again. Unfortunately, it does now seem like not everyone was able to be brought back, with a number of now former workers sharing word of having been laid off. Read more
+
 ### What are we all playing this weekend?
 Sat, 07 Nov 2026 08:00:00 +0000 — https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-407
 
@@ -486,19 +471,4 @@ Members of the consortium led by the Saudi Arabian government's Public Investmen
 Thu, 05 Nov 2026 22:55:20 +0000 — https://www.rockpapershotgun.com/take-on-a-time-manipulating-corporation-in-the-very-soul-eater-meets-jet-set-radio-action-roguelite-chrono-punk
 
 My favourite kind of game that's obviously going for the vibe of a particular era of gaming is one that doesn't look like it's trying to be any other game from said era, moreso if someone told me it was a PS2 or a Dreamcast game everyone forgot about I'd believe you. CHRONO PUNK fits that vibe quite well, an action roguelite that looks like it's taking some cues from those aforementioned consoles, alongside the likes of Soul Eater, Jet Set Radio , Devil May Cry , and Spider-Man. Read more
-
-### BioWare are gone, but at least you'll be able to watch their final days in a documentary next year and oh wait that's really sad actually
-Thu, 05 Nov 2026 21:32:00 +0000 — https://www.rockpapershotgun.com/bioware-are-gone-but-at-least-youll-be-able-to-watch-their-final-days-in-a-documentary-next-year-and-oh-wait-thats-really-sad-actually
-
-It feels like every single week for the past few years has been the infinitely quotable 30 Rock quote on repeat. That feeling struck particularly last month when EA decided to shut down the iconic Mass Effect and Dragon Age developer BioWare. That obviously resulted in the cancellation of Mass Effect 5 , of which a leaked trailer and some, now former, devs made sound pretty interesting . But hey! At least there's a documentary coming next year all about the studio that managed to capture the studio's last days! Yeah, I'm not so convinced by this upside either. Read more
-
-### Ablahshikar is a maximalist, sickos only salvage-survival CRPG about ripping organs out of warships and pawning off strange goods that's now out in early access
-Thu, 05 Nov 2026 19:00:00 +0000 — https://www.rockpapershotgun.com/ablahshikar-is-a-maximalist-sickos-only-salvage-survival-crpg-about-ripping-organs-out-of-warships-and-pawning-off-strange-goods-thats-now-out-in-early-access
-
-Sometimes, you come across a game and instantly know it's for the sickos. Today that is Ablahshikar, a "turn-based salvage-survival CRPG adrift on the Candle Sea" where you rip out the organs of enemy warships to "rebuild your vessel into a doomed chimera," that is out now in early access. To be honest I could have just called it a CRPG and still labelled it as a game for sickos, yet everything that's going on here is obviously just doubling down on the sick factor. Read more
-
-### After a 16-year long dev period, Faraway, a shooting star arcade game about siphoning the energy of other stars, is out now
-Thu, 05 Nov 2026 18:30:00 +0000 — https://www.rockpapershotgun.com/after-a-16-year-long-dev-period-faraway-a-shooting-star-arcade-game-about-siphoning-the-energy-of-other-stars-is-out-now
-
-Lord almighty, video games take a while to make, 'ey? Especially if you're just one person working on it by yourself. Such is the case with Faraway, out today, an arcade game that reminds me of the early days of PS3 indies "about a shooting star that creates constellations to stay alive," all made single-handedly by creator of cult-classic mobile game Eliss, Steph Thirion. Did I mention that Faraway took 16 years to make? Like I said, game development is a lengthy process. Read more
 
