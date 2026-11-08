@@ -1,6 +1,21 @@
-# Manga — harvested 2026-11-08T11:31:08.861Z
+# Manga — harvested 2026-11-08T18:29:41.038Z
 
 ## Anime News Network
+
+### The Makeup Remover Volume 2 K-Comic Review
+Sun, 08 Nov 2026 12:00:00 -0500 — https://www.animenewsnetwork.com/review/the-makeup-remover/volume-2/.243068
+
+If you’re not Barbie-perfect, you’ve lost.
+
+### My Crush's Crush Anime's Teaser Unveils Cast, Staff, April Debut
+Sun, 08 Nov 2026 11:18:47 -0500 — https://www.animenewsnetwork.com/news/2026-11-08/my-crush-crush-anime-teaser-unveils-cast-staff-april-debut/.243627
+
+Gakuto Kajiwara, Haruna Mikawa, Nene Hieda star in 2027 anime
+
+### Spy×Family Anime Gets 4th Season, Theatrical Film in 2027
+Sun, 08 Nov 2026 06:00:18 -0500 — https://www.animenewsnetwork.com/news/2026-11-08/spy-family-anime-gets-4th-season-theatrical-film-in-2027/.243614
+
+Visual revealed for new season
 
 ### Bride of the Barrier Master Anime Streams Videos for Leads Hana Ichise, Saku Ichinomiya
 Sun, 08 Nov 2026 05:53:36 -0500 — https://www.animenewsnetwork.com/news/2026-11-08/bride-of-the-barrier-master-anime-streams-videos-for-leads-hana-ichise-saku-ichinomiya/.243623
@@ -47,21 +62,6 @@ Sat, 07 Nov 2026 03:46:11 -0500 — https://www.animenewsnetwork.com/news/2026-1
 
 Main cast to reprise roles
 
-### Everyone's Darling Has a Secret Anime's New Teaser Unveils More Cast, Ending Song
-Sat, 07 Nov 2026 03:38:46 -0500 — https://www.animenewsnetwork.com/news/2026-11-07/everyone-darling-has-a-secret-anime-new-teaser-unveils-more-cast-ending-song/.243603
-
-≒JOY idols Aimi Ozawa, Renon Esumi, Aoi Ōnishi join cast
-
-### Abema Selects Project PRISMation's 1st Open Call Finalists to Make 3 Pilot Anime
-Sat, 07 Nov 2026 03:19:34 -0500 — https://www.animenewsnetwork.com/news/2026-11-07/abema-selects-project-prismation-1st-open-call-finalists-to-make-3-pilot-anime/.243602
-
-"OXY-HEAVEN," "Amneka," "Kandy-Killers for Hire" pilots slated for 2027 or later
-
-### Dragon's Dogma 2: Dark Arisen Game Collaborates With Delicious in Dungeon
-Fri, 06 Nov 2026 21:00:00 -0500 — https://www.animenewsnetwork.com/interest/2026-11-06/dragon-dogma-2-dark-arisen-game-collaborates-with-delicious-in-dungeon/.243563
-
-What sort of wild new recipes will Laios come up with?
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
@@ -98,17 +98,17 @@ Sat, 07 Nov 2026 06:53:59 GMT — https://animecorner.me/a-tsujita-artisan-noodl
 
 Tsujita Artisan Noodle has announced a collaboration with the Umamusume: Pretty Derby franchise. The&hellip;
 
-### Fall 2026 Anime Rankings – Week 5
-Fri, 06 Nov 2026 12:30:00 GMT — https://animecorner.me/fall-2026-anime-rankings-week-5/
-
-STEEL BALL RUN JoJo’s Bizarre Adventure 2nd-3rd STAGE has won its first weekly poll&hellip;
-
-### Rainy Day Serenade Anime Reveals Key Visual, Teaser Trailer, Main Cast, April 2027 Premiere
-Fri, 06 Nov 2026 12:20:03 GMT — https://animecorner.me/rainy-day-serenade-anime-reveals-key-visual-teaser-trailer-main-cast-april-2027-premiere/
-
-Rainy Day Serenade anime revealed a key visual and teaser trailer on Friday, featuring&hellip;
-
 ## MyAnimeList News
+
+### Boku no Suki na Hito ga Suki na Hito Reveals Main Cast, Staff, Teaser Promo, Spring 2027 Premiere
+Sun, 08 Nov 2026 07:20:52 -0800 — https://myanimelist.net/news/74917765?_location=rss
+
+Production company Avex Pictures opened an official website for a television anime adaptation of Sekina Aoi and Ryou Tsuzura s Boku no Suki na Hito ga Suki na Hito (My Crush s Crush) manga on Friday, revealing the main cast, staff, teaser visual (pictured), and teaser promotional video. The anime is scheduled to premiere in April 2027. Cast Sora Akizuki: Gakuto Kajiwara (Black Clover) Asahi Suzukaze: Haruna Mikawa (Ninja to Koroshiya no Futarigurashi) Miya Fuwa: Nene Hieda (Summer Pock...
+
+### Spy x Family Gets Season 4, Second Anime Movie in 2027
+Sun, 08 Nov 2026 03:24:31 -0800 — https://myanimelist.net/news/74917181?_location=rss
+
+The Spy x Family Anime Extra Mission II special event announced a fourth season and a second theatrical movie on Sunday, revealing the production staff and a teaser visual (pictured) for Season 4. The new season and movie are scheduled for a 2027 premiere. Staff Director: Yasuhiro Akamatsu (Spy x Family Season 3 episode director) NEW Assistant Director: Hiroki Shinagawa (Lazarus sub character design) NEW Series Composition: Aya Takaha (Mahoutsukai no Yome script) NEW Assistant Series Composition...
 
 ### Minami-ke Korekara Reveals New Staff, Teaser Promo, Spring 2027 Premiere
 Sat, 07 Nov 2026 22:43:49 -0800 — https://myanimelist.net/news/74916427?_location=rss
@@ -134,11 +134,6 @@ The official website for the television anime adaptation of Suisei and Kairi s Y
 Fri, 06 Nov 2026 21:07:54 -0800 — https://myanimelist.net/news/74912747?_location=rss
 
 Entertainment company Plott announced a television anime adaptation of its Harajuku Himegoto House mixed-media project on Saturday, revealing the main cast, staff, a key visual (pictured), and a teaser promotional video. Cast Mizuki Otokozawa: Yuuya Hirose (Mato Seihei no Slave) Mero Togariishi: Tetsuei Sumiya (Fairy Ranmaru) Takara Rokurokusou: Souhei Horikane (Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku) Kentarou Jinbayama: Masaru Yoshimura Yuki Inubou: Takuma Nagatsuka (SK&infin;)...
-
-### Namidaame to Serenade Reveals Main Cast, Staff, Teaser Promo, Spring 2027 Premiere
-Fri, 06 Nov 2026 03:34:35 -0800 — https://myanimelist.net/news/74910185?_location=rss
-
-The official website for the television anime adaptation of Haruka Kawachi s Namidaame to Serenade (Rainy Day Serenade) manga revealed the main cast, staff, the first key visual (pictured right), a celebratory illustration drawn by the creator (pictured center), and a teaser promotional video on Friday. The anime is scheduled to premiere in April 2027. Voice actors Yume Miyamoto (Yomi no Tsugai) and Takeo Ootsuka (Medalist) are starring in the anime as Hina Katagiri and Takaaki Hongou, res...
 
 ## Otaku USA
 

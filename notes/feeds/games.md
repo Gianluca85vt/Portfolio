@@ -1,6 +1,31 @@
-# Games — harvested 2026-11-08T11:31:08.861Z
+# Games — harvested 2026-11-08T18:29:41.038Z
 
 ## Eurogamer
+
+### Ocarina of Time remake datamine suggests Master Quest is on the way
+Sun, 08 Nov 2026 17:39:10 +0000 — https://www.eurogamer.net/zelda-ocarina-of-time-remake-master-quest-dlc-datamine
+
+Ocarina of Time 's notoriously tricky Master Quest mode could be making a comeback in the new remake. Read more
+
+### Phasmophobia players raise over $230,000 for heart charity, more than double last year's total
+Sun, 08 Nov 2026 16:41:10 +0000 — https://www.eurogamer.net/phasmophobia-ghost-hunts-for-hearts-230000-american-heart-association
+
+The Phasmophobia community has raised more than $230,000 (around &pound;173,000) for the American Heart Association, more than doubling last year's total. Read more
+
+### Saving Mass Effect would take $200m+, says BioWare co-founder
+Sun, 08 Nov 2026 14:31:00 +0000 — https://www.eurogamer.net/mass-effect-5-save-cost-200m-bioware-co-founder-trent-oster
+
+Anyone hoping to buy Mass Effect from EA and finish what BioWare started needs to get saving now, as it could cost over $200 million (&pound;150m). Read more
+
+### Missing teenager rescued after reaching out to another player in Among Us
+Sun, 08 Nov 2026 13:28:20 +0000 — https://www.eurogamer.net/among-us-missing-teen-rescued-utah-oregon
+
+A teenager who went missing in Utah more than 17 months ago has been rescued from a home in Oregon after she got in touch with another young player in Among Us . Read more
+
+### WoW: Forever is the biggest launch in World of Warcraft history, says Blizzard
+Sun, 08 Nov 2026 13:09:10 +0000 — https://www.eurogamer.net/wow-forever-biggest-launch-world-of-warcraft-history-concurrent-players
+
+World of Warcraft: Forever is the biggest launch in the MMO's history, pulling in more concurrent players than any previous WoW launch. Read more
 
 ### Star Wars Zero Company studio Bit Reactor lays off staff, a month after bringing furloughed developers back
 Sat, 07 Nov 2026 20:06:10 +0000 — https://www.eurogamer.net/star-wars-zero-company-bit-reactor-layoffs
@@ -37,53 +62,25 @@ Fri, 06 Nov 2026 19:58:20 +0000 — https://www.eurogamer.net/updated-xbox-pc-ap
 
 The Xbox PC app hasn't had the best track record in recent years, but Microsoft is promising that it's now much faster and easier to use than before. Read more
 
-### Mass Effect-like RPG The Expanse: Osiris Reborn ropes in David Gaider, the original lead writer of Bioware's Dragon Age series
-Fri, 06 Nov 2026 18:40:40 +0000 — https://www.eurogamer.net/mass-effect-expanse-rpg-david-gaider
-
-The Expanse: Osiris Reborn looks like it's carrying the best bits of Mass Effect forward, and in an encouraging move, the developers have been collaborating with David Gaider. Read more
-
-### Bringing Bloodborne back is tricky because "there's a lot of involved rights associated," according to former PlayStation boss
-Fri, 06 Nov 2026 17:49:40 +0000 — https://www.eurogamer.net/bloodborne-involved-rights-former-playstation-boss
-
-Every year, Bloodborne fans pray for the birth of another game set in FromSoftware's Lovecraftian world. Every year, we're no closer to a Bloodborne 2 or even a Bloodborne Remastered. But why? PlayStation's former head honcho, Shawn Layden, blames it on the tricky situation of rights ownership. Read more
-
-### World of Warcraft: Forever hotfix puts a stop to super speedy flag carriers that were dominating PvP battlegrounds
-Fri, 06 Nov 2026 14:38:20 +0000 — https://www.eurogamer.net/world-of-warcraft-forever-hotfix-flag-carrier-plainsrunning
-
-World of Warcraft: Forever has received its first major hotfix patch, which among other things has put an end to an especially powerful bug that made PvP battlegrounds like Warsong Gulch favoured to the Horde's advantage. Read more
-
-### In Charting the Unknown, Crimson Desert doubles down on its maximalism in audacious, faintly sinister style
-Fri, 06 Nov 2026 12:32:20 +0000 — https://www.eurogamer.net/crimson-desert-charting-the-unknown-now-playing
-
-And so we are back in Pywel: the super-sized and often super-pretty realm where the deserts are blood-red, the grass is a lurid shade of green, and Kliff and his merry gang of Greymanes seem to be pissed all the time. Yet what's this? Peace seems to have broken out across the region, which means our grizzled action hero is in a reflective mood. Read more
-
-### Square Enix accidentally botches a Nier: Automata update, balloons required file size from 50GB to 366GB on PC
-Fri, 06 Nov 2026 12:28:10 +0000 — https://www.eurogamer.net/square-enix-nier-automata-update-required-file-size-366gb
-
-Yesterday, Nier: Automata received a new patch on Steam, adding more language support to the title - it can now be played with Korean, Simplified Chinese, and Traditional Chinese options - but this new update also, somehow, inflated the file size of the game on PC from about 50GB to 366GB. D'oh! What's worse is, the update is not optional. Read more
-
 ## GamesIndustry.biz
 
-### Elections signal cultural shifts that no creative industry can dare to ignore | Opinion
-Fri, 06 Nov 2026 16:10:00 +0000 — https://www.gamesindustry.biz/elections-signal-cultural-shifts-that-no-creative-industry-can-dare-to-ignore-opinion
-
-There is a perfectly logical way in which you can look at an election result &ndash; even a truly seismic election result &ndash; and say that it is largely irrelevant to the business decision-making of the games industry. Elections do not change your customer demographics; all of Washington or Westminster or Nagatach&omacr; may change overnight, but the people who bought your games yesterday are still the people who will buy them tomorrow, aren't they? Read more
-
-### SAG-AFTRA launches new video game agreement enabling devs to hire professional actors for demos and vertical slices
-Fri, 06 Nov 2026 14:50:40 +0000 — https://www.gamesindustry.biz/sag-aftra-launches-new-video-game-agreement-enabling-devs-to-hire-professional-actors-for-demos-and-vertical-slices
-
-SAG-AFTRA has introduced a video game agreement for pre-funding pitches, allowing creators to use professional actors earlier in development. Read more
-
-### Jobs roundup: November | Nordisk Games appoints Stefanía Halldórsdóttir as CEO and Ásgeir Kröyer as CFO
-Fri, 06 Nov 2026 13:53:10 +0000 — https://www.gamesindustry.biz/jobs-roundup-november-nordisk-games-appoints-stefania-halldorsdottir-as-ceo-and-asgeir-kroyer-as-cfo
-
-It can be difficult keeping track of the various comings and goings in the games industry, which is why we compile them in semi-regular round-ups. Read more
+_Nothing in the last 48 hours._
 
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Opinion: Onimusha vs Phantom Blade Zero - The Insane Sword Fight for Game of the Year
+Sun, 08 Nov 2026 14:00:00 GMT — https://www.pushsquare.com/features/opinion-onimusha-vs-phantom-blade-zero-the-insane-sword-fight-for-game-of-the-year
+
+Looking sharp. Onimusha: Way of the Sword and Phantom Blade Zero are two of the best action games I've played in years. I've always been a sucker for cool sword fights and I'd argue that these two games do sword fights better than almost any other ( Ghost of Tsushima and Ghost of Yotei deserve a big shoutout, mind). Read the full article on pushsquare.com
+
+### God of War Spin-Off Game Seemingly Getting Surprise PS4 Port
+Sun, 08 Nov 2026 13:30:00 GMT — https://www.pushsquare.com/news/2026/11/god-of-war-spin-off-game-seemingly-getting-surprise-ps4-port
+
+PS4 Spartaaa. God of War: Sons of Sparta , the retro-style Metroidvania by Mega Cat Studios, is seemingly coming to the PS4. The game first launched on the PS5 as a State of Play shadow drop earlier this year . Read the full article on pushsquare.com
 
 ### Sony Indefinitely Delays Another PS5 Peripheral Days Before Release
 Sun, 08 Nov 2026 00:00:00 GMT — https://www.pushsquare.com/news/2026/11/sony-indefinitely-delays-another-ps5-peripheral-days-before-release
@@ -115,36 +112,6 @@ Sat, 07 Nov 2026 00:00:00 GMT — https://www.pushsquare.com/features/talking-po
 
 Killing time. Another week has come to a conclusion, and we are very much in the GTA 6 evacuation zone now. Less than two weeks until Rockstar's sequel, folks. Jamie O'Neill I've only managed about three hours on Lone Survivor: The Director's Cut , so I'll break out the PS Vita, because I can't leave that masked protagonist stuck in a disease riddled city, after all. Read the full article on pushsquare.com
 
-### Game of the Month: Phantom Blade Zero (October 2026)
-Fri, 06 Nov 2026 18:00:00 GMT — https://www.pushsquare.com/features/game-of-the-month-phantom-blade-zero-october-2026
-
-As voted by you. Ah, October, otherwise known as the month before GTA 6 . Indeed, it was an incredibly busy 31 days for new PS5 releases, following on from an equally manic September — and that's going to make this latest Game of the Month poll all the more intriguing. Read the full article on pushsquare.com
-
-### Following BioWare Closure, a Documentary About the Legendary Studio Has Been Announced
-Fri, 06 Nov 2026 15:30:00 GMT — https://www.pushsquare.com/news/2026/11/following-bioware-closure-a-documentary-about-the-legendary-studio-has-been-announced
-
-Massive Effect coming next year. In case you missed the news, publisher Electronic Arts recently pulled the plug on one of its most revered studios, BioWare, as part of a wider round of layoffs . The developer, known for its many beloved contributions to the RPG genre, is sadly no more, and the game it was working on, a new Mass Effect, was also cancelled. Read the full article on pushsquare.com
-
-### Synth Riders Dropping 80s MixTape: Vice Wave DLC to Immerse You in Some Neon Dreams
-Fri, 06 Nov 2026 15:00:00 GMT — https://www.pushsquare.com/news/2026/11/synth-riders-dropping-80s-mixtape-vice-wave-dlc-to-immerse-you-in-some-neon-dreams
-
-What A Tracklist! Barely a couple of weeks after PSVR2 darling Synth Riders dropped a new free song , we've got yet more content on the way. Those not satisfied with the previous ' 80s Mixtape ' drops, we've got an additional third set of tunes to liven up your day. Read the full article on pushsquare.com
-
-### Here s What The Expanse: Osiris Reborn s Recast Main Character Looks and Sounds Like
-Fri, 06 Nov 2026 14:30:00 GMT — https://www.pushsquare.com/news/2026/11/heres-what-the-expanse-osiris-reborns-recast-main-character-looks-and-sounds-like
-
-New face and voice revealed. Developer and publisher Owlcat Games has revealed the new face and voice of the male protagonist in The Expanse: Osiris Reborn . Following negative feedback from fans, the company announced it would be recasting the role and making updates to the character's appearance. Read the full article on pushsquare.com
-
-### Guide: GTA 6 Release Times and Preload: When Can You Start Playing?
-Fri, 06 Nov 2026 14:15:00 GMT — https://www.pushsquare.com/guides/gta-6-release-times-and-preload-when-can-you-start-playing
-
-All the GTA 6 release info you need. Probably the most anticipated game of all time, GTA 6 is now less than two weeks away. As the launch draws closer, we're covering everything you need to know about its PS5 launch, including preload options and release times. In this GTA 6 guide , we cover the GTA 6 release times and preload . <toc expand="none"> Read the full article on pushsquare.com
-
-### These 8+ PS5 Games Will Be Delisted in November and December 2026
-Fri, 06 Nov 2026 13:30:00 GMT — https://www.pushsquare.com/news/2026/11/these-8plus-ps5-games-will-be-delisted-in-november-and-december-2026
-
-Going offline. The end of the year is always a prime time for PS5 game delistings and server closures, but fortunately we’re being spared a large list this year. There are about eight titles with impending changes you need to be aware of, so here’s the full list: Read the full article on pushsquare.com
-
 ## Game Developer
 
 ### SAG-AFTRA introduces new process for hiring union actors in game pitches
@@ -152,17 +119,32 @@ Fri, 06 Nov 2026 19:17:10 GMT — https://www.gamedeveloper.com/production/sag-a
 
 SAG-AFTRA actors can now be recruited for vertical slices, demos, and other forms of content needed to pitch games.
 
-### Report: Silver Lake and the Saudi Arabia PIF hold talks with Unity to explore acquisition
-Fri, 06 Nov 2026 17:57:21 GMT — https://www.gamedeveloper.com/business/silver-lake-and-the-saudi-arabia-pif-hold-talks-with-unity-to-explore-acquisition
-
-The investment partners recently acquired Electronic Arts and are now reportedly turning their gaze toward software engine Unity.
-
-### Sony insists its next-generation console plans are still on schedule
-Fri, 06 Nov 2026 15:36:44 GMT — https://www.gamedeveloper.com/console/sony-insists-next-generation-consoles-are-still-on-schedule-in-new-financial-report
-
-As part of the media giant's quarterly financial report, Sony states that progress toward the next generation of consoles is proceeding on schedule.
-
 ## VGC
+
+### Zelda OOT Remake: Get the Silver and Golden Scales to dive deeper
+Sun, 08 Nov 2026 13:36:43 +0000 — https://www.videogameschronicle.com/guide/zelda-oot-remake-silver-golden-scale-dive/
+
+How to get the Silver and Golden Scales to increase your dive depth in The Legend of Zelda: Ocarina of Time remake… Source
+
+### Zelda OOT Remake: Full Biggoron’s Sword quest explained
+Sun, 08 Nov 2026 12:55:12 +0000 — https://www.videogameschronicle.com/guide/zelda-oot-biggorons-sword-trade-sequence-quest/
+
+Everything you need to get the Biggoron's Sword in The Legend of Zelda: Ocarina of Time on N64 and Nintendo Switch 2… Source
+
+### Zelda OOT Remake: All Empty Bottle locations
+Sun, 08 Nov 2026 12:16:39 +0000 — https://www.videogameschronicle.com/guide/zelda-oot-remake-all-empty-bottle-locations/
+
+All old and new Empty Bottle locations in The Legend of Zelda: Ocarina of Time remake… Source
+
+### Zelda Ocarina of Time: All Empty Bottle locations
+Sun, 08 Nov 2026 12:15:42 +0000 — https://www.videogameschronicle.com/guide/zelda-ocarina-of-time-empty-bottle-locations/
+
+Every Empty Bottle you can earn in Zelda: Ocarina of Time on the N64 and Nintendo Switch Online… Source
+
+### Zelda OOT Remake: Fishing Pond and Sinking Lure explained, all rewards
+Sun, 08 Nov 2026 11:44:54 +0000 — https://www.videogameschronicle.com/guide/zelda-oot-remake-fishing-pond-sinking-lure-rewards/
+
+How to find the Sinking Lure and get all rewards from the Fishing Pond in The Legend of Zelda: Ocarina of Time remake… Source
 
 ### Zelda OOT Remake: Win the Treasure Chest Shop game
 Sat, 07 Nov 2026 22:29:51 +0000 — https://www.videogameschronicle.com/guide/zelda-oot-remake-win-treasure-chest-shop-game/
@@ -189,84 +171,94 @@ Sat, 07 Nov 2026 14:29:27 +0000 — https://www.videogameschronicle.com/guide/ze
 
 All Happy Mask Shop masks and who will buy them in The Legend of Zelda: Ocarina of Time's remake… Source
 
-### Zelda OOT Remake: Lost Woods map, how to navigate
-Fri, 06 Nov 2026 17:28:42 +0000 — https://www.videogameschronicle.com/guide/zelda-oot-remake-lost-woods-map-how-to-navigate/
-
-How to find everything in the Lost Woods in The Legend of Zelda: Ocarina of Time remake… Source
-
-### Podcast: Ocarina still has the magic after all this Time
-Fri, 06 Nov 2026 16:15:23 +0000 — https://www.videogameschronicle.com/blog/podcast/podcast-ocarina-still-has-the-magic-after-all-this-time/
-
-Plus: What's next for Arkane? Source
-
-### Zelda OOT Remake: All Kakariko Village Cucco locations
-Fri, 06 Nov 2026 15:51:13 +0000 — https://www.videogameschronicle.com/guide/zelda-oot-remake-all-kakariko-village-cucco-locations/
-
-All Kakariko Village Cucco locations in The Legend of Zelda: Ocarina of Time remake… Source
-
-### Zelda OOT Remake: Dampé’s Grave Digging Tour explained, all rewards
-Fri, 06 Nov 2026 15:18:49 +0000 — https://www.videogameschronicle.com/guide/zelda-oot-remake-dampe-grave-digging-tour-explained-rewards/
-
-How to earn a Piece of Heart from Dampé's Grave Digging Tour in The Legend of Zelda: Ocarina of Time Remake… Source
-
-### Sony s free-to-play mobile Ratchet Clank multiplayer shooter has been cancelled
-Fri, 06 Nov 2026 14:44:21 +0000 — https://www.videogameschronicle.com/news/sonys-free-to-play-mobile-ratchet-clank-multiplayer-shooter-has-been-cancelled/
-
-Ratchet & Clank: Ranger Rumble was soft-launched in some regions but never got a full release… Source
-
 ## Polygon
 
-### Matt Mercer's Best Critical Role Quote Is Still the Most Inspiring Line in D&D History
-Sun, 08 Nov 2026 11:00:17 GMT — https://www.polygon.com/matthew-mercer-dungeon-master-advice-dungeons-and-dragons/
+### All map fragment locations in the Fortnite Chapter 7 mini season
+Sun, 08 Nov 2026 17:33:11 GMT — https://www.polygon.com/fortnite-chapter-7-mini-season-c7ms-map-fragment-locations/
 
-Matthew Mercer is one of the world's most popular Dungeon Masters. Alongside other incredible DMs like Deborah Ann Woll, Brennan Lee Mulligan, and Aabria Iyengar, Mercer has undeniably shaped how players worldwide approach tabletop role-playing games. As Critical Role , the multimedia entertainment company Mercer co-founded, has grown and evolved over the years, one thing has remained constant: Mercer’s willingness to help other tabletop players. He is especially eager to support aspiring Dungeon Masters who hope to develop their skills and become as accomplished as he is, even appearing on the official Dungeons & Dragons YouTube page to provide assistance.
+Fortnite 's Chapter 7 mini season , "Treasure Hunters," has added a new collectible to find throughout the season: map fragments . These map fragments will be added periodically during the season, and you'll get a special reward for finding them all.
 
-### 68 Years Later, Peanuts’ Most Mysterious Character Is Finally Making Her Official Debut — But There's a Catch
-Sun, 08 Nov 2026 10:30:17 GMT — https://www.polygon.com/charlie-brown-pencil-pal-history-peanuts/
+### All sprites in the Fortnite Chapter 7 mini season
+Sun, 08 Nov 2026 17:26:26 GMT — https://www.polygon.com/fortnite-chapter-7-mini-season-all-sprites-list-abilities/
 
-There are some elements of Charles Schulz's Peanuts comic that have hardly aged at all, such as the characters' relationships or its focus on team sports. Most kids in America, before or since, have had the experience of being on a team where one kid is taking the game way too seriously while another seems barely aware of what's going on.
+Sprites have taken over another season with their inclusion in the Fortnite Chapter 7 mini season, " Treasure Hunters ." These sprites work functionally the same way as they did in the last seasons: find them around the island, level them up, and extract them to master them. Mastering sprites will unlock different rewards, like sprite dust and cosmetics.
 
-### Bethesda's Most Reviled Game Becomes a 10/10 If You Ignore the Story
-Sun, 08 Nov 2026 10:00:17 GMT — https://www.polygon.com/starfield-retrospective-bethesda-story/
+### Godzilla Minus Zero Opening Weekend Box Office Breaks A Foreign-Language Film Records
+Sun, 08 Nov 2026 17:15:02 GMT — https://www.polygon.com/godzilla-minus-zero-opening-weekend-box-office/
 
-Recently, Bethesda dominated conversations simply by announcing that the long-awaited Elder Scrolls 6 has an official subtitle : Sentinel . We didn’t learn much more than that, but it was enough to keep us talking because that’s the sort of hold Bethesda has on us. Sometimes. There have been other instances, however, when the hold loosened.
+Godzilla Minus Zero had a strong opening weekend, grossing more at the domestic box office than any live action foreign-language film before it. On top of that, a higher percentage of people sought out premium screens, like IMAX, to watch it even more than they did for The Odyssey earlier this year.
 
-### Anya Taylor-Joy's Billion-Dollar Sci-Fi Epic Officially Sets New Streaming Home on Netflix
-Sun, 08 Nov 2026 09:30:17 GMT — https://www.polygon.com/anya-taylor-joy-sci-fi-netflix-super-mario-galaxy-movie/
+### The Legend of Zelda: Ocarina of Time Thankfully Resists FromSoftware’s Influence
+Sun, 08 Nov 2026 17:00:19 GMT — https://www.polygon.com/the-legend-of-zelda-ocarina-of-time-parrying/
 
-Anya Taylor-Joy captivated audiences as chess prodigy Beth Harmon in Netflix ’s 2020 miniseries The Queen’s Gambit . Her performance balanced poise with emotional depth, creating a character whose story and presence have lingered with viewers long after the series ended. Even years later, the role remains especially memorable — more so than her appearances in action-packed franchises, including Fox’s Marvel superhero film The New Mutants .
+This year in video games, I’ve swung a digital sword more times than I can count. Thrilling action games like Onimusha: Way of the Sword and Phantom Blade Zero have gotten the feel of a sword fight down to a science, as steel clashes and sparks fly in spectacular fashion. But my favorite duels of the year aren’t in any of this year’s most razor-sharp action games; they’re all in The Legend of Zelda: Ocarina of Time .
 
-### Sydney Sweeney’s Extremely R-Rated 131-Minute Thriller Is Officially Streaming on HBO
-Sun, 08 Nov 2026 09:09:17 GMT — https://www.polygon.com/sydney-sweeney-erotic-thriller-the-housemaid-hbo-max/
+### Speedrunners Already Breaking The Legend of Zelda: Ocarina of Time's Remake
+Sun, 08 Nov 2026 16:32:01 GMT — https://www.polygon.com/ocarina-of-time-remake-speedrunning-actor-jumping/
 
-Despite its overwhelming commercial success, Freida McFadden’s psychological thriller, The Housemaid , is far from a perfect read. Trope-heavy and full of obvious contrivances, The Housemaid sets up a tense domestic thriller premise that is meant to be consumed as a fast-paced popcorn novel. This, however, sets the stage for a pulpy screen adaptation, one that mimics the conventions of a lurid thriller with some decent character writing to round things out.
+Speedrunners have had their hands on the Nintendo Switch 2 remake of The Legend of Zelda: Ocarina of Time for a couple of days now, and some funky tricks have already been discovered. In particular, the remake's addition of a jumping mechanic has enabled new speedrunning tactics that just weren't possible in the Nintendo 64 original or its 3DS remake.
 
-### 10 Perfectly Designed Final Fantasy Magic Cards That Are 10/10, No Notes
-Sun, 08 Nov 2026 05:00:17 GMT — https://www.polygon.com/best-final-fantasy-magic-the-gathering-card-designs/
+### Zelda: Ocarina of Time Is Guaranteed a GOTY Nomination. It Will Never Win
+Sun, 08 Nov 2026 16:00:17 GMT — https://www.polygon.com/zelda-ocarina-of-time-switch-2-remake-goty-game-awards/
 
-Packed with hilarious nods, like Suplex , and incredible powerhouses, like Diamond Weapon , it comes as no surprise that Final Fantasy is among the best Universe Beyond sets in the game. But the most perfect designs among them capture a fundamental element of their source material, whether that's Bahamut 's devastating Mega Flare, Phoenix Down' s clutch resurrection, or the sheer spectacle of summoning Primal Odin .
+Here are the four remakes that were nominated: Resident Evil 2 , Resident Evil 4 , Final Fantasy 7 Remake , and Final Fantasy 7 Rebirth . Apart from the obvious, what these four games have in common is their bold retellings of the original stories in a completely modern gaming vernacular, sometimes with radical changes. The Final Fantasy 7 remake project turns one game into three that might as well be in a different genre.
 
-### Paramount’s 4-Part Action Fantasy Epic Has One of the Best Seasons in TV History
-Sun, 08 Nov 2026 04:00:17 GMT — https://www.polygon.com/the-legend-of-korra-season-3-best-season/
+### The Legend Of Zelda: Ocarina of Time For Switch 2 Could Bring Back A Classic Mode
+Sun, 08 Nov 2026 15:38:32 GMT — https://www.polygon.com/ocarina-of-time-master-quest-switch-2/
 
-Few things feel more grown-up than dealing with the consequences of your actions. Whether you stay up too late and still have to get up the next day or make a mistake at work and have to answer for it, adulthood means no one’s coming to fix things. For the most part, it’s all up to you.
+Now that The Legend of Zelda: Ocarina of Time's Nintendo Switch 2 remake has been out for a couple of days, people are already looking for secrets tucked away within the game through datamining. One of the biggest discoveries from that is that Master Quest, which was missing from the remake at release, could be in the works.
 
-### 9 Near-Perfect Dragon Age Replacements For Fans of Fantasy RPGs
-Sun, 08 Nov 2026 03:40:49 GMT — https://www.polygon.com/best-dragon-age-replacements/
+### Assassin's Creed Hexe Reportedly Delayed As New Assassin's Creed Games Leak
+Sun, 08 Nov 2026 15:07:40 GMT — https://www.polygon.com/assassins-creed-hexe-delay-leak/
 
-BioWare’s Dragon Age is a fantasy RPG series about warring factions, world-ending threats, and, yes, the occasional dragon – but that’s the first-glance take. Get into one Dragon Age game ( start with Origins ! ) and you’ll see that the true heart of this series is the people you drag into hell with you.
+Some new reports regarding the Assassin's Creed series emerged last week, giving us a better idea of what to expect from Ubisoft's flagship series for the rest of the decade. While we learned about two Assassin's Creed titles for the first time, it has also been reported that the development of Assassin's Creed Hexe is taking longer than expected.
 
-### How to Play Every GTA Game in 2026
-Sun, 08 Nov 2026 02:54:13 GMT — https://www.polygon.com/gta-games-all-2026-where-to-play/
+### Magic’s Star Trek Set Doubles as a Must-Watch Guide to the Sci-Fi Franchise
+Sun, 08 Nov 2026 15:00:17 GMT — https://www.polygon.com/star-trek-magic-the-gathering-saga-cards-episodes/
 
-Rockstar Games seems to have an ambivalent attitude towards GTA's past, particularly the early 2D games and some spinoff titles, and its record in making these games available is decidedly spotty. Below, we break down the current state of availability of every game in the series — where you can find it, and what the best way to play it is.
+Prerelease events for Magic ’s Star Trek begin this weekend before a global launch on Nov. 13. The set celebrates six decades of the franchise with cards featuring familiar characters, starships, and memorable adventures. Among them are 14 saga enchantments inspired by — and named after — 13 television episodes and one movie.
 
-### 8 Near-Perfect BioWare Games That Aged Like Fine Wine
-Sun, 08 Nov 2026 02:43:33 GMT — https://www.polygon.com/top-bioware-games/
+### Cairn 'Belongs' Next to Death Stranding in ‘History of Grand Adventure Games'
+Sun, 08 Nov 2026 14:05:44 GMT — https://www.polygon.com/cairn-game-bakers-interview/
 
-A pack of wolves can end a Baldur’s Gate 1 playthrough a mere five minutes after the tutorial ends. A squadmate you didn’t bother checking in on in Mass Effect 2 can die permanently during a mission you don’t get to redo. And a Sonic RPG on the Nintendo DS can end its story with the good guys saving the universe…then coming home to find someone named Eggman conquered Earth while they were gone. Most people know BioWare as the Mass Effect studio, which is incredible on its own — but that undersells the vast range that built the studio’s reputation in the first place.
+Game Bakers co-founder and Cairn producer Audrey Leprince did not set out to “simulate climbing.” The vision was to build an action-adventure game about survival, obsession, sacrifice, and what drives someone to accomplish the impossible. With Cairn ’s new DLC On the Trail: Deep Water out now, Leprince spoke to Polygon about scaling the project and working with director Emeric Thoa to produce a project more meaningful than a simple sports game.
 
 ## PC Gamer
+
+### Ichorous is the bloody platformer I've been waiting for ever since I finished Blasphemous 2
+Sun, 08 Nov 2026 18:00:00 +0000 — https://www.pcgamer.com/games/roguelike/ichorous-is-the-bloody-platformer-ive-been-waiting-for-ever-since-i-finished-blasphemous-2/
+
+I don't often play platformers, but when I do you can bet that it'll be a bloody hack and slash with tons of gore and creepy monsters. It's a high I've been chasing ever since finishing Blasphemous 2, and while I've not managed to find something that can rival the same theistic terror it offers, the new demo for Ichorous delivers on the gore. The premise of Ichorous is simple: you play as The Warlock, an agile fellow who is bound to the god of blood by contract to kill monsters and collect their bloody ichor. The map itself is a puzzle with an unknown layout and number of rooms that you can only piece together by searching through them, killing as many foes as possible while progressing through the map. (Image credit: Monster Crate) The demo only has a couple of levels so far, the Thrall Grave being the first and the Squalor being the second. Each one has different grunts, mini-bosses, and a final level boss for you to tear to shreds. There's giant putrid flying insects that spit phlegm at you, angry cages with several arms all swinging swords at you, and multi-headed bloodthirsty maggots that also have, you guessed it, swords.. The ichor you get from killing these beasts can be exchanged for offerings, upgrades that scale as you progress through each level. But with each offering comes a curse. It's a random modifier that can change bosses or even the map layout. For example, after killing the first level boss I chose Mob Tactics, which gives my character the ability to dart
+
+### My apologies Deadlock, I wasn't familiar with your (musical) game
+Sun, 08 Nov 2026 18:00:00 +0000 — https://www.pcgamer.com/games/moba/my-apologies-deadlock-i-wasnt-familiar-with-your-musical-game/
+
+Against my better judgement, I've been getting into MOBAs a little bit this year. Unfortunately, mucking around in League of Legends' ARAM with my veteran pals felt like a hydrogen bomb (them, the videogame) versus a coughing baby (me playing any champ that wasn't Yuumi). Critical Hit (Image credit: Future) Welcome to Critical Hit , where I (or someone else on the PC Gamer team) celebrate and lament all things videogame music, audio design, and the ways our favourite games make our ears tingle. So when they all decided to get into Deadlock a few weeks ago, I took it as an opportunity to dive in alongside them—partly thanks to being utterly inundated with Rem-related posts from one of my close pals in the days prior. And you know what? It's good. I'm admittedly a bit of a MOBA disliker—from the outside looking in, it's an awful lot of faff and jargon and a high skill ceiling that I'm not traditionally ready to work towards. But where Deadlock is concerned? I might just put that effort in. It's not just because of its gameplay (which is very good, mind) but the fact that Valve has created one of the coolest, vibe-iest games I've played in a hot sec. It looks great, it feels great, and most importantly for this here column that you're reading, it sounds amazing. From the very first moments of the main menu's playfully ominous jazz notes, I was sold. It perfectly encapsulates this strange, eerie 1950s New York that's all about performing rituals and summoning elder gods. If Valve
+
+### Dominic Armato, voice of Guybrush Threepwood, has always loved LucasArts' adventure games, but there's one he still can't get into: 'I get 10 minutes in and I'm like, oh, this is tedious, man'
+Sun, 08 Nov 2026 16:00:00 +0000 — https://www.pcgamer.com/gaming-industry/dominic-armato-voice-of-guybrush-threepwood-has-always-loved-lucasarts-adventure-games-but-theres-one-he-still-cant-get-into-i-get-10-minutes-in-and-im-like-oh-this-is-tedious-man/
+
+Disk Cleanup (Image credit: Future) Welcome to Disk Cleanup , our regular weekend feature delving into the PCs of PC gaming luminaries. Come back every weekend to read a new interview, digging into the important questions, like "How tidy is your desktop?" and "What game will you never uninstall?" Dominic Armato is adventure game royalty, but an early adventure game experience almost killed his enthusiasm for videogames: "The one that really sticks in my head is The Hitchhiker's Guide to the Galaxy ," he says. "It was just evil. I was a kid, and I'm trying to play this game that's one of the most difficult text adventure games ever written … It's not a happy memory. It's a miracle that I stuck with videogames at all." Yet persist with games Armato did, becoming an avid fan of the point 'n' click adventures designed by LucasArts. This led Armato to audition for and be cast as mighty pirate Guybrush Threepwood for 1997's The Curse of Monkey Island . It's a role he would reprise for every subsequent Monkey Island game, including the remakes of The Secret of Monkey Island and Monkey Island 2, as well as 2022's excellent Return to Monkey Island . Alongside Monkey Island Armato has appeared in games like Jedi Knight 2: Jedi Outcast and Metal Gear Solid 2: Sons of Liberty. He's also an experienced dining critic, running his own food blog Skillet Doux until 2015, before working as a food writer for The Arizona Republic and the Phoenix New Times. Armato is currently working on a new pr
+
+### Inspired by Dark Messiah and Thief, this stealth game sees you sneak through a medieval megastructure prowled by undead guards
+Sun, 08 Nov 2026 15:08:46 +0000 — https://www.pcgamer.com/games/sim/inspired-by-dark-messiah-and-thief-this-stealth-game-sees-you-sneak-through-a-medieval-megastructure-prowled-by-undead-guards/
+
+It's a great time to be a fan of both Thief: The Dark Project and Dark Messiah of Might and Magic . A Thief remaster from Nightdive—which features a new campaign—is coming next month , while Dark Messiah is getting a Ubisoft-approved community edition that adds co-op, new modes and more. There are also numerous spiritual successors in the works for both games, such as the dark and Thief-y Gloomwood and the Dark Messiah-inspired Fatekeeper and Alkahest . Until earlier today, I hadn't seen a game inspired by both Thief and Dark Messiah at the same time (apart from Dishonored , I suppose, though that was made by Dark Messiah developers Arkane, so I'm not sure that counts). But that all changed when The Citadel Project snuck through my eyes and booted my ignorance right out of my brain. Created by solo outfit Reliquary Software, The Citadel Project synthesises the designs of Thief and Dark Messiah with first-person indie gaming's current fascination with megastructures. It casts you as a sickle-wielding prisoner trying to escape a sprawling medieval fortress prowled by shambling undead guards. The Citadel Project's Thief leanings are most obvious at a glance. Environments are shrouded in shadow, stealth is your greatest asset, and your character carries a crossbow that can fire various kinds of bolts—including water bolts and moss quarrels. The Dark Messiah DNA, meanwhile, is most prominent in the physics engine. Alongside being able to slip past enemies, your character can give 
+
+### WoW: Forever is more than just a millennial retirement home
+Sun, 08 Nov 2026 15:00:00 +0000 — https://www.pcgamer.com/games/world-of-warcraft/wow-forever-is-more-than-just-a-millennial-retirement-home/
+
+Play This Right Now Welcome to Play This Right Now, the site version of our weekly newsletter in which we celebrate a new game, update, or DLC that we think is well worth checking out. You can subscribe to the newsletter at the link if you want to get our thoughts about a new videogame happening direct to your inbox every Thursday. World of Warcraft: Forever is fascinating from so many perspectives—not necessarily in terms of what's on offer (it is, despite my enamorment, still very much Classic WoW) but in what it means for the MMO genre at large. It's the kind of project that usually only gets cooked up in "what ifs", a version of a 20-year old game that decided not to go for expansions, but to instead spread out horizontally . A World of Warcraft that didn't have to rush a single hour of development time. It's an attempt at not only just recreating nostalgia, but applying a fine layer of polish to that nostalgia. Forever has over 1,000 new quests and dungeons —and having played some of them in my 50 hours with its beta, I can say that Blizzard has absolutely nailed what I've seen so far. To restore a prior version of a game is one thing, but to add new areas and content that feel appropriate to its oldschool game design feels like a magic trick. It's like someone's dusted off a set of forbidden texts and started reading them in flawless ancient greek—a sleight-of-hand that's been dunked on as a "millenial retirement home" but, as the exact target audience for Forever, I've
+
+### This massive mod essentially turns Skyrim into a persistent MMO 'where player actions create lasting consequences'
+Sun, 08 Nov 2026 13:19:55 +0000 — https://www.pcgamer.com/games/the-elder-scrolls/this-massive-mod-essentially-turns-skyrim-into-a-persistent-mmo-where-player-actions-create-lasting-consequences/
+
+PC gaming isn't short of multiplayer fantasy adventures these days, but there is still something alluring about the idea of playing Skyrim with pals. Some mods have facilitated small-scale Skyrim multiplayer in the past, like the cooperative mod Skyrim Together . But Aurbis goes several step further, converting Bethesda's RPG into a persistent online roleplaying server—essentially a Skyrim MMO in all but name. According to its ModDB page, Aurbis transforms Skyrim's solo adventure into "a persistent world where player actions create lasting consequences", snythesising Skyrim's existing experience with a bunch of multiplayer and MMO-like systems. It's designed with roleplaying in mind, though the mod's creators stress that RP is not mandatory, and players can focus on other elements like cooperative dungeon runs or PvP play if they so choose. The list of changes and additions to Aurbis is impressive, running from character creation outward. The retooled character builder is designed to let avatars "develop over time instead of becoming powerful immediately", though it also lets players start with vampirism or lycanthropy for roleplaying purposes. Those roles are heavily defined by the player's choice of Birthsign, which affects how efficiently skills develop. Crafting professions are supported by a player-driven economy that factors in bank accounts, property ownership and player-created quests, while activities like combat are designed to be dangerous and reward "preparation, 
+
+### As Wardogs Season 3 looms, Bulkhead claims to have built 'one of the world's most sophisticated anti-cheat systems', assisted by 'machine learning and AI'
+Sun, 08 Nov 2026 12:16:51 +0000 — https://www.pcgamer.com/games/fps/as-wardogs-season-3-looms-bulkhead-claims-to-have-built-one-of-the-worlds-most-sophisticated-anti-cheat-systems-assisted-by-machine-learning-and-ai/
+
+Wardogs enjoyed an incredible launch, but Season 2 was very much Bulkhead's 'difficult second album' phase of live service development. A cash-incentive experiment to rebalance the game's weaker blue team was dropped just one day it went live, while the studio's broader attempt to address player concerns ended up sucking a lot of the fun out of the military FPS. Now, with Season 3 on the horizon, Bulkhead has addressed the mistakes the studio made with Season 2 and discussed how the new season will address them. It's a tale that involves a new map, new modes, new upgrade paths, and an AI-powered anticheat. The Road to Season 3 video kicks off with a mea culpa from Bulkhead. "Whilst learning to adapt to running a live service, we decided with good intent to try to respond to negative reviews with actions rather than words," Howard Philpott, Bulkhead's UI/UX director, says in the video. "When the patch notes dropped, on paper the reaction was great. But in reality, when the season went live, the sentiment went quickly downhill. Bulkhead believes the changes it made were too aggressive, while the studio was too easily swayed by the whims of vocal players and its own worries about the inevitable post-launch player dropoff. Henceforth, Bulkhead intends to stick to its guns. "No matter how incredible the launch was for us and players, both we, the developers and you as players must hold strong and not speedrun fixes to appease the loudest voices." With that said, Season 3 brings se
 
 ### Path of Exile 2's game director thinks a death recap will finally allow us players to complain about the right things
 Sun, 08 Nov 2026 02:13:27 +0000 — https://www.pcgamer.com/games/rpg/path-of-exile-2s-game-director-thinks-a-death-recap-will-finally-allow-us-players-to-complain-about-the-right-things/
@@ -293,41 +285,6 @@ Sat, 07 Nov 2026 18:10:16 +0000 — https://www.pcgamer.com/gaming-industry/amd-
 
 In a Thursday, November 5 interview with Yahoo Finance (via TechRadar ), AMD CEO Lisa Su emphasized the company's AI commitments. Separately, in a Q3 2026 earnings call, Su forecasted an overall "dobule-digit" slump in PC sales in 2027. 2026 games : All the upcoming games Best PC games : Our all-time favorites Free PC games : Freebie fest Best FPS games : Finest gunplay Best RPGs : Grand adventures Best co-op games : Better together ]]>
 
-### After seeing them myself, I'm convinced WoW: Forever's RP servers don't need to be this separate, and I say that as a decorated veteran of MMO roleplay
-Sat, 07 Nov 2026 18:00:00 +0000 — https://www.pcgamer.com/games/world-of-warcraft/after-seeing-them-myself-im-convinced-wow-forevers-rp-servers-dont-need-to-be-this-separate-and-i-say-that-as-a-decorated-veteran-of-mmo-roleplay/
-
-I've been stuck into World of Warcraft: Forever —at the time of writing, I'm around 15 hours /played (and will likely be 20+ hours by the time you're reading this) on my warrior. I chose the roleplay ruleset because, well, I'm a roleplayer. I've been writing and being cringe in videogames for over 15 years . RP in WoW is, actually, what got me into writing in the first place. My clear and obvious mastery over the written word was hard-won by being a terribly annoying edgelord death knight, for which I apologise. I was curious about the implementation of the roleplay ruleset back when it was properly announced—back then, I thought it was great that we're being given our own place, but being completely split off from "normal" ruleset (which I'll be calling PvE for simplicity) didn't seem necessary to me. Having played in the roleplay ruleset for a little while, my opinion has only been vindicated. Splitting PvE and PvP rulesets does make sense. For instance, a resource node might be easier to gather on PvE, throwing the economic balance of the PvP server out of the window. But beyond technical limitations, a complete, strict divide between RP and PvE just has me scratching my head. There are things I like about having our own little nook of the Forever servers to putz about on. For starters, the vibes are a lot chiller. I don't want to cast generalisations about players, but I do think roleplayers are just smarter, sexier, have bigger muscles, and will solve climate change. In 
-
-### What's the toughest choice you've made in an RPG?
-Sat, 07 Nov 2026 17:00:00 +0000 — https://www.pcgamer.com/games/rpg/whats-the-toughest-choice-youve-made-in-an-rpg/
-
-Dungeon Master (Image credit: Future) Welcome to Dungeon Master , PC Gamer's regular RPG column, where Online Editor Fraser Brown delves into PC gaming's most beloved and enduring genre. Grab a seat in our badly-lit tavern and please ignore the goblin puke. We love a big RPG dilemma, don't we? Right up until the point where we actually have to make the choice and we stare at our screens for an uncomfortably long time, hoping we'll figure out a way to make a call and not feel absolutely terrible about it later. For my money, the best—agonising, guilt-inducing—choices are the really personal ones. I love that Mass Effect lets me determine the fate of the galaxy in all these different ways, but it never gives me a reason to care about the rachni, for instance, or the council, so when I have to decide to save them or let them die, it becomes more of an abstract moral choice. Disco Elysium , then, left me in tatters. It's more personal and intimate than a productive therapy session. There's a card you can read pretty early on, stuck inside a ledger, that opens the wound that Harry worked very hard—by abusing alcohol and drugs—to forget. If you toss it, you never get it back. That was a hard one. Is ignoring it a kind of liberation? Or are you just helping Harry hide from his trauma? It's effective because it's powerfully relatable. You don't even need to have experienced a cataclysmic breakup to understand Harry in that moment. We've all got shit we'd really love to forget. Self-d
-
-### Linux on the desktop marches on as GOG announces its Galaxy client is getting a revamp headed to Windows, macOS, and your distro of choice
-Sat, 07 Nov 2026 15:00:00 +0000 — https://www.pcgamer.com/software/linux/linux-on-the-desktop-marches-on-as-gog-announces-its-galaxy-client-is-getting-a-revamp-headed-to-windows-macos-and-your-distro-of-choice/
-
-GOG Galaxy—the DRM-free storefront's go at a desktop client and launcher—was always a nice dream that didn't measure up in reality. The pitch was: all your games, from all your PC game storefronts, in one centralised hub, but it never left beta in its 2.0 form and, in general, ran pretty poorly compared to its most obvious competition (Steam). But that was old GOG. New, independent GOG has big plans for Galaxy. In the storefront's first "GOG Showcase", released Thursday, it announced the launcher would be getting a revamp in 2027, and it's coming to Linux too. "We know this has been a long time coming, but we wanted to do it properly: GOG Galaxy is officially heading to Linux", says the studio. "At the same time, we’ve reworked the client on Windows and Mac to be simpler, run faster, and give you cleaner ways to view your library. Most importantly, our core promise stays untouched: GOG Galaxy is entirely optional. Your games are yours to download and keep through offline installers, exactly as they’ve always been". That is to say, you'll still be able to find offline game installers in your GOG library if you want to prep for the digital ownership apocalypse (which, let me be clear, is probably a wise move). Of course, if you're someone who plays games on Linux (cool people, I believe is the technical term), then you likely already have perhaps several tools which do the GOG Galaxy thing of letting you configure and install games from multiple storefronts: programs like Heroi
-
-### Mass Effect composer Sam Hulick releases his 're-scored' trailer for N7 Day, 'my way of saying goodbye… at least for now'
-Sat, 07 Nov 2026 15:00:00 +0000 — https://www.pcgamer.com/games/mass-effect/mass-effect-composer-sam-hulick-releases-his-re-scored-trailer-for-n7-day-my-way-of-saying-goodbye-at-least-for-now/
-
-Mass Effect composer Sam Hulick revealed in October that he was 're-scoring' the leaked trailer for Mass Effect: Universe to reflect his own "musical vision" for the game. The original, with an edit of " Quartz " by French 79, is pretty groovy, but now Hulick's work is done and this may not come as much of a surprise but I think I like his version better. So here we have it—Mass Effect: Universe - Sam Hulick Edit: I'm not a music critic but I know what I like, and I really like the Mass Effect soundtracks. There's a broadly common sound threaded through all three games (I didn't play Andromeda so I'm just pretending it never happened) but they evolved over the course of the trilogy, too: Hulick told me his music in this trailer is "'a balancing act between paying homage to the original trilogy and exploring new ground", but leans most heavily toward Mass Effect 1 and 3. "Mass Effect's earliest tracks were more about raw analog synth blended with orchestral elements, but more subdued and 'vibey' for lack of a better word," Hulick said in a recent chat with PC Gamer. "Mass Effect 2 leaned more into orchestral bombast (as with Jack Wall’s forever-famous 'Suicide Mission' ), and Mass Effect 3 combined the best of both worlds, with plenty of epic, fist-pump-into-the-air orchestral moments, as well as sparse, moody synth-forward tracks like the ones I wrote for Mars." Jack Wall, for the record, was lead composer on the original Mass Effect while Hulick served as co-composer; the Ma
-
-### Todd Howard's game design power is knowing when to make things 'simple and digestible' according to Skyrim's lead designer
-Sat, 07 Nov 2026 14:16:28 +0000 — https://www.pcgamer.com/games/the-elder-scrolls/todd-howards-game-design-power-is-knowing-when-to-make-things-simple-and-digestible-according-to-skyrims-lead-designer/
-
-Todd Howard is one of the most recognisable names in game development, yet despite this, the Bethesda director's overarching thoughts on game design remain something of an enigma. Howard has admitted that he doesn't like talking about his games. As such, we rarely get much insight into his broader design philosophy. Yet according to Bruce Nesmith, lead designer of Skyrim , Howard certainly has a specific set of skills when it comes to game design. In a wide-ranging interview with The Examined Game , Nesmith discussed his time working with Bethesda. During the chat, Nesmith was asked what it was like working with Howard, and he credited Howard with a knack for seeing things from the player's point of view: "Part of what Todd has, historically for Skyrim and Fallout 3 and everything, been very good at is putting himself in the seat of your typical player," Nesmith explained. "As a developer, I sit in an ivory tower. It's inescapable … I think more deeply about games, definitely, than your typical player. And he's able to cut through that and see 'Oh yeah, they're looking for a little bit of joy here. Don't get in the way with your math and your complex decision here'". When working up close with code and the day-to-day design of things, Nesmith pointed out that developers can overcomplicate things. "I would try to make things a little more complex, and he was more than willing to say 'No, no, that's not what the players are going to want. They're going to want something simple 
-
-### After furloughing its developers and then hiring some of them back, Star Wars Zero Company developer has laid off an unspecified number of staff
-Sat, 07 Nov 2026 12:18:55 +0000 — https://www.pcgamer.com/games/strategy/after-furloughing-its-developers-and-then-hiring-some-of-them-back-star-wars-zero-company-developer-has-laid-off-an-unspecified-number-of-staff/
-
-Star Wars Zero Company developer Bit Reactor has laid of an unspecified number of developers, after furloughing its entire team and then hiring some of that staff back. As reported by the Star Wars website Bespin Bulletin, several designers of the acclaimed tactics game have taken to LinkedIn to announce that they have been let go by the studio. Among those affected are senior environment artist Ryan Lopez, who worked on the game for three and a half years and has been on furlough for the past three and a half months. "While it stings, I'm really proud of what we built together," Lopez wrote in a LinkedIn post . Other designers who lost their jobs include UI Engineer Tyler Eichten and senior quality assurance analyst Ryan Mosher , who spent two years at Firaxis and a further two years at 1047 Games before joining Bit Reactor in October 2024. It's been a tumultuous few months for Bit Reactor. In September, it was reported that the studio had furloughed up to 80% of its staff in the weeks leading up to Zero Company's launch, with the studio having reportedly "run out of most of its money" ahead of the game's launch. At the time, former senior technical artist Zachariah Scott said the project was built with "shocking austerity". Scott also accused Bit Reactor of "concealing the fact that the team was furloughed weeks ago" after the company made the announcement. Within a month, Zero Company had sold one million copies and Bit Reactor subsequently announced it had hired back some
-
-### Nier: Automata developer is 'currently investigating' a bizarre update bug that drastically inflated the game's file size from 50GB to 366GB
-Sat, 07 Nov 2026 11:15:54 +0000 — https://www.pcgamer.com/games/rpg/nier-automata-developer-is-currently-investigating-a-bizarre-update-bug-that-drastically-inflated-the-games-file-size-from-50gb-to-366gb/
-
-Usually, it's a good thing when a patch makes an already excellent game substantially larger. But in the case of Nier: Automata 's most recent update, bigger is most certainly not better. On Friday, the beloved action RPG from Square Enix received what should have been a straightforward update to add localisation support for Simplified Chinese, Traditional Chinese and Korean languages. But as reported by Automaton Media, the update also increased the game's file size from 50 gigabytes to a staggering 366 (and a half) gigabytes. "We have identified an issue following the latest update for Nier: Automata … where installation requires significantly more storage space than intended," wrote Square Enix in a Steam post . "We are currently investigating the cause and working to resolve the issue. We apologise for the inconvenience." It isn't clear how this issue has occurred, but it may be related to Nier: Automata's DLC. When selected for download on Steam, each DLC appears to have the same file size as the base game. Weirdly though, this is only true for the initial download and installation. Once the game is installed, the file reportedly reverts to a more appropriate size of roughly 50 gigs. Indeed, as a temporary solution, Square Enix suggests that anyone who needs to download Nier: Automata deselects all eight DLC when they do so. "As a temporary workaround, you can download the base game using the intended amount of storage space by going to "Properties" à "DLC" in Steam and 
-
 ## GameSpot
 
 ### Can You Upgrade To GTA 6 s $100 Edition? Yes, And It s Easy Here s How
@@ -344,51 +301,6 @@ Following the US midterm elections this week, shares of Nvidia--the world's No. 
 Fri, 06 Nov 2026 18:42:41 +0000 — https://www.gamespot.com/articles/you-can-finally-drive-a-dreamcast-thanks-to-sonic/
 
 Sonic Racing: CrossWorlds is gearing up for a second year of action, and while you can expect new courses, modes, and characters to join the game, the real headline act here is the new cars coming to it. As part of the Sega Consoles Pack, players will be able to tear around courses while driving a four-wheeled Sega video game console, with each vehicle expertly blending the design of that classic gaming hardware into a lean-and-mean racing machine. The new cars are based on the Sega Genesis (or Mega Drive for anyone who lived outside the US), the Sega Saturn, and Sega's final home console, the Dreamcast. According to the Sonic Racing: CrossWorlds development team, the idea was to incorporate design elements that would instantly remind players of each console into their respective vehicle frames, like the rounded form of the Dreamcast or the angular silhouettes and subdued tones of the Saturn. The team even went so far as to recreate the Dreamcast’s Visual Memory Unit using original reference data from that era. "Rather than directly recreating the hardware itself, we translated rounded forms into fenders and nose sections, while angular lines became body panels and hoods, adding the sense of speed expected from a racing machine," the development team explained in a PlayStation Blog post . "While preserving recognizable colors and components from each system, we also designed around the game’s front-and-rear combination mechanic, incorporating the fun of pairing consoles and c
-
-### Mass Effect Is Getting A New Art Collection At A Difficult Time For Its Fans
-Fri, 06 Nov 2026 18:00:00 +0000 — https://www.gamespot.com/articles/mass-effect-is-getting-a-new-art-collection-at-a-difficult-time-for-its-fans/
-
-This year's annual Mass Effect Day looks to be somber in light of the studio behind the games, BioWare, being shut down last month. But while no new Mass Effect games are currently on the horizon, you can celebrate its legacy through some classy art prints that are going up for sale ahead of N7 Day. Preorders for the Mass Effect Collection will begin on Friday, November 6, at 10 AM PT / 1 PM ET / 6 PM BST on the Moor-Art website . The Mass Effect Collection Moor-Art says it began collaborating with BioWare over a year ago to release a new selection of limited-edition posters. "What began as a celebration of an ongoing saga now feels like the bastion in the continuation of a studio's legacy," the studio said in a press release. The collection from Moor-Art is inspired by the characters and worlds of Mass Effect, with the original artwork being produced by acclaimed artists and Mass Effect die-hard fans Matt Essom and Dan Mumford. The designs will also be available as T-shirts. The first one is by Essom, and Moor-Art says this illustration captures the spirit and emotional depth of the series, as well as the bonds forged on the Normandy as her crew traveled to unknown worlds. This will be limited to 200 hand-numbered prints worldwide, plus 30 Giclée prints with a certificate of authenticity signed by the artist. Mumford's "Mass Effect 2" poster aims to capture the sci-fi horror elements of the confrontations against the Reapers, and it features a full ensemble of crew members. 
-
-### GTA 6 Is Going All Out On Details You Might Never Even Notice
-Fri, 06 Nov 2026 16:25:51 +0000 — https://www.gamespot.com/articles/gta-6-is-going-all-out-on-details-you-might-never-even-notice/
-
-It's the smallest details that stand out most in Grand Theft Auto 6 , and thanks to all the screenshots that developer Rockstar Games has posted since the game was officially announced, there's been no shortage of stuff to analyze. Last week, senior video producer Jake Dekker grabbed all 99 of those official screenshots--with the number of images increasing this week thanks to a new screenshot dump--and started going through each and every single one of them. He found plenty of cool little secrets hidden in each image, from legal tender celebrating paranoia to surprisingly realistic flesh, and this week, he's back with another look at GTA 6's impressive attention to detail. Some of these include colorful iguana lizards dotted around Vice City, references to real-life abandoned bridge projects, and local hangouts where you can catch some downtime between heists. Check it for yourself in the video below: https://youtu.be/oxqys4Nm4Cs Some of the other cool secrets hidden inside of these screenshots include vibrant underwater environments with scuba gear that looks very authentic, and co-protagonist Lucia's high-thread-count gym gear--maybe Jason could learn a thing or two from her about proper gym etiquette. The screenshots also show off Rockstar's technical skills for camera angles, lighting effects, and reflections, making each scene pop when you start to examine them closely. If these screenshots are a solid indicator of what to expect, it looks like GTA 6 could be one of the
-
-### Ratchet & Clank Game Shutting Down Before Ever Fully Launching
-Fri, 06 Nov 2026 16:09:00 +0000 — https://www.gamespot.com/articles/ratchet-clank-game-shutting-down-before-ever-fully-launching/
-
-Sony Interactive Entertainment and French developer Oh BiBi have announced Ratchet & Clank: Ranger Rumble, a phone and tablet game, is coming to a close before it was even released fully. In a statement , the developers said the game's final update is coming today, November 6, and the game itself will be removed from digital stores on November 21, 2026. No information was provided as to why Ranger Rumble is shutting down. The game soft-launched in 2025 in limited territories, and expanded to more markets, but it's no longer going ahead with a full global release. People who already have the game installed can keep playing until May 1, 2027, which is when the game's servers permanently close. Once the servers are shut down, the game will be completely unplayable. Ranger Rumble is described as a "fast-paced multiplayer platformer arena shooter" where you battle others on a quest to become a galactic ranger. https://www.youtube.com/watch?v=AlblXRS14Mg In-app purchases have been removed from Ranger Rumble, and if you have a balance of currency, you should spend it before May 1, 2027. Alternatively, you can seek a refund from Apple’s App Store or Google Play . "On behalf of the dev team and everyone helping to make the game, thanks to our amazing community for all your support, especially to those who have spent time playing, sharing feedback, and helping shape Ranger Rumble throughout its development," the developer said. The latest entry in the mainline Ratchet & Clank series wa
-
-### Head Of GTA 6 Owner Reveals His Advice To Be Healthy, Fit, And Live A Long Time
-Fri, 06 Nov 2026 15:09:40 +0000 — https://www.gamespot.com/articles/head-of-gta-6-owner-reveals-his-advice-to-be-healthy-fit-and-live-a-long-time/
-
-Strauss Zelnick, the head of Rockstar Games owner Take-Two, is known for his dedication to health and fitness. In 2018, he published a book titled Becoming Ageless: The Four Secrets To Looking and Feeling Younger Than Ever, and images of the executive looking shredded and lean at 8% body fat have circulated online. Zelnick has now spoken more about his health and fitness lifestyle, and offered some advice for people who want to get in shape and feel better. Zelnick started off by telling Business Insider that he's good friends with Bryan Johnson, the billionaire who is trying to live forever, but Zelnick doesn't subscribe to the kinds of things Johnson is trying to do in terms of longevity in that regard. Instead, Zelnick said he got some advice from his former doctor, the celebrity longevity doctor Peter Attia who appeared in the Epstein files , who told him he could help him with his healthspan but not his lifespan, and Zelnick was into that. In 2016, Zelnick filmed a video for Business Insider where he showed off his workout routine--you can see it below. https://www.youtube.com/watch?v=lhCRcB_k0W8 Zelnick said his No. 1 piece of advice for anyone trying to improve their health is to avoid smoking altogether. "Smoking is the factor most highly correlated with a short, unhealthy, and frankly unhappy life. Don't smoke." Second, Zelnick said people should not abuse alcohol and drugs. "Those are the two most highly correlated factors with a bad old age, or no old age," he said
-
-### Bill Skarsgard Didn t Need Much Convincing To Join Hideo Kojima s Physint
-Fri, 06 Nov 2026 15:01:47 +0000 — https://www.gamespot.com/articles/bill-skarsgard-didnt-need-much-convincing-to-join-hideo-kojimas-physint/
-
-Hideo Kojima's Physint has a leading man in Bill Skarsgård, and the Hollywood actor recently spoke more about his part in the game. Billed as a spiritual successor to Kojima's Metal Gear Solid franchise, Physint is an action-espionage game that features Skarsgård alongside several other actors, like Charlee Fraser, Don Lee, and Minami Hamabe. Skarsgård's love for the Metal Gear Solid franchise and a chance to work with Kojima proved to be the deciding factors in taking on the role of the unnamed Physint protagonist. "I played every single one," Skarsgård said to Josh Horowitz on the Happy Sad Confused podcast . "Starting from the one on PlayStation One all the way to the last one. I was very enamored by him [Kojima], the mythology and the universes that he creates, but also the mystique and the allure about him, as well. He is an auteur, but he's a video game auteur. He's fluent in filmmaking, and film, and cinema." https://youtu.be/7dyrwLAH6Mg?t=2819 Skarsgård believes that Kojima's cinematic video games are a new medium that he's pioneering, and with Physint, the developer is getting closer to "something that's photorealistic and also interactive," the actor said. "I think he's a pioneer, and he keeps going out to untreaded waters." Kojima is also a fan of Skarsgård, and he recently spoke about how he was introduced to him through a mutual acquaintance, Death Stranding 2: On the Beach composer Yoann "Woodkid" Lemoine. After traveling to Sweden to meet Skarsgard and his fami
-
-### Nier Automata s File Size Now Reflects How Good It Is
-Fri, 06 Nov 2026 14:42:57 +0000 — https://www.gamespot.com/articles/nier-automatas-file-size-now-reflects-how-good-it-is/
-
-Nier Automata is my favorite game of all time, and I've been telling everyone I know to play it for nearly a decade. On PC, however, Square Enix accidentally made that a little bit more difficult, because the game's latest patch ballooned the game's file size by more than 600%. The update, tested by RPG Site , takes what was a pretty reasonable 50GB file size and raises it to 366GB. It appears to be incorrectly assigning a file size of more than 40GB to each piece of DLC. The patch itself was supposed to simply add three new languages to the Steam version: Simplified Chinese, Traditional Chinese, and Korean. https://www.youtube.com/watch?v=eIMZYgb85xg "We are currently investigating the cause and working to resolve the issue. We apologize for the inconvenience," Square Enix said in a post on Steam . Because the giant file size is linked to the different pieces of DLC, you can temporarily resolve the issue by going to "Properties" and "DLC" on Steam and unselecting them. Of course, this also means you won't be able to enjoy that DLC, so if you mostly want to fight the former CEO of Square Enix in the game, you're going to have to wait. As for what's next for the Nier series, Square Enix and director Yoko Taro have been pretty hush-hush, but Automata has been an immense success. As of February 2026, it had sold more than 10 million units. An anime adaptation is also available now on Crunchyroll.
-
-### We Failed, Take-Two Boss Says Of The Mega-Flop Borderlands Movie
-Fri, 06 Nov 2026 14:19:05 +0000 — https://www.gamespot.com/articles/we-failed-take-two-boss-says-of-the-mega-flop-borderlands-movie/
-
-2024's Borderlands movie was a massive flop at the box office, and Take-Two's CEO has now reacted to this, readily acknowledging, "We failed." Speaking at Business Insider Live , Strauss Zelnick said Take-Two's mission is to "make the best entertainment on Earth," and with the Borderlands film, the company failed to meet that mark. He said the company "tried incredibly hard" on the Borderlands movie, and pointed out that Take-Two didn't actually lose any money on it because Lionsgate funded it. "But I am here to tell you, it was not the best entertainment on Earth. We failed," he said. The Borderlands movie featured a stacked cast of big names, including Cate Blanchett as Lilith, Kevin Hart as Roland, Jack Black as the voice of Claptrap, Ariana Greenblatt as Tiny Tina, and Jamie Lee Curtis as Tannis. The film was directed by Eli Roth, with Tim Miller stepping in for reshoots. The Borderlands movie made just $15.5 million in the US and $17.5 million internationally for a total of only about $33 million worldwide. https://www.youtube.com/watch?v=M42sC7MMGB0 Zelnick said this in response to a question about why Take-Two doesn't do more in terms of adapting its franchises for film, TV, theme parks, and live events. He said Take-Two is "very selective" when it comes to these kinds of projects. "If our mission is to make the best entertainment on Earth, we only want to make a movie if it's going to be the best entertainment on Earth," he said. But with the Borderlands film, Zelnick
-
-### Nintendo’s Wisest Investment Continues To Pay Off With Zelda: Ocarina Of Time
-Fri, 06 Nov 2026 14:02:51 +0000 — https://www.gamespot.com/articles/zelda-ocarina-of-time-remake-involved-xenoblade-chronicles-creator-monolith-soft/
-
-We should acknowledge that Monolith Soft isn't just a Xenoblade developer, but also a major supporter of The Legend of Zelda franchise. The studio confirmed on X that it assisted with programming and graphics (per a machine translation) on the Ocarina of Time remake . This marks the fifth time the team has contributed to a mainline Zelda title, starting with 2011's Skyward Sword . There were a lot of theories in the past couple of months about what team was behind The Legend of Zelda: Ocarina of Time on Switch 2--especially considering the visual overhaul and the Internet's reaction . Earlier this week, Nintendo revealed that its internal team responsible for Breath of the Wild and Tears of the Kingdom, Entertainment Planning & Development (EPD) Production Group No. 3, was responsible for the remake. We now know that Monolith Soft also pitched in, as the team did with the two Switch mainline entries, too. In 2007, Nintendo acquired Monolith Soft from Bandai Namco , with the developer at the time working on Disaster: Day of Crisis for Wii. The studio was probably best known for the Xenosaga series, but it's doubtful anyone could predict how prolific Monolith Soft would become over the past 19 years. Just looking at Monolith Soft's portfolio , the developer has already contributed to three Switch 2 heavy hitters: Ocarina of Time, Splatoon Raiders, and Mario Kart World . This is all in addition to overseeing and creating the Xenoblade franchise, with Xenoblade Genesis planned fo
-
-### Stellar Blade On Switch 2 Looks Like A Great Port, Until You Start Fighting
-Fri, 06 Nov 2026 13:46:33 +0000 — https://www.gamespot.com/articles/stellar-blade-on-switch-2-looks-like-a-great-port-until-you-start-fighting/
-
-There's no denying that Stellar Blade is one seriously good-looking game. On Switch 2, it runs surprisingly well on Nintendo's hybrid system, and it'd be a perfect port if it wasn't for one glaring issue that holds it back. On the surface, Stellar Blade looks like a smooth port with few compromises, as it still offers plenty of graphical detail at a lower resolution. Stellar Blade on Switch 2 also targets 60fps, but in order to achieve that, it uses a very aggressive form of frame generation to create a smooth sense of action. The problem with this is that it makes the game harder to play, because your actions are delayed. https://youtu.be/9zr4QK15BNs Parries and dodges require perfect timing, and because the game is delayed, pressing a button right as an enemy hits you is often too late, causing you to take damage. This also means that controlling the protagonist Eve feels somewhat sluggish, navigating the environments feels sluggish, and during chaotic fights, the game can lag so badly that it feels like your controller is completely ignoring your inputs. This is at odds with how the game teaches you to master its gameplay, as the natural rhythm you're supposed to pick up alongside visual cues simply does not match up with the delicate timing needed to pull off counters and parries. Because Stellar Blade is an action game that's tightly centered on strict frame windows for counters and dodges--think of it as being soulslike-adjacent with its combat--the disconnect between t
 
 ## Rock Paper Shotgun
 
@@ -431,24 +343,4 @@ Early last month, Star Wars Zero Company developer Bit Reactor brought back a nu
 Sat, 07 Nov 2026 08:00:00 +0000 — https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-407
 
 This is the last empty weekend before I go on holiday for a frankly indulgent three weeks. As such, it will likely be spent either remembering all the things my partner and I've not organised for the time we're away or racing to clear through the pile of things I've already remembered I've not organised for the holiday. Whatever the case, it shall not be restful. Where am I going? Let's just say, I hope to return with some new pairs of glasses and a pair of trainers. If that doesn't give it away, I don't know what will.* Read more
-
-### Real-time strategy game The Fertile Crescent 2 is an isometric odyssey inspired by Age of Empires, with the 1.0 release out now
-Fri, 06 Nov 2026 17:20:50 +0000 — https://www.rockpapershotgun.com/real-time-strategy-game-the-fertile-crescent-2-is-an-isometric-odyssey-inspired-by-age-of-empires-releasing-out-of-early-access-now
-
-Age of Empires -influenced real-time strategy game The Fertile Crescent 2: Collapse of the Bronze Age leaves early access today, publishers MicroProse have announced, with the 1.0 version adding the final chapters of the singleplayer story. You'll also get your grubby fingers on the very same map editor developers Wield Interactive used to design the campaign. I'm new to The Fertile Crescent 2 myself. I do like the sound of a strategy sim in which you guide a fugitive community through the Late Bronze Age Collapse. The land has been thrown into turmoil by the arrival of the Sea People, this being a loose historical term for assorted ocean-going migrants who, I gather, are often blamed for the crumbling of the Hittites among other once-glorious Bronze Age powers. I don't have much scholarly insight to share - I thought the "Sea People" referred to expansionist mermaids, at first - but I do have a trailer. Read more
-
-### I just found out you can use your Steam Wishlist to search for deals on games outside of Steam, saving my nephew more than £40 on Total War: Warhammer 3
-Fri, 06 Nov 2026 15:45:00 +0000 — https://www.rockpapershotgun.com/i-just-found-out-you-can-use-your-steam-wishlist-to-search-for-deals-on-games-outside-of-steam-saving-my-nephew-more-than-40-on-total-war-warhammer-3
-
-I may be very late to the party with this discovery, but I only just realised you can connect your Steam Wishlist to a third-party deals tracker. The beauty of which is that, once hooked up, you can see what games you've been pining for are going cheap not just on Steam but through any major shopfront across the internet. I worry that I will be coming across as 'Use this one trick to save money &ndash; greengrocers hate it!', but it's already helped save my nephew more than &pound;40. Even if it meant using a slightly underhand method. Read more
-
-### Terrific fantasy RPG Queen's Domain gets first proper update, adding a new throwing weapon and options to make puzzles "less frustrating"
-Fri, 06 Nov 2026 14:58:30 +0000 — https://www.rockpapershotgun.com/terrific-fantasy-rpg-queens-blade-gets-first-proper-update-adding-a-new-throwing-weapon-and-options-to-make-puzzles-less-frustrating
-
-Extremely good King's Field-style RPG Queen's Domain &ndash; or is it a Metroid Prime homage? Or a stealth Morrowind-up? We hacks simply cannot decide &ndash; has received its first proper patch, adding a hitherto "missing" throwing weapon, the Grave Knife, alongside a bunch of quality-of-life fixes. They've stirred in the ability to disable screenshake, alongside some new icons to make status effects more obvious. They've also introduced "options to make some late game puzzles less frustrating", though they don't specify which. How frustrating! Still, it's a tidy overhaul for a game that has rapidly become one of my 2026 favourites . Read more
-
-### Airframe Ultra's PS1 cyberpunk city is an amazing tribute to G-Police and WipEout, and I wish you people would slow down to appreciate it
-Fri, 06 Nov 2026 14:00:00 +0000 — https://www.rockpapershotgun.com/airframe-ultras-ps1-cyberpunk-city-is-an-amazing-tribute-to-g-police-and-wipeout-and-i-wish-you-people-would-slow-down-to-appreciate-it
-
-I do not wish to "rule the streets" of Megacity West, dear creators of Airframe Ultra . I wish to be ravished by them, rubbing my face against the rusty corrugated metal of the shipping containers, and savouring the acid blue waters of the bay. I do not want to "become the one thing with freedom in a city of billions: A racer." I want to become the other thing with freedom in a city of billions: a person who slowly drives or &ndash; whisper it - walks around just looking at stuff, because gadzooks, this is one of the prettiest PS1 cyberpunk burgs I've laid eyes on. Those eroded pastel chevrons. Those seductively wobbling vertices. That electric reef of a downtown backdrop, murderously luring your gaze from the on-coming trucks. That layer of invigorating crackle over everything. Every moment or so, I dismount from my hoverbike to inspect some concrete ruin I could swear I last saw in G-Police, or ponder the resemblance between a subway tunnel and WipEout 2097's Gare d'Europa. Then, somebody waps me in the skull with a stop sign at 300 kilometres an hour. But I was already stopped, frantic stranger! Your brutal poetic ironies are wasted on me. Read more
 

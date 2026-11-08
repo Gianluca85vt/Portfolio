@@ -1,16 +1,41 @@
-# Film & TV — harvested 2026-11-08T11:31:08.861Z
+# Film & TV — harvested 2026-11-08T18:29:41.038Z
 
 ## Variety
+
+### Sanfic Prizes: ‘Monguen’ and ‘Narciso” Win at Pared-Back Ceremony Due to Sudden Demise of ‘A Fantastic Woman’ Director Sebastian Lelio
+Sun, 08 Nov 2026 18:27:06 +0000 — https://variety.com/2026/film/global/sanfic-prizes-monguen-narciso-sebastian-lelio-remembered-1236942162/
+
+The unexpected demise Nov. 6 of Chile’s Oscar-winning Sebastián Lelio (“A Fantastic Woman”) cast a pall over the closing ceremonies of both the festival and industry section of the Santiago Film Festival (Sanfic), which wraps Nov. 8. The red carpet portions of the industry and festival ceremonies held Nov. 6 and 7, respectively, were cancelled. [ ]
+
+### Judi Dench Says Vin Diesel Sent Her Flowers ‘the Length of a Kayak to Persuade Her to Join ‘The Chronicles of Riddick’: I’m ‘Far Too Easily Wooed’
+Sun, 08 Nov 2026 18:08:07 +0000 — https://variety.com/2026/film/news/judi-dench-reveals-she-was-wooed-1236942417/
+
+Judi Dench can’t say no to a big bouquet of flowers, especially if they’re kayak-sized and come from Vin Diesel. “He came to see me at the Haymarket Theatre to ask if I’d be in ‘The Chronicles of Riddick,’” Dench wrote in her new memoir, “Is It Too Late to Make a Run for It?” [ ]
+
+### Box Office: You Can See Everything Becomes Second-Biggest Doc Ever in North America With $80 Million
+Sun, 08 Nov 2026 17:52:33 +0000 — https://variety.com/2026/film/box-office/you-can-see-everything-second-highest-grossing-documentary-north-america-box-office-1236942385/
+
+You Can See Everything has remained a box office juggernaut, powering to $80 million in North America after just four weekends of release. At this rate, A24 s red-hot movie about Theranos fraudster Elizabeth Holmes is primed to surpass $100 million domestically, a hugely impressive milestone for a nearly three-hour documentary. Over the weekend, You Can [ ]
+
+### Cineplex Boards Sanfic Title ‘La Residencia’ From ‘Algo Azul Director Mariel García Spooner
+Sun, 08 Nov 2026 17:12:50 +0000 — https://variety.com/2026/film/global/cineplex-la-residencia-mariel-garcia-spooner-algo-azul-1236941270/
+
+Latin American distributor Cineplex has picked up both North and South American sales rights to “La Residencia,” Mariel Garcia Spooner s follow up to hit Algo Azul. La Resdemcia has just participated in the Sanfic Industria s WIP Iberoamericana section, a competition of films from Latin America, Spain and Portugal screened in post-production at the industry arm [ ]
+
+### Box Office: Godzilla Minus Zero Roars With $31 Million Debut, Cat in the Hat Fizzles With $20 Million
+Sun, 08 Nov 2026 16:01:33 +0000 — https://variety.com/2026/film/box-office/godzilla-minus-zero-box-office-opening-weekend-cat-in-the-hat-fizzles-1236942363/
+
+The Cat in the Hat was no match for the mighty Godzilla. Godzilla Minus Zero climbed to the top of box office charts with $31.6 million from 3,254 theaters, a roaring start for a foreign-language epic in North America. Meanwhile, The Cat in the Hat stumbled with $20 million from 4,003 locations, a weak debut [ ]
+
+### How to Watch Trump s 60 Minutes Interview Online
+Sun, 08 Nov 2026 14:00:00 +0000 — https://variety.com/2026/shopping/news/how-to-watch-trump-60-minutes-interview-live-online-1236941457/
+
+President Donald Trump is set to appear on Sunday s edition of “60 Minutes” for his first in-depth interview since Republicans suffered sweeping losses in Tuesday s midterm elections. The president is scheduled to sit down with CBS News correspondent Ross Douthat on Friday, with the interview slated to air Nov. 8. According to CNN, CBS News [ ]
 
 ### Taiwan’s Content Agency and Partners Put $180 Million Into 27 Projects, From an ‘Our Blues’ Remake to an Off-Broadway Musical
 Sun, 08 Nov 2026 09:04:48 +0000 — https://variety.com/2026/film/asia/taiwan-content-agency-partners-180-million-27-projects-1236942318/
 
 The Taiwan Creative Content Agency (TAICCA) and its partners have invested in 27 projects, backed by NT$5.64 billion ($180 million) in total, including NT$740 million ($23.7 million) from the agency and NT$4.9 billion ($157 million) in private capital, TAICCA chair Sue Wang said at the Taiwan Creative Content Fest (TCCF). TAICCA brought together its four [ ]
-
-### Indonesian Horror Hit Pabrik Gula Gets 2028 Sequel as MD Entertainment Lines Up Three Imax Films
-Sun, 08 Nov 2026 08:11:55 +0000 — https://variety.com/2026/film/markets-festivals/indonesian-horror-pabrik-gula-2028-sequel-1236942313/
-
-Indonesian studio giant MD Entertainment will release a sequel to its 2025 horror smash “Pabrik Gula” in early 2028 and has three Imax films planned for 2027, Astrid Wienardi, the company’s head of content licensing and global business, said Sunday at Taiwan Creative Content Fest (TCCF) in Taipei. Wienardi delivered a presentation on how MD [ ]
 
 ### ‘SNL’ Weekend Update Brutally Roasts Elon Musk Over Epic’ Midterms Defeat
 Sun, 08 Nov 2026 05:57:06 +0000 — https://variety.com/2026/tv/news/snl-weekend-update-elon-musk-midterms-election-1236942283/
@@ -27,32 +52,27 @@ Sun, 08 Nov 2026 05:00:40 +0000 — https://variety.com/2026/tv/news/emma-stone-
 
 When Druski was announced as a future host of “Saturday Night Live,” it was its most interesting move in quite some time. The sketch-comedy show had tapped its first exclusively digital creator (who hadn’t experienced crossover success, a la Issa Rae or Quinta Brinson) to serve as its master of ceremonies, marking its first major [ ]
 
-### James Talarico Crashes ‘SNL’ Cold Open: ‘I’m the Guy Who’s Been Texting You Every Day Asking for $5’
-Sun, 08 Nov 2026 04:53:48 +0000 — https://variety.com/2026/tv/news/james-talarico-saturday-night-live-snl-cold-open-election-1236942257/
-
-Newly elected Texas Sen. James Talarico crashed this week’s “Saturday Night Live” cold open in order to ask the question on everyone’s mind: How many more of these “Donald-Trump-freezes-the-action-to-ramble” cold opens is “SNL” going to do? Responded “Donald Trump” (James Austin Johnson): “Infinity! Talarico popped up near the end of the cold open to cheers [ ]
-
-### Former NCT Member Lucas Wong Makes Acting Debut in Taiwanese Folk-Music Drama A Time With Jerry Yan, Ning Chang at Taiwan Creative Content Fest
-Sun, 08 Nov 2026 04:47:28 +0000 — https://variety.com/2026/film/markets-festivals/nct-lucas-wong-acting-debut-taiwan-drama-a-time-1236942261/
-
-Taiwanese director Tsao Jui-yuan unveiled his new drama series “A Time,” rooted in Taiwan’s campus folk music movement of the 1970s, at the Taiwan Creative Content Fest (TCCF). Tsao, known for “Crystal Boys,” “A Touch of Green” and “Seqalu: Formosa 1867,” spent eight years developing the project, which traces four decades of friendship, love and [ ]
-
-### The Undertaker Director Thiti Srinuan Reveals He Defecated on Camera for Real as an Actor in Thailand s Taibaan Universe
-Sun, 08 Nov 2026 04:32:51 +0000 — https://variety.com/2026/film/markets-festivals/undertaker-director-reveals-defecated-on-camera-for-real-1236942252/
-
-Thiti “Tongte” Srinuan, director of Thai blockbuster “The Undertaker,” put up a photo of himself defecating on camera for real during a session at Taiwan Creative Content Fest in Taipei. The scene dates from his days as a supporting actor with Taibaan Studio. “I was a supporting actor, and I played a crazy person,” Srinuan [ ]
-
-### Cristian Mungiu s Palme d Or Winner Fjord Takes Jakarta World Cinema Audience Award as Short Film Winners Land Debut Feature Funding
-Sun, 08 Nov 2026 03:50:26 +0000 — https://variety.com/2026/film/festivals/palme-dor-winner-fjord-jakarta-world-cinema-audience-award-1236942247/
-
-Cristian Mungiu’s Palme d’Or winner “Fjord” took the audience award at Jakarta World Cinema, which wrapped with Banjong Pisanthanakun’s Thai horror film “Inherit” and handed three Indonesian short filmmakers funding for their first features. “Fjord,” which also opened the festival, won the Jakarta World Cinema Audience Award, the event’s only feature prize. The closing ceremony [ ]
-
-### The Invisible Guest Remake Director Danial Rifki on Suharto-Era Fear and Why His New Thriller Is About How to Fight Back
-Sun, 08 Nov 2026 03:21:16 +0000 — https://variety.com/2026/film/festivals/invisible-guest-remake-director-suharto-era-fear-fighting-back-1236942189/
-
-Indonesian director Danial Rifki’s remake of Spanish thriller “The Invisible Guest,” which he says was completed in 2023 before exclusivity clauses with HBO held up its release, finally reached the big screen at Jakarta World Cinema. It is one of three Rifki films at the festival. The Falcon Pictures production, which reworks Oriol Paulo’s 2016 [ ]
-
 ## The Hollywood Reporter
+
+### THR Visionary: 5 Janusz Kaminski Shots
+Sun, 08 Nov 2026 17:05:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/thr-visionary-janusz-kaminski-five-visual-styles-1236750395/
+
+The cinematographer, this year’s THR Visionary Award honoree, always lets film follow function, choosing a visual style to match the story being told.
+
+### Godzilla Minus Zero Powers $31M in Historic Box Office Launch Against Subdued Cat in the Hat
+Sun, 08 Nov 2026 16:56:35 +0000 — https://www.hollywoodreporter.com/movies/movie-news/godzilla-minus-zero-box-office-opening-the-cat-in-the-hat-1236750019/
+
+The sequel to 2023's 'Godzilla Minus One' made noise as 'Ramayana' and 'Wild Horse Nine' also debuted.
+
+### Where to Watch the 2026 NASCAR Cup Series Championship Race Live Online
+Sun, 08 Nov 2026 16:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/watch-nascar-cup-series-championship-race-2026-free-stream-1236750096/
+
+The 2026 season finale is set for Sunday, Nov. 8 at Homestead-Miami Speedway.
+
+### Janusz Kaminski, the Polish Cameraman Who Taught Hollywood How to See
+Sun, 08 Nov 2026 13:45:00 +0000 — https://www.hollywoodreporter.com/movies/movie-features/janusz-kaminski-thr-visionary-cinematographer-award-1236750373/
+
+The cinematographer behind 'Schindler's List,' 'Saving Private Ryan' and 'The Diving Bell and the Butterfly' is THR's Visionary of the Year.
 
 ### To Make a Doc About a Nomadic Cyclist, the Perfect Road Filmmakers Spent 3 Months in a Campervan
 Sun, 08 Nov 2026 11:01:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/perfect-road-doc-film-directors-spent-months-in-campervan-poff-1236744367/
@@ -84,37 +104,37 @@ Sun, 08 Nov 2026 04:53:13 +0000 — https://www.hollywoodreporter.com/tv/tv-news
 
 The Oscar winner and comedian will co-star in the Universal Pictures rom-com The Catch, which hits theaters on May 21, 2027.
 
-### 2026 LACMA Art+Film Gala Photos: Nicole Kidman, Sarah Paulson, Viola Davis, Andrew Garfield, Rosé and More Stars
-Sun, 08 Nov 2026 04:02:36 +0000 — https://www.hollywoodreporter.com/gallery/2025-lacma-art-film-gala-photos-andrew-garfield-sofia-vergara-1236750141/
-
-Quinta Brunson, Anya Taylor-Joy, Sofía Vergara, Kylie Jenner, Parker Posey, Anya Taylor-Joy, Anthony Ramos, Tyriq Withers, Denis Villeneuve and Paris Hilton were also in attendance at the star-studded event.
-
-### Jennifer Welch and Angie Sullivan Apologize for Laughing at Insensitive Joke About Charlie Kirk on I ve Had It Podcast
-Sun, 08 Nov 2026 03:08:35 +0000 — https://www.hollywoodreporter.com/news/general-news/jennifer-welch-angie-sullivan-apologize-charlie-kirk-1236750136/
-
-"We regret it, and we apologize. Whatever our political differences, there is nothing funny about gun violence," they wrote in a joint statement on Saturday.
-
-### Camerimage Founder Marek Zydowicz on AI, Aronofsky and Why Cinematographers Are Artists, Not Technicians
-Sun, 08 Nov 2026 00:11:43 +0000 — https://www.hollywoodreporter.com/movies/movie-news/camerimage-founder-marek-zydowicz-ai-aronofsky-cinematographers-1236749343/
-
-As Camerimage turns 34, its director explains how the world's leading festival on the art of cinematography continues to embrace new technology while drawing the line on fully AI-generated films.
-
-### Bill Skarsgard Says He s Spent Playing Bad Guys but Would Still Play a James Bond Villain
-Sat, 07 Nov 2026 20:28:15 +0000 — https://www.hollywoodreporter.com/movies/movie-news/bill-skarsgard-james-bond-villain-bad-guy-roles-1236750077/
-
-The 'Nosferatu' star also said he wasn't approached to play the next 007: "I wasn't even thrown into the mix."
-
 ## Deadline
+
+### Benito Skinner Teases 2016 Millennial Hopecore For Overcompensating Season 2: Sorry For The Wait
+Sun, 08 Nov 2026 18:19:30 +0000 — https://deadline.com/2026/11/benito-skinner-2016-millennial-hopecore-overcompensating-season-2-1237216771/
+
+While taking audiences back to the 2010s for Overcompensating, Benito Skinner wants to embrace a simpler time. The series creator and star explained that with Season 2, which Prime Video ordered last September, the show is really going like 2016 millennial hopecore with its approach to the decade. I hope people like Season 2. We ve [ ]
+
+### Godzilla Minus Zero Is King Of The Global Weekend Box Office With $63M, Towers Over Ramayana s $55M+ WW Opening
+Sun, 08 Nov 2026 16:37:33 +0000 — https://deadline.com/2026/11/box-office-global-godzilla-minus-zero-ramayana-rise-of-a-legend-1237216698/
+
+Refresh for more Toho s lizard had no plans to be undone by a Hindu diety in a fight at the global box office as Godzilla Minus Zero roared $63M WW over Prime Focus Studio and Sony s Ramayana: Rise of a Legend s $55.7M global, the bulk of that gross in India. Ramayana had good fortune in Europe, [ ]
+
+### SNL Makes Grok Do Epic Vulgar Roast Of Elon Musk On Weekend Update : The Worst Thing South Africa Has Ever Done
+Sun, 08 Nov 2026 16:35:37 +0000 — https://deadline.com/2026/11/snl-grok-epic-vulgar-roast-elon-musk-weekend-update-1237216693/
+
+Elon Musk has returned to Saturday Night Live, through Jeremy Culhane s hilarious impression, to give a postmortem of the midterm elections. As Weekend Update co-anchor Colin Jost noted, Musk has been in the news after he wasted half a billion dollars on backing candidates who lost, but the trillionaire disagreed with that take. No, I m [ ]
+
+### Tom Rob Smith Writing Fiction Book Based On West Memphis Three Murder Case — Thessaloniki
+Sun, 08 Nov 2026 14:48:47 +0000 — https://deadline.com/2026/11/tom-rob-smith-west-memphis-three-murder-case-book-1237216655/
+
+British writer Tom Rob Smith led an enlightening Q A session on the difference between writing prose fiction and writing for the screen this afternoon at the Thessaloniki Film Festival, where he is one of the headline speakers. During the session, the Emmy winner, best known for the novel Child 44 and the series The Assassination [ ]
 
 ### ‘Our Blues’, ‘Midnight Diner’ ‘C’Est La Vie’ Among Projects Backed By TAICCA Joint Venture Funds
 Sun, 08 Nov 2026 06:59:29 +0000 — https://deadline.com/2026/11/our-blues-midnight-diner-taicca-joint-venture-funds-1237216640/
 
 Four content funds, jointly established by Taiwan Creative Content Agency (TAICCA) and local companies, presented the projects they’ve been investing in over the past year in a TCCF showcase today. The line-up from the four funds – Chunghwa Digital Cultural and Creative Fund, Momomini Kids Content Fund, Joint Journey Creative and Enjoy Entertainment – include [ ]
 
-### Druski Serves Elizabeth Holmes Whiteface In Dru Can See Everything Sketch During SNL Debut
+### Druski Does Elizabeth Holmes Whiteface In Dru Can See Everything Sketch During SNL Debut
 Sun, 08 Nov 2026 05:09:43 +0000 — https://deadline.com/2026/11/druski-elizabeth-holmes-whiteface-dru-can-see-everything-snl-1237216571/
 
-Shortly after joking that he couldn t promise Saturday Night Live he d do no whiteface, Druski channeled Elizabeth Holmes. On Saturday s episode of the NBC sketch comedy show, the content creator quickly delivered one of the funniest sketches of the season as he played himself in the sketch Dru Can See Everything, which imagines Holmes (Jane [ ]
+Shortly after joking that he couldn t promise Saturday Night Live he d do no whiteface, Druski channeled his inner Elizabeth Holmes. On Saturday s episode of the NBC sketch comedy show, the content creator quickly delivered one of the funniest sketches of the season as he played himself in the sketch Dru Can See Everything, which imagines [ ]
 
 ### Emma Stone Joins Druski For His SNL Debut Opening Monologue While Filming The Catch Rom-Com
 Sun, 08 Nov 2026 04:54:25 +0000 — https://deadline.com/2026/11/emma-stone-joins-druski-snl-debut-opening-monologue-1237216552/
@@ -146,26 +166,6 @@ Sun, 08 Nov 2026 00:00:00 +0000 — https://deadline.com/2026/11/chang-chen-choi
 
 Taiwanese telco Chunghwa Telecom announced a slate of film and series investments at Taiwan Creative Content Fest (TCCF), including police crime drama Gunshot, starring Kent Tsai, and Call Of Lobster, starring Choi Siwon and Chang Chen. Chunghwa is one of three Taiwanese telcos that are investing in film and TV content through funds launched in [ ]
 
-### Christopher Nolan On DGA Holding The Studios To Account In Protecting Copyright From AI, Including Anti-AI Boilerplate In The Odyssey
-Sat, 07 Nov 2026 23:40:57 +0000 — https://deadline.com/2026/11/christopher-nolan-dga-holding-studios-account-protecting-ai-1237216368/
-
-Halfway into his first time as DGA president, Christopher Nolan is holding the studios feet to the fire in protecting copyrighted materials from AI. In a new interview, the 2x Oscar winner explained that it s down to the studios to go after AI recreations of their work, noting that he was very pleased his current [ ]
-
-### MSG Says Macklemore Is Not An Arena Level Act After Turning Down Free Palestine Tour
-Sat, 07 Nov 2026 23:01:18 +0000 — https://deadline.com/2026/11/msg-macklemore-not-arena-level-act-free-palestine-tour-1237216363/
-
-After Macklemore called out some of the venues that would not host his Free Palestine Tour, Madison Square Garden has responded. In a recent statement, an MSG spokesperson claimed the decision to reject the tour was due to extremely limited availability and the fact that he s not an arena level act, despite quickly selling out [ ]
-
-### UFC s Dana White As White House Press Secretary? Trump Says Please Take The Job!
-Sat, 07 Nov 2026 20:40:01 +0000 — https://deadline.com/2026/11/dana-white-donald-trump-1237216350/
-
-UPDATED: Donald Trump says he has offered the job of White House press secretary to UFC President and CEO Dana White, a violent Fighter and Warrior, in the president s words. It was not immediately clear whether Trump was joking, trolling, both or neither. If White accepts the gig, he would fill the vacancy left when [ ]
-
-### Heated Rivalry Hat Trick: Hit Series Filming Season 2, Season 3 And A Movie The Dish
-Sat, 07 Nov 2026 19:53:03 +0000 — https://deadline.com/2026/11/heated-rivalry-season-2-season-3-movie-scott-kip-1237216072/
-
-EXCLUSIVE: Heated Rivalry fans who have been eagerly awaiting Season 2 of Crave s hockey series are in for a great surprise. The hugely popular romantic drama starring Connor Storrie and Hudson Williams has not one but two six-episode seasons on the way, sources tell Deadline. And that s not all, there is a movie coming up, [ ]
-
 ## befores & afters
 
 ### Behind the scenes on Ramayana
@@ -174,6 +174,21 @@ Sat, 07 Nov 2026 18:51:02 +0000 — https://beforesandafters.com/2026/11/08/behi
 On-set footage, including mocap work. The post Behind the scenes on Ramayana appeared first on befores & afters .
 
 ## IndieWire
+
+### Box Office: You Can See Everything Hits $80 Million, Becoming A24 s Third-Biggest Domestic Release
+Sun, 08 Nov 2026 18:28:07 +0000 — https://www.indiewire.com/news/box-office/you-can-see-everything-a24-third-biggest-domestic-release-1235226144/
+
+The Elizabeth Holmes doc has also surpassed "March of the Penguins."
+
+### Box Office: Godzilla Minus Zero Thunders with $31.6 Million, Scoring the Biggest Debut Ever for a Live-Action, Foreign Language Film
+Sun, 08 Nov 2026 16:21:19 +0000 — https://www.indiewire.com/news/box-office/box-office-godzilla-minus-zero-debut-record-foreign-film-1235226132/
+
+"Godzilla Minus Zero" continues a streak of unlikely blockbusters and shows moviegoers don't care about subtitles.
+
+### Dylan Skolnick Returning as Co-Director of the Cinema Arts Centre Following Protests and Boycotts
+Sun, 08 Nov 2026 14:31:52 +0000 — https://www.indiewire.com/news/general-news/dylan-skolnick-returning-director-cinema-arts-centre-protests-1235226136/
+
+The leader of the Long Island cultural institution was fired in September for what the board described as "serious misconduct."
 
 ### Eric Bauza s Final Looney Tunes Performance Is Daffy Season, Now in Theaters Ahead of The Cat in the Hat
 Sat, 07 Nov 2026 01:30:00 +0000 — https://www.indiewire.com/news/business/eric-bauza-final-looney-tunes-film-in-theaters-dies-1235226076/
@@ -215,29 +230,34 @@ Fri, 06 Nov 2026 18:38:34 +0000 — https://www.indiewire.com/news/breaking-news
 
 Lelio, who was found dead at his home in Santiago amid a health issue, also directed "Gloria" star Paulina García to a Silver Bear win in 2013 before remaking the film as "Gloria Bell" with Julianne Moore in 2018.
 
-### The Johnny Depp Comeback Hits Judgment Day with Ebenezer : How Paramount Is Carefully Reintroducing the Controversial Star
-Fri, 06 Nov 2026 18:00:00 +0000 — https://www.indiewire.com/features/general/johnny-depp-comeback-paramount-ebenezer-promotion-controversy-1235225408/
-
-The studio has promoted the Christmas film with in-character stunts and an intimate preview screening, emphasizing Depp's big performance over his personality.
-
-### Box Office: Godzilla Minus Zero Roars with $6.7 Million in Previews, Ramayana: Rise of a Legend Earns $3.5 Million
-Fri, 06 Nov 2026 17:55:11 +0000 — https://www.indiewire.com/news/box-office/box-office-godzilla-minus-zero-previews-ramayana-1235225976/
-
-"Cat in the Hat" is no match for the kaiju's return.
-
-### Emily Feingold Hired as EVP, Communications for The Walt Disney Company
-Fri, 06 Nov 2026 17:30:00 +0000 — https://www.indiewire.com/news/business/emily-feingold-hired-communications-walt-disney-company-1235225927/
-
-The former Netflix communications guru will join Disney as David Jefferson departs.
-
-### James Gray on His Only Real Beef with Streaming and the Recurring Nightmare That Started at Cannes in 2009
-Fri, 06 Nov 2026 15:58:02 +0000 — https://www.indiewire.com/features/podcast/james-gray-streaming-cannes-controversies-nightmares-1235225829/
-
-Gray joined IndieWire's "Screen Talk" podcast live at the Virginia Film Festival to talk "Paper Tiger," "Little Odessa," and more in an amusingly wide-ranging chat.
-
 ## The Wrap
 
-### Druski Does White Face as Elizabeth Holmes in Dru Can See Everything SNL Parody
+### The 3 Best Movies to Watch on Prime Video This Week
+Sun, 08 Nov 2026 18:16:35 +0000 — https://www.thewrap.com/creative-content/what-to-watch/amazon-prime-video-best-movies-november-8-13/
+
+Halloween is over, but Christmas is still a ways out, and that means we re in that in-between time where it s kind of no man s land for movie watches. But, as always, we re here to help you out. You can jump straight to your holiday favorites, those are always fun. But if you re trying to hold out just a little bit longer and are looking for something maybe more fitting for what s going on in life right now, this will be the list for you. Our second option is especially timely, considering how last week s midterms shook out in the end. Here are the three best movies to watch on Prime Video this week. New Line Cinema Hairspray For awhile there, Hairspray was one of those early 2000s movies that was next to impossible to catch on a streaming service. And, given how licensing agreements change so often, there s a non-zero chance that it will move and/or disappear again altogether quite soon. As such, it might be a good idea to watch it while you can. Beyond it being elusive, the 2007 adaptation of Hairspray is just a really fun time. It boasts an exceedingly stacked cast, including John Travolta, Jerry Stiller, Michelle Pfeiffer, Christopher Walken and Queen Latifah and all of those are just supporting roles. They all commit so dutifully to their roles too. And of course, never forget the chaotic press tour that star Nikki Blonsky gave us, where she made clear she was absolutely certain that Zac Efron and Vanessa Hudgens wouldn t last, because she was the girl for him. This is a
+
+### Mamdani Surprises Fox News Host With Answers on His Socialist Views: Do You Think DSA Is Gonna Kick You Out?
+Sun, 08 Nov 2026 17:06:51 +0000 — https://www.thewrap.com/media-platforms/politics/mamdani-socialist-views-fox-news-dsa-disagreement/
+
+New York City Mayor Zohran Mamdani sat down with Fox News host Shannon Bream on Sunday to discuss the midterm elections and blue wave that hit the U.S. last week, but when the topic turned to his own socialist views, Bream was taken aback. Socialism and DSA candidates were used by Republicans as a wedge issue leading up to the election, warning voters of the dangers of electing individuals with such views to office. Clearly, the tactic didn t work, and when pressed on how he feels about some specific topics, Mamdani s answers surprised Bream. The exchange went like this: Bream: Get rid of borders? Mamdani: No Bream: Get rid of SCOTUS? Mamdani: No Bream: Get rid of jails? Mamdani: No Bream: Do you think DSA is gonna kick you out? Mamdani: No Bream countered, It sounds like you re not aligned with some of the core things they want to get done? and Mamdani had a response at the ready. You know, when you go into a room and there is more than one socialist in the room, you will often find disagreement in that room. And what unites members of the Democratic Socialists of America is in many ways what has brought people into politics over the years, a belief in the dignity of working class people and the dignity that has to be a characteristic of their lives. And understanding that democracy, for it to be meaningful, can t just be at the ballot box. It has to be in the rest of our lives, from the workplace to every other aspect of it, and that s why I m excited to be a member and tha
+
+### Celebs Flock to Druski’s ‘SNL’: Michael B. Jordan, Austin Butler, Chris Rock, Dave Chappelle Crash Goodnights
+Sun, 08 Nov 2026 16:15:38 +0000 — https://www.thewrap.com/culture-lifestyle/culture/druski-snl-chris-rock-dave-chappelle-michael-b-jordan-austin-butler/
+
+This week s episode of Saturday Night Live marked a first in the show s 51-season history as Druski became the first content creator to host the show, and celebrities were out in full force to support the wildly popular online personality. The show opened with Texas senator-elect James Talarico crashing the cold open , then Emma Stone showed up in Druski s monologue, and then Walton Goggins performed alongside The Strokes during one of the musical segments . But it was at the SNL goodnights segment of the show, at the very end, when even more A-listers showed up. Chris Rock and Dave Chappelle surprised Druski while he was saying his farewell to the audience, and a visibly shook Druski exclaimed, Oh my God! as the two took the stage. Then eagle-eyed viewers also spotted Michael B. Jordan and Austin Butler in the background, along with Stone, Goggins and Talarico standing on the packed stage. Jordan and Butler didn t appear in any sketches, but their cameos likely have to do with Goggins musical performance where he danced while The Strokes played their recent single Going Shopping. Jordan and Butler are currently filming the feature film reboot Miami Vice 85, in which Goggins also stars, and no doubt the Fallout actor invited the actors to come to SNL with him on Saturday and hang out while the blockbuster is in production in New York. Then they found their way to the stage. Chappelle is, of course, a regular presence on the Saturday Night Live stage, having hosted in the imme
+
+### Godzilla Minus Zero Sets GKids Box Office Record With $31 Million Opening
+Sun, 08 Nov 2026 16:03:04 +0000 — https://www.thewrap.com/creative-content/movies/godzilla-minus-zero-sets-gkids-box-office-record-with-31-million-openign/
+
+GKids, the American film distributor subsidiary of Toho, has set a new company box office record with Godzilla Minus Zero, which is leading the box office with a $31.6 million opening weekend from 3,254 locations. That is nearly triple the $11.4 million opening of the kaiju sequel s December 2023 predecessor Godzilla Minus One and makes it the fourth non-English film to reach No. 1 on the U.S. weekend box office charts. The film has also made $31 million overseas, including $17 million in its home country of Japan, where it opened on Nov. 3 in timing with the 72nd anniversary of the release of the original Godzilla. For GKids, this passes the $13 million opening record it set in 2023 with Hayao Miyazaki s The Boy and the Heron. It is also the second highest opening for a live-action non-English film behind only The Passion of the Christ, which was performed in Hebrew, Latin and Aramaic and opened to $83 million in 2004. With this start, Godzilla Minus Zero is well on pace to pass the $57.1 million U.S. run of Minus One, as it is enjoying excellent word-of-mouth with an A on CinemaScore and 90% critics and 96% audience scores. On top of this, streaming site JustWatch says that Minus One has become the most-watched film on any streaming platform this week, signaling that Minus Zero might avoid a frontloaded run thanks to moviegoers who may have missed its predecessor three years ago but are looking to get caught up. Taking second is Warner Bros. Pictures Animation s The Cat in 
+
+### SNL Roasts Elon Musk Over Texas Midterms Loss
+Sun, 08 Nov 2026 15:43:46 +0000 — https://www.thewrap.com/media-platforms/tv/snl-elon-musk-roast-colin-jost-weekend-update/
+
+This week s Saturday Night Live took Elon Musk to task for sinking over $440 million into the Texas midterm elections, only to see the state turn overwhelmingly blue in a Democratic wave of wins. Jeremy Culhane joined the SNL Weekend Update desk as Musk, with Colin Jost asking the tech billionaire how he feels about the loss. Culhane s Musk, however, kept giving Jost props for his epic vulgar roast, a nod to how the real-life Musk describes his AI Grok s feature to roast individuals. That was like an epic roast of me. Most vulgar. That s what I call an epic roast, Culhane s Musk says to Jost after a relatively inane comment, extending his fist for a fist bump and adding, And it s time for a pounding. Jost replies starkly, I cannot believe you re the richest person in the world. In the most pointed moment of the sketch, Jost lays out the table for Musk: Let me just recap: You moved to Texas because California was run by Democrats. You moved all of your companies to Texas because you didn t want to pay taxes. You built your own town in Texas. And now Texas is run by Democrats, and now you re gonna have to pay taxes. How does that make you feel? Bad? Culhane s Musk replies. I guess that s what I thought, I mean I would feel bad too, Jost says in return, to which Culhane s Musk laughs awkwardly and says, Ouchie wowchie, that is another epic vulgar roast from Colin Jost, my poorest friend. Elsewhere on this week s Saturday Night Live, Texas senator-elect James Talarico crashed the
+
+### Druski Does Whiteface as Elizabeth Holmes in SNL s You Can See Everything Parody
 Sun, 08 Nov 2026 05:46:27 +0000 — https://www.thewrap.com/creative-content/tv-shows/druski-white-face-snl-elizabeth-holmes-dru-can-see-everything/
 
 Druski did in fact do white face on Saturday Night Live. During a pre-taped sketch parodying the box office hit You Can See Everything, the documentary imagined Elizabeth Holmes (Jane Wickline) and husband Billy Evans (Ben Marshall) asked the comedian to make their documentary before deciding on Fielder. “I just want people to see me as an ordinary person. Can you do that, Druski?” asks Jane Wickline as Holmes. “Based on what I’ve seen so far, I’m gonna go ahead and say no. Y’all have got some of the weirdest, freakiest vibe I’ve ever seen,” Druski said. He began the sketch impersonating Fielder peeking around corners with his headphones on. Later in the sketch he turned the tables and dressed in white face as Elizabeth Homes in his version Dru Can See Everything. Druski really did the funniest thing ever with playing Elizabeth Holmes #SNL pic.twitter.com/2PlPhFmjsA &mdash; Giselle// (@giselleb1234) November 8, 2026 Instead of casting an actress to do reenactments, Druski dressed as the Theranos founder himself to put himself firmly in her shoes. During the sketch the trio reenacted several scenes from the doc, including Evans grabbing the egg bowl from Holmes and when Fielder showed her a comedy routine. This time, however, Druski showed her one of his own viral sketches to see if she understood comedic timing. Druski told the audience in his monologue that he would not be doing a “watered down” version of “SNL” and may or may not be planning on doing whiteface and drop the 
@@ -262,80 +282,55 @@ Sat, 07 Nov 2026 22:00:00 +0000 — https://www.thewrap.com/creative-content/wha
 
 The best movies to check out on Paramount+ this week includes a 90s classic to an underseen 2026 gem. Paramount+ continues to be a strong streamer for when you re unsure what movie – or at the least what genre – you d want to tune in for. This week the options worth checking out include Tuner, one of the great crime thrillers released this year and one that deserves a helluva lot more watches, and iconic 90s disaster film Twister which just has it all going for it. These are the three movies to check out on Paramount+ this week and why. Warner Bros. Twister Twister is a top tier disaster movie that drips 90s movie flair. It has action, it has humor, it has romance, it has top tier needle drops – somehow Twister defied the odds and became a perfect movie. Certainly helping that is a stacked cast that includes Helen Hunt, Bill Paxton, Philip Seymour Hoffman, Alan Ruck and Cary Elwes. They all bring it in the film about a ragtag group of storm chasers hot on the trail of a perfect tornado to activate their new tracking and studying system inside of. Every viewing of Twister ends in the exact same way a smile on your face while muttering they just don t make them like they used to. Dustin Hoffman and Leo Woodall in Tuner (Black Bear Pictures) Tuner Tuner remains one of the biggest underseen movies of 2026. The film stars Leo Woodall as a piano tuner suffering from a hearing condition that heightens every sound significantly. Dustin Hoffman plays his mentor, who gets himself deep 
 
-### Women s Sports Teams Are Getting Their Own Stadiums. Is It a Good Investment?
-Sat, 07 Nov 2026 21:56:31 +0000 — https://www.thewrap.com/culture-lifestyle/sports/womens-sports-teams-new-stadiums-investment-analysis/
-
-In this week s newsletter: Women s sports are hot and Ariel Investments sees providing financing so that teams can build their own facilities as a way to grow revenue and close the gap in franchise values with men s teams. Big box office hits propelled profits and record revenue for the big movie exhibitors, AMC Theatres and Cinemark. It was also a big earnings week for several other media and entertainment companies. Thanks for reading. Jon Lafayette P.S.: Send your tips and pitches to jon.lafayette@thewrap.com THE DEEP DIVE Rendering of the new stadium being built for the Denver Summit Can New Venues Unlock the Value of Women s Sports? Present-day arenas can’t contain the growth of women’s sports. The need for women’s pro teams to have their own world-class venues was highlighted by the Atlanta Dream having to play Game 6 of the WNBA finals at State Farm Arena — the home of the NBA Atlanta Hawks — at 12:30 p.m. ET on a Thursday. The scheduling issue meant fans of the visiting Golden State Valkyries had to tune in over breakfast at 9:30 a.m. That s not exactly primetime. This is an issue Ariel Investments flagged in September with a report entitled “The Infrastructure Advantage: How Purpose-Built Venues Can Unlock Revenue in Women’s Sports.” The report was part of Ariel’s Project Level, a fund investing in women’s sports. In February, Ariel raised $250 million in its first round of funding for Project Level. It plans to raise $1 billion by July 2027. If you’ve got a spare $5
-
-### Star Power and Staying Power Shine at the CFDA Fashion Awards
-Sat, 07 Nov 2026 21:17:29 +0000 — https://www.thewrap.com/culture-lifestyle/culture/star-power-and-staying-power-shine-at-the-cfda-fashion-awards/
-
-American fashion showed its staying power at the CFDA Awards in New York, where Rachel Scott and Ralph Lauren took top honors and the stars turned out in force. In Los Angeles, Scott’s Proenza Schouler has planted a flag on Melrose Place, while Dior celebrated Richard Avedon with a screening of Ron Howard’s tender documentary — and a reminder of the imagination that fashion photography could use more of today. Plus, Hollywood celebrated women’s power and the election s blue wave at Max Mara’s Face of the Future party. Indya Moore and Rachel Scott attend the 2026 CFDA Awards at American Museum of Natural History on Nov. 2, 2026 in New York City. Source: Getty Star Power and Staying Power at CFDA Awards American fashion has had its share of drama lately, but it can still fill a room. Monday’s CFDA Fashion Awards brought celebrities and designers out in force at New York’s American Museum of Natural History, offering a show of solidarity during a particularly rocky moment for the organization. Longtime President and CEO Steven Kolb resigned in September after physically restraining PETA protesters at the COS runway show during New York Fashion Week. With interim CEO Hildy Kuryk and Chairman Thom Browne presiding, the Amazon Fashion-sponsored evening offered the industry a chance to turn its attention back to the people making the clothes. Isabella Damon and Matt Damon attend the CFDA Fashion Awards 2026. Source: Getty And there was plenty of fabulous American style to look at. I
-
-### Trump Asks UFC Chief Dana White to Be His New Press Secretary
-Sat, 07 Nov 2026 19:31:19 +0000 — https://www.thewrap.com/media-platforms/politics/trump-names-dana-white-ufc-press-secretary/
-
-President Donald Trump asked Dana White, the president and CEO of Ultimate Fighting Championship (UFC), to be his new press secretary on Saturday. The president wrote in a Truth Social post announcing the news that he offered White the job to defend us against the Lunatic Left, adding that the sports executive will be a Press Secretary like none other. Dana, please take the job! Trump wrote. White has not appeared to formally accept the offer, but he cheekily responded on his Instagram account with a photoshopped image of him standing at the press secretary s White House podium. On to the next chapter, he wrote. A White House spokesperson did not immediately respond to TheWrap s request for comment, but CNN reported later Saturday citing sources that White ultimately declined the offer. In a corresponding Instagram Story post, White shared a screenshot of Trump s Truth Social announcement, which featured images of famous UFC fighters below the sports executive appearing ready to fight for Trump. I am pleased to announce that the Great Dana White, a violent Fighter and Warrior, has been offered the job of Press Secretary of the United States, Trump wrote in full. He then named famous UFC athletes that he d like White to bring with him to the White House with him, including two Russian fighters. I have requested that he bring with him assistants, even though some are not from our Country, of Islam Makhachev, Khabib Nurmagomedov, Justin Gaethje, Daniel Cormier, Amanda Nunes, and
-
-### Maggie Haberman Says Promoting Stephen Miller Proves Trump Took the Wrong Lessons From Midterm Blowout
-Sat, 07 Nov 2026 19:12:17 +0000 — https://www.thewrap.com/media-platforms/politics/maggie-haberman-trump-promotes-stephen-miller-susie-wiles-cnn/
-
-If one journalist knows President Donald Trump s thinking at any given moment, it s likely The New York Times Maggie Haberman and taking a closer look at his Susie Wiles ouster and Stephen Miller promotion to chief of staff, she thinks he s suffering a case of election denial. Sitting with CNN s Kaitlan Collins on The Source Friday night, Haberman expressed that despite Tuesday s mandate from voters that the same old Trumpian politics oppose what they want for the country, Miller s promotion proves that Trump took the wrong lessons from his midterms blowout. What it tells me is that President Trump has one move, and it is always: ‘more MAGA’ or ‘more Trump,’ Haberman maligned. Collins said that the choice of Miller, considered his storied and sordid history in the Trump administration, caught Washington insiders by surprise that Trump actually pulled the trigger. Obviously he’s very loyal to the president. But what do we think two years of Stephen Miller as the chief of staff look like, potentially? Collins asked her guest. Haberman drew a line to previous times that Trump has faced some kind of a loss or some kind of an embarrassment as he did coming out of Tuesday s midterms and the so-called Blue Tsunami that handed the Democrats power in the House and Senate by a historic margin. From the Access Hollywood tape, right, where his response was to bring Bill Clinton’s accusers to the debate in St. Louis in the 2016 campaign; to after he lost the November 2020 election to main
-
-### The 3 Best Movies to Watch on Hulu This Week
-Sat, 07 Nov 2026 18:30:00 +0000 — https://www.thewrap.com/creative-content/what-to-watch/best-movies-on-hulu-this-week-nov-6-8/
-
-Hulu may be best known for its television offerings, but the streaming service also boasts a quietly impressive film library . This weekend, some of the streamer s best film titles include a recent Best Picture winner that was well-deserving of the widespread acclaim it received, as well as an underrated, tragically little-seen French drama that ranks quite high among the best movies ever made about food. Additionally, Hulu has a 2022 black comedy from Wild Horse Nine director Martin McDonagh that happens to feature one of the best performances of Colin Farrell s career. Here are the best movies on Hulu you can watch this week. Anora (Neon) Anora (2024) Writer-director Sean Baker s Anora is one of the most decorated Hollywood films of recent memory. This Best Picture and Palme d Or-winning drama follows a New York City stripper (Mikey Madison) who marries the son (Mark Eydelshteyn) of a wealthy Russian oligarch only to find herself at the center of a raucous, dream-destroying scandal. Madison rightly won Best Actress in 2025 for her lead turn in Anora, a film that relies on her micro-expressions and quiet glances to convey the growing hurt and deep, cavernous emotional well of its story. A contemporary riff on a Cinderella-type tale with modern economic class divisions at the forefront of its mind, Anora sweeps you off your feet and leaves you dizzy. It s a wonder. The Taste of Things (IFC Films) The Taste of Things (2023) Released a year before Anora, The Taste of Things unf
-
 ## Collider
 
-### Akira Kurosawa’s Favorite Mystery Masterpiece Is Officially Streaming for Free
-Sun, 08 Nov 2026 11:30:12 GMT — https://collider.com/harrison-ford-witness-streaming-free-pluto-tv-november-2026/
+### Netflix’s Franchise-Ending Thriller Officially Becomes a Global Streaming Hit
+Sun, 08 Nov 2026 17:30:12 GMT — https://collider.com/halloween-ends-streaming-hit-netflix-november-2026/
 
-By far the most successful movie star in the world at the time, Harrison Ford took a big swing with a 1985 film that has since emerged as a cult classic. The movie was a solid sleeper hit at the box office, having received excellent reviews and earned Ford a Best Actor nomination at the Oscars. It was, however, unlike the more populist entertainment that he was best known for. Now, more than four decades after its initial theatrical run, the movie in question has been added to the library of a free streaming platform.
+Horror and Netflix go hand in hand, especially during spooky season. This is best exemplified by the streamer's acquisition of the biggest horror movie of the year, scheduled to be added to the catalog on November 17 . As an Oscars campaign for Best Actress begins to take shape for Inde Navarrette , even more eyes than before will get to witness the sheer breakout genius of director Curry Barker 's Obsession . The movie earned widespread praise from critics, becoming one of the highest-rated horror films of the year and an outside favorite for awards season.
 
-### ‘Rogue One’s Best Scene Was Actually the Worst Thing to Ever Happen To Star Wars
-Sun, 08 Nov 2026 11:22:12 GMT — https://collider.com/rogue-one-darth-vader-hallway-best-scene-mistake/
+### The 10 Best Survival Movies of All Time, Ranked
+Sun, 08 Nov 2026 17:23:12 GMT — https://collider.com/best-survival-movies-all-time-ranked/
 
-It was hard to contain the excitement viewers felt after walking out of Rogue One: A Star Wars Story when it first premiered in 2016 — especially after that ending. The movie was an undeniable game changer for Star Wars , and Darth Vader's hallway carnage scene felt like the crowning achievement. It's incredible, indeed, and it belongs in Rogue One right at that moment. Ten years later, it remains one of the franchise's finest hours, but it's also impossible to ignore how that hallway scene impacted not just the galaxy far, far away, but the fandom, too . From how stories are conceived to fan expectations, the overall effect of Vader's hallway scene has unfortunately not been as positive as one might expect.
+Technically, a whole bunch of movies are about survival, but a line was drawn here to look at the ones really focused on surviving. Basically, no horror or action movies where people are obviously fighting to stay alive the whole time, because if you included anything with life-or-death stakes, then you'd probably find yourself with more “survival movies” on your hands than non-survival movies.
 
-### Forget ‘Verity,’ Colleen Hoover’s 2026 Romance Hit Is Officially Taking Over Streaming
-Sun, 08 Nov 2026 11:00:12 GMT — https://collider.com/reminders-of-him-streaming-hit-hbo-max-november-2026/
+### DC’s ‘Clayface’ Passes $100 Million After Being Officially Removed From 532 Theaters
+Sun, 08 Nov 2026 17:00:12 GMT — https://collider.com/clayface-box-office-100-million-theaters-dc/
 
-One of the biggest hits of this Fall box office season was the latest in a flurry of Colleen Hoover adaptations. Anne Hathaway , Dakota Johnson, Josh Hartnett, Ismael Cruz Cordóva , and Brady Wagner star in Verity , an erotic psychological thriller based on the 2018 novel of the same name. The film reunites Hathaway and director Michael Showalter , who previously worked with her on Prime Video’s The Idea of You , with a script from Nick Antosca ( Hannibal , Cape Fear ).
+Two weeks into its theatrical run, DC's Clayface has passed a coveted global box-office milestone. In doing so, the movie has also broken even theatrically — a rarity in this day and age, especially in the superhero genre. That said, the movie's comparatively smaller scale means that its actual box-office performance can't really hold a candle to some of the genre's bigger hits. However, Clayface remains on track to overtake this year's Supergirl , which ended its run with around $125 million worldwide and cost nearly four times as much.
 
-### Tom Hanks’ WWII Thriller Masterpiece Officially Crosses Massive Milestone
-Sun, 08 Nov 2026 10:40:12 GMT — https://collider.com/tom-hanks-greyhound-apple-tv-streaming-success-300-days/
+### Tom Hardy’s Epic 6-Season Crime Series Is a Near-Perfect Netflix Binge
+Sun, 08 Nov 2026 16:55:12 GMT — https://collider.com/peaky-blinders-netflix-tom-hardy-streaming-binge/
 
-Over the better part of the last 40 years, Tom Hanks has become one of the most important actors in all of Hollywood. Hanks is a two-time Oscar-winner for his performances in back-to-back years in Philadelphia and Forrest Gump , but he’s also been nominated several other times throughout his career for his roles in Saving Private Ryan , Cast Away , and more.
+From HBO’s The Sopranos to Paramount+’s MobLand , dysfunctional mob families make for great television — but no other group of criminals is quite as cunning, conniving, and calculating as the Shelby family from Netflix’s Peaky Blinders . Starring Oscar-winning Cillian Murphy as the notorious Shelby ringleader Thomas “Tommy” Shelby, Peaky Blinders takes viewers back to Small Heath, Birmingham, in 1919, the town that would witness the Shelbys’ rise, peak, and eventual downfall.
 
-### 6 Fantasy Shows More Universally Loved Than 'Game of Thrones'
-Sun, 08 Nov 2026 10:27:12 GMT — https://collider.com/fantasy-shows-more-loved-than-game-of-thrones/
+### The Lord of the Rings Officially Returns to Prime Video this Week
+Sun, 08 Nov 2026 16:30:12 GMT — https://collider.com/lord-of-the-rings-rings-of-power-season-3-prime-video-release-date-november-2026/
 
-Game of Thrones , based on the novels by George R. R. Martin , became an immense cultural phenomenon that kickstarted a wave of fantasy TV that is still ongoing. The eight-season HBO epic shows what can happen when studios put the budget of a feature film into a TV show, producing shows with massive scale and hundreds of characters, where magic and monsters come to life in an entirely new way.
+Prepare to witness a pivotal chapter in Middle-earth history with the upcoming third season of Prime Video's The Lord of the Rings: The Rings of Power . The fantasy prequel based on the writings of J.R.R. Tolkien has aired two well-received seasons so far, although the show's run hasn't been without setbacks. Most notably, The Rings of Power hasn't exactly turned out to be the culture-defining hit that it was meant to be. And to add to Prime Video's concerns, there has been a noticeable pushback against the series by a contingent of fans.
 
-### HBO Max Officially Gives Anne Hathaway’s 2026 Thriller a New Streaming Home
-Sun, 08 Nov 2026 10:20:12 GMT — https://collider.com/mother-mary-streaming-hit-hbo-max-november-2026/
+### Chris Pratt’s ‘The Karate Kid’ Replacement Officially Arrives in 2 Weeks
+Sun, 08 Nov 2026 16:00:12 GMT — https://collider.com/way-of-the-warrior-kid-chris-pratt-apple-tv-release-date-november-2026/
 
-Anne Hathaway has featured in more than $2.6 billion worth of movies at the box office this year. In the busiest twelve months of her successful career, Hathaway is not only expecting her third child with her husband, Adam Shulman , but she has also featured in theaters almost every month this year. Most recently, Hathaway led the latest Colleen Hoover adaptation, Verity , following the box office hits It Ends with Us , Regretting You , and Reminders of Him .
+After achieving incredible success as a big-ticket movie star, Chris Pratt is coming for Mark Wahlberg 's crown as the streaming industry's biggest star with a new Apple TV movie. Pratt recently returned for the second season of his Prime Video series The Terminal List , which suffered a major drop in viewership after a four-year gap between seasons. Aside from The Terminal List , Pratt has largely refrained from taking huge paydays from streaming platforms. But things seem to be changing.
 
-### Quentin Tarantino’s Pick for Best Action Script Officially Lands on Free Streaming
-Sun, 08 Nov 2026 10:00:12 GMT — https://collider.com/tom-cruise-top-gun-streaming-free-pluto-tv-november-2026/
+### Brad Pitt’s 101-Minute Survival Thriller Officially Comes Home in 48 Hours
+Sun, 08 Nov 2026 15:30:12 GMT — https://collider.com/heart-of-the-beast-brad-pitt-digital-release-date/
 
-Before he established himself as one of the foremost directorial voices of his generation, Quentin Tarantino made a name for himself as the writer of True Romance , directed by Tony Scott . Tarantino has often spoken glowingly about the late director, acknowledging his impact on the action genre. After Scott's death in 2012, Tarantino hosted a screening of the films Domino and Man on Fire for college students, and was moved to tears while watching them. He also considers Scott's crowning achievement — a 1986 classic starring Tom Cruise — as one of the best-written movies of all time.
+This month, Brad Pitt will reprise his Oscar-winning role as Cliff Booth from Once Upon a Time in Hollywood in a new spin-off movie, The Further Mis-Adventures of Cliff Booth . Unlike the original, which was written and directed by Quentin Tarantino , the spin-off has been helmed by Pitt's regular collaborator David Fincher , with Tarantino performing only writing duties. It's a massive project, with Netflix having reportedly spent $200 million on it. Before The Further Mis-Adventures of Cliff Booth begins its IMAX-exclusive run later this month, Pitt's latest film will make its debut on the PVOD market.
 
-### Apple TV’s Biggest James Bond Rival Officially Hits Massive Streaming Streak
-Sun, 08 Nov 2026 09:40:12 GMT — https://collider.com/apple-tv-slow-horses-streaming-success-300-days/
+### Jessica Chastain’s 93-Minute Supernatural Thriller Officially Arrives on Digital This Week
+Sun, 08 Nov 2026 15:00:12 GMT — https://collider.com/other-mommy-jessica-chastain-digital-release-date/
 
-Apple TV may not have the same overall subscriber numbers as other streaming platforms like Netflix or Prime Video, but where the service lacks in base it makes up for in quality of shows. Apple TV has become widely known and celebrated for its work in the sci-fi genre in recent years, especially with shows like Severance and Pluribus .
+After a rather front-loaded theatrical run, a critically panned new horror movie starring Jessica Chastain is all set for its digital debut. The movie delivered a solid opening despite the poor reviews, but was unable to keep the momentum going. This weekend, it will complete a full month of release in theaters, having passed its final box-office milestones both domestically and worldwide. Chastain has had a successful run in the horror genre, although the new movie is her worst-performing scary movie, both critically and commercially.
 
-### Keanu Reeves’ Fantasy Blockbuster Officially Becomes a Massive Disney+ Streaming Hit
-Sun, 08 Nov 2026 09:20:12 GMT — https://collider.com/toy-story-5-streaming-hit-disney-plus-november-2026/
+### ‘Yellowstone’ Star’s 98-Minute Western Officially Rides Onto Digital
+Sun, 08 Nov 2026 14:30:12 GMT — https://collider.com/angel-and-the-badman-neal-mcdonough-digital-release-november-2026/
 
-Keanu Reeves is always busy. One of the most prolific and successful actors in modern Hollywood is never far from a big-screen hit. On March 19, 2027, he will star in a hotly anticipated video game adaptation sequel, as he reprises his role as Shadow in director Jeff Fowler' s Sonic the Hedgehog 4. Ben Schwartz returns as Sonic alongside Reeves, as well as Jim Carrey as Dr. Robotnik, Idris Elba as Knuckles, Kristen Bell , Nick Offerman , and Ben Kingsley .
+After failing to make the most of its lengthy theatrical window, a new Western featuring a trio of leading men is all set for a digital release. This is where the movie will likely find an audience, given how popular Westerns have become on streaming. In recent years, Taylor Sheridan 's ever-expanding Yellowstone franchise has kept Paramount+ afloat almost singlehandedly, even though the service hosts a sprawling universe of Star Trek shows . Following the success of Yellowstone , other platforms have invested purposefully in the genre as well.
 
-### Tom Hardy’s Ridley Scott Crime Thriller Is Officially Streaming for Free
-Sun, 08 Nov 2026 09:00:12 GMT — https://collider.com/ridley-scott-tom-hardy-crime-thriller-taboo-streaming-free-november-2026/
+### 8 Masterpiece Detective Shows That Are Better Than 'Sherlock'
+Sun, 08 Nov 2026 14:01:12 GMT — https://collider.com/masterpiece-detective-shows-better-than-sherlock/
 
-2026 has been a slow year for Tom Hardy , at least until he recently came back to his role as Harry Da Souza in MobLand Season 3 on Paramount Plus. There was some skepticism earlier in the year about Hardy’s status on the show after it was reported that he had been fired from his role due to tensions that formed between him and one of the show’s leading producers. Hardy had already filmed his scenes for Season 2, but there was a growing concern among fans that he would not return in Season 3 . However, newer reports confirmed that these tensions have since been passed, and not only is MobLand already renewed for Season 3, but Hardy is confirmed to be back in the leading role in the new season, along with Pierce Brosnan and Helen Mirren .
+Most people around the globe agree that Sherlock Holmes is the greatest fictional detective of all time, with a legacy that has endured for over a century across literature, cinema, games, and countless other forms of art and entertainment. Among the many film and television projects made about Sherlock Holmes over the years, the BBC’s Sherlock is unarguably one of the most beloved. A modern reimagining of Arthur Conan Doyle ’s darling detective, the show remains a television landmark of the 21st century. However, the world of detective fiction is exhaustive and forever expanding, with endless new stories that deserve your attention, including some that arguably overshadow this popular icon.
 
