@@ -33,7 +33,6 @@ artistView:
   misses:
     - "Animation: reviewers describe the keeper glitching in the 3D view, and the keeper is the one figure on the pitch whose pose carries the whole read of a shot. A broken dive makes a correct simulation look wrong."
     - "Art direction: the tile layout still puts more numbers on a screen than a glance can sort, which reviewers who like the game say as well. Density is a choice, and FM has never been willing to make it."
-draft: true
 ---
 
 The headline change in Football Manager 27 is that the dots got smaller.
