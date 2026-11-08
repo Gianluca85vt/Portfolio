@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="PRISMation: three anime pilots, greenlit by view count">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#18011F"/>
+      <stop offset="0.62" stop-color="#3A1F18"/>
+      <stop offset="1" stop-color="#C8891B"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <g font-family="Helvetica Neue, Helvetica, Arial, sans-serif" fill="#FFFFFF">
+    <text x="80" y="140" font-size="30" letter-spacing="6" fill="#C8891B" opacity="0.95">PROJECT PRISMATION</text>
+    <text x="80" y="310" font-size="188" font-weight="700">4 minutes</text>
+    <text x="80" y="392" font-size="40" opacity="0.88">is the whole audition</text>
+    <text x="80" y="492" font-size="34" opacity="0.72">3 pilots chosen from an open call &#183; 6 November 2026</text>
+    <text x="80" y="546" font-size="34" opacity="0.72">2.13m YouTube views bought the first one a sequel</text>
+    <rect x="80" y="596" width="150" height="4" fill="#C8891B"/>
+  </g>
+</svg>
