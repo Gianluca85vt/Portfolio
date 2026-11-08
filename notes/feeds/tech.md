@@ -1,4 +1,4 @@
-# Tech — harvested 2026-11-07T18:18:11.126Z
+# Tech — harvested 2026-11-08T11:31:08.861Z
 
 ## Ars Technica
 
@@ -116,6 +116,16 @@ OpenAI is now valued at $1.25 trillion in a new round of funding that has raised
 
 ## Tom's Hardware
 
+### PC air duster motors power 21-inch DIY remote control plane at 130,000 RPM — $23 air duster power styrofoam A10 Warthog-style RC plane, hits the skies much faster than expected
+Sun, 08 Nov 2026 11:00:00 +0000 — https://www.tomshardware.com/maker-stem/pc-air-duster-motors-power-21-inch-diy-remote-control-plane-at-130-000-rpm-usd23-air-duster-power-styrofoam-a10-warthog-style-rc-plane-hits-the-skies-much-faster-than-expected
+
+A remote-control electronics and DIY hobbyist was surprised by a model airplane they created, powered by a pair of PC air duster engines. The A10 Warthog-like model with a 21-inch wingspan flew “much faster than I had anticipated,” commented RCMakerLab. The video they shared also shows how to build your own fast, agile RC plane powered by the ‘jets’ salvaged from PC air dusters like the 110,000 RPM brushless Wolfbox MF60 , which is currently 36% off on Amazon and priced at $31.99. RCMakerLab’s informative and entertaining video (above) was inspired by some earlier disassembly and tests using engines pulled from PC air dusters . Viewers asked the maker to go beyond pondering the thrust these mini jet engines could generate and actually put them to the test in an RC plane. About eight minutes of this 10-minute video focus on building the twin-engine RC plane. I found it interesting to see it crafted with wings formed from a folded-over Styrofoam sheet and hot glue, and to see it all put together. The motorized wing flap control seemed ingenious. However, if you want to skip straight to the main attraction, fast-forward to about 8 mins for the installation of the two air blower motors. Then, at 9 min 20s, you can see the RC plane's rapid takeoff . I thought it sounded great; it looked very fast and extremely agile. RC air duster jet specs: 54cm (~21-inch) wing span 42.5cm (~17-inch) length 368g (~0.8 pounds) flight weight Twin airduster motors 20A Brushless ESC 5g Micro Servos F
+
+### This RTX 5060 gaming PC costs less than the Steam Machine — grab the iBuyPower Slate prebuilt PC with massive $500 discount
+Sat, 07 Nov 2026 21:27:30 +0000 — https://www.tomshardware.com/pc-components/this-rtx-5060-gaming-pc-costs-less-than-the-steam-machine-grab-the-ibuypower-slate-prebuilt-pc-with-massive-usd500-discount
+
+It is arguably the worst time to build a gaming PC especially with the ongoing memory crisis inflating the cost of RAM, SSDs, and graphics cards. One way to possibly work around the rising costs is to consider a prebuilt system. For instance, the iBuyPower Slate Gaming Desktop PC , a well-rounded mid-range gaming PC which is selling for a very reasonable price of $899, down from its regular price of $1,399 over at Best Buy. Check out the deal on Best Buy The system is powered by the AMD Ryzen 5 8400F, an entry-level 6-core, 12-thread desktop processor with a relatively low 65W TDP. This makes it fairly power-efficient while still offering decent performance for 1080p gaming. For graphics, the prebuilt comes with an Nvidia GeForce RTX 5060, a solid GPU for 1080p gaming as well as an entry point to Nvidia's latest Blackwell architecture, with support for multi-frame generation and newly released DLSS 5. Slate Gaming Desktop PC: was $1399 now $899 This Best Buy deal makes the iBuyPower Slate considerably more affordable, cutting $500 off the price of a prebuilt gaming PC with an RTX 5060, Ryzen 5 8400F, and 1TB NVMe SSD View Deal For memory, there's a single 16GB DDR5 stick running at 4,800MT/s. which isn't particularly fast and should ideally be configured in dual-channel, but a 16GB DDR5 memory stick on its own can cost around $300, making the system's $899 asking price a pretty solid deal. It also comes with a 1TB NVMe SSD with additional storage expansion for a secondary M.2
+
 ### This week in Tom's Hardware Premium: November 7, 2026
 Sat, 07 Nov 2026 15:00:00 +0000 — https://www.tomshardware.com/tech-industry/this-week-in-toms-hardware-premium-november-7-2026-micron-roadmap-apples-touchscreen-ambitions-globalfoundries-interview-and-much-more
 
@@ -166,17 +176,22 @@ Sat, 07 Nov 2026 11:00:00 +0000 — https://www.tomshardware.com/tech-industry/u
 
 The US federal Aviation Administration (FAA) is finally moving to retire floppy disks from its air traffic control infrastructure, with plans to replace four decades-old information systems across 435 facilities by the end of 2028. The agency announced the rollout on November 5, introducing a centralized platform that will give controllers faster access to weather reports, flight alerts and other operational information. “We’re moving away from outdated, manual processes and replacing technology that once relied on floppy disks with a modern system that allows controllers to instantly share critical flight alerts, restricted airspace schedules and pilot reports,” FAA administrator Bryan Bedford said, adding the agency wants to make critical information available more quickly across its networks. Notably, the new Enterprise Information Display System (E-IDS) is designed to replace four legacy systems dating back to the 1980s. Rather than relying on separate information displays and manual processes, controllers will get a centralized view of operational updates, equipment problems, weather disruptions, and aviation advisories. The first five locations receiving E-IDS include Atlantic City International Airport, Nashville International Airport, Greater Rochester International Airport, and FAA data processing hubs in Atlanta and Salt Lake City, although the system could be extended to 453 sites by the end of 2028. Floppy disks from the 1980s: OUT 🤯 21st century tech: IN 🛫The n
 
-### GlobalFoundries VP details FDX Fusion technology, sporting 7nm-class performance without the need for EUV tools — company targets 2030 for high-volume manufacturing, with planar transistors in tow
-Fri, 06 Nov 2026 14:00:00 +0000 — https://www.tomshardware.com/tech-industry/semiconductors/globalfoundries-vp-details-fdx-fusion-technology-sporting-7nm-class-performance-without-the-need-for-euv-tools-company-targets-2030-for-high-volume-manufacturing-with-planar-transistors-in-tow
-
-Eight years after GlobalFoundries abandoned the development of its 7nm FinFET technology, the company is preparing to return to 7nm-class performance, this time by going via a different route. Its FDX Fusion process, built on FD-SOI (fully depleted silicon-on-insulator) technology, promises 7nm-class performance using advanced planar transistors, with no EUV lithography necessary. In an interview with Tom's Hardware Premium , GlobalFoundries' Sudipto Bose, vice president of the FD-SOI business unit, shared new details about its FDX Fusion technology, including its 8nm-class logic density, advanced planar transistors, manufacturing costs, and plans to begin commercial production in 2028. The company also explained how it intends to compete with conventional FinFET technologies and why it believes FD-SOI has a future beyond the 22nm-class generation. Some elements of this interview transcript have been edited for flow and clarity. Sudipto Bose: I have been at GlobalFoundries (GF) for a little bit over six years, and I have been in the industry for 25+ years. I spent the rest of my career at Texas Instruments (TI), so it's really two jobs that I have done: TI and GF. Half and half engineering and business. I spent a lot of my business days in the automotive segment. This was what I was doing at GF when I joined, and now I have the FDX product line role. (Image credit: GlobalFoundries) Sudipto Bose: A little bit on the history of FDX at GF. GF has been investing in FD-SOI for a l
-
-### Elegoo M1 Ultra review: A good first entry into the scanner market
-Fri, 06 Nov 2026 14:00:00 +0000 — https://www.tomshardware.com/3d-printing/3d-scanning/elegoo-m1-ultra-review
-
-The M1 Ultra is Elegoo’s first entry into the 3D scanner market. It is a feature-rich scanner with five scanning modes, four blue light laser modes, and a NIR binocular structured light mode. Most importantly, the scanner has a 3-in color touch screen and long battery life. It even includes a spare rechargeable battery, so you’re always prepared. The scanner can’t run without a fairly high end PC or Mac for processing power. It will need to be tethered to the laptop with a UBS-C cable or connected via Wi-Fi. I was able to get about five feet away from my subject in a harsh RF environment. I didn’t test it further than that, so it may go farther. The cable connection provides the fastest connectivity, making tethered scanning worth the hassle. The scanner’s output rivals any of the scanners I’ve tested, but it did require a little extra work to get there. At a current price of $1,599 at Elegoo, the M1 Ultra has features not found in other scanners at this price point. Specifications: Elegoo M1 Ultra Scanning Mode Blue Laser NIR Infrared Binocular Structured Light Light Type Single, 7, and 34-Line Laser NIR (Near-Infrared) Accuracy Up to 0.02 mm Up to .05mm/m 3D Resolution 0.05-2mm 0.1-2mm Working Distance 200mm-600mm Between 170 and 1200 mm Min Scan Volume 5 x 5 x 5 mm 170mm-1200mm Scan Speed (Standalone) ≤ 100fps ≤ 30fps Alignment 170mm-1200mm Geometry/Texture Connectivity Wired USB, Optional Wi-Fi Color Texture Supported Output Format OBJ/STL/PLY/ASC Operating System Windows
-
 ## Phoronix
+
+### GCC 17 Feature Development Ends Next Week
+Sun, 08 Nov 2026 06:12:21 -0500 — https://www.phoronix.com/news/GCC-17-Ends-Stage-1-Next-Week
+
+How time flies with the GCC 17 feature development set to end next week and transitioning over to a bug fixing focus...
+
+### Linux Fixes Faulty Mitigation Selection For BHI Vulnerability
+Sun, 08 Nov 2026 06:03:38 -0500 — https://www.phoronix.com/news/Linux-Fix-BHI-Mitigation-Build
+
+This week's batch of x86 fixes have been sent out ahead of the Linux 7.4-rc2 kernel releasing later today...
+
+### OpenIndiana 2026.10 Released With Updated Tools & Compilers, New Apps
+Sat, 07 Nov 2026 17:50:46 -0500 — https://www.phoronix.com/news/OpenIndiana-2026.10
+
+OpenIndiana Hipster 2026.10 is out today as the newest six-month update to this operating system based on Illumos and with the lineage tracing back to the fruitful Sun OpenSolaris days...
 
 ### Automake 1.20 Brings New Features, Desires To Re-Establish GNU As Leading Build System
 Sat, 07 Nov 2026 10:22:00 -0500 — https://www.phoronix.com/news/GNU-Automake-1.20
@@ -223,22 +238,17 @@ Fri, 06 Nov 2026 16:49:46 -0500 — https://www.phoronix.com/news/ReactOS-Initia
 
 After years of work, ReactOS as the "open-source Windows" operating system striving for Windows program and driver compatibility now has an initial USB 3.0 driver stack in place...
 
-### A RISC-V Based TEE With AMD Zen 6 CPUs
-Fri, 06 Nov 2026 14:30:49 -0500 — https://www.phoronix.com/news/AMD-Zen-6-TEE-RISC-V-Based
-
-An interesting technical detail I noticed today from the latest AMD Linux activity is that Zen 6 processors apparently are featuring a RISC-V based Trusted Execution Environment (TEE) where in the past it was an ARM-based core...
-
-### Linux 7.4-rc2 Change Yields As Much As 162x Improvement For FAT32
-Fri, 06 Nov 2026 11:21:38 -0500 — https://www.phoronix.com/news/Linux-7.4-rc2-FAT32
-
-In addition to a FAT32 optimization yielding as much as a 265x improvement that was merged for the Linux 7.4 cycle and separately another big FAT32 improvement expected for Linux 7.5, merged this week as part of the non-MM fixes for Linux 7.4-rc2 was another big FAT32 performance optimization...
-
-### Arch Linux vs. CachyOS vs. Omarchy 4.5 Performance Benchmarks
-Fri, 06 Nov 2026 09:55:52 -0500 — https://www.phoronix.com/review/cachyos-omarchy-benchmarks
-
-With CachyOS recently having rolled out its Linux 7.3 based kernel and various other improvements plus with Omarchy 4.5 having been released this week, this article provides a look at how CachyOS and Omarchy are competing on the performance front relative to upstream Arch Linux.
-
 ## The Register
+
+### Doom delivers five minutes of terminal violence on an IBM mainframe
+Sun, 08 Nov 2026 11:19:00 +0000 — https://www.theregister.com/offbeat/2026/11/08/doom-delivers-five-minutes-of-terminal-violence-on-an-ibm-mainframe/5308092
+
+Can an IBM Z mainframe run Doom? Of course it can. The more interesting question is whether you can play it through a text terminal without ruining your eyesight. WND Software's browser demo connects to an IBM Z mainframe over SSH using its terminal emulator. Wojciech Graj's DOOM-ASCII supplies the text-based carnage, replacing conventional graphics with colored characters. There's no sound. It is, however, completely playable (although you might need to recalibrate your vision to work out what is going on, particularly with regard to distant objects). Sessions are limited to five minutes, with room for up to 50 simultaneous users, but we had no trouble getting in. ASCII also presented no issues once the game was in motion. This writer played the original shareware release on an Amstrad ALT386SX portable, so squinting at an indistinct demon felt reassuringly familiar. That Doom can be persuaded to run on an IBM Z mainframe is not particularly noteworthy. The code has turned up everywhere from databases to PCB designers . Even the humble Pi Pico was roped into the fun. Keeping the action playable through a text terminal is the more entertaining achievement. A year ago, an IBM consultant persuaded Doom to run on IBM Z and LinuxONE using VNC to bring the pixelated mayhem to life. Using a terminal emulator, while a neat demonstration of the capabilities of WND's software, is perhaps more an example of "because I can" masochism. It's undeniably an enjoyable way to burn through fiv
+
+### Internet governance about to get its quadrennial stress test at ITU meeting
+Sun, 08 Nov 2026 09:33:00 +0000 — https://www.theregister.com/networks/2026/11/08/internet-governance-about-to-get-its-quadrennial-stress-test-at-itu-meeting/5308031
+
+The International Telecommunications Union (ITU) kicks off its quadrennial plenipotentiary on Monday, and internet governance organizations are bracing in case the event becomes a forum for nation-states to try to challenge their roles. The ITU is the United Nations' specialized agency for information and communication technologies, meaning its members are nation-states. The body's role is to facilitate international connectivity, which it does by managing radio spectrum, satellite orbits, and working on relevant technical standards. Its key standards are pervasive. ITU-T X.509 sets out the rules of public key infrastructure. ITU-T E.164 governs telephone numbers. ITU-T H.264 and 265 define the video codecs used for most online streams. The ITU's role is largely uncontested, yet its work gets very close to that of the organizations who work on technologies that make the internet work. Those bodies include the Internet Engineering Task Force (IETF); the Internet Corporation for Assigned Names and Numbers (ICANN), which oversees the domain name system; and the regional internet registries (RIRs), which manage IP addresses. The World Wide Web Consortium (W3C) works on HTML, CSS, and accessibility. Governments participate in work at those internet governance bodies but are just one voice among many and can't override the consensus-driven decision-making process they use, under a system which has come to be known as the multi-stakeholder governance model. At a 2025 event called WS
 
 ### Fireworks says you’re wasting money on AI unless you’re using all the models
 Sat, 07 Nov 2026 15:00:00 +0000 — https://www.theregister.com/ai-and-ml/2026/11/07/fireworks-says-youre-wasting-money-on-ai-unless-youre-using-all-the-models/5308277
@@ -290,79 +300,84 @@ Fri, 06 Nov 2026 15:15:00 +0000 — https://www.theregister.com/ai-and-ml/2026/1
 
 The US Department of Justice (DoJ) says its Super Intelligence Task Force (SINTF) is now up and running, after president Donald Trump ordered the move in a memo last month. Headed up by director of national intelligence Jay Clayton, as well as associate attorney general Stanley Woodward and associate deputy attorney general Stephen Weiss, SINTF's responsibility is to protect the US's lead in artificial intelligence development. Thursday's announcement, which was littered with the " super intelligence " Trumpism, said the task force will ensure the US's SI/AI leadership remains uncompromised by foreign AI "abuse," including by state and state-backed groups, criminal enterprises, individuals, or corporate entities. Per Trump's October 13 memo [PDF], SITF will take "affirmative measures, as appropriate," to ensure the US stays ahead in AI development. It did not elaborate on what this nebulous phrase meant, but it can be reasonably assumed this means a breadth of proactive steps. The memo also stated that the task force will organize the DoJ's criminal and civil lawsuits involving AI, recommend enforcement priorities concerning public safety and AI misuse, develop prosecution guidance for unlawful AI conduct, and feed into legislative proposals to prevent "burdensome regulation." Addressing a Wall Street Journal tech conference this week, Pentagon CTO and SITF vice chair Emil Michael said the team would release details about its AI regulatory landscape later this month. The task
 
-### Crowd fave Linux Mint update approaches, fresh from autumn release of Cinnamon desktop
-Fri, 06 Nov 2026 14:29:00 +0000 — https://www.theregister.com/os-platforms/2026/11/06/crowd-fave-linux-mint-update-approaches-fresh-from-autumn-release-of-cinnamon-desktop/5307951
-
-Linux Mint 27 is expected next month, and it's starting to take shape. Its flagship desktop, Cinnamon 2.8, is already available. The team behind the popular, beginner-friendly Linux just released Cinnamon 2.8 , which will be the default desktop in Mint 27. Since 2014, Linux Mint versions have been based on the LTS releases of Ubuntu. Since a new LTS, Ubuntu 26.04 "Resolute Raccoon" arrived in late April , that means that a corresponding version of Mint is in development. The Mint project blog post last month revealed the codename: "Adrien." This is the first male codename since Mint 1.0 "Ada" in 2006, based on the first ever Ubuntu LTS release, 6.06 "Dapper Drake", but the project has run through the whole alphabet since then (except for the letter “Y”.) That blog also revealed it will have a new alarm clock app, but the subsequent Mint Blog post imparted more information. The Nemo file manager will gain a preview pane, there will be a new and much more capable system resource-monitor program called "Superlight", a new simple manager for compressed archive files (Zip and so on) called "Unfold," and a new, theme-able terminal emulator called "Velocitty." Mint also has a new Community Website , which uses GitHub to manage logins and eliminates the old website's dependency on PHP. Probably the most significant new feature, though, is that Mint 27 will restore system hibernation. Ubuntu supported hibernation in its early releases, but it has been disabled as standard since 12.04 
-
-### Blue Origin unveils more thrust, less haste as New Glenn slips to 2027
-Fri, 06 Nov 2026 14:01:00 +0000 — https://www.theregister.com/offbeat/2026/11/06/blue-origin-unveils-more-thrust-less-haste-as-new-glenn-slips-to-2027/5308138
-
-New Glenn's return to flight has slipped to January 2027, according to the internal memo, viewed by The Register, from Blue Origin CEO Dave Limp, overshadowing the company's announcements of a new third stage and booster engine. Blue Origin has been rebuilding after its New Glenn rocket exploded during a ground test in May , extensively damaging the launchpad. A month later, the company's CEO, Dave Limp, said that Blue Origin "still plan[s] to fly again this year," which raised a few eyebrows in the space and rocket community. The detonation had pretty much destroyed the facility, and getting back into the launch business so quickly seemed optimistic. That timetable has now slipped. In the memo, Limp praised the team's efforts but said: "We're proactively updating our anticipated launch date to January 2027." A small slip given the damage, but one that leaves less breathing room before NASA's planned Artemis III demonstration mission, involving lunar technologies from Blue Origin and SpaceX, next year. The delay emerged as the Bezos-backed company unveiled GS3, a third stage for New Glenn , designed for missions including direct injection into geostationary orbit and Earth-escape trajectories. The company said: "GS3 is already under contract for a cislunar mission with a government customer scheduled to launch in 2028." Blue Origin says the stage is not required for its lunar lander architecture, although it could support sustained operations around the Moon. The company also
-
 ## Engadget
 
-### 5 iPhone security settings you should change to protect your data
-Sat, 07 Nov 2026 18:00:00 +0000 — https://www.engadget.com/2306607/iphone-security-settings-data-protection/
+### Syncing Apple Music across your devices is easier than you think
+Sun, 08 Nov 2026 01:30:00 +0000 — https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/
 
-Your iPhone has great security features, but some of them need configuration to work their best.
+One perk of subscribing to Apple Music is having your collection synced across all your devices - and all it takes is a simple toggle. Here's how.
 
-### What is System Data on an iPhone's storage, and how much is normal?
-Sat, 07 Nov 2026 17:45:00 +0000 — https://www.engadget.com/2306455/what-is-iphone-storage-system-data/
+### Samsung One UI 9.5 beta may be coming soon: Here's how to sign up for the program
+Sun, 08 Nov 2026 01:00:00 +0000 — https://www.engadget.com/2307479/samsung-one-ui-9-5-beta-program-how-to-sign-up/
 
-Your iPhone's storage breaks down into many categories; System Data is often large but doesn't have a clear explanation.
+Samsung appears to be preparing the One UI 9.5 beta program ahead of an expected 2027 launch. Here's what to do if you want to test Samsung's latest OS.
 
-### Snapchat's Find Friends feature will be off by default for UK users under 18
-Sat, 07 Nov 2026 17:31:17 +0000 — https://www.engadget.com/2310117/snapchats-find-friends-feature-will-be-off-by-default-for-uks-under-18-users/
+### How do spam callers get your number in the first place?
+Sun, 08 Nov 2026 00:45:00 +0000 — https://www.engadget.com/2307324/spam-callers-how-they-get-your-number/
 
-The platform is rolling out this change in the country starting this month.
+Ever wonder how a total stranger ended up with your phone number? The answer starts earlier than you think, and a few small habits can keep it from spreading.
 
-### 5 Google Messages settings you might want to disable
-Sat, 07 Nov 2026 17:30:00 +0000 — https://www.engadget.com/2306181/google-messages-settings-might-want-to-disable/
+### What does Apple One Family come with and which subscription is best for you?
+Sun, 08 Nov 2026 00:30:00 +0000 — https://www.engadget.com/2307150/apple-one-family-plan-what-comes-with-which-subscription-best/
 
-Google Messages is easily one of the best messaging apps available on Android, but that doesn't mean it's configured perfectly out of the box.
+Apple One offers strong value if you're using a lot of Apple services anyway, but make sure you do the math before signing up.
 
-### How to legally download free movies to your computer
-Sat, 07 Nov 2026 17:15:00 +0000 — https://www.engadget.com/2306356/how-to-legally-download-free-movies/
+### 10 useful iPad apps that could make your daily life easier
+Sun, 08 Nov 2026 00:15:00 +0000 — https://www.engadget.com/2309904/useful-ipad-apps-make-daily-life-easier/
 
-There are services that will allow you to download movies from the public domain, and several streaming services let you download shows for offline viewing.
+Your iPad can do a lot with the right apps. Go beyond Apple's defaults and try these useful offerings that all have great free tiers.
 
-### Apple also made its classical music app's logo black and white
-Sat, 07 Nov 2026 17:06:13 +0000 — https://www.engadget.com/2310114/apple-also-made-its-classical-music-apps-logo-black-and-white/
+### Why you shouldn't remove the screen protector film on your Nintendo Switch 2
+Sun, 08 Nov 2026 00:00:00 +0000 — https://www.engadget.com/2307095/why-keep-nintendo-switch-2-screen-protector/
 
-Apple Music Classical now has a black-and-white logo, as well.
+The Switch 2 comes with a protective film on its screen, and you may be tempted to peel it off. Here's why you shouldn't.
 
-### How does the digital ink in ereaders work?
-Sat, 07 Nov 2026 17:00:00 +0000 — https://www.engadget.com/2306305/how-does-ereader-nook-amazon-kindle-digital-ink-work/
+### Why you should never put your PlayStation 5 on a carpeted floor
+Sat, 07 Nov 2026 23:45:00 +0000 — https://www.engadget.com/2306821/why-never-put-playstation-5-on-carpeted-floor/
 
-Unlike regular LCD and OLED displays, ereaders rely on e-ink tech that lets them gently sip power and last for months. Here's the science behind how it works.
+The PlayStation 5 needs to stay cool when playing games, and a carpet is a literal hotbed. Here's the best ways to store a PS5 while keeping it cool.
 
-### Solar panel breakthrough could almost double the efficiency of today's panels
-Sat, 07 Nov 2026 16:45:00 +0000 — https://www.engadget.com/2306188/solar-panel-efficiency-breakthrough-doubles-output/
+### The pros and cons of using an Amazfit smartwatch
+Sat, 07 Nov 2026 23:30:00 +0000 — https://www.engadget.com/2306820/using-amazfit-smartwatch-pros-and-cons/
 
-Solar panels have become much more efficient since their infancy, but research breakthroughs show there's still plenty of room for improvement.
+Thinking about an Amazfit smartwatch? Find out what makes these budget wearables so appealing and where they fall short before you spend your money.
 
-### This GPS navigation app should be the go-to for older drivers
-Sat, 07 Nov 2026 16:30:00 +0000 — https://www.engadget.com/2305919/gps-navigation-app-go-to-older-drivers-google-maps/
+### Claude Personal Finance vs. ChatGPT Finances: What sets them apart?
+Sat, 07 Nov 2026 23:10:20 +0000 — https://www.engadget.com/2310182/claude-vs-chatgpt-personal-finance-comparison/
 
-Nervous about driving somewhere new? One familiar navigation app has simple turn-by-turn directions that help older drivers feel more confident.
+Both AI tools offer to delve deep into your bank accounts, but they differ in privacy settings.
 
-### What gamers should know when bringing their consoles through TSA
-Sat, 07 Nov 2026 16:15:00 +0000 — https://www.engadget.com/2305767/gamers-tsa-game-console-rules/
+### What discs can a PlayStation 5 play?
+Sat, 07 Nov 2026 23:00:00 +0000 — https://www.engadget.com/2306942/playstation-5-playable-discs-explained/
 
-You're allowed to bring your game consoles through the TSA line, but what exactly you need to do depends on the airport and console size.
+The PS5 can't play every disc that the PS3 and PS4 were compatible with, but most of what you'll want to play and watch is supported.
 
-### The right way to fix your MacBook keyboard if it isn't responding
-Sat, 07 Nov 2026 16:00:00 +0000 — https://www.engadget.com/2305570/macbook-keyboard-fix-not-responding/
+### What does NAT type mean for online gaming?
+Sat, 07 Nov 2026 22:30:00 +0000 — https://www.engadget.com/2309599/what-nat-type-means-online-gaming/
 
-Don't count out your MacBook's keyboard just yet - a quick hardware cleaning or software toggle could get it working again.
+If you regularly play online games, you may have noticed a setting called NAT type or even got an alert about it. Here's what it means and why it matters.
 
-### Cleaning your PC with expired isopropyl alcohol can be risky — here's why
-Sat, 07 Nov 2026 15:45:00 +0000 — https://www.engadget.com/2305456/why-isopropyl-alcohol-degrades-pc-cleaning/
+### The disadvantages of owning smart refrigerators
+Sat, 07 Nov 2026 22:15:00 +0000 — https://www.engadget.com/2309569/disadvantages-owning-smart-refrigerators/
 
-Think twice before grabbing that old bottle. Here's why expired isopropyl alcohol can harm your PC and how to clean it the safe way instead.
+A smart refrigerator can change how you manage your kitchen, but its features come with practical drawbacks worth checking before making a purchase.
 
 ## TechCrunch
+
+### After the midterms, things are looking rocky for Elon Musk and data centers
+Sat, 07 Nov 2026 22:07:22 +0000 — https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/
+
+On Equity, we unpacked what the midterms mean for the tech industry.
+
+### Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo
+Sat, 07 Nov 2026 21:17:08 +0000 — https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/
+
+A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.
+
+### Parents want safer phones for kids. These companies are answering the call.
+Sat, 07 Nov 2026 19:00:00 +0000 — https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/
+
+As parents look for alternatives to unrestricted smartphones, a growing number of companies are building phones designed specifically for kids, from feature-limited mobile devices to minimalist home phones.
 
 ### Binance CFO is leaving to pursue a new venture after $6.3 billion hack
 Sat, 07 Nov 2026 17:24:07 +0000 — https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/
@@ -408,19 +423,4 @@ Security researchers found hundreds of servers hosting the penetration testing t
 Fri, 06 Nov 2026 18:44:20 +0000 — https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/
 
 Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.
-
-### After the midterms, is the AI industry in for a rough two years?
-Fri, 06 Nov 2026 17:23:52 +0000 — https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/
-
-Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot directly, they were a [ ]
-
-### Pentagon offers battery startup 6K $250M loan to build US factory
-Fri, 06 Nov 2026 16:50:01 +0000 — https://techcrunch.com/2026/11/06/pentagon-offers-battery-startup-6k-250m-loan-to-build-u-s-factory/
-
-The Pentagon has conditionally approved a $250 million loan to help 6K scale up its microwave-plasma battery material manufacturing process.
-
-### Fox completes its $22B acquisition of Roku
-Fri, 06 Nov 2026 16:05:36 +0000 — https://techcrunch.com/2026/11/06/fox-completes-its-22b-acquisition-of-roku/
-
-A few months after DOJ investigators were probing the deal, Fox just completed its $22B acquisition of the streaming giant Roku.
 

@@ -1,6 +1,26 @@
-# Manga — harvested 2026-11-07T18:18:11.126Z
+# Manga — harvested 2026-11-08T11:31:08.861Z
 
 ## Anime News Network
+
+### Bride of the Barrier Master Anime Streams Videos for Leads Hana Ichise, Saku Ichinomiya
+Sun, 08 Nov 2026 05:53:36 -0500 — https://www.animenewsnetwork.com/news/2026-11-08/bride-of-the-barrier-master-anime-streams-videos-for-leads-hana-ichise-saku-ichinomiya/.243623
+
+Akari Kitō voices Hana, Kikunosuke Toya voices Saku in anime debuting in January
+
+### New Minami-ke Korekara TV Anime's Teaser Unveils Cast, Staff, April Debut
+Sun, 08 Nov 2026 01:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-08/new-minami-ke-korekara-tv-anime-teaser-unveils-cast-staff-april-debut/.243619
+
+Cast returns after 14 years in Liden Films anime
+
+### Fist of the North Star's Tetsuo Hara Illustrates New Pokémon Card
+Sat, 07 Nov 2026 23:59:00 -0500 — https://www.animenewsnetwork.com/interest/2026-11-07/fist-of-the-north-star-tetsuo-hara-illustrates-new-pokemon-card/.243611
+
+The Pokémon are Shock!
+
+### Harajuku Himegoto House Multimedia Project Announced
+Sat, 07 Nov 2026 20:51:50 -0500 — https://www.animenewsnetwork.com/news/2026-11-07/harajuku-himegoto-house-multimedia-project-announced/.243612
+
+Project about cafe staffed by assassins includes TV anime
 
 ### Memoirs of Amorous Gentlemen Musical Review
 Sat, 07 Nov 2026 12:00:00 -0500 — https://www.animenewsnetwork.com/review/memoirs-of-amorous-gentlemen/musical/.243017
@@ -42,31 +62,21 @@ Fri, 06 Nov 2026 21:00:00 -0500 — https://www.animenewsnetwork.com/interest/20
 
 What sort of wild new recipes will Laios come up with?
 
-### Magic Knight Rayearth ‒ Episode 5
-Fri, 06 Nov 2026 19:30:00 -0500 — https://www.animenewsnetwork.com/review/magic-knight-rayearth/episode-5/.243594
-
-Even Fuu knows that Fuu is the best character here. Queen.
-
-### Hana-Kimi Manga Gets New Live-Action Series, 1st Stage Play
-Fri, 06 Nov 2026 18:51:13 -0500 — https://www.animenewsnetwork.com/news/2026-11-06/hana-kimi-manga-gets-new-live-action-series-1st-stage-play/.243601
-
-Hana Kawamura, The Rampage's Makoto Hasegawa & Itsuki Fujiwara star in both
-
-### North American Anime, Manga Releases, November 1-7
-Fri, 06 Nov 2026 17:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-06/north-american-anime-manga-releases-november-1-7/.243459
-
-<cite>KPop Demon Hunters</cite> animated film; <cite>Black Jack, Full Metal Panic! Family</cite> manga ship
-
-### FX Fighter Kurumi-chan ‒ Episode 6
-Fri, 06 Nov 2026 16:30:00 -0500 — https://www.animenewsnetwork.com/review/fx-fighter-kurumi-chan/episode-6/.243581
-
-It's like slapstick, watching a stupid character fail, then succumb to the consequences—if instead of comically tripping down a flight of stairs, she was losing all of her student aid money and trashing her laptop in a fit of rage
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### SPY x FAMILY Season 4 and Movie Announced in 2027
+Sun, 08 Nov 2026 10:59:44 GMT — https://animecorner.me/spy-x-family-season-4-and-movie-announced-in-2027/
+
+SPY x FAMILY Season 4 and a movie has been announced and is slated&hellip;
+
+### Minami-ke Season 5 Reveals Teaser Visual, Trailer, April 2027 Premiere
+Sun, 08 Nov 2026 10:28:37 GMT — https://animecorner.me/minami-ke-season-5-reveals-teaser-visual-trailer-april-2027-premiere/
+
+The previously announced Minami-ke Season 5 revealed a teaser visual and trailer along with&hellip;
 
 ### Gacha Girls Corps Anime Premieres January 7
 Sat, 07 Nov 2026 15:57:58 GMT — https://animecorner.me/gacha-girls-corps-anime-premieres-january-7/
@@ -98,22 +108,12 @@ Fri, 06 Nov 2026 12:20:03 GMT — https://animecorner.me/rainy-day-serenade-anim
 
 Rainy Day Serenade anime revealed a key visual and teaser trailer on Friday, featuring&hellip;
 
-### Laid-Back Camp Season 4 Anime Reveals New Trailer, Visual, April 2027 Release Date
-Fri, 06 Nov 2026 09:19:55 GMT — https://animecorner.me/laid-back-camp-season-4-anime-reveals-new-trailer-visual-april-2027-release-date/
-
-Laid-Back Camp Season 4 anime released a new visual and trailer, along with an&hellip;
-
-### Interview: The Creators and Cast of Sentenced to Be a Hero
-Fri, 06 Nov 2026 06:14:24 GMT — https://animecorner.me/interview-the-creators-and-cast-of-sentenced-to-be-a-hero/
-
-Sentenced to Be a Hero is a light novel series and anime that flips&hellip;
-
-### Interview: Asta Voice Actors Gakuto Kajiwara and Dallas Reid on Black Clover Season 2
-Fri, 06 Nov 2026 04:01:32 GMT — https://animecorner.me/interview-asta-voice-actors-gakuto-kajiwara-and-dallas-reid-on-black-clover-season-2/
-
-Black Clover returned after 5 years this Fall with Season 2, bringing with it&hellip;
-
 ## MyAnimeList News
+
+### Minami-ke Korekara Reveals New Staff, Teaser Promo, Spring 2027 Premiere
+Sat, 07 Nov 2026 22:43:49 -0800 — https://myanimelist.net/news/74916427?_location=rss
+
+The Minami-ke Special Event 2026 revealed new staff, teaser visual (pictured), and teaser promotional video for the Season 5 on Sunday. The fifth season adapting Coharu Sakuraba s comedy slice of life manga will premiere in April 2027. Voice actresses Rina Satou (Akiba Meido Sensou), Marina Inoue (Date A Live), and Minori Chihara (Kyoukai no Kanata) are reprising their respective roles from the previous seasons. Staff Director: Junichi Kitamura (Ballpark de Tsukamaete!) NEW Series Compositi...
 
 ### Houkago no Idol ni wa Himitsu ga Aru Reveals Additional Cast, Ending Theme
 Sat, 07 Nov 2026 01:30:53 -0800 — https://myanimelist.net/news/74913365?_location=rss
@@ -140,44 +140,19 @@ Fri, 06 Nov 2026 03:34:35 -0800 — https://myanimelist.net/news/74910185?_locat
 
 The official website for the television anime adaptation of Haruka Kawachi s Namidaame to Serenade (Rainy Day Serenade) manga revealed the main cast, staff, the first key visual (pictured right), a celebratory illustration drawn by the creator (pictured center), and a teaser promotional video on Friday. The anime is scheduled to premiere in April 2027. Voice actors Yume Miyamoto (Yomi no Tsugai) and Takeo Ootsuka (Medalist) are starring in the anime as Hina Katagiri and Takaaki Hongou, res...
 
-### Manga Killing Bites Concludes with 28th Volume
-Fri, 06 Nov 2026 03:15:31 -0800 — https://myanimelist.net/news/74910161?_location=rss
-
-Shinya Murata and Kazasa Sumita s Killing Bites manga ended its serialization on October 23. The 145th and final chapter marked the end of its nearly 13-year run. The 28th and final volume is scheduled to be released on December 25. In the commemorative message, Murata expressed his gratitude to readers who had followed the manga throughout its nearly 13-year serialization. He also reflected on the central question behind the story, "What is the strongest beast?" Describing it as...
-
-### Yuru Camp△ Season 4 Reveals Additional Staff, Theme Songs, Main Promo, Spring 2027 Premiere
-Fri, 06 Nov 2026 01:36:07 -0800 — https://myanimelist.net/news/74910044?_location=rss
-
-The official website of the Yuru Camp△ (Laid-Back Camp) anime series revealed additional staff, theme songs, main visual (pictured), and main promotional video for Season 4 on Friday. The new season adapting Afro s slice of life manga will begin airing in April 2027. Staff Cooking Design: Kouichi Motomura (Blend S animation director) Prop Design: Masaki Inada (NieR:Automata Ver1.1a Part 2 animation director) Color Design: Nanako Okazaki (Uma Musume: Cinderella Gray) Art Director: Masatoshi...
-
-### Kizuguchi to Houtai Reveals Additional Cast, Staff, Opening Theme, First Promo
-Thu, 05 Nov 2026 23:38:34 -0800 — https://myanimelist.net/news/74909626?_location=rss
-
-The official website for the television anime adaptation of Nanai Umihoshi s Kizuguchi to Houtai (Wound and Bandage) manga revealed additional cast, staff, a key visual (pictured), the opening theme, and first promotional video on Friday. The anime series will premiere on January 9, 2027 at 11:00 p.m. on AT-X, followed by ABC TV and TV Asahi on the ANiMAZiNG programming block. Cast Shouta Kawaramori: Kou Bonkobara (Danjo no Yuujou wa Seiritsu suru? (Iya, Shinai!!)) Mamoru Fujiyoshida: Kengo...
-
-### Manga Hagure Idol: Jigoku-hen Gets TV Anime in Winter 2027
-Thu, 05 Nov 2026 21:11:20 -0800 — https://myanimelist.net/news/74909290?_location=rss
-
-WWWave Corporation s Deregula animation label opened an official website for a television anime adaptation of Rui Takatou s Hagure Idol: Jigoku-hen (Booty Royale: Never Go Down Without a Fight!) manga on Friday, revealing the main cast, staff, and a commemorative visual (pictured). The anime series will premiere in January 2027. Cast Misora Haebaru: Hisako Toujou (Boushoku no Berserk) Sarah Goujima: Nao Shiraki (Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen) Yun-Hui...
-
-### Manga 33-sai Dokushin Onna Kishi Taichou. Gets Anime Adaptation in 2027
-Thu, 05 Nov 2026 19:30:22 -0800 — https://myanimelist.net/news/74909101?_location=rss
-
-Content platform Digital Shokunin announced an anime adaptation of Amahara s 33-sai Dokushin Onna Kishi Taichou. (33 Years Old Single Female Knight Captain.) manga on Friday, revealing the main character designs (pictured above) and a commemorative music video. The anime project celebrates the series 10th anniversary and is scheduled to premiere in 2027. Amahara began serializing comedy fantasy manga on the Ananga Ranga adult digital magazine in October 2015. Flex Comics published th...
-
 ## Otaku USA
 
 _Nothing in the last 48 hours._
 
 ## Anime UK News
 
+### Trigun Stampede Review
+Sun, 08 Nov 2026 10:00:27 +0000 — https://animeuknews.net/2026/11/trigun-stampede-review/
+
+Return to the planet of Noman's Land, and discover Vash the Stampede's story as never before...
+
 ### Teacher, We Will Destroy the World! Volume 2 Review
 Sat, 07 Nov 2026 10:00:48 +0000 — https://animeuknews.net/2026/11/teacher-we-will-destroy-the-world-volume-2-review/
 
 Solo's plan to get Xioa back to class has hit a roadblock as the boy turns against him and takes Ibuki hostage. What did he truly wish to learn forbidden magic for?
-
-### My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I’m Out For Revenge! Review
-Fri, 06 Nov 2026 10:00:25 +0000 — https://animeuknews.net/2026/11/my-gift-lvl-9999-unlimited-gacha-backstabbed-in-a-backwater-dungeon-im-out-for-revenge-review/
-
-A new anime label debuts in the UK with this fantasy show about a boy with an unlikely power on a vendetta against the party of adventurers that betrayed him.
 

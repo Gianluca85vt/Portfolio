@@ -1,6 +1,21 @@
-# Games — harvested 2026-11-07T18:18:11.126Z
+# Games — harvested 2026-11-08T11:31:08.861Z
 
 ## Eurogamer
+
+### Star Wars Zero Company studio Bit Reactor lays off staff, a month after bringing furloughed developers back
+Sat, 07 Nov 2026 20:06:10 +0000 — https://www.eurogamer.net/star-wars-zero-company-bit-reactor-layoffs
+
+Star Wars Zero Company developer Bit Reactor has laid off an unspecified number of staff, a month after bringing some of its furloughed team back to work. Read more
+
+### Sony delays PlayStation's Pulse Elevate speakers indefinitely, less than a week before launch
+Sat, 07 Nov 2026 19:36:10 +0000 — https://www.eurogamer.net/playstation-pulse-elevate-speakers-delayed-indefinitely-production-issue
+
+Sony has delayed its Pulse Elevate wireless speakers indefinitely, less than a week before they were due to launch. Read more
+
+### Assassin's Creed is reportedly going to ancient Rome, while a mobile spin-off heads to Jerusalem
+Sat, 07 Nov 2026 19:16:50 +0000 — https://www.eurogamer.net/assassins-creed-mars-ancient-rome-pocket-mobile-jerusalem-rumour
+
+Ubisoft is reportedly working on two new Assassin's Creed games , and one of them is set in ancient Rome. Read more
 
 ### Wardogs Season 3 brings an urban map, Limited Mode, and a 185,000-account ban wave
 Sat, 07 Nov 2026 16:55:30 +0000 — https://www.eurogamer.net/wardogs-season-3-release-date-limited-mode-ban-wave
@@ -47,21 +62,6 @@ Fri, 06 Nov 2026 12:28:10 +0000 — https://www.eurogamer.net/square-enix-nier-a
 
 Yesterday, Nier: Automata received a new patch on Steam, adding more language support to the title - it can now be played with Korean, Simplified Chinese, and Traditional Chinese options - but this new update also, somehow, inflated the file size of the game on PC from about 50GB to 366GB. D'oh! What's worse is, the update is not optional. Read more
 
-### Following BioWare's shock closure, a new documentary capturing its final moments is coming next year
-Fri, 06 Nov 2026 12:24:20 +0000 — https://www.eurogamer.net/bioware-closure-documentary-release
-
-A documentary detailing the history of beloved Mass Effect studio BioWare is releasing next year, and will cover last month's shock closure of the studio, following the private acquisition of owner EA. Read more
-
-### Former Rockstar Games tech director thinks GTA 6 could be coming to PC sooner than you'd expect to curb AI clones
-Fri, 06 Nov 2026 12:02:40 +0000 — https://www.eurogamer.net/grand-theft-auto-6-pc-sooner-than-you-expect-curb-ai-clone
-
-Former Rockstar Games North technical director Obbe Vermeij believes that the possibility of AI vibe coded ports of Grand Theft Auto 6 could push Rockstar to create an official PC version sooner than you'd expect. Read more
-
-### "Is there any accountability left in this world?" Warren Spector pops off at EA executives and their massive payouts as BioWare shuts down
-Fri, 06 Nov 2026 10:15:20 +0000 — https://www.eurogamer.net/bioware-closure-warren-spector-comments-accountability
-
-It's only been two weeks since we last heard Warren Spector sound off about EA's sudden decision to close BioWare , following the publisher's acquisition by Saudi Arabia's PIF and venture capitalist concerns. But now, the storied developer is back and - apparently - angrier than ever. Read more
-
 ## GamesIndustry.biz
 
 ### Elections signal cultural shifts that no creative industry can dare to ignore | Opinion
@@ -79,31 +79,21 @@ Fri, 06 Nov 2026 13:53:10 +0000 — https://www.gamesindustry.biz/jobs-roundup-n
 
 It can be difficult keeping track of the various comings and goings in the games industry, which is why we compile them in semi-regular round-ups. Read more
 
-### Sega Q2 results exceed expectations, driven by surge in operating income for pachislot and pachinko machines
-Fri, 06 Nov 2026 11:30:10 +0000 — https://www.gamesindustry.biz/sega-q2-results-exceed-expectations-driven-by-surge-in-operating-income-for-pachislot-and-pachinko-machines
-
-Sega's second quarter results for 2026 have exceeded expectations, driven by a 331.6% surge in operating income for its pachislot and pachinko machines business. Read more
-
-### Unity reports "strongest ever" Q3 results driven by its AI-powered ad network Vector
-Fri, 06 Nov 2026 10:04:40 +0000 — https://www.gamesindustry.biz/unity-reports-strongest-ever-q3-results-driven-by-its-ai-powered-ad-network-vector
-
-Unity has delivered its "strongest ever" third quarter results, driven by a 126% year-on-year growth in its AI-powered ad network Vector. Read more
-
-### Unity reportedly in acquisition talks with Silver Lake and Public Investment Fund, two firms involved in EA's $55bn buyout
-Fri, 06 Nov 2026 08:59:40 +0000 — https://www.gamesindustry.biz/unity-reportedly-in-acquisition-talks-with-silver-lake-and-public-investment-fund-two-firms-involved-in-eas-55bn-buyout
-
-Unity has reportedly engaged in acquisition talks with private equity firm Silver Lake and Saudi Arabia's Public Investment Fund (PIF), both of which acquired Electronic Arts for $55 billion earlier this year . Read more
-
-### How to get investment for your video game in 2026
-Fri, 06 Nov 2026 07:55:00 +0000 — https://www.gamesindustry.biz/how-to-get-investment-for-your-video-game-in-2026
-
-GamesIndustry.biz hosted a panel during Game Republic's Investment Summit at MCM Comic Con in London on October 23 , where editorial director Jon Hicks talked to Lirui Ding (principal at Transcend Fund), Nick Cavander (senior portfolio manager at Creative UK), and Cassia Curran (founder of Curran Games Agency) about the current state of investment in the games industry. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Sony Indefinitely Delays Another PS5 Peripheral Days Before Release
+Sun, 08 Nov 2026 00:00:00 GMT — https://www.pushsquare.com/news/2026/11/sony-indefinitely-delays-another-ps5-peripheral-days-before-release
+
+Desktop speakers switched off for now. Sony has indefinitely delayed the PS5’s official Pulse Elevate desktop speakers, which were originally due to deploy days from now, on 12th November. In a brief update on the PS Blog , the manufacturer said that it had “identified a production issue with the product and have made the decision to delay the launch”. Read the full article on pushsquare.com
+
+### Feature: Going Platinum: For About Two Months, I Was a Devout Member of the Cult of the Lamb
+Sat, 07 Nov 2026 20:00:00 GMT — https://www.pushsquare.com/features/going-platinum-for-about-two-months-i-was-a-devout-member-of-the-cult-of-the-lamb
+
+No need to be sheepish about it. Platinum Trophy #40: Cult of the Lamb Date Earned: 11th October 2022 Read the full article on pushsquare.com
 
 ### PlayStation Exclusive Branding Added to Tentpole PS5 Games as Sony Doubles Down
 Sat, 07 Nov 2026 15:30:00 GMT — https://www.pushsquare.com/news/2026/11/playstation-exclusive-branding-added-to-tentpole-ps5-games-as-sony-doubles-down
@@ -113,7 +103,7 @@ Only on PS5. For a period of the PS5 generation, Sony ported its games to the PC
 ### GTA 6 s PS5 Physical Edition Revealed in First Photo
 Sat, 07 Nov 2026 15:00:00 GMT — https://www.pushsquare.com/news/2026/11/gta-6s-ps5-physical-edition-revealed-in-first-photo
 
-Code-in-box. An image of GTA 6’s physical edition has emerged on Reddit , ahead of its release later in the month. The anticipated open world game – which won’t include a disc – looks practically identical to every other PS5 release, in a sealed blue plastic case with the usual logos and layout. Read the full article on pushsquare.com
+Code-in-box. Images of GTA 6’s physical edition have emerged on Reddit , ahead of its release later in the month. The anticipated open world game – which won’t include a disc – looks practically identical to every other PS5 release, in a sealed blue plastic case with the usual logos and layout. Read the full article on pushsquare.com
 
 ### Guide: These 13+ PS5 Games Are Coming Out Next Week (9th-15th November)
 Sat, 07 Nov 2026 12:00:00 GMT — https://www.pushsquare.com/guides/these-13plus-ps5-games-are-coming-out-next-week-9th-15th-november
@@ -155,16 +145,6 @@ Fri, 06 Nov 2026 13:30:00 GMT — https://www.pushsquare.com/news/2026/11/these-
 
 Going offline. The end of the year is always a prime time for PS5 game delistings and server closures, but fortunately we’re being spared a large list this year. There are about eight titles with impending changes you need to be aware of, so here’s the full list: Read the full article on pushsquare.com
 
-### Sony s Killing This Ratchet & Clank Game Before It Even Comes Out
-Fri, 06 Nov 2026 13:00:00 GMT — https://www.pushsquare.com/news/2026/11/sonys-killing-this-ratchet-and-clank-game-before-it-even-comes-out
-
-No more Ranger Rumble. One of PlayStation's mobile games is shutting up shop, and it's doing so before it's managed to launch globally. You may recall Ratchet & Clank: Ranger Rumble , a mobile multiplayer game set within Insomniac Games' beloved sci-fi universe. Read the full article on pushsquare.com
-
-### New PS Plus Perks Revealed, Includes Discounts and Free Trials
-Fri, 06 Nov 2026 11:15:00 GMT — https://www.pushsquare.com/news/2026/11/new-ps-plus-perks-revealed-includes-discounts-and-free-trials
-
-Available in the UK, France, and Germany. Sony has revealed a new slate of perks for having an active PS Plus membership at any tier. In addition to what it offers on your PS5, PS4 console, these additions let you try subscriptions and receive discounts on products if you are signed up to PS Plus. Please note these offers are only open to PS Plus members in the UK, France, and Germany. Here is what you can claim: Read the full article on pushsquare.com
-
 ## Game Developer
 
 ### SAG-AFTRA introduces new process for hiring union actors in game pitches
@@ -183,6 +163,16 @@ Fri, 06 Nov 2026 15:36:44 GMT — https://www.gamedeveloper.com/console/sony-ins
 As part of the media giant's quarterly financial report, Sony states that progress toward the next generation of consoles is proceeding on schedule.
 
 ## VGC
+
+### Zelda OOT Remake: Win the Treasure Chest Shop game
+Sat, 07 Nov 2026 22:29:51 +0000 — https://www.videogameschronicle.com/guide/zelda-oot-remake-win-treasure-chest-shop-game/
+
+How to win the Treasure Chest Shop game in The Legend of Zelda: Ocarina of Time remake… Source
+
+### Zelda OOT Remake: Full Bottom of the Well walkthrough
+Sat, 07 Nov 2026 19:47:04 +0000 — https://www.videogameschronicle.com/guide/zelda-oot-remake-full-bottom-of-the-well-walkthrough/
+
+Everything you need to get the Lenses of Truth from the Bottom of the Well in The Legend of Zelda: Ocarina of Time remake… Source
 
 ### Zelda OOT Remake: Business Scrub Password solution
 Sat, 07 Nov 2026 18:06:58 +0000 — https://www.videogameschronicle.com/guide/zelda-oot-remake-business-scrub-password-solution/
@@ -224,69 +214,79 @@ Fri, 06 Nov 2026 14:44:21 +0000 — https://www.videogameschronicle.com/news/son
 
 Ratchet & Clank: Ranger Rumble was soft-launched in some regions but never got a full release… Source
 
-### Zelda OOT Remake: Find Richard the Dog in Castle Town Market at night
-Fri, 06 Nov 2026 14:35:09 +0000 — https://www.videogameschronicle.com/guide/zelda-oot-remake-find-richard-the-dog-in-castle-town-market-at-night/
-
-How to figure out which dog is Richard in Zelda: Ocarina of Time's Nintendo Switch 2 remake… Source
-
-### Capcom games including RE Requiem and Pragmata heavily discounted on PC
-Fri, 06 Nov 2026 13:35:24 +0000 — https://www.videogameschronicle.com/news/capcom-games-including-re-requiem-and-pragmata-heavily-discounted-on-pc/
-
-Fanatical’s Birthday Bash Sale sees up to 74% off Capcom' Source
-
 ## Polygon
 
-### I Wouldn’t Dream of Playing the Zelda: Ocarina of Time Remake Right Now
-Sat, 07 Nov 2026 18:00:17 GMT — https://www.polygon.com/switchboard-zelda-ocarina-of-time-switch-2-remake/
+### Matt Mercer's Best Critical Role Quote Is Still the Most Inspiring Line in D&D History
+Sun, 08 Nov 2026 11:00:17 GMT — https://www.polygon.com/matthew-mercer-dungeon-master-advice-dungeons-and-dragons/
 
-Switchboard is Polygon's weekly newsletter for all things Nintendo, sent on Thursdays and published on the site on Saturdays. You can subscribe here .
+Matthew Mercer is one of the world's most popular Dungeon Masters. Alongside other incredible DMs like Deborah Ann Woll, Brennan Lee Mulligan, and Aabria Iyengar, Mercer has undeniably shaped how players worldwide approach tabletop role-playing games. As Critical Role , the multimedia entertainment company Mercer co-founded, has grown and evolved over the years, one thing has remained constant: Mercer’s willingness to help other tabletop players. He is especially eager to support aspiring Dungeon Masters who hope to develop their skills and become as accomplished as he is, even appearing on the official Dungeons & Dragons YouTube page to provide assistance.
 
-### Grand Theft Auto 6 Physical Copies Are Officially in the Wild
-Sat, 07 Nov 2026 17:26:29 GMT — https://www.polygon.com/gta-6-grand-theft-auto-physical-copies-retail/
+### 68 Years Later, Peanuts’ Most Mysterious Character Is Finally Making Her Official Debut — But There's a Catch
+Sun, 08 Nov 2026 10:30:17 GMT — https://www.polygon.com/charlie-brown-pencil-pal-history-peanuts/
 
-With preloads for Grand Theft Auto 6 just around the corner, Rockstar Games has sent the code-in-box editions to retailers, so stores can deliver them to customers on time. Shipments have started to arrive, giving us a first look at the physical edition of Grand Theft Auto 6 .
+There are some elements of Charles Schulz's Peanuts comic that have hardly aged at all, such as the characters' relationships or its focus on team sports. Most kids in America, before or since, have had the experience of being on a team where one kid is taking the game way too seriously while another seems barely aware of what's going on.
 
-### Commander Shepard’s Actors Are ‘Wildly Hopeful’ for Mass Effect, Despite Everything
-Sat, 07 Nov 2026 17:00:19 GMT — https://www.polygon.com/mass-effect-commander-shepard-jennifer-hale-mark-meer-interview-n7-day-2026/
+### Bethesda's Most Reviled Game Becomes a 10/10 If You Ignore the Story
+Sun, 08 Nov 2026 10:00:17 GMT — https://www.polygon.com/starfield-retrospective-bethesda-story/
 
-Fans have tangled with a mix of emotions knowing that it’s unlikely they’ll ever get to play a new BioWare-developed Mass Effect again. But, if you ask the voices of Commander Shepard, they’re oddly optimistic about the future despite the circumstances. Polygon recently spoke to Mark Meer and Jennifer Hale , the voice actors for Shepard, about the strength of Mass Effect’s community, the closure of BioWare, and the studio’s legacy.
+Recently, Bethesda dominated conversations simply by announcing that the long-awaited Elder Scrolls 6 has an official subtitle : Sentinel . We didn’t learn much more than that, but it was enough to keep us talking because that’s the sort of hold Bethesda has on us. Sometimes. There have been other instances, however, when the hold loosened.
 
-### Wardogs Season 3 Will Add A Mode That Limits What Weapons Players Can Use
-Sat, 07 Nov 2026 16:47:52 GMT — https://www.polygon.com/wardogs-season-3-reveal/
+### Anya Taylor-Joy's Billion-Dollar Sci-Fi Epic Officially Sets New Streaming Home on Netflix
+Sun, 08 Nov 2026 09:30:17 GMT — https://www.polygon.com/anya-taylor-joy-sci-fi-netflix-super-mario-galaxy-movie/
 
-Bulkhead and Team17 shared the first details on what players can expect from Wardogs Season 3 in a new video. One of the most notable additions is Limited Mode, a new way to play Wardogs that restricts what weapons and other upgrades players have access to.
+Anya Taylor-Joy captivated audiences as chess prodigy Beth Harmon in Netflix ’s 2020 miniseries The Queen’s Gambit . Her performance balanced poise with emotional depth, creating a character whose story and presence have lingered with viewers long after the series ended. Even years later, the role remains especially memorable — more so than her appearances in action-packed franchises, including Fox’s Marvel superhero film The New Mutants .
 
-### Path of Exile 2 Sets The Stage For Massive Update Alongside December Launch
-Sat, 07 Nov 2026 16:13:09 GMT — https://www.polygon.com/path-of-exile-2-launch-update/
+### Sydney Sweeney’s Extremely R-Rated 131-Minute Thriller Is Officially Streaming on HBO
+Sun, 08 Nov 2026 09:09:17 GMT — https://www.polygon.com/sydney-sweeney-erotic-thriller-the-housemaid-hbo-max/
 
-At ExileCon 2026, Grinding Gear Games gave us a deep dive into everything we can expect to be added to Path of Exile 2 by the time its 1.0 launch happens next month. That includes a new stealth-driven class, two more narrative acts for its campaign, and a new league called Conquerors of Wraeclast .
+Despite its overwhelming commercial success, Freida McFadden’s psychological thriller, The Housemaid , is far from a perfect read. Trope-heavy and full of obvious contrivances, The Housemaid sets up a tense domestic thriller premise that is meant to be consumed as a fast-paced popcorn novel. This, however, sets the stage for a pulpy screen adaptation, one that mimics the conventions of a lurid thriller with some decent character writing to round things out.
 
-### GI Joe and Paranormal Activity Get New Official Release Dates from Paramount
-Sat, 07 Nov 2026 15:31:59 GMT — https://www.polygon.com/paramount-gi-joe-release-date-paranormal-activity-delay/
+### 10 Perfectly Designed Final Fantasy Magic Cards That Are 10/10, No Notes
+Sun, 08 Nov 2026 05:00:17 GMT — https://www.polygon.com/best-final-fantasy-magic-the-gathering-card-designs/
 
-Paramount Pictures has announced that Danny McBride's G.I. Joe reboot is expected to premiere in movie theaters in late 2028. Unfortunately, not all news is good; Paramount has also pushed back the next installment in the Paranormal Activity horror series by six months.
+Packed with hilarious nods, like Suplex , and incredible powerhouses, like Diamond Weapon , it comes as no surprise that Final Fantasy is among the best Universe Beyond sets in the game. But the most perfect designs among them capture a fundamental element of their source material, whether that's Bahamut 's devastating Mega Flare, Phoenix Down' s clutch resurrection, or the sheer spectacle of summoning Primal Odin .
 
-### World of Warcraft Forever Officially Breaks Records For The 22-Year-Old MMO
-Sat, 07 Nov 2026 15:25:08 GMT — https://www.polygon.com/world-of-warcraft-forever-record-breaking-launch/
+### Paramount’s 4-Part Action Fantasy Epic Has One of the Best Seasons in TV History
+Sun, 08 Nov 2026 04:00:17 GMT — https://www.polygon.com/the-legend-of-korra-season-3-best-season/
 
-Blizzard Entertainment launched World of Warcraft Forever on Nov. 4, and it already seems very happy with the results. The launch went much more smoothly than some previous Blizzard game releases, and it even broke some records, an impressive feat for something building on a nearly 22-year-old MMO.
+Few things feel more grown-up than dealing with the consequences of your actions. Whether you stay up too late and still have to get up the next day or make a mistake at work and have to answer for it, adulthood means no one’s coming to fix things. For the most part, it’s all up to you.
 
-### One Of Hollywood's Biggest Stars Just Auditioned For James Bond
-Sat, 07 Nov 2026 14:51:43 GMT — https://www.polygon.com/james-bond-robert-pattinson/
+### 9 Near-Perfect Dragon Age Replacements For Fans of Fantasy RPGs
+Sun, 08 Nov 2026 03:40:49 GMT — https://www.polygon.com/best-dragon-age-replacements/
 
-As auditions for the next James Bond continue, new names are emerging and revealing which actors are up for the role. The latest on this from The Hollywood Reporter was particularly surprising, as it revealed some A-list Hollywood talent screen-tested for 007.
+BioWare’s Dragon Age is a fantasy RPG series about warring factions, world-ending threats, and, yes, the occasional dragon – but that’s the first-glance take. Get into one Dragon Age game ( start with Origins ! ) and you’ll see that the true heart of this series is the people you drag into hell with you.
 
-### Ridley Scott’s R-Rated Sci-Fi Masterpiece is Officially Being Cut From Netflix
-Sat, 07 Nov 2026 13:16:18 GMT — https://www.polygon.com/alien-ridley-scott-sci-fi-movie-streaming-december-2026/
+### How to Play Every GTA Game in 2026
+Sun, 08 Nov 2026 02:54:13 GMT — https://www.polygon.com/gta-games-all-2026-where-to-play/
 
-Ridley Scott has directed some of the most iconic science fiction movies of all time, from Blade Runner to The Martian . However, few have had the same lasting impact as his 1979 sci-fi horror classic Alien . The film helped redefine the genre by combining the terror of a slasher movie with the vast, isolating setting of outer space, introducing audiences to one of cinema's most memorable monsters in the process.
+Rockstar Games seems to have an ambivalent attitude towards GTA's past, particularly the early 2D games and some spinoff titles, and its record in making these games available is decidedly spotty. Below, we break down the current state of availability of every game in the series — where you can find it, and what the best way to play it is.
 
-### 10 Funniest 'Far Side' Comics About Cows
-Sat, 07 Nov 2026 12:14:17 GMT — https://www.polygon.com/funniest-far-side-comics-cows/
+### 8 Near-Perfect BioWare Games That Aged Like Fine Wine
+Sun, 08 Nov 2026 02:43:33 GMT — https://www.polygon.com/top-bioware-games/
 
-From 1980 until 1995, cartoonist Gary Larson wrote and drew The Far Side . It was a single panel comic strip filled with non-sequitur, surreal jokes mostly aimed at adults instead of children, which was unusual for newspaper comics at the time. Also unusual was the fact that, unlike most daily comic strips, The Far Side had no recurring characters. Peanuts has its gang of kids and Garfield has its cast of humans and animals, but every panel of The Far Side introduces new characters and scenarios all aimed at delivering one single joke.
+A pack of wolves can end a Baldur’s Gate 1 playthrough a mere five minutes after the tutorial ends. A squadmate you didn’t bother checking in on in Mass Effect 2 can die permanently during a mission you don’t get to redo. And a Sonic RPG on the Nintendo DS can end its story with the good guys saving the universe…then coming home to find someone named Eggman conquered Earth while they were gone. Most people know BioWare as the Mass Effect studio, which is incredible on its own — but that undersells the vast range that built the studio’s reputation in the first place.
 
 ## PC Gamer
+
+### Path of Exile 2's game director thinks a death recap will finally allow us players to complain about the right things
+Sun, 08 Nov 2026 02:13:27 +0000 — https://www.pcgamer.com/games/rpg/path-of-exile-2s-game-director-thinks-a-death-recap-will-finally-allow-us-players-to-complain-about-the-right-things/
+
+I've been playing Path of Exile for almost ten years and have put a ton of hours into PoE2 since it entered early access, and in all that time there's one feature that I've wished for more than any other. More than stash tabs, more than fancy microtransactions, even more than finally finding a mirror in the wild. What I want more than anything is a death recap: a way to finally have some idea why my turbo powerful character that's blasting through a map went pop. At an interview at ExileCon this weekend, game director Jonathan Rogers confirmed that it's finally coming to Path of Exile 2. I don't know whether Grinding Gear intended to announce the feature this weekend, but during the keynote's live demo of new content, Mark Roberts' character died. And there before our eyes, live and in person, was a death recap screen. After we all got done cheering, Rogers laughed and confirmed that the feature was present and would be included in the full 1.0 release coming up on December 11. "I was really worried that it wasn't going to be useful enough or accurate enough, but we got it to a place that I'm fairly happy with," Rogers said when I asked him to confirm that the feature would be present at launch. "The thing that's not quite good is the damage over time tracking," he added. "We do tell you that you took it but we don't know where it came from.” Thankfully, it's a bit easier to parse taking damage over time in the game already, and he assured us that they're working on getting t
+
+### A BioWare documentary was already in the works when the shutdown was announced: 'With the studio's recent closure, the film is now a profound valediction'
+Sun, 08 Nov 2026 01:31:13 +0000 — https://www.pcgamer.com/gaming-industry/a-bioware-documentary-was-already-in-the-works-when-the-shutdown-was-announced-with-the-studios-recent-closure-the-film-is-now-a-profound-valediction/
+
+Deadline reports that a Canadian documentary about the history of BioWare was already two years into filming when EA closed the studio. Now, it's becoming a sad goodbye to a legendary developer. "The BioWare founders are my hometown heroes," the documentary's writer and director Akash Sherman said. "It's a privilege and responsibility to share the journey of underdogs who came together to create deeply beloved storytelling. Their golden era kindled a spark in me and in an entire generation. With the studio's recent closure, the film is now a profound valediction." The documentary, Massive Effect: The BioWare Story, features interviews with the studio's founders, Ray Muzyka, Greg Zeschuk, and Augustine Yip, as well as developers Casey Hudson, Mark Darrah, David Gaider, Drew Karpyshyn, Aaryn Flynn, Mac Walters, Trent Oster, James Ohlen, and Caroline Livingstone, voice actor Jennifer Hale, former CEO of EA John Riccitello, and vice president of Lucasfilm Games Douglas Reilly. "When the production team asked for our blessing to tell the BioWare story, we were honored and genuinely moved," Muzyka and Zeschuk said in a statement. "BioWare was never just about the logo or the building. It was about deeply emotionally engaging stories and characters, brought to life by the amazingly talented people on our dev teams, and our excellent production and distribution partners who helped us bring those stories successfully to all corners of the planet, and our passionate fans who defended t
+
+### Chess is immediately more fun if you jettison most of the rules and replace them with weapons-grade Game Boy Advance
+Sun, 08 Nov 2026 00:40:53 +0000 — https://www.pcgamer.com/games/puzzle/chess-is-immediately-more-fun-if-you-jettison-most-of-the-rules-and-replace-them-with-weapons-grade-game-boy-advance/
+
+I have never been particularly good at The Game of Kings, but I do love when an indie developer turns their talents to turning chess into something more funky . Shotgun King stole my heart a few years ago, and now Rulehouse is looking to offer its own spin on the classic. Weird Weekend Weird Weekend is our regular Saturday column where we celebrate PC gaming oddities: peculiar games, strange bits of trivia, forgotten history. Pop back every weekend to find out what Jeremy, Josh, Ted, and Rick have become obsessed with this time, whether it's the canon height of Thief's Garrett or that time someone in the Vatican pirated Football Manager . In a generous demo covering the first act of the game, Rulehouse presents a Wario Ware spin on things⁠—in multiple ways. Each level introduces at least one new mechanic or modifier you have to keep track of, starting with the basic "pawns only, first one to the other side of the board wins," and ramping up to a simulated prison break where guards are firing on your pieces, and you have to get your king⁠—here the game's protagonist in a prison jumpsuit⁠—to the exit. The escalation in complexity had me genuinely scratching my head, stumped at how to proceed at a few points. Rulehouse eschews trad chess pieces as much as possible, only introducing bishops and kings by the very end of the demo⁠—and stubbornly insisting on calling knights "cows" along the way. Instead, you get stuff like "ice pawns" that shatter on taking an opponent's piece, or 
+
+### One of the buggiest D&D games ever released, Pool of Radiance: Ruins of Myth Drannor, is back and actually playable again
+Sat, 07 Nov 2026 23:22:07 +0000 — https://www.pcgamer.com/games/rpg/one-of-the-buggiest-d-and-d-games-ever-released-pool-of-radiance-ruins-of-myth-drannor-is-back-and-actually-playable-again/
+
+(Image credit: SNEG) "Not since the infamous debut of Daikatana has the release of a single game generated so much incensed indignation from early buyers." Our review of Pool of Radiance: Ruins of Myth Drannor didn't hold back. The 2001 dungeon crawler contained, our review said, "A multitude of outrageous bugs," including ones that corrupted saves, made quest items disappear, and most infamously deleted system files when you uninstalled the game. SNEG's rerelease, available now on Steam and GOG , doesn't have those issues. It adds widescreen, controller support, adjustable combat speed, tooltips, an action bar, and sharpened visuals. If, like me, you skipped this one back in the day because of its reputation for being a hassle to play—even with the eventual patches and community fixes—now it's smooth and problem-free. I've played the opening hours without a single key item vanishing or save file going corrupt. Don't get the wrong idea, though. Ruins of Myth Drannor isn't Vampire: The Masquerade – Bloodlines. This isn't an RPG masterpiece held back by its buggy release. It's a simplistic turn-based dungeon crawl that's mostly notable for being a spiritual successor to the first Gold Box D&D game, Pool of Radiance, and for adapting the then-new third edition of D&D's rules. The 3.0 rules were a huge step forward at the time. Any character could choose any class, and Armor Class went up instead of down—you can't imagine how much of a drag it was explaining to new players that l
 
 ### AMD CEO Lisa Su: 'We are a data center-first company'
 Sat, 07 Nov 2026 18:10:16 +0000 — https://www.pcgamer.com/gaming-industry/amd-ceo-lisa-su-we-are-a-data-center-first-company/
@@ -327,26 +327,6 @@ Star Wars Zero Company developer Bit Reactor has laid of an unspecified number o
 Sat, 07 Nov 2026 11:15:54 +0000 — https://www.pcgamer.com/games/rpg/nier-automata-developer-is-currently-investigating-a-bizarre-update-bug-that-drastically-inflated-the-games-file-size-from-50gb-to-366gb/
 
 Usually, it's a good thing when a patch makes an already excellent game substantially larger. But in the case of Nier: Automata 's most recent update, bigger is most certainly not better. On Friday, the beloved action RPG from Square Enix received what should have been a straightforward update to add localisation support for Simplified Chinese, Traditional Chinese and Korean languages. But as reported by Automaton Media, the update also increased the game's file size from 50 gigabytes to a staggering 366 (and a half) gigabytes. "We have identified an issue following the latest update for Nier: Automata … where installation requires significantly more storage space than intended," wrote Square Enix in a Steam post . "We are currently investigating the cause and working to resolve the issue. We apologise for the inconvenience." It isn't clear how this issue has occurred, but it may be related to Nier: Automata's DLC. When selected for download on Steam, each DLC appears to have the same file size as the base game. Weirdly though, this is only true for the initial download and installation. Once the game is installed, the file reportedly reverts to a more appropriate size of roughly 50 gigs. Indeed, as a temporary solution, Square Enix suggests that anyone who needs to download Nier: Automata deselects all eight DLC when they do so. "As a temporary workaround, you can download the base game using the intended amount of storage space by going to "Properties" à "DLC" in Steam and 
-
-### Here's what's in Path of Exile 2’s huge 1.0 release, coming in December
-Fri, 06 Nov 2026 23:36:21 +0000 — https://www.pcgamer.com/games/rpg/heres-whats-in-path-of-exile-2s-huge-1-0-release-coming-in-december/
-
-Path of Exile 2's full release is out on December 11, and coming with it are two new classes, two new acts, a new league, tons of new monsters, bosses, battles, endgame changes, gem updates, atlas and skill tree updates, a new pinnacle boss, base types, uniques, and, I don't know, probably a kitchen sink or something. Let's go over it. First of all, we'll have two new classes: the Shadow and the Duelist. With them, we'll get all new skill gems for daggers and swords, with tons of new builds available. Daggers introduce new mechanics around stealth, traps, shadow skills with clones that attack with you, and classic skills like blade vortex and fire trap. The Duelist will introduce swords, and with it fan favorite skills like cyclone and hemorrhage. With swords we'll be able to use stances like blood and sand or ready stance. Add to this being able to two-hand, dual wield, or sword and board and swords look to add a huge amount of mechanical complexity. After two years of early access, the campaign will finally be fully finished. Acts five and six will complete our story of chasing the Beast through the world, with a return to Oriath and beyond. The campaign will also feature new bespoke rare monsters with their own abilities, appearances, and even mods. In addition, the campaign will feature an introduction to the league mechanic for 1.0, Conquerors of Wraeclast. The league will feature a base building mechanic, where you recruit armies and build up a castle. As you progress t
-
-### Rockstar's having a sale on old GTA games on the only platform Grand Theft Auto 6 isn't coming to (ours)
-Fri, 06 Nov 2026 23:11:50 +0000 — https://www.pcgamer.com/games/grand-theft-auto/rockstars-having-sale-on-old-gta-games-on-the-only-platform-grand-theft-auto-6-isnt-coming-to-ours/
-
-Grand Theft Auto 6 finally arrives on November 19, but not for us, no—the big day is only for gamers on PlayStation 5 and Xbox Series X/S. We're not being completely excluded, though: We can't have GTA 6 in November, but we can take advantage of pre-release discounts on a bunch of older GTA games—deals that, ironically, don't appear to be available on consoles. As noted by GamesRadar , there are four GTA games available in two releases: Grand Theft Auto 3, Vice City, and San Andreas bundled up in the GTA Trilogy for $19.79/£19.79/€19.79—67% off the regular price—and Grand Theft Auto 4: Complete Edition , which includes The Lost and Damned and The Ballad of Gay Tony expansions, for $6/£5.09/€6, a 70% discount. Those aren't the deepest discounts ever seen, but Grand Theft Auto games typically don't venture into the 90% off territory we all enjoy so much—and according to Isthereanydeal.com, this is as low as the GTA Trilogy has ever gone, and close to the mark for GTA 4 . You may recall that the GTA Trilogy Definitive Edition was a mess when it launched in 2021, but it seems to have turned that frown upside-down since then: On Steam, where the trilogy arrived in 2023, Vice City and San Andreas both hold "very positive" ratings. GTA 3 is stuck at a "mixed" rating, which is unfortunate: Glancing at user reviews, it sounds like the game still isn't in perfect shape, but it's also suffering from the fact that it's 25 years old, and was the first 3D game in the series—some jank and r
-
-### The AI posting war is heating up: 'Please, leave me behind,' says artist who got into it with Epic CEO Tim Sweeney on X
-Fri, 06 Nov 2026 22:21:50 +0000 — https://www.pcgamer.com/software/ai/the-ai-posting-war-is-heating-up-please-leave-me-behind-says-artist-who-got-into-it-with-epic-ceo-tim-sweeney-on-x/
-
-Kenney, an artist known for giving away thousands of free game assets , did not expect to wind up directly arguing with specific billionaires after telling off billionaires in general in a recent X post. But a few hours after he encouraged other artists not to give in to pressure to use generative AI, Epic Games CEO Tim Sweeney was in his replies. "This is bullshit, Kenney," Sweeney told the artist , concluding his rebuttal with a cute double entendre: "I've upped my expectations of AI. Up yours!" Richest-person-in-the-world Elon Musk also chimed in to back up Sweeney. Hundreds of other comments on the exchange inevitably followed, spanning the full spectrum of AI opinions. Kenney's contentious post was: "Don't let billionaires convince you slop is the future. They're used to managing & directing, not making things themselves. Of course they can't see the difference. They don't understand your love for the craft. Keep making personal, beautiful games. You've got my support 💖" (Image credit: Kenney/Tim Sweeney) The artist had not had Sweeney in mind when he wrote the post; it was a response to something Musk had said. Kenney expected it to be read by other artists who may feel pressured to use generative AI despite objecting to it. "I think AI has some benefit but there's just too many problems with it that I find it immoral to use in its current state," Kenney told PC Gamer in a chat after that exchange. "Whether it's the environmental issues, data centers, theft during trai
-
-### Path of Exile 2 announces a second new class, the Shadow, for its December 1.0 release
-Fri, 06 Nov 2026 21:50:58 +0000 — https://www.pcgamer.com/games/rpg/path-of-exile-2-announces-a-second-new-class-the-shadow-for-its-december-1-0-release/
-
-Today during ExileCon's keynote address Grinding Gear Games announced that Path of Exile 2's full release on December 11 will bring not one, but two new classes: Alongside the previously announced Duelist, 1.0 will also introduce the dagger-heavy, trap-wielding Shadow, capable of employing a suite of new stealth mechanics. The Shadow's addition had been hinted at with a cryptic teaser trailer, which you can see here . The class's inclusion is welcome news to those of us—like yours truly—who very much enjoy playing these sneaky stabbers. On release, Shadows will be able to ascend as the returning Assassin, or choose a new ascendancy: the Infiltrator. We know that eventually, every PoE2 character class will have (at least) three ascendancies. Whether the Shadow's third will be the Saboteur, the Trickster, or something new like the Sorceress's Disciple of Varashta is yet to be seen. As has been the case with previous PoE 2 class additions, the Shadow's arrival will also introduce a new weapon type and abilities. In 1.0, alongside the Duelist's swords, we'll also be getting the dagger, and with it all new skill gems and supports. We should see an absolute explosion of playstyle archetypes on top of PoE2's already healthy build diversity. The Shadow will introduce new mechanics like stealth, which prevents monsters from seeing you until you’re close by. It has a cooldown, but since it’s reset on kill, you should be able to use it to kill quickly from the shadows and get moving aga
 
 ## GameSpot
 
@@ -412,6 +392,26 @@ There's no denying that Stellar Blade is one seriously good-looking game. On Swi
 
 ## Rock Paper Shotgun
 
+### The Sunday Papers
+Sun, 08 Nov 2026 11:00:00 +0000 — https://www.rockpapershotgun.com/the-sunday-papers-835
+
+Sundays are for waking up covered in sand. The roof of your house is missing. A small man stands in the emptied bed of a dump truck. "You know, everybody's always asking about Elder Scrolls 6," he says. "You know, everybody's always asking about Elder Scrolls 6," he repeats. "You know, everybody's always asking about Elder Scrolls 6," he declares once again, beginning to move towards you this time. "You know, everybody's always asking about Elder Scrolls 6." You realise your hands are tied down. Oh no. Is he about to sit on your face? WAIT, THAT'S NOW ILLEGAL HERE IN THE UK . NO, PLEASE, DON'T SIT ON MY-time seems to slow as the bare backside approaches your visage. As its cheeks prepare to become as sandy as yours, you hear its wielder say: "And we thought, hey, given the moment..." Read more
+
+### Echoes of Mirror's Edge, Dishonored and a dream set in Italy I once had can be found in Boars in Rome, an expressive parkour platformer set in dystopian Rome
+Sat, 07 Nov 2026 22:52:30 +0000 — https://www.rockpapershotgun.com/echoes-of-mirrors-edge-dishonored-and-a-dream-set-in-italy-i-once-had-can-be-found-in-boars-in-rome-an-expressive-parkour-platformer-set-in-dystopian-rome
+
+Years ago, I had this dream where I was parkouring through a greatly sunken version of Venice, no doubt sourced from the many hours I put into Assassin's Creed 2 as a teen who should have been studying for their GCSEs a lot more than they were. It's stuck with me after all this time mostly because of how much I wanted to capture that feeling again somehow, as the real Assassin's Creed didn't quite cut it. And lo and behold, there I was today browsing Bluesky when I came across Boars in Rome, a Mirror's Edge and Counter Strike Surf inspired parkour platformer set in a dystopian version of Rome. Read more
+
+### County of Fortune, now out in early access, is a medieval city builder that asks, why limit yourself to just one city?
+Sat, 07 Nov 2026 21:30:50 +0000 — https://www.rockpapershotgun.com/county-of-fortune-now-out-in-early-access-is-a-medieval-city-builder-that-asks-why-limit-yourself-to-just-one-city
+
+I know what you want. The humble city builder isn't enough for you any more, is it? You need a cities builder, you can't just stop at one, but you don't want to build up an entirely different city on a new save file. If it were up to you, they'd all be on the same map, a motorway's worth of a drive away from each other. If we're talking contemporary cities, I can't help you, but if you can settle for numerous medieval towns across an entire county, then County of Fortune should do just fine. Read more
+
+### "This trailer is my way of saying goodbye": Have a listen to the Mass Effect 5 score that could have been, courtesy of one of the original games' composers
+Sat, 07 Nov 2026 19:49:20 +0000 — https://www.rockpapershotgun.com/this-trailer-is-my-way-of-saying-goodbye-have-a-listen-to-the-mass-effect-5-score-that-could-have-been-courtesy-of-one-of-the-original-games-composers
+
+By this point I'm probably safe in assuming that you all know EA are shutting down BioWare , and that Mass Effect 5 has been cancelled in turn. You may have also seen that an internal trailer for Mass Effect 5, or Universe as it was seemingly going to be called, was leaked not long after the news broke , and that Sam Hulick, one of the composers on the original trilogy of games, shared he was going to offer up his re-scored version of the trailer . Well, it's N7 Day, as rough as that will be for many of the developers on the game, but Hulick has stood by his word, and shared an oral glimpse at what the world of Mass Effect Universe could have sounded like. Read more
+
 ### Path of Exile 2's 1.0 version is out this year after all, arriving in December with a full campaign, two neat new classes, and more
 Sat, 07 Nov 2026 18:00:40 +0000 — https://www.rockpapershotgun.com/path-of-exile-2s-10-version-is-out-this-year-after-all-arriving-in-december-with-a-full-campaign-two-neat-new-classes-and-more
 
@@ -451,24 +451,4 @@ Extremely good King's Field-style RPG Queen's Domain &ndash; or is it a Metroid 
 Fri, 06 Nov 2026 14:00:00 +0000 — https://www.rockpapershotgun.com/airframe-ultras-ps1-cyberpunk-city-is-an-amazing-tribute-to-g-police-and-wipeout-and-i-wish-you-people-would-slow-down-to-appreciate-it
 
 I do not wish to "rule the streets" of Megacity West, dear creators of Airframe Ultra . I wish to be ravished by them, rubbing my face against the rusty corrugated metal of the shipping containers, and savouring the acid blue waters of the bay. I do not want to "become the one thing with freedom in a city of billions: A racer." I want to become the other thing with freedom in a city of billions: a person who slowly drives or &ndash; whisper it - walks around just looking at stuff, because gadzooks, this is one of the prettiest PS1 cyberpunk burgs I've laid eyes on. Those eroded pastel chevrons. Those seductively wobbling vertices. That electric reef of a downtown backdrop, murderously luring your gaze from the on-coming trucks. That layer of invigorating crackle over everything. Every moment or so, I dismount from my hoverbike to inspect some concrete ruin I could swear I last saw in G-Police, or ponder the resemblance between a subway tunnel and WipEout 2097's Gare d'Europa. Then, somebody waps me in the skull with a stop sign at 300 kilometres an hour. But I was already stopped, frantic stranger! Your brutal poetic ironies are wasted on me. Read more
-
-### Steam gets a boatload of restored Wing Commanders and Ultima ports after EA producer stumbles across cupboard of old tapes
-Fri, 06 Nov 2026 12:38:00 +0000 — https://www.rockpapershotgun.com/steam-gets-a-boatload-of-restored-wing-commanders-and-ultima-ports-after-ea-producer-stumbles-across-cupboard-of-old-tapes
-
-EA have stuck a bunch of restored versions and ports of classic games, on Steam, GOG and the EA App. 25 games in all, including multiple entries in the Wing Commander and Ultima series, are part of the haul. Why's this happening now? Well, an EA producer stumbled across a cupboard full of old tapes, film reels and CDs. Read more
-
-### "It's a brave new world": GTA 6's PC port will release sooner than you think to avoid losing money to AI rip-offs, says former Rockstar tech director
-Fri, 06 Nov 2026 11:09:10 +0000 — https://www.rockpapershotgun.com/its-a-brave-new-world-gta-6s-pc-port-will-release-sooner-than-you-think-to-avoid-losing-money-to-ai-rip-offs-says-former-rockstar-tech-director
-
-GTA 6 's PC release may come sooner than anticipated, according to former Rockstar North technical director Obbe Vermeij, because Rockstar and publishers Take-Two will be concerned about losing money to unofficial generative AI clones of the PS5 version, once it launches on 19th November. In general, Vermeij thinks that how to avoid having your games duplicated by chatbot herders is "the big question" right now for devs and publishers, particularly those who don't have the means to enforce their intellectual property dominions as vehemently as Take-Two do for Grand Theft Auto . Speaking to me during a wide-ranging chatathon, Vermeij reflected on the early days of Grand Theft Auto development at Rockstar North in the 90s, and how the Noel-and-Liam-Gallagher-esque relationship between PC and console gaming has evolved. He shared a sweary anecdote about the company's difficulties getting the original GTA 1 to look the business on Sony's PlayStation. Read more
-
-### After taking over EA, Saudi Arabia and their private equity cronies have reportedly held talks about buying Unity
-Fri, 06 Nov 2026 10:25:10 +0000 — https://www.rockpapershotgun.com/after-taking-over-ea-saudi-arabia-and-their-private-equity-cronies-have-reportedly-held-talks-about-buying-unity
-
-Members of the consortium led by the Saudi Arabian government's Public Investment Fund and some private equity suits which took over EA this year in a leveraged buyout worth $55 billion reportedly have a new target in their sights. Unity, software company and makers of the game engine bearing the same name, have held talks with the consortium over a potential takeover, it's claimed. Read more
-
-### Take on a time-manipulating corporation in the very Soul Eater meets Jet Set Radio action roguelite CHRONO PUNK
-Thu, 05 Nov 2026 22:55:20 +0000 — https://www.rockpapershotgun.com/take-on-a-time-manipulating-corporation-in-the-very-soul-eater-meets-jet-set-radio-action-roguelite-chrono-punk
-
-My favourite kind of game that's obviously going for the vibe of a particular era of gaming is one that doesn't look like it's trying to be any other game from said era, moreso if someone told me it was a PS2 or a Dreamcast game everyone forgot about I'd believe you. CHRONO PUNK fits that vibe quite well, an action roguelite that looks like it's taking some cues from those aforementioned consoles, alongside the likes of Soul Eater, Jet Set Radio , Devil May Cry , and Spider-Man. Read more
 
