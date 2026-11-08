@@ -19,7 +19,6 @@ artistView:
   misses:
     - "Scope: pilots dated 2027 or later with no published budget leaves three creators carrying a year of expectation on a short film, with the series decision still sitting on a public counter."
     - "Format: greenlighting by view count rewards the premise that reads in forty seconds, which is a narrow filter for a medium that usually earns its audience across a whole cour."
-draft: true
 ---
 
 ABEMA named the three winners of its first Project PRISMation open call on
