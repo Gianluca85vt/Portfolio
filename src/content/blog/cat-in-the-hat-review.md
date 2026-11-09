@@ -37,7 +37,6 @@ artistView:
   misses:
     - "Staging: reviewers consistently describe frames filled to the edges, and negative space is the first thing a crowded frame spends. A Seuss page works because of how much of it is empty, so filling it switches off the style's best tool."
     - "Look hierarchy: the human world is pitched in the production's own interviews as an elevated version of classic 3D, which makes the safest of the three looks the one audiences spend the most time inside. The box worlds sound like where the interesting shader work went."
-draft: true
 ---
 
 Alessandro Carloni handed Cartoon Brew the sentence that explains this film's
