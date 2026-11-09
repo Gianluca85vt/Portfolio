@@ -20,7 +20,6 @@ artistView:
   misses:
     - "Upscaling: FSR 1.0 is spatial only, with no motion vectors and no temporal history, so thin geometry and distant detail will still crawl under camera movement in a way a modern upscaler would settle."
     - "Camera: reworking the camera inside an engine built around fixed party views can only go as far as the original culling and level geometry allow. Widescreen on a 2001 dungeon tends to show you the edges of rooms the designers assumed you would never see."
-draft: true
 ---
 
 A 2001 Dungeons & Dragons RPG went up on Steam and GOG on 6 November, priced
