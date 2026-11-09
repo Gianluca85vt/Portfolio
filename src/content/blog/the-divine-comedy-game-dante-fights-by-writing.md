@@ -9,7 +9,6 @@ sources:
     url: https://www.youtube.com/watch?v=BETf6uSTv50
   - outlet: The Divine Comedy, official site
     url: https://www.gianlucascattarella.it/thedivinecomedy/
-draft: true
 ---
 
 This one is mine, so that goes first: everything below is about a game I'm
