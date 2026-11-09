@@ -1,0 +1,39 @@
+[
+  { "id": "who-i-am", "kind": "lower",
+    "name": "Gianluca Scattarella",
+    "role": "3D Environment & Technical Artist",
+    "handle": "gianlucascattarella.it — Backdrop, every Monday" },
+
+  { "id": "three-ways-back", "kind": "beats", "title": "How a game came back this week",
+    "items": ["The retail disc", "The tape library", "A $200m cheque", "No fourth option"],
+    "note": "EA's 25 PC classics, 5 Nov. SNEG's Pool of Radiance, 6 Nov. Mass Effect costed by a BioWare co-founder, 8 Nov." },
+
+  { "id": "what-no-tools-means", "kind": "timeline", "title": "What a 2001 build depended on",
+    "stages": ["Concept", "Model", "Bake", "Export", "Build", "Ship", "Archive"],
+    "markAt": 6, "markLabel": "Nobody's line item",
+    "note": "Every stage before this one had an owner, a schedule and a review. The last one has never had any of the three." },
+
+  { "id": "what-the-money-buys", "kind": "beats", "title": "What $200 million buys",
+    "items": ["Refind the tools", "Document it all", "Rebuild chains", "Find the branch"],
+    "note": "The art already exists. The figure is the cost of making it openable by a team that has never met it." },
+
+  { "id": "eighty-seven-percent", "kind": "bars", "title": "Capcom, six months to 30 September",
+    "rows": [
+      { "label": "Back catalogue units", "value": 32180000, "display": "32.18m" },
+      { "label": "Everything launched in the period", "value": 4680000, "display": "4.68m" }
+    ],
+    "note": "36.86m units in total, 87% of them games the company had already finished. Capcom's own half-year report." },
+
+  { "id": "build-versus-project", "kind": "compare", "title": "What gets handed over",
+    "left": "The build", "right": "The project",
+    "rows": [
+      ["Checked for completeness", "Never once requested"],
+      ["Still sells after 25 years", "Dies with the network share"],
+      ["What you sold once", "What lets you sell it again"]
+    ],
+    "note": "Both come off the same pipeline. Only one of them is a deliverable." },
+
+  { "id": "the-line", "kind": "statement",
+    "text": "The shipped build is a rendering of the archive, and every year it holds a little less of what made it.",
+    "attribution": "Architectures of the Void — the Monday editorial" }
+]
