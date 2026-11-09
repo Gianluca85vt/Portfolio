@@ -1,4 +1,4 @@
-# AI — harvested 2026-11-08T18:29:41.038Z
+# AI — harvested 2026-11-09T13:22:17.232Z
 
 ## OpenAI
 
@@ -6,7 +6,8 @@ _Nothing in the last 48 hours._
 
 ## Hugging Face
 
-_Nothing in the last 48 hours._
+### Your Experts Have Partners. There's HOPE for Keeping Them Together
+Mon, 09 Nov 2026 12:34:29 GMT — https://huggingface.co/blog/amazon/higher-order-pruning-experts
 
 ## Google DeepMind
 

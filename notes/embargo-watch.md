@@ -1,4 +1,4 @@
-# Review radar — updated 2026-11-08
+# Review radar — updated 2026-11-09
 
 Built by `scripts/harvest-embargoes.mjs` from Steam's upcoming releases,
 sorted by date and filtered to titles priced at €25 or more. That price line is
@@ -20,18 +20,18 @@ Games only. Film and television still come from `notes/feeds/film-tv.md`.
 
 | Title | Publisher | Release | Away | Reviews from | Price |
 |---|---|---|---|---|---|
-| Football Manager 27 | SEGA | 2026-11-10 | 2d | 2026-11-09 | €59.99 |
-| DreamWorks Shrek 2 Remastered | Aspyr Media | 2026-11-10 | 2d | 2026-11-09 | €29.99 |
+| Football Manager 27 | SEGA | 2026-11-10 | 1d | 2026-11-09 | €59.99 |
+| DreamWorks Shrek 2 Remastered | Aspyr Media | 2026-11-10 | 1d | 2026-11-09 | €29.99 |
 
 ## Further out, within 14 days
 
 | Title | Publisher | Release | Away | Reviews from | Price |
 |---|---|---|---|---|---|
-| Gold Mining Simulator - Definitive Edition | Code Horizon, PlayWay S.A. | 2026-11-17 | 9d | 2026-11-16 | €39.99 |
+| Gold Mining Simulator - Definitive Edition | Code Horizon, PlayWay S.A. | 2026-11-17 | 8d | 2026-11-16 | €39.99 |
 
 ---
 
-*1500 upcoming titles scanned, 1455 with a firm date inside
+*1500 upcoming titles scanned, 1472 with a firm date inside
 14 days, 3 above the price line. Titles showing
 "Q4 2026" or "To be announced" are dropped: a quarter says nothing about when
 reviews arrive.*
