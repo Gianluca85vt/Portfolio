@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Pool of Radiance restored with no source code, no tools and no documentation">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#18011F"/>
+      <stop offset="55%" stop-color="#102A3C"/>
+      <stop offset="100%" stop-color="#1E7FA8"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="900" fill="url(#bg)"/>
+
+  <g stroke="#FFFFFF" stroke-opacity="0.05" stroke-width="2">
+    <path d="M0 150H1200M0 206H1200M0 262H1200"/>
+  </g>
+
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <text x="600" y="128" font-size="26" letter-spacing="7" fill="#FFFFFF" fill-opacity="0.55"
+          font-weight="bold">POOL OF RADIANCE 2001</text>
+
+    <text x="600" y="268" font-size="112" font-weight="900" fill="#FFFFFF">NO SOURCE</text>
+    <text x="600" y="368" font-size="112" font-weight="900" fill="#FFFFFF">CODE</text>
+
+    <text x="600" y="438" font-size="30" fill="#FFFFFF" fill-opacity="0.6" font-weight="bold"
+          letter-spacing="3">NO TOOLS. NO DOCUMENTATION.</text>
+
+    <text x="600" y="520" font-size="24" fill="#8FD6F0" fill-opacity="0.85" font-weight="bold"
+          letter-spacing="2">REVERSE-ENGINEERED OFF THE RETAIL DISCS</text>
+  </g>
+
+  <g stroke="#1E7FA8" stroke-opacity="0.5" stroke-width="3" fill="none">
+    <rect x="300" y="580" width="600" height="2"/>
+  </g>
+</svg>
