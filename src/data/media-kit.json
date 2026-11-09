@@ -1,39 +1,39 @@
 {
-  "updated": "2026-11-02",
+  "updated": "2026-11-09",
   "search": {
-    "from": "2026-10-03",
-    "to": "2026-10-30",
-    "impressions": 9448,
-    "clicks": 91,
-    "position": 8.5,
+    "from": "2026-10-10",
+    "to": "2026-11-06",
+    "impressions": 12095,
+    "clicks": 131,
+    "position": 8.1,
     "queries": [
-      "paintbridge krita",
-      "duke nukem 3d dlss 5",
-      "immersion blender for photographers",
       "blender vs websocket",
+      "immersion blender for photographers",
+      "duke nukem 3d dlss 5",
+      "paintbridge krita",
       "blender 5.3 dispersion",
-      "hellraiser revival ray tracing",
-      "dlss 5 pass count",
-      "gears of war e day megalights",
-      "blender for photographers 2024",
-      "blender krita bridge",
       "unreal engine 6",
-      "blender downtown generator",
+      "downtown generator blender",
+      "dlss 5 pass count",
+      "hellraiser revival ray tracing",
+      "blender painterly shadows",
+      "is tripo's p2.0 model worth it for quad character retopology?",
+      "blender for photographers 2024",
+      "blender krita link",
       "blender krita texture paint",
       "blender spectral rendering",
-      "cinema 4d 2026.4",
       "fsr 4.1 xbox series x",
+      "gears of war e day megalights",
       "is fsr 4 ai",
-      "krita blender plugin",
-      "painterly shadows blender",
-      "silent hill townfall frame generation",
+      "krita blender bridge",
       "substance painter cage",
+      "tyflow vehicle",
       "wildwood frames per second",
       "wildwood production time",
-      "how long is wildwood movie",
       "clayface makeup",
-      "how long was wildwood in production",
+      "how long is wildwood movie",
       "wildwood duration",
+      "how long was wildwood in production",
       "wildwood length",
       "wildwood how long did it take to make",
       "how long did it take to film wildwood"
@@ -41,15 +41,15 @@
     "countries": [
       {
         "name": "United States",
-        "share": 25
+        "share": 27
       },
       {
         "name": "United Kingdom",
-        "share": 15
+        "share": 13
       },
       {
         "name": "Canada",
-        "share": 7
+        "share": 6
       },
       {
         "name": "Australia",
@@ -60,19 +60,19 @@
         "share": 4
       },
       {
-        "name": "Germany",
+        "name": "Netherlands",
         "share": 3
       }
     ]
   },
   "archive": {
-    "articles": 275,
-    "craft": 106,
-    "reviews": 40
+    "articles": 284,
+    "craft": 108,
+    "reviews": 43
   },
   "newsletter": {
-    "subscribers": 2,
+    "subscribers": 3,
     "openRate": 0
   },
-  "bluesky": 47
+  "bluesky": 54
 }
