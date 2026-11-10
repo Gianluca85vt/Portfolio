@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Five art disciplines produced outside Nintendo for the Ocarina of Time remake">
+  <defs>
+    <linearGradient id="bgGames" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#18011F"/>
+      <stop offset="55%" stop-color="#5A1030"/>
+      <stop offset="100%" stop-color="#D6294E"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="900" fill="url(#bgGames)"/>
+
+  <!-- one specification, five deliverables -->
+  <g stroke="#FFFFFF" stroke-opacity="0.28" stroke-width="4" fill="none">
+    <path d="M600 196 L240 300"/>
+    <path d="M600 196 L420 300"/>
+    <path d="M600 196 L600 300"/>
+    <path d="M600 196 L780 300"/>
+    <path d="M600 196 L960 300"/>
+  </g>
+  <g fill="#FFFFFF">
+    <circle cx="600" cy="196" r="11" fill-opacity="0.9"/>
+    <circle cx="240" cy="300" r="7" fill-opacity="0.5"/>
+    <circle cx="420" cy="300" r="7" fill-opacity="0.5"/>
+    <circle cx="600" cy="300" r="7" fill-opacity="0.5"/>
+    <circle cx="780" cy="300" r="7" fill-opacity="0.5"/>
+    <circle cx="960" cy="300" r="7" fill-opacity="0.5"/>
+  </g>
+
+  <g text-anchor="middle" font-family="Arial, Helvetica, sans-serif" fill="#FFFFFF">
+    <text x="600" y="150" font-size="34" fill-opacity="0.72" letter-spacing="3">OCARINA OF TIME, SWITCH 2</text>
+    <text x="600" y="430" font-size="150" font-weight="700">5 of 5</text>
+    <text x="600" y="492" font-size="37" fill-opacity="0.9">art disciplines produced outside Nintendo</text>
+    <text x="600" y="570" font-size="30" fill-opacity="0.66">characters &#183; terrain &#183; animation &#183; cutscenes &#183; UI</text>
+    <text x="600" y="640" font-size="27" fill-opacity="0.55">Bandai Namco Studios&#8217; own description of its work</text>
+  </g>
+</svg>
