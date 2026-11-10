@@ -1,170 +1,170 @@
-# Film & TV — harvested 2026-11-09T23:08:37.506Z
+# Film & TV — harvested 2026-11-10T12:58:45.288Z
 
 ## Variety
 
-### Bong Joon Ho on Restoring The Host and Why It Still Resonates 20 Years On: We Are Repeating Our Mistakes
-Mon, 09 Nov 2026 23:08:26 +0000 — https://variety.com/2026/film/news/bong-joon-ho-the-host-restoration-20-years-1236943560/
+### David Walliams, Former Britain s Got Talent Judge, Accused of Grooming Fans as Young as 15 After Failing to Get Injunction
+Tue, 10 Nov 2026 12:40:12 +0000 — https://variety.com/2026/tv/global/david-walliams-grooming-fans-allegations-harassment-1236934058/
 
-Bong Joon Ho has revisited “The Host” for a 20th-anniversary 4K restoration, and the Oscar-winning director says the 2006 monster movie’s satire of official misinformation feels newly pertinent. Magnolia Pictures will return the remastered film to theaters nationwide on Nov. 20. Screenings on Nov. 21 and 23 will include an exclusive conversation between Bong and [ ]
+David Walliams has been accused of grooming fans and harassing women by The Guardian newspaper after he failed to get an injunction to prevent them from publishing the story. Comedian and former Britain’s Got Talent judge alleged to have groomed fans he met when they were as young as 15 and harassed women in the [ ]
 
-### Sean Penn, Ava DuVernay and Laura Poitras Turn Out For San Francisco’s Doc Stories
-Mon, 09 Nov 2026 23:02:06 +0000 — https://variety.com/2026/film/news/sean-penn-ava-duvernay-laura-poitras-doc-stories-1236943431/
+### Jennifer Hudson Will Headline Vatican s Concert With the Poor, With Pope Leo Scheduled to Attend
+Tue, 10 Nov 2026 12:11:22 +0000 — https://variety.com/2026/music/global/jennifer-hudson-vatican-concert-poor-pope-leo-1236943899/
 
-Sean Penn isn’t exactly a fixture on the regional documentary festival circuit. But SFFILM’s Doc Stories has a way of attracting high-profile supporters. On Saturday, Penn was at the fest’s Vogue Theatre in San Francisco to introduce James Marcus Haney’s “Black Sunflowers,” a documentary about a generation of young Ukrainians coming of age amid martial [ ]
+Jennifer Hudson will headline the upcoming Concert With the Poor at the Vatican, with Pope Leo scheduled to attend the annual event to be held Dec. 5 in the Holy See’s Paul VI Hall. Now at its seventh edition, the Concert With the Poor will be performed in front of roughly 8,000 participants, including over [ ]
 
-### Tom Brady and Jim Harbaugh Exec Produce The Team: Michigan Football, Set to Debut on Fox This Month (EXCLUSIVE)
-Mon, 09 Nov 2026 23:00:00 +0000 — https://variety.com/2026/tv/news/tom-brady-jim-harbaugh-the-team-michigan-football-fox-1236942904/
+### Lionsgate Acquires U.S. and U.K. Rights to Robert Lantos Epic Period Drama Rise of the Raven (EXCLUSIVE)
+Tue, 10 Nov 2026 12:00:00 +0000 — https://variety.com/2026/tv/global/lionsgate-robert-lantos-rise-of-the-raven-1236943906/
 
-Fox Sports has greenlighted the two-part documentary “The Team: Michigan Football,” which centers on Michigan s college football program and its two championship eras. Shadow Lion is behind the series, which is also executive produced by Tom Brady and Jim Harbaugh. The two-part series premieres on Friday, Nov. 27, at 7 p.m. ET on Fox — [ ]
+Lionsgate has acquired U.S. and U.K. rights to the epic period drama “Rise of the Raven,” which is being sold by Beta Film. The series is produced by Robert Lantos, whose credits include Oscar nominees “Eastern Promises,” “Being Julia,” “Barney’s Version” and “The Sweet Hereafter.” The Lionsgate deal marks an international milestone for a Hungarian [ ]
 
-### ‘Heated Rivalry’ Superfans Hit Theaters for Shane and Ilya on the Big Screen: ‘They Invented Chemistry’
-Mon, 09 Nov 2026 22:37:42 +0000 — https://variety.com/2026/tv/news/heated-rivalry-fans-theaters-rerelease-1236943493/
+### Russell Brand s Producer Ex Says She Was a Victim of His Violence and Abuse
+Tue, 10 Nov 2026 11:37:17 +0000 — https://variety.com/2026/tv/global/jemima-goldsmith-russell-brand-violence-abuse-1236943891/
 
-A sea of women and a scattering of men packed into the Regal Sherman Oaks Galleria Sunday night for a cinematic experience. Not to see a new movie, but to celebrate the one-year anniversary of the hit HBO Max-Crave series “Heated Rivalry.” Based on Rachel Reid’s bestselling “Game Changers” books and adapted by Jacob Tierney, [ ]
+Jemima Goldsmith has revealed she was a victim of Russell Brand’s “violence, coercive control and abuse.” The producer and writer, who dated Brand for around a year over a decade ago, made the revelation after it emerged she and Brand had obtained an injunction against a masseuse called Szilvia Berki in 2014. At the time, [ ]
 
-### DC in Flux: What Happens to James Gunn’s Batman, Superman and Other Heroes After Shocking Exit?
-Mon, 09 Nov 2026 22:13:19 +0000 — https://variety.com/lists/james-gunn-exit-dc-batman-superman-wonder-woman/
+### Supergirl Star Milly Alcock Sets Stage Play Julie at London s Old Vic Theater
+Tue, 10 Nov 2026 10:35:00 +0000 — https://variety.com/2026/theater/global/milly-alcock-julie-old-vic-theater-1236943879/
 
-James Gunn and Peter Safran are out as the CEOs and chairmen of DC Studios, leaving behind a cinematic universe full of questions about the fate of some of Hollywood’s most beloved and profitable heroes. After four years at the helm, it seemed like Gunn and Safran had just set the foundation for things to [ ]
+“Supergirl” star Milly Alcock has set her next project – an adaptation of August Strindberg’s play “Miss Julie” at the Old Vic theater in London. Adapted and directed by Old Vic associate director Rebecca Frecknall, “Julie” will see Alcock in the titular role. The play is set to debut at the theater April 10 and [ ]
 
-### XYZ Films, CAA Media Finance Ink U.S. Deal With Samuel Goldwyn Films for Dark Comedy Kill Me Starring Charlie Day and Allison Williams (EXCLUSIVE)
-Mon, 09 Nov 2026 22:00:49 +0000 — https://variety.com/2026/film/news/xyz-films-rights-kill-me-charlie-day-allison-williams-1236943468/
+### Tribeca Prizewinner Darko Lungulov Wraps Production on Serbian Coming-of-Age Drama ‘1970’: It Is a Story About Today (EXCLUSIVE)
+Tue, 10 Nov 2026 10:03:05 +0000 — https://variety.com/2026/film/global/darko-lungulov-wraps-production-coming-of-age-drama-1970-1236942953/
 
-XYZ Films and CAA Media Finance inked a deal with Samuel Goldwyn Films for U.S. rights to “Kill Me,” a murder mystery comedy film from writer-director Peter Warren starring Charlie Day and Allison Williams. A theatrical release is planned for Spring 2027. The official logline for “Kill Me” reads, “Jimmy (Day) didn t try to kill [ ]
+Tribeca prizewinner Darko Lungulov (“Here and There”) has wrapped production on “1970,” a coming-of-age drama set against the backdrop of President Nixon’s visit to the former Yugoslavia during the Vietnam War. The film will take part in the Agora Works in Progress strand at the Thessaloniki Film Festival before heading to Tallinn’s Baltic Event industry [ ]
 
-### Skydance Q3 Profit Powered By Studios, Streaming
-Mon, 09 Nov 2026 21:37:54 +0000 — https://variety.com/2026/tv/news/skydance-q3-profit-studios-streaming-1236943416/
+### Chasing Summer Director Josephine Decker Says That ‘Filmmaking Is Lonelier Than Ever,’ So It’s Time to Build a Community
+Tue, 10 Nov 2026 09:00:00 +0000 — https://variety.com/2026/film/awards/josephine-decker-chasing-summer-indie-star-award-1236940534/
 
-Skydance, fresh from completing its merger with Warner Bros. Discovery, said the Paramount part of the business generated profit of $73 million a swing from a loss in the year-earlier period but the results did not include data from its new properties, because its deal did not close until October, after the fiscal [ ]
+Josephine Decker has a plan. “I have this crescendoing dream of creating a residency for movies without scripts. That’s how I made my short ‘A Stable Marriage.’ We basically had one paragraph, and then we spent a whole day improvising together. It was so much fun and so refreshing,” she tells Variety. Decker has directed [ ]
 
-### AMC Global Media Takes $2.1 Million Hit Amid ALLBLK Streamer Sale, Content Licensing Revenue Up 42% in Q3
-Mon, 09 Nov 2026 21:30:26 +0000 — https://variety.com/2026/tv/news/amc-networks-allblk-sale-q3-earnings-1236943399/
+### ‘Artificial’ Star Andrew Garfield Recalls Believing OpenAI’s Sam Altman Was ‘Genuinely Great’ and Could Be ‘My Future Best Friend’
+Tue, 10 Nov 2026 07:06:01 +0000 — https://variety.com/2026/film/columns/artificial-andrew-garfield-sam-altman-great-best-friend-1236943645/
 
-AMC Global Media reported its third-quarter 2026 earnings Monday, revealing a major increase in content licensing sales and a restructuring charge of $2.1 million following the sale of its ALLBLK streaming service. Additionally, AMC says its Sept. 4 settlement agreement with The Walking Dead creator Robert Kirkman and other series producers led to a cash [ ]
+Andrew Garfield’s portrayal of Sam Altman in “Artificial” is less than flattering, but there was a time when the actor deeply admired the OpenAI co-founder and CEO. “The first time I saw Sam, he was testifying in front of Congress and he was saying incredibly righteous stuff,” Garfield said Monday night during a Q A following [ ]
 
-### GTA 6 Presales Far in Excess of Expectations Ahead of Next Week s Launch, Take-Two CEO Says
-Mon, 09 Nov 2026 21:15:33 +0000 — https://variety.com/2026/gaming/news/gta-6-preorders-expectations-launch-1236943278/
+### Keira Knightley Says ‘It Means Nothing When Fans Quote ‘Love Actually’ to Her Because She Hasn’t Watched It Since the Premiere: ‘I Don’t Remember It’
+Tue, 10 Nov 2026 05:56:13 +0000 — https://variety.com/2026/film/news/keira-knightley-love-actually-fans-1236943826/
 
-Rockstar Games Grand Theft Auto VI presales are running far in excess of our expectations, Take-Two Interactive CEO Strauss Zelnick said Monday. That s a good thing. That said, we never claim success before it occurs, Zelnick told Variety in an interview ahead of the company s earnings release. So we re just days away from from beginning [ ]
+“Love Actually” might be one of the most beloved — if controversial — Christmas classics, but don’t try quoting the film to star Keira Knightley. The actress recently revealed that she actually hasn’t watched the film in decades, so interactions with fans who reference her lines mean “nothing” to her. “I have not watched ‘Love [ ]
 
-### Skydance Plans Launch of Bundled Paramount+, HBO Max in Early 2027
-Mon, 09 Nov 2026 21:13:11 +0000 — https://variety.com/2026/tv/news/skydance-paramount-hbo-max-launch-early-2027-streaming-1236943428/
+### Ebenezer First Reactions: Johnny Depp s Hollywood Comeback Is a Wickedly Fun Holiday Treat That Adds ‘Refreshing New Layers’ to the Christmas Classic
+Tue, 10 Nov 2026 05:19:57 +0000 — https://variety.com/2026/film/news/ebenezer-first-reactions-johnny-depp-hollywood-comeback-1236941249/
 
-Streaming fans will soon be able to subscribe to a new bundled service that offers access to Tulsa King and The White Lotus for a single price. Skydance, in one of its first big announcement since completing its acquisition of Warner Bros. Discovery, said it planned to launch Paramount+ and HBO Max as part of a [ ]
+“Ebenezer” has officially premiered, and reviews for the Johnny Depp-led film are largely positive among members of the film press, who are praising the star s return to Hollywood as a wickedly fun holiday treat that functions as a strong comeback vehicle for its star. UK Film Critic Phil Roberts commended the film as a bold [ ]
 
 ## The Hollywood Reporter
 
-### Jessica Lange on Bringing Long Day s Journey Into Night Back to the Big Screen, Returning to American Horror Story and Retirement Rumors
-Mon, 09 Nov 2026 22:31:16 +0000 — https://www.hollywoodreporter.com/movies/movie-news/jessica-lange-long-days-journey-into-night-retirement-rumors-1236750103/
+### David Walliams Revealed as Previously Unnamed Celebrity Alleged to Have Preyed on Teenage Girls for Sex
+Tue, 10 Nov 2026 12:15:00 +0000 — https://www.hollywoodreporter.com/news/general-news/david-walliams-itv-guardian-sexual-allegations-grooming-new-1236751181/
 
-The legendary stage and screen actress spoke with The Hollywood Reporter at the recent Virginia Film Festival, where she was honored with the fest's Visionary Award.
+Accused of sexual assault and grooming, the comedian had sought an injunction that would have prevented ITN and The Guardian from publishing his name — a legal bid he lost.
 
-### Skydance Details Cost Savings and Plans HBO Max-Paramount+ Bundle in First Post-Deal Earnings Report
-Mon, 09 Nov 2026 21:17:44 +0000 — https://www.hollywoodreporter.com/business/business-news/skydance-first-earnings-q3-post-wb-deal-1236751164/
+### Aroma Takes a Sensory Trip Into Loneliness, Fantasy and Forbidden Desire (Exclusive Tallinn Trailer, Chat)
+Tue, 10 Nov 2026 11:55:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/tallinn-2026-film-aroma-sensory-desire-trailer-interview-1236749186/
 
-The company says that a streaming bundle will launch early next year, while laying out where it expects to see synergies.
+Xue Ma's third feature, a dark fairy tale that blurs the lines between "reality" and the subconscious, including dreams, premieres in Tallinn’s Rebels With a Cause competition.
 
-### CAA Wants to Create an AI-Generated Celebrity Advertising Machine
-Mon, 09 Nov 2026 21:10:20 +0000 — https://www.hollywoodreporter.com/business/business-news/caa-ai-celebrity-advertising-machine-1236751106/
+### BBC Studios Names Sreya Biswas New Head of Its Natural History Unit
+Tue, 10 Nov 2026 10:28:17 +0000 — https://www.hollywoodreporter.com/tv/tv-news/bbc-studios-natural-history-unit-new-head-sreya-biswas-1236751583/
 
-A new platform from the major talent agency and powerhouse ad agency Ogilvy allows marketers to whip up AI-generated ads featuring celebrities without requiring talent to spend hours in front of the camera.
+Reporting to Kate Ward, managing director, unscripted at BBC Studios, she will work alongside creative directors Mike Gunton and Jonny Keeling.
 
-### Nicole Avant to Receive Visionary Producer Award at Bahamas International Film Festival (Exclusive)
-Mon, 09 Nov 2026 21:00:02 +0000 — https://www.hollywoodreporter.com/movies/movie-news/nicole-avant-to-bahamas-international-film-festival-1236751107/
+### Russell Brand s Ex-Girlfriend Accuses Him of Violence, Coercive Control and Abuse
+Tue, 10 Nov 2026 09:50:12 +0000 — https://www.hollywoodreporter.com/news/general-news/russell-brand-girlfriend-jemima-goldsmith-rape-sentence-1236751567/
 
-The producer and former ambassador to the Bahamas will also be bestowed with the title of Honorary Patron of the Bahamas International Film Festival.
+TV producer Jemima Goldsmith took to social media after Brand received a 10-year prison sentence for rape and sexual assault: "This was a difficult period in my life which has had a lasting impact."
 
-### Alan Ritchson Taps Alex Jackson to Serve as President at Dancing Skeleton Production Company
-Mon, 09 Nov 2026 20:54:24 +0000 — https://www.hollywoodreporter.com/movies/movie-news/alan-ritchson-dancing-skeleton-company-alex-jackson-1236750744/
+### Why the Tallinn Market s Focus This Year Is Back to Basics, IP, Gaming – and Less AI
+Tue, 10 Nov 2026 08:01:00 +0000 — https://www.hollywoodreporter.com/business/business-news/industry-tallinn-baltic-event-2026-program-preview-games-ip-1236749433/
 
-Jackson, a vet of Paramount, MRC and Chernin Entertainment, will certainly have plenty to do at the in-demand actor's production company which is shepherding projects at Amazon MGM Studios and Netflix.
+Marge Liiske also drops some big names related to the likes of 'Sentimental Value' and 'Home Alone' and discusses the international premiere of the final season of 'Babylon Berlin' in the Estonian capital.
 
-### Claes Bang, Valerie Pachner Drama I Is Another Sells Wide Ahead of AFM
-Mon, 09 Nov 2026 20:23:48 +0000 — https://www.hollywoodreporter.com/movies/movie-news/claes-bang-valerie-pachner-drama-i-is-another-afm-1236751101/
+### Olivia Cooke Says House of the Dragon Fandom Led to Her Social Media Break: A Lot of Ugliness
+Tue, 10 Nov 2026 05:29:43 +0000 — https://www.hollywoodreporter.com/tv/tv-news/olivia-cooke-house-of-the-dragon-fandom-social-media-break-1236751448/
 
-The Felix Randau-directed historical film about Heinrich Himmler’s massage therapist premiered to strong reviews at Locarno.
+The actress plays the controversial Queen Alicent Hightower in HBO’s 'Game of Thrones' prequel series.
 
-### Frozen Is Getting the A Real Bug s Life Treatment With Nat Geo, Disney+ and Hulu s The Real Frozen
-Mon, 09 Nov 2026 20:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/the-real-frozen-on-nat-geo-disney-plus-hulu-1236750900/
+### The Top 23 Holiday Gifts for Movie Lovers, From Retro Collectibles to Modern Tech
+Tue, 10 Nov 2026 05:25:59 +0000 — https://www.hollywoodreporter.com/lifestyle/shopping/best-christmas-gifts-for-movie-lovers-2026-holiday-presents-1236743921/
 
-Corporate synergy!
+Between $12 stocking stuffers and $700-plus home upgrades, there's something on this list for every type of cinephile.
 
-### The Hollywood Reporter Launches Turkish Edition
-Mon, 09 Nov 2026 19:59:10 +0000 — https://www.hollywoodreporter.com/business/business-news/the-hollywood-reporter-turkish-edition-1236751031/
+### Inside James Gunn, Peter Safran s DC Ouster: Exec Tensions and a Fateful David Ellison Visit
+Tue, 10 Nov 2026 05:01:12 +0000 — https://www.hollywoodreporter.com/movies/movie-news/james-gunn-peter-safran-ouster-dc-1236751437/
 
-In partnership with local media company Titania Yayıncılık, The Hollywood Reporter Türkiye will roll out in Dec. 2026 with a monthly print edition complemented by digital and video content.
+The duo thought they were safe and were already plotting a third 'Superman' movie. Then, Skydance co-CEOs Ellison and Ynon Kreiz paid them a fateful visit on the Warner Bros. lot.
 
-### Jonathan Bailey and Bill Nighy to Star in Oliver Sacks Love Story ‘Insomniac City’
-Mon, 09 Nov 2026 19:48:07 +0000 — https://www.hollywoodreporter.com/movies/movie-news/jonathan-bailey-bill-nighy-oliver-sacks-insomniac-city-1236751088/
+### Johnny Depp s Ebenezer : First Reactions
+Tue, 10 Nov 2026 04:57:42 +0000 — https://www.hollywoodreporter.com/movies/movie-news/johnny-depp-ebenezer-first-reactions-scrooge-1236751441/
 
-Dominic Cooke will direct the adaptation of Bill Hayes’ memoir, with Altitude launching worldwide sales at AFM.
+The latest adaptation of Charles Dickens' classic novella 'A Christmas Carol' hits theaters on Nov. 13.
 
-### The Gilded Age Is Serving Up Ambition and Shame in Season 4 Return
-Mon, 09 Nov 2026 19:12:37 +0000 — https://www.hollywoodreporter.com/tv/tv-features/the-gilded-age-ambition-shame-season-4-analysis-1236751042/
+### Nordstrom s 2026 Holiday Gift Guide Is Live: Our 26 Favorite Finds Under $100
+Tue, 10 Nov 2026 04:03:11 +0000 — https://www.hollywoodreporter.com/lifestyle/shopping/nordstrom-gift-guide-2026-holiday-gift-sets-ideas-under-100-1236751125/
 
-Series bosses Julian Fellowes and Sonja Warfield, along with various cast members, weigh in on the HBO gem's fourth season.
+Retailer-exclusive beauty bundles, seasonal scents from Diptyque, Uggs for the whole family and more of this year's top trending presents that won't break the bank.
 
 ## Deadline
 
-### M. John Harrison Wins The 2026 Booker Prize With ‘The End Of Everything’
-Mon, 09 Nov 2026 23:01:10 +0000 — https://deadline.com/2026/11/m-john-harrison-wins-the-booker-prize-the-end-of-everything-1237217813/
+### David Walliams Named As UK Celebrity Accused Of Exploitative Sexual Activity With Teenagers
+Tue, 10 Nov 2026 12:23:21 +0000 — https://deadline.com/2026/11/david-walliams-named-uk-star-sexual-misconduct-1237218365/
 
-M. John Harrison has won the prestigious Booker Prize for his novel ‘The End Of Everything’. The book follows a beachcomber living on the English coast after a disaster has struck. He finds a mysterious object in the sea and brings it inland. It is the first sci-fi book to land the Booker. At 81, [ ]
+David Walliams, star of Little Britain and Britain s Got Talent, has been named as the UK celebrity at the heart of allegations involving exploitative sexual activity with girls and young women. Walliams fought to prevent ITV News and The Guardian from publishing a joint investigation into his behavior on the basis that it could lead [ ]
 
-### Trump Appears With Dana White After Kidding Over Press Secretary Role; POTUS Defends Nvidia s Jensen Huang, Calls Midterm Results Ridiculous
-Mon, 09 Nov 2026 22:49:04 +0000 — https://deadline.com/2026/11/trump-dana-white-midterms-1237217738/
+### Damian Lewis, Milly Alcock Arinzé Kene Set For Stage Productions At London’s Old Vic
+Tue, 10 Nov 2026 12:07:51 +0000 — https://deadline.com/2026/11/damian-lewis-milly-alcock-arinze-kene-old-vic-1237218376/
 
-Donald Trump surprised reporters on Monday with an appearance in the White House briefing room along with UFC CEO Dana White, the source of much speculation after the president posted over the weekend that he had offered him the job of press secretary. Once again, Trump said that he was sort of kidding, but just [ ]
+The Old Vic in London has set the first four shows in Rupert Goold’s inaugural season as Artistic Director. Damian Lewis (Homeland) will star as Henry V in Goold’s new production of Shakespeare’s play. In April, Milly Alcock (Supergirl) will play the title role in Julie—a contemporary version of August Strindberg’s classic Miss Julie, adapted [ ]
 
-### Tenzing Composer Rebekka Karijord Calls Mount Everest Main Character Of Movie s Music Sound Screen Film
-Mon, 09 Nov 2026 22:45:00 +0000 — https://deadline.com/2026/11/tenzing-composer-rebekka-karijord-interview-1237216904/
+### BBC Studios Names Sreya Biswas As Head Of Planet Earth III Maker Natural History Unit
+Tue, 10 Nov 2026 11:01:12 +0000 — https://deadline.com/2026/11/bbc-studios-sreya-biswas-head-natural-history-unit-1237218369/
 
-In Tenzing, audiences are transported to Mount Everest through the film s original music, which features elements of its Nepali setting. At Deadline s Sound Screen Film, the film s composer Rebekka Karijord presented original music from the Jennifer Peedom-helmed biographical drama about Tenzing Norgay and Edmund Hillary s historic 1953 ascent of the Himalayan summit, explaining how [ ]
+BBC Studios (BBCS) has named Sreya Biswas as Head of its Natural History Unit (NHU), maker of Planet Earth III and Blue Planet III. Biswas will take over from Jonny Keeling early next year, taking on the lead for the editorial, commercial and strategic direction for the NHU. Keeling is remaining with BBCS, but moving [ ]
 
-### XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”
-Mon, 09 Nov 2026 22:28:07 +0000 — https://deadline.com/2026/11/y-van-the-lost-sounds-of-saigon-xtr-announcement-1237217771/
+### The Perfect Lie’ Actor Matthijs Van De Sande Bakhuyzen To Lead AFM-Bound Arctic Thriller ‘The Art Of Survival’
+Tue, 10 Nov 2026 09:53:29 +0000 — https://deadline.com/2026/11/matthijs-van-de-sande-bakhuyzen-the-art-of-survival-film-1237218354/
 
-EXCLUSIVE: Global nonfiction entertainment studio XTR is coming on board Y Vân: The Lost Sounds of Saigon as the award-winning documentary ramps up its campaign for Oscar recognition. That bid was strengthened over the weekend as the film directed by Khoa Hà and Victor Velle won the Audience Award at the New Orleans Film Festival. [ ]
+EXCLUSIVE: Dutch star Matthijs van de Sande Bakhuyzen will headline The Art of Survival. Bakhuyzen s recent credits include Netflix drama The Perfect Lie and MGM+’s Billy the Kid. In Bart Schrijver’s survival thriller, he will star as Daniel, a man taking part in a survival game show gone wrong. Embarking on a 50-day challenge in [ ]
 
-### HBO Max-Paramount+ Bundle Set To Launch In Early 2027, David Ellison Confirms
-Mon, 09 Nov 2026 22:28:00 +0000 — https://deadline.com/2026/11/hbo-max-paramount-bundle-launching-2027-skydance-david-ellison-1237217635/
+### ITV News Guardian Closer To Publishing Sexual Misconduct Allegations About British Star After Injunction Appeal Deadline Passed
+Tue, 10 Nov 2026 09:39:06 +0000 — https://deadline.com/2026/11/itv-news-guardian-uk-publish-star-injunction-1237218339/
 
-UPDATED with earnings call comments. An HBO Max-Paramount+ bundle will launch in early 2027, Skydance CEO David Ellison confirmed in a letter to shareholders on Monday. The bundle has been promoted but not the timing of its launch, which was revealed along with a range of results from the third quarter. Pricing remains an open [ ]
+ITV News and The Guardian are preparing to publish potentially bombshell allegations about a British celebrity following a legal battle over their investigation. Last week, the man lost his bid for an injunction against ITV News producer ITN and The Guardian to prevent the media outlets from publishing allegations of sexual misconduct. Now, a deadline [ ]
 
-### Diane Warren Talks Emotion At Working With Andreas Bocelli On ‘Maserati: The Brothers’ Song: “I Was Sobbing” Sound Screen Film
-Mon, 09 Nov 2026 22:15:00 +0000 — https://deadline.com/2026/11/diane-warren-maserati-the-brothers-song-interview-1237217258/
+### Producer Jemima Goldsmith Accuses Russell Brand Of Violence, Coercive Control Abuse
+Tue, 10 Nov 2026 07:30:57 +0000 — https://deadline.com/2026/11/jemima-goldsmith-accuses-russell-brand-of-violence-abuse-1237218315/
 
-Record-setting 17-time Oscar nominee Diane Warren received a rock-star welcome as she hit Deadline’s Sound Screen Film to accompany and discuss her original song One Right Here for Maserati: The Brothers, about the rise of the Italian racing car dynasty. The songwriter, who was nursing a bout of laryngitis, was greeted with a cheer [ ]
+Jemima Goldsmith, executive producer of movies including The Voice of Hind Rajab and The Bibi Files, has alleged that Russell Brand was abusive during their relationship. After Brand was sentenced to prison for more than 10 years for rape and sexual assault, Goldsmith (who also goes by Jemima Khan) accused Brand of violence, coercive control [ ]
 
-### ESPN Extends College Football Playoff Rights Through 2032 As 24-Team Format Set For Next Season
-Mon, 09 Nov 2026 22:08:17 +0000 — https://deadline.com/2026/11/espn-extends-college-football-playoff-rights-2032-1237217644/
+### Jon Stewart Praises ‘60 Minutes Ross Douthat For Donald Trump Interview: I Think I m Going To Enjoy This
+Tue, 10 Nov 2026 05:22:58 +0000 — https://deadline.com/2026/11/jon-stewart-60-minutes-ross-douthat-donald-trump-interview-1237218303/
 
-ESPN has renewed its rights deal with the College Football Playoff through 2032, with an expanded 24-team format set to take effect next season. Barely a decade into its existence, the CFP has bumped up ratings and excitement around the sport, but its initial 4-team setup has grown exponentially and will once again reshape the [ ]
+Following the 2026 midterm elections and the blue wave, Jon Stewart returned to The Daily Show. After gloating over all the Republican seats that flipped to Democrats, the Comedy Central host took time to react to Donald Trump s 60 Minutes interview. On Sunday night, Trump sat down with Ross Douthat for an interview that left many [ ]
 
-### Clueless Actor Breckin Meyer Says He s Reprising Travis Role Writing For TV Series Reboot
-Mon, 09 Nov 2026 22:00:20 +0000 — https://deadline.com/2026/11/clueless-breckin-meyer-travis-writing-tv-series-reboot-1237217732/
+### Julia Garner Shares Madonna Biopic Update: Every Hour It Changes
+Tue, 10 Nov 2026 03:55:02 +0000 — https://deadline.com/2026/11/julia-garner-madonna-biopic-update-1237218202/
 
-Breckin Meyer will reprise his Clueless role in the TV series reboot and join the writing team. The actor recently revealed in a podcast that he would play Travis Birkenstock once again, a character he played in the 1995 Amy Heckerling-directed film. I’ve been in the writers room on this show they’re doing of Clueless, [ ]
+Julia Garner was personally selected by Madonna to play her in a biopic, which has been in the works for several years. In a new interview, the Weapons star was asked if the film or series was still moving forward. I don t know, Garner told CBS Sunday Morning, adding, Every hour it changes, in a [ ]
 
-### Toukie Smith Dies: 227 Miami Vice Actor Was 74
-Mon, 09 Nov 2026 21:52:45 +0000 — https://deadline.com/2026/11/toukie-smith-dead-227-robert-de-niro-partner-1237217666/
+### Keira Knightley On Fans Quoting Love Actually To Her: It Means Nothing To Me
+Tue, 10 Nov 2026 03:29:41 +0000 — https://deadline.com/2026/11/keira-knightley-fans-quoting-love-actually-1237218199/
 
-Toukie Smith, who played Eva Rawley on the NBC sitcom 227, recurred on Miami Vice, appeared in films and was the former partner of Robert De Niro, has died. She was 74. Her twins Airyn and Julian said Smith died November 4 after a long battle with multiple sclerosis. Toukie was a force of nature, [ ]
+Love Actually has become one of the most quotable and memeable films of all time, but for star Keira Knightley, it s a distant and vague memory. In a new interview, Knightley opened up about fans approaching her and quoting the film, but it doesn t mean much to her. I have not watched Love Actually since [ ]
 
-### ‘The Greatest’ Song Walk With Kings Drew From Rudyard Kipling Poem, Marcus Bell Says Sound Screen Film
-Mon, 09 Nov 2026 21:30:00 +0000 — https://deadline.com/2026/11/the-greatest-song-walk-with-kings-marcus-bell-interview-1237217000/
+### Here There Are Blueberries Broadway Review: Evil As Banal As A Bowl Of Fruit
+Tue, 10 Nov 2026 03:00:00 +0000 — https://deadline.com/2026/11/here-there-are-blueberries-broadway-review-1237216680/
 
-Writing a song to reflect Muhammad Ali could be as daunting a task as any Ali faced in the ring. Marcus “Bellringer” Bell had help, though, he says. For his song “Walk With Kings” from Prime Video s The Greatest, he turned to another legend: author Rudyard Kipling. Bell shared the story at Deadline’s Sound [ ]
+Here There Are Blueberries, the exceptional Pulitzer finalist docu-drama that opened Off Broadway two years ago to great admiration, finally makes its Broadway debut tonight at the Barrymore Theatre. The play, about a mysterious real-life cache of one-of-a-kind Auschwitz photos submitted to the United States Holocaust Memorial Museum in 2007, remains as intriguing as ever [ ]
 
-### Asian World Film Festival Reveals Asian Vision Focus On Sections
-Mon, 09 Nov 2026 21:23:45 +0000 — https://deadline.com/2026/11/asian-world-film-festival-vision-focus-dear-you-naza-kurak-1237216510/
+### Johnny Depp Ti West Land In A Chilly London For ‘Ebenezer’ Global Premiere
+Tue, 10 Nov 2026 01:24:30 +0000 — https://deadline.com/2026/11/johnny-depp-ti-west-london-ebenezer-global-premiere-1237218130/
 
-Asian World Film Festival has announced the Asian Vision and Focus On sections for this year’s edition of the event, running November 12-19 at the Culver Theatre in Los Angeles. Now in its third consecutive year, Asian Vision is a juried competition section that will screen seven standout films that have been overlooked by other [ ]
+Christmas came early to London’s Leicester Square on Monday as Johnny Depp touched down for a red-carpet global premiere of Ebenezer in the company of director Ti West and cast including Rupert Grint, Sam Claflin, Tramell Tillman, Ellie Bamber and Robert Strong. The red carpet was decked out with Christmas trees and artificial snow while [ ]
 
-### Hulu Launches True-Crime Docuseries ‘The Well’ From Fox Entertainment Studios
-Mon, 09 Nov 2026 21:22:00 +0000 — https://deadline.com/2026/11/hulu-true-crime-docuseries-the-well-1237217663/
+### Paddington: The Musical Sets Broadway Cast With Tony Hale, J. Quinton Johnson, Jessie Mueller More
+Tue, 10 Nov 2026 01:00:11 +0000 — https://deadline.com/2026/11/paddington-the-musical-broadway-cast-2026-1237218092/
 
-Hulu is leaning further into true-crime with its latest docuseries. The streamer has launched six-part series The Well, which explores the investigators reopening the case of the Speed Freak Killers. The Well investigates more than 200 unsolved murders that continue to haunt California’s San Joaquin County, including those linked to serial killers Loren Herzog and [ ]
+Paddington: The Musical, which opens in 2027, has set its cast, featuring Arrested Development s Tony Hale in his Broadway debut. The musical will be led by Kelvin Dukes (America’s Got Talent) as Tony, Drew Gehling (Waitress) as Mr. Brown, Allison Guinn (Operation Mincemeat) as Lady Sloane and Hale (Veep) as Mr. Curry. Arti Shah, who [ ]
 
 ## befores & afters
 
@@ -237,105 +237,105 @@ Sun, 08 Nov 2026 16:21:19 +0000 — https://www.indiewire.com/news/box-office/bo
 
 ## The Wrap
 
-### Dustin Hoffman Says He Supported #MeToo as a ‘Very Good Thing,’ but Was in ‘Shock’ by His Own Sexual Harassment Allegations
-Mon, 09 Nov 2026 22:53:08 +0000 — https://www.thewrap.com/culture-lifestyle/culture/dustin-hoffman-addresses-me-too-support-sexual-harassment-allegations-memoir/
+### Andrew Garfield Admits He Had ‘Deep Admiration’ for Sam Altman Before Playing Him in ‘Artificial’
+Tue, 10 Nov 2026 06:56:13 +0000 — https://www.thewrap.com/creative-content/movies/andrew-garfield-shares-first-reaction-sam-altman-before-artificial/
 
-Dustin Hoffman was a supporter of the #MeToo movement despite being in shock when his own sexual harassment allegations came through. In the actor s new memoir Look at Me, Hoffman wrote about the entire experience in 2017. The #MeToo movement was just kicking off and he was in complete support of people calling out predators in Hollywood. But when it happened to him he was shocked. “When a reckoning started making its way around the internet and tearing through Hollywood, I thought it was a very good thing,” Hoffman wrote. “I knew by then that plenty of women had put up with way too much for way too long in my industry. Not for a second did I worry that anything negative would be said about me, because the idea of taking something from someone sexually that they didn’t want to give … it’s just not something I’ve ever done. Or been tempted to do.” Hoffman explained that his entire life changed when #MeToo allegations came out against him from eight women. They alleged The Graduate actor of multiple instances of sexual assault – from indecent exposure and lewd comments to forced oral sex. His memoir went on saying that he had a real battle with how he could defend himself while also supporting the cause. I was sort of bewildered by how to defend myself … or if I should even try,” Hoffman added. “I didn’t want to be fighting against something that I thought was important. I didn’t want to be on the wrong side of my own values. The only problem was that things were being said abo
+Andrew Garfield admitted he once had “deep admiration” for Sam Altman before portraying the OpenAI CEO in Luca Guadagnino’s film “Artificial, ” explaining that the tech leader had him convinced he was “nothing but purely altruistic.” During a Q&A following a Monday night screening of the Neon film, Garfield touched on his first impression of the entrepreneur, confessing he was actually a fan of Altman at the beginning. The first time I saw Sam, he was testifying in front of Congress, and he was saying incredibly righteous stuff, the actor recalled. He was talking about transparency. He was talking about the risks. He was very, very casually saying, No, I don t have any equity in OpenAI. I m just doing this because I love the technology and I m passionate and I actually care about human beings. And I thought it was also just incredibly courageous for an out gay, you know, tech genius to be sat in front of Republican congressmen who probably don t believe in his right to exist. So all of these things were adding up for me, and I was in such deep admiration of him, he continued. I was like, Oh, we need more of these very [people].' As Garfield went on, he remembered being impressed by Altman s connection with Jack Kornfield, an incredible Buddhist teacher. And I m like, This guy might be like, my future best friend,' he added. I was like, Oh no, he s like genuinely great, and he seems to really have his values and priorities in the right place.' While this may ve been Garfield s
 
-### Ioan Gruffudd Says Explicit and Disturbing AI Scam Convinced Fan They Had an Illicit Romance
-Mon, 09 Nov 2026 22:33:08 +0000 — https://www.thewrap.com/creative-content/movies/ioan-gruffudd-ai-scam-explicit-disturbing-images-fan-romance/
+### Jimmy Kimmel Unleashes on White House Spokesperson After ‘Peanut-Sized Brain’ Insult: ‘Sick Burn, Bro’
+Tue, 10 Nov 2026 06:07:34 +0000 — https://www.thewrap.com/creative-content/tv-shows/jimmy-kimmel-responds-white-house-spokesperson-peanut-sized-brain-insult/
 
-Ioan Gruffudd warned his fans online of an AI scammer using his likeness after one woman believed she was in an extramarital relationship with the actor after hundreds of telegram messages and AI-generated images were shared between the two over the course of a year. The Fantastic Four actor was attending a Chattanooga Comic Con in Tennessee when the issue was brought to his attention. “Something incredibly distressing and disturbing has been brought to my attention,” the actor wrote in an Instagram post on Sunday. “A woman came to a convention I was recently attending and she was under the impression that she was in an extramarital relationship with me for over a year.” He said the woman showed him hundreds of explicit and disturbing AI images and videos that someone claiming to be him had sent to her. The woman was apparently targeted from an Elsbeth TV series Facebook page, where the scammer got her phone number and asked to communicate via Telegram. Gruffudd appeared on one episode of the CBS series as Angus Oliphant-Donnachaidh in 2025. The actor warned that he never gives out his cell number to people that he does not know and asked his fans to take precaution. If you believe you are speaking to me via message, Telegram, any social media pages that aren t this page (@ioangruffudd), or any other means, this is not me, he said. He adds: Please do not engage and never send money! I urge you to ignore and block all contact from anyone that claims to be me. The actor noted t
+Jimmy Kimmel once again took aim at White House spokesperson Davis Ingle after the latter accused the late night host of having a peanut-sized brain. The comedian addressed the Trump administration’s latest jab during Monday’s monologue for “Jimmy Kimmel Live!,” where he roasted the White House for making it their business to attack him. And then the White House got back to the important business of attacking me, he told his studio audience. I got another statement from White House spokesboy Davis Dingle, who wrote, Jimmy Kimmel s case of Trump Derangement Syndrome is so advanced that it has completely rotted his peanut-sized brain. He s far more entertaining when you re laughing at him than with him. But unfortunately, his real talent is his failing ratings.' As Kimmel went on, he playfully ribbed the White House staffer for this statement, noting, Sick burn, bro. You know what? You should enter a rap battle spitting dope rhymes like that. Trump now has interns insulting me. It s like that sad day when your cat gets too fat to chase mice, he continued. This guy says, I have a peanut-sized brain. Let me explain something. I know you re young. That s impossible. You know what happens when you try to run a full human body with a peanut sized brain? At this moment, the Jimmy Kimmel Live! editors cut to footage of Trump struggling to say human genome during a speech at NASA s Kennedy Space Center in Florida. You start saying things like that guy, Kimmel quipped. He has a brain li
 
-### Florence Pugh Pays Tribute to The Wonder Director Sebastián Lelio: My Heart Is Broken
-Mon, 09 Nov 2026 22:22:56 +0000 — https://www.thewrap.com/culture-lifestyle/culture/florence-pugh-remembers-sebastian-lelio-dead-the-wonder/
+### Jake Tapper Rips Into Trump for Calling CNN’s Kaitlan Collins a ‘Loser’ Over Pete Hegseth Question
+Tue, 10 Nov 2026 05:28:50 +0000 — https://www.thewrap.com/media-platforms/journalism/jake-tapper-reacts-trump-calling-kaitlan-collins-loser-over-pete-hegseth-question/
 
-Florence Pugh is mourning the death of director and collaborator Sebastián Lelio. Lelio died last week after suffering from health complications, according to his partner Amalia Kassai. The late writer-director worked with Pugh on the 2022 film The Wonder. The actress took to social media Monday to post her remembrance to Lelio. My heart is broken, Pugh wrote. He was a man who was so firmly on our side. He cared so deeply for women, he dedicated his work to telling the stories of women and all of the different hardships and pain. He was sensitive, with bright blue beaming eyes that stared into your soul even if you were talking about breakfast. We fell in love over food, we had so much to talk about with the script of The Wonder, but the thing that really allowed us to share a heartbeat was love of food. Meat, stews, cheese, red wine. OH RED WINE we both would scream. She continued: He would take me out for foodie dinners in Dublin to talk about the project but we’d just be giddy over the chefs choices sent out. So it’s not lost on me that right before I’d found out about his passing, I’d purchased a special cut of beef and a special red wine, almost as a preparation for his mourning. I cooked it. Drank it. And thought and spoke of how unique and mesmerising he was. I smiled through tears as I looked at my plate because I knew he would have smiled at it too. Alongside The Wonder, Lelio was most-known for 2017 s “A Fantastic Woman” which won the Oscar for Best Foreign Language
+Jake Tapper came to the defense of CNN peer Kaitlan Collins after President Donald Trump blasted her as a loser for asking if he stood by Pete Hegseth amid the new impeachment effort. Earlier on Monday, Trump stopped by the White House press briefing room, where Collins asked the president if he planned to stand by Hegseth even if he is impeached. Yeah. I ll stand by [him], Trump said of his defense secretary, who currently faces impeachment articles introduced by Rep. Thomas Massie (R-Ky.). He won two wars. He was in charge. We all won. I had great people. After Collins countered that Massie has claimed that Hegseth has carried out illegal acts, Trump descended into name calling. Massie is a loser, he said. Just like you re a loser at CNN. Just like your ratings are a loser. In response to this dig, Tapper took to X and voiced his support for Collins. There’s one person in this exchange whose behavior, hand-picked candidates, and policies were repudiated handily by voters with historical election losses coast to coast — including in Texas, Kansas, Iowa, Ohio and Georgia — and it ain’t Kaitlan, he wrote. There’s one person in this exchange whose behavior, hand-picked candidates, and policies were repudiated handily by voters with historical election losses coast to coast — including in Texas, Kansas, Iowa, Ohio, and Georgia — and it ain’t Kaitlan. https://t.co/Z3mN5wqHc5 &mdash; Jake Tapper (@jaketapper) November 10, 2026 A representative for the White House did not immediate
 
-### Kristen Bell, Idina Menzel and Josh Gad to Reprise Frozen Characters for Nat Geo Series
-Mon, 09 Nov 2026 21:32:59 +0000 — https://www.thewrap.com/creative-content/tv-shows/kristen-bell-idina-menzel-josh-gad-frozen-nat-geo-series/
+### Jon Stewart Can t Hide His Glee Over ‘60 Minutes’ Challenging Trump About Corruption: My God, Ross
+Tue, 10 Nov 2026 04:57:02 +0000 — https://www.thewrap.com/creative-content/tv-shows/jon-stewart-reacts-60-minutes-trump-corruption-questions/
 
-The original Frozen cast will return for Disney Animation and National Geographic s upcoming nature series The Real Frozen. The series will imagine the beloved animated characters as if they were actually inhabiting the icy worlds that the animated movie was based on. The series will showcase the landscapes of Iceland, Finland, Norway and Sweden as well as the animals who inhabit the Frozen universe, according to the network. Kristen Bell, Idina Menzel and Jonathan Groff will all reprise their roles as Anna, Elsa and Kristoff, respectively. The trio will serve as narrators, guiding viewers through the nature documentary bringing in the Disney Animation whimsy. Josh Gad will also make special appearances as Olaf throughout the series. “At National Geographic, we’re passionate about inspiring the next generation through stories kids love and parents trust,” Courteney Monroe, president, National Geographic Content, said. It’s a wonderful opportunity to bring together Disney’s beloved stories and characters with National Geographic’s boundary-pushing natural history storytelling, introducing kids and families to the incredible wonders of the world and opening the door to a lifetime of discovery.” The Real Frozen is the latest NatGeo-Disney collaboration, setting beloved animation films in the worlds of their real-life counterparts. The franchise includes Emmy-winning A Real Bug s Life, Lion depicting the real-life Lion King and the upcoming The Real Finding Nemo. “There is no one
+Jon Stewart praised “60 Minutes” correspondent Ross Douthat for pressing President Donald Trump on his family’s financial gains during his second term, commending the journalist for directly confronting the president over potential corruption. The comedian reflected on the tense sit down between Douthat and Trump during Monday s monologue for The Daily Show, where he applauded the 60 Minutes correspondent for getting sassy with the president while asking about his finances. Was that sass? Stewart said, after Douthat pointed out that the president s own net worth had grown since taking office. Did the new MAGA-fied CBS 60 Minutes just deliver sass to Donald Trump? I think you re supposed to yes, and, not yes, but.' The Daily Show editors then played another highlight from the interview, in which Trump tried to defend that everyone s net worth has gone up in the last year-and-a-half, prompting Douthat to counter: My net worth did not go up by $3 billion. I think I m going to enjoy this. I did not come into this interview thinking, Uh, I m going to enjoy this. But now, as I am watching this, I am thinking to myself, I am going to enjoy this,' Stewart said. Let me prepare the table for the feast we are all about to enjoy. As regular viewers of our program know, Donald Trump has a somewhat high regard for his own financial acumen. In fact, not 20 minutes prior, in this very same interview we are watching, Donald Trump said this: I m really good at money and finances.' Stewart didn
 
-### AMC’s Stock Jumps 6% After ‘Walking Dead’ Settlement, ALLBLK Divestiture
-Mon, 09 Nov 2026 21:31:01 +0000 — https://www.thewrap.com/media-platforms/tv/amc-global-media-earnings-q3-2026/
+### Megyn Kelly Faces Fresh Backlash Over Russell Brand ‘Witch Hunt’ Comments: ‘So Disappointing’
+Tue, 10 Nov 2026 03:42:43 +0000 — https://www.thewrap.com/culture-lifestyle/culture/megyn-kelly-backlash-over-russell-brand-witch-hunt-comments/
 
-Revenue came in at $566 million, a less than 1% increase compared to last year and below the $585 million predicted by analysts at Yahoo Finance A $85 million settlement payment for a case related to The Walking Dead and Fear the Walking Dead AMC s stock increased by 6% in after hours trading AMC Global Media reported a less than 1% increase in revenue during its third quarter on Monday after the market closed. Revenue came in at $566 million, which was notably less than the $585 million predicted by analysts at Yahoo Finance. However, the quarter also included a $85 million all-cash settlement payment, which impacted revenue. The settlement had to do with a case involving breach of contract claims related to The Walking Dead and Fear the Walking Dead, marking the resolution of a nearly 10-year-old case. Though AMC s co-exclusive deal with Netflix over The Walking Dead was announced last quarter, a majority of that revenue isn t expected to be reported until later this year. Diluted earnings per share came in at a loss of $1.13 compared to the $1.38 gain the company saw this time last year. EPS also missed predictions from analysts at Yahoo Finance, who estimated the quarter would have a loss of $0.01 Though AMC was buoyed by increases in streaming revenue, the continuing decline of cable was the main reason for the lackluster quarter. Subscription revenue decreased 2% year-over-year to hit $308 million. That was primarily due to a 11% decline in affiliate revenue thanks to b
+Megyn Kelly faced fresh backlash on Monday after speaking out against Russell Brand s 10-year prison sentence, with several fans voicing their disappointment in the conservative pundit. During Monday s episode of The Megyn Kelly Show, the commentator weighed in on the comedian s legal loss, where he was sentenced to 10 years and six months in prison after being convicted of rape and sexual assault in a London criminal trial last week. In the episode, Kelly blasted the sentence as an outrage, adding, This is an obvious double standard. And if you needed any further proof that this is a political witch hunt against Russell Brand, that judge just gave it to us. “Good Lord. 10 and a half years in prison, Kelly noted elsewhere in the episode. He grabbed a boob. He kissed a lady. He sniffed a lady. And he had backdoor sex with a woman who licked his backdoor before she was even introduced to him This is insane.” Kelly s outrage over the update in Brand s case prompted a strong reaction online, with several critics slamming the pundit for her stance in support of the comedian. But Brand is a rapist. He’s always been a creep, but now his predatory history is coming to light, one critic wrote in response on X. What the victim did before saying NO! doesn’t matter. She has the right to say No. How he treated her and the other victims is appalling. Mind you, so is your support for the rapist. Another critic expressed a similar sentiment, succinctly writing , Your take on RB is so disappo
 
-### ‘Heated Rivalry’ Fans Can Soon Watch Filmed Version of Its Unauthorized Off-Broadway Musical
-Mon, 09 Nov 2026 21:26:07 +0000 — https://www.thewrap.com/creative-content/tv-shows/heated-rivalry-off-broadway-musical-pro-shot-nypl-archives/
+### Here There Are Blueberries Broadway Review: No Actor Can Upstage These Nazi Photos
+Tue, 10 Nov 2026 03:00:00 +0000 — https://www.thewrap.com/creative-content/theater/here-there-are-blueberries-broadway-review/
 
-Fans of “Heated Rivalry” will soon have a chance to watch a live recording of the unauthorized musical parody inspired by the hit hockey romance, all for the price of a library card. The hit production will be filmed on Tuesday and be included in the New York Public Library for the Performing Arts’ Theatre on Film and Tape Archive with stars Jay Armstrong Johnson as Ilya Rozanov and Troy Iwata as Shane Hollander. We feel very lucky and honored to have our show preserved for the Library of the Performing Arts’ archive cementing it in the theatrical canon and further legitimizing this love letter musical to Heated Rivalry,' producer Alan Kliffer said of the venture, which is granted a limited number of Off-Broadway shows. To be taped live at The Culture Club in New York City and also featuring Ryann Redmond, Shelby Acosta and Ryan Duncan, Heated Rivalry: The Unauthorized Musical Parody will be available for any fan of the steamy HBO Max/Crave hockey romance with an NYPL library card. The recording will become part of the library’s Theatre on Film and Tape Archive, which preserves live performances and makes them available for in-person viewing at the New York Public Library for the Performing Arts at Lincoln Center. Written by Dylan MarcAurele, “Heated Rivalry: The Unauthorized Musical Parody” follows Shane Hollander on a comedic journey from “power center to power bottom,” according to its official description. The production features an original, pop-infused score and parodie
+So much for the power of live theater. It happens whenever a director decides to unspool a film or place blown-up photographs among living-breathing actors on stage. When an audience is given the choice to follow a human or a projection, the eye goes to the projection. Moisés Kaufman and Amanda Gronich’s play “Here There Are Blueberries” opened Monday at the Barrymore Theater after engagements Off Broadway and elsewhere. The photographs projected on stage, taken at Auschwitz and its environs during World War II, are nothing short of unforgettable. The actors on stage are something less. Late in “Here There Are Blueberries,” we see the more familiar photos. These are the images of Jews arriving by train at Auschwitz, surrounded by the Nazi guards and their dogs. They are shocking. But equally disturbing for very different reasons are the happy photographs displayed earlier in the play. These photographs – 116 of them include no images of Jewish prisoners, but rather the commandants and the employees of Auschwitz. And these Nazis are having a great time. The men in uniform sing, picnic, enjoy a beer at the end of a long hard day at the concentration camp. Other photos show female telephone operators from Auschwitz being treated to a dessert of blueberries at Solahutte, a lodge retreat snuggled among the pine trees nearby. From another album, photographs show children enjoying themselves in a backyard pool. Only on closer inspection do we notice a guard tower at Auschwitz just o
 
-### Hulu s Latest True Crime Docuseries The Well Revisits the Speed Freak Killers
-Mon, 09 Nov 2026 21:23:04 +0000 — https://www.thewrap.com/creative-content/tv-shows/the-well-speed-freak-killers-docuseries-hulu-fox-entertainment/
+### Katie Zacharia Pushes Back on Reports She Wants to Be Trump’s Press Secretary Again: ‘Utterly Fake’
+Tue, 10 Nov 2026 02:50:56 +0000 — https://www.thewrap.com/media-platforms/politics/katie-zacharia-denies-white-house-return-reports/
 
-Fox Entertainment s latest docuseries The Well reopens an investigation into more than 200 unsolved murders that loom over California’s San Joaquin County. The six-part documentary premiered Monday on Hulu, following crimes related to the Speed Freak Killers, an American serial killer duo consisting of childhood friends Wesley Shermantine and Loren Herzog. Decades after the killers were arrested for their crimes, a newly formed cold case unit led by Lieutenant Linda Jimenez reopened their file to locate the remains of several victims, who are still missing. The case file is no longer a file. It s a room full of boxes, one of the investigators said in the trailer. The Speed Freak Killers were suspected of dozens of killings in the San Joaquin County area that started in the 1980s and ended with their arrest in 1999. They earned their nickname because they were often high on methamphetamine. The documentary showed the team of detectives working with the convicted serial killer Shermantine to locate where the victims were laid to rest. Five victims had been located, but the investigators were unclear how many were still buried. We believe they killed anywhere from 14 to 100, another investigator said, spanning from the Bay Area to Nevada. Shermantine was on death row in a state prison outside of Sacramento during the filming for this docuseries. He died in prison in September. He is the devil. I hope he went down in the bowls of hell where he crawled out of, the mother of one of
+Katie Zacharia, the shortest-serving White House press secretary in U.S. history, denied reports claiming she was angling for her job back, blasting them as utterly fake. The former Trump staffer took to X on Monday and made it clear that she was not trying to convince new White House Chief of Staff Stephen Miller to reinstate her as press secretary. We’ve reached the point where @TMZ is correcting DC beltway lies from anonymous sources,' Zacharia wrote on X , alongside a link to an article highlighting her denial. Reporters and outlets pushing abject falsehoods from anonymous sources are complicit in the fake news machine—and a big reason Americans no longer trust the media. For anyone still wondering whether she hoped to rejoin the Trump administration, she added: I’m not auditioning for the role. Claims that I’m trying to get my old job back as President Trump’s White House Press Secretary are utterly fake. While Zacharia s replacement has yet to be named in the three weeks since her ousting, the Trump administration has playfully toyed with the idea of bringing on a notable name to serve as press secretary. Ahead of the midterm elections, White House Communications Director Steven Cheung cheekily teased Nicki Minaj as the administration’s next press secretary , sharing footage of the rap star trying her hand at giving a press briefing. “Ladies and gentlemen, I think we may have found the new White House Press Secretary, Cheung wrote on X at the time. Though the Trump team
 
-### Paramount Swings to $73 Million Profit in Q3, Driven by Streaming, Studios Growth
-Mon, 09 Nov 2026 21:05:36 +0000 — https://www.thewrap.com/industry-news/business/paramount-earnings-q3-2026/
+### Jessica Tarlov Reminds Fox News Co-Hosts That Trump Is Never Going to Change: Election Denial Is His ‘Greatest Hits’
+Tue, 10 Nov 2026 01:13:06 +0000 — https://www.thewrap.com/media-platforms/politics/jessica-tarlov-trump-will-not-change-election-denial-greatest-hits/
 
-Paramount reported $7 billion in revenue and a profit of 6 cents per share, compared to $7.04 billion in revenue and a profit of 20 cents per share expected by Wall Street analysts. Paramount+, HBO and HBO Max reach 203 million aggregate subscribers worldwide. Starting in the fourth quarter, it will stop disclosing subscribers on a quarterly basis. HBO Max and Paramount+ will launch a bundle in early 2027 and will be merged onto the same backend within the first year of the merger s closing In its first quarter since closing the $110 billion Warner Bros. Discovery merger, Paramount Skydance swung to a profit of $73 million, or 6 cents per share, with revenue climbing 5% to $7 billion. The results were driven by growth in its streaming and studios businesses, which was offset by continued declines in the linear TV business. Paramount+ revenue grew 21% to $2.13 billion, marking its fastest quarterly growth in 2026, as the serviced added 600,000 subscribers for a total of 82.2 million. Meanwhile, Pluto TV has as approximately 75 million monthly active users. When combined, HBO, HBO Max and Paramount+ reach 203 million aggregate subscribers worldwide, though that figure excludes Discovery+ and other WBD streaming services. Starting in the fourth quarter, Skydance will stop disclosing streaming subscribers on a quarterly basis. Overall, the direct-to-consumer business posted a profit of $225 million and saw revenue grow 11% to $2.5 billion as it recognized higher costs from planne
+Fox News host Jessica Tarlov said that, despite President Donald Trump s attempt at nonchalance following the midterm results last week, he is still who he has always been. As the election results came in last Tuesday, the president had a surprisingly calm response to the blue tsunami that gave Democrats control of both chambers of Congress and their biggest House majority in nearly two decades. “I am absolutely willing to accept those results,” he told the New York Times on election night, adding that he looked forward to working with Democrats. However, in the days since, he has returned to placing blame on everyone but his own administration, making baseless allegations of election fraud nationwide. He has not offered evidence of wrongdoing, but the president has claimed that the midterms elections were not honest. We have done this dance too many times, Tarlov told her co-anchors on Monday s The Five. He’s exactly who he has always been. She agreed that Trump had moments of levity during his 60 Minutes interview Sunday, but Monday he reverted to being an election denier. Then he wakes up this morning, and, boom, he’s an election denier again, she said. He is going back to his greatest hits which have failed time and time again. They will fail in court if he decides he wants to move in that direction. Jessica: We have done this dance too many times. “Is Donald Trump different?” He’s exactly who he has always been. He woke up this morning and he’s an election denier again. 
 
-### HBO Max and Paramount+ Bundle to Launch in 2027 in First Step of Merging Streamers
-Mon, 09 Nov 2026 21:03:43 +0000 — https://www.thewrap.com/media-platforms/tv/hbo-max-paramount-bundle-launch-date-2027/
+### Inside the 2026 LACMA Art+Film Gala: See All the Red Carpet Looks Photos
+Tue, 10 Nov 2026 00:46:19 +0000 — https://www.thewrap.com/culture-lifestyle/fashion/lacma-art-and-film-gala-2026-red-carpet-photo-gallery/
 
-Skydance will launch an HBO Max and Paramount+ streaming bundle in 2027, marking the start of the streamers merging. Starting in early 2027, Skydance will offer HBO Max and Paramount+ in a single bundle, enabling consumers to subscribe to both world-class streaming services at an even greater value, the entertainment giant revealed as part of its quarterly earnings report. The bundle marks the first step toward bringing together Paramount+ and HBO Max, and Skydance expects the two streamers backends will be aligned within a year of closing, quicker than Pluto TV. No exact timeline was given on when a combined streamer would launch. The integration of Pluto TV with Paramount+ took about 18 months, the letter to shareholders read. Drawing on that experience, our combined technology team, and the latest in AI tools, we expect to bring Paramount+ and HBO Max together much faster, aiming to align our backend systems within a year of closing, enabling us to quickly deliver a unified product. As Skydance moves forward toward a fully unified offering, the company noted it will phase in new plans for pricing with discipline and consumer feedback, so we can continue to grow the services throughout the transition. We see a meaningful opportunity to grow reach and engagement, improve retention, and increase the revenue and profitability of our streaming services in line with or ahead of the leading competitors in the industry, the letter read. Accelerating our integrated direct-to-consum
+The 15th annual LACMA Art+Film Gala brought together some of Hollywood’s biggest names Saturday night, with actors, filmmakers, artists and other notable guests gathering at the Los Angeles County Museum of Art for the annual celebration of art and cinema. The Nov. 7 event also raised nearly $7 million, setting a fundraising record for the gala. This year honored artist Vija Celmins and filmmaker Denis Villeneuve, recognizing their contributions to the visual arts and cinema. Co-chaired by Leonardo DiCaprio and LACMA trustee Eva Chow, the event drew more than 600 guests and was presented by Gucci, which has partnered with the museum on the annual benefit since its launch in 2011. Among those stepping onto the red carpet were Kim Kardashian, Nicole Kidman, Andrew Garfield, Anya Taylor-Joy, Viola Davis, Monica Barbaro, Odessa A zion, Quinta Brunson and Julia Garner. Guests posed beneath the glow of Chris Burden’s iconic “Urban Light” installation, which has become a signature backdrop for the gala’s arrivals. Proceeds from the record-setting fundraiser will support LACMA’s efforts to expand film programming and its broader mission, including exhibitions, acquisitions and educational initiatives. Take a look at the stars who brought their fashion A-game to the 2026 LACMA Art+Film Gala in TheWrap s photo gallery. (Photo by Chloe Kern/WireImage) Anya Taylor-Joy (Photo by John Shearer/Getty Images) Odessa A zion (Photo by Chloe Kern/WireImage) Quinta Brunson (Photo by Monica Schipp
 
-### Olivia Cooke Decries ‘House of the Dragon’ Fandom as ‘Steeped in Misogyny’ and ‘Racism’
-Mon, 09 Nov 2026 20:54:01 +0000 — https://www.thewrap.com/culture-lifestyle/culture/olivia-cooke-house-of-the-dragon-fandom-misogyny/
+### Trump Says He Jokingly Offered Dana White Comms Role Because of Very Bad Press Day
+Mon, 09 Nov 2026 23:57:23 +0000 — https://www.thewrap.com/media-platforms/politics/trump-joking-dana-white-press-secretary-offer-reason/
 
-Olivia Cooke continues to navigate an often toxic House of the Dragon fandom that is, according to her, steeped in misogyny and racism. In an interview with GQ published Monday, Cooke discussed the vocal fanbase surrounding the “Game of Thrones” prequel, in which she plays Alicent Hightower. She said the reaction to the show’s third season, which aired over the summer, could get ugly at times. She tries to give the online discourse as little “mental real estate” as possible, but the backlash was one factor in her decision to deactivate her social media accounts during her break. “I think some of those interpretations just catch fire, and they become something that bears no resemblance to what was shown on the screen at the time,” Cooke said. “There s a lot of ugliness to that fandom as well. It’s steeped in misogyny. There’s a lot of racism. I try to let it take up minimal mental real estate.” Many of the complaints from fans come from departures from George R.R. Martin s source material books. Some of the big ones that caused a stir in the third season was a scene where Cooke s Alicent had a reluctant kiss with her son Aemond (Ewan Mitchell) and then in later episode was featured in a dream sequence where Alicent and Aemond were having sex. Among the many decrying the HBO show s many departures over the seasons is Martin himself. While he s certainly not targeting Cooke, he has had plenty to say about showrunner Ryan Condal s decision making over the years. It reached a head
+Donald Trump surprised members of the press yet again on Monday when he stepped into a White House press briefing with UFC chief Dana White. The two stood together to address their bizarre stunt over the weekend that saw the president asking the sports executive to be his next press secretary . Trump, standing to the right of White while the CEO spoke from the podium, interjected to explain that he jokingly offered up the role because we were having a very bad press day. We were having a very bad press day, and I said, I don’t know why, I thought of his name, he’s been my friend for a long time, I said, ‘You know, I think I’m going to get Dana White to be my new press secretary,’ Trump recalled. I said it to a group of the press, and that was it. The president appeared to misremember that he did not say it to a select group of press, but posted the offer on his own Truth Social account , breathlessly writing, “Dana, please take the job!” I was sort of kidding. And then they wrote the stories as if I wasn’t kidding, and you were inundated and I was inundated, Trump continued. He was here anyway, we thought we’d have a little fun and we brought Dana here. The president did briefly weigh in on how he thinks White would do as press secretary, however: He would be fantastic. Trump on why he named Dana White press secretary: “We were having a very bad press day and I said, I don’t know why, I thought of his name. He’s been my friend for a long time. I think I’ll going to get Dana W
 
 ## Collider
 
-### Clint Eastwood’s True-Crime Thriller Is Officially Netflix’s Next ‘Mindhunter’
-Mon, 09 Nov 2026 23:00:12 GMT — https://collider.com/clint-eastwood-richard-jewell-netflix-streaming-november-2026/
+### 12 Perfect Christmas Movies Nobody Talks About
+Tue, 10 Nov 2026 12:52:12 GMT — https://collider.com/perfect-christmas-movies-nobody-talks-about/
 
-There's something about these true-crime stories that gets us particularly riled up and curious, isn't there? After all, truth is stranger than fiction and so on, and so forth. And we love them, don't we? Netflix has made an entire industry out of exploring complicated investigations , miscarriages of justice, and the darker corners of American criminal history , but few of its productions have left quite the same impression as Mindhunter . And while fans are still mourning the loss of David Fincher 's extraordinary psychological thriller, one of Clint Eastwood ' s most overlooked movies has just arrived to help fill the void.
+Halloween is over, so according to the gods of commerce, it's officially Christmas season . That means many of us will soon begin our seasonal movie watching, returning to a wide variety of X-mas classics that span from It's a Wonderful Life to Die Hard . There are a lot of Christmas movies that are perfect for this time of year, offering moods that make us feel everything from warm and fuzzy to dark and depressed. Beyond all those classics, though, there are a number of equally perfect Christmas movies that haven't dominated the conversation enough.
 
-### HBO Max and Paramount+ Are Officially Headed for the End of an Era
-Mon, 09 Nov 2026 22:36:04 GMT — https://collider.com/hbo-max-paramount-plus-merger-streaming-changes-2027/
+### Russell Crowe’s Fan-Favorite 116-Minute Mystery Moves to a New Streaming Platform
+Tue, 10 Nov 2026 12:31:12 GMT — https://collider.com/russell-crowe-the-nice-guys-streaming-on-amazon-prime/
 
-It's been just over a month since the merger between Skydance and Warner Bros. was finalized, yet the full impact of the over $110 billion megadeal is only just beginning to be felt. David Ellison 's combined media giant agreed to produce and release a slate of at least 30 films a year, which should be easy to accomplish with both WB and Paramount remaining creatively independent from one another and 2027 already having 36 projects lined up. To fit the companies together, however, Skydance is seeking to cut $6 billion in costs, which has so far resulted in layoffs across all sectors of the company, most recently at Skydance Games. Changes are also coming to the company's streaming strategy.
+Known for his big-budget epics and hard-hitting crime movies, Russell Crowe is a powerhouse in the entertainment industry. It is his work in comedy, however, that makes him a true gem. Now streaming on Apple TV, viewers can relive the tragically underrated mystery from Shane Black , The Nice Guys . Also starring Ryan Gosling , the film was criminally under-watched at the theater, a phenomenon that Gosling blames on the success of Angry Birds at the box office.
 
-### Chris Hemsworth’s ‘Heat’ Replacement Officially Steals a New Prime Video Milestone
-Mon, 09 Nov 2026 22:30:12 GMT — https://collider.com/prime-video-crime-101-streaming-success-200-days-november-2026/
+### New ‘Hamilton’ Replacement Officially Delivers a Much-Needed Box Office Win
+Tue, 10 Nov 2026 12:30:12 GMT — https://collider.com/angel-studios-drummer-boy-hamilton-replacement-box-office-debut/
 
-The last few years have been absurdly busy for Chris Hemsworth , who is now over three years removed from his last solo Thor movie. Hemsworth reunited with Thor: Ragnarök director Taika Waititi for Thor: Love and Thunder , but the film came out of the gates with poor reviews as many critics and fans felt it leaned too much into the silliness and less into the seriousness of Hemsworth’s character.
+With the domestic top-five list being bookended by two international features this past weekend, another surprise came in the form of a period musical that shattered expectations to claim the third spot. Japan's Godzilla Minus Zero finished first on the weekend box-office chart, grossing a record $32 million. Meanwhile, India's Ramayana: Rise of a Legend finished fifth. Three homegrown movies claimed the remaining spots on the top-five list, with all three coincidentally highlighting different aspects of American culture.
 
-### As a Lord of the Rings Fan, Here's How I'd Rank Every Book
-Mon, 09 Nov 2026 22:08:12 GMT — https://collider.com/lord-of-the-rings-books-ranked-by-a-fan/
+### 7 Psychological Thrillers That Are Perfect From Start to Finish
+Tue, 10 Nov 2026 12:03:12 GMT — https://collider.com/psychological-thriller-movies-perfect-start-to-finish/
 
-The Lord of the Rings is still considered the greatest fantasy epic put to paper, and for good reason. J.R.R. Tolkien was a master at work when he spent decades crafting the mythology and lore behind Middle-earth. After The Hobbit first revealed this high-fantasy world, he expanded upon it in The Lord of the Rings , which was split by publishers into three volumes : The Fellowship of the Ring , The Two Towers , and The Return of the King . But did you know that each of these books was split in half?
+Psychological thrillers are a special brand of thriller. Whereas the genre as a whole is meant to excite or enthrall, the psychological ones dig a little deeper, often into darker territory, making our skin crawl and setting our teeth on edge. By their very design, they can be uncomfortable and unsettling. The best psychological thrillers are hard to watch , and the most perfect ones will burrow into your brain forever.
 
-### Christopher Nolan’s R-Rated Fantasy Movie Officially Sets Streaming Release Date
-Mon, 09 Nov 2026 22:00:12 GMT — https://collider.com/the-odyssey-digital-release-date-november-17-2026/
+### Netflix’s New Western Star Has a Blunt Response for Anyone Tired of Bass Reeves
+Tue, 10 Nov 2026 12:00:12 GMT — https://collider.com/bass-x-machina-brian-tyree-henry-bass-reeves-western/
 
-Anne Hathaway , Zendaya , and Robert Pattinson might be the most recognizable top-billed actors of the year, but one name has quietly appeared in an array of 2026's most impressive projects. From featuring alongside Tessa Thompson in the surprise Netflix hit His & Hers , to a surprise prequel episode of Christopher Storer ’s The Bear ahead of its final season, Jon Bernthal has been one of the year's busiest actors.
+Bass Reeves had the kind of life a Western writer would be thrilled to make up. He escaped slavery and went on to become one of the first Black deputy U.S. marshals, pursuing fugitives through the old West. In 2023, David Oyelowo played him in the Taylor Sheridan -produced Lawmen: Bass Reeves , giving the man an entire series to himself. Three years later, Reeves is back on TV, and you can tell how far this version is willing to go the second you see what he’s got where his arm used to be.
 
-### 3 Elite Netflix Series to Binge This Week (Nov 9-13)
-Mon, 09 Nov 2026 21:47:12 GMT — https://collider.com/netflix-shows-binge-november-9-2026/
+### The 10 Best Books Without Movie or TV Adaptations, Ranked
+Tue, 10 Nov 2026 11:41:12 GMT — https://collider.com/best-books-without-movie-or-tv-adaptations-ranked/
 
-True crime is back at the American streaming summit on Netflix. For the past couple of weeks, the return of Adam Brody and Kristen Bell 's rabbi and sex podcaster in Nobody Wants This Season 3 has dominated the streaming charts, with Erin Foster 's return to form currently ranking in second place. However, the indulgent pull of true crime docuseries on Netflix has hit once again, as the newest must-watch on the streamer, Taken: Natalee Holloway , places first in the U.S. top 10. But what else should you be streaming at the moment? Here's a look at three shows you should binge-watch on Netflix this weekend .
+It’s not a good or bad thing that there are a ton of books that get adapted, because some adaptations are good, and some are bad. Some good books have been made into bad movies/shows, some bad books have been improved through adaptations, some bad books have been similarly underwhelming movies/shows, and then, as a best-case scenario, there are also great books with great adaptations.
 
-### TV's Biggest ‘Lincoln Lawyer’ Replacement Officially Takes Over Netflix
-Mon, 09 Nov 2026 21:30:12 GMT — https://collider.com/the-rainmaker-netflix-streaming-success-november-2026/
+### 6 Best Miniseries Released Between 2020 and Now, Ranked
+Tue, 10 Nov 2026 11:36:12 GMT — https://collider.com/best-miniseries-since-2020/
 
-Stories about fighting for what's right will always be in fashion, and nothing makes for better TV than watching an unlikely hero emerge to topple a great evil. It is especially satisfying to see characters uphold the law, which might explain why legal dramas like The Lincoln Lawyer , Matlock , and Cupertino have gained such a dedicated following. The Rainmaker is another legal drama in the same category that has taken the world by storm.
+The way we consume our television has vastly evolved over the past two-plus decades. With the rise of streaming, instant gratification has taken over, and binge-watching has become common practice. Because of this, we’ve seen an influx of miniseries . The self-contained stories provide its audiences with a concise beginning, middle, and end that leave you satisfied by completion . With miniseries as the greatest form of storytelling, we’ve been living in its heyday.
 
-### NBC’s 2-Season Post-Apocalyptic Sci-Fi Is the Perfect ‘The Last of Us’ Replacement
-Mon, 09 Nov 2026 21:17:12 GMT — https://collider.com/last-of-us-replacement-series-nbc-revolution/
+### India’s $200 Million Fantasy Epic Is Off to a Troubling Box Office Start
+Tue, 10 Nov 2026 11:30:12 GMT — https://collider.com/ramayana-india-lord-of-the-rings-replacement-box-office-debut/
 
-The Last of Us is a series that made the end of the world feel interesting again, thanks to expanding the world of the video games that inspired it and having a perfectly cast pair of leads in Pedro Pascal and Bella Ramsey . It's no surprise that other series have been following in its footsteps, including Paradise and Silo . With The Last of Us gearing up for its upcoming Season 3, fans can whet their appetite for post-apocalyptic fare by checking out a severely underrated sci-fi series that's now available to stream on Prime Video.
+The top-five list of domestic box office was bookended by two international titles this past weekend. Japan's Godzilla Minus Zero took the number-one spot with a record-breaking haul, while India's Ramayana: Rise of a Legend claimed the fifth position. Based on a mythological text sacred to Hindus, Ramayana is notable for being the most expensive Indian film ever made. According to its producer, Namit Malhotra , the two-part project cost around $400 million to produce. Ramayana will be followed by a sequel that's currently slated for a 2028 release.
 
-### Star Trek’s Cold War Thriller Officially Sets New Release 35 Years Later
-Mon, 09 Nov 2026 21:15:08 GMT — https://collider.com/star-trek-undiscovered-country-4k-blu-ray-release/
+### 25 Shows To Watch if You Love 'The Diplomat'
+Tue, 10 Nov 2026 11:27:12 GMT — https://collider.com/shows-like-the-diplomat/
 
-It's been 35 years since the original crew of the USS Enterprise embarked on their final big-screen mission, and now the Star Trek movie that doubles as a Cold War political thriller is coming home once more. It's considered one of the best, if not the best, theatrical Star Trek movies, and now it's set to be restored in 4K and released in a new 4K SteelBook set.
+The Diplomat , revolves around Kate Wyler ( Keri Russell ), who assumes the role of the new United States ambassador to the United Kingdom. In this position, she works to de-escalate an international crisis, form strategic alliances, and adapt to her newfound prominence in the public eye. The Diplomat has all the melancholy humor and fast-paced dialogue of many amazing political dramas that have come before it .
 
-### A 'Game of Thrones' Star's Divisive Thriller Officially Gets Its Streaming Redemption 2 Years Later
-Mon, 09 Nov 2026 21:00:12 GMT — https://collider.com/the-beast-within-streaming-success-hbo-max-november-2026/
+### 6 Low Fantasy Books Better Than 'Harry Potter'
+Tue, 10 Nov 2026 11:24:12 GMT — https://collider.com/low-fantasy-books-better-than-harry-potter/
 
-In 2024, Game of Thrones star Kit Harington appeared in a British fantasy thriller that drew worldwide criticism but now seems to have found redemption. Fans may recall that Harington played Jon Snow throughout all eight seasons of the HBO mega-hit, which ran from April 17, 2011, to May 19, 2019.
+The Harry Potter series is widely considered one of the most groundbreaking and revolutionary of all time. Upon its debut in the 1990s, it exploded in popularity, attracting millions upon millions of fans and even spawning a multi-billion-dollar franchise. The books grew to develop an expanded universe, an upcoming TV adaptation, loads of official merchandise, and even a theme park at Universal Studios in Orlando. Needless to say, it became quite the cultural phenomenon .
 

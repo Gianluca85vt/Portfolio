@@ -1,4 +1,4 @@
-# Source feeds — harvested 2026-11-09T23:08:37.506Z
+# Source feeds — harvested 2026-11-10T12:58:45.288Z
 
 Fetched by GitHub Actions, which is not behind the writer's egress proxy.
 One file per category. Each item is what the publisher syndicates in its
@@ -8,12 +8,6 @@ own feed: headline, link, date, and their summary.
 > links to the same publication, which is one source read twice. If only
 > one outlet has the story, write it, keep `draft: true`, and say so in
 > the first line of the body. See notes/article-voice.md.
-
-## Broadcasts in the feeds
-
-Already aired, so a round-up rather than a preview:
-
-- Polygon — Game Awards 2026: All Game of the Year Front-Runners and Predictions
 
 > **A dated showcase gets two articles, not one.** A preview before it
 > airs, carrying the stream link and the start time in Italian time, and a
@@ -25,8 +19,8 @@ Already aired, so a round-up rather than a preview:
 
 Both quotas are being met. Write whatever the day deserves.
 
-- **Manga and anime** — on track. 3 articles since the last one; quota is one in 6. 21 in the archive of 285.
-- **Film & TV** — on track. 2 articles since the last one; quota is one in 8, never worse than one in 10. 28 in the archive of 285.
+- **Manga and anime** — on track. 4 articles since the last one; quota is one in 6. 21 in the archive of 286.
+- **Film & TV** — on track. 3 articles since the last one; quota is one in 8, never worse than one in 10. 28 in the archive of 286.
 
 The run is what counts, not the percentage: a burst last month does not
 excuse thirty in a row without one. If a category is owed and the feeds
@@ -35,13 +29,13 @@ silently skipping it.
 
 ## Feeds
 
-- [Games](games.md) — 88 items
-- [Tech](tech.md) — 81 items
-- [3D](3d.md) — 12 items
-- [AI](ai.md) — 6 items
-- [Manga](manga.md) — 24 items
+- [Games](games.md) — 93 items
+- [Tech](tech.md) — 82 items
+- [3D](3d.md) — 13 items
+- [AI](ai.md) — 9 items
+- [Manga](manga.md) — 23 items
 - [Film & TV](film-tv.md) — 65 items
 
-Total: 276 items.
+Total: 285 items.
 
 Feeds that did not answer: CGChannel (HTTP 403), VentureBeat AI (HTTP 429).

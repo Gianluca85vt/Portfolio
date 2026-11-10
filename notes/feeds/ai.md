@@ -1,6 +1,16 @@
-# AI — harvested 2026-11-09T23:08:37.506Z
+# AI — harvested 2026-11-10T12:58:45.288Z
 
 ## OpenAI
+
+### Helping caregivers use AI in everyday life
+Tue, 10 Nov 2026 12:00:00 GMT — https://openai.com/index/helping-caregivers-use-ai-in-everyday-life
+
+OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.
+
+### Closing the AI guidance gap in education
+Tue, 10 Nov 2026 09:00:00 GMT — https://openai.com/index/closing-ai-guidance-gap-education
+
+New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.
 
 ### ChatGPT Enterprise now available in AWS Marketplace
 Mon, 09 Nov 2026 19:00:00 GMT — https://openai.com/index/chatgpt-enterprise-aws-marketplace
@@ -32,7 +42,10 @@ Mon, 09 Nov 2026 12:34:29 GMT — https://huggingface.co/blog/amazon/higher-orde
 
 ## Google DeepMind
 
-_Nothing in the last 48 hours._
+### Introducing AlphaProof Code: a breakthrough in verifying complex software at depth
+Tue, 10 Nov 2026 12:02:28 +0000 — https://deepmind.google/blog/introducing-alphaproof-code/
+
+AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.
 
 ## VentureBeat AI
 

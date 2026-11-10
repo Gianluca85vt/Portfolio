@@ -1,6 +1,31 @@
-# Games — harvested 2026-11-09T23:08:37.506Z
+# Games — harvested 2026-11-10T12:58:45.288Z
 
 ## Eurogamer
+
+### As Arc Raiders celebrates its first birthday, publisher Nexon reveals the extraction shooter has topped 17 million sales, but revenue is set to decline
+Tue, 10 Nov 2026 12:28:00 +0000 — https://www.eurogamer.net/arc-raiders-17-million-sales-nexon-decline
+
+Arc Raiders , Embark Studios' popular extraction shooter, has exceeded 17m copies sold, according to publisher Nexon. Read more
+
+### World of Warcraft: Forever might live officially on PC, but people are playing it on phones and handhelds already
+Tue, 10 Nov 2026 10:55:40 +0000 — https://www.eurogamer.net/world-of-warcraft-forever-ipad-handheld
+
+If you're a World of Warcraft: Forever player you're almost certainly having your free time drained as you chain yourself to your desktop PC to play the game, or maybe a laptop. But for a small selection of true enthusiasts, the game is already working on mobile and handheld devices. Read more
+
+### Under pressure, Big Walk studio reveals it used generative AI "sparingly" while making its hit 2026 game
+Tue, 10 Nov 2026 10:51:40 +0000 — https://www.eurogamer.net/house-house-big-walk-generative-ai-development
+
+Australian developer House House has revealed it used generative AI "sparingly" to help make celebrated, indie, multiplayer puzzle game Big Walk. Read more
+
+### Switch 2 US sales soar again thanks to The Legend of Zelda effect, as it enjoys its best week of the year so far
+Tue, 10 Nov 2026 09:25:20 +0000 — https://www.eurogamer.net/the-legend-of-zelda-ocarina-of-time-switch-2-best-week-sales
+
+Could a remade Legend of Zelda: Ocarina of Time be exciting enough to revitalise Switch 2 hardware sales? That was the big question. And early sales figures suggest the answer is yes, it can. Read more
+
+### Switch 2 and Switch consoles updated to version 23.5.0 as Nintendo quietly re-introduces eShop gifting
+Tue, 10 Nov 2026 09:22:50 +0000 — https://www.eurogamer.net/switch-2-and-switch-consoles-updated-to-version-2350-as-nintendo-quietly-re-introduces-eshop-gifting
+
+Nintendo has just pushed out a new update to all Switch and Switch 2 consoles, bringing the firmware on both up to version 23.5.0. The headline change with the new update is support and compatibility for an upcoming update that will allow members of a Nintendo Account family group to gift games to one another. Read more
 
 ### As investors ask about GTA 6 and AI, Take-Two CEO once again puts faith in dev creativity, states making hit games "remains the purview of human beings"
 Mon, 09 Nov 2026 22:47:40 +0000 — https://www.eurogamer.net/gta-6-ai-strauss-zelnick-earnings-call-purview
@@ -37,37 +62,27 @@ Mon, 09 Nov 2026 16:45:00 +0000 — https://www.eurogamer.net/nvidia-ceo-jensen-
 
 Nvidia's board of directors has launched an investigation into its own CEO Jensen Huang, after a report by the New York Times claimed he had been participating in an affair with an alleged Chinese spy. Read more
 
-### Rockstar's doing a GTA 6 launch 'festival' in Miami featuring a lot of presumably expensive musical stars
-Mon, 09 Nov 2026 15:48:30 +0000 — https://www.eurogamer.net/rockstar-gta-6-miami-music-festival
-
-The next-level glamour of Grand Theft Auto 6 's arrival continues with word that Rockstar is hosting a star-studded launch 'festival' for the game in Miami - the game's setting-by-a-different-name. Read more
-
-### Activision cracking down on popular Call of Duty: Warzone app that basically constituted cheating
-Mon, 09 Nov 2026 15:23:30 +0000 — https://www.eurogamer.net/call-of-duty-warzone-agent-cheating-software-shutdown
-
-"Lobby shopping" is what Call of Duty: Warzone players have been calling the ability to check the skill level of players in a lobby prior to joining it, enabling them to pass on those that include a lot of tough competition. Read more
-
-### Nintendo's legendary Kirby designer Masahiro Sakurai weighs in on gen-AI, saying "it has yet to gain my trust" but not to reject it completely
-Mon, 09 Nov 2026 14:35:20 +0000 — https://www.eurogamer.net/masahiro-sakurai-generative-ai-famitsu
-
-Masahiro Sakurai, the designer behind many iconic Nintendo franchises such as Super Smash Bros. and several Kirby titles, has weighed in on the ongoing discussion of generative-AI use in game development. Read more
-
-### Skyrim lead designer hopes Sentinel will finally solve The Elder Scrolls' ladder problem
-Mon, 09 Nov 2026 12:46:20 +0000 — https://www.eurogamer.net/the-elder-scrolls-6-sentinel-ladders-skyrim-bethesda-designer
-
-For such a simple, straightforward real-world object, ladders have been the bane of game developers' existence since the early days of the industry . And Bethesda's The Elder Scrolls Series is certainly no stranger to that struggle. Read more
-
-### "Art, including characters, terrain, animations, cutscenes and UI" Bandai Namco and Monolith Soft helped out with Ocarina of Time on Switch 2
-Mon, 09 Nov 2026 12:45:50 +0000 — https://www.eurogamer.net/ocarina-of-time-support-studios-confirmed-switch-2
-
-Xenoblade series developer Monolith Soft and Bandai Namco Studios have been listed as support studios for the Switch 2 version of Ocarina of Time, working on elements of the title such as "art, including characters, terrain, animations, cutscenes and UI". Special thanks to both companies appear in the credits for the newly-launched game (as you can see below) and a statement released by Bandai Namco Studios confirms its involvement, too. Read more
-
 ## GamesIndustry.biz
+
+### Bandai Namco closes Reflector Entertainment, expects to post €21m loss in Q3 as a result
+Tue, 10 Nov 2026 11:46:00 +0000 — https://www.gamesindustry.biz/bandai-namco-closes-reflector-entertainment-expects-to-post-21m-loss-in-q3-as-a-result
+
+Bandai Namco is closing Unknown 9: Awakening developer Reflector Entertainment. Read more
+
+### Skydance announces layoffs to games division following $111bn merger
+Tue, 10 Nov 2026 10:34:40 +0000 — https://www.gamesindustry.biz/skydance-announces-layoffs-to-games-division-following-111bn-merger
+
+Skydance has implemented an undisclosed number of cuts to its games division. Read more
+
+### House House clarifies use of AI tools in Big Walk's "final stage of development"
+Tue, 10 Nov 2026 09:07:50 +0000 — https://www.gamesindustry.biz/house-house-clarifies-use-of-ai-tools-in-big-walks-final-stage-of-development
+
+House House has clarified it used AI tools "sparingly" during the "final stretch of development" on Big Walk to address "difficult technical challenges and bugs." Read more
 
 ### "There's no such thing as easy money in our business" – Strauss Zelnick on GTA 6, BioShock, Take-Two's acquisition plans, and reviving old IP
 Mon, 09 Nov 2026 21:39:40 +0000 — https://www.gamesindustry.biz/theres-no-such-thing-as-easy-money-in-our-business-strauss-zelnick-on-gta-6-bioshock-take-twos-acquisition-plans-and-reviving-old-ip
 
-Take-Two Interactive reported the earnings for its second quarter today, and GamesIndustry.biz had a chance to talk with CEO Strauss Zelnick about the results, as well as where the company is headed. Read more
+Take-Two Interactive reported the earnings for its second quarter today , and GamesIndustry.biz had a chance to talk with CEO Strauss Zelnick about the results, as well as where the company is headed. Read more
 
 ### Take-Two Q2 net bookings fall 18% to $1.6bn as NBA 2K27 misses forecast but GTA 6 pre-orders are "tracking far in excess" of expectations
 Mon, 09 Nov 2026 21:22:20 +0000 — https://www.gamesindustry.biz/take-two-q2-net-bookings-fall-18-to-16bn-as-nba-2k27-misses-forecast-but-gta-6-pre-orders-are-tracking-far-in-excess-of-expectations
@@ -110,6 +125,36 @@ _Nothing in the last 48 hours._
 
 ## Push Square
 
+### GTA 6 Won t Have Any Last Minute Delays, as It s Officially Gone Gold
+Tue, 10 Nov 2026 12:00:00 GMT — https://www.pushsquare.com/news/2026/11/gta-6-wont-have-any-last-minute-delays-as-its-officially-gone-gold
+
+Gold Theft Auto. In case there was any doubt remaining, GTA 6 will definitely be making its debut on 19th November, 2026, with no risk of another delay of some kind. That's because it's finally been confirmed the game has gone gold, which essentially means the open world action title is ready for release. Read the full article on pushsquare.com
+
+### Guide: Cyberpunk 2077: Best Mods on PS5
+Tue, 10 Nov 2026 11:45:00 GMT — https://www.pushsquare.com/guides/cyberpunk-2077-best-mods-on-ps5
+
+Chippin' in. What are the best Cyberpunk 2077 mods on PS5? In this guide, I'm going to highlight which mods I think are well worth installing to make your dark future experience more enticing. Read the full article on pushsquare.com
+
+### Dedicated PS5, PS5 Pro Patch Aims to Fix Silent Hill 2 Graphics Issues
+Tue, 10 Nov 2026 11:00:00 GMT — https://www.pushsquare.com/news/2026/11/dedicated-ps5-ps5-pro-patch-aims-to-fix-silent-hill-2-graphics-issues
+
+Update 1.08 available to download now. Could the excellent Silent Hill 2 remake finally be fixed on base PS5 and PS5 Pro? That's what a new patch for the game seems to be suggesting. A new update for the survival horror remake, dedicated entirely to PS5 and PS5 Pro, is live now, bringing it up to version 1.08. The patch notes speak of addressing all the graphical issues that have quietly plagued the game for months now. Read the full article on pushsquare.com
+
+### Mini Review: Warhammer Survivors (PS5) - Absurdly Addictive Crossover Is a Match Made in Bullet Hell
+Tue, 10 Nov 2026 10:00:00 GMT — https://www.pushsquare.com/reviews/ps5/warhammer-survivors
+
+There is only more. Warhammer Survivors is exactly what its name suggests: a Warhammer reskin of Vampire Survivors . Developed by licensed Warhammer studio Auroch Digital, with Vampire Survivors creator poncle partnering on the project, it's a fantastic, heartfelt adaptation right out of the gate. Read the full article on pushsquare.com
+
+### PS5 Now the Only Console without a Digital Game Gifting Option
+Tue, 10 Nov 2026 09:00:00 GMT — https://www.pushsquare.com/news/2026/11/ps5-now-the-only-console-without-a-digital-game-gifting-option
+
+Nintendo does what Sony doesn't. If even a Nintendo platform has a digital storefront feature and you don't, then you truly are behind the times. The firm notoriously playing catch-up in this space has today confirmed the Nintendo eShop will be receiving the ability to gift digital games. The PS Store , which will eventually be the only place you can buy new PlayStation games, still doesn't allow it. Read the full article on pushsquare.com
+
+### Stuff Your Face with PS5 RPG Atelier Karia s Story Trailer, Pre-Orders Live Now
+Tue, 10 Nov 2026 00:00:00 GMT — https://www.pushsquare.com/news/2026/11/stuff-your-face-with-ps5-rpg-atelier-karias-story-trailer-pre-orders-live-now
+
+All editions revealed. Atelier Karia: The Night Kingdom & the Guide of Memories attracted attention recently for including a system where its eponymous protagonist could get fat . That’s because this upcoming PS5 RPG from Koei Tecmo takes the “you are what you eat” mantra and makes it a gameplay mechanic, with the heroine absorbing all kinds of abilities depending on what you feed her. Read the full article on pushsquare.com
+
 ### GTA 6 Pre-Orders Outperform Even Take-Two s Expectations, GTA 5 Just Keeps on Selling
 Mon, 09 Nov 2026 22:30:00 GMT — https://www.pushsquare.com/news/2026/11/gta-6-pre-orders-outperform-even-take-twos-expectations-gta-5-just-keeps-on-selling
 
@@ -140,36 +185,6 @@ Mon, 09 Nov 2026 15:00:00 GMT — https://www.pushsquare.com/news/2026/11/sony-s
 
 Ani-perplexed. Sony-owned publisher Aniplex will release dark fantasy visual novel LunaVerse on the Switch and PC next year, marking yet another occasion in which the subsidiary has skipped PS5. The media firm, which is under the umbrella of Sony Music, has been releasing more titles of late – many of which don’t deploy on its parent company’s device. Read the full article on pushsquare.com
 
-### GTA 6: The Festival Is a One-Off Live Music Event, Partly Presented by PlayStation
-Mon, 09 Nov 2026 14:30:00 GMT — https://www.pushsquare.com/news/2026/11/gta-6-the-festival-is-a-one-off-live-music-event-partly-presented-by-playstation
-
-Held in Miami of course. Rockstar Games has announced GTA 6 : The Festival, a special live music event being held to celebrate the launch of the open world action game. Presented in partnership with PlayStation, the one-off event takes place in Miami, Florida on 21st November, 2026. Read the full article on pushsquare.com
-
-### GTA 6 s Exclusive Selfridges Merch Is Daylight Robbery
-Mon, 09 Nov 2026 14:15:00 GMT — https://www.pushsquare.com/news/2026/11/gta-6s-exclusive-selfridges-merch-is-daylight-robbery
-
-Varsity jacket for $3,300. You may need to turn to crime in order to afford UK retailer Selfridges’ exclusive roster of GTA 6 merch. Available online and in-store now, items include a £2,500 (~$3,352) varsity jacket with the Rockstar and GTA 6 logos emblazoned on them. You can also get a leather Burger Shot takeaway bag for £125 (~$167). Read the full article on pushsquare.com
-
-### GTA 6 PS5 Physical Edition Includes a Poster, But It s Still Not the Map
-Mon, 09 Nov 2026 13:30:00 GMT — https://www.pushsquare.com/news/2026/11/gta-6-ps5-physical-edition-includes-a-poster-but-its-still-not-the-map
-
-Two-sided A3 poster in the PS5 case. Retailers are beginning the process of shipping out their boxed copies of GTA 6 , which include a digital download code instead of a physical disc. As they receive their stock, it's now been confirmed there is actually a poster inside the case. However, it's still not the map of the game world previous GTA games have shipped with. Read the full article on pushsquare.com
-
-### Making a $300 PS5 Instead of a $1,200 PS6 Would Be True Innovation , Says Ex-PlayStation Boss
-Mon, 09 Nov 2026 13:00:00 GMT — https://www.pushsquare.com/news/2026/11/making-a-usd300-ps5-instead-of-a-usd1200-ps6-would-be-true-innovation-says-ex-playstation-boss
-
-"Make it smaller, make it cheaper". As the PS5 generation approaches its sixth year, talk of what comes next has been circulating for a while, and with hardware as pricey as it is, the prospect of a PS6 isn't as exciting as it perhaps should be. Opinion differs on that, of course, but it's generally accepted that Sony's next-gen machine is going to be eye-wateringly expensive , and it's currently anyone's guess as to whether it'll be worth a purchase. Read the full article on pushsquare.com
-
-### The Death Stranding Series Has Been Played By Way More People Than You d Expect
-Mon, 09 Nov 2026 12:00:00 GMT — https://www.pushsquare.com/news/2026/11/the-death-stranding-series-has-been-played-by-way-more-people-than-youd-expect
-
-28 million players in seven years. The two Death Stranding games have been modest sellers since their launches, generating more sales than most AAA titles, but not on the same level as other console-defining experiences. According to official numbers, the first game sold over five million copies . Sales stats relating to the sequel have never been shared, but analyst estimates suggested 1.4 million units were sold during its first few days on the market. In the years since their releases, these totals will have only gone up. Read the full article on pushsquare.com
-
-### Feature: 60+ PS5, PS4 Games to Buy in PS Store s Huge Black Friday Sale (North America/Europe)
-Mon, 09 Nov 2026 10:45:00 GMT — https://www.pushsquare.com/features/60plus-ps5-ps4-games-to-buy-in-ps-stores-huge-black-friday-sale-north-americaeurope
-
-PS5 and PS4 games going cheap we recommend. The PS Store's Black Friday sale is on now, running until 30th November, 2026 — with a mid-sale refresh planned for the 16th. As with nearly every offer in Sony's digital store, there are literally thousands of PS5 and PS4 games going cheap. Obviously, nobody has the time to scroll through all those deals, which is where this guide (hopefully) comes in handy. Read the full article on pushsquare.com
-
 ## Game Developer
 
 ### Report: Star Wars Zero Company developer Bit Reactor lays off an unspecified number of staff
@@ -183,6 +198,21 @@ Mon, 09 Nov 2026 16:39:06 GMT — https://www.gamedeveloper.com/pc/world-of-warc
 The highly-anticipated launch from Blizzard has been a bright spot in the Xbox portfolio.
 
 ## VGC
+
+### Big Walk studio says it used AI sparingly in response to indie award jury statement against its use
+Tue, 10 Nov 2026 11:46:56 +0000 — https://www.videogameschronicle.com/news/big-walk-studio-says-it-used-ai-sparingly-in-response-to-indie-award-jury-statement-against-its-use/
+
+House House says it used LLMs for help with coding, but some IGF jurors say that counts… Source
+
+### Stellar Blade studio Shift Up says it won t be revealing Project Spirits until next year
+Tue, 10 Nov 2026 10:33:32 +0000 — https://www.videogameschronicle.com/news/stellar-blade-studio-shift-up-says-it-wont-be-revealing-project-spirits-until-next-year/
+
+The game was planned for a 2026 reveal, but has been moved to avoid clashing with major releases… Source
+
+### GTA 6 pre-orders are far above initial expectations but NBA 2K27 was below our forecast , Take-Two says
+Tue, 10 Nov 2026 10:01:55 +0000 — https://www.videogameschronicle.com/news/gta-6-pre-orders-are-far-above-initial-expectations-but-nba-2k27-was-below-our-forecast-take-two-says/
+
+NBA was still the second most successful launch in the series' history… Source
 
 ### Zelda OOT Remake: Goron City Sign Puzzle solution
 Mon, 09 Nov 2026 16:27:21 +0000 — https://www.videogameschronicle.com/guide/zelda-oot-remake-goron-city-sign-puzzle-solution/
@@ -219,74 +249,97 @@ Mon, 09 Nov 2026 13:51:33 +0000 — https://www.videogameschronicle.com/guide/ze
 
 How to find the Forest Stage and how to get all rewards in The Legend of Zelda: Ocarina of Time remake… Source
 
-### GTA 6 may be censored in Australia and other regions, dataminer suggests
-Mon, 09 Nov 2026 13:44:25 +0000 — https://www.videogameschronicle.com/news/gta-6-may-be-censored-in-australia-and-other-regions-dataminer-suggests/
-
-A small chunk of data appears to be missing from the Australia and New Zealand version… Source
-
-### Zelda OOT Remake: Full Gerudo Proving Grounds walkthrough
-Mon, 09 Nov 2026 12:33:44 +0000 — https://www.videogameschronicle.com/guide/zelda-oot-remake-full-gerudo-proving-grounds-walkthrough/
-
-Complete walkthrough for the Gerudo Proving Grounds mini-dungeon The Legend of Zelda: Ocarina of Time remake… Source
-
-### Star Wars Zero Company studio Bit Reactor is laying off staff, a month after it started bringing back furloughed devs
-Mon, 09 Nov 2026 11:41:59 +0000 — https://www.videogameschronicle.com/news/star-wars-zero-company-studio-bit-reactor-is-laying-off-staff-a-month-after-it-started-bringing-back-furloughed-devs/
-
-The game sold roughly 1 million copies in its first month and a half… Source
-
 ## Polygon
 
-### Zelda: Ocarina of Time Remake Gives Its Best Boy the Happy Ending He Deserved Decades Ago
-Mon, 09 Nov 2026 23:00:17 GMT — https://www.polygon.com/zelda-ocarina-of-time-remake-richard-lives/
+### All active Escape From Tarkov codes and rewards
+Tue, 10 Nov 2026 12:37:35 GMT — https://www.polygon.com/escape-from-tarkov-promo-codes-list-active-expired/
 
-The Legend of Zelda: Ocarina of Time is a mostly faithful remake , true, but there's a generous handful of tweaks and expansions that fill out this version of Hyrule beautifully. Most of those changes are grim. This game is sad — if speaking to the Kokiri after clearing The Great Deku Tree dungeon didn't clue you in on that, just chat to people with the Mask of Truth on — and it wants you to be sad too. One of these changes flies in the face of misery and is defiantly happy, though, and it involves the game's bestest boy: Richard .
+Escape From Tarkov promo codes are used in the classic extraction shooter for all sorts of rewards. From in-game gear and weapons to currency, cosmetics, and more, redeeming as many of these Tarkov codes as you can will set you up for your next raid. Especially since these goodies don't actually require a successful extraction to obtain them.
 
-### Game Awards 2026: All Game of the Year Front-Runners and Predictions
-Mon, 09 Nov 2026 21:51:34 GMT — https://www.polygon.com/game-of-the-year-goty-game-awards-2026-frontrunners/
+### GTA 6 Presales Are 'Running Far in Excess of Our Expectations,' Take-Two Interactive CEO Says
+Tue, 10 Nov 2026 12:24:51 GMT — https://www.polygon.com/gta-6-grand-theft-auto-preorders-nba-2k27/
 
-At this point, we have a clear idea of what games will be favored by The Game Awards' voting body : A high Metacritic rating (preferably over 90) is a must; role-playing games and action-adventures are strongly favored, as are games with strong narrative elements; indie and multiplayer games struggle harder for recognition than AAA single-player adventures. We used these metrics to correctly predict last year's winner, Clair Obscur: Expedition 33 , and the 2024 winner, Astro Bot . In 2025, we also predicted all six GOTY nominees and correctly called 20 other categories.
+Grand Theft Auto 6 is one of the most anticipated releases of this decade, so it's no surprise that it's selling like hotcakes before it's even out. In this fiscal quarter's earnings presentation , the CEO of developer Take-Two Interactive revealed that pre-orders "are tracking far above initial expectations". However, GTA 6' s success might also be the reason Take-Two's other game series failed to meet target sales.
 
-### How to get the Biggoron Sword in Ocarina of Time
-Mon, 09 Nov 2026 21:50:25 GMT — https://www.polygon.com/zelda-ocarina-of-time-remake-oot-biggorons-sword-how-to-get/
+### James Gunn’s Exit from DC Studios Was Due to Tensions with Skydance's Executives, Report Says
+Tue, 10 Nov 2026 12:19:01 GMT — https://www.polygon.com/james-gunn-dc-studio-exit-skydance/
 
-Biggoron's Sword is the strongest sword in The Legend of Zelda: Ocarina of Time remake. However, it's also the most time-consuming weapon to get in the entire game.
+It’s been just over four years since James Gunn and Peter Safran took the reins at DC Studios as co-CEOs. For fans impressed by Gunn’s Marvel films, including Guardians of the Galaxy, the prospect of what Gunn and Safran could bring to DC comics adaptations across film, animation, and television was especially exciting.
 
-### HBO Max-Paramount Plus Bundle Officially Confirmed for 2027
-Mon, 09 Nov 2026 21:49:51 GMT — https://www.polygon.com/hbo-max-paramount-plus-streaming-bundle-launching-2027/
+### A Sci-Fi Novel Just Won the Booker Prize for the First Time
+Tue, 10 Nov 2026 10:37:10 GMT — https://www.polygon.com/booker-prize-2026-the-end-of-everything-harrison-sci-fi/
 
-HBO Max and Paramount Plus are officially joining forces, with a new streaming bundle set to launch in early 2027. Skydance Corporation, which completed its acquisition of Warner Bros. Discovery in October, confirmed the plans in its third-quarter shareholder letter on Monday.
+M. John Harrison's The End of Everything was awarded the 2026 Booker Prize. This marks the first time that a sci-fi novel has won the prestigious literary award for works of fiction in English published in the United Kingdom or Ireland.
 
-### The Best New Video Games of 2026 (So Far)
-Mon, 09 Nov 2026 21:46:48 GMT — https://www.polygon.com/best-2026-games-so-far/
+### Warhammer Survivors Isn’t Good Enough to Be a Vampire Survivors Replacement
+Tue, 10 Nov 2026 10:00:18 GMT — https://www.polygon.com/warhammer-survivors-impressions/
 
-It's hard to believe, but 2026 is winding down. Well, maybe that's easy to believe if you remember that Code Vein 2 and Highguard kicked off the year in January, and both now feel like ancient history. We're getting closer to putting together our year-end game of the year come December, but there's still a long road until then. We're still catching up on a busy year of games, from big-budget hits to indie hidden gems. Oh, and there's still this little game called Grand Theft Auto 6 to consider.
+Vampire Survivors and its plethora of clones are always more fun in hour ten than hour one. The passive nature of the auto-attack gameplay means this style of experience lives or dies by how fun and visually over-the-top the action can get once you upgrade your character, gain access to more weapons, and manage to survive long enough to level up or evolve your weapons.
 
-### Superman Sequel Will Officially Introduce the DCU’s Wonder Woman, Report Says
-Mon, 09 Nov 2026 21:12:33 GMT — https://www.polygon.com/superman-2-man-of-tomorrow-wonder-woman-adria-arjona/
+### Nintendo Adds eShop Gifting to Switch Consoles
+Tue, 10 Nov 2026 09:52:40 GMT — https://www.polygon.com/nintendo-switch-2-digital-games-eshop-gifts/
 
-On Monday, James Gunn and Peter Safran stepped down from their leadership roles at DC Studios . Skydance — which recently finalized its acquisition of DC parent company Warner Bros. Discovery — tapped Jeremy Latcham to lead DC . He used to work at Marvel Studios, and coincidentally was a producer on Gunn's Guardians of the Galaxy .
+The latest Nintendo Switch system update added support for an upcoming feature that will let users gift digital software purchased through the eShop. The gifting system is set to launch this month, meaning Switch users will be able to add digital games to their letters to Santa this festive season.
 
-### How to get the Golden Scale in Zelda Ocarina of Time
-Mon, 09 Nov 2026 21:05:23 GMT — https://www.polygon.com/zelda-ocarina-of-time-remake-oot-golden-scale-how-to-get-fishing-pond/
+### 'Godzilla Minus Zero' Exposes the Biggest Problem with Christopher Nolan's World War II Epic
+Tue, 10 Nov 2026 09:00:17 GMT — https://www.polygon.com/godzilla-minus-zero-christopher-nolan-oppenheimer-nuclear-war/
 
-The Golden Scale is a unique item in The Legend of Zelda: Ocarina of Time remake that allows Link to dive deeper. You can consider it an upgrade to the Silver Scale, an item that you obtain as young Link as you try to find Princess Ruto . However, unlike the Silver Scale, you can only get the Golden Scale after becoming adult Link .
+Notably, neither movie actually depicted those nuclear explosions or their immediate aftermath onscreen, but three years later, one of those directors has done exactly that — and it's not Nolan.
 
-### Zelda: Ocarina of Time’s Coolest Dungeon Hides a Secret Tribute to a Beloved Classic
-Mon, 09 Nov 2026 21:05:21 GMT — https://www.polygon.com/zelda-ocarina-time-forest-temple-little-women/
+### 10 Funniest 'Far Side' Comics About Dinosaurs That Prove Gary Larson Is a Mad Genius
+Tue, 10 Nov 2026 08:20:17 GMT — https://www.polygon.com/best-far-side-comics-dinosaurs/
 
-Nintendo's highly anticipated remake of The Legend of Zelda: Ocarina of Time is finally here, and millions of players are reliving their childhood adventures or experiencing Link's journey for the very first time. Though the Nintendo 64 game has received a dramatic visual glow-up for the Switch 2 , the remake meticulously preserves the spirit of the original — including an extended reference to a classic American novel that even Ocarina diehards may have missed the first time around.
+### The Settlers of Catan Movie Has Finally Found Its Directors
+Tue, 10 Nov 2026 02:53:02 GMT — https://www.polygon.com/settlers-of-catan-movie-netflix-directors/
 
-### Mass Effect Legendary Edition Finally Gets Co-op Back on PC
-Mon, 09 Nov 2026 21:00:17 GMT — https://www.polygon.com/mass-effect-3-co-op-legendary-edition-free-mod/
+Netflix's upcoming adaptation of The Settlers of Catan is starting to take shape, with the popular board game officially one step closer to becoming a live-action movie. The streaming service has tapped a film-making duo to director the film — the first official move from the project since it was announced.
 
-Mass Effect 3 ’s co-op mode put four players on a map, each with a class and a race, against waves of Cerberus, geth, Reapers, or Collectors. In the original trilogy, it was the only Mass Effect you could play with friends. When Mass Effect Legendary Edition compiled and remastered the games in 2021, that co-op mode didn’t make the cut. Project director Mac Walters said in 2021 that the team’s focus in releasing Legendary Edition was on the single-player experience…and that at some point the team had to draw the line. This year, that changed.
+### M. Night Shyamalan's The Visit: Now Free on YouTube
+Tue, 10 Nov 2026 02:30:17 GMT — https://www.polygon.com/the-visit-free-on-youtube/
 
-### Zelda: Ocarina of Time’s Best Replacement Has 11,000+ ‘Very Positive’ Reviews on Steam
-Mon, 09 Nov 2026 20:00:17 GMT — https://www.polygon.com/deaths-door-five-year-anniversary-retrospective/
-
-The Legend of Zelda: Ocarina of Time remake was released last week, nearly three decades after the original came to Nintendo 64. Plenty of newcomers are discovering the greatest game ever for the first time (raises hand) on Nintendo Switch 2 . However, as it’s a Switch 2 exclusive, plenty of gamers might be left feeling like Squidward watching everyone else have fun and frolic in Hyrule.
+Though Halloween is over, that doesn't mean that horror movies need to be put on the shelf until next year. In fact, it could even be argued that November is a perfect time to continue watching them. Writer/director M. Night Shyamalan has no shortage of horror films that can work in the chilly, dreary days of November, such as 2004's The Village . But an underrated 2015 found-footage horror film manages to cement itself in Shyamalan's filmography as one of his greatest unexpected achievements.
 
 ## PC Gamer
+
+### Redditor runs PC cooling loop outside of their house to keep it cool in one of the bravest yet unnecessary mods I’ve ever seen
+Tue, 10 Nov 2026 12:22:25 +0000 — https://www.pcgamer.com/hardware/cooling/redditor-runs-pc-cooling-loop-outside-of-their-house-to-keep-it-cool-in-one-of-the-bravest-yet-unnecessary-mods-ive-ever-seen/
+
+Got tired of the pc heating the room, so i solved it sensibly.. from r/pcmasterrace In what they describe as "just a proof of concept", one Redditor has gone further than your average custom looper to help keep their game room cool, by routing the liquid cooling in their gaming PC outside to a radiator sat in the cold winter air. The setup involves slapping a Bykski water block on their Nvidia RTX 4070 Ti and direct-die cooling on the Intel Core Ultra 7 270K Plus using a Thermal Grizzly 1851 Mycro Pro water block, after de-lidding the CPU, of course. The two blocks are hooked up to each other, and the custom loop can feed water through a radiator outside through holes in the wall when needed. Part of the reason for doing all this, the Redditor claims, is that their room gets warm when they game: "My room gets warm when I game and it's -4 outside. Free cooling right? The catch is if the water going into the PC gets too cold you get condensation on the parts, and water dripping on a 4070 Ti Super is not the vibe. So the whole thing is built around keeping the water cold, but not too cold." "The pc loop runs like normal. When it needs extra cooling, the second pump sends some of the water out to the rad outside and back in. "A Python script starts on startup and it connects to the Arduino, takes over from the Arduino's own auto mode, and it connects to HWi and Fancontrol so i get total control over the dynamics." (Image credit: Future) Yep, that's right; the loop also involves a
+
+### Law firms lining up for a chance to bop Nvidia’s nose on behalf of its own shareholders; president Trump says FBI are sniffing around the AI company's case
+Tue, 10 Nov 2026 12:18:45 +0000 — https://www.pcgamer.com/hardware/graphics-cards/law-firms-lining-up-for-a-chance-to-bop-nvidias-nose-on-behalf-of-its-own-shareholders-president-trump-says-fbi-are-sniffing-around-the-case/
+
+Nvidia has found itself at the center of a spying scandal as its CEO, Jensen Huang, admitted to an affair with an alleged Chinese intelligence asset . A couple of hundred billion dollars have been wiped off the company's value and law firms are already circling for blood. A handful of law firms have announced they are urging investors to sign up to cover their losses through legal action or initial investigations, including Rosen Law Firm and Schall, Brown & Schwartz . They say they're going after the company on charges of false and/or misleading statements and failure to disclose key information. An official Nvidia spokesperson previously denied claims that Jensen Huang had anything beyond a normal relationship with Alice Huang , the alleged spy, at the end of October. The company also vouched for Megaspeed, the Singaporean datacentre company that Alice Huang has been connected with, saying that any claims of its involvement in chip smuggling have been "thoroughly investigated and debunked"; which Megaspeed reiterates on its website . Since then, Huang has admitted his relationship with Alice Huang was not a normal business relationship. Alice Huang has also been noted as a Chinese intelligence asset by US authorities; something which a memo circulated around the Trump administration is reported to have said at a much earlier date. Nvidia's board is also launching an investigation into whether Jensen Huang was the target of foreign intelligence. The board states that it has 
+
+### Rockstar is putting on a last-minute live music festival featuring Travis Scott and Cardi B to celebrate GTA 6's launch
+Tue, 10 Nov 2026 12:14:01 +0000 — https://www.pcgamer.com/games/grand-theft-auto/rockstar-is-putting-on-a-last-minute-live-music-festival-featuring-travis-scott-and-cardi-b-to-celebrate-gta-6s-launch/
+
+Just when you thought the celebrations for Grand Theft Auto 6 couldn't get any more extravagant, Rockstar has announced that it will be hosting a huge music festival in Miami just a few days after its release. But that begs the question: who's going to turn up? I thought everyone was going to be playing GTA 6? "Experience the music of Vice City and Leonida at Grand Theft Auto VI: The Festival, a special live event on November 21 at Mana Wynwood in Miami to celebrate the launch of GTAVI, featuring a star-studded lineup of artists from the game and the official soundtrack," an official blog post reads. The event is in partnership with PlayStation and will feature "two stages of nonstop music performances" with the following artists: Grand Theft Auto VI: The Festival, a special live event on November 21 at Mana Wynwood in Miami to celebrate the launch of GTAVI, featuring a star-studded lineup of artists from the game and the official soundtrack.More info: https://t.co/XRlfYFOk0H https://t.co/fQyOU7I4gU November 9, 2026 Tickets will be available via a lottery system for those aged 17+ with exclusive codes being sent out to those who managed to win a spot when the entries are drawn on today at 4 pm ET/ 9 pm GMT. But there are a couple things to keep in mind. There's no word on how expensive the tickets will be, with prices likely being revealed later today in the lottery, and the festival is a mere two weeks away, as it takes place on November 21, 2026. So, unless you're a super f
+
+### I'm so glad I'm not using a questing addon in World of Warcraft: Forever
+Tue, 10 Nov 2026 12:07:27 +0000 — https://www.pcgamer.com/games/world-of-warcraft/im-so-glad-im-not-using-a-questing-addon-in-world-of-warcraft-forever/
+
+World of Warcraft: Forever 's quests are kind of a pain in the ass—they are this way because of the archaic, pre-solved quest design of the early 2000s (which is still very much more convenient than the MMOs that came before it). But it's also somewhat deliberate. Back then, forcing you to run halfway across the map to talk to some dude halfway up a mountain (or in the example I'll talk about later on, a fight pit on an island somewhere) was a way to get you out in the world, exploring it, originally unfolding new questing hubs or putting new flight routes and settlements in front of you. Over time, that design fell by the wayside in favor of convenience. The prospect of having to go out of your way for something that wasn't a strictly superior source of XP became a 'waste of time'. And to some degree, I get it. If you're worried about efficiency, having to jog for five minutes might feel like a chore. Besides, WoW's always been a game that people are rushing to solve, and I think that's just grand—solving puzzles is fun. I am the kind of person to cheer on speedrunners, to be fascinated by optimisation. People are clever and determined and they will find unique and novel ways to push the envelope. But boy, am I glad I'm not listening to them. Quest helping addons have been a point of contention since Forever's launch—partially because some of them are paid services—and while I'm not going to comment on the meta-drama, I will say that, from an experiential point of view, avoi
+
+### Phasmophobia raises over $200,000 for charity in the annual Ghost Hunts for Hearts collaboration with the American Heart Association
+Tue, 10 Nov 2026 11:17:09 +0000 — https://www.pcgamer.com/games/horror/phasmophobia-raises-over-usd200-000-for-charity-in-the-annual-ghost-hunts-for-hearts-collaboration-with-the-american-heart-association/
+
+It's the second year for Phasmophobia's Ghost Hunts for Hearts event in which players come together to raise money for the American Heart Association Liive, and they've already managed to set a new personal best. The event only lasted a week, but in that time players surpassed the target set and raised over $200,000, dwarfing the previous fundraising high: "Last year, the Phasmophobia community raised over $100,000 for the Heart Association's amazing cause and we’re hoping to go bigger and better this year by inviting the entire Phasmophobia community to join us," a blog post says . (Image credit: Kinetic Games) To celebrate the overwhelming success Phasmophobia studio Kinetic Games is rewarding players with some in-game items. Players will be able to find them in-game but there was also a Twitch Drop introduced as part of the campaign. And instead of just getting a plain old static Advocate Badge, players will have a fancy animated blood-red one with glistening red blood cells and a heart stamp, because they managed to reach the "secret fundraising goal" that was set before the fundraising began. "Your kindness and generosity will not go unrewarded," the devs reveal in an official social media post (via Eurogamer ). "Log in to Phasmophobia before the 15th November to claim the Animated AHA Advocate ID Card and Badge, available for all players." If anyone is having trouble getting the reward or if the prompt simply isn't popping up in-game, Kinetic Games has directed players 
+
+### Warhammer Survivors review: More than just Vampire Survivors with Space Marines
+Tue, 10 Nov 2026 11:02:26 +0000 — https://www.pcgamer.com/games/roguelike/warhammer-survivors-review/
+
+Need to know What is it A Warhammer-themed bullet heaven built on top of Vampire Survivors Release date November 10, 2026 Expect to pay £5.75/$7.19 Publisher Auroch Digital Developer Auroch Digital Reviewed on Steam Deck (LCD) Steam Deck Verified Link Steam Warhammer Survivors is deadly, and putting it on my Steam Deck was a terrible mistake. Every night it's the same thing: "I'll just play for 25 minutes and then go to sleep." And then it's 4 am and I'm bargaining with myself: "If I unlock one more weapon evolution then I'll go to bed." I'll never sleep. Too many nurglings still need to die. I knew what I was getting into, of course. Vampire Survivors has the same effect (and Deep Rock Survivor, and Megabonk), and while Warhammer Survivors is more than a straightforward spin-off with a grimdark skin, it still hits a lot of the same notes. One more fight (Image credit: Auroch Digital) The loop is just too delicious. If you're not au fait with bullet heavens and are just here for the Warhammer stuff, here's the deal: you pick a character with a predefined weapon and trait, and must survive for 25 minutes while increasingly intense hordes of enemies try to kill you, and then a boss will appear and one-shot you. The loop is just too delicious. As you fend off the hordes, you'll enhance your weapons and gain access to new ones, along with passives that augment your arsenal. You'll start to think, "I've got a great combo going here, the boss is toast!" And then you die. Don't worr
+
+### I have converted GTA 5 to its final form: A GTA 6 countdown app
+Tue, 10 Nov 2026 10:52:35 +0000 — https://www.pcgamer.com/games/grand-theft-auto/i-have-converted-gta-5-to-its-final-form-a-gta-6-countdown-app/
+
+Los Santos Customs I'm modding GTA 5 every day in a quest to either transform it into a PC version of GTA 6 or break it entirely. Come back tomorrow to find out what new horrible thing I've done to Rockstar's baby, or check out what I got up to earlier . It's almost here. It's almost here . Look down at your glass of water, see the ripples as it approaches. Turn your face to the wind, scent the faintest whiff of it as it slouches towards your PlayStation to be born. That's the reek of money . Grand Theft Auto 6 is almost here, at which point humankind will be absolved of its sins and redeemed to Eden. Or something. I lose track, but people are very excited, and it's got me a little concerned for the future of my beloved GTA 5. What is the future of GTA 5 in a world of GTA 6's imminence? What's its present? Like the rest of us, its present must aggressively reorient itself around GTA 6. GTA 5 is a GTA 6 countdown app now. I have installed GTA VI Countdown . In Legion Square (which is a place in Los Santos, apparently): an obelisk to man's hubris. A holographic display looms in the centre, telling you in a presumably royalty-free font that the release nanosecond of GTA 6 is X hours, Y minutes, Z seconds away. Gaze upon it. Reflect on what all this means as this, our prehistory, finally comes to its end. It actually took me a little while to find on account of not knowing what a Legion Square is. I got hit by multiple cars, summoned a tornado, and discovered my wife has a minima
+
+### 'The experiences on console and PC tend to be roughly the same,' says Take-Two CEO in response to question about GTA roleplaying
+Tue, 10 Nov 2026 00:24:43 +0000 — https://www.pcgamer.com/games/grand-theft-auto/the-experiences-on-console-and-pc-tend-to-be-roughly-the-same-says-take-two-ceo-in-response-to-question-about-gta-roleplaying/
+
+On a call with investors today , Take-Two CEO Strauss Zelnick pushed back on the idea that PC players have a different relationship with the Grand Theft Auto series than console players. "Your PC players seem to engage with GTA a bit differently than console," said Oppenheimer & Co analyst Martin Yang during a Q&A session. "There are roleplay options. Over time, do you think you want to close the player experience gap between console and PC, or do you view the two platforms as more independent because of their respective technical capabilities?" Zelnick responded with acknowledgement that series like Civilization started on PC and expanded onto consoles, but said that "generally speaking, the experiences on console and PC tend to be roughly the same" and that, in general, "the capabilities of the PC platform today aren't different materially from console capabilities." The vanilla GTA Online experience may be roughly equivalent for console and PC players, but the console versions don't have the mods that have helped keep GTA 5 relevant for 13 years. Take-Two of course knows that: It acquired the FiveM GTA 5 multiplayer mod behind so many RP servers. Answering a related question about console jailbreaking, modding, and monetization opportunities, Zelnick said later that "the FiveM business is a profitable business," but then turned back to one of his stock lines. "The mission of this company is to create the best entertainment on earth and bring it to consumers around the worl
 
 ### A month after Paramount acquired Warner Bros. Discovery, its merged game division is laying people off
 Mon, 09 Nov 2026 22:33:41 +0000 — https://www.pcgamer.com/gaming-industry/a-month-after-paramount-acquired-warner-bros-discovery-its-merged-game-division-is-laying-people-off/
@@ -301,52 +354,12 @@ GTA publisher Take-Two projects net bookings (total completed sales, essentially
 ### A week after expanding its publishing division, Killing Floor studio Tripwire Interactive lays off 36 people
 Mon, 09 Nov 2026 19:32:33 +0000 — https://www.pcgamer.com/gaming-industry/a-week-after-expanding-its-publishing-division-killing-floor-studio-tripwire-interactive-lays-off-36-people/
 
-Killing Floor studio Tripwire Interactive has laid off 36 employees in what it says "was certainly not an easy decision, but unfortunately a necessary one for the organization." The cuts at Tripwire appear significant: A source at the studio told PC Gamer that roughly 40-50 employees are left following the layoffs. "Our team is focused on our internal projects, including active development of Maneater 2, ongoing work on Killing Floor 3, and publishing efforts under the Tripwire Presents label," the studio wrote in a message shared on LinkedIn . "We are continuing to give the best support possible to all of our games and remain committed to our awesome community." Maneater 2 was announced in September, five years after the release of the original, which was a significant success for Tripwire. But the studio has had difficulty replicating that success, even with its best-known game series: Killing Floor 3, released in 2025, remains mired in "mixed" user reviews on Steam , and its concurrent player count on the platform is a small fraction of its 2016 predecessor. (Image credit: Tripwire Interactive) The layoffs also come less than a week after Tripwire announced an expansion of its Tripwire Presents publishing division to include "scaled publishing support of smaller independent developers"—essentially offering a variable suite of services to what Tripwire publishing director Bryan West called "scrappy developers" who could a little assist with their games in specific areas. 20
+Killing Floor studio Tripwire Interactive has laid off 36 employees in what it says "was certainly not an easy decision, but unfortunately a necessary one for the organization." The cuts at Tripwire are quite substantial: A source at the studio told PC Gamer that roughly 40-50 employees are left following the layoffs. "Our team is focused on our internal projects, including active development of Maneater 2, ongoing work on Killing Floor 3, and publishing efforts under the Tripwire Presents label," the studio wrote in a message shared on LinkedIn . "We are continuing to give the best support possible to all of our games and remain committed to our awesome community." Maneater 2 was announced in September, five years after the release of the original, which was a significant success for Tripwire. But the studio has had difficulty replicating that success, even with its best-known game series: Killing Floor 3, released in 2025, remains mired in "mixed" user reviews on Steam , and its concurrent player count on the platform is a small fraction of its 2016 predecessor. (Image credit: Tripwire Interactive) The layoffs also come less than a week after Tripwire announced an expansion of its Tripwire Presents publishing division to include "scaled publishing support of smaller independent developers"—essentially offering a variable suite of services to what Tripwire publishing director Bryan West called "scrappy developers" who could a little assist with their games in specific areas.
 
 ### AMD users are reporting a misfiring utility is eating SSD health by 1% a month. AMD says a fix is on the way for its GPU drivers
 Mon, 09 Nov 2026 17:15:26 +0000 — https://www.pcgamer.com/hardware/graphics-cards/amd-users-are-reporting-a-misfiring-utility-is-eating-ssd-health-by-1-percent-a-month-amd-says-a-fix-is-on-the-way-for-its-gpu-drivers/
 
 I fear opening the Pandora's box that is my SSD's health report. I'd much rather live in ignorance until the day it inevitably fails on me. Some eagle-eyed AMD GPU users, however, have spotted their own SSD health dropping much faster than they expected, and have placed the blame squarely on an AMD Adrenalin driver utility. Redditor Darklinkpower has flagged the issue on the r/pcmasterrace subbreddit. "I just found out that the driver eats up 1% of my SSD health every month for 16 month," says the redditor, "where[as another] user reported losing approximately 1% of their SSD health every month." PSA: As of the latest AMD Adrenaline update, a bug may be causing silent, constant writes to your SSD, unnecessarily killing its lifespan. from r/pcmasterrace The reports come from multiple sources, including the Radeon subreddit , and Tomasz Gawroński on X , who says that Adrenalin driver utility atieclxx.exe had performed 19.5 GB of I/O writes on their machine in just 12 hours. According to Gawroński, the bug has been present since Adrenalin Edition 26.7.1 released in June of this year. The issue doesn't appear to be present on all machines, and our own AMD GPU-using Jacob Fox hasn't been able to reproduce it. Still, the reports are numerous enough to suggest something is amiss. In terms of an official response, representative AMD_Matt on the AMD community forums replied to a user flagging the issue last month, saying "We're looking into it with the aim to resolve it in a future dr
-
-### Warhammer 40K: Rogue Trader follow-up Dark Heresy will launch at the end of January
-Mon, 09 Nov 2026 17:06:59 +0000 — https://www.pcgamer.com/games/rpg/warhammer-40k-rogue-trader-follow-up-dark-heresy-will-launch-at-the-end-of-january/
-
-Owlcat has released a new trailer for its coming Warhammer 40K RPG, Dark Heresy. The inquisition and investigation-focused RPG is now slated for a January 28 launch. We've loved what we've seen of the game so far: Its focus on investigating heresy and closing cases represents something genuinely novel for Owlcat, which until now has focused on fantasies of rulership (with lite 4x/management gameplay) and quite good (and often very challenging) tactical battles. One problem: I have a largely uncomplicated relationship with Owlcat games, because I've only ever played them a year-plus out from launch. PCG's other RPG heads, like weekend editor Jody Macgregor and online editor Fraser Brown, remain scarred by their experiences with pre-launch, review period Owlcat games. Jody, for example, lost hours of progress while working on his Rogue Trader review, and once told me that Pathfinder: Wrath of the Righteous' extensive combat system "just didn't work" in the pre-release review period. Hope springs eternal, though, and I'm a glass half-full type of guy. The corollary to Owlcat games launching rough is that they only get better over time, and the studio has done a phenomenal job supporting its games with both patches and massive story DLCs. Rogue Trader's final add-on, Processional of the Damned , is coming out a month from now on December 8, almost three years to the date after Rogue Trader's initial release. And after Dark Heresy, there's still the matter of The Expanse: Osiris R
-
-### Cheaper OLEDs may be here even quicker than we thought as TCL CSOT says its new inkjet printing facility could be up and running as soon as this time next year
-Mon, 09 Nov 2026 16:58:52 +0000 — https://www.pcgamer.com/hardware/gaming-monitors/cheaper-oleds-may-be-here-even-quicker-than-we-thought-as-tcl-csot-says-its-new-inkjet-printing-facility-could-be-up-and-running-as-soon-as-this-time-next-year/
-
-TCL CSOT (the subsidiary of TCL that manufactures OLEDs and other panels) says its new inkjet-printed OLED factory has "entered the equipment move-in phase" (via TechPowerUp ) after the project "progressed at a rapid pace". In other words, it's started filling up its production facility with the equipment to produce inkjet OLEDs. Production, the company says, is targeted for about this time next year. What's the big deal, you ask? It all comes down to that phrase, "inkjet-printed". Inkjet printing (IJP) should be a much more cost-effective way of making OLED panels, which means it should ultimately deliver OLED gaming monitors that are cheaper than traditionally manufactured ones. Which is saying something, considering how much traditionally manufactured OLEDs have dropped in price over the past year—you can currently pick up a 240 Hz OLED monitor for just $269 at Walmart , for instance. Having OLEDs even cheaper than this will be a whirlwind of fresh air in the current very expensive PC hardware market. IJP should give us such cheaper panels because the way it makes OLEDs doesn't involve as much wastage. Normally, you have some OLED materials moving through a mask, and some of them are lost. With IJP, however, the materials are printed directly onto the substrate, meaning there shouldn't be any lost materials. Thus, more efficient and cost-effective production. We'd already heard from third-party sources that this production facility would be producing such cheap OLEDs befor
-
-### Jensen Huang’s affair with alleged Chinese spy highlights how the GPU company’s dealings are now everyone’s business
-Mon, 09 Nov 2026 16:56:37 +0000 — https://www.pcgamer.com/hardware/graphics-cards/jensen-huangs-affair-with-alleged-chinese-spy-highlights-how-the-gpu-companys-dealings-are-now-everyones-business/
-
-Nvidia CEO Jensen Huang has admitted to an extramarital affair in a statement published on Nvidia's newsroom . A strange move for the $4.5 trillion company without the added context: the person he's suspected of having an affair with has also been deemed a Chinese intelligence asset by US officials, and was investigated for smuggling none other than Nvidia's own chips. The story goes far deeper than Huang's affair; revolving around national security, export controls, spying, chip smuggling, and US/China relations. It's in large part about AI, and who controls the hardware that makes it possible. So, if you're wondering why Huang might be the target of Chinese intelligence to begin with, or why he's announcing his affair in the most public way possible, here's how we got to this point. Why does it matter where Nvidia sells its GPUs? Nvidia is at the centre of the debate about whether the United States should sell its most technologically advanced chips to China. The US had already ensured China couldn't make the most cutting-edge chips through a ban of Netherlands-based ASML's chipmaking machines. Yet it has also moved between qualified bans of high-performance chips, leading to made-for-China GPUs, such as the RTX 4090D , RTX 5090 D, and H20 ; to outright bans, namely the ongoing restrictions for the Blackwell architecture; Nvidia's latest and greatest. There have been a lot of changes to export controls between the US and China, going back to Biden's trade war. Limitations w
-
-### 'Floppy disks are out, 21st century tech is in': The FAA is finally ditching 55-year-old storage
-Mon, 09 Nov 2026 16:07:08 +0000 — https://www.pcgamer.com/hardware/floppy-disks-are-out-21st-century-tech-is-in-the-faa-is-finally-ditching-55-year-old-storage/
-
-You've got to hand it to floppy disks. The now 55-year-old storage tech occasionally crops up in the most surprising of places, like a San Francisco light rail line or, previously, US nuclear launch facilities . One last holdout appears to be the Federal Aviation Administration, which still uses the disks for data storage within the US air traffic control system (via Ars Technica ). Not for much longer, it seems, as US transportation secretary Sean P. Duffy has announced the widespread rollout of their long-overdue replacement. "Good news America: floppy disks are out, 21st century tech is in," says Duffy in an FAA press release . "The greatest nation in the world deserves a state-of-the-art air traffic control system, and under President Trump, we’re delivering just that." The ageing disks contain "vital weather and other critical information" used within the current air traffic control system, but that's set to change with the new Enterprise Information Display System (E-IDS). "E-IDS gives air traffic controllers the information they need to make timely decisions and keep the flying public safe,” says FAA Administrator Bryan Bedford. (Image credit: Microsoft) "We’re moving away from outdated, manual processes and replacing technology that once relied on floppy disks with a modern system that allows controllers to instantly share critical flight alerts, restricted airspace schedules and pilot reports across the National Airspace System." E-IDS aims to improve the collection 
-
-### The Golden Joystick Awards return this Wednesday—here's how to watch them
-Mon, 09 Nov 2026 15:47:21 +0000 — https://www.pcgamer.com/gaming-industry/events-conferences/the-golden-joystick-awards-return-this-wednesday-heres-how-to-watch-them/
-
-Friends, it's once again time to set sail on the stormy seas of democracy and answer a vital question: which are the best games of 2026 according to a set of 22 distinct categories? Also there are three other categories, but they're chosen by judges and not the public, so it's less the stormy seas of democracy and more the technocratic autobahn of experience-based decision-making. It's time for the Golden Joystick Awards 2026, is what I'm saying, and you (yes, you) are invited to watch when the big show airs at 10 am PT / 1 pm ET / 6 pm GMT / 7 pm CEST on Wednesday, November 11, 2026. This year's host is Alix Wilton Regan, most recently the voice of Lara Croft in Tomb Raider: Legacy of Atlantis, but most notably for me the voice of Alt Cunningham in Cyberpunk 2077, Specialist Traynor in Mass Effect 3, and Loghain's lieutenant Cauthrien in Dragon Age: Origins. Real heads know. The show goes out on every streaming platform you've heard of and perhaps a few you haven't. You can watch the ceremony live via YouTube , Twitch , Steam, TikTok and X as well as Future Games Show , PC Gamer , WhatCulture Gaming , IGN , Ginx TV , eClutch, Niconico, Kuaishou and Bilibili . (Image credit: Future) There are a whole bunch of games in the running for the GJAs numerous gongs, and I genuinely don't know which of them will come out ahead. We've got 007 First Light, Big Walk, Crimson Desert, Control Resonant, Dispatch, Forza Horizon 6, Meccha Chamelon, Mewgenics, Resident Evil Requiem, and plenty
-
-### The pillars of AI are shaking beneath our feet
-Mon, 09 Nov 2026 14:52:38 +0000 — https://www.pcgamer.com/software/ai/the-pillars-of-ai-are-shaking-beneath-our-feet/
-
-I've spent far too much of my life covering the rampant ascent of AI. A juggernaut of tech development, destined to change the world into some sort of sci-fi utopia (if you believe its advocates) or fated to come crashing down around our ears, taking a large chunk of the world economy with it . Or the end of the world as we know it, according to some . And now, the pillars upon which the AI revolution sits seem to be shaking beneath it. The most recent tremors began with the wobbling of US AI-led tech stocks in mid-October, after a similar descent in China earlier this year. Then at the end of the month, while many tech companies reported huge amounts of revenue in their quarterly financial results, some AI tech share prices still slid under a black cloud of investor doubt. None more so than Alphabet, the owner of Google. A $500 billion wipe in stock price , led by the admission that the company's own AI search features were eating into its ad revenue, rocked the market. A wider tech sell-off , fuelled by fears regarding the eventual profitability of AI and a potential upcoming Democrat victory in the US midterms, rattled the valuations of many AI tech companies—alongside the chip manufacturers sitting underneath them. All this, of course, amid a backdrop of increasing AI-related concerns across multiple fields. Rogue AI agents . Increasing AI-powered cybersecurity incidents . Predictions of the end of civilisation , brought on by rampant AI development without proper oversig
-
-### Great news! Nier: Automata's install size is no longer 7x bigger than it should be (it was 366 GB)
-Mon, 09 Nov 2026 14:51:27 +0000 — https://www.pcgamer.com/games/rpg/great-news-nier-automatas-install-size-is-no-longer-7x-bigger-than-it-should-be-it-was-366-gb/
-
-Last Friday, the very good RPG Nier: Automata underwent what the scientific community calls 'puffer-fishification'. That is to say, it suddenly and inexplicably ballooned to over 700% of its original download size, as an update magically transformed the game from a reedy 50 GB lightweight into a 366-GB behemoth. But it has since hit the Ozempic and is now back down to its regular size. "We have identified the cause and now resolved this issue," tweeted the official Nier X account earlier today. "Apologies for any inconvenience caused." Notably absent from the bugfix notice was any explanation as to just what had happened. It might be academic at this point, but I for one would love to know how you accidentally make a game seven times bigger without anything changing. Squenix is keeping schtum, but Rick Lane suggested, in our article last week about the bug, that it might have been related to Nier: Automata's DLC packages. "When selected for download on Steam, each DLC appears to have the same file size as the base game", he noted. "Weirdly though, this is only true for the initial download and installation. Once the game is installed, the file reportedly reverts to a more appropriate size of roughly 50 gigs." Indeed, the suggested temporary workaround for the issue (before Square Enix fixed it) was to uncheck all the DLCs when you installed the game. So it sure seems like, somehow, the base files for the entire original game got attached to each individual DLC package. That m
-
-### Skyrim lead designer gives the most succinct summary of Bethesda's design I've ever heard: 'You're not playing my game, I'm making your game'
-Mon, 09 Nov 2026 12:28:31 +0000 — https://www.pcgamer.com/games/the-elder-scrolls/skyrim-lead-designer-gives-the-most-succinct-summary-of-bethesdas-design-ive-ever-heard-youre-not-playing-my-game-im-making-your-game/
-
-Skyrim lead designer Bruce Nesmith had a wide-ranging chat with The Examined Game recently, touching upon topics like the importance of institutional knowledge , what he liked about Baldur's Gate 3, and what he wants to see in The Elder Scrolls 6: Sentinel . But he also dropped a pithy maxim (and less pithy explanation) about his—and Bethesda's—approach to design in general. Here's what he said. Oblivion console commands : Cheats new and old Oblivion lockpicks : Where and how to use them Oblivion vampirism cure : Rid yourself of the affliction Oblivion thieves guild : How to join the crew Oblivion persuasion : Master the minigame ]]>
 
 ## GameSpot
 
@@ -412,6 +425,31 @@ What's in a name? That's the question that Mortal Kombat studio CCO Ed Boon is a
 
 ## Rock Paper Shotgun
 
+### Steam's new Steam Deck framerate graphs are good news for handheld players, though I wouldn't fully trust the numbers yet
+Tue, 10 Nov 2026 12:26:20 +0000 — https://www.rockpapershotgun.com/steams-new-steam-deck-framerate-graphs-are-good-news-for-handheld-players-though-i-wouldnt-fully-trust-the-numbers-yet
+
+Valve have finally made clear what they've been doing with all that hoovered-up performance data and all those "Framerate Estimator" text strings : a framerate estimator for the Steam Deck . Or, rather, a framerate average-r, as games on the Steam Store are now getting attached graphs &ndash; under their existing Steam Deck Compatibility details &ndash; that show how many frames-per-secondseses that game has been recording on real players' handhelds, the OLED and original LCD models both. Read more
+
+### Skydance Games lay off an undisclosed number of staff in the wake of Paramount-Warner Bros. merger, in latest case of consolidation killing livelihoods
+Tue, 10 Nov 2026 11:54:00 +0000 — https://www.rockpapershotgun.com/skydance-games-lay-off-an-undisclosed-number-of-staff-in-the-wake-of-paramount-warner-bros-merger-in-latest-case-of-consolidation-killing-livelihoods
+
+A little over a month following the huge, vile, culture-defining (negative) merger between Paramount and Warner Bros. into Skydance, the corporation has confirmed that games division Skydance Games will be facing a round of layoffs, according to a report from Variety . Read more
+
+### Following site-wide discussion on AI use, Nexus Mods add a "daily limit" to the spots in the new mods tab one person can hog via multiple rapid-fire uploads
+Tue, 10 Nov 2026 11:17:50 +0000 — https://www.rockpapershotgun.com/following-site-wide-discussion-on-ai-use-nexus-mods-add-a-daily-limit-to-the-spots-in-the-new-mods-tab-one-person-can-hog-via-multiple-rapid-fire-uploads
+
+The folks behind Nexus Mods have rolled out a new "daily limit" system which ensures modders who upload multiple works in bulk during a single 24 hour period can't take up more than one spot in the tabs dedicated to showing off new mods for different games. Instead, those who chuck up their mods in bulk will see one of their works given a spot, while the rest are neatly filed away behind it, ready to spring out if you click a bit of text indicating that modder's got other fresh works to show off. Read more
+
+### Big Walk developer House House reveal genAI use in final stretch of development, only revealing it now as "it has become a matter of public interest"
+Tue, 10 Nov 2026 10:19:30 +0000 — https://www.rockpapershotgun.com/big-walk-developer-house-house-reveal-genai-use-in-final-stretch-of-development-only-revealing-it-now-as-it-has-become-a-matter-of-public-interest
+
+Friendslop du jour Big Walk is the latest in an unfortunately long series of games that have been confirmed to use generative AI in their production, with developers House House clarifying their use of it in a statement to Aftermath (thanks!). House House state that "LLMs were used sparingly by House House to help work through difficult technical challenges and bugs", and that "well under 0.1% of Big Walk&rsquo;s code had anything to do with this usage", but are quick to note that "generative AI was not used in any other context when making the game." Read more
+
+### Don't be fooled by Horses of Hoofprint Bay's hand-drawn art, this stable management game has all the drama of a Jilly Cooper novel
+Tue, 10 Nov 2026 09:02:00 +0000 — https://www.rockpapershotgun.com/dont-be-fooled-by-horses-of-hoofprint-bays-hand-drawn-art-this-stable-management-game-has-all-the-drama-of-a-jilly-cooper-novel
+
+Poema is my pride and joy. She was my first horse and she's a competition winner, but she's reached her potential. She'll never be a show jumper, and that's where the money and prestige are to be found. If I'm ever to grow my horse farm into a nationally renowned equestrian centre, I need the cash to expand and upgrade my facilities. Poema is a hoofstep on the path to that future, but she's not going to be able to take me all the way herself. For all its hand-drawn aesthetics, Horses of Hoofprint Bay has hard realities like the limits of Poema's future bubbling under its surface. While the game's scripted narrative may be lacking, it's shockingly easy to fill in the gaps with drama worthy of a Jilly Cooper novel. Read more
+
 ### Warhammer 40,000: Dark Heresy releases in January, leaving not very long to prepare for all the crunchy cRPG choices and secret wars it'll lob your way
 Mon, 09 Nov 2026 17:30:00 +0000 — https://www.rockpapershotgun.com/warhammer-40000-dark-heresy-releases-in-january-leaving-not-very-long-to-prepare-for-all-the-crunchy-crpg-choices-and-secret-wars-itll-lob-your-way
 
@@ -446,19 +484,4 @@ I don't know what Edwin's been feeding the Maw in my off week, but when I entere
 Mon, 09 Nov 2026 13:15:00 +0000 — https://www.rockpapershotgun.com/there-is-no-excuse-for-what-i-did-nvidia-ceo-says-as-affair-with-an-alleged-chinese-spy-makes-the-us-china-ai-race-look-even-more-ridiculous
 
 Ostensible graphics card company and definite AI giants Nvidia have commissioned an independent investigation into themselves, amid reports that CEO Jensen Huang had an extramarital affair with a suspected Chinese spy. Per both the New York Times and Nvidia themselves , Nvidia offered to go under the microscope after US intelligence organisations elected to investigate Huang&rsquo;s paramour, Chinese national Alice Huang (no, uh, relation, and also known as Huang Le), on suspicion of sharing sensitive information with Beijing. The Nvidia-running, leather-jacketed Huang has thus far only copped to an unspecified affair, admitting in an extraordinary public statement that he was "unfaithful to my wife." Still, the two investigations are likely to start a bizarre new leg in the alread-messy AI arms race that the US and China have been indulging in for years. Read more
-
-### Rockstar were "definitely" thinking about giving a Japanese studio the keys to GTA, says former tech director - "I have a name, but I'm not gonna say it"
-Mon, 09 Nov 2026 12:41:00 +0000 — https://www.rockpapershotgun.com/rockstar-were-definitely-thinking-about-giving-a-japanese-studio-the-keys-to-gta-says-former-tech-director-i-have-a-name-but-im-not-gonna-say-it
-
-Since time immemorial, North American and European publishers have racked their brains over ways to make their games sell in Japan, ancient heartland of mythical beings like Mario, Sonic, and Polaroid Pete. In the late noughties, Microsoft launched a big push to give Japanese youth the Xbox virus with such targeted console exclusives as Blue Dragon and Lost Odyssey. And Rockstar once dreamed of making a Grand Theft Auto game set in Tokyo. Speaking to me last week, Rockstar North's former technical director Obbe Vermeij shared a little about the abandoned project. Emphasis on the "little" &ndash; it doesn't appear to have gotten very far, despite recently unearthed allusions to "Tokyo PS2" in GTA 5 's source code. Read more
-
-### Ahead of The Witcher 3: Songs of the Past, here's a "lore friendly unofficial expansion to Geralt's life in Toussaint" from a well-established quest modder
-Mon, 09 Nov 2026 11:25:50 +0000 — https://www.rockpapershotgun.com/ahead-of-the-witcher-3-songs-of-the-past-heres-a-lore-friendly-unofficial-expansion-to-geralts-life-in-toussaint-from-a-well-established-quest-modder
-
-While its remastered upgrade might have broken cover in late September, The Witcher 3 's extra expansion isn't set to join it until next year. With 2027 still a month and a bit away, a modder's taken it upon themselves to add a few more adventures to Geralt's time in Toussaint, Blood and Wine's gorgeous French-ish duchy, before the bloke from the river heads off to Letten for Songs of the Past. Read more
-
-### The Sunday Papers
-Sun, 08 Nov 2026 11:00:00 +0000 — https://www.rockpapershotgun.com/the-sunday-papers-835
-
-Sundays are for waking up covered in sand. The roof of your house is missing. A small man stands in the emptied bed of a dump truck. "You know, everybody's always asking about Elder Scrolls 6," he says. "You know, everybody's always asking about Elder Scrolls 6," he repeats. "You know, everybody's always asking about Elder Scrolls 6," he declares once again, beginning to move towards you this time. "You know, everybody's always asking about Elder Scrolls 6." You realise your hands are tied down. Oh no. Is he about to sit on your face? WAIT, THAT'S NOW ILLEGAL HERE IN THE UK . NO, PLEASE, DON'T SIT ON MY-time seems to slow as the bare backside approaches your visage. As its cheeks prepare to become as sandy as yours, you hear its wielder say: "And we thought, hey, given the moment..." Read more
 
