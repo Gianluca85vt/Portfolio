@@ -19,7 +19,6 @@ artistView:
   misses:
     - "Credit: a studio that produced terrain and cutscenes appearing under Special Thanks is a billing decision, not a measure of the work. Credit is how an artist gets the next contract, and this costs people theirs."
     - "Transparency: nobody has said which company built which part of Hyrule. Monolith Soft's own wording says graphics, Bandai Namco's says artwork and visual assets, and those overlap enough to hide the whole division of labour."
-draft: true
 ---
 
 Nintendo shipped The Legend of Zelda: Ocarina of Time on Switch 2 on
