@@ -39,6 +39,11 @@ title, and I am leaving it alone.
 
 ## What 0.1% of a codebase is
 
+<figure>
+  <img src="/img/blog/big-walk-ai-disclosure-igf-jury/shot-02.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>House House and Panic, via the official Big Walk Steam page</figcaption>
+</figure>
+
 Big Walk is a co-op game shipped on PC, Mac, PS5 and Switch 2 on 4 August 2026,
 $19.99, published by Panic, four and a half years after its reveal. A project
 that size runs into the hundreds of thousands of lines once you count tools,
