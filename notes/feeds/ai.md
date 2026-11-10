@@ -1,4 +1,4 @@
-# AI — harvested 2026-11-10T12:58:45.288Z
+# AI — harvested 2026-11-10T20:36:08.006Z
 
 ## OpenAI
 
@@ -7,10 +7,20 @@ Tue, 10 Nov 2026 12:00:00 GMT — https://openai.com/index/helping-caregivers-us
 
 OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.
 
+### Introducing Businesses in ChatGPT
+Tue, 10 Nov 2026 10:00:00 GMT — https://openai.com/index/introducing-businesses-chatgpt
+
+Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.
+
 ### Closing the AI guidance gap in education
 Tue, 10 Nov 2026 09:00:00 GMT — https://openai.com/index/closing-ai-guidance-gap-education
 
 New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.
+
+### Work at the Frontier: AI’s effect on freelance work
+Tue, 10 Nov 2026 07:00:00 GMT — https://openai.com/index/ai-effect-on-freelance-work
+
+New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.
 
 ### ChatGPT Enterprise now available in AWS Marketplace
 Mon, 09 Nov 2026 19:00:00 GMT — https://openai.com/index/chatgpt-enterprise-aws-marketplace
@@ -34,6 +44,12 @@ Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawing
 
 ## Hugging Face
 
+### Pay for Hugging Face Hub with your Google Cloud Account
+Tue, 10 Nov 2026 00:00:00 GMT — https://huggingface.co/blog/hub-gcp-marketplace
+
+### Decision Models in Hugging Face
+Tue, 10 Nov 2026 00:00:00 GMT — https://huggingface.co/blog/decision
+
 ### Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context
 Mon, 09 Nov 2026 15:05:57 GMT — https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan
 
@@ -42,10 +58,18 @@ Mon, 09 Nov 2026 12:34:29 GMT — https://huggingface.co/blog/amazon/higher-orde
 
 ## Google DeepMind
 
+### Gemini 4 Carbon is now available
+Tue, 10 Nov 2026 16:03:47 +0000 — https://deepmind.google/blog/gemini-4-carbon-is-now-available/
+
 ### Introducing AlphaProof Code: a breakthrough in verifying complex software at depth
 Tue, 10 Nov 2026 12:02:28 +0000 — https://deepmind.google/blog/introducing-alphaproof-code/
 
 AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.
+
+### Gemini Robotics 2.5 accelerates real-world general dexterity
+Mon, 09 Nov 2026 19:51:47 +0000 — https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/
+
+Our most capable vision-language-action model enhances robot dexterity, reliability, and safety
 
 ## VentureBeat AI
 

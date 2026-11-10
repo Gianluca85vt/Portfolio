@@ -1,72 +1,82 @@
-# Manga — harvested 2026-11-10T12:58:45.288Z
+# Manga — harvested 2026-11-10T20:36:08.006Z
 
 ## Anime News Network
 
-### Hollywood Reporter, Variety: Apple TV in Talks for Monarch: Legacy of Monsters Season 3
-Tue, 10 Nov 2026 06:55:42 -0500 — https://www.animenewsnetwork.com/news/2026-11-10/hollywood-reporter-variety-apple-tv-in-talks-for-monarch-legacy-of-monsters-season-3/.243668
+### HIDIVE to Release Made in Abyss: Awakening Mystery Film in 2027 With N. American Premiere Screening at Anime Frontier on December 5
+Tue, 10 Nov 2026 15:00:35 -0500 — https://www.animenewsnetwork.com/news/2026-11-10/hidive-to-release-made-in-abyss-awakening-mystery-film-in-2027-with-n-american-premiere-screening-/.243696
 
-Magazines: New season would have new showrunner, writers, Titan monsters
+English-subbed trailer streamed for 1st film in new <cite>Made in Abyss</cite> anime film series
 
-### Shueisha Games to Publish Nightmare Operator Action Horror Game
-Tue, 10 Nov 2026 06:43:13 -0500 — https://www.animenewsnetwork.com/news/2026-11-10/shueisha-games-to-publish-nightmare-operator-action-horror-game/.243679
+### Rock Band FLOW Announce U.S. Dates for New 2027 World Tour
+Tue, 10 Nov 2026 14:00:22 -0500 — https://www.animenewsnetwork.com/news/2026-11-10/rock-band-flow-announce-u.s-dates-for-new-2027-world-tour/.243689
 
-Miyuki Sawashiro to voice lead in DDDistortion's game on Steam
+Band perform in U.S. in February 2027 starting in Boston
 
-### Devils' Crest Anime Confirms Half-Year Run
-Tue, 10 Nov 2026 04:44:49 -0500 — https://www.animenewsnetwork.com/news/2026-11-10/devils-crest-anime-confirms-half-year-run/.243678
+### Hell Mode Season 2 Anime Series Review
+Tue, 10 Nov 2026 12:00:00 -0500 — https://www.animenewsnetwork.com/review/hell-mode-season-2-anime-series/.243051
 
-Anime debuted worldwide on Prime Video on November 6
+The worst of <i>Hell Mode</i> is very firmly behind us in this season, but being an improvement doesn’t necessarily mean it’s suddenly fun to watch.
 
-### Millennium Family TV Anime Casts Mutsumi Tamura
-Tue, 10 Nov 2026 04:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-10/millennium-family-tv-anime-casts-mutsumi-tamura/.243639
+### Dragon Quest RPG Mobile Game's Trailer Reveals 2027 Launch, Closed Beta Test in December
+Tue, 10 Nov 2026 12:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-10/dragon-quest-rpg-mobile-game-trailer-reveals-2027-launch-closed-beta-test-in-december/.243690
 
-Tamura voices Benfield family's youngest child Arthur
+<cite>Dragon Quest RPG: The Cursed Tree and the Chosen Isle</cite> game features turn-based battles, dungeons
 
-### Japan's Video Game Rankings, October 26-November 1
-Tue, 10 Nov 2026 02:53:54 -0500 — https://www.animenewsnetwork.com/news/2026-11-10/japan-video-game-rankings-october-26-november-1/.243620
+### Crunchyroll Streams Suikoden Anime
+Tue, 10 Nov 2026 11:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-10/crunchyroll-streams-suikoden-anime/.243688
 
-Minecraft for Switch 2 debuts at #3; Hello Kitty Party Land debuts at #7, #8
+1st 6 episodes are now streaming with new episodes premiering on Tuesdays
 
-### Japanese Animation TV Ranking, October 26-November 1
-Tue, 10 Nov 2026 02:52:54 -0500 — https://www.animenewsnetwork.com/news/2026-11-10/japanese-animation-tv-ranking-october-26-november-1/.243621
+### Psyren ‒ Episode 5
+Tue, 10 Nov 2026 10:30:00 -0500 — https://www.animenewsnetwork.com/review/psyren/episode-5/.243687
 
-<cite>The Apothecary Diaries</cite> up to 4.1% rating from 3.5% last week
+I wish I could still muster some lingering enthusiasm for seeing how the rest of this adaptation pans out, but right now, all I can feel towards it is apathy.
 
-### Kyūgō's Monster in Sheep's Clothing BL Manga Gets Live-Action Film
-Tue, 10 Nov 2026 01:48:44 -0500 — https://www.animenewsnetwork.com/news/2026-11-10/kyugo-monster-in-sheep-clothing-bl-manga-gets-live-action-film/.243671
+### Exploring the MAPPA EXPO 15th Anniversary Exhibition
+Tue, 10 Nov 2026 10:00:00 -0500 — https://www.animenewsnetwork.com/feature/2026-11-10/exploring-the-mappa-expo-15th-anniversary-exhibition/.243486
 
-Nobuyuki Suzuki, Bullet Train boy group's Haru Kashiwagi star in film opening on December 11
+Celebrating its 15th anniversary, MAPPA is looking back on its history with the MAPPA EXPO 15th Anniversary exhibition at the Yurakucho Museum in Tokyo.
 
-### Vinland Saga Creator Makoto Yukimura Addresses Comments on AI Imagery
-Mon, 09 Nov 2026 23:59:00 -0500 — https://www.animenewsnetwork.com/interest/2026-11-09/vinland-saga-creator-makoto-yukimura-addresses-comments-on-ai-imagery/.243647
+### This Week in Anime - Kaiju King
+Tue, 10 Nov 2026 10:00:00 -0500 — https://www.animenewsnetwork.com/this-week-in-anime/2026-11-10/.243676
 
-Yukimura: “AI steals art, and I'm in trouble if AI develops too much. The reason why we are in trouble is because AI does a good job to some extent. It's just a fact. It is not an affirmation.”
+Godzilla contains multitudes, and we're not just talking about the people he eats.
 
-### STEEL BALL RUN JoJo's Bizarre Adventure Anime's 'Special Video' Highlights Stands
-Mon, 09 Nov 2026 22:34:51 -0500 — https://www.animenewsnetwork.com/news/2026-11-09/steel-ball-run-jojo-bizarre-adventure-anime-special-video-highlights-stands/.243670
+### Magical Girl Raising Project restart ‒ Episode 6
+Tue, 10 Nov 2026 08:30:00 -0500 — https://www.animenewsnetwork.com/review/magical-girl-raising-project-restart/episode-6/.243667
 
-Weekly episodes now debuting as part of "2nd & 3rd stages" that started on September 25
+There is another layer to this death game. It's designed to draw in Snow White.
 
-### My Death Flags Show No Sign of Ending Novels Get TV Anime in 2027
-Mon, 09 Nov 2026 22:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-09/my-death-flags-show-no-sign-of-ending-novels-get-tv-anime-in-2027/.243650
+### Kodansha's Comic Tint Digital Magazine to End After 9 Years
+Tue, 10 Nov 2026 08:07:45 -0500 — https://www.animenewsnetwork.com/news/2026-11-10/kodansha-comic-tint-digital-magazine-to-end-after-9-years/.243665
 
-Manga adaptation's artist Mitsuya Otosu commemorates anime of Izumi's light novel series with drawing
+Last issue comes out on January 1, manga to move to Ane Friend, Palcy services
 
-### Izumi Miyazono's 'Kekkon Shimashō, Koi Suru Mae ni' Manga Gets Live-Action 'Short' Drama
-Mon, 09 Nov 2026 21:31:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-09/izumi-miyazono-kekkon-shimasho-koi-suru-mae-ni-manga-gets-live-action-short-drama/.243664
+### DMM Establishes New Animation Studio Gleestone
+Tue, 10 Nov 2026 07:52:45 -0500 — https://www.animenewsnetwork.com/news/2026-11-10/dmm-establishes-new-animation-studio-gleestone/.243682
 
-<i>Everyone's Getting Married</i> creator's office romance teased for smartphone adaptation in early winter
+Naokazu Tsuruta heads company handling works from planning stages to actual animation production
 
-### U.S. Navy Recruitment Video Reuses Blend S Anime's Opening
-Mon, 09 Nov 2026 21:00:00 -0500 — https://www.animenewsnetwork.com/interest/2026-11-09/u.s-navy-recruitment-video-reuses-blend-s-anime-opening/.243648
+### A Certain Dark Item ‒ Episode 5
+Tue, 10 Nov 2026 07:30:00 -0500 — https://www.animenewsnetwork.com/review/a-certain-dark-item/episode-5/.243666
 
-Whether use of anime in Talent Acquisition Group Great Lakes video is authorized is unconfirmed
+Choubi is a master of disguise. But more than that, she has turned her body into a blank canvas to paint upon.
 
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Exclusive: Made in Abyss: Awakening Mystery Heads to HIDIVE in 2027, North American Premiere Set for December 5
+Tue, 10 Nov 2026 18:59:53 GMT — https://animecorner.me/exclusive-made-in-abyss-awakening-mystery-heads-to-hidive-in-2027-north-american-premiere-set-for-december-5/
+
+HIDIVE will distribute Made in Abyss: Awakening Mystery in 2027, with the film set&hellip;
+
+### Get Backers Teases Return With Mysterious 'Strongest Duo' Video, No New Anime Project Announced
+Tue, 10 Nov 2026 13:48:43 GMT — https://animecorner.me/get-backers-teases-return-with-mysterious-strongest-duo-video-no-new-anime-project-announced/
+
+Get Backers appears to be preparing for a new revival project, with a mysterious teaser recently shared on X and confirmed by the official YouTube channel.
 
 ### Photo Gallery: ALI Sets Germany Ablaze with Love, Music, and Dance at DoKomi 2026 Debut
 Mon, 09 Nov 2026 20:03:52 GMT — https://animecorner.me/photo-gallery-ali-sets-germany-ablaze-with-love-music-and-dance-at-dokomi-2026-debut/
@@ -104,11 +114,6 @@ Publishing company Manga Box announced a television anime adaptation of Izumi an
 Mon, 09 Nov 2026 16:05:31 -0800 — https://myanimelist.net/news/74922872?_location=rss
 
 The official website for the Ghost: Yoru no Hate original anime movie unveiled additional cast, staff, a second key visual (pictured right), the theme song, and main trailer on Tuesday. The movie is scheduled to open in Japanese theaters on February 11, 2027. The movie was previewed at Sitges Film Festival on October 9 and at Animation Is Film Festival on October 17. Cast Bora: Takeo Ootsuka ([Oshi no Ko]) Ahab: Kazuhiro Yamaji (Shuumatsu no Walk&uuml;re) Structure: Yuuki Shin (Tokyo Revengers)...
-
-### Boku no Suki na Hito ga Suki na Hito Reveals Main Cast, Staff, Teaser Promo, Spring 2027 Premiere
-Sun, 08 Nov 2026 07:20:52 -0800 — https://myanimelist.net/news/74917765?_location=rss
-
-Production company Avex Pictures opened an official website for a television anime adaptation of Sekina Aoi and Ryou Tsuzura s Boku no Suki na Hito ga Suki na Hito (My Crush s Crush) manga on Friday, revealing the main cast, staff, teaser visual (pictured), and teaser promotional video. The anime is scheduled to premiere in April 2027. Cast Sora Akizuki: Gakuto Kajiwara (Black Clover) Asahi Suzukaze: Haruna Mikawa (Ninja to Koroshiya no Futarigurashi) Miya Fuwa: Nene Hieda (Summer Pock...
 
 ## Otaku USA
 
