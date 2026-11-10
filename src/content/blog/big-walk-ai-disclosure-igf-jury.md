@@ -17,7 +17,6 @@ artistView:
   misses:
     - "Policy: a studio that reaches the final stretch without an AI usage policy has handed the decision to whoever is awake at two in the morning fixing a build. House House calls the absence a failure. It is the right word."
     - "Timing: the disclosure arrived after the jury statement rather than in the release notes in August, which turns a few hundred lines of code into a week of headlines."
-draft: true
 ---
 
 Nineteen jurors for the Independent Games Festival signed a statement on Monday
