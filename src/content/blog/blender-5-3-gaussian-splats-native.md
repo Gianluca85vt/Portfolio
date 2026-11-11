@@ -19,7 +19,6 @@ artistView:
   misses:
     - "Colour: the release notes warn that most splat authoring tools work in sRGB while Blender works linear, and that mismatch lands on the artist to diagnose rather than on the importer to fix."
     - "Transforms: Apply Transform does not carry splat scale, rotation and spherical-harmonic attributes, which is the kind of gap that bites once, silently, in a shot that is already approved."
-draft: true
 ---
 
 A `.ply` from a splat trainer now opens in Blender with nothing installed. That
