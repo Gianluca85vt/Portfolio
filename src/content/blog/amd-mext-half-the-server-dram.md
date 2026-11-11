@@ -20,7 +20,6 @@ artistView:
     - "Latency: flash is 500x slower than DRAM, so the whole product rests on the prediction landing. A miss on an interactive workload is a stall somebody watches happen."
     - "Transparency: the Linux driver is closed-source, which is a strange thing to ship in the one layer a farm admin most needs to be able to audit."
     - "Scope: EPYC servers with a MEXT Ready badge and a dedicated NVMe bay. There is no workstation story here at all, and AMD is not pretending there is."
-draft: true
 ---
 
 Sixty to ninety per cent. That, on AMD's own telling, is how much of a
