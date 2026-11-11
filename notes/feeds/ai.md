@@ -1,6 +1,16 @@
-# AI — harvested 2026-11-10T20:36:08.006Z
+# AI — harvested 2026-11-11T12:09:38.850Z
 
 ## OpenAI
+
+### Gilbert + Tobin rethinks the business of law with AI
+Thu, 12 Nov 2026 00:00:00 GMT — https://openai.com/index/gilbert-tobin-sam-nickless
+
+A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.
+
+### ChatGPT Plus for veterans and servicemembers
+Wed, 11 Nov 2026 08:00:00 GMT — https://openai.com/index/chatgpt-plus-for-veterans
+
+More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.
 
 ### Helping caregivers use AI in everyday life
 Tue, 10 Nov 2026 12:00:00 GMT — https://openai.com/index/helping-caregivers-use-ai-in-everyday-life
@@ -17,10 +27,20 @@ Tue, 10 Nov 2026 09:00:00 GMT — https://openai.com/index/closing-ai-guidance-g
 
 New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.
 
+### Singapore Airlines elevates travel & work with OpenAI technology
+Tue, 10 Nov 2026 08:00:00 GMT — https://openai.com/index/singapore-airlines-travel-work
+
+Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.
+
 ### Work at the Frontier: AI’s effect on freelance work
 Tue, 10 Nov 2026 07:00:00 GMT — https://openai.com/index/ai-effect-on-freelance-work
 
 New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.
+
+### Cogent and OpenAI build cyber defense factories for enterprises
+Tue, 10 Nov 2026 00:00:00 GMT — https://openai.com/index/cogent-security
+
+Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.
 
 ### ChatGPT Enterprise now available in AWS Marketplace
 Mon, 09 Nov 2026 19:00:00 GMT — https://openai.com/index/chatgpt-enterprise-aws-marketplace
@@ -32,17 +52,10 @@ Mon, 09 Nov 2026 13:00:00 GMT — https://openai.com/index/control-room
 
 Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.
 
-### CodeRabbit scales agentic software development and ships 20x more
-Mon, 09 Nov 2026 08:00:00 GMT — https://openai.com/index/coderabbit-codex-daybreak
-
-CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.
-
-### Kuken Industries searches 70 years of drawings in minutes
-Mon, 09 Nov 2026 08:00:00 GMT — https://openai.com/index/kuken
-
-Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.
-
 ## Hugging Face
+
+### BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model
+Wed, 11 Nov 2026 05:01:16 GMT — https://huggingface.co/blog/qvac/botpsy
 
 ### Pay for Hugging Face Hub with your Google Cloud Account
 Tue, 10 Nov 2026 00:00:00 GMT — https://huggingface.co/blog/hub-gcp-marketplace

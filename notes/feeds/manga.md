@@ -1,72 +1,92 @@
-# Manga — harvested 2026-11-10T20:36:08.006Z
+# Manga — harvested 2026-11-11T12:09:38.850Z
 
 ## Anime News Network
 
-### HIDIVE to Release Made in Abyss: Awakening Mystery Film in 2027 With N. American Premiere Screening at Anime Frontier on December 5
-Tue, 10 Nov 2026 15:00:35 -0500 — https://www.animenewsnetwork.com/news/2026-11-10/hidive-to-release-made-in-abyss-awakening-mystery-film-in-2027-with-n-american-premiere-screening-/.243696
+### Tomoko Ninomiya's Nanatsu-ya: Shinobu and Her Jewelry Box Manga Gets TV Anime in 2027
+Wed, 11 Nov 2026 04:48:56 -0500 — https://www.animenewsnetwork.com/news/2026-11-11/tomoko-ninomiya-nanatsu-ya-shinobu-and-her-jewelry-box-manga-gets-tv-anime-in-2027/.243715
 
-English-subbed trailer streamed for 1st film in new <cite>Made in Abyss</cite> anime film series
+<cite>Nodame Cantabile: Finale</cite> director Chiaki Kon helms anime at J.C.STAFF
 
-### Rock Band FLOW Announce U.S. Dates for New 2027 World Tour
-Tue, 10 Nov 2026 14:00:22 -0500 — https://www.animenewsnetwork.com/news/2026-11-10/rock-band-flow-announce-u.s-dates-for-new-2027-world-tour/.243689
+### Berserk of Gluttony Season 2 Premieres Next April
+Wed, 11 Nov 2026 04:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-11/berserk-of-gluttony-season-2-premieres-next-april/.243681
 
-Band perform in U.S. in February 2027 starting in Boston
+New teaser visual also revealed
 
-### Hell Mode Season 2 Anime Series Review
-Tue, 10 Nov 2026 12:00:00 -0500 — https://www.animenewsnetwork.com/review/hell-mode-season-2-anime-series/.243051
+### ≠ME Idol Momo Sakurai Voice-Acts, Sings in Gacha Girls Corps Anime
+Wed, 11 Nov 2026 03:07:20 -0500 — https://www.animenewsnetwork.com/news/2026-11-11/me-idol-momo-sakurai-voice-acts-sings-in-gacha-girls-corps-anime/.243711
 
-The worst of <i>Hell Mode</i> is very firmly behind us in this season, but being an improvement doesn’t necessarily mean it’s suddenly fun to watch.
+Sakurai voices rabbit Mofutto, sings Mofutto's version of ending song "Mofu-kyun Heart♡"
 
-### Dragon Quest RPG Mobile Game's Trailer Reveals 2027 Launch, Closed Beta Test in December
-Tue, 10 Nov 2026 12:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-10/dragon-quest-rpg-mobile-game-trailer-reveals-2027-launch-closed-beta-test-in-december/.243690
+### S. Carolina Man Arrested for Leaving Daughter Unattended in Overnight Pokémon Card Line
+Tue, 10 Nov 2026 23:59:00 -0500 — https://www.animenewsnetwork.com/interest/2026-11-10/s-carolina-man-arrested-for-leaving-daughter-unattended-in-overnight-pokemon-card-line/.243669
 
-<cite>Dragon Quest RPG: The Cursed Tree and the Chosen Isle</cite> game features turn-based battles, dungeons
+The Charleston Police Department arrested a South Carolina man outside of the West Ashley Target store on Friday for leaving his six-year-old daughter...
 
-### Crunchyroll Streams Suikoden Anime
-Tue, 10 Nov 2026 11:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-10/crunchyroll-streams-suikoden-anime/.243688
+### Aoharu Once More Light Anime's Teaser Reveals Cast, More Staff, January 2027 Debut
+Tue, 10 Nov 2026 23:06:22 -0500 — https://www.animenewsnetwork.com/news/2026-11-10/aoharu-once-more-light-anime-teaser-reveals-cast-more-staff-january-2027-debut/.243708
 
-1st 6 episodes are now streaming with new episodes premiering on Tuesdays
+Tasuku Kaito, Kazuki Ura star in BL story
 
-### Psyren ‒ Episode 5
-Tue, 10 Nov 2026 10:30:00 -0500 — https://www.animenewsnetwork.com/review/psyren/episode-5/.243687
+### Kodansha Launches 1999Tokoyo Building Horror Game on Steam
+Tue, 10 Nov 2026 22:00:42 -0500 — https://www.animenewsnetwork.com/news/2026-11-10/kodansha-launches-1999tokoyo-building-horror-game-on-steam/.243702
 
-I wish I could still muster some lingering enthusiasm for seeing how the rest of this adaptation pans out, but right now, all I can feel towards it is apathy.
+Visual novel/adventure game launched on Monday for PC
 
-### Exploring the MAPPA EXPO 15th Anniversary Exhibition
-Tue, 10 Nov 2026 10:00:00 -0500 — https://www.animenewsnetwork.com/feature/2026-11-10/exploring-the-mappa-expo-15th-anniversary-exhibition/.243486
+### Mameshiba Characters Get Oyatsushiba Spinoff Short Net Anime
+Tue, 10 Nov 2026 21:43:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-10/mameshiba-characters-get-oyatsushiba-spinoff-short-net-anime/.243704
 
-Celebrating its 15th anniversary, MAPPA is looking back on its history with the MAPPA EXPO 15th Anniversary exhibition at the Yurakucho Museum in Tokyo.
+Anime about characters inspired by sweet rice cakes debuts on Friday
 
-### This Week in Anime - Kaiju King
-Tue, 10 Nov 2026 10:00:00 -0500 — https://www.animenewsnetwork.com/this-week-in-anime/2026-11-10/.243676
+### Detective Conan Saves Man From Drowning in Car
+Tue, 10 Nov 2026 21:00:00 -0500 — https://www.animenewsnetwork.com/interest/2026-11-10/detective-conan-saves-man-from-drowning-in-car/.243683
 
-Godzilla contains multitudes, and we're not just talking about the people he eats.
+Man: "In the first 20 seconds I was prepared to die, but then this scene popped into my head, and I escaped with my life."
 
-### Magical Girl Raising Project restart ‒ Episode 6
-Tue, 10 Nov 2026 08:30:00 -0500 — https://www.animenewsnetwork.com/review/magical-girl-raising-project-restart/episode-6/.243667
+### Tekken 8 Game Streams Roger Jr. Starter Guide
+Tue, 10 Nov 2026 19:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-10/tekken-8-game-streams-roger-jr-starter-guide/.243701
 
-There is another layer to this death game. It's designed to draw in Snow White.
+Season 3 character launches in early access on November 11
 
-### Kodansha's Comic Tint Digital Magazine to End After 9 Years
-Tue, 10 Nov 2026 08:07:45 -0500 — https://www.animenewsnetwork.com/news/2026-11-10/kodansha-comic-tint-digital-magazine-to-end-after-9-years/.243665
+### The Iceblade Sorcerer Shall Rule the World Author Nana Mikoshiba's Original Novel Gets Manga Adaptation on November 17
+Tue, 10 Nov 2026 18:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-10/the-iceblade-sorcerer-shall-rule-the-world-author-nana-mikoshiba-original-novel-gets-manga-/.243677
 
-Last issue comes out on January 1, manga to move to Ane Friend, Palcy services
+Artist Meguru Kanadome draws manga of Mikoshiba's novel
 
-### DMM Establishes New Animation Studio Gleestone
-Tue, 10 Nov 2026 07:52:45 -0500 — https://www.animenewsnetwork.com/news/2026-11-10/dmm-establishes-new-animation-studio-gleestone/.243682
+### Yu-Gi-Oh! Tag Force GX Game Previews Duels, Partners, Multiplayer, Exploration in New Trailer
+Tue, 10 Nov 2026 17:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-10/yu-gi-oh-tag-force-gx-game-previews-duels-partners-multiplayer-exploration-in-new-trailer/.243697
 
-Naokazu Tsuruta heads company handling works from planning stages to actual animation production
+Updated version of <cite>Yu-Gi-Oh! GX Tag Force 3</cite>, previously unreleased in N. America, launches on February 16
 
-### A Certain Dark Item ‒ Episode 5
-Tue, 10 Nov 2026 07:30:00 -0500 — https://www.animenewsnetwork.com/review/a-certain-dark-item/episode-5/.243666
+### WEBTOON Reports US$9.23 Million in 3rd Quarter of 2026
+Tue, 10 Nov 2026 16:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-10/webtoon-reports-usd9.23-million-in-3rd-quarter-of-2026/.243674
 
-Choubi is a master of disguise. But more than that, she has turned her body into a blank canvas to paint upon.
+Japan, WEBTOON's largest market by revenue, struggled
 
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Mashle Season 3 Reveals First Main Trailer and New Key Visual, January 9 Premiere
+Wed, 11 Nov 2026 11:25:05 GMT — https://animecorner.me/mashle-season-3-reveals-first-main-trailer-and-new-key-visual-january-9-premiere/
+
+Mashle: Magic and Muscles Season 3 TV anime revealed the first main and new key visual, along with a January 9, 2027 premiere date.
+
+### CyberAgent Partners With MAPPA, Acquires Stake in Studio's Parent Company MHD
+Wed, 11 Nov 2026 09:29:07 GMT — https://animecorner.me/cyberagent-partners-with-mappa-acquires-stake-in-studios-parent-company-mhd/
+
+CyberAgent has entered into a business partnership with animation studio MAPPA and acquired a stake in MAPPA’s parent company, MHD.
+
+### Nanatsu-ya: Shinobu and Her Jewelry Box Anime Announced for 2027, Reveals Teaser Visual and Trailer
+Wed, 11 Nov 2026 09:18:26 GMT — https://animecorner.me/nanatsu-ya-shinobu-and-her-jewelry-box-anime-announced-for-2027-reveals-teaser-visual-and-trailer/
+
+The anime adaptation of Tomoko Ninomiya’s Nanatsu-ya: Shinobu and Her Jewelry Box has been officially announced for 2027.
+
+### Berserk of Gluttony Season 2 Reveals Teaser Visual, April 2027 Release Date
+Wed, 11 Nov 2026 09:00:12 GMT — https://animecorner.me/berserk-of-gluttony-season-2-reveals-teaser-visual-april-2027-release-date/
+
+Berserk of Gluttony Season 2 will officially premiere in April 2027, with a new teaser visual revealed for the announcement.
 
 ### Exclusive: Made in Abyss: Awakening Mystery Heads to HIDIVE in 2027, North American Premiere Set for December 5
 Tue, 10 Nov 2026 18:59:53 GMT — https://animecorner.me/exclusive-made-in-abyss-awakening-mystery-heads-to-hidive-in-2027-north-american-premiere-set-for-december-5/
@@ -93,12 +113,12 @@ Mon, 09 Nov 2026 15:40:03 GMT — https://animecorner.me/the-sixth-lie-at-japan-
 
 THE SIXTH LIE, the band behind Golden Kamuy's ending theme "Hibana," took the stage&hellip;
 
-### My Crush’s Crush Anime Reveals Teaser Visual, Trailer, Staff, Cast, April 2027 Premiere
-Mon, 09 Nov 2026 00:38:07 GMT — https://animecorner.me/my-crushs-crush-anime-reveals-teaser-visual-trailer-staff-cast-april-2027-premiere/
-
-The previously announced My Crush’s Crush anime revealed a teaser visual and a trailer on&hellip;
-
 ## MyAnimeList News
+
+### Manga Nanatsuya: Shinobu no Housekibako Gets TV Anime in 2027
+Wed, 11 Nov 2026 01:24:46 -0800 — https://myanimelist.net/news/74927894?_location=rss
+
+Production company Pony Canyon opened an official website for a television anime adaptation of Tomoko Ninomiya s Nanatsuya: Shinobu no Housekibako (Nanatsu-ya: Shinobou and Her Jewelry Box) on Wednesday, revealing the main staff, teaser visual (pictured), and teaser promotional video. The anime will premiere in 2027. Staff Director: Chiaki Kon (Golden Time, Niehime to Kemono no Ou) Series Composition: Seishi Minakami (Sugar Apple Fairy Tale) Character Design: Mai Furuki (Mewkledreamy) Studi...
 
 ### Light Novel Hyouken no Majutsushi ga Sekai wo Suberu Concludes with 10th Volume
 Tue, 10 Nov 2026 04:45:55 -0800 — https://myanimelist.net/news/74924616?_location=rss
@@ -121,18 +141,13 @@ _Nothing in the last 48 hours._
 
 ## Anime UK News
 
+### MCM London Comic Con: Bustling and Booming Better Than Ever
+Wed, 11 Nov 2026 10:00:24 +0000 — https://animeuknews.net/2026/11/mcm-london-comic-con-bustling-and-booming-better-than-ever/
+
+Sam L Barker writes about the continued dynamism and fun of MCM London Comic Con 20 years after first attending.
+
 ### Phantom of the Idol Volume 9 Review
 Tue, 10 Nov 2026 10:00:51 +0000 — https://animeuknews.net/2026/11/phantom-of-the-idol-volume-9-review/
 
 When the ‘Asahi Mogami Tribute Album’ is announced, phantom idol Asahi finds herself overwhelmed by conflicting emotions. But nothing has prepared her – or Niyodo, her host – for what happens at the album launch concert!
-
-### Celebrate Diverse Award-Winning Anime with ChaO – Only in Cinemas Friday 4 December
-Mon, 09 Nov 2026 11:30:11 +0000 — https://animeuknews.net/2026/11/celebrate-diverse-award-winning-anime-with-chao-only-in-cinemas-friday-4-december/
-
-STUDIO 4°C’s unconventional romantic comedy comes to UK cinemas on December 4th!
-
-### Cat + Crazy Volume 3 Review
-Mon, 09 Nov 2026 10:00:30 +0000 — https://animeuknews.net/2026/11/cat-crazy-volume-3-review/
-
-It's time for a new school semester and Kensuke is starting a cat club! But before the group can be officially formed, he's going to have to find another student besides Yamada to join him...
 

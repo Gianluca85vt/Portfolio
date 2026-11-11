@@ -1,6 +1,26 @@
-# Games — harvested 2026-11-10T20:36:08.006Z
+# Games — harvested 2026-11-11T12:09:38.850Z
 
 ## Eurogamer
+
+### Monster Hunter Wilds' upcoming Ascendance expansion may be getting a beta, some curious Steam backend updates suggest
+Wed, 11 Nov 2026 11:16:50 +0000 — https://www.eurogamer.net/monster-hunter-wilds-ascendance-beta-steam-backend
+
+Monster Hunter Wilds 's first expansion, Ascendance, is set for release sometime next year . But, judging by some very suspect recent changes to the Wilds beta app on Steam, we may be playing some of the new stuff earlier than we thought. Read more
+
+### World of Warcraft: Forever's magical opening week reminds us all about the power of the MMO, and the threat it poses to your free time
+Wed, 11 Nov 2026 11:08:30 +0000 — https://www.eurogamer.net/world-of-warcraft-forever-now-playing
+
+World of Warcraft: Forever is a time vampire. Since its release last Wednesday, I have spent 78 hours in Azeroth. Some of that I was AFK, sure. But for many of those hours, I was lost, happily, in the rolling hills and vast planes of Blizzard's MMO - now enhanced, beautified, and given a new social energy that makes the old feel wonderfully new. Read more
+
+### The Legend of Zelda: Ocarina of Time remake sells in huge numbers, becoming the fastest-selling Switch 2 game
+Wed, 11 Nov 2026 09:56:10 +0000 — https://www.eurogamer.net/zelda-ocarina-of-time-switch-2-sales-nintendo
+
+The Legend of Zelda: Ocarina of Time remake has been a huge success for Nintendo, becoming the fastest-selling Switch 2 game ever, shifting more than 5.2 million copies in four days. Read more
+
+### PlayStation's embattled shooter Fairgames has finally been cancelled, a new report says, as live service push withers away
+Wed, 11 Nov 2026 09:29:00 +0000 — https://www.eurogamer.net/fairgames-playstation-heist-shooter-live-service-cancelled-haven
+
+After years of silence, we finally know the fate of PlayStation's embattled live service game Fairgames. The Haven-developed co-op heist shooter has been cancelled, with the silver lining that the studio is not closing down or laying off staff. Read more
 
 ### Here's our second wave of PS Plus games for November 2026 - and Sony's scrapping its barely used PC app
 Tue, 10 Nov 2026 17:10:00 +0000 — https://www.eurogamer.net/ps-plus-games-november-2026-pc-app
@@ -10,7 +30,7 @@ Sony's revealed the second wave of games coming to PlayStation Plus Premium and 
 ### Grand Theft Auto 6 becomes the most pre-ordered game in PlayStation Store history
 Tue, 10 Nov 2026 16:31:30 +0000 — https://www.eurogamer.net/gta-6-most-preordered-game-playstation-store-history
 
-Sony has just announced that Grand Theft Auto 6 has become "the most pre-ordered game in the history of PlayStation Store". Note, it's not the most pre-ordered game in PlayStation history, just on its digital PlayStation Store. Read more
+UPDATE 11TH NOVEMBER: Grand Theft Auto 6 has also become the most pre-ordered game "of all time" on the Xbox Store, Microsoft has announced. And on that platform, again, the advice is to pre-load because of "unprecedented demand" for the game, a post on Xbox Wire said . Read more
 
 ### Rockstar details Grand Theft Auto 6 PS5 Pro enhancements, but it'll still only run at 30FPS
 Tue, 10 Nov 2026 15:01:10 +0000 — https://www.eurogamer.net/gta-6-30-fps-platforms-absolute-limit
@@ -42,27 +62,22 @@ Tue, 10 Nov 2026 12:28:00 +0000 — https://www.eurogamer.net/arc-raiders-17-mil
 
 Arc Raiders , Embark Studios' popular extraction shooter, has exceeded 17m copies sold, according to publisher Nexon. Read more
 
-### World of Warcraft: Forever might live officially on PC, but people are playing it on phones and handhelds already
-Tue, 10 Nov 2026 10:55:40 +0000 — https://www.eurogamer.net/world-of-warcraft-forever-ipad-handheld
-
-If you're a World of Warcraft: Forever player you're almost certainly having your free time drained as you chain yourself to your desktop PC to play the game, or maybe a laptop. But for a small selection of true enthusiasts, the game is already working on mobile and handheld devices. Read more
-
-### Under pressure, Big Walk studio reveals it used generative AI "sparingly" while making its hit 2026 game
-Tue, 10 Nov 2026 10:51:40 +0000 — https://www.eurogamer.net/house-house-big-walk-generative-ai-development
-
-Australian developer House House has revealed it used generative AI "sparingly" to help make celebrated, indie, multiplayer puzzle game Big Walk. Read more
-
-### Switch 2 US sales soar again thanks to The Legend of Zelda effect, as it enjoys its best week of the year so far
-Tue, 10 Nov 2026 09:25:20 +0000 — https://www.eurogamer.net/the-legend-of-zelda-ocarina-of-time-switch-2-best-week-sales
-
-Could a remade Legend of Zelda: Ocarina of Time be exciting enough to revitalise Switch 2 hardware sales? That was the big question. And early sales figures suggest the answer is yes, it can. Read more
-
-### Switch 2 and Switch consoles updated to version 23.5.0 as Nintendo quietly re-introduces eShop gifting
-Tue, 10 Nov 2026 09:22:50 +0000 — https://www.eurogamer.net/switch-2-and-switch-consoles-updated-to-version-2350-as-nintendo-quietly-re-introduces-eshop-gifting
-
-Nintendo has just pushed out a new update to all Switch and Switch 2 consoles, bringing the firmware on both up to version 23.5.0. The headline change with the new update is support and compatibility for an upcoming update that will allow members of a Nintendo Account family group to gift games to one another. Read more
-
 ## GamesIndustry.biz
+
+### What the Digital Fairness Act means for the games industry
+Wed, 11 Nov 2026 11:29:10 +0000 — https://www.gamesindustry.biz/what-the-digital-fairness-act-means-for-the-games-industry
+
+After it was leaked earlier this week, the European Commission has formally presented its draft for the Digital Fairness Act today. If adopted, the Act will have a massive impact on the games sector, particularly where virtual currencies are involved. Read more
+
+### PlayStation cancels live-service shooter Fairgames
+Wed, 11 Nov 2026 10:40:00 +0000 — https://www.gamesindustry.biz/playstation-cancels-live-service-shooter-fairgames
+
+PlayStation has cancelled Fairgames, the live-service shooter previously in development at its Montreal-based subsidiary Haven Studios. Read more
+
+### Mobile publisher Fortis Games shuts down, up to 440 workers affected
+Wed, 11 Nov 2026 09:10:30 +0000 — https://www.gamesindustry.biz/mobile-publisher-fortis-games-shuts-down-up-to-440-workers-affected
+
+Mobile publisher Fortis Games has announced its closure, impacting up to 440 employees. Read more
 
 ### Krafton Q3 revenue rises 11.6% despite decreases in PC and console segments
 Tue, 10 Nov 2026 14:27:40 +0000 — https://www.gamesindustry.biz/krafton-q3-revenue-rises-116-despite-decreases-in-pc-and-console-segments
@@ -109,26 +124,36 @@ Mon, 09 Nov 2026 15:00:00 +0000 — https://www.gamesindustry.biz/will-grand-the
 
 Back in September 2025, the launch of Hollow Knight: Silksong crashed the digital storefronts of Nintendo, PlayStation, Xbox, and Steam, as players who had waited over eight years for a follow-up to 2017's Hollow Knight rushed to download the highly anticipated sequel. Read more
 
-### Thanks to GTA 6, millions of people are about to discover what a manatee is | Opinion
-Mon, 09 Nov 2026 12:27:00 +0000 — https://www.gamesindustry.biz/thanks-to-gta-6-millions-of-people-are-about-to-discover-what-a-manatee-is-opinion
-
-Alex Avard is a project manager at Playing for the Planet, working with the alliance's 54 members across decarbonisation, storytelling, and more to facilitate collaborations on projects such as its Carbon Calculator , Sustainable Games Events Guide , and recent report on climate storytelling, Beyond the Endgame . Read more
-
-### Star Wars Zero Company developer Bit Reactor has laid off an unspecified number of people
-Mon, 09 Nov 2026 11:29:50 +0000 — https://www.gamesindustry.biz/star-wars-zero-company-developer-bit-reactor-has-laid-off-an-unspecified-number-of-people
-
-Bit Reactor furloughed " many of its workers " ahead of the release of the turn-based tactics game Star Wars Zero Company in August, before starting the process of returning furloughed staff to work in October . Now, it has emerged that an unspecified number of workers at the developer have been laid off. Read more
-
-### German Games Industry Association warns the EU KIDS Act could undermine existing age-rating systems for video games
-Mon, 09 Nov 2026 09:43:50 +0000 — https://www.gamesindustry.biz/german-games-industry-association-warns-the-eu-kids-act-could-undermine-existing-age-rating-systems-for-video-games
-
-Game, the German Games Industry Association, has warned that the EU KIDS Act &ndash; which was unveiled in draft form in September and which is likely to have sweeping repercussions for game developers &ndash; could override well-established age-rating systems at the national level. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### First November 2026 PS Plus Extra Game Available to Download Now
+Wed, 11 Nov 2026 10:00:00 GMT — https://www.pushsquare.com/news/2026/11/first-november-2026-ps-plus-extra-game-available-to-download-now
+
+For all UK and USA members. One of the very few benefits to Sony's new experiment of delaying the release of PS Plus Extra games in select regions is that you do get one new game the day after the reveal. Rather than having to wait until next week, Hell Let Loose is already available for UK and USA members. Those in Japan will get access tomorrow, 12th November, and then the rest of the world can play starting Tuesday, 17th November. Read the full article on pushsquare.com
+
+### PS5 Has Officially Crossed 100 Million Sales, Sony Confirms
+Wed, 11 Nov 2026 09:30:00 GMT — https://www.pushsquare.com/news/2026/11/ps5-has-officially-crossed-100-million-sales-sony-confirms
+
+PS5 joins the 100 mil club. The PS5 has now officially surpassed the 100 million sales milestone. This news comes via Sony itself, which has just released newly updated figures for the current-gen console. Read the full article on pushsquare.com
+
+### It Felt Like a PowerPoint Deck of Executive Ideas : Beta Testers Share Thoughts on PS5 s Cancelled Fairgames
+Wed, 11 Nov 2026 01:00:00 GMT — https://www.pushsquare.com/news/2026/11/it-felt-like-a-powerpoint-deck-of-executive-ideas-beta-testers-share-thoughts-on-ps5s-cancelled-fairgames
+
+"It's 100% the right move". Haven’s heist shooter Fairgames – first announced more than three years ago – has been cancelled , rounding out a rough generation for Sony’s live service ambitions. While we saw very little of the game publicly, a trailer for a title named Project Espresso emerged in September, giving us our first proper look at the title in years. Read the full article on pushsquare.com
+
+### Sony s 10 Most Profitable PS5 Games Reported in New Estimates
+Wed, 11 Nov 2026 00:00:00 GMT — https://www.pushsquare.com/news/2026/11/sonys-10-most-profitable-ps5-games-reported-in-new-estimates
+
+It's a strong list. Sony's received a lot of criticism for its first party output this console generation. It's no secret that the company has chased live service trends at the cost of single player experiences — the kind of games that solidified the PS4 as a fan favourite machine. And so it's interesting to see which Sony-published titles have actually made the most money across the last six years or thereabouts. Read the full article on pushsquare.com
+
+### Sony Cancels Fairgames After Years of Work on PS5 Live Service Shooter
+Tue, 10 Nov 2026 21:00:00 GMT — https://www.pushsquare.com/news/2026/11/sony-cancels-fairgames-after-years-of-work-on-ps5-live-service-shooter
+
+Haven Studio becomes a support team. PlayStation has officially cancelled Fairgames , the PS5 and PC live service shooter it had in production at Haven Studio. The news comes from Bloomberg journalist Jason Schreier, though it's been sourced from an internal email distributed to PlayStation employees, and a company spokesperson has commented on the story. Read the full article on pushsquare.com
 
 ### The Outer Worlds 2 PS5 DLC Split into Two Parts, First in December
 Tue, 10 Nov 2026 20:30:00 GMT — https://www.pushsquare.com/news/2026/11/the-outer-worlds-2-ps5-dlc-split-into-two-parts-first-in-december
@@ -165,31 +190,6 @@ Tue, 10 Nov 2026 16:40:00 GMT — https://www.pushsquare.com/news/2026/11/10-ps-
 
 Available from 17th November. Sony has today announced the lineup of PS Plus Extra and PS Plus Premium games for November 2026. For UK, USA, and Japan members, the selection will again be rolled out, but starting from 17th November, here's what's on offer: PS Plus Extra: November 2026 Death Stranding 2: On the Beach (PS5) | Review Like a Dragon: Pirate Yakuza in Hawaii (PS5, PS4) | Review Atomfall (PS5, PS4) | Review Dragon Quest 3 HD-2D Remake (PS5) | Review Trepang2 (PS5) | Review MotoGP 26 (PS5) Hell Let Loose (PS5) Cricket 26 (PS5) PS Plus Premium: November 2026 Soul Reaver 2 (PS2) Freedom Wars Remastered (PS5, PS4) | Review <related ids="130617"> Read the full article on pushsquare.com
 
-### Beloved Co-Op Adventure Big Walk in Hot Water After Failing to Disclose AI Usage
-Tue, 10 Nov 2026 16:00:00 GMT — https://www.pushsquare.com/news/2026/11/beloved-co-op-adventure-big-walk-in-hot-water-after-failing-to-disclose-ai-usage
-
-Walk of shame. Big Walk , one of the most highly-rated games of 2026, has suddenly found itself in a spot of bother, and it's all thanks to those controversial AI tools. This story stems from the Independent Games Festival Awards (IGF); some of the jurors have taken a hard stance against usage of generative AI or LLM technology. Read the full article on pushsquare.com
-
-### Marathon s Fate Hangs in the Balance as Bungie Details Its Game-Saving PvE Update
-Tue, 10 Nov 2026 15:30:00 GMT — https://www.pushsquare.com/news/2026/11/marathons-fate-hangs-in-the-balance-as-bungie-details-its-game-saving-pve-update
-
-Symbiosis still on for December. Bungie has reconfirmed that Marathon's major 'Symbiosis' update will launch on the 8th December. You may recall that it was delayed back in September. Many believe that this patch will be the troubled shooter's make-or-break moment, as Marathon's player numbers remain concerningly low. Read the full article on pushsquare.com
-
-### Unknown 9 Dev Being Shut Down Two Years After Disaster PS5 Launch
-Tue, 10 Nov 2026 15:00:00 GMT — https://www.pushsquare.com/news/2026/11/unknown-9-dev-being-shut-down-two-years-after-disaster-ps5-launch
-
-Bandai Namco confirms. Do you remember Unknown 9: Awakening ? Published by Bandai Namco, the story-driven stealth-action title had a fairly hard marketing push ahead of its release back in October 2024 — but it was labelled a "failure" just months after its launch. It was a commercial disaster, selling way below expectations, and developer Reflector Entertainment was subsequently hit with layoffs, before revealing that it would be put to work on an existing Bandai Namco property. Read the full article on pushsquare.com
-
-### GTA 6 PS5 Pro Features Revealed, 30fps Target on Both Consoles
-Tue, 10 Nov 2026 14:15:00 GMT — https://www.pushsquare.com/news/2026/11/gta-6-ps5-pro-features-revealed-30fps-target-on-both-consoles
-
-Improved clarity and ray traced shadows on PS5 Pro. Rockstar Games has today revealed what sort of benefits playing GTA 6 on a PS5 Pro will provide. No matter whether you play on a base PS5 or a PS5 Pro, though, the game will target 30 frames-per-second, a new post on the developer's website confirms: Read the full article on pushsquare.com
-
-### This Might Be the Best Game You Didn t Know Was Out on PS5
-Tue, 10 Nov 2026 14:00:00 GMT — https://www.pushsquare.com/news/2026/11/this-might-be-the-best-game-you-didnt-know-was-out-on-ps5
-
-Special delivery. How the hell am I only learning about Tanuki: Pon's Summer now? It's out today on PS5 for $19.99 / £15.99 / €19.99. Somehow, this is a game that we've never covered — despite the fact that it looks bloody brilliant. Read the full article on pushsquare.com
-
 ## Game Developer
 
 ### Take-Two CEO: Grand Theft Auto VI pre-orders are exceeding expectations
@@ -209,6 +209,46 @@ The highly-anticipated launch from Blizzard has been a bright spot in the Xbox p
 
 ## VGC
 
+### We see it as an opportunity : Indie studios releasing games this month explain how it feels to go up against GTA 6
+Wed, 11 Nov 2026 12:05:47 +0000 — https://www.videogameschronicle.com/news/we-see-it-as-an-opportunity-indie-studios-releasing-games-this-month-explain-how-it-feels-to-go-up-against-gta-6/
+
+A number of studios are still releasing games in November regardless of Rockstar's title… Source
+
+### Zelda OOT Remake: All Great Fairy Fountain locations
+Wed, 11 Nov 2026 11:50:41 +0000 — https://www.videogameschronicle.com/guide/zelda-ocarina-of-time-great-fairy-fountain-locations/
+
+How to find every Great Fairy Fountain and the rewards you'll get in Zelda: OOT and the Switch 2 remake… Source
+
+### PlayStation 5 officially clears 100 million consoles shipped
+Wed, 11 Nov 2026 11:22:19 +0000 — https://www.videogameschronicle.com/news/playstation-5-officially-clears-100-million-consoles-shipped/
+
+PS5 reached the 100m milestone a few months slower than PS4… Source
+
+### Nintendo s battle against piracy continues with a DMCA takedown on Switch mod chip firmware
+Wed, 11 Nov 2026 10:44:57 +0000 — https://www.videogameschronicle.com/news/nintendos-battle-against-piracy-continues-with-a-dmca-takedown-on-switch-mod-chip-firmware/
+
+GitHub has shut down 144 repositories hosting firmware for Picofly and other chips… Source
+
+### Zelda OOT Remake: Get the Silver and Golden Gauntlets guide
+Wed, 11 Nov 2026 10:39:32 +0000 — https://www.videogameschronicle.com/guide/zelda-oot-remake-silver-golden-gauntlets-guide/
+
+How to make Adult Link lift heavy blocks in The Legend of Zelda: Ocarina of Time remake… Source
+
+### The Legend of Zelda: Ocarina of Time remake sold 5.2 million in its first four days, Nintendo says
+Wed, 11 Nov 2026 09:31:41 +0000 — https://www.videogameschronicle.com/news/the-legend-of-zelda-ocarina-of-time-remake-sold-5-2-million-in-its-first-four-days-nintendo-says/
+
+It's outsold titles like A Link Between Worlds and Echoes of Wisdom in less than a week… Source
+
+### Baldur’s Gate 3 approves new wave of console mods
+Tue, 10 Nov 2026 22:04:59 +0000 — https://www.videogameschronicle.com/news/baldurs-gate-3-approves-new-wave-of-console-mods/
+
+Baldur's Gate 3 players on Xbox and PlayStation now have 14 new mods to try out… Source
+
+### PlayStation reportedly cancels Fairgames after recent playtests
+Tue, 10 Nov 2026 20:52:41 +0000 — https://www.videogameschronicle.com/news/playstation-reportedly-cancels-fairgames-after-recent-playtests/
+
+After a long development, it's being reported that Fairgames is no more… Source
+
 ### The Outer Worlds 2 s first story expansion announced
 Tue, 10 Nov 2026 18:47:28 +0000 — https://www.videogameschronicle.com/news/the-outer-worlds-2s-first-story-expansion-announced/
 
@@ -219,99 +259,94 @@ Tue, 10 Nov 2026 18:39:37 +0000 — https://www.videogameschronicle.com/news/ove
 
 Overwatch is committing to 6v6 alongside 5v5… Source
 
-### Marvel Rivals confirms Nightcrawler and Dracula as playable characters
-Tue, 10 Nov 2026 18:37:17 +0000 — https://www.videogameschronicle.com/news/marvel-rivals-confirms-nightcrawler-and-dracula-as-playable-characters/
-
-Marvel Rivals skips Doctor Doom, giving us Dracula instead… Source
-
-### PlayStation announces end of PC streaming in December
-Tue, 10 Nov 2026 17:05:09 +0000 — https://www.videogameschronicle.com/news/playstation-announces-end-of-pc-streaming-in-december/
-
-The PlayStation Plus app for PC is being retired… Source
-
-### New GTA 6 trailer showcases PS5-exclusive DualSense features
-Tue, 10 Nov 2026 16:19:29 +0000 — https://www.videogameschronicle.com/news/new-gta-6-trailer-showcases-ps5-exclusive-dualsense-features/
-
-GTA 6 will use haptic feedback and more on PS5… Source
-
-### Nintendo is hiring someone to document the history of its games
-Tue, 10 Nov 2026 16:18:08 +0000 — https://www.videogameschronicle.com/news/nintendo-is-hiring-someone-to-document-the-history-of-its-games/
-
-Nintendo is creating a 'digital archive' of its games… Source
-
-### BioWare co-founder and Star Wars KOTOR director say they re interested in reuniting to try and save BioWare s IP
-Tue, 10 Nov 2026 14:51:58 +0000 — https://www.videogameschronicle.com/news/bioware-co-founder-and-star-wars-kotor-director-say-theyre-interested-in-reuniting-to-try-and-save-biowares-ip/
-
-Trent Oster says he wants to save Mass Effect and Dragon Age, and James Ohlen says he' Source
-
-### Rockstar confirms GTA 6 targets 30 FPS, with PS5 Pro-exclusive ray-tracing
-Tue, 10 Nov 2026 14:14:57 +0000 — https://www.videogameschronicle.com/news/rockstar-confirms-gta-6-targets-30-fps-with-ps5-pro-exclusive-ray-tracing/
-
-Rockstar also says GTA 6 will play best on PS5… Source
-
-### Skydance Games has been laying off some of its staff, a month after merging with Warner Bros
-Tue, 10 Nov 2026 13:20:06 +0000 — https://www.videogameschronicle.com/news/skydance-games-has-been-laying-off-some-of-its-staff-a-month-after-merging-with-warner-bros/
-
-At least 25 people have been cut from the Paramount Games division… Source
-
-### Big Walk studio says it used AI sparingly in response to indie award jury statement against its use
-Tue, 10 Nov 2026 11:46:56 +0000 — https://www.videogameschronicle.com/news/big-walk-studio-says-it-used-ai-sparingly-in-response-to-indie-award-jury-statement-against-its-use/
-
-House House says it used LLMs for help with coding, but some IGF jurors say that counts… Source
-
 ## Polygon
 
-### How to get the Sinking Lure in Zelda Ocarina of Time
-Tue, 10 Nov 2026 20:23:51 GMT — https://www.polygon.com/zelda-ocarina-of-time-oot-remake-sinking-lure-location/
+### Dragon Quest Creator Says New Game Will Capture the Series' 'Unmistakable Feeling'
+Wed, 11 Nov 2026 12:02:52 GMT — https://www.polygon.com/dragon-quest-rpg-mobile-game-announcement/
 
-The Sinking Lure is an optional item you can find in The Legend of Zelda: Ocarina of Time remake, but the conditions for finding it are a little confusing. The lure itself isn't necessary for beating the game, and you can't even leave the fishing pond with it, so don't fret if this is something you're stuck on.
+The Dragon Quest series has taken players on countless journeys over the past four decades. Next year, fans will be able to embark on a new Dragon Quest adventure using their smartphones with the launch of Dragon Quest RPG The Cursed Tree and The Chosen Isle .
 
-### Big Walk AI Controversy Is a GOTY Awards Twist Sparking a Bigger Debate
-Tue, 10 Nov 2026 19:25:34 GMT — https://www.polygon.com/big-walks-ai-controversy-goty-2026/
+### Rings of Power Episode 4 Ending Explained: What Happens to Galadriel, Celeborn, and Arondir?
+Wed, 11 Nov 2026 12:01:17 GMT — https://www.polygon.com/rings-of-power-season-3-episode-4-ending-explained-arondir-celeborn-theo-sauron/
 
-Big Walk , one of the best-reviewed games of 2026 and by all measures a Game of the Year darling, faces a crossroads on the eve of awards season. Following a recent disclosure of AI use from its developer, Big Walk ’s chances at one awards show seem fraught. And its shot at the big one (December’s Game Awards) might be impacted. But it’s not just a chapter in 2026’s awards show saga. In many ways, it’s a boiling over of a debate that’s been bubbling in the games industry for several years now.
+The Lord of the Rings: The Rings of Power season 3 sees Middle-earth in the midst of full-on war as Sauron (Charlie Vickers) continues his conquest. Yet he still hasn’t figured out how to forge the one weapon he knows will solidify his title as the Dark Lord: the One Ring.
 
-### Nobody Said The Legend of Zelda: Ocarina of Time Was This Funny
-Tue, 10 Nov 2026 19:19:58 GMT — https://www.polygon.com/zelda-ocarina-time-remake-funny-moments/
+### Magic's Best Unofficial Format Is So Big, Burger King Is Running a Tournament
+Wed, 11 Nov 2026 11:22:30 GMT — https://www.polygon.com/magic-burger-king-collaboration-tournament/
 
-Though I’ve never played The Legend of Zelda: Ocarina of Time until now, I’ve heard people sing its praises for years. Mostly, this revolved around its impossibly high score of 99 on Metacritic, its influential open world and combat design, and its memorable dungeons. But none of those ardent fans bothered to tell me that this classic game has some genuinely hilarious moments. Because the game was originally released 28 years ago, a spoiler-free experience is pretty much off the table for me. But the goofs and gags? Those are all 100% fresh.
+If you think that the Universe Beyond crossover with beloved sci-fi franchise Star Trek is the biggest thing currently going on in the Magic: The Gathering world, think again. On Nov. 10, details emerged from Italy about a country-exclusive collaboration between Magic and fast-food chain Burger King. Fans and players worldwide are going wild online about the Burger King-themed sleeves and deck box, but there is more to this unexpected campaign.
 
-### 2027's Most Stylish Action Game Looks Spectacular in First Official Gameplay
-Tue, 10 Nov 2026 19:07:20 GMT — https://www.polygon.com/tsarevna-official-gameplay-trailer-dancer-slasher-game/
+### VisionQuest’s Post-Credits Scene Official Confirms Another Avenger Returning in Doomsday
+Wed, 11 Nov 2026 11:18:36 GMT — https://www.polygon.com/visionquest-post-credits-scene-doomsday/
 
-Tsarevna was announced last year , and immediately grabbed our attention. Billed as the "world's first ballet-inspired" action game on its Steam page , it features motion capture from real-life ballerina Alyona Kovalyova for its hack-and-slash gameplay. In a new gameplay trailer released Tuesday, that ballet action is on full display, making Tsarevna shoot up my list of most anticipated 2027 games.
+VisionQuest completed the story that began in 2020 with WandaVision , bringing things full circle by again using the framing of classic sitcoms as a way to tell a deep story about grief and family. The VisionQuest finale was released on Nov. 10, and viewers will want to keep watching through the credits, which include a pair of scenes with big implications for the future of the Marvel Cinematic Universe .
 
-### Batman Just Officially Saved DC Comics From a Terrible Fate
-Tue, 10 Nov 2026 19:06:46 GMT — https://www.polygon.com/absolute-batman-saves-dc-comics-skydance-shakeup-james-gunn-fired/
+### In One Scene, Prime Video Officially Rewrites Gandalf’s Mission in Lord of the Rings
+Wed, 11 Nov 2026 11:00:18 GMT — https://www.polygon.com/rings-of-power-wizards-secret-flame-explained/
 
-Business mergers always come with shake-ups, and Skydance's recent acquisition of Warner Bros. Discovery was inevitably going to be messy in some way. What was unexpected, however, was this week's announcement that James Gunn and Peter Safran would be stepping down as co-heads of DC Studios . At the same time, Skydance has initiated layoffs in other divisions such as Skydance Games . One area that seems to have escaped the chopping block for now, though, is DC Comics.
+By the end of The Lord of the Rings: The Rings of Power season 2, Gandalf (Daniel Weyman) had chosen his name and wizard staff and found a mentor in the enigmatic Tom Bombadil (Rory Kinnear). Season 3 picks up five years later, and Gandalf has spent that time vexing the Dark Wizard (Ciarán Hinds) and his forces in Rhûn. Gandalf sees the Dark Wizard as a dangerous foe, but their relationship is more complicated. Here’s what you need to know about the two wizards, and how they fit into J.R.R. Tolkien’s complex cosmology.
 
-### How to unlock Fire Arrows in Zelda Ocarina of Time
-Tue, 10 Nov 2026 19:02:49 GMT — https://www.polygon.com/zelda-ocarina-of-time-remake-oot-fire-arrow-how-to-unlock/
+### Zelda: Ocarina of Time Is Already the Second-Best-Selling Switch 2 Game
+Wed, 11 Nov 2026 10:39:11 GMT — https://www.polygon.com/zelda-ocarina-of-time-sales-second-best-selling-switch-2-game/
 
-Unlocking Fire Arrows is a great way to expand Link's arsenal in The Legend of Zelda: Ocarina of Time remake. By hitting targets with these special arrows, Link can set them on fire, which is fairly useful in different scenarios, from fighting certain enemies to lighting totems to open doors. Before you can get your hands on them, you will need to progress through the story and solve a riddle.
+The Legend of Zelda: Ocarina of Time is the fastest-selling Switch 2 game yet. On Wednesday, Nintendo announced that the remake of the 1998 classic sold more than 5.2 million copies worldwide in its first four days on sale — "the highest global sales for any Nintendo-published Nintendo Switch 2 game in its first four days."
 
-### Target's New 'Pokémon' 30th Anniversary Drawing Is A Must-See For TCG Fans
-Tue, 10 Nov 2026 18:23:18 GMT — https://www.polygon.com/target-pokemon-drawing-30th-anniversary-booster-bundle-tcg-how-to-enter/
+### One of Doctor Who's Best Episodes Just Got Removed, and Fans Aren't Happy
+Wed, 11 Nov 2026 09:49:56 GMT — https://www.polygon.com/david-walliams-doctor-who-god-complex/
 
-Pokémon fans were thrilled to hear about Target's new trading card game raffle system , which gives collectors a fairer chance to secure products against retail bots. The retailer initially debuted the drawing system with a small three-pack of an older Pokémon set, Destined Rivals. Now, however, Target has begun raffling out two products fans were hoping for all along: the 30th Anniversary TCG set , and the Ascended Heroes set.
+Following the publication of allegations of sexual misconduct against British actor David Walliams, the BBC has removed several episodes, comedy sketches, and films featuring him, including his appearance in the Doctor Who episode "The God Complex." Unsurprisingly, the move has left fans online seething.
 
-### PlayStation Plus November Games Lineup Officially Announced, Includes Death Stranding 2
-Tue, 10 Nov 2026 18:19:38 GMT — https://www.polygon.com/ps-plus-game-catalog-november-2026-update-death-stranding-2/
+### 5 Years Later, Marvel's Greatest Quote About Grief Just Got Even More Devastating
+Wed, 11 Nov 2026 09:00:17 GMT — https://www.polygon.com/visionquest-wandavision-grief-quote-love/
 
-On Tuesday, Sony Interactive Entertainment revealed the lineup of games joining the PlayStation Plus Game Catalog in November. Death Stranding 2: On the Beach , Like a Dragon: Pirate Yakuza in Hawaii , Dragon Quest 3 HD-2D Remake , and more will be available to play on Sony's subscription service.
+One of the best lines of dialogue in Marvel Studios history almost didn't happen.
 
-### Costco’s New 'Pokémon' 30th Anniversary Bundle Is An Unbelievable Deal
-Tue, 10 Nov 2026 18:18:00 GMT — https://www.polygon.com/costco-pokemon-30th-anniversary-etb-booster-bundle-stock-price-when-locations/
+### Netflix's New "Carrie Meets Mean Girls" Thriller Is a Near-Perfect 8-Episode Binge
+Wed, 11 Nov 2026 08:00:17 GMT — https://www.polygon.com/the-body-review-netflix/
 
-Warehouse retailer Costco is determined to blow its competitors out of the water when it comes to selling Pokémon Trading Card Game products. A couple of months after debuting the best Pokémon deal of 2026 , the members-only retailer is back with another offer that sounds too good to be true. This time, Costco's promotion targets Pokémon collectors hunting for the elusive 30th Anniversary collection .
+You should know if The Body is a show for you from the premise alone. After a botched dance-team initiation, a group of Catholic high school girls inspire a wave of mass hysteria in their small religious town — it may or may not be connected to the devil. Personally, it’s as if someone smushed all of my favorite keywords into one eight-episode Netflix series.
 
-### Doomsday Officially Comes to Marvel Rivals With an X-Men Icon
-Tue, 10 Nov 2026 18:12:27 GMT — https://www.polygon.com/marvel-rivals-new-heroes-nightcrawler-dracula-season-11/
+### Disney's Legendary 218-Episode Sci-Fi Series Is the Perfect Anti-'Lanterns' Binge
+Wed, 11 Nov 2026 06:49:17 GMT — https://www.polygon.com/lanterns-x-files-binge/
 
-As usual with Marvel Rivals , it seems NetEase’s hints about the game's next hero panned out. Nightcrawler is on the way. He's releasing Season 11: Doomsday, which will be out on Nov. 13. The animated trailer revealing this beloved X-Man does a great job of conveying the character’s selflessness as he warps to and fro to save as many innocent bystanders as he can before getting hit by an airplane. Is it a little on the nose when he warps onto a cross as the sun filters in like a Renaissance painting? Yes, but it goes very hard. Nightcrawler’s official announcement comes after NetEase teased his appearance in the Gallery Card hints, and after a leak from well-known Rivals dataminer X0X_LEAK .
+The fate of Lanterns season 2, and the DC Universe in general, has never been murkier. With the sudden ousting of DC Studios' co-CEOs James Gunn and Peter Safran, the status of HBO's hit show series about two mismatched Green Lanterns who get paired together to solve an intergalactic mystery is up in the air like never before. Season 1 was a critical hit that captured the zeitgeist, and Lanterns co-creator Chris Mundy had already assembled a season 2 writers' room. But in a recent interview , Mundy said the odds of the series continuing were likely "50/50.”
 
 ## PC Gamer
+
+### WoW: Forever to add extra gold to high-level quests, since it turns out you don't get extra cash at 60
+Wed, 11 Nov 2026 11:41:45 +0000 — https://www.pcgamer.com/games/world-of-warcraft/wow-forever-to-add-extra-gold-to-high-level-quests-since-it-turns-out-you-dont-get-extra-cash-at-60/
+
+Best MMOs : Most massive Best strategy games : Number crunching Best open world games : Unlimited exploration Best survival games : Live craft love Best horror games : Fight or flight ]]>
+
+### 'We're kind of friendslop': CEO of Jackbox Games sees the link between party games and this new trend but doesn't think it's necessarily 'a negative moniker'
+Wed, 11 Nov 2026 11:22:49 +0000 — https://www.pcgamer.com/games/were-kind-of-friendslop-ceo-of-jackbox-games-sees-the-link-between-party-games-and-this-new-trend-but-doesnt-think-its-necessarily-a-negative-moniker/
+
+What was the first instance of a friendslop game? Was it REPO ? Human: Fall Flat ? Or perhaps it was the first time a group of people tried to guess what someone was saying in what we would now call a game of charades? The name friendslop may be a recent development, but at its core messing around with a group of friends has been one of the oldest ways to socialise. Take Jackbox Games for example. "We're kind of friendslop in a way," CEO of Jackbox Games, Mike Bilder, tells our Ted Litchfield in a recent interview. With senior software engineer Michael Siciliano adding: "We've just been around so much longer than the term that it feels strange to retroactively [claim it]." (Image credit: Jackbox Games Inc.) Now, I don't think Jackbox Games goes as far back as the 16th-century origins of charades, but it has been around for a while after its rebrand in 2013, with games like Fibbage and Lie Swatter being over a decade old. "A lot of our games are just casual with a bunch of friends, and you're drawing ridiculous things trying to make each other laugh, and that's a lot of the impetus of those friendslop games," Bilder adds. "So we don't take issue with it, and I don't think it's necessarily a negative moniker in any way. If anything, it's a bit encouraging. "You see what's happening in AAA, you see what's happening in the industry at large, and then you see this rise of an indie scene, you see the rise of this kind of category of friendslop and people wanting to play together. I
+
+### Steam's age verification in Australia now takes your account's age into consideration
+Wed, 11 Nov 2026 01:34:31 +0000 — https://www.pcgamer.com/software/platforms/steams-age-verification-in-australia-now-takes-your-accounts-age-into-consideration/
+
+In compliance with local laws, Steam rolled out age verification in Australia two months ago. Controversially, it was based on whether you owned a credit card, which many Australians do not. Overnight, Australians stopped being able to see games that are rated R18+ in the Steam store, like Doom, if they didn't have a credit card linked to their account. Just as suddenly, Steam support has now updated how age verification works for Australians. Adding a credit card to your account still works, but additionally: "Steam will automatically consider your account age verified if it is at least nine years old and has had a consistent email address or billing information." If you've moved house in the last nine years and let Steam know about it then your billing information won't have been consistent, so I sure hope you haven't changed both your email and physical address in that time. Valve notes that it is aware this solution still isn't ideal for everyone: "We understand that not all Australians will be able to verify their age using our existing options. We are looking into other ways to comply with Australia's age verification rules while also limiting the data we collect and store from users." Other storefronts provide alternative options like ID scans and face scans via digital age assurer Yoti. The Microsoft Store also takes your email account into consideration, via VerifyMy, the same assurer YouTube uses. Steam sale dates : When's the next event? Epic Store free games : Wha
+
+### One Elder Scrolls fan is reviving and upgrading (with AI) a lost spin-off for the Nokia N-Gage and porting it to PC
+Wed, 11 Nov 2026 00:00:19 +0000 — https://www.pcgamer.com/games/the-elder-scrolls/one-elder-scrolls-fan-is-reviving-and-upgrading-a-lost-spin-off-for-the-nokia-n-gage-and-porting-it-to-pc/
+
+I spend way too much time on wikis reading about spin-off games made for handheld and mobile devices I will probably never play (there was a whole trilogy of Silent Hill: Orphan games that have lived up to their name by being orphaned on old phones). The Elder Scrolls Travels are a prime example—games made in the gap between Morrowind and Oblivion. The third in the series, Shadowkey, came out on Nokia's N-Gage handheld—a cross between a GameBoy Advance and a mobile phone that lasted two years before being discontinued in 2005. This first-person RPG is about to return thanks to Dan Whelan, whose Shadowkey Reforged project will let us play Shadowkey in widescreen with controller support and upscaled graphics. You can choose to play in classic or modern mode, but you can also toggle individual features one by one. Modern mode isn't just a graphical upgrade as it also adds features from the later mainline Elder Scrolls games like stamina-based sprinting, stealth, and ragdoll physics. This is one of those times where I prefer the original game's look, as the brutally abrupt draw distance leaves a lot to your imagination while the modernized version seems to show enemies looming unresponsively in the near distance. And it's not like the upscaled character models actually look good, despite being beyond what Nokia's taco phone was capable of displaying. While Shadowkey was never particularly well-ranked in the pantheon of Elder Scrolls games, people did praise its use of the Morrowi
+
+### Sony cancels another live service game ahead of release, but at least there won't be any layoffs this time
+Tue, 10 Nov 2026 23:15:38 +0000 — https://www.pcgamer.com/gaming-industry/sony-cancels-another-live-service-game-ahead-of-release-but-at-least-there-wont-be-any-layoffs-this-time/
+
+A Bloomberg report says Fairgames, a PvP heist shooter announced by Haven Studios and Sony in 2023 , has been cancelled. In something of a surprising twist, a PlayStation rep told the site there will be no layoffs as a result of the cancellation, as Haven will "shift its focus to collaborating with other development teams across PlayStation Studios, while also exploring new creative opportunities." While it was announced three years ago, work on Fairgames appears to have started even further back, in 2021. Just a couple months after her high-profile split with Google Stadia , Assassin's Creed co-creator Jade Raymond announced the formation of Haven Studios , which was "working on an unannounced new IP for PlayStation." In 2022, right around the time former PlayStation boss Jim Ryan was talking about launching 12 live service games by 2025, Sony acquired the studio outright; a year after that, Fairplay was revealed to the world. But things have not gone smoothly since then. Helldivers 2 was a massive hit, but seven of those planned games were cancelled before release . Of the remaining games, one was Marathon , which endures but has not lived up to expectations, and another was Concord , one of the most famously disastrous game launches in years, which was taken offline less than two weeks after it launched, never to return. A live-service spinoff of the Horizon series, Hunters Gathering, was also reportedly rebooted after negative feedback from playtests . Sony's live service
+
+### Capcom quietly updates the Monster Hunter Wilds beta listing on Steam, indicating a possible expansion playtest
+Tue, 10 Nov 2026 22:22:30 +0000 — https://www.pcgamer.com/games/action/capcom-quietly-updates-the-monster-hunter-wilds-beta-listing-on-steam-indicating-a-possible-expansion-playtest/
+
+Capcom still hasn't announced a release date for Monster Hunter Wilds: Ascendance, the Sunbreak-scale DLC that was revealed in February , but it seems like we might be getting a chance to sample the expansion before too long. A recent Steam listing update has provided a strong reason to suspect that there'll be a public beta for Ascendance available ahead of its launch in 2027. As SteamDB changelogs show, the Steam app entry for Monster Hunter Wilds' 2024 public beta was quietly updated early this morning to change the app's name from "Monster Hunter Wilds Beta test" to "Monster Hunter Wilds: Ascendance Beta test." Similarly, the listing's visual assets were updated to feature key art of a hunter facing an Arateka, one of the new monsters being introduced in the expansion. (Image credit: Steam) And sure enough, while the Wilds beta was removed from player libraries after it ended, it's possible for users who'd previously played it to confirm its listing changes within the Steam app by viewing their own played games from their Steam profile. I just looked. It says Ascendance right there. As the previous Wilds beta consisted of a repackaged demo build, it's likely that an Ascendance beta would follow suit: I'd expect a similar set of hunts to what in-person attendees were able to get hands-on time with at Tokyo Game Show in September, offering a chance to try out the new Boost Bracer weapon mechanics in Master Rank combat. If a beta does materialize, it'll hopefully be a smooth
+
+### Bungie drops gameplay trailer for Marathon's 'co-op PvE roguelite' mode and swanky new social space
+Tue, 10 Nov 2026 21:16:59 +0000 — https://www.pcgamer.com/games/fps/bungie-drops-gameplay-trailer-for-marathons-co-op-pve-roguelite-mode-and-swanky-new-social-space/
+
+Bungie has served up our first proper look at Marathon's big Symbiosis update , which is set to go live on December 8 with a permanent PvE mode, plus an all-new Team Deathmatch mode and a social space called Limbo. Symbiosis represents the start of "the evolution of Marathon," Bungie said, with "a plethora of updates and changes" to the game. First and foremost is the addition of Marathon's PvE mode, now permanent and with a new name, Expedition, that's described in the teaser as a "co-op PvE roguelite." Details beyond that haven't been revealed just yet, but Bungie called it "phase one" of the team's PvE plan, suggesting that it remains a work in progress. Also notable in Symbiosis is the addition of Limbo, a "social space" where players can hang out without getting aired out (although there does appear to be a little area set aside for friendly shootin'), and its firing range, a handy way to test the game's guns without having to venture into its less friendly locales. Speaking of which, the Perimeter map is being expanded with new points of interest and tunnels, and a new sword-wielding runner shell, Bishop, will debut with the update. For those who prefer the PvP life, the update will also kick off a beta for Marathon's Team Deathmatch mode. Overall, Symbiosis looks to be a pretty big deal, and while today's tease is light on detail, the early reaction among players on Reddit and social media seems quite positive. Bishop is already racking up fans: BISHOP has the power of
 
 ### 2 years after Unknown 9: Awakening bombed, Bandai Namco is closing the studio that made it
 Tue, 10 Nov 2026 19:55:36 +0000 — https://www.pcgamer.com/gaming-industry/2-years-after-unknown-9-awakening-bombed-bandai-namco-is-closing-the-studio-that-made-it/
@@ -338,42 +373,27 @@ Tue, 10 Nov 2026 17:15:33 +0000 — https://www.pcgamer.com/games/call-of-duty/n
 
 I'll be the first to admit I've said some incredibly questionable-sounding things while playing videogames. Or talking about them in public. But I would like to think that the one place where I would be extra careful about the words coming out of my mouth are in an airport, or on an airplane. Really, anywhere with an insane amount of security and an ever-pervasive fear of anything explosives-related. Unfortunately, for passengers on board a Frontier Airlines flight earlier this week, however, one such gamer was not so cautious. As reported by CBS News , one plane at California's Ontario International Airport had to be evacuated over a bomb scare, only for it to be some guy playing Call of Duty with his pal. According to reports, one passenger overheard words such as "bomb" and "explosion" and, rightly so, went and told staff about it. The situation led to both the plane and the east wing of Terminal 2 being evacuated, and a check of the aircraft which revealed that no explosives or bombs were on board. After detaining and speaking to the culprit, it was revealed that he was, in fact, on FaceTime with his buddy while playing Call of Duty together. He was released without any charges, and the flight was reboarded and departed later that night. I do feel a little bad for laughing about it—as a nervous flyer, I know for a fact that if I had been that passenger overhearing the conversation I may very well have gone into full-blown panic mode. I don't even like when someone doesn't
 
-### MS has messily patched a Microsoft Paint security vulnerability, but the update still isn’t showing up for some
-Tue, 10 Nov 2026 17:14:03 +0000 — https://www.pcgamer.com/software/windows/ms-has-messily-patched-a-microsoft-paint-security-vulnerability-but-the-update-still-isnt-showing-up-for-some/
-
-I really wasn't expecting Microsoft Paint to turn up in the cybersecurity headlines, but here we are. MS disclosed and patched a security vulnerability within the software on October 13, but it's worth checking your own Paint version to see if you've received the update. Some users don't have automatic Microsoft Store updates enabled, especially those on work machines. As Paint is updated via the store, you may need to manually update to version 11.2609.401.0 to keep your machine secure. To confuse things further, International Cyber Digest reports that the MS store was providing older versions to some users until recently, and Windows Latest didn't seem to receive the new version even with auto updates enabled. Or, there's been some mixup with release numbers. It's genuinely difficult to tell at this point, with differing information coming from multiple sources . The vulnerability was initially given an 8.1 severity rating on the CVSS scale, but Microsoft downgraded it to a 7.0 score on November 9 according to Threat Defence . MS also changed its description of the bug to that of a local exploit (requiring a user to open a crafted file) rather than a network attack vector, . Regardless, to check whether your Paint version is hopefully up-to-date (what a world we live in), open the app, go to the Settings menu, and check the version number beneath the "About Paint" section. If it's lower than version 11.2609.401.0, open the Microsoft Store and manually update the app. Or, if
-
-### Acer Predator Atlas 8 (G3 Extreme) review
-Tue, 10 Nov 2026 17:01:48 +0000 — https://www.pcgamer.com/hardware/handheld-gaming-pcs/acer-predator-atlas-8-g3-extreme-review/
-
-Intel's G3 Extreme is a mighty impressive chip, and easily the headline feature of Acer's Predator Atlas 8. If you're looking to get the best handheld Panther Lake chip right now, Acer has swooped in at pretty much the cheapest price point on the market. And if that's all you want, the Atlas 8 has my blessing. It's a solid device that makes use of the chip and offers compromises in memory and storage capacity (in the American market) to bring that cost down. Not only that, but if you buy one right now, you get a heaping of goodies with it. But if you don't need top-of-the-line specs to have a good time, the Atlas 8 instead becomes just one of many very, very solid, yet very, very expensive handhelds on offer in a time that has become worse and worse thanks to the memory crisis. Buy if… ✅ You want the G3 Extreme but cheaper: The Atlas 8 undercuts both MSI and OneXPlayer in pricing for a G3 Extreme handheld. Don't buy if… ❌ You play fighters or platformers primarily: The D-pad is mushy and lacks distinction, making it unsatisfying and a tad unruly. Features Acer Predator Atlas 8 specs Acer Predator Atlas 8 Processor G3 Extreme Operating System Windows 11 Memory 24 GB LPDDR5x Display 8-inch WUXGA 1920 x 1200 (120 Hz refresh rate and 500 nits peak brightness) Graphics Intel Arc B390 Storage 1 TB Gen 4 SSD (512 GB in America) Thumbsticks TMR Battery / Adapter 80 Wh Dimensions 58 x 299 x 127 mm Weight 869 g Colour Black Price $1,300 (512 GB) / £1,300 The memory capacity is around a
-
-### Educational game dev program cancelled because students were submitting games made entirely with AI
-Tue, 10 Nov 2026 16:59:19 +0000 — https://www.pcgamer.com/software/ai/educational-game-dev-program-cancelled-because-students-were-submitting-games-made-entirely-with-ai/
-
-The Australian STEM Videogame Challenge , a "free national videogame development competition for students," has confirmed that the rise of generative AI means this year's event will be the last. The end of the STEM (Science, Technology, Engineering, and Mathematics) Videogame Challenge was first reported on Reddit last week, when someone claiming to be a judge in the program said they'd received an email informing them that "after 12 wonderful years," the 2026 event would mark its end. Speculation as to the cause of the program's cancellation focused primarily on the presence of AI in entries: Another self-proclaimed judge said the problem wasn't merely the use of AI in itself but that "some students just completely generate their games with AI." "How do you mark that? You can't just give them a zero," the judge wrote. "It's so hard to tell what was or wasn't generated using AI, and especially hard since that's the way the industry is going." That same person also suggested, however, that funding cutbacks could have been an even bigger factor in the decision, saying that "projects like this are the first to get cut" when government budgets get tight. Now the Australian Council for Educational Research has confirmed that the cancellation was in fact due to AI. "After more than a decade inspiring the next generation of young creators, the current 2026 Australian STEM Video Game Challenge will be the competition's final chapter," Cathy Zemaitis, Head of the Student Learning and 
-
-### ‘AMDLSS5’ gets Nvidia’s neural rendering running on AMD graphics cards and claims 64% better performance than other mods
-Tue, 10 Nov 2026 16:53:20 +0000 — https://www.pcgamer.com/hardware/graphics-cards/amdlss5-gets-nvidias-neural-rendering-running-on-amd-graphics-cards-and-claims-64-percent-better-performance-than-other-mods/
-
-DLSS 5 has been out for a while now, love it or hate it , but obviously not for AMD cards. Well, not officially, anyway. We have previously seen and tried mods that get the machine learning-aided neural rendering tech up and running using AMD RX 9000-series silicon, and now it looks like there's a significantly improved one. AMDLSS5 version 2.0 is now out (via Wccftech ), and it's claiming some impressive improvements compared to other DLSS 5 mods. Specifically, compared with "other mods", it's claiming +64% fps in Resident Evil Requiem, and +11% fps compared with the previous version of this one. That's particularly great, if true, because our Dave's testing of DLSS 5 on an AMD Radeon RX 9070 XT using a different mod was, erm, not pretty. We're talking just 9 fps in Cyberpunk 2077, admittedly at 4K res on RT Ultra settings, but that was with FSR 4 on and set to Balanced. It's not all the mod's fault, though, as DLSS 5 itself can be very intensive to run, even on an Nvidia GPU. Our Andy found this out when he tried running it in NBA 2K27 . Frame rates there dropped up to 73% at 4K while using an RTX 5080 , and there were significant drops at lower resolutions, too. According to the mod's creator on Reddit, the following games are currently supported: "Resident Evil Requiem Cyberpunk 2077 The Witcher 3: Wild Hunt (remastered DirectX 12 version only; the DX11 version is not supported) Red Dead Redemption 2 (DirectX 12 + AMD FSR 2 in the game settings) Shadow of the Tomb Raider 
-
-### Alienware AW3226Q OLED gaming monitor review
-Tue, 10 Nov 2026 16:26:09 +0000 — https://www.pcgamer.com/hardware/gaming-monitors/alienware-aw3226q-review/
-
-You know Alienware's 5K2K 39-inch ultrawide OLED gaming monitor beast, the AW3926QW , the one I reviewed the other day? It's an absolute beauty, probably my favourite current PC monitor, save for one niggly flaw. But what if you fancy something similar, but cheaper and in a more conventional 32-inch 4K form factor? Well, give it up for the new Alienware AW3226Q , because it ticks all those boxes. Notably, it sports exactly the same LG Tandem WOLED panel tech as its bigger 39-inch sibling. That includes being the latest RGB-stripe variant of that new LG OLED panel generation that everyone is going bananas for. Well, it's nearly the same. For reasons that aren't entirely clear, this 32-inch 4K panel clocks in at 250 nits full-screen brightness and 1,000 nits peak HDR. The aforementioned 39 incher rocks 300 nits and 1,300 nits figures for the same metrics, respectively. Alienware AW3226Q specs Screen size 32-inch Resolution 3,840 x 2,160 Brightness 250 nits full screen, 1,000 nits peak HDR Response time 0.03 ms Refresh rate 165 Hz @ 4K HDR DisplayHDR True Black 400 Features LG Tandem WOLED RGB-stripe panel, 2x HDMI 2.1, DisplayPort 1.4, USB-A/C hub, 3.5mm audio Price $699 | £649 Buy if... ✅ You're an OLED purist: LG's new RGB-stripe WOLED tech offers beautifully neutral colours. Do not buy if... ❌ You want the brightest possible OLED experience: This version of LG's Tandem WOLED panel technology takes a small brightness hit. As it happens, the numbers for this 32-inch 4K model a
-
-### I fought Queens and Knights, but somehow my hardest opponents in Stack Order, the next great deckbuilder, were 2 birds
-Tue, 10 Nov 2026 16:12:12 +0000 — https://www.pcgamer.com/games/roguelike/i-fought-queens-and-knights-but-somehow-my-hardest-opponents-in-stack-order-the-next-great-deckbuilder-were-2-birds/
-
-What's worse than fighting one human-sized bird with sunglasses? Fighting two human-sized birds with sunglasses. That wasn't a usual problem in my everyday life until I started playing Stack Order's demo , the hand-drawn deckbuilder that's full of duels and fantastic combos. The run began with my masked character locked away in a jail cell, not all that dissimilar to how I start most of my days. However, this time I was promptly freed by a stranger who wanted to help out. After handing me a deck of cards and talking me through how to use it, I was left to go on my merry way. The only problem was that I didn't get very far before a knight called Robert, who was very unhappy to see me out of my cell, butted in. (Image credit: Panflip Studio) I've played my fair share of deckbuilders so it wasn't exactly a steep learning curve. But unlike some other games, Stack Order puts a very strong emphasis on stacking cards. You need to lose the bad habit of just playing one card at a time and instead start stacking cards at the first chance you get. But, crucially, stacking cards doesn't necessarily mean you have to use them, you could get everything ready and then forfeit your go or just use a throwaway attack. Most killing blows in Stack Order come down all at once after you've stacked several cards all with varying multipliers and unleash it all at once. Certain cards, for example, deal extra damage if they come before or after cards, others add damage to specific cards if they're stac
-
-### I feel better than ever waiting for GTA 6 on PC now Rockstar confirms it's targeting 30 fps on PlayStation and Xbox
-Tue, 10 Nov 2026 15:41:26 +0000 — https://www.pcgamer.com/games/grand-theft-auto/i-feel-better-than-ever-waiting-for-gta-6-on-pc-now-rockstar-confirms-its-targeting-30-fps-on-playstation-and-xbox/
-
-Developer of entertainment products and pillar of the global economy Rockstar has announced that Grand Theft Auto 6 , its much-ballyhooed upcoming Bonnie and Clyde simulator, will be targeting 30 frames per second on consoles. Coincidentally, "on consoles" is the only place Rockstar has currently announced the game is releasing, so GTA 6 is a 30-fps-or-bust experience for the foreseeable future. "Grand Theft Auto 6 has been fully developed from the ground up to provide the best possible experience for the current generation of consoles, targeting 30 frames per second while pushing both platforms to their absolute limits to bring the vast and rich world of Leonida to life", say the boys and girls in Edinburgh, while offering a little sweet treat to PlayStation 5 Pro owners in the form of PSSR (PlayStation of Soviet Socialist Republics—no, wait, sorry, PlayStation Spectral Super Resolution) support and ray-traced shadows. Why am I telling you this on PC Gamer dot com? Partially because the traffic gods would beat me with a roll of pennies in a sock if I passed up an opportunity to write about GTA 6, but mostly because I'm very smug, and wish to subject other people to that. Let's be real, the odds that GTA 6 was gonna target 60 fps on the box you have under your TV were always slim to none, but hearing it makes me feel more vindicated in my choice to wait for the game to hit PC than ever. I'm sure Rockstar's tech magi will make it a very nice 30 fps indeed, but my TV has 120 he
-
 ## GameSpot
+
+### GTA 6: What Will Review Scores Be? You Can Win A $500 Gift Card For Getting It Right
+Tue, 10 Nov 2026 20:55:32 +0000 — https://www.gamespot.com/articles/gta-6-what-will-review-scores-be-you-can-win-a-500-gift-card-for-getting-it-right/
+
+Rockstar's long-awaited open-world action game Grand Theft Auto 6 finally releases on November 19, and among the many things people are excited to find out is how the game will score with reviewers. Nintendo's The Legend of Zelda: Ocarina of Time remake is currently the No. 1 most highly rated game of 2026 on GameSpot sister site Metacritic , but could GTA 6 dethrone it? You can make a prediction of your own via GameSpot's parent company, Fandom, and score a chance to win a gift card for up to $500. Make your pick. Now through midnight on November 17, you can submit your prediction for GTA 6's score on Metacritic by dragging the slider on the GTA 6 Metascore Prediction page . Selections are editable up until the contest closes. There are three prizes up for grabs in the form of Visa gift cards. The first-place prize is a $500 gift card, with $250 going to second place, and $150 for third. Winners will be drawn at random from eligible entries whose prediction exactly matches the GTA 6 Metascore on November 25. You can see the full terms and conditions of the contest here . For some context, here's how some of the recent GTA games have fared on Metacritic over the years: GTA 5 (2013) - 97 GTA: Chinatown Wars (2009) - 93 GTA 4 (2008) - 98 GTA: San Andreas (2004) - 95 GTA: Vice City (2002) - 95 GTA 3 (2001) - 97
+
+### Sony Cancels Live-Service PS5 Game Fairgames, But No Layoffs
+Tue, 10 Nov 2026 20:43:00 +0000 — https://www.gamespot.com/articles/sony-cancels-live-service-ps5-game-fairgames-but-no-layoffs/
+
+Sony has canceled the upcoming live-service shooter Fairgame$, but there will be no job cuts connected to the game's closure. This is according to a report from Bloomberg today. The game was in the works at Haven Studios in Montreal, a team founded by former Assassin's Creed veteran Jade Raymond. She left the studio back in 2023 , and Fairgame$ was delayed to 2026 at the time. Now the game is scrapped entirely. According to the report, Haven "reworked" the Fairgame$ concept several times in the past three years. The studio was reportedly planning to re-reveal it with a new name. Going forward, Haven staff will support other PlayStation projects, the report said. You can watch the original CGI reveal trailer for Fairgame$ below. https://www.youtube.com/watch?v=l1Jp4K02L1I Fairgame$ was officially canceled following a playtest that didn't show strong results. “While the test demonstrated strong operational excellence, live ops readiness and community engagement, player feedback and retention results were mixed and fell short of the goals we had set,” PlayStation executives Sean Decker and John Doyle said in a memo seen by Bloomberg. "Combined with challenging market conditions in the PVP shooter genre, we have made the difficult decision to cease development on the game.” Creative director Mathieu Leduc said in a blog post that Haven was founded with the goal of making games that its staffers wanted to play, and that’s why the team chose a competitive multiplayer game. “Fairgam
+
+### GTA 6 Backflips Look Good Now, But There Could Be More To The Story
+Tue, 10 Nov 2026 20:26:18 +0000 — https://www.gamespot.com/articles/gta-6-backflips-look-good-now-but-there-could-be-more-to-the-story/
+
+A new Grand Theft Auto 6 trailer debuted today, November 10, and the video showed off a race car driver doing a backflip. The animation looks smoooth . That's notable because the Extended Look trailer that debuted back in August showed Jason doing a backflip and people online quickly roasted it for looking ... off. Other said it looked totally fine. Whatever the case, some are saying this new backflip animation being featured in the latest trailer is an example of Rockstar taking feedback seriously, but it could be more nuanced than that. That's a nice backflip. That's because it subsequently came to light that the backflip animation in GTA 6 is controlled by the player and isn't locked to one specific animation. However, we don't know who is doing the backflip in this newest clip. If the character in the trailer is an NPC, as people on Reddit are surmising , then the animation could have been motion-captured as opposed to being player-controlled, hence why it looks less janky. In any event, this backflip stuff becoming a "controversy," if you can even call it that, is yet another example of how ramped-up people are for GTA 6. People are so jazzed for the release that they are poring over even the smallest details, which you may never even notice when playing the game for yourself . https://twitter.com/TheCassiniGames/status/2120163720198594774 GTA 6 releases on November 19 for PlayStation 5 and Xbox Series X|S, and preloading is live now. The game unlocks at midnight local t
+
+### Amid Higher Gas And Grocery Prices, GTA 6 Is A Bargain At $80, Take-Two CEO Says
+Tue, 10 Nov 2026 20:14:55 +0000 — https://www.gamespot.com/articles/amid-higher-gas-and-grocery-prices-gta-6-is-a-bargain-at-80-take-two-ceo-says/
+
+It's no secret that life is expensive. Gas and grocery prices are up, in particular, and against that backdrop, Take-Two CEO Strauss Zelnick believes GTA 6 at $80 is a "bargain" due to how many hours people can play it. "I think the consumer is under pressure. these are challenging times. Inflation has hit average consumers. Food prices are up. Gas prices are way up, and it's taking a toll," he told CNBC . "I think we are going to see that as we head into the Christmas season undoubtedly. Entertainment is not immune to such forces." https://www.youtube.com/watch?v=l0xfY9UQ74A What gives Zelnick hope in this environment is that, in his belief, "interactive entertainment is actually a real bargain," and particularly a game like GTA. "There are so many hours of engagement on offer. Even a short video game is 10 hours of engagement on the low end. You can play Grand Theft Auto 5 for hundreds of hours and not get bored. We'll see how people feel about Grand Theft Auto 6, but I believe that you'll be able to engage for an extraordinary long period of time," he said. "So if consumers look at entertainment value as the intersection of how great it is and how long you can engage with it, interactive entertainment is a great bargain. However, when you give people what they want, no matter what the times are, they will show up for it." GTA 6's base edition costs $80, while there is also a $100 Ultimate Edition featuring a variety of additional in-game content. GTA 5, meanwhile, launched
 
 ### Valve Is Giving You More Ways To Know If A Game Runs Well On Steam Deck
 Tue, 10 Nov 2026 19:07:47 +0000 — https://www.gamespot.com/articles/valve-is-giving-you-more-ways-to-know-if-a-game-runs-well-on-steam-deck/
@@ -415,27 +435,32 @@ Tue, 10 Nov 2026 14:37:16 +0000 — https://www.gamespot.com/articles/gta-6-ps5-
 
 Rockstar has finally shared details on what PlayStation 5 Pro owners can expect from Grand Theft Auto 6 on their expensive consoles, but has also confirmed that all platforms will run at the exact same frame rate . PlayStation 5 Pro players can look forward to PSSR support, which will use Sony's well-tuned upscaler to provide a cleaner image compared to that on the base PS5. Additionally, ray-traced shadows will be exclusive to the PS5 Pro version, which might make a noticeable difference across Leonida depending on the time of day. All of this will run at 30 frames per second across all platforms, Rockstar confirmed, with no mention of additional performance modes. Recent datamines suggested that GTA 6 might have numerous performance modes and additional frame rate support, but that doesn't seem to be the case yet. In addition to PS5 Pro support, Rockstar has also announced that GTA 6 will be available on Xbox Cloud Gaming at launch. This means you won't need an Xbox Series X|S or PlayStation 5 to play arguably the biggest game of the year, with the Xbox One also supported via streaming exclusively. Cloud streaming won't be available on PlayStation consoles, but remote play (streaming from a console in your home) is supported on both PS5 and Xbox Series X|S. GTA 6 is available to pre-load now across all release platforms, with some already reporting that GTA 6's story is appearing as a separate download , fuelling speculation that a new online mode isn't that far away. Recen
 
-### Big Walk s AI Usage Was Tiny, But Its Disclosure Has Sparked A Bigger Debate
-Tue, 10 Nov 2026 14:35:13 +0000 — https://www.gamespot.com/articles/big-walks-ai-usage-was-tiny-but-its-disclosure-has-sparked-a-bigger-debate/
-
-Big Walk developer House House has confirmed that it used AI during the "final stretch" of its development. The studio recently updated its FAQs page to confirm its use of the tech, with the news coming after 19 Independent Games Festival jurors announced they'll decline to vote for "any game that uses generative AI in any capacity" during the 2027 awards show. House House hasn't confirmed if its admittance was connected to the IGF--the IGF hasn't named any games either--and the studio said to Aftermath that it estimates "that well under 0.1% of Big Walk’s code" was built with AI. "We have some concern that voluntary disclosures like this might contribute to the normalization of this technology, or its treatment as 'inevitable.' We support the work of those who are trying to limit the harm generative AI is doing to videogames and our world, and apologize that Big Walk’s LLM usage may not meet their standards," House House said. The developer also mentioned that AI was used as a last resort for solving technical issues, as even an engineer at Unity--the engine that Big Walk was developed in--believed that one of their problems wasn't possible to solve. There's a lot to unpack here, starting with why House House didn't disclose the use of AI for Big Walk. The game is hosted on platforms like Steam, where studios can voluntarily disclose AI usage when it comes to generated code (however, it is mandatory to disclose if a game has AI-generated assets), but House House says it only
-
-### Nintendo s New Gift-Giving Feature Comes With Some Very Nintendo Restrictions
-Tue, 10 Nov 2026 14:27:46 +0000 — https://www.gamespot.com/articles/nintendo-new-gift-giving-feature-comes-with-some-very-nintendo-restrictions/
-
-A new update is available for all Nintendo Switch 2 and Switch consoles, and if you're on a Nintendo Account family plan, version 23.5.0 will allow you to once again gift games to members in your group. "Just in time for the holidays, a new feature will let family group members gift digital games to other members of their group," Nintendo wrote in an update . "You will be able to gift digital products that you purchase through Nintendo eShop on your device to family group members. This includes eligible games as well as DLC and upgrade packs." A closer look at Digital Gifting on Switch 2. In typical Nintendo fashion, what should be a straightforward program does have some strange restrictions. The company has noted that not every item is eligible for digital gifting and that the number of digital gifts handed out within a specific period is limited. This isn't the first time that Nintendo has offered a digital gifting program, as way back in the Wii era, owners of the console could visit the Wii Shop and grab some WiiWare or Virtual Console games. From there, users were free to gift them to anyone on their Wii friend list. That service was eventually closed after the Wii Shop Channel was shut down in 2019. To gift someone in your family group a game, you'll need to visit the Nintendo eShop on your Switch console, find the product page, and select the "Give as a Gift" box before you check out. Select the lucky recipient, complete your purchase, and they'll receive a nice littl
-
-### GTA 5 Simply Refuses To Stop Selling, Even With GTA 6 On The Way
-Tue, 10 Nov 2026 14:25:12 +0000 — https://www.gamespot.com/articles/gta-5-simply-refuses-to-stop-selling-even-with-gta-6-on-the-way/
-
-As Grand Theft Auto 6 gets ready to launch, GTA 5 is still selling impressively. The GTA series has sold more than 480 million copies, with GTA 5 making up 235 million of those. Take-Two Interactive, the publisher, recently shared that another 5 million copies of GTA 5 were sold in the past 90 days during its second-quarter fiscal year 2027 update. Business is boomin' for Rockstar Games There are several reasons why GTA 5 keeps selling so well. One big factor is its frequent discounts on digital stores, and bundles with Shark Cards often cost less than buying in-game currency by itself. The game has also launched on three generations of consoles, and GTA Online has attracted a huge audience. Excitement for GTA 6 is probably helping sales too, putting GTA 5 just behind Tetris and Minecraft as one of the best-selling games ever. https://www.youtube.com/watch?v=oxqys4Nm4Cs Rockstar’s other major open-world game, Red Dead Redemption 2, has also reached an impressive milestone. It has sold 89 million copies, putting it just behind GTA 5 and ahead of other big titles like Wii Sports (82.9 million), Mario Kart 8 Deluxe (80.46 million), and PUBG: Battlegrounds (75 million). Whether GTA 6 will surpass these numbers is still unknown, but Take-Two Interactive is optimistic as preorders for the November 19 launch are already higher than expected. Take-Two hasn’t released exact numbers yet, but says preorders have been “unprecedented” across the industry. Preloading is now available , and
-
-### GTA 6 Preorder Numbers Are So Good, Even Take-Two Is Struggling To Believe Them
-Tue, 10 Nov 2026 14:16:15 +0000 — https://www.gamespot.com/articles/gta-6-preorder-numbers-are-so-good-even-take-two-is-struggling-to-believe-them/
-
-Grand Theft Auto 6 looks set to be the best-selling game of 2026, and even publisher Take-Two Interactive is surprised at just how big the demand for it has been ahead of launch. In its second-quarter fiscal year 2027 results, Take-Two was bullish on the sales numbers for the game, but it has only slightly adjusted its forecast for the financial year ending March 31, 2027. "Preorders for Grand Theft Auto 6 are tracking far above our initial expectations, and we know that the numbers will speak for themselves soon enough," Take-Two said . Originally, the publisher had predicted to make $7.9 – $8.1 billion in its current financial year, and it has increased this figure to $7.98 – $8.18 billion. Speaking to GamesIndustry.Biz , Take-Two CEO Strauss Zelnick said the reason for the modest increase was due to GTA 6's launch being so close. https://www.youtube.com/watch?v=oxqys4Nm4Cs "[We cannot] disclose the numbers, but the point that we’re making is our prior expectations obviously were aligned with our guidance, and the preorders are far exceeding our original expectations," Zelnick said. "We’re maintaining our guidance, because the release is only 10 days away and we’ll know a lot more after the release. We’re just not updating our numbers right now because we are so close to the launch. However, preorders are far exceeding our expectations." Back in August, a third-party research company estimated that GTA 6 had already brought in more than $400 million in revenue from 4.38 mil
-
 ## Rock Paper Shotgun
+
+### As The Elder Scrolls 5 turns 15, massive mod Beyond Skyrim: Bruma gets a 2.0 update delivering a new quest, extra dungeons and an "expanded worldspace"
+Wed, 11 Nov 2026 11:00:00 +0000 — https://www.rockpapershotgun.com/as-the-elder-scrolls-5-turns-15-massive-mod-beyond-skyrim-bruma-gets-a-20-update-delivering-a-new-quest-extra-dungeons-and-an-expanded-worldspace
+
+Warning: I'm probably about to make you feel old. Today, November 11th 2026, is the 15th anniversary of Skyrim 's release. The first one, before it was re-released on every other platform under the sun. Fittingly, one of its best expansion mods, Beyond Skyrim: Bruma , has gotten a beefy 2.0 update to commemorate the occasion. Though, its creators insist the main driving force behind the update was more a matter of "technical necessity". There are new quests, dungeons, and corners of Skyrim-era Cyrodiil to explore either way. Read more
+
+### Casualties: Unknown is a total pain simulator that makes other survival games seem like massive cowards
+Wed, 11 Nov 2026 10:28:40 +0000 — https://www.rockpapershotgun.com/casualties-unknown-is-a-total-pain-simulator-that-makes-other-survival-games-seem-like-massive-cowards
+
+Content warning for discussion of extreme violence and self-harm. Read more
+
+### Keeping hold of Company of Heroes was essential for Relic to leave Sega, Relic CEO says – "Without it we would have been a dead studio"
+Wed, 11 Nov 2026 09:30:00 +0000 — https://www.rockpapershotgun.com/keeping-hold-of-company-of-heroes-was-essential-for-relic-to-leave-sega-relic-ceo-says-without-it-we-would-have-been-a-dead-studio
+
+In the nearly 30 years since they opened their doors, Relic have been an enormously influential studio. Responsible for lauded RTS series Homeworld, Dawn of War, and Company of Heroes , they also dabbled in other genres with third-person shooter The Outfit and the original Warhammer 40,000: Space Marine. Yet, despite this history, in 2024, when Relic were negotiating their sale from Sega to UK investment firm Emona Capita , CEO Justin Dowdeswell knew the rights to Company of Heroes had to be part of the deal. "Without it we would have been a dead studio," he tells me. Without naming names Dowdeswell points out that there are "numerous examples" of studios that weren't able to survive on their name alone. Not only did Relic need the ability to make more games in the series that they were known for, but they also needed the income from back catalogue sales a series like Company of Heroes provides. Read more
+
+### Sick BMX flips, colourful characters, a whole lot of mail and a charming raccoon dog await you in Tanuki: Pon's Summer, which you can pick up now
+Tue, 10 Nov 2026 22:49:20 +0000 — https://www.rockpapershotgun.com/sick-bmx-flips-colourful-characters-a-whole-lot-of-mail-and-a-charming-raccoon-dog-await-you-in-tanuki-pons-summer-which-you-can-pick-up-now
+
+Right, today's been miserable thanks to the now hourly discourse we have to all take part in lest we be seen as approving of the current bad thing, how about something that looks simply pleasant? Today's the launch day for Tanuki: Pon's Summer, a delightfully vibrant mail delivery sim /Tony Hawk's Pro Skater but for bikes about restoring a shrine before the end of summer. Read more
+
+### Sony have cancelled Fairgame$, once again reminding us that chasing live service big bucks basically never works
+Tue, 10 Nov 2026 21:28:00 +0000 — https://www.rockpapershotgun.com/sony-have-cancelled-fairgame-once-again-reminding-us-that-chasing-live-service-big-bucks-basically-never-works
+
+You know, I'm sure that Sony had every intention of following through on their intention to release 10 live service games by 2026, as they mentioned way back in 2022 . Well, as far as an intention that's designed to please shareholders can go, anyway. And now here we are, almost five years on from that comment that continues to haunt them with the news Fairgame$ has been cancelled. Read more
 
 ### Ahead of GTA 6 and as concerns over genAI PC ports grow, Take-Two's CEO says they're revving up their "technical defences" and "legal activites" over piracy
 Tue, 10 Nov 2026 19:59:40 +0000 — https://www.rockpapershotgun.com/ahead-of-gta-6-and-as-concerns-over-genai-pc-ports-grow-take-twos-ceo-says-theyre-revving-up-their-technical-defences-and-legal-activites-over-piracy
@@ -471,29 +496,4 @@ In a press release coinciding with Grand Theft Auto VI becoming available for pr
 Tue, 10 Nov 2026 15:04:20 +0000 — https://www.rockpapershotgun.com/a-fight-for-all-workers-sag-aftra-throw-weight-behind-emerging-rockstar-union-ahead-of-its-gta-6-release-week-vote
 
 In what has come to feel like the dawn of the final day before Grand Theft Auto VI 's release, one thing that Rockstar really don't want people to be aware of is the ongoing legal dispute between the Rockstar Games Workers Union and the studio itself following Rockstar's alleged union busting in firing 31 union members last year. Starting on the 12th through to the 26th, recognition of the union will be voted upon by staff to ensure that workers would be given a say over "topics including pay and bonuses, overtime, redundancies, flexible working arrangements, and generative AI policies." If it passes, the vote would also make the union the largest recognised union in the UK games industry, partly thanks to its partnership with the Independent Workers Union of Great Britain. Now, the global labor union SAG-AFTRA have chimed in to endorse the Workers Union, offering solidarity to the members involved and granting important leverage from a global force. Read more
-
-### Tripwire Interactive says it's laying off 36 staff in a "necessary" decision, while reassuring that Killing Floor 3 and Maneater 2 are still in active development
-Tue, 10 Nov 2026 13:01:00 +0000 — https://www.rockpapershotgun.com/tripwire-interactive-says-its-laying-off-36-staff-in-a-necessary-decision-while-reassuring-that-killing-floor-3-and-maneater-2-are-still-in-active-development
-
-In a statement posted yesterday, Killing Floor developers Tripwire Interactive have announced that the studio is laying off 36 "talented" internal staff as part of a "workforce reduction". The job cuts come 16 months after the release of Killing Floor 3 (which James didn't care for ), and within hours of unrelated yet equally dispiriting redunancies at Skydance Games . Read more
-
-### Steam's new Steam Deck framerate graphs are good news for handheld players, though I wouldn't fully trust the numbers yet
-Tue, 10 Nov 2026 12:26:20 +0000 — https://www.rockpapershotgun.com/steams-new-steam-deck-framerate-graphs-are-good-news-for-handheld-players-though-i-wouldnt-fully-trust-the-numbers-yet
-
-Valve have finally made clear what they've been doing with all that hoovered-up performance data and all those "Framerate Estimator" text strings : a framerate estimator for the Steam Deck . Or, rather, a framerate average-r, as games on the Steam Store are now getting attached graphs &ndash; under their existing Steam Deck Compatibility details &ndash; that show how many frames-per-secondseses that game has been recording on real players' handhelds, the OLED and original LCD models both. Read more
-
-### Skydance Games lay off an undisclosed number of staff in the wake of Paramount-Warner Bros. merger, in latest case of consolidation killing livelihoods
-Tue, 10 Nov 2026 11:54:00 +0000 — https://www.rockpapershotgun.com/skydance-games-lay-off-an-undisclosed-number-of-staff-in-the-wake-of-paramount-warner-bros-merger-in-latest-case-of-consolidation-killing-livelihoods
-
-A little over a month following the huge, vile, culture-defining (negative) merger between Paramount and Warner Bros. into Skydance, the corporation has confirmed that games division Skydance Games will be facing a round of layoffs, according to a report from Variety . Read more
-
-### Following site-wide discussion on AI use, Nexus Mods add a "daily limit" to the spots in the new mods tab one person can hog via multiple rapid-fire uploads
-Tue, 10 Nov 2026 11:17:50 +0000 — https://www.rockpapershotgun.com/following-site-wide-discussion-on-ai-use-nexus-mods-add-a-daily-limit-to-the-spots-in-the-new-mods-tab-one-person-can-hog-via-multiple-rapid-fire-uploads
-
-The folks behind Nexus Mods have rolled out a new "daily limit" system which ensures modders who upload multiple works in bulk during a single 24 hour period can't take up more than one spot in the tabs dedicated to showing off new mods for different games. Instead, those who chuck up their mods in bulk will see one of their works given a spot, while the rest are neatly filed away behind it, ready to spring out if you click a bit of text indicating that modder's got other fresh works to show off. Read more
-
-### Big Walk developer House House reveal genAI use in final stretch of development, only revealing it now as "it has become a matter of public interest"
-Tue, 10 Nov 2026 10:19:30 +0000 — https://www.rockpapershotgun.com/big-walk-developer-house-house-reveal-genai-use-in-final-stretch-of-development-only-revealing-it-now-as-it-has-become-a-matter-of-public-interest
-
-Friendslop du jour Big Walk is the latest in an unfortunately long series of games that have been confirmed to use generative AI in their production, with developers House House clarifying their use of it in a statement to Aftermath (thanks!). House House state that "LLMs were used sparingly by House House to help work through difficult technical challenges and bugs", and that "well under 0.1% of Big Walk&rsquo;s code had anything to do with this usage", but are quick to note that "generative AI was not used in any other context when making the game." Read more
 
