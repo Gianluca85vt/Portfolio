@@ -42,7 +42,6 @@ artistView:
   misses:
     - "Level design: reviewers describe the map and the dungeon order surviving intact, so Hyrule Field's emptiness is now a choice rather than a draw-distance budget. Nobody has said whether the lighting was reworked to carry that much open ground on purpose."
     - "Content: Nintendo Life's reservation is the absence of Master Quest, and it is the right one to pick. The mirrored dungeon variant is the only part of the package that would have asked a returning player to re-learn anything."
-draft: true
 ---
 
 Reviews for The Legend of Zelda: Ocarina of Time went up on 4 November 2026,
