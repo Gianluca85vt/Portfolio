@@ -23,7 +23,6 @@ artistView:
   misses:
     - "Compositing: the department that gives the Reze Arc its glow, grain and diffusion has nothing a visitor can stand in front of. That pass is the difference between a flat painted cel and the image people bought a cinema ticket for, and it is the hardest thing in this building to put behind glass."
     - "Process: the only displays explaining how the work was actually made that turn up in the English listings sit in the Final Season area. That may be a gap in the write-ups rather than in the exhibition, and it is the part I would want more of."
-draft: true
 ---
 
 MAPPA turned fifteen this year and put the evidence in a museum. *MAPPA EXPO 15th
