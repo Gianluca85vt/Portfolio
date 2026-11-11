@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="What MAPPA EXPO can hang, and what it can't">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#18011F"/>
+      <stop offset="0.6" stop-color="#4A2A14"/>
+      <stop offset="1" stop-color="#C8891B"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <text x="80" y="150" font-family="Helvetica, Arial, sans-serif" font-size="34" letter-spacing="6" fill="#C8891B" opacity="0.95">MANGA</text>
+  <text x="80" y="310" font-family="Helvetica, Arial, sans-serif" font-size="150" font-weight="700" fill="#FFFFFF">15 years,</text>
+  <text x="80" y="450" font-family="Helvetica, Arial, sans-serif" font-size="150" font-weight="700" fill="#FFFFFF">23 shows</text>
+  <text x="80" y="540" font-family="Helvetica, Arial, sans-serif" font-size="40" fill="#F2E3CE" opacity="0.92">MAPPA EXPO, Yurakucho, to 7 December</text>
+  <text x="80" y="610" font-family="Helvetica, Arial, sans-serif" font-size="40" fill="#F2E3CE" opacity="0.75">The composite does not fit on a wall</text>
+</svg>
