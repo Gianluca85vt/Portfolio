@@ -44,6 +44,11 @@ That last figure is the entire product. Everything else is prediction quality.
 
 ## The five-minute argument
 
+<figure>
+  <img src="/img/blog/amd-mext-half-the-server-dram/shot-02.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>DDR5 server and desktop memory modules, via Wikimedia Commons</figcaption>
+</figure>
+
 Smerdon's justification for why this works at all is a Meta research paper he
 cites, which found that between 50 and 80% of memory pages had gone untouched
 for five minutes, ten minutes, or longer. Even on a server reporting 95%
