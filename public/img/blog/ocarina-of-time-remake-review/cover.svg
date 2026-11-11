@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Ocarina of Time remake review: nine verdicts average 9.5">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#18011F"/>
+      <stop offset="0.62" stop-color="#4A0D2A"/>
+      <stop offset="1" stop-color="#D6294E"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#g)"/>
+  <g fill="#FFFFFF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">
+    <text x="90" y="150" font-size="36" letter-spacing="6" opacity="0.72">OCARINA OF TIME · SWITCH 2</text>
+    <text x="90" y="340" font-size="210" font-weight="700">9.5</text>
+    <text x="90" y="420" font-size="44" font-weight="600" opacity="0.95">from nine verdicts, 9 to 10</text>
+    <text x="90" y="500" font-size="40" opacity="0.8">Every asset new. Almost every</text>
+    <text x="90" y="556" font-size="40" opacity="0.8">design decision still 1998's.</text>
+  </g>
+</svg>
