@@ -233,4 +233,28 @@ export const tracker: TrackedRelease[] = [
       { label: 'Blender Projects', url: 'https://projects.blender.org/blender/blender/issues/153880' },
     ],
   },
+  {
+    tool: 'Blender',
+    maker: 'Blender Foundation',
+    version: '5.3',
+    status: 'stable',
+    date: '2026-11-11',
+    changed: [
+      'Gaussian splats import natively from PLY and SPZ as a tagged PointCloud, and render in Workbench solid mode, EEVEE and Cycles with no add-on.',
+      'Geometry Nodes gains an Import SPZ node and a Set Point Cloud Type node, so a capture can be a procedural input rather than a baked object.',
+      'Cycles gains DLSS 4.5 Ray Reconstruction as a denoiser option alongside OptiX; native dispersion lands in the Principled BSDF; the LoopTools operators are now core C++.',
+    ],
+    watch: [
+      'No splat export in 5.3: neither PLY nor SPZ writes, and there is no built-in splat to mesh conversion, so a capture cannot be handed on as geometry from Blender alone.',
+      'Apply Transform does not handle the splat scale, rotation and spherical harmonics attributes.',
+      'Most splat authoring tools work in sRGB while Blender works linear, and the release notes say the mismatch can cause rendering inaccuracies. Splat viewport performance is still being optimised.',
+      'Per the release coverage, the Vulkan backend becomes the default on Windows and Linux. Blender.org was unreachable from the writing environment, so confirm the exact feature list and the glTF splat import route in the build you download.',
+    ],
+    piece: '/blog/blender-5-3-gaussian-splats-native/',
+    sources: [
+      { label: '80 Level', url: 'https://80.lv/articles/blender-5-3-has-finally-arrived/' },
+      { label: 'Radiance Fields', url: 'https://radiancefields.com/blender-5.3-will-bring-native-3d-gaussian-splat-import-and-rendering' },
+      { label: 'heise online', url: 'https://www.heise.de/en/news/Blender-5-3-imports-and-edits-Gaussian-Splats-11520011.html' },
+    ],
+  },
 ];

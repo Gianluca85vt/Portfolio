@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-label="Blender 5.3 imports Gaussian splats and cannot export them">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0.6" y2="1">
+      <stop offset="0" stop-color="#18011F"/>
+      <stop offset="0.5" stop-color="#2A1133"/>
+      <stop offset="1" stop-color="#E87D0D"/>
+    </linearGradient>
+    <radialGradient id="splat" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#E87D0D" stop-opacity="0.75"/>
+      <stop offset="1" stop-color="#E87D0D" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <g>
+    <ellipse cx="960" cy="180" rx="74" ry="46" fill="url(#splat)" transform="rotate(-18 960 180)"/>
+    <ellipse cx="1046" cy="238" rx="56" ry="34" fill="url(#splat)" transform="rotate(24 1046 238)"/>
+    <ellipse cx="892" cy="258" rx="48" ry="30" fill="url(#splat)" transform="rotate(8 892 258)"/>
+    <ellipse cx="1004" cy="320" rx="38" ry="24" fill="url(#splat)" transform="rotate(-34 1004 320)"/>
+    <ellipse cx="920" cy="112" rx="30" ry="19" fill="url(#splat)" transform="rotate(40 920 112)"/>
+  </g>
+  <text x="90" y="178" font-family="Helvetica, Arial, sans-serif" font-size="34" fill="#E8D8F0" fill-opacity="0.75" letter-spacing="6">BLENDER 5.3 — 11 NOV 2026</text>
+  <text x="90" y="320" font-family="Helvetica, Arial, sans-serif" font-size="118" font-weight="700" fill="#FFFFFF">Splats go in</text>
+  <text x="90" y="432" font-family="Helvetica, Arial, sans-serif" font-size="98" font-weight="700" fill="#E87D0D">Nothing comes out</text>
+  <text x="90" y="536" font-family="Helvetica, Arial, sans-serif" font-size="40" fill="#E8D8F0" fill-opacity="0.9">PLY and SPZ import. Workbench, EEVEE, Cycles.</text>
+  <text x="90" y="600" font-family="Helvetica, Arial, sans-serif" font-size="40" fill="#E8D8F0" fill-opacity="0.65">No export, no mesh conversion, in 5.3</text>
+</svg>
