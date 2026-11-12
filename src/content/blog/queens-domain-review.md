@@ -33,7 +33,6 @@ artistView:
   misses:
     - "Onboarding: the opening hours are where the lowest scores cluster, and a game that teaches navigation by withholding tools has to teach it somewhere."
     - "Readability: a palette this dark leaves no headroom when a corridor needs to be told apart from the one before it, which is the complaint underneath 'I got lost'."
-draft: true
 ---
 
 Queen's Domain came out on 30 October 2026 and the scores have been arriving
