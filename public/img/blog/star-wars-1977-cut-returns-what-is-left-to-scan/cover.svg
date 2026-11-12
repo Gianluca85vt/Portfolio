@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Star Wars 1977 cut returns: what's left to scan">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0.45" y2="1">
+      <stop offset="0" stop-color="#18011F"/>
+      <stop offset="0.62" stop-color="#2E1A52"/>
+      <stop offset="1" stop-color="#5B3FBF"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <g fill="#FFFFFF" opacity="0.10">
+    <rect x="0" y="498" width="1200" height="4"/>
+  </g>
+  <g fill="#FFFFFF" opacity="0.16">
+    <rect x="48" y="528" width="34" height="46" rx="5"/>
+    <rect x="116" y="528" width="34" height="46" rx="5"/>
+    <rect x="184" y="528" width="34" height="46" rx="5"/>
+    <rect x="252" y="528" width="34" height="46" rx="5"/>
+    <rect x="320" y="528" width="34" height="46" rx="5"/>
+    <rect x="388" y="528" width="34" height="46" rx="5"/>
+    <rect x="456" y="528" width="34" height="46" rx="5"/>
+    <rect x="524" y="528" width="34" height="46" rx="5"/>
+    <rect x="592" y="528" width="34" height="46" rx="5"/>
+    <rect x="660" y="528" width="34" height="46" rx="5"/>
+    <rect x="728" y="528" width="34" height="46" rx="5"/>
+    <rect x="796" y="528" width="34" height="46" rx="5"/>
+    <rect x="864" y="528" width="34" height="46" rx="5"/>
+    <rect x="932" y="528" width="34" height="46" rx="5"/>
+    <rect x="1000" y="528" width="34" height="46" rx="5"/>
+    <rect x="1068" y="528" width="34" height="46" rx="5"/>
+  </g>
+  <text x="72" y="152" font-family="Helvetica, Arial, sans-serif" font-size="30" font-weight="700" letter-spacing="7" fill="#C9B8F2">FILM &amp; TV</text>
+  <text x="72" y="296" font-family="Helvetica, Arial, sans-serif" font-size="150" font-weight="800" fill="#FFFFFF">1977</text>
+  <text x="72" y="382" font-family="Helvetica, Arial, sans-serif" font-size="52" font-weight="700" fill="#FFFFFF">cut returns, 19 Feb 2027</text>
+  <text x="72" y="448" font-family="Helvetica, Arial, sans-serif" font-size="38" font-weight="400" fill="#D5C9F5">No word yet on what gets scanned</text>
+</svg>
