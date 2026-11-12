@@ -33,6 +33,11 @@ documentation, why you should not trust the number it had just put on the page.
 
 ## The 75 that never renders
 
+<figure>
+  <img src="/img/blog/steam-deck-fps-store-pages-histogram/shot-02.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>Valve, via the official Steam Deck store page</figcaption>
+</figure>
+
 The example Valve gives is a frame pattern of 90, 90, 45, 90, 90, 45. Average
 that and you get 75 frames a second. The game renders 90 or it renders 45. It
 never once renders 75.
