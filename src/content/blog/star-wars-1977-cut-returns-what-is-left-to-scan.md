@@ -18,7 +18,6 @@ artistView:
   misses:
     - "Integration, 1997 additions: the inserted creatures and vehicles in the Mos Eisley material sit in a different grain field and a different contrast range from the photography around them, and the eye finds the join before it finds the creature."
     - "Lighting, CG Jabba: the key does not match the set, and the contact between the character and the floor is the weakest part of the shot, which is where a composite usually fails first."
-draft: true
 ---
 
 Before anyone argues about whether Han shoots first, there is a duller question that decides what the audience actually sees in February 2027: which piece of film goes into the scanner.
