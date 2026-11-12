@@ -17,7 +17,6 @@ artistView:
   misses:
     - "Atmospherics: heavier fog and smoke buy mood with silhouette contrast, and silhouette contrast is the information an RTS player cannot afford to lose."
     - "Scope: a visual pass this wide, built next to a DLC and a spinoff, is where a newly independent studio discovers the ceiling on what its art team can absorb."
-draft: true
 ---
 
 Somewhere in the patch notes for Company of Heroes 3's 3.0 update, between the
