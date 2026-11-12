@@ -6,6 +6,8 @@ cover: /img/blog/gta-6-extended-look-30fps-question/cover.jpg
 excerpt: Rockstar showed 27 minutes on a base PS5 and confirmed no frame rate. The number everyone is quoting is a deduction, and the reason behind it is the CPU.
 ---
 
+*Update, 12 November 2026: Rockstar has since confirmed the number. As GTA 6 preloads went live on 10 November 2026 the studio detailed the PS5 Pro version and said the console target stays at 30fps on Pro hardware as well as base, per [Eurogamer's report](https://www.eurogamer.net/gta-6-30-fps-platforms-absolute-limit). The CPU argument below is why, and it still stands. Everything flagged unconfirmed at the foot of this piece should be read against that.*
+
 Rockstar put 27 minutes of Grand Theft Auto VI on Netflix at 3pm Eastern, six
 hours before the rest of the internet got it. The game is dated **19 November
 2026**. The footage was, in Rockstar's wording, captured entirely from in-game
