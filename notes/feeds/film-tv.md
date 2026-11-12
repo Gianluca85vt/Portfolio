@@ -1,341 +1,338 @@
-# Film & TV — harvested 2026-11-11T12:09:38.850Z
+# Film & TV — harvested 2026-11-12T13:15:35.352Z
 
 ## Variety
 
-### Adolescence Writer Jack Thorne Adapts Matt Haig’s The Humans for London’s West End With House of the Dragon Star Matt Smith
-Wed, 11 Nov 2026 10:00:00 +0000 — https://variety.com/2026/theater/news/adolescence-writer-the-humans-house-of-the-dragon-matt-smith-1236944987/
+### Thessaloniki Industry Awards: Georgian Road Movie The Crossroad, North Macedonian Drama They Bloom at Dawn Take Top Prizes
+Thu, 12 Nov 2026 13:08:13 +0000 — https://variety.com/2026/film/global/thessaloniki-industry-awards-crossroad-they-bloom-at-dawn-1236946022/
 
-Matt Smith will play an alien inside the body of a Cambridge academic in “The Humans,” a stage adaptation of Matt Haig’s novel by “Adolescence” writer Jack Thorne. The play will have its world premiere in London’s West End next year. Jeremy Herrin (“Wolf Hall,” “People, Places and Things”) will direct the limited run at [ ]
+Georgian filmmaker Mari Gulbiani’s politically charged road movie “The Crossroad” and North Macedonian director Angela Dimeska’s female-centered drama “They Bloom at Dawn” took home the top honors at the Thessaloniki Film Festival’s industry awards Wednesday night. Produced by Kate Kalandarishvili for Georgia s Midifilm, Gulbiani’s fiction debut won the Two Thirty-Five Award, the top prize in [ ]
 
-### Taiwan Creative Content Fest Takeaways: Avatar VFX House Brings Its AI Ambitions to Taipei as Character IP Booms
-Wed, 11 Nov 2026 09:32:48 +0000 — https://variety.com/2026/film/markets-festivals/taiwan-creative-content-fest-takeaways-ai-deals-character-ip-boom-1236945001/
+### Low Lies the Land, From Producer of Oscar-Nominated The Cave, Sells to Several Territories (EXCLUSIVE)
+Thu, 12 Nov 2026 13:00:00 +0000 — https://variety.com/2026/film/global/low-lies-the-land-sales-1236945418/
 
-Taiwan Creative Content Fest (TCCF) wrapped its 2026 edition in Taipei with a reshaped show floor, as animation and character IP companies moved to the front of the market. They made up the largest exhibitor group, at 29 of 107 exhibitors, up from 19 in 2025, according to post-event figures from organizer the Taiwan Creative [ ]
+Dogwoof has secured a raft of international distribution deals for “Low Lies the Land,” directed by Italian filmmaker Emanuele Gerosa (“Between Sisters,” “One More Jump”), ahead of its U.S. premiere at DOC NYC on Nov. 13. Following its world premiere at the Toronto Film Festival, the documentary has been acquired by Madman Entertainment (Australia and [ ]
 
-### NAZA From No Other Land Co-Directors Passes 1.5 Million Cinema Admissions Worldwide
-Wed, 11 Nov 2026 09:05:56 +0000 — https://variety.com/2026/film/news/naza-no-other-land-cinema-admissions-1236944995/
+### Disney Unveils Star Wars’ 50th Anniversary Plans: Lego Sets, Hasbro Collections and Immersive Experiences
+Thu, 12 Nov 2026 13:00:00 +0000 — https://variety.com/2026/shopping/news/star-wars-50th-anniversary-merch-lego-hasbro-1236945834/
 
-“NAZA,” the hot-button documentary about killings in Gaza that won a special jury prize at the recent Venice Film Festival, had tallied more than 1.5 million theatrical admissions across 47 territories as of Nov. 6. That ranks it among the year’s most-watched documentaries on the big screen. The film comes from Israeli filmmakers Yuval Abraham [ ]
+Disney is preparing to turn the 50th anniversary of “Star Wars” into a yearlong celebration, with a slate of new merchandise, immersive experiences and theatrical releases throughout 2027. The anniversary s centerpiece is the return of the original Star Wars” to theaters on Feb. 19, 2027, in a newly restored version of its 1977 theatrical release. [ ]
 
-### Netflix’s Genre-Bending YA Drama ‘The Body’ Is a Queer Y2K Extravaganza: TV Review
-Wed, 11 Nov 2026 08:01:00 +0000 — https://variety.com/2026/tv/reviews/the-body-review-netflix-1236943535/
+### ‘Confession’ Review: Rob Lowe and James Franco Add Some Spark to Václav Marhoul’s Deliberately Paced, Sluggishly Talky Drama
+Thu, 12 Nov 2026 12:33:17 +0000 — https://variety.com/2026/film/news/confession-review-1236945904/
 
-Girlhood is a divine experience, a period when young women begin to discover who they are and who they might become. From “Under the Bridge” creator Quinn Shephard, Netflix’s teen drama “The Body” is a twisted coming-of-age narrative that pays homage to the 2000s, specifically films like “Bring It On,” “Jennifer’s Body” and “Mean Girls.” [ ]
+Although Confessions is based on an original screenplay by Ben Shapiro — the arch-conservative writer whose Daily Wire media company is distributing the film, and whose very name in the credits will prime some critics to expect the worst from the get-go — it plays like an adaptation of a stage play that no one [ ]
 
-### ITV’s Sale to Sky Progressing as Planned as Broadcaster Cuts Fourth-Quarter Content Spend Amid U.K. Ad Slump
-Wed, 11 Nov 2026 07:30:10 +0000 — https://variety.com/2026/tv/news/itv-sky-sale-progressing-cuts-q4-content-spend-1236944980/
+### Claes Bang, Emma Mackey, Vicky Krieps and More Join Marion Cotillard in Marrakech Jury
+Thu, 12 Nov 2026 12:30:00 +0000 — https://variety.com/2026/film/global/claes-bang-vicky-krieps-emma-mackey-marrakech-jury-1236945556/
 
-U.K. broadcaster ITV s CEO Carolyn McCall said the broadcaster’s sale of its Media Entertainment business to Sky is “progressing as planned,” even as weaker advertiser demand forced the U.K. company to cut £25 million ($33.4 million) from its fourth-quarter content spend. The deal, which covers ITV’s channels and its ITVX streamer, would leave the [ ]
+Marrakech Film Festival has revealed the lineup of the jury, which is led by Marion Cotillard, as previously announced. Judging the winners of the Étoile d’Or from among the 14 films in competition will be Danish actor Claes Bang, who gained international recognition for his turn in Ruben Östlund’s The Square, which won the Palme [ ]
 
-### Dua Lipa, Tame Impala and SZA to Headline Coachella 2027
-Wed, 11 Nov 2026 06:26:15 +0000 — https://variety.com/2026/music/news/dua-lipa-tame-impala-sza-to-headline-coachella-2027-1236944962/
+### IDFA Head on How ‘You Can See Everything’ Phenomenon Can Pump New Blood Into Theatrical Doc Releases: ‘What Else Would This Audience See?’
+Thu, 12 Nov 2026 12:02:39 +0000 — https://variety.com/2026/film/global/idfa-head-you-can-see-everything-phenomenon-1236945939/
 
-Dua Lipa, Tame Impala and SZA are set to headline Coachella Valley Music and Arts Festival 2027. News of the lineup comes after SZA teased the headliners on social media. Daddy Yankee has his own special slot, typically reserved as a bonus fourth headliner, as does Justice, who will have the Bunker debut of Blinded [ ]
+It is only fitting that this year’s International Documentary Film Festival Amsterdam kicks off on a Friday the 13th. The date, long associated with ideas of disruption, feels an apt omen for the current moment in documentary filmmaking. This year’s fall festival season was largely dominated by conversations on docs like Lance Oppenheim and Nathan [ ]
 
-### Jamie Dornan Admits He ‘Cried’ When He Was Cast as Aragorn in ‘Lord of the Rings: Hunt for Gollum’ and Says Filming Was ‘Incredible’: ‘Hopefully We ve Done a Good Job’
-Wed, 11 Nov 2026 05:54:14 +0000 — https://variety.com/2026/film/news/hunt-for-gollum-jamie-dornan-aragorn-in-lord-of-the-rings-1236944943/
+### Tom Holland Says Starring in The Odyssey Has Given Him an Ambition to See What Else is Out There For Me
+Thu, 12 Nov 2026 11:38:59 +0000 — https://variety.com/2026/film/global/tom-holland-the-odyssey-ambition-projects-1236945976/
 
-Jamie Dornan, who is set to star as Aragorn in “Lord of the Rings: The Hunt for Gollum,” is getting candid about what it means to step into the role originated by Viggo Mortensen for the forthcoming installment of the beloved franchise. “I cried. I actually cried,” Dornan told Entertainment Tonight when asked how he [ ]
+Tom Holland has starred in two of this year’s biggest-grossing films – “Spider-Man: Brand New Day” and “The Odyssey” – but he says it’s the latter that will impact the next stage of his career. At a screening of Christopher Nolan’s Greek epic in London on Thursday, Holland was asked what he’d taken away from [ ]
 
-### MCU Surprise: ‘VisionQuest’ Finale Teases the Return of [SPOILER] in ‘Avengers: Doomsday’
-Wed, 11 Nov 2026 03:40:57 +0000 — https://variety.com/2026/film/news/visionquest-elizabeth-olsen-avengers-doomsday-scarlet-witch-1235365599/
+### Ghost Soldier Review: Jim Caviezel Is a Superheroic Soldier in an Uninspired, Retrograde Actioner
+Thu, 12 Nov 2026 11:24:37 +0000 — https://variety.com/2026/film/reviews/ghost-soldier-review-jim-caviezel-1236945980/
 
-SPOILER ALERT: This story contains major spoilers for Forever, the finale of VisionQuest, now streaming on Disney+. The WandaVision Saga has come to a close with the final episode of the Disney+ series VisionQuest. But it seems as though the story of the ultra-powerful Scarlet Witch (Elizabeth Olsen), the synthezoid Vision (Paul Bettany) and their [ ]
+If “Walk Hard” was the parody that made it harder to take seriously subsequent music biopics, “MacGruber” did the same for a certain subset of action movies. Directed by William Eubank (“Underwater”), “Ghost Soldier” stacks up one-man-army cliches as early as the opening credits and continues as if no one’s ever told the story of [ ]
 
-### Brandy and Monica Announce The Boy Is Mine 2027 Residency at Las Vegas Resorts World
-Wed, 11 Nov 2026 03:00:00 +0000 — https://variety.com/2026/music/news/brandy-monica-announce-the-boy-is-mine-las-vegas-residency-1236944316/
+### Palme d Or Winner Fjord to Open 26th European Film Festival Malaysia, Astro First to Stream Selected Titles
+Thu, 12 Nov 2026 11:23:19 +0000 — https://variety.com/2026/film/festivals/palme-dor-winner-fjord-european-film-festival-malaysia-1236945991/
 
-Brandy and Monica have announced The Boy Is Mine Vegas Residency, their first-ever series of shows in Las Vegas. The R B icons announced the residency following a performance of their collaborative hit The Boy Is Mine on Dancing With the Stars during its Grammy-themed episode on Tuesday night. The 10-date residency will take place at [ ]
+Cristian Mungiu s Palme d Or winner Fjord will open the 26th European Film Festival Malaysia (EUFF) on Nov. 26 at TGV Pavilion Kuala Lumpur. This year, for the first time, some of the festival s films will also go to home audiences through Malaysian media and entertainment group Astro. The festival runs through Dec. 13 under the [ ]
 
-### Brenda Song Says She Was ‘Overworked’ and ‘Underpaid’ on ‘The Suite Life of Zack and Cody,’ Recalls Fainting on Set: I Thought, Am I Having a Panic Attack?
-Wed, 11 Nov 2026 02:04:19 +0000 — https://variety.com/2026/tv/news/brenda-song-suite-life-of-zack-and-cody-1236944810/
+### Lei Lei s Hybrid Doc Vertigo Garden, About a Botanist s AI-Replicated Memories, Lands at Asian Shadows Ahead of IDFA Bow (EXCLUSIVE)
+Thu, 12 Nov 2026 11:07:25 +0000 — https://variety.com/2026/film/news/lei-lei-hybrid-doc-vertigo-garden-asian-shadows-idfa-1236945987/
 
-Brenda Song recently revealed that she felt she was “overworked” and “underpaid” while starring on “The Suite Life of Zack and Cody.” The “Running Point” actress opened up about her experience working on the Disney Channel sitcom while appearing on her former co-star Dylan Sprouse’s and co-host Brendan Columbus’ “Wildmen” podcast. “I’ve been curious to [ ]
+Boutique sales company Asian Shadows has acquired Vertigo Garden, the new feature from Chinese filmmaker and animation artist Lei Lei, ahead of its world premiere in the Envision Competition at the International Documentary Film Festival Amsterdam (IDFA). This is Lei s second feature. IDFA has also nominated it for the Beeld en Geluid IDFA ReFrame Award, [ ]
 
 ## The Hollywood Reporter
 
-### NAZA Tops 1.5 Million Admissions Worldwide
-Wed, 11 Nov 2026 11:12:36 +0000 — https://www.hollywoodreporter.com/movies/movie-news/israel-gaza-documentary-naza-worldwide-hit-1236752811/
+### Night Vision Is a DIY Film About a Mysterious Video Camera, Told in Dream Logic and With Blair Witch Project Vibes
+Thu, 12 Nov 2026 13:01:00 +0000 — https://www.hollywoodreporter.com/movies/movie-features/night-vision-film-dream-logic-blair-witch-project-tallinn-1236750319/
 
-Yuval Abraham and Rachel Szor's award-winning exposé on Israel's war in Gaza has grossed more than $14 million at the box office to date.
+Christopher Yates discusses his first fiction feature, premiering at Tallinn, bending genres and minds, and exploring nightmares and trauma through a kaleidoscope to bring audiences "a big sack of fun."
 
-### Apart Star Luca Pasqualino and Creator Stelana Kliris Unpack a Love Story Amid War and Apartheid
-Wed, 11 Nov 2026 11:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/apart-film-luca-pasqualino-love-story-war-apartheid-tallinn-1236749961/
+### Sam Levy, Jamie Ramsay Offer Advice to Up-and-Coming Cinematographers: What You Guys Do Lives Forever
+Thu, 12 Nov 2026 13:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/camerimage-cinematographers-sam-levy-jamie-ramsay-1236753757/
 
-The film, starring Leem Lubany and inspired by the experiences of the writer-director's parents who emigrated from Cyprus to South Africa, opens Tallinn's Critics' Picks program.
+At an in-depth conversation at the TorunCamerimage festival, the cinematographers behind 'The Only Living Pickpocket in New York' and 'Being Heumann' discussed their inspirations, and the importance of trusting your gut. "Your greatest weapon as a DP is your intuition."
 
-### David Leitch s How to Rob a Bank : First Reactions
-Wed, 11 Nov 2026 10:15:28 +0000 — https://www.hollywoodreporter.com/movies/movie-news/david-leitch-how-to-rob-a-bank-first-reactions-1236752753/
+### Lashana Lynch, Paapa Essiedu, Russell Tovey Join Jury for BAFTA s Rising Star Award Nominees
+Thu, 12 Nov 2026 12:45:14 +0000 — https://www.hollywoodreporter.com/movies/movie-news/lashana-lynch-paapa-essiedu-russell-tovey-bafta-rising-star-1236753807/
 
-The film, starring Nicholas Hoult, Zoë Kravitz, Anna Sawai, Rhenzy Feliz, Pete Davidson, and John C. Reilly, hits theaters on Nov. 13.
+Robert Aramayo of 'I Swear' claimed last year's Rising Star honor at the BAFTA Film Awards, voted for by the public.
 
-### ‘Bugonia,’ ‘Lord of the Flies’ Among 2026 FilmLight Colour Awards Winners
-Wed, 11 Nov 2026 09:00:39 +0000 — https://www.hollywoodreporter.com/movies/movie-news/2026-colour-award-winners-bugonia-lord-of-the-flies-1236752756/
+### Sacha Gervasi s Darlington Is a Tech Billionaire Film Unlike All the Others
+Thu, 12 Nov 2026 12:30:00 +0000 — https://www.hollywoodreporter.com/movies/movie-features/sacha-gervasi-darlington-zellweger-sessa-film-dinklage-afm-1236749355/
 
-The awards, announced at ToruńCamerimage in Poland, recognize color grading across five categories. Winners will receive a special full-color version of the festival’s Golden Frog trophy.
+With one of the most impressive casts of any AFM project, Gervasi’s Renée Zellweger, Dominic Sessa and Peter Dinklage-starring film is set to take on extortionate wealth in the least political — and most entertaining — way possible.
 
-### The Body Review: Despite Modest Blessings, Netflix s Catholic Schoolgirl Horror-Drama-Satire Leaves Much to Be Desired
-Wed, 11 Nov 2026 08:01:00 +0000 — https://www.hollywoodreporter.com/tv/tv-reviews/the-body-review-netflix-1236751896/
+### Gang Dong-won, Kim Go-eun to Lead Netflix s Period Romance-Action Drama The Twilight Between Us
+Thu, 12 Nov 2026 10:55:26 +0000 — https://www.hollywoodreporter.com/tv/tv-news/gang-dongwon-kim-goeun-netflix-the-twilight-between-us-1236753774/
 
-Created by Quinn Shephard ('Under the Bridge'), the aughts-set series follows a group of teenagers who set off town-wide hysteria after a dance team initiation gone wrong.
+The show comes from director Kim Won-suk and and writer Park Ji-eun.
 
-### ITV Unveils Temporary Content Cost Cuts as Q3 Ad Revenue Drops 8 Percent Amid Weaker Demand
-Wed, 11 Nov 2026 07:15:32 +0000 — https://www.hollywoodreporter.com/business/business-news/itv-q3-trading-update-ad-revenue-weaker-cost-cuts-sky-deal-1236751869/
+### Long-time James Bond Producer Barbara Broccoli Named President of U.K. s National Film and Television School
+Thu, 12 Nov 2026 09:59:43 +0000 — https://www.hollywoodreporter.com/business/business-news/james-bond-barbara-broccoli-president-nfts-national-film-1236753762/
 
-The U.K. TV giant's CEO, Carolyn McCall, says the process behind the $2.13 billion sale of its channels and streaming assets to Comcast's Sky, now being reviewed by regulators, "is progressing as planned."
+"With the opening of [NFTS'] Cubby Broccoli Building taking place in January, this is especially meaningful. My father believed in the power of filmmaking," Broccoli said.
 
-### Dua Lipa, Tame Impala, SZA and Daddy Yankee to Headline 2027 Coachella Festival
-Wed, 11 Nov 2026 06:13:15 +0000 — https://www.hollywoodreporter.com/music/music-news/coachella-festival-2027-headliners-lineup-dua-lipa-sza-1236697345/
+### Gal Gadot Tearfully Warns Against Rising Antisemitism at Simon Wiesenthal Center Gala
+Thu, 12 Nov 2026 09:45:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/gal-gadot-antisemitism-warning-simon-wiesenthal-center-gala-1236753712/
 
-The music festival takes place April 9-11 and April 16-18, 2027.
+At the Beverly Wilshire ceremony, honoree Ynon Kreiz, Skydance's newly appointed co-CEO, tells The Hollywood Reporter he "wholeheartedly" backed the company's response to Mark Ruffalo.
 
-### Potential Pretty Little Liars Reunion? Lucy Hale Says Cast Is “Willing and Would Want to” Reprise Roles
-Wed, 11 Nov 2026 05:05:23 +0000 — https://www.hollywoodreporter.com/tv/tv-news/pretty-little-liars-reunion-lucy-hale-cast-willing-reprise-roles-1236752671/
+### Nicole Kidman to Receive Honorary Cesar Award From French Film Academy
+Thu, 12 Nov 2026 09:30:21 +0000 — https://www.hollywoodreporter.com/movies/movie-news/nicole-kidman-honorary-french-cesar-award-1236753736/
 
-Hale starred alongside Ashley Benson, Troian Bellisario, Shay Mitchell and Sasha Pieterse for seven seasons, from 2010 to 2017.
+The French Academy paid tribute to the 'Moulin Rouge!,' 'Eyes Wide Shut' and 'Practical Magic' actress, saying Kidman "has never allowed her status as a star to dictate her artistic choices."
 
-### You’ve Got Mail Reboot in the Works at Warner Bros.
-Wed, 11 Nov 2026 03:52:30 +0000 — https://www.hollywoodreporter.com/movies/movie-news/youve-got-mail-reboot-warner-bros-1236752627/
+### Russell Brand: Open Secret Documentary Set at Netflix
+Thu, 12 Nov 2026 09:08:16 +0000 — https://www.hollywoodreporter.com/movies/movie-news/russell-brand-open-secret-documentary-netflix-rape-sentence-1236753738/
 
-The film from director Jason Orley will be a new take on the original 1998 rom-com starring Tom Hanks and Meg Ryan.
+From the producers of 'Jimmy Savile: A British Horror Story,' the film promises to examine Brand's journey from superstar to convicted rapist.
 
-### Why Florence Pugh Is Done Tolerating Bullsh** Behavior on Set: Don’t Be Rude
-Wed, 11 Nov 2026 03:05:08 +0000 — https://www.hollywoodreporter.com/movies/movie-news/florence-pugh-slams-rude-misogynist-behavior-film-set-1236752501/
+### Golshifteh Farahani Is a Widow Fighting the Exploitation of Kids as the Taliban Nears Kabul in When She Hears the Bells (Exclusive Clip and Chat)
+Thu, 12 Nov 2026 09:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/golshifteh-farahani-film-when-she-hears-the-bells-clip-poff-1236748852/
 
-The 'East of Eden' actress opens up about how she's become "more confident in the way that I can protect myself" when working in Hollywood.
+Chabname Zariab’s Tallinn-debuting debut feature includes images shot in Afghanistan and shines a light on women and a "taboo" topic in a story that is "a personal responsibility and an act of quiet resistance."
 
 ## Deadline
 
-### How The Married At First Sight UK Scandal Has Impacted Hit Show Around The World
-Wed, 11 Nov 2026 11:37:04 +0000 — https://deadline.com/2026/11/married-at-first-sight-uk-scandal-impact-america-oz-versions-1237220110/
+### Marrakech Unveils 2026 Jury With Claes Bang, Kaouther Ben Hania Vicky Krieps
+Thu, 12 Nov 2026 12:30:20 +0000 — https://deadline.com/2026/11/marrakech-2026-jury-claes-bang-marion-cotillard-1237221495/
 
-EXCLUSIVE: The team behind Married at First Sight (MAFS) Australia is reviewing Channel 4 s report into the show, which has been axed in the UK following rape allegations. Deadline asked some of the teams behind versions of MAFS around the world whether they will take heed of the report. Australian broadcaster Nine and MAFS producer [ ]
+The Marrakech Film Festival has unveiled the eight cinema personalities who will be joining its 2026 jury presided over by previously announced Oscar-winning French actress Marion Cotillard. They are Claes Bang, Vicky Krieps, Emma Mackey, Gilles Lellouche, Kaouther Ben Hania, Andrew Haigh, Ramata-Toulaye Sy and Saïd Hamich Benlarbi. Together they will decide the winner of [ ]
 
-### Lightdox Acquires Sales Rights To IDFA World Premiere ‘The Big Boom!’, Gabriel Tejedor Film With Explosive Contradictions
-Wed, 11 Nov 2026 10:02:36 +0000 — https://deadline.com/2026/11/the-big-boom-lightdox-sales-acquisition-trailer-premiere-1237220099/
+### BBC Boss Matt Brittin Industry Leaders Set To Attend Culture Secretary s Emergency Meeting Next Week Following Brand Walliams Scandals
+Thu, 12 Nov 2026 11:08:27 +0000 — https://deadline.com/2026/11/lisa-nandy-tv-industry-meeting-matt-brittin-brand-walliams-1237221451/
 
-EXCLUSIVE: Lightdox has acquired world sales rights to The Big Boom! ahead of its world premiere in the Frontlight section of International Documentary Festival Amsterdam (IDFA). Swiss filmmaker Gabriel Tejedor directed the feature documentary that explores “the contradictions of a Bulgarian town pulled into Europe’s shifting geopolitical order, where arms production for Ukraine’s front lines [ ]
+EXCLUSIVE: BBC Director General Matt Brittin is one of a number of industry bosses who will attend an emergency meeting convened by the UK Culture Secretary next week in the wake of the Russell Brand, David Walliams and MAFS scandals. Nandy will tell a meeting of leaders that if their response to the recent allegations [ ]
 
-### Jonathan Ross Explains Backstory Behind Tasteless David Walliams Joke
-Wed, 11 Nov 2026 09:39:53 +0000 — https://deadline.com/2026/11/david-walliams-jonathan-ross-statement-comedy-awards-joke-1237220082/
+### Line Of Duty : Arnott, Fleming Hastings Return To Service In First Look At Season 7 Of BBC s Record-Setting Cop Drama
+Thu, 12 Nov 2026 10:50:25 +0000 — https://deadline.com/2026/11/line-of-duty-bbc-season-7-first-look-images-1237221458/
 
-British TV presenter Jonathan Ross has landed himself in some hot water over the past week for his past association with both David Walliams and Russell Brand. The Guardian and ITV News report into allegations against Walliams including from teenagers referenced a joke Ross made at the 2004 British Comedy Awards. The comedy awards is [ ]
+Jesus, Mary, and Joseph and the wee donkey! Martin Compston, Vicky McClure and Adrian Dunbar reprise their roles as Steve Arnott, Kate Fleming and Ted Hastings, respectively in the first look at the much anticipated return of record-setting BBC cop drama Line of Duty, along with a sight of Robert Carlyle s character, Shaun Massie. Season [ ]
 
-### Comedian Lucy Beaumont Fears Being Blacklisted By TV Industry After Blowing Whistle On David Walliams
-Wed, 11 Nov 2026 09:13:25 +0000 — https://deadline.com/2026/11/lucy-beaumont-worries-blacklisted-david-walliams-1237220053/
+### Elijah Wood Says Muscle Memory Kicked In Playing Frodo On The Hunt For Gollum Set
+Thu, 12 Nov 2026 10:09:48 +0000 — https://deadline.com/2026/11/elijah-wood-what-it-was-like-playing-frodo-hunt-for-gollum-1237221444/
 
-Comedian Lucy Beaumont has said she has risked her television career by speaking out about David Walliams because the industry doesn t tolerate troublemakers. In an interview with Sky News (watch below), the Taskmaster star and Hullraisers writer revealed that she was one of the whistleblowers on Walliams, who has been accused of using his fame [ ]
+Elijah Wood told Deadline tonight that playing Frodo again after more than two decades was beautiful and surreal and it felt like no time had passed. Wood reprised the role earlier this year on director Andy Serkis new Middle-earth set tale, The Hunt For Gollum. The actor has spoken in anticipation of returning to the [ ]
 
-### Web Summit Cancels Day Two As Storm Charles Hits Lisbon
-Wed, 11 Nov 2026 09:05:15 +0000 — https://deadline.com/2026/11/web-summit-cancels-day-two-as-storm-charles-hits-lisbon-1237220064/
+### Nicole Kidman To Receive Honorary César In France
+Thu, 12 Nov 2026 09:30:03 +0000 — https://deadline.com/2026/11/nicole-kidman-honorary-cesar-france-1237221446/
 
-Storm Charles has put paid to day two of Web Summit in Lisbon, Portugal. Organizers said it had shut down for the day on government advice and expects to be back up and running for day three on Thursday, November 12. Web Summit is an enormous event, attracting 70,000 attendees including tech leaders and politicians [ ]
+Nicole Kidman will be feted with an Honorary César at the 52nd César Ceremony in Paris in February 2026. She follows in the wake of Jim Carrey (2026) Julia Roberts (2025), Christopher Nolan (2024), David Fincher (2023) Cate Blanchett (2022), Robert Redford (2019) and George Clooney (2017). The Australian actress has worked with a number [ ]
 
-### India’s Yellowstone International Film Festival Announces Documentary And LGBTQIA+ Slates
-Wed, 11 Nov 2026 09:02:50 +0000 — https://deadline.com/2026/11/2026-yellowstone-international-film-festival-documentary-and-lgbtqia-lineup-1237220056/
+### Bridgerton Star Adjoa Andoh Co-Creating Starring In ITV Detective Drama Protect And Serve
+Thu, 12 Nov 2026 09:30:00 +0000 — https://deadline.com/2026/11/adjoa-andoh-starring-itv-drama-protect-and-serve-1237220384/
 
-EXCLUSIVE: The upcoming Yellowstone International Film Festival in Mumbai, India has announced its documentary lineup, highlighted by the Asian premiere of Oscar contender American Doctor. Director Poh Si Teng’s film examines three U.S. physicians who volunteered their medical expertise to treat Palestinian children severely injured in Israel’s sustained attack on Gaza (it screens Thursday at [ ]
+EXCLUSIVE: Bridgerton star Adjoa Andoh is swapping Shonda Rhimes regency wonderland for an ITV detective drama. Andoh is creating her first drama series, Protect and Serve [working title], with Time scribe Helen Black. Andoh will play the lead, DI Araba Dadzie, a cop, mother and daughter. Araba is in the squeezed middle of her life, [ ]
 
-### ‘NAZA’ Becomes One Of The Most Watched Docs On Theatrical Release In 2026
-Wed, 11 Nov 2026 09:00:12 +0000 — https://deadline.com/2026/11/naza-most-watched-docs-theatrical-2026-1237220066/
+### Barbara Broccoli Appointed President Of UK s National Film Television School
+Thu, 12 Nov 2026 09:00:00 +0000 — https://deadline.com/2026/11/barbara-broccoli-national-film-television-school-president-1237220238/
 
-Bombshell Gaza documentary NAZA by Israeli film-makers Yuval Abraham and Rachel Szor is on track to become one of the most-watched documentary films on theatrical release of 2026. New figures, collated by producers The Guardian and JW Films, reveal that the film had been seen by a world-wide audience of 1,547,033 across 47 territories by [ ]
+EXCLUSIVE: Barbara Broccoli has been named the first female president of the UK s National Film and Television School (NFTS). The storied James Bond producer becomes President just a few weeks before the opening of a building dedicated to her father, the legendary Cubby Broccoli. Barbara Broccoli will build on her longstanding relationship with the NFTS [ ]
 
-### ITV Cutting $40M From Media Entertainment Budget Due To Weak Advertising Market
-Wed, 11 Nov 2026 08:59:09 +0000 — https://deadline.com/2026/11/itv-cutting-budget-weak-advertising-market-q3-results-1237220058/
+### Lionel Uzan Succeeding Pascal Breton As President Of Federation Studios; Montefiore Ups Stake
+Thu, 12 Nov 2026 08:59:51 +0000 — https://deadline.com/2026/11/federation-pascal-breton-lionel-uzan-president-restructure-1237221428/
 
-With weaker demand for advertising in Q4, ITV has identified £30M ($40M) worth of cost savings from its networks division, which will soon be sold to Sky. Total Advertising Revenue is set to drop 5-10% in Q4 and 2-3% for full year 2026, ITV said today in its Q3 trading update. The network is therefore [ ]
+Federation Studios’ Lionel Uzan is taking the reins at the French entertainment giant with Pascal Breton stepping back, as Montefiore Investments becomes a majority shareholder. Federation, which had been seeking a huge cash injection of hundreds of millions of euros for the past couple of years, will have a new structure with an increase of [ ]
 
-### VisionQuest Teases Surprise Avengers: Doomsday Character Return In Post-Credits Scene
-Wed, 11 Nov 2026 04:43:25 +0000 — https://deadline.com/2026/11/visionquest-teases-avengers-doomsday-character-post-credits-scene-1237220017/
+### Skydance Co-CEO Ynon Kreiz Spotlights Moral Responsibility And Combating Antisemitism Injustice In Simon Wiesenthal Gala Speech
+Thu, 12 Nov 2026 07:29:06 +0000 — https://deadline.com/2026/11/ynon-kreiz-simon-wiesenthal-dinner-skydance-1237220683/
 
-SPOILERS: This post contains details about the VisionQuest Season 1 finale episode Forever A major player appears to be returning to the MCU following the Season 1 finale of VisionQuest. In a post-credits scene from Tuesday s finale episode Forever , a hooded figure that appears to be Robert Downey Jr. s Doctor Doom raises the rubble of [ ]
+Defending Israel does not mean Israel is beyond criticism, said Skydance s Ynon Kriez bluntly tonight after being presented the Simon Wiesenthal Center s (SWC) 2026 Humanitarian Award by his co-CEO David Ellison, Gal Gadot and Jeffrey Katzenberg. The fight against antisemitism is a fight against hatred in any form, the ex-Mattel boss added. Thanking Ellison for [ ]
 
-### Dancing With The Stars Recap: Dance Offs On Grammy Night Bring Tough Competition To Quarterfinals
-Wed, 11 Nov 2026 03:00:33 +0000 — https://deadline.com/2026/11/dancing-with-the-stars-season-35-recap-grammy-night-1237218651/
+### DC Universe Actor Frank Grillo Calls James Gunn Peter Safran Two Of The Most Loyal Guys Following Their DC Studios Exit
+Thu, 12 Nov 2026 05:00:05 +0000 — https://deadline.com/2026/11/frank-grillo-reaction-james-gunn-peter-safran-dc-studios-exit-1237221357/
 
-SPOILER ALERT! This post contains details from the Season 35 Dancing with the Stars quarterfinals. It s hard to believe Dancing with the Stars Season 35 is nearly over, but we ve officially reached the quarterfinals. There are seven couples remaining, but only five can make it all the way to the finale later this month. One [ ]
+Frank Grillo took to social media to express all of his gratitude to former DC Studios co-heads James Gunn and Peter Safran. Following the merger of Warner Bros. and Paramount, Skydance parted ways with Gunn and Safran, who were still in the initial stages of rebuilding the DC Universe. Amid the executive shakeup, Grillo posted [ ]
 
-### Lucy Hale Notes Everyone Is Willing To Reunite For Pretty Little Liars Revival: There s Gotta Be A New Version Of A
-Wed, 11 Nov 2026 02:50:58 +0000 — https://deadline.com/2026/11/lucy-hale-everyone-willing-reunite-pretty-little-liars-1237219941/
+### Denis Villeneuve Shares Update On James Bond Casting: I Am Pushing The Gas
+Thu, 12 Nov 2026 04:40:25 +0000 — https://deadline.com/2026/11/denis-villeneuve-update-james-bond-casting-1237221346/
 
-Nearly a decade later, the cast of Pretty Little Liars is apparently ready to take another secret to the grave. Lucy Hale, who starred as Aria Montgomery on the Freeform series, recently teased that everyone from the cast is willing and would want to reprise their roles for a revival of the teen mystery series [ ]
+Many names have been tested for the new James Bond, and Denis Villeneuve has shared an update on the casting process. In a new interview posted by GQ, the Dune director was asked if the new 007 agent had been cast. It’s—it’s in the process. In the process, the filmmaker said, with the publication noting [ ]
 
-### Judge Declines To Dismiss Donald Trump s Defamation Claim Against BBC
-Wed, 11 Nov 2026 02:06:50 +0000 — https://deadline.com/2026/11/trump-bbc-lawsuit-judge-1237219938/
+### Skyler Gisondo On The Future Of The People V. Gorilla Grodd After James Gunn s DC Exit: There s A Lot Of Questions
+Thu, 12 Nov 2026 04:00:15 +0000 — https://deadline.com/2026/11/skyler-gisondo-people-v-gorilla-grodd-james-gunn-dc-exit-1237221337/
 
-A federal judge on Tuesday declined to dismiss Donald Trump s defamation claim against the BBC over edits made to a documentary about January 6th that aired in advance of the 2024 election. U.S. District Judge Jeffrey Kuntz rejected the BBC s efforts to toss the case, ruling that Trump had sufficiently pleaded actual malice. In his [ ]
+Skyler Gisondo is sharing his thoughts on the future of The People v. Gorilla Grodd amid Peter Safran and James Gunn s exit from DC Studios. Gisondo is set to reprise his Jimmy Olsen role in an HBO series, a character he originated in 2025 s Superman film opposite David Corenswet and Rachel Brosnahan. With Skydance taking [ ]
 
 ## befores & afters
 
-### Mando s miniatures, puppets, stop-motion and more
-Mon, 09 Nov 2026 18:28:21 +0000 — https://beforesandafters.com/2026/11/10/mandos-miniatures-puppets-stop-motion-and-more/
-
-Issue #68 of befores & afters magazine covers the visual effects of The Mandalorian and Grogu. DIGITAL MAGAZINE members can download the issue right now from the shop post. Lucasfilm brings the beloved duo of Din Djarin (‘Mando’) and Grogu to the big screen in Star Wars: The Mandalorian and Grogu , directed by series creator Jon Favreau. Picking up from the Disney+ series, the film follows the Mandalorian bounty hunter and his young apprentice as they are recruited by the fledgling New Republic to take on a dangerous mission in a galaxy still dealing with the remnants of the fallen Empire. For a film so deeply rooted in the Star Wars tradition, The Mandalorian and Grogu is also a showcase for just how many different filmmaking techniques can be brought together to create a single cinematic world. Large-scale practical effects sat alongside virtual production, intricate puppetry and animatronics, miniatures and stop-motion, while extensive digital visual effects were used to craft environments, creatures, characters and action. The result is a fascinating blend of old-school craftsmanship and cutting- edge technology—a filmmaking approach that echoes the very foundations of Star Wars while pushing them into a new era. Industrial Light & Magic, of course, led the effects effort, as well as lending its services via the ILM Art Department. John Knoll was the production visual effects supervisor and Abbigail Keller was production visual effects producer. Hal Hickel served as produ
+_Nothing in the last 48 hours._
 
 ## IndieWire
+
+### Sandra Wollner s Everytime Is a Stunning Film About Grief Like You ve Never Seen Before
+Wed, 11 Nov 2026 20:30:00 +0000 — https://www.indiewire.com/awards/consider-this/sandra-wollner-everytime-grief-video-games-fall-1235226504/
+
+The German filmmaker's portrait of life after tragedy is filled with the unexpected. She tells IndieWire about video game cut scenes, the power of banal memories, the scene that makes everyone gasp, and what it all means. Sort of.
+
+### How Godzilla Minus Zero Dominated the Box Office: GKIDS Chief on IMAX s Impact and the Growing Market for Foreign-Language Movies
+Wed, 11 Nov 2026 19:30:00 +0000 — https://www.indiewire.com/features/interviews/godzilla-minus-zero-box-office-gkids-imax-1235226577/
+
+In an interview with IndieWire, the distributor's president Dave Jesteadt credits younger audiences and premium large-formats for building the record opening.
+
+### Democrats Won. When Do Hollywood Crews Get Back to Work?
+Wed, 11 Nov 2026 18:00:00 +0000 — https://www.indiewire.com/features/interviews/hollywood-jobs-after-midterms-film-tax-credits-1235226539/
+
+A proposed federal tax credit, state incentives, and new leadership in Los Angeles might help production bounce back — but many film and TV crews still don’t know when they’ll see their next paycheck.
+
+### Attend, the First Marketplace Connecting Filmmakers Directly to Theater Owners, Finally Launches Today
+Wed, 11 Nov 2026 17:30:00 +0000 — https://www.indiewire.com/news/breaking-news/attend-marketplace-filmmakers-theater-owners-launch-afm-1235226617/
+
+IndieWire got a first look at The Fithian Group's long-awaited portal ahead of its debut at the American Film Market.
+
+### DC Studios Latest Reboot: James Gunn and Peter Safran s Exit Is About Cost-Cutting, Not Just Creative Issues
+Wed, 11 Nov 2026 17:30:00 +0000 — https://www.indiewire.com/news/analysis/dc-studios-pushed-out-james-gunn-peter-safran-cost-cutting-skydance-1235226827/
+
+The pair signed a very generous deal with David Zaslav. Jeremy Latcham will be a lot cheaper.
+
+### Paper Tiger Review: Adam Driver Gives a Career-Best Performance in James Gray s Devastating Tragedy
+Wed, 11 Nov 2026 17:00:00 +0000 — https://www.indiewire.com/criticism/movies/paper-tiger-movie-review-james-gray-1235194211/
+
+Like all of James Gray's best films, "Paper Tiger" is both sweepingly mythic and hauntingly personal all at once.
+
+### Kate Berlant and John Early to Host the 2027 Film Independent Spirit Awards
+Wed, 11 Nov 2026 16:00:00 +0000 — https://www.indiewire.com/news/general-news/kate-berlant-john-early-host-independent-spirit-awards-2027-1235226799/
+
+The "Maddie's Secret" co-stars and longtime collaborators will host the 42nd annual Film Independent Spirit Awards at the Hollywood Palladium on Saturday, March 6, 2027.
+
+### Iron Boy Trailer: Beloved Animated Feature Oscar Contender Throws a Whole Watercolor World Out of Whack
+Wed, 11 Nov 2026 16:00:00 +0000 — https://www.indiewire.com/news/trailers/iron-boy-trailer-louis-clichy-animated-feature-oscar-1235226851/
+
+Exclusive: Watch the trailer for director Louis Clichy's beautifully off-balance coming-of-age story.
+
+### Jeremy O. Harris EPs American Theater, About a Canceled MAGA Theater Director s Bizarre Attempted Comeback — Watch the Trailer
+Wed, 11 Nov 2026 15:30:00 +0000 — https://www.indiewire.com/news/trailers/american-theater-trailer-jeremy-o-harris-documentary-1235226832/
+
+Harris tells IndieWire about the Slamdance winner now rolling out in theaters, a documentary that observes a Southern fringe theater director's attempt to rise from his own ashes via a restaging of the Salem Witch Trials.
+
+### Fan Edits Are Legal with Moonbeem, Distribution Network Hosts Approved Clips from Filmmakers
+Wed, 11 Nov 2026 14:00:00 +0000 — https://www.indiewire.com/news/general-news/fan-edits-legal-moonbeem-approved-clips-from-filmmakers-1235226818/
+
+Exclusive: The company, which was incubated by the Sundance Institute, unveils its free panel for Adobe Premiere Pro.
+
+### How to Rob a Bank Review: David Leitch s Fun and Poppy YouTube Heist Movie Almost Gets Away with It
+Wed, 11 Nov 2026 14:00:00 +0000 — https://www.indiewire.com/criticism/movies/how-to-rob-a-bank-movie-review-1235226457/
+
+Nicholas Hoult plays a live-streaming Robin Hood in an "eat the rich" thriller funded by Jeff Bezos.
 
 ### Stacy Keach, Fat City and Mike Hammer Star, Dead at 85
 Wed, 11 Nov 2026 01:20:51 +0000 — https://www.indiewire.com/news/obituary/stacy-keach-dead-mike-hammer-fat-city-1235226784/
 
 The tough guy actor had accrued more than 200 screen credits over a career that spanned seven decades.
 
-### Want a Full Scholarship to One of Our Film Festival Intensives? IndieWire s Future of Filmmaking Video Contest Is Now Live
-Tue, 10 Nov 2026 23:46:00 +0000 — https://www.indiewire.com/news/events/indiewire-future-of-filmmaking-video-contest-2026-1235225520/
-
-A three-minute Instagram reel could be all it takes to attend Cannes, Venice, SXSW, or SXSW London with IndieWire.
-
-### Why Ari Aster and Lars Knudsen s Square Peg Built a Therapy Circle for Hollywood s Next Generation in Texas
-Tue, 10 Nov 2026 22:00:00 +0000 — https://www.indiewire.com/features/interviews/square-peg-social-2026-ari-aster-lance-oppenheim-1235226526/
-
-IndieWire talks to the mentors and participants behind the second year of Square Peg Social, which offers four days of not only panels and one-on-ones with top filmmakers, but also camaraderie and commiseration for those who've just begun their careers.
-
-### ‘Ink’ Star Jack O’Connell on His ‘New Era’ as a Leading Man: ‘Thank F**k for Danny Boyle
-Tue, 10 Nov 2026 21:30:00 +0000 — https://www.indiewire.com/awards/consider-this/ink-star-jack-oconnell-new-era-leading-man-1235226449/
-
-The "Skins" alum tells IndieWire about finally fulfilling his dream of working with the Oscar-winning director, and how their Netflix film taps into the pain of how capitalism crushes working class artists.
-
-### How Casting the New ‘Harry Potter’ Helped ‘Club Kid’ Find Its Adorable 10-Year-Old Star
-Tue, 10 Nov 2026 21:02:21 +0000 — https://www.indiewire.com/features/craft/casting-harry-potter-club-kid-jordan-firstman-son-1235226517/
-
-Jordan Firstman and casting director Carmen tell IndieWire how their low-budget indie got much-needed help from the team behind the upcoming HBO series.
-
-### Stephen Miller s Wife Katie Miller Reportedly Ended Podcast Deal with Paramount After He Took White House Chief of Staff Role
-Tue, 10 Nov 2026 20:20:53 +0000 — https://www.indiewire.com/news/general-news/stephen-miller-katie-miller-ended-podcast-deal-paramount-1235226519/
-
-The conservative podcast host also ended new episodes of her existing podcast "The Katie Miller Show" as part of Stephen Miller's recusals.
-
-### The Rings of Power Season 3 Review: Amazon s Lord of the Rings Series Is Just Going Through the Motions
-Tue, 10 Nov 2026 20:00:00 +0000 — https://www.indiewire.com/criticism/shows/the-rings-of-power-season-3-lord-of-the-rings-series-bad-1235226205/
-
-Shrouded by a marked loss of enthusiasm, J.D. Payne and Patrick McKay's "Lord of the Rings" prequel series succumbs to its worst tendencies in a new season that's too content to witness the inevitable.
-
-### Casey Bloys to Receive the Milestone Award at 2027 PGAs
-Tue, 10 Nov 2026 18:00:00 +0000 — https://www.indiewire.com/awards/results/pga-awards-2027-casey-bloys-milestone-award-1235226429/
-
-The newly minted co-chair and chief content officer, Skydance Direct-to-Consumer, who's spent the last decade running HBO, will receive the Milestone Award at the 38th annual Producers Guild Awards.
-
-### Victorian Psycho Review: Maika Monroe Scares Up a Very Different Kind of Final Girl
-Tue, 10 Nov 2026 16:30:56 +0000 — https://www.indiewire.com/criticism/movies/victorian-psycho-review-maika-monroe-adaptation-1235195211/
-
-In Zachary Wigon’s deliciously dark adaptation of Virginia Feito's novel of the same name, the beloved scream queen switches sides. Kind of.
-
-### Steps Review: A Disposable Fairy Tale Reminds Us That Cinderella Is Someone s Hated Stepsister Too
-Tue, 10 Nov 2026 15:15:00 +0000 — https://www.indiewire.com/criticism/movies/steps-animated-movie-review-netflix-cinderella-1235226446/
-
-Reimagining fairy tales from other characters' perspectives no longer wins you points for originality, but Netflix's latest animation effort might entertain children who aren't old enough to be bored by the formula.
-
-### The Debut Trailer: Julianne Moore Goes Full Julianne Moore in Jesse Eisenberg s Riotously Funny Musical Theater Comedy
-Tue, 10 Nov 2026 14:45:03 +0000 — https://www.indiewire.com/news/trailers/the-debut-new-trailer-peak-julianne-moore-performance-1235226458/
-
-Moore is a frontrunner for Best Actress for her performance as a rookie community theater actress in the A24 movie, in theaters December 11.
-
-### Ink Trailer: Guy Pearce s Rupert Murdoch Builds His Tabloid Empire in Danny Boyle s Fleet Street Thriller
-Tue, 10 Nov 2026 14:30:00 +0000 — https://www.indiewire.com/news/trailers/ink-trailer-danny-boyle-rupert-murdoch-jack-oconnell-1235226422/
-
-James Graham adapts his own hit West End and Broadway play into a Netflix Oscar hopeful.
-
 ## The Wrap
 
-### David Zaslav Torched for Praising James Gunn After DC Firing: ‘This Is Your Fault’
-Wed, 11 Nov 2026 07:18:15 +0000 — https://www.thewrap.com/creative-content/movies/david-zaslav-blamed-james-gunn-dc-firing/
+### Jimmy Kimmel Questions White House’s Excuse for Giggle Heard During Trump’s C-SPAN Call: ‘Makes Very Little Sense’
+Thu, 12 Nov 2026 06:01:09 +0000 — https://www.thewrap.com/creative-content/tv-shows/jimmy-kimmel-questions-white-house-explanation-trump-giggle-cspan-call/
 
-David Zaslav’s well-wishes for James Gunn following his ousting from DC Studios drew backlash online, with several fans blaming the former Warner Bros. Discovery CEO for the shakeup. As news broke Monday of his and Peter Safran’s departure from DC Studios , Gunn took to Instagram to share a statement expressing gratitude for his time leading the studio while acknowledging that he “dislike[d] the at-times corporate nature of the job.” Gunn s farewell note was soon flooded with comments of support and praise, including from his former boss Zaslav. We re all grateful you took the job, James, Zaslav wrote in the comments of the post. You re an extraordinary leader and a great creative, and your storytelling and creative vision for DC was magical. He added: Can t wait for everyone to see the exceptional Man of Tomorrow Best time together James. While Gunn appeared to appreciate the message from Zaslav, liking the comment, his fans responded strongly, accusing the Hollywood executive of causing the chain of events that led to this outcome. This is your fault, one of Gunn s followers wrote in response. Another expressed a similar sentiment, bluntly writing, EXCUSE ME? This is all your fault for selling Warner Bros. knowing what was gonna happen. Spare us, please. A third offered up a short, expletive-filled response, commenting, F k you. Bro thinks he s on the team, a fourth fan remarked. This is YOUR fault! You re a [buffoon], a fifth Gunn fan wrote. In the year that the studio mad
+Jimmy Kimmel questioned the White House s explanation for the giggle heard during Donald Trump s recent C-SPAN call, declaring it made very little sense. During Wednesday s monologue for Jimmy Kimmel Live! , the late night host told his studio audience there was a follow-up to his prior commentary about Trump s call into C-SPAN. Here s another mystery that needs to be solved, Kimmel said. I showed a clip last night of President Trump calling into C-SPAN. They have a new call-in show, and I guess he couldn t resist calling in, and he surprised the host, and when she answered the call, we heard a woman laughing who definitely wasn t the first lady. Kimmel then played the clip once more for Jimmy Kimmel Live! viewers, and a giggle could be heard as the president began to speak. Okay, so we know from an interview he did last week that his assistant Natalie [Harp] , one of her jobs is to place these calls. And we presumed the woman laughing was Natalie, Kimmel noted. But for whatever reason, with all the many problems they have on their plate, the White House felt the need to issue a statement about this pushing back. They said, The laugh is leftover audio from a previous caller who had not disconnected yet.' However, Kimmel declared this explanation made very little sense, noting how viewers heard the president first and the previous caller was a guy, named Doug. But what makes even less sense is the fact that they released a statement about this, he continued. It s like some kin
 
-### Coachella 2027 Sets Dua Lipa, Tame Impala, SZA and Daddy Yankee as Headliners
-Wed, 11 Nov 2026 06:42:37 +0000 — https://www.thewrap.com/creative-content/music/coachella-2027-headliners-dua-lipa-tame-impala-sza-daddy-yankee/
+### ‘Constantine’ Director Says He Has ‘Renewed Hope’ for a Sequel After James Gunn, Peter Safran’s DC Exit
+Thu, 12 Nov 2026 05:08:16 +0000 — https://www.thewrap.com/creative-content/movies/constantine-director-francis-lawrence-hope-sequel-after-james-gunn-peter-safran-dc-exit/
 
-Dua Lipa, Tame Impala, SZA and Daddy Yankee have been locked in to headline the 2027 Coachella Valley Music and Arts Festival, the event’s organizers shared on Tuesday. Passes for the event will go on sale on Friday at 12 p.m. PT. However, AMEX Presale Passes will go on sale a day earlier on Thursday at 12 p.m. PT. The two-weekend event is set for Friday, April 9 through Sunday, April 11, and again on Friday, April 16 through Sunday, April 18. Daddy Yankee has been selected as a fourth headliner and is slated to perform in a special production. YouTube once again returns as the event’s official streaming partner. In addition to the aforementioned headliners, other notable performers set for the festival include Madonna, Zara Larsson, Steve Lacey, JISOO, Kehlani, Leon Thomas, Phoebe Bridgers, Weezer, Tiësto, Martin Garrix, Role Model, Adéla, Don Toliver, Dom Dolla, Kygo, The Neighbourhood and Becky G. The full lineup can be found below. View this post on Instagram A post shared by Coachella (@coachella) The 2027 headliners follow a star-studded 2026 lineup, which saw Justin Bieber, Sabrina Carpenter, Karol G and Anyma lead the music-filled weekend. Carpenter, especially, made a splash with her numerous celebrity cameos – including Susan Sarandon, Will Ferrell, Corey Fogelmanis, Geena Davis, Terry Crews and Madonna – in a theatrical production staging her latest hits. As for Bieber, while Coachella marked his big return to performing, the music sensation faced criticism for his
+Francis Lawrence, the director who helmed 2005 s Keanu Reeves-led Constantine movie, admitted he had renewed hope for his sequel amid James Gunn and Peter Safran s exit from DC Studios . “Not that I want anybody to lose their jobs, so this is not like a schadenfreude kind of thing, but I will say that we’ve been trying to make ‘Constantine 2’ for 20-something years, Lawrence told Collider on his hope for Constantine 2. And we have an idea, and we have a script, and we’ve been wanting to make it, and the people that were at DC were an impediment to us making it. He added: “So, we are now more hopeful as of yesterday’s news that maybe now there will be another opportunity. But again, we’ve been trying to make this for 20-something years, and there’s always been obstacles in the road to making it, and it’s not me, it’s not Keanu, it’s not [producer] Akiva [Goldsman]. J.J. [Abrams] is on it, as well. Per Lawrence, who is promoting his latest installment in the Hunger Games franchise, Sunrise on the Reaping, the original Constantine team wants to do it. So, it’s really going to be people at Paramount, Warner, whoever’s running DC now, getting everybody on board to say, like, ‘Hey, we can do a sequel of our version of Constantine,’” he noted. Lawrence even pitched that the now Skydance-led DC Studios could have both his Constantine 2 movie and a new take on the Hellblazer comic-book series, adding, Personally, I don’t even care if somebody has a plan for some sort of shared univers
 
-### Jimmy Kimmel Mocks Pete Hegseth’s ‘Romantic’ Praise of Trump Amid Impeachment Push: ‘Look Out, Melania’
-Wed, 11 Nov 2026 05:35:30 +0000 — https://www.thewrap.com/creative-content/tv-shows/jimmy-kimmel-mocks-pete-hegseth-press-conference/
+### Lionsgate Acquires Alma Har’el’s ‘Wet’ With Connor Storrie, Rebecca Ferguson and Javier Bardem
+Thu, 12 Nov 2026 03:17:01 +0000 — https://www.thewrap.com/creative-content/movies/lionsgate-acquires-wet-starring-connor-storrie-rebecca-ferguson-javier-bardem/
 
-Jimmy Kimmel mocked Pete Hegseth’s Tuesday press conference, taking aim at the defense secretary’s “romantic” remarks about President Donald Trump. During Tuesday s monologue for Jimmy Kimmel Live!, the comedian touched on the press conference Hegseth gave while facing an impeachment effort from Kentucky Republican Rep. Thomas Massie, calling it a doozy of a performance by the defense secretary. He did exactly what members of the Trumper-verse do when they find themselves in a situation like this, Kimmel said. He smeared on the chapstick. He got down on his knees and kissed the royal ass. The Jimmy Kimmel Live! editors then cut to footage from Hegseth s press conference, where he told journalists, We ve never had a better commander-in-chief. Full stop. I get to watch him every single day. He lives and breathes America first. And it s the honor of a lifetime to be his secretary of war. Any day he ll have me, I ll be right here at this podium. Well, in that case, I now pronounce you husband and wife, Kimmel quipped after watching the clip. I mean, that may have been the most romantic speech I ve ever heard given by a Secretary of War. The comedian then took a moment to jokingly warn first lady Melania Trump that she may have some competition on her hands. Look out, Melania. Pretty Pete s gunning for your spot, he added. And, as Kimmel highlighted, Trump responded positively to Hegseth s Please Don t Impeach Me speech, writing on Truth Social, Pete Hegseth gets an A PLUS, PLUS, 
+Lionsgate acquired on Wednesday the North American and U.K. distribution rights to Alma Har’el’s “Wet” from Fifth Season and 193, a Legendary Company. The film’s cast is certainly stacked, as it stars “Heated Rivalry” breakout Connor Storrie, “Dune” star Rebecca Ferguson, Oscar winner Javier Bardem, “Marty Supreme” actress Odessa A’zion, music superstar Rosalia and “Spider-Noir” star Lukas Haas. However, details for the film, which Har’el co-wrote with Christian Stangeby, are being kept under wraps. Though, the film has been described as a wildly seductive, high-seas caper. The studio also confirmed on Wednesday that production was slated to begin in the Dominican Republic in 2027. “The script and package for ‘Wet’ are undeniable,” Adam Fogelson, chair for the Lionsgate Motion Picture Group, said in a statement. “With Alma at the helm, we cannot wait to get in the water with this unbelievably talented group of people, both in front of and behind the camera.” Har’el, who serves as both co-writer and director, expressed her own excitement, noting, “Lately, I ve had to find humor in chaos and humanity in the most unpredictable situations. I m grateful to Lionsgate for embracing a film that speaks to this wild moment in time. I m incredibly excited to bring this remarkable group of actors together and make a film that refuses to behave.” Har’el is best known for directing Shia LaBeouf s 2019 film Honey Boy and the 2011 documentary Bombay Beach. Scott O’Brien and MaryGrace Stephen
 
-### Abdul El-Sayed Looks Directly Into CNN Camera to Deliver Scathing Message to Pete Hegseth
-Wed, 11 Nov 2026 04:38:11 +0000 — https://www.thewrap.com/media-platforms/politics/abdul-el-sayed-tells-pete-hegseth-to-resign-cnn/
+### Anthony Clark, Comedian and Yes, Dear Star, Dies at 62
+Thu, 12 Nov 2026 02:35:07 +0000 — https://www.thewrap.com/media-platforms/tv/anthony-clark-dead-comedian-yes-dear-star/
 
-Abdul El-Sayed, the U.S. senator-elect for Michigan, had a scathing message for Secretary of Defense Pete Hegseth during his Tuesday interview on CNN: Just resign. The progressive Democrat stopped by CNN s The Source to speak with Kaitlan Collins following his big win last week and was asked to speak on the party s agenda for 2027. Specifically, Collins asked El-Sayed to weigh in on the failed impeachment effort Hegseth faced Tuesday, prompting the Michigan politician to give his blunt assessment on the defense secretary s performance. Can you imagine being Pete Hegseth right now? Why are you still in your job? I mean, it s an open question, El-Sayed said, before directing his gaze directly into CNN s camera. Pete, like really, just open question: why are you still doing this job? he continued. You are really bad at this. You are failing at your responsibility. You have mishandled this war. And nobody really actually understands what it is you are about. Every day you re talking about fighting a new culture war. But, you re supposed to be waging an actual war that is actually illegal on its own terms. El-Sayed then offered up some advice to Hegseth, noting on-camera, So, just resign. Make it easy for everybody, instead of in the end getting taken out because that is clearly what s happening. So, Pete, just take it from me, you re not good at this, he concluded. EL-SAYED: Can you imagine being Hegseth right now? Why are you still in your job? *Looks into camera* You are really
+Anthony Clark, a comedian and actor best known for starring on the CBS sitcom Yes, Dear, died on Tuesday. He was 62. Clark s Yes, Dear co-star Mike O Malley confirmed the performer s passing on social media Wednesday, remembering his late peer as a hilarious guy and so unique. A cause of death was not shared. Anthony Clark died yesterday. He was a hilarious guy, O Malley wrote on X. When my wife Lisa and I were dating back in the mid-nineties, Anthony was already famous in Boston, regularly selling out comedy shows. The first time we saw him at The Comedy Connection we laughed and laughed and laughed. He added: He was so unique—one of those comics who is laughing along with you at the absurdity of his stories and observations. I was a fan before I was a friend. Anthony Clark died yesterday. He was a hilarious guy. When my wife Lisa and I were dating back in the mid-nineties, Anthony was already famous in Boston, regularly selling out comedy shows. The first time we saw him at The Comedy Connection we laughed and laughed and laughed. He… pic.twitter.com/4IDPabBk8U &mdash; Mike O'Malley (@TheMikeOMalley) November 11, 2026 As O Malley went on, he revealed that he and Clark last connected back in October, writing, We spoke on the phone three weeks ago. He had us laughing loudly once again. Attached are some snapshots from our last episode of Yes Dear which ended twenty years ago after 122 episodes. Rest in peace, Tony. As we mentioned, Clark was best known for starring alongside 
 
-### VisionQuest Stars and Creator Break Down That Absolutely Epic Finale Reunion
-Wed, 11 Nov 2026 03:20:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/visionquest-episode-8-finale-billy-joe-locke-appearance-explained/
+### Michael B. Jordan’s ‘Thomas Crown Affair’ Remake Gives 1999 Writers Screenplay Credit Exclusive
+Thu, 12 Nov 2026 02:00:01 +0000 — https://www.thewrap.com/creative-content/movies/michael-b-jordan-thomas-crown-affair-2027-to-credit-1999-writers/
 
-Note: This story contains spoilers from VisionQuest Episode 8. Tuesday night s VisionQuest finale may not have brought the full Maximoff family reunion that fans were hoping for, but it definitely delivered on part of it. The men of the family came together once more, and according to series star Ruaridh Mollica, it was an absolutely epic experience. In the show s finale episode, Vision (Paul Bettany) finds himself trapped in the home of Virgil (James Spader), the human inspiration for Ultron s avatar, alongside Jocasta (T Nia Miller). Vision went alone, leaving a message for his son Tommy (Mollica) explaining his decision. Of course, Tommy isn t about to just accept that lying down. He quickly pieces together that it was his brother Billy (Joe Locke) that put him into this body, and that Billy is still out there somewhere. To try and connect with him, Tommy recruits Lisa to help him re-create the circumstances that led to their brief mental connection last time: drowning. It works, and the boys connect in a sort of dream space hex created by Billy himself. Joe Locke as Teen in Agatha all Along (Disney+) Yes, Joe Locke appears in the flesh and the two brothers reunite for the first time in their teenaged bodies. Billy even marvels at the fact that Tommy is Scottish now, while Tommy marvels at the fact that his brother is, well, a witch. It was absolutely epic, Mollica told TheWrap of filming their first scene. We d met for a coffee the week before, and we were discussing all 
+Michael B. Jordan’s “Thomas Crown Affair” may be a fresh take on the classic heist story, but its writing credits reach back to an earlier incarnation. TheWrap has learned that Kurt Wimmer and Leslie Dixon, who wrote the 1999 remake, will receive screenplay credit alongside Drew Pearce. The new film, starring and directed by Jordan, is set to hit theaters March 5, 2027, courtesy of Amazon MGM Studios. The story first hit the screen in 1968, starring Steve McQueen and Faye Dunaway. The 1999 remake swapped in Pierce Brosnan and Rene Russo, with Wimmer and Dixon handling the screenplay. Alan Trustman, who wrote the original film, will receive a “story by” credit on the new version alongside Joe Carnahan, who wrote an earlier draft. What makes this credit so strange – bordering on unprecedented – is the fact that Dixon and Wimmer had nothing to do with this reimagined version. But the Writers Guild of America still awarded them screenplay credit. You would imagine that they would have received story by credit, alongside Trustman, but they are getting full screenplay credit, next to Pearce. The credits will make their debut in a trailer and poster for 2027’s “Thomas Crown Affair,” set to be released later this week. There are occasionally instances of the original writer being credited on remakes even if they had nothing to do with the newer version – while John Hughes wrote the script for 1997’s “Flubber,” he shared the credit with original “Absent-Minded Professor” writer Bill W
 
-### VisionQuest : Does Wanda Show Up in the Series Finale?
-Wed, 11 Nov 2026 03:15:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/visionquest-finale-does-wanda-come-back-terry-matalas-interview/
+### Russell Brand’s Instagram Account Taken Down by Meta After Rape Conviction
+Thu, 12 Nov 2026 01:30:33 +0000 — https://www.thewrap.com/culture-lifestyle/culture/russell-brand-instagram-account-disabled-meta-rape-conviction/
 
-Note: This story contains major spoilers from VisionQuest Episode 8. VisionQuest wrapped up its run on Tuesday night, thus ending the Disney+ trilogy that began back in 2021 with WandaVision. The big question is: Did that finale bring the return of Elizabeth Olsen as Wanda Maximoff? Agatha All Along, the second show in the trilogy between WandaVision and VisionQuest played jump rope with whether Wanda was really dead, leaving many to hope she might return to reunite with her family in this series. With the appearance of — here s your last spoiler warning! — Joe Locke s Billy Maximoff in the finale, that hope only grew stronger. Alas, no, Wanda Maximoff didn t return as well at least, not in the actual VisionQuest story arc. But, according to showrunner Terry Matalas, the idea of bringing the witch back for this family reunion was on the table. Listen, the Wanda conversation was constant, and if we felt strong enough about it, we would have done it, he explained to TheWrap. But the second it — and there were pages written of an element of things. There s a couple of them, but it always consumed the story in a way that detracted from Vision s in a way. When you introduce Wanda again, it needs to be her story, instead of her coming in and out of this other thing, he continued. So that ll be up to the Marvel gods as to what happens with that. But you know, stay tuned. Fans didn t have to stay tuned for very long, as VisionQuest did include an unexpected Wanda scene (one that was 
+Russell Brand, who was found guilty last week on one count of rape and three counts of sexual assault by a U.K. jury, said Wednesday that his Instagram account was disabled by Meta. “We disabled your account, screenshots posted by Brand on X noted. Your account, or your activity on it, doesn’t follow our rules.” There never was a Russell Brand, according to @Meta . Thank God for @elonmusk . Stay tuned. pic.twitter.com/nZTZRfEYM1 &mdash; Russell Brand (@rustyrockets) November 11, 2026 However Brand’s X page, which still has over 10 million followers, is still active. “There never was a Russell Brand, according to @Meta . Thank God for @elonmusk . Stay tuned,” he wrote on X. A spokesperson for Meta confirmed the removal to TMZ and said the account was taken down because it “violates our policies.” Representatives for Meta did not immediately return TheWrap s request for comment. Brand was sentenced to 10 years and six months in prison Monday after being found guilty on one count of rape and three counts of sexual assault. The comedian had previously pleaded not guilty to all seven of his charges; he was found not guilty on two other counts of rape and one count of attempted indecent assault. Brand was initially charged with five counts of rape and sexual assault against four women in April 2025: two counts of rape, two counts of sexual assault and one count of indecent assault. He was then charged with an additional count each of rape and sexual assault in December 2025. The in
 
-### DWTS Week 9: Jenna Dewan Pays Homage to Former Boss Janet Jackson for Grammy Night
-Wed, 11 Nov 2026 03:00:14 +0000 — https://www.thewrap.com/creative-content/tv-shows/dancing-with-the-stars-week-9-grammy-night/
+### ‘The Voice’ Eyes Move Out of LA in Cost-Cutting Shift Exclusive
+Wed, 11 Nov 2026 23:46:47 +0000 — https://www.thewrap.com/creative-content/tv-shows/the-voice-leaving-california/
 
-Dancing With the Stars celebrated music s biggest hits with Grammy Night, including fiery Argentine tangos and nostalgic jazz funk routines. The quarterfinals featured a variety of music styles from a tango remix of Thong Song to a salsa-infused rendition of Bruno Mars and Lady Gaga s Die With a Smile, and one shocking elimination. Each of the couples had to compete in the dance-off round in addition to their typical competitive routines except for Harry Shum Jr. and Jenna Johnson, who received immunity last week. The dance-offs included live performances from Sheryl Crow, Maren Morris, Brandy and Monica. Only six couples advanced to the semi-finals next week. After weeks of consistently high scores, Jenna Dewan and Val Chmerkovskiy were sent home after they received the lowest amount of combined votes and judges scores. Ezra Frech took on one of his toughest challenges yet, performing the Argentine tango to Beyoncé’s “Crazy in Love.” The dance required kicks and flicks, using his prosthetic and forcing him to balance. On top of that, the paralympian had to perform the passionate dance with his partner Daniella Karagach, who he sees as more of a sister. “There was an element of danger that we hadn’t seen before,” Carrie Ann Inaba said. Fellow Olympian Amber Glenn was up next with her paso doble to Bring Me to Life by Evanescence. She said that as a kid she loved the punk, emo rock hits but had to hide that part of herself as a figure skater. This week she channeled that punk 
+The Voice may become the latest singing competition to move out of Los Angeles, TheWrap has learned. NBC and the show s producers are weighing the possibility of moving production of “The Voice” from the Universal Studios lot in Los Angeles to another city in a cost-cutting effort, a source told TheWrap. Leadership is considering multiple cities for the move, including Nashville, Tenn., and Atlanta, Ga. Keeping production in L.A. also remains on the table. The Voice has shot on Stage 30 at Universal Studios Hollywood since debuting in 2011. The competition series, which typically runs two cycles per TV season, is currently in production in Los Angeles on Season 30 as well as a special season featuring celebrity contestants, hosted by Keke Palmer and set to air in 2027. The show has not been officially renewed beyond that. Representatives for NBC and The Voice producers MGM Television declined to comment for this story. Should the relocation materialize, The Voice would follow a trend of reality television productions leaving California for other states with more attractive tax credit programs. “American Idol” announced it would move from Hollywood to Georgia starting with the upcoming Season 25, set to premiere in February, a particularly surprising move because Hollywood was cemented in the show s DNA. America s Got Talent has also been rumored to leave California, with TMZ reporting the show was considering a move to Georgia or Tennessee. The Voice is a consistent ratings w
 
-### BBC Fails to Get Trump’s $10 Billion Defamation Lawsuit Dismissed
-Wed, 11 Nov 2026 02:48:06 +0000 — https://www.thewrap.com/industry-news/public-policy-legal/bbc-fails-to-get-trump-defamation-lawsuit-dismissed/
+### Pete Hegseth’s Group Scolded by Tomb of Unknown Soldier Sentinel for Laughing
+Wed, 11 Nov 2026 23:35:11 +0000 — https://www.thewrap.com/media-platforms/politics/pete-hegseth-scolded-at-tomb-of-unknown-soldier-laughing/
 
-A federal judge rejected the BBC’s bid to dismiss President Donald Trump’s $10 billion lawsuit over edits to a Jan. 6 documentary that aired ahead of the 2024 election. In the ruling, issued Tuesday, U.S. District Judge Jeffrey Kuntz declared that Trump’s lawsuit outlined a plausible claim for defamation over the editing of comments the president made during his Jan. 6, 2021 speech around the time of the riot at the Capitol. Kuntz highlighted more than once that the BBC had apologized to Trump for splicing together two comments he made at different points during the remarks, making it appear as though he had endorsed violence that day. On its face, the editing may independently establish the plausibility of actual malice, Kuntz wrote. BBC tries to frame this editing as ordinary editing done to condense a seventy-minute-long speech into twelve seconds. But the Court is not persuaded. While Kuntz acknowledged that editing is often required, he noted that the time disparity between the two statements and the distance itself tends toward a plausible inference that BBC knew or should have known that the segment they were creating would not and could not have been a truthful statement. “This was not trimming around the edges but creating something different than what was stated in the speech,” he continued. “BBC also had the entire speech available to them for nearly three years by the time of the Documentary.” In response to the ruling, a BBC spokesperson told media outlets, “We a
+Defense Secretary Pete Hegseth found himself and others being reprimanded by a U.S. Army sentinel at the Tomb of the Unknown Soldier on Wednesday after laughing could be heard near the monument. The moment, which was captured and aired by CNN on Veterans Day, saw Hegseth and his fellow attendees as they stopped by the monument, which serves as a burial site for an unidentifiable World War I soldier. As Hegseth and others in his group began to ascend the stairs in front of the burial site, laughing could be heard, prompting the soldier to yell: “All visitors will maintain the atmosphere of silence and respect at all times!” Several members of Hegseth’s group turned back amid the reprimand, before making their way inside a building at the Arlington National Cemetery. In response to the viral moment, Chief Pentagon Spokesman Sean Parnell told TheWrap, The Secretary and the entire Department have always honored—and will always honor—the sacrifices our military men and women have made to keep America safe. While commemorating this solemn day, a soldier correctly and respectfully reminded everyone to maintain decorum.” wow CNN broadcast footage of an Arlington guard yelling at a group with Pete Hegseth to "MAINTAIN SILENCE PAY RESPECT!" after someone in his entourage started laughing at the Tomb of the Unknown Soldier pic.twitter.com/430uEKRRp5 &mdash; Aaron Rupar (@atrupar) November 11, 2026 This controversy comes on the heels of Hegseth emerging successful against a failed impeac
 
-### UK’s Jonathan Ross Says He Was ‘Unaware’ of David Walliams Alleged Abuse as 2004 Joke About 15-Year-Old Resurfaces
-Wed, 11 Nov 2026 02:23:51 +0000 — https://www.thewrap.com/media-platforms/tv/jonathan-ross-responds-resurfaced-video-david-walliams-minor-joke/
+### Frankie Muniz Hospitalized Following Race Car Crash at Daytona
+Wed, 11 Nov 2026 22:07:49 +0000 — https://www.thewrap.com/culture-lifestyle/culture/frankie-muniz-hospitalized-race-car-crash-daytona/
 
-British broadcaster Jonathan Ross addressed a resurfaced video of him joking in 2004 about David Walliams “going home” with a 15-year-old, saying he was “genuinely unaware” of the entertainer s alleged misconduct at the time. Earlier on Tuesday, Walliams, an English comedian and former “Britain’s Got Talent” host, was outed as the mysterious celebrity seeking an injunction to keep allegations of sexual misconduct private for fear that he may harm himself. In the wake of this news, footage from the 2004 Comedy Awards resurfaced, in which Ross, a once-close friend of Walliams, joked: The Comedy Awards is 15 years old … and like all 15-year-olds, it s drunk, it s unpredictable and it s probably going home with David Walliams.” As speculation grew that Ross knew about Walliams alleged misconduct before the the present-day legal battle, the Jonathan Ross Show host spoke out, claiming that was far from the truth. “I am as horrified by the revelations about David Walliams and the crimes of Russell Brand as the rest of the nation,” Ross wrote in a statement to media , first shared by the Daily Mirror. “There was a time in my life when I was on friendly terms with both men, and during that period I was genuinely unaware of their conduct.” Brand, another former friend of Ross’, was sentenced to 10 years and six months in prison on Monday after being convicted of rape and sexual assault in a London criminal trial last week. As Ross went on, he noted that his thoughts were with “the many
+UPDATE: Frankie Muniz has been released from the hospital following Wednesday’s race car crash, but noted in a statement that he’s still “a little sore” from the incident. “I am disappointed I won’t be able to take part in Ford’s Proud to Honor event tonight. I was looking forward to honoring the service of our veterans and racing against these other amazing drivers, Muniz said in a statement to media Wednesday night. I am a little sore, but my Mustang did its job in protecting me. He added: I want to thank everyone at Ford Racing, Daytona International Speedway and the staff here at the hospital. I especially want to thank everyone who has reached out and for all the prayers. ORIGINAL : Frankie Muniz has been hospitalized following a race car crash in Daytona. On Wednesday, it was reported that Muniz was rushed to a Florida hospital after he crashed his race car during a practice lap at the Daytona International Speedway for a Veteran s Day event. The practice lap was in the lead-up to the Proud to Honor Veterans Day Classic that the Malcolm in the Middle alum was competing in as a part of Team Air Force. Muniz s racing team posted on social media that he was rushed to the hospital for further evaluation and is awake and alert. According to ET, Muniz s on-screen dad and Malcolm in the Middle co-star Bryan Cranston was scheduled to be at the Veterans Day event in Daytona in support. Muniz began pursuing a career in racing in 2004, and over the years, it became his primary foc
 
-### Megyn Kelly Challenges Dave Chappelle to Come on Her Podcast to Make Fun of Charlie Kirk
-Wed, 11 Nov 2026 01:03:14 +0000 — https://www.thewrap.com/media-platforms/journalism/megyn-kelly-challenges-dave-chappelle-charlie-kirk-joke/
+### ‘The Vampire Diaries’ Alum Claims ‘Coward’ Co-Star Blacklisted Him From Fan Events for Being Pro-Israel
+Wed, 11 Nov 2026 22:06:40 +0000 — https://www.thewrap.com/culture-lifestyle/culture/vampire-diaries-nathaniel-buzolic-blacklisted-pro-israel/
 
-Megyn Kelly wasn t laughing Tuesday at Dave Chappelle s alleged Madison Square Garden standup routine about Charlie Kirk. She angrily challenged the comedian to have the balls to come on her podcast after he reportedly joked about the conservative organizer s assassination on Friday. On Tuesday s episode of The Megyn Kelly Show, the host was the latest conservative figure to slam Chappelle for comments he reportedly made expressing relief that Kirk was dead. Ever since that guy Charlie Kirk got murdered … I feel better,” Chappelle reportedly said. On Sunday, a video began circulating that appeared to show Chappelle at the MSG event, which strictly banned phone use and recordings. The veracity of the video has been widely reported on by not independently verified. Kelly slammed Chappelle as a low-information voter who should shut his mouth about a man who was a decent father to two babies who will grow up without their father now, thanks to gun violence. He should shut his mouth about it, she said. I don t want to hear another f king word out of Dave Chappelle on Charlie Kirk unless it s on this show and he has the balls to say it to somebody who was actually friends with him. Do you have the balls, Dave Chappelle? Let s see. Why don t you come on? You have an open invitation. You tell me the day. I will clear the schedule. You can come on here and say it directly to me. Erika Kirk spoke out over the weekend in support of her late husband after days of people making like of hi
+One Vampire Diaries alum is publicly accusing another for blacklisting him from appearing at events or getting cast in new things. Nathaniel Buzolic, who played Kol Mikaelson in The Vampire Diaries, The Originals, and Legacies, posted a video to his social media explaining his absence at fan events in particular. He said it came down to his pro-Israel stance leading to former co-stars making sure he s blacklisted from attending them. “There’s an actor that I worked with who has had me banned from attending fan events if he’s there, quietly, Buzolic said. He doesn’t share his solidarity with the Palestinian people on his social media, but that’s probably because he wants to protect his career. View this post on Instagram A post shared by Nathaniel Buzolic (@natebuzz) He added: “But, he also wanted to stop me from getting work and meeting with fans at fan events. So if you’ve noticed my absence, that’s why.” Because Buzolic ends his video with “always and forever, eh” — a catchphrase associated with the Mikaelson family in “The Originals” — fans have speculated that the co-star in question is Joseph Morgan. Morgan played Klaus Mikaelson in “The Vampire Diaries” franchise. Buzolic never names the actor, but calls him a “coward” for allegedly blacklisting him behind the scenes while keeping his own political stance private. Buzolic added that the actor would not “publicly share their support for the jihadist, camel-abusing keffiyeh culture of the Arab Palestinians that I’ve been 
 
 ## Collider
 
-### Taylor Sheridan Star Officially Addresses That Devastating Season 3 Finale Death
-Wed, 11 Nov 2026 12:00:12 GMT — https://collider.com/lioness-season-3-finale-oleksandra-death-elizaveta-neretin/
+### George R. R. Martin Officially Picks Dunk & Egg Over ‘Winds of Winter’
+Thu, 12 Nov 2026 13:04:15 GMT — https://collider.com/george-rr-martin-dunk-and-egg-book-4-winds-of-winter/
 
-Editor's Note: The following contains spoilers for 'Lioness' Season 3 If there's one thing Taylor Sheridan has demonstrated throughout his television career, it's that getting attached to his characters can be something of a poisoned chalice because, whether it's Yellowstone , 1923 , or Lioness , Sheridan isn't exactly a fan of happy endings, and that's especially true when his characters all find themselves caught up in situations where survival is anything but certain. And one of the main characters in his spy thriller felt the sharp end of his pen.
+Waiting for George R. R. Martin to finish The Winds of Winter has become something of a tradition for Game of Thrones fans. It's been more than 15 years since A Dance with Dragons arrived in bookstores, and despite countless updates, the sixth installment of A Song of Ice and Fire still doesn't have a release date. That hasn't stopped Martin from expanding Westeros elsewhere, of course, with House of the Dragon and A Knight of the Seven Kingdoms introducing audiences to different generations of the Seven Kingdoms. And it turns out the author has been spending some of his time working on another story that should make fans of the latter particularly happy.
 
-### We Officially Ranked the 8 Best HBO Shows of All Time
-Wed, 11 Nov 2026 11:45:12 GMT — https://collider.com/best-hbo-shows-ranked-officially/
+### Sylvester Stallone Officially Wants a Former Spider-Man To Join Taylor Sheridan’s ‘Tulsa King’
+Thu, 12 Nov 2026 13:00:12 GMT — https://collider.com/taylor-sheridan-tulsa-king-andrew-garfield-casting-hopes-sylvester-stallone/
 
-HBO is responsible for creating some of the best television shows of all time . Originals like Sex and the City , The White Lotus , and Euphoria have changed television as we know it, and were responsible for many stars' breakout performances. Actors that fall under this success list include Sarah Jessica Parker , Sydney Sweeney , and Idris Elba.
+At some point we might want to crown, unanimously I might add, Taylor Sheridan as the undisputed king of television. After penning the screenplay for Sicario , a 2015 action-crime thriller directed by Denis Villeneuve , Sheridan would return a few years later in monstrous fashion. Yellowstone arrived in 2018 and, with Kevin Costner at the fore, Sheridan was able to develop a neo-Western masterpiece that helped launch his own television empire.
 
-### 10 Years Later, Billy Bob Thornton's Forgotten War Movie Is the Perfect Weekend Watch
-Wed, 11 Nov 2026 11:38:12 GMT — https://collider.com/whiskey-tango-fox-trot-billy-bob-thorton-unforgettable-war-movie/
+### 5 Genuinely Perfect Sci-Fi Miniseries, Ranked
+Thu, 12 Nov 2026 12:35:12 GMT — https://collider.com/perfect-sci-fi-miniseries-ranked/
 
-Surprisingly, despite being widely considered a classic must-watch, Billy Bob Thornton 's 2016 war-dramedy Whiskey Tango Foxtrot is a rather polarizing film. That said, with comedy legend Tina Fey and, at the time, emerging starlet Margot Robbie at the helm, it's hard to imagine why. It's a classic odd-couple pairing , following Fey's Kim Baker, a mild-mannered, bottom-shelf news outlet reporter, and Robbie's Tanya Venderpoel, a fierce foreign TV war correspondent. The two stumble into one another when, struck by the desire to be a real boots-on-the-ground journalist, Kim takes up a station in Kabul, Afghanistan. The supporting cast, including Billy Bob Thornton as a rough-around-the-edges marine general and Martin Freeman as a hard-drinking Scottish photographer, help round the film, and in some way defines its charm.
+I get suspicious whenever a scientist in a science-fiction show promises to eliminate human suffering. Wonderful. Congratulations. You've invented something that will almost certainly make everybody miserable in a completely new way. The worst part is that I understand the temptation. Give me one chance to undo a terrible mistake or see somebody I've lost, and I'm not entirely confident I'd listen to my own warnings.
 
-### The 10 Most Suspenseful Thriller Books of the Last 25 Years, Ranked
-Wed, 11 Nov 2026 11:38:12 GMT — https://collider.com/most-suspenseful-thriller-books-last-25-years-ranked/
+### George R. R. Martin’s Favorite ‘Game of Thrones’ Spin-Off Officially Returns Early for New Release
+Thu, 12 Nov 2026 12:30:12 GMT — https://collider.com/a-knight-of-the-seven-kingdoms-dunk-egg-funko-pops/
 
-Say the word " thriller ," and certain formulas come to mind: there will be spies and their secrets, shadowy figures lurking around corners, buried bodies, both figuratively and literally. Betrayal-soaked pages and conspiracies unraveling with every word. There may even be a shootout or two, but the best thrillers don't derive their suspense from the spectacle alone.
+Everyone's favorite Game of Thrones spin-off, beloved even by bestselling novelist George R. R. Martin , is gearing up for its grand return, and anticipation is sky-high. Adapted from Martin's Tales of Dunk and Egg novellas, A Knight Of The Seven Kingdoms offers a more intimate, character-driven GOT story , with touches of humor that balance the drama. It follows the naive but honorable hedge knight Ser Duncan "Dunk" the Tall ( Peter Claffey ) and his young, bald squire, Aegon "Egg" Targaryen ( Dexter Sol Ansell) , a century before the events of Game of Throne s .
 
-### Christopher Nolan’s ‘Interstellar’ Is Officially Returning for New Release
-Wed, 11 Nov 2026 11:30:12 GMT — https://collider.com/interstellar-lego-tars-set-approved-new-release/
+### Prime Video’s ‘The Chosen’ Christmas Special Officially Sets December Release Date
+Thu, 12 Nov 2026 12:00:12 GMT — https://collider.com/the-chosen-the-three-kings-release-date-fox-december-2026/
 
-Interstellar is one of Christopher Nolan 's most ambitious films. That's a statement that's big to make because it's fair to say Nolan is ambitious with every movie he attempts to make, but this, even 12 years later, might still be the biggest swing he's taken . It's also one of his most divisive, but one thing's for sure, it made a big impact, and news of a new release from the space-faring world Nolan, Kip Thorne and Jonathan Nolan created is something that's sure to make fans sit up and take notice . And that's exactly what's about to happen, with news that we're thrilled by.
+Prime Video 's standout historical drama has announced the perfect Christmas treat for fans, with full details arriving weeks in advance. One of the streamer's most successful shows, the series has earned positive reactions from viewers worldwide and still holds a near-perfect 97% Popcornmeter score on Rotten Tomatoes . It has also performed strongly on the platform, reaching No. 1 in the US after Season 5 debuted in June 2025 and remaining in the streamer's top 10 through the end of the year.
 
-### 8 Grunge Albums That Are Better Than They Get Credit For
-Wed, 11 Nov 2026 11:11:12 GMT — https://collider.com/grunge-albums-better-than-they-get-credit-for/
+### The 8 Best TV Dramas From Before the Streaming Era, Ranked
+Thu, 12 Nov 2026 11:57:12 GMT — https://collider.com/best-tv-drama-shows-before-streaming-ranked/
 
-In 1991, grunge kicked down the door to the lazy music genre rock and roll had become. Suddenly, big hair was out and flannel was in. Nirvana led the way in the 1990s with their album Nevermind , and it's game-changing single, "Smells Like Teen Spirit." Right alongside them was Pearl Jam , with their own huge album, Ten . Rounding out the top four grunge bands were Soundgarden , who became the biggest band in the world with Superunknown , and Alice in Chains , who made their own history with Dirt . These are the albums we all know, but there were so many great classic albums which came out during grunge's short reign. Whether it be one of the big four, or smaller Seattle bands who never quite made it to the mainstream , these eight albums deserve a second listen.
+We are currently undeniably living in the era of streaming, but for the first few decades of its existence as a medium, network television reigned supreme. Since network shows are broadcast on a strict weekly timetable, they're usually built on very particular structures potentially containing built-in breaks before cutting to commercials, cliffhangers, and very consistent pacing. As television has evolved, so too have the characteristics of network series changed.
 
-### Every Pierce Brosnan James Bond Film, Ranked
-Wed, 11 Nov 2026 11:05:12 GMT — https://collider.com/pierce-brosnan-james-bond-films-ranked/
+### 6 Upcoming Netflix Thriller Shows, Ranked by Hype
+Thu, 12 Nov 2026 11:53:13 GMT — https://collider.com/upcoming-netflix-thriller-shows-ranked-by-hype/
 
-Pierce Brosnan was in an unenviable position when he was cast as James Bond . He had to follow in the footsteps of some of the most iconic actors in history in a role that had been vacant for six years. But with his sharp suits, charming smile, and undeniable screen presence, he made the role look effortless. His tenure also arrived at an interesting time for the franchise, as he brought Bond into the new millennium.
+Netflix has never had trouble making thriller shows. The problem is that the streamer releases so many of them that it can be hard to keep up, since plenty of great ones vanish from the Top 10 within a week, replaced by the next viral hit. The real challenge is making one that people still talk about after the binge cycle is over, and that takes more than a twisty premise and a cliffhanger at the end of every episode.
 
-### ‘Landman’ Is Officially Crossing Over With ‘Yellowstone’ in a Major Way
-Wed, 11 Nov 2026 11:00:12 GMT — https://collider.com/landman-season-3-yellowstone-filming-locations-taylor-sheridan/
+### 8 Fantasy Books With Over 100,000 Goodreads Ratings That Are Worth the Hype
+Thu, 12 Nov 2026 11:42:12 GMT — https://collider.com/fantasy-books-goodreads-over-100000-ratings-worth-the-hype/
 
-At this point, Taylor Sheridan just runs television because, between Yellowstone , Landman , Tulsa King , and Lioness , the writer has spent the better part of a decade turning Paramount+ into a home for gritty dramas filled with angry men and angry women. And while his shows generally operate independently of one another, there are plenty of connections behind the scenes, particularly when it comes to the people and places involved in making them. Now, one of Sheridan's biggest hits is heading into territory that should look very familiar to Yellowstone fans.
+As someone who’s used Letterboxd religiously for quite a few years now, the best way to explain it to people who've not heard of Letterboxd (they do exist, especially if you venture outside the online world!) is to say it’s like Goodreads, but for movies instead of books. And most people have heard of Goodreads, even if they don’t themselves have accounts there.
 
-### 7 Elite Miniseries to Binge on Netflix
-Wed, 11 Nov 2026 10:34:12 GMT — https://collider.com/elite-miniseries-binge-netflix/
+### 15 Best Adventure Shows Like 'Avatar: The Last Airbender,' Ranked
+Thu, 12 Nov 2026 11:36:13 GMT — https://collider.com/shows-like-avatar-the-last-airbender-to-watch/
 
-Netflix has played a big hand in revitalizing the miniseries trend, which almost seemed to be fading away back in the early 2010s. While anthologies like American Horror Story and True Detective resurrected the single-season format, it was Netflix’s massively successful shows like The Queen’s Gambit and The Haunting of Hill House that reinvented the limited series as prestige television. And ever since, the streamer has come to be recognized for producing some true masterpieces of modern television, expanding across genres, languages, styles, and formats.
+It’s rare to find a series that knocks it out of the park in nearly every category, but somehow Nickelodeon’s Avatar: The Last Airbender became one of the most beloved franchises in the world. Avatar is a fantasy series featuring strong world-building, fantastic characters, and an inspirational story that defined a generation.
 
-### ‘Reacher’ Season 5 Officially Gets a Perfect Update From Alan Ritchson
-Wed, 11 Nov 2026 10:30:12 GMT — https://collider.com/alan-ritchson-reacher-season-5-filming-wrap-update/
+### Sydney Sweeney’s Psychological Thriller Is Officially a No. 1 Hit on Prime Video
+Thu, 12 Nov 2026 11:30:12 GMT — https://collider.com/sydney-sweeney-the-housemaid-streaming-success-prime-video-november-2026/
 
-If there's one thing Alan Ritchson has made abundantly clear over the past few years, he likes being busy because, between throwing people through walls, throwing people through cars, and throwing people down stairs, he's turned Reacher into one of Prime Video's biggest success stories. Season 4 delivered the king of face-smashing intensity we've come to expect, and the good news is that work on the next outing is already underway.
+2026 has been a good year for movies. From big-budget spectacles like Christopher Nolan ’s The Odyssey , the MCU’s Spider-Man: Brand New Day , small-budget horrors like Obsession and Backrooms , and visually stunning sci-fi like Ryan Gosling ’ s Project Hail Mary , Steven Spielberg 's Disclosure Day , and Alan Ritchson ’s War Machine . Fans were spoilt for choices and rightfully so.
 

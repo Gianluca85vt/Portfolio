@@ -1,6 +1,16 @@
-# AI — harvested 2026-11-11T12:09:38.850Z
+# AI — harvested 2026-11-12T13:15:35.352Z
 
 ## OpenAI
+
+### Holiday Extras is rethinking what it can build with Codex
+Thu, 12 Nov 2026 09:30:00 GMT — https://openai.com/business/customer-stories/holidays-extras-codex
+
+With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.
+
+### Supporting research on AI and children’s safety
+Thu, 12 Nov 2026 00:00:00 GMT — https://openai.com/index/children-first-declaration
+
+OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.
 
 ### Gilbert + Tobin rethinks the business of law with AI
 Thu, 12 Nov 2026 00:00:00 GMT — https://openai.com/index/gilbert-tobin-sam-nickless
@@ -12,77 +22,28 @@ Wed, 11 Nov 2026 08:00:00 GMT — https://openai.com/index/chatgpt-plus-for-vete
 
 More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.
 
-### Helping caregivers use AI in everyday life
-Tue, 10 Nov 2026 12:00:00 GMT — https://openai.com/index/helping-caregivers-use-ai-in-everyday-life
+### JioStar’s chief architect on AI discovery at 500M-user scale
+Wed, 11 Nov 2026 00:00:00 GMT — https://openai.com/index/jiostar-vijay-seshadri
 
-OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.
-
-### Introducing Businesses in ChatGPT
-Tue, 10 Nov 2026 10:00:00 GMT — https://openai.com/index/introducing-businesses-chatgpt
-
-Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.
-
-### Closing the AI guidance gap in education
-Tue, 10 Nov 2026 09:00:00 GMT — https://openai.com/index/closing-ai-guidance-gap-education
-
-New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.
-
-### Singapore Airlines elevates travel & work with OpenAI technology
-Tue, 10 Nov 2026 08:00:00 GMT — https://openai.com/index/singapore-airlines-travel-work
-
-Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.
-
-### Work at the Frontier: AI’s effect on freelance work
-Tue, 10 Nov 2026 07:00:00 GMT — https://openai.com/index/ai-effect-on-freelance-work
-
-New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.
-
-### Cogent and OpenAI build cyber defense factories for enterprises
-Tue, 10 Nov 2026 00:00:00 GMT — https://openai.com/index/cogent-security
-
-Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.
-
-### ChatGPT Enterprise now available in AWS Marketplace
-Mon, 09 Nov 2026 19:00:00 GMT — https://openai.com/index/chatgpt-enterprise-aws-marketplace
-
-ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.
-
-### Control Room: A central system to track and stop model workloads across our research infrastructure
-Mon, 09 Nov 2026 13:00:00 GMT — https://openai.com/index/control-room
-
-Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.
+JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.
 
 ## Hugging Face
 
 ### BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model
 Wed, 11 Nov 2026 05:01:16 GMT — https://huggingface.co/blog/qvac/botpsy
 
-### Pay for Hugging Face Hub with your Google Cloud Account
-Tue, 10 Nov 2026 00:00:00 GMT — https://huggingface.co/blog/hub-gcp-marketplace
-
-### Decision Models in Hugging Face
-Tue, 10 Nov 2026 00:00:00 GMT — https://huggingface.co/blog/decision
-
-### Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context
-Mon, 09 Nov 2026 15:05:57 GMT — https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan
-
-### Your Experts Have Partners. There's HOPE for Keeping Them Together
-Mon, 09 Nov 2026 12:34:29 GMT — https://huggingface.co/blog/amazon/higher-order-pruning-experts
+### Token Pooling-Aware Training for Multi-Vector Embedding Models
+Wed, 11 Nov 2026 00:00:00 GMT — https://huggingface.co/blog/token-pooling
 
 ## Google DeepMind
 
+### AlphaGenome 2: Deciphering how cells read DNA to better understand disease
+Wed, 11 Nov 2026 15:00:15 +0000 — https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/
+
+Predicting how DNA sequences and their variations impact specific human cell types and disease.
+
 ### Gemini 4 Carbon is now available
 Tue, 10 Nov 2026 16:03:47 +0000 — https://deepmind.google/blog/gemini-4-carbon-is-now-available/
-
-### Introducing AlphaProof Code: a breakthrough in verifying complex software at depth
-Tue, 10 Nov 2026 12:02:28 +0000 — https://deepmind.google/blog/introducing-alphaproof-code/
-
-AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.
-
-### Gemini Robotics 2.5 accelerates real-world general dexterity
-Mon, 09 Nov 2026 19:51:47 +0000 — https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/
-
-Our most capable vision-language-action model enhances robot dexterity, reliability, and safety
 
 ## VentureBeat AI
 
