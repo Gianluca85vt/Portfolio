@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Company of Heroes 3 update 3.0 paints snow onto the tops of objects">
+  <defs>
+    <linearGradient id="bgCoh" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#18011F"/>
+      <stop offset="58%" stop-color="#3A1060"/>
+      <stop offset="100%" stop-color="#7621B0"/>
+    </linearGradient>
+    <linearGradient id="snowCoh" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.92"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0.18"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="900" fill="url(#bgCoh)"/>
+
+  <!-- top-down accumulation diagram: boxes seen from above, lit faces only on top -->
+  <g opacity="0.5">
+    <g fill="none" stroke="#C9A6F0" stroke-width="2">
+      <path d="M700 250 L820 196 L940 250 L820 304 Z"/>
+      <path d="M700 250 L700 330 L820 384 L820 304 Z"/>
+      <path d="M940 250 L940 330 L820 384 L820 304 Z"/>
+      <path d="M840 400 L930 360 L1020 400 L930 440 Z"/>
+      <path d="M840 400 L840 458 L930 498 L930 440 Z"/>
+      <path d="M1020 400 L1020 458 L930 498 L930 440 Z"/>
+    </g>
+    <path d="M700 250 L820 196 L940 250 L820 304 Z" fill="url(#snowCoh)"/>
+    <path d="M840 400 L930 360 L1020 400 L930 440 Z" fill="url(#snowCoh)"/>
+  </g>
+
+  <!-- projection arrows coming down from the sky -->
+  <g stroke="#FFFFFF" stroke-width="3" opacity="0.35">
+    <path d="M706 120 L706 170"/><path d="M786 104 L786 154"/>
+    <path d="M866 120 L866 170"/><path d="M946 140 L946 190"/>
+    <path d="M886 300 L886 340"/><path d="M976 316 L976 356"/>
+  </g>
+
+  <text x="90" y="186" font-family="Helvetica, Arial, sans-serif" font-size="30" fill="#E2C9FF" letter-spacing="7">COMPANY OF HEROES 3 — 3.0</text>
+
+  <text x="90" y="330" font-family="Helvetica, Arial, sans-serif" font-size="128" font-weight="bold" fill="#FFFFFF">Snow on</text>
+  <text x="90" y="452" font-family="Helvetica, Arial, sans-serif" font-size="128" font-weight="bold" fill="#FFFFFF">top faces</text>
+
+  <rect x="90" y="508" width="160" height="7" fill="#FF8A3D"/>
+
+  <text x="90" y="590" font-family="Helvetica, Arial, sans-serif" font-size="40" fill="#F0DEFF">The camera looks down, so</text>
+  <text x="90" y="644" font-family="Helvetica, Arial, sans-serif" font-size="40" fill="#F0DEFF">the top of the crate is the</text>
+  <text x="90" y="698" font-family="Helvetica, Arial, sans-serif" font-size="40" fill="#F0DEFF">surface you always see.</text>
+</svg>
