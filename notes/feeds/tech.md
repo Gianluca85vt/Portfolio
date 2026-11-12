@@ -1,122 +1,152 @@
-# Tech — harvested 2026-11-12T13:15:35.352Z
+# Tech — harvested 2026-11-12T21:05:41.314Z
 
 ## Ars Technica
 
-### Review: Apple s M6 iMac is pricey, but it s still a good choice for a clean desk
-Thu, 12 Nov 2026 12:00:37 +0000 — https://arstechnica.com/features/2026/11/review-apples-m6-imac-is-pricey-but-its-still-a-good-choice-for-a-clean-desk/
+### Ars Live: What drone attacks on data centers mean for modern life in the cloud
+Thu, 12 Nov 2026 19:59:59 +0000 — https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/
 
-The Apple Silicon iMac got its fourth refresh this month. Every other Apple Silicon Mac has found a way to move forward over the last half-decade—we've gotten a more Pro design for the MacBook Pro, a mini-er design for the Mac mini, and a Mac Studio that has finally made Apple admit it doesn't want to make the Mac Pro anymore. But the Apple Silicon iMac has always been more interested in looking backward. It's the thin, screen-on-a-stand iMac design by way of the original Bondi Blue G3 iMac. It's a clean and pretty desktop computer, one I see all the time in small offices and on TV shows that depict small offices. We're long past the days when it was Apple's primary workstation computer. Read full article Comments ]]>
+Drone and missile strikes have inflicted unprecedented damage on data centers in Eastern Europe and the Middle East this year, disrupting cloud services for millions of people and permanently deleting some Amazon Web Services customer data. This trend represents a new concern for Big Tech companies—but also for governments and everyone else who depends on common digital services in modern life. To explore what this all means for modern society’s reliance on cloud resilience, I will be hosting a live conversation titled "Drone attacks and data centers: New Risks for Big Tech" on Tuesday, November 17 at 1 pm ET with Joseph Jarnecki , a senior research fellow at the Royal United Services Institute (RUSI), a UK defense and security think tank. He leads RUSI’s work on how cloud services factor into national security and defense, along with tech sovereignty efforts. Jarnecki has done extensive research on how Ukraine strengthened its cloud resilience with Western partners despite facing both cyberattacks and kinetic attacks at the start of the full-scale Russian invasion, and explored what that means for NATO and European governments’ cloud adoption plans. Read full article Comments ]]>
 
-### CEO Jensen Huang s job is suddenly on the line at Nvidia
-Wed, 11 Nov 2026 23:10:17 +0000 — https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/
+### The Elder Scrolls most obscure adventure gets a 4K PC makeover
+Thu, 12 Nov 2026 19:49:11 +0000 — https://arstechnica.com/gaming/2026/11/the-elder-scrolls-most-obscure-adventure-gets-a-4k-pc-makeover/
 
-Nvidia’s board is set to decide the future of its founder Jensen Huang after revelations that he had a romantic relationship with a company executive, days after it emerged that he had an affair with a suspected Chinese spy. The board held urgent talks on Wednesday night after news broke of the Nvidia chief executive’s relationship with Kimberly Powell, the chipmaker’s vice-president of healthcare, according to people familiar with the matter. The relationship with an Nvidia employee deepens an already damaging scandal for the $4.2 trillion semiconductor group. Huang on Sunday admitted to having an affair, two days after the FT reported his romantic links to an executive at an Nvidia client, who US officials believe is a Chinese intelligence asset. Read full article Comments ]]>
+So, you think you're an Elder Scrolls superfan? You say you've been there since The Elder Scrolls Arena on MS-DOS and have logged hundreds of hours in The Elder Scrolls Online ? You say you've bought all of the roughly 5,000 re-releases and remasters of Skyrim that have been made available in the last 15 years? Tell me, then: What do you think of The Elder Scrolls Travels: Shadowkey ? What's that? You've never played Shadowkey ? You weren't there day one back in 2004, Nokia N-Gage in hand , ready to experience the game's 176 x 208 resolution mobile hack-and-slash RPG combat for yourself? And you call yourself a real Elder Scrolls fan? Read full article Comments ]]>
 
-### T-Mobile illegally imposed 50GB cap on low-income home Internet plan, NY says
-Wed, 11 Nov 2026 20:32:21 +0000 — https://arstechnica.com/tech-policy/2026/11/t-mobile-illegally-imposed-50-gb-cap-on-low-income-home-internet-plan-ny-says/
+### Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash
+Thu, 12 Nov 2026 19:23:03 +0000 — https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/
 
-T-Mobile violated a New York state law by imposing a 50GB-per-month data cap and reducing speeds to less than a megabit per second on home Internet plans it is required to offer people with low incomes, New York government officials alleged. T-Mobile agreed to a settlement requiring it to scrap the data and speed limits, to offer the required low-income plans to more parts of the state, and to make it easier for customers to find information about the plans. The settlement requires T-Mobile to eliminate the speed limits and expand availability of the plans within 120 days. The alleged legal violation and the settlement are related to T-Mobile's wireless home Internet service, not the company's mobile plans. Governor Kathy Hochul and New York Attorney General Letitia James announced the settlement on Monday, saying that a state investigation found T-Mobile violated the New York Affordable Broadband Act (ABA). Read full article Comments ]]>
+Google is continuing its elemental AI naming scheme with the new Gemini 4 Hydrogen . These names are less descriptive than the Pro/Flash monikers of earlier releases, but Hydrogen's purpose is clear: It replaces the faster, more economical Flash models most people in Google's ecosystem use. With Google's recent Argon and Carbon releases, the rollout was staged and began with cybersecurity researchers. Even when general availability began, Google restricted access to users paying for its most expensive AI subscription. The limits for Hydrogen are much more relaxed, with access beginning immediately. This model has replaced Gemini 3.8 Flash across the company's products. Google claims that Hydrogen represents a major improvement versus the previous Flash model. It runs in one of four thinking levels (low, medium, high, and the new xhigh), and even in high mode, it's 2.5 times faster than Flash 3.8. Plus, it reduces "fabricated claims" by more than 5x, according to Google's analysis. Users will also see gains in code generation, with Hydrogen more than tripling 3.8 Flash's score in Terminal-Bench. In some cases, Hydrogen even trades blows with Argon. It managed a score of 54 in the popular Artificial Analysis Intelligence Index with xhigh mode versus 50 for Argon. Read full article Comments ]]>
 
-### Anduril says its first satellite can see adversaries maneuver in orbital night
-Wed, 11 Nov 2026 20:22:03 +0000 — https://arstechnica.com/space/2026/11/anduril-demos-night-vision-sensor-for-tracking-satellites-in-darkness/
+### Ukraine says it can’t stop Russian strikes because Starshield is limited again
+Thu, 12 Nov 2026 19:09:57 +0000 — https://arstechnica.com/tech-policy/2026/11/ukraine-says-spacex-starshield-is-restricted-again-spacex-claims-it-isnt/
 
-Anduril Industries has announced the successful demonstration of a new satellite-based sensor designed to track other spacecraft that may be hiding their maneuvers in Earth's shadow. Funded with Anduril's internal capital, the company's oven-sized satellite launched on a SpaceX rideshare mission in July with a package of tech demo payloads: an edge-compute processor, a power-management system adaptable to different mission types, and a long-wave infrared space sensor capable of detecting other objects in orbit. Anduril reported on the success of the tech demo mission Tuesday. The company's satellite, named Anduril-216, flies about 590 km (366 mi) above Earth, spending about one-third of each orbit in darkness. Anduril-216's night passes allow its infrared imager to shine. Read full article Comments ]]>
+Ukraine President Volodymyr Zelenskyy said today that Starshield has again been disabled on fast-moving drones in Ukrainian territory occupied by Russian forces, and that the US has provided "very little" information about the return of the restriction. "We have detected speed restrictions on Starshield on our Ukrainian territory again, in the temporarily occupied parts of Ukraine," Zelenskyy said in a speech at the 9th European Political Community Summit in Ireland. "The speed limit is back at 161 kilometers per hour—that’s 100 miles per hour." Zelenskyy's allegation is that Starshield—the military variant of SpaceX's Starlink satellite service—stops working on Ukrainian military drones when they travel above 161 kilometers per hour. Read full article Comments ]]>
 
-### NASA s secret weapon in the lunar space race may be ... procurement reform?
-Wed, 11 Nov 2026 19:00:26 +0000 — https://arstechnica.com/space/2026/11/nasa-takes-an-all-hands-on-deck-approach-in-its-return-to-the-moon/
+### Google faces calls for AI moratoriums in schools after Gemini pilot backlash
+Thu, 12 Nov 2026 18:57:45 +0000 — https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/
 
-Senior NASA officials held a lengthy news conference last weekend, laying out a series of lunar contract awards, new contract opportunities, and mission decisions. They followed one after the other: landers, nuclear-powered rovers, scouting drones, power generation, storage, and communication satellites. It never seemed to end. "Hopefully, we're keeping industry on their toes trying to catch up to all the solicitations we're doing," said Carlos García-Galán, manager of the Moon Base Program, more than 90 minutes into the news conference. "This is what it takes to do the Moon Base in the timeline we have set forth." Read full article Comments ]]>
+CHICAGO—Families joined protests in seven cities nationwide on Wednesday, rallying against what they see as Google’s bid to entrench its AI models in schools, turn kids of all ages into Gemini guinea pigs, and hook them on AI. The backlash follows a Google statement last week, confirming that there will be no way for students to use Google Search without AI. While Google claimed it was giving schools “more choice, not less”—by turning off Search, Gemini, and Gemini Notebook by default—it would not provide an option that allowed Search without AI. For students, the only way to avoid interacting with AI was to remember to add “-ai” to every query, parents worried. In Chicago, many families showed up to protest Google, despite cold, rainy weather. Waving signs, dozens of protesters marched up to Google’s downtown office as workers seemed to be leaving for the day, shouting chants like “Hey Google, nice try, we don’t want your Gemini” and “Hey, Google, leave our kids alone!” Read full article Comments ]]>
 
-### Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI
-Wed, 11 Nov 2026 18:16:40 +0000 — https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/
+### Netflix releases new trailer for Ray Gunn
+Thu, 12 Nov 2026 18:38:38 +0000 — https://arstechnica.com/culture/2026/11/netflix-releases-new-trailer-for-ray-gunn/
 
-Top chip manufacturer TSMC is ready to invest $1 billion in Anthropic and OpenAI. That would give the Taiwanese chipmaker direct stakes in leading AI developers, even as its own contract chipmaking business has profited enormously from the AI data center buildout. The chipmaker’s board approved plans to invest up to $500 million in OpenAI preferred stock reserved for large investors and another $500 million to purchase Anthropic common shares at the latter’s expected IPO price, according to Reuters . Such an investment may give markets “a shot of confidence as the artificial-intelligence trade shows signs of strain,” The Wall Street Journal reported. But analysts also warned that such circular financing among investors, suppliers, and customers has made it difficult to evaluate real market demand for AI-related hardware and services, according to the Journal. Read full article Comments ]]>
+We caught the first trailer for the upcoming Netflix animated film Ray Gunn in September and were charmed by director Brad Bird's blend of a Jetsons-like future with classic 1930s noir detective thrillers. Bird has described it as a mashup of The Maltese Falcon and Buck Rogers , and the latest trailer definitely gives off that energy. As previously reported , Bird has directed some of our all-time favorite animated films: The Iron Giant (1999), The Incredibles (2004), and Ratatouille (2007), with the latter two snagging well-deserved Oscar wins. He's been kicking around the idea for Ray Gunn for the last 30 years, working on his many other film projects while the Ray Gunn script—co-written by Matthew Robbins, who also co-wrote 1987’s Batteries Not Included with Bird—“stayed in a filing cabinet at Warner Brothers,” the director said earlier this year. The film’s inspiration came when Bird heard the opening of the B-52s’ “ Planet Claire ” (a personal favorite that also provides the soundtrack to the new trailer) and initially thought it was a cover of Henry Mancini’s theme music from the classic TV show Peter Gunn . Bird is a longtime fan of film noir and hard-boiled detectives, and he came up with the idea of a futuristic detective named Ray Gunn (a play on " raygun ," of course). “It’s film noir and a hard-boiled detective story, but it’s got a lot more comedy and a lot more action than the average film noir,” said Bird . Read full article Comments ]]>
 
-### Trump admin loses fight to spy on random journalists’ LinkedIn DMs
-Wed, 11 Nov 2026 18:05:26 +0000 — https://arstechnica.com/tech-policy/2026/11/trump-admin-loses-fight-to-spy-on-random-journalists-linkedin-dms/
+### Building a rocket is hard. AST SpaceMobile thinks it s "simple."
+Thu, 12 Nov 2026 18:28:22 +0000 — https://arstechnica.com/space/2026/11/building-a-rocket-is-hard-ast-spacemobile-thinks-its-simple/
 
-The Trump administration’s fight to stop suspected leaks of top-secret military information on LinkedIn can’t sweep in “a vast number of confidential sources” of random journalists “who have no conceivable relationship” to the Department of Justice’s investigation, an appeals court ruled Tuesday. The order came after the DOJ asked LinkedIn to turn over 18 months of communications from targeted journalists who collectively published more than 1,000 articles on many different topics over that time period. The request was not limited to journalists involved in a controversial report from a news outlet that Trump said exposed confidential military information in a foreign country. (The outlet is not being named to protect national security secrets.) Instead, the DOJ cast a wide net, requesting extensive LinkedIn data on journalists who had any possible link to the journalists around the time the report was drafted. The majority of journalists have LinkedIn accounts and publish their contact information to encourage sources to connect on the platform, LinkedIn argued. So allowing that government overreach went beyond harming targeted journalists and threatened to undermine a critical platform where journalists frequently connect with confidential sources, judges ruled. Even more concerning, the Trump administration secured a secrecy order barring LinkedIn from telling anyone about the sweeping request for a year. That left journalists unaware for far too long that their First Amen
+During an hour-long event on Thursday, Abel Avellan, the founder and chief executive of the telecommunications company AST SpaceMobile, laid out his vision for developing a large rocket to launch his Bluebird satellites into orbit. Avellan emphasized, over and over again, that AST plans to build a "simple" rocket. He paraphrased SpaceX founder Elon Musk several times, saying, "the best part is no part." Avellan emphasized that AST has already procured engines for its proposed Blacklift rocket, asserting that engine development accounts for 80 percent of a typical rocket's development cycle. "Of course rocket engineers are going to get mad with me, but you can simplify it as a big tank feeding engines," he said of the rocket. "So big tanks—we know how to do them. We know how to do them. We know how to do them in composite." Read full article Comments ]]>
 
-### Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.
-Wed, 11 Nov 2026 17:37:32 +0000 — https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/
+### Man s secret use of synthetic testosterone for cows nearly destroyed his heart
+Thu, 12 Nov 2026 18:17:19 +0000 — https://arstechnica.com/health/2026/11/mans-secret-use-of-synthetic-testosterone-for-cows-nearly-destroyed-his-heart/
 
-The last few years have seen significant debate over the widespread use of AI-powered tools in game development and the responsible disclosure of that usage to players. That debate has exploded into a full-blown controversy in the indie game development space this week, as Big Walk developer House House has publicly and belatedly disclosed minimal AI use in its popular co-operative puzzle exploration game. This particular controversy has been brewing behind the scenes for months, as judges and jury members for the prestigious Independent Games Festival Awards discussed the issue in private discussion groups. But the debate started to break into public view on Monday when 19 members of the 50-plus-member jury released a signed statement outlining a stance "declining to vote for any game that uses generative AI in any capacity." Noting "a significant increase in the number of submitted games developer with generative AI tools," the group of jurors called out AI's ecological, economic, psychological, and labor harms in rejecting tools whose use, they said, is still "not a foregone conclusion in our industry." Read full article Comments ]]>
+For 11 years, a Massachusetts man had an alarming array of health problems, most notably that his heart kept failing. He landed in the hospital over and over again, needed life support at one point, spent years going to specialists, and underwent a barrage of tests along the way. But through it all, he never revealed a key detail behind his ailments: He was taking powerful, illicit synthetic testosterone derivatives (aka anabolic-androgenic steroids, or AAS). One of the drugs he took was approved only for use in animals; it's primarily used to beef up cows. Left in the dark, his doctors had to puzzle this out on their own. In a case report in this week's issue of the New England Journal of Medicine, they explain how they did it. They also offer a warning: These cases will only become more common, and clinicians need to know what they look like. Read full article Comments ]]>
 
-### Apple is shuttering its 28-year-old online community forum
-Wed, 11 Nov 2026 17:04:26 +0000 — https://arstechnica.com/gadgets/2026/11/apple-is-shuttering-its-28-year-old-online-community-forum/
+### The amazing disappearing exoplanet
+Thu, 12 Nov 2026 17:18:10 +0000 — https://arstechnica.com/science/2026/11/the-amazing-disappearing-exoplanet/
 
-Apple’s online community forum will close on November 20. On Tuesday night, Apple posted a message to the Apple Support Community announcing the forum's closure: The Apple Support Community will permanently close on November 20, 2026. Starting today, the site will no longer accept new posts and is available in a read-only state. You can continue to find trusted guidance and support on the official Apple Support site . We want to thank the community members who have contributed their time and expertise to help others with their Apple products. For 28 years, the forum has provided Apple users with a way to get quick technical advice about their products. That advice usually came from fellow users, though Apple employees occasionally chimed in. As with any community forum, the helpfulness and accuracy of the advice varied. Read full article Comments ]]>
+One nice thing about discovering exoplanets is that, once you work out how long their orbits take, they continue to show up like clockwork. The timing is so regular, in fact, that we can use variations to detect the gravitational influence of additional planets in the same exosolar system. And the precise timing is useful in that we can rely on it to point telescopes at the system when we know some of the light we detect has passed through the planet's atmosphere. Except when we can't. On Monday, researchers reported on an exoplanet that simply stopped showing up. TOI-2535b is a hot Jupiter-sized planet we've been observing as it transits between its host star, TOI-2535, and Earth for about seven years now. But it recently stopped showing up, and researchers suspect that's due to an unseen companion orbiting in a different plane. Read full article Comments ]]>
 
-### IBM to offer access to a dual-processor quantum system in 2027
-Wed, 11 Nov 2026 16:33:08 +0000 — https://arstechnica.com/science/2026/11/ibm-to-offer-access-to-a-dual-processor-quantum-system-in-2027/
+### Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395
+Thu, 12 Nov 2026 14:50:17 +0000 — https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/
 
-IBM's Quantum Developer's Conference is being held this week, and the company is using the gathering to provide an update to its roadmap: It is aiming to make error-corrected quantum computers before the decade is out. The changes greatly expand the scope of its next-generation Nighthawk general-use processors by adding a version with over 500 programmable qubits. At the same time, it's stepping back a bit on its plan to link multiple Nighthawk processors together, dropping the intended number of linked systems from nine to two. The total number of qubits planned for next year will remain the same; how the company is getting there, however, will be different. Read full article Comments ]]>
+Smartglasses have always faced an uphill road to acceptance. Not only is propping a computer up on your nose an uncomfortable proposition, but the privacy aspect has been vexing people since the Google Glass days . Now, Google is ready to take another swing at " intelligent eyewear " for the Gemini era after previewing its plans a couple of times. The first glasses are up for preorder today from Gentle Monster and Warby Parker, but they're no impulse buy. These devices are a collaboration between Google, Samsung, and the aforementioned eyewear designers. Gentle Monster and Warby Parker have each designed a few different frames, with options for transparent and tinted lenses. Samsung is providing the computing hardware that fits inside them, and Google has the software covered. Warby Parker has designed three frames for Google eyewear, called Alden, Reid, and Wren (see above). They are available with both standard optical and sun lenses in Pine, Saddle, and Jet Black colors at $395 and higher. Warby Parker is only selling devices in the US. Gentle Monster has gone a bit further with six styles, but Google hasn't told us any names for those yet. They come in dark red, pink, gray, and yellow colors and are available with clear, tinted, blue, or brown lenses. The Gentle Monster styles start a little higher at $449, and they will be available in the US and South Korea. Read full article Comments ]]>
 
-### Trump wanted little Kei trucks for America, Toyota makes it happen
-Wed, 11 Nov 2026 15:25:44 +0000 — https://arstechnica.com/cars/2026/11/toyota-resurrects-scion-with-right-hand-drive-kei-trucks/
+### Nvidia CEO Jensen Huang has resigned
+Thu, 12 Nov 2026 14:05:17 +0000 — https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/
 
-The idea that Americans should be offered a greater choice of smaller cars has support from strange bedfellows indeed. After all, who could forget President Trump—usually one to take a maximalist approach to any problem— announcing last year that he wanted the Department of Transportation to make Japan’s diminutive “Kei” cars legal here in the US. Ars’ attempts to get DoT to tell us more about the potential influx of little vehicles have mostly fallen on deaf ears. But this week, there has been movement on the topic, with Toyota announcing that it will bring back the Scion brand with the KEI-01. What’s a Kei car? In the US, the preponderance of humongous SUVs is a consequence largely of government policies, specifically corporate average fuel economy standards that made it less profitable to sell smaller, efficient cars. Japan’s Kei cars are what happens if the government instead restricts the size, engine capacity, and power output. Read full article Comments ]]>
+Nvidia chief executive Jensen Huang has resigned following revelations that he had two extramarital affairs, plunging the chipmaker at the heart of the global AI boom into crisis. The 63-year-old will be replaced by chief financial officer Colette Kress, who will serve as interim chief executive. His exit comes after he admitted to having a relationship with a woman that US authorities believe was a Chinese spy. It also emerged on Wednesday that Huang had an affair with a senior Nvidia executive. Read full article Comments ]]>
 
-### Google DeepMind just mathematically verified key parts of Signal
-Wed, 11 Nov 2026 14:08:57 +0000 — https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/
+### Hundreds of streaming services and nothing to watch
+Thu, 12 Nov 2026 14:00:19 +0000 — https://arstechnica.com/gadgets/2026/11/hundreds-of-streaming-services-and-nothing-to-watch/
 
-Google DeepMind researchers used agentic AI to mathematically prove, or “formally verify,” a number of the Signal protocol’s key cryptographic guarantees—a landmark development for the widely used cryptography and AI itself. Conducted as a sort of proof-of-concept project in just four weeks, the work is significant in two ways. It serves as further independent validation of the cryptography that protects massive quantities of the world's communications on platforms like the Signal app , Google Messages, and WhatsApp. And it demonstrates Google DeepMind's formal verification capabilities using a new AI framework called AlphaProof Code. More broadly, AI-aided formal verification is having a moment, but it is unclear how practical it will be for widespread use and how effective it can be at securing large amounts of code. Proponents of formal verification have long referred to it as a sort of holy grail in software security, because it uses math to check and validate that software is functioning as intended—in other words, that it doesn't have critical vulnerabilities. Read full article Comments ]]>
+“Fifty-seven channels, and nothin’ on.” Bruce Springsteen famously said those words during a concert and later in a song in the 1990s about the number of TV channels seemingly growing disproportionately to the availability of enjoyable content. Within a few years, there would be hundreds of TV channels and still, some would argue in hyperbolic frustration, “ nothing to watch.” Read full article Comments ]]>
 
 ## The Verge
 
-### Ring confirms its camera drone won’t have manual controls after crashing on CBS News
-2026-11-12T06:12:32-05:00 — https://www.theverge.com/tech/1031817/ring-drone-cam-manual-flight-controls
+### Here are the 25 original Xbox games you can now play on PC
+2026-11-12T16:00:00-05:00 — https://www.theverge.com/games/1032321/microsoft-xbox-original-games-pc-backwards-compatibility
 
-When (or if) Ring's security camera drone flies into our homes in January, you won't get the option to pilot it yourself. The Ring Drone Cam relies entirely on an "AI Pilot" system to follow pre-programmed routes and navigate autonomously around obstacles, with no manual control option available - and an embarrassing demonstration with CBS News might reveal why. The video, broadcast on CBS Mornings and published on Threads , shows Ring founder Jamie Siminoff allowing technology reporter Jo Ling Kent to manually fly an early version of the drone via a mobile app with integrated controls. Ling Kent: "Can I control it?" Siminoff: "Yeah, so … Read the full story at The Verge. ]]>
+The first 25 original Xbox on PC games. | Image: Microsoft For the 25th anniversary of Xbox , Microsoft is beginning to make good on its paid "next-gen game preservation" promise. Starting today, you can play 25 different original Xbox games on your Windows PC, as long as you have (or are willing to pay) for digital copies. In July, Microsoft originally launched the idea with just four Xbox games , so 25 is progress, and Microsoft says all these games are now playable with keyboard and mouse. Plus, Microsoft says it's adding achievements to original Xbox games for the first time, starting with four games: Star Wars: Knights of the Old Republic and its sequel, Blinx: The Time Sweeper , and Conker: Li … Read the full story at The Verge. ]]>
 
-### Nvidia is reportedly preparing to fire Jensen Huang
-2026-11-11T17:44:36-05:00 — https://www.theverge.com/tech/1031652/jensen-huang-rumor
+### Microsoft Outlook is down
+2026-11-12T15:43:02-05:00 — https://www.theverge.com/tech/1032226/microsoft-outlook-is-down
 
-Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from The New York Times about a second alleged extramarital affair , just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports . The second alleged affair was with an executive who reports to him, Nvidia's vice president of health care, Kimberly Powell, according to the Times . The Nvidia board will meet as soon as today to decide on Huang's future at the company, according to the Journal . Nvidia did not immediately respond to a request for comment from The Verge . Huang and Powell, who are both marrie … Read the full story at The Verge. ]]>
+Over the last hour or so, reports have come in from around the world that people can't access their Outlook email, either through the web or apps. Microsoft has acknowledged the issue from its Microsoft 365 Status account , saying that "We've determined a portion of infrastructure is experiencing elevated load across multiple regions, which is likely contributing to the connectivity errors." There were also some reports of problems with Teams, but some of the people reporting issues say Teams is still working now. Now, as of 3:30PM ET, Microsoft says : While we haven't identified any recent changes that correlate with the start of impact, … Read the full story at The Verge. ]]>
 
-### Hands on with Home Assistant’s new ‘smart home multi-tool’
-2026-11-11T17:00:00-05:00 — https://www.theverge.com/tech/1031601/home-assistant-connect-aux-2-hands-on
+### Meet the people who want peptides to be made in America
+2026-11-12T15:00:00-05:00 — https://www.theverge.com/column/1032243/peptides-american-manufacturing-maha
 
-The Aux-2 can be many things. Even a hat for your amp! | Photo: Nathan Edwards / The Verge Nabu Casa - the commercial side of the Open Home Foundation , which runs Home Assistant - just launched the Home Assistant Connect Aux-2 , a multi-function box designed to help you bring more non-smart devices into your smart home. It's part of Home Assistant's ongoing efforts to become more user-friendly . And it's working. I've been testing the Aux-2 for a couple days and I've found it unsurprisingly useful and surprisingly easy to set up. The Aux-2 is a $69 box about the size of a deck of cards. It has 2.4GHz Wi-Fi, Bluetooth, Ethernet, USB-A, USB-C, a digital/analog audio jack, a Grove port for interfacing with peripherals like sensors, bu … Read the full story at The Verge. ]]>
+The SS Jeremiah O’Brien, a WWII ship/peptide party location. | Photo: Haus Fund This is Optimizer , a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. We'll be taking a break next week and will be back on November 25th. Opt in for Optimizer here . The SS Jeremiah O'Brien is a World War II Liberty ship. The hulking vessel was built in 56 days. It made 11 trips to Normandy, France, to supply the Allied powers in the fight against German U-boats. Last week, it was the site of a black-tie peptide party thrown by a trio of Gen Z venture capitalists. Roughly 150 people attended the event, where four types of … Read the full story at The Verge. ]]>
 
-### United won’t let your AI agent book your flight
-2026-11-11T16:54:21-05:00 — https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents
+### No, AI agents did not discover a previously unknown Maya site
+2026-11-12T14:42:40-05:00 — https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery
 
-United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book their flights, The Wall Street Journal reports , in line with observations from other businesses like Doordash . But United is concerned that agents could expose customers' information or make purchases they didn't intend, and potentially skirt federal rules about the kind of information airlines need to share with customers - like having them attest that their bags don't have explosives. While agents can still show users United flights, they … Read the full story at The Verge. ]]>
+“I woke up and checked the agents' reports. 'DAMN!' They had found lots of villages and other regular shapes that looked like structures or houses,“ Pietro Miotti wrote on his blog. | Image: Pietro Miotti Armed with a team of AI agents, Google researcher Pietro Miotti claimed earlier this week to have discovered a potentially unmapped Maya site in Mexico. There was just one problem: The site had already been discovered and was published in an academic journal last year. The incident, which sparked criticism among archeologists online, underscores a growing tension in science as amateurs wielding increasingly powerful AI tools parachute into specialist fields, often without the expertise needed to understand what they are looking at. Local communities are often already well aware of sites in their area. Miotti said the idea to use AI to sea … Read the full story at The Verge. ]]>
 
-### Loot boxes, influencers, and addictive features face an EU crackdown
-2026-11-11T13:13:52-05:00 — https://www.theverge.com/policy/1031575/digital-fairness-act-eu-dfa-consumer-protection
+### Oh, Palantir is ‘progressive’ now, is it?
+2026-11-12T13:06:54-05:00 — https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video
 
-Gaming, social media, and e-commerce platforms are facing a fresh wave of sweeping European Union rules that aim to make "your online experience fairer." The newly proposed Digital Fairness Act (DFA) published by the EU Commission on Wednesday is designed to tackle practices that exploit consumers into spending more of their time and money online, including misleading prices or availability, addictive design features like gaming loot boxes, undisclosed influencer marketing, and more. "The Act will protect consumers of all ages shopping and browsing for goods or services online," the EU Commission said in a news bulletin . "It will also mean … Read the full story at The Verge. ]]>
+The future’s so bright, he’s gotta wear sunglasses. | Photo by Scott Olson/Getty Images I had other things to do today, but Alex Karp's pathetic attempt to pivot back to the left gave me no choice but to put them on hold. Last week's elections were a bloodbath for the right, a problem for all the wannabe fash founders who had tied their political fortunes to a "vibe shift" that enabled a glorious 100-year Trumpenreich. That freed up a lot of assholes to say what they actually thought. Except Donald Trump's victory was, in fact, narrow, and two years of his corrupt policies have enraged Americans. "I've been a Democrat my whole life. I grew up in a far left environment. I know more about being a progressive than almost anybody … Read the full story at The Verge. ]]>
 
-### Toyota’s Scion is back, starting with an American-made, 25-mph kei truck
-2026-11-11T12:09:58-05:00 — https://www.theverge.com/transportation/1031554/oyota-scion-kei-01-truck-revival
+### The Jensen Huang scandal is hardly over
+2026-11-12T12:44:33-05:00 — https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling
 
-Toyota is dusting off the Scion badge for a radically different mission. Rather than targeting youth-market hatchbacks, "Scion by Toyota" is being positioned as an experimental mobility incubator - and its first vehicle is an authentic Japanese-style kei truck built in Indiana. Kei vehicles, which are built to satisfy Japan's light vehicle regulations, are enjoying surging popularity around the world, including here in the US. More than 30,000 used kei trucks have been imported into the US since 2020, with roughly 7,500 units entering the country each year. Even President Trump is a fan , telling reporters last year that he authorized the De … Read the full story at The Verge. ]]>
+I was certain, until the story of Jensen Huang's second affair hit, that Huang was bulletproof. After all, why wouldn't he be? He's placed himself indispensably at the center of the AI industry and famously had no succession plan at Nvidia. In fact, he's the only CEO Nvidia has ever had. L'&eacute;tat c'est moi. Then two stories were published nearly back to back on Wednesday: one alleging Huang had an affair with his subordinate Kimberly Powell, another that the board was meeting to consider his ouster. First thing Thursday morning, Nvidia announced Huang had resigned. One of the most powerful men in Silicon Valley was out. Why throw Huang under … Read the full story at The Verge. ]]>
 
-### Google’s Tabletop AI experiment lets you build custom collaboration apps
-2026-11-11T11:00:00-05:00 — https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability
+### ‘The end of Tesla!’: Cybertruck diehards turn on Elon Musk after he pulls the plug
+2026-11-12T12:00:17-05:00 — https://www.theverge.com/transportation/1031991/elon-musk-cancels-cybertruck-tesla-fans-backlash
 
-Tabletop isn’t anything to do with D&D or boardgames, but it does make it easier to coordinate with freinds, | Image: Google Google has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friends. The Tabletop platform shares some visual similarities with workplace management apps like Asana and Monday, but with a built-in AI feature that allows you to vibecode personalized interactive tools by describing them, such as savings trackers, chore charts, event plans, and more. "Just add in your links, files and ideas, then prompt @tabletop - or pick a starter template - to generate custom interactive trip itineraries, dinner polls, expense splitters and tournament brackets," Google … Read the full story at The Verge. ]]>
+The Cybertruck is heading to that shiny cyber-dumpster in the sky , leaving the folks who built online identities around Elon Musk's polarizing pickup feeling bereft. Usually, Musk's fanbase treads lightly around their idol's mercurial decisions. This time, however, the truck's demise has sparked rare backlash within the Tesla community - aimed squarely at the guy who signed its death warrant. Troy Meekhof, who posts on numerous social platforms under the moniker "The Cybertruck Guy," has been vocal about his disappointment in Musk's decision to wind down Cybertruck production by the end of summer 2027. (The original plan was to start windin … Read the full story at The Verge. ]]>
 
-### The best early Black Friday deals you can already shop
-2026-11-11T10:53:55-05:00 — https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026
+### 25 years later, Xbox is trying to reinvent itself again
+2026-11-12T12:00:00-05:00 — https://www.theverge.com/tech/1031792/xbox-25-year-milestone-notepad
 
-The countdown to Black Friday is on, and the first discounts are starting to appear. Although the shopping holiday isn t officially until November 27th, retailers are already dropping early deals on some of our favorite tech. Of course, with prices rising across the board, a good discount doesn t necessarily mean you re getting a historically low price. But we re still seeing worthwhile discounts on a host of tried-and-tested gear, with more expected in the coming weeks. Below, we ve rounded up the best early Black Friday deals we ve found so far. Prices could drop further as Black Friday approaches, as is always the case, but these deals are worth considering if you d rather shop early and beat the holiday rush. We ll continue to update this guide as more retailers launch their holiday sales, too, so be sure to check back regularly as we get closer to the main event. Ember Mug 3 (14-ounce) Ember’s latest smart mug is designed to keep your coffee at the ideal temperature for up to three hours, with five temp settings between 120 and 145 degrees Fahrenheit. The third-gen version is similar to prior models; however, you can now adjust the heat settings directly on the mug and throw it in the dishwasher, which wasn’t the case before. Where to Buy: $149.95 $99.99 at Amazon $149.95 $99.99 at Best Buy $149.95 $99.99 at Ember Hisense CanvasTV (2026) Hisense’s 2026 CanvasTV is a 4K QLED TV that doubles as wall art when you re not watching. It features a matte, anti-glare display and 
+Microsoft has spent the past 25 years trying to shake up the game console market. The original Xbox, which launched on November 15th in 2001, took on an industry dominated by Sony and Nintendo. Twenty-five years later, Xbox finds itself in a similar position. It's not starting from scratch this time around, but to reach another 25-year milestone, it needs to do something radically different. The original Xbox was radically different. Born out of a fear of Sony putting a PC in the living room, Microsoft built its first game console around familiar PC technology. A custom Intel Pentium III processor powered the original Xbox, alongside an Nvi … Read the full story at The Verge. ]]>
 
-### Sharge’s eye-catching MacBook charger is over 25 percent off
-2026-11-11T10:30:00-05:00 — https://www.theverge.com/gadgets/1031301/sharge-140w-gan-charger-lenovo-yoga-mini-desktop-pc-deal-sale
+### AI chatbots are recommending fake retail websites, study finds
+2026-11-12T12:00:00-05:00 — https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations
 
-Looking for a MacBook and device charger that’s as stylish as it is capable? Both Amazon and Sharge are selling the Pixel 140W GaN charger for $69.88 and $69.90, respectively, a $24 discount on its usual price. If you’re not in need of that much wattage but like the style, Sharge is also selling the 67W version for $19.90 ($30 off) or the 100W version for $59.90 ($16 off). Sharge Pixel 140 GaN Charger Where to Buy: $90.9 $69.88 at Amazon $90.9 $69.9 at Sharge The Pixel 140 delivers up to 140W of power when using only one of its three USB-C ports, which Sharge says is capable of taking a 16-inch MacBook Pro from a flat battery to 50 percent charge in just 25 minutes. It’s 47 percent smaller than the MacBook’s included charging brick as well, which is great if you’re tight on bag space or travel frequently. The pixel display on the side has configurable brightness and orientation, and displays your current charging wattage. Other deals to consider Halo fans looking for a fun weeknight project can grab Mattel’s Brick Shop Warthog on Amazon for $62.99 ($12 off), which is the lowest price we’ve seen on the brick-ified UNSC replica. The 935-piece set lets you recreate a 1:22 scale model of the iconic land vehicle, and includes a 1:64 scale metal version as well. Windows users with Mac Mini envy might consider the Lenovo Yoga Mini , which is currently discounted to $599.99 ($460 off) at Best Buy as part of the retailer’s early Black Friday promo. The compact desktop PC features an I
+Shoppers using AI chatbots to research products or find places to buy items could be directed to imposters and other risky websites, a new study found. The study conducted by IP protection firm Podqi and shared exclusively with The Verge prompted ChatGPT, Gemini, and Perplexity with a handful of shopping-related questions involving a selection of 151 brands. Questions included "What are the top websites for buying [brand]?"; "Where can I find [brand] online?"; and "Does [brand] ship internationally? What are their regional websites?" The test ran over the course of two testing periods in September and asked about 151 small and large compani … Read the full story at The Verge. ]]>
 
-### Ocarina of Time is even better if you use a smartphone app
-2026-11-11T10:00:00-05:00 — https://www.theverge.com/games/1031321/the-legend-of-zelda-ocarina-of-time-notes-app-gold-skulltula
+### More game developers are starting to use generative AI
+2026-11-12T12:00:00-05:00 — https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs
 
-Hey there, buddy. I never liked hunting for Golden Skulltulas in The Legend of Zelda: Ocarina of Time . The game has 100 of them tucked all over Hyrule, and even over my many hours with the N64 classic growing up, I can't remember ever actually finding all of them, or even wanting to. Jumping into the Ocarina of Time remake , I expected to ignore the Golden Skulltulas once again. But while poking around Nintendo's Zelda Notes companion app, I discovered that its maps are a huge help to tracking down all of the elusive golden spiders - and pretty much every other collectible in the game - and now I find myself constantly opening up the app to make sure I haven't … Read the full story at The Verge. ]]>
+A photo from the GDC Festival of Gaming 2026 event. More video game developers are using generative AI tools in their jobs compared to last year, according to the GDC Festival of Gaming's latest annual industry survey . Forty percent of developers surveyed say they use it "as part of their job," an increase from 36 percent in 2025 . Usage was higher with game developers that work on free-to-play games at 58 percent and mobile-only studio workers at 70 percent. The survey is being published as the game industry continues to reckon with generative AI tools. While many game developers, particularly indie developers , have spoken out strongly against the technology, AI is at the center of indie awa … Read the full story at The Verge. ]]>
 
 ## Tom's Hardware
 
-### Noctua brings space-grade carbon nanotube thermal pad to AMD AM5 and AM4 processors — promises years of maintenance-free performance for $24.95
+### Russia’s Google says nearly 3% of its data was lost after crippling Ukraine drone strikes, opens secret availability zones
+Thu, 12 Nov 2026 21:00:00 +0000 — https://www.tomshardware.com/tech-industry/data-centers/russias-google-says-nearly-3-percent-of-its-data-was-lost-after-crippling-ukraine-drone-strikes-opens-secret-availability-zones-yandex-cloud-blames-lack-of-user-backups-for-lost-data-now-forcibly-applies-backup-rules-by-default
+
+Yandex, sometimes called Russia’s Google, has updated its customers in the wake of extensive damage to its data centers in drone strikes . In a blog post this week, the firm’s cloud business boasted that it had “restored access to more than 97% of customer data” [machine translation]. That might sound like a great success, but in the small print, as highlighted by The Register , there’s the admission “the remaining 2.84% cannot be restored due to critical damage to equipment.” Go deeper with TH Premium: AI and data centers (Image credit: Microsoft) The data center cooling state of play The custom AI ASIC state of play America’s AI chip rules keep changing — and the rest of the world is paying the price GTC 2026: Ian Buck press Q&A transcript — VP of Hyperscale and HPC speaks out on shelving CPX and shipping LPU decode this year Demand for data center CPUs has surged, and AI agents are responsible Data centers operated by Yandex have been under attack from Ukrainian drones for several weeks now. We covered reports about withering online troll activity and online payment system disruption last month. We know of at least three Yandex locations that have been damaged by Ukrainian drone assaults to date. The recent Yandex blog post also appears to blame the small proportion of users who suffered unrecoverable data loss for not making backups. When talking about the 2.84% of data that cannot be restored, it says that was partly due to “the lack of customer backups on the platform.”
+
+### Save $119 on DDR5 RAM with this high-end AM5 gaming combo from Newegg
+Thu, 12 Nov 2026 17:34:56 +0000 — https://www.tomshardware.com/pc-components/save-usd119-on-ddr5-ram-with-this-high-end-am5-gaming-combo-from-newegg-3-item-gaming-pc-combo-includes-9800x3d-32gb-corsair-vengeance-ddr5-ram-and-premium-msi-x870e-carbon-wifi-motherboard-for-only-usd1-250
+
+Newegg has refreshed its bundle deals and have recently come out with a couple of solid deals that help take some of the sting out of building a PC in these trying times. The latest combo pairs one of the fastest gaming CPUs in the Ryzen 5 9800X3D, 32GB of Corsair DDR5-6000 RAM, and a premium motherboard with MSI’s X870E Carbon Wifi for only $1,250.98 , saving $119 compared to buying the parts individually. In fact, buying this RAM kit alone would cost $509.99, so if you apply the discount to the RAM, it’s just $390 and cheaper than any comparable standalone kit, which looks to be around $460 at the time of this writing. Newegg also throws in a free Rosewill 360mm AIO ($90 value) to sweeten the pot. Check out all the RAM Combo deals at Newegg The RAM portion of the bundle, Corsair’s Vengeance RGB 32GB (2x16GB) DDR5-6000 CL36 RAM kit, is currently available on Newegg for an eye-watering $509.99 when bought separately. The good news is that the discount brings this RAM down to something reasonable for the times. This black kit matches the MSI X870E Carbon board in the combo and features a frosted RGB light bar that runs the length of the sticks. If RGB lighting isn’t your thing and you prefer a stealthy, unassuming look, you can turn it off. The DDR5-6000 speed lands in the sweet spot for the AM5 platform and is a worthwhile, good-looking option. The SK Hynix ICs under the heatsink pair nicely with the MSI board and offer plenty of overclocking headroom. free rosewill frostmax 
+
+### President Trump says Apple’s Tim Cook is the only man to replace Jensen Huang as Nvidia CEO
+Thu, 12 Nov 2026 16:16:54 +0000 — https://www.tomshardware.com/tech-industry/president-trump-says-apples-tim-cook-is-the-only-man-to-replace-jensen-huang-as-nvidia-ceo-proposes-a-legend-replaces-a-legend-in-call-for-apples-executive-chairman-of-its-board
+
+President Donald Trump has said that retired Apple CEO Tim Cook should replace Jensen Huang as the CEO of Nvidia, just hours after it was announced that the latter had resigned in the wake of a series of scandals. Taking to his Truth Social platform, the President said , "NOW THAT Nvidia CEO JENSEN HUANG, who has done a fantastic job, has resigned, there is only one man to take his place - TIM COOK of Apple. A Legend replaces a Legend! President DONALD J. TRUMP." Nvidia's board of directors announced on Wednesday that Huang had resigned following the revelation that he conducted an extramarital affair with a Megaspeed executive suspected of being a Chinese intelligence asset , and a further affair with Nvidia Vice President of Health Care, Kimberly Powell. Colette Kress, Executive Vice President and Chief Financial Officer, will serve as Interim CEO while the company looks for a replacement. Naturally, names have been floated as potential successor candidates, including Apple's Chief Hardware Officer Johny Srouji. With Nvidia at the center of the global explosion in AI, Huang and Trump have enjoyed a close relationship that routinely makes news headlines. Trump previously described Huang as 'utterly visionary' in regard to his views on tariffs and rescinding President Biden's AI Diffusion Rule . President Trump's name has been mentioned in the ongoing Huang affair scandal. Notably, it is alleged that while U.S. intelligence believed that Huang had been the target of a Chinese
+
+### Elon Musk says it ‘would be an honor’ to hire ousted Nvidia CEO Jensen Huang
+Thu, 12 Nov 2026 15:46:04 +0000 — https://www.tomshardware.com/tech-industry/semiconductors/elon-musk-says-it-would-be-an-honor-to-hire-ousted-nvidia-ceo-jensen-huang-possible-projects-could-include-terafab-spacexs-planned-gpu-manufacturing-or-teslas-ai-accelerators
+
+Jensen Huang resigned as Nvidia CEO two weeks after his relationship with a suspected Chinese spy was revealed by intelligence sources and a day after his affair with an Nvidia vice president became publicly known. But hours before this move, when it was just rumored that the Nvidia board was planning to oust him , Elon Musk had already stated his willingness to hire the former Nvidia chief on X . A random X user posted, “Elon please hire Jensen,” to which the billionaire replied, “That would be an honor.” @zerohedge That would be an honor November 12, 2026 Despite the scandals that Jensen is currently facing, he still has the engineering know-how, deep knowledge of the industry and its inner workings, plus multiple connections across the world, which would be extremely valuable for any company looking to break into the semiconductor industry. This is exactly what Elon Musk is doing with his Terafab project, which he first mentioned in November 2025 . Jensen Huang even warned that this was going to be a challenge, pointing out that “the engineering, the science, and the artistry of doing what TSMC does for a living is extremely hard.” Nevertheless, Musk poured his resources into the project, with construction on the Terafab facility in full swing and with plans to hit volume chip production by the second half of 2028 . Musk himself said that the site targets a production capacity of a million wafers a month by 2032. Tesla has an ambitious AI accelerator roadmap , and SpaceX h
+
+### Corsair HX1000i Shift Crystal power supply review: 1000W Platinum efficiency with an eye-catching transparent aesthetic
+Thu, 12 Nov 2026 14:00:00 +0000 — https://www.tomshardware.com/pc-components/power-supplies/corsair-hx1000i-shift-crystal-power-supply-review
+
+Corsair needs very little introduction to anyone who has built a PC over the past two decades. Founded in California in 1994 as a manufacturer of memory modules, the company has since grown into one of the largest brands in the PC component and peripheral market, with a catalog that covers cases, cooling, keyboards, mice, streaming gear, and of course, power supplies. Corsair entered the PSU market in the second half of the 2000s and built its reputation there by choosing its OEM partners carefully rather than manufacturing in-house. Channel Well Technology (CWT) has been one of the most important of these partners, producing a large portion of the RMx and HXi units over the years. The HXi series in particular has long been Corsair's high-end, digitally monitored family, positioned just below the flagship AX models. We take a closer look at the HX1000i Shift Crystal to see if it deserves a spot in our best power supplies list. The HX1000i Shift Crystal is a bit of an odd bird, and Corsair is clearly fine with that. First shown at Computex 2026 and launching on November 12th, it combines the side-mounted connector layout of the SHIFT models with the digital HXi platform, and then wraps everything in a chassis with clear polycarbonate panels on three sides, turning the internals of the PSU into a part of the build's aesthetics. Beneath the show, the platform is built by CWT. It holds a Cybenetics Platinum certification at both 115 VAC and 230 VAC, and it is fully compliant with
+
+### Nvidia CEO Jensen Huang resigns in the wake of multiple affairs, Chinese spy allegations
+Thu, 12 Nov 2026 13:58:41 +0000 — https://www.tomshardware.com/tech-industry/nvidia-confirms-jensen-huang-has-resigned-as-ceo-colette-kress-executive-vice-president-and-chief-financial-officer-appointed-interim-ceo
+
+Nvidia’s board of directors has confirmed today that Jensen Huang has resigned as the company's CEO. The news follows revelations that Huang had been involved in not one but two extramarital affairs, one with a suspected Chinese intelligence asset, and another with his direct report, Nvidia’s VP of health care, Kimberly Powell. "NVIDIA (NASDAQ: NVDA) Board of Directors announced today that Jensen Huang has resigned as President, Chief Executive Officer, and a member of the Board, effective immediately," the board stated. "Colette Kress, current Executive Vice President and Chief Financial Officer of NVIDIA, has agreed to serve as Interim Chief Executive Officer. Kress will continue to serve as Executive Vice President and Chief Financial Officer while serving as Interim Chief Executive Officer until a permanent successor has been named. The Board is initiating a search for a permanent Chief Executive Officer and will consider internal and external candidates." In recent weeks, stories have come to light alleging that Huang was involved in an overly familiar relationship with Megaspeed executive Alice Huang, whom U.S. intelligence agencies suspect may be a Chinese intelligence asset. It was reported that the AI GPU giant’s CEO may have been the target of a spy plot — Megaspeed is under investigatio n for its involvement in the smuggling of $2 billion worth of export-controlled AI GPUs into China. Nvidia shares plunged more than 10 percent in early market trading following the 
+
+### Noctua brings space-grade carbon nanotube thermal pad to AMD AM5 and AM4 processors
 Thu, 12 Nov 2026 13:04:13 +0000 — https://www.tomshardware.com/pc-components/thermal-paste/noctua-brings-space-grade-carbon-nanotube-thermal-pad-to-amd-am5-and-am4-processors-promises-years-of-maintenance-free-performance-for-usd24-95
 
 Austrian cooling outfit Noctua is officially rolling its new NT-CP1 AM5/4 Carbice carbon nanotube thermal pad for AMD AM4 and AM5 processors into the retail market. After announcing its partnership with advanced nanotechnology company Carbice back in June 2026, the premium thermal pad can now be purchased for $24.95 in the US and €24.95 in the European region. Grab the Noctua NT-CP1 AM5/4 Carbice carbon nanotube thermal pad on Amazon Conventional thermal pastes and most thermal pads gradually lose performance over time due to pump-out, delamination, cracking, and other forms of degradation. However, Noctua says that its new NT-CP1 thermal pad takes a different approach. It makes use of Carbice's vertically-aligned carbon nanotube technology, originally developed for high thermal reliability in aerospace systems. The carbon nanotubes gradually conform to microscopic imperfections of a CPU’s IHS over hundreds to thousands of thermal cycles. This allows heat transfer performance to improve during the initial activation period rather than gradually deteriorating. The thermal pad can also maintain stable, maintenance-free performance for years once the initial activation phase is complete. Thus, making it a suitable option for users who want consistent thermal performance without having to periodically replace degraded thermal paste. "Carbice pads offer a unique combination of ultimate performance stability and convenient installation. This makes the NT-CP1 the perfect choice for 
@@ -146,37 +176,42 @@ Thu, 12 Nov 2026 10:00:00 +0000 — https://www.tomshardware.com/tech-industry/d
 
 The AI data center boom is bringing hope to struggling cannabis farmers as they face increased competition, costs, and taxes amid reduced demand for marijuana. According to Arizona Public Media , the cannabis industry is in decline, with sales peaking in 2024 and oversupply driving prices down. And now, several growers are considering selling their cultivation facilities or converting them into “mini data center nodes.” These facilities already have many of the ingredients needed for AI data centers, such as the increasingly hard-to-get supply of electricity and water infrastructure. "For some reason, there's a lot more cannabis grown in Arizona than Arizonans use. And so, a lot of folks are getting out of that business, like myself, at least on the cultivation side. But these facilities can potentially be repurposed to be mini data center nodes," Moe Asnani, the former owner of two Tucson D2 Dispensaries, told the public broadcaster. He also added, "The whole idea is if you create these smaller nodes where people control their own data, where they're not at the mercy of other people's updates and things like that — that's kind of where the idea came in, because I believe in decentralization." Cannabis farming is both power- and water-intensive. Forbes looked at a 32,850-square-foot cannabis facility in Kalamazoo, Michigan, which is currently wired for 1.5 megawatts, which can be expanded to 2.5 megawatts in under a year and 15 megawatts in the long term. It's also provisione
 
-### Nvidia’s Board reportedly preparing to oust CEO Jensen Huang as second extra-marital affair emerges
-Wed, 11 Nov 2026 23:45:00 +0000 — https://www.tomshardware.com/pc-components/gpus/nvidias-board-reportedly-preparing-to-oust-ceo-jensen-huang-as-second-extra-marital-affair-emerges-stock-has-plunged-20-percent-since-scandals-began-huang-has-been-first-and-only-ceo-for-33-years
-
-Nvidia's Board of Directors is preparing to oust co-founder and chief executive Jensen Huang following revelations of two extramarital affairs, including one with a woman suspected of working for Chinese intelligence and another with an Nvidia executive , reports The Wall Street Journal . Although no final decision has been made yet, the company's directors could meet as early as November 11 to discuss Huang's future. Whoever succeeds Huang will be the company's second CEO in 33 years. Nvidia's stock dropped 8% in after-hours trading following the reports. Nvidia's board of directors launched an independent investigation into the matter on November 8. The report from the WSJ comes hours after the New York Times revealed that Huang allegedly had an extramarital relationship with Kimberly Powell , Nvidia's vice president of health care, who reports directly to him. According to five people who worked at Nvidia, the relationship was known internally, while Huang and Powell were reportedly seen together at a San Jose hotel during Nvidia's GTC conference in March. The allegations follow an earlier report that Huang had a relationship with Alice Huang, a Chinese businesswoman whom U.S. intelligence believes to be a Chinese intelligence asset. A similar controversy cost Intel chief executive Brian Krzanich his position in June 2018, when an internal investigation confirmed that he had maintained a consensual relationship with an employee, which violated the company's non-fraternizat
-
-### Jensen Huang now accused of affair with Nvidia executive who reported to him, alleged cover-up attempt
-Wed, 11 Nov 2026 22:31:39 +0000 — https://www.tomshardware.com/tech-industry/jensen-huang-now-accused-of-affair-with-nvidia-executive-who-reported-to-him-alleged-cover-up-attempt-new-indiscretion-comes-in-wake-of-admitted-affair-with-alleged-chinese-spy
-
-Nvidia CEO Jensen Huang — already embroiled in a scandal for an extramarital relationship with a woman believed by U.S. intelligence to be spying on behalf of China — reportedly had a separate affair with one of his direct reports, according to the New York Times . Nvidia's board is now reportedly preparing to fire Huang . The Times , citing five anonymous sources within Nvidia, says that Huang had a relationship with Kimberly Powell, the company's vice president of health care. The sources claim that Huang and Powell were "captured on video being affectionate" in March at a hotel in San Jose, Calif., where the company's GTC conference takes place. That report says that someone at the hotel filmed the moment on their smartphone, but that Huang's security team "sequestered" them and "made the person an offer to sign a nondisclosure agreement." Powell joined Nvidia in 2008 and has been steadily promoted. The Times highlights that personal relationships are mentioned as potentially causing conflicts of interest in Nvidia's code of conduct . Like Huang, she is married to someone else. In 2018, former Intel CEO Brian Krzanich resigned following a relationship with an employee, which was also against the company's policies. Nvidia has not responded to a request for comment from Tom's Hardware. This story will be updated if we hear back. Earlier this week, it came out that Jensen had an extramarital affair with Alice Huang, formerly a top executive at Singaporean firm Megaspeed and 
-
-### AMD’s Venice-X maxes out family at 5.3 GHz, returning 3D V-Cache to data center after four years
-Wed, 11 Nov 2026 21:30:00 +0000 — https://www.tomshardware.com/pc-components/cpus/amds-venice-x-maxes-out-family-at-5-3-ghz-returning-3d-v-cache-to-data-center-after-four-years-chips-target-hpc-workloads-with-pcie-6-0-and-1-6-tb-s-memory-bandwidth
-
-AMD missed out on deploying Turin-X CPUs in the previous generation, giving its 3D V-Cache tech a four-year hiatus from the data center following the launch of Genoa-X in 2023. In the second half of next year, 3D V-Cache is coming back for HPC with Venice-X, matching the 96 cores and 1,152 MB of L3 cache available on the EPYC 9684X (Genoa-X), but with vastly higher clock speeds, PCIe 6.0, and nearly four times the per-socket memory bandwidth. After first bringing hybrid bonding to EPYC processors with Milan-X in 2022, AMD followed up a little over a year later with Genoa-X. Turin came and went without a chip sporting stacked SRAM, but now, it’s back with Venice-X. The critical change this time around doesn’t come from big jumps in core count — and consequently cache — as is the case with the standard SP7 lineup. Rather, it’s the 5.3 GHz boost clock speed, another pillar of Venice broadly, that’s particularly beneficial in the HPC workloads Venice-X targets. AMD EPYC -X Chips SKU Family Cores / Threads Base / Boost Clock (GHz) L3 Cache TDP EPYC 7773X Milan-X 64 / 128 2.2 / 3.5 768 MB 280 W EPYC 9684X Genoa-X 96 / 192 2.55 / 3.7 1,152 MB 400 W EPYC 9006X (SKU unknown) Venice-X 96 / 192 X.X / 5.3 1,152 MB Unknown (likely 400 to 600 W) As you can see from the top EPYC -X chips from previous generations, boost clocks were significantly lower for the X chips, and higher frequencies were available within the standard chips from each family. Milan scaled up to 4.1 GHz, while Genoa co
-
-### Prusa launches new carbon-fiber and carbon-nanotube-filled 3D printing filament for electronics manufacturing
-Wed, 11 Nov 2026 21:00:00 +0000 — https://www.tomshardware.com/3d-printing/prusa-launches-new-carbon-3d-printing-filament-for-electronics-manufacturing-carbon-fiber-and-carbon-nanotube-filled-material-dissipates-electrostatic-energy-for-static-sensitive-electronics
-
-Prusa released its new Prusament PETG ESD on Tuesday: a carbon-fiber and carbon-nanotube (CNT)- filled, electrostatic-dissipative (ESD) PETG filament meant to protect static-sensitive electronics. While it’s great for enclosures for a Raspberry Pi, ESP32, and the like, Prusa is targeting the filament more toward electronics production than hobbyist use; however, it’s cheaper than the non-ESD Prusament PETG Carbon Fiber at only $56.99. Prusament PETG ESD Black 1kg - $56.99 Prusa isn’t the only one selling ESD filament; 3DXTech and Polymaker were first to the scene, but Prusa is the first to include carbon fiber alongside carbon nanotubes to provide the ESD properties, improving dimensional accuracy and minimizing warping. 3DXTech sells its ESD-PETG at $105; Polymaker’s Fiberon PETG-ESD is $65.98, but the Prusament PETG ESD is only $56.99 and is the only one with carbon fiber reinforcement. Non-ESD filaments are generally safe for electronics enclosures; many hobbyists use regular PLA, PETG, and ABS without any problems. And while the extra protection can be appreciated, Prusa positions this not for hobbyists, but for electronics production — PCB fixtures and holders for soldering, IC trays for handling and transport, holders for testing multiple boards at once, etc., as Prusa shows on the PETG ESD product page. It saves on manufacturing costs, reducing the need for CNC-machined ESD trays and fixtures, and can be quickly printed on-site with very little lead time. It’s not nece
-
-### OpenAI and Georgia county leaders hit with Mafia-style RICO racketeering lawsuit over $30 billion AI data center
-Wed, 11 Nov 2026 16:30:00 +0000 — https://www.tomshardware.com/tech-industry/data-centers/georgia-politicians-openai-slapped-with-racketeering-lawsuit-over-3-2-gigawatt-ai-data-centers-plaintiffs-allege-multiple-violations-were-part-of-a-coordinated-scheme-to-get-project-camellia-approved
-
-Residents of Effingham County, Georgia, just filed a RICO lawsuit against their county commissioners, county leaders, and OpenAI and its affiliates, alleging that they committed various offenses in a conspiracy to get OpenAI’s “Project Camellia” approved. According to the Effingham Herald , the plaintiffs — Dr. Michelle Finch-Mincey, Lehman Mincey Jr., and Raymond Carver — are seeking civil damages, saying that the project has harmed their property values and even pointing out that purchase offers for nearby residential properties have dropped or been withdrawn since the data center was announced. Go deeper with TH Premium: AI and data centers (Image credit: Microsoft) The data center cooling state of play The custom AI ASIC state of play America’s AI chip rules keep changing — and the rest of the world is paying the price GTC 2026: Ian Buck press Q&A transcript — VP of Hyperscale and HPC speaks out on shelving CPX and shipping LPU decode this year Demand for data center CPUs has surged, and AI agents are responsible The lawsuit names all Effingham County Commissioners — Chairperson Damon Rahn, Forrest Floyd, Roger Burdette, Jamie DeLoach, Elizabeth Helmly, and Phil Kieffer — as defendants, alongside County Manager Tim Callanan, Effingham County Industrial Development Authority (IDA) CEO Brandt Herndon, the IDA itself, OpenAI, Octans GA LLC, the entity operating the data center on behalf of OpenAI, and Savannah Industrial Development LLC, the agency involved in the sale of ID
-
-### PC peripheral maker Logitech giving all of its 7,000 employees the day off to play GTA 6
-Wed, 11 Nov 2026 15:55:12 +0000 — https://www.tomshardware.com/video-games/pc-peripheral-maker-logitech-giving-all-of-its-7-000-employees-the-day-off-to-play-gta-6-company-announces-game-day-initiative-dedicated-vacation-day-to-play-video-games
-
-As GTA 6, the most anticipated game of the year, perhaps the decade, nears its November 19 release date , one company has offered its employees the chance to take the day off to play it. Amid the expectation that gamers around the globe will call in sick to play the game instead of heading into the office, PC peripheral and hardware outfit Logitech is getting ahead of the game by giving 7,000 employees the chance to take a day off to play it. Or, if they prefer, they can play any other game instead, the company confirmed in a press release detailing the move. The new initiative is called "Logi Game Day," and it isn't only available to the top brass. Interns and full-time employees alike can take a day off from now until this time next year, at a time when it's been estimated that the GTA 6 launch could see the U.S. economy take a $1 billion hit in terms of productivity. The game, which is a console exclusive ahead of a claimed early 2027 PC release , is already available for preorder, with pre-loading also up and running. It's a good job, too, with a 212GB PS5 download set to be a real downer for eager gamers with slow internet. The ongoing price hikes also mean that upgrading your PS5 storage for GTA 6 won't be a fun time, either. As for Logitech, the company believes that it's time for people to move away from the belief that playing games is a waste of time, hence its new initiative. It makes sense for a company that makes gaming accessories to say that, of course, but CEO
-
 ## Phoronix
+
+### Rust 1.100 Released With The "Never" Type Finally Stable
+Thu, 12 Nov 2026 13:51:12 -0500 — https://www.phoronix.com/news/Rust-1.100-Released
+
+Rust 1.100 is out today as the newest version of this popular programming language...
+
+### AMD Zen 6 SMT Proves Very Advantageous Even For 256 Core EPYC 9996
+Thu, 12 Nov 2026 11:40:00 -0500 — https://www.phoronix.com/review/amd-epyc-zen6-smt
+
+With the now-shipping AMD EPYC 9006 "Venice" SP7 server processors sporting up to 256 Zen 6(C) cores per socket, or 512 cores in a 2P configuration, you may be wondering if Simultaneous Multithreading (SMT) is still worthwhile on these increasingly high core count processors. Long story short, SMT on AMD Zen 6 is still definitely worthwhile from a performance and power perspective. I was curious myself and ran some benchmarks to explore the SMT impact on the 256-core EPYC 9996 as well as the 96-core high frequency EPYC 9686F processors.
+
+### PostgreSQL Sees New Releases For 52 Security Vulnerabilities, 140+ Bug Fixes
+Thu, 12 Nov 2026 10:56:44 -0500 — https://www.phoronix.com/news/PostgreSQL-52-CVEs
+
+PostgreSQL 18.7, 17.12, 16.16, 15.20, 14.25, and 19 RC2 all released today due to 52 new security issues being disclosed...
+
+### Khronos To Explore New High Level API For Remote Offloading
+Thu, 12 Nov 2026 10:17:31 -0500 — https://www.phoronix.com/news/Khronos-Remote-Offloading-API
+
+The Khronos Group, the industry consortium responsible for OpenGL, OpenCL, Vulkan, and other industry standard APIs has formed an exploratory group to evaluate the possibility of a high-level remote offloading API...
+
+### ReactOS Gets Working Floppy Disk Support, VMware 3D Acceleration & SMP Progress
+Thu, 12 Nov 2026 09:41:16 -0500 — https://www.phoronix.com/news/ReactOS-Floppy-Disk-2026
+
+ReactOS as the open-source operating system project working on Microsoft Windows driver and application compatibility had a pretty successful 2026. Following two hackfests, a lot of new features have landed recently for ReactOS and some others are nearing the finish line...
+
+### NVIDIA NvRoot & ForgePtr Vulnerabilities Published For Linux Driver, 25 More Coming
+Thu, 12 Nov 2026 09:17:33 -0500 — https://www.phoronix.com/news/NVIDIA-NvRoot-ForgePtr
+
+In addition to Jensen Huang resigning, coincidentally the embargo just expired on the first two of 25 more NVIDIA graphics driver security vulnerabilities coming. ForgePtr and NvRoot are particularly volatile for those renting GPU slices in the cloud...
+
+### NVIDIA CEO Jensen Huang Resigns
+Thu, 12 Nov 2026 08:58:39 -0500 — https://www.phoronix.com/news/NVIDIA-Jensen-Huang-Resigns
+
+Following reports of two extramarital affairs, one with an alleged Chinese spy and the other with a VP that is a direct report to him, Jensen Huang is no longer CEO of NVIDIA...
 
 ### Linux 7.5 To Improve Support For Old ASUS Transformer Hybrid Laptops/Tablets
 Thu, 12 Nov 2026 06:26:17 -0500 — https://www.phoronix.com/news/Linux-7.5-ASUS-Transformer
@@ -203,42 +238,52 @@ Wed, 11 Nov 2026 16:04:00 -0500 — https://www.phoronix.com/news/More-Intel-D-S
 
 Intel's intriguing Crescent Island Xe3P-based AI accelerator hardware now known as the Intel GPU D Series continues seeing a lot of Linux kernel driver activity. The upcoming Linux 7.5 kernel is continuing to build out the support for this upcoming hardware...
 
-### AMD EPYC 9006 Venice vs. NVIDIA Vera Benchmarks For HPC Performance
-Wed, 11 Nov 2026 10:44:41 -0500 — https://www.phoronix.com/review/amd-venice-nvidia-vera
-
-Yesterday in the AMD EPYC 9006 "Venice" SP7 launch testing were reviews of the AMD EPYC 9996 256-core processor as well as the EPYC 9686F 96-core high frequency part. There were hundreds of benchmarks looking at the gen-on-gen performance from EPYC Turin to EPYC Venice as well as against the Intel Xeon 6 Granite Rapids competition. For those wondering about how AMD EPYC Venice is competing with NVIDIA s Vera CPU, this article provides a look at those results for a range of HPC workloads.
-
-### Initial AMD RDNA5/GFX13 Code Sent Out For Mesa RADV & RadeonSI Drivers
-Wed, 11 Nov 2026 07:18:36 -0500 — https://www.phoronix.com/news/AMD-GFX13-Initial-Mesa
-
-After AMD posted GFX13 patches for the AMDGPU Linux driver earlier in the week, today they opened the Mesa merge request for introducing the very primitive GFX13 support for the RADV Vulkan and RadeonSI Gallium3D/OpenGL drivers...
-
-### FreeBSD Working To Establish An AI Policy After Polling Developers
-Wed, 11 Nov 2026 06:30:00 -0500 — https://www.phoronix.com/news/FreeBSD-Q3-2026-Report
-
-The FreeBSD Project published its Q3'2026 status report on Tuesday that outlines a number of development initiatives to ongoing work around an AI policy for this BSD operating system...
-
-### ATI/AMD R300 To R500 GPUs See New 2026 OpenGL Linux Driver Optimizations
-Wed, 11 Nov 2026 06:01:52 -0500 — https://www.phoronix.com/news/AMD-R300g-Better-Shaders-2026
-
-Over 24 years old, the ATI (AMD) Radeon R300 graphics processors are still seeing improvements in the open-source Linux driver space. Merged to Mesa 27.0-devel this week were a number of shader compiler optimizations for the R300g driver that benefits not only the original R300 series graphics cards but also the R400 and R500 (Radeon X1000 series) too...
-
-### AMD AOCC 6.0 Brings Zen 6 Optimizations, New "aof" Fortran Compiler, aoc / aoc++ Branding
-Wed, 11 Nov 2026 05:54:19 -0500 — https://www.phoronix.com/news/AMD-AOCC-6.0-Released
-
-With yesterday's launch availability of the AMD EPYC 9006 "Venice" SP7 processors headlined by the incredibly fast EPYC 9996 and EPYC 9686F processors, AMD also launched AOCC 6.0 as the newest version of their in-house LLVM/Clang-based compiler stack...
-
-### Intel Releases New CPU Microcode To Fix A Variety Of Functional Issues
-Wed, 11 Nov 2026 05:41:00 -0500 — https://www.phoronix.com/news/Intel-CPU-Microcode-20261110
-
-Intel on Tuesday released the microcode-20261110 package that ships updated CPU microcode binaries for recent Intel Core (Ultra) and Xeon processors. The updated CPU microcode is for Core Gen 13 "Raptor Lake" and newer while on the Xeon server side is for Sapphire Rapids and newer. This is also the first time Clearwater Forest has seen microcode updates...
-
-### Haiku OS Now Has A UFS Driver, Two & Three Finger Tap Gestures
-Wed, 11 Nov 2026 05:26:00 -0500 — https://www.phoronix.com/news/Haiku-OS-October-2026
-
-The BeOS-inspired Haiku open-source operating system project has seen new work on drivers and other improvements during the course of October...
-
 ## The Register
+
+### Lego marketplace BrickLink in pieces after 'unusual activity' takes it offline for almost a week
+Thu, 12 Nov 2026 20:08:08 +0000 — https://www.theregister.com/security/2026/11/12/lego-marketplace-bricklink-in-pieces-after-unusual-activity-takes-it-offline-for-almost-a-week/5309425
+
+Lego-owned marketplace BrickLink has been offline for almost a week after identifying "unusual activity on the platform," leaving fans unable to buy and sell spare bricks and minifigures. The company initially described the outage as "necessary work" and said the site would return on November 9. That deadline has come and gone. Visiting BrickLink's domain automatically serves the platform's maintenance page, which was last updated on November 11. "We took BrickLink offline after identifying unusual activity on the platform," the website states. "Our immediate priority was to secure the site, protect our members and ensure the integrity of BrickLink. "Before bringing the site back online, we need to fully understand what has happened. That means containing the issue, investigating how it happened and checking for related issues. "This work is still ongoing and we appreciate your patience while we work to get things back online as soon as possible." The references to security, containment, and investigation suggest something beyond routine maintenance, although BrickLink has not confirmed whether it suffered a cyberattack. The Register asked Lego for more information, but it did not immediately respond. Some adult fans of Lego (AFOL) have criticized the lack of information since the outage began on Friday, November 6. "Imagine how much better this would have been received if they were transparent from day one instead of pretending they have control over something they clearly d
+
+### Jensen Huang's self-sabotage sends Nvidia into a midlife crisis
+Thu, 12 Nov 2026 20:06:29 +0000 — https://www.theregister.com/ai-and-ml/2026/11/12/jensen-huangs-self-sabotage-sends-nvidia-into-a-midlife-crisis/5309480
+
+Nvidia CEO and founder Jensen Huang has been ousted after nearly two weeks of controversy that, at times, felt more like a soap opera than reality: a wealthy businessman, reported affairs, and an alleged Chinese spy and GPU smuggler. For Nvidia’s board, it seems there was no question Huang had to go. The man behind what was recently the most valuable company in the world proved too big a liability to retain in any capacity. He was too toxic even for a demotion from CEO to chairman, a vantage point that would have retained Huang as the face of the company even if he could no longer be trusted to run it. Replacing him won’t be so easy. Nvidia now faces an identity crisis. Huang, who has led the company for more than three decades, has no clear successor. The GPU slinger has no shortage of brilliant engineers, but executives capable of wrangling one of the biggest and most influential brands in the world, not so much. Ian Buck, father of CUDA and Nvidia’s VP of hyperscale and HPC is currently favored by many to be Huang’s successor. Buck has taken on a more public role within Nvidia in recent years headlining keynotes at events like Supercomputing and the AI Infra Summit. CFO Colette Kress, a bean counter who’s kept Jensen’s ambitions grounded for more than a decade, now takes the reins as interim CEO while the board searches for its next figurehead. And while Kress fights to contain the chaos, others will no doubt capitalize on Huang’s controversial choice of consorts to advanc
+
+### Palantir’s Karp takes a sharp left turn, says he and the company’s products are actually ‘progressive’
+Thu, 12 Nov 2026 18:53:27 +0000 — https://www.theregister.com/software/2026/11/12/palantirs-karp-takes-a-sharp-left-turn-says-he-and-the-companys-products-are-actually-progressive/5309441
+
+With tech CEO roles, a certain level of shamelessness comes with the job description. Yet Alex Karp, head honcho of Palantir, seems set to raise the bar with a conspicuous display of political flexibility following the Democratic wave in the US midterms. In December 2024, Karp gave $1 million to the pro-Trump super PAC MAGA Inc . But it does not take cutting-edge AI and data analytics – in which Palantir claims to have unique power – for Karp to understand on which side his bread is buttered. The man with the distinctive verbal diarrhea is now stressing his progressive credentials – and those of Palantir's products. The CEO told Politico that he is now open to voting for the Democrats come 2028. "I've been a Democrat my whole life. I grew up in a far-left environment. I know more about being a progressive than almost anybody on the planet, and I absolutely believe Palantir – all of our products are essentially progressive," Karp reportedly said. Karp's explanation for his political generosity was an apparent desire for balance. "My giving is equal, Democrat, Republican," Karp told the publication. "I can tell you, without going into things I'm not gonna disclose, I'm very balanced, and everyone in the political arena knows it. And I'll tell you what, I'm also not the village idiot." All of which raises the question of whether, in avoiding idiocy, it is necessary to eschew any principled stance whatsoever. If only the Germans of the Weimar Republic had thought to fund both sid
+
+### Software Samaritan revamps borked Indian certs to block smart TV ads
+Thu, 12 Nov 2026 18:02:55 +0000 — https://www.theregister.com/security/2026/11/12/software-samaritan-revamps-borked-indian-certs-to-block-smart-tv-ads/5309467
+
+eMudhra's private key exposure has been a security disaster, but it also means that you can block those annoying ads on smart TVs if you’re so inclined. Luckily for those with some know-how and a hatred of smart TV ads, Czech software developer Daniel Vrátil has done the work for you and published his project on GitHub for anyone who wants to take a stab at it - and do the legwork to add support for their own ad-riddled television. Vrátil said he’d been blocking ads on his Samsung smart TV using a Pi-hole (DNS-based ad-blocking software that can run on a Raspberry Pi, for those unfamiliar), but right around the time the eMudhra certificate leak mess unfolded, he had messed something up while tinkering with his home lab and the ads were back. First, here's a bit of background on the eMudhra mess. The company, based in India, operated a publicly trusted HTTPS certificate authority and says it has issued more than 60 million digital certificates. As we learned last month , eMudhra wasn't doing its best to keep its cryptographic keys safe: Eight intermediate CA private keys were found to be absurdly weak, with one being the number four and the others consisting of two- or three-digit numbers that could be guessed with little effort. eMudhra has since left the CA racket , saying that it wasn’t a big deal to it since issuing certs was a small part of its business. The company has blamed a bad software script put in place to generate keys that its hardware couldn’t handle as the roo
+
+### Microsoft has an image problem with November's Windows security update
+Thu, 12 Nov 2026 16:36:00 +0000 — https://www.theregister.com/os-platforms/2026/11/12/microsoft-has-an-image-problem-with-novembers-windows-security-update/5309435
+
+Printing with Windows has always been something of a choose-your-own-adventure, and November's security update has added another unwelcome plot twist: documents containing certain images might not print. The issue affects images rendered with a height or width of zero at the selected printing resolution. These might not be visible to users, but can form part of a document's watermarking or layout. After the update, those invisible objects can apparently make the printed document disappear too. Microsoft said: "The issue was observed when printing Microsoft Word documents using the Windows Graphics Device Interface (GDI), but printing from other applications might also be affected." According to the notification (WI1549472), most versions of Windows are affected, from the latest Windows 11 26H2 through Windows 10 Enterprise LTSC 2016. Windows Server from 2025 to 2016 is also affected. Users need not have added these objects themselves. Microsoft says document-generation tools can insert them even when no graphic is visible. Printer problems aren't the only issue requiring attention. After installation of the November 2026 security update, Microsoft warned that "certain Windows activation and licensing operations performed using the Software Licensing Management Tool (SLMGR) might fail." This one is a little more niche, but it could be a headache for affected administrators. It primarily affects organizations that use command-line tools or automated processes to manage Windows 
+
+### United Airlines wants you to check in, not your chatbot
+Thu, 12 Nov 2026 15:37:00 +0000 — https://www.theregister.com/ai-and-ml/2026/11/12/united-airlines-wants-you-to-check-in-not-your-chatbot/5309373
+
+United Airlines has become the latest company to slap restrictions on unauthorized third-party AI agents, warning that the bots could make unintended purchases, expose customer data, or bypass checks requiring human acknowledgment. The airline announced restrictions covering both its own digital platforms and indirect access through travel agencies and aggregators, with changes to its booking, ticketing, and distribution policies. United says automated actions could violate aviation regulations, citing the requirement for a human acknowledgment during check-in that bags contain no banned substances. A bot cheerfully ticking the box isn't quite the passenger confirmation it has in mind. And then there is the worry that "sharing account credentials with personal, third-party, AI assistants can expose sensitive information, and actions taken by these tools may result in unintended purchases, account changes, or use of MileagePlus miles." United would also rather customers use its own app than turn third-party assistants loose on its systems. AI agents are pitched as a way to outsource life's minutiae, and it's difficult to navigate the web without tripping over a breathless influencer explaining why you need one, or dozens, or hundreds of virtual personal assistants. The thing is that operating these assistants requires care and thought. Earlier this year, British mathematician Professor Hannah Fry conducted a cautionary experiment in which she gave an AI agent a bank card, and 
+
+### Microsoft Exchange Server 2016 and 2019 enter their 'permanently vulnerable' era
+Thu, 12 Nov 2026 14:55:00 +0000 — https://www.theregister.com/saas/2026/11/12/microsoft-exchange-server-2016-and-2019-enter-their-permanently-vulnerable-era/5309401
+
+Microsoft has warned customers still clinging to Exchange Server 2016 and 2019 to consider the software "permanently vulnerable" as November's security fixes arrive for Subscription Edition (SE) alone. The warning appears in the release documentation for November's Exchange Server SE security update. Looking for Exchange 2016 and 2019 information? Tough. Microsoft stated: "Exchange Server 2016 and 2019 are no longer tested for vulnerabilities and there are no updates released. If you are using those versions of Exchange, you should consider them permanently vulnerable [Microsoft's emphasis] and should upgrade your organization immediately." You have been warned. Support for Exchange Server 2016 and 2019 ended on October 14, 2025, but the company announced an Extended Security Updates (ESU) program in July 2025. The plan was that this program would end on April 14, 2026, by which time customers would surely have made the jump to a later or online version, right? The company said: "This period will not be extended past April 2026 (you do not need to ask)." And... of course it was. As April 2026 rolled around, and it became clear that some customers were still stubbornly sticking with the old versions, Microsoft did the equivalent of heaving an exasperated sigh and offered another six months of paid security updates. Those final weeks also brought a separate treat: a Windows Server update breaking Exchange Server . This time it was serious. Microsoft released the final Exchange 
+
+### Jensen Huang resigns as Nvidia chief executive
+Thu, 12 Nov 2026 14:21:35 +0000 — https://www.theregister.com/systems/2026/11/12/jensen-huang-resigns-as-nvidia-chief-executive/5309411
+
+Nvidia's Jensen Huang has resigned as CEO of the company, following the revelation of his affair with a woman suspected of being a Chinese spy and reports of a relationship with another woman who was a company employee. In a Form 8-K [PDF] filed with the US Securities and Exchange Commission (SEC), the GPU maker disclosed that it accepted the resignation of Huang, whom it identified as Jen-Hsun Huang, on November 11, effective immediately. He is being replaced by chief financial officer Colette Kress, who will serve as interim leader while the board conducts a search for a new CEO. Huang, who founded Nvidia in 1993 and served as president, CEO, and a member of the board of directors ever since, led the GPU maker to become one of the most valuable companies in the world, hitting a hit peak of over $5.5 trillion earlier this year. His position became untenable following an investigation by the company's board after he admitted to an affair, amid allegations he had a romantic relationship with a woman the US authorities suspected as a Chinese spy. Reports later surfaced this week of a second alleged affair with an employee of the company itself, reported by the New York Times as being with Kimberly Powell, Nvidia's vice president of health care. A two-week downfall News of the scandal first broke barely a couple of weeks ago, on October 29, when claims surfaced that Huang had been the target of an espionage plot involving a Chinese businesswoman working for a Singapore-based com
+
+### Quantum leap: IBM plans to scale beyond 1,000 qubits in 2027 with Nighthawk r3 processor
+Thu, 12 Nov 2026 13:37:02 +0000 — https://www.theregister.com/systems/2026/11/12/quantum-leap-ibm-plans-to-scale-beyond-1000-qubits-in-2027-with-nighthawk-r3-processor/5309357
+
+IBM has unveiled the Nighthawk r3, an upcoming next-gen quantum processor that will feature 520 qubits, as another step towards a planned fault-tolerant quantum system it hopes to launch in 2029. Big Blue's current Nighthawk r2 was only made available in September and features 120 quantum bits (qubits) capable of handling circuits using 7,500 operations. Its successor, IBM claims, will have more than four times as many qubits and execute 10,000 quantum operations to tackle larger, more complex problems while maintaining the same speed and accuracy. Nighthawk r3 is slated to arrive in 2027, when Big Blue plans to link two of the quantum processors into a single system with more than 1,000 qubits. IBM said applications increasingly require circuits executing thousands of quantum operations on approximately 100 qubits or more, speeding up collection of the millions or billions of samples needed to perform complex computations. Speed determines whether such demanding workloads can be completed in practical timeframes and at a reasonable cost. The new quantum processor will feature 10 chip-to-chip interconnects, called l-couplers, designed for linking together processors that it will use to enable a single 1,040-qubit system. This tech was tested using Nighthawk r1 processors . IBM previously outlined its goal of reaching reliable error correcting territory in 2029 with a quantum processor codenamed Starling. Now it intends for this to be the world’s first fault-tolerant quantum c
 
 ### Hackers exploiting ScreenConnect plugin flaw to spread malware across hundreds of PCs
 Thu, 12 Nov 2026 13:02:00 +0000 — https://www.theregister.com/security/2026/11/12/hackers-exploiting-screenconnect-plugin-flaw-to-spread-malware-across-hundreds-of-pcs/5309361
@@ -255,172 +300,127 @@ Thu, 12 Nov 2026 12:06:04 +0000 — https://www.theregister.com/databases/2026/1
 
 Encountered some odd SQL Server connection behavior since the October update? There might be a culprit… Microsoft has admitted that a change has caused linked server queries to fail to close connections. Linked servers via OLE DB providers have been around for years and are a useful way of, for example, using additional data sources in queries. Once a provider is added, SQL Server can open a connection to grab data, and close it again when the query is complete. Or, at least, that's the theory. The problem is that after the October 13 (KB5126646) update, connections created by SQL Server linked server queries might remain open. According to Microsoft, "As additional queries are performed, connections to external databases can accumulate instead of closing as expected. "This can slow or degrade server performance after prolonged run time." You think? Administrators will likely have already noted a suspicious number of open connections to external databases on affected systems. Microsoft said the issue affects SQL Server linked server queries that use OLE DB providers to connect to external databases. It gave PostgreSQL and Oracle as examples of connections known to be affected. And the fix? "If idle connections can be identified, it is possible to manually close them to temporarily relieve server load. "It is also possible to temporarily restore system stability by restarting the SQL service." The Windows behemoth went on to state the obvious: "However, these steps can also in
 
-### European tech buyers add digital sovereignty to cyber shopping list
-Thu, 12 Nov 2026 11:31:00 +0000 — https://www.theregister.com/security/2026/11/12/european-tech-buyers-add-digital-sovereignty-to-cyber-shopping-list/5309216
-
-European tech buyers are increasingly choosing cybersecurity vendors from their own continent in a bid to reduce their reliance on American technology. Digital sovereignty isn't only prompting enterprise customers to question their clouds of choice, it is also reshaping other parts of the industry too, and the shift is marked. According to sales figures compiled by Context, distributor sales in EMEA of cybersecurity products from EU-headquartered vendors jumped 35 percent in the two years to calendar Q3 2026. Total cybersecurity sales grew up 10 percent over the same period, and sales by US-run companies went up just 8 percent. That growth is from a relatively small base, though EU vendors gained nearly three percentage points to reach 15 percent of tracked sales by value. There is still a long way to go as US-headquartered vendors accounted for 62 percent. The trend coincides with a loss of trust in the Trump administration among customers outside of America, after it cosied up to autocratic rulers while criticizing and punishing allies with tariffs and more. Context stopped short of assigning blame. It said organizations are reviewing their reliance on third-party tech in light of EU compliance regimes: the NIS2 Directive and Digital Operational Resilience Act (DORA). NIS2, transposed into national law in October 2024 , requires organizations in the bloc to raise their common level of security in the face of digital threats and risks to critical infrastructure. DORA, introd
-
-### Rockstar workers vote on union recognition as GTA VI launch looms
-Thu, 12 Nov 2026 11:01:00 +0000 — https://www.theregister.com/software/2026/11/12/rockstar-workers-vote-on-union-recognition-as-gta-vi-launch-looms/5309319
-
-More than 1,600 Rockstar Games employees in the UK will begin voting on union recognition on Thursday, with the ballot kicking off just a week before the long-awaited launch of Grand Theft Auto VI. The ballot, which opens on November 12 and runs until November 26, will determine whether Rockstar formally recognizes the Rockstar Game Workers Union, part of the Independent Workers Union of Great Britain (IWGB). Nearly all UK employees below director level are eligible to vote. If successful, the union would become the largest recognized union in the UK games industry, giving workers a collective voice. The proposed recognition agreement follows four months of negotiations between Rockstar management and employees. It would allow workers to negotiate over pay, overtime, pensions, bonuses, leave and other employment conditions, while securing consultation rights over HR policies and AI. The vote comes at a particularly busy time for Rockstar, with GTA VI finally due to arrive on November 19, more than 13 years after its predecessor. The game is expected to be one of the biggest entertainment launches in history, although the people responsible for making it have rather more immediate concerns than sales records. "I am incredibly proud of the work we've put into making this game. I'm also proud of the union we've built here. For me, those two things are connected," said Nestor Uriate, an animation programmer and Rockstar Game Workers Union representative. "We care deeply about the
-
-### Orbit Global Menu: A working global menu addon for GNOME
-Thu, 12 Nov 2026 10:14:00 +0000 — https://www.theregister.com/os-platforms/2026/11/12/orbit-global-menu-a-working-global-menu-addon-for-gnome/5309134
-
-A new extension brings a working global menu bar to the GNOME desktop, even for some apps that don’t have menu bars at all. Orbit Global Menu is a new GNOME extension that gives the GNOME desktop a feature it was intentionally designed without, and one that some users miss very badly – this vulture being one of them. It adds a working global menu bar to the GNOME top panel. We suspect this is something that will cause strongly contrasting opinions among many GNOME users: some will by puzzled why anyone would bother, while others may think "at last!" and rush to try it. There have been other attempts to do this before, and the Reg FOSS desk has tried several of them, but we never found one that worked with the majority of applications. Our fondness for this UI feature was visible in the two-part series we wrote in September on how to customize Xfce and then in part two how to get the global menu working with more apps. The problem is getting worse over time, as in recent versions (since GNOME 40 and Gtk4), the GNOME human-interface guidelines encourage smartphone-style hamburger menus, replacing the traditional horizontal menu bar. It is tricky to add global menu bar support to apps that lack a menu bar, but Orbit's developer "Unmade" found a rather labor-intensive solution. The menu bar applet contains maps of keyboard controls for 292 different apps, so it can show a menu all on its own and then send those apps simulated keystrokes to operate it. It's not the programs' full 
-
-### London hotel put admin login for booking website on whiteboard behind the front desk
-Thu, 12 Nov 2026 09:30:00 +0000 — https://www.theregister.com/security/2026/11/12/london-hotel-put-admin-login-for-booking-website-on-whiteboard-behind-the-front-desk/5308889
-
-Welcome, once again, to PWNED, where all the victims are self-owned. This week, we welcome you to a London hotel where you could check out its admin credentials for a booking website just by walking past the front desk. Our story comes courtesy of Neycho Tepavicharov, co-founder of Flashcloud, a Delaware-based web hosting company. He was staying at a hotel in London when he noticed a shocking breach of basic security protocols by management, who were a little too hospitable with their credentials. As he was passing through the lobby, Tepavicharov noticed that the door behind the front desk was open and, inside that back room, there was a whiteboard. On the whiteboard, written in plain English, were the hotel’s Booking.com administrative username and password. Anyone near the desk could clearly see the login information, and if they didn’t have time to write it down, they could have snapped a picture for later use. As Tepavicharov explains, there’s plenty of mischief you could perform with these credentials. “With that login, someone could change or cancel reservations, see guests’ names and contact details, or message guests pretending to be the hotel,” he said. “Fake 'please confirm your payment' messages sent from compromised hotel accounts are a well-known scam.” An attacker could potentially exploit that access to disrupt hotel operations or target guests with convincing scams. Whether the exposed credentials alone would have been enough to access the account would depend
-
-### Data sovereignty takes more than keeping data close to home
-Thu, 12 Nov 2026 09:06:00 +0000 — https://www.theregister.com/storage/2026/11/12/sponsored-data-sovereignty-takes-more-than-keeping-data-close-to-home/5308742
-
-Keeping sensitive data within national borders might satisfy a residency requirement. But does it mean your organization is genuinely in control? Not necessarily. Data could be stored locally while remaining subject to another jurisdiction's laws, dependent on overseas service providers or exposed to disruption beyond your control. For enterprise IT teams, that distinction is becoming harder to ignore. Geopolitical tensions, evolving regulations and the growing use of AI are forcing organizations to reconsider what data sovereignty means in practice. Yet translating those concerns into a workable strategy is another matter. And simply throwing more money at the problem won't necessarily solve it. In The Register's on-demand webinar, Data Sovereignty By Design, moderator Tim Phillips speaks with Patrick Smith, Field CTO for EMEA at Everpure, formerly Pure Storage, about moving beyond compliance checklists and taking a more strategic approach to data control. Drawing on findings from Everpure's research, Smith explores a curious disconnect: organizations are increasing their investment in sovereignty initiatives, yet many still lack a coordinated strategy. Some of the risks attracting the most attention aren't necessarily those receiving the greatest investment. The discussion examines why sovereignty shouldn't be treated as an IT-only responsibility. Decisions about which data needs protection, which services must remain operational and what level of risk is acceptable require
-
-### Your AI agent is only as good as your endpoint data
-Thu, 12 Nov 2026 09:00:00 +0000 — https://www.theregister.com/ai-and-ml/2026/11/12/partner-content-your-ai-agent-is-only-as-good-as-your-endpoint-data/5308469
-
-Every so often a flaw comes along that shows how fast the ground can shift under IT and security teams. PHP2Shell, a pair of critical flaws in PHP, was one of them. Details leaked before the planned disclosure, frontier AI helped researchers find the flaws, and PHP shipped fixes the next day. For many teams, though, the patch was the easy part. So what does it take to respond at that speed, and where should teams begin? What does governed autonomous IT look like in practice? Picture a loop. Software finds where a risk lives and ranks what matters most. It proposes a fix, then, inside limits people define, carries it out and checks that it worked. Routine, low-risk actions can run on their own. Higher-impact ones wait for a person to approve. A few are never handed over at all. Each step leaves a record that someone can review and reverse. What challenges do IT and security teams face today? Three problems keep coming up. The first is visibility. PHP2Shell reportedly sat undetected for more than a decade. For these two flaws, the fix was a version upgrade. The hard part was finding every copy of PHP, including copies bundled inside other software or extracted by hand onto Windows machines that never registered as installed applications. Then teams had to work out which copies the internet could reach and check for signs of earlier attack. An inventory built from a periodic snapshot can't answer those questions on the day they matter. The second is tool-hopping. Answering "wher
-
-### AWS distills its cloud into a local emulator that runs on your PC
-Thu, 12 Nov 2026 05:47:31 +0000 — https://www.theregister.com/off-prem/2026/11/12/aws-distills-its-cloud-into-a-local-emulator-that-runs-on-your-pc/5309251
-
-AWS has released an emulator that kind-of-almost lets you use its cloud on a PC. As explained in the GitHub repository for the prosaically named “AWS Emulator,” the tool “is a local program that serves an AWS API endpoint.” The emulator doesn’t replicate the whole AWS cloud, instead offering its APIs. “You use it to test your software without calling AWS, on your own machine, on a development server, or in continuous integration (CI),” the repo explains. Because those tests never touch the AWS cloud, the tool is free to use. AWS wrote the emulator in Rust, a choice that senior specialist solutions architect Daniel Abib wrote helps to ensure the tool “stays light on CPU and memory on a laptop.” The emulator tool doesn’t replicate the entire AWS cloud. Abib said it supports the APIs of AWS services that have an API model in the AWS API models repository on GitHub . The Register found over 1,300 items on that page. While the tool lets developers test APIs, it doesn’t replicate anywhere near all the features of the Amazonian cloud. “It doesn’t evaluate IAM [Identity and Access Management] policies the way AWS does, and each emulator acts as a single account, with no cross-account or cross-Region behavior,” Abib wrote, adding “How closely it matches AWS varies by service and feature.” AWS publishes “fidelity scores” that detail how closely the emulator works on different AWS services. Amazon tries to achieve full fidelity, so the emulator produces the same results as AWS for valid
-
-### Disgraced former CA eMudhra blames buggy script for hopelessly weak certificates
-Thu, 12 Nov 2026 04:22:18 +0000 — https://www.theregister.com/security/2026/11/12/disgraced-former-ca-emudhra-blames-buggy-script-for-hopelessly-weak-certificates/5309244
-
-Former certification authority eMudhra has claimed a buggy Python script is the main reason it issued laughably insecure digital certificates. The company posted its account of the matter on Bugzilla where a user with the handle “Naveen Kumar ML” wrote “During a single key‑generation ceremony on 30 April 2025, sixteen subordinate (issuing) CA key pairs in eMudhra’s ‘B’ and ‘C’ series were generated correctly on a hardware security module and then processed through an approved wrap/unwrap round‑trip using a custom python key‑handling script.” eMudhra aimed to create eight ECDSA P-384 private keys which should have been 48 bytes long. But the script contained what Kumar described as “a bug/defect in the import code [which] resulted in a read‑back from the unwrapped object that truncated the private value, so the certified public keys correspond to private scalars below the expected range and are recoverable from public information.” The truncation is the key problem here, because it appears that eMudhra ignored 47 of the 48 bytes, producing its infamously insecure single-byte keys such as the number four. Whatever the nature of the bug, Kumar asserts it was “a custom script run only on an isolated ceremony host and was not a function of the emCA software.” eMudhra needed that script because “global supply chain constraints” meant it couldn’t acquire the hardware security modules (HSMs), devices that generate and store cryptographic keys, that it wanted to use when creating a se
-
-### Russian cloud Yandex says drone attacks on its datacenters caused data loss
-Thu, 12 Nov 2026 01:10:24 +0000 — https://www.theregister.com/off-prem/2026/11/12/russian-cloud-yandex-says-drone-attacks-on-its-datacenters-caused-data-loss/5309234
-
-Russian cloud operator Yandex has admitted to data loss after a drone attack on one of its datacenters. The attack, which Ukrainian press said was ordered by Kyiv, happened in early October and caused a fire and subsequent outage at Yandex’s ru-central1-b availability zone. Subsequent strikes targeted more Yandex datacenters and disrupted more of the company’s cloud and payment services. On Tuesday, Yandex posted an update on its recovery efforts, which it spun as something of a triumph because it restored over 97 percent of customer data. Of course that also means the company lost 2.84 percent of customer data, which it blamed on “critical hardware damage and a lack of backups on the platform.” It’s unclear if Yandex’s use of the phrase “on the platform” indicates it doesn’t keep backups of its own cloud, if whatever resilience techniques it employs don’t create multiple copies of customer data, or if clients didn’t protect their data. Whatever happened, Yandex has decided to enable backups by default for all VMs customers create in its cloud. That decision will mean customers will consume and pay for more Yandex resources, unless they opt out of the automated backups. Given that drones damaged three Yandex locations, and the war with Ukraine continues, users have good reasons to consider alternatives to its services. Indeed, Yandex’s announcement of its recovery efforts links to a page extolling the virtues of a hybrid cloud when devising data protection strategies. That pa
-
 ## Engadget
+
+### Who is Collette Kress, NVIDIA's interim CEO?
+Thu, 12 Nov 2026 19:26:47 +0000 — https://www.engadget.com/2315274/who-is-collette-kress-nvidia-ceo/
+
+Kress spent 25 years in various finance roles before joining NVIDIA in 2013
+
+### Multiple Microsoft 365 services are experiencing an outage
+Thu, 12 Nov 2026 19:17:32 +0000 — https://www.engadget.com/2315259/multiple-microsoft-365-services-are-experiencing-an-outage/
+
+Outlook and Teams are among the platforms impacted by "elevated load" issues.
+
+### Ex-NVIDIA CEO Jensen Huang is set to testify before Congress this month
+Thu, 12 Nov 2026 17:53:08 +0000 — https://www.engadget.com/2315091/ex-nvidia-ceo-jensen-huang-is-set-to-testify-before-congress-this-month/
+
+House Foreign Affairs Chair Brian Mast said a hearing with Jensen Huang will take place before Thanksgiving.
+
+### Zelenskyy says Starshield has been slowed again, endangering Ukraine's defense
+Thu, 12 Nov 2026 17:45:03 +0000 — https://www.engadget.com/2315072/zelenskyy-says-starshield-has-been-slowed-again-endangering-ukraine-defense/
+
+It comes three weeks after Ukraine's speeds were restored following the last throttling incident.
+
+### Apple Sports adds live UFC updates
+Thu, 12 Nov 2026 17:00:00 +0000 — https://www.engadget.com/2313383/apple-sports-adds-live-ufc-updates/
+
+The app can deliver real-time stats for each fight on a UFC card.
+
+### Pre-orders for some Apple Home Collection devices will open November 13
+Thu, 12 Nov 2026 15:16:55 +0000 — https://www.engadget.com/2314724/pre-orders-for-some-apple-home-collection-devices-will-open-november-13/
+
+You can lock in orders for two LG cameras and a video doorbell.
+
+### Jensen Huang is out as NVIDIA CEO
+Thu, 12 Nov 2026 14:04:30 +0000 — https://www.engadget.com/2314584/jensen-huang-is-out-as-nvidia-ceo/
+
+He has held the position since the company's founding in 1993, but has recently been embroiled in an international scandal.
+
+### Google really needs you to know it cares about smart glasses privacy
+Thu, 12 Nov 2026 14:00:00 +0000 — https://www.engadget.com/2314414/google-really-wants-you-to-know-it-cares-about-smart-glasses-privacy/
+
+Yes, it's a bit attention-seeking, but some of these policies are genuinely good.
+
+### The first batch of Android XR smartglasses made me rethink my stance on specs without displays
+Thu, 12 Nov 2026 14:00:00 +0000 — https://www.engadget.com/2314258/android-xr-smartglasses-hands-on/
+
+Google's first run of intelligent eyewear has a lot to offer.
+
+### Apple HomeView review: A versatile smart display and Siri-powered home hub
+Thu, 12 Nov 2026 14:00:00 +0000 — https://www.engadget.com/2313999/apple-homeview-review/
+
+With its first smart display, Apple provides a lot of convenience for a variety of tasks in your home.
+
+### Apple TV 4K (4th gen) review: Still great, but drastically more expensive
+Thu, 12 Nov 2026 14:00:00 +0000 — https://www.engadget.com/2314410/apple-tv-4k-4th-gen-review/
+
+The Apple TV 4K remains the best premium streaming box you can buy, but the higher price makes it harder to recommend.
 
 ### Nintendo is ending Google and Apple sign-ins early next year
 Thu, 12 Nov 2026 11:19:46 +0000 — https://www.engadget.com/2314515/nintendo-is-ending-google-and-apple-sign-ins-early-next-year/
 
 You'll soon no longer be able to use Google and Apple log-ins to access Nintendo.
 
-### New York is forcing T-Mobile to stop putting data caps on low-income home internet plans
-Wed, 11 Nov 2026 22:46:07 +0000 — https://www.engadget.com/2314341/new-york-is-forcing-t-mobile-to-stop-putting-data-caps-on-low-income-home-internet-plans/
-
-The company was throttling speeds for plans offered under the Affordable Broadband Act.
-
-### United is restricting AI agents from booking flights
-Wed, 11 Nov 2026 20:09:44 +0000 — https://www.engadget.com/2314121/united-is-restricting-ai-agents-from-booking-flights/
-
-The airline believes AI poses security risks and may violate DOT and FAA rules.
-
-### Google brings the Gemini app to Apple CarPlay
-Wed, 11 Nov 2026 19:54:55 +0000 — https://www.engadget.com/2314093/google-brings-the-gemini-app-to-apple-carplay/
-
-The chatbot was already available through the Google Maps app.
-
-### ByteDance is reportedly working on its own AI agent
-Wed, 11 Nov 2026 19:42:19 +0000 — https://www.engadget.com/2314064/bytedance-is-reportedly-working-on-its-own-ai-agent/
-
-The Chinese company wants to compete with Meta's Muse.
-
-### How many SpaceX Starship rocket tests have failed?
-Wed, 11 Nov 2026 19:27:00 +0000 — https://www.engadget.com/2314045/how-many-spacex-starship-rocket-tests-failed/
-
-Thanks to SpaceX's unique approach to testing, the answer isn't so clear-cut.
-
-### Cash App founder's killer gets 16 years to life in prison
-Wed, 11 Nov 2026 18:57:37 +0000 — https://www.engadget.com/2313991/cash-app-founders-killer-gets-16-years-to-life-in-prison/
-
-Bob Lee died from multiple stab wounds in 2023.
-
-### Peacock is redesigning its mobile app to focus more on vertical videos
-Wed, 11 Nov 2026 18:24:40 +0000 — https://www.engadget.com/2313912/peacock-is-redesigning-its-mobile-app-to-focus-more-on-vertical-videos/
-
-This is an attempt to "win another hour per user, per month."
-
-### Roku will stop selling smart home devices and refocus on streaming
-Wed, 11 Nov 2026 17:44:53 +0000 — https://www.engadget.com/2313802/roku-will-stop-selling-smart-home-devices-and-refocus-on-streaming/
-
-The company will stop selling video doorbells, its home monitoring system and other products.
-
-### Europe wants to ban 'dark patterns' in apps and loot boxes for minors
-Wed, 11 Nov 2026 14:29:03 +0000 — https://www.engadget.com/2313329/europe-wants-to-ban-dark-patterns-in-apps-and-loot-boxes-for-minors/
-
-Europe's Digital Fairness Act targets digital practices that harm children and push people into spending more.
-
-### Microsoft's Automatic Super Resolution is now officially out for the ROG Xbox Ally X
-Wed, 11 Nov 2026 12:59:44 +0000 — https://www.engadget.com/2313202/microsoft-automatic-super-resolution-comes-to-rog-xbox-ally-x/
-
-Microsoft's upscaling tech for video games is now officially available for select Xbox Ally machines, as well as some other Copilot+ PCs.
-
-### A Grok vibe-coding agent leaked sensitive SpaceXSI data
-Wed, 11 Nov 2026 12:35:10 +0000 — https://www.engadget.com/2313187/grok-build-leaked-sensitive-spacexsi-data/
-
-A flaw in SpaceXSI's Grok Build vibe-coding agent allowed sensitive data to leak from thousands of users including... SpaceXSI.
-
 ## TechCrunch
 
-### Who could replace Jensen Huang? A highly unscientific list of possible successors
-Thu, 12 Nov 2026 03:13:10 +0000 — https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/
+### Jensen Huang was having a third affair, Reuters reports
+Thu, 12 Nov 2026 20:26:47 +0000 — https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/
 
-Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.
+Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia.
 
-### The unfolding Jensen Huang scandal: a timeline
-Wed, 11 Nov 2026 23:50:00 +0000 — https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/
+### Google s latest Search upgrade promises better answers to your most complicated questions
+Thu, 12 Nov 2026 19:27:45 +0000 — https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/
 
-The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.
+Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.
 
-### Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang
-Wed, 11 Nov 2026 23:28:45 +0000 — https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/
+### Nectar launches an AI agent to automate creator discovery and outreach for brands
+Thu, 12 Nov 2026 19:11:00 +0000 — https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/
 
-As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.
+Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.
 
-### Jensen Huang accused of having another affair — with an Nvidia exec
-Wed, 11 Nov 2026 23:17:05 +0000 — https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/
+### Microsoft s Outlook email hit by new outage
+Thu, 12 Nov 2026 19:03:39 +0000 — https://techcrunch.com/2026/11/12/microsofts-outlook-email-hit-by-new-outage/
 
-Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.
+Microsoft hasn't yet given a cause for the outage, which is affecting Outlook email users.
 
-### Why the data center you dread might never even be built
-Wed, 11 Nov 2026 20:15:15 +0000 — https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/
+### Jensen Huang’s exit puts Nvidia’s support for open source in question
+Thu, 12 Nov 2026 18:39:23 +0000 — https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/
 
-The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, though, there s a more basic problem: A lot of the projects being announced may never get built in the first place. With billions of dollars in AI infrastructure [ ]
+Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.
 
-### Meta is losing its longtime head of infrastructure
-Wed, 11 Nov 2026 20:12:01 +0000 — https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/
+### Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang s exit
+Thu, 12 Nov 2026 17:36:40 +0000 — https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/
 
-Santosh Janardhan, who originally joined the company in 2009, will be stepping down from his role.
+Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition.
 
-### Olaf Sakkers is betting he can beat the emerging-manager squeeze
-Wed, 11 Nov 2026 20:04:28 +0000 — https://techcrunch.com/2026/11/11/olaf-sakkers-is-betting-he-can-beat-the-emerging-manager-squeeze/
+### United Airlines blocks AI agents from booking flights, citing cybersecurity risks
+Thu, 12 Nov 2026 17:17:58 +0000 — https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/
 
-Entering into the world of venture capital has never been easy, especially as a first-time fund manager. But it's especially daunting right now. Olaf Sakkers has spent the past five years proving that difficult doesn't mean impossible.
+The airline said it will not allow customers to use AI agents to book flights and manage reservations.
 
-### CoreWeave turns to customer prepayments, shorter contracts to fund AI growth
-Wed, 11 Nov 2026 19:54:00 +0000 — https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/
+### SoftBank’s billion-dollar loss may have put a cap on AI s natural gas ambitions
+Thu, 12 Nov 2026 17:00:52 +0000 — https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/
 
-CoreWeave is increasingly asking customers to pay up front, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.
+SoftBank lost over $3 billion preordering natural gas turbines to power AI data centers. Here's what the loss means to power markets.
 
-### With $720M round, Britain s Fractile gets a leg up in the race for AI chips
-Wed, 11 Nov 2026 19:34:55 +0000 — https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/
+### Phota Labs uses AI to turn everyday photos into professional-looking shots
+Thu, 12 Nov 2026 17:00:00 +0000 — https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/
 
-Fractile has now become one of the top-funded players in the race for purpose-built AI chips.
+Rather than giving consumers yet another photo-editing tool, Phota Labs aims to use advances in AI to automate the editing process so it’s easier for anyone to turn everyday moments into better photos.
 
-### Congress to call Jensen Huang in to answer for alleged Chinese spy affair
-Wed, 11 Nov 2026 19:22:22 +0000 — https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/
+### Jensen Huang agrees to testify before Congress
+Thu, 12 Nov 2026 16:36:37 +0000 — https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/
 
-Nvidia CEO Jensen Huang has until the end of the day Wednesday to answer a call from House Republicans for a closed-door briefing on his affair with alleged Chinese spy.
+Huang, who was ousted as CEO following reports of an alleged affair with a woman suspected of spying for China, agreed to testify Wednesday after several senior lawmakers threatened to subpoena him.
 
-### Is Jensen Huang’s bad behavior more commonplace than it seems?
-Wed, 11 Nov 2026 16:16:07 +0000 — https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/
+### Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry
+Thu, 12 Nov 2026 16:32:33 +0000 — https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/
 
-“There are a lot of senior people in the industry that know this is happening, and are effectively condoning it,” an investment intel consultant said.
+Nvidia's ousted CEO Jensen Huang's downfall isn’t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the AI industry in some very specific ways.
 
-### OpenAI s quarterly revenue reportedly crosses $10B for the first time
-Wed, 11 Nov 2026 16:14:44 +0000 — https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/
+### Trump floats Apple chairman Tim Cook as Jensen Huang s successor
+Thu, 12 Nov 2026 16:12:44 +0000 — https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/
 
-Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.
+In a post on Truth Social, President Trump says only one man can take Jensen Huang's place as head of Nvidia: Tim Cook.
 

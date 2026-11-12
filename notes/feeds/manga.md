@@ -1,6 +1,56 @@
-# Manga — harvested 2026-11-12T13:15:35.352Z
+# Manga — harvested 2026-11-12T21:05:41.314Z
 
 ## Anime News Network
+
+### Sega Streams Sonic the Hedgehog: Memories and Beyond Short Animated Film on YouTube
+Thu, 12 Nov 2026 15:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-12/sega-streams-sonic-the-hedgehog-memories-and-beyond-short-animated-film-on-youtube/.243768
+
+Short commemorating franchise's 35th anniversary features Sonic & friends vs. Metal Sonic
+
+### Professor Layton and The New World of Steam Game Reveals English Dub, Cast
+Thu, 12 Nov 2026 13:30:41 -0500 — https://www.animenewsnetwork.com/news/2026-11-12/professor-layton-and-the-new-world-of-steam-game-reveals-english-dub-cast/.243767
+
+Christopher Robin Miller, Lani Minella return as Professor Layton, Luke, respectively
+
+### Disney to Premiere Lilas Dreams & Memories Documentary About YOASOBI's Lilas Ikuta on December 30
+Thu, 12 Nov 2026 13:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-12/disney-to-premiere-lilas-dreams-and-memories-documentary-about-yoasobi-lilas-ikuta-on-december-30/.243764
+
+2-part documentary about ikura's experience with <cite>High School Musical</cite> streams/airs on December 30
+
+### Mushoku Tensei: Jobless Reincarnation Volumes 4-6 Light Novel Review
+Thu, 12 Nov 2026 12:00:00 -0500 — https://www.animenewsnetwork.com/review/mushoku-tensei/jobless-reincarnation-volumes-4-6/light-novel/.242823
+
+These volumes really flesh out Mushoku Tensei's expansive world, introducing a fascinating cast of varied new characters and building on already established relationships.
+
+### Fatal Fury City of the Wolves Game Adds Fatal Fury: The Motion Picture's Laocorn on November 19
+Thu, 12 Nov 2026 11:31:15 -0500 — https://www.animenewsnetwork.com/news/2026-11-12/fatal-fury-city-of-the-wolves-game-adds-fatal-fury-the-motion-picture-laocorn-on-november-19/.243765
+
+Laocorn trailer, <cite>Fatal Fury: The Motion Picture</cite> digest movie streamed
+
+### Shin Oishinbo TV Anime Casts Kenji Yamauchi, Ken Uo
+Thu, 12 Nov 2026 10:45:34 -0500 — https://www.animenewsnetwork.com/news/2026-11-12/shin-oishinbo-tv-anime-casts-kenji-yamauchi-ken-uo/.243762
+
+Series casts Yamauchi as Mantarō Kyōgoku, Uo as Tōjin Tōyama
+
+### Dana Terrace Shares Anime's Influence on Knights of Guinevere
+Thu, 12 Nov 2026 10:00:00 -0500 — https://www.animenewsnetwork.com/feature/2026-11-12/dana-terrace-shares-anime-influence-on-knights-of-guinevere/.243173
+
+<cite>The Amazing Digital Circus, Knights of Guinevere</cite> studio Glitch Productions discuss SAG-AFTRA Agreement
+
+### This Week in Anime - Roll the Dice
+Thu, 12 Nov 2026 10:00:00 -0500 — https://www.animenewsnetwork.com/this-week-in-anime/2026-11-12/.243713
+
+Lucas and Chris tackle the next great vice in anime: gambling!
+
+### Kakao Piccoma Launches New 'Lulumiru' BL Webtoon Platform
+Thu, 12 Nov 2026 09:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-12/kakao-piccoma-launches-new-lulumiru-bl-webtoon-platform/.243759
+
+New service available in Japan only launched on November 5
+
+### Reincarnated as a Sword Season 2 ‒ Episode 7
+Thu, 12 Nov 2026 07:30:00 -0500 — https://www.animenewsnetwork.com/review/reincarnated-as-a-sword-season-2/episode-7/.243745
+
+Hopefully this black-clad wielder of a massive sword isn't stuck on the ship for as long as Guts was in <i>Berserk</i>.
 
 ### Romancing SaGa 3: Destinies United Game Announces New, Earlier February 4 Release Date
 Thu, 12 Nov 2026 07:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-12/romancing-saga-3-destinies-united-game-announces-new-earlier-february-4-release-date/.243758
@@ -12,61 +62,16 @@ Thu, 12 Nov 2026 05:17:34 -0500 — https://www.animenewsnetwork.com/news/2026-1
 
 Shū Uchida, Masaaki Mizunaka both voice Juntarō in J.C.STAFF anime
 
-### Live-Action Wandance Film's New Video Previews Insert Song by mabanua
-Thu, 12 Nov 2026 04:36:18 -0500 — https://www.animenewsnetwork.com/news/2026-11-12/live-action-wandance-film-new-video-previews-insert-song-by-mabanua/.243751
-
-mabanua performs "Step by Step feat. Sagiri Sól, Kenya Fujita" for film opening on November 27
-
-### Chained Soldier Manga Resumes on December 12
-Thu, 12 Nov 2026 04:10:50 -0500 — https://www.animenewsnetwork.com/news/2026-11-12/chained-soldier-manga-resumes-on-december-12/.243752
-
-Manga went on hiatus in October after artist Yōhei Takemura's wrist injury
-
-### Resident Evil Requiem Wins Golden Joystick Awards' Ultimate Game of the Year, Console Game of the Year
-Thu, 12 Nov 2026 03:30:30 -0500 — https://www.animenewsnetwork.com/news/2026-11-12/resident-evil-requiem-wins-golden-joystick-awards-ultimate-game-of-the-year-console-game-of-the-year/.243739
-
-<cite>Onimusha: Way of the Sword</cite>, <cite>Pragmata</cite>, Capcom also take home awards
-
-### Viz Media Licenses Kyousuke Motomi's Registry of the Divine Manga
-Thu, 12 Nov 2026 03:19:35 -0500 — https://www.animenewsnetwork.com/news/2026-11-12/viz-media-licenses-kyousuke-motomi-registry-of-the-divine-manga/.243741
-
-Manga debuts on Viz Manga app on Thursday
-
-### Rei Mikamoto Ends Blood Friend Manga in December
-Wed, 11 Nov 2026 22:52:30 -0500 — https://www.animenewsnetwork.com/news/2026-11-11/rei-mikamoto-ends-blood-friend-manga-in-december/.243738
-
-Series debuted in December 2025
-
-### Duel Masters GT Manga's Part 3 Ends
-Wed, 11 Nov 2026 22:43:38 -0500 — https://www.animenewsnetwork.com/news/2026-11-11/duel-masters-gt-manga-part-3-ends/.243737
-
-3rd part launched on August 12
-
-### Tsugumi Project Anime Reveals January 2027 Premiere
-Wed, 11 Nov 2026 22:38:17 -0500 — https://www.animenewsnetwork.com/news/2026-11-11/tsugumi-project-anime-reveals-january-2027-premiere/.243744
-
-New visual also unveiled
-
-### The Seven Knights of the Marronnier Kingdom Anime Casts Yūsuke Kobayashi
-Wed, 11 Nov 2026 22:34:25 -0500 — https://www.animenewsnetwork.com/news/2026-11-11/the-seven-knights-of-the-marronnier-kingdom-anime-casts-yusuke-kobayashi/.243743
-
-Yūsuke plays "mysterious boy" debuting in episode 7 on Saturday
-
-### Welsh & Shedar Anime Launches Webtoon
-Wed, 11 Nov 2026 22:10:20 -0500 — https://www.animenewsnetwork.com/news/2026-11-11/welsh-and-shedar-anime-launches-webtoon/.243736
-
-12-episode webtoon features multiple artists
-
-### Kirby Rides the Dragoon in New Chogokin Figure
-Wed, 11 Nov 2026 22:03:33 -0500 — https://www.animenewsnetwork.com/interest/2026-11-11/kirby-rides-the-dragoon-in-new-chogokin-figure/.243742
-
-Figure arrives next May
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Interview: Blue Box Season 2 Director Daisuke Sako on Taiki & Chinatsu Focus and Adaptation Process
+Thu, 12 Nov 2026 09:43:11 GMT — https://animecorner.me/interview-blue-box-season-2-director-daisuke-sako-on-taiki-chinatsu-focus-and-adaptation-process/
+
+As one of the most outstanding romance stories in recent years, Blue Box highlights&hellip;
 
 ### Roundtable: Bartosz Sztybor on Potential Edgerunners Season 3, Retelling David and Lucy's Relationship, and Roman's Personal Inspirations
 Thu, 12 Nov 2026 00:28:31 GMT — https://animecorner.me/roundtable-bartosz-sztybor-on-potential-edgerunners-season-3-retelling-david-and-lucys-relationship-and-romans-personal-inspirations/
@@ -122,11 +127,6 @@ CyberAgent has entered into a business partnership with animation studio MAPPA a
 Wed, 11 Nov 2026 09:18:26 GMT — https://animecorner.me/nanatsu-ya-shinobu-and-her-jewelry-box-anime-announced-for-2027-reveals-teaser-visual-and-trailer/
 
 The anime adaptation of Tomoko Ninomiya’s Nanatsu-ya: Shinobu and Her Jewelry Box has been officially announced for 2027.
-
-### Berserk of Gluttony Season 2 Reveals Teaser Visual, April 2027 Release Date
-Wed, 11 Nov 2026 09:00:12 GMT — https://animecorner.me/berserk-of-gluttony-season-2-reveals-teaser-visual-april-2027-release-date/
-
-Berserk of Gluttony Season 2 will officially premiere in April 2027, with a new teaser visual revealed for the announcement.
 
 ## MyAnimeList News
 

@@ -1,6 +1,11 @@
-# AI — harvested 2026-11-12T13:15:35.352Z
+# AI — harvested 2026-11-12T21:05:41.314Z
 
 ## OpenAI
+
+### How Amplitude ships product improvements in 1–2 days with OpenAI
+Thu, 12 Nov 2026 20:00:00 GMT — https://openai.com/index/amplitude
+
+Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.
 
 ### Holiday Extras is rethinking what it can build with Codex
 Thu, 12 Nov 2026 09:30:00 GMT — https://openai.com/business/customer-stories/holidays-extras-codex
@@ -29,6 +34,12 @@ JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his le
 
 ## Hugging Face
 
+### LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B
+Thu, 12 Nov 2026 19:07:35 GMT — https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite
+
+### The Definitive Fine-Tuning Guide for 3D Generation Models
+Thu, 12 Nov 2026 00:00:00 GMT — https://huggingface.co/blog/3d-lora-finetuning
+
 ### BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model
 Wed, 11 Nov 2026 05:01:16 GMT — https://huggingface.co/blog/qvac/botpsy
 
@@ -37,13 +48,13 @@ Wed, 11 Nov 2026 00:00:00 GMT — https://huggingface.co/blog/token-pooling
 
 ## Google DeepMind
 
+### Introducing Gemini 4 Hydrogen
+Thu, 12 Nov 2026 18:00:50 +0000 — https://deepmind.google/blog/introducing-gemini-4-hydrogen/
+
 ### AlphaGenome 2: Deciphering how cells read DNA to better understand disease
 Wed, 11 Nov 2026 15:00:15 +0000 — https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/
 
 Predicting how DNA sequences and their variations impact specific human cell types and disease.
-
-### Gemini 4 Carbon is now available
-Tue, 10 Nov 2026 16:03:47 +0000 — https://deepmind.google/blog/gemini-4-carbon-is-now-available/
 
 ## VentureBeat AI
 
