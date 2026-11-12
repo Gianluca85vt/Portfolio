@@ -29,6 +29,11 @@ What Lucasfilm has not said is how.
 
 ## The choice nobody announces
 
+<figure>
+  <img src="/img/blog/star-wars-1977-cut-returns-what-is-left-to-scan/shot-02.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>35mm release print reels and cans, via Wikimedia Commons (free licence)</figcaption>
+</figure>
+
 A restoration is a sequence of decisions, and the first one is irreversible: you pick a physical element and you scan it. Everything downstream — the grade, the clean-up, the resolution you claim — is constrained by what you picked. Press releases talk about 4K. Archivists talk about elements, because 4K describes the scanner and the element describes the information.
 
 The ladder, roughly, from closest to the camera outward:
