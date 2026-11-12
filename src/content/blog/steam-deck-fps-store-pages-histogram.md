@@ -19,7 +19,6 @@ artistView:
   misses:
     - "Measurement: Valve told developers the sampling includes loading screens and has not said the public figure strips them out, so part of that left tail may be time nobody was playing."
     - "Scope: the cap truncates the top of the chart, so a game sitting on comfortable headroom and one scraping the limit draw the same picture."
-draft: true
 ---
 
 Open a game's store page on a Steam Deck this week and there is a number under
