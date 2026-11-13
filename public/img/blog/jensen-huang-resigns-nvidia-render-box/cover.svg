@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Jensen Huang resigns as Nvidia CEO: what changes for GPU buyers">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#18011F"/>
+      <stop offset="55%" stop-color="#2E0F4A"/>
+      <stop offset="100%" stop-color="#7621B0"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7621B0"/>
+      <stop offset="100%" stop-color="#2FD6A6"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="900" fill="url(#bg)"/>
+
+  <g stroke="#FFFFFF" stroke-opacity="0.05" stroke-width="2">
+    <path d="M0 150H1200M0 206H1200"/>
+  </g>
+
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <text x="600" y="138" font-size="28" letter-spacing="7" fill="#FFFFFF" fill-opacity="0.55"
+          font-weight="bold">NVIDIA · 12 NOVEMBER 2026</text>
+
+    <text x="600" y="288" font-size="86" font-weight="900" fill="#FFFFFF">HUANG RESIGNS</text>
+    <text x="600" y="364" font-size="44" font-weight="900" fill="#FFFFFF" fill-opacity="0.92">CFO TAKES THE CHAIR</text>
+
+    <text x="600" y="438" font-size="27" fill="#FFFFFF" fill-opacity="0.55" font-weight="bold">
+      THE ROADMAP IS FROZEN. THE WAFER SPLIT IS NOT.
+    </text>
+  </g>
+
+  <rect x="480" y="492" width="240" height="8" rx="4" fill="url(#accent)"/>
+</svg>
