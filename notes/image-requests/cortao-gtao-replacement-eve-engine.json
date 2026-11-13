@@ -1,0 +1,10 @@
+{
+  "slug": "cortao-gtao-replacement-eve-engine",
+  "urls": [
+    "https://raw.githubusercontent.com/theagentd/CORTAO/main/images/taafilter.png",
+    "https://raw.githubusercontent.com/theagentd/CORTAO/main/images/simplescene/graph.png",
+    "https://raw.githubusercontent.com/theagentd/CORTAO/main/images/complexscene/graph.png"
+  ],
+  "credit": "Daniel Isheden / Fenris Creations, via the CORTAO reference repository (MIT licence)",
+  "comparison": false
+}

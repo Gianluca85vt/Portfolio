@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="CORTAO: EVE's GTAO replacement, MIT licensed">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0.6" y2="1">
+      <stop offset="0" stop-color="#18011F"/>
+      <stop offset="1" stop-color="#1F6F6B"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <text x="80" y="150" font-family="Helvetica, Arial, sans-serif" font-size="34" fill="#7FD8D2" letter-spacing="6">AMBIENT OCCLUSION</text>
+  <text x="80" y="310" font-family="Helvetica, Arial, sans-serif" font-size="170" font-weight="700" fill="#FFFFFF">CORTAO</text>
+  <text x="80" y="400" font-family="Helvetica, Arial, sans-serif" font-size="46" fill="#D8F3F1">32 rays per pixel, no horizon angles</text>
+  <text x="80" y="492" font-family="Helvetica, Arial, sans-serif" font-size="40" fill="#9FE3DD">Fenris Creations &#183; MIT &#183; 12 Nov 2026</text>
+</svg>
