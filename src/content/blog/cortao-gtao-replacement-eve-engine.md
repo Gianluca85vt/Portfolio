@@ -41,6 +41,11 @@ screen-space budget while throwing out the horizon-angle idea entirely.
 
 ## What it does instead
 
+<figure>
+  <img src="/img/blog/cortao-gtao-replacement-eve-engine/shot-02.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>Daniel Isheden / Fenris Creations, via the CORTAO reference repository (MIT licence)</figcaption>
+</figure>
+
 It samples the depth buffer, builds a crude stand-in for the neighbourhood
 around each pixel out of circular occluders, and then traces rays against that
 proxy geometry. Up to 32 of them per pixel. Tracing 32 rays per pixel in screen
