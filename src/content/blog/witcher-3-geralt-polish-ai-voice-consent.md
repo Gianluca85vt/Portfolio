@@ -19,7 +19,6 @@ artistView:
   misses:
     - "Audio: a model built from the 2014 sessions learned a booth and a mic chain alongside a man, so a 2026 recording converted toward it risks importing the old room. Judged from what has been described, not heard."
     - "Consistency: with only the Polish track converted, Geralt's two biggest dubs are now matched to different reference points."
-draft: true
 ---
 
 Jacek Rozenek has been the Polish Geralt since 2007. He had a stroke in 2019,
