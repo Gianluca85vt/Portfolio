@@ -18,7 +18,6 @@ artistView:
     - "Format: thirteen minutes, free, on the rights holder's own channel is the length at which a crew can animate rather than cut, which a ninety-second anniversary trailer never allows."
   misses:
     - "Credits: the animation studio is the single line the press material leaves soft, and outlets printing different names for it is how a year of somebody's drawing becomes untraceable."
-draft: true
 ---
 
 Sega put *Sonic the Hedgehog: Memories and Beyond* on YouTube on 12 November
