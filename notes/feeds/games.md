@@ -1,6 +1,41 @@
-# Games — harvested 2026-11-13T12:36:59.558Z
+# Games — harvested 2026-11-13T20:38:59.686Z
 
 ## Eurogamer
+
+### Interest in The Legend of Zelda was "getting smaller and smaller" before Breath of the Wild, according to former Nintendo marketing leads
+Fri, 13 Nov 2026 19:52:50 +0000 — https://www.eurogamer.net/legend-of-zelda-smaller-before-breath-of-the-wild
+
+The Legend of Zelda was in "dire straits" before Breath of the Wild gave the beloved series a massive second wind, according to two former Nintendo marketing leads. Read more
+
+### Crimson Desert studio is implementing AI "throughout our entire development pipeline," and expects DokeV to launch in 2028
+Fri, 13 Nov 2026 18:29:00 +0000 — https://www.eurogamer.net/crimson-desert-ai-pipeline-dokev-2028
+
+Crimson Desert and DokeV developer Pearl Abyss is planning to further integrate generative AI into its workflow. Read more
+
+### Tell us your favourite Grand Theft Auto gaming memory and win a copy of GTA 6
+Fri, 13 Nov 2026 15:54:30 +0000 — https://www.eurogamer.net/grand-theft-auto-gaming-memory-competition-gta-6-win
+
+Hello! This piece is part of our GTA Week coverage here on Eurogamer, as we explore all things Grand Theft Auto across the launch period of the wildly anticipated Grand Theft Auto 6 . For more like this, see our GTA Week hub - or for the exact opposite, look out for our Not-GTA week of counterprogramming, running from 23rd November. Read more
+
+### Introducing three weeks of specialist GTA - and not-GTA! - programming on Eurogamer
+Fri, 13 Nov 2026 15:51:40 +0000 — https://www.eurogamer.net/introducing-gta-and-not-gta-theme-weeks
+
+Hello! This idea started as a single theme week, which we thought we might run in the lead up to Grand Theft Auto 6 's launch. Then it turned into a pair of theme weeks. Then we realised we had so much stuff - and that, frankly, GTA 6 would be so dominating it'll be around for far more than a week itself - that we couldn't really fit it into two weeks either. Read more
+
+### A new report reckons 40% of developers in the video games industry are using generative AI - but even more think it's harmful
+Fri, 13 Nov 2026 15:34:20 +0000 — https://www.eurogamer.net/gdc-report-40-percent-developers-generative-ai
+
+Despite all the outrage and criticism around game developers and publishers using generative AI in gaming, a new report from the Game Developers Conference (GDC) calculates that as many as 40 percent of developers active in the industry use the controversial tools in their work. This is up four percent compared to the same report last year . Read more
+
+### One week from launch, GTA 6's physical map reportedly leaks online thanks to the £350 collector's edition on show in a UK department store
+Fri, 13 Nov 2026 15:13:40 +0000 — https://www.eurogamer.net/gta-6-map-leak-online-collectors-edition
+
+With less than a week to go before GTA 6's hugely anticipated release , the game's final map - or at least a stylised poster version of it, depicting the state of Leonida's key landmarks - has surfaced online. It was reportedly snapped during Selfridge's sizable GTA 6 's takeover, and is seemingly the physical map included in Rockstar's &pound;350 collector's edition. Read more
+
+### Slay the Spire 2 gets its first new character since its massively successful launch in March as part of "biggest" beta patch yet
+Fri, 13 Nov 2026 15:02:10 +0000 — https://www.eurogamer.net/slay-the-spire-2-biggest-update-new-character-the-fool
+
+Slay the Spire 2, which released into early access earlier this year, is expanding once more with a major new beta update. This introduces the deckbuilder's first new character since launch - a whimsical musician armed with a bow - alongside two new modes, and more. Read more
 
 ### Xbox boss announces Wolfenstein 3 and confirms new game in development at idSoftware despite reported job cut "bloodbath"
 Fri, 13 Nov 2026 12:19:50 +0000 — https://www.eurogamer.net/wolfenstein-3-new-id-software-game-announced-xbox
@@ -27,42 +62,22 @@ Thu, 12 Nov 2026 16:30:00 +0000 — https://www.eurogamer.net/world-of-warcraft-
 
 World of Warcraft: Forever players are having a blast in the new MMO, but not everyone is basking in the rays of its successful launch. Players located in Australia, New Zealand, and other Oceania countries are having a bit of a sunlight problem. Read more
 
-### As low-effort AI slop continues to flood Steam, yet more developers announce game delays caused by Valve's growing approval backlog
-Thu, 12 Nov 2026 16:06:20 +0000 — https://www.eurogamer.net/steam-game-submission-review-backlog-ai-slop-approval-delays
-
-More indie developers say they've been forced to delay the impending release of their games as a result of Steam's growing approvals backlog - a relatively recent problem that's believed to stem from an influx of AI slop on the platform . Read more
-
-### After days of controversy, Nvidia CEO Jensen Huang has resigned
-Thu, 12 Nov 2026 15:07:20 +0000 — https://www.eurogamer.net/nvidia-ceo-jensen-huang-resigns
-
-Nvidia's founder and CEO Jensen Huang has resigned from his position as leader of one of the most valuable companies in the world. Read more
-
-### The Witcher 3 uses gen-AI to enhance Geralt's Polish voice following actor's stroke - "I do think this is one of those ways where you can use AI ethically"
-Thu, 12 Nov 2026 14:26:10 +0000 — https://www.eurogamer.net/cd-projekt-red-geralt-gen-ai-voice-polish-jacek-rozenek
-
-CD Projekt Red has revealed that it used - and is using - generative AI technology to treat and alter the voice of the Polish actor who portrayed Geralt of Rivia in upcoming Witcher 3 expansion Songs of the Past . Read more
-
-### After two weeks of multiplayer downtime, Dark Souls 2 & 3's mysterious server "issue" has been fixed, so it no longer feels so lonely online
-Thu, 12 Nov 2026 14:24:50 +0000 — https://www.eurogamer.net/dark-souls-2-3-servers-back-online
-
-Developer FromSoftware has announced that online multiplayer servers for Dark Souls 2 and 3 are back online following a nearly two-week outage. Read more
-
-### Paradox boss Frederik Wester stepping down after several tumultuous years for the Cities Skylines and Stellaris publisher
-Thu, 12 Nov 2026 13:22:00 +0000 — https://www.eurogamer.net/paradox-ceo-frederik-wester-stepping-down
-
-Paradox Interactive's Frederik Wester has announced he's stepping down from the role of CEO after a combined decade and a half leading the company. The news follows several tumultuous years for the publisher best known for grand strategy games including Stellaris, Europa Universalis, and Crusader Kings 3 . Read more
-
-### Will a Grand Theft Auto game ever be set outside of America? Rockstar offers a small glimmer of hope
-Thu, 12 Nov 2026 12:39:20 +0000 — https://www.eurogamer.net/grand-theft-auto-gta-non-american-setting-rockstar
-
-The Grand Theft Auto games have always been synonymous with America; Americana is baked into the crime series' very being. Across its history, there's only ever been one GTA game set outside America: the London-based expansion of the original game. Read more
-
-### Nvidia board considering ousting CEO Jensen Huang, report claims, as news of a second affair comes to light
-Thu, 12 Nov 2026 11:37:30 +0000 — https://www.eurogamer.net/nvidia-ceo-jensen-huang-affair-share-price
-
-Nvidia's board of directors has reportedly met to decide whether to remove the company's embattled CEO Jensen Huang, as news of a second extramarital affair has come to light. Read more
-
 ## GamesIndustry.biz
+
+### How to protect your IP against the army of AI clones
+Fri, 13 Nov 2026 15:00:00 +0000 — https://www.gamesindustry.biz/how-to-protect-your-ip-against-the-army-of-ai-clones
+
+Generative AI usage in video game development has increased significantly in recent months. Steam Next Fest featured over 8,000 demos in October 2026, many of which were created partly or entirely using generative AI tools. Read more
+
+### CD Projekt Red used AI to alter the voice of Geralt's original Polish actor in Witcher 3: Songs of the Past
+Fri, 13 Nov 2026 14:43:20 +0000 — https://www.gamesindustry.biz/cd-projekt-red-used-ai-to-alter-the-voice-of-geralts-original-polish-actor-in-witcher-3-songs-of-the-past
+
+For The Witcher 3's Songs of the Past expansion, CD Projekt Red used AI to alter the voice of Geralt's original Polish actor, Jacek Rozenek. Read more
+
+### The Digital Fairness Act is a decade-long bill coming due | Opinion
+Fri, 13 Nov 2026 13:42:30 +0000 — https://www.gamesindustry.biz/the-digital-fairness-act-is-a-decade-long-bill-coming-due-opinion
+
+When a draft of the European Commission's Digital Fairness Act leaked earlier this week, some industry reactions had a distinctly end-of-days flavour. The official responses now winding their way out of trade bodies after the official draft of the act was released are only ratcheting down the tone a little; less apocalyptic, but nonetheless grim warnings of a terrible fate for European games companies, muttering darkly about the stripping of supposed freedoms from players, parents, and everyone else within a very wide radius. Read more
 
 ### "It's a wild situation" – An investor and publisher perspective on the rise of AI copycats, the discoverability crisis, and more
 Fri, 13 Nov 2026 12:04:00 +0000 — https://www.gamesindustry.biz/its-a-wild-situation-an-investor-and-publisher-perspective-on-the-rise-of-ai-copycats-the-discoverability-crisis-and-more
@@ -109,88 +124,88 @@ Thu, 12 Nov 2026 14:36:10 +0000 — https://www.gamesindustry.biz/german-games-i
 
 The German Games Industry Association (Game) has criticised the Digital Fairness Act (DFA), warning that the legislation creates "double regulation and legal uncertainty" that could significantly harm European developers. Read more
 
-### Eve Online maker Fenris Creations is adding a rendering technique to its open-source Carbon engine that promises more accurate shading and greater depth
-Thu, 12 Nov 2026 14:00:00 +0000 — https://www.gamesindustry.biz/eve-online-maker-fenris-creations-is-adding-a-rendering-technique-to-its-open-source-carbon-engine-that-promises-more-accurate-shading-and-greater-depth
-
-Having open-sourced its Carbon engine earlier this year , Eve Online creator Fenris Creations is making a sizeable addition to the tech in the form of CORTAO. Read more
-
-### Black Forest Games spins out from THQ Nordic, co-founds indie studio group Third Signal
-Thu, 12 Nov 2026 11:53:40 +0000 — https://www.gamesindustry.biz/black-forest-games-spins-out-from-thq-nordic-co-founds-indie-studio-group-third-signal
-
-Black Forest Games has separated from THQ Nordic through a management buyout and co-founded an independent game studio group, Third Signal. Read more
-
-### Laid-off Id Software devs form employee-owned studio Hidden Horses
-Thu, 12 Nov 2026 10:17:40 +0000 — https://www.gamesindustry.biz/laid-off-id-software-devs-form-employee-owned-studio-hidden-horses
-
-A group of Id Software developers affected by Xbox's mass layoffs have formed an independent, employee-owned studio called Hidden Horses. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
 
-### Wolfenstein 3 Announced, Now in the Works at MachineGames
-Fri, 13 Nov 2026 00:30:00 GMT — https://www.pushsquare.com/news/2026/11/wolfenstein-3-announced-now-in-the-works-at-machinegames
+### The Game Awards 2026 Nominees to Be Revealed on 17th November
+Fri, 13 Nov 2026 19:30:00 GMT — https://www.pushsquare.com/news/2026/11/the-game-awards-2026-nominees-to-be-revealed-on-17th-november
 
-Confirmation it exists and not much more. MachineGames has officially confirmed it's now working on Wolfenstein 3 . As part of the 25th anniversary celebrations for Xbox, the developer and Asha Sharma posted word on social media. Read the full article on pushsquare.com
+Livestream will announce the nominees. Geoff Keighley has announced the nominees for all of the categories at The Game Awards will be confirmed next week, on 17th November 2026. A livestream will confirm the game's nominated, with the show itself airing on 10th December 2026. You can tune in for the nominee livestream at 9am PT / 12pm ET / 5pm GMT. Read the full article on pushsquare.com
 
-### DOOM: The Dark Ages and Horde Mode Is a Match Made in Heaven
-Fri, 13 Nov 2026 00:15:00 GMT — https://www.pushsquare.com/news/2026/11/doom-the-dark-ages-and-horde-mode-is-a-match-made-in-heaven
+### Star Wars: Galactic Racer Reaches 1.5 Million Players, Teases Future Updates
+Fri, 13 Nov 2026 19:00:00 GMT — https://www.pushsquare.com/news/2026/11/star-wars-galactic-racer-reaches-1-5-million-players-teases-future-updates
 
-Available for DLC owners from 16th November. id Software has revealed it's updating DOOM: The Dark Ages with a horde mode next week, called Slaughter Mode. It's a free addition, but there's a catch: you have to own this year's Revelations expansion to access it. Slaughter Mode releases on Monday, 16th November 2026, and brings with it "an all-new endless survival challenge designed to put even the most seasoned Slayers to the test". It's got randomised enemies, bosses, and arenas, and the ability to record your personal high scores and compete in weekly challenges. Read the full article on pushsquare.com
+Better scrib this doon. Developer Fuse Games has announced its debut title, the brilliant Star Wars: Galactic Racer , has amassed 1.5 million players. The news comes via a recent social post, featuring the one and only Biddy Blas himself: Read the full article on pushsquare.com
 
-### Was This New Fable Gameplay Meant to Sell the Game?
-Fri, 13 Nov 2026 00:00:00 GMT — https://www.pushsquare.com/news/2026/11/was-this-new-fable-gameplay-meant-to-sell-the-game
+### Mini Review: Shrek 2 Remastered (PS5) - Far Far Away Gets an All-Star Makeover
+Fri, 13 Nov 2026 18:00:00 GMT — https://www.pushsquare.com/reviews/ps5/shrek-2-remastered
 
-Because it doesn't do a good job. I am pretty confident Fable will be a fantastic RPG when it finally releases in February 2027, but for those still sat on the fence, Xbox is going to have to do a better job of promoting it than this latest example. To mark the 25th anniversary of Xbox, four minutes of gameplay taken from a quest has been uploaded. However, all of maybe 30 seconds of it actually has anything going on. Watch it above. Read the full article on pushsquare.com
+I believe, I believe, I believe this is a good time. While DreamWorks' tales of an ogre and his mates are hit or miss, there's no denying that Shrek 2 Remastered is a winning overhaul of a mid-2000s gem. It comes from an era when movie tie-in games were all the rage, whether that meant half-arsed Harry Potter adventures or excellent efforts like X-Men Origins: Wolverine . Read the full article on pushsquare.com
 
-### Microsoft Thinks Xbox Pioneered Dual Analogue Controllers
-Thu, 12 Nov 2026 19:30:00 GMT — https://www.pushsquare.com/news/2026/11/microsoft-thinks-xbox-pioneered-dual-analogue-controllers
+### Stranger Than Heaven Is So Big That All Its Acts Get a PS5 Trailer
+Fri, 13 Nov 2026 17:30:00 GMT — https://www.pushsquare.com/news/2026/11/stranger-than-heaven-is-so-big-that-all-its-acts-get-a-ps5-trailer
 
-Ummm. It’s a big month for Xbox as it celebrates its 25th anniversary, with lots of entertaining initiatives underway – including a pretty cool website where it tracks your entire history with the brand. But in a big – and otherwise interesting – celebratory blog post , boss Asha Sharma appears to have mixed up some of the facts. Read the full article on pushsquare.com
+And here's a look at act two. I read on social media today that RGG Studio estimates the main story of Stranger Than Heaven can take anywhere from 50 to 100 hours to complete. When it's able to dedicate entire trailers to each of the game's acts, I can believe it. Having covered Act 1: Kokura last month, the developer is back with an overview of Act 2: Kure. Catch it above. Read the full article on pushsquare.com
 
-### Disney Bringing Game Reveals to The Game Awards Next Month
-Thu, 12 Nov 2026 19:00:00 GMT — https://www.pushsquare.com/news/2026/11/disney-bringing-game-reveals-to-the-game-awards-next-month
+### We Want to Create Franchises That Withstand Decades : Sony Reveals Ambition to Dominate Anime
+Fri, 13 Nov 2026 17:00:00 GMT — https://www.pushsquare.com/news/2026/11/we-want-to-create-franchises-that-withstand-decades-sony-reveals-ambition-to-dominate-anime
 
-Also being streamed live on Disney+. Disney and The Game Awards have announced a collaboration that will see next month's show streamed live across the Disney+ platform and become the stage for Disney game reveals. The awards and announcements ceremony will remain available to watch live across all the usual streaming platforms, but now Disney+ is another way to view the proceedings. Read the full article on pushsquare.com
+Bold strategy to unify entire business. Sony’s gradual transition from consumer electronics to entertainment giant is paying dividends , as the firm’s value continues to rise on the back of hits like Spider-Man: Brand New Day and the overall PlayStation business. But the manufacturer has one big ambition that will bring all its divisions together: anime. Read the full article on pushsquare.com
 
-### GTA 6 Launch Leads to Special Holiday for All Palworld Dev Employees
-Thu, 12 Nov 2026 18:30:00 GMT — https://www.pushsquare.com/news/2026/11/gta-6-launch-leads-to-special-holiday-for-all-palworld-dev-employees
+### Play The Blood of Dawnwalker Again in New Game+, Part of PS5 Patch 1.2
+Fri, 13 Nov 2026 16:30:00 GMT — https://www.pushsquare.com/news/2026/11/play-the-blood-of-dawnwalker-again-in-new-gameplus-part-of-ps5-patch-1-2
 
-Leonida here we come. GTA 6 launches in one week's time, and the anticipation and excitement for the game is hard to ignore. Rockstar Games' inbound open world action game is going to be a major cultural event when it launches on 19th November, and it seems some companies are recognising that — most notably, Pocketpair, the team behind Palworld . Read the full article on pushsquare.com
+Extra songs, enemy balancing, and terrain tweaks too. Rebel Wolves has teased what to expect from PS5 update 1.2 for The Blood of Dawnwalker , which arrives next week. While the first major patch promised over 1,000 improvements, this second one doesn't, but the highlight of it is a major one: new game+. Read the full article on pushsquare.com
 
-### Xbox Wants You to Revisit Halo: Campaign Evolved on PS5 as Free Co-Op Mode Update Is Announced
-Thu, 12 Nov 2026 18:00:00 GMT — https://www.pushsquare.com/news/2026/11/xbox-wants-you-to-revisit-halo-campaign-evolved-on-ps5-as-free-co-op-mode-update-is-announced
+### PSA: GTA 6 Does Not Have Online Multiplayer at Launch
+Fri, 13 Nov 2026 16:00:00 GMT — https://www.pushsquare.com/news/2026/11/psa-gta-6-does-not-have-online-multiplayer-at-launch
 
-Firefight is back. A major free update for Halo: Campaign Evolved has been announced, and it's bringing Firefight back with a bang. For the uninitiated, Firefight was always the series' go-to co-op mode, allowing Spartans to team up and hold off waves of bloodthirsty opponents together. Read the full article on pushsquare.com
+It'll arrive a little later. GTA 6 is now less than a week away from its official launch, coming to PS5 on 19th November, 2026. It's likely to become the biggest entertainment launch of all time, with excitement at a fever pitch coming off the back of GTA 5 , which is the third best-selling game ever at a staggering 235 million copies . Read the full article on pushsquare.com
 
-### Mysterious Bandai Namco Trademark Has People Talking About a New Fighting Game
-Thu, 12 Nov 2026 17:30:00 GMT — https://www.pushsquare.com/news/2026/11/mysterious-bandai-namco-trademark-has-people-talking-about-a-new-fighting-game
+### God of War: Sons of Sparta Really Will Be Ported Backwards to PS4
+Fri, 13 Nov 2026 15:30:00 GMT — https://www.pushsquare.com/news/2026/11/god-of-war-sons-of-sparta-really-will-be-ported-backwards-to-ps4
 
-Fatal Ichor, anyone? Hmmm , something tells me this is only going to lead to disappointment... Earlier this week, Bandai Namco registered a video game trademark for 'FATAL ICHOR'. And as is so often the case with trademarks, a complete lack of context means that it could relate to anything. Read the full article on pushsquare.com
+Out on 16th Nov, with a free update for PS5 owners. It's now been confirmed God of War: Sons of Sparta , the mostly forgotten Metroidvania game that launched earlier this year, will indeed be ported back to PS4 . Having debuted on PS5 in February, the PS4 version launches next week, on 16th November 2026. Read the full article on pushsquare.com
 
-### These New GTA 6 Clips Look So Real, Fans Can t Believe It s All In-Game Footage
-Thu, 12 Nov 2026 17:00:00 GMT — https://www.pushsquare.com/news/2026/11/these-new-gta-6-clips-look-so-real-fans-cant-believe-its-all-in-game-footage
+### GTA 6 s In-Game Animated TV Series, Macca & Friends, Hints at the Game s Absurd Scope
+Fri, 13 Nov 2026 15:00:00 GMT — https://www.pushsquare.com/news/2026/11/gta-6s-in-game-animated-tv-series-macca-and-friends-hints-at-the-games-absurd-scope
 
-#OnlyinViceCity. If you're at all interested in GTA 6 , you'll probably have seen this doing the rounds already. A video is going viral on social media, because it's fooling people into thinking it's real-life footage — but it's actually the game. Here's the clip in question: Read the full article on pushsquare.com
+Who needs real TV? I think this might be the one thing about GTA 6 that's really made me aware of the sheer scale of what Rockstar Games is cooking up. Exclusively revealed via DiscussingFilm , an in-game, animated TV series named Macca & Friends has been revealed with the below teaser trailer: Read the full article on pushsquare.com
 
-### Romancing SaGa 3 s Great Looking PS5 Remake Moves Its Release Date Away from Persona 4 Revival
-Thu, 12 Nov 2026 16:30:00 GMT — https://www.pushsquare.com/news/2026/11/romancing-saga-3s-great-looking-ps5-remake-moves-its-release-date-away-from-persona-4-revival
+### Base PS5 s QSSR Enhancer Coming to 6 More Games, in Spider-Man 2 Now
+Fri, 13 Nov 2026 14:45:00 GMT — https://www.pushsquare.com/news/2026/11/base-ps5s-qssr-enhancer-coming-to-6-more-games-in-spider-man-2-now
 
-A wise move. Romancing SaGa 3: Destinies United will no longer launch just two days before the relative juggernaut that is Persona 4 Revival . Previously set to release on the 16th February, the promising JRPG remake has actually been moved forward. It now drops nearly two weeks earlier, on the 4th February. Read the full article on pushsquare.com
+Control Resonant, Arc Raiders, and more upgraded. Sony has announced it is expanding support for its QSSR graphics enhancer on base PS5 to six more PS5 games in the coming weeks. Through a free update, the feature is live right now in Marvel's Spider-Man 2 . In addition, the following titles will receive support for QSSR soon: Read the full article on pushsquare.com
 
-### AMD, Sony Mark PS5 s 100 Million Unit Milestone with Signed Consoles
-Thu, 12 Nov 2026 16:00:00 GMT — https://www.pushsquare.com/news/2026/11/amd-sony-mark-ps5s-100-million-unit-milestone-with-signed-consoles
+### Lucky Luke Retro Collection Brings Several Games to the US for the Very First Time
+Fri, 13 Nov 2026 14:00:00 GMT — https://www.pushsquare.com/news/2026/11/lucky-luke-retro-collection-brings-several-games-to-the-us-for-the-very-first-time
 
-A remarkable feat. PS5 is the fourth Sony system to officially ship over 100 million units during its lifespan, and it may be the manufacturer’s most impressive achievement yet. The firm has nimbly navigated a global pandemic, semi-conductor shortages, US electronics tariffs, a slumping global economy, and now AI-induced price increases to achieve the feat. Read the full article on pushsquare.com
+Not a long way from home anymore. Atari has announced another retro games collection, and this one marks the United States debut of multiple old school classics. This is Lucky Luke: The Lonesome Cowboy Collection, a compilation of retro titles developed by Graphite Lab and published by Infogrames. It's scheduled for launch on PS5 and PS4 on 13th January, 2027. Read the full article on pushsquare.com
 
-### Genital Exposure Has Never Appeared This Frequently : GTA 6 Was Almost Refused Release in South Korea
-Thu, 12 Nov 2026 15:30:00 GMT — https://www.pushsquare.com/news/2026/11/genital-exposure-has-never-appeared-this-frequently-gta-6-was-almost-refused-release-in-south-korea
+### K-pop Royalty Recruited for PlayStation Korea s Glitzy GTA 6 Ad
+Fri, 13 Nov 2026 13:00:00 GMT — https://www.pushsquare.com/news/2026/11/k-pop-royalty-recruited-for-playstation-koreas-glitzy-gta-6-ad
 
-Balls to this. GTA 6 was, reportedly, very close to being refused classification in South Korea just a couple of months back. The reason? Too many penises. According to Inven's findings, the country's ratings board — the GCRB — was completely split on its initial classification vote. Three committee members voted for an 'Adults Only' rating, and another three voted to have Rockstar's game refused outright. Read the full article on pushsquare.com
+The wait is over. One thing I always appreciate about PlayStation is its ability to appeal to localised audiences, despite its message being unified globally. The company’s current marketing strategy revolves around GTA 6 , and it’s using the slogan ‘ Plays Best on PS5 ’. But it’s promoting this in a variety of ways around the world. Read the full article on pushsquare.com
 
 ## Game Developer
+
+### Newly-proposed EU law could place tight restrictions on free-to-play games
+Fri, 13 Nov 2026 18:32:59 GMT — https://www.gamedeveloper.com/business/european-union-proposes-digital-fairness-act-which-could-have-major-effects-on-game-development
+
+The Digital Fairness Act, if adopted, could massively change the way some games are developed and published not just in Europe, but across the globe.
+
+### Development secrets of Dressmaker, ft. Ruan Rothmann & Sara Laubscher
+Fri, 13 Nov 2026 16:05:43 GMT — https://www.gamedeveloper.com/pc/development-secrets-of-dressmaker-ft-ruan-rothmann-sara-laubscher
+
+Dressmaker is the kind of story indie devs dream of—so what did it take to bring the surprise hit of 2026 to life?
+
+### Witcher 3 devs use AI to help Polish voice actor reprise role of Geralt after stroke
+Fri, 13 Nov 2026 15:28:34 GMT — https://www.gamedeveloper.com/production/polish-voice-actor-for-geralt-returns-for-the-witcher-3-with-ai
+
+After a stroke left him unable to do the voice of the Witcher series' main character anymore, Jacek Rozenek consented to using AI for Witcher 3's next expansion.
 
 ### Tripwire Interactive lays off workers after announcing new publishing initiative
 Thu, 12 Nov 2026 19:15:00 GMT — https://www.gamedeveloper.com/business/tripwire-interactive-layoffs-come-after-announcing-new-publishing-initiative
@@ -222,27 +237,27 @@ Thu, 12 Nov 2026 16:15:03 GMT — https://www.gamedeveloper.com/business/nvidia-
 
 After multiple legally-compromising affairs came to light in the public, Nvidia CEO Jensen Huang has tendered his resignation as the head of one of the largest companies in the world.
 
-### PlayStation 5 crosses 100 million consoles sold
-Wed, 11 Nov 2026 19:15:00 GMT — https://www.gamedeveloper.com/console/playstation-5-ships-100-million-consoles
-
-The 2020 console has exceeded 100 million consoles shipped, matching much of the PlayStation console line.
-
-### Tekken creator says he wishes hardware like the Xbox Series S 'wouldn’t be released'
-Wed, 11 Nov 2026 18:30:00 GMT — https://www.gamedeveloper.com/console/katsuhiro-harada-i-wish-hardware-like-the-xbox-series-s-wouldnt-be-released
-
-The former general manager of Bandai Namco has some frustrations with Xbox's entry-level console and is not afraid to share them on a stage with other project leaders.
-
-### The Legend of Zelda: Ocarina of Time exceeds 5 million copies sold in first week
-Wed, 11 Nov 2026 17:30:00 GMT — https://www.gamedeveloper.com/business/the-legend-of-zelda-ocarina-of-time-exceeds-5-million-copies-solid-in-first-week
-
-The remake of the 1998 game becomes the second-highest selling Switch 2 title in only four days.
-
-### Report: PlayStation's Fairgames cancelled, no devs to be laid off
-Wed, 11 Nov 2026 16:19:51 GMT — https://www.gamedeveloper.com/console/report-playstation-s-fairgame-cancelled-but-haven-studios-remains
-
-After being announced in 2023, the online multiplayer shooter will never see the light of day, according to a new report.
-
 ## VGC
+
+### 6 more games receive PS5 performance updates via QSSR, including Arc Raiders and Control Resonant
+Fri, 13 Nov 2026 16:35:57 +0000 — https://www.videogameschronicle.com/news/6-more-games-receive-ps5-performance-updates-via-qssr-including-arc-raiders-and-control-resonant/
+
+No Man's Sky, The Finals, and Hell Let Loose: Vietnam have been updated… Source
+
+### PlayStation’s God of War spin-off is coming to PS4 and getting new modes
+Fri, 13 Nov 2026 16:17:15 +0000 — https://www.videogameschronicle.com/news/playstations-god-of-war-spin-off-is-coming-to-ps4-and-getting-new-modes/
+
+God of War Sons of Sparta will get two new modes next week… Source
+
+### Podcast: PlayStation s live service era has been a total failure
+Fri, 13 Nov 2026 15:13:57 +0000 — https://www.videogameschronicle.com/blog/podcast/podcast-playstations-live-service-era-has-been-a-total-failure/
+
+Plus: Pokemon Night Out takes over London… Source
+
+### Fanatical s new Play on the Go deal lets your build your own bundle of Steam Deck verified games
+Fri, 13 Nov 2026 14:58:31 +0000 — https://www.videogameschronicle.com/news/fanaticals-new-play-on-the-go-deal-lets-your-build-your-own-bundle-of-steam-deck-verified-games/
+
+There are 20 games to choose from, for as low as $7 per game… Source
 
 ### Microsoft struggles to restore online services after major outage
 Fri, 13 Nov 2026 12:17:50 +0000 — https://www.videogameschronicle.com/news/microsoft-struggles-to-restore-online-services-after-major-outage/
@@ -255,7 +270,7 @@ Fri, 13 Nov 2026 09:47:59 +0000 — https://www.videogameschronicle.com/news/mac
 The studio's head said last year that it was always supposed to be a trilogy… Source
 
 ### 21 original Xbox games are now on PC via backward compatibility
-Thu, 12 Nov 2026 22:01:31 +0000 — https://www.videogameschronicle.com/uncategorised/21-original-xbox-games-are-now-on-pc-via-backward-compatibility/
+Thu, 12 Nov 2026 22:01:31 +0000 — https://www.videogameschronicle.com/news/21-original-xbox-games-are-now-on-pc-via-backward-compatibility/
 
 There are now 25 classic Xbox games available on PC, and four have achievements… Source
 
@@ -274,141 +289,166 @@ Thu, 12 Nov 2026 18:46:55 +0000 — https://www.videogameschronicle.com/news/hal
 
 Firefight, a 4-player PvE mode, is coming to Halo: Campaign Evolved soon… Source
 
-### Pokémon Legends: Z-A players can claim 2 free shiny legendaries
-Thu, 12 Nov 2026 18:01:58 +0000 — https://www.videogameschronicle.com/news/pokemon-legends-z-a-players-can-claim-2-free-shiny-legendaries/
-
-Pokémon Legends: Z-A's latest mystery gift is shiny forms of Xerneas and Yveltal… Source
-
-### One in three games industry professionals surveyed by GDC were laid off in the past two years, more than in its last report
-Thu, 12 Nov 2026 17:04:08 +0000 — https://www.videogameschronicle.com/news/one-in-three-games-industry-professionals-surveyed-by-gdc-were-laid-off-in-the-past-two-years-more-than-in-its-last-report/
-
-More than half are still unemployed, and a quarter have applied for at least 100 jobs… Source
-
-### Nintendo’s Black Friday deals include Switch 2 and Mario Kart World bundle
-Thu, 12 Nov 2026 17:01:41 +0000 — https://www.videogameschronicle.com/news/nintendos-black-friday-deals-include-switch-2-and-mario-kart-world-bundle/
-
-Nintendo announces its Black Friday deals, starting at the end of November… Source
-
-### GTA 6 map seemingly leaks at Selfridges merch drop
-Thu, 12 Nov 2026 15:40:43 +0000 — https://www.videogameschronicle.com/news/gta-6-map-seemingly-leaks-at-selfridges-merch-drop/
-
-An apparent GTA 6 map is being shared around online, having been spotted at Selfridges in the UK… Source
-
 ## Polygon
 
-### New Game from Doom studio and New Wolfenstein Announced
-Fri, 13 Nov 2026 11:56:30 GMT — https://www.polygon.com/wolfenstein-doom-bethesda-new-game-announced/
+### Blood of Dawnwalker Finally Gets Its Most Requested Feature Next Week
+Fri, 13 Nov 2026 20:35:18 GMT — https://www.polygon.com/blood-of-dawnwalker-update-new-game-plus-announced/
 
-Xbox is celebrating its 25th anniversary this month, and it's been spoiling fans left and right. Xbox games like Minecraft , Microsoft Flight Simulator 2024 , Gears E-Day , and more received celebratory freebies. Beyond the awesome free in-game items, players were lucky enough to get a few exciting announcements coming from Bethesda-owned studios, Id Software and MachineGames.
+It's been just over two months since The Blood of Dawnwalker was released and fans have been clamoring for one missing feature for basically that long. Now developer Rebel Wolves is set to appease that demand with the upcoming update 1.2. Yes, New Game Plus is going to be a reality for the vampire RPG.
 
-### Pixar's New Movie Gatto Gets First In-Depth Look in Official Trailer
-Fri, 13 Nov 2026 10:43:49 GMT — https://www.polygon.com/pixar-gatto-trailer/
+### Costco’s New 'Pokémon' 30th Anniversary Online TCG Bundle Is Unbelievable
+Fri, 13 Nov 2026 20:33:43 GMT — https://www.polygon.com/costco-pokemon-30th-anniversary-etb-booster-bundle-stock-price-when-locations/
 
-The first teaser for Gatto , Pixar's upcoming animated film, was released on Jun. 11, following a description of the movie's general plot and some cast members. Fans learned that Gatto is set in the Italian city of Venice, and it follows the adventures of a feral black cat named Nero, who's spent most of his nine lives recklessly working for mobster cat Rocco.
+Warehouse retailer Costco is determined to blow its competitors out of the water when it comes to selling Pokémon Trading Card Game products. A couple of months after debuting the best Pokémon deal of 2026 , the members-only retailer is back with another offer that sounds too good to be true. This time, Costco's promotion targets Pokémon collectors hunting for the elusive 30th Anniversary collection . The best part? You won't have to set foot in a Costco store to take advantage of the promotion.
 
-### Leaked Dune Magic Secret Lair Has Amazing Value Reprints and 9 New Cards
-Fri, 13 Nov 2026 10:30:47 GMT — https://www.polygon.com/mtg-dune-magic-secret-lair-drop-leaks/
+### The Game Awards 2026 Nominees Announcement Confirmed for Nov. 17
+Fri, 13 Nov 2026 20:23:24 GMT — https://www.polygon.com/the-game-awards-2026-nominees-announcement-date/
 
-One popular sci-fi property is the talk of the Magic: The Gathering community right now, and it's not Star Trek . On Nov. 12, leaks started to emerge online about a Dune Secret Lair drop, and while still unconfirmed, this new Universes Beyond collaboration seems legitimate.
+The Game Awards 2026 is approaching, and this year's award nominees are set to be announced on Tuesday, Nov. 17. That's according to host and creator of The Game Awards Geoff Keighley, who announced Friday that 2026's nominees will be revealed during a livestream — that just happens to be coming two days ahead of the year's most anticipated game, Grand Theft Auto 6 .
 
-### 6 Nintendo Switch Special Editions With the Best Designs, Ranked
-Fri, 13 Nov 2026 10:00:17 GMT — https://www.polygon.com/best-nintendo-switch-special-edition-designs/
+### Every Free Game You Can Keep on Steam, Epic, PlayStation Plus, and Xbox (Nov. 13-19)
+Fri, 13 Nov 2026 20:14:13 GMT — https://www.polygon.com/free-games-right-now-steam-epic-ps-plus-nov-13-19/
 
-When a new console arrives, a lot of us rush out to buy one the minute we can afford to. At launch, there’s typically just one option, or sometimes a handful of choices with varying specifications. Personality isn’t a draw yet, beyond whatever’s standard. Over time, however, that inevitably changes.
+Next week the world will stop for many players with the launch of Grand Theft Auto 6 . If you've already preloaded GTA 6 , then you'll be ready to hit "Play" as soon as it becomes available on Nov. 19. In the meantime, you have to find a game that'll keep you busy.
 
-### 5 Sci-Fi Book Trilogies Where Every Entry Is Perfect
-Fri, 13 Nov 2026 09:00:18 GMT — https://www.polygon.com/sci-fi-trilogy-perfect-entries/
+### Tom Hiddleston's Loki: A Marvel Series Evolution
+Fri, 13 Nov 2026 19:21:43 GMT — https://www.polygon.com/tom-hiddleston-loki-better-with-every-episode/
 
-Of course, not all sci-fi trilogies are created equal. Plenty start strong only to flame out in book two or three, while others admittedly take a while to get good. But there are plenty of perfect trilogies, too. Polygon has rounded up five sci-fi book trilogies that are worth your time from start to finish. Check out the list below.
+Tom Hiddleston is possibly one of the busiest actors in Hollywood, and has been so for over a decade. 2026 saw him as Ed Hillary in Apple TV's Tenzing , and now he's returning to the stage to star in the Broadway adaptation of Much Ado About Nothing alongside fellow Marvel alum Hayley Atwell. His credits span genres, highlighting his versatility across film and television . However, there is one particular role that has defined Hiddleston's time in Hollywood, and one that fans still love today.
 
-### Tim Burton's Forgotten Dark Fantasy Magnum Opus Is Officially Free on Youtube
-Fri, 13 Nov 2026 08:15:18 GMT — https://www.polygon.com/corpse-bride-streaming-free-youtube-november-2026/
+### Magic Just Revealed 19 New Cards From 2027’s First Set — Including a $30 Reprint With Stunning Art
+Fri, 13 Nov 2026 19:00:18 GMT — https://www.polygon.com/mtg-nauctis-the-sunken-realm-magiccon-reveals-spoilers/
 
-When it comes to beautiful, high-quality stop-motion animation, Laika is likely the first name that comes to mind. The studio’s hand-crafted puppetry and 3D-printing technology have brought beautiful tales to life for years, from Coraline to Kubo and the Two Strings . Each has leaned toward more adult themes with gothic narrative undertones, while still focusing heavily on family dynamics. The same is true of Laika’s most recent outing, Travis Knight’s ethereal fantasy epic, Wildwood .
+Magic: The Gathering is heading underwater, and we’ve just gotten a closer look at what’s lurking in the depths of a new plane called Nauctis. During Friday’s preview panel at MagicCon : Atlanta, Wizards of the Coast revealed 19 cards from Nauctis: The Sunken Realm (including different art variants), the upcoming set that introduces an ocean plane to Magic ’s Multiverse. Launching on Feb. 5, 2027, the set trades typical fantasy settings like Dominaria or Ikoria for sprawling underwater cities and aquatic creatures, with greater dangers waiting farther below the surface.
 
-### Netflix's Disappointing New Western Thriller Wastes Its Brilliant Concept
-Fri, 13 Nov 2026 08:00:17 GMT — https://www.polygon.com/heartland-netflix-review/
+### How Queen's Domain's 2-Person Team Remade Elden Ring's Legacy in a Basement
+Fri, 13 Nov 2026 19:00:18 GMT — https://www.polygon.com/queens-domain-fromsoftware-interview/
 
-Written and directed by Shana Feste, the Netflix-original film feels as if the director of Country Strong watched a couple of episodes of Yellowstone and decided to take a stab at a western-noir, centering her story on a jaded country star. The result is a missing-person mystery with three musical numbers woven into it. Heartland might be the first western-noir-musical ever made, and I wish Feste took advantage of how weird that is. Instead, it’s pure straight-to-Netflix fodder.
+At Final Strike Games, Berger met Bradley Boothe, a technical artist and former software engineer who shared a frustration with what could get done at a traditional studio. Together, they struck out on their own, founding the two-person indie studio Freshly Baked Games and trading the security of industry jobs for the creative freedom — and financial uncertainty — of building something entirely theirs. Many years later, the result was a prototype for a game… that was way too ambitious (but they fully intend to return to). So they went back to a different concept, a stripped-down first-person fantasy inspired by FromSoftware's cult-classic King's Field . That was supposed to take a year to build. Three years later, the game, Queen’s Domain , is an ambitious torrent of weaponry, monster encounters, and Berger’s patented 3D level design, all spread across an low-poly open-world map.
 
-### 26 Years Later, Charles Schulz' Final Comic Strip Is Still an All-Time Peanuts Classic
-Fri, 13 Nov 2026 07:23:17 GMT — https://www.polygon.com/peanuts-final-comic-strip-charlie-brown/
+### Magic: The Gathering Animated Series Officially Gets First Trailer
+Fri, 13 Nov 2026 18:43:08 GMT — https://www.polygon.com/magic-the-gathering-animated-series-planeswalker-first-trailer/
 
-While that was the first official Peanuts comic, a similar version by Charles Schulz predated Peanuts and ran in Minnesota’s St. Paul Pioneer Press. It was called Li’l Folks and also starred cute little children, although it did not have a regular cast like Peanuts would. Li’l Folks ran from 1947 until 1950, when Schulz quit after his editor refused to give him a raise from the $10 per comic he was making. After that, Schulz brought Li’l Folks to United Feature Syndicate. The national cartoon syndicator liked the comic, but needed to change its name because of a 1930s comic strip called Little Folks . The name Peanuts was chosen because The Howdy Doody Show was popular at the time and the studio audience of children on the show was called the “Peanut gallery.” Thus, Peanuts became the name.
+Magic: The Gathering is finally getting a TV show, and publisher Wizards of the Coast just debuted the first official look at the animated series during its MagicCon Atlanta preview panel. While the first half of Wizards' stream focused on next February’s Nauctis: The Sunken Realm set, the second half was targeted at those who “love Magic’s multiverse.”
 
-### 5 Funniest 'Peanuts' Comics About Food Only Charles Schulz Could Come Up With
-Fri, 13 Nov 2026 05:00:17 GMT — https://www.polygon.com/peanuts-best-comics-food/
+### VisionQuest’s Wild Post-Credits Cameo Almost Didn’t Happen
+Fri, 13 Nov 2026 18:23:23 GMT — https://www.polygon.com/marvel-visionquest-post-credits-scene-cameo/
 
-There aren't quite as many Peanuts comic strips focused on food as one might expect. Little kids do tend to live their lives in the windows between meals and snacks, and Snoopy is as obsessed with his suppertime as any other dog, but food humor was a relatively low priority in Charles Schulz's punchline rotation. Compared to baseball, philosophy, Snoopy's alternate personas, or Charlie Brown's truly existential levels of depression , food as a topic in Peanuts was kept on a low boil.
+If you haven't already heard about the shocking return of a fan-favorite Avenger at the end of VisionQuest , then you should beware spoilers ahead. For everyone who hasn't been under a rock, the latest Marvel series made waves this week by reviving Wanda Maximoff in a post-credits scene. That bombshell has dominated the conversation around the show's conclusion as it sets up a fascinating conflict in Avengers: Doomsday .
 
-### 8 Near-Perfect Xbox 360 Games That Are Forgotten Masterpieces
-Fri, 13 Nov 2026 04:00:17 GMT — https://www.polygon.com/xbox-360-forgotten-masterpieces/
+### All rupee wallet upgrade locations in Zelda Ocarina of Time
+Fri, 13 Nov 2026 18:00:33 GMT — https://www.polygon.com/zelda-ocarina-of-time-remake-oot-rupee-wallet-upgrade-locations/
 
-The Xbox 360 era was a marvelous generation and the last time publishers regularly bet on strange, original ideas. Plenty of those bets paid off, from Gears of War to Assassin's Creed . But time hasn't been kind to all of them, and some of the generation's best games have been out of the conversation so long that a whole new wave of players has never heard of them.
+Upgrading the r upee wallet allows you to hold five times the original amount of rupees in The Legend of Zelda: Ocarina of Time remake. As things have gotten a bit pricier Hyrule, you'll need a larger rupee wallet if you want to purchase everything you need, like the abilities given to you by the Great Fairies .
 
 ## PC Gamer
 
-### Ex-Nvidia CEO Jensen Huang allegedly had an 'intimate relationship' with a second Nvidia employee, according to reports
-Fri, 13 Nov 2026 11:33:19 +0000 — https://www.pcgamer.com/hardware/ex-nvidia-ceo-jensen-huang-allegedly-had-an-intimate-relationship-with-a-second-nvidia-employee-according-to-reports/
+### Microsoft ‘deeply’ apologizes for global service outage, says no AI or hackers are to blame
+Fri, 13 Nov 2026 19:54:20 +0000 — https://www.pcgamer.com/software/microsoft-deeply-apologizes-for-global-service-outage-says-no-ai-or-hackers-are-to-blame/
 
-Ex-Nvidia CEO Jensen Huang allegedly had an "intimate relationship" with a second Nvidia employee, according to Reuters . This new allegation comes after Huang's resignation yesterday, following his admission of an affair , believed to be with a suspected Chinese intelligence asset, and a New York Times report of another extramarital affair with Nvidia VP Kimberly Powell. Reuters has chosen not to name the second Nvidia employee in question, but says the information comes from "two people familiar with the matter." Huang's resignation from Nvidia came as a shock to many yesterday , marking a change in leadership at the top of one of the world's most valuable companies, and the fall of a key figure at the heart of the AI boom. Huang has been replaced by an interim CEO at Nvidia, previous chief financial officer Colette Kress. The company's share price has since shown signs of recovery since the announcement of his departure, after dropping considerably during the tumult caused by the initial allegations, and the uncertainty regarding Huang's future at the company. It's understood that the ex-Nvidia chief is scheduled to appear before the Senate Banking Committee alongside US commerce secretary Howard Lutnick in the coming weeks, regarding concerns over national security in relation to the initial allegations. ]]>
+Microsoft has issued an apology for the global services outage that began on November 12, which disrupted access to Microsoft 365 products for governments, hospitals, schools, and businesses around the world. The corporation says that neither AI nor malicious actors were at fault, but that the outage occurred as a result of an underlying infrastructural issue introduced during a network upgrade. "We are deeply sorry for the disruption this incident has caused our customers and partners. We know the trust they place in our services and take that responsibility extremely seriously," Microsoft said. "We are seeing broad recovery and stability across our services." We are deeply sorry for the disruption this incident has caused our customers and partners. We know the trust they place in our services and take that responsibility extremely seriously. We are seeing broad recovery and stability across our services.This was a technical issue not related to cyber or AI / agents. The incident was introduced by an issue during an earlier network capacity upgrade that surfaced following a recent network change. We have addressed the underlying issue and continue to restore service to remaining customers and regions.Given the scale of demand, we restored services gradually, validating stability at each stage. While this took longer, it helped ensure a stable restoration.We will provide a full post-incident report once our review is complete. November 13, 2026 While popular speculation has 
 
-### 'I stand by Jensen': Nvidia employees come out in support of Huang after resignation
-Fri, 13 Nov 2026 11:30:35 +0000 — https://www.pcgamer.com/hardware/i-stand-by-jensen-nvidia-employees-come-out-in-support-of-huang-after-resignation/
+### New Grand Theft Auto 6 trailer is for a TV show that exists within Grand Theft Auto 6
+Fri, 13 Nov 2026 19:30:31 +0000 — https://www.pcgamer.com/games/grand-theft-auto/new-grand-theft-auto-6-trailer-is-for-a-tv-show-that-exists-within-grand-theft-auto-6/
 
-Ex-Nvidia CEO Jensen Huang resigned from the company after he admitted to an affair on Sunday , and allegations of a second affair came out on Wednesday . Now there are reports of a potential third . Though CTO Colette Kress has taken over in the interim, Nvidia seems to be shopping around for its next CEO, much to the dismay of some Nvidia staff, according to a report from Wired . It's claimed that a longtime engineer at Nvidia took to an internal suggestion box this week to ask the Nvidia board to consider the company's employees before deciding whether or not to get rid of Huang. This note was made prior to his resignation. However, over 1,600 comments have been left regarding this suggestion, the majority of which are apparently supportive of Huang. One says, "If you believe in the mission, bring back THE boss." Another claims, "We are all humans and can make mistakes. Jensen did so many good things and he needs a second chance." Notably, not all employees took to the suggestion box to air the same sentiment. One sent an email to the entire company saying, “I stand by Jensen. Not because I believe any person is infallible, but because I refuse to believe that standing for fairness must mean standing at a distance from someone whose leadership has meant so much to us.” (Image credit: Nvidia) That email continues, “If America fails the man who helped build its future, then this world does not deserve Jensen Huang.” Jensen Huang's role in Nvidia can't be overstated. As the c
+Get ready for some wheels within wheels, as DiscussingFilm has revealed an animated trailer for a Grand Theft Auto 6 TV show—and I don't mean a trailer for a show about GTA 6, but a trailer for a show in GTA 6. Macca and Friends, as the show is known, follows the adventures of a gang of anthropomorphic Floridian—Leonidan, I suppose—animals as they try to find their way in the world, accompanied to some extent by a beefed-up cop. The animals are cops too. It's a bit like Scooby Doo, maybe, but more egalitarian. Rockstar hasn't said anything about the show, but this isn't the first appearance of Macca: A Macca and Friends mural appeared in a real-life BurgerShot that was set up in Miami's Kaseya Center in October, and a billboard for the show was erected in Miami as well. Both advertised Macca and Friends as "coming November 19 on Weazel," a Fox-like television channel that exists within the GTA universe. Rockstar is now marketing GTA 6 with a real-life Burger Shot food stand in Kaseya Center, Miami.They continue preparing for the major Miami Heat event on November 18.(via @nvtnp_) https://t.co/hbAlRKP4A4 October 21, 2026 How much of an actual, full-on show Rockstar has constructed here, I cannot say. Remedy has done similar things with its games, but those are just brief snippets delivering a little bit of meta narrative ; Rockstar, by comparison, gave us multiple stand-up comedy shows in GTA 5 and black-and-white films in Red Dead Redemption 2… not to mention, fully animated 
 
-### Microsoft says there is 'no evidence of malicious activity' being the cause of the global service outage affecting governments and organisations around the world
-Fri, 13 Nov 2026 10:33:22 +0000 — https://www.pcgamer.com/software/security/microsoft-says-there-is-no-evidence-of-malicious-activity-being-the-cause-of-the-global-service-outage-affecting-governments-and-organisations-around-the-world/
+### Think you know videogame cats? Then name 17 of them
+Fri, 13 Nov 2026 18:43:11 +0000 — https://www.pcgamer.com/games/think-you-know-videogame-cats-then-name-17-of-them/
 
-Welcome to the new era, folks, where we increasingly seem to be heading closer to a daily coin flip over whether our core online services stay live or go down. This time, it's Microsoft. Down Detector reports problems with Microsoft 365 services since about 12:30 pm (ET) yesterday, November 12, and issues are still ongoing. Countries across the world are affected, and some institutions have been affected severely. Parts of the UK government, for instance, are having problems sending and receiving emails. The UK's health service, the NHS, has reportedly said it is unable to access online consultation for patients . The US and other governments have reportedly been impacted , too. Microsoft explains that certain features of services "that interact with Exchange Online and email services are impacted." So, it looks like Exchange Online could be the culprit. This is the back-end of Microsoft services that use calendars, tasks, emails, and so on. Affected services include MS365 admin center, apps, Education features, Copilot, Defender for Office 365, Defender XDR, Fabric, Graph, Intune, Planner, Power Apps, Purview, some elements of Teams, To Do, SharePoint Online, Universal Print, and Windows 365. In other words, a very extensive list. It's also a list that a bunch of institutions and companies rely on to manage their day-to-day, thus why this is such a big deal. The latest update from Microsoft, at the time of writing, explains: "Recovery actions are ongoing and have progressed 
+We've quizzed you on a few types of animals already— dogs , horses , and even CEOs —but somehow neglected everyone's favorite little furry tyrants: cats . More quizzes! (Image credit: Future) Want to keep testing your knowledge of gaming trivia? We've got loads more PC Gamer quizzes , on everything from healthbars to weird currencies to absurd patch notes. That's right! Today I'm quizzing you on those precious, purring menaces who communicate exclusively through painful mixed signals and yowling at 3 am. They're wonderful, and games have plenty of cat (and cat-like) characters created in their honor. You've got 11 minutes to identify all 17 of these gaming cats. When you're done, type pspsps share your score in the comments, and tell me about your favorite kitties. 2026 games : All the upcoming games Best PC games : Our all-time favorites Free PC games : Freebie fest Best FPS games : Finest gunplay Best RPGs : Grand adventures Best co-op games : Better together ]]>
 
-### Wolfenstein 3 is in production at MachineGames
-Fri, 13 Nov 2026 01:35:32 +0000 — https://www.pcgamer.com/games/fps/wolfenstein-3-is-in-production-at-machinegames/
+### I cannot stop everyone staring at me in GTA 5
+Fri, 13 Nov 2026 18:00:00 +0000 — https://www.pcgamer.com/games/grand-theft-auto/i-cannot-stop-everyone-staring-at-me-in-gta-5/
 
-Earlier this year, Xbox CEO Asha Sharma revealed on Twitter that she'd seen The Elder Scrolls 6. Now, she's announcing that MachineGames is making Wolfenstein 3 with a photo of the script attached to a tweet. I don't miss E3, but it feels like a step down in terms of spectacle to go from on-stage trailer reveals to an executive just tweeting it out. Wolfenstein 3 is officially in production at @MachineGames. One of gaming's most important franchises, and a team that has done remarkable work bringing it forward. Looking forward to sharing more. https://t.co/YyX8LrbTvh November 12, 2026 MachineGames followed up a few minutes later with their own tweet , saying, "His reputation precedes him. Wolfenstein 3 is in production." As well as the same photo of the script, they attached a photo of Debra Wilson (who played Resistance cell leader Grace Walker in The New Colossus) recording motion-capture. It's been a couple of years since Indiana Jones and the Great Circle, though MachineGames did release a Quake expansion for its 30th anniversary in the meantime. A page of script and a photo of a motion-capture session doesn't tell us much about how far along it is, but I wouldn't expect it super soon. It'd be nice to have something to tie into the upcoming Wolfenstein TV series coming from the same folks as the Fallout show . What do we think they'll subtitle Wolfenstein 3? MachineGames has an opportunity to really mess with our Steam libraries by calling it "Wolfenstein 3D". 2026 games 
+Los Santos Customs I'm modding GTA 5 every day in a quest to either transform it into a PC version of GTA 6 or break it entirely. Come back tomorrow to find out what new horrible thing I've done to Rockstar's baby, or check out what I got up to earlier . As we've covered in previous lectures, everyone is Franklin . This is disconcerting. Even more disconcerting is that, as of today, all the Franklins now have a singular object of cathexis: Franklin. Uh, that is to say, Franklin Prime: me. I have installed Look At Me , a Grand Theft Auto 5 mod whose purpose is to make you the centre of attention wherever you go and wherever you teleport. In the street, crowds round on you, fixing you with a silent stare as though they know everything you've ever done, everything you will ever do. Even parkour does not mollify them. (Image credit: Rockstar) It turns your every step in GTA 5 into something paranoid and faintly Lynchian. I am being gangstalked by myself, and all the while wars rage, cars float overhead, and the world in general spins out of control on every axis. Sometimes it finds new axes, and they're all irreparably hosed. Look At Me does not appear to affect NPCs who have been placed with a purpose. Or it sometimes doesn't, anyway. My bodyguard? Unpredictable. Sometimes he will stand stock-still, and join the masses in gawping at me. Other times, he couldn't care less. My wife never looks at me; this is troubling. It's a bold and unnerving new world, and one that I suppose is
 
-### New 4-minute Fable gameplay trailer shows a game that doesn't look much like Fable
-Thu, 12 Nov 2026 22:43:21 +0000 — https://www.pcgamer.com/games/rpg/new-4-minute-fable-gameplay-trailer-shows-a-game-that-doesnt-look-much-like-fable/
+### 8BitDo Ultimate 3E wireless controller review
+Fri, 13 Nov 2026 17:20:13 +0000 — https://www.pcgamer.com/hardware/controllers/8bitdo-ultimate-3e-review/
 
-The upcoming Fable reboot is set to launch on February 23, 2027, and with that date growing inexorably closer Xbox has dropped a new gameplay trailer showcasing four minutes of heroic questing across a rather grim-looking slice of Albion. The trailer shows off a little bit of everything: some cinematics, some chitchat, the UI, and of course plenty of combat: melee, ranged, and even a bit of magic. Today we're sharing four minutes of new @fable gameplay. It's been a long road to bring this franchise back, and I'm proud of the work Playground Games is doing. Take a look. https://t.co/q74VcEt5xE November 12, 2026 From the listing on YouTube : "The Hero of Briar Hill has entered the depths of Deepwood alongside Arden, a local Hero, to investigate why strange magical happenings have been troubling the people of Oakshire. Here, they cross a threshold where the natural magic of Deepwood appears corrupted by an outside force, and they discover hints as to who or what could be responsible..." The reaction to the video is quite positive among the YouTube comments but somewhat more subdued on the PC Gaming subreddit , where more than one poster suggested that it doesn't really show the game in its best light—which is to say that it doesn't really look like Fable, or at least what Fable fans expected. Fable 3 may not be everyone's favorite game in the series but it was bright, colorful, exuberant —this video, by comparison, seems downright grim and conventional. That's about where I land
+Pricing has remained the elephant in the room for almost all PC Gaming hardware this year, but when it comes to controllers, you don't even have the memory crisis to blame. And yet, I feel similarly about the 8BitDo Ultimate 3E as I do all that memory-equipped hardware: This is genuinely an excellent gamepad that I have loved reaching for every day, but that price stings so badly that it becomes quite hard to recommend. Unless, of course, you really want a dual-compatible (Xbox and PC) modular wireless controller. Buy if… ✅ You want the best wireless pad for your Xbox: The Ultimate 3E acts exactly like the standard Microsoft Xbox controller, even waking up the console with the on button, except it's better in almost every way. Don't buy if… ❌ You want the best value for money: You can get the GameSir G7 Pro, with its tri-mode connectivity and charging stand for nearly half the price. Add ten bucks to the G7 Pro, and you can even get its 8K variant. Features 8BitDo Ultimate 3E specs Layout Asymmetrical Thumbsticks TMR Gyro 6-axis gyroscope Connectivity Tri-mode for PC and Xbox. Bluetooth for Mobile Battery 1400 mAh, 18-hour playtime Polling Rate 1,000 Hz (250 Hz on Xbox) Dimensions 152.5 x 104 x 62 mm Weight 285 g Price $150 / £140 This isn't just a PC controller that works wired on an Xbox, like most controllers. This is an officially licensed product with Microsoft's coveted wireless chip inside, meaning it works wirelessly on Xbox and PC. Not only that, but it even wakes up
 
-### Palworld developer Pocketpair gives employees time off for 'a 5-day business trip in Vice City when GTA 6 launches'
-Thu, 12 Nov 2026 22:08:48 +0000 — https://www.pcgamer.com/games/grand-theft-auto/palworld-developer-pocketpair-gives-employees-time-off-for-a-5-day-business-trip-in-vice-city-when-gta-6-launches/
+### Overwatch's creative director accidentally leaks the name of season 6's upcoming hero and reveals that he 'got the highest scores of any hero that we've tested'
+Fri, 13 Nov 2026 17:15:16 +0000 — https://www.pcgamer.com/games/fps/overwatchs-creative-director-accidentally-leaks-the-name-of-season-6s-upcoming-hero-and-reveals-that-he-got-the-highest-scores-of-any-hero-that-weve-tested/
 
-Amid the countless PTO requests and conspicuously-timed doctor appointment notices targeting November 19, one game studio's employees have been absolved of the need to provide themselves an alibi on Grand Theft Auto 6's launch day. Pocketpair announced on X today that all of its employees "have been granted special leave to attend to an urgent five-day business trip in Vice City when GTA 6 launches." "On November 19, millions of gamers around the world will find themselves sitting at school or work, gazing longingly out the window, knowing that a new era of gaming is about to begin," Pocketpair wrote in a memo announcing the company holiday. "At Pocketpair, we believe such a historic occasion deserves our full attention." All Pocketpair employees have been granted special leave to attend to an urgent five-day business trip in Vice City when GTA6 launches.Please see the attached notice for details. https://t.co/qJjJ7IvhhY November 12, 2026 From November 19 to November 23, "all employees who intend to play Grand Theft Auto 6" at Pocketpair will be "excused from their regular duties and are instead encouraged to undertake a business trip to Vice City." Technically, since that time spans a weekend, it's only really granting three days of holiday time. But, you know, who's counting? The studio also made sure to note that work is proceeding on updates for Palworld and Craftopia, which are "expected to be carried out as scheduled," presumably in an effort to preempt anyone who might
+Earlier this year, during the Overwatch Spotlight in which Team 4 promised a different approach to managing the live service game, 10 heroes were teased. Five were released straight away , with Sierra, Shion, D.Mon, and Doctrine all being added to the game in subsequent seasons. This has left just one hero for the last season of the year, who also just so happened to be the hero I was most excited about back when the Spotlight was released. But good things come to those who wait, and now after the better part of a year we finally know more about this final hero. His character design was shown at BlizzCon, which showed him to be omnic detective (my hype was well placed), but now we also know that he'll be joining the DPS class in season 6, although that wasn't always the plan. (Image credit: Blizzard Entertainment) "Back at Spotlight—I forget who I was talking to—we said we were going to do a support in season 6," associate game director Alec Dawson said during a stream with Flats and Emongg . "And originally that was the plan. But as things developed as the hero developed, as we got to mechanics, how they matched with the aesthetic, how they matched with who the hero is supposed to be," things changed. The decision was ultimately taken to switch him to the DPS role. "I don't know what else I'm allowed to say," Dawson adds. "I'll let Aaron [Keller, game director] say anything else." "We'll just spill it all," Keller says, and that he does. "Megan just slacked that we've said e
 
-### Doom studio id Software confirms it's working on a new game
-Thu, 12 Nov 2026 21:10:04 +0000 — https://www.pcgamer.com/games/fps/doom-studio-id-software-confirms-its-working-on-a-new-game/
+### 22 years after the Hot Coffee controversy, UK politician says Grand Theft Auto 6 is 'something that we can be really proud of'
+Fri, 13 Nov 2026 17:12:56 +0000 — https://www.pcgamer.com/games/grand-theft-auto/22-years-after-the-hot-coffee-controversy-uk-politician-says-grand-theft-auto-6-is-something-that-we-can-be-really-proud-of/
 
-Doom developer id Software has confirmed that it's working on a new game, although in phrasing that might strike you as familiar, it'll be "some time" before it's ready to reveal anything. The new project at id was first announced by Xbox CEO Asha Sharma, who's been making a few posts on X today to mark the looming 25 th anniversary of the original Xbox console. "Few studios have shaped the first-person shooter genre as much as id Software," Sharma wrote. "Slaughter Mode comes to Doom: The Dark Ages - Revelations on Monday, and the team is already working on its next game." "Already" might be stretching it a bit: The studio's previous game, Doom: The Dark Ages , came out well over a year ago, although the Revelations expansion only dropped in July. Regardless, the studio replied to Sharma's post to confirm that yes, a new game is coming. "We're incredibly excited about our next project, a new game from our teams in Texas and Frankfurt, with game direction once again by Hugo Martin," the studio said. "It'll be some time before we're ready to share more but we can't wait for you to see what we're working on." @asha_shar We're incredibly excited about our next project, a new game from our teams in Texas and Frankfurt, with game direction once again by Hugo Martin. It'll be some time before we're ready to share more but we can't wait for you to see what we're working on. November 12, 2026 If that rings a bell, you may be thinking of The Elder Scrolls 6: Sentinel, which was given 
+It's fascinating how things change. I. for instance, used to love staying up all night playing videogames; now I get mad at the world if I miss my bedtime by 10 minutes. In kind of a similar vein, Grand Theft Auto was once the poster child for everything insidious, dangerous, and downright wrong about videogames, but now we have a member of the UK government—a secretary of state, no less—talking about how the upcoming Grand Theft Auto 6 is something the whole country should be proud of. "My love for videogames knows no bounds, and I am an avid addict of things like Animal Crossing and the Mario series," Lisa Nandy, the UK's secretary of state for digital, culture, media, and sport, told The Rundown. "I'm not sure I get away with taking a day off to do it, but I think it's something that we can be really proud of. "One of the reasons that we're investing in arts and music and all of those things that give people the chance to live richer, larger lives is because we are creating jobs in these incredible industries. And if you want to make a videogame like Grand Theft Auto, you need animators, you need musicians, you need so many people from across the creative industries to make them work. And why shouldn't it be our children in our communities who get the chance to get those jobs?" I'm as politically cynical as most folks, and sure, Nandy is using the moment opportunistically to promote her government—although, cynicism notwithstanding, I do respect her ability to stay on-mess
 
-### Paradox Interactive is getting a new boss as Fredrik Wester steps down for the second time
-Thu, 12 Nov 2026 19:52:19 +0000 — https://www.pcgamer.com/gaming-industry/paradox-interactive-is-getting-a-new-boss-as-fredrik-wester-steps-down-for-the-second-time/
+### 'Season 10 has been a challenging one for us': Marvel Rivals is upgrading Storm's summer skin after favouritism complaints
+Fri, 13 Nov 2026 16:28:30 +0000 — https://www.pcgamer.com/games/third-person-shooter/season-10-has-been-a-challenging-one-for-us-marvel-rivals-is-upgrading-storms-summer-skin-after-favouritism-complaints/
 
-Paradox Interactive is getting a new boss: Deputy CEO Mattias Lilja will take over from current CEO Fredrik Wester in January 2027, a move Paradox said "is a natural evolution of how the company is already led." "My plan was never to be CEO for life. The goal was to build the foundation before passing the baton on for the next chapter in the company’s journey," Wester said in today's announcement . "Since I returned as CEO, we’ve streamlined our strategy, rebuilt our pipeline and developed our commercial offering. Mattias has had a central role in laying this foundation, and now is the right time to hand over. Given his experience and vision, he is exceptionally well positioned to take the company to its next level." As his statement implies, this is his second tenure as Paradox CEO: He held the position from 2009 to 2018, when he resigned and was replaced by Ebba Ljungerud. But Ljungerud's tenure was rocky, and she resigned in 2021 over "differing views on the company's strategy going forward," at which point Wester returned to the role. In many ways, Lilja has been calling the CEO shots for a few years now anyway, while Wester's focus has increasingly been on Paradox's "long-term development and goals." And he, like Wester, is also a returnee: He left the company in 2020 after five years in various executive roles, but returned in 2021 along with Wester as "chief of staff." Lilja's LinkedIn profile says his primary duty was to "support the Paradox CEO in leading the executi
+Skin distribution seems to be an issue in pretty much any game with more than one hero and clear favourites. Marvel Rivals has come under fire for it for a while now, ever since players got wise to which heroes were favourites and which had clearly been shoved to the side. It all came to a head a few months ago when the summer skins were released, and it was revealed that Storm was the only female hero to not get a legendary costume among all the swimsuit designs. Players did not look upon this favourably , as Storm is a hugely popular character and had already gone a long time without the same kind of legendary skins as other heroes like Luna Snow and had been passed over for skins in the Disco and Egyptian God skin lines. (Image credit: NetEase) But all the player complaints seem to have gotten through to NetEase, with creative director Guangyun Chen acknowledging in a dev diary that "season 10 has been a challenging one for us." Not only were players upset about only one hero being released this season, but the devs have "been closely following the community's feedback regarding certain heroes receiving fewer costumes. With strong demands for more high-quality Legendary costumes featuring recolours and ultimate ability visual upgrades." The decision has since been made to upgrade Storm's summer skin to legendary tier with the devs "targeting a release around Christmas this December" for it. Other slightly forgotten heroes who will be getting some visual upgrades include Hu
 
-### South Korean game rating board almost blocked GTA 6's release, fearing its 'out-of-context genital nudity' would 'disrupt social order'
-Thu, 12 Nov 2026 19:06:41 +0000 — https://www.pcgamer.com/games/grand-theft-auto/south-korean-game-rating-board-almost-blocked-gta-6s-release-fearing-its-out-of-context-genital-nudity-would-disrupt-social-order/
+### Chipmaking giant TSMC discovers major employee data leak—reports say info was up for sale for three bitcoin on shady forums
+Fri, 13 Nov 2026 15:48:14 +0000 — https://www.pcgamer.com/hardware/chipmaking-giant-tsmc-discovers-major-employee-data-leak-reports-say-info-was-up-for-sale-for-three-bitcoin-on-shady-forums/
 
-Grand Theft Auto 6 has been granted an Adults Only rating in South Korea by the country's Game Content Rating Board . But in the weeks preceding that decision, the board had nearly refused to issue the game an age rating—effectively leaving it ineligible for sale in South Korea—due to ratings officials' concerns that GTA 6 might be way too comfortable hanging unprompted hog. According to GCRB meeting minutes obtained by South Korean outlet Inven (via Kotaku ), GTA 6 required a total of three ratings reviews, in which committee members repeatedly debated the presence of what they described as "out-of-context genital nudity"—a perception that seemed to have been informed by the leaked GTA 6 developer build footage circulated by cryptopeddling cornball master criminal, Cyberleek . (Image credit: Rockstar) The GCRB's initial rating review for GTA 6 took place on September 10, during which committee members argued over whether the game's "out-of-context genital nudity" was grounds for refusal. Previously, the GCRB's rating standards automatically rejected games with exposed genitalia, but those standards were relaxed in 2025 to permit an Adults Only rating for "cases where suggestive bodily exposure is directly and specifically depicted," as long as that depiction didn't extend to graphic sexual acts. Despite that revision, the committee members arguing to refuse an age rating for GTA 6 said that, while the GCRB had previously permitted "a certain degree of genital exposure where 
+TSMC, the juggernaut that produces roughly 90% of the world's most advanced chips, has discovered a data leak said to contain over 46,000 employee records, according to Seeking Alpha . The company made a Form 6-K filing with the US Securities and Exchange Commission on Thursday, stating: "TSMC has found that some of our current and former employee data was made available on an external website without authorization. Currently, we have found no evidence that TSMC’s systems have been compromised." The company says the info has been verified to match data "stored in the system services of a cloud service provider," although said provider is not named. TSMC says it has informed those impacted by the breach and is providing support, and has also engaged with the cloud service vendor, investigating authorities, and a third-party cybersecurity agency to "ascertain the facts and take necessary actions." Taiwanese outlet United Daily News reports that hackers were allegedly offering the employee records on an underground forum for the princely sum of three bitcoin, in exchange for 6.9 GB worth of private data. The outlet also says that, "according to information online" (via machine translation), hackers were also selling what appears to be TSMC employee data on other forums, releasing a small sample which is said to contain a vast array of personal details, including national ID numbers, addresses, and banking information. (Image credit: TSMC) TSMC has confirmed in its statement that
 
-### Xbox CEO looks to the future as Microsoft's console turns 25: 'A single person will soon be able to wield capabilities that once required entire nations'
-Thu, 12 Nov 2026 18:29:49 +0000 — https://www.pcgamer.com/software/ai/xbox-ceo-looks-to-the-future-as-microsofts-console-turns-25-a-single-person-will-soon-be-able-to-wield-capabilities-that-once-required-entire-nations/
+### Intel takes massive chunk out of AMD's desktop CPU market share in unexpected turnaround - may be due to the red team's dominance in gaming chips, weirdly
+Fri, 13 Nov 2026 15:23:48 +0000 — https://www.pcgamer.com/hardware/processors/intel-takes-massive-chunk-out-of-amds-desktop-cpu-market-share-in-unexpected-turnaround-may-be-due-to-the-red-teams-dominance-in-gaming-chips-weirdly/
 
-In a message marking the 25th anniversary of the first Xbox console , Xbox CEO Asha Sharma predicts that the future of gaming will look much like its beginning, "when a small team with a big idea could change how the world plays." And even though the term never actually appears in her post, yeah, I'm pretty sure she's talking about AI. Sharma's message kicks off with a blast from the early days of Microsoft, beginning with a look at Microsoft Adventure, an adaptation of Colossal Cave "that looked more like MS-DOS than an early version of Minecraft," and the first-ever Microsoft staff photo that showcases some absolutely spectacular hair. From there it's a quick trip through Microsoft Flight Simulator, Quake, DirectX, and then in 2001, the original Xbox. Naturally, there's a tribute to the "generations of employees, studios, developers, and partners" who helped create and grow Xbox, and the people who have played on various generations of consoles over the years. "Since joining Xbox, I've heard stories of friendships that began over a session and lasted a lifetime, of people who met the person they would marry, and of parents now sharing the games they grew up on with their children," Sharma writes. "I've also heard about people who are no longer with us, and how much those hours spent playing together still mean to those who love them. Ultimately, this is why we exist." From there, Sharma offers thoughts on the future of Xbox, and this is where I think it gets interesting: Af
+Intel appears to have gained market share from AMD in a rare turnaround for the company. The red team's chips have been in the lead in performance and popularity for many years now, and frankly, they still are. That's what weird about this one: AMD may have lost ground because it makes the best CPUs for gaming . The latest Q3, 2026 data from market researchers Mercury Research suggests an increase in market share for desktop CPUs of 5.1%. Now, considering AMD has fought tooth and nail for a decade to increase its share to around 35% as of Q2, 2026, dropping down to just 29.9% in the following three months marks a gargantuan lurch back towards Intel. Our pick for the best gaming CPU is the AMD Ryzen 7 9800X3D , and many other AMD chips make up our recommendations. While we do recommend the Intel Core Ultra 5 250K Plus due to its surprisingly low price tag and plenty of cores, I wouldn't go as far as believing any Arrow Lake chip has been key to turning around Intel's fortunes among gamers. The architecture struggles to keep up with AMD's latest in gaming, and it is built on a dead-end platform—Nova Lake chips are expected soon on a different motherboard socket. The increase in market share is almost too big to be believed, which is certainly one theory as to what's going on. A rounding error or errant data—though Mercury Research have been pretty locked in in the past. Both Intel and AMD cite their numbers when it makes them look good. (Image credit: Mercury Research) Mercury 
 
-### Everyone is Franklin in GTA 5 now
-Thu, 12 Nov 2026 18:00:00 +0000 — https://www.pcgamer.com/games/grand-theft-auto/everyone-is-franklin-in-gta-5-now/
+### Reddit tells me it’s not going to make a penny in affiliates from Reddit Reviews and is working hard to avoid inauthentic content
+Fri, 13 Nov 2026 15:05:54 +0000 — https://www.pcgamer.com/software/reddit-tells-me-its-not-going-to-make-a-penny-in-affiliates-from-reddit-reviews-and-is-working-hard-to-avoid-inauthentic-content/
 
-Los Santos Customs I'm modding GTA 5 every day in a quest to either transform it into a PC version of GTA 6 or break it entirely. Come back tomorrow to find out what new horrible thing I've done to Rockstar's baby, or check out what I got up to earlier . The police, GTA 5 informs me, have my description. This is not a surprise; everyone has my description. I have installed Everyone Is Franklin , and now everyone is Franklin. Or, well, nearly everyone is Franklin. Here is a comprehensive list of entities who are not Franklin: The furry gang The hitmen who periodically float past in cars trying to kill me Probably Michael and Trevor, wherever they are That might be it? My bodyguard God Everyone else? Franklin. All of Los Santos has become me, morphing into my tasteful cashmere jumper and chinos. They lounge on street corners, louche and smoking. They occupy the beachfront gym, sweating through that same cashmere as they bench press and kickbox. They are everywhere. I am everywhere. I can give myself a piggyback if I want to. I do want to. (Image credit: Rockstar) It's actually a bit disconcerting. The streets are somewhat emptier now, for reasons unknown to me, and those Franklins who remain to populate it are mostly very quiet. They shuffle along in mute procession. To where? I know not. Some new world, maybe, glimpsed in a dream. One wrinkle is that, in becoming Franklin, it seems every single person in Los Santos has also inherited Franklin's divine un-life. They are all unk
+A couple of days ago I reported that Reddit is rolling out reviews for different products, informed by Redditors' thoughts and molded by AI into into dedicated review pages for these products. Given Reddit says "many reviews also include images, prices, and purchase links", I wondered whether Reddit would be making any affiliate money from this. Well, I now have an answer: the company tells us it will not receive a cut. In an email sent to me, a Reddit rep explains: "Reddit Reviews is an organic experience, and Reddit does not receive a cut of any purchases made through the buy it now button on product pages." Not that I would have had a massive problem with this—PC Gamer earns affiliate revenue itself—but I suppose it's good to know there won't be a financial incentive there at least in that respect. And it does at least tie in with the aimed "organic" nature of Reddit in general. I was also concerned that users might review-bomb products they don't like, or that companies could use bots to positively influence reviews for their own products. Reddit reassures us about that, too: "Platform-wide, we are taking numerous steps to prevent and enforce against inauthentic content." (Image credit: Reddit) Some of these steps include: (Platform-wide) A layered approach involving moderators, the safety team, and user downvoting. (Platform-wide) Improvements to automated tools. (Reddit Reviews) LLMs trained to identify comments that describe personal experiences with a product. (Reddit
 
-### Now Jensen's gone, Intel’s trouble finding a steady CEO should serve as cautionary tale to Nvidia’s board
-Thu, 12 Nov 2026 17:50:22 +0000 — https://www.pcgamer.com/hardware/now-jensens-gone-intels-trouble-finding-a-steady-ceo-should-serve-as-cautionary-tale-to-nvidias-board/
+### 'Clear national security concerns that need to be addressed immediately': new letters to Jensen Huang from Congress strike a tougher tone for the ex-Nvidia CEO
+Fri, 13 Nov 2026 13:09:17 +0000 — https://www.pcgamer.com/hardware/graphics-cards/clear-national-security-concerns-that-need-to-be-addressed-immediately-new-letters-to-jensen-huang-from-congress-strike-a-tougher-tone-for-the-ex-nvidia-ceo/
 
-Has there ever been a tech CEO quite like Jensen Huang? The Nvidia chief has been an emblematic figure to PC gamers for years, before transcending into one of the primary architects of the AI revolution. Regardless of whether you love or hate the technology, (and the financial behemoth that Nvidia has become), you have to admit that Huang has presided over a meteoric rise to the top, the likes of which the tech world has rarely seen. Now Huang, the Nvidia cofounder, figurehead, and global AI industry pillar, has announced his resignation . The admission of an affair with someone some people suspect to be a Chinese spy, followed days later by reports of another affair with an Nvidia employee, proved to be his undoing as Nvidia chief. Nvidia's share price has dropped significantly in recent weeks. Investors, likely looking for some sort of stability after the past few weeks of AI and tech company financial woes, seem shaken. In many ways, the situation is unprecedented, and it's hard to draw parallels. But now Huang has gone, it puts Nvidia in the unenviable position of finding someone to replace him at the top of the stack. Nvidia CFO Colette Kress has taken over as interim CEO for now, but the board will almost certainly be trying to avoid a situation where it ends up with a revolving door of bosses over the next few years. Which brings me on to Intel, which has found itself working through CEOs at a surprising rate over the past couple of decades. While there are obvious dow
+Ex-Nvidia CEO and co-founder Jensen Huang has again been summoned to United States Congress to speak with lawmakers. On the agenda are national security issues that may have arisen from his, and his company's, relationship with MegaSpeed, a Singaporean-registered company at the centre of a debate about China's access to high-performance GPUs; possible interference with US export control investigations; and chip smuggling. “As reports continue to come to light regarding Jensen Huang, Nvidia, and Megaspeed, there are clear national security concerns that need to be addressed immediately,” US committee chairmen Mast, Moolenaar, and Crawford say about the letters summoning Huang, Nvidia's General Counsel Tim Teter, and Under Secretary of Commerce Jeffrey Kessler to Congress. “We need to know the full extent to which our national security has been put at risk," the chairmen say. This meetings are to take place with the House Committee on Foreign Affairs, House Select Committee on the CCP, and House Permanent Select Committee on Intelligence. Huang and Teter's meetings are described as 'closed-door transcribed interviews', taking place on December 1 and December 2, respectively. Both parties are threatened with subpoena to force their attendance if they do not comply with the request. Under Secretary Kessler's invitation is described as a "hearing" and is much more amicable. It's a marked change in tone for Huang compared to a letter sent by the chairmen prior to his resignation fr
 
 ## GameSpot
+
+### GTA 6 Could Sell 55 Million Copies By Early Next Year, Report Says, And Average Selling Price Could Be $90
+Fri, 13 Nov 2026 19:36:04 +0000 — https://www.gamespot.com/articles/gta-6-could-sell-55-million-copies-by-early-next-year-report-says-and-average-selling-price-could-be-90/
+
+Rockstar's Grand Theft Auto 6 launches on November 19, and it's expected to be a gigantic commercial success, but just how big will the launch be? Investor's Business Daily compiled data from a series of analyst reports about the game and its owner, Take-Two, and the consensus is that it's going to be a juggernaut. In terms of sales, Brian Pitz of BMO Capital Markets said GTA 6 could sell 55 million copies during Take-Two's fiscal 2027, which ends on March 31, 2027. He said the game could sell 45 million units alone during the game's launch quarter, which is well ahead of the estimates of 34.2 million that IBD compiled. "This is an outlier in every respect," Circana's Mat Piscatella told the publication. "There have been some big game launches in the past, but nothing quite at this scale, not only in terms of the investment, but in terms of the anticipation. It's in its own league." GTA 6 is launching with an $80 standard edition and a $100 Ultimate Edition. Raymond James analyst Andrew Marok said he's forecasting 50 million unit sales for the fiscal year 2027, and that the blended average selling price will be close to $90. According to Sensor Tower, early data suggested preorders were skewing toward the $100 edition, but by launch, it could be around 50/50 . Matthew Cost of Morgan Stanley, meanwhile, said if GTA 6 does indeed have strong sales out of the gate, this could create a "large potential audience" for the next iteration of GTA Online . Rockstar has not said anythin
+
+### You Can Probably Guess WoW: Forever s Most Popular Race, Class, And Faction
+Fri, 13 Nov 2026 19:15:27 +0000 — https://www.gamespot.com/articles/you-can-probably-guess-wow-forevers-most-popular-race-class-and-faction/
+
+World of Warcraft: Forever has been in the wild for one week, and now we have all kinds of stats to sink our teeth into as they relate to the most popular races, classes, and faction in the latest version of developer Blizzard's MMORPG. Forever launched November 4, becoming the biggest launch in WoW history by concurrent and returning players. Aside from that fact, Blizzard hasn't shared additional information on exactly how many characters have been made or what classes are most popular. For that, we turn to Raider.IO , a WoW stat-tracking website more commonly used in the modern version of the game to provide rankings and details related to raids and Mythic+ progression. A snapshot of WoW: Forever stats after one week. According to the site, close to 3.9 million characters have been created across all regions and rulesets so far. Around 48% of those characters are on the Alliance, with nearly 52% being on the Horde. The most popular two races aren't all that surprising--undead and humans. Despite being the most boring choice imaginable, humans have always been a popular choice in WoW Classic thanks to their strong passives and the ability to be most classes. In Forever, they currently make up 37% of the Alliance population. Undead, on the other hand, are getting a massive boost from being the only Horde race to currently have access to Paladin. They make up nearly 40% of the Horde. It won't shock you to learn then that Paladin is Forever's most-played class, with undead Pal
+
+### Official Zelda Website Raises Eyebrows By Labeling 3DS Game As Playable On Switch
+Fri, 13 Nov 2026 17:13:06 +0000 — https://www.gamespot.com/articles/official-zelda-website-raises-eyebrows-by-labeling-3ds-game-as-playable-on-switch/
+
+Nintendo is celebrating The Legend of Zelda's 40th anniversary in many different ways, but one detail on the company's official website raised confusion--and curiosity-- about a classic 3DS Zelda game. A "History" page on Nintendo's website lists every mainline Zelda game in release order, including the release date and which platforms you can play for each entry. The site marks every game that's playable for Nintendo Switch Online subscribers--and the 2013 3DS game The Legend of Zelda: A Link Between Worlds was marked as such. The NSO icon has since been removed from the site. Currently, the Nintendo Classics library allows NSO subscribers to play select NES, SNES, and Game Boy games, while the Expansion Pack subscription includes access to Nintendo 64, Game Boy Advance, GameCube, and Virtual Boy games. There's currently no way to play 3DS games on Nintendo Switch, prompting the question of whether this was an error on Nintendo's website or an accidental leak that A Link Between Worlds will somehow be playable on Switch. GameSpot has reached out to Nintendo for clarification on the matter. Nintendo's official website briefly listed A Link Between Worlds as a playable game through NSO. The site appropriately labels the Zelda games featured on Nintendo Classics if they are only playable with the Nintendo Switch Online Expansion Pack subscription, which applies to Ocarina of Time ( the original ), Majora's Mask, A Link to the Past/Four Swords on GBA, The Wind Waker, and The Min
+
+### GTA 6 And These Other Games Can Justify An $80 Price, Expert Says
+Fri, 13 Nov 2026 16:37:29 +0000 — https://www.gamespot.com/articles/gta-6-and-these-other-games-can-justify-an-80-price-expert-says/
+
+Rockstar's Grand Theft Auto 6 finally releases on November 19, and you'll have to pay at least $80 for it. That's a full $20 more than what GTA 5 cost in 2013 and $10 more than many other big AAA games today. Is $80 going to become the "new normal" for AAA games, or is it, along with Nintendo's Mario Kart World and Tears of the Kingdom for Switch 2 , an outlier at $80? According to Alinea Analytics researcher Rhys Elliott , $80 won't be an across-the-board new price for all games. Some developers will purposefully price their games lower to draw in more consumers--he pointed to games like Expedition 33 ($50), Phantom Blade Zero ($60), and Oblivion Remastered ($50) as examples. A scene from GTA 6. Elliott said that when GTA 6 inevitably becomes a huge success with its $80 and $100 editions, some publishers will be "jumping for joy" because they'll take this as a signal that the market will indeed accept these higher prices. However, Elliott said he hopes the industry doesn't learn the wrong lessons from GTA 6 and its $80 price point. "GTA 6 is as inelastic as things get in entertainment. People will pay anything to get their mitts on this one, which makes it seem like the perfect Trojan horse for an industry-wide price rise," he said. "The $80 price point will be a Godsend to some publishers, but it’ll be a snowball's chance in hell for others. After all, this kind of stuff can be zero-sum. When a player spends $100 on GTA 6, their remaining budget shrinks," he added. Elliott 
+
+### GTA 6 In-Game TV Show Macca & Friends Looks Ridiculous In The Best Way
+Fri, 13 Nov 2026 15:13:57 +0000 — https://www.gamespot.com/articles/gta-6-in-game-tv-show-macca-friends-looks-ridiculous-in-the-best-way/
+
+Rockstar Games has released the first footage of an in-game GTA 6 TV show called "Macca & Friends," which is about a sunglass-wearing pink alligator and his wetland friends in Leonida (the stand-in for Florida). One of Macca's friends is Pinchie the crab, who is Macca's landlord. Macca is also friends with a hat-wearing manatee and a flamingo. Check out the trailer below, which sets up a story where Macca needs to get money to pay his landlord. The story involves the group seemingly posing as cops and sneaking into a police station, maybe to grab some cash from an evidence locker? Macca & Friends will be available to watch on Weazel, which is GTA's version of Fox. For now, all we have is this teaser. Given Rockstar's extreme push toward depth and immersion, we wouldn't be surprised if Macca & Friends is an actual multi-episode TV show in GTA 6 that people can watch on their in-game couch. https://www.youtube.com/watch?v=UhPvgbP7ps8 GTA 6 has an impressive attention to detail, so much so that a lot of what Rockstar created, fans may never even see . GTA 6 launches on November 19 for PS5 and Xbox Series X|S. Preloading is underway now, and that's good news because the game is 212GB.
+
+### The PS5 s New Graphics-Upscaling Trick Is Spreading To More Games
+Fri, 13 Nov 2026 14:47:08 +0000 — https://www.gamespot.com/articles/the-ps5s-new-graphics-upscaling-trick-is-spreading-to-more-games/
+
+Sony has announced that several more games are getting a Quick Spectral Super Resolution (QSSR) upgrade on PS5. Introduced in September, QSSR is an AI-guided upscaling technology similar to the PS5 Pro's PlayStation Spectral Super Resolution (PSSR), and it originally supported only Marvel's Wolverine and Ghost of Yotei. That lineup is expanding over the next couple of weeks to include games like Control Resonant, Marvel's Spider-Man 2, Arc Raiders, The Finals, No Man's Sky, and Hell Let Loose: Vietnam. While it's not quite as good as PSSR on the PS5 Pro, QSSR still does a noticeable job of adding detail and clarity without impacting performance. Sony added that since QSSR shares elements with PSSR, it makes games that support the PS5 Pro upscaling tech a "natural" fit for an upgrade on regular PS5 consoles. https://youtu.be/JYEQkLnlV7o Marvel's Spider-Man 2 is a good example, given Insomniac Games' familiarity with PSSR. The QSSR update is now available for the game, and Insomniac's head of technology, Mike Fitzgerald, said it'll apply to both Fidelity and Performance modes. For Control Resonant, Remedy Entertainment senior graphics programmer Erik Jansson said that QSSR will offer noticeable improvements in image stability and fine detail, and the update will be available in December. While there's no exact date for when Arc Raiders and The Finals will be updated, players can expect "increased sharpness, better environmental clarity and overall visual improvements," accordin
+
+### Xbox Says Putting Ads In Games, Something No One Likes, Could Help Save Gaming
+Fri, 13 Nov 2026 14:26:32 +0000 — https://www.gamespot.com/articles/xbox-says-putting-ads-in-games-something-no-one-likes-could-help-save-gaming/
+
+Xbox Cloud Gaming now has a free ad-supported version that's rolling out as part of Microsoft's bigger push to bring more ads to Xbox. Jonathan Stringfield, who worked on Activision's advertising push and is now doing some of the same work in his title as GM for Xbox Media Solutions, said in an interview that people shouldn't see this as a move by Xbox to cram ads into all of its games. “There is zero world where there is intention--written, explicit, implicit, or otherwise--that ads will be an option in all games. It might not even be the case on all features of the console, et cetera,” he told GamesBeat . “Where we want to have these integrated is places where it makes sense--where it can actually provide value in a positive way. Even if that means the total reach that we can have is going to be perhaps smaller than if we brute-forced it, that’s okay." Xbox now has more ads. Stringfield went on to point out how the gaming industry today is at a crossroads if the existing model is to survive. Many are saying it won't, or shouldn't, but Stringfield said if it does, then companies either need to "dramatically increase the price of games" or "find other mechanisms" that allow companies to make more money and keep the business healthy. Stringfield, whose job is to help sell ads, said ads could be a way forward. “When we talk about advertising--and things that are adjacent to it that amount to recurrent revenue, whether it’s subscriptions or otherwise--what this allows for is an 
+
+### The Xbox 25th Anniversary Console Restock Sold Out Before You Could Finish Reading This Headline
+Fri, 13 Nov 2026 13:27:29 +0000 — https://www.gamespot.com/articles/the-xbox-25th-anniversary-console-restock-sold-out-before-you-could-finish-reading-this-headline/
+
+After quickly selling out earlier this year, Microsoft dropped a limited number of its 25th Anniversary Xbox Series X consoles for sale this week-- aaaaannnd they're already gone . Easily the best-looking Xbox Series X console thanks to its transparent green case, it looks like the majority of people looking to get one of these are out of luck, unless they're willing to pony up and pay extra for one of these consoles on sites like eBay, where they're currently being listed at next-gen console prices. Naturally, fans who missed out are livid, and online, they're calling out Xbox's first-come first-serve business model for selling the console, as opposed to a method like a lottery system that would even the playing field. Several disappointed buyers say that scalpers and bots go to all the remaining stock first, as they claim that it was sold out within seconds once again. People are especially mad at GameStop, as its dynamic pricing system had the console up for sale at the eye-watering price of $4,950, not including tax. https://twitter.com/AteThePrincess/status/2121107152362414300 Over on eBay, beggars can't be choosers, as people continue to pay an inflated price for this Xbox Series X. Sales of it are averaging around $2,500 per console, a significant mark-up from the $900 MSRP of the device. In comparison, both Nintendo and Sony have implemented lottery and queue-based reservation systems in the past, specifically designed to thwart scalpers and filter out automated bots.
+
+### Get Metal Gear Solid Delta: Snake Eater And All Bonus DLC Cheaper Than The Standard Edition Right Now
+Fri, 13 Nov 2026 12:33:28 +0000 — https://www.gamespot.com/articles/get-metal-gear-solid-delta-snake-eater-and-all-bonus-dlc-cheaper-than-the-standard-edition-right-now/
+
+I don’t think there’s ever been a more iconic sound than the ‘!’ noise that triggers when you’re spotted in Metal Gear Solid. Even when I was a little kid, my first exposure to the franchise was through the Mesal Gear Solid: Snake Escape minigame in Ape Escape 3. That’s not really relevant, besides the fact that it shares a similar name with Metal Gear Solid Delta: Snake Eater , a remake and an absolute blast that’s now cheaper than ever, with all DLC included. If you ask anyone who has played the series, there’s a good chance that Snake Eater might be their favorite. Personally, I’m a sucker for The Phantom Pain and, of course, Metal Gear Rising—but a majority of fans love this one, and I can’t blame them. A prequel to the rest of the series, meaning it’s a perfect jumping-on point for interested newcomers, you play as Naked Snake, sent to Tselinoyarsk, USSR, to complete Operation: Virtuous Mission. But, like any secret mission, things go awry. Metal Gear Solid Delta: Snake Eater is, narratively, the same game as the original, so fans shouldn’t expect anything too different from the 2004 version. Instead, the gameplay is fine-tuned with some quality-of-life changes, while keeping the stealth combat at its core the same. Just with a fresh coat of paint slapped on, of course. https://www.youtube.com/watch?v=npw4KxzOwBk And I’m really underselling it with the fresh coat of paint line. Metal Gear Solid Delta: Snake Eater completely refreshes the original, bringing it up to moder
 
 ### You Guys Are F***ing Idiots : Jeff Kaplan Takes Aim At Blizzard s Overwatch 2 Reveal
 Fri, 13 Nov 2026 11:52:29 +0000 — https://www.gamespot.com/articles/you-guys-are-fing-idiots-jeff-kaplan-takes-aim-at-blizzards-overwatch-2-reveal/
@@ -425,52 +465,37 @@ Fri, 13 Nov 2026 09:50:39 +0000 — https://www.gamespot.com/articles/wolfenstei
 
 The long-rumored Wolfenstein 3 has been officially confirmed to be in development at MachineGames. The news follows many hints and rumors of a third game in MachineGames' planned Wolfenstein trilogy, the franchise's first new entry since Wolfenstein: Youngblood in 2019 and its first mainline title since 2017. Xbox CEO Asha Shar posted the announcement as part of Xbox's 25th anniversary celebrations, and Bethesda also shared the news in its own post. https://bsky.app/profile/bethesda.net/post/3n25q3afshc2v In a move borrowed from the film industry, the game announcement was accompanied by a look at Wolfenstein 3's script, showing that protagonist B.J. Blazkowicz is back and more fearsome than ever. Bethesda also shared a photo from a mocap session, confirming that actors Brian Bloom and Debra Wilson will return to reprise their roles as B.J. and Grace Walker, respectively. MachineGames has said that it always planned for a trilogy of Wolfenstein games featuring B.J., meaning Wolfenstein 3 will continue the story that started with The New Order in 2014. MachineGames, alongside Bethesda, has also released three Wolfenstein spin-offs: the prequel The Old Blood in 2015, 2019's Youngblood, which featured B.J.'s twin daughters as protagonists, and the VR experience Cyberpilot, also released in 2019. The studio took a break from the Wolfenstein franchise to develop 2024's critically acclaimed Indiana Jones and the Great Circle. We don't have any more details on Wolfenstein 3 at prese
 
-### Candy Crush Is Celebrating Xbox s 25th Anniversary With Halo, Fallout, And Doom Crossovers, Including Remixed Music
-Thu, 12 Nov 2026 22:00:00 +0000 — https://www.gamespot.com/articles/candy-crush-is-celebrating-xboxs-25th-anniversary-with-halo-fallout-and-doom-crossovers-including-remixed-music/
-
-2026 is the 25th anniversary of Xbox, and it's been a tough year for the brand with mass layoffs, studio closures/divestitures, and game cancellations. But the celebrations are still going ahead, including an event from the Xbox-owned Candy Crush mobile game juggernaut. Announced today, Candy Crush Saga is marking the Xbox anniversary with a "Game On" season that brings items and elements from Halo, Fallout, Sea of Thieves, Forza, Doom, Banjo-Kazooie, Crash Bandicoot, and Spyro into the game through a virtual pin-collection event. Additionally, the popular and recognizable music from some of those games is coming to Candy Crush in "unmistakable Candy style," developer King said. Behold, the Candy Crush Xbox anniversary pins. The Game On event runs now through December 6. Players earn the themed pins, including Master Chief's iconic helmet, by progressing through Candy Crush's various levels throughout the season. The pins are being released physically, too, and people can enter a contest at the Candy Crush website for a chance to win. In terms of the updated music, Candy Crush Saga is adding "Candyfied" versions of music from Halo, Fallout, Sea of Thieves, Forza, Doom, and Banjo-Kazooie. https://open.spotify.com/album/6ZlwYppUhxU1q459vpmJVw You can check out a neat behind-the-scenes video below to see how composer Federico Truzzi worked with the developers at King to remix the songs with a Candy Crush flavor. The music was recorded by the German Film Orchestra Babelsberg and 
-
-### New Doom Game Seemingly Announced In The Weirdest Way After Half The Studio Was Laid Off
-Thu, 12 Nov 2026 21:07:28 +0000 — https://www.gamespot.com/articles/new-doom-game-seemingly-announced-in-the-weirdest-way-after-half-the-studio-was-laid-off/
-
-Xbox CEO Asha Sharma has announced that id Software is officially working on a new game, believed to be another Doom title. This is happening after Sharma oversaw id Software losing half of its staff to layoffs that were part of the Xbox "reset." Id Software replied to Sharma's post on Twitter to provide a few more details on the new game, which the team didn't say was a Doom game, but everyone suspects it will be. The studio said it's "incredibly excited" about the new game, which is in the works at id's studios in Texas and Frankfurt. Hugo Martin, an id Software veteran, is directing the game--don't expect to see or hear about it soon, though. "It'll be some time before we're ready to share more but we can't wait for you to see what we're working on," the developer said. A scene from Doom: The Dark Ages. Reporter Tom Warren said in July that id Software was in the "early stages" of developing a new Doom game, so this news today isn't totally surprising. Sharma cut staff at id Software (and numerous other Xbox studios around the world) earlier this year as part of a "reset" of the Xbox business. Marty Stratton of id Software recently said the studio is "doing great," despite the mass layoffs. Id Software's latest game was 2025's Doom: The Dark Ages. The game's newest update is coming on November 16, adding the new wave-based Slaughter mode .
-
-### Games Will Have A Physical Footprint Forever, Take-Two Boss Says, But It ll Be Very Small
-Thu, 12 Nov 2026 20:12:18 +0000 — https://www.gamespot.com/articles/games-will-have-a-physical-footprint-forever-take-two-boss-says-but-itll-be-very-small/
-
-It's no secret that the market for physical video games is drying up, but don't expect physical media for gaming to go away entirely anytime soon, or ever, according to Take-Two's Strauss Zelnick. He told The Game Business that it "may not be the end" for physical media entirely in games, even with Sony killing off PlayStation discs in 2028 . He said there will "always be some physical business" for gaming, but it will be a "very small part of the business." Lucia and Jason in GTA 6. He likened the scale of it to the vinyl business for recorded music. Most people might stream music today, but the market for vinyl is still there--and it's growing. For Take-Two, however, Zelnick said its business today is 98% digital. Going all-digital has a lot of benefits for publishers, but it's mainly about making more money. For GTA 6, the most highly anticipated game release ever, Rockstar is not offering the game on a disc, but the game will appear in stores via a code-in-a-box version. GTA 6's $400 collector's edition comes with a range of physical goods (but not the game), and Rockstar is also releasing GTA 6's score on CD and vinyl , but the game itself remains a digital-only experience. GTA 6 launches on November 19 for PS5 and Xbox Series X|S. A PC edition and online multiplayer are both rumored to launch in 2027 .
-
-### This Happy Ending For Two Games With Identical Names Was A Headache For Nintendo
-Thu, 12 Nov 2026 19:17:26 +0000 — https://www.gamespot.com/articles/this-happy-ending-for-two-games-with-identical-names-was-a-headache-for-nintendo/
-
-On November 25, two entirely separate games called Piece by Piece are releasing on Nintendo Switch. It's no coincidence, but the circumstances that led to this unusual situation certainly stem from a coincidence. Publisher No More Robots launched Piece by Piece, a cozy sim game full of cute animal characters, on Steam back in March. Two days later, studio Neon Polygons self-published an unrelated puzzle-platformer where you jump through literal puzzle pieces that you connect together--this game is also called Piece by Piece. What could have been a conflict between indie developers turned out to be the beginning of a wholesome business relationship. Both games were bundled together on Steam , and now No More Robots is publishing the Switch ports of both titles. https://bsky.app/profile/mikerose.bsky.social/post/3mzzqdmjqjs2m According to No More Robots co-founder Mike Rose, Neon Polygons "couldn't afford to bring their game to Switch," so No More Robots stepped in to publish the game for them. As with Steam, you can buy both games together in a bundle . It's undeniably a heartwarming and unique story, though one would assume that having to figure out the logistics behind launching two games that not only have the same name, but the same release date and publisher as well, was a nightmare on the backend of the Nintendo eShop. "And yes, Nintendo have ABSOLUTELY HATED THIS," Rose said in a social media post, adding that the publisher was questioned why it had two games with the s
-
-### Disney Teases Major Announcements For The Game Awards
-Thu, 12 Nov 2026 19:10:03 +0000 — https://www.gamespot.com/articles/disney-teases-major-announcements-for-the-game-awards/
-
-The Game Awards will air on Disney+ this year, and along with that, Disney has teased "major announcements and surprises" for its own games at the event. To be sure, The Game Awards will stream in other places, too, like YouTube and Twitch, so you won't need to sign up for Disney+ to watch. "As the evening unfolds, viewers can expect major announcements and surprises from some of Disney’s most anticipated titles in gaming," the company said . That's all that Disney had to say on the matter, but the tease has gotten people excited to theorize about the possibilities. For starters, Disney is already a big player in the world of video games, with nine different gaming franchises that have each generated at least $1 billion . One such franchise is Kingdom Hearts, and many are expecting news about Kingdom Hearts 4 soon. Beyond that, there are ongoing rumors about a new version of The Simpsons: Hit & Run . Another possibility is that Disney shares more about its partnership with Epic Games and Fortnite. “A number of launches coming up over the next two years … are going to demonstrate the value of this partnership,” Disney executive Dana Walder recently said. Disney could also share new details about its upcoming Star Wars gaming projects, including Star Wars Eclipse , or possibly the rumored Jedi 3 or Battlefront 3. Or Disney could show off some of its new Marvel projects, including the upcoming Iron Man game . Marvel's Blade also remains in development amid uncertainty about its 
-
-### Xbox Has Spent 25 Years Tracking Your Gaming Habits; Now You Can See The Damage
-Thu, 12 Nov 2026 18:34:06 +0000 — https://www.gamespot.com/articles/xbox-has-spent-25-years-tracking-your-gaming-habits-now-you-can-see-the-damage/
-
-It's the 25th anniversary of Xbox, and to celebrate, you can see how much time you've spent--or wasted, according to my parents--playing games on Xbox hardware over the years. Not to be confused with the end-of-year wrap-up that Xbox usually offers, Xbox Playback looks at your entire history, from when you first booted up a console to your current-day Achievements. It's a neat little celebratory feature, complete with a customized video and graphics that you can show off. In addition to the date you started playing on Xbox, it includes the first Xbox console you used, the first game you booted up, your total hours played, a breakdown of game genres, and more. (There are some limits on data during Xbox's early years, though.) You can try it out by signing in to your Xbox account through this link . I'm disgusted by the lack of Metal Gear Rising: Revengeance on my list. Other stats you can check out include the games you spent the most hours on, which ones you got a 100% Achievement rank in, and your longest streak of consecutive play days. Xbox says you can share your record online by scanning a QR code at the end of the video that plays--just in case you want to share how many hours you've sunk into Viva Piñata over the decades. While this is a fun way to look back at your Xbox history, it does come at a bittersweet time for Microsoft's gaming brand. This year has been brutal for Xbox employees amid a grand "reset" spearheaded by Xbox CEO Asha Sharma, as scores of jobs have b
-
-### Final Fantasy 14 Players Are Mourning The Loss Of The Game s Legendary Bassist
-Thu, 12 Nov 2026 18:32:19 +0000 — https://www.gamespot.com/articles/final-fantasy-14-players-are-mourning-the-loss-of-the-games-legendary-bassist/
-
-The Final Fantasy 14 community is in mourning following news that Eikichi Iwai, the bassist for the game's house band, The Primals, has died at the age of 57, and is taking to the MMORPG's main hub cities to honor his legacy. An "Important Announcement" post on the official FF14 website from developer Square Enix on November 11 broke the news, and stated the development team was "deeply saddened" to inform the community of Iwai's passing. "Having witnessed his truly unforgettable performance on stage at the recent Final Fantasy 14 Fan Festival in Japan, the sudden news of his passing has come as a profound shock," the statement reads. "The members of The Primals and the entire FF14 development and operations team are overcome with deep sorrow. "As we reflect on all that Eikichi-san has left behind, our thoughts are with him, and we offer our heartfelt condolences." The Primals, with Eikichi Iwai second from the left. The Primals, composed of Iwai on bass, composer Masayoshi Soken, localization lead Michael-Christopher Koji Fox, and band members Tetsuya Tachibana and GUNN, are behind some of FF14's most memorable tracks. Iwai's bass in particular stands out on songs like Shadowbringers' To the Edge and Stormblood's Amatsu Kaze . The band performed worldwide at various FF14 Fan Festivals, as well as at a UK rock festival , earlier this year. https://www.reddit.com/r/ffxiv/comments/1xtygrg/rest_in_peace_eikichi_iwai_vigil_in_siren_limsa/ Final Fantasy 14's community has a reputa
-
-### Xbox CEO s 25th Anniversary Message Is About AI, Even If She Won t Say It
-Thu, 12 Nov 2026 17:11:42 +0000 — https://www.gamespot.com/articles/xbox-ceos-25th-anniversary-message-is-about-ai-even-if-she-wont-say-it/
-
-As Xbox celebrates its 25th anniversary, Xbox CEO Asha Sharma has shared her thoughts on where gaming is going over the next 25 years, and people are saying her message is really more about pushing AI. Sharma said modern games demonstrate the "heights of human craft in ways unimaginable just decades ago." However, the costs, resources, and risks that companies need to take on have "grown just as dramatically," she said. "As a result, too many ideas never become games, and too many games fall short of what their creators imagined. For decades, this has been the unavoidable tradeoff of ambition. We must change this," she said. The 25th anniversary of Xbox has been rough for the company. Historically, to create anything at scale required immense resources, but Sharma said that's changing. Without saying AI, Sharma said it won't be long until a single person can "wield capabilities that once required entire nations." "A small team will be able to build worlds that today demand hundreds of developers and hundreds of millions of dollars. And our largest studios will be able to pursue ambitions as far beyond today’s games as Microsoft Flight Simulator 2024 is from its first entry in 1982," she said. Sharma went on to say that the future of gaming "will look more like its beginning," which is to say that a small team with a bold idea can make a real impact. "Our responsibility is to deliver great games, unmistakable hardware, and give more people the chance to make something the worl
-
-### The Internet Reacts To Jensen Huang s Resignation From Nvidia
-Thu, 12 Nov 2026 16:39:44 +0000 — https://www.gamespot.com/articles/the-internet-reacts-to-jensen-huang-resignation-from-nvidia/
-
-It's the end of an era for Nvidia , as its founder and longtime CEO, Jensen Huang, has resigned effective immediately. The face of one of the largest companies in the US and the growing AI boom, Huang's retirement comes after news broke of his two extramarital affairs, one of which was with a suspected Chinese spy. Nvidia has appointed its Chief Financial Officer, Colette Kress, to serve as interim CEO and Harvey C. Jones as Chair of the Board, but Huang's departure will leave a void that won't be easily filled, as he was heavily involved in Nvidia's day-to-day operations. The news is also expected to complicate things for Nvidia's stock price, as it has been in decline for over a month. The internet is already having a field day with Huang's departure, with hot takes and memes dominating the discourse right now. Huang's days of pulling on his signature leather jacket and hitting the stage to show off Nvidia's new hardware are now over. https://bsky.app/profile/zaaack.bsky.social/post/3n24ng6vzak2c https://twitter.com/MorningBrew/status/2120885382690558328 https://twitter.com/limewire/status/2120882209749901505 https://twitter.com/SoundDobad/status/2120675281421619612 https://twitter.com/MorningBrew/status/2120887634553618762 https://bsky.app/profile/ditzkoff.bsky.social/post/3n24n7bbn6s2n https://twitter.com/kevinxu/status/2120682063682806184 https://bsky.app/profile/richycraven.bsky.social/post/3n24qeysiek2h What's next for Huang? Only he knows, but he'll likely retire with
-
 ## Rock Paper Shotgun
+
+### Cyberpunk trading sim Probably Stolen is getting three big updates with new starting scenarios - organ trading, junk empires and fine dining
+Fri, 13 Nov 2026 17:30:00 +0000 — https://www.rockpapershotgun.com/cyberpunk-trading-sim-probably-stolen-is-getting-three-big-updates-with-new-starting-scenarios-organ-trading-junk-empires-and-fine-dining
+
+Mucky and disreputable kiosk game Probably Stolen &ndash; Cyberpunk Shopkeeper Sim is getting three big updates over the next few months that add extra starting scenarios, building on the existing wealth of goods, materials, vocations and techs. Those starting scenarios range from peddling human meat to running the finest cyber-frappucino stall this side of Tannh&auml;user Gate. There are no hard release dates, and the contents of each update may alter, but developers Questing Goose Studio have shared some rough timeframes. Read more
+
+### While soulslikes went bigger than big, Death's Door swung open the appeal of a tighter adventure
+Fri, 13 Nov 2026 17:05:50 +0000 — https://www.rockpapershotgun.com/have-you-played-deaths-door
+
+Declaring a Best Way of Doing Things is a fool&rsquo;s game, though in recent years my favourite entries in the Tricky Hitting genre &ndash; inclusive of soulslikes and their hybridised disciples &ndash; have been the big, bulging ones. Elden Rings and Silksongs , with vast kingdoms and deep, rattling toolkits for surviving them. The reason it&rsquo;s a fool&rsquo;s game is because you can also have something like Death&rsquo;s Door, a taut, compact, lighthearted little actioner that fills eight hours instead of 80 and yet never feels underwhelming or compromised for it. Read more
+
+### Worst Class Ever takes asymmetrical multiplayer back to school, with a teacher player trying to spot the naughty children among the NPCs
+Fri, 13 Nov 2026 16:34:50 +0000 — https://www.rockpapershotgun.com/worst-class-ever-takes-asymmetrical-multiplayer-back-to-school-with-a-teacher-player-trying-to-spot-the-naughty-children-among-the-npcs
+
+What's the best prank you ever pulled on a teacher in school, assuming you went to school? By which I mean, a genuinely funny prank that didn't cause any injuries, break any of the more important laws (legal or ethical), or leave anybody with years of mental distress. I'll start: I once had to write a four-page punishment essay with the topic "silence is golden", after being caught talking in class. I took the essay very seriously for the first three pages, only to end it with the phrase "...but not as golden as my arse." The teacher who set me the essay smugly tore it up without reading it - as I knew he would. Checkmate, Mr Thompson. Decades later, the last laugh remains mine. Read more
+
+### Crusader Kings publishers Paradox announce CEO swap, say they're "in a strong position at a time when much of the industry is facing major challenges"
+Fri, 13 Nov 2026 15:47:00 +0000 — https://www.rockpapershotgun.com/crusader-kings-publishers-paradox-announce-ceo-swap-say-theyre-in-a-strong-position-at-a-time-when-much-of-the-industry-is-facing-major-challenges
+
+Paradox Interactive, publishers of umpteen strategy genre stalwarts including Crusader Kings , Europa Universalis , and Hearts of Iron , have announced plans to switch overlords early next year. Fredrik Wester will make way for Mattias Lilja, as the deputy CEO takes the throne. Read more
+
+### How Origame Digital are channelling and defacing Lovecraft over a trilogy of "inherently indigenous" anti-fascist games
+Fri, 13 Nov 2026 14:30:00 +0000 — https://www.rockpapershotgun.com/how-origame-digital-are-channelling-and-defacing-lovecraft-over-a-trilogy-of-inherently-indigenous-anti-fascist-games
+
+Much like the H.P. Lovecraft novella it alternately riffs on and skewers, Penguin Colony takes you to an ancient alien city of crabby cuboid geometry and helical designs &ndash; comparable at a glance to Lovecraft's "terraces of every sort of provocative disproportion", but here given strangely everyday, anachronistic-seeming labels, such as "Downtown". Later, you're shown flashes of footage of the streets of Melbourne in Australia - developer Origame Digital's base of operations, and a city built on stolen Wurundjeri Woi-wurrung and Bunurong Boon Wurrung land. When I first set foot in Downtown, in the unassuming body of a Rockhopper penguin, I thought the broad idea was to satirically redefine modern settlements built by European colonisers as Lovecraftian relics, intrusions from the cosmic beyond. This irony seems most pointed in sections where you steer a group of M&amacr;ori characters, journeying south to prevent an expedition of German and British Nazi occultists from resurrecting a surviving elder being they call the "one true Aryan king". Playing as one of the M&amacr;ori voyagers, you witness the cyclopean city as a realm of spectral high rises and square windows, rearing out of a swamp of blood and bone. Read more
+
+### Microsoft suffer system outage affecting Outlook, Teams and Copilot, exec says there's "no indication this is the result of malicious or cyber activity"
+Fri, 13 Nov 2026 13:06:20 +0000 — https://www.rockpapershotgun.com/microsoft-suffer-system-outage-affecting-outlook-teams-and-copilot-exec-says-theres-no-indication-this-is-the-result-of-malicious-or-cyber-activity
+
+Microsoft 365 isn't quite living up to its name this week, as its services have suffered an extended outage that's knocked the likes of Outlook, Teams, and Copilot for six. As of writing, the company are finally reporting "encouraging recovery progress in Europe" and are busy "addressing the remaining areas of disruption", but that's only after chunks of November 12th and 13th have seen people, businesses, and institutions left unable to use stuff they rely on. Read more
 
 ### Horu is a sci-fi 4X RTS inspired by Star Wars: Empire at War in which spaceships are spellcasters who can summon black holes
 Fri, 13 Nov 2026 11:00:00 +0000 — https://www.rockpapershotgun.com/horu-is-a-sci-fi-4x-rts-inspired-by-star-wars-empire-at-war-in-which-spaceships-are-spellcasters-who-can-summon-black-holes
@@ -501,34 +526,4 @@ Is there a character not originally from a video game that has more games than B
 Thu, 12 Nov 2026 18:10:00 +0000 — https://www.rockpapershotgun.com/warhammer-40000-darktides-next-class-is-the-sisters-novitiate-a-group-who-love-staking-and-burning-people-for-the-god-emperor-and-its-out-next-month
 
 Look at you, you lucky devil, you're being treated to a new Warhammer 40,000: Darktide class next month! This class is called the Sisters Novitiate, a group of wonderfully violent women with a penchant for crossbows, burning people alive and putting a stop to anyone that dares to oppose the God-Emperor. Neato! Read more
-
-### Conan: The Black Pyramid shoves the titular barbarian into a very Hades-inspired action roguelite with the addition of a few other familiar heroes
-Thu, 12 Nov 2026 17:39:40 +0000 — https://www.rockpapershotgun.com/conan-the-black-pyramid-shoves-the-titular-barbarian-into-a-very-hades-inspired-action-roguelite-with-the-addition-of-a-few-other-familiar-heroes
-
-I feel like one thing I only sort of miss from my youth, viewed through the lenses of those rose tinted goggles, is the established intellectual property game that just copies the formula of another, successful game. Obviously there are plenty of genres that are trendy to imitate, but how often do you see something that's just sort of "thing you know slapped on top of game you know?" Perhaps that's a tad mean, but I do genuinely have a fondness for such games, so I'm quite pleased by the announcement of Conan: The Black Pyramid, an action roguelite RPG that so clearly went to Supergiant Games' School of Hades you have to admire the boldness just a little bit. Read more
-
-### Cartoon-styled "lite-vania" Lola's Familiars: Prison of Argnoh will have you springing yourself, and your summoned pals, from magic jail
-Thu, 12 Nov 2026 17:08:00 +0000 — https://www.rockpapershotgun.com/cartoon-styled-lite-vania-lolas-familiars-prison-of-argnoh-will-have-you-springing-yourself-and-your-summoned-pals-from-magic-jail
-
-Since we're already sharing trailers from non-Geoff awards shows , here's another: a first in-motion look at Lola's Familiars: Prison of Argnoh, a 2D side-scroller and "lite-vania" that sees its shy witch-in-training making her first summonable friends. Then, borrowing their powers to bust out of a dark fantasy oubliette. Read more
-
-### The hills are alive with The Sound of Fury, a fantasy musical hack 'n' slash about weaponising pianos to fight the Devil
-Thu, 12 Nov 2026 15:31:10 +0000 — https://www.rockpapershotgun.com/the-hills-are-alive-with-the-sound-of-fury-a-fantasy-musical-hack-n-slash-about-weaponising-pianos-to-fight-the-devil
-
-My firstest-ever Golden Joystick Awards, which took place last night in London , was marred somewhat by 1) a gin & tonic costing eleven quid and 2) my view of the stage being directly obscured by its own rigging. Nonetheless, I did crane enough to get a good view at the reveal of The Sound of Fury, a musically-minded hack 'n' slash in which a troubled classical musician descends into Hell to save a friend from the Devil. Read more
-
-### Nvidia boss Jensen Huang resigns amid scandal surrounding two alleged affairs, interim CEO appointed as search for sexy leather jacket man's successor begins
-Thu, 12 Nov 2026 14:49:00 +0000 — https://www.rockpapershotgun.com/nvidia-boss-jensen-huang-resigns-amid-scandal-surrounding-two-alleged-affairs-interim-ceo-appointed-as-search-for-sexy-leather-jacket-mans-successor-begins
-
-Nvidia have ripped off the wax strip and are looking for a new CEO. Jensen Huang, he of the reported extramarital affairs with both a suspected Chinese spy and one of his executive underlings at Nvidia has removed his bottom from the great throne of black and green graphics cards. Read more
-
-### Nvidia board reportedly prepare to give CEO Jensen Huang the boot, as second alleged affair thrusts him closer to seriously lusty Crusader Kings playthrough territory
-Thu, 12 Nov 2026 12:38:40 +0000 — https://www.rockpapershotgun.com/nvidia-board-reportedly-prepare-to-give-ceo-jensen-huang-the-boot-as-second-alleged-affair-thrusts-him-closer-to-seriously-lusty-crusader-kings-playthrough-territory
-
-Update: Annnnnnnddd he's gone . Original story follows: The situation at the highest levels of AI and also some graphics cards if you insist company Nvidia continues to look, well, less than ideal. CEO Jensen Huang, he of the reported extramarital affair with a suspected Chinese spy , now appears to potentially be on the verge of being chucked out of the window of a black and green corporate tower, following a report claiming that he had a second alleged affair with an executive who reports to him. Read more
-
-### Amid soaring PC hardware prices, gaming monitors are getting cheaper and cheaper. Here's why, and what to buy
-Thu, 12 Nov 2026 12:00:00 +0000 — https://www.rockpapershotgun.com/amid-soaring-pc-hardware-prices-gaming-monitors-are-getting-cheaper-and-cheaper-heres-why-and-what-to-buy
-
-Hello, good local-time-zone-adjusted afternoon, and let's just say it's been a while . But I come back to you now at the turn of the technological tide. Well, sort of. Sadly I'm not here to predict an end to the ridiculous AI-fuelled chip crisis . That whole mess has a couple of years to run, surely. Instead I speak of screens, where there is actually some very good news. In short, have you seen how cheap PC gaming monitors are? I mean remarkably, almost stupendously, cheap. I'm talking &pound;60 / $60 for an entry-level 1080p panel with triple-digit refresh rate, sub-&pound;200 / $250 for high-refresh 4K gaming. Heck, even OLED monitors now start with a "2" in both currencies. Read more
 

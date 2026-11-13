@@ -1,66 +1,66 @@
-# Manga — harvested 2026-11-13T12:36:59.558Z
+# Manga — harvested 2026-11-13T20:38:59.686Z
 
 ## Anime News Network
 
-### Omniscient Reader, Greatest Estate Developer, Debut or Die!, 7 More Works Win 2026 World Webtoon Awards
-Fri, 13 Nov 2026 07:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-13/omniscient-reader-greatest-estate-developer-debut-or-die-7-more-works-win-2026-world-webtoon-awards/.243552
+### The Ramparts of Ice Season 2 ‒ Episode 21
+Fri, 13 Nov 2026 15:30:00 -0500 — https://www.animenewsnetwork.com/review/the-ramparts-of-ice-season-2/episode-21/.243802
 
-10 winners will each receive trophy, 10 million won (about US$7,200)
+I really can't feel bad for Momoka, even if I can agree with some of the things that she is saying.
 
-### ATASHIn'CHI Next Net Anime's Additional Episodes Debut on January 1
-Fri, 13 Nov 2026 06:45:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-13/atashinchi-next-net-anime-additional-episodes-debut-on-january-1/.243794
+### Giant Ojosama TV Anime Reveals More Cast
+Fri, 13 Nov 2026 15:00:05 -0500 — https://www.animenewsnetwork.com/news/2026-11-13/giant-ojosama-tv-anime-reveals-more-cast/.243804
 
-New episodes from <cite>Chainsmoker Cat</cite> director Taku Kimura to debut monthly on YouTube
+Series casts Rina Kawaguchi as Stella, Risa Imayanagi as Madoka Ito
 
-### NHK Announces 2026 Kōhaku Song Contest Lineup
-Fri, 13 Nov 2026 06:18:41 -0500 — https://www.animenewsnetwork.com/interest/2026-11-13/nhk-announces-2026-kohaku-song-contest-lineup/.243791
+### J-Novel Club Licenses Putting a Price on World Peace Novels, I'm Dating a Dark Summoner Manga, More Titles
+Fri, 13 Nov 2026 15:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-13/j-novel-club-licenses-putting-a-price-on-world-peace-novels-im-dating-a-dark-summoner-manga-more-/.243781
 
-B'z vocalist and lyricist Koshi Inaba will appear during a special event during the live show
+Company to also release <cite>Rebuild World</cite> novels, <cite>A Royal Rebound</cite> manga in print next year
 
-### Stars Shinnosuke Tokudome, Shūichirō Umeda Perform Ending Theme for Ore to Yu Nii! Anime
-Fri, 13 Nov 2026 06:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-13/stars-shinnosuke-tokudome-shuichiro-umeda-perform-ending-theme-for-ore-to-yu-nii-anime/.243793
+### The Apothecary Diaries Season 3 ‒ Episode 55
+Fri, 13 Nov 2026 14:30:00 -0500 — https://www.animenewsnetwork.com/review/the-apothecary-diaries-season-3/episode-55/.243799
 
-Series debuts in January 2027
+If Basen comes through this plotline with his sanity intact, I will be very impressed.
 
-### Multi-Mind Mayhem: Isekai Tensei Soudouki Anime Reveals January 6 Debut, More Cast in 2nd Promo Video
-Fri, 13 Nov 2026 05:54:08 -0500 — https://www.animenewsnetwork.com/news/2026-11-13/multi-mind-mayhem-isekai-tensei-soudouki-anime-reveals-january-6-debut-more-cast-in-2nd-promo-video/.243790
+### Titan Holds Distribution of Five Star Stories Manga's 1st English Volume to Review Translation Situation
+Fri, 13 Nov 2026 14:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-13/titan-holds-distribution-of-five-star-stories-manga-1st-english-volume-to-review-translation-/.243800
 
-Maverick Mom performs opening theme song 'Isekai,' VTuber Tokino Sora performs ending theme 'Brand New Day'
+Titan Manga: "We take the quality and integrity of our translations extremely seriously and fully recognize the gravity of this situation."
 
-### 'Draw This, Then Die!' Manga Takes 2-Month Break to Prepare for Final Arc
-Fri, 13 Nov 2026 00:25:15 -0500 — https://www.animenewsnetwork.com/news/2026-11-13/draw-this-then-die-manga-takes-2-month-break-to-prepare-for-final-arc/.243776
+### STEEL BALL RUN JoJo's Bizarre Adventure ‒ Episode 9
+Fri, 13 Nov 2026 13:30:00 -0500 — https://www.animenewsnetwork.com/review/steel-ball-run-jojo-bizarre-adventure/episode-9/.243801
 
-Author also working on manga's upcoming book volume releases
+This episode captures every part of what I love about the original manga and somehow, almost miraculously, manages to improve upon one of the most celebrated works in all of illustrative fiction.
 
-### Bandai's Gashapon Capsule Prize Machine Now Transforms Into a Robot
-Thu, 12 Nov 2026 23:59:00 -0500 — https://www.animenewsnetwork.com/interest/2026-11-12/bandai-gashapon-capsule-prize-machine-now-transforms-into-a-robot/.243757
+### This Week in Games - SaGa's End
+Fri, 13 Nov 2026 12:00:00 -0500 — https://www.animenewsnetwork.com/this-week-in-games/2026-11-13/saga-end/.243645
 
-In celebration of Gashapon's 50th anniversary
+We bid farewell to a beloved translator this week before exploring a new mystery visual novel.
 
-### Comic Market: Ticketpay Service Restricts Access for International Users
-Thu, 12 Nov 2026 23:11:44 -0500 — https://www.animenewsnetwork.com/news/2026-11-12/comic-market-ticketpay-service-restricts-access-for-international-users/.243774
+### Expelled From Paradise: Resonance Anime Film Review
+Fri, 13 Nov 2026 12:00:00 -0500 — https://www.animenewsnetwork.com/review/expelled-from-paradise/resonance-anime-film/.243778
 
-Staff is now investigating alternate ways for overseas ticket buyers
+The film is also a thought experiment about AI.
 
-### Yuri Is My Job! Manga Gets Short Drama Adaptation Next Spring
-Thu, 12 Nov 2026 23:03:18 -0500 — https://www.animenewsnetwork.com/news/2026-11-12/yuri-is-my-job-manga-gets-short-drama-adaptation-next-spring/.243775
+### Living It Up in Another World Until I Get Bored Novels Get TV Anime
+Fri, 13 Nov 2026 11:37:14 -0500 — https://www.animenewsnetwork.com/news/2026-11-13/living-it-up-in-another-world-until-i-get-bored-novels-get-tv-anime/.243798
 
-Drama to debut on Tatedora app
+Anime based on Fudaya Sanmongarasu, Tomozo's novels debuts in January 2027
 
-### Teto Kasane Comes to Fortnite Festival
-Thu, 12 Nov 2026 22:00:00 -0500 — https://www.animenewsnetwork.com/interest/2026-11-12/teto-kasane-comes-to-fortnite-festival/.243754
+### Gifted Baseball Webtoon Gets Live-Action TV Series Adaptation Premiering on December 5
+Fri, 13 Nov 2026 11:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-13/gifted-baseball-webtoon-gets-live-action-tv-series-adaptation-premiering-on-december-5/.243783
 
-And will appear in <i>Fortnite Battle Royale</i> with Vocaloid idol Hatsune Miku
+Series centers on coach who gains ability to see players' natural talents, limits to their potential
 
-### Blue Rights Company Unveils Pilot Film for Orochi -Seventh Echoes- Original Animated Feature
-Thu, 12 Nov 2026 20:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-12/blue-rights-company-unveils-pilot-film-for-orochi-seventh-echoes-original-animated-feature/.243748
+### Aquaman Romance Webtoon Gets Japanese Live-Action Series Premiering on December 25
+Fri, 13 Nov 2026 10:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-13/aquaman-romance-webtoon-gets-japanese-live-action-series-premiering-on-december-25/.243785
 
-<cite>Akira</cite> film animation director Takashi Nakamura helms film, credited for original concept
+Story explores main characters' changing feelings as they confront emotions they had not previously recognized
 
-### Sega Streams Sonic the Hedgehog: Memories and Beyond Short Animated Film on YouTube
-Thu, 12 Nov 2026 15:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-12/sega-streams-sonic-the-hedgehog-memories-and-beyond-short-animated-film-on-youtube/.243768
+### Purge List Webtoon's Live-Action Film Adaptation Begins Production for 2027 Release
+Fri, 13 Nov 2026 09:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-13/purge-list-webtoon-live-action-film-adaptation-begins-production-for-2027-release/.243551
 
-Short commemorating franchise's 35th anniversary features Sonic & friends vs. Metal Sonic
+Historical action film will star Woo-sung Jung as ruthless power broker
 
 ## Crunchyroll News
 
@@ -93,31 +93,6 @@ Wed, 11 Nov 2026 20:50:02 GMT — https://animecorner.me/bartosz-sztybor-and-say
 
 CYBERPUNK: EDGERUNNERS 2 left no one indifferent after the worldwide release of the ten-episode&hellip;
 
-### Black Clover Season 2 Episode 7 Preview Continues Fight Against Megicula
-Wed, 11 Nov 2026 18:21:03 GMT — https://animecorner.me/black-clover-season-2-episode-7-preview-continues-fight-against-megicula/
-
-Black Clover Season 2 has released preview images and synopsis for Episode 7 (Episode 177 overall) ahead of its November 14 premiere.
-
-### Exclusive Preview: Ram V Launches Mirror Maker Studios Ahead of Deicidium Volume 1 Release
-Wed, 11 Nov 2026 17:00:00 GMT — https://animecorner.me/exclusive-preview-ram-v-launches-mirror-maker-studios-ahead-of-deicidium-volume-1-release/
-
-Eisner Award-winning writer Ram V has launched Mirror Maker Studios, a new creative studio&hellip;
-
-### SSS-Class Revival Hunter New Trailer Previews Ending Theme Song by THE SPELLBOUND x BOOM BOOM SATELLITES
-Wed, 11 Nov 2026 16:08:52 GMT — https://animecorner.me/sss-class-revival-hunter-new-trailer-previews-ending-theme-song-by-the-spellbound-x-boom-boom-satellites/
-
-SSS-Class Revival Hunter anime has released a new trailer featuring additional footage and a preview of its ending theme song "Fading"
-
-### Interview: BLEACH Mirrors High Producers Talk Original Story, Tite Kubo's Involvement, Customization, and Future Updates
-Wed, 11 Nov 2026 14:27:30 GMT — https://animecorner.me/interview-bleach-mirrors-high-producers-talk-original-story-tite-kubos-involvement-customization-and-future-updates/
-
-BLEACH Mirrors High has brought a new experience to the iconic franchise, allowing players&hellip;
-
-### Black Clover Season 2 New Noelle Battle Visual Spotlights Her Valkyrie Dress Form
-Wed, 11 Nov 2026 13:32:50 GMT — https://animecorner.me/black-clover-season-2-new-noelle-battle-visual-spotlights-her-valkyrie-dress-form/
-
-Black Clover Season 2 revealed its second “Most Fearsome Battle Visual,” this time featuring Noelle Silva in her Valkyrie Dress form.
-
 ## MyAnimeList News
 
 ### Isekai Tensei Soudouki Reveals Additional Cast, Staff, Theme Songs, Second Promo
@@ -145,11 +120,6 @@ Thu, 12 Nov 2026 01:32:05 -0800 — https://myanimelist.net/news/74931133?_locat
 
 Production company Asmik Ace opened an official website for a television anime adaptation of Juntarou Aoki and Shin Moriyama s Nabe ni Tama wo Ukenagara (Getting Shots on Frying Pan) manga on Thursday, revealing the main cast, staff, and a teaser promotional video. Produced by J.C.Staff, the anime is scheduled to premiere on Nippon TV, Yomiuri TV, BS Nippon TV, and AT-X in January 2027. Voice actors Shuu Uchida (Yarinaoshi Reijou wa Ryuutei Heika wo Kouryakuchuu) and Masaaki Mizunaka (Nyai...
 
-### Mashle: Sanma Taisou Shinkakusha Saishuu Shiken-hen Reveals Additional Cast, Promo
-Wed, 11 Nov 2026 06:46:50 -0800 — https://myanimelist.net/news/74928431?_location=rss
-
-The official website of the Mashle (Mashle: Magic and Muscles) television anime revealed additional cast pair, a key visual and a promotional video for its third season on Wednesday. The new season is scheduled to premiere on January 10 at 12.00 a.m. on Tokyo MX, BS11, Gunma TV and Tochigi TV, followed by Mainichi Broadcasting, Shizuoka Broadcasting, FBS Fukoka, Chukyo TV, Nagano Asahi, Okayama, Miyagi TV, Sapporo TV, Television Niigata and Chugoku. Voice actors Souma Saitou (Youkoso Jitsuryoku...
-
 ## Otaku USA
 
 _Nothing in the last 48 hours._
@@ -165,9 +135,4 @@ Kingdom Hearts: Chain of Memories delivers an engaging if transitionary storylin
 Thu, 12 Nov 2026 10:00:26 +0000 — https://animeuknews.net/2026/11/lockdown-life-with-the-class-beauty-volume-1-review/
 
 Kicked out of his dorm during a pandemic, Kanata finds himself with nowhere to stay. That is, until he helps the technologically challenged Haruka, who invites him to stay with her in exchange for his help...
-
-### Performers announced for matsuri 26: Japanese Music Experience LONDON
-Wed, 11 Nov 2026 19:00:25 +0000 — https://animeuknews.net/2026/11/performers-announced-for-matsuri-26-japanese-music-experience-london/
-
-Musicians hitsujibungaku, Kyary Pamyu Pamyu and Otoboke Beaver are coming to London this December for a one-off triple headliner performance in matsuri '26: Japanese Music Experience LONDON.
 

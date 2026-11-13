@@ -1,170 +1,170 @@
-# Film & TV — harvested 2026-11-13T12:36:59.558Z
+# Film & TV — harvested 2026-11-13T20:38:59.686Z
 
 ## Variety
 
-### Malaysian War Drama The Ghost and the Gun Sets Global Netflix Release (EXCLUSIVE)
-Fri, 13 Nov 2026 12:12:43 +0000 — https://variety.com/2026/tv/news/malaysian-war-drama-ghost-gun-netflix-global-1236946880/
+### Top Limited Series Writers on the Importance of Episode Titles and Adapting Well-Known Films and True Stories: You Come Out With Something Familiar and Surprising
+Fri, 13 Nov 2026 20:10:23 +0000 — https://variety.com/2026/tv/news/limited-series-night-in-the-writers-room-2-1236947182/
 
-Netflix will stream The Ghost and the Gun ( Peluru Senja ), a Bahasa Malaysia-language war drama set in Malaya in the years after World War II, around the world. The film is the third feature from Indian filmmaker Anshul Tiwari, who is based in Singapore and previously directed Before Life After Death and Bayaar. Abhi Kumar [ ]
+The writers and creators behind some of television’s most popular limited series joined Variety’s A Night in the Writers Room to discuss their creative processes behind adapting stories for television. Moderated by Variety’s senior artisans editor Jazz Tangcay, the limited series panel featured Nick Antosca of Cape Fear, Silka Luisa of Blade Runner 2099 and [ ]
 
-### Ramayana, Fatherland, Dhurandhar Lead International Film Festival of India Lineup Featuring Almodovar, Kore-eda, Kurosawa
-Fri, 13 Nov 2026 12:02:37 +0000 — https://variety.com/2026/film/markets-festivals/ramayana-fatherland-dhurandhar-iffi-goa-2026-lineup-1236946864/
+### Hold Onto Me Director Myrsini Aristidou Kicks Off Historic Oscar Campaign for Sundance Audience Award Winner: I Really Feel Like We re Underdogs
+Fri, 13 Nov 2026 19:36:50 +0000 — https://variety.com/2026/film/global/hold-onto-me-myrsini-aristidou-oscar-campaign-sundance-1236945016/
 
-Paweł Pawlikowski s Fatherland, which earned him the best director prize at Cannes this year, will open the 57th International Film Festival of India (IFFI), set for Nov. 20-28 in Goa. Nitesh Tiwari s Ramayana: Rise of a Legend will open the festival s BRICS showcase, and Aditya Dhar s Bollywood feature Dhurandhar will open the Indian Panorama. Goa [ ]
+It’s been a whirlwind year for Cypriot filmmaker Myrsini Aristidou, whose 2026 started with a triumphant trip to Park City, where her debut feature, “Hold Onto Me,” won the audience prize in the World Cinema Dramatic competition at Sundance. Then, in September, the film made history when it was tapped to represent Cyprus in the [ ]
 
-### Microsoft Says No Evidence of Malicious Activity in Global Outage of Outlook and Exchange Email as It Begins to Restore Services
-Fri, 13 Nov 2026 11:52:37 +0000 — https://variety.com/2026/digital/news/microsoft-outlook-email-outage-no-evidence-malicious-activity-1236946855/
+### Netflix’s ‘Magic the Gathering’ Animated Series Drops First Look at ‘Planeswalker,’ Set for 2027
+Fri, 13 Nov 2026 19:12:44 +0000 — https://variety.com/2026/tv/news/netflix-magic-the-gathering-series-planeswalker-first-look-1236947203/
 
-Microsoft on Friday was still struggling to restore service to millions of Outlook and Exchange email users more than 18 hours after its servers crashed and became unavailable. In an update on Microsoft s Service Health Status page Friday morning, the company did not explain what triggered the catastrophic outage but said that it did not [ ]
+Netflix has unveiled the first-look image from its upcoming animated series based on Magic the Gathering. The series, titled Planeswalker, is set to debut in 2027, with an exact release date to be announced later. The official description of the series states: Planeswalker, an epic fantasy saga from the world of Magic: The Gathering, chronicles [ ]
 
-### How the Baltics Are Juggling a Boom in Foreign Productions Like ‘Woman Unknown’ With a Lack of Public Funds
-Fri, 13 Nov 2026 09:15:41 +0000 — https://variety.com/2026/film/global/woman-unknown-star-city-baltics-foreign-shoots-boom-1236946177/
+### Margot Robbie to Star in A24 s The Week of Pain From The Drama Director Kristoffer Borgli
+Fri, 13 Nov 2026 19:05:59 +0000 — https://variety.com/2026/film/news/margot-robbie-a24-the-week-of-pain-kristoffer-borgli-1236947188/
 
-Mid-October, Estonia’s long-awaited next-gen film studio complex Ida Hub, in the country’s eastern region, finally opened for business, and industry guests at Tallinn’s Black Nights Film Festival are invited to tour the facilities Nov. 21-22. As stressed by Edith Sepp, head of the Estonian Film Institute, the country’s brand-new studio powerhouse, twinned with the Tallinnfilm [ ]
+Margot Robbie will star in A24 and Square Peg s The Week of Pain from The Drama writer-director Kristoffer Borgli, Variety has confirmed. A24 is set to produce and finance the project. Ari Aster and Lars Knudsen s Square Peg banner will also produce alongside Dilemma Films and Robbie s LuckyChap. Plot details for The Week of Pain [ ]
 
-### Russell Brand Faces Sexual Misconduct Claims From Six More Women After Rape Sentencing
-Fri, 13 Nov 2026 08:02:27 +0000 — https://variety.com/2026/tv/news/russell-brand-misconduct-claims-six-more-women-1236946823/
+### Nearly 80% of Surveyed ACE Editors Are Using AI, New Data Finds: ‘You Adapt or Die’
+Fri, 13 Nov 2026 19:02:06 +0000 — https://variety.com/2026/biz/news/surveyed-ace-editors-using-ai-avid-data-finds-1236947004/
 
-Six more women have accused Russell Brand of sexual misconduct in a new investigation by The Times and The Sunday Times, the newspapers whose earlier reporting on the comedian features in Netflix s just-unveiled documentary Russell Brand: Open Secret. The accounts were published days after Brand was jailed for rape and sexual assault. The papers could [ ]
+There are many whispers throughout Hollywood about how many professionals are secretly using AI tools. But a cohort of film editors are ready to go public. In a survey of 120 members of the 1,200-body American Cinema Editors conducted by Avid, the tech company behind editing software stalwarts like Media Composer and Pro Tools, 77.5% [ ]
 
-### Heartland Review: Jessica Chastain Rocks a Stetson and a Swagger for a Soapy Nashville Noir
-Fri, 13 Nov 2026 08:01:00 +0000 — https://variety.com/2026/film/news/heartland-review-jessica-chastain-1236946587/
+### TV Academy Cancels Televerse for 2027 Emmy Season; Festival Will Return in Early 2028
+Fri, 13 Nov 2026 18:15:51 +0000 — https://variety.com/2026/tv/news/tv-academy-cancels-televerse-2027-emmy-season-return-2028-1236947153/
 
-Misty Jones keeps her Grammy in the fridge, alongside a near-empty Tupperware of chicken broth and, well, not a whole lot else: A former country superstar turned burnt-out rural hermit, she more or less lives off what once was, but her memories don t exactly nourish her. Peculiar details like these enliven Heartland, a missing-person mystery [ ]
+Televerse is taking a telebreak. The Television Academy’s TV festival, which launched in 2025 and continued this year, won’t be back in 2027 — and will move to earlier in the year when it returns in 2028, the org announced Friday. That now places Televerse at the start of the Emmy FYC season, as opposed [ ]
 
-### Tony Award Winner Lois Smith Joins Colin West’s ‘Outside of Cleveland’: ‘She’s an Icon’ (EXCLUSIVE)
-Fri, 13 Nov 2026 08:00:00 +0000 — https://variety.com/2026/film/actors/lois-smith-colin-west-outside-of-cleveland-alex-wolff-1236945021/
+### Sunset P.I. Sets NBC Release Date, Jake Johnson Comedy Series Drops New First-Look Photos
+Fri, 13 Nov 2026 18:00:00 +0000 — https://variety.com/2026/tv/news/sunset-p-i-nbc-release-date-jake-johnson-1236947108/
 
-Tony award winner Lois Smith has joined the cast of Colin West’s upcoming feature “Outside of Cleveland.” Smith’s first on-screen role was in 1955 opposite James Dean in “East of Eden.” She has appeared in such films as “Five Easy Pieces,” “Twister,” “Minority Report,” “Dead Man Walking,” “Ladybird” and “The French Dispatch.” In 2017, Smith [ ]
+NBC has set the premiere date for its new comedy series Sunset P.I. The single-camera comedy will debut Monday, Feb. 8 at 8:30 pm ET/PT. Episodes will be available to stream the next day on Peacock. NBC has also released new first-look images from the series, which can be seen below. The series stars Jake [ ]
 
-### Shilpa Shetty to Host Relationship Reality Show Pyaar Ka Pressure Cooker for India s JioHotstar and Colors
-Fri, 13 Nov 2026 07:01:16 +0000 — https://variety.com/2026/tv/news/shilpa-shetty-host-reality-show-pyaar-ka-pressure-cooker-1236946816/
+### Pluribus Promotes Samba Schutte to Series Regular for Season 2
+Fri, 13 Nov 2026 18:00:00 +0000 — https://variety.com/2026/tv/news/pluribus-season-2-samba-schutte-series-regular-1236947123/
 
-Bollywood star Shilpa Shetty will host Pyaar Ka Pressure Cooker, a reality series that pushes couples in stalled or undefined relationships to decide their future, for streamer JioHotstar and Hindi-language channel Colors. The show is being billed by the two JioStar-owned outlets as India s first relationship clarity show. Participants will range from couples in early, [ ]
+Samba Schutte has been upped to series regular status for Pluribus Season 2, Variety has learned. Schutte is known for playing Mr. Diabaté in Season 1 as a guest star. Like Rhea Seehorn s Carol, the character is immune to the outbreak and lives a hedonistic lifestyle. Schutte is also known for starring in the HBO [ ]
 
-### Dolly Parton s Last Recorded Song Released: Listen to Her Passionate Performance on U2 s Torn
-Fri, 13 Nov 2026 05:00:41 +0000 — https://variety.com/2026/music/news/dolly-parton-last-song-u2-torn-final-vocals-1236946788/
+### The Game Awards to Reveal 2026 Nominees Next Week Ahead of ‘GTA 6’ Debut, PlayStation 5 Joins Livestreamers for December Show (EXCLUSIVE)
+Fri, 13 Nov 2026 18:00:00 +0000 — https://variety.com/2026/awards/news/game-awards-nominees-special-ps5-livestream-winners-1236946910/
 
-Dolly Parton s last words have arrived. The iconic singer s last recorded vocals have been released on “Torn,” the final track on U2 s just-released album “Carnaval de Luz.” On the song, Parton and Bono sing about what seems to be a metaphor for our country’s politically divided landscape, with Parton at one point delivering, “Nothing hurts [ ]
+The Game Awards will unveil its 2026 nominees during a live special next week just two days before Rockstar Games launches Grand Theft Auto 6, which is overwhelmingly considered to be the show s top Game of the Year contender. In a live nomination special airing Tuesday, Nov. 17 at 12 p.m. ET/9 a.m. PT on [ ]
 
-### Latin Grammys Full Winners List: Rosalía Wins Big With Album and Song of the Year Honors
-Fri, 13 Nov 2026 04:06:00 +0000 — https://variety.com/2026/music/news/latin-grammys-winners-list-rosalia-1236946768/
+### Microsoft Apologizes for Massive Outlook Outage, Affected Customers Can Request Credits for Service Interruption
+Fri, 13 Nov 2026 17:59:03 +0000 — https://variety.com/2026/digital/news/microsoft-apologizes-outlook-outage-customer-credits-1236947124/
 
-The 2026 Latin Grammys took place on Nov. 12 at the MGM Grand Garden Arena in Las Vegas. Going into the evening, Edgar Barrera led the nominees with ten nods, followed by Jorge Drexler, Rosalía, Karol G and Ca7riel Paco Amoroso with seven each. See the full winners list below. Album of the Year: [ ]
+Microsoft issued an apology Friday for a worldwide outage of its email servers that left millions of Outlook users without access to their mailboxes starting Thursday in some cases for more than 18 hours. We are deeply sorry for the disruption this incident has caused our customers and partners. We know the trust they place [ ]
 
 ## The Hollywood Reporter
 
-### How Red Ink Pulled Off a Single-Take, 1940s Vampire Newsroom Thriller
-Fri, 13 Nov 2026 11:58:28 +0000 — https://www.hollywoodreporter.com/movies/movie-news/how-red-ink-pulled-off-a-single-take-1940s-vampire-thriller-1236754579/
+### Gerry Griffith, Music Executive Who Discovered Whitney Houston, Dies at 87
+Fri, 13 Nov 2026 20:34:37 +0000 — https://www.hollywoodreporter.com/music/music-news/gerry-griffith-dead-whitney-houston-discovered-1236754931/
 
-After the L.A. fires derailed their original debut feature, directors Benjamin J. Murray and Michael Christensen made a "monumental pivot" to a low-budget period movie shot as a oner.
+Serving as the vice president of A R at Arista Records, Griffith brought Houston to Clive Davis and worked with stars like Aretha Franklin and Santana.
 
-### Women and War Follows Four Ukrainians Journeys Towards Healing From Trauma (Exclusive IDFA Trailer)
-Fri, 13 Nov 2026 09:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/women-and-war-doc-film-ukraine-trauma-healing-idfa-trailer-1236753178/
+### Cunk on Cinema Review: Michael Bay and Benedict Cumberbatch Join Diane Morgan s Documentary Presenter for Her Latest Laugh-Filled Netflix Series
+Fri, 13 Nov 2026 20:31:40 +0000 — https://www.hollywoodreporter.com/tv/tv-reviews/cunk-on-cinema-review-philomena-cunk-diane-morgan-netflix-1236752328/
 
-"War does not end for these women when the weapons fall silent," highlights director Elwira Niewiera, whose doc about women going through long-term therapy premieres at IDFA in Amsterdam.
+From silent film to modern AI-driven projects, Charlie Brooker and Philomena Cunk offer a six-episode history of Hollywood and its output.
 
-### Heartland Review: Jessica Chastain Does Sturdy Work as a Hard-Edged Former Country Music Star Saddled With a Thriller in Name Only
-Fri, 13 Nov 2026 08:01:00 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/heartland-review-jessica-chastain-netflix-garrett-hedlund-1236751237/
+### Aaron Pierre Starrer Fairytale in New York Lands at Netflix
+Fri, 13 Nov 2026 20:22:56 +0000 — https://www.hollywoodreporter.com/movies/movie-news/aaron-pierre-fairytale-in-new-york-netflix-lionsgate-1236754634/
 
-Writer-director Shana Feste ('Country Strong') dives into Nashville’s sleazy underbelly in a mystery built on dark secrets, also starring Garrett Hedlund and country singer Carter Faith.
+The Lionsgate action thriller from director Jalmari Helander centers on a vengeful cab driver on a Christmas Eve rampage in the Big Apple.
 
-### Pop Pop Dives Into Radicalization and Male Fragility in the Digital Age. Its Creator Says It s More Topical Every Day – and Urges Us to Join Hands.
-Fri, 13 Nov 2026 06:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/pop-pop-film-manosphere-trump-age-tallinn-2026-interview-1236752826/
+### Margot Robbie to Star in A24 s The Week of Pain From The Drama Filmmaker Kristoffer Borgli
+Fri, 13 Nov 2026 20:22:32 +0000 — https://www.hollywoodreporter.com/movies/movie-news/margot-robbie-the-week-of-pain-the-drama-kristoffer-borgli-1236754966/
 
-Writer-director Dylan Stephen Levers' debut feature is a cinematic parable, premiering at Tallinn, that was partly shot at alt-right marches and is full of memes and indie spirit.
+The project will mark the actress' first time starring in a film for the studio.
 
-### How London-Based Facialist Keren Bartov Prepped Hollywood for This Fall s Starriest Soirees
-Fri, 13 Nov 2026 05:32:29 +0000 — https://www.hollywoodreporter.com/lifestyle/shopping/keren-bartov-celebrity-facialist-interview-skincare-products-1236754525/
+### The 5 Best Red Light Therapy Panels for Improving Your Health At-Home
+Fri, 13 Nov 2026 20:09:05 +0000 — https://www.hollywoodreporter.com/lifestyle/shopping/best-at-home-red-light-therapy-panels-health-skin-benefits-1236754352/
 
-Cate Blanchett, Mikey Madison and Elizabeth Debicki made a pit stop at the aesthetician’s Notting Hill clinic ahead of the Harper’s Bazaar Women of the Year Awards.
+Red light therapy helps to improve skin tone and texture, as well as support better sleep and post-workout recovery.
 
-### Latin Grammys 2026: Rosalía Wins Album of the Year
-Fri, 13 Nov 2026 04:25:05 +0000 — https://www.hollywoodreporter.com/music/music-news/latin-grammys-2026-winners-rosalia-album-of-the-year-1236754523/
+### When Kevin Feige Got Off to a Less-Than-Incredible Start at Marvel
+Fri, 13 Nov 2026 20:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/flashback-kevin-feige-marvel-hulk-1236752341/
 
-Janet Jackson also presented Daddy Yankee with the person of the year honor.
+The future Marvel mastermind shepherded Ang Lee’s ‘Hulk,’ starring Edward Norton, to the big screen.
 
-### Law Order: SVU Goes Back to (Before) the Beginning With Its 600th Episode
-Fri, 13 Nov 2026 03:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-features/law-and-order-svu-600th-episode-showrunner-interview-1236754391/
+### Nike Drops New Puffer Jackets for 2026: Here Are Our Top Picks From the Winter Collection
+Fri, 13 Nov 2026 19:59:28 +0000 — https://www.hollywoodreporter.com/lifestyle/shopping/best-nike-puffer-jackets-buy-online-women-men-kids-1236753903/
 
-Showrunner Michele Fazekas breaks down Christopher Meloni's return and the state of the Benson-Stabler relationship.
+For men, women and kids, the sports apparel company has a wide selection of puffer jackets to stay warm and look stylish for winter.
 
-### Why Quentin Tarantino Initially Fired Mélanie Laurent and Isabelle Huppert From Inglourious Basterds
-Fri, 13 Nov 2026 01:40:43 +0000 — https://www.hollywoodreporter.com/movies/movie-news/quentin-tarantino-fired-melanie-laurent-isabelle-huppert-inglourious-basterds-1236754336/
+### Inside MS NOW s Post-Election Plans
+Fri, 13 Nov 2026 19:44:49 +0000 — https://www.hollywoodreporter.com/business/business-news/inside-ms-now-post-election-plans-1236754507/
 
-"If it’s not right, it is not right. I don’t owe them sh**. I owe my film the best actors I can find. Period," the Oscar-winning filmmaker said in Jay Glennie’s new book.
+Four top executives at the news brand speak at length with The Hollywood Reporter about what's working — and what the focus is leading up to 2028.
 
-### Mike Myers Says He Might Be in Shrek Spinoff Donkey, Calls Film Long Overdue
-Fri, 13 Nov 2026 01:00:29 +0000 — https://www.hollywoodreporter.com/movies/movie-news/mike-myers-shrek-spinoff-donkey-austin-powers-4-1236754333/
+### Hailee Steinfeld on Recording Music for New Movie Hexed and Becoming a Mother in the Process
+Fri, 13 Nov 2026 19:43:24 +0000 — https://www.hollywoodreporter.com/movies/movie-news/hailee-steinfeld-recording-music-hexed-becoming-mother-1236754568/
 
-The veteran actor also confirmed to The Hollywood Reporter that a fourth 'Austin Powers' movie is in the works: "I'm writing it right now; I'm having a great time."
+Steinfeld stars alongside Rashida Jones and Jodie Foster in the voice cast for Disney's witchy animated film.
 
-### Tyrese Gibson to Star in Sports Drama Under the Boards From Home Alone Producer Scott Rosenfelt (Exclusive)
-Fri, 13 Nov 2026 00:44:44 +0000 — https://www.hollywoodreporter.com/movies/movie-news/tyrese-gibson-star-under-the-boards-scott-rosenfelt-1236754448/
+### Robert Downey Jr. Interviews Christopher Nolan, Matt Damon About The Odyssey (Exclusive Video)
+Fri, 13 Nov 2026 19:38:50 +0000 — https://www.hollywoodreporter.com/movies/movie-news/robert-downey-jr-interviews-christopher-nolan-matt-damon-odyssey-1236754426/
 
-The feature is set to begin production next year and takes inspiration from the real-life championship run for Atlantic City High School's basketball team.
+The presumptive best picture Oscar frontrunner finally hit the campaign trail this week, targeting specific segments of the industry with a barrage of screenings and A-lister-moderated Q As.
 
 ## Deadline
 
-### IDFA Artistic Director Isabel Arrate Fernandez On Festival’s Competition Lineups, “Huge” Interest In Elizabeth Holmes Doc, And AI In Documentaries
-Fri, 13 Nov 2026 12:36:52 +0000 — https://deadline.com/2026/11/idfa-2026-isabel-arrate-fernandez-interview-1237222639/
+### Jessica Marie Garcia To Star In Produce New Vampire Comedy Film From Director Kristina Arjona
+Fri, 13 Nov 2026 19:57:26 +0000 — https://deadline.com/2026/11/jessica-marie-garcia-randy-mandy-and-the-curse-of-the-plaza-1237223228/
 
-The 39th edition of IDFA – the world’s biggest nonfiction film festival – is underway in Amsterdam, gathering the documentary field’s top talents, Oscar seekers and emerging filmmakers with dynamic work. “It’s hectic, all the last-minute things,” artistic director Isabel Arrate Fernandez told Deadline just before the kickoff. “From the lineup competitions to also the [ ]
+EXCLUSIVE: Jessica Marie Garcia (On My Block, Liv and Maddie) will produce and star in Randy Mandy and the Curse of the Plaza Theatre, a vampire comedy from Dawn of the Jerks Pictures set inside Atlanta’s historic Plaza Theatre. Garcia will play Mandy Alejandra Pike, a British Latina vampire whose maker, Vicente, has held her [ ]
 
-### Jason Voorhees Returns: Steve Miner To Direct 13th Entry Of Friday The 13th, First Film In Franchise In Nearly Two Decades
-Fri, 13 Nov 2026 12:30:00 +0000 — https://deadline.com/2026/11/new-friday-the-13th-movie-steve-miner-1237220585/
+### Logan Lerman Latest To Join Searchlight s Playmates
+Fri, 13 Nov 2026 19:55:54 +0000 — https://deadline.com/2026/11/logan-lerman-joins-playmates-searchlight-1237223249/
 
-EXCLUSIVE: Lake dwellers, beware! Jason Vorhees, the machete-wielding masked murderer is back — set to return for the first theatrical feature in the iconic horror franchise Friday the 13th in nearly two decades. Coming shortly on the heels of the Peacock/A24 series Crystal Lake, as well as the acclaimed Mike P. Nelson short Sweet Revenge, [ ]
+EXCLUSIVE: Logan Lerman is another new addition to Searchlight s Playmates, the film inspired by Lorraine Nicholson s experiences growing up at the Playboy Mansion, sources tell Deadline. Reps for the studio declined comment. We hear Lerman will play a character named Mr. Wick. Nicholson s feature directorial debut Playmates adapts her own original script — an L.A.-set [ ]
 
-### Facing The Numbers: Kieran Satour Tyson Perkins On Telling An Authentic First Nations Story With Their Breakout Hybrid Feature
-Fri, 13 Nov 2026 12:29:02 +0000 — https://deadline.com/2026/11/facing-the-numbers-kieran-satour-tyson-perkins-first-nation-1237222628/
+### Microsoft Deeply Sorry About Global Outlook Outage, Insists Disruption Caused By Network Capacity Upgrade
+Fri, 13 Nov 2026 19:49:28 +0000 — https://deadline.com/2026/11/microsoft-outage-apology-blames-upgrade-1237223202/
 
-Facing The Numbers by Kieran Satour and Tyson Perkins is one of the most unique propositions to come out of Australia in some time. Described as a “social impact campaign and film project,” the feature-length documentary explores the significant disadvantages First Nations people experience in Australia’s legal system. Recent data show that First Nations people [ ]
+Microsoft feel really bad about the Outlook outage and 365 services crash that brought many business communications and personal email around the globe to a screeching halt this week. We are deeply sorry for the disruption this incident has caused you and your business, the Redford, WA-based software company late Friday morning as email and [ ]
 
-### Dune: Part Three Stars Set For Very Childish BBC Prank Tonight
-Fri, 13 Nov 2026 10:44:26 +0000 — https://deadline.com/2026/11/chalamet-dune-part-three-prank-bbc-children-in-need-1237222621/
+### Penn Badgley Signs With WME Range Media Partners
+Fri, 13 Nov 2026 19:30:00 +0000 — https://deadline.com/2026/11/penn-badgley-wme-agency-range-media-partners-1237223020/
 
-Stars of Dune: Part Three are bringing a touch of early festive cheer to the BBC tonight with a rather childish prank for the Children in Need charity special. Later, BBC One will air footage of host Rylan Clark achieving one of his dreams by interviewing Timothée Chalamet, Zendaya, Jason Momoa and Anya Taylor-Joy. While [ ]
+EXCLUSIVE: Actor and producer Penn Badgley has signed with WME and Range Media Partners for representation in all areas. WME and Range will work with Badgley to expand his production company, Ninth Mode, across television, film, and podcasts. Badgley most recently starred as Joe Goldberg in Netflix’s You, a brilliant bookstore manager who was also [ ]
 
-### Blue Wave Coming For Chuck Schumer? Chris Van Hollen To Challenge Him For Senate Majority Leadership
-Fri, 13 Nov 2026 07:41:14 +0000 — https://deadline.com/2026/11/chris-van-hollen-schumer-senate-majority-leader-1237222569/
+### Dept. Q Crew Member Dies On Set After Season 2 Wrapped Filming In Edinburgh
+Fri, 13 Nov 2026 19:26:33 +0000 — https://deadline.com/2026/11/dept-q-crew-member-dies-edinburgh-1237223165/
 
-What a difference a week makes. After telling Fox 5 in Washington D.C. last week that he would not challenge Sen. Chuck Schumer (D-NY) to become the next Senate Majority Leader, Sen. Chris Van Hollen (D-MD) has decided to ride the blue wave. Last Week the voters sent a loud and clear message: we cannot [ ]
+Left Bank Pictures has said it is deeply shocked and saddened after the death of a Dept Q. crew member on the Edinburgh set of the Netflix series. The circumstances of the incident are not yet clear, but police were called to FirstStage Studios on Thursday after an unnamed man was seriously injured. Emergency services [ ]
 
-### Russell Brand Accused Of Sexual Misconduct By Six More Women After Rape Conviction
-Fri, 13 Nov 2026 07:21:31 +0000 — https://deadline.com/2026/11/russell-brand-accused-sexual-misconduct-six-more-women-1237222571/
+### Aaron Pierre And Sisu Director Jalmari Helander Team on Action Thriller Fairytale In New York From Netflix And Lionsgate
+Fri, 13 Nov 2026 19:00:00 +0000 — https://deadline.com/2026/11/aaron-pierre-sisu-jalmari-helander-fairytale-in-new-york-1237222859/
 
-Russell Brand has been accused of sexual misconduct and predatory behavior by six new women after being jailed for rape and sexual assault. The Times of London reported on the fresh allegations after first exposing Brand s behavior in a 2023 investigation that inspired women to report their experiences to the police. The Times reporting was [ ]
+EXCLUSIVE: Netflix and Lionsgate are teaming on the new action thriller Fairtytale In New York with Aaron Pierre starring and Sisu helmer Jalmari Helander directing. Netflix is on board to distribute the pic with Lionsgate producing. Insiders tell Deadline the the sale came after a competitive auction with Netflix being the best fit for the [ ]
 
-### Latin Grammy Awards 2026 Winners: Rosalía Wins Her Third Album Of The Year — Full List
-Fri, 13 Nov 2026 05:08:32 +0000 — https://deadline.com/2026/11/latin-grammy-awards-2026-winners-full-list-1237222557/
+### Margot Robbie Kristoffer Borgli Team On The Week Of Pain From A24 And Square Peg
+Fri, 13 Nov 2026 18:30:00 +0000 — https://deadline.com/2026/11/margot-robbie-kristoffer-borgli-the-week-of-pain-a24-1237222997/
 
-The 27th Latin Grammy Awards have concluded in Las Vegas, and Rosalía is walking away the night s big winner. During Thursday s awards ceremony, the Spanish artist won Album of the Year for Lux, marking her third victory in the category after El Mal Querer (2018) and Motomami (2022). She also won Song of the Year [ ]
+EXCLUSIVE: Even with production on her Ocean s prequel winding down, Margot Robbie isn t looking to slow down anytime soon as sources tell Deadline she is set to star in the A24 and Square Peg pic The Week of Pain, with Kristoffer Borgli on board to direct. A24 will finance and produce the pic with Lars [ ]
 
-### Microsoft Outlook Still Down In 365 Outage: Company Sees Sporadic Improvements, Though No Sustained Recovery
-Fri, 13 Nov 2026 04:53:24 +0000 — https://deadline.com/2026/11/microsoft-outlook-is-down-email-365-1237221945/
+### Anna Van Patten Joins Searchlight s Playmates
+Fri, 13 Nov 2026 18:19:21 +0000 — https://deadline.com/2026/11/anna-van-patten-joins-playmates-movie-1237223041/
 
-UPDATED with latest company comments: Earlier this evening Microsoft posted an update on the outages to its 365 platform noting positive results with our efforts to restart affected infrastructure and recover server availability. The optimism was short lived. About an hour later, the company announced that their efforts were not taking as expected. The company [ ]
+EXCLUSIVE: Anna Van Patten (Euphoria) has joined the cast of Playmates, the Searchlight film inspired by filmmaker Lorraine Nicholson s experiences growing up at the Playboy Mansion, sources tell Deadline. We hear she ll play a character named Jade; further details are under wraps. Reps for the studio declined to comment. Nicholson s feature directorial debut Playmates adapts [ ]
 
-### Hulu Series The Spot Starring Claire Danes Ewan McGregor Gets Release Date, First-Look Photos
-Fri, 13 Nov 2026 03:24:43 +0000 — https://deadline.com/2026/11/the-spot-release-date-claire-danes-ewan-mcgregor-hulu-photo-1237222480/
+### Emily Ratajkowski Joins Mary Beth Barone Joe Alwyn In Rom-Com Still We Met
+Fri, 13 Nov 2026 18:00:00 +0000 — https://deadline.com/2026/11/emily-ratajkowski-joins-still-we-met-mary-beth-barone-1237219464/
 
-The Spot, Hulu s upcoming psychological thriller starring Claire Danes and Ewan McGregor, will premiere on Jan. 13. Along with the release date announcement, the streamer has released first-look images from the A24 drama series. Created and written by Ed Soloman, who serves as showrunner, The Spot follows a successful surgeon (Danes) and her schoolteacher husband [ ]
+EXCLUSIVE: Emily Ratajkowski is set to join Mary Beth Barone and Joe Alwyn in Still We Met, the indie semi-autobiographical rom-com penned by Barone that we scooped in September. Character details are under wraps.T he project reunites Ratajkowski with EP Lena Dunham, with whom she just worked on the Netflix show Too Much. Marking the [ ]
 
-### Alanis Morissette Recalls Dogma Co-Star Ben Affleck Asking Her Why She Didn t Lead With My Sexuality
-Fri, 13 Nov 2026 02:39:33 +0000 — https://deadline.com/2026/11/alanis-morissette-dogma-ben-affleck-lead-with-my-sexuality-1237222468/
+### Pluribus Promotes Samba Schutte To Series Regular For Season 2
+Fri, 13 Nov 2026 18:00:00 +0000 — https://deadline.com/2026/11/pluribus-samba-schutte-series-regular-season-2-1237222878/
 
-Now that Dogma has gotten its long-awaited re-release, Alanis Morissette is revisiting some behind-the-scenes tension. During her Butterfly with a Knife residency at Inglewood s YouTube Theater, the 7x Grammy winner called out Ben Affleck over an exchange about how she expressed her sexuality as they starred together in Kevin Smith s 1999 religious satire. I even [ ]
+Samba Schutte has been upped to series regular on Apple TV s Pluribus for its upcoming second season. Production is currently underway on Season 2. In a guest-starring role in Season 1, Schutte played Mr. Diabaté, a Mauritanian who chooses to see the bright side of the situation, cultivating a hedonistic lifestyle of luxury for himself [ ]
 
-### Frankie Muniz Posts Health Update After NASCAR Crash: I m Grateful To Be Walking Right Now
-Fri, 13 Nov 2026 01:05:32 +0000 — https://deadline.com/2026/11/frankie-muniz-speaks-out-after-nascar-crash-1237222430/
+### Sunset P.I. Comedy Starring Jake Johnson, Jane Levy Keith David Sets Release Date At NBC; First Photos
+Fri, 13 Nov 2026 18:00:00 +0000 — https://deadline.com/2026/11/sunset-p-i-release-date-nbc-jane-levy-jake-johsnon-photos-1237222884/
 
-Frankie Muniz says he is grateful to be walking right now after what he described as a pretty bad wreck in a NASCAR warmup yesterday that sent him to the hospital. Muniz was behind the wheel for Team Air Force in its No. 30 Ford, prepping for the Proud to Honor Veterans Day Classic exhibition [ ]
+NBC has slotted Monday, February 8 for the premiere of Sunset P.I., its new comedy series starring Jake Johnson, Jane Levy and Keith David. We re also getting a first look in some just-released photos which you can see above and below. Sunset P.I. will follow 8 p.m. s St. Denis Medical and take over the timeslot [ ]
 
-### Today Co-Host Savannah Guthrie Extends NBC News Contract
-Fri, 13 Nov 2026 00:38:36 +0000 — https://deadline.com/2026/11/savannah-guthrie-today-contract-1237222260/
+### ‘The X Factor’ Reboot In The Works At Fox
+Fri, 13 Nov 2026 17:42:39 +0000 — https://deadline.com/2026/11/the-x-factor-reboot-fox-1237221946/
 
-Savannah Guthrie has extended her contract at NBC News to remain as Today co-host, a source familiar with the matter confirmed on Thursday. The morning show, approaching its 75th anniversary in January, beat ABC s Good Morning America and CBS Mornings in total viewers and the 25-54 demo last season, taking the top spot in both [ ]
+EXCLUSIVE: The X Factor could make a return to U.S. screens with Fox working on a reboot of the hit British entertainment format. Deadline understands that a new take on the show is in development at the broadcaster, which aired a U.S. version for three seasons beginning in 2011. The new version, which has been [ ]
 
 ## befores & afters
 
@@ -174,6 +174,36 @@ Thu, 12 Nov 2026 20:04:37 +0000 — https://beforesandafters.com/2026/11/13/ive-
 A look behind the scenes at MANTIS by Leica Geosystems. If you’re in visual effects, you’ll definitely already be familiar with on-set solutions for capturing 3D scene data. You might already be using a laser scanner to capture 3D point clouds and HDR panoramic imagery, and then using that to help reconstruct locations and to aid in tracking and matchmoving. One of the companies that currently makes such laser scanners is Leica Geosystems (they make the BLK360, for instance). Well, measurement technology company HEXGAON has now announced a new player in this space: the MANTIS by Leica Geosystems. And it does things a little differently. How? Well, MANTIS captures scene geometry and camera movement at the same time as your cinema camera is rolling. That means it captures per-frame spatial information along with the footage you are capturing with the main camera. The team notes that VFX practitioners might use the tool in addition to other set scanning and surveying approaches. In hardware terms, MANTIS is a box that fixes onto the front of the camera system. With the accompanying MANTIS Studio, it processes the data you capture and it can be used for a number of things: LiDAR-corrected depth maps, camera tracks, position data and point clouds. Check out the video below for a demo of how MANITS works. Indeed, here’s a quick list of things that the MANTIS team say the new tool can help with existing VFX workflows: Camera & tracking Camera tracking / matchmove Footage stabilizati
 
 ## IndieWire
+
+### Margot Robbie Teaming with The Drama Director Kristoffer Borgli for The Week of Pain at A24
+Fri, 13 Nov 2026 19:43:39 +0000 — https://www.indiewire.com/news/business/margot-robbie-teams-kristoffer-borgli-director-a24-movie-1235227777/
+
+The star has found her next vehicle after the coming "Ocean's Eleven" prequel from Bradley Cooper.
+
+### Will Dune and Avengers Drown Out Everything Else at the Box Office This Christmas?
+Fri, 13 Nov 2026 19:00:00 +0000 — https://www.indiewire.com/news/box-office/will-dune-avengers-drown-out-xmas-box-office-1235227379/
+
+"Werwulf," "Mr. Irrelevant," "Jumanji: Open World," "Artificial," and "The Angry Birds Movie 3" are the other titles leading a crowded holiday.
+
+### Russell Brand Was Sentenced for Rape and Sexual Assault on Monday. By Friday, Netflix Had a Sleazy Doc Ready to Go
+Fri, 13 Nov 2026 18:32:10 +0000 — https://www.indiewire.com/features/commentary/netflix-russell-brand-documentary-insights-1235227726/
+
+Olivia Isaacs' documentary on the (very) recently convicted and imprisoned rapist has been in the works for a while, but its fast-tracked release date seems designed to piggyback on the news, not offer any fresh insights.
+
+### David O. Russell s Madden Biopic Is Out Next Week — Does Anybody Know or Care?
+Fri, 13 Nov 2026 15:05:16 +0000 — https://www.indiewire.com/features/commentary/david-o-russell-madden-biopic-amazon-burying-nicolas-cage-film-1235224213/
+
+Amazon MGM Studios' release strategy for the five-time Oscar nominee's forthcoming "Madden," starring Nicolas Cage in a fat suit and hairpiece, suggests a classic case of bag-and-tag.
+
+### In Shana Feste s Films, Gender-Flipping Cinema s Tradition of Celebrating Damaged Men Is Its Own Reward
+Fri, 13 Nov 2026 15:00:00 +0000 — https://www.indiewire.com/features/interviews/heartland-shana-feste-jessica-chastain-netflix-movie-1235227350/
+
+Her Jessica Chastain-starring Netflix drama "Heartland" is the latest entry in Feste's distinct canon. It's a space where, she tells IndieWire, women aren't "unlikable," they're just more nuanced, more complicated, and way more able to get shit done.
+
+### 12 12 12 Review: Anthony Mackie and Jamie Dornan s Ticking-Clock Heist Thriller Runs on Broken Time
+Fri, 13 Nov 2026 14:30:00 +0000 — https://www.indiewire.com/criticism/shows/12-12-12-review-apple-tv-series-heist-anthony-mackie-1235227284/
+
+An FBI agent out for revenge. A thief planning one last score. You know the story, but in Dudi Appleton and Jim Keeble's convoluted Apple series, you can watch it unfold across three non-chronological timelines.
 
 ### Jensen Huang s Biopic Feels Inevitable — The Right One Might Be Impossible
 Thu, 12 Nov 2026 23:45:00 +0000 — https://www.indiewire.com/features/general/jensen-huang-biopic-inevitable-1235227381/
@@ -205,137 +235,107 @@ Thu, 12 Nov 2026 18:30:00 +0000 — https://www.indiewire.com/features/interview
 
 In her first and only interview since winning Best Narrative Short at the Austin Film Festival (and earning Oscar-qualifying status for her directorial debut), Ronan tells IndieWire about the joyous (and occasionally scary) process of moving into what could be a brand-new career for her.
 
-### Brad Pitt to Star in Connector from Sound of Metal Director Darius Marder for Apple
-Thu, 12 Nov 2026 18:15:18 +0000 — https://www.indiewire.com/news/breaking-news/brad-pitt-connector-sound-of-metal-director-darius-marder-1235227338/
-
-The '70s drama follows a NYC ironworker who becomes a working class legend.
-
-### American Doctor and You Can See Everything Lead 2027 Cinema Eye Honors Film Nominations
-Thu, 12 Nov 2026 18:00:00 +0000 — https://www.indiewire.com/awards/results/2027-cinema-eye-honors-film-nominations-full-list-1235227192/
-
-Poh Si Teng’s “American Doctor” and Nathan Fielder and Lance Oppenheim’s “You Can See Everything” led the 20th annual Cinema Eye Honors with seven nominations each.
-
-### What Makes a Good Oscar Campaign? Just Ask Sony Classics Michael Barker and Tom Bernard
-Thu, 12 Nov 2026 17:30:00 +0000 — https://www.indiewire.com/features/podcast/sony-pictures-classics-michael-barker-tom-bernard-interview-1235227301/
-
-The Sony Pictures Classics co-presidents join IndieWire's "Screen Talk" podcast this week to talk about their slate of films, the state of the business, and more.
-
-### Ebenezer Review: Johnny Depp Is Absolutely Insufferable in a Dull and Dreary Christmas Carol
-Thu, 12 Nov 2026 17:00:00 +0000 — https://www.indiewire.com/criticism/movies/ebenezer-movie-review-johnny-depp-1235227014/
-
-Ti West's horror-inflected take on Dickens' classic has a few nice flourishes, but Depp's muggy performance torpedoes the whole thing from the start.
-
-### After Whalefall Flops, Can Imagine Entertainment Return to Box Office Glory with How to Rob a Bank ?
-Thu, 12 Nov 2026 15:30:00 +0000 — https://www.indiewire.com/features/general/how-to-rob-a-bank-imagine-entertainment-box-office-whalefall-flop-1235222918/
-
-The production banner founded by Ron Howard and Brian Grazer is trying to make the kind of big screen hit that first solidified it as a major Hollywood player.
-
-### Sandra Wollner s Everytime Is a Stunning Film About Grief Like You ve Never Seen Before
-Wed, 11 Nov 2026 20:30:00 +0000 — https://www.indiewire.com/awards/consider-this/sandra-wollner-everytime-grief-video-games-fall-1235226504/
-
-The German filmmaker's portrait of life after tragedy is filled with the unexpected. She tells IndieWire about video game cut scenes, the power of banal memories, the scene that makes everyone gasp, and what it all means. Sort of.
-
 ## The Wrap
 
-### ‘Heartland’ Review: Jessica Chastain Makes Netflix s Nashville Whodunnit Sing
-Fri, 13 Nov 2026 08:01:00 +0000 — https://www.thewrap.com/creative-content/movies/heartland-review-jessica-chastain-netflix/
+### Elizabeth Holmes Husband Says He Still Loves Nathan Fielder Even Though You Can See Everything Makes Him Look Crazy
+Fri, 13 Nov 2026 20:32:41 +0000 — https://www.thewrap.com/creative-content/movies/you-can-see-everything-billy-evans-loves-nathan-fielder/
 
-I can’t say I’m surprised that Jessica Chastain is perfectly cast as a country singer with a checkered past, busting down doors in Nashville, swaggering into crime scenes in an embroidered trench coat, using hand cannons and tabloid exposés to solve a missing persons case. Chastain is one of those performers who can do anything. So, why not headline a Netflix Original whodunnit that plays like the best airplane novel you never read, and — one can only hope — the first in a long, long series? What s surprising about writer/director Shana Feste’s “Heartland” is that her film isn’t a boiler plate mystery, or a cheesy musical genre mash-up. It’s a smart, fascinating detective story with a unique setting that informs every scene, so the story can play out exactly the way you expect and still surprise you. It’s a little too easy for mystery fans to predict where the plot is going in “Heartland,” but it’s a hoot to watch how it plays out, and learn what it all means when the curtains finally close. Chastain plays Misty Jones, a country music star with so many Grammys they turn up in her refrigerator, as welcome as week-old pizza. She left the business 20 years ago and lives on a pecan farm in Georgia with her dogs, and shoots out her neighbors windows after they kill one of her mangy mutts for making too much noise. Misty Jones doesn’t just sing about being a s tkicker, she kicks s t with the best of them. Misty wouldn’t be caught dead in Nashville anymore, but when her niece, ascen
+Billy Evans wishes You Can See Everything didn t make him look crazy, but understands that at the end of the day, it s entertainment and he still has love for filmmakers Nathan Fielder and Lance Oppenheim. In a preview of Evans CBS Sunday Morning interview on Friday, Elizabeth Holmes divisive husband was asked about how he felt about the way he s portrayed in the documentary, especially considering he s made out to be the villain. You love them, you love the film, interviewer Matt Gutman grilled. Yeah, I love them, Evans said. Even though it makes you into a villain? I would have preferred for that not to be the case, but it’s entertainment,” Evans admitted. I didn’t get to control the edit. Billy Evans, the partner of imprisoned Theranos founder Elizabeth Holmes, told @CBSMATTGUTMAN that he loves “You Can See Everything” directors Nathan Fielder and Lance Oppenheim, despite their portrayal of him as “crazy” in the documentary film. “When I watch that movie, I see… pic.twitter.com/8i0ZoIhfab &mdash; CBS Sunday Morning (@CBSSunday) November 13, 2026 When pressed about the way Fielder and Oppenheim portrayed him, Evans agreed he comes off crazy, but his goal with the agreeing to be in the film remained the same throughout. “My goal was to have people see Elizabeth. And when I watch that movie, I see the person that I love and exactly who she is.” Evans has had plenty to say about the massive A24 hit since it s release. Posting actively on social media, he recently said he felt 
 
-### Jimmy Kimmel Cracks Up After Nearly Calling Trump Assistant Natalie Harp ‘Melania’ in Nvidia-Inspired Spy Joke
-Fri, 13 Nov 2026 06:06:04 +0000 — https://www.thewrap.com/creative-content/tv-shows/jimmy-kimmel-cracks-up-natalie-harp-melania-mixup-nvidia-spy-joke/
+### Netflix’s ‘Dept. Q’ Crew Member Dies on Set in Edinburgh: Deeply Shocked and Saddened
+Fri, 13 Nov 2026 19:38:03 +0000 — https://www.thewrap.com/creative-content/tv-shows/dept-q-crew-member-dies-on-set-edinburgh-netflix/
 
-Jimmy Kimmel cracked himself up after nearly calling Donald Trump s assistant Natalie Harp Melania while making an Nvidia-inspired spy joke. During Thursday s monologue for Jimmy Kimmel Live!, the late night host touched on the scandals plaguing former Nvidia CEO Jensen Huang, who resigned amid mounting scrutiny over several extramarital affairs, including one with a woman suspected of spying for China . Huang is known as the godfather of AI. He has very powerful friends, Kimmel said. Elon Musk is his buddy and Donald Trump is his buddy. Trump defended him today. He called him an honorable man. He added: His wife called him something else probably, but Trump thinks he s an honorable man. He also may have tried to help him cover this whole thing up. As Kimmel went on, he told his audience how Trump reportedly learned of Huang s involvement with an alleged spy back in October 2025, and again in May. Still, as the show highlighted, Trump has maintained that neither he nor Huang knew the alleged mistress was a Chinese spy. Well, yeah. Of course, he didn t know she was a spy. That s the point of being a spy, Kimmel mocked. It s the reason why they don t print up business cards that say spy on them. You re supposed to keep it secret. Here s where Kimmel s Melania Trump Freudian slip occurred. I wonder if Trump at any point when he heard this story thought. I wonder if Natalia is a spy,' Kimmel said, seemingly referring to the president s loyal assistant. I almost said Melania. As K
+A crew member died on set of Season 2 of Netflix s Dept. Q in Edinburgh. The man, still unidentified, was seriously injured and pronounced dead at the scene, according to police reports from Thursday. The crew member is believed to have been killed in an accident at FirstStage Studios, according to local outlets . “We are deeply shocked and saddened by the tragic death of a member of our Dept. Q crew, a spokesperson for Left Bank Pictures said. Our thoughts are with their family, friends and colleagues at this incredibly difficult time, and we are offering support for those affected.” Scottish police reported to the scene around 3 p.m. Thursday. A spokesperson for the police said an investigation is underway but that the death is not being treated as suspicious. Netflix and FirstStage Studios have not responded to TheWrap s request for comment. Dept. Q finished production on Season 2 recently, but the set was still active as crew wrapped. The detective drama was renewed for a second season in August 2025. FirstStage Studios operates on the site of a former renewable energy company. The studios were first used for Avengers: Infinity War before being converted into a permanent studio in 2020, led by Sean Connery s son Jason. The studio is currently being investigated for another death. In July 2022, Philip Ross, 30, died in what is believed to be an accident involving a hydraulic lift at the studios. Following Ross death a spokespersfor for the studio said at the time: “FirstSt
 
-### Desi Lydic Regrets Mississippi Senate Race Joke After ‘Daily Show’ Crowd Groans: ‘That Doesn’t Deserve Applause’
-Fri, 13 Nov 2026 04:26:21 +0000 — https://www.thewrap.com/creative-content/tv-shows/desi-lydic-regrets-mississippi-senate-race-joke-audience-reaction/
+### Margot Robbie to Star in ‘The Drama’ Director Kristoffer Borgli’s Next Movie at A24
+Fri, 13 Nov 2026 19:20:31 +0000 — https://www.thewrap.com/creative-content/movies/margot-robbie-joins-kristoffer-borglis-the-week-of-pain/
 
-Desi Lydic appeared to regret a joke during her “Daily Show” monologue after it drew a strong reaction from the studio audience, prompting the comedian to state that it didn’t “deserve applause.” During Thursday s episode for The Daily Show, Lydic touched on Mississippi becoming blue for Senator-elect Scott Colom, defeating Republican incumbent Sen. Cindy Hyde-Smith. I didn t have Mississippi turning blue in my wildest dreams, Lydic said. In my wildest dreams, I turned myself blue and have sex with an Avatar lady in the M&M store. This win gives Democrats their biggest Senate margin in decades. But that s not even the most historic part of it, she added, before the show cut to news footage touting that Colom will become the first Black Senator elected in Mississippi in 150 years. You know what they say, once you go Black, 150 years later, you go back, she said. And by the way, if you re a Mississippi Republican, don t feel too bad that Cindy Hyde-Smith lost this race. Based on how much she likes dressing like a Confederate soldier, she s been celebrating losers her whole life. As Lydic went on, she claimed that Mississippi really needed this win, noting that everybody [knew] about their reputation. The Daily Show then cut to news footage of a man-on-the-street interview, where a man from Africa told the reporter he was glad to be there on the historic night as the state s reputation was not good in his home country. Jeez, they talk s t about Mississippi all the way in Africa?
+Kristoffer Borgli has found a new star for his next drama. The Norwegian writer/director, who made waves this year with his chewy, dark rom-com The Drama , has tapped Margot Robbie to star in his next feature, The Week of Pain. A24 will finance the film, producing it alongside Lars Knudsen and Ari Aster’s Square Peg, Dilemma Films and LuckyChap. No details are currently known about the plot of The Week of Pain. Borgli saw massive success this year with The Drama, an R-rated, adult romance that went on to gross $135 million at the global box office against a budget of $28 million. The film starred Zendaya and Robert Pattinson as an engaged couple whose relationship begins to spiral when a dark secret is revealed the week of their wedding. The Drama was a true word of mouth hit, boosted by a duo of strong leading performers and a hooky premise. Trailers showed that an argument arose in the film after Zendaya s character shared the worst thing she s ever done in a pre-wedding game. The specific details about her reveal, however, were kept close to the vest. This gave the film a bit of buzz as audiences wondered what she could possibly say to throw her friendships and engagement into a spiral. Spoiler alert: Zendaya s character planned a school shooting when she was in high school and didn t follow through with it. This chewy premise made The Drama a true conversation piece, no doubt helping its box office haul. Prior to that film, Borgli helmed Dream Scenario, another dark comed
 
-### ‘Grey’s Anatomy’ Star Harry Shum Jr. Unpacks Blue’s Rough Family Reunion and Juggling Big Storylines With ‘DWTS’ Exclusive
-Fri, 13 Nov 2026 04:00:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/greys-anatomy-season-23-episode-5-harry-shum-jr-interview/
+### TV Academy’s Televerse to Skip 2027 Emmy Season, Plots 2028 Return
+Fri, 13 Nov 2026 18:41:09 +0000 — https://www.thewrap.com/media-platforms/tv/tv-academys-televerse-skip-2027-emmy-season-2028-return/
 
-Note: This story contains spoilers from “Grey’s Anatomy” Season 23, Episode 5 “Grey’s Anatomy” isn’t giving Dr. Benson Kwan a break in Season 23, not even as the actor who plays him dominates the leaderboard on “Dancing With the Stars.” Episode 5, titled “Stronger (What Doesn’t Kill You),” saw the surgical resident known as Blue (Harry Shum Jr.) caught off guard by the arrival of his estranged father Stephen (Russell Wong), who visited the hospital to share news he was dying — decades after abandoning Blue and his family. The twist comes on the heels of a difficult start to the season for Blue, after he was fired at the end of last season for going rogue on a patient. The ABC medical drama followed as Blue continued to be in the vicinity of the hospital, and eventually made his way back into the staff when new chief of surgery Dr. Seth Norton (James Wolk) hired him to work on the controversial new VIP floor. But his resident position and standing as a surgeon in training remains in question. Harry Shum Jr. and Russell Wongin Grey s Anatomy. (Disney/Raymond Liu) “Blue [had] a huge pivotal moment that could have derailed his career, and now to have his dad come into the mix and really shake things up even more … I thought it was the perfect time [to introduce him],” Shum Jr. told TheWrap exclusively of the big twist. Since his debut in Season 19, Blue has been well established as a character who keeps his feelings concealed, so it was especially notable to see the pain he displ
+Televerse, the TV Academy s TV festival that kicked off last year, will skip the upcoming 2027 Emmys season as it plots a 2028 return slated for earlier in the year than its predecessors. While the event has taken place during Phase 2 in the Emmys timeline, with this year s festivities happening Aug. 14-16, the program will shift to an earlier timeline when it returns in 2028 amid industry feedback. Following insightful feedback from attendees and our industry partners, the Television Academy is excited to announce Televerse will be returning in a new timeframe sometime in the first quarter of 2028, allowing a more expansive period to build on the popular festival’s maiden two years, a spokesperson for the TV Academy said in a statement. New dates and details will be announced as they become available. We look forward to continuing to celebrate Television outside the box in early 2028. The new timeline in the first quarter of 2028 means that more TV shows would get a spotlight ahead of Emmy nominations, which typically drop in July. The TV Academy is also working through a couple major shift as the Emmys move over to Amazon’s Prime Video in an exclusive deal through 2033 and the TV Academy is in talks to reunify with the National Academy of Television Arts and Sciences (NATAS). The organizations split into two in 1977 due to tension among the branches, and the idea of reunification stems from the ability to better serve the organization s memberships through a “single unified
 
-### Chris Van Hollen Says He s the Underdog in Senate Majority Leader Challenge – But Has 10-Plus Pledges Against Schumer
-Fri, 13 Nov 2026 03:16:08 +0000 — https://www.thewrap.com/media-platforms/politics/chris-van-hollen-announces-senate-majority-leader-challenge-against-chuck-schumer/
+### London Police Investigating David Walliams Over Sexual Misconduct Allegations
+Fri, 13 Nov 2026 18:11:21 +0000 — https://www.thewrap.com/culture-lifestyle/culture/david-walliams-under-investigation-london-police/
 
-Sen. Chris Van Hollen (D-Md.) formally launched his bid to challenge Sen. Chuck Schumer (D-N.Y.) for Senate majority leader, while acknowledging that he s the underdog in the race. The senator from Maryland stopped by MS NOW s The Briefing with Jen Psaki on Thursday, where he confirmed that he had decided to run for the Senate majority leader position. “This is not about any one individual, but it is about answering the call of the American people,” he told host Jen Psaki. “We saw a huge outburst of democracy on Election Day — red states, blue states, purple states — and it wasn’t only a rejection of Donald Trump and his corruption and his wars and his cruelty, it was also about a call for a larger change to take on a broken economic system that’s rigged in favor of the very wealthy against working people, led by a corrupt political system.” Per Van Hollen, the midterms results were a message from the public to reject the status quo and to reject business as usual. He added: And to do that, I think we need new leadership. And so, Van Hollen is set to go against Schumer, who has been a leader on Capitol Hill for Democrats for nearly 10 years, during the election in December. As for where Van Hollen stands in this fight? He called himself the underdog. Am I the underdog? Yes,” he said. “You’re talking about an incumbent who uses the power of incumbency to, you know, provide deals to people.” However, Van Hollen defended that was “part of the problem,” adding, We should have a l
+BBC News reports that London s Metropolitan Police have launched an investigation into BAFTA-winning performer and best-selling children s book author David Walliams over sexual misconduct claims alleging that he used his position and power to groom and prey on young women and, in certain instances, underaged girls. The Guardian and ITV published a bombshell investigation on Tuesday outing Walliams as the mysterious U.K. celebrity who had filed an injunction to keep the allegations against him private out of fear that he would harm himself. Walliams injunction request was rejected by a U.K. High Court judge, freeing The Guardian and ITV to publish their report about him and name him in it. The outlets investigation includes accusations from multiple women that the former Britain s Got Talent host used his cultural power to prey on them for sexual purposes. Most of the women accusing Walliams told The Guardian and ITV they were over the age of 18 when Walliams preyed on them. However, one of the women interviewed by the outlets claimed she was 15 when Walliams invited her to his house and initiated sexual contact. The Met Police said they are investigating Walliams over reports of alleged serious sexual offenses. Law enforcement also told the BBC News that the allegations being investigated are separate from those included in ITV and The Guardian s investigation. Detectives are also proactively reviewing that reporting to establish whether there is any evidence of offenses, th
 
-### Antonio Sabàto Jr. Expresses ‘Unconditional’ Love for Son Jack After His Arrest in Fatal Hit-and-Run
-Fri, 13 Nov 2026 02:36:12 +0000 — https://www.thewrap.com/culture-lifestyle/culture/antonio-sabato-jr-unconditional-love-son-jack-hit-and-run/
+### The X Factor May Return to US With Reboot at Fox
+Fri, 13 Nov 2026 18:07:01 +0000 — https://www.thewrap.com/creative-content/tv-shows/the-x-factor-reboot-in-development-fox/
 
-Antonio Sabàto Jr. expressed his unconditional love for son Jack after the latter was arrested in connection with a fatal hit-and-run in Anchorage, Alaska on Monday. In a statement released to social media on Wednesday, Sabàto Jr., who is an actor best known for his work on General Hospital and Melrose Place, said that he and his family were navigating an extremely sensitive and deeply personal matter. As a father, my love for my children remains unconditional, and my priority is the well-being of my family,” the actor, who shares Jack with ex Virginia Madsen, wrote. “We ask that the public and members of the media honor our privacy during this difficult time and keep us all in your thoughts and prayers. He added: I also wish to extend my heartfelt condolences to the family and loved ones of the gentleman who tragically lost his life. My thoughts and prayers are with them as well. We sincerely appreciate your compassion, understanding and respect for the privacy of everyone impacted. pic.twitter.com/HJw37TwYSF &mdash; Antonio Sabato Jr (@AntonioSabatoJr) November 12, 2026 Sabàto Jr.’s 32-year-old son Jack was arrested Monday after 42-year-old pedestrian Carl Simmonds was fatally struck by a Chevrolet Tahoe. According to investigators, the younger Sabàto allegedly hit Simmonds and then kept on driving. Jack Sabàto, who was arraigned on Tuesday, currently faces a felony charge of leaving the scene of an accident without assisting the injured person, as well as a misdemeanor cha
+An American reboot of The X Factor is in development at Fox, TheWrap has learned. The U.S. version of the singing competition series ran for three seasons on Fox beginning in 2011. The American series was responsible for the formation of Fifth Harmony, and the British series created One Direction and Little Mix. The show will look similar to the old version with one twist: the contestants will live in a house together. It is unclear where the competition reality series would shoot and if they could be eligible for a California tax credit. Fremantle will produce the spinoff with Mischief & Wonder, founded by Sydney-based producers Emma Lamb and Leigh Aramberri. Several singing competition series have left the state to cut production costs, including American Idol leaving Hollywood for Georgia. TheWrap reported this week that The Voice producers are eyeing a move out of Los Angeles even though they have a standalone set on the Universal Studios lot. The X Factor concluded its third and final season in the U.S. in 2013 and concluded in the U.K. in 2018. There have since been two spinoffs of the show in the U.K., The X Factor: Celebrity and The X Factor: The Band. Simon Cowell co-created the original series and served as a judge in the U.S. and the U.K. The judges for the American series included Cowell, Britney Spears, Paula Abdul, Nicole Scherzinger, Demi Lovato, Kelly Rowland, L.A. Reid and Paulina Rubio. Steve Jones hosted the first season of the U.S. show with Mario Lopez an
 
-### Shawn Mendes Scolded by Jewish Nonprofit for Calling Gaza Conflict a Genocide: ‘Irresponsible’
-Fri, 13 Nov 2026 01:38:49 +0000 — https://www.thewrap.com/culture-lifestyle/culture/shawn-mendes-scolded-by-jewish-nonprofit-gaza-genocide-ccfp/
+### Pluribus Promotes Samba Schutte to Series Regular for Season 2
+Fri, 13 Nov 2026 18:00:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/pluribus-season-2-cast-samba-schutte-series-regular/
 
-Shawn Mendes is facing criticism from the Jewish nonprofit Creative Community for Peace after declaring on social media that “there is a genocide happening before our eyes” in Gaza. The organization applauded the singer s efforts to educate himself but called the post irresponsible. The Stitches singer took to Instagram Thursday to share that he had been working to educate himself about the war in Gaza and said, “There is a genocide happening before our eyes.” “The senseless killing in Gaza must stop, he wrote. The children and families in Palestine have suffered for far too long, and they need our help.” “I feel it now as I type this,” he added. “I also feel the need to do something to help. The more of us that use our voice, the closer we are to change. If you agree please search your heart, find your courage and do what you can to help. These children in Palestine have had to be brave for too long. It’s our turn to do the same now.” View this post on Instagram A post shared by Shawn Mendes (@shawnmendes) The singer then encouraged others to donate, hold people in power accountable, educate themselves, encourage others and challenge prevailing narratives. In the caption, he tagged several pro-Palestinian organizations, including the Palestine Children s Relief Fund (PCRF). Hours later, Creative Community for Peace responded , saying that while it applauded Mendes efforts to educate himself, his post suggested that his understanding of the conflict was deeply biased and one-
+Apple TV s Pluribus promoted Samba Schutte to a series regular for its upcoming second season, which is now in production. The series, which comes from Emmy Award-winning creator, writer, director and executive producer Vince Gilligan and stars Rhea Seehorn, tells the story of the most miserable person on Earth who must save the world from happiness — aka an alien hive mind hoping to recruit her out of her individuality. In addition to Schutte and Seehorn, the show s cast includes Karolina Wydra and Carlos-Manuel Vesga. Schutte broke out with his role as Mr. Diabaté in Season 1, earning him a Saturn Award Nomination. His other notable credits include HBO s Our Flag Means Death from Taika Waititi, the NBC sitcom Sunnyside from Mike Schur. He also won the Jury & Audience Awards at the Leids Cabaret Festival, Holland’s biggest national comedy competition, and was a writer and correspondent for the Dutch version of “The Daily Show.” Additionally, he has written for the video game Battlefield V, performed in multiple AAA games including Star Wars Jedi: Fallen Order and has performed three comedy specials with successful tours throughout Europe, Asia and Africa. Samba is repped by Abby Bluestone, Rob Cassandro & Andy Patman at Innovative Artists and Patrick Havern at Established Artists The second season of Pluribus comes on the heels of the series scoring six Emmy Awards this year. Its wins include Outstanding Writing in a Drama Series, Outstanding Lead Actress in a Drama Series, 
 
-### Trump Muses About Leading Israel, Plans to Get Cuba and Advice for Spencer Pratt in Wide-Ranging Radio Interview
-Fri, 13 Nov 2026 01:36:42 +0000 — https://www.thewrap.com/media-platforms/politics/trump-hugh-hewitt-radio-interview-israel-cuba-spencer-pratt/
+### Bill Simmons Ends The Ringer’s ChatGPT Partnership After Fan Backlash
+Fri, 13 Nov 2026 16:30:13 +0000 — https://www.thewrap.com/industry-news/tech/bill-simmons-ringer-chatgpt-sponsorship-canceled/
 
-Donald Trump spoke with radio host Hugh Hewitt for a lengthy interview Thursday, discussing everything from the possibility of becoming Israel’s prime minister to his plans to “get Cuba” before his second term ends and his advice for Spencer Pratt following his unsuccessful bid for Los Angeles mayor . The president s conversation with Hewitt followed a significant loss for the GOP in the midterm elections , with Trump confessing that he didn t understand how certain candidates, like Senator-elect Abdul El-Sayed from Michigan, found success with Jewish voters. And I don’t understand a couple things. Like I wasn’t on the ballot, but still, if you look at El-Sayed in Michigan, he got more votes than the Republican candidate got by quite a bit from Jewish people, he said. I can’t, it’s not even understandable. It’s a tough group to get. As Trump went on, he claimed to have a 99% approval rating in Israel, reiterating a similar claim he made on Fox News on Election Day. Now I will say this. In Israel, I’m at 99%, he continued. Literally, I’m at 99%, the most popular person. You know, when this is over, I could go to Israel and be prime minister. He then described himself as very much Israel inclined. While looking to the future, Trump also admitted that he s considering utilizing military force to take over Cuba before the end of his second term. Well, I want to get Cuba done before I leave, yeah, he noted. And we have a very good, talented guy for Cuba named [Secretary of State] 
+Bill Simmons quietly ended The Ringer s sponsorship deal with OpenAI s ChatGPT after listeners pushed back against AI-powered segments that appeared across the Spotify-owned podcast network earlier this year. The move, first reported by Bloomberg Thursday , underscores the limits of AI companies aggressive push into podcast advertising, where paid integrations risk alienating the very audiences they re intended to reach. Last spring, we thought we could integrate AI research for baked-in content segments for a couple of our shows the way some of our competitors were doing (and also leagues like the NFL were doing) — I m always going to try to be early instead of late on something, Simmons told Bloomberg. This time we learned almost immediately that those segments weren t a fit for us — our audience just didn t like them. The sponsored ChatGPT segments appeared primarily on Simmons own The Bill Simmons Podcast and The Ringer Fantasy Football Show, incorporating AI-generated prompts into discussions. Simmons separately faced criticism for using ChatGPT to generate hypothetical film reviews in the style of Roger Ebert, the influential critic who died in 2013, on The Rewatchables. The objections extended inside The Ringer. Sean Fennessey, who co-hosts The Big Picture and appears on The Rewatchables, criticized the Ebert segments during an August appearance on Talk Easy With Sam Fragoso. I don t like it. I ve told Bill I don t like it, Fennessey said, explaining that he and fellow
 
-### Oscar-Qualifying Shorts Directors on the Power of the YouTube Generation: You Control Your Own Domain
-Fri, 13 Nov 2026 01:20:00 +0000 — https://www.thewrap.com/creative-content/movies/thewrap-screening-series-oscar-qualifying-shorts-directors-2026/
+### Shortical s AI-Generated Inevitable Premieres With Approved AI Double From Aki Avni Exclusive Video
+Fri, 13 Nov 2026 15:45:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/shorticals-ai-generated-microseries-inevitable-premieres-aki-avni-ai-actor/
 
-It s been a big year for short films. Two of the dominant names in the 2026 conversation, Curry Barker and Kane Parsons , both used YouTube as their stomping grounds, making microbudget shorts on their own until their big breaks with Obsession and Backrooms , respectively. It s a moment of validation for those who have been grinding away at moviemaking on their own, a sign that filmmakers no longer need permission to get their starts. I think it s the greatest time for filmmakers, because you don t have to worry about dealing with the studios, filmmaker Marcellus Cox told TheWrap on Wednesday during our Oscar-Qualifying Shorts Showcase. Now, you control your own domain. You control the avenue at every point of your career that you want to at this point, and I think it s about time that you see filmmakers take that next step and take it into their own hands. I feel like, right now, we re in the day where the technology is only getting better, he continued. These filmmakers are only getting smarter with their storytelling. It s the greatest combination right now, and as we re going forward, you re only going to see more of this. Cox was there to talk about his new film, Liquor Bank. He was joined by four fellow directors: Connie He ( Dear Upstairs Neighbors ), Josh Wassung ( Optimus Prime: Awakening ), Joe Hsieh ( Praying Mantis ) and Huang Sheng-chun ( The Brave Swing ). These shorts covered a breadth of topics. One is an emotional drama about sexual abuse and familial trauma 
+Shortical s Inevitable places the entertainment industry s fears about AI s threats to their creativity centerstage in this fully AI-generated microdrama series premiering Friday. The psychological thriller stars an AI version of Israeli actor Aki Avni. After the actor, who is actively involved in the creative process for this microdrama, sells his face and likeness to an AI studio, he realizes that the AI version of himself is implicated in an attempted murder he didn’t commit. The microseries is quite meta as Hollywood battles these same issues around AI, consent and likeness. The irony, of course, is that Avni was heavily involved in the production for this vertical and helped create his own digital double, working alongside the filmmakers. It is surprising, Avni told TheWrap of seeing the AI version of himself act and make choices on screen. As an actor, you see yourself on the screen, you have relation so now it s even weirder in a way. We have this fear from this from the unknown because AI and this technology is still very unknown, he said. But if you really put your step in and know exactly what is a yes for you and what is a no for you, you can win the situation. In an exclusive clip obtained by TheWrap, Avni drives onto the Paramount lot as news coverage swirls about him giving over his likeness as his AI double stars in 12 projects at once. Ominous music plays as he realizes that no one is working in person on the set anymore. This marked Ofir Lobel s first AI-gene
 
-### ‘Allen’ Review: Quirky ‘E.T.’ Riff Treats Nostalgia Like a Lifelong Disease
-Fri, 13 Nov 2026 01:11:13 +0000 — https://www.thewrap.com/creative-content/movies/allen-review-netflix/
+### ‘The Bachelor’ Snags NFL Quarterback Sam Hartman as Season 30 Lead
+Fri, 13 Nov 2026 15:21:31 +0000 — https://www.thewrap.com/media-platforms/tv/the-bachelor-abc-sam-hartman-season-30-star/
 
-The makers of “E.T. The Extra-Terrestrial,” “The Chronicles of Narnia” and “The Care Bears” probably meant well when they told children magical fantasies about befriending magical creatures and going on adventures, but those stories all have a problem. After the wonderment ends those kids have to go back to their normal lives. They have to put up with people who say aliens don’t exist, there’s no such thing as an enchanted wardrobe, and that bears don’t talk or shoot happiness lasers out of their chests. It’s fun to imagine getting superpowers, fighting monsters and saving the world. It’s scary to imagine going back to your homework and house chores afterwards. That’s enough to drive a normal person mad, and that’s what Daley Pearson and Jeffrey Walker’s “Allen” is about. T.J. Power stars as Petey, who met a cute space alien as a child and formed a deep, personal bond with the creature. When the alien, named Allen, gets pulled back into his mothership and whisked away, Petey spends the next 30 years trying to contact Allen in outer space. He’s afraid to move out of his childhood house in case Allen comes back and can’t find him. He doesn’t have a job, a goal or any meaningful relationships. He’s trapped in the past, unable to imagine a future that doesn’t revolve around his childhood escapism. “Allen” paints nostalgia as a trap, irresponsibly sprung on little kids, who eventually lose their ability to imagine a life outside of the box. To survive, they eat the bait which doom
+NFL quarterback Sam Hartman has been set as the new star of The Bachelor Season 30. Hartman, who is a native of Charlotte, North Carolina, plays for the Washington Commanders and is an alum of Wake Forest and Notre Dame, where he set ACC records including most career touchdown passes and 300-yard passing games. He is also a fan favorite from the documentary series “QB1: Beyond the Lights.” The 27-year-old pro athlete is ready to find his forever teammate, ABC said in a news release on Friday. With the same leadership and heart that won over fans on the field, Hartman will begin handing out roses as he searches for love. Our own Sam Hartman is the next Bachelor! #GoIrish pic.twitter.com/sjpBv0fwtq &mdash; Notre Dame Football (@NDFootball) November 13, 2026 In an interview with GMA, Hartman said he s excited but also very nervous. I have a tough time holding a conversation with one girl, he said. 30 is going to be pretty tough. The reality series will return to ABC on March 21 from 8 to 10 p.m. ET/PT and will stream next day on Hulu and Hulu on Disney+ for bundle subscribers in the U.S. It marks the first season in the Bachelor franchise since the cancellation of Taylor Frankie Paul’s season of The Bachelorette due to a scandal involving domestic violence allegations earlier this year. “The Bachelor” is produced by Warner Horizon Unscripted Television, a Warner Bros. Television Group company. Scott Teti, Jason Ehrlich and Andy Frank serve as executive producers. The post ‘The B
 
 ## Collider
 
-### Brad Pitt’s New Thriller Is Officially a Streaming Hit After Being Removed From Over 2,000 Theaters
-Fri, 13 Nov 2026 12:30:12 GMT — https://collider.com/brad-pitt-heart-of-the-beast-streaming-success-itunes-november-2026/
+### 3 Best Sci-Fi Books To Read This Weekend (November 14-15)
+Fri, 13 Nov 2026 20:29:12 GMT — https://collider.com/best-sci-fi-books-read-this-weekend-november-14/
 
-One of the fall's biggest sleeper hits is finally available on the PVOD market, and as expected, it has emerged as an instant success. The movie received a "Verified Hot" 95% audience score on the aggregator website Rotten Tomatoes, which foreshadowed its home-video potential. Movies with higher audience scores on aggregator websites tend to perform better on digital and streaming platforms. In recent months, movies such as Jason Statham 's The Beekeeper and the World War II thriller Pressure have exemplified this theory.
+Science fiction is among the most popular genres around, and for good reason. Rich in worldbuilding and dealing with themes of oppression, ambition, liberation, and the advancement of the human race, sci-fi is an enduring part of most media, but it's especially prominent in literature. Ever since Mary Shelley 's foundational classic, Frankenstein , came out, the genre has kept growing until it became the juggernaut it is today.
 
-### The 6 Most Hopeless Thriller TV Shows, Ranked
-Fri, 13 Nov 2026 12:29:12 GMT — https://collider.com/most-hopeless-thriller-tv-shows-ranked/
+### 6 Thriller Miniseries That Are 10/10, No Notes
+Fri, 13 Nov 2026 20:08:12 GMT — https://collider.com/thriller-miniseries-perfect-no-notes/
 
-A hopeless thriller is one that keeps you grabbed by the neck but still ends in a painful manner. Someone in a thriller says, “We just need to find the truth,” and I immediately start worrying about them. Because finding the truth is one thing. Surviving what it does to your life is another. I've watched characters sacrifice everything to uncover a secret, only to discover that knowing the answer doesn't give them the slightest power to change it. It's infuriating. It's heartbreaking. And when a show earns that feeling, I cannot look away.
+With its unique ability to let a story unfold over the course of multiple hours while still delivering a succinct resolution that viewers don’t have to wait over the course of multiple seasons to see, the miniseries format has emerged as an outstanding forum for thriller entertainment. Even more impressive is that there has been no shortage of approaches that have worked within the parameters of limited series releases, with everything from action-packed bombast to simmering slow-burn anxiety and even piercing psychological horror having an impact.
 
-### 10 Great HBO Shows With Endings That Change Everything
-Fri, 13 Nov 2026 12:22:12 GMT — https://collider.com/best-hbo-show-finales-change-everything/
+### HBO’s Forgotten 12-Episode Sci-Fi Thriller Is One of Television’s Most Unsettling
+Fri, 13 Nov 2026 19:27:13 GMT — https://collider.com/hbo-best-sci-fi-thriller-beforeigners/
 
-The following article contains spoilers. No matter how many seasons it lasts, what themes it focuses on, or even which genre it exists within, every television series must eventually reckon with how to execute a meaningful finale. Many series opt for a cathartic wind-down, a safe and comfortable ending that offers closure to the audience. However, some series do something a little different, opting to strive for more ambitious conclusions that have a more dramatic effect on viewers.
+When a show decides to add time travel to its storytelling, the project becomes all the more ambitious. After all, while there have been many successful time-travel shows over the years, including Doctor Who , Dark and 11.22.63 , a series with time travel needs to account for parallel timeframes, time travel mechanisms and rules, historical costume design and production, and much more. Luckily, however, the tall order wasn't enough to stop HBO Nordic's first Norwegian original series, Beforeigners , from swinging for the fences.
 
-### 10 Upcoming Movie Remakes, Ranked by Anticipation
-Fri, 13 Nov 2026 12:07:12 GMT — https://collider.com/upcoming-movie-remakes-ranked-anticipation/
+### How to Rob a Bank: A Messy Crash Made Thieves Believable | Collider BTS
+Fri, 13 Nov 2026 19:15:12 GMT — https://collider.com/video/how-to-rob-a-bank-a-messy-crash-made-thieves-believable-collider-bts/
 
-The thing about movies is that once something is done so perfectly, many cinephiles feel it's largely untouchable. And yet, studios foam at the mouth at the chance to capitalize on its original success , hoping to replicate it. It’s why we have so many remakes and sequels . Yet a handful of remakes still get us excited. So, here we are!
+How to Rob a Bank features elaborate heists and practical action, but director David Leitch and producer Kelly McCormick reveal why making the stunts look imperfect was sometimes the most important creative decision.
 
-### Netflix’s ‘Bosch’ Replacement Officially Drops Major Update for Final Season
-Fri, 13 Nov 2026 12:00:12 GMT — https://collider.com/netflix-the-lincoln-lawyer-season-5-episode-titles/
+### Netflix’s Long-Awaited ‘Magic: The Gathering’ Series Officially Gets a First Look and Release Window
+Fri, 13 Nov 2026 19:15:06 GMT — https://collider.com/magic-the-gathering-planeswalker-netflix-first-look-2027/
 
-All good things must sadly come to an end, and unfortunately, The Lincoln Lawyer has reached this inevitable point. There's a case to be made that the legal drama series could have gone on for longer, but alas, we're at the finish line. Though it's a difficult pill to swallow, fans can take solace in the fact that Mickey Haller ( Manuel Garcia-Rulfo ) will get a proper outro — a much better outcome than an abrupt cancellation that would've left us all stranded on that Season 4 cliffhanger ending. Author Michael Connelly recently confirmed a March 2027 release window for the final chapter, and as we inch closer, new details about what to expect have begun to surface.
+The first time Chandra Nalaar escaped to another world, she was about to die. In Magic: The Gathering lore , her spark ignited just in time to take her from her home plane to a monastery where she could learn to control her fire, which is an unusually good way to explain what a planeswalker is. Chandra has somewhere else to go when things get bad enough. The question is how long she can live with leaving other people behind .
 
-### 7 Lingering Questions I Have After Finishing 'VisionQuest'
-Fri, 13 Nov 2026 11:47:12 GMT — https://collider.com/visionquest-lingering-questions/
+### ‘New Girl’ Star’s New Detective Series Officially Sets Release Date With First Look
+Fri, 13 Nov 2026 19:05:56 GMT — https://collider.com/jake-johnson-sunset-pi-release-date-february-2027/
 
-Spoiler Alert: This list contains spoilers for the VisionQuest finale. And just like that, the WandaVision trilogy has come to an end. On the small screen, that is! After eight mind-blowing episodes, VisionQuest has continued to expand the story of Vision ( Paul Bettany ). Created by Terry Matalas , the latest Disney+ entry into the Marvel Cinematic Universe follows a rebooted White Vision as he retreats into a virtual mind space to process his restored memories alongside AI personas from his past, including Ultron ( James Spader ). His isolated existence is upended when a dangerous bounty forces him to go on the run with Thomas Shepherd ( Ruaridh Mollica ), a superpowered teenager who just so happens to be his son.
+It's been more than eight years since New Girl ended its seven-season run on Fox. But now, one of its stars is returning to network TV for a new half-hour comedy that promises to be a classic mess-around. Sunset P.I. is set to premiere on NBC early in the New Year, and now we've got our first look at the detective comedy and its cast.
 
-### 31 Years Later, the Coldest Quote in Crime Thriller History Still Hits Hard
-Fri, 13 Nov 2026 11:38:12 GMT — https://collider.com/heat-best-quote-thriller-still-hits-2026/
+### Marvel’s New 8-Part Sci-Fi Thriller Is Officially Streaming From Start to Finish
+Fri, 13 Nov 2026 18:45:12 GMT — https://collider.com/visionquest-series-streaming-disney-plus-november-2026/
 
-31 years after its release, Heat has ascended beyond just being a motion picture. These days, Michael Mann 's beloved crime epic is a borderline religion, and its devout fans can recite quotes from the film like a religious text. From the performances and direction to the staggering visuals and immersive production design, Heat has been chewed over and revisited endlessly since 1995. Above all else, Mann's punchy and insightful dialogue, delivered by an all-star cast that includes Al Pacino , Robert De Niro , Val Kilmer , and more, both sticks in the craw and represents the writer-director's cinematic thesis on the lifestyle of professional criminals . During the monumental diner scene between cop Vincent Hanna (Pacino) and thief Neil McCauley (De Niro), the latter offers cold but shrewd advice on what it takes to be devoted to the criminal underworld. When in doubt, trust no one and abandon everything.
+The funniest detail about Paul Bettany ’s return as Vision is that, given the chance to start his life over, he gets a job at a pub in Edinburgh. It’s easy to see the appeal: the last people who got their hands on his body wanted to turn him into a weapon, and the pub gives him somewhere to go every day that reminds him of his wife. Of course, he also has to figure out what to do with memories of a wife and children he can remember loving without quite feeling like the person who loved them.
 
-### Godzilla Officially Crowned ‘King of the Monsters’ on Apple TV
-Fri, 13 Nov 2026 11:30:12 GMT — https://collider.com/godzilla-king-of-the-monsters-streaming-success-apple-tv-november-2026/
+### 5 of the Most Popular TV Shows Right Now, According to Rotten Tomatoes (Nov. 13-15)
+Fri, 13 Nov 2026 18:42:13 GMT — https://collider.com/most-popular-tv-shows-right-now-november-13-15/
 
-Kyle Chandler is widely known and celebrated for his role as Coach Taylor in Friday Night Lights , but earlier this year he took his talents to HBO for one of the best sci-fi shows of the year. We’re talking, of course, about Lanterns , the DC series co-starring Aaron Pierre that’s still one of the most-watched shows of the entire year on HBO Max . Most fans assumed that the show would be renewed for Season 2 after strong viewership and reception, but a recent regime change at DC has every project from the last few years hanging in the balance. It was announced earlier this week that James Gunn and Peter Safran had been replaced as the studio heads at DC by former Marvel executive Jeremy Latcham . This news comes not long after Paramount absorbed Warner Bros as part of the merger into the new company now known as Skydance .
+This weekend has an abundance of new television all competing at the same time. Dexter: Resurrection drops its third episode of Season 2 on Friday, Nocturne delivers another weekly installment, and Netflix subscribers are still working through From . Rotten Tomatoes keeps a running list of the series its users are rating, saving and arguing about the most. This weekend's version is a snapshot of prestige fall television.
 
-### Sam Claflin Reveals Johnny Depp’s Unexpected Reaction to Seeing Him Again After 15 Years
-Fri, 13 Nov 2026 11:10:12 GMT — https://collider.com/sam-claflin-johnny-depp-reunion-ebenezer-pirates-of-the-caribbean/
+### 3 Perfect Fantasy Books To Start and Finish This Weekend (November 14-15)
+Fri, 13 Nov 2026 18:04:12 GMT — https://collider.com/perfect-fantasy-books-start-and-finish-this-weekend-november-14/
 
-Fifteen years later, Sam Claflin reunites with his Pirates of the Caribbean: On Stranger Tides co-star Johnny Depp in their upcoming take on a holiday classic, Ebenezer . In this interview with Collider’s Steve Weintraub , he recalls the very first table read for his feature debut in the Disney franchise, sitting between Depp and Oscar winner Penélope Cruz , and how it felt to finally meet again to play his nephew Fred in the film.
+Reading is fundamental, and no genre is more beloved in literature than fantasy . Indeed, nearly everyone loves a great fantasy tale, no matter the approach the author takes. Heroic knights going on quests to save the realm, magic coming into our world to wreak havoc, dark lands where danger lurks in every corner — you name it, and fantasy has it.
 
-### 10 Sci-Fi Miniseries To Watch Before Kicking the Bucket (#1 Is Actually Flawless)
-Fri, 13 Nov 2026 11:09:12 GMT — https://collider.com/sci-fi-miniseries-to-watch-bucket-list/
+### Every Book in the Red Rising Trilogy, Ranked
+Fri, 13 Nov 2026 17:06:13 GMT — https://collider.com/red-rising-trilogy-books-ranked/
 
-The miniseries format was born in the UK during the late 1950s, but it wouldn't be until the US imported the concept in the mid-1970s and made it mainstream that miniseries would truly become a global phenomenon . Science fiction has found its home in miniseries as far back as 1953 with the BBC serial The Quatermass Experiment , and the genre has undoubtedly come a long way since then.
+When it comes to 21st-century science fiction , few books are more popular or beloved than Pierce Brown 's Red Rising . The 2014 novel, which blends sci-fi with the dystopian YA tone that dominated the first half of the 2010s, became a bestseller and spawned two sequels, creating one of the new millennium's best and most celebrated trilogies. Three further books have come out since, with a fourth and final one in the works, but that is usually considered a separate tetralogy.
 

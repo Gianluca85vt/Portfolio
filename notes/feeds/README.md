@@ -1,4 +1,4 @@
-# Source feeds — harvested 2026-11-13T12:36:59.558Z
+# Source feeds — harvested 2026-11-13T20:38:59.686Z
 
 Fetched by GitHub Actions, which is not behind the writer's egress proxy.
 One file per category. Each item is what the publisher syndicates in its
@@ -11,10 +11,17 @@ own feed: headline, link, date, and their summary.
 
 ## Broadcasts in the feeds
 
+**A preview is owed on this.** Write it before the show airs, with the start time in Italian time and the
+stream embedded, then the round-up an hour after it ends. See
+notes/event-coverage.md.
+
+- **Polygon** — The Game Awards 2026 Nominees Announcement Confirmed for Nov. 17
+  https://www.polygon.com/the-game-awards-2026-nominees-announcement-date/
+
 Already aired, so a round-up rather than a preview:
 
-- Push Square — Disney Bringing Game Reveals to The Game Awards Next Month
-- GameSpot — Disney Teases Major Announcements For The Game Awards
+- Push Square — The Game Awards 2026 Nominees to Be Revealed on 17th November
+- Variety — The Game Awards to Reveal 2026 Nominees Next Week Ahead of ‘GTA 6’ Debut, PlayStation 5 Joins Livestreamers for December Show (EXCLUSIVE)
 
 > **A dated showcase gets two articles, not one.** A preview before it
 > airs, carrying the stream link and the start time in Italian time, and a
@@ -26,8 +33,8 @@ Already aired, so a round-up rather than a preview:
 
 Both quotas are being met. Write whatever the day deserves.
 
-- **Film & TV** — on track. 3 articles since the last one; quota is one in 8, never worse than one in 10. 29 in the archive of 297.
-- **Manga and anime** — on track. 0 articles since the last one; quota is one in 6. 23 in the archive of 297.
+- **Film & TV** — on track. 5 articles since the last one; quota is one in 8, never worse than one in 10. 29 in the archive of 299.
+- **Manga and anime** — on track. 1 article since the last one; quota is one in 6. 23 in the archive of 299.
 
 The run is what counts, not the percentage: a burst last month does not
 excuse thirty in a row without one. If a category is owed and the feeds
@@ -36,13 +43,13 @@ silently skipping it.
 
 ## Feeds
 
-- [Games](games.md) — 102 items
+- [Games](games.md) — 101 items
 - [Tech](tech.md) — 82 items
 - [3D](3d.md) — 14 items
-- [AI](ai.md) — 9 items
-- [Manga](manga.md) — 31 items
+- [AI](ai.md) — 12 items
+- [Manga](manga.md) — 24 items
 - [Film & TV](film-tv.md) — 65 items
 
-Total: 303 items.
+Total: 298 items.
 
 Feeds that did not answer: CGChannel (HTTP 403), VentureBeat AI (HTTP 429).
