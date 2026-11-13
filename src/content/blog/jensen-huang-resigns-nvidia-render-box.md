@@ -13,7 +13,6 @@ sources:
     url: https://www.nbcnews.com/tech/tech-news/nvidia-ceo-jensen-huang-resigns-reports-extramarital-relationships-rcna608402
 artistView:
   take: "A founder leaving changes nothing I can measure in a render. The one Nvidia decision that has shaped my working life is how many wafers go to data-centre parts instead of GeForce, and that decision now sits with a finance executive holding the job temporarily. I would watch the next two product launches rather than the next two press releases."
-draft: true
 ---
 
 Nvidia announced the change on 12 November 2026. Jensen Huang has resigned as
