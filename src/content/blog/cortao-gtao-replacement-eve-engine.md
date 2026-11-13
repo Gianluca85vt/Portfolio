@@ -18,7 +18,6 @@ artistView:
   misses:
     - "Integration: the technique hands denoising to a temporal pass it does not ship, so anyone without TAA or an upscaler in the frame inherits the noise."
     - "Tooling: a compile-time sample count means one shader permutation per quality level, and that bill lands on build times rather than frame times."
-draft: true
 ---
 
 Ambient occlusion has a slanted-surface problem, and it has had one for a
