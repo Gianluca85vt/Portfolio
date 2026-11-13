@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Witcher 3 used AI on Geralt's Polish voice, with consent">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#18011F"/>
+      <stop offset="0.62" stop-color="#3A0536"/>
+      <stop offset="1" stop-color="#B600A8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <g font-family="Inter, Helvetica, Arial, sans-serif">
+    <text x="80" y="118" fill="#D7E2EA" fill-opacity="0.55" font-size="25" font-weight="500" letter-spacing="5">AI &#183; THE WITCHER 3</text>
+    <text x="80" y="268" fill="#D7E2EA" font-size="104" font-weight="700" letter-spacing="-2">He recorded</text>
+    <text x="80" y="376" fill="#D7E2EA" font-size="104" font-weight="700" letter-spacing="-2">every line.</text>
+    <text x="80" y="484" fill="#D7E2EA" fill-opacity="0.72" font-size="104" font-weight="700" letter-spacing="-2">The model</text>
+    <text x="80" y="592" fill="#D7E2EA" fill-opacity="0.72" font-size="104" font-weight="700" letter-spacing="-2">moved it to 2015.</text>
+    <text x="80" y="690" fill="#D7E2EA" fill-opacity="0.5" font-size="31" font-weight="400">Jacek Rozenek, Polish Geralt &#8212; eleven years on</text>
+  </g>
+</svg>
