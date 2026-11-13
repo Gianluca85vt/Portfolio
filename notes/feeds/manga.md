@@ -1,72 +1,82 @@
-# Manga — harvested 2026-11-12T21:05:41.314Z
+# Manga — harvested 2026-11-13T12:36:59.558Z
 
 ## Anime News Network
+
+### Omniscient Reader, Greatest Estate Developer, Debut or Die!, 7 More Works Win 2026 World Webtoon Awards
+Fri, 13 Nov 2026 07:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-13/omniscient-reader-greatest-estate-developer-debut-or-die-7-more-works-win-2026-world-webtoon-awards/.243552
+
+10 winners will each receive trophy, 10 million won (about US$7,200)
+
+### ATASHIn'CHI Next Net Anime's Additional Episodes Debut on January 1
+Fri, 13 Nov 2026 06:45:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-13/atashinchi-next-net-anime-additional-episodes-debut-on-january-1/.243794
+
+New episodes from <cite>Chainsmoker Cat</cite> director Taku Kimura to debut monthly on YouTube
+
+### NHK Announces 2026 Kōhaku Song Contest Lineup
+Fri, 13 Nov 2026 06:18:41 -0500 — https://www.animenewsnetwork.com/interest/2026-11-13/nhk-announces-2026-kohaku-song-contest-lineup/.243791
+
+B'z vocalist and lyricist Koshi Inaba will appear during a special event during the live show
+
+### Stars Shinnosuke Tokudome, Shūichirō Umeda Perform Ending Theme for Ore to Yu Nii! Anime
+Fri, 13 Nov 2026 06:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-13/stars-shinnosuke-tokudome-shuichiro-umeda-perform-ending-theme-for-ore-to-yu-nii-anime/.243793
+
+Series debuts in January 2027
+
+### Multi-Mind Mayhem: Isekai Tensei Soudouki Anime Reveals January 6 Debut, More Cast in 2nd Promo Video
+Fri, 13 Nov 2026 05:54:08 -0500 — https://www.animenewsnetwork.com/news/2026-11-13/multi-mind-mayhem-isekai-tensei-soudouki-anime-reveals-january-6-debut-more-cast-in-2nd-promo-video/.243790
+
+Maverick Mom performs opening theme song 'Isekai,' VTuber Tokino Sora performs ending theme 'Brand New Day'
+
+### 'Draw This, Then Die!' Manga Takes 2-Month Break to Prepare for Final Arc
+Fri, 13 Nov 2026 00:25:15 -0500 — https://www.animenewsnetwork.com/news/2026-11-13/draw-this-then-die-manga-takes-2-month-break-to-prepare-for-final-arc/.243776
+
+Author also working on manga's upcoming book volume releases
+
+### Bandai's Gashapon Capsule Prize Machine Now Transforms Into a Robot
+Thu, 12 Nov 2026 23:59:00 -0500 — https://www.animenewsnetwork.com/interest/2026-11-12/bandai-gashapon-capsule-prize-machine-now-transforms-into-a-robot/.243757
+
+In celebration of Gashapon's 50th anniversary
+
+### Comic Market: Ticketpay Service Restricts Access for International Users
+Thu, 12 Nov 2026 23:11:44 -0500 — https://www.animenewsnetwork.com/news/2026-11-12/comic-market-ticketpay-service-restricts-access-for-international-users/.243774
+
+Staff is now investigating alternate ways for overseas ticket buyers
+
+### Yuri Is My Job! Manga Gets Short Drama Adaptation Next Spring
+Thu, 12 Nov 2026 23:03:18 -0500 — https://www.animenewsnetwork.com/news/2026-11-12/yuri-is-my-job-manga-gets-short-drama-adaptation-next-spring/.243775
+
+Drama to debut on Tatedora app
+
+### Teto Kasane Comes to Fortnite Festival
+Thu, 12 Nov 2026 22:00:00 -0500 — https://www.animenewsnetwork.com/interest/2026-11-12/teto-kasane-comes-to-fortnite-festival/.243754
+
+And will appear in <i>Fortnite Battle Royale</i> with Vocaloid idol Hatsune Miku
+
+### Blue Rights Company Unveils Pilot Film for Orochi -Seventh Echoes- Original Animated Feature
+Thu, 12 Nov 2026 20:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-12/blue-rights-company-unveils-pilot-film-for-orochi-seventh-echoes-original-animated-feature/.243748
+
+<cite>Akira</cite> film animation director Takashi Nakamura helms film, credited for original concept
 
 ### Sega Streams Sonic the Hedgehog: Memories and Beyond Short Animated Film on YouTube
 Thu, 12 Nov 2026 15:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-12/sega-streams-sonic-the-hedgehog-memories-and-beyond-short-animated-film-on-youtube/.243768
 
 Short commemorating franchise's 35th anniversary features Sonic & friends vs. Metal Sonic
 
-### Professor Layton and The New World of Steam Game Reveals English Dub, Cast
-Thu, 12 Nov 2026 13:30:41 -0500 — https://www.animenewsnetwork.com/news/2026-11-12/professor-layton-and-the-new-world-of-steam-game-reveals-english-dub-cast/.243767
-
-Christopher Robin Miller, Lani Minella return as Professor Layton, Luke, respectively
-
-### Disney to Premiere Lilas Dreams & Memories Documentary About YOASOBI's Lilas Ikuta on December 30
-Thu, 12 Nov 2026 13:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-12/disney-to-premiere-lilas-dreams-and-memories-documentary-about-yoasobi-lilas-ikuta-on-december-30/.243764
-
-2-part documentary about ikura's experience with <cite>High School Musical</cite> streams/airs on December 30
-
-### Mushoku Tensei: Jobless Reincarnation Volumes 4-6 Light Novel Review
-Thu, 12 Nov 2026 12:00:00 -0500 — https://www.animenewsnetwork.com/review/mushoku-tensei/jobless-reincarnation-volumes-4-6/light-novel/.242823
-
-These volumes really flesh out Mushoku Tensei's expansive world, introducing a fascinating cast of varied new characters and building on already established relationships.
-
-### Fatal Fury City of the Wolves Game Adds Fatal Fury: The Motion Picture's Laocorn on November 19
-Thu, 12 Nov 2026 11:31:15 -0500 — https://www.animenewsnetwork.com/news/2026-11-12/fatal-fury-city-of-the-wolves-game-adds-fatal-fury-the-motion-picture-laocorn-on-november-19/.243765
-
-Laocorn trailer, <cite>Fatal Fury: The Motion Picture</cite> digest movie streamed
-
-### Shin Oishinbo TV Anime Casts Kenji Yamauchi, Ken Uo
-Thu, 12 Nov 2026 10:45:34 -0500 — https://www.animenewsnetwork.com/news/2026-11-12/shin-oishinbo-tv-anime-casts-kenji-yamauchi-ken-uo/.243762
-
-Series casts Yamauchi as Mantarō Kyōgoku, Uo as Tōjin Tōyama
-
-### Dana Terrace Shares Anime's Influence on Knights of Guinevere
-Thu, 12 Nov 2026 10:00:00 -0500 — https://www.animenewsnetwork.com/feature/2026-11-12/dana-terrace-shares-anime-influence-on-knights-of-guinevere/.243173
-
-<cite>The Amazing Digital Circus, Knights of Guinevere</cite> studio Glitch Productions discuss SAG-AFTRA Agreement
-
-### This Week in Anime - Roll the Dice
-Thu, 12 Nov 2026 10:00:00 -0500 — https://www.animenewsnetwork.com/this-week-in-anime/2026-11-12/.243713
-
-Lucas and Chris tackle the next great vice in anime: gambling!
-
-### Kakao Piccoma Launches New 'Lulumiru' BL Webtoon Platform
-Thu, 12 Nov 2026 09:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-12/kakao-piccoma-launches-new-lulumiru-bl-webtoon-platform/.243759
-
-New service available in Japan only launched on November 5
-
-### Reincarnated as a Sword Season 2 ‒ Episode 7
-Thu, 12 Nov 2026 07:30:00 -0500 — https://www.animenewsnetwork.com/review/reincarnated-as-a-sword-season-2/episode-7/.243745
-
-Hopefully this black-clad wielder of a massive sword isn't stuck on the ship for as long as Guts was in <i>Berserk</i>.
-
-### Romancing SaGa 3: Destinies United Game Announces New, Earlier February 4 Release Date
-Thu, 12 Nov 2026 07:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-12/romancing-saga-3-destinies-united-game-announces-new-earlier-february-4-release-date/.243758
-
-Game first announced for February 16 release for Switch, Switch 2, PS5, Xbox Series X|S, Steam
-
-### Nabe ni Tama wo Ukenagara TV Anime Reveals Main Cast, Staff, January Debut
-Thu, 12 Nov 2026 05:17:34 -0500 — https://www.animenewsnetwork.com/news/2026-11-12/nabe-ni-tama-wo-ukenagara-tv-anime-reveals-main-cast-staff-january-debut/.243753
-
-Shū Uchida, Masaaki Mizunaka both voice Juntarō in J.C.STAFF anime
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Fall 2026 Anime Rankings – Week 6
+Fri, 13 Nov 2026 12:30:00 GMT — https://animecorner.me/fall-2026-anime-rankings-week-6/
+
+STEEL BALL RUN wins Fall 2026 Week 6, followed by Firefly Wedding and Student Council. Just 0.32 percentage points separate second through fifth place.
+
+### The F1 Japanese Grand Prix Names Cygames a Founding Partner
+Fri, 13 Nov 2026 04:40:33 GMT — https://animecorner.me/the-f1-japanese-grand-prix-names-cygames-a-founding-partner/
+
+Cygames, Inc., Umamusume: Pretty Derby's publisher, is now a founding partner of the 2027&hellip;
 
 ### Interview: Blue Box Season 2 Director Daisuke Sako on Taiki & Chinatsu Focus and Adaptation Process
 Thu, 12 Nov 2026 09:43:11 GMT — https://animecorner.me/interview-blue-box-season-2-director-daisuke-sako-on-taiki-chinatsu-focus-and-adaptation-process/
@@ -108,27 +118,22 @@ Wed, 11 Nov 2026 13:32:50 GMT — https://animecorner.me/black-clover-season-2-n
 
 Black Clover Season 2 revealed its second “Most Fearsome Battle Visual,” this time featuring Noelle Silva in her Valkyrie Dress form.
 
-### STEEL BALL RUN JoJo's Bizarre Adventure Spotlights Stands in New Special Video
-Wed, 11 Nov 2026 12:10:51 GMT — https://animecorner.me/steel-ball-run-jojos-bizarre-adventure-spotlights-stands-in-new-special-video/
-
-STEEL BALL RUN JoJo's Bizarre Adventure has released a new Stand special video featuring previously unseen footage from the ongoing anime.
-
-### Mashle Season 3 Reveals First Main Trailer and New Key Visual, January 9 Premiere
-Wed, 11 Nov 2026 11:25:05 GMT — https://animecorner.me/mashle-season-3-reveals-first-main-trailer-and-new-key-visual-january-9-premiere/
-
-Mashle: Magic and Muscles Season 3 TV anime revealed the first main and new key visual, along with a January 9, 2027 premiere date.
-
-### CyberAgent Partners With MAPPA, Acquires Stake in Studio's Parent Company MHD
-Wed, 11 Nov 2026 09:29:07 GMT — https://animecorner.me/cyberagent-partners-with-mappa-acquires-stake-in-studios-parent-company-mhd/
-
-CyberAgent has entered into a business partnership with animation studio MAPPA and acquired a stake in MAPPA’s parent company, MHD.
-
-### Nanatsu-ya: Shinobu and Her Jewelry Box Anime Announced for 2027, Reveals Teaser Visual and Trailer
-Wed, 11 Nov 2026 09:18:26 GMT — https://animecorner.me/nanatsu-ya-shinobu-and-her-jewelry-box-anime-announced-for-2027-reveals-teaser-visual-and-trailer/
-
-The anime adaptation of Tomoko Ninomiya’s Nanatsu-ya: Shinobu and Her Jewelry Box has been officially announced for 2027.
-
 ## MyAnimeList News
+
+### Isekai Tensei Soudouki Reveals Additional Cast, Staff, Theme Songs, Second Promo
+Fri, 13 Nov 2026 02:25:08 -0800 — https://myanimelist.net/news/74934867?_location=rss
+
+The official website for the television anime adaptation of Ryousen Takami s Isekai Tensei Soudouki (Multi-Mind Mayhem) novel revealed additional cast, staff, theme songs, a second key visual (pictured), and second promotional video on Friday. The anime is scheduled to premiere on January 6 at 10.00 p.m on Tokyo MX, followed by BS Fuji, and AT-X. Cast Maggot: Marina Inoue (Boku no Hero Academia) Ignis: Takehito Koyasu (Re:Zero kara Hajimeru Isekai Seikatsu) Brooks: Toshiki Kumagai (Tongari...
+
+### CyberAgent Expands Production Network With Latent One Launch and MAPPA Partnership
+Fri, 13 Nov 2026 00:50:56 -0800 — https://myanimelist.net/news/74934668?_location=rss
+
+CyberAgent is expanding its presence in Japan s animation industry through a combination of studio development and strategic investment, establishing a new animation studio under its subsidiary Colorful Palette while entering a business alliance with MAPPA. On October 31, 2026, Colorful Palette announced the establishment of Latent One, a new animation production subsidiary focused on animation planning, production, and production management. Less than two weeks later, on November 11, Cybe...
+
+### Light Novel Isekai Douraku ni Akitara Gets TV Anime in Winter 2027
+Thu, 12 Nov 2026 19:23:14 -0800 — https://myanimelist.net/news/74934042?_location=rss
+
+Publishing company Shufunotomo announced a television anime adaptation of Fudaya Sanmongarasu and Tomozo s Isekai Douraku ni Akitara (Living It Up in Another World Until I Get Bored) light novel on Friday. The anime series will premiere in January 2027. Sanmongarasu began writing the adventure fantasy novel on the Shousetsuka ni Narou website in June 2016. Shufunotomo began printing the light novel under its Prime Novels imprint in June 2017, featuring illustrations by Tomozo. The imprint p...
 
 ### Supporting Cast Pair for Shin Oishinbo Announced
 Thu, 12 Nov 2026 02:32:45 -0800 — https://myanimelist.net/news/74931275?_location=rss
@@ -145,16 +150,16 @@ Wed, 11 Nov 2026 06:46:50 -0800 — https://myanimelist.net/news/74928431?_locat
 
 The official website of the Mashle (Mashle: Magic and Muscles) television anime revealed additional cast pair, a key visual and a promotional video for its third season on Wednesday. The new season is scheduled to premiere on January 10 at 12.00 a.m. on Tokyo MX, BS11, Gunma TV and Tochigi TV, followed by Mainichi Broadcasting, Shizuoka Broadcasting, FBS Fukoka, Chukyo TV, Nagano Asahi, Okayama, Miyagi TV, Sapporo TV, Television Niigata and Chugoku. Voice actors Souma Saitou (Youkoso Jitsuryoku...
 
-### Manga Nanatsuya: Shinobu no Housekibako Gets TV Anime in 2027
-Wed, 11 Nov 2026 01:24:46 -0800 — https://myanimelist.net/news/74927894?_location=rss
-
-Production company Pony Canyon opened an official website for a television anime adaptation of Tomoko Ninomiya s Nanatsuya: Shinobu no Housekibako (Nanatsu-ya: Shinobou and Her Jewelry Box) on Wednesday, revealing the main staff, teaser visual (pictured), and teaser promotional video. The anime will premiere in 2027. Staff Director: Chiaki Kon (Golden Time, Niehime to Kemono no Ou) Series Composition: Seishi Minakami (Sugar Apple Fairy Tale) Character Design: Mai Furuki (Mewkledreamy) Studi...
-
 ## Otaku USA
 
 _Nothing in the last 48 hours._
 
 ## Anime UK News
+
+### Kingdom Hearts: Chain of Memories Omnibus Review
+Fri, 13 Nov 2026 10:00:57 +0000 — https://animeuknews.net/2026/11/kingdom-hearts-chain-of-memories-omnibus-review/
+
+Kingdom Hearts: Chain of Memories delivers an engaging if transitionary storyline which lends a new appreciation to characters like Riku, whilst building the world of Kingdom Hearts with new developments and characters who stand to be important as the overall story develops.
 
 ### Lockdown Life with the Class Beauty Volume 1 Review
 Thu, 12 Nov 2026 10:00:26 +0000 — https://animeuknews.net/2026/11/lockdown-life-with-the-class-beauty-volume-1-review/
@@ -165,9 +170,4 @@ Kicked out of his dorm during a pandemic, Kanata finds himself with nowhere to s
 Wed, 11 Nov 2026 19:00:25 +0000 — https://animeuknews.net/2026/11/performers-announced-for-matsuri-26-japanese-music-experience-london/
 
 Musicians hitsujibungaku, Kyary Pamyu Pamyu and Otoboke Beaver are coming to London this December for a one-off triple headliner performance in matsuri '26: Japanese Music Experience LONDON.
-
-### MCM London Comic Con: Bustling and Booming Better Than Ever
-Wed, 11 Nov 2026 10:00:24 +0000 — https://animeuknews.net/2026/11/mcm-london-comic-con-bustling-and-booming-better-than-ever/
-
-Sam L Barker writes about the continued dynamism and fun of MCM London Comic Con 20 years after first attending.
 

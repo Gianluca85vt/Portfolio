@@ -1,11 +1,16 @@
-# AI — harvested 2026-11-12T21:05:41.314Z
+# AI — harvested 2026-11-13T12:36:59.558Z
 
 ## OpenAI
 
 ### How Amplitude ships product improvements in 1–2 days with OpenAI
-Thu, 12 Nov 2026 20:00:00 GMT — https://openai.com/index/amplitude
+Thu, 12 Nov 2026 20:00:00 GMT — https://openai.com/business/customer-stories/amplitude
 
 Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.
+
+### Gondola doubles revenue as its team builds more with Codex
+Thu, 12 Nov 2026 12:00:00 GMT — https://openai.com/business/customer-stories/gondola
+
+Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.
 
 ### Holiday Extras is rethinking what it can build with Codex
 Thu, 12 Nov 2026 09:30:00 GMT — https://openai.com/business/customer-stories/holidays-extras-codex
@@ -22,16 +27,6 @@ Thu, 12 Nov 2026 00:00:00 GMT — https://openai.com/index/gilbert-tobin-sam-nic
 
 A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.
 
-### ChatGPT Plus for veterans and servicemembers
-Wed, 11 Nov 2026 08:00:00 GMT — https://openai.com/index/chatgpt-plus-for-veterans
-
-More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.
-
-### JioStar’s chief architect on AI discovery at 500M-user scale
-Wed, 11 Nov 2026 00:00:00 GMT — https://openai.com/index/jiostar-vijay-seshadri
-
-JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.
-
 ## Hugging Face
 
 ### LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B
@@ -39,12 +34,6 @@ Thu, 12 Nov 2026 19:07:35 GMT — https://huggingface.co/blog/ibm-granite/llmon-
 
 ### The Definitive Fine-Tuning Guide for 3D Generation Models
 Thu, 12 Nov 2026 00:00:00 GMT — https://huggingface.co/blog/3d-lora-finetuning
-
-### BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model
-Wed, 11 Nov 2026 05:01:16 GMT — https://huggingface.co/blog/qvac/botpsy
-
-### Token Pooling-Aware Training for Multi-Vector Embedding Models
-Wed, 11 Nov 2026 00:00:00 GMT — https://huggingface.co/blog/token-pooling
 
 ## Google DeepMind
 

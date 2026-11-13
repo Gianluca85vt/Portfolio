@@ -1,4 +1,4 @@
-# Source feeds — harvested 2026-11-12T21:05:41.314Z
+# Source feeds — harvested 2026-11-13T12:36:59.558Z
 
 Fetched by GitHub Actions, which is not behind the writer's egress proxy.
 One file per category. Each item is what the publisher syndicates in its
@@ -14,7 +14,6 @@ own feed: headline, link, date, and their summary.
 Already aired, so a round-up rather than a preview:
 
 - Push Square — Disney Bringing Game Reveals to The Game Awards Next Month
-- Polygon — Disney Plus Is Officially the New Streaming Home of the Game Awards
 - GameSpot — Disney Teases Major Announcements For The Game Awards
 
 > **A dated showcase gets two articles, not one.** A preview before it
@@ -25,10 +24,10 @@ Already aired, so a round-up rather than a preview:
 
 ## Editorial mix — what the archive owes
 
-**Write Manga and anime next.** 5 articles have gone out since the last one.
+Both quotas are being met. Write whatever the day deserves.
 
-- **Manga and anime** — BROKEN. 5 articles since the last one; quota is one in 6. 22 in the archive of 295.
-- **Film & TV** — on track. 1 article since the last one; quota is one in 8, never worse than one in 10. 29 in the archive of 295.
+- **Film & TV** — on track. 3 articles since the last one; quota is one in 8, never worse than one in 10. 29 in the archive of 297.
+- **Manga and anime** — on track. 0 articles since the last one; quota is one in 6. 23 in the archive of 297.
 
 The run is what counts, not the percentage: a burst last month does not
 excuse thirty in a row without one. If a category is owed and the feeds
@@ -37,13 +36,13 @@ silently skipping it.
 
 ## Feeds
 
-- [Manga](manga.md) **owed** — 31 items
 - [Games](games.md) — 102 items
 - [Tech](tech.md) — 82 items
-- [3D](3d.md) — 12 items
-- [AI](ai.md) — 12 items
+- [3D](3d.md) — 14 items
+- [AI](ai.md) — 9 items
+- [Manga](manga.md) — 31 items
 - [Film & TV](film-tv.md) — 65 items
 
-Total: 304 items.
+Total: 303 items.
 
 Feeds that did not answer: CGChannel (HTTP 403), VentureBeat AI (HTTP 429).
