@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0.65" y2="1">
+      <stop offset="0" stop-color="#18011F"/>
+      <stop offset="1" stop-color="#C8891B"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#g)"/>
+  <text x="80" y="150" font-family="Helvetica, Arial, sans-serif" font-size="34" fill="#F3E2C2" letter-spacing="3">SONIC · MEMORIES AND BEYOND</text>
+  <text x="80" y="300" font-family="Helvetica, Arial, sans-serif" font-size="150" font-weight="bold" fill="#FFFFFF">13 min</text>
+  <text x="80" y="375" font-family="Helvetica, Arial, sans-serif" font-size="46" fill="#FFFFFF">of hand-drawn animation,</text>
+  <text x="80" y="435" font-family="Helvetica, Arial, sans-serif" font-size="46" fill="#FFFFFF">and no settled studio credit</text>
+</svg>
