@@ -3,7 +3,7 @@ title: "Jensen Huang resigns: what changes for GPUs"
 date: 2026-11-13
 category: Tech
 excerpt: Nvidia announced the transition on 12 November. Huang's exit touches no silicon roadmap, and it hands one decision behind GeForce pricing to a new owner.
-cover: /img/blog/jensen-huang-resigns-nvidia-render-box/cover.svg
+cover: /img/blog/jensen-huang-resigns-nvidia-render-box/shot-01.jpg
 sources:
   - outlet: NPR
     url: https://www.npr.org/2026/11/13/nx-s1-6038889/colette-kress-becomes-nvidias-interim-ceo-after-jensen-huang-resigns
@@ -37,6 +37,11 @@ I am going to leave all of that to the business desks, because from where I
 sit the question is much narrower. Does the box under the desk care?
 
 ## What a chief executive cannot move
+
+<figure>
+  <img src="/img/blog/jensen-huang-resigns-nvidia-render-box/shot-02.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>Jensen Huang at the Nvidia CES 2025 keynote, holding an RTX Blackwell card. Photos by Pronoia, released CC0, via Wikimedia Commons.</figcaption>
+</figure>
 
 Mostly, no. And the reason is lead time.
 
