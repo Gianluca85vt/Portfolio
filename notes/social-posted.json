@@ -1685,5 +1685,11 @@
     "facebookError": "1098893486828059/feed -> HTTP 400 Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.",
     "instagramError": "17841448932903051/media -> HTTP 400 Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.",
     "bluesky": "at://did:plc:jphedra6dqvi3ylpnenvbsch/app.bsky.feed.post/3n2bf5jeokr25"
+  },
+  "ebenezer-review": {
+    "at": "2026-11-14T15:47:53.687Z",
+    "facebookError": "1098893486828059/feed -> HTTP 400 Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.",
+    "instagramError": "17841448932903051/media -> HTTP 400 Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.",
+    "bluesky": "at://did:plc:jphedra6dqvi3ylpnenvbsch/app.bsky.feed.post/3n2btvxwigc2z"
   }
 }
