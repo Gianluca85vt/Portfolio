@@ -45,6 +45,11 @@ letter, "throughout our entire development pipeline."
 
 ## The four things it is reportedly for
 
+<figure>
+  <img src="/img/blog/pearl-abyss-ai-pipeline-dokev-2028/shot-02.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>Pearl Abyss, via the official Crimson Desert Steam page</figcaption>
+</figure>
+
 The letter names automation of repetitive tasks, support for content creation,
 development productivity, and test and QA optimisation. Two of those I would sign
 tomorrow. Nobody became an environment artist to hand-tag forty thousand assets, and
