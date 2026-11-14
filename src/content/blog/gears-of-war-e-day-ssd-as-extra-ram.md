@@ -34,6 +34,11 @@ Tom's Hardware went looking for the same system on PC this afternoon.
 
 ## What is on the box
 
+<figure>
+  <img src="/img/blog/gears-of-war-e-day-ssd-as-extra-ram/shot-02.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>The Coalition / Xbox Game Studios, via the official Steam page</figcaption>
+</figure>
+
 Series S ships with 10GB of GDDR6, of which games see roughly eight. Series X
 has 16. E-Day is a full Unreal Engine 5 title — Nanite, Lumen, MegaLights, and
 on PC RTX Mega Geometry driving ray-traced shadows and reflections — set in a
