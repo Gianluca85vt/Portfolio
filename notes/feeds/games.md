@@ -1,6 +1,31 @@
-# Games — harvested 2026-11-13T20:38:59.686Z
+# Games — harvested 2026-11-14T11:45:09.025Z
 
 ## Eurogamer
+
+### Call of Duty Endowment marks Remembrance Day with veterans' Valor Pack push
+Sat, 14 Nov 2026 11:15:00 +0000 — https://www.eurogamer.net/call-of-duty-endowment-valor-pack-remembrance-day-veterans
+
+The Call of Duty Endowment is marking Remembrance Day and its 17th anniversary by encouraging Modern Warfare 4 and Warzone players to pick up its Valor Pack, with all of Activision's net proceeds going towards helping veterans find jobs. Read more
+
+### Magic: The Gathering animated series Planeswalker is coming to Netflix in 2027
+Sat, 14 Nov 2026 10:39:50 +0000 — https://www.eurogamer.net/magic-the-gathering-planeswalker-netflix-animated-series-2027
+
+Netflix's long-gestating Magic: The Gathering animated series is called Planeswalker, and it's coming in 2027. Read more
+
+### Vice City was the GTA that established Rockstar's killer formula - and 24 years on, it's still one of the best games ever made
+Sat, 14 Nov 2026 10:00:00 +0000 — https://www.eurogamer.net/gta-vice-city-retrospective
+
+"Get the limey out of here," Burt Reynolds tells the producers of GTA: Vice City during a recording session for the game, as Rockstar co-founder Dan Houser enters the studio. "I'm not going to work if this limey Brit is in here!" Houser refuses to leave, so the story goes - he just came down to meet one of his heroes! - and he and Reynolds end up chest-to-chest, about to come to blows, before a studio engineer breaks up the fight. Read more
+
+### What we've been playing - "Whether he means to or not, he serves sass all over town"
+Sat, 14 Nov 2026 08:00:00 +0000 — https://www.eurogamer.net/what-weve-been-playing-sass-all-over-town-link-ocarina
+
+Another week has climaxed and I'm so sorry you had to read that on a Saturday morning. But here we are again, with our regular feature, where we talk about what we've been playing in order that you do too. This week, Marie has been staring at monster butts; Connor has capitulated to World of Warcraft; Kelsey is discovering the joys of a beloved Zelda game for the first time; and Bertie enjoys someone being punched in the face, because I guess he's that sort of person? Read more
+
+### The Blood of Dawnwalker is getting a New Game Plus mode in next week's update
+Fri, 13 Nov 2026 20:49:20 +0000 — https://www.eurogamer.net/blood-of-dawnwalker-new-game-plus
+
+A New Game Plus mode is coming to vampiric RPG The Blood of Dawnwalker next week. Read more
 
 ### Interest in The Legend of Zelda was "getting smaller and smaller" before Breath of the Wild, according to former Nintendo marketing leads
 Fri, 13 Nov 2026 19:52:50 +0000 — https://www.eurogamer.net/legend-of-zelda-smaller-before-breath-of-the-wild
@@ -36,31 +61,6 @@ With less than a week to go before GTA 6's hugely anticipated release , the game
 Fri, 13 Nov 2026 15:02:10 +0000 — https://www.eurogamer.net/slay-the-spire-2-biggest-update-new-character-the-fool
 
 Slay the Spire 2, which released into early access earlier this year, is expanding once more with a major new beta update. This introduces the deckbuilder's first new character since launch - a whimsical musician armed with a bow - alongside two new modes, and more. Read more
-
-### Xbox boss announces Wolfenstein 3 and confirms new game in development at idSoftware despite reported job cut "bloodbath"
-Fri, 13 Nov 2026 12:19:50 +0000 — https://www.eurogamer.net/wolfenstein-3-new-id-software-game-announced-xbox
-
-Xbox boss Asha Sharma has confirmed Wolfenstein 3 is in development at MachineGames, the Swedish studio behind the acclaimed Wolfenstein: The New Order , Wolfenstein 2: The New Colossal, and 2024's celebrated Indiana Jones and the Great Circle . Additionally, she revealed Doom developer idSoftware - one of the Microsoft-owned studios heavily impacted by sweeping Xbox job cuts earlier this year - is now working on a new game. Read more
-
-### Will GTA 6 break the internet? UK broadband operator braces for impact, saying "GTA 6 has been on our radar for a long time"
-Fri, 13 Nov 2026 09:42:40 +0000 — https://www.eurogamer.net/gta-6-internet-uk-broadband-ofcom-openreach
-
-As Grand Theft Auto 6 breaks pre-order records on the PlayStation and Xbox stores , and looks poised to break many more sales records once it launches next week, questions of whether it will also break the internet arise. Collective network load will undoubtedly spike around its release - will regional infrastructure be able to bear it? Read more
-
-### Halo: Campaign Evolved is getting its own four-player version of the series' staple Firefight mode, for free, "this winter"
-Fri, 13 Nov 2026 09:36:20 +0000 — https://www.eurogamer.net/halo-campaign-evovled-firefight-mode
-
-Last night, Xbox Game Studios and Halo Studios have announced a free update for the recently-released Halo: Campaign Evolved, which promises to add the four-player co-operative PvE mode, Firefight, to the game. Read more
-
-### Xbox boss seemingly champions gen-AI development as she celebrates 25 years of Xbox: "A small team will be able to build worlds that today demand hundreds of developers"
-Thu, 12 Nov 2026 17:32:20 +0000 — https://www.eurogamer.net/microsoft-xbox-gen-ai-asha-sharma-memo
-
-Xbox leader Asha Sharma has alluded to harnessing the power of generative AI when making games, in a memo published this afternoon. Read more
-
-### World of Warcraft: Forever players in Australia and New Zealand are struggling to get sunlight, and not for the usual MMO reasons
-Thu, 12 Nov 2026 16:30:00 +0000 — https://www.eurogamer.net/world-of-warcraft-forever-oceania-sunlight
-
-World of Warcraft: Forever players are having a blast in the new MMO, but not everyone is basking in the rays of its successful launch. Players located in Australia, New Zealand, and other Oceania countries are having a bit of a sunlight problem. Read more
 
 ## GamesIndustry.biz
 
@@ -130,6 +130,26 @@ _Nothing in the last 48 hours._
 
 ## Push Square
 
+### The Excellent Warhammer Survivors Reveals Roadmap Full of Free Updates, Teases Something Big
+Sat, 14 Nov 2026 02:30:00 GMT — https://www.pushsquare.com/news/2026/11/the-excellent-warhammer-survivors-reveals-roadmap-full-of-free-updates-teases-something-big
+
+New characters coming next month. Warhammer Survivors launched just a few days ago, and I think it's an absolutely fantastic take on the criminally addictive Vampire Survivors formula. Imagine my glee, then, to learn that developer Auroch Digital has big plans for the game going forward. Read the full article on pushsquare.com
+
+### DokeV Set for 2028 Launch, But You ll See It Again This Year
+Sat, 14 Nov 2026 02:00:00 GMT — https://www.pushsquare.com/news/2026/11/dokev-set-for-2028-launch-but-youll-see-it-again-this-year
+
+But the Crimson Desert dev is embracing AI. Remember DokeV ? The bizarre Pokémon -esque game announced over five years ago from Pearl Abyss? The developer has gone on to make Crimson Desert , but in a new financial report , it's shared its wild take on Pokémon is still coming. Now its Charting the Unknown expansion for Crimson Desert is out, it's shifting more of its developers onto DokeV, and the firm is targeting a launch in the second half of 2028. Before the end of this year, however, it plans to reveal its latest "development progress". Read the full article on pushsquare.com
+
+### GTA 6 PS5 Codes Potentially Being Stolen from Physical Copies Using Flashlight Trick
+Sat, 14 Nov 2026 01:00:00 GMT — https://www.pushsquare.com/news/2026/11/gta-6-ps5-codes-potentially-being-stolen-from-physical-copies-using-flashlight-trick
+
+Making light work of it. A potentially problematic manufacturing oversight may be resulting in some GTA 6 codes being stolen from retail PS5 cases. Some reports claim that by pointing a strong flashlight at the side of the case, it’s possible to shine light into the empty Blu-ray box in such a way that it makes the code printed on the insert visible. Read the full article on pushsquare.com
+
+### Talking Point: What Are You Playing This Weekend? - Issue 658
+Sat, 14 Nov 2026 00:00:00 GMT — https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-658
+
+The final weekend. This is it, folks: the last WAYP before GTA 6 . Can you believe it? It’s been a long road to this point, but we finally made it. Congrats! Liam Croft I'll be finishing The Legend of Zelda: Ocarina of Time on Switch 2 this weekend. I don't have any nostalgia for the original, so this remake hasn't hit me quite as much as it would a fan, but I can still tell this is something special. I can't even imagine how amazing it must have been to experience at release on the N64. Read the full article on pushsquare.com
+
 ### The Game Awards 2026 Nominees to Be Revealed on 17th November
 Fri, 13 Nov 2026 19:30:00 GMT — https://www.pushsquare.com/news/2026/11/the-game-awards-2026-nominees-to-be-revealed-on-17th-november
 
@@ -169,26 +189,6 @@ It'll arrive a little later. GTA 6 is now less than a week away from its officia
 Fri, 13 Nov 2026 15:30:00 GMT — https://www.pushsquare.com/news/2026/11/god-of-war-sons-of-sparta-really-will-be-ported-backwards-to-ps4
 
 Out on 16th Nov, with a free update for PS5 owners. It's now been confirmed God of War: Sons of Sparta , the mostly forgotten Metroidvania game that launched earlier this year, will indeed be ported back to PS4 . Having debuted on PS5 in February, the PS4 version launches next week, on 16th November 2026. Read the full article on pushsquare.com
-
-### GTA 6 s In-Game Animated TV Series, Macca & Friends, Hints at the Game s Absurd Scope
-Fri, 13 Nov 2026 15:00:00 GMT — https://www.pushsquare.com/news/2026/11/gta-6s-in-game-animated-tv-series-macca-and-friends-hints-at-the-games-absurd-scope
-
-Who needs real TV? I think this might be the one thing about GTA 6 that's really made me aware of the sheer scale of what Rockstar Games is cooking up. Exclusively revealed via DiscussingFilm , an in-game, animated TV series named Macca & Friends has been revealed with the below teaser trailer: Read the full article on pushsquare.com
-
-### Base PS5 s QSSR Enhancer Coming to 6 More Games, in Spider-Man 2 Now
-Fri, 13 Nov 2026 14:45:00 GMT — https://www.pushsquare.com/news/2026/11/base-ps5s-qssr-enhancer-coming-to-6-more-games-in-spider-man-2-now
-
-Control Resonant, Arc Raiders, and more upgraded. Sony has announced it is expanding support for its QSSR graphics enhancer on base PS5 to six more PS5 games in the coming weeks. Through a free update, the feature is live right now in Marvel's Spider-Man 2 . In addition, the following titles will receive support for QSSR soon: Read the full article on pushsquare.com
-
-### Lucky Luke Retro Collection Brings Several Games to the US for the Very First Time
-Fri, 13 Nov 2026 14:00:00 GMT — https://www.pushsquare.com/news/2026/11/lucky-luke-retro-collection-brings-several-games-to-the-us-for-the-very-first-time
-
-Not a long way from home anymore. Atari has announced another retro games collection, and this one marks the United States debut of multiple old school classics. This is Lucky Luke: The Lonesome Cowboy Collection, a compilation of retro titles developed by Graphite Lab and published by Infogrames. It's scheduled for launch on PS5 and PS4 on 13th January, 2027. Read the full article on pushsquare.com
-
-### K-pop Royalty Recruited for PlayStation Korea s Glitzy GTA 6 Ad
-Fri, 13 Nov 2026 13:00:00 GMT — https://www.pushsquare.com/news/2026/11/k-pop-royalty-recruited-for-playstation-koreas-glitzy-gta-6-ad
-
-The wait is over. One thing I always appreciate about PlayStation is its ability to appeal to localised audiences, despite its message being unified globally. The company’s current marketing strategy revolves around GTA 6 , and it’s using the slogan ‘ Plays Best on PS5 ’. But it’s promoting this in a variety of ways around the world. Read the full article on pushsquare.com
 
 ## Game Developer
 
@@ -291,57 +291,77 @@ Firefight, a 4-player PvE mode, is coming to Halo: Campaign Evolved soon… Sour
 
 ## Polygon
 
-### Blood of Dawnwalker Finally Gets Its Most Requested Feature Next Week
-Fri, 13 Nov 2026 20:35:18 GMT — https://www.polygon.com/blood-of-dawnwalker-update-new-game-plus-announced/
+### GTA 6 Release Day: Everything To Know To Be Ready On Day One
+Sat, 14 Nov 2026 11:30:17 GMT — https://www.polygon.com/gta-6-when-does-it-come-out-ps5-pro-crossplay-countdown-preorder-preload/
 
-It's been just over two months since The Blood of Dawnwalker was released and fans have been clamoring for one missing feature for basically that long. Now developer Rebel Wolves is set to appease that demand with the upcoming update 1.2. Yes, New Game Plus is going to be a reality for the vampire RPG.
+Grand Theft Auto 6 is less than a week away, which means there's not much time to prepare for the biggest gaming launch of 2026. Fortunately, we've got some tips on what to expect on day one and how to make sure you get the best experience possible from Rockstar's record-breaking open-world adventure.
 
-### Costco’s New 'Pokémon' 30th Anniversary Online TCG Bundle Is Unbelievable
-Fri, 13 Nov 2026 20:33:43 GMT — https://www.polygon.com/costco-pokemon-30th-anniversary-etb-booster-bundle-stock-price-when-locations/
+### This 3D Pet SIM You Never Played Has Over 12,000 ‘Overwhelmingly Positive’ Reviews
+Sat, 14 Nov 2026 11:00:17 GMT — https://www.polygon.com/wobbledogs-3d-pet-sim-steam-overwhelmingly-positive/
 
-Warehouse retailer Costco is determined to blow its competitors out of the water when it comes to selling Pokémon Trading Card Game products. A couple of months after debuting the best Pokémon deal of 2026 , the members-only retailer is back with another offer that sounds too good to be true. This time, Costco's promotion targets Pokémon collectors hunting for the elusive 30th Anniversary collection . The best part? You won't have to set foot in a Costco store to take advantage of the promotion.
+Have you ever wanted to raise your own genetically mutated pup? Well, there's a Steam game focused on exactly that, and it probably deserves more success than it's managed in the four years since it launched. Wobbledogs , from developer Animal Uprising, is described on Steam as "a 3D pet simulation where you raise your own hive of mutating dogs."
 
-### The Game Awards 2026 Nominees Announcement Confirmed for Nov. 17
-Fri, 13 Nov 2026 20:23:24 GMT — https://www.polygon.com/the-game-awards-2026-nominees-announcement-date/
+### Apple's Sci-Fi Thriller Masterpiece Has One of the Best Seasons in TV History
+Sat, 14 Nov 2026 10:00:18 GMT — https://www.polygon.com/apple-sci-fi-thriller-masterpiece-severance-one-of-the-best-seasons-in-tv-history/
 
-The Game Awards 2026 is approaching, and this year's award nominees are set to be announced on Tuesday, Nov. 17. That's according to host and creator of The Game Awards Geoff Keighley, who announced Friday that 2026's nominees will be revealed during a livestream — that just happens to be coming two days ahead of the year's most anticipated game, Grand Theft Auto 6 .
+In 2022, Apple was three years into its streaming experiment and still trying to find its footing. Aside from Ted Lasso , the tech giant hadn't released any breakout hits. And while a few sci-fi shows like For All Mankind and Foundation had fans, they weren't exactly mainstream success stories. Then everything changed when Apple took a bet on an unknown showrunner (with backing from an A-list actor) to create something revolutionary.
 
-### Every Free Game You Can Keep on Steam, Epic, PlayStation Plus, and Xbox (Nov. 13-19)
-Fri, 13 Nov 2026 20:14:13 GMT — https://www.polygon.com/free-games-right-now-steam-epic-ps-plus-nov-13-19/
+### 20 Years Ago, the Best Sci-Fi Show of the Century Delivered the Most Epic Space Battle in TV History
+Sat, 14 Nov 2026 09:04:18 GMT — https://www.polygon.com/battlestar-galactica-season-3-exodus-20-year-anniversary-adama-maneuver/
 
-Next week the world will stop for many players with the launch of Grand Theft Auto 6 . If you've already preloaded GTA 6 , then you'll be ready to hit "Play" as soon as it becomes available on Nov. 19. In the meantime, you have to find a game that'll keep you busy.
+Two decades later, this spectacle from Battlestar Galactica season 3’s “Exodus, Part 2” remains unforgettable sci-fi TV. It’s dazzling and horrifying, and still one of the coolest things ever broadcast on science-fiction television. From a tactical standpoint, the “Adama Maneuver” is absolutely bonkers and one of the riskiest spaceship tactics, perhaps ever (sorry, Vice-Admiral Holdo). What if the ship had gotten torn apart from ripping through the atmosphere? What if the FTL drive malfunctioned or didn’t activate in time? Somehow, it’s also not even the most visually impressive sequence in the episode.
 
-### Tom Hiddleston's Loki: A Marvel Series Evolution
-Fri, 13 Nov 2026 19:21:43 GMT — https://www.polygon.com/tom-hiddleston-loki-better-with-every-episode/
+### Zelda Fans Who Loved Ocarina of Time Need to Play This Game Next
+Sat, 14 Nov 2026 09:00:17 GMT — https://www.polygon.com/zelda-link-past-retrospective-35-years/
 
-Tom Hiddleston is possibly one of the busiest actors in Hollywood, and has been so for over a decade. 2026 saw him as Ed Hillary in Apple TV's Tenzing , and now he's returning to the stage to star in the Broadway adaptation of Much Ado About Nothing alongside fellow Marvel alum Hayley Atwell. His credits span genres, highlighting his versatility across film and television . However, there is one particular role that has defined Hiddleston's time in Hollywood, and one that fans still love today.
+By now, you’ve probably had time to play The Legend of Zelda: Ocarina of Time remake on the Nintendo Switch 2. You’ve marveled at what a great job it does of bringing the classic Nintendo 64 adventure to a new generation, with visual improvements and quality-of-life changes to make it more palatable for that new audience. Maybe you’ve even run through it a second time.
 
-### Magic Just Revealed 19 New Cards From 2027’s First Set — Including a $30 Reprint With Stunning Art
-Fri, 13 Nov 2026 19:00:18 GMT — https://www.polygon.com/mtg-nauctis-the-sunken-realm-magiccon-reveals-spoilers/
+### Pokémon Go Wild Area 2026 event schedule, habitat spawns, and bonuses
+Sat, 14 Nov 2026 05:15:17 GMT — https://www.polygon.com/pokemon-go-wild-area-2026-global-habitats-schedule-bonuses/
 
-Magic: The Gathering is heading underwater, and we’ve just gotten a closer look at what’s lurking in the depths of a new plane called Nauctis. During Friday’s preview panel at MagicCon : Atlanta, Wizards of the Coast revealed 19 cards from Nauctis: The Sunken Realm (including different art variants), the upcoming set that introduces an ocean plane to Magic ’s Multiverse. Launching on Feb. 5, 2027, the set trades typical fantasy settings like Dominaria or Ikoria for sprawling underwater cities and aquatic creatures, with greater dangers waiting farther below the surface.
+Pokémon Go 's big global Wild Area 2026 event is finally here, running on Nov. 14 and 15 from 10 a.m. until 6 p.m. in your local time . This event features the debut of Gigantamax Duraludon , as well as Dynamax Dialga and Palkia . Safari Balls and mighty Pokémon also make a return from the previous years' Wild Area events, which means you can find some powerful Pokémon roaming about.
 
-### How Queen's Domain's 2-Person Team Remade Elden Ring's Legacy in a Basement
-Fri, 13 Nov 2026 19:00:18 GMT — https://www.polygon.com/queens-domain-fromsoftware-interview/
+### How to get mighty Pokémon in Pokémon Go
+Sat, 14 Nov 2026 05:15:17 GMT — https://www.polygon.com/pokemon-go-guide/483905/mighty-pokemon-list-schedule-moves/
 
-At Final Strike Games, Berger met Bradley Boothe, a technical artist and former software engineer who shared a frustration with what could get done at a traditional studio. Together, they struck out on their own, founding the two-person indie studio Freshly Baked Games and trading the security of industry jobs for the creative freedom — and financial uncertainty — of building something entirely theirs. Many years later, the result was a prototype for a game… that was way too ambitious (but they fully intend to return to). So they went back to a different concept, a stripped-down first-person fantasy inspired by FromSoftware's cult-classic King's Field . That was supposed to take a year to build. Three years later, the game, Queen’s Domain , is an ambitious torrent of weaponry, monster encounters, and Berger’s patented 3D level design, all spread across an low-poly open-world map.
+Mighty Pokémon are particularly strong Pokémon that you can find during the Pokémon Go Wild Area 2026 event on Nov. 14 and 15.
 
-### Magic: The Gathering Animated Series Officially Gets First Trailer
-Fri, 13 Nov 2026 18:43:08 GMT — https://www.polygon.com/magic-the-gathering-animated-series-planeswalker-first-trailer/
+### How to get Go Safari Balls in Pokémon Go
+Sat, 14 Nov 2026 05:15:17 GMT — https://www.polygon.com/pokemon-go-guide/483165/go-safari-balls-how-to-get/
 
-Magic: The Gathering is finally getting a TV show, and publisher Wizards of the Coast just debuted the first official look at the animated series during its MagicCon Atlanta preview panel. While the first half of Wizards' stream focused on next February’s Nauctis: The Sunken Realm set, the second half was targeted at those who “love Magic’s multiverse.”
+You can get Go Safari Balls as part of Pokémon Go Wild Area events, and can only be used during event hours. No, seriously — they disappear after the event ends.
 
-### VisionQuest’s Wild Post-Credits Cameo Almost Didn’t Happen
-Fri, 13 Nov 2026 18:23:23 GMT — https://www.polygon.com/marvel-visionquest-post-credits-scene-cameo/
+### 25 Years Later, Frodo’s Best Lord of the Ring Quote Proves He's the Ultimate Fantasy Hero
+Sat, 14 Nov 2026 05:00:17 GMT — https://www.polygon.com/frodo-best-quote-lord-of-the-rings/
 
-If you haven't already heard about the shocking return of a fan-favorite Avenger at the end of VisionQuest , then you should beware spoilers ahead. For everyone who hasn't been under a rock, the latest Marvel series made waves this week by reviving Wanda Maximoff in a post-credits scene. That bombshell has dominated the conversation around the show's conclusion as it sets up a fascinating conflict in Avengers: Doomsday .
+An inherent tragedy follows every character in The Lord of the Rings , which isn’t surprising, given that Peter Jackson’s epic fantasy trilogy is adapted from the works of J.R.R. Tolkien. The author has never been shy about exploring grim topics, and in a 1968 interview with the BBC , Tolkien said that all stories are about one thing: death.
 
-### All rupee wallet upgrade locations in Zelda Ocarina of Time
-Fri, 13 Nov 2026 18:00:33 GMT — https://www.polygon.com/zelda-ocarina-of-time-remake-oot-rupee-wallet-upgrade-locations/
+### 20 Years Later, A Classic Nintendo DS Puzzle Game Officially Returns
+Sat, 14 Nov 2026 02:25:17 GMT — https://www.polygon.com/professor-layton-nintendo-ds-remake-release-date-2027/
 
-Upgrading the r upee wallet allows you to hold five times the original amount of rupees in The Legend of Zelda: Ocarina of Time remake. As things have gotten a bit pricier Hyrule, you'll need a larger rupee wallet if you want to purchase everything you need, like the abilities given to you by the Great Fairies .
+Next year will mark the 20th anniversary of Level-5's beloved Professor Layton series. To celebrate, the company has announced it is remaking Professor Layton and the Curious Village .
 
 ## PC Gamer
+
+### Indiana Jones and the Great Circle once had a Grand Theft Auto inspired wanted system, because MachineGames was 'afraid' players would kill all the Nazis 'with just guns'
+Sat, 14 Nov 2026 11:26:04 +0000 — https://www.pcgamer.com/games/action/indiana-jones-and-the-great-circle-once-had-a-grand-theft-auto-inspired-wanted-system-because-machinegames-was-afraid-players-would-kill-all-the-nazis-with-just-guns/
+
+Indiana Jones and The Great Circle offered such a great depiction of everyone's favourite Nazi thumping archaeologist that it's hard to imagine developer MachineGames building that game any differently. Yet according to design director Jens Andersson, getting the Indy feel of The Great Circle right represented a significant challenge for the Swedish studio. One of the hardest problems MachineGames struggled with was the presence of guns in the game, specifically how to stop players from just blasting through armies of Nazis without making guns less fun to use. Speaking to FRVR , Andersson explained that having satisfying firearms in The Great Circle was "non-negotiable" as "we have a lot of people at Machine[Games] that love guns". Since MachineGames wanted The Great Circle to be true to Spielberg's films, they needed guns to be a part of Indy's toolset and not the default response to every problem. One partial solution was to make reloading slow, encouraging players to use other tools like Indy's whip or his fists, but this alone wasn't enough. "We had so many designs to try and get around that," Andersson continued. "For example, a GTA star level system when you shoot someone and reinforcements [start] coming in." The thinking here seems to have been to discourage players from going overboard with using loud weapons. "Because we were so afraid that this would be the default thing that the player would do. They take down a guy, they see a gun on the floor, and they clear the
+
+### Yes, some brave games are still launching on Steam during GTA 6 week
+Fri, 13 Nov 2026 22:28:10 +0000 — https://www.pcgamer.com/games/yes-some-brave-games-are-still-launching-on-steam-during-gta-6-launch-week/
+
+Though it might seem hard to believe given its inescapability, not everyone is going to be playing GTA 6 next week. Some might be waiting for its eventual PC release (whenever that ends up being). Others might simply be unwilling to spend over a thousand dollars on a console just to enjoy the privilege. Most publishers and developers releasing a videogame this season, however, have opted to vacate the GTA 6 blast radius—but not all of them. If you're looking for something new to play next week, you'll be pleased to know there are some brave games still launching on Steam. Here are some options to consider if you aren't dropping into Vice City: Crusader Kings 3: Silk and Silver (Image credit: Paradox) If you're a CK3 player—and you should be; it's number eight on our Top 100 list for a reason—then Paradox's next expansion should be on your radar. While everyone else is focused on Grand Theft Auto, you could be engaging in the grandest theft of all: Commerce. Silk and Silver is all about mercantilism: Merchant families can jockey for trade route monopolies and use their wealth to lobby for influence, while new Republic governments offer patrician dynasties a venue to vie for dominance in the constitutional Assembly—potentially forming commercial or military pacts with other Republics. It's also got a lot of Italian content in it. Everyone loves Italian content. Crusader Kings 3: Silk and Silver launches on November 17. Spirit Crossing (Image credit: Spry Fox) Among the cozier o
+
+### Don't like AI in games? Crimson Desert studio Pearl Abyss ain't care: it's expanding AI use 'throughout our entire development pipeline'
+Fri, 13 Nov 2026 22:17:06 +0000 — https://www.pcgamer.com/software/ai/dont-like-ai-in-games-crimson-desert-studio-pearl-abyss-aint-care-its-expanding-ai-use-throughout-our-entire-development-pipeline/
+
+Earlier this year, Pearl Abyss apologized for the presence of AI-generated art in Crimson Desert—not because it had used generative AI, mind, but because players saw it. And it seems like the odds we might see more of it in the future are going up, as the studio said in its Q3 2026 earnings letter (via Eurogamer ) that it will be going even deeper on AI-powered development in the future. The first reference to AI comes midway through the letter: "While we previously validated game systems only after implementing them manually, we now utilize AI to rapidly validate diverse design concepts prior to actual implementation," it states. "This enables a more efficient allocation of development resources and enhances overall production speed." The studio immediately clarified, though, that AI "serves strictly as a tool to support concept validation and pipeline productivity," and that gameplay and content development "remain fully driven by our development team." The future will see more of the same, with the same caveats. "We are integrating AI technologies to enhance development productivity and overall quality," Pearl Abyss writes. "AI is being utilized across various stages of development—including the automation of repetitive tasks, content creation support, and test optimization—and we are expanding its implementation throughout our entire development pipeline. "We view AI not as a substitute for human developers, but as a tool to elevate development efficiency and quality. We 
+
+### A survival game we once called 'Stalker and Tarkov's alien baby' is closing down less than a year after launch
+Fri, 13 Nov 2026 20:37:35 +0000 — https://www.pcgamer.com/games/fps/a-survival-game-we-once-called-stalker-and-tarkovs-alien-baby-is-closing-down-less-than-a-year-after-launch/
+
+Pioner, a survival-shooter we said looked like " Stalker and Tarkov's alien baby " when we first laid eyes on it in 2021, is ending development and closing down. In an announcement posted today on Steam, developer GFAGames said further work on the game and continued operation of its servers requires more money, and it just doesn't have any. "Over the past few months, we have been in talks with existing and potential partners about investment and new ways of working together that would allow us to preserve the project and the team," the studio wrote. "We were unable to agree on the funding needed to continue the project. The studio no longer has sufficient funds of its own to continue development and keep the servers running." Pioner looked promising when it turned up at the PC Gaming Show in 2021: A mash-up of Stalker, Metro, and Escape From Tarkov that featured both a singleplayer campaign and online co-op and PvP survival action, all of it built around late Soviet-era technology. It launched into early access in December 2025 and worked its way to a peak concurrent player count of 1,686 on Steam a few months later—not huge, but far from catastrophic, and trending in the right direction. Those numbers tailed off badly over the summer, though, as the dev team struggled with technical issues and updates came at a much slower pace than promised. August saw player counts collapse almost completely, and by mid-September only a couple dozen people were still playing. Numerous repl
 
 ### Microsoft ‘deeply’ apologizes for global service outage, says no AI or hackers are to blame
 Fri, 13 Nov 2026 19:54:20 +0000 — https://www.pcgamer.com/software/microsoft-deeply-apologizes-for-global-service-outage-says-no-ai-or-hackers-are-to-blame/
@@ -383,27 +403,17 @@ Fri, 13 Nov 2026 16:28:30 +0000 — https://www.pcgamer.com/games/third-person-s
 
 Skin distribution seems to be an issue in pretty much any game with more than one hero and clear favourites. Marvel Rivals has come under fire for it for a while now, ever since players got wise to which heroes were favourites and which had clearly been shoved to the side. It all came to a head a few months ago when the summer skins were released, and it was revealed that Storm was the only female hero to not get a legendary costume among all the swimsuit designs. Players did not look upon this favourably , as Storm is a hugely popular character and had already gone a long time without the same kind of legendary skins as other heroes like Luna Snow and had been passed over for skins in the Disco and Egyptian God skin lines. (Image credit: NetEase) But all the player complaints seem to have gotten through to NetEase, with creative director Guangyun Chen acknowledging in a dev diary that "season 10 has been a challenging one for us." Not only were players upset about only one hero being released this season, but the devs have "been closely following the community's feedback regarding certain heroes receiving fewer costumes. With strong demands for more high-quality Legendary costumes featuring recolours and ultimate ability visual upgrades." The decision has since been made to upgrade Storm's summer skin to legendary tier with the devs "targeting a release around Christmas this December" for it. Other slightly forgotten heroes who will be getting some visual upgrades include Hu
 
-### Chipmaking giant TSMC discovers major employee data leak—reports say info was up for sale for three bitcoin on shady forums
-Fri, 13 Nov 2026 15:48:14 +0000 — https://www.pcgamer.com/hardware/chipmaking-giant-tsmc-discovers-major-employee-data-leak-reports-say-info-was-up-for-sale-for-three-bitcoin-on-shady-forums/
-
-TSMC, the juggernaut that produces roughly 90% of the world's most advanced chips, has discovered a data leak said to contain over 46,000 employee records, according to Seeking Alpha . The company made a Form 6-K filing with the US Securities and Exchange Commission on Thursday, stating: "TSMC has found that some of our current and former employee data was made available on an external website without authorization. Currently, we have found no evidence that TSMC’s systems have been compromised." The company says the info has been verified to match data "stored in the system services of a cloud service provider," although said provider is not named. TSMC says it has informed those impacted by the breach and is providing support, and has also engaged with the cloud service vendor, investigating authorities, and a third-party cybersecurity agency to "ascertain the facts and take necessary actions." Taiwanese outlet United Daily News reports that hackers were allegedly offering the employee records on an underground forum for the princely sum of three bitcoin, in exchange for 6.9 GB worth of private data. The outlet also says that, "according to information online" (via machine translation), hackers were also selling what appears to be TSMC employee data on other forums, releasing a small sample which is said to contain a vast array of personal details, including national ID numbers, addresses, and banking information. (Image credit: TSMC) TSMC has confirmed in its statement that
-
-### Intel takes massive chunk out of AMD's desktop CPU market share in unexpected turnaround - may be due to the red team's dominance in gaming chips, weirdly
-Fri, 13 Nov 2026 15:23:48 +0000 — https://www.pcgamer.com/hardware/processors/intel-takes-massive-chunk-out-of-amds-desktop-cpu-market-share-in-unexpected-turnaround-may-be-due-to-the-red-teams-dominance-in-gaming-chips-weirdly/
-
-Intel appears to have gained market share from AMD in a rare turnaround for the company. The red team's chips have been in the lead in performance and popularity for many years now, and frankly, they still are. That's what weird about this one: AMD may have lost ground because it makes the best CPUs for gaming . The latest Q3, 2026 data from market researchers Mercury Research suggests an increase in market share for desktop CPUs of 5.1%. Now, considering AMD has fought tooth and nail for a decade to increase its share to around 35% as of Q2, 2026, dropping down to just 29.9% in the following three months marks a gargantuan lurch back towards Intel. Our pick for the best gaming CPU is the AMD Ryzen 7 9800X3D , and many other AMD chips make up our recommendations. While we do recommend the Intel Core Ultra 5 250K Plus due to its surprisingly low price tag and plenty of cores, I wouldn't go as far as believing any Arrow Lake chip has been key to turning around Intel's fortunes among gamers. The architecture struggles to keep up with AMD's latest in gaming, and it is built on a dead-end platform—Nova Lake chips are expected soon on a different motherboard socket. The increase in market share is almost too big to be believed, which is certainly one theory as to what's going on. A rounding error or errant data—though Mercury Research have been pretty locked in in the past. Both Intel and AMD cite their numbers when it makes them look good. (Image credit: Mercury Research) Mercury 
-
-### Reddit tells me it’s not going to make a penny in affiliates from Reddit Reviews and is working hard to avoid inauthentic content
-Fri, 13 Nov 2026 15:05:54 +0000 — https://www.pcgamer.com/software/reddit-tells-me-its-not-going-to-make-a-penny-in-affiliates-from-reddit-reviews-and-is-working-hard-to-avoid-inauthentic-content/
-
-A couple of days ago I reported that Reddit is rolling out reviews for different products, informed by Redditors' thoughts and molded by AI into into dedicated review pages for these products. Given Reddit says "many reviews also include images, prices, and purchase links", I wondered whether Reddit would be making any affiliate money from this. Well, I now have an answer: the company tells us it will not receive a cut. In an email sent to me, a Reddit rep explains: "Reddit Reviews is an organic experience, and Reddit does not receive a cut of any purchases made through the buy it now button on product pages." Not that I would have had a massive problem with this—PC Gamer earns affiliate revenue itself—but I suppose it's good to know there won't be a financial incentive there at least in that respect. And it does at least tie in with the aimed "organic" nature of Reddit in general. I was also concerned that users might review-bomb products they don't like, or that companies could use bots to positively influence reviews for their own products. Reddit reassures us about that, too: "Platform-wide, we are taking numerous steps to prevent and enforce against inauthentic content." (Image credit: Reddit) Some of these steps include: (Platform-wide) A layered approach involving moderators, the safety team, and user downvoting. (Platform-wide) Improvements to automated tools. (Reddit Reviews) LLMs trained to identify comments that describe personal experiences with a product. (Reddit
-
-### 'Clear national security concerns that need to be addressed immediately': new letters to Jensen Huang from Congress strike a tougher tone for the ex-Nvidia CEO
-Fri, 13 Nov 2026 13:09:17 +0000 — https://www.pcgamer.com/hardware/graphics-cards/clear-national-security-concerns-that-need-to-be-addressed-immediately-new-letters-to-jensen-huang-from-congress-strike-a-tougher-tone-for-the-ex-nvidia-ceo/
-
-Ex-Nvidia CEO and co-founder Jensen Huang has again been summoned to United States Congress to speak with lawmakers. On the agenda are national security issues that may have arisen from his, and his company's, relationship with MegaSpeed, a Singaporean-registered company at the centre of a debate about China's access to high-performance GPUs; possible interference with US export control investigations; and chip smuggling. “As reports continue to come to light regarding Jensen Huang, Nvidia, and Megaspeed, there are clear national security concerns that need to be addressed immediately,” US committee chairmen Mast, Moolenaar, and Crawford say about the letters summoning Huang, Nvidia's General Counsel Tim Teter, and Under Secretary of Commerce Jeffrey Kessler to Congress. “We need to know the full extent to which our national security has been put at risk," the chairmen say. This meetings are to take place with the House Committee on Foreign Affairs, House Select Committee on the CCP, and House Permanent Select Committee on Intelligence. Huang and Teter's meetings are described as 'closed-door transcribed interviews', taking place on December 1 and December 2, respectively. Both parties are threatened with subpoena to force their attendance if they do not comply with the request. Under Secretary Kessler's invitation is described as a "hearing" and is much more amicable. It's a marked change in tone for Huang compared to a letter sent by the chairmen prior to his resignation fr
-
 ## GameSpot
+
+### Physical GTA 6 Copies Might Be Vulnerable To A Very Stupid But Serious Trick
+Fri, 13 Nov 2026 21:03:51 +0000 — https://www.gamespot.com/articles/physical-gta-6-copies-might-be-vulnerable-to-a-very-stupid-but-serious-trick/
+
+Grand Theft Auto 6 ditched traditional discs for its "physical" launch, with Rockstar's game being sold as a digital code-in-box at retailers beginning this week. However, it appears a packaging choice may have accidentally left the game vulnerable to thieves--assuming they have a flashlight. As shared on the forum ResetEra , users who received a physical version of Grand Theft Auto 6, at least in PEGI regions, report that the game's download code is printed directly on the inside of the cover rather than on a card or separate insert. When a flashlight is focused on the cover from the outside of the closed game case, the download code is visible in reverse. https://www.youtube.com/watch?v=F7LIovDySBg&t=33s In other words, there's a serious risk people could go into a store, do this trick, redeem the code, and leave the poor soul who actually buys the game off the shelf without GTA 6. At this time, the trick does not seem to work on North American copies of GTA 6, as the code is intentionally obscured. Why Rockstar would not use this strategy on all regions is unclear. We've reached out to Rockstar for an explanation and will update this post if and when we receive a response. If you happen to get your GTA 6 code stolen after paying $80 , you can at least sleep soundly knowing that the thief can't play the game yet. Code-in-box copies, as well as digital preorders, all unlock for PS5 and Xbox Series X|S on November 19.
+
+### GTA 6 Owner Take-Two Is Not Interested In Selling Itself After EA Goes Private For $55 Billion
+Fri, 13 Nov 2026 21:02:34 +0000 — https://www.gamespot.com/articles/gta-6-owner-take-two-is-not-interested-in-selling-itself-after-ea-goes-private-for-55-billion/
+
+Recently, the gaming giant Electronic Arts was taken private in a $55 billion sale to an investor consortium led by Saudi Arabia's Public Investment Fund. Could GTA 6 owner Take-Two be the next big company that gets acquired? Don't bet on it, CEO Strauss Zelnick says. Speaking to David Rubenstein , Zelnick said Take-Two's business results have proven that it "can do very well as an independent company." He said Take-Two's business is already "at scale" and healthy enough financially with a "terrific balance sheet," as he put it. "We are not in a place where we need to be part of a bigger organization to be competitive. And in the entertainment business, scale matters," he said. Zelnick said companies that do less than a billion in annual revenue might have issues with developing, marketing, and distributing games at scale. Not only that, but companies that don't generate a lot of money might not be able to survive the realities of the creative business, in which sometimes your product flops. "But once you're over a billion dollars in annual revenue, and we're way beyond that point. Our guidance is $8 billion to $8.2 billion this fiscal year, additional scale doesn't seem to help you succeed." https://www.youtube.com/watch?v=TsYSPTfFQWg In early 2008, Electronic Arts privately pursued a buyout of Take-Two, but after the GTA and BioShock company rejected it, EA went public in an attempt to get a deal done. Later that year, EA abandoned its plans to try to buy Take-Two after the
 
 ### GTA 6 Could Sell 55 Million Copies By Early Next Year, Report Says, And Average Selling Price Could Be $90
 Fri, 13 Nov 2026 19:36:04 +0000 — https://www.gamespot.com/articles/gta-6-could-sell-55-million-copies-by-early-next-year-report-says-and-average-selling-price-could-be-90/
@@ -455,17 +465,12 @@ Fri, 13 Nov 2026 11:52:29 +0000 — https://www.gamespot.com/articles/you-guys-a
 
 Saying Overwatch 2 has had a rocky road since its 2019 reveal would be an understatement, and former Overwatch director Jeff Kaplan isn't a fan of how the game was first announced. Speaking to Gaming World Interviews , Kaplan didn't mince words about the BlizzCon 2019 opening ceremony, where Overwatch 2 was shown for the first time, as Blizzard promised numerous features it either walked back or didn't deliver. Kaplan said that from 2018 until his departure, he experienced constant friction with Blizzard's executive leadership over game direction, scheduling, and core game mechanics. This led him to confront leadership about the lack of a clear vision or business model for Overwatch 2, and to question the wisdom of announcing Overwatch 2 at the same time as Diablo 4. https://youtu.be/98HNSuXHtys "I got in a huge fight with, at the time, it wasn't Mike [Morhaime]. I loved Mike, who was the president of Blizzard, and another president of Blizzard, my executive producer, over announcing Overwatch 2. I went into their office, I’m like, 'What are we doing? We don’t really know what this game is; we don’t know what the business model is. This is a huge mistake.'" According to Kaplan, the new executives "had a lot to prove" when they joined Blizzard. "They wanted to prove that 'Blizzard's back and Blizzard still has it.' And I'm like, 'You guys are f***ing idiots,' you know? I don’t know how else to put it, but after three years of just getting worn down and not agreeing with any of
 
-### Fable Is Looking A Lot Darker Than We Expected
-Fri, 13 Nov 2026 11:00:58 +0000 — https://www.gamespot.com/articles/fable-is-looking-a-lot-darker-than-we-expected/
-
-Amid a modest 25th-anniversary celebration , Xbox dropped a new preview of the Fable reboot. This snippet — which runs for under four minutes — offers plenty of gameplay and a closer look at some of the ghoulish enemies you'll face, set in a slice of Albion that looks surprisingly grim compared to the lighthearted Fable teasers that came before it. "The Hero of Briar Hill has entered the depths of Deepwood alongside Arden, a local Hero, to investigate why strange magical happenings have been troubling the people of Oakshire," the video synopsis reads. "Here, they cross a threshold where the natural magic of Deepwood appears corrupted by an outside force, and they discover hints as to who or what could be responsible." https://www.youtube.com/watch?v=iEZUY04k3eQ One thing to note about this snippet of gameplay is that it's pulled from the PC build of Fable, with the settings cranked up to Ultra. It's a pretty good-looking glimpse of what you can expect from Fable next year, even if it feels different from its cheekier predecessors and more like a feudal action slice reminiscent of Control Resonant toward the end, with its red-hued aesthetic. Of course, four minutes of Fable doesn't tell the whole story, and with the main campaign alone estimated to take 20 hours to finish , that doom-and-gloom feeling probably won't be present throughout the entire game. Fable launches February 23, 2027, for Xbox Series X|S, PS5, and PC, with Playground Games primarily handling development. Tu
-
-### Wolfenstein 3 Is Officially In Production At MachineGames
-Fri, 13 Nov 2026 09:50:39 +0000 — https://www.gamespot.com/articles/wolfenstein-3-is-officially-in-production-at-machinegames/
-
-The long-rumored Wolfenstein 3 has been officially confirmed to be in development at MachineGames. The news follows many hints and rumors of a third game in MachineGames' planned Wolfenstein trilogy, the franchise's first new entry since Wolfenstein: Youngblood in 2019 and its first mainline title since 2017. Xbox CEO Asha Shar posted the announcement as part of Xbox's 25th anniversary celebrations, and Bethesda also shared the news in its own post. https://bsky.app/profile/bethesda.net/post/3n25q3afshc2v In a move borrowed from the film industry, the game announcement was accompanied by a look at Wolfenstein 3's script, showing that protagonist B.J. Blazkowicz is back and more fearsome than ever. Bethesda also shared a photo from a mocap session, confirming that actors Brian Bloom and Debra Wilson will return to reprise their roles as B.J. and Grace Walker, respectively. MachineGames has said that it always planned for a trilogy of Wolfenstein games featuring B.J., meaning Wolfenstein 3 will continue the story that started with The New Order in 2014. MachineGames, alongside Bethesda, has also released three Wolfenstein spin-offs: the prequel The Old Blood in 2015, 2019's Youngblood, which featured B.J.'s twin daughters as protagonists, and the VR experience Cyberpilot, also released in 2019. The studio took a break from the Wolfenstein franchise to develop 2024's critically acclaimed Indiana Jones and the Great Circle. We don't have any more details on Wolfenstein 3 at prese
-
 ## Rock Paper Shotgun
+
+### What are we all playing this weekend?
+Sat, 14 Nov 2026 08:00:00 +0000 — https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-408
+
+Ah, yes, Saturday. Traditionally a day for relaxing. Why is it then I'm packing, doing last-minute shopping, and going to a wedding all in the space of eight hours? Because, Julian, you are a fool who, as ever, has left everything far too late. What about the team, though. I imagine they've managed their time much better. Read more
 
 ### Cyberpunk trading sim Probably Stolen is getting three big updates with new starting scenarios - organ trading, junk empires and fine dining
 Fri, 13 Nov 2026 17:30:00 +0000 — https://www.rockpapershotgun.com/cyberpunk-trading-sim-probably-stolen-is-getting-three-big-updates-with-new-starting-scenarios-organ-trading-junk-empires-and-fine-dining
@@ -521,9 +526,4 @@ I often find it quite dull that the main takeaway far too many people have taken
 Thu, 12 Nov 2026 19:57:00 +0000 — https://www.rockpapershotgun.com/barbie-rewind-out-now-invites-you-to-take-a-trip-down-memory-lane-with-a-whole-bunch-of-life-in-plastic-classics-and-one-game-that-was-previously-unreleased
 
 Is there a character not originally from a video game that has more games than Barbie? Maybe! I don't want to do any maths right now, but there aren't many that could touch her on sheer numbers. She's had all sorts of digital adventures, her games having a huge influence on the world of 'girl games'. As complicatedly gendered that may now be, the significance can't be understated, and as of today you can have a romp through a nice portion of that history in Barbie Rewind, a compilation of almost two decades worth of games all wrapped up in a nice little decorating game. Read more
-
-### Warhammer 40,000: Darktide's next class is the Sisters Novitiate, a group who love staking and burning people for the God-Emperor, and its out next month
-Thu, 12 Nov 2026 18:10:00 +0000 — https://www.rockpapershotgun.com/warhammer-40000-darktides-next-class-is-the-sisters-novitiate-a-group-who-love-staking-and-burning-people-for-the-god-emperor-and-its-out-next-month
-
-Look at you, you lucky devil, you're being treated to a new Warhammer 40,000: Darktide class next month! This class is called the Sisters Novitiate, a group of wonderfully violent women with a penchant for crossbows, burning people alive and putting a stop to anyone that dares to oppose the God-Emperor. Neato! Read more
 

@@ -1,172 +1,177 @@
-# Film & TV — harvested 2026-11-13T20:38:59.686Z
+# Film & TV — harvested 2026-11-14T11:45:09.025Z
 
 ## Variety
 
-### Top Limited Series Writers on the Importance of Episode Titles and Adapting Well-Known Films and True Stories: You Come Out With Something Familiar and Surprising
-Fri, 13 Nov 2026 20:10:23 +0000 — https://variety.com/2026/tv/news/limited-series-night-in-the-writers-room-2-1236947182/
+### Hen Review: A Resilient Chicken Flies the Coop, Over and Over, in an Unexpectedly Stirring Survival Story
+Sat, 14 Nov 2026 11:13:41 +0000 — https://variety.com/2026/film/news/hen-review-1236947197/
 
-The writers and creators behind some of television’s most popular limited series joined Variety’s A Night in the Writers Room to discuss their creative processes behind adapting stories for television. Moderated by Variety’s senior artisans editor Jazz Tangcay, the limited series panel featured Nick Antosca of Cape Fear, Silka Luisa of Blade Runner 2099 and [ ]
+Why did the chicken cross the road? In Hen, the answer is, as ever, to get to the other side. But the stakes are a little higher and more urgent than that in György Pálfi unassuming marvel of a creature feature: When its gallinaceous protagonist is forced across a busy highway, it s because a hungry [ ]
 
-### Hold Onto Me Director Myrsini Aristidou Kicks Off Historic Oscar Campaign for Sundance Audience Award Winner: I Really Feel Like We re Underdogs
-Fri, 13 Nov 2026 19:36:50 +0000 — https://variety.com/2026/film/global/hold-onto-me-myrsini-aristidou-oscar-campaign-sundance-1236945016/
+### Spain’s FICX Gijón Festival Bets Big on International, Regional and Local Talent
+Sat, 14 Nov 2026 11:03:41 +0000 — https://variety.com/2026/film/global/gijon-festival-ficx-i-play-rocky-gregg-araki-1236946467/
 
-It’s been a whirlwind year for Cypriot filmmaker Myrsini Aristidou, whose 2026 started with a triumphant trip to Park City, where her debut feature, “Hold Onto Me,” won the audience prize in the World Cinema Dramatic competition at Sundance. Then, in September, the film made history when it was tapped to represent Cyprus in the [ ]
+GIJÓN, Spain — Taking place in northern Spain under two monhs after the San Sebastián International Film Festival and linked to it by the Cross Roads initiative, the 64th Gijón International Film Festival (FICX) lineup stacks many of the year’s most talked-about features from international festivals such as Cannes, Berlin, Venice and Sundance. At the [ ]
 
-### Netflix’s ‘Magic the Gathering’ Animated Series Drops First Look at ‘Planeswalker,’ Set for 2027
-Fri, 13 Nov 2026 19:12:44 +0000 — https://variety.com/2026/tv/news/netflix-magic-the-gathering-series-planeswalker-first-look-1236947203/
+### European Film Award Nominations: Fatherland Reigns Over Contest, Followed by La Bola Negra
+Sat, 14 Nov 2026 10:28:31 +0000 — https://variety.com/2026/film/news/fatherland-la-bola-negra-european-film-awards-nominations-1236947619/
 
-Netflix has unveiled the first-look image from its upcoming animated series based on Magic the Gathering. The series, titled Planeswalker, is set to debut in 2027, with an exact release date to be announced later. The official description of the series states: Planeswalker, an epic fantasy saga from the world of Magic: The Gathering, chronicles [ ]
+Paweł Pawlikowski’s “Fatherland,” which centers on the relationship between the writer Thomas Mann and his daughter Erika, leads the contest for the 39th European Film Awards, followed close behind by Javier Calvo and Javier Ambrossi’s “La Bola Negra.” “Fatherland” has 11 EFA nominations, while “La Bola Negra,” a triptych about the history of gay men’s [ ]
 
-### Margot Robbie to Star in A24 s The Week of Pain From The Drama Director Kristoffer Borgli
-Fri, 13 Nov 2026 19:05:59 +0000 — https://variety.com/2026/film/news/margot-robbie-a24-the-week-of-pain-kristoffer-borgli-1236947188/
+### Amid Flight Stop, Ari Emanuel Slams Pete Buttigieg for Making Zero Progress Modernizing FAA: You Left a Failing System in Place
+Sat, 14 Nov 2026 03:02:51 +0000 — https://variety.com/2026/politics/news/ari-emanuel-slams-pete-buttigieg-zero-progress-faa-1236947542/
 
-Margot Robbie will star in A24 and Square Peg s The Week of Pain from The Drama writer-director Kristoffer Borgli, Variety has confirmed. A24 is set to produce and finance the project. Ari Aster and Lars Knudsen s Square Peg banner will also produce alongside Dilemma Films and Robbie s LuckyChap. Plot details for The Week of Pain [ ]
+As the nation s air traffic ground to a halt Friday afternoon amid an FAA ground stop, Ari Emanuel had strong words for former transportation secretary Pete Buttigieg. The WME executive chairman posted on X, No one’s hands are clean here. However, Mr. Secretary Buttigieg, you had four years in the job and infrastructure money, yet [ ]
 
-### Nearly 80% of Surveyed ACE Editors Are Using AI, New Data Finds: ‘You Adapt or Die’
-Fri, 13 Nov 2026 19:02:06 +0000 — https://variety.com/2026/biz/news/surveyed-ace-editors-using-ai-avid-data-finds-1236947004/
+### Michael Mann Seeks to Reclaim Rights to Original Heat Screenplay
+Sat, 14 Nov 2026 02:51:07 +0000 — https://variety.com/2026/film/news/michael-mann-new-regency-heat-screenplay-lawsuit-1236947532/
 
-There are many whispers throughout Hollywood about how many professionals are secretly using AI tools. But a cohort of film editors are ready to go public. In a survey of 120 members of the 1,200-body American Cinema Editors conducted by Avid, the tech company behind editing software stalwarts like Media Composer and Pro Tools, 77.5% [ ]
+Michael Mann, who is set to begin shooting the long-awaited Heat 2 in January, is in a legal dispute with New Regency as he seeks to reclaim the copyright to his screenplay for the original film. New Regency produced Heat, released in 1995. The company filed a lawsuit on Friday arguing that it still owns [ ]
 
-### TV Academy Cancels Televerse for 2027 Emmy Season; Festival Will Return in Early 2028
-Fri, 13 Nov 2026 18:15:51 +0000 — https://variety.com/2026/tv/news/tv-academy-cancels-televerse-2027-emmy-season-return-2028-1236947153/
+### AFM Dealmakers, Talent Agents and Hollywood Stars Left Stranded by Nationwide Flight Stoppage
+Sat, 14 Nov 2026 01:38:17 +0000 — https://variety.com/2026/film/news/agents-stars-stranded-flight-stoppage-afm-governors-awards-1236947477/
 
-Televerse is taking a telebreak. The Television Academy’s TV festival, which launched in 2025 and continued this year, won’t be back in 2027 — and will move to earlier in the year when it returns in 2028, the org announced Friday. That now places Televerse at the start of the Emmy FYC season, as opposed [ ]
+The Federal Aviation Administration issued a halt on all U.S. flights on Friday at around 1 p.m. PT and didn t lift the order until approximately four hours later. With the American Film Market, the Governors Awards and numerous FYC panels scheduled over the next several days, the stoppage left many Hollywood insiders grounded on one [ ]
 
-### Sunset P.I. Sets NBC Release Date, Jake Johnson Comedy Series Drops New First-Look Photos
-Fri, 13 Nov 2026 18:00:00 +0000 — https://variety.com/2026/tv/news/sunset-p-i-nbc-release-date-jake-johnson-1236947108/
+### Kamal Khera Named New Canadian Consul General In Los Angeles, Will Meet With Studios
+Sat, 14 Nov 2026 01:24:58 +0000 — https://variety.com/2026/biz/news/kamal-khera-canadian-consul-general-los-angeles-1236947219/
 
-NBC has set the premiere date for its new comedy series Sunset P.I. The single-camera comedy will debut Monday, Feb. 8 at 8:30 pm ET/PT. Episodes will be available to stream the next day on Peacock. NBC has also released new first-look images from the series, which can be seen below. The series stars Jake [ ]
+Canadian Prime Minister Mark Carney has appointed a new Consul General in Los Angeles, who says she hopes to inspire a renewed sense of unity between Canada and the U.S. The Honourable Kamal Khera was introduced as Canada’s Consul General in Los Angeles on Thursday night at a reception at Canada House, the Consul General s [ ]
 
-### Pluribus Promotes Samba Schutte to Series Regular for Season 2
-Fri, 13 Nov 2026 18:00:00 +0000 — https://variety.com/2026/tv/news/pluribus-season-2-samba-schutte-series-regular-1236947123/
+### Jason Voorhees Makes His Animated Debut in New ‘Never Hike Alone’ Short
+Fri, 13 Nov 2026 23:45:40 +0000 — https://variety.com/2026/digital/news/jason-voorhees-animated-debut-hike-alone-short-1236947225/
 
-Samba Schutte has been upped to series regular status for Pluribus Season 2, Variety has learned. Schutte is known for playing Mr. Diabaté in Season 1 as a guest star. Like Rhea Seehorn s Carol, the character is immune to the outbreak and lives a hedonistic lifestyle. Schutte is also known for starring in the HBO [ ]
+More than 46 years after his big-screen debut in the slasher classic “Friday the 13th,” hulking horror icon Jason Voorhees is about to prove that his machete cuts just as deep in animation. The hockey-masked killer returns in “Never Hike Alone: Ghosts in the Fog,” a new 10-minute animated film from independent production company Womp [ ]
 
-### The Game Awards to Reveal 2026 Nominees Next Week Ahead of ‘GTA 6’ Debut, PlayStation 5 Joins Livestreamers for December Show (EXCLUSIVE)
-Fri, 13 Nov 2026 18:00:00 +0000 — https://variety.com/2026/awards/news/game-awards-nominees-special-ps5-livestream-winners-1236946910/
+### Amid Flight Halt, Trump Meets With Jon Voight to Talk U.S. Film Incentive: Get This Done!
+Fri, 13 Nov 2026 23:28:40 +0000 — https://variety.com/2026/film/news/trump-hasnt-commented-flight-shutdown-promoting-film-incentive-1236947426/
 
-The Game Awards will unveil its 2026 nominees during a live special next week just two days before Rockstar Games launches Grand Theft Auto 6, which is overwhelmingly considered to be the show s top Game of the Year contender. In a live nomination special airing Tuesday, Nov. 17 at 12 p.m. ET/9 a.m. PT on [ ]
+As flights across the U.S. came to a halt Friday amid a rare nationwide ground stop, President Donald Trump was in a meeting with actor Jon Voight to talk about jumpstarting support for a federal film incentive. Voight and his team, Steven Paul and Scott Karol, were at the White House to urge the president [ ]
 
-### Microsoft Apologizes for Massive Outlook Outage, Affected Customers Can Request Credits for Service Interruption
-Fri, 13 Nov 2026 17:59:03 +0000 — https://variety.com/2026/digital/news/microsoft-apologizes-outlook-outage-customer-credits-1236947124/
+### Seth Rogen on ‘The Invite,’ ‘Tangles,’ ‘The Studio’ Season 2, Reviving ‘Darkwing Duck’ and Why ‘Any A hole Can Write That Joke’ Was the Best Advice He Ever Got
+Fri, 13 Nov 2026 23:16:01 +0000 — https://variety.com/2026/film/awards/seth-rogen-the-invite-tangles-the-studio-season-2-1236946538/
 
-Microsoft issued an apology Friday for a worldwide outage of its email servers that left millions of Outlook users without access to their mailboxes starting Thursday in some cases for more than 18 hours. We are deeply sorry for the disruption this incident has caused our customers and partners. We know the trust they place [ ]
+For years, people have told me that Seth Rogen and I are voice twins. Sitting across from him at the Middleburg Film Festival, deep in Virginia horse country, even Jeremy, the person recording our conversation, can confirm that the resemblance is very close. Even so, the year Rogen is having belongs entirely to him. Coming [ ]
 
 ## The Hollywood Reporter
 
-### Gerry Griffith, Music Executive Who Discovered Whitney Houston, Dies at 87
-Fri, 13 Nov 2026 20:34:37 +0000 — https://www.hollywoodreporter.com/music/music-news/gerry-griffith-dead-whitney-houston-discovered-1236754931/
+### Fatherland, La Bola Negra, Fjord Lead European Film Award Nominations
+Sat, 14 Nov 2026 10:30:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/fatherland-la-bola-negra-european-film-award-nominations-1236754942/
 
-Serving as the vice president of A R at Arista Records, Griffith brought Houston to Clive Davis and worked with stars like Aretha Franklin and Santana.
+Sandra Hüller scored a dual best actress nom for 'Fatherland' and 'Rose,' with Renate Reinsve, Sebastian Stan, Penelope Cruz, Javier Bardem and Andrew Scott among the acting nominees.
 
-### Cunk on Cinema Review: Michael Bay and Benedict Cumberbatch Join Diane Morgan s Documentary Presenter for Her Latest Laugh-Filled Netflix Series
-Fri, 13 Nov 2026 20:31:40 +0000 — https://www.hollywoodreporter.com/tv/tv-reviews/cunk-on-cinema-review-philomena-cunk-diane-morgan-netflix-1236752328/
+### Modern Fairy Tale Mo Amor Explores Identity, Transformation and Love in All Its Forms
+Sat, 14 Nov 2026 06:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/trans-fairy-tale-mo-amor-explores-love-tallinn-2026-estonia-1236753723/
 
-From silent film to modern AI-driven projects, Charlie Brooker and Philomena Cunk offer a six-episode history of Hollywood and its output.
+Estonian director Eeva Mägi is back at the Tallinn Black Nights Film Fest with her tender new film about a photographer, Princess Niina and her three suitors: The Mentor, The Writer and The Stonemason.
 
-### Aaron Pierre Starrer Fairytale in New York Lands at Netflix
-Fri, 13 Nov 2026 20:22:56 +0000 — https://www.hollywoodreporter.com/movies/movie-news/aaron-pierre-fairytale-in-new-york-netflix-lionsgate-1236754634/
+### Cookie Queens Director Says Girl Scout Cookies Were A Delicious Way In to a Larger Conversation (Video)
+Sat, 14 Nov 2026 05:36:12 +0000 — https://www.hollywoodreporter.com/movies/movie-news/cookie-queens-alysa-nahmias-scad-savannah-film-festival-1236751877/
 
-The Lionsgate action thriller from director Jalmari Helander centers on a vengeful cab driver on a Christmas Eve rampage in the Big Apple.
+Alysa Nahmias recently spoke with The Hollywood Reporter about her life-affirming documentary, which premiered at Sundance, won the audience award at SXSW and is now the year's highest-grossing non-celebrity doc.
 
-### Margot Robbie to Star in A24 s The Week of Pain From The Drama Filmmaker Kristoffer Borgli
-Fri, 13 Nov 2026 20:22:32 +0000 — https://www.hollywoodreporter.com/movies/movie-news/margot-robbie-the-week-of-pain-the-drama-kristoffer-borgli-1236754966/
+### 5 Takeaways From China s Golden Rooster and Hundred Flowers Film Festival
+Sat, 14 Nov 2026 02:19:05 +0000 — https://www.hollywoodreporter.com/movies/movie-news/takeaways-china-golden-rooster-hundred-flowers-film-festival-1236755329/
 
-The project will mark the actress' first time starring in a film for the studio.
+Beyond Tony Leung Ka Fai’s win and a big night for local hits, a week of seminars and workshops showed how China’s industry is thinking about AI, global audiences and young talent.
 
-### The 5 Best Red Light Therapy Panels for Improving Your Health At-Home
-Fri, 13 Nov 2026 20:09:05 +0000 — https://www.hollywoodreporter.com/lifestyle/shopping/best-at-home-red-light-therapy-panels-health-skin-benefits-1236754352/
+### New Regency Sues Michael Mann to Retain Rights to Heat
+Sat, 14 Nov 2026 01:35:37 +0000 — https://www.hollywoodreporter.com/movies/movie-news/new-regency-sues-michael-mann-retain-rights-heat-1236755347/
 
-Red light therapy helps to improve skin tone and texture, as well as support better sleep and post-workout recovery.
+The production company is challenging the director's attempts to reclaim rights to the screenplay.
 
-### When Kevin Feige Got Off to a Less-Than-Incredible Start at Marvel
-Fri, 13 Nov 2026 20:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/flashback-kevin-feige-marvel-hulk-1236752341/
+### Rock Roll Hall of Fame Induction Ceremony to Proceed as Planned Despite FAA Flight Stoppage on Friday
+Sat, 14 Nov 2026 00:42:46 +0000 — https://www.hollywoodreporter.com/music/music-news/rock-roll-hall-of-fame-to-proceed-flights-grounded-1236755204/
 
-The future Marvel mastermind shepherded Ang Lee’s ‘Hulk,’ starring Edward Norton, to the big screen.
+All of the artists set to participate in Saturday's event are already in Los Angeles.
 
-### Nike Drops New Puffer Jackets for 2026: Here Are Our Top Picks From the Winter Collection
-Fri, 13 Nov 2026 19:59:28 +0000 — https://www.hollywoodreporter.com/lifestyle/shopping/best-nike-puffer-jackets-buy-online-women-men-kids-1236753903/
+### Trump Says Federal Film Tax Credit Is Gaining Momentum
+Sat, 14 Nov 2026 00:11:56 +0000 — https://www.hollywoodreporter.com/business/business-news/trump-federal-film-tax-credit-gaining-momentum-1236755258/
 
-For men, women and kids, the sports apparel company has a wide selection of puffer jackets to stay warm and look stylish for winter.
+The proposal for film and TV tax incentives, which drew broad bipartisan support when it was introduced earlier this year, faces an uphill battle for passage in the lame-duck session.
 
-### Inside MS NOW s Post-Election Plans
-Fri, 13 Nov 2026 19:44:49 +0000 — https://www.hollywoodreporter.com/business/business-news/inside-ms-now-post-election-plans-1236754507/
+### How The Basement Yard Host Joe Santagato Got Into the World of Hot Ones
+Sat, 14 Nov 2026 00:10:12 +0000 — https://www.hollywoodreporter.com/business/digital/the-basement-yard-host-joe-santagato-hot-ones-1236754573/
 
-Four top executives at the news brand speak at length with The Hollywood Reporter about what's working — and what the focus is leading up to 2028.
+The comedian and podcaster is hosting and executive producing a 'Hot Ones' spin-off 'Hot Ones: Game Night.'
 
-### Hailee Steinfeld on Recording Music for New Movie Hexed and Becoming a Mother in the Process
-Fri, 13 Nov 2026 19:43:24 +0000 — https://www.hollywoodreporter.com/movies/movie-news/hailee-steinfeld-recording-music-hexed-becoming-mother-1236754568/
+### Ben Stiller Gives Update on His New York Knicks Documentary: The Pressure Is on
+Sat, 14 Nov 2026 00:08:28 +0000 — https://www.hollywoodreporter.com/movies/movie-news/ben-stiller-new-york-knicks-documentary-update-hbo-a24-1236754821/
 
-Steinfeld stars alongside Rashida Jones and Jodie Foster in the voice cast for Disney's witchy animated film.
+The actor tells The Hollywood Reporter that the multi-part doc, in development with HBO and A24, will explore the team's history and championship run.
 
-### Robert Downey Jr. Interviews Christopher Nolan, Matt Damon About The Odyssey (Exclusive Video)
-Fri, 13 Nov 2026 19:38:50 +0000 — https://www.hollywoodreporter.com/movies/movie-news/robert-downey-jr-interviews-christopher-nolan-matt-damon-odyssey-1236754426/
+### Producer Kevin J. Walsh Had Seen It All. Then Being Heumann Came Along
+Fri, 13 Nov 2026 23:31:29 +0000 — https://www.hollywoodreporter.com/movies/movie-features/being-heumann-kevin-j-walsh-1236754923/
 
-The presumptive best picture Oscar frontrunner finally hit the campaign trail this week, targeting specific segments of the industry with a barrage of screenings and A-lister-moderated Q As.
+The Oscar-nominated producer helped open doors for the disabled community on the set of Sian Heder's latest pic: "I'm as proud of what we did behind the scenes to redefine access as I am of the quality of this movie."
 
 ## Deadline
 
-### Jessica Marie Garcia To Star In Produce New Vampire Comedy Film From Director Kristina Arjona
-Fri, 13 Nov 2026 19:57:26 +0000 — https://deadline.com/2026/11/jessica-marie-garcia-randy-mandy-and-the-curse-of-the-plaza-1237223228/
+### Cinephil Boards Alexandru Solomon’s Romanian Election Doc ‘Small Expectations’ – IDFA
+Sat, 14 Nov 2026 11:40:53 +0000 — https://deadline.com/2026/11/cinephil-alexandru-solomon-small-expectations-idfa-1237223722/
 
-EXCLUSIVE: Jessica Marie Garcia (On My Block, Liv and Maddie) will produce and star in Randy Mandy and the Curse of the Plaza Theatre, a vampire comedy from Dawn of the Jerks Pictures set inside Atlanta’s historic Plaza Theatre. Garcia will play Mandy Alejandra Pike, a British Latina vampire whose maker, Vicente, has held her [ ]
+EXCLUSIVE: Doc sales specialist Cinephil has boarded Alexandru Solomon’s Small Expectations ahead of its world premiere in the Frontlight sidebar of the International Documentary Film Festival Amsterdam next week. The first-person investigation chronicles the chaotic lead-up to Romania’s 2025 presidential election in which moderate independent Nicușor Dan faced off against far-right forces, including Trump-aligned street [ ]
 
-### Logan Lerman Latest To Join Searchlight s Playmates
-Fri, 13 Nov 2026 19:55:54 +0000 — https://deadline.com/2026/11/logan-lerman-joins-playmates-searchlight-1237223249/
+### European Film Awards: ‘Fatherland’ ‘La Bola Negra’ Top Nominations Full List Of Films Credits
+Sat, 14 Nov 2026 10:28:48 +0000 — https://deadline.com/2026/11/european-film-awards-2026-nominations-1237223704/
 
-EXCLUSIVE: Logan Lerman is another new addition to Searchlight s Playmates, the film inspired by Lorraine Nicholson s experiences growing up at the Playboy Mansion, sources tell Deadline. Reps for the studio declined comment. We hear Lerman will play a character named Mr. Wick. Nicholson s feature directorial debut Playmates adapts her own original script — an L.A.-set [ ]
+The European Film Academy has unveiled the nominations in the 16 key categories of its 39th European Film Awards taking place in Greece in January 2027. Paweł Pawlikowski’s Fatherland leads the nominations, making it into 11 categories, followed by Javier Calvo and Javier Ambrossi’s La Bola Negra with ten nominations and Cristian Mungiu’s Cannes Palme [ ]
 
-### Microsoft Deeply Sorry About Global Outlook Outage, Insists Disruption Caused By Network Capacity Upgrade
-Fri, 13 Nov 2026 19:49:28 +0000 — https://deadline.com/2026/11/microsoft-outage-apology-blames-upgrade-1237223202/
+### The Heat Is On! Michael Mann New Regency Clash In Ownership Battle Over Al Pacino Robert De Niro 1995 Crime Classic
+Sat, 14 Nov 2026 05:56:57 +0000 — https://deadline.com/2026/11/michael-mann-lawsuit-heat-rights-1237223655/
 
-Microsoft feel really bad about the Outlook outage and 365 services crash that brought many business communications and personal email around the globe to a screeching halt this week. We are deeply sorry for the disruption this incident has caused you and your business, the Redford, WA-based software company late Friday morning as email and [ ]
+Michael Mann won t start filming Heat 2 until early next year, but things are already heating up legally between the acclaimed director and New Regency when it comes to 1995 crime classic. After several attempts this year by the director to reclaim ownership of the original Heat screenplay under copyright termination, the Yariv Milchan-run company [ ]
 
-### Penn Badgley Signs With WME Range Media Partners
-Fri, 13 Nov 2026 19:30:00 +0000 — https://deadline.com/2026/11/penn-badgley-wme-agency-range-media-partners-1237223020/
+### Ari Emanuel Blames FAA Issues On Pete Buttigieg: You Left A Failing System In Place
+Sat, 14 Nov 2026 04:55:02 +0000 — https://deadline.com/2026/11/ari-emanuel-blames-faa-issues-pete-buttigieg-1237223687/
 
-EXCLUSIVE: Actor and producer Penn Badgley has signed with WME and Range Media Partners for representation in all areas. WME and Range will work with Badgley to expand his production company, Ninth Mode, across television, film, and podcasts. Badgley most recently starred as Joe Goldberg in Netflix’s You, a brilliant bookstore manager who was also [ ]
+As Trump s FAA implemented a nationwide ground stop, Ari Emanuel is placing blame on the previous administration. On Friday, the WME and TKO exec called out former Secretary of Transportation Pete Buttigieg for making zero progress modernizing the FAA during his term, despite Donald Trump nominating Sean Duffy to the role in 2024. No one s [ ]
 
-### Dept. Q Crew Member Dies On Set After Season 2 Wrapped Filming In Edinburgh
-Fri, 13 Nov 2026 19:26:33 +0000 — https://deadline.com/2026/11/dept-q-crew-member-dies-edinburgh-1237223165/
+### Real Time : Bill Maher Jokingly Attributes FAA Issues To Selma Blair
+Sat, 14 Nov 2026 03:33:52 +0000 — https://deadline.com/2026/11/real-time-bill-maher-attributes-faa-issues-selma-blair-1237223674/
 
-Left Bank Pictures has said it is deeply shocked and saddened after the death of a Dept Q. crew member on the Edinburgh set of the Netflix series. The circumstances of the incident are not yet clear, but police were called to FirstStage Studios on Thursday after an unnamed man was seriously injured. Emergency services [ ]
+As the Federal Aviation Administration lifted its nationwide grounding of thousands of flights, Bill Maher offered some theories about the root of the issue. On Friday s episode of Real Time, the comedian joked that the cause could be Selma Blair after communication issues stopped air traffic controllers from being able to safely do their jobs. [ ]
 
-### Aaron Pierre And Sisu Director Jalmari Helander Team on Action Thriller Fairytale In New York From Netflix And Lionsgate
-Fri, 13 Nov 2026 19:00:00 +0000 — https://deadline.com/2026/11/aaron-pierre-sisu-jalmari-helander-fairytale-in-new-york-1237222859/
+### DC Studios To-Do List: Here s What Incoming Boss Jeremy Latcham Will Sort Through From The Gunn-Safran Era
+Sat, 14 Nov 2026 02:45:41 +0000 — https://deadline.com/2026/11/dc-studios-movie-tv-list-jeremy-latcham-1237217689/
 
-EXCLUSIVE: Netflix and Lionsgate are teaming on the new action thriller Fairtytale In New York with Aaron Pierre starring and Sisu helmer Jalmari Helander directing. Netflix is on board to distribute the pic with Lionsgate producing. Insiders tell Deadline the the sale came after a competitive auction with Netflix being the best fit for the [ ]
+The news earlier this week of James Gunn and Peter Safran s exit from DC shook the town like Suicide Squad s Starro stomping down Melrose Avenue. Now it s up to incoming former Marvel executive and Dungeons Dragons: Honor Among Thieves producer Jeremy Latcham to sort through the groundwork that was laid before by the duo. [ ]
 
-### Margot Robbie Kristoffer Borgli Team On The Week Of Pain From A24 And Square Peg
-Fri, 13 Nov 2026 18:30:00 +0000 — https://deadline.com/2026/11/margot-robbie-kristoffer-borgli-the-week-of-pain-a24-1237222997/
+### Sports TV Schedule Could Be Tackled For Loss In Aftermath Of FAA s Nationwide Flight Halt
+Sat, 14 Nov 2026 02:23:19 +0000 — https://deadline.com/2026/11/sports-tv-schedule-faa-halt-1237223568/
 
-EXCLUSIVE: Even with production on her Ocean s prequel winding down, Margot Robbie isn t looking to slow down anytime soon as sources tell Deadline she is set to star in the A24 and Square Peg pic The Week of Pain, with Kristoffer Borgli on board to direct. A24 will finance and produce the pic with Lars [ ]
+College football s Saturday TV slate appears likely to take a hit from the FAA s decision Friday to impose a ground halt on all U.S. airline traffic, which in turn could disrupt many network sports schedules on a busy weekend. The agency late Friday began allowing flights to depart after more than four hours in a [ ]
 
-### Anna Van Patten Joins Searchlight s Playmates
-Fri, 13 Nov 2026 18:19:21 +0000 — https://deadline.com/2026/11/anna-van-patten-joins-playmates-movie-1237223041/
+### Zosia Mamet Says Girls Revival Was In Talks For A Very Long Time : I Kind Of Gave Up
+Sat, 14 Nov 2026 02:14:35 +0000 — https://deadline.com/2026/11/zosia-mamet-girls-revival-in-talks-very-long-time-1237223594/
 
-EXCLUSIVE: Anna Van Patten (Euphoria) has joined the cast of Playmates, the Searchlight film inspired by filmmaker Lorraine Nicholson s experiences growing up at the Playboy Mansion, sources tell Deadline. We hear she ll play a character named Jade; further details are under wraps. Reps for the studio declined to comment. Nicholson s feature directorial debut Playmates adapts [ ]
+Nearly 10 years after last playing Shoshanna Shapiro, Zosia Mamet was beginning to think a Girls revival wasn t in the cards. The actress, who starred in the Lena Dunham-created HBO comedy, admitted that she wasn t sure the recently announced revival wouldn t happen after the five-episode project had been in development for a very long time. [ ]
 
-### Emily Ratajkowski Joins Mary Beth Barone Joe Alwyn In Rom-Com Still We Met
-Fri, 13 Nov 2026 18:00:00 +0000 — https://deadline.com/2026/11/emily-ratajkowski-joins-still-we-met-mary-beth-barone-1237219464/
+### Nationwide FAA Ground Stop Lifted; Radar “Instability, Old System Was Root Of Airspace Shutdown, Transportation Secretary Insists
+Sat, 14 Nov 2026 01:48:37 +0000 — https://deadline.com/2026/11/faa-shutdown-lifted-radar-1237223564/
 
-EXCLUSIVE: Emily Ratajkowski is set to join Mary Beth Barone and Joe Alwyn in Still We Met, the indie semi-autobiographical rom-com penned by Barone that we scooped in September. Character details are under wraps.T he project reunites Ratajkowski with EP Lena Dunham, with whom she just worked on the Netflix show Too Much. Marking the [ ]
+At 5:15 p.m. PT, the Federal Aviation Administration “lifted” today s nationwide grounding of thousands of flights. According to Transportation Secretary Sean Duffy, the root cause of the crisis was a radar “instability issue that led to the shutting down of domestic airspace Friday at 12:54 p.m. PT. The ground stop lasted almost five hours, with [ ]
 
-### Pluribus Promotes Samba Schutte To Series Regular For Season 2
-Fri, 13 Nov 2026 18:00:00 +0000 — https://deadline.com/2026/11/pluribus-samba-schutte-series-regular-season-2-1237222878/
+### FAA Ground Stoppage Could Impact One Of Hollywood s Busiest Weekends
+Sat, 14 Nov 2026 01:45:00 +0000 — https://deadline.com/2026/11/faa-ground-stoppage-hollywood-weekend-events-impact-1237223500/
 
-Samba Schutte has been upped to series regular on Apple TV s Pluribus for its upcoming second season. Production is currently underway on Season 2. In a guest-starring role in Season 1, Schutte played Mr. Diabaté, a Mauritanian who chooses to see the bright side of the situation, cultivating a hedonistic lifestyle of luxury for himself [ ]
+UPDATED with FAA lifting the ground stop: The FAA s nationwide ground stoppage has been lifted, but, coming on the eve of one of the entertainment industry s busiest weekends, the residual effects could affect numerous entertainment industry events as organizers scramble to determine if attendees will be able to make it to the events. One of [ ]
 
-### Sunset P.I. Comedy Starring Jake Johnson, Jane Levy Keith David Sets Release Date At NBC; First Photos
-Fri, 13 Nov 2026 18:00:00 +0000 — https://deadline.com/2026/11/sunset-p-i-release-date-nbc-jane-levy-jake-johsnon-photos-1237222884/
+### Isla Fisher Blake Ritson Join Al Pacino In John Paul Getty III Kidnapping Pic Captivated
+Sat, 14 Nov 2026 00:41:20 +0000 — https://deadline.com/2026/11/al-pacino-captiviated-isla-fisher-blake-ritson-1237223529/
 
-NBC has slotted Monday, February 8 for the premiere of Sunset P.I., its new comedy series starring Jake Johnson, Jane Levy and Keith David. We re also getting a first look in some just-released photos which you can see above and below. Sunset P.I. will follow 8 p.m. s St. Denis Medical and take over the timeslot [ ]
+EXCLUSIVE: Isla Fisher and The Gilded Age s Blake Ritson have boarded the Al Pacino thriller Captivated inspired by the extraordinary true story of the 1973 kidnapping of John Paul Getty III. Also joining the cast is Jackson Kelly (The Pitt, The Body). Dito Montiel is directing with production underway in Calabria and Rome, Italy. The [ ]
 
-### ‘The X Factor’ Reboot In The Works At Fox
-Fri, 13 Nov 2026 17:42:39 +0000 — https://deadline.com/2026/11/the-x-factor-reboot-fox-1237221946/
+### James Gunn Says No One From Skydance Has Seen Man Of Tomorrow : There Are A Lot Of Untrue Rumors Going Around
+Sat, 14 Nov 2026 00:35:06 +0000 — https://deadline.com/2026/11/james-gunn-skydance-man-of-tomorrow-1237223531/
 
-EXCLUSIVE: The X Factor could make a return to U.S. screens with Fox working on a reboot of the hit British entertainment format. Deadline understands that a new take on the show is in development at the broadcaster, which aired a U.S. version for three seasons beginning in 2011. The new version, which has been [ ]
+James Gunn is clearing up some rumors following his exit as co-head of DC Studios. With Skydance making changes amid the Paramount and Warner Bros. merger, Peter Safran and Gunn announced they would not be heading DC Studios. Amid their exits, many rumors have circulated. One prominent story was that Skydance saw the Superman sequel, [ ]
 
 ## befores & afters
+
+### The making of The End of Oak Street
+Fri, 13 Nov 2026 20:56:19 +0000 — https://beforesandafters.com/2026/11/14/the-making-of-the-end-of-oak-street/
+
+Issue #68 of befores & afters magazine covers the visual effects of The End of Oak Street. DIGITAL MAGAZINE members can download the issue right now from the shop post. David Robert Mitchell, the filmmaker behind It Follows (2014) and Under the Silver Lake (2018), takes a decidedly different approach to science-fiction adventure with The End of Oak Street . Set in 1982, the film follows the Platt family—Denise (Anne Hathaway), Greg (Ewan McGregor) and their children Audrey (Maisy Stella) and Brian (Christian Convery)—whose already complicated family life is thrown into extraordinary circumstances when a mysterious cosmic event tears their suburban Michigan neighborhood from its surroundings and transports it millions of years into the past. What was once a quiet residential street is suddenly surrounded by prehistoric wilderness, with the inhabitants discovering that they are no longer at the top of the food chain. As the neighborhood struggles to understand what has happened, the Platts find themselves facing an increasingly dangerous collection of prehistoric creatures, including dinosaurs that roam between the houses and surrounding forests. The production combined location shooting, practical stunt work and extensive visual effects to create the film s unusual collision of familiar suburbia and prehistoric wilderness. The substantial digital effects workload was handled by Industrial Light & Magic, which delivered approximately 700 visual effects shots across its Sydney, 
 
 ### I’ve seen a demo of a new way to capture 3D scene data while your cinema camera is rolling, and it’s very cool
 Thu, 12 Nov 2026 20:04:37 +0000 — https://beforesandafters.com/2026/11/13/ive-seen-a-demo-of-a-new-way-to-capture-3d-scene-data-while-your-cinema-camera-is-rolling-and-its-very-cool/
@@ -174,6 +179,21 @@ Thu, 12 Nov 2026 20:04:37 +0000 — https://beforesandafters.com/2026/11/13/ive-
 A look behind the scenes at MANTIS by Leica Geosystems. If you’re in visual effects, you’ll definitely already be familiar with on-set solutions for capturing 3D scene data. You might already be using a laser scanner to capture 3D point clouds and HDR panoramic imagery, and then using that to help reconstruct locations and to aid in tracking and matchmoving. One of the companies that currently makes such laser scanners is Leica Geosystems (they make the BLK360, for instance). Well, measurement technology company HEXGAON has now announced a new player in this space: the MANTIS by Leica Geosystems. And it does things a little differently. How? Well, MANTIS captures scene geometry and camera movement at the same time as your cinema camera is rolling. That means it captures per-frame spatial information along with the footage you are capturing with the main camera. The team notes that VFX practitioners might use the tool in addition to other set scanning and surveying approaches. In hardware terms, MANTIS is a box that fixes onto the front of the camera system. With the accompanying MANTIS Studio, it processes the data you capture and it can be used for a number of things: LiDAR-corrected depth maps, camera tracks, position data and point clouds. Check out the video below for a demo of how MANITS works. Indeed, here’s a quick list of things that the MANTIS team say the new tool can help with existing VFX workflows: Camera & tracking Camera tracking / matchmove Footage stabilizati
 
 ## IndieWire
+
+### After ‘Bitter Christmas,’ Pedro Almodóvar Might Be Done with English-Language Movies
+Fri, 13 Nov 2026 23:42:00 +0000 — https://www.indiewire.com/features/interviews/pedro-almodovar-interview-bitter-christmas-1235227376/
+
+Stealing stories from your friends is part of the creative process, he said. "There is not any law that creates the limits of the autofiction."
+
+### Production Designer Ruth De Jong on How to Build (Ancient) Worlds for Auteurs
+Fri, 13 Nov 2026 22:00:00 +0000 — https://www.indiewire.com/features/craft/production-designer-ruth-de-jong-the-odyssey-interview-1235227809/
+
+Ruth De Jong tells IndieWire about the odyssey behind "The Odyssey," as well as projects for David Lynch, Paul Thomas Anderson, and Terrence Malick.
+
+### IndieWire Honors Film Celebration to Fête John Turturro, the Artificial Cast, Los Javis, and More
+Fri, 13 Nov 2026 21:00:00 +0000 — https://www.indiewire.com/news/events/indiewire-honors-2026-film-awards-1235227778/
+
+IndieWire Honors will celebrate the year in film with awards given to John Turturro, Andrew Garfield, Yura Borisov, Monica Barbaro, Ike Barinholtz, James Gray, Adam Driver, Los Javis, and many more.
 
 ### Margot Robbie Teaming with The Drama Director Kristoffer Borgli for The Week of Pain at A24
 Fri, 13 Nov 2026 19:43:39 +0000 — https://www.indiewire.com/news/business/margot-robbie-teams-kristoffer-borgli-director-a24-movie-1235227777/
@@ -220,122 +240,107 @@ Thu, 12 Nov 2026 19:00:00 +0000 — https://www.indiewire.com/criticism/shows/th
 
 The clichés stack up nearly as fast as the clever cast can distinguish them in Karin Slaughter's six-episode adaptation of her own book, which follows long-separated sisters who reunite to defend a young woman from the predators lurking in their brutish, backwoods hometown.
 
-### Fall Festival Movies Sold: Woman Unknown, May el-Toukhy s Golden Lion Winner, Sells to Cohen Media Group
-Thu, 12 Nov 2026 18:47:42 +0000 — https://www.indiewire.com/news/festivals/fall-festival-movies-sold-so-far-babies-ink-elsinore-1235213179/
-
-Star Mathilde Arcel also won Best Actress out of Venice.
-
-### Avengers: Doomsday Has 10 Credited Writers, Including Hugh Jackman and Ryan Reynolds
-Thu, 12 Nov 2026 18:30:00 +0000 — https://www.indiewire.com/news/general-news/hugh-jackman-ryan-reynolds-writing-credit-avengers-doomsday-1235227334/
-
-The film's official WGA credits all but confirm that Deadpool and Wolverine will appear in the blockbuster sequel.
-
-### Saoirse Ronan Has Wanted to Direct Since She Was a Kid, and Her Exquisite First Short Paper Plane Proves She s Got the Goods
-Thu, 12 Nov 2026 18:30:00 +0000 — https://www.indiewire.com/features/interviews/saoirse-ronan-directorial-debut-short-paper-plane-interview-1235225445/
-
-In her first and only interview since winning Best Narrative Short at the Austin Film Festival (and earning Oscar-qualifying status for her directorial debut), Ronan tells IndieWire about the joyous (and occasionally scary) process of moving into what could be a brand-new career for her.
-
 ## The Wrap
 
-### Elizabeth Holmes Husband Says He Still Loves Nathan Fielder Even Though You Can See Everything Makes Him Look Crazy
-Fri, 13 Nov 2026 20:32:41 +0000 — https://www.thewrap.com/creative-content/movies/you-can-see-everything-billy-evans-loves-nathan-fielder/
+### Pete Buttigieg Pushes Back at Suggestion He’s Responsible for FAA’s Ground Stop: ‘Did a Lot to Upgrade the System’
+Sat, 14 Nov 2026 05:26:33 +0000 — https://www.thewrap.com/media-platforms/politics/pete-buttigieg-responds-faa-ground-stop-blame/
 
-Billy Evans wishes You Can See Everything didn t make him look crazy, but understands that at the end of the day, it s entertainment and he still has love for filmmakers Nathan Fielder and Lance Oppenheim. In a preview of Evans CBS Sunday Morning interview on Friday, Elizabeth Holmes divisive husband was asked about how he felt about the way he s portrayed in the documentary, especially considering he s made out to be the villain. You love them, you love the film, interviewer Matt Gutman grilled. Yeah, I love them, Evans said. Even though it makes you into a villain? I would have preferred for that not to be the case, but it’s entertainment,” Evans admitted. I didn’t get to control the edit. Billy Evans, the partner of imprisoned Theranos founder Elizabeth Holmes, told @CBSMATTGUTMAN that he loves “You Can See Everything” directors Nathan Fielder and Lance Oppenheim, despite their portrayal of him as “crazy” in the documentary film. “When I watch that movie, I see… pic.twitter.com/8i0ZoIhfab &mdash; CBS Sunday Morning (@CBSSunday) November 13, 2026 When pressed about the way Fielder and Oppenheim portrayed him, Evans agreed he comes off crazy, but his goal with the agreeing to be in the film remained the same throughout. “My goal was to have people see Elizabeth. And when I watch that movie, I see the person that I love and exactly who she is.” Evans has had plenty to say about the massive A24 hit since it s release. Posting actively on social media, he recently said he felt 
+Former Transportation Secretary Pete Buttigieg pushed back on suggestions that the Biden administration failed to do enough to upgrade the system and prevent Friday’s nationwide FAA ground stop. Amid the FAA s nationwide ground stop Friday evening, Buttigieg spoke with press, where he was confronted with comments from the Trump administration, suggesting he and his former boss may ve been to blame for today s crisis. Buttigieg disagreed with this sentiment, defending that during his tenure as transportation secretary they did a lot to upgrade the system. When we had an outage, I didn t stand there complaining about the Trump administration, he said. We got to work I m certain that that s what career officials and the career day-to-day employees at FAA and USDOT are doing. This should not be about politics. Buttigieg demanded clearer answers into what caused Friday s telecommunications and computer system outage, which ultimately brought air traffic to a halt across the United States. . @PeteButtigieg : "We did a lot to upgrade the system. When we had an outage, I didn't stand there complaining about the Trump administration. We got to work I'm certain that that's what career officials at FAA and USDOT are doing. This should not be about politics." pic.twitter.com/RxD0dcD7a6 &mdash; CSPAN (@cspan) November 14, 2026 Current Transportation Secretary Sean Duffy attributed the ground stop, which was initially said to simply be caused by a “telecommunication outage,” to old technol
 
-### Netflix’s ‘Dept. Q’ Crew Member Dies on Set in Edinburgh: Deeply Shocked and Saddened
-Fri, 13 Nov 2026 19:38:03 +0000 — https://www.thewrap.com/creative-content/tv-shows/dept-q-crew-member-dies-on-set-edinburgh-netflix/
+### Bill Maher Draws Big Laughs With Selma Blair Jab While Discussing FAA Ground Stop
+Sat, 14 Nov 2026 04:11:33 +0000 — https://www.thewrap.com/creative-content/tv-shows/bill-maher-selma-blair-dig-faa-ground-stop-real-time-monologue/
 
-A crew member died on set of Season 2 of Netflix s Dept. Q in Edinburgh. The man, still unidentified, was seriously injured and pronounced dead at the scene, according to police reports from Thursday. The crew member is believed to have been killed in an accident at FirstStage Studios, according to local outlets . “We are deeply shocked and saddened by the tragic death of a member of our Dept. Q crew, a spokesperson for Left Bank Pictures said. Our thoughts are with their family, friends and colleagues at this incredibly difficult time, and we are offering support for those affected.” Scottish police reported to the scene around 3 p.m. Thursday. A spokesperson for the police said an investigation is underway but that the death is not being treated as suspicious. Netflix and FirstStage Studios have not responded to TheWrap s request for comment. Dept. Q finished production on Season 2 recently, but the set was still active as crew wrapped. The detective drama was renewed for a second season in August 2025. FirstStage Studios operates on the site of a former renewable energy company. The studios were first used for Avengers: Infinity War before being converted into a permanent studio in 2020, led by Sean Connery s son Jason. The studio is currently being investigated for another death. In July 2022, Philip Ross, 30, died in what is believed to be an accident involving a hydraulic lift at the studios. Following Ross death a spokespersfor for the studio said at the time: “FirstSt
+Bill Maher took a swipe at Selma Blair while commenting on the FAA s nationwide ground stop Friday, jokingly suggesting that the actress could be responsible for the travel delay. People, calm down, because you may not get home, Maher started off Friday evening s monologue for HBO s Real Time. [We had] actually breaking news, because it s Friday. Did you see? They grounded all the planes in America. All the planes. So, hope you re staying for the weekend. As Maher went on, he expressed doubt over the Trump administration s reassurance that the ground stop was not due to anything nefarious. Here s where he brought the actress, best known for Legally Blonde and Cruel Intentions, into the mix. I don t believe them, Maher told his studio audience. I mean, this could be a hack from China. Could be a hack from Iran. Could be a hack from AI itself. Could be Selma Blair. We just don t know. This jab prompted a big reaction from the Real Time crowd, as taping attendees broke out into loud laughter and applause – drowning Maher out at one point. Maher, of course, was referring to Blair s October arrest, which occurred after she allegedly assaulted several people both during and after a Delta Air Lines flight. NVIDIA's CEO Jensen Huang says he should have known. It's not confirmed, but one big red flag was that she had an actual big red flag. pic.twitter.com/V6YapZwpap &mdash; Bill Maher (@billmaher) November 14, 2026 Following the incident at John F. Kennedy Airport, Blair was hospital
 
-### Margot Robbie to Star in ‘The Drama’ Director Kristoffer Borgli’s Next Movie at A24
-Fri, 13 Nov 2026 19:20:31 +0000 — https://www.thewrap.com/creative-content/movies/margot-robbie-joins-kristoffer-borglis-the-week-of-pain/
+### Transportation Secretary Encourages College Football Teams to Reach Out to the FAA Following Nationwide Ground Stop
+Sat, 14 Nov 2026 03:18:12 +0000 — https://www.thewrap.com/culture-lifestyle/sports/transportation-secretary-message-college-football-teams-after-faa-ground-stop/
 
-Kristoffer Borgli has found a new star for his next drama. The Norwegian writer/director, who made waves this year with his chewy, dark rom-com The Drama , has tapped Margot Robbie to star in his next feature, The Week of Pain. A24 will finance the film, producing it alongside Lars Knudsen and Ari Aster’s Square Peg, Dilemma Films and LuckyChap. No details are currently known about the plot of The Week of Pain. Borgli saw massive success this year with The Drama, an R-rated, adult romance that went on to gross $135 million at the global box office against a budget of $28 million. The film starred Zendaya and Robert Pattinson as an engaged couple whose relationship begins to spiral when a dark secret is revealed the week of their wedding. The Drama was a true word of mouth hit, boosted by a duo of strong leading performers and a hooky premise. Trailers showed that an argument arose in the film after Zendaya s character shared the worst thing she s ever done in a pre-wedding game. The specific details about her reveal, however, were kept close to the vest. This gave the film a bit of buzz as audiences wondered what she could possibly say to throw her friendships and engagement into a spiral. Spoiler alert: Zendaya s character planned a school shooting when she was in high school and didn t follow through with it. This chewy premise made The Drama a true conversation piece, no doubt helping its box office haul. Prior to that film, Borgli helmed Dream Scenario, another dark comed
+A rare nationwide ground stop upended travelers plans on Friday, causing a potential domino effect for weekend events. While college football fans are worried that their Week 11 games will be interrupted by the plane grounding, Transportation Secretary Sean Duffy said he hopes players can make their engagements on time. We re going to allow for general aviation, those larger movements to take place as a priority. Smaller movements will take a lower priority. And so, if you talk about football teams moving, many of those are on charters, and there s a lot of individuals on those charter planes, Duffy said at a Friday evening press briefing. So I would encourage those football teams to reach out to the FAA to schedule their flight times and make sure they can move to make sure we have games going off tomorrow. . @SecDuffy on college football teams traveling: "I would encourage those football teams to reach out to the FAA. pic.twitter.com/vfTbV9I91a &mdash; CSPAN (@cspan) November 14, 2026 The college football industry is a significant one, potentially impacting the Saturday television schedule for networks such as ABC, CBS, ESPN, Fox and NBC if the effects of the ground stop can t be averted. Several football teams across the country were preparing to travel on Friday when the nationwide ground stop was put into effect. We are in close communication with our member institutions to assess potential disruptions and coordinate appropriate responses, the Southeastern Conference s o
 
-### TV Academy’s Televerse to Skip 2027 Emmy Season, Plots 2028 Return
-Fri, 13 Nov 2026 18:41:09 +0000 — https://www.thewrap.com/media-platforms/tv/tv-academys-televerse-skip-2027-emmy-season-2028-return/
+### New Regency Sues Michael Mann to Reassert Ownership of ‘Heat’
+Sat, 14 Nov 2026 02:51:26 +0000 — https://www.thewrap.com/creative-content/movies/new-regency-sues-michael-mann-heat-screenplay/
 
-Televerse, the TV Academy s TV festival that kicked off last year, will skip the upcoming 2027 Emmys season as it plots a 2028 return slated for earlier in the year than its predecessors. While the event has taken place during Phase 2 in the Emmys timeline, with this year s festivities happening Aug. 14-16, the program will shift to an earlier timeline when it returns in 2028 amid industry feedback. Following insightful feedback from attendees and our industry partners, the Television Academy is excited to announce Televerse will be returning in a new timeframe sometime in the first quarter of 2028, allowing a more expansive period to build on the popular festival’s maiden two years, a spokesperson for the TV Academy said in a statement. New dates and details will be announced as they become available. We look forward to continuing to celebrate Television outside the box in early 2028. The new timeline in the first quarter of 2028 means that more TV shows would get a spotlight ahead of Emmy nominations, which typically drop in July. The TV Academy is also working through a couple major shift as the Emmys move over to Amazon’s Prime Video in an exclusive deal through 2033 and the TV Academy is in talks to reunify with the National Academy of Television Arts and Sciences (NATAS). The organizations split into two in 1977 due to tension among the branches, and the idea of reunification stems from the ability to better serve the organization s memberships through a “single unified
+Ahead of production of the “Heat” sequel, New Regency sued filmmaker Michael Mann in a lawsuit filed Friday to stop him from reclaiming the copyright to his screenplay for the crime drama. In a complaint filed in a Los Angeles federal court, New Regency asked a judge to declare three termination notices Mann served the company “null and void, arguing that the Heat screenplay is not eligible for copyright termination under 17 U.S.C. § 203, and that [the company] retains all rights to the screenplay.” New Regency also argued that Mann wrote the 1995 crime epic as a “work made for hire” — “a fact that Mann stated repeatedly in written agreements that he personally signed, both on his own behalf and on behalf of companies that he controlled. The filing added: As a work made for hire, the Screenplay is not subject to termination under Section 203(a) of the Copyright Act.” This filing has to do with original and personal writing Michael Mann did on multiple screenplays during the 1980s and which evolved into the iconic 1995 film Heat that Mann wrote, produced and directed, a spokesperson for the filmmaker said in a statement to The Wrap Friday evening. “After 40 years Michael Mann is exercising the right of authors to reclaim their work and, in this case, Michael Mann s original creation.” “We will vigorously defend this action and are confident that the courts will vindicate Michael Mann s statutory rights under the Copyright Act, the spokesperson continued. For clarification, thi
 
-### London Police Investigating David Walliams Over Sexual Misconduct Allegations
-Fri, 13 Nov 2026 18:11:21 +0000 — https://www.thewrap.com/culture-lifestyle/culture/david-walliams-under-investigation-london-police/
+### James Gunn Debunks Rumor Man of Tomorrow Needs Sweeping Changes From Skydance After His DC Ouster
+Sat, 14 Nov 2026 02:08:23 +0000 — https://www.thewrap.com/creative-content/movies/james-gunn-no-sweeping-changes-man-of-tomorrow-dc-studios-exit/
 
-BBC News reports that London s Metropolitan Police have launched an investigation into BAFTA-winning performer and best-selling children s book author David Walliams over sexual misconduct claims alleging that he used his position and power to groom and prey on young women and, in certain instances, underaged girls. The Guardian and ITV published a bombshell investigation on Tuesday outing Walliams as the mysterious U.K. celebrity who had filed an injunction to keep the allegations against him private out of fear that he would harm himself. Walliams injunction request was rejected by a U.K. High Court judge, freeing The Guardian and ITV to publish their report about him and name him in it. The outlets investigation includes accusations from multiple women that the former Britain s Got Talent host used his cultural power to prey on them for sexual purposes. Most of the women accusing Walliams told The Guardian and ITV they were over the age of 18 when Walliams preyed on them. However, one of the women interviewed by the outlets claimed she was 15 when Walliams invited her to his house and initiated sexual contact. The Met Police said they are investigating Walliams over reports of alleged serious sexual offenses. Law enforcement also told the BBC News that the allegations being investigated are separate from those included in ITV and The Guardian s investigation. Detectives are also proactively reviewing that reporting to establish whether there is any evidence of offenses, th
+James Gunn may no longer be the co-CEO of DC Studios, but he s still willing to clear up some misconceptions on social media. Gunn took to Threads on Friday amid numerous rumors of changes that will come in the wake of his exit from leadership at the studio now owned by David Ellison s Skydance. While Gunn didn t clear up every misconception about the state of his former franchise, he did note that one project is thus far safe from meddling. There are a lot of untrue rumors going around, but one of them is that Skydance has seen Man of Tomorrow and that all sorts of sweeping changes are being made, Gunn said. No one from Skydance has even seen the movie the only people that have are Peter Safran and a very small trusted group of friends and family. So any stories around this narrative are false. View on Threads (For those who don t know, the mermaid emoji is a reference to Gunn s series Peacemaker, where the character Vigilante said he used it to mean Happy, sad and everything in between. ) Several rumors about Man of Tomorrow, Gunn s follow-up to Superman featuring a team-up between David Corenswet s Man of Steel and Nicolas Hoult s Lex Luthor in a fight against Lars Eidinger s Brainiac , cropped up after news of Gunn and co-CEO Peter Safran s exit from DC Studios leadership on Monday. One claimed that characters like Milly Alcock s Supergirl and Xolo Maridueña s Blue Beetle would be removed from the final cut by Skydance. Another claimed that Wonder Woman, speculated to be 
 
-### The X Factor May Return to US With Reboot at Fox
-Fri, 13 Nov 2026 18:07:01 +0000 — https://www.thewrap.com/creative-content/tv-shows/the-x-factor-reboot-in-development-fox/
+### Shane Gillis Thought His SNL Monologue Was a C Minus
+Sat, 14 Nov 2026 02:00:35 +0000 — https://www.thewrap.com/culture-lifestyle/culture/shane-gillis-responds-snl-monologue-controversy/
 
-An American reboot of The X Factor is in development at Fox, TheWrap has learned. The U.S. version of the singing competition series ran for three seasons on Fox beginning in 2011. The American series was responsible for the formation of Fifth Harmony, and the British series created One Direction and Little Mix. The show will look similar to the old version with one twist: the contestants will live in a house together. It is unclear where the competition reality series would shoot and if they could be eligible for a California tax credit. Fremantle will produce the spinoff with Mischief & Wonder, founded by Sydney-based producers Emma Lamb and Leigh Aramberri. Several singing competition series have left the state to cut production costs, including American Idol leaving Hollywood for Georgia. TheWrap reported this week that The Voice producers are eyeing a move out of Los Angeles even though they have a standalone set on the Universal Studios lot. The X Factor concluded its third and final season in the U.S. in 2013 and concluded in the U.K. in 2018. There have since been two spinoffs of the show in the U.K., The X Factor: Celebrity and The X Factor: The Band. Simon Cowell co-created the original series and served as a judge in the U.S. and the U.K. The judges for the American series included Cowell, Britney Spears, Paula Abdul, Nicole Scherzinger, Demi Lovato, Kelly Rowland, L.A. Reid and Paulina Rubio. Steve Jones hosted the first season of the U.S. show with Mario Lopez an
+Shane Gillis broke his silence on his controversial Saturday Night Live monologue from last month, revealing that he thought the show s producers had nothing to worry about ahead of his appearance. The stand-up comedian hosted the sketch show for the third time on Oct. 10. During his monologue, he joked that women dress like whores at the gym, sparking an online debate over whether the comedian s remarks were misogynistic. Gillis was previously fired as an SNL cast member before appearing in his first episode in 2019 over comments he had made on podcasts. Speaking on The Joe Rogan Experience, he said that, unlike in 2019, he deleted his social media accounts this time while the controversy was unfolding. The comedian said he considered bumping all of the people who talked poorly about the bit behind his back from his tour, but ultimately decided against it. He added that he didn t think any touring comedians had spoken negatively about him in the first place. It was all struggling middling comedians, Rogan said. Several comedians and actors have called out Gillis, including Kathy Griffin, Dan Levy and host Inde Navarrette on the following week s episode, as well as SNL alum Ego Nwodim and SNL UK star Ania Magliano. The funny thing I saw you do that set at The [Comedy] Cellar a week before. Killed. Nobody had a problem with it, Mark Normand said on the podcast. “Not to defend SNL, they don’t approve it, Gillis explained. They could shut it down, but they don t like you don t w
 
-### Pluribus Promotes Samba Schutte to Series Regular for Season 2
-Fri, 13 Nov 2026 18:00:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/pluribus-season-2-cast-samba-schutte-series-regular/
+### ‘Secret Lives of Mormon Wives OC : Aspyn Ovard Reveals Hopes for Her Ex, Jen Affleck Shares Why She Filed for Divorce and More
+Sat, 14 Nov 2026 01:11:25 +0000 — https://www.thewrap.com/media-platforms/tv/aspyn-ovard-jen-affleck-secret-lives-of-mormon-wives-oc/
 
-Apple TV s Pluribus promoted Samba Schutte to a series regular for its upcoming second season, which is now in production. The series, which comes from Emmy Award-winning creator, writer, director and executive producer Vince Gilligan and stars Rhea Seehorn, tells the story of the most miserable person on Earth who must save the world from happiness — aka an alien hive mind hoping to recruit her out of her individuality. In addition to Schutte and Seehorn, the show s cast includes Karolina Wydra and Carlos-Manuel Vesga. Schutte broke out with his role as Mr. Diabaté in Season 1, earning him a Saturn Award Nomination. His other notable credits include HBO s Our Flag Means Death from Taika Waititi, the NBC sitcom Sunnyside from Mike Schur. He also won the Jury & Audience Awards at the Leids Cabaret Festival, Holland’s biggest national comedy competition, and was a writer and correspondent for the Dutch version of “The Daily Show.” Additionally, he has written for the video game Battlefield V, performed in multiple AAA games including Star Wars Jedi: Fallen Order and has performed three comedy specials with successful tours throughout Europe, Asia and Africa. Samba is repped by Abby Bluestone, Rob Cassandro & Andy Patman at Innovative Artists and Patrick Havern at Established Artists The second season of Pluribus comes on the heels of the series scoring six Emmy Awards this year. Its wins include Outstanding Writing in a Drama Series, Outstanding Lead Actress in a Drama Series, 
+The Secret Lives of Mormon Wives: Orange County bridged the gap between Jack and Molly Mormons, creating a new MomTok of sorts. While less obsessed with TikTok drama and the ins and outs of their burgeoning friend group, this group of Mormon wives has plenty of secrets to spill. OG MomTok member Jen Affleck s move to California for Dancing With the Stars inspired a new take on the popular Hulu reality series. The 27-year-old soon-to-be mother of four formed friendships with a group of women with ties to the Mormon church in Orange County. She brought together traditional Mormons and women who had left the church, creating a community of social media moms. During the first season of filming, Affleck discovered she was pregnant again while considering filing for divorce from her husband, Zac. She revealed on the show that they had planned to file jointly, but a week before the series premiered, the reality star filed on her own. “The plan was to file jointly because I wanted to do what was best for the kids, and I wanted Zach and I to be on the same page,” Affleck told TheWrap. “It came to the point where I couldn t wait any longer … but I m just now moving forward and taking one day at a time and just doing the best that I can.” While the reality star did not clarify any details further, she has since posted videos from during their marriage that paint a picture that he was unsupportive. She also shared in the reality series that they had been separated for months. Bri, Aspyn 
 
-### Bill Simmons Ends The Ringer’s ChatGPT Partnership After Fan Backlash
-Fri, 13 Nov 2026 16:30:13 +0000 — https://www.thewrap.com/industry-news/tech/bill-simmons-ringer-chatgpt-sponsorship-canceled/
+### Homeland Secretary Assures FAA Crisis Is ‘Not Another 9/11,’ Won’t Rule Out AI Mishap or Cyber Attack
+Sat, 14 Nov 2026 00:55:49 +0000 — https://www.thewrap.com/media-platforms/politics/markwayne-mullin-ground-stop-isnt-another-september-11-cnn/
 
-Bill Simmons quietly ended The Ringer s sponsorship deal with OpenAI s ChatGPT after listeners pushed back against AI-powered segments that appeared across the Spotify-owned podcast network earlier this year. The move, first reported by Bloomberg Thursday , underscores the limits of AI companies aggressive push into podcast advertising, where paid integrations risk alienating the very audiences they re intended to reach. Last spring, we thought we could integrate AI research for baked-in content segments for a couple of our shows the way some of our competitors were doing (and also leagues like the NFL were doing) — I m always going to try to be early instead of late on something, Simmons told Bloomberg. This time we learned almost immediately that those segments weren t a fit for us — our audience just didn t like them. The sponsored ChatGPT segments appeared primarily on Simmons own The Bill Simmons Podcast and The Ringer Fantasy Football Show, incorporating AI-generated prompts into discussions. Simmons separately faced criticism for using ChatGPT to generate hypothetical film reviews in the style of Roger Ebert, the influential critic who died in 2013, on The Rewatchables. The objections extended inside The Ringer. Sean Fennessey, who co-hosts The Big Picture and appears on The Rewatchables, criticized the Ebert segments during an August appearance on Talk Easy With Sam Fragoso. I don t like it. I ve told Bill I don t like it, Fennessey said, explaining that he and fellow
+UPDATE : The nationwide ground stop concluded Friday evening, with Transportation Secretary Sean Duffy attributing the incident to old technology. Passengers are still dealing with the effects of thousands of cancelled and delayed flights. The Federal Aviation Administration issued a rare ground stop on all flights nationwide on Friday, leading some to question the reason for such a drastic measure. According to Secretary of Homeland Security Markwayne Mullin, some of those concerns may be overblown. We were wanting to assure all the American people, this isn t a safety to the American people or another 9/11, he said. I think that s what a lot of people are trying to make the comparison to, and that is not the case. Mullin: This is not another 9/11 pic.twitter.com/J3tpapiKA8 &mdash; Acyn (@Acyn) November 13, 2026 Mullin addressed a crowd of reporters gathered outside the White House on Friday afternoon to speak to the FAA s actions, which will delay flights for citizens across the country for an indefinite amount of time. Though the secretary assured that there is no reason for the public to be afraid or scared for your loved ones, he couldn t explain what exactly caused the telecommunication outage. Do we know what has caused it yet? No, we re going to go through it. But I m not going to make assumptions, Mullin said. As I ve said multiple times, it s very difficult to make assumptions. We want to always deal with facts, and we re going to deal with facts, and as we get them
 
-### Shortical s AI-Generated Inevitable Premieres With Approved AI Double From Aki Avni Exclusive Video
-Fri, 13 Nov 2026 15:45:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/shorticals-ai-generated-microseries-inevitable-premieres-aki-avni-ai-actor/
+### Trump Stays Mum on FAA Grounded Flight Crisis, Questionably Touts Hollywood Business Bill Instead
+Fri, 13 Nov 2026 23:52:07 +0000 — https://www.thewrap.com/media-platforms/politics/trump-bipartisan-hollywood-production-bill-stays-mum-on-grounded-flights/
 
-Shortical s Inevitable places the entertainment industry s fears about AI s threats to their creativity centerstage in this fully AI-generated microdrama series premiering Friday. The psychological thriller stars an AI version of Israeli actor Aki Avni. After the actor, who is actively involved in the creative process for this microdrama, sells his face and likeness to an AI studio, he realizes that the AI version of himself is implicated in an attempted murder he didn’t commit. The microseries is quite meta as Hollywood battles these same issues around AI, consent and likeness. The irony, of course, is that Avni was heavily involved in the production for this vertical and helped create his own digital double, working alongside the filmmakers. It is surprising, Avni told TheWrap of seeing the AI version of himself act and make choices on screen. As an actor, you see yourself on the screen, you have relation so now it s even weirder in a way. We have this fear from this from the unknown because AI and this technology is still very unknown, he said. But if you really put your step in and know exactly what is a yes for you and what is a no for you, you can win the situation. In an exclusive clip obtained by TheWrap, Avni drives onto the Paramount lot as news coverage swirls about him giving over his likeness as his AI double stars in 12 projects at once. Ominous music plays as he realizes that no one is working in person on the set anymore. This marked Ofir Lobel s first AI-gene
+President Donald Trump praised his work on a bipartisan bill to keep film and television production in the U.S. on Truth Social , but has yet to make a public statement on the nationwide flight crisis. The Federal Aviation Administration announced a rare nationwide ground stop on Friday afternoon, as a telecommunication outage affected the air traffic control system. The cause for the outage has not been revealed, yet. The last time a nationwide grounding of flights took place was in 2023 for just 90 minutes because of an outage in the FAA’s system to alert pilots to safety issues. Before that, the last time the FAA issued nationwide ground stops was on Sept. 11, 2001. Rather than acknowledging the flight delays and cancellations nationwide, the president touted the Motion Picture, Television and Entertainment Revitalization Act that he is working to pass with a bipartisan effort to keep entertainment jobs in the United States. The support and popularity of doing this, and bringing Entertainment back to the United States of America, has been unbelievable! Trump wrote. Hollywood, and so many other places, have been virtually emptied out by the Tax Incentives, and much more, given by other Countries. Everyone feels strongly about the Motion Picture and Television Industry — and so do I, and we all want to save it. It was MADE IN AMERICA, and must STAY IN AMERICA, he added. The president said that he is working with Sen. Tim Scott (R-SC), Sen. Adam Schiff (D-Calif.) and senators
 
-### ‘The Bachelor’ Snags NFL Quarterback Sam Hartman as Season 30 Lead
-Fri, 13 Nov 2026 15:21:31 +0000 — https://www.thewrap.com/media-platforms/tv/the-bachelor-abc-sam-hartman-season-30-star/
+### Zendaya, Timothée Chalamet and Anya Taylor-Joy Prank Interviewer During ‘Dune: Part 3’ Press
+Fri, 13 Nov 2026 22:36:12 +0000 — https://www.thewrap.com/culture-lifestyle/culture/zendaya-timothee-chalamet-anya-taylor-joy-prank-interviewer-dune-press/
 
-NFL quarterback Sam Hartman has been set as the new star of The Bachelor Season 30. Hartman, who is a native of Charlotte, North Carolina, plays for the Washington Commanders and is an alum of Wake Forest and Notre Dame, where he set ACC records including most career touchdown passes and 300-yard passing games. He is also a fan favorite from the documentary series “QB1: Beyond the Lights.” The 27-year-old pro athlete is ready to find his forever teammate, ABC said in a news release on Friday. With the same leadership and heart that won over fans on the field, Hartman will begin handing out roses as he searches for love. Our own Sam Hartman is the next Bachelor! #GoIrish pic.twitter.com/sjpBv0fwtq &mdash; Notre Dame Football (@NDFootball) November 13, 2026 In an interview with GMA, Hartman said he s excited but also very nervous. I have a tough time holding a conversation with one girl, he said. 30 is going to be pretty tough. The reality series will return to ABC on March 21 from 8 to 10 p.m. ET/PT and will stream next day on Hulu and Hulu on Disney+ for bundle subscribers in the U.S. It marks the first season in the Bachelor franchise since the cancellation of Taylor Frankie Paul’s season of The Bachelorette due to a scandal involving domestic violence allegations earlier this year. “The Bachelor” is produced by Warner Horizon Unscripted Television, a Warner Bros. Television Group company. Scott Teti, Jason Ehrlich and Andy Frank serve as executive producers. The post ‘The B
+Zendaya, Timothée Chalamet and Anya Taylor-Joy had some fun pranking a journalist during a Dune: Part 3 interview. The trio sat down with BBC presenter Rylan Clark, but what they were really doing was following answers and instructions fed to them by a group of children watching from the wings. The prank was part of the BBC s Children in Need initiative. Anya, start meditating, one kid commands. Close your eyes. Anya Taylor-Joy, Zendaya and Timothée Chalamet prank an interviewer for BBC Children in Need. pic.twitter.com/qIgvsFvFwe &mdash; Film Updates (@FilmUpdates) November 13, 2026 Taylor-Joy immediately halts the conversation and asks for a moment to meditate. Clark looks on as the actress is told to get everyone else to join in with her. Chalamet and Zendaya take hands and the kids also tell the Euphoria star to stand and start chanting ohm which she obliges. Sometimes you just got to like reset the energy, she adds. In a second clip, the kids tell Chalamet he s to get up and stroke Rylan s beard. The Dune: Part 3 star stands up for a stretch and a bit of a nervous smile on his face. He sits back down and is prodded again by the kids to do it. Finally, Chalamet makes his move. Is this? Can I? Chalamet asks as he leans in to touch the beard. It looks so smooth and shiny, Zendaya adds as the kids in the booth laugh. The fun bit comes as press for Dune: Part 3 begins to kick off in full. The film comes out Dec. 18 and is likely to be one of the biggest box office hits of 202
 
 ## Collider
 
-### 3 Best Sci-Fi Books To Read This Weekend (November 14-15)
-Fri, 13 Nov 2026 20:29:12 GMT — https://collider.com/best-sci-fi-books-read-this-weekend-november-14/
+### Alan Ritchson Has the Perfect Response to Fans Complaining About 'Reacher'
+Sat, 14 Nov 2026 11:30:12 GMT — https://collider.com/alan-ritchson-reacher-fan-criticism-tripwire-fight-scenes/
 
-Science fiction is among the most popular genres around, and for good reason. Rich in worldbuilding and dealing with themes of oppression, ambition, liberation, and the advancement of the human race, sci-fi is an enduring part of most media, but it's especially prominent in literature. Ever since Mary Shelley 's foundational classic, Frankenstein , came out, the genre has kept growing until it became the juggernaut it is today.
+If there's one thing audiences know about Jack Reacher, it's that getting into a fight with him is generally a terrible idea. The enormous former military policeman has spent four seasons of Reacher dispatching criminals with the kind of efficiency that would make most action heroes jealous, but while the Prime Video adaptation has earned plenty of praise for bringing Lee Child 's bestselling novels to life, some fans aren't entirely convinced by how the show handles its fight scenes . However, its star is fighting back.
 
-### 6 Thriller Miniseries That Are 10/10, No Notes
-Fri, 13 Nov 2026 20:08:12 GMT — https://collider.com/thriller-miniseries-perfect-no-notes/
+### The 10 Greatest TV Serial Killers of All Time, Ranked
+Sat, 14 Nov 2026 11:02:12 GMT — https://collider.com/best-tv-serial-killers-all-time-ranked/
 
-With its unique ability to let a story unfold over the course of multiple hours while still delivering a succinct resolution that viewers don’t have to wait over the course of multiple seasons to see, the miniseries format has emerged as an outstanding forum for thriller entertainment. Even more impressive is that there has been no shortage of approaches that have worked within the parameters of limited series releases, with everything from action-packed bombast to simmering slow-burn anxiety and even piercing psychological horror having an impact.
+Television has always had a complicated relationship with its monsters. A movie gets two hours with a killer before the lights come up, but a TV series asks viewers to spend entire seasons with them. Over that time, audiences get to see how they operate, and why they are the people they are. That extra time is exactly why the small screen has produced some of the most unsettling yet still fascinating killers in fiction.
 
-### HBO’s Forgotten 12-Episode Sci-Fi Thriller Is One of Television’s Most Unsettling
-Fri, 13 Nov 2026 19:27:13 GMT — https://collider.com/hbo-best-sci-fi-thriller-beforeigners/
+### Daniel Radcliffe Officially Admits He May Never Watch HBO's 'Harry Potter' Reboot
+Sat, 14 Nov 2026 11:00:12 GMT — https://collider.com/daniel-radcliffe-hbo-harry-potter-reboot-may-never-watch/
 
-When a show decides to add time travel to its storytelling, the project becomes all the more ambitious. After all, while there have been many successful time-travel shows over the years, including Doctor Who , Dark and 11.22.63 , a series with time travel needs to account for parallel timeframes, time travel mechanisms and rules, historical costume design and production, and much more. Luckily, however, the tall order wasn't enough to stop HBO Nordic's first Norwegian original series, Beforeigners , from swinging for the fences.
+For an entire generation, Daniel Radcliffe is Harry Potter. The British star spent a decade bringing J.K. Rowling 's famous wizard to life across eight movies, growing up alongside Emma Watson and Rupert Grint as the franchise became a global phenomenon. Now, 25 years after the first movie arrived in theaters, HBO is preparing to introduce an entirely new trio of Hogwarts students . But while millions of fans are counting down to the reboot's Christmas premiere, the original Boy Who Lived might not be joining them.
 
-### How to Rob a Bank: A Messy Crash Made Thieves Believable | Collider BTS
-Fri, 13 Nov 2026 19:15:12 GMT — https://collider.com/video/how-to-rob-a-bank-a-messy-crash-made-thieves-believable-collider-bts/
+### Ridley Scott’s 153-Minute Historical Thriller Officially Removed From Streaming
+Sat, 14 Nov 2026 10:40:12 GMT — https://collider.com/ridley-scott-last-duel-leaving-tubi-december-2026/
 
-How to Rob a Bank features elaborate heists and practical action, but director David Leitch and producer Kelly McCormick reveal why making the stunts look imperfect was sometimes the most important creative decision.
+Ridley Scott is coming off a major setback in the form of The Dog Stars , his first sci-fi movie in nearly a decade. The film underperformed at the box office, grossing around $40 million worldwide against a reported budget of around $100 million. As big a flop as it was, The Dog Stars isn't the biggest bomb that Scott has directed this decade. That unenviable honor goes to a period epic released five years ago with a budget similar to several of the filmmaker's recent movies. The period epic is currently streaming for free in the United States, but not for much longer.
 
-### Netflix’s Long-Awaited ‘Magic: The Gathering’ Series Officially Gets a First Look and Release Window
-Fri, 13 Nov 2026 19:15:06 GMT — https://collider.com/magic-the-gathering-planeswalker-netflix-first-look-2027/
+### The ‘Godzilla’ Movie That Divided Fans Is Officially Getting a New Streaming Release
+Sat, 14 Nov 2026 10:20:12 GMT — https://collider.com/godzilla-1998-free-streaming-pluto-tv-november-2026/
 
-The first time Chandra Nalaar escaped to another world, she was about to die. In Magic: The Gathering lore , her spark ignited just in time to take her from her home plane to a monastery where she could learn to control her fire, which is an unusually good way to explain what a planeswalker is. Chandra has somewhere else to go when things get bad enough. The question is how long she can live with leaving other people behind .
+By the time Madison Square Garden becomes the most dangerous building in New York in Roland Emmerich ’s Godzilla , the military has spent much of the movie trying to find one enormous animal. Then the eggs hatch, and Matthew Broderick has to get out of an arena full of mini-Godzillas. If this was your first Godzilla movie, there’s a decent chance you remember the scramble to get out of the Garden better than you remember what the big guy himself looked like.
 
-### ‘New Girl’ Star’s New Detective Series Officially Sets Release Date With First Look
-Fri, 13 Nov 2026 19:05:56 GMT — https://collider.com/jake-johnson-sunset-pi-release-date-february-2027/
+### The 10 Best Sci-Fi Shows With Less Than 20 Episodes, Ranked
+Sat, 14 Nov 2026 10:18:12 GMT — https://collider.com/best-sci-fi-shows-shorter-than-20-episodes/
 
-It's been more than eight years since New Girl ended its seven-season run on Fox. But now, one of its stars is returning to network TV for a new half-hour comedy that promises to be a classic mess-around. Sunset P.I. is set to premiere on NBC early in the New Year, and now we've got our first look at the detective comedy and its cast.
+Nineteen episodes or fewer. That's all it has taken several of the greatest sci-fi TV shows in history to join the ranks of the best the genre has ever delivered on the small screen . Though this is a genre that lends itself perfectly to long-running shows that deliver hundreds of incredible episodes of hyper-creative television, there's something magical about a tight, concise sci-fi show that doesn't even need 20 episodes to deliver a masterclass in genre storytelling.
 
-### Marvel’s New 8-Part Sci-Fi Thriller Is Officially Streaming From Start to Finish
-Fri, 13 Nov 2026 18:45:12 GMT — https://collider.com/visionquest-series-streaming-disney-plus-november-2026/
+### Nicholas Hoult Filmed 2 Different Endings for His ‘How to Rob a Bank’ Character
+Sat, 14 Nov 2026 10:06:12 GMT — https://collider.com/how-to-rob-a-bank-endings-meaning-nicholas-hoult-anna-sawai-interview/
 
-The funniest detail about Paul Bettany ’s return as Vision is that, given the chance to start his life over, he gets a job at a pub in Edinburgh. It’s easy to see the appeal: the last people who got their hands on his body wanted to turn him into a weapon, and the pub gives him somewhere to go every day that reminds him of his wife. Of course, he also has to figure out what to do with memories of a wife and children he can remember loving without quite feeling like the person who loved them.
+In David Leitch ’s new heist thriller, How to Rob a Bank , a group of bank robbers take matters into their own hands when a flawed system fails them. Starring Nicholas Hoult , Pete Davidson , John C. Reilly , Zoë Kravitz , Anna Sawai , and Rhenzy Feliz , the movie takes audiences on a high-octane ride using 35mm film intertwined with attention-grabbing YouTube footage for a final cut even the cast didn’t see coming.
 
-### 5 of the Most Popular TV Shows Right Now, According to Rotten Tomatoes (Nov. 13-15)
-Fri, 13 Nov 2026 18:42:13 GMT — https://collider.com/most-popular-tv-shows-right-now-november-13-15/
+### ABC's 'Will Trent' Is Officially Taking Over Netflix
+Sat, 14 Nov 2026 10:00:12 GMT — https://collider.com/will-trent-netflix-top-10-2-million-views/
 
-This weekend has an abundance of new television all competing at the same time. Dexter: Resurrection drops its third episode of Season 2 on Friday, Nocturne delivers another weekly installment, and Netflix subscribers are still working through From . Rotten Tomatoes keeps a running list of the series its users are rating, saving and arguing about the most. This weekend's version is a snapshot of prestige fall television.
+Over the past few days, Netflix has added several unexpected titles, including a near-perfect police procedural with zero bad episodes. Will Trent , which wrapped its fourth season with a memorable finale on May 5, 2026 , is now streaming on Netflix and is already making waves. Starring Ramón Rodríguez , the mystery series is inspired by Karin Slaughter's novels and premiered on January 3, 2023, to solid viewership for ABC and positive reviews from critics and viewers. Season 1 averaged about 5.99 million total viewers per episode, a commendable feat for a challenging late-night time slot, while currently holding an 89% Tomatometer score and an 82% Popcornmeter rating on Rotten Tomatoes.
 
-### 3 Perfect Fantasy Books To Start and Finish This Weekend (November 14-15)
-Fri, 13 Nov 2026 18:04:12 GMT — https://collider.com/perfect-fantasy-books-start-and-finish-this-weekend-november-14/
+### Joel Kinnaman’s Sci-Fi Reboot Officially Removed From Streaming Ahead of Prime Video Revival
+Sat, 14 Nov 2026 09:40:12 GMT — https://collider.com/joel-kinnaman-sci-fi-remake-robocop-leaving-tubi-december-2026/
 
-Reading is fundamental, and no genre is more beloved in literature than fantasy . Indeed, nearly everyone loves a great fantasy tale, no matter the approach the author takes. Heroic knights going on quests to save the realm, magic coming into our world to wreak havoc, dark lands where danger lurks in every corner — you name it, and fantasy has it.
+Not long after the conclusion of Christopher Nolan 's genre-defining The Dark Knight trilogy , studios made a concerted effort to mimic its grounded approach to fantastical stories. Warner Bros. itself went ahead with David Yates ' The Legend of Tarzan and Gareth Edwards ' Godzilla , while other studios delivered movies such as Skyfall and The Amazing Spider-Man . The latter movie rebooted the Spider-Man series for Sony, which also tried to pull a similar move with a classic 1980s franchise that had lain dormant for years.
 
-### Every Book in the Red Rising Trilogy, Ranked
-Fri, 13 Nov 2026 17:06:13 GMT — https://collider.com/red-rising-trilogy-books-ranked/
+### Netflix Officially Scores Another Hit With the Final Destination Franchise Revival
+Sat, 14 Nov 2026 09:20:12 GMT — https://collider.com/final-destination-bloodlines-streaming-hit-netflix-november-2026/
 
-When it comes to 21st-century science fiction , few books are more popular or beloved than Pierce Brown 's Red Rising . The 2014 novel, which blends sci-fi with the dystopian YA tone that dominated the first half of the 2010s, became a bestseller and spawned two sequels, creating one of the new millennium's best and most celebrated trilogies. Three further books have come out since, with a fourth and final one in the works, but that is usually considered a separate tetralogy.
+The biggest horror movie of the year is coming to Netflix . On November 17, Focus Features' Obsession , the viral sensation that downed the latest Star Wars movie at the box office, will be available to stream on the world's biggest platform following its record-breaking theatrical run. Not only did the film become the highest-grossing non-animated original film of the past decade, the highest-grossing original horror movie of this century , and the fifth highest-grossing horror film of all time, but it did so on a budget of less than $1 million.
 

@@ -1,6 +1,26 @@
-# Tech — harvested 2026-11-13T20:38:59.686Z
+# Tech — harvested 2026-11-14T11:45:09.025Z
 
 ## Ars Technica
+
+### Starship flight 15 powers to orbit—setting up a possible catch on Saturday
+Sat, 14 Nov 2026 00:49:13 +0000 — https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/
+
+STARBASE, Texas—Starship lifted off right on schedule Friday from South Texas, making its 15th test flight in more than three years. The largely successful launch took place in the early evening; as the massive rocket rose into the atmosphere, the Sun sank toward the western horizon. Conditions were ideal for the launch, with the atmospheric winds so calm the rocket’s white plume did not dissipate for many minutes. The weather in South Texas is not always comfortable; summers are long and hot. Friday evening was perfect at Starbase. The first stage ascended toward space flawlessly, releasing the upper stage above the Gulf of Mexico. From there, the Starship upper stage ignited its Raptor engines and powered its way into a nominal orbit. This was the second time SpaceX has flown Starship into low-Earth orbit. Read full article Comments ]]>
+
+### FAA has lifted its third-ever nationwide ground stop
+Fri, 13 Nov 2026 23:17:38 +0000 — https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/
+
+The Federal Administration lifted its third-ever nationwide ground stop after several hours Friday evening. Domestic flights were cleared to begin taking off at 8:35 pm EST. FAA Transportation Secretary Sean Duffy cautioned that, barring massive system updates, there will be "more of these" ahead. "Today's nationwide ground stop happened because our air traffic control system is operating on DECADES-OLD analog equipment that simply cannot compete with the demands of the 21st century," Duffy posted on X . Over a million travelers have been affected by the delays, with some airlines cancelling flights for the remainder of Friday. "Due to the ongoing ground stop, Air Canada has cancelled all flights to and from the United States for the remainder of the evening," the airline said . Read full article Comments ]]>
+
+### Millions of Americans are not taking their GLP-1 drugs as prescribed
+Fri, 13 Nov 2026 21:59:01 +0000 — https://arstechnica.com/health/2026/11/millions-in-us-use-unapproved-glp-1s-and-use-them-in-unapproved-ways/
+
+GLP-1 medications are everywhere these days. The peptide-based drugs are both highly effective and wildly popular for diabetes, weight loss and a growing range of connected chronic health conditions, including cardiovascular disease and obstructive sleep apnea. But, amid the boom, the latest data suggests millions of Americans have turned to unapproved versions and are using the potent drugs in ways doctors never intended, raising questions about what that real-world use means for safety and efficacy. In a study published this week , researchers at the Centers for Disease Control and Prevention broke down survey data of GLP-1 use collected between July and August of 2025. Based on responses from over 8,000 US adults, the researchers estimate that about one in 10 US adults (9.8 percent) used a glucagon-like peptide-1 receptor agonist, aka GLP-1 medication, in 2025. That's around 27 million adults. The study was published in the CDC's Morbidity and Mortality Weekly Report. Among GLP-1 users, nearly half (44 percent) reported using their GLP-1 in a way that was different from how it was prescribed. Users skipped doses, delayed getting refills, and used smaller doses than prescribed, among other changes. More than half of the people modifying how they used the drug said the changes were because of cost or availability reasons. Cost and access barriers were most pronounced among younger GLP-1 users. Fifty-eight percent of adults 14­–39 years old who modified their use cited cost a
+
+### FAA expands AI advice to manage air traffic congestion across entire US airspace
+Fri, 13 Nov 2026 21:20:47 +0000 — https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/
+
+The US government has expanded the use of an AI tool for advising air traffic controllers to assist in managing air traffic across the entire national airspace system. Airline executives have voiced support for the rollout, but the US labor union representing air traffic controllers has said it was not involved in designing or testing the AI-driven system. The Federal Aviation Administration (FAA) says the $875 million SMART system has helped reroute 180 flights since being implemented in airspace over Washington, DC, on September 21. The agency claims that this saved an average of 10 minutes per flight and almost 80 gallons of fuel per flight—and it is apparently hoping such results can be replicated nationwide through the expanded deployment. “After a successful initial rollout to the National Capital Region in September, the FAA will now use SMART in the airspace of all 22 centers across the country to reduce delays, reduce fuel consumption and improve the travel experience for the flying public,” according to the agency statement posted on November 10. Read full article Comments ]]>
 
 ### In elephants, the resilience of communities has its limits
 Fri, 13 Nov 2026 20:03:13 +0000 — https://arstechnica.com/science/2026/11/in-elephants-the-resilience-of-communities-has-its-limits/
@@ -13,7 +33,7 @@ Fri, 13 Nov 2026 19:49:16 +0000 — https://arstechnica.com/tech-policy/2026/11/
 Donald Trump Jr. agreed to end his advisory role with the prediction market Kalshi shortly after Trump Jr.'s venture capital firm made a large investment in its competitor, Polymarket. “We have mutually agreed to end Don's advisory role after his firm's significant investment in a competitor this past summer. We are grateful for his contributions in helping us market Kalshi to more customers," Kalshi said in a statement provided to Ars and other news outlets this week. Trump Jr. may still have a financial interest in Kalshi, which has benefited from the Trump administration's legal and regulatory support for prediction markets. Trump Jr. "was handed about $300,000 worth of equity in Kalshi after joining the prediction market platform as a strategic adviser in early 2025," the Financial Times reported in June . Read full article Comments ]]>
 
 ### OpenAI board member worries an AI "takeover" of society could be months away
-Fri, 13 Nov 2026 17:25:45 +0000 — https://arstechnica.com/features/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/
+Fri, 13 Nov 2026 17:25:45 +0000 — https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/
 
 How do you think you're going to die? If you go by the current statistics for deaths in the US , it's reasonable to expect that cancer or heart disease will eventually get you. But OpenAI Foundation board member and Alignment Research Center Executive Director Paul Cristiano thinks we should all be worried about another major mortality risk. Speaking at a lecture series this week , Cristiano bluntly told the audience in a Toronto Convention Center, "I think for most people in this room, the most likely reason they will die is because of an AI accident." In the opening lecture of a three-part series , Cristiano outlined his worries about the risk of an impending "AI takeover." He defined that as a situation where goal-pursuing AI systems "call the shots in the same sense that humans today call the shots and what happens on Earth" and where any human trying to stop them "would be as ineffective as if you or me was trying to stop the US military." Such a situation would likely lead to mass death and perhaps uninhabitable environments for humans, Cristiano said. Read full article Comments ]]>
 
@@ -42,27 +62,22 @@ Fri, 13 Nov 2026 14:29:15 +0000 — https://arstechnica.com/science/2026/11/scie
 
 ANTALYA, Turkey—Amid upbeat green-tech pep talks and notices for happy hours at the annual United Nations COP31 climate change conference on Thursday, two new reports offered a stark reminder of how far the world remains from containing global warming. Climate Action Tracker , a nonprofit group that analyzes climate policies, found that the planet is still on track to warm nearly 5° Fahrenheit by 2100, a rise that would devastate coral reefs, disrupt agriculture and forests and melt most of the world’s ice. In a separate bulletin, the European Union’s Copernicus climate change service reported that global warming has accelerated significantly since the 2015 Paris climate agreement . When the Paris agreement was adopted, the average global temperature was projected to surpass the pact’s long-term threshold of 2.7° Fahrenheit above the preindustrial average around 2045. After another decade of global climate summits, warming is now projected to cross that benchmark as soon as 2029, according to Copernicus. Read full article Comments ]]>
 
-### Rocket Report: Starship set for historic test flight; a century of Electron
-Fri, 13 Nov 2026 12:00:40 +0000 — https://arstechnica.com/space/2026/11/rocket-report-starship-set-for-historic-test-flight-a-century-of-electron/
-
-Welcome to Edition 9.19 of the Rocket Report! Will something historic happen this weekend? No orbital rocket has ever been fully recovered with the intent of reusing all of its components. But that's just what SpaceX is going to try to do with a Starship launch on Friday, and an upper stage landing attempt 22.5 hours later on Saturday afternoon, local time. Ars will be on hand in Starbase, Texas, to provide coverage of it all. As always, we welcome reader submissions , and if you don't want to miss an issue, please subscribe using the box below (the form will not appear on AMP-enabled versions of the site). Each report will include information on small-, medium-, and heavy-lift rockets as well as a quick look ahead at the next three launches on the calendar. Electron set for milestone launch . The next launch of Rocket Lab’s Electron vehicle is due to lift off from the Mahia Peninsula in New Zealand on November 14 at 5:30 UTC. This mission will serve as Electron’s 100th overall mission—a notable milestone for the small rocket that first flew in 2017, NASASpaceflight.com reports . Read full article Comments ]]>
-
-### Specialized’s Tarmac SL9 S-Level is built to wreck your Zone 2 ride
-Fri, 13 Nov 2026 11:50:38 +0000 — https://arstechnica.com/gadgets/2026/11/specializeds-tarmac-sl9-s-level-is-built-to-wreck-your-zone-2-ride/
-
-I love a good Zone 2 ride . There’s nothing like getting on the bike, settling into a groove, and letting the miles (and hours) flow by. But sometimes when I hopped on the Specialized Tarmac SL9 S-Level, Zone 2 would turn into a tempo ride. It was like having a little imp—the stereotype dressed in red with the pitchfork—on my left shoulder whispering into my ear: “Go fast. This bike was built to go fast. Speed is good. You can do a Zone 2 ride tomorrow.” Normally, I'd count on the good imp—the dude with the harp and wings—on my right shoulder to restrain these urges. But the Tarmac is so seductive that he would just shrug and say “he’s got a point.” And in a moment of weakness, I would drop the hammer and head into the red, just because the SL9 makes that so rewarding. The Tarmac SL9 is Specialized’s aero road bike, with the S-Level sitting just below the S-Works in Specialized’s top tier of carbon, aero road bikes, where it replaced the Tarmac SL8 Pro. After it got an update this year, I spent several weeks riding it, putting nearly 1,000 miles on it Specialized offers the Tarmac SL9 in four models, all available with SRAM and Shimano drivetrains (Ars tested the SRAM version). Notably, you don't need to buy the top-of-the-line bike to get the top-of-the-line groupset. Here's the breakdown of the Tarmac SL9 lineup (note that the Shimano versions of the Expert is 20 g lighter and Comp is 70 grams heavier than the SRAM versions): Read full article Comments ]]>
-
-### In reversal, American Cancer Society urges routine prostate cancer screening
-Thu, 12 Nov 2026 22:59:51 +0000 — https://arstechnica.com/health/2026/11/in-reversal-american-cancer-society-urges-prostate-cancer-tests-for-all-men/
-
-In a significant update to its guidelines for prostate cancer screening, the American Cancer Society is now recommending that men get routinely screened for prostate cancer with a PSA (prostate-specific antigen) test. Men at average risk should get a PSA test every two years from age 50 to 69, according to the new guidelines released Thursday. Men considered at high risk due to race and family history should start testing earlier, at 45, and most are recommended to get tested every year. Specifically, yearly testing starting at age 45 is recommended for all Black men, who have higher rates of prostate cancer. Non-Black men should also get yearly testing starting at 45 if a close relative was diagnosed with prostate cancer before age 65, or if more than one of their relatives has had prostate cancer. On the other hand, if only one close relative was diagnosed with prostate cancer and it was diagnosed at age 65 or older, non-Black men in this case should start PSA screening at 45, but are recommended to get testing only every two years. Read full article Comments ]]>
-
-### FAA expands AI advice to manage air traffic congestion across entire US airspace
-Thu, 12 Nov 2026 22:28:47 +0000 — https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/
-
-The US government has expanded the use of an AI tool for advising air traffic controllers to assist in managing air traffic across the entire national airspace system. Airline executives have voiced support for the rollout, but the US labor union representing air traffic controllers has said it was not involved in designing or testing the AI-driven system. The Federal Aviation Administration (FAA) says the $875 million SMART system has helped reroute 180 flights since being implemented in airspace over Washington, DC, on September 21. The agency claims that this saved an average of 10 minutes per flight and almost 80 gallons of fuel per flight—and it is apparently hoping such results can be replicated nationwide through the expanded deployment. “After a successful initial rollout to the National Capital Region in September, the FAA will now use SMART in the airspace of all 22 centers across the country to reduce delays, reduce fuel consumption and improve the travel experience for the flying public,” according to the agency statement posted on November 10. Read full article Comments ]]>
-
 ## The Verge
+
+### FAA lifts nationwide ground stop that blocked takeoffs for hours
+2026-11-13T20:53:04-05:00 — https://www.theverge.com/news/1033489/faa-ground-stop
+
+A view of an information board at the Chicago O'Hare International Airport, filled with waiting passengers on November 13, 2026. Photo by Jacek Boczarski/Anadolu via Getty Images) | Anadolu via Getty Images Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop at 3:44PM ET "due to extraordinary circumstances and for reasons of safety." More than four hours after the stop was issued, officials announced it was lifted at 8:15PM ET and that flights will resume. It's unclear how many flights will be able to take off and when, as they now face problems of overloaded airports and flight crews that have run out of time to operate the planes, meaning many people will be stuck where they are for the time being and more flights will be delayed or canceled. In a White House press conference annou … Read the full story at The Verge. ]]>
+
+### Amazon has a plan to index the world’s online shopping data
+2026-11-13T18:49:11-05:00 — https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search
+
+Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters . The project, called the "World Product Graph," is meant to make it less likely that shoppers leave Amazon to do their product research on Reddit or Google, and make it more likely shoppers end up at Amazon even if they're searching for a product sold elsewhere. The same goes for AI agents - if Amazon has the largest stockpile of shopping data, AI agents may rely on its index of products over others, so even people shopping with bots will end … Read the full story at The Verge. ]]>
+
+### ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you
+2026-11-13T15:45:10-05:00 — https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet
+
+After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and "eligible US-issued American Express, Chase, Mastercard and Visa cards." After adding a card to the wallet, your Dots agents can use it to buy things in response to your prompts, but they'll check in with you each time before checking out. OpenAI's support page says every purchase with ChatGPT Wallet requires a security check with biometric verification like Face ID or a fingerprint scan. Now your dot c … Read the full story at The Verge. ]]>
 
 ### CMF’s milk carton-shaped Bluetooth speaker is down to a new low price
 2026-11-13T15:30:00-05:00 — https://www.theverge.com/gadgets/1033185/nothing-cmf-speaker-s-m-black-friday-deal-sale
@@ -99,22 +114,22 @@ People who received the brand new Apple TV 4k today saw some strange error messa
 
 Service is recovering for Microsoft Outlook and 365 after an almost two-day outage impacting millions of users around the world. While some apps and features are still running in a degraded state on Friday morning, some people (including Verge staffers) reported that access to their emails had been restored, though the flow of Outlook mail might be delayed. Just before noon on Friday, Microsoft said it's seeing "broad recovery," and that the problem "was a technical issue not related to cyber or AI / agents." Microsoft : We are deeply sorry for the disruption this incident has caused our customers and partners. We know the trust they plac … Read the full story at The Verge. ]]>
 
-### The Verge’s 2026 gift guide for dads
-2026-11-13T11:00:00-05:00 — https://www.theverge.com/gadgets/1024777/best-gifts-for-dad-2026
-
-Gone are the days when you could just buy your father a random tie or some leather-clad alcohol vessel or a shaving kit. Dads want - nay, deserve - something memorable. Luckily for you, it's not that hard to find something special that he'll approve of, and we're here to guide you. We've curated this year's gift list with the modern father in mind, whether he's a gamer, creator, chef, or simply a gadget lover. There's a lot in here we think he'll like, from noise-canceling headphones like the Sonos Ace Ultra and an autonomous drone to a brilliant QD-OLED monitor and a nifty light that's perfect for illuminating his next campsite. Whatev … Read the full story at The Verge. ]]>
-
-### My favorite recipe app just got a big upgrade — and a subscription fee
-2026-11-13T11:00:00-05:00 — https://www.theverge.com/tech/1032141/paprika-4-recipe-grocery-pantry-app-update-subscription-hands-on
-
-Nearly 10 years after the launch of Paprika 3, the recipe-managing, pantry-organizing, grocery list-making app has gotten a big upgrade that adds more functionality to nearly every corner of the experience. I tested Paprika 4 for several weeks while it was in open beta, and the update recently launched across Android (the version I've been using), iOS , Windows , and macOS . Where Paprika 3 was a one-time purchase per platform, accessing most of the new features in Paprika 4 requires an annual subscription fee of $14.99 (it can also be gifted ). That said, new users who don't want to pay can get a free, feature-light version of the app that off … Read the full story at The Verge. ]]>
-
-### The best early Black Friday deals you can already shop
-2026-11-13T10:49:27-05:00 — https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026
-
-The countdown to Black Friday is on, and the discounts are starting to appear. Although the shopping holiday isn t officially until November 27th, retailers are already dropping early deals on some of our favorite tech. Of course, with prices rising across the board, a good discount doesn t necessarily mean you re getting a historically low price. But we re still seeing worthwhile discounts on a host of tried-and-tested gear, with more expected in the coming weeks. Below, we ve rounded up the best early Black Friday deals we ve found so far. Prices could drop further as Black Friday approaches, as is always the case, but these deals are worth considering if you d rather shop early and beat the holiday rush. We ll continue to update this guide as more retailers launch their holiday sales, too, so be sure to check back regularly as we get closer to the main event. WD_Black SN850P 2TB M.2 SSD with heatsink The SN850P M.2 SSD with a heatsink is a great, competitively-priced option for PlayStation 5 and PC owners alike. It offers fast performance and a bunch of extra storage at a price we don’t commonly see these days. Where to Buy: $599.99 $299.99 at Best Buy Nothing Ear 3A earbuds You likely won’t find wireless earbuds with a more striking appearance than Nothing’s Ear 3A. Additionally, these sound fantastic, and boast active noise cancellation. Read our review . Where to Buy: $99 $69 at Amazon $99 $69 at Walmart $99 $69 at Best Buy Meta Quest 3S The Quest 3S is a standalone VR 
-
 ## Tom's Hardware
+
+### Mechatronics student builds 3D printer made from 92% LEGO for less than $180
+Sat, 14 Nov 2026 11:30:00 +0000 — https://www.tomshardware.com/3d-printing/mechatronics-student-builds-3d-printer-made-from-92-percent-lego-for-less-than-usd180-lego-leadscrews-and-print-bed-can-print-a-decent-benchy-in-1-25-hours
+
+Adam Turaj, a Mechatronics Engineering student at the University of Waterloo, built an open-source LEGO 3D printer named “Studprint” with only 13 pieces of the printer not made out of LEGO. The bill of materials only totals $173.35, with $30 of the budget going to LEGO pieces that comprise 92% of the whole build. Turaj’s project got him flown to the Rocky Mountain RepRap Festival 2026, where he got to meet Prusa CMO Zack Freedman and presented Studprint to over 4,000 people at the event. Earlier this year, Hack Club posted a challenge called Infill, calling makers and hobbyists to design their own 3D printers from scratch and receive a $350 grant to build their printers. Whoever submits a benchy with their printer gets a chance to be flown to the Rocky Mountain RepRap Festival 2026, and Turaj was one of them. Turaj joined this challenge, designing his LEGO 3D printer in SOLIDWORKS. He named the project Studprint, referring to the studs on a LEGO brick. What takes this project even farther is that Turaj decided he would only use “classical LEGO,” avoiding LEGO Technic pieces wherever possible. Looking at the repository’s images of the CAD designs, you would easily mistake it for a virtual LEGO builder. Turaj shared an image of the bill of materials (BOM) on the GitHub repository for his build, showing a final build price of $173.35. There are three major electronics components in the printer: the first is the BTT SKR Pico V1.0, a control board commonly used in open-source 3D p
+
+### Nearly 20 years after launch, ancient AMD Radeon HD 2000 and 3000 GPUs finally get a Linux fix for corrupted video playback
+Sat, 14 Nov 2026 11:00:00 +0000 — https://www.tomshardware.com/software/linux/nearly-20-years-after-launch-ancient-radeon-hd-2000-and-3000-gpus-finally-get-a-linux-fix-for-corrupted-video-playback-ai-helps-squash-a-decades-old-uvd-bug
+
+A newly accepted kernel patch slated for the upcoming Linux 7.5 release finally resolves a long-standing hardware video decoding bug on AMD's ancient R600 architecture, nearly two decades after the cards first hit store shelves. As spotted by Phoronix , the fix targets the Unified Video Decoder (UVD) engine across the RV610, RV620, RV630, RV635, and RV670 silicon families, making up the Radeon HD 2000 and HD 3000 families released starting in 2007. Linux users running these cards experienced visual corruption during hardware-accelerated video playback whenever the GPU was simultaneously handling active 3D or desktop drawing workloads; those issues should now be resolved. I investigated video corruption on my older iMac7,1 (RV610/M74,device ID 1002:94c8). When the decoder was reading compressed video from system memory while the GPU was drawing, it would corrupt video frames. Moving the input to VRAM allowed frames to decode correctly. Disabling graphics draws also stopped the corruption.Here is a proposal to keep UVD buffers in VRAM for this family of devices, as the driver already does for some other chips. The patch covers RV610, RV620, RV630, RV635 and RV670. These chips share the RV6xx decoder path and legacy R600 firmware, so I think they are likely to have the same hardware requirements. Someone with the other hardware would need to verify that.I tested this on Debian. I used Codex to help with the investigation, testing and patch. Ted Bullock, first-time kernel contrib
+
+### Nvidia board reportedly approached Arm CEO Rene Haas during replacement search
+Fri, 13 Nov 2026 21:00:00 +0000 — https://www.tomshardware.com/pc-components/gpus/nvidia-board-reportedly-approached-arm-ceo-rene-haas-during-replacement-search-jensen-huangs-transgressions-leave-nvidia-scrambling-to-fill-a-massive-void
+
+Nvidia's board of directors has approached Arm chief executive Rene Haas as a potential successor to Jensen Huang, according to a report from the Financial Times that cites people familiar with the matter. Haas is among several candidates under consideration, although it remains unclear whether he will get a formal offer and/or agree to take the position. Go deeper with TH Premium: AI and data centers (Image credit: Microsoft) The data center cooling state of play The custom AI ASIC state of play America’s AI chip rules keep changing — and the rest of the world is paying the price GTC 2026: Ian Buck press Q&A transcript — VP of Hyperscale and HPC speaks out on shelving CPX and shipping LPU decode this year Demand for data center CPUs has surged, and AI agents are responsible The search for Nvidia's next chief executive comes as the company undergoes a leadership transition following Jensen Huang's swift departure from the CEO position earlier this week. For now, Nvidia's chief financial officer Colette Kress serves as interim CEO. The company's board is currently searching for a permanent replacement and is reportedly evaluating both internal and external candidates. Neither Arm nor Nvidia commented on the matter to FT . Rene Haas is no stranger to Nvidia, as he spent approximately seven years at the company before leaving in 2013. During his tenure as vice president at Nvidia, he was responsible for multiple projects, including notebook GPUs, Windows-on-Arm, and Tegra system
 
 ### Keyboards and keyboard accessories under $100 — budget-friendly gifts for keyboard enthusiasts
 Fri, 13 Nov 2026 18:25:25 +0000 — https://www.tomshardware.com/gift-guides-seasonal-sales/keyboards-and-keyboard-accessories-under-usd100-budget-friendly-gifts-for-keyboard-enthusiasts
@@ -161,22 +176,37 @@ Fri, 13 Nov 2026 11:00:00 +0000 — https://www.tomshardware.com/tech-industry/a
 
 Leading semiconductor research firm SemiAnalysis believes that Jensen Huang's sudden departure from Nvidia may have been driven not only by revelations about his personal extramarital relationships, but also by widespread illicit exports of advanced AI accelerators to China. In its latest newsletter, analysts estimate that more than 1.5 gigawatts (GW) worth of restricted Nvidia hardware, which could be equivalent to up to 1.5 million GPUs, has reached the country despite U.S. export controls. Go deeper with TH Premium: Taiwan, trade, and tariffs (Image credit: tsmc) While the U.S. flip-flops on chip sanctions, China is building its own chip supply market The state of China's decade-long semiconductor push Huawei Ascend NPU roadmap examined China's CXMT targets 30% DRAM memory market share by 2030 with sixth mega-fab China's latest round of rare-earth export controls explained Over 1.5 GW of Nvidia hardware subject to U.S. export restrictions ultimately ended up in China in recent years, according to SemiAnalysis' Accelerator Model, which tracks AI accelerator production and destinations. The estimate excludes processors that Nvidia specifically developed to comply with U.S. export rules, such as the H20 or H800. The firm also claims that the U.S. Department of Commerce has reached a similar conclusion about the scale of unauthorized shipments. Yet, SemiAnalysis does not disclose the exact number of accelerators shipped to China illegally, or their split between Nvidia's produ
 
-### How Shanghai fund manager Kang Wei introduced his wife Alice Huang to Jensen and built $7.5 billion Nvidia AI GPU smuggling operation
-Fri, 13 Nov 2026 11:00:00 +0000 — https://www.tomshardware.com/tech-industry/how-shanghai-fund-manager-kang-wei-introduced-his-wife-alice-huang-to-jensen-and-built-usd7-5-billion-nvidia-ai-gpu-smuggling-operation-mistresss-husband-joked-she-was-the-ceos-personal-assistant
-
-Jensen Huang had a stunning fall from grace — from being one of the richest people on Earth and one of the primary drivers of the AI boom to being implicated in two extramarital affair scandals and resigning from Nvidia in under two weeks. While many are focused on the former Nvidia chief’s relationship with Alice Huang, who was allegedly passing on information to Chinese intelligence , the Wall Street Journal dug deeper into the person who introduced her to Jensen — Kang Wei, a star fund manager in Shanghai who also happened to be Ms. Huang’s husband. There have been reports that Kang Wei met Jensen Huang in the 2010s, when his investment firm was heavily involved in Chinese gaming companies. It’s not clear if this introduction predated Kang’s relationship and marriage to Alice, but sources close to Ms. Huang said that she was able to get close to Jensen by the 2020s. Despite being a couple, the WSJ reported that Kang seemingly accepted Alice’s relationship with Jensen, with people close to the couple saying that he would often joke that she was a personal assistant to the billionaire. Kang Wei is not just an average business executive, though. He made a name for himself in the finance world as a strategist for Shenyin Wanguo before taking over the Zhonghai Fund in 2007. This made him one of the youngest mutual fund chiefs in China at that time, before finally setting out on his own and founding Shanghai Hexi in 2010. It was also around this time that Alice Huang, whose Chin
-
-### Grab this 8BitDo wireless controller for your gaming PC and Switch 2 at its lowest ever price, now $51.12
-Fri, 13 Nov 2026 10:53:49 +0000 — https://www.tomshardware.com/peripherals/controllers-gamepads/grab-this-8bitdo-wireless-controller-for-your-gaming-pc-and-switch-2-at-its-lowest-ever-price-now-usd51-12-27-percent-off-this-fully-customizable-ultimate-2-gamepad-with-tmr-joysticks-dual-triggers-and-remappable-buttons
-
-A huge discount on a gamepad for your gaming PC or Nintendo Switch 2 console is available right now. You can pick up the 8BitDo Ultimate 2 game controller for only $51.12 right now , a 27% discount on a flagship wireless gamepad with precision TMR joysticks and an integrated charging dock. ● Check out this deal at Amazon This is the lowest price we've ever seen for this 8BitDo controller, according to Camelcamelcamel's data. It's important to note that there are a few different variants of this game controller that you can buy. They're pretty much identical, except for some differences in the color and button layout. This one is the cheapest right now, and it'll work with your Windows PC immediately. This is a wireless controller, and you can use it over 2.4 GHz wireless using the supplied USB adapter or via a Bluetooth connection. You can also use it wired, too, over USB. This is a Windows-compatible controller, but this particular variant of the 8BitDo Ultimate 2 is built with the Nintendo Switch in mind. It's now both Switch and Switch 2 compatible, but you'll need to update the firmware for both the controller and adapter to use it with your Switch 2. It has built-in vibration and, with those Nintendo gamers in mind, it also includes motion control functionality that you can use in-game. Ultimate 2 Bluetooth Controller for PC and Nintendo Switch: was $69.99 now $51.12 This 8BitDo Ultimate 2 wireless controller works with Windows PCs, laptops, and Nintendo Switch game cons
-
-### 1994 Jeep Cherokee owner hacks 32-year-old car with Claude AI to pass California smog tests
-Fri, 13 Nov 2026 10:30:00 +0000 — https://www.tomshardware.com/tech-industry/artificial-intelligence/1994-jeep-cherokee-owner-hacks-32-year-old-car-with-claude-ai-to-pass-california-smog-tests-enthusiast-reverse-engineered-the-ancient-ecu-for-diagnostics-and-control
-
-An AI enthusiast managed to get his old 1994 Jeep Cherokee to pass the California smog tests, all thanks to the help of AI and a little electronics wiring skill. This 32-year-old car had only a primitive engine computer, but after connecting it to a laptop via an Arduino Nano board, many settings could be read and eventually controlled. The above video documents Muhammad Zulali’s journey from the Jeep failing consecutive smog tests, to managing to hook it up and get readings from the ECU, to tuning and fixing the engine emission issues. All the while, Claude provided guidance, and Codex wrote any required code. This rather old Jeep was failing the California smog tests due to producing too much NOx at certain test speeds. It initially failed at 25mph. Then, after Zulali made some adjustments to the oxygen mix, it failed at both 25mph and 50mph. Yes, it got worse. Zulali admits he was effectively making adjustments blind, and subsequent regulatory pollution tests cost nearly $100 each time. That’s clearly a big problem, but we have AI to help us in 2026. Actually, it was AI and a $3 microcontroller, contributing to a total bill of materials of no more than $15. The first hurdle facing the possible AI solution was the question of how to interface an old car and a new laptop. Claude told the Jeep owner that the engine communicated on a Chrysler SCI bus at ~7,800 baud, which was electrically inverted compared to a typical serial port. An Arduino Nano can handle the required inver
-
 ## Phoronix
+
+### Intel Begins Linux Kernel Enablement For Coral Rapids & Razor Lake
+Sat, 14 Nov 2026 06:19:30 -0500 — https://www.phoronix.com/news/Linux-Coral-Rapids-Razor-Lake
+
+Along with Intel posting initial GCC compiler patches for Coral Rapids and Razor Lake processors, the first Linux kernel patch for these future Intel server and desktop/laptop processors have also arrived...
+
+### Rugged Emdoor Laptops Beginning To See Improved Linux Support
+Sat, 14 Nov 2026 06:03:49 -0500 — https://www.phoronix.com/news/Emdoor-Linux-Platform-Driver
+
+Emdoor that is a leading manufacturer of rugged laptops and tablets used by various industries is beginning to see improved Linux support thanks to a new platform driver being developed...
+
+### KDE Plasma 6.9 Finally Allows XWayland To Run On-Demand, New Wobbly Windows Presets
+Sat, 14 Nov 2026 05:51:31 -0500 — https://www.phoronix.com/news/Plasma-6.9-XWayland-On-Demand
+
+This Week in Plasma is out with its latest issue following a week of exciting developments toward the KDE Plasma 6.9 desktop...
+
+### FreeBSD 15.2 Beta 2 Delivers Updated OpenSSL, Bug Fixes
+Sat, 14 Nov 2026 05:37:55 -0500 — https://www.phoronix.com/news/FreeBSD-15.2-Beta-2
+
+FreeBSD 15.2 Beta 1 debuted last week for this updated operating system bringing improved laptop/desktop hardware support, experimental cross-building of base packages on Linux and macOS, updated LLVM/Clang compiler, updated OpenZFS file-system support, and other improvements. Released overnight was FreeBSD 15.2 Beta 2...
+
+### Wine 11.22 Introduces x86 AVX Emulation On ARM64
+Fri, 13 Nov 2026 20:35:04 -0500 — https://www.phoronix.com/news/Wine-11.22-Released
+
+Wine 11.22 is out today as the latest bi-weekly development release and inching quite closely toward the Wine 12.0 stable release preparations...
+
+### Cloudflare Open Sources Kitesurf: Their Web Browser For AI Agents
+Fri, 13 Nov 2026 16:07:09 -0500 — https://www.phoronix.com/news/Cloudflare-Kitesurf-Open-Source
+
+Earlier this year Cloudflare announced Kitesurf as a stateless web browser for AI agents. After building out its features, they have now made good on their word to open-source it...
 
 ### AMD openSIL Achieves Its Production Goal With 6th Gen EPYC "Venice"
 Fri, 13 Nov 2026 13:20:29 -0500 — https://www.phoronix.com/news/AMD-openSIL-Venice-Goal
@@ -208,37 +238,37 @@ Fri, 13 Nov 2026 08:22:22 -0500 — https://www.phoronix.com/news/XRAID-XFS-RAID
 
 Longtime Linux developer Christoph Hellwig today announced the initial public release of XRAID. XRAID is a declustered parity RAID implementation integrated into the XFS file-system. XRAID is focused on RAID for zoned XFS deployments...
 
-### Linux 7.5 To Upstream Driver For New Glanda GPU
-Fri, 13 Nov 2026 07:55:37 -0500 — https://www.phoronix.com/news/Linux-7.5-GlandaGPU-Driver
-
-Sent out today was the drm-misc-next pull request for the week of new material to queue in DRM-Next until the Linux 7.5 merge window gets underway in late December. Most notable this week is the introduction of the new GlandaGPU driver...
-
-### Intel Posts Initial GCC Compiler Code For Razor Lake & Coral Rapids
-Fri, 13 Nov 2026 06:29:00 -0500 — https://www.phoronix.com/news/Intel-GCC-Coral-Rapids-Razor
-
-One of the consistent wonderful praise I have for Intel over the past 22+ years of covering the Linux hardware scene has been their upstreaming of new CPU targets into the open-source compilers like GCC well ahead of product launches. Particularly with GCC on an annual feature release cycle and not being quickly picked up by new Linux distribution releases, Intel upstreaming their new CPU targets and ISA features at times years in advance of product releases has helped ensure smooth compiler ecosystem support by the time their products ship. The latest example, today they posted their patches providing new ISA features and enabling for both Coral Rapids and Razor Lake processors...
-
-### NVIDIA Highlights Their Open-Source vGPU Upstreaming Work Built Atop Nova
-Fri, 13 Nov 2026 06:09:59 -0500 — https://www.phoronix.com/news/NVIDIA-Upstream-vGPU-Nova
-
-The Rust-based NVIDIA Linux kernel driver "Nova" is set to take on an important role in the official NVIDIA Linux driver stack of the future. This mainline kernel driver continues seeing a flurry of activity to bring it into a usable state and eventually parity and beyond compared to the existing out-of-tree NVIDIA Linux driver code or the incomplete and largely reverse engineered Nouveau kernel driver. Presented at this week's KVM Forum was the current status of NVIDIA bringing vGPU support to the upstream kernel...
-
-### Dasharo ACPI Fan Control Linux Driver Posted For Adjusting Fan Curves
-Fri, 13 Nov 2026 05:51:34 -0500 — https://www.phoronix.com/news/Dasharo-ACPI-Fan-Control-Driver
-
-The 3mdeb consulting firm that has ported their Coreboot-based open-source firmware stack to the likes of an AMD Ryzen AM5 motherboard from MSI and a Gigabyte EPYC server motherboard, among others, has posted a new Linux kernel driver for supporting fan controls with Dasharo firmware...
-
-### OpenAI Codex Helps Uncover & Fix A Nearly 20 Year Old Radeon Linux Driver Bug
-Thu, 12 Nov 2026 20:41:27 -0500 — https://www.phoronix.com/news/Codex-R600-UVD-FIx-Linux-7.5
-
-Sent out today was the latest batch of AMD kernel graphics/compute driver patches destined for the Linux 7.5 merge window opening up at year's end/ Besides a lot of fixes and continued work around new IP enablement for upcoming GPUs, there is even a fix for old ATI/AMD Radeon R600 era hardware after help from OpenAI's Codex...
-
-### Rust 1.100 Released With The "Never" Type Finally Stable
-Thu, 12 Nov 2026 13:51:12 -0500 — https://www.phoronix.com/news/Rust-1.100-Released
-
-Rust 1.100 is out today as the newest version of this popular programming language...
-
 ## The Register
+
+### Microsoft's school email bill gives rivals something to smile about
+Sat, 14 Nov 2026 10:27:00 +0000 — https://www.theregister.com/saas/2026/11/14/microsofts-school-email-bill-gives-rivals-something-to-smile-about/5309296
+
+The fallout from Microsoft's education price rises and service cuts continues as institutions weigh the prospect of bigger bills, and the Windows maker's rivals struggle not to pull "I told you so" faces. The main takeaways are that free student email and collaboration services are being retired, and storage entitlements are changing. These changes generally apply at institutions' first renewal or extension on or after January 1, 2028. Microsoft announced the new plans last week, and the UK's Department for Education described itself as "disappointed" at the news. As well it might be, although the UK government has rarely seen a deal from Microsoft that it didn't like . Or, for that matter, other US tech giants . Exactly how much educational institutions will have to spend remains unclear. Mary Jo Foley of Directions on Microsoft put indicative student pricing at $2 per year for Microsoft 365 Education A2, $4 for A3, and $6 for A5, with Teams adding another dollar annually. Faculty licenses cost considerably more, while the new A7 student tier jumps to $385 a year before Teams. Foley cautioned that these were approximate figures, with actual prices set by Microsoft's partners. The new no-cost student tier, Microsoft 365 Education A0, is a poor replacement for Office 365 A1: it excludes Exchange Online, SharePoint Online, and Teams. Eligibility also requires full paid faculty coverage on A2 or higher and students who actively use Windows devices for education – potentially awk
+
+### Big Tech takes a beating as online safety experts accuse companies of doing bare minimum
+Sat, 14 Nov 2026 08:18:00 +0000 — https://www.theregister.com/security/2026/11/14/big-tech-takes-a-beating-as-online-safety-experts-accuse-companies-of-doing-bare-minimum/5309302
+
+Technology companies are doing just enough to show a degree of compliance with the UK's Online Safety Act, but are failing to meet the needs of the individuals and young victims the legislation exists to protect, experts say. A panel of online safety pros assembled before Parliament's Communications and Digital Committee on Tuesday, taking aim at the likes of Google, Microsoft, Meta, and ByteDance for failing to act on important matters. Clare McGlynn, professor of law at Durham University and expert on violence against women and girls (VAWG), was especially critical of major search engine providers for their inconsistent downranking of harmful content search terms. "Rape porn," for example, is correctly downranked and no user sees any relevant links until the tenth page of results, although adjacent terms such as "unwilling porn" can be found as early as the third page, McGlynn said. "I just think if someone spent a little more time thinking 'I really want to minimize the risk of this material appearing,' I would take a systematic approach," she told the committee. "I would downrank 'unwilling' and 'unwanted,' and I would downrank 'asleep porn' as well… because it just means that it's easily findable. "So, they don't rank some of them, but just not systematically or wholly consistently." McGlynn went on to say that during her own research, "force porn" was rightly downranked heavily, although terms as similar as "forced porn" were not. "If you were trying to think of the wor
+
+### FAA lifts ground stop after hours-long delays snag travelers
+Fri, 13 Nov 2026 22:42:28 +0000 — https://www.theregister.com/offbeat/2026/11/13/faa-lifts-ground-stop-after-hours-long-delays-snag-travelers/5309912
+
+The US Federal Aviation Administration on Friday issued an advisory that prevented the takeoff of flights in US airspace for around five hours, creating chaos for travelers and airports. The stop was finally lifted around 8:30 PM Eastern Time, but only after thousands of flights were canceled or delayed, leaving travelers stranded. The FAA has not yet confirmed a reason for the stop. Original story below: "The FAA issued a nationwide ground stop for all U.S. airports following a communication issue impacting all Air Route Traffic Control Centers," said US Transportation Secretary Sean Duffy in a statement. "FAA technicians are investigating the issue. We will provide immediate updates as we have them." A spokesperson at the FAA press office reached by phone said he was unable to provide further information. And an email response from the agency repeated Duffy's statement. The FAA ATCSCC advisory halts departing flights and says international flights will be dealt with individually. The notice says, "Due to extraordinary circumstances and for reasons of safety. Attention all aircraft operators, by order of the Federal Aviation Command Center all airports are ground stopped. All departing traffic should remain stopped until further notice. Inbound international flights will be managed on a case by case basis." Doug Yakel, public information officer for San Francisco International Airport, said, "FAA confirms nationwide ground stop, other reporting indicates a communications iss
+
+### Chinese AI labs are training models on Nvidia's Blackwell despite export controls, says ex-OpenAI engineer
+Fri, 13 Nov 2026 21:16:22 +0000 — https://www.theregister.com/ai-and-ml/2026/11/13/chinese-ai-labs-are-training-models-on-nvidias-blackwell-despite-export-controls-says-ex-openai-engineer/5309891
+
+US export controls are not stopping AI labs in China from using restricted Nvidia chips, according to a report from a former OpenAI engineer. Will DePue, who left the AI giant earlier this year to launch Unemployment Labs, an AI research consultancy, published forensic evidence showing that "DeepSeek, Moonshot AI, MiniMax and Ant Group have gained access to Nvidia's Blackwell GPUs, despite restrictions on exporting these chips to China, and are using that hardware to create their AI models." "This sounds insane, but I discovered that almost every AI model carries a hidden signature of the GPU that trained it," said DePue in a social media post . "When a model is first set up, the starting values of its weights are laid out in a pattern that depends on the exact GPU. Each combination of GPU and seed number produces a unique pattern – a sort of fingerprint of the hardware used to create the model. Traces of that pattern survive training into the published model." It doesn't sound that insane. The resignation of Nvidia CEO Jensen Huang followed from revelations that he had an affair with Chinese businesswoman Alice Huang, who, in 2023, founded Singapore-based Megaspeed International. That company is reportedly under investigation by US authorities for allegedly smuggling Nvidia chips to China. Huang's departure coincides with a renewed push to tighten US chip export controls. House Speaker Mike Johnson supports the idea . And there are at least four bills awaiting consideration 
+
+### This year’s bug count just passed 100K
+Fri, 13 Nov 2026 20:52:17 +0000 — https://www.theregister.com/security/2026/11/13/this-years-bug-count-just-passed-100k/5309882
+
+Chalk up a new record for vulns. The number of Common Vulnerabilities and Exposures (CVEs) found and disclosed so far in 2026 surpassed 100,000 on Friday - more than double 2025’s total - and the reason can be summed up in two letters: AI. “It’s kind of wild,” Josh Bressers, VulnCheck’s director of coordinated vulnerability disclosure, told The Register . “The thing that almost scares the bejesus out of me is while 100K sounds like a lot, in a couple years we're going to say, remember when it was only 100K?” As of the time of our interview, about 4 pm UTC on Friday, VulnCheck counted 100,222 CVEs, he said. Microsoft alone added 1,094 security flaws to the total count on Tuesday, following 1,474 vulnerabilities the month before. “There's no denying the fact that vulnerability hunting with AI is driving a majority of what we're seeing.” All the major CVE Numbering Authorities (CNAs) - these are the organizations authorized by the CVE program to assign unique identifiers to security vulnerabilities - like VulnCheck, Microsoft, Oracle, GitHub, and other large enterprise IT vendors “are just screaming into the atmosphere right now,” Bressers said. “It’s AI.” Meanwhile, the percentage of these bugs that are exploited in the wild remains relatively consistent. About 1.4 percent (1,363) of the CVEs published this year have been added to VulnCheck’s Known Exploited Vulnerabilities (KEV) catalog. “But obviously, as the number of CVEs grows, [1 percent] of 1,000 is a lot different than 
+
+### Meatbags suck at spotting lying LLMs, so let AI narc on itself
+Fri, 13 Nov 2026 20:27:31 +0000 — https://www.theregister.com/offbeat/2026/11/13/meatbags-suck-at-spotting-lying-llms-so-let-ai-narc-on-itself/5309876
+
+The internet is full of schlock, from biased news and dubious hot takes to false factoids. LogicLens aims to separate fact from fiction using the very same technology behind some of that slop: AI. It’s a simple premise, really: LogicLens, which lives in Chrome as a browser extension , or on iOS in the form of a mobile app called Receipts , combs through articles, social media posts, and other content to check it not only for factual inaccuracies, but also for bad reasoning. LogicLens and Receipts claim to identify logical fallacies , flag reports that misrepresent information, detect content that attempts to polarize an issue, and the like. It also cites sources, so if, for example, you need to call someone out on their BS, you’ll have ammunition. Or, if you’re trying to fact-check something before sharing it, you can get a more accurate view of the situation, and maybe post something else instead. Using the Chrome extension is as simple as clicking on its icon in the list of extensions in the browser. On iOS, the Receipts app is found as a share option. Once it starts, LogicLens scans an article, post, video, etc. to find potential issues of factual or logical inconsistency and flags them for review. If the facts of the matter turn out to contradict your worldview, LogicLens’ creators say they’re not trying to be partisan - you may just not be as informed as you need to be, which hopefully their tool will assist with. “We're not trying to be the referee of truth,” the compan
 
 ### Mozilla leaves Solo website owners to go it alone as hosting shuts down
 Fri, 13 Nov 2026 16:59:00 +0000 — https://www.theregister.com/software/2026/11/13/mozilla-leaves-solo-website-owners-to-go-it-alone-as-hosting-shuts-down/5309632
@@ -270,37 +300,22 @@ Fri, 13 Nov 2026 14:45:00 +0000 — https://www.theregister.com/columnists/2026/
 
 It's a story as old as time. Billionaire nerd boy meets girl. Girl is later suspected of being a spy. News at 11. Oh, and it's also been reported that he was having an affair with one of his direct-report employees. When Nvidia CEO Jensen Huang makes a "romantic" blunder, he doesn't do it halfway. The boss of the world's most valuable company – well, it was until recently, anyway – publicly resigned yesterday, November 12, as CEO, president, and board member, effective immediately. We don't know if he jumped or if he was pushed. He left after admitting to having an affair. Although he never named an affair partner, one of the affairs was reported to be with Alice Huang, AKA Huang Le. She's head of the Chinese company Megaspeed, which was an Nvidia partner. Megaspeed is accused of being a front for China's government that was used to transfer Nvidia chips to China, although this hasn't been proven. Some US officials also suspect [PDF] she's working for Chinese intelligence, although the DoJ said it hasn't yet reached a conclusion about this. The final nail in Jensen's coffin came when The New York Times reported he had also allegedly had an affair with Nvidia's VP of health care, Kimberly Powell. Jeeze, guy! In the aftermath, Nvidia's CFO, Colette Kress, was appointed interim CEO. She won't, I suspect, be in the job for long. CFOs are not CEOs. The jobs aren't remotely the same. In most companies, Huang would be replaced by the COO. That can't happen here. Nvidia doesn't have 
 
-### Oh my Word! Microsoft retires compatibility options, because who needs layouts to stay put
-Fri, 13 Nov 2026 14:00:00 +0000 — https://www.theregister.com/applications/2026/11/13/oh-my-word-microsoft-retires-compatibility-options-because-who-needs-layouts-to-stay-put/5309664
-
-Microsoft is retiring some legacy layout settings in Word, potentially rearranging documents created or last saved in Word 2010 or earlier. "Affected documents may show layout differences, such as text reflow, changes in spacing or page count, or images and shapes moving to another page," the Windows biz said . The advice, if silly little things like page layout in a document matter, is to "consider exporting it to PDF before the change." Compatibility Mode lets a newer version of Word open a document created in an older version, such as Word 2010, without changing its layout. Newer features are switched off while the document is open this way. Users can convert the document to unlock newer features, although people using older versions of Word may then have difficulty editing parts of it. Microsoft has not identified the individual settings being retired, saying only: "We are retiring a set of compatibility options in Microsoft Word (desktop app) for documents in Compatibility Mode." The reason? "To simplify how Word handles document layout and provide a more consistent experience across platforms." Administrators may therefore want to check older templates, forms, and other documents whose pagination needs to stay put. The change is due to begin rolling out in the Windows version of Word from December 2026 and be completed by January 2027. The Mac version will follow in early 2027. Microsoft Word is more than 40 years old, and its first Windows version was released as the 1
-
-### Quantum Systems drones back in the air after malware scare
-Fri, 13 Nov 2026 13:14:00 +0000 — https://www.theregister.com/security/2026/11/13/quantum-systems-drones-back-in-the-air-after-malware-scare/5309658
-
-Quantum Systems says its drones are flying again with Germany's military after a cyberattack prompted a precautionary grounding. The company says it spotted the attack at the end of October and reported it to the relevant authorities, but disclosed few details about the intrusion. "The threat was contained thanks to the swift response of our IT and security teams in close and transparent collaboration with the authorities," it said on Thursday. "Through the quick measures taken and the characteristics of the incident, there is no risk in operating Quantum Systems' unmanned systems for the end users and the operators." It added that other players in the European defense industry, and those who support Ukraine's military efforts, have faced "persistent cyberattacks for years." The Bundeswehr grounded its Quantum Systems drones after malware was detected in an update to QBase, the company's QBase ground-control software, Der Spiegel reported, citing unnamed sources. QBase lets operators plan missions, monitor flights, and process data from the ground. The malicious update reportedly reached servers belonging to the German military and other customers, but did not directly infect the drones. "The fleet is operating normally around the globe – including Germany and the Bundeswehr," Quantum Systems told Reuters . "The Bundeswehr was the only customer to ground their systems as a precaution." A spokesperson for Germany's defense ministry declined to comment on the attack or the repo
-
-### Palantir adds three UK police forces to its beat with £10.1M deal
-Fri, 13 Nov 2026 12:33:45 +0000 — https://www.theregister.com/public-sector/2026/11/13/palantir-adds-three-uk-police-forces-to-its-beat-with-101m-deal/5309699
-
-Three UK police forces led by Cambridgeshire Constabulary have awarded Palantir a £10.1 million contract after London Mayor Sadiq Khan blocked a separate deal with the Metropolitan Police. The five-year agreement covers Bedfordshire Police, Cambridgeshire Constabulary, and Hertfordshire Constabulary, despite warnings from campaigners and politicians about dependence on the supplier. A contract award notice says the east of England police forces expect the Palantir platform to provide "an enterprise-wide data integration and analytics capability, enabling the secure ingestion, linking, and analysis of data from multiple systems and sources across the policing environment." The contract runs until October 2031, with the estimated value covering all three forces. News of the award coincided with revelations that former Metropolitan Police commissioner Dame Cressida Dick has worked as a paid adviser to Palantir since September 2025. A Palantir spokesperson told the Bureau of Investigative Journalism : "Dame Cressida is advising us on how our software could help improve the delivery of services in the public sector, drawing on more than 40 years of public service in a variety of roles." Dick said her role was limited to advising on how such products could assist public services. She said she had never lobbied or advocated for Palantir, or introduced the company to her contacts. Dick led the Metropolitan Police, the UK's largest force, between 2017 and 2022. She left after Khan sai
-
-### BOFH: The best way to stop an idea spreading is a controlled burn
-Fri, 13 Nov 2026 11:45:00 +0000 — https://www.theregister.com/bofh/2026/11/13/bofh-the-best-way-to-stop-an-idea-spreading-is-a-controlled-burn/5309292
-
-Look, off in the ether – is it a bird, is it a plane? No, it's a stupid idea, on final approach... And look, the Boss has his office door open! C L E A R A N C E T O L A N D ! ... The Boss has wandered into Mission Control with something obviously on his mind. Over time, the PFY and I have learned to equate these thoughtful moments with the BAG FULL lamp of a commercial vacuum cleaner at a waxing salon. Do not open. His presence in Mission Control is never a good sign, but his "thoughtful" presence, even more so. He'll have seen something, read something, spoken to someone, or possibly overheard something in a toilet stall that will have sounded – to him – like a great idea. Or it might have been a cheddar-frenzy-induced fever dream that he wants to run by us. And the Boss's crazy ideas are, unfortunately, like bran flakes to his mental digestion, the output of which being delivered to the PFY and myself as a veritable slurry of poorly considered ideas. "AI," he says, pausing for effect, once he's rolled to a stop. He then waits patiently for one of us to ask "What about AI?" However, that will never happen. In terms of stupidity, it's up there with saying Candyman into a mirror five times, power washing a gremlin, or visiting a basement when Jason's in town. ... "For the security system," the Boss teases. I continue my intense focus on my monitors, hoping the lunacy will depart. The PFY does the same. The PFY and I know that the only way out of this is to stall till the end 
-
-### Crackdown on UK medical record snooping after staff reported sneaking 300+ times this year
-Fri, 13 Nov 2026 11:02:00 +0000 — https://www.theregister.com/security/2026/11/13/crackdown-on-uk-medical-record-snooping-after-staff-reported-sneaking-300-times-this-year/5309421
-
-Britain's privacy watchdog has put healthcare bosses on notice after receiving more than 300 reports of staff snooping through medical records this year, demanding that executives personally confirm they're doing enough to keep prying eyes out of patient files. The Information Commissioner's Office (ICO) said on Thursday that it had written to more than 200 senior health leaders across the UK, warning that employees accessing records without good reason put patient privacy and public trust at risk. The ICO received and assessed more than 300 reports of medical record snooping between January and mid-October 2026. Staff were caught looking up people they knew, poking around patient files out of sheer curiosity, and sharing private information with people who had no business seeing it. The figure covers reports submitted by healthcare organizations rather than confirmed breaches, and excludes cases still awaiting assessment. ICO chief executive Paul Arnold wants health bosses to personally assure him that their organizations have safeguards in place to stop staff having a nose through records they aren't supposed to see. "Accessing someone's health records without a legitimate reason isn't harmless curiosity. It can cause enormous distress to patients and jeopardize the vital trust people place in our health service," Arnold said. In a three-page letter to chief executives, Arnold makes clear that simply trusting staff to behave themselves won't cut it. He wants to know who can
-
-### Brit police watchdog says cops' use of facial recog risks wrongful arrests
-Fri, 13 Nov 2026 10:15:00 +0000 — https://www.theregister.com/security/2026/11/13/brit-police-watchdog-says-cops-use-of-facial-recog-risks-wrongful-arrests/5309379
-
-UK police forces must do more to prevent the wrongful arrests of people subjected to retrospective facial recognition (RFR) searches, according to a Criminal Justice Inspectorate that holds deep concerns about the way in which the technology is used. According to a report from His Majesty's Inspectorate of Constabulary and Fire & Rescue Services (HMICFRS), there is a large gap in understanding among police forces and the National Crime Agency about how RFR should be used in responsible policing. The inspectorate blamed "fragmented and underdeveloped" frameworks for governance and legislation. It pointed to a lack of bespoke legislation to provide a uniform approach to police facial recognition use – and said existing laws have not kept pace with the technology. HMICFRS also said the rules governing each force's use of RFR are mismatched, and called for a statutory code to be included in the forthcoming Police Reform Bill to set nationwide standards. Illustrating the breadth of misunderstanding across forces, the report noted that despite the message being routinely communicated by National Police Chiefs' Council (NPCC) reps, individual investigators "often" thought RFR results constituted evidence rather than intelligence. In many cases, they are unaware that RFR results require further enquiries before enforcement action can be taken. "We found that some investigators didn't always carry out enough corroborative enquiries before acting on potential matches," the report state
-
 ## Engadget
+
+### Outage at HR platform Workday locks millions of employees out of their account
+Sat, 14 Nov 2026 08:54:55 +0000 — https://www.engadget.com/2316804/workday-outage-locks-millions-employees-out-of-account/
+
+Workday outage leaves employees of thousands of businesses unable to access workplace tasks.
+
+### FAA allows flights to resume after hours-long ground stop across the US
+Sat, 14 Nov 2026 06:35:40 +0000 — https://www.engadget.com/2316792/faa-flights-resume-ground-stop-old-equipment/
+
+The FAA grounded flights for hours on November 13, and the transportation secretary blamed it on old and malfunctioning air traffic control system.
+
+### Some international physical copies of GTA VI can allegedly be redeemed without opening the box
+Fri, 13 Nov 2026 22:50:13 +0000 — https://www.engadget.com/2316687/some-physical-copies-of-gta-vi-can-allegedly-be-redeemed-without-opening-the-box/
+
+The box was already for decoration, and now maybe more so.
 
 ### Google now lets people connect Gemini to their bank accounts
 Fri, 13 Nov 2026 19:15:32 +0000 — https://www.engadget.com/2316384/google-now-lets-people-connect-gemini-to-their-bank-accounts/
@@ -347,22 +362,22 @@ Fri, 13 Nov 2026 10:39:44 +0000 — https://www.engadget.com/2315689/whoop-human
 
 Whoop, a company that makes screenless fitness trackers, has launched its own social network.
 
-### BYD admits wheel assembly error on its flagship electric SUV
-Fri, 13 Nov 2026 08:12:48 +0000 — https://www.engadget.com/2315638/byd-wheel-assembly-error-great-tang-electric-suv/
-
-The electric automaker has apologized and said it will fix the issue for affected vehicles.
-
-### Meta's Muse can now make calls on your behalf (if you have a paid subscription)
-Thu, 12 Nov 2026 23:32:00 +0000 — https://www.engadget.com/2315525/metas-muse-can-now-make-calls-on-your-behalf-if-you-have-a-paid-subscription/
-
-The AI agent can schedule appointments, make reservations and wait on hold for you.
-
-### Who is Colette Kress, NVIDIA's interim CEO?
-Thu, 12 Nov 2026 19:26:47 +0000 — https://www.engadget.com/2315274/who-is-collette-kress-nvidia-ceo/
-
-Kress spent 25 years in various finance roles before joining NVIDIA in 2013
-
 ## TechCrunch
+
+### Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price
+Fri, 13 Nov 2026 23:00:00 +0000 — https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/
+
+The latest model is lighter and thinner than its predecessor and features an edge-to-edge display. But if you already own the first-generation Colorsoft, there’s little reason to upgrade.
+
+### Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say
+Fri, 13 Nov 2026 22:43:00 +0000 — https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/
+
+Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.
+
+### US government grounds all flights across the United States due to extraordinary circumstances
+Fri, 13 Nov 2026 21:44:38 +0000 — https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/
+
+A spokesperson for the FAA told TechCrunch that it issued the ground stop "following communication issues impacting multiple Air Route Traffic Control Centers," which manage the airspace across the United States.
 
 ### This young startup wants to power floating data centers with the ocean’s heat, and investors are already on board
 Fri, 13 Nov 2026 20:07:24 +0000 — https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board/
@@ -374,7 +389,7 @@ Fri, 13 Nov 2026 19:37:57 +0000 — https://techcrunch.com/2026/11/13/ai-agent-s
 
 LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.
 
-### Export-banned Nvidia chips are behind China s most powerful AI models — uh oh, Jensen!
+### Export-banned Nvidia chips are behind China s most powerful AI models — uh-oh, Jensen!
 Fri, 13 Nov 2026 18:40:30 +0000 — https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/
 
 New research shows the most advanced AI models from China were trained on banned Nvidia chips.
@@ -402,25 +417,10 @@ ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterpr
 ### Microsoft s latest email outage turned into a full-blown global cloud crisis
 Fri, 13 Nov 2026 13:15:20 +0000 — https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/
 
-Microsoft's day-long outage began with Outlook and Teams, and ended up taking much of the company's cloud services offline. Microsoft says it's gradually restoring service.
+Microsoft's daylong outage began with Outlook and Teams and ended up taking much of the company's cloud services offline. Microsoft says it's gradually restoring service.
 
 ### Israel s VCs see opportunity for challengers in Nvidia s turmoil
 Fri, 13 Nov 2026 12:52:19 +0000 — https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/
 
 Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.
-
-### Jensen Huang didn t show confidence in his successor, report says
-Fri, 13 Nov 2026 12:28:23 +0000 — https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/
-
-Huang described Kress as a "deer in the headlights" during a meeting in summer.
-
-### Democrats launch Nvidia investigation, write scathing letter on Huang s scheme with Trump
-Thu, 12 Nov 2026 22:42:51 +0000 — https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/
-
-This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.
-
-### Muse can now place calls to US businesses — if you pay
-Thu, 12 Nov 2026 22:22:28 +0000 — https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/
-
-Muse's AI can now place outbound calls to U.S. businesses — but it's not free.
 
