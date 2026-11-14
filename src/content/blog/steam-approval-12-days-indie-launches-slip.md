@@ -17,7 +17,6 @@ artistView:
   misses:
     - "Pipeline: a checklist cuts the failure rate, not the queue. Studios still cannot plan backwards from a date when the last step in the chain takes somewhere between three and twelve business days."
     - "Process: the Community page stays open while a game sits unapproved, so a developer watches complaints accumulate under a product nobody can buy. That is a storefront problem Valve has not addressed."
-draft: true
 ---
 
 A release date is a promise made to a dozen other people —
