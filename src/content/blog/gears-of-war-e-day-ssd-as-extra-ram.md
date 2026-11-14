@@ -17,7 +17,6 @@ artistView:
   misses:
     - "Lighting: Series S goes without Lumen reflections, per Digital Foundry's comparison, and reflective floors are exactly where a viewer notices the absence."
     - "Performance: reviewers describe Series X dipping under 60 in busy Horde scenes, which is what a tight frame budget looks like when streaming has to keep up."
-draft: true
 ---
 
 Paging memory out to disk is about as old as operating systems. Your desktop has
