@@ -38,6 +38,11 @@ Twelve business days is close to three weeks on a calendar.
 
 ## Who it has hit
 
+<figure>
+  <img src="/img/blog/steam-approval-12-days-indie-launches-slip/shot-02.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>Studio Daimon, via the official Steam page for Food Devils</figcaption>
+</figure>
+
 Food Devils, a strategy-RPG roguelite from the Italian studio Studio Daimon,
 submitted its Early Access build on **12 October** and was still waiting when
 its launch date arrived. Game director Alfred Kamon said the team could only
