@@ -19,7 +19,6 @@ artistView:
   misses:
     - "Art direction: using AI to validate design concepts before implementation is the item to watch on DokeV, because generated concepts average toward the median and DokeV's only real asset is a look that resembles nothing else."
     - "Process: Pearl Abyss says core content creation stays with the team, but the props it apologised for in March were content creation. The line has not been drawn anywhere a reader can see it."
-draft: true
 ---
 
 2D props are the assets nobody defends. A painting on a tavern wall, a poster, the
