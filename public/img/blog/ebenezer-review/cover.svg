@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Ebenezer review: six verdicts average 7.0">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0.65" y2="1">
+      <stop offset="0" stop-color="#18011F"/>
+      <stop offset="1" stop-color="#5B3FBF"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <text x="80" y="150" fill="#E7DCFF" font-family="Helvetica, Arial, sans-serif" font-size="34" letter-spacing="6">FILM &amp; TV — REVIEW</text>
+  <text x="80" y="330" fill="#FFFFFF" font-family="Helvetica, Arial, sans-serif" font-size="190" font-weight="700">7.0</text>
+  <text x="340" y="330" fill="#C9B6FF" font-family="Helvetica, Arial, sans-serif" font-size="56" font-weight="600">average, from 5 to 9</text>
+  <text x="80" y="420" fill="#FFFFFF" font-family="Helvetica, Arial, sans-serif" font-size="62" font-weight="700">Ebenezer: A Christmas Carol</text>
+  <text x="80" y="500" fill="#C9B6FF" font-family="Helvetica, Arial, sans-serif" font-size="42">Six scored verdicts. Everyone agrees about the ghosts.</text>
+</svg>
