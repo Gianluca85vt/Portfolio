@@ -1,4 +1,4 @@
-# AI — harvested 2026-11-14T11:45:09.025Z
+# AI — harvested 2026-11-14T18:50:53.075Z
 
 ## OpenAI
 
@@ -17,11 +17,6 @@ Thu, 12 Nov 2026 20:00:00 GMT — https://openai.com/business/customer-stories/a
 
 Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.
 
-### Gondola doubles revenue as its team builds more with Codex
-Thu, 12 Nov 2026 12:00:00 GMT — https://openai.com/business/customer-stories/gondola
-
-Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.
-
 ## Hugging Face
 
 ### Build a Robot Pick-and-Place Simulation with SimReady Assets
@@ -38,8 +33,7 @@ Thu, 12 Nov 2026 19:07:35 GMT — https://huggingface.co/blog/ibm-granite/llmon-
 
 ## Google DeepMind
 
-### Introducing Gemini 4 Hydrogen
-Thu, 12 Nov 2026 18:00:50 +0000 — https://deepmind.google/blog/introducing-gemini-4-hydrogen/
+_Nothing in the last 48 hours._
 
 ## VentureBeat AI
 

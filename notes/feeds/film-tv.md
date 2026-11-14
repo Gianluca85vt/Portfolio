@@ -1,58 +1,98 @@
-# Film & TV — harvested 2026-11-14T11:45:09.025Z
+# Film & TV — harvested 2026-11-14T18:50:53.075Z
 
 ## Variety
 
-### Hen Review: A Resilient Chicken Flies the Coop, Over and Over, in an Unexpectedly Stirring Survival Story
-Sat, 14 Nov 2026 11:13:41 +0000 — https://variety.com/2026/film/news/hen-review-1236947197/
+### Skip Hinnant, The Electric Company Actor and Voice of Ralph Bakshi s Fritz the Cat Movies, Dies at 86
+Sat, 14 Nov 2026 18:13:00 +0000 — https://variety.com/2026/tv/news/skip-hinnant-dead-electric-company-fritz-the-cat-bakshi-1236947741/
 
-Why did the chicken cross the road? In Hen, the answer is, as ever, to get to the other side. But the stakes are a little higher and more urgent than that in György Pálfi unassuming marvel of a creature feature: When its gallinaceous protagonist is forced across a busy highway, it s because a hungry [ ]
+Actor Skip Hinnant, best known for his work on the PBS children s series “The Electric Company and as the voice of Fritz the Cat in Ralph Bakshi s racy animated films from the 1970s, has died. He was 86. Hinnant s death was confirmed by his family in an obituary notice published by the New York Times. [ ]
 
-### Spain’s FICX Gijón Festival Bets Big on International, Regional and Local Talent
-Sat, 14 Nov 2026 11:03:41 +0000 — https://variety.com/2026/film/global/gijon-festival-ficx-i-play-rocky-gregg-araki-1236946467/
+### UFC 334 Livestream: How to Watch Gane vs. Hokit Online
+Sat, 14 Nov 2026 18:00:00 +0000 — https://variety.com/2026/shopping/news/how-to-watch-ufc-334-gane-vs-hokit-live-online-free-1236945089/
 
-GIJÓN, Spain — Taking place in northern Spain under two monhs after the San Sebastián International Film Festival and linked to it by the Cross Roads initiative, the 64th Gijón International Film Festival (FICX) lineup stacks many of the year’s most talked-about features from international festivals such as Cannes, Berlin, Venice and Sundance. At the [ ]
+After Alexander Volkanovski defeated Movsar Evloev in a TKO in the second round to retain the featherweight title during UFC 333 in late October, the Ultimate Fighting Championship travels from Abu Dhabi to New York City for UFC 334 on Saturday, Nov. 14. For the main event, French fighter Ciryl Gane (14-2-0) defends his UFC [ ]
 
-### European Film Award Nominations: Fatherland Reigns Over Contest, Followed by La Bola Negra
-Sat, 14 Nov 2026 10:28:31 +0000 — https://variety.com/2026/film/news/fatherland-la-bola-negra-european-film-awards-nominations-1236947619/
+### Club Kid Cinematographer Adam Newport-Berra on Capturing Intimate and Authentic New York Moments
+Sat, 14 Nov 2026 16:15:00 +0000 — https://variety.com/2026/artisans/news/club-kid-cinematography-new-york-adam-newport-berra-1236938607/
 
-Paweł Pawlikowski’s “Fatherland,” which centers on the relationship between the writer Thomas Mann and his daughter Erika, leads the contest for the 39th European Film Awards, followed close behind by Javier Calvo and Javier Ambrossi’s “La Bola Negra.” “Fatherland” has 11 EFA nominations, while “La Bola Negra,” a triptych about the history of gay men’s [ ]
+Cinematographer Adam Newport-Berra enjoys working with directors who also act in their films. This year alone, his work includes “The Invite” with director and actor Olivia Wilde, as well as teaming up with Jordan Firstman on A24’s “Club Kid,” in which Firstman directs and stars. Newport-Berra (Variety s 10 Artisans to Watch 2026) says, “I tend [ ]
 
-### Amid Flight Stop, Ari Emanuel Slams Pete Buttigieg for Making Zero Progress Modernizing FAA: You Left a Failing System in Place
-Sat, 14 Nov 2026 03:02:51 +0000 — https://variety.com/2026/politics/news/ari-emanuel-slams-pete-buttigieg-zero-progress-faa-1236947542/
+### Box Office: Johnny Depp s Ebenezer Leads With $6.7 Million on Opening Day, How to Rob a Bank Struggling With $2.2 Million on Friday
+Sat, 14 Nov 2026 16:05:34 +0000 — https://variety.com/2026/film/box-office/ebenezer-box-office-johnny-depp-opening-day-1236947684/
 
-As the nation s air traffic ground to a halt Friday afternoon amid an FAA ground stop, Ari Emanuel had strong words for former transportation secretary Pete Buttigieg. The WME executive chairman posted on X, No one’s hands are clean here. However, Mr. Secretary Buttigieg, you had four years in the job and infrastructure money, yet [ ]
+“Ebenezer,” an adaptation of “A Christmas Carol” starring Johnny Depp as Scrooge, led the box office on Friday with $6.7 million on opening day. The PG-13 take on the Charles Dickens classic is projected to earn $18 million to $20 million from 3,535 North American theaters in its opening weekend. “Ebenezer” should bring in another [ ]
 
-### Michael Mann Seeks to Reclaim Rights to Original Heat Screenplay
-Sat, 14 Nov 2026 02:51:07 +0000 — https://variety.com/2026/film/news/michael-mann-new-regency-heat-screenplay-lawsuit-1236947532/
+### Adam Driver Says Disney Killing The Hunt for Ben Solo Felt Criminal : Steven Soderbergh Wants to Make a “Star Wars” Movie. What Are We Debating?
+Sat, 14 Nov 2026 16:02:04 +0000 — https://variety.com/2026/film/news/adam-driver-disney-hunt-for-ben-solo-criminal-1236947685/
 
-Michael Mann, who is set to begin shooting the long-awaited Heat 2 in January, is in a legal dispute with New Regency as he seeks to reclaim the copyright to his screenplay for the original film. New Regency produced Heat, released in 1995. The company filed a lawsuit on Friday arguing that it still owns [ ]
+Adam Driver continues to express his dissatisfaction with Disney over the decision to kill his “Star Wars” sequel movie “The Hunt for Ben Solo,” which he spent two-and-a-half years developing with director Steven Soderbergh. In a new interview with The Associated Press on his “Paper Tiger” press tour, the Oscar nominee said he was surprised [ ]
 
-### AFM Dealmakers, Talent Agents and Hollywood Stars Left Stranded by Nationwide Flight Stoppage
-Sat, 14 Nov 2026 01:38:17 +0000 — https://variety.com/2026/film/news/agents-stars-stranded-flight-stoppage-afm-governors-awards-1236947477/
+### Shane Gillis Was Surprised by ‘SNL’ Monologue Backlash and Says He Doesn’t ‘Have a Problem’ With How Women Dress at the Gym
+Sat, 14 Nov 2026 15:43:35 +0000 — https://variety.com/2026/tv/news/shane-gillis-snl-monologue-backlash-whores-joke-1236947671/
 
-The Federal Aviation Administration issued a halt on all U.S. flights on Friday at around 1 p.m. PT and didn t lift the order until approximately four hours later. With the American Film Market, the Governors Awards and numerous FYC panels scheduled over the next several days, the stoppage left many Hollywood insiders grounded on one [ ]
+Shane Gillis is reflecting on his “Saturday Night Live” monologue about women’s gym attire that drew controversy. On the Oct. 10 episode this season, the comedian’s opening monologue included jokes about how women “dress like whores now” at the gym, which inspired a wave of criticism on social media. Gillis revealed on the Nov. 13 [ ]
 
-### Kamal Khera Named New Canadian Consul General In Los Angeles, Will Meet With Studios
-Sat, 14 Nov 2026 01:24:58 +0000 — https://variety.com/2026/biz/news/kamal-khera-canadian-consul-general-los-angeles-1236947219/
+### James Gunn Says No One From Skydance Has Seen Superman Sequel Man of Tomorrow as Rumors Fly After His DC Studios Exit
+Sat, 14 Nov 2026 15:27:58 +0000 — https://variety.com/2026/film/news/james-gunn-skydance-superman-man-of-tomorrow-dc-exit-1236947669/
 
-Canadian Prime Minister Mark Carney has appointed a new Consul General in Los Angeles, who says she hopes to inspire a renewed sense of unity between Canada and the U.S. The Honourable Kamal Khera was introduced as Canada’s Consul General in Los Angeles on Thursday night at a reception at Canada House, the Consul General s [ ]
+James Gunn took to Threads to clarify a rumor about his exit from DC Studios: It had nothing to do with the upcoming “Superman” sequel “Man of Tomorrow” worrying executives at Warner Bros.’ new parent company, Skydance. Rumors have circulated on social media alleging the film’s poor quality is one of the reasons Gunn got [ ]
 
-### Jason Voorhees Makes His Animated Debut in New ‘Never Hike Alone’ Short
-Fri, 13 Nov 2026 23:45:40 +0000 — https://variety.com/2026/digital/news/jason-voorhees-animated-debut-hike-alone-short-1236947225/
+### How Law Order: SVU Pulled Off the Impossible With Latest Milestone: It Will Never Happen Again
+Sat, 14 Nov 2026 14:50:38 +0000 — https://variety.com/2026/tv/news/law-and-order-svu-600th-episode-1236947263/
 
-More than 46 years after his big-screen debut in the slasher classic “Friday the 13th,” hulking horror icon Jason Voorhees is about to prove that his machete cuts just as deep in animation. The hockey-masked killer returns in “Never Hike Alone: Ghosts in the Fog,” a new 10-minute animated film from independent production company Womp [ ]
+Some partnerships don t end. It s a quote Ice-T s Fin said during the 600th episode of Law Order: Special Victims Unit on Thursday night — and one that means so much more than just the partnership between Benson and Stabler. The same could be said about Mariska Hargitay and Dick Wolf. The pair have been [ ]
 
-### Amid Flight Halt, Trump Meets With Jon Voight to Talk U.S. Film Incentive: Get This Done!
-Fri, 13 Nov 2026 23:28:40 +0000 — https://variety.com/2026/film/news/trump-hasnt-commented-flight-shutdown-promoting-film-incentive-1236947426/
+### Venice Prizewinner A Day in the Life of Jo Explores Who and What We Truly Are Through Emotional Journey of Ordinary, Remarkable Teenage Girl
+Sat, 14 Nov 2026 13:32:05 +0000 — https://variety.com/2026/film/global/venice-prizewinner-a-day-in-the-life-of-jo-teenage-girl-1236947632/
 
-As flights across the U.S. came to a halt Friday amid a rare nationwide ground stop, President Donald Trump was in a meeting with actor Jon Voight to talk about jumpstarting support for a federal film incentive. Voight and his team, Steven Paul and Scott Karol, were at the White House to urge the president [ ]
+Following its prize-winning premiere at the Venice Film Festival and a whirlwind tour of the fall festival circuit, “A Day in the Life of Jo: Chapter Phaedra,” by Greek filmmaker Jacqueline Lentzou, celebrates its homecoming this week at the Thessaloniki Film Festival, where it’s competing for top honors in the festival’s main international competition. Inspired [ ]
 
-### Seth Rogen on ‘The Invite,’ ‘Tangles,’ ‘The Studio’ Season 2, Reviving ‘Darkwing Duck’ and Why ‘Any A hole Can Write That Joke’ Was the Best Advice He Ever Got
-Fri, 13 Nov 2026 23:16:01 +0000 — https://variety.com/2026/film/awards/seth-rogen-the-invite-tangles-the-studio-season-2-1236946538/
+### Nike Drops New Air Jordan 11 Retro Green Screen Sneakers: Here’s Where To Buy a Pair Online
+Sat, 14 Nov 2026 12:00:00 +0000 — https://variety.com/2026/shopping/news/shop-nike-air-jordan-11-retro-green-screen-sneakers-online-1236946508/
 
-For years, people have told me that Seth Rogen and I are voice twins. Sitting across from him at the Middleburg Film Festival, deep in Virginia horse country, even Jeremy, the person recording our conversation, can confirm that the resemblance is very close. Even so, the year Rogen is having belongs entirely to him. Coming [ ]
+Back in 1996, Space Jam was one of the biggest movies of the year. It starred Michael Jordan and Bugs Bunny in a winner-take-all cinematic basketball game against the Monstars for the fate of the planet and the galaxy. During the animation-hybrid movie, MJ was wearing the now-iconic Nike Air Jordan 11 sneakers. And for [ ]
 
 ## The Hollywood Reporter
+
+### Shane Gillis Addresses SNL Monologue Backlash, Says He Promised the Show There Would Be No Controversy
+Sat, 14 Nov 2026 17:28:12 +0000 — https://www.hollywoodreporter.com/tv/tv-news/shane-gillis-addresses-snl-monologue-backlash-1236755428/
+
+“Not to defend 'SNL,' they don’t approve it. I mean, they could shut it down. They could, but you don’t write your set and give it to them. Unless you’re not a comedian," he said on a podcast.
+
+### Boston College vs. Notre Dame Livestream: Where to Watch the College Football Game Online for Free
+Sat, 14 Nov 2026 17:26:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/boston-college-notre-dame-football-game-free-stream-online-1236754220/
+
+Today's game marks the debut of Jason Benetti in the broadcast booth following the sudden passing of longtime sportscaster Dan Hicks.
+
+### L.A.’s Most Celebrated French Chef Is Staging a Comeback
+Sat, 14 Nov 2026 17:00:00 +0000 — https://www.hollywoodreporter.com/lifestyle/lifestyle-news/los-angeles-french-chef-ludo-lefebvre-comeback-1236753231/
+
+Onetime culinary wunderkind (and heartthrob) Ludo Lefebvre is keeping the city’s Gallic tradition alive with a handful of new concepts.
+
+### Florence Pugh Was So Nervous to Release East of Eden and Still Hasn t Read the Reviews: It Was Too Much With This One
+Sat, 14 Nov 2026 16:59:06 +0000 — https://www.hollywoodreporter.com/tv/tv-news/florence-pugh-nervous-release-east-of-eden-reviews-1236755447/
+
+The actress both stars in and executive produced Netflix's hit adaptation of the 1952 John Steinbeck novel.
+
+### Skip Hinnant, Actor on ‘The Electric Company’ and Voice of Fritz the Cat, Dies at 86
+Sat, 14 Nov 2026 16:51:01 +0000 — https://www.hollywoodreporter.com/tv/tv-news/skip-hinnant-dead-electric-company-fritz-the-cat-1236755456/
+
+He also played Cathy’s boyfriend on ‘The Patty Duke Show’ and Schroeder on the stage in ‘You’re a Good Man, Charlie Brown.’
+
+### Johnny Depp s Ebenezer Conjuring Up Box Office Victory in Star s Return to Studio Fare
+Sat, 14 Nov 2026 16:33:47 +0000 — https://www.hollywoodreporter.com/movies/movie-news/johnny-depp-ebenezer-box-office-opening-how-to-rob-bank-1236755417/
+
+Fellow newcomers 'Ghost Soldier' and 'How to Rob a Bank' are getting quieter starts over the weekend.
+
+### Christopher Abbott Reveals How His You Can See Everything Moment Came to Be
+Sat, 14 Nov 2026 16:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/christopher-abbott-you-can-see-everything-billy-evans-1236755390/
+
+The actor appears alongside Amanda Seyfried in Nathan Fielder and Lance Oppenheim's hit doc.
+
+### Why Bruce Buffer Traded the Octagon for the Steakhouse in New Bud Light Campaign
+Sat, 14 Nov 2026 15:23:31 +0000 — https://www.hollywoodreporter.com/business/business-news/ufc-bruce-buffer-bud-light-ad-chef-1236755180/
+
+The UFC ring announcer stars in a new Bud Light spot, as the beer brand and Omaha Steaks launch a new fan engagement play.
 
 ### Fatherland, La Bola Negra, Fjord Lead European Film Award Nominations
 Sat, 14 Nov 2026 10:30:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/fatherland-la-bola-negra-european-film-award-nominations-1236754942/
@@ -64,47 +104,42 @@ Sat, 14 Nov 2026 06:00:00 +0000 — https://www.hollywoodreporter.com/movies/mov
 
 Estonian director Eeva Mägi is back at the Tallinn Black Nights Film Fest with her tender new film about a photographer, Princess Niina and her three suitors: The Mentor, The Writer and The Stonemason.
 
-### Cookie Queens Director Says Girl Scout Cookies Were A Delicious Way In to a Larger Conversation (Video)
-Sat, 14 Nov 2026 05:36:12 +0000 — https://www.hollywoodreporter.com/movies/movie-news/cookie-queens-alysa-nahmias-scad-savannah-film-festival-1236751877/
-
-Alysa Nahmias recently spoke with The Hollywood Reporter about her life-affirming documentary, which premiered at Sundance, won the audience award at SXSW and is now the year's highest-grossing non-celebrity doc.
-
-### 5 Takeaways From China s Golden Rooster and Hundred Flowers Film Festival
-Sat, 14 Nov 2026 02:19:05 +0000 — https://www.hollywoodreporter.com/movies/movie-news/takeaways-china-golden-rooster-hundred-flowers-film-festival-1236755329/
-
-Beyond Tony Leung Ka Fai’s win and a big night for local hits, a week of seminars and workshops showed how China’s industry is thinking about AI, global audiences and young talent.
-
-### New Regency Sues Michael Mann to Retain Rights to Heat
-Sat, 14 Nov 2026 01:35:37 +0000 — https://www.hollywoodreporter.com/movies/movie-news/new-regency-sues-michael-mann-retain-rights-heat-1236755347/
-
-The production company is challenging the director's attempts to reclaim rights to the screenplay.
-
-### Rock Roll Hall of Fame Induction Ceremony to Proceed as Planned Despite FAA Flight Stoppage on Friday
-Sat, 14 Nov 2026 00:42:46 +0000 — https://www.hollywoodreporter.com/music/music-news/rock-roll-hall-of-fame-to-proceed-flights-grounded-1236755204/
-
-All of the artists set to participate in Saturday's event are already in Los Angeles.
-
-### Trump Says Federal Film Tax Credit Is Gaining Momentum
-Sat, 14 Nov 2026 00:11:56 +0000 — https://www.hollywoodreporter.com/business/business-news/trump-federal-film-tax-credit-gaining-momentum-1236755258/
-
-The proposal for film and TV tax incentives, which drew broad bipartisan support when it was introduced earlier this year, faces an uphill battle for passage in the lame-duck session.
-
-### How The Basement Yard Host Joe Santagato Got Into the World of Hot Ones
-Sat, 14 Nov 2026 00:10:12 +0000 — https://www.hollywoodreporter.com/business/digital/the-basement-yard-host-joe-santagato-hot-ones-1236754573/
-
-The comedian and podcaster is hosting and executive producing a 'Hot Ones' spin-off 'Hot Ones: Game Night.'
-
-### Ben Stiller Gives Update on His New York Knicks Documentary: The Pressure Is on
-Sat, 14 Nov 2026 00:08:28 +0000 — https://www.hollywoodreporter.com/movies/movie-news/ben-stiller-new-york-knicks-documentary-update-hbo-a24-1236754821/
-
-The actor tells The Hollywood Reporter that the multi-part doc, in development with HBO and A24, will explore the team's history and championship run.
-
-### Producer Kevin J. Walsh Had Seen It All. Then Being Heumann Came Along
-Fri, 13 Nov 2026 23:31:29 +0000 — https://www.hollywoodreporter.com/movies/movie-features/being-heumann-kevin-j-walsh-1236754923/
-
-The Oscar-nominated producer helped open doors for the disabled community on the set of Sian Heder's latest pic: "I'm as proud of what we did behind the scenes to redefine access as I am of the quality of this movie."
-
 ## Deadline
+
+### Penélope Cruz Guarded Against Marital Blowback Playing Opposite Javier Bardem In ‘Bunker’: You Are Touching Things That Are Delicate – Contenders L.A.
+Sat, 14 Nov 2026 18:48:29 +0000 — https://deadline.com/2026/11/penelope-cruz-bunker-interview-1237223831/
+
+Penélope Cruz revealed that she had concerns that the fragile relationship between the husband-and-wife leads of filmmaker Florian Zeller’s Bunker might bleed over into her rock-solid union with husband Javier Bardem. “We ve worked together every five or six years – we don t plan it like that, but I think in a way we both want [ ]
+
+### Skip Hinnant Dies: Electric Company , You re A Good Man, Charlie Brown Actor, Voice Of Fritz The Cat Was 86
+Sat, 14 Nov 2026 18:35:15 +0000 — https://deadline.com/2026/11/skip-hinnant-dead-1237223791/
+
+Skip Hinnant, an original cast member of PBS The Electric Company in the 1970s and the prolific voice actor behind Fritz the Cat, My Little Pony and 1977 s stop-motion Easter Bunny, died Sunday, November 8, in Denver. He was 86. His death was announced by his family, who noted he passed peacefully surrounded by loved [ ]
+
+### Scream Actor C.W. Morgan s Cause Of Death Revealed
+Sat, 14 Nov 2026 17:16:30 +0000 — https://deadline.com/2026/11/c-w-morgan-cause-of-death-1237223783/
+
+A cause of death for Scream actor C.W. Morgan has been determined by the Los Angeles County Department of Medical Examiner: atherosclerotic cardiovascular disease. Morgan, who died at 72 on August 30, played Hank Loomis, father of the one of the franchise s Ghostface killers (played by Skeet Ulrich) and ex-husband of another (Scream 2 s Laurie [ ]
+
+### Contenders Film Los Angeles Underway With 15 Movies Ready For Their Awards-Season Closeups
+Sat, 14 Nov 2026 17:15:00 +0000 — https://deadline.com/2026/11/contenders-film-los-angeles-lineup-schedule-1237219190/
+
+Buckle up, because this season’s edition of Deadline s Contenders Film: Los Angeles is taking us on a journey, all the way from L.A. to outer space. For today s all-day event, which spotlights the casts and creatives of 15 films from eight studios and streamers live at the DGA Theater, we’re in the L.A.-Philly-Jersey City locations [ ]
+
+### Steen Ostergaard Olivier Mourgue Die: Futuristic Furniture Designers For Star Trek 2001: A Space Odyssey Pass Away Within Weeks
+Sat, 14 Nov 2026 16:44:37 +0000 — https://deadline.com/2026/11/steen-ostergaard-olivier-mourgue-dead-1237223746/
+
+Two designers of futuristic furniture, whose daring works were separately featured in the films 2001: A Space Odyssey and Star Trek II: The Wrath of Khan, died within weeks of each other last month. The deaths of Danish designer Steen Ostergaard, who died October 13 at age 90, and French designer Olivier Mourgue, who died [ ]
+
+### Johnny Depp Pic Ebenezer Hoping For $20M+ U.S. Saturday AM Box Office Update
+Sat, 14 Nov 2026 16:02:00 +0000 — https://deadline.com/2026/11/box-office-ebenezer-1237222749/
+
+SATURDAY AM: Paramount is still looking at a $20M opening for the Johnny Depp comeback movie, Ebenezer, but rivals see it lower. The hope is that families show up today as we hear the Ti West genre fans didn t come out in droves last night; Friday and previews at $6.7M. One indication that it s appealing [ ]
+
+### Oklahoma Athletic Director Roger Denny Slams Ground Stop Delay Of Sooners-Ole Miss College Football Game: This Decision Isn t Fair
+Sat, 14 Nov 2026 14:56:44 +0000 — https://deadline.com/2026/11/oklahoma-athletic-director-roger-denny-slams-ground-stop-delay-of-sooners-ole-miss-college-football-game-this-decision-isnt-fair-1237223734/
+
+Traveler frustration during the last 24 hours has been as widespread as the FAA s ground stop order, and perhaps no one was more peeved than Roger Denny, the University of Oklahoma athletic director who took to X last night to slam the one-day postponement of the college football showdown between his Sooners and the Ole [ ]
 
 ### Cinephil Boards Alexandru Solomon’s Romanian Election Doc ‘Small Expectations’ – IDFA
 Sat, 14 Nov 2026 11:40:53 +0000 — https://deadline.com/2026/11/cinephil-alexandru-solomon-small-expectations-idfa-1237223722/
@@ -130,41 +165,6 @@ As Trump s FAA implemented a nationwide ground stop, Ari Emanuel is placing blam
 Sat, 14 Nov 2026 03:33:52 +0000 — https://deadline.com/2026/11/real-time-bill-maher-attributes-faa-issues-selma-blair-1237223674/
 
 As the Federal Aviation Administration lifted its nationwide grounding of thousands of flights, Bill Maher offered some theories about the root of the issue. On Friday s episode of Real Time, the comedian joked that the cause could be Selma Blair after communication issues stopped air traffic controllers from being able to safely do their jobs. [ ]
-
-### DC Studios To-Do List: Here s What Incoming Boss Jeremy Latcham Will Sort Through From The Gunn-Safran Era
-Sat, 14 Nov 2026 02:45:41 +0000 — https://deadline.com/2026/11/dc-studios-movie-tv-list-jeremy-latcham-1237217689/
-
-The news earlier this week of James Gunn and Peter Safran s exit from DC shook the town like Suicide Squad s Starro stomping down Melrose Avenue. Now it s up to incoming former Marvel executive and Dungeons Dragons: Honor Among Thieves producer Jeremy Latcham to sort through the groundwork that was laid before by the duo. [ ]
-
-### Sports TV Schedule Could Be Tackled For Loss In Aftermath Of FAA s Nationwide Flight Halt
-Sat, 14 Nov 2026 02:23:19 +0000 — https://deadline.com/2026/11/sports-tv-schedule-faa-halt-1237223568/
-
-College football s Saturday TV slate appears likely to take a hit from the FAA s decision Friday to impose a ground halt on all U.S. airline traffic, which in turn could disrupt many network sports schedules on a busy weekend. The agency late Friday began allowing flights to depart after more than four hours in a [ ]
-
-### Zosia Mamet Says Girls Revival Was In Talks For A Very Long Time : I Kind Of Gave Up
-Sat, 14 Nov 2026 02:14:35 +0000 — https://deadline.com/2026/11/zosia-mamet-girls-revival-in-talks-very-long-time-1237223594/
-
-Nearly 10 years after last playing Shoshanna Shapiro, Zosia Mamet was beginning to think a Girls revival wasn t in the cards. The actress, who starred in the Lena Dunham-created HBO comedy, admitted that she wasn t sure the recently announced revival wouldn t happen after the five-episode project had been in development for a very long time. [ ]
-
-### Nationwide FAA Ground Stop Lifted; Radar “Instability, Old System Was Root Of Airspace Shutdown, Transportation Secretary Insists
-Sat, 14 Nov 2026 01:48:37 +0000 — https://deadline.com/2026/11/faa-shutdown-lifted-radar-1237223564/
-
-At 5:15 p.m. PT, the Federal Aviation Administration “lifted” today s nationwide grounding of thousands of flights. According to Transportation Secretary Sean Duffy, the root cause of the crisis was a radar “instability issue that led to the shutting down of domestic airspace Friday at 12:54 p.m. PT. The ground stop lasted almost five hours, with [ ]
-
-### FAA Ground Stoppage Could Impact One Of Hollywood s Busiest Weekends
-Sat, 14 Nov 2026 01:45:00 +0000 — https://deadline.com/2026/11/faa-ground-stoppage-hollywood-weekend-events-impact-1237223500/
-
-UPDATED with FAA lifting the ground stop: The FAA s nationwide ground stoppage has been lifted, but, coming on the eve of one of the entertainment industry s busiest weekends, the residual effects could affect numerous entertainment industry events as organizers scramble to determine if attendees will be able to make it to the events. One of [ ]
-
-### Isla Fisher Blake Ritson Join Al Pacino In John Paul Getty III Kidnapping Pic Captivated
-Sat, 14 Nov 2026 00:41:20 +0000 — https://deadline.com/2026/11/al-pacino-captiviated-isla-fisher-blake-ritson-1237223529/
-
-EXCLUSIVE: Isla Fisher and The Gilded Age s Blake Ritson have boarded the Al Pacino thriller Captivated inspired by the extraordinary true story of the 1973 kidnapping of John Paul Getty III. Also joining the cast is Jackson Kelly (The Pitt, The Body). Dito Montiel is directing with production underway in Calabria and Rome, Italy. The [ ]
-
-### James Gunn Says No One From Skydance Has Seen Man Of Tomorrow : There Are A Lot Of Untrue Rumors Going Around
-Sat, 14 Nov 2026 00:35:06 +0000 — https://deadline.com/2026/11/james-gunn-skydance-man-of-tomorrow-1237223531/
-
-James Gunn is clearing up some rumors following his exit as co-head of DC Studios. With Skydance making changes amid the Paramount and Warner Bros. merger, Peter Safran and Gunn announced they would not be heading DC Studios. Amid their exits, many rumors have circulated. One prominent story was that Skydance saw the Superman sequel, [ ]
 
 ## befores & afters
 
@@ -242,10 +242,20 @@ The clichés stack up nearly as fast as the clever cast can distinguish them in 
 
 ## The Wrap
 
+### The Death of Superman: Why I ll Mourn James Gunn s DCU Commentary
+Sat, 14 Nov 2026 17:00:00 +0000 — https://www.thewrap.com/creative-content/movies/james-gunn-dc-universe-appreciation-analysis/
+
+After a long day of traveling and writing, I settled down on Sunday night as I often do: With my dog Kal-El in my lap and a comic in my hand. That night, I picked up the first volume of John Ostrander’s “Suicide Squad,” one of my all-time favorite comic runs, which I had finished collecting in full not even a week before. This book, which ran for 66 issues from 1987 to 1992 (plus some spinoffs and specials here and there), carries some significance in the DC cinematic canon. In this era, Ostrander introduced the modern incarnation of DC’s ragtag team of supervillains going on covert missions for the U.S. government in exchange for time served. This general concept would be adapted in David Ayer’s 2016 film “Suicide Squad,” while Ostrander’s run provided a more explicit narrative and tonal basis for James Gunn’s 2021 reboot, “The Suicide Squad. That film perfectly captured what I love about Ostrander’s run and comics as a whole — so much so that I watched the movie seven times in its first month of release (to be fair, it went day-and-date on HBO Max). Suffice it to say, I was thrilled when I heard that Gunn was taking over creative control of DC’s cinematic arm, which had floundered for years in the inconsistent and frequently meddled-with DCEU . I was even more excited when the DCU’s first film, Gunn’s hope-fueled adaptation of my dog’s namesake, was precisely what I wanted a Superman movie to be. What I didn’t know as I sat reading that first Ostrander issue on Sunday night
+
+### Ebenezer Marks Johnny Depp s Box Office Return With Modest $20 Million Opening
+Sat, 14 Nov 2026 16:22:07 +0000 — https://www.thewrap.com/creative-content/movies/ebenezer-johnny-depp-saturday-box-office-20-million/
+
+Paramount s Ebenezer marks the return of Johnny Depp to the box office charts with a modest $6.7 million opening day from 3,535 locations, putting the film on course for a studio estimated $20 million domestic opening weekend and $40 million worldwide. The star of the multibillion Pirates of the Caribbean franchise has been working in independent and foreign films for several years after his much-publicized domestic abuse allegations and defamation legal battles with Amber Heard, and Ti West s adaptation of Charles Dickens A Christmas Carol marks his return to Hollywood. The film was produced on a reported $38 million budget with a marketing spend of $50 million. As hoped by Paramount when the project was greenlit, Depp s fans have driven early turnout with 50% of those surveyed saying the actor was the reason they bought a ticket. That fanbase is considerably more pleased than critics, who gave the film mixed reviews while audience scores include an A- on CinemaScore and 4.5/5 on PostTrak. Now the goal for Ebenezer will be to turn the excitement among Depp s fans into wider interest against upcoming competition like Hunger Games: Sunrise on the Reaping and Hexed. While its status as a Christmas film should allow Ebenezer to keep some theatrical presence through December, it could get lost in the shuffle during a busy holiday season that not only includes the one-two punch of Avengers: Doomsday and Dune: Part Three but a wide range of other titles like Jumanji: Open World, Mr
+
 ### Pete Buttigieg Pushes Back at Suggestion He’s Responsible for FAA’s Ground Stop: ‘Did a Lot to Upgrade the System’
 Sat, 14 Nov 2026 05:26:33 +0000 — https://www.thewrap.com/media-platforms/politics/pete-buttigieg-responds-faa-ground-stop-blame/
 
-Former Transportation Secretary Pete Buttigieg pushed back on suggestions that the Biden administration failed to do enough to upgrade the system and prevent Friday’s nationwide FAA ground stop. Amid the FAA s nationwide ground stop Friday evening, Buttigieg spoke with press, where he was confronted with comments from the Trump administration, suggesting he and his former boss may ve been to blame for today s crisis. Buttigieg disagreed with this sentiment, defending that during his tenure as transportation secretary they did a lot to upgrade the system. When we had an outage, I didn t stand there complaining about the Trump administration, he said. We got to work I m certain that that s what career officials and the career day-to-day employees at FAA and USDOT are doing. This should not be about politics. Buttigieg demanded clearer answers into what caused Friday s telecommunications and computer system outage, which ultimately brought air traffic to a halt across the United States. . @PeteButtigieg : "We did a lot to upgrade the system. When we had an outage, I didn't stand there complaining about the Trump administration. We got to work I'm certain that that's what career officials at FAA and USDOT are doing. This should not be about politics." pic.twitter.com/RxD0dcD7a6 &mdash; CSPAN (@cspan) November 14, 2026 Current Transportation Secretary Sean Duffy attributed the ground stop, which was initially said to simply be caused by a “telecommunication outage,” to old technol
+Former Transportation Secretary Pete Buttigieg pushed back on suggestions that the Biden administration failed to do enough to upgrade the system and prevent Friday’s nationwide FAA ground stop. Amid the FAA s nationwide ground stop Friday evening, Buttigieg spoke with press, where he was confronted with comments from the Trump administration, suggesting he and his former boss may have been to blame for today s crisis. Buttigieg disagreed with this sentiment, defending that during his tenure as transportation secretary they did a lot to upgrade the system. When we had an outage, I didn t stand there complaining about the Trump administration, he said. We got to work I m certain that that s what career officials and the career day-to-day employees at FAA and USDOT are doing. This should not be about politics. Buttigieg demanded clearer answers into what caused Friday s telecommunications and computer system outage, which ultimately brought air traffic to a halt across the United States. . @PeteButtigieg : "We did a lot to upgrade the system. When we had an outage, I didn't stand there complaining about the Trump administration. We got to work I'm certain that that's what career officials at FAA and USDOT are doing. This should not be about politics." pic.twitter.com/RxD0dcD7a6 &mdash; CSPAN (@cspan) November 14, 2026 Current Transportation Secretary Sean Duffy attributed the ground stop, which was initially said to simply be caused by a “telecommunication outage,” to old techn
 
 ### Bill Maher Draws Big Laughs With Selma Blair Jab While Discussing FAA Ground Stop
 Sat, 14 Nov 2026 04:11:33 +0000 — https://www.thewrap.com/creative-content/tv-shows/bill-maher-selma-blair-dig-faa-ground-stop-real-time-monologue/
@@ -282,65 +292,55 @@ Sat, 14 Nov 2026 00:55:49 +0000 — https://www.thewrap.com/media-platforms/poli
 
 UPDATE : The nationwide ground stop concluded Friday evening, with Transportation Secretary Sean Duffy attributing the incident to old technology. Passengers are still dealing with the effects of thousands of cancelled and delayed flights. The Federal Aviation Administration issued a rare ground stop on all flights nationwide on Friday, leading some to question the reason for such a drastic measure. According to Secretary of Homeland Security Markwayne Mullin, some of those concerns may be overblown. We were wanting to assure all the American people, this isn t a safety to the American people or another 9/11, he said. I think that s what a lot of people are trying to make the comparison to, and that is not the case. Mullin: This is not another 9/11 pic.twitter.com/J3tpapiKA8 &mdash; Acyn (@Acyn) November 13, 2026 Mullin addressed a crowd of reporters gathered outside the White House on Friday afternoon to speak to the FAA s actions, which will delay flights for citizens across the country for an indefinite amount of time. Though the secretary assured that there is no reason for the public to be afraid or scared for your loved ones, he couldn t explain what exactly caused the telecommunication outage. Do we know what has caused it yet? No, we re going to go through it. But I m not going to make assumptions, Mullin said. As I ve said multiple times, it s very difficult to make assumptions. We want to always deal with facts, and we re going to deal with facts, and as we get them
 
-### Trump Stays Mum on FAA Grounded Flight Crisis, Questionably Touts Hollywood Business Bill Instead
-Fri, 13 Nov 2026 23:52:07 +0000 — https://www.thewrap.com/media-platforms/politics/trump-bipartisan-hollywood-production-bill-stays-mum-on-grounded-flights/
-
-President Donald Trump praised his work on a bipartisan bill to keep film and television production in the U.S. on Truth Social , but has yet to make a public statement on the nationwide flight crisis. The Federal Aviation Administration announced a rare nationwide ground stop on Friday afternoon, as a telecommunication outage affected the air traffic control system. The cause for the outage has not been revealed, yet. The last time a nationwide grounding of flights took place was in 2023 for just 90 minutes because of an outage in the FAA’s system to alert pilots to safety issues. Before that, the last time the FAA issued nationwide ground stops was on Sept. 11, 2001. Rather than acknowledging the flight delays and cancellations nationwide, the president touted the Motion Picture, Television and Entertainment Revitalization Act that he is working to pass with a bipartisan effort to keep entertainment jobs in the United States. The support and popularity of doing this, and bringing Entertainment back to the United States of America, has been unbelievable! Trump wrote. Hollywood, and so many other places, have been virtually emptied out by the Tax Incentives, and much more, given by other Countries. Everyone feels strongly about the Motion Picture and Television Industry — and so do I, and we all want to save it. It was MADE IN AMERICA, and must STAY IN AMERICA, he added. The president said that he is working with Sen. Tim Scott (R-SC), Sen. Adam Schiff (D-Calif.) and senators
-
-### Zendaya, Timothée Chalamet and Anya Taylor-Joy Prank Interviewer During ‘Dune: Part 3’ Press
-Fri, 13 Nov 2026 22:36:12 +0000 — https://www.thewrap.com/culture-lifestyle/culture/zendaya-timothee-chalamet-anya-taylor-joy-prank-interviewer-dune-press/
-
-Zendaya, Timothée Chalamet and Anya Taylor-Joy had some fun pranking a journalist during a Dune: Part 3 interview. The trio sat down with BBC presenter Rylan Clark, but what they were really doing was following answers and instructions fed to them by a group of children watching from the wings. The prank was part of the BBC s Children in Need initiative. Anya, start meditating, one kid commands. Close your eyes. Anya Taylor-Joy, Zendaya and Timothée Chalamet prank an interviewer for BBC Children in Need. pic.twitter.com/qIgvsFvFwe &mdash; Film Updates (@FilmUpdates) November 13, 2026 Taylor-Joy immediately halts the conversation and asks for a moment to meditate. Clark looks on as the actress is told to get everyone else to join in with her. Chalamet and Zendaya take hands and the kids also tell the Euphoria star to stand and start chanting ohm which she obliges. Sometimes you just got to like reset the energy, she adds. In a second clip, the kids tell Chalamet he s to get up and stroke Rylan s beard. The Dune: Part 3 star stands up for a stretch and a bit of a nervous smile on his face. He sits back down and is prodded again by the kids to do it. Finally, Chalamet makes his move. Is this? Can I? Chalamet asks as he leans in to touch the beard. It looks so smooth and shiny, Zendaya adds as the kids in the booth laugh. The fun bit comes as press for Dune: Part 3 begins to kick off in full. The film comes out Dec. 18 and is likely to be one of the biggest box office hits of 202
-
 ## Collider
 
-### Alan Ritchson Has the Perfect Response to Fans Complaining About 'Reacher'
-Sat, 14 Nov 2026 11:30:12 GMT — https://collider.com/alan-ritchson-reacher-fan-criticism-tripwire-fight-scenes/
+### Jon Bernthal’s Jason Bourne Replacement Officially Becomes the No. 1 Movie in the World
+Sat, 14 Nov 2026 18:31:12 GMT — https://collider.com/jon-bernthal-the-amateur-streaming-success-hbo-max-november-2026/
 
-If there's one thing audiences know about Jack Reacher, it's that getting into a fight with him is generally a terrible idea. The enormous former military policeman has spent four seasons of Reacher dispatching criminals with the kind of efficiency that would make most action heroes jealous, but while the Prime Video adaptation has earned plenty of praise for bringing Lee Child 's bestselling novels to life, some fans aren't entirely convinced by how the show handles its fight scenes . However, its star is fighting back.
+2026 has been one of the most successful years of Jon Bernthal 's career, and when historians look back at his many projects, it will be tough to decide what he's most remembered for. Bernthal's highest-grossing movie of 2026 came when he teamed up with Tom Holland and reprised his role as The Punisher in Spider-Man: Brand New Day , which grossed over $2.5 billion at the global box office.
 
-### The 10 Greatest TV Serial Killers of All Time, Ranked
-Sat, 14 Nov 2026 11:02:12 GMT — https://collider.com/best-tv-serial-killers-all-time-ranked/
+### 10 Greatest Thanksgiving Episodes of the 2000s, Ranked
+Sat, 14 Nov 2026 18:19:12 GMT — https://collider.com/best-thanksgiving-tv-episodes-2000s-ranked/
 
-Television has always had a complicated relationship with its monsters. A movie gets two hours with a killer before the lights come up, but a TV series asks viewers to spend entire seasons with them. Over that time, audiences get to see how they operate, and why they are the people they are. That extra time is exactly why the small screen has produced some of the most unsettling yet still fascinating killers in fiction.
+Content Warning: This list contains a brief mention of an eating disorder. When we think of the holidays on our favorite TV shows , we often overlook Thanksgiving as some of the best festive specials. The truth is, some of the greatest holiday-centric episodes revolve around Turkey Day. Whether it's hilarious dinners or dramatic family spats, these episodes reflect the ideals of the holidays and resonate with fans . Each decade has shared some incredible stories, but the 2000s seemed to be peak Thanksgiving.
 
-### Daniel Radcliffe Officially Admits He May Never Watch HBO's 'Harry Potter' Reboot
-Sat, 14 Nov 2026 11:00:12 GMT — https://collider.com/daniel-radcliffe-hbo-harry-potter-reboot-may-never-watch/
+### 10 HBO Comedy Shows That Are Perfect Weekend Binges
+Sat, 14 Nov 2026 18:04:12 GMT — https://collider.com/hbo-comedy-shows-perfect-weekend-binge/
 
-For an entire generation, Daniel Radcliffe is Harry Potter. The British star spent a decade bringing J.K. Rowling 's famous wizard to life across eight movies, growing up alongside Emma Watson and Rupert Grint as the franchise became a global phenomenon. Now, 25 years after the first movie arrived in theaters, HBO is preparing to introduce an entirely new trio of Hogwarts students . But while millions of fans are counting down to the reboot's Christmas premiere, the original Boy Who Lived might not be joining them.
+A good comedy only has to make people laugh. That sounds simple, but it's one of the hardest things to pull off on TV. Jokes that land in the first episode can wear thin by the fifth, and plenty of sitcoms end up running on autopilot and recycling the same predictable jokes. HBO has never been interested in the traditional sitcom formula, though, and its comedies tend to be stranger and sharper than most.
 
-### Ridley Scott’s 153-Minute Historical Thriller Officially Removed From Streaming
-Sat, 14 Nov 2026 10:40:12 GMT — https://collider.com/ridley-scott-last-duel-leaving-tubi-december-2026/
+### 6 Fantasy Movies From the 2000s That Are 10/10 Masterpieces
+Sat, 14 Nov 2026 17:36:12 GMT — https://collider.com/fantasy-movies-2000s-perfect-masterpieces/
 
-Ridley Scott is coming off a major setback in the form of The Dog Stars , his first sci-fi movie in nearly a decade. The film underperformed at the box office, grossing around $40 million worldwide against a reported budget of around $100 million. As big a flop as it was, The Dog Stars isn't the biggest bomb that Scott has directed this decade. That unenviable honor goes to a period epic released five years ago with a budget similar to several of the filmmaker's recent movies. The period epic is currently streaming for free in the United States, but not for much longer.
+When it comes to fantasy, there's an argument to be made that the genre peaked on the big screen back in the early 2000s. Sure, there were plenty of fantastic fantasy pictures before, such as John Boorman 's Excalibur , Sleeping Beauty , The Princess Bride , and, of course, The Wizard of Oz — and it's not as if there haven't been any good ones again after. But there was something about that first decade of the 21st century that stood apart.
 
-### The ‘Godzilla’ Movie That Divided Fans Is Officially Getting a New Streaming Release
-Sat, 14 Nov 2026 10:20:12 GMT — https://collider.com/godzilla-1998-free-streaming-pluto-tv-november-2026/
+### Harry Potter Franchise’s $407M Fantasy Flop Is Officially Leaving Streaming
+Sat, 14 Nov 2026 17:30:12 GMT — https://collider.com/fantastic-beasts-secrets-of-dumbledore-leaving-peacock-december-2026/
 
-By the time Madison Square Garden becomes the most dangerous building in New York in Roland Emmerich ’s Godzilla , the military has spent much of the movie trying to find one enormous animal. Then the eggs hatch, and Matthew Broderick has to get out of an arena full of mini-Godzillas. If this was your first Godzilla movie, there’s a decent chance you remember the scramble to get out of the Garden better than you remember what the big guy himself looked like.
+On November 13, Johnny Depp made his comeback to mainstream leading roles with Ebenezer , a new take on Charles Dickens ' frequently adapted A Christmas Carol. Depp hasn't headlined a major project since Pirates of the Caribbean: Dead Men Tell No Tales , which was released in 2017. Over the past decade, Depp became unhirable in mainstream Hollywood because of personal and legal troubles, but after he was acquitted in a libel case in the United Kingdom, studios started showing interest in him again. Next year, he'll star in Day Drinker , an action-thriller directed by Marc Webb .
 
-### The 10 Best Sci-Fi Shows With Less Than 20 Episodes, Ranked
-Sat, 14 Nov 2026 10:18:12 GMT — https://collider.com/best-sci-fi-shows-shorter-than-20-episodes/
+### Every Song on Meat Loaf's 'Bat Out of Hell,' Ranked
+Sat, 14 Nov 2026 17:18:12 GMT — https://collider.com/bat-out-of-hell-songs-meat-loaf-ranked/
 
-Nineteen episodes or fewer. That's all it has taken several of the greatest sci-fi TV shows in history to join the ranks of the best the genre has ever delivered on the small screen . Though this is a genre that lends itself perfectly to long-running shows that deliver hundreds of incredible episodes of hyper-creative television, there's something magical about a tight, concise sci-fi show that doesn't even need 20 episodes to deliver a masterclass in genre storytelling.
+Bat Out of Hell might not be your kind of thing if you're not particularly fond of classic rock music that pushes things to the absolute limits while being unafraid to get truly over-the-top, but if you are open to that kind of music, it’s paradise (maybe even by a dashboard light). It’s the album for which Meat Loaf is best-known, and honestly, fair enough. There was a second Bat Out of Hell (like, an actual sequel), and that one’s also good, truth be told. Then a third one… bit whatever. Meat Loaf is also well-remembered for some of his acting roles, like in Fight Club and then only a few minutes in The Rocky Horror Picture Show , but Bat Out of Hell is big, flashy, and hard to ignore.
 
-### Nicholas Hoult Filmed 2 Different Endings for His ‘How to Rob a Bank’ Character
-Sat, 14 Nov 2026 10:06:12 GMT — https://collider.com/how-to-rob-a-bank-endings-meaning-nicholas-hoult-anna-sawai-interview/
+### ‘Saturday Night Live’ Can’t Escape This “Outdated” Part of Its Past
+Sat, 14 Nov 2026 17:03:12 GMT — https://collider.com/saturday-night-live-snl-uk-cue-cards/
 
-In David Leitch ’s new heist thriller, How to Rob a Bank , a group of bank robbers take matters into their own hands when a flawed system fails them. Starring Nicholas Hoult , Pete Davidson , John C. Reilly , Zoë Kravitz , Anna Sawai , and Rhenzy Feliz , the movie takes audiences on a high-octane ride using 35mm film intertwined with attention-grabbing YouTube footage for a final cut even the cast didn’t see coming.
+When Saturday Night Live came to the UK, the British team behind SNL UK initially thought one of the American show's longest-running traditions was outdated. Cue cards seemed like an unnecessarily cumbersome way to deliver lines when an autocue offered a more advanced alternative. But with John Mulaney returning to host a new episode tonight, those handwritten cards will once again help keep Studio 8H running. The practical realities of producing a live sketch show quickly changed the British team’s perspective.
 
-### ABC's 'Will Trent' Is Officially Taking Over Netflix
-Sat, 14 Nov 2026 10:00:12 GMT — https://collider.com/will-trent-netflix-top-10-2-million-views/
+### Jessica Chastain’s ‘Yellowstone’ Replacement Is Officially Netflix’s Latest Hit
+Sat, 14 Nov 2026 17:00:12 GMT — https://collider.com/heartland-jessica-chastain-netflix-streaming-hit-november-2026/
 
-Over the past few days, Netflix has added several unexpected titles, including a near-perfect police procedural with zero bad episodes. Will Trent , which wrapped its fourth season with a memorable finale on May 5, 2026 , is now streaming on Netflix and is already making waves. Starring Ramón Rodríguez , the mystery series is inspired by Karin Slaughter's novels and premiered on January 3, 2023, to solid viewership for ABC and positive reviews from critics and viewers. Season 1 averaged about 5.99 million total viewers per episode, a commendable feat for a challenging late-night time slot, while currently holding an 89% Tomatometer score and an 82% Popcornmeter rating on Rotten Tomatoes.
+In its efforts to appeal to the heartland of America, liberal elite Hollywood has produced a movie titled — checks notes — Heartland . The market was cracked wide open by Taylor Sheridan 's sprawling neo-Western series Yellowstone , which Netflix famously passed on a decade or so ago. The show went on to become a platform-defining hit for Paramount+ and Sheridan cemented himself as something of a mogul with a spectacularly successful streak. In recent years, Netflix and other streamers have tried to replicate Yellowstone 's success with a string of shows and movies aimed at the same demographic, but the results have been hit or miss.
 
-### Joel Kinnaman’s Sci-Fi Reboot Officially Removed From Streaming Ahead of Prime Video Revival
-Sat, 14 Nov 2026 09:40:12 GMT — https://collider.com/joel-kinnaman-sci-fi-remake-robocop-leaving-tubi-december-2026/
+### Shia LaBeouf’s Forgotten ‘Watch Dogs’ Replacement Is Officially Leaving Streaming
+Sat, 14 Nov 2026 16:30:12 GMT — https://collider.com/eagle-eye-shia-labeouf-watch-dogs-leaving-tubi-december-2026/
 
-Not long after the conclusion of Christopher Nolan 's genre-defining The Dark Knight trilogy , studios made a concerted effort to mimic its grounded approach to fantastical stories. Warner Bros. itself went ahead with David Yates ' The Legend of Tarzan and Gareth Edwards ' Godzilla , while other studios delivered movies such as Skyfall and The Amazing Spider-Man . The latter movie rebooted the Spider-Man series for Sony, which also tried to pull a similar move with a classic 1980s franchise that had lain dormant for years.
+For an original movie to gross nearly $200 million at the worldwide box office is seen as an anomaly these days. For instance, consider the recently released survival thriller Heart of the Beast , starring Brad Pitt and directed by David Ayer . However, things were very different before the streaming era. This was when a non-IP film with poor reviews and no A-lister attached could do just as well, if not better, at the box office. One of the best examples of such a film is currently streaming for free in the United States. At this point, it's an actual relic of how things used to be.
 
-### Netflix Officially Scores Another Hit With the Final Destination Franchise Revival
-Sat, 14 Nov 2026 09:20:12 GMT — https://collider.com/final-destination-bloodlines-streaming-hit-netflix-november-2026/
+### No, ‘Rivals’ Season 2 Doesn’t Have a Taggie O’Hara Problem
+Sat, 14 Nov 2026 16:23:12 GMT — https://collider.com/rivals-season-2-part-2-taggie-ohara-problem/
 
-The biggest horror movie of the year is coming to Netflix . On November 17, Focus Features' Obsession , the viral sensation that downed the latest Star Wars movie at the box office, will be available to stream on the world's biggest platform following its record-breaking theatrical run. Not only did the film become the highest-grossing non-animated original film of the past decade, the highest-grossing original horror movie of this century , and the fifth highest-grossing horror film of all time, but it did so on a budget of less than $1 million.
+Editor's Note: The below contains spoilers for Episodes 7-9 of Rivals Season 2 Part 2. Few tropes beat the reformed rake in romance. Famously, they make the best husbands. Yes, it's completely unrealistic and about as fantastical as dragons and unicorns. But within that fantasy of changing a bad man for the better lies the appeal; a shy wallflower who has been neglected by society finds true love with the man everyone wants, but no one seems to be able to nail down. That's the conceit of the relationship between Rupert Campbell-Black ( Alex Hassell ) and Taggie O'Hara ( Bella Maclean ) in Disney+'s Rivals . For some viewers, this dynamic seems to make the romping fun world of Rutshire a little more boring rather than magical, but that's missing the entire point of their relationship .
 
