@@ -38,7 +38,6 @@ artistView:
   misses:
     - "Makeup: critics on both sides reach for the prosthetics before the performance, and for a lead built up this heavily that is the one thing you do not want noticed first."
     - "Marketing: the trailers sold the ghosts and kept the Scrooge back, and the reviews split on precisely the part that was held back."
-draft: true
 ---
 
 Ti West shot a Christmas Carol on 35mm and spent the film's attention on the
