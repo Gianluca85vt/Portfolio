@@ -1,6 +1,36 @@
-# Manga — harvested 2026-11-15T12:15:48.643Z
+# Manga — harvested 2026-11-15T19:27:39.908Z
 
 ## Anime News Network
+
+### Witch Watch Manga Ends With Anime Season 2 to Air in 2027
+Sun, 15 Nov 2026 10:12:39 -0500 — https://www.animenewsnetwork.com/news/2026-11-15/witch-watch-manga-ends-with-anime-season-2-to-air-in-2027/.243834
+
+Kenta Shinohara's Witch Watch manga ended in this year's 51st issue of Shueisha's Weekly Shonen Jump magazine on Monday. The staff of the television&nbsp;anime...
+
+### Uzono Shiniko Hōkoku Manga Ends in 4th Volume
+Sun, 15 Nov 2026 09:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-15/uzono-shiniko-hokoku-manga-ends-in-4th-volume/.243817
+
+Manga adaptation of Bunkichi Majima's novel debuted in December 2024
+
+### DEMONS' NIGHT FEVER Game Review
+Sun, 15 Nov 2026 09:00:00 -0500 — https://www.animenewsnetwork.com/review/game/nintendo-switch/demons-night-fever/.243381
+
+Folks who want a rollicking good time being bad to the bone will find that in DEMONS' NIGHT FEVER, but you will have to work for it.
+
+### Odekake Kozame Anime Gets 2nd Film
+Sun, 15 Nov 2026 08:24:54 -0500 — https://www.animenewsnetwork.com/news/2026-11-15/odekake-kozame-anime-gets-2nd-film/.243832
+
+3 main cast members celebrate news with staff returning from 1st film, 2nd season
+
+### WEBTOON CEO Junkoo Kim Receives Outstanding Contribution Award at Korea's 26th Cartoon Day Ceremony
+Sun, 15 Nov 2026 08:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-15/webtoon-ceo-junkoo-kim-receives-outstanding-contribution-award-at-korea-26th-cartoon-day-ceremony/.243642
+
+Kim shares award with attorney Sung-joo Kim of law firm Deoksu, who was recognized for his work protecting cartoonists' rights, providing legal support
+
+### Stranger Than Heaven Game Streams Story Trailer for 2nd Act 'Kure'
+Sun, 15 Nov 2026 07:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-15/stranger-than-heaven-game-streams-story-trailer-for-2nd-act-kure/.243829
+
+Game launches on January 15 for Xbox Series X|S, PlayStation 5, PC via Steam
 
 ### RetroCrush Streams Sugar Sugar Rune, Genocyber Anime
 Sun, 15 Nov 2026 05:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-15/retrocrush-streams-sugar-sugar-rune-genocyber-anime/.243828
@@ -31,36 +61,6 @@ Production team stated they used approximately 1,500 prompts for single scene to
 Sat, 14 Nov 2026 12:00:00 -0500 — https://www.animenewsnetwork.com/review/detective-conan/the-clash-of-the-red-and-black/anime-series/.243437
 
 Conan Edogawa’s fight to uncover the one truth continues as a new possible ally reveals his connections to the devious Black Organization, and the FBI seems to begin making moves!
-
-### Classroom of the Elite: Year 3 Tops Oricon's Light Novel Ranking for October
-Sat, 14 Nov 2026 11:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-14/classroom-of-the-elite-year-3-tops-oricon-light-novel-ranking-for-october/.243810
-
-<cite>Witch on the Holy Night</cite>, <cite>Alya Sometimes Hides Her Feelings in Russian</cite> rank at #2, #3
-
-### Love Live! Hasu no Sora Jogakuin School Idol Club Anime's Special Video Previews TV Footage
-Sat, 14 Nov 2026 09:16:04 -0500 — https://www.animenewsnetwork.com/news/2026-11-14/love-live-hasu-no-sora-jogakuin-school-idol-club-anime-special-video-previews-tv-footage/.243814
-
-Video also previews "Dream Believers (106th Class Start Ver.)" song
-
-### World Trigger Tops Oricon's Comic Ranking for October
-Sat, 14 Nov 2026 09:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-14/world-trigger-tops-oricon-comic-ranking-for-october/.243760
-
-<cite>That Time I Got Reincarnated as a Slime</cite> volume 33 ranks at #2, <cite>Case Closed</cite> volume 109 ranks at #3
-
-### CRYMELIGHT Game Review
-Sat, 14 Nov 2026 09:00:00 -0500 — https://www.animenewsnetwork.com/review/game/playstation-5-nintendo-switch-2-and-pc/crymelight/.243634
-
-Three years after <i>CRYMACHINA</i>, the newest entry in the <i>CRY</i> Series, FURYU's <i>CRYMELIGHT</i>, has been released, and we’ll tell you whether it was worth the wait.
-
-### Japan's Video Game Rankings, November 2-8
-Sat, 14 Nov 2026 07:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-14/japan-video-game-rankings-november-2-8/.243786
-
-<cite>The Legend of Zelda: Ocarina of Time</cite> remake debuts at #1 with 537,041 copies sold
-
-### Re:ZERO -Starting Life in Another World- TV Anime Gets 5th Season
-Sat, 14 Nov 2026 07:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-14/re-zero-starting-life-in-another-world-tv-anime-gets-5th-season/.243813
-
-"Ultra teaser visual" revealed
 
 ## Crunchyroll News
 
@@ -98,12 +98,12 @@ Fri, 13 Nov 2026 22:46:12 GMT — https://animecorner.me/matsuri-confirms-hitsuj
 
 The Japanese music showcase matsuri celebrates its European debut on December 14 at Outernet&hellip;
 
-### Fall 2026 Anime Rankings – Week 6
-Fri, 13 Nov 2026 12:30:00 GMT — https://animecorner.me/fall-2026-anime-rankings-week-6/
-
-STEEL BALL RUN wins Fall 2026 Week 6, followed by Firefly Wedding and Student Council. Just 0.32 percentage points separate second through fifth place.
-
 ## MyAnimeList News
+
+### Manga Witch Watch Concludes Serialization
+Sun, 15 Nov 2026 07:23:38 -0800 — https://myanimelist.net/news/74943102?_location=rss
+
+Kenta Shinohara s Witch Watch manga has concluded with chapter 270 in the 51st issue of Weekly Shounen Jump magazine on Monday, after a five-year serialization. Shinohara began serializing the supernatural comedy manga in Weekly Shonen Jump in February 2021. Shueisha published the 28th volume on October 2. Produced by Bibury Animation Studios, the 25-episode first season aired in Spring 2025. Crunchyroll and Netflix simulcasted the anime worldwide with subtitles and dubs in multiple languag...
 
 ### Toaru Anbu no Item Reveals Additional Cast, Promo
 Sat, 14 Nov 2026 05:05:29 -0800 — https://myanimelist.net/news/74938827?_location=rss
