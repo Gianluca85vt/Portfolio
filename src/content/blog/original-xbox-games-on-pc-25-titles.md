@@ -20,7 +20,6 @@ artistView:
     - "Presentation: art authored for 480i on a CRT gets no help from a 1440p panel. Composite output was a free blur filter, and it hid compression blocks in gradients, LOD pops and the seams where lightmaps met. All of that is now the first thing you see."
     - "Curation: the catalogue's shape follows rights clearance, not technical interest. The Xbox's most instructive rendering work is not necessarily what arrives next, because what arrives next is whatever a lawyer signs off."
     - "Access: no disc support. A shelf of original Xbox games buys you nothing here — it is a digital licence or an eligible Game Pass tier, on Windows 11, in supported markets only."
-draft: true
 ---
 
 The original Xbox turned 25 today. It went on sale in North America on 15
