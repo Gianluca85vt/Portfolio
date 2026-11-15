@@ -1697,5 +1697,11 @@
     "facebookError": "1098893486828059/feed -> HTTP 400 Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.",
     "instagramError": "17841448932903051/media -> HTTP 400 Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.",
     "bluesky": "at://did:plc:jphedra6dqvi3ylpnenvbsch/app.bsky.feed.post/3n2cdxpf74v2k"
+  },
+  "original-xbox-games-on-pc-25-titles": {
+    "at": "2026-11-15T07:41:35.168Z",
+    "facebookError": "1098893486828059/feed -> HTTP 400 Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.",
+    "instagramError": "17841448932903051/media -> HTTP 400 Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.",
+    "bluesky": "at://did:plc:jphedra6dqvi3ylpnenvbsch/app.bsky.feed.post/3n2dj7ckgae25"
   }
 }
