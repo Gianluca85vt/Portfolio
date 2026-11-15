@@ -1,6 +1,26 @@
-# Manga — harvested 2026-11-14T18:50:53.075Z
+# Manga — harvested 2026-11-15T12:15:48.643Z
 
 ## Anime News Network
+
+### RetroCrush Streams Sugar Sugar Rune, Genocyber Anime
+Sun, 15 Nov 2026 05:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-15/retrocrush-streams-sugar-sugar-rune-genocyber-anime/.243828
+
+Service also adds 1983 live-action film <cite>The Girl Who Leapt Through Time</cite>
+
+### Bride of the Barrier Master Anime Streams Video for Hana's Twin Hazuki Ichise
+Sun, 15 Nov 2026 04:26:33 -0500 — https://www.animenewsnetwork.com/news/2026-11-15/bride-of-the-barrier-master-anime-streams-video-for-hana-twin-hazuki-ichise/.243831
+
+Kanon Takao voices Hana's twin sister in anime premiering in January
+
+### MAGES Develops Girls und Panzer Mahjong Game For PS5, Switch 2
+Sun, 15 Nov 2026 02:06:19 -0500 — https://www.animenewsnetwork.com/news/2026-11-15/mages-develops-girls-und-panzer-mahjong-game-for-ps5-switch-2/.243827
+
+Game slated for 2027 release
+
+### Even the Student Council Has It's Holes! Anime Casts Yōko Hikasa
+Sat, 14 Nov 2026 18:44:31 -0500 — https://www.animenewsnetwork.com/news/2026-11-14/even-the-student-council-has-its-holes-anime-casts-yoko-hikasa/.243815
+
+Hikasa plays council president Hisako's mother in episode 7 this weekend
 
 ### Kakao, OpenAI Collaborate on AI-Generated Short Animation Based on Ryan Begins Webtoon
 Sat, 14 Nov 2026 13:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-14/kakao-openai-collaborate-on-ai-generated-short-animation-based-on-ryan-begins-webtoon/.243712
@@ -40,33 +60,18 @@ Sat, 14 Nov 2026 07:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-1
 ### Re:ZERO -Starting Life in Another World- TV Anime Gets 5th Season
 Sat, 14 Nov 2026 07:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-14/re-zero-starting-life-in-another-world-tv-anime-gets-5th-season/.243813
 
-"Early teaser visual" revealed
-
-### Japanese Animation TV Ranking, November 2-8
-Sat, 14 Nov 2026 05:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-14/japanese-animation-tv-ranking-november-2-8/.243787
-
-<cite>The Apothecary Diaries</cite> season 3 earned 3.5% rating last week
-
-### Gushing Over Magical Girls Anime's 2nd Season Debuts in 2027
-Sat, 14 Nov 2026 04:02:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-14/gushing-over-magical-girls-anime-2nd-season-debuts-in-2027/.243812
-
-Returning cast, staff also revealed
-
-### Uma Musume Revs its Engines with F1 Japanese Grand Prix
-Fri, 13 Nov 2026 23:59:00 -0500 — https://www.animenewsnetwork.com/interest/2026-11-13/uma-musume-revs-its-engines-with-f1-japanese-grand-prix/.243789
-
-Horse-girl racing meets Formula 1 racing
-
-### North American Anime, Manga Releases, November 8-14
-Fri, 13 Nov 2026 17:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-13/north-american-anime-manga-releases-november-8-14/.243661
-
-<cite>The Apothecary Diaries Season 2, Call of the Night Season 2</cite> anime; <cite>Albus Changes the World, Pokémon Adventures: Red and Blue Deluxe Edition</cite> manga ship
+"Ultra teaser visual" revealed
 
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### MyGO and Ave Mujica Anime Sequel Unveils 2nd Trailer Featuring MyGO
+Sun, 15 Nov 2026 11:09:57 GMT — https://animecorner.me/mygo-and-ave-mujica-anime-sequel-unveils-2nd-trailer-featuring-mygo/
+
+A second trailer was unveiled for the upcoming anime sequel to MyGO and Ave&hellip;
 
 ### Love Live! Hasunosora Anime Reveals New Trailer
 Sat, 14 Nov 2026 12:25:42 GMT — https://animecorner.me/love-live-hasunosora-anime-reveals-new-trailer/
@@ -98,11 +103,6 @@ Fri, 13 Nov 2026 12:30:00 GMT — https://animecorner.me/fall-2026-anime-ranking
 
 STEEL BALL RUN wins Fall 2026 Week 6, followed by Firefly Wedding and Student Council. Just 0.32 percentage points separate second through fifth place.
 
-### The F1 Japanese Grand Prix Names Cygames a Founding Partner
-Fri, 13 Nov 2026 04:40:33 GMT — https://animecorner.me/the-f1-japanese-grand-prix-names-cygames-a-founding-partner/
-
-Cygames, Inc., Umamusume: Pretty Derby's publisher, is now a founding partner of the 2027&hellip;
-
 ## MyAnimeList News
 
 ### Toaru Anbu no Item Reveals Additional Cast, Promo
@@ -115,34 +115,19 @@ Sat, 14 Nov 2026 04:16:16 -0800 — https://myanimelist.net/news/74938716?_locat
 
 The Re:Zero 10th Anniversary Starlight Party special event announced a fifth season on Saturday, revealing an ultra teaser visual (pictured). Produced by White Fox, the first anime season adapting Tappei Nagatsuki s isekai fantasy light novel debuted in Spring 2016, covering the first nine volumes. The Memory Snow side-story OVA premiered in theaters in October 2018, followed by the Hyouketsu no Kizuna (The Frozen Bond) prequel OVA in November 2019. The second season aired in split cours, w...
 
-### Isekai Tensei Soudouki Reveals Additional Cast, Staff, Theme Songs, Second Promo
-Fri, 13 Nov 2026 02:25:08 -0800 — https://myanimelist.net/news/74934867?_location=rss
-
-The official website for the television anime adaptation of Ryousen Takami s Isekai Tensei Soudouki (Multi-Mind Mayhem) novel revealed additional cast, staff, theme songs, a second key visual (pictured), and second promotional video on Friday. The anime is scheduled to premiere on January 6 at 10.00 p.m on Tokyo MX, followed by BS Fuji, and AT-X. Cast Maggot: Marina Inoue (Boku no Hero Academia) Ignis: Takehito Koyasu (Re:Zero kara Hajimeru Isekai Seikatsu) Brooks: Toshiki Kumagai (Tongari...
-
-### CyberAgent Expands Production Network With Latent One Launch and MAPPA Partnership
-Fri, 13 Nov 2026 00:50:56 -0800 — https://myanimelist.net/news/74934668?_location=rss
-
-CyberAgent is expanding its presence in Japan s animation industry through a combination of studio development and strategic investment, establishing a new animation studio under its subsidiary Colorful Palette while entering a business alliance with MAPPA. On October 31, 2026, Colorful Palette announced the establishment of Latent One, a new animation production subsidiary focused on animation planning, production, and production management. Less than two weeks later, on November 11, Cybe...
-
-### Light Novel Isekai Douraku ni Akitara Gets TV Anime in Winter 2027
-Thu, 12 Nov 2026 19:23:14 -0800 — https://myanimelist.net/news/74934042?_location=rss
-
-Publishing company Shufunotomo announced a television anime adaptation of Fudaya Sanmongarasu and Tomozo s Isekai Douraku ni Akitara (Living It Up in Another World Until I Get Bored) light novel on Friday. The anime series will premiere in January 2027. Sanmongarasu began writing the adventure fantasy novel on the Shousetsuka ni Narou website in June 2016. Shufunotomo began printing the light novel under its Prime Novels imprint in June 2017, featuring illustrations by Tomozo. The imprint p...
-
 ## Otaku USA
 
 _Nothing in the last 48 hours._
 
 ## Anime UK News
 
+### The Seaside Where Dragon Boys Dwell Volume 1 Review
+Sun, 15 Nov 2026 10:00:45 +0000 — https://animeuknews.net/2026/11/the-seaside-where-dragon-boys-dwell-volume-1-review/
+
+After the passing of her father, Mizuka moves in with her uncle in the seaside town of Komorisaki which is famous for being inhabited by 'dragon folk', one of whom Mizuka will now also find herself living with! Will these two be able to coexist and heal each other's wounds?
+
 ### Agents of the Four Seasons Volumes 3 and 4: Dance of Summer Review
 Sat, 14 Nov 2026 10:00:47 +0000 — https://animeuknews.net/2026/11/agents-of-the-four-seasons-volumes-3-and-4-dance-of-summer-review/
 
 Spring turns to Summer and so the focus shifts to the twin Agents of Summer, seen as a bad omen by all...
-
-### Kingdom Hearts: Chain of Memories Omnibus Review
-Fri, 13 Nov 2026 10:00:57 +0000 — https://animeuknews.net/2026/11/kingdom-hearts-chain-of-memories-omnibus-review/
-
-Kingdom Hearts: Chain of Memories delivers an engaging if transitionary storyline which lends a new appreciation to characters like Riku, whilst building the world of Kingdom Hearts with new developments and characters who stand to be important as the overall story develops.
 

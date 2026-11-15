@@ -1,4 +1,4 @@
-# Review radar — updated 2026-11-14
+# Review radar — updated 2026-11-15
 
 Built by `scripts/harvest-embargoes.mjs` from Steam's upcoming releases,
 sorted by date and filtered to titles priced at €25 or more. That price line is
@@ -20,7 +20,7 @@ Games only. Film and television still come from `notes/feeds/film-tv.md`.
 
 | Title | Publisher | Release | Away | Reviews from | Price |
 |---|---|---|---|---|---|
-| Gold Mining Simulator - Definitive Edition | Code Horizon, PlayWay S.A. | 2026-11-17 | 3d | 2026-11-16 | €39.99 |
+| Gold Mining Simulator - Definitive Edition | Code Horizon, PlayWay S.A. | 2026-11-17 | 2d | 2026-11-16 | €39.99 |
 
 ## Further out, within 14 days
 
@@ -28,7 +28,7 @@ _Nothing else dated in the window._
 
 ---
 
-*1350 upcoming titles scanned, 1264 with a firm date inside
+*1450 upcoming titles scanned, 1289 with a firm date inside
 14 days, 1 above the price line. Titles showing
 "Q4 2026" or "To be announced" are dropped: a quarter says nothing about when
 reviews arrive.*

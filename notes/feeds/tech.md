@@ -1,6 +1,16 @@
-# Tech — harvested 2026-11-14T18:50:53.075Z
+# Tech — harvested 2026-11-15T12:15:48.643Z
 
 ## Ars Technica
+
+### How the world’s fires changed while humanity hit pause
+Sun, 15 Nov 2026 12:07:34 +0000 — https://arstechnica.com/science/2026/11/how-the-worlds-fires-changed-while-humanity-hit-pause/
+
+Wildfires occur worldwide, and they can sometimes become serious threats to people's lives. A series of massive bushfires from 2019 to 2020 swept across southeastern Australia and destroyed thousands of homes. Recently, the 2025 Los Angeles wildfires spread widely across the city, resulting in massive damage to local communities. Many things can cause wildfires, but humans are the only factor that can also make preventative efforts. Measuring people's impact on fire is difficult because of the mix of human and natural influences. A team led by Jianghao Wang, a professor at the Chinese Academy of Sciences, recently published a study in Cell Reports Sustainability comparing the COVID-19 era with other years. Data from the 2020 lockdowns suggest that lower human activity at this time had the net effect of lowering average fire activity. Read full article Comments ]]>
+
+### SpaceX returned its Starship rocket on Saturday—but there s a catch
+Sun, 15 Nov 2026 00:40:59 +0000 — https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/
+
+STARBASE, Texas —The black and silver ship fell out of the sky, emerging from the cloud deck near the very end of its flight. Incongruously, the rocket flew horizontal until the last moment when three Raptor rocket engines ignited and it swooped into a vertical position. Slowly, gently, haltingly, the Starship upper stage eased its way toward the waiting tower where two arms extended outward, awaiting expectantly. The margins are so incredibly narrow. Two nubs on either side of the rocket, each protruding only about one foot, were the only purchase the rocket would have on the arms. Then, less than a minute after it came into view, the Starship upper stage was snagged by the launch tower, as snug as you like. And so it was all over. SpaceX, nearly a quarter of a century after its founding, had just taken a hugely significant step toward developing and optimizing a massive, rapidly reusable rocket. Read full article Comments ]]>
 
 ### James Webb telescope finds ice older than the star it orbits
 Sat, 14 Nov 2026 12:15:48 +0000 — https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/
@@ -52,17 +62,17 @@ Fri, 13 Nov 2026 16:26:32 +0000 — https://arstechnica.com/security/2026/11/win
 
 Nightmare Eclipse, the pseudonym of a researcher with an ongoing, very public beef with Microsoft, has dropped yet another Windows zero-day. On Tuesday, Nightmare Eclipse disclosed SignDrop, a vulnerability that gives local users full System rights on some versions of Windows. The vulnerability resides in the Common Log File System , which Microsoft describes as a “general-purpose logging service used by software clients running in user-mode or kernel-mode.” By forcing a privileged process such as Windows Defender to open a crafted CLFS container, an attacker with ordinary user rights can abuse the privileged file creation to elevate privileges to System. Turning a Windows defense against itself The attack exploits the interaction of CLFS, Windows Defender, and Windows file permissions. The exploit uses Windows Defender to open a log file created by a standard user by calling ServerMpUpdateEngineSignature, a legitimate Defender function for processing antivirus signature updates. Read full article Comments ]]>
 
-### Microsoft’s global outage may be worse than Amazon s or CrowdStrike s, expert says
-Fri, 13 Nov 2026 15:26:53 +0000 — https://arstechnica.com/tech-policy/2026/11/microsoft-blames-failed-server-health-checks-not-hackers-for-global-outage/
-
-A global outage taking down a wide range of Microsoft 365 services remains ongoing Friday morning. The outage started midday Thursday, impacting users of Microsoft email, cloud, and AI services. Microsoft has documented the full list of services impacted by the error, while moving early Friday morning to protect customers around the world from losing emails during the extended disruptions. “Recovery actions are ongoing,” the Microsoft 365 Status account confirmed on X. “To help preserve delayed mail during this event, we’ve extended email timeout to 48 hours.” Read full article Comments ]]>
-
-### It s the end of the world as we know it, per a physicist s 1960 prediction
-Fri, 13 Nov 2026 15:09:39 +0000 — https://arstechnica.com/science/2026/11/its-the-end-of-the-world-as-we-know-it-per-a-physicists-1960-prediction/
-
-As of this morning, Microsoft is still scrambling to restore service following yesterday's global outage, with millions of users unable to access Outlook and other vital tools. It's not the end of the world, but it does seem fitting that this should happen on the day a physicist predicted would be the end of humanity: November 13, 2026. And it falls on a Friday, too. The physicist in question is Heinz von Foerster, who published a 1960 paper in the journal Science predicting that by today, overpopulation would reach the breaking point. It's not a new fear. English economist Thomas Malthus —one of the early pioneers in modeling population dynamics—made a similar prediction in 1798, claiming that a rapidly growing population would eventually exhaust the available food supply, and humanity would starve to death. His model rested on the assumption of exponential growth, but the equation is only applicable under specific conditions, such as scientists growing bacteria in a lab in a perfectly controlled environment. Even then, while growth occurs exponentially for a time, it does not continue forever. Population dynamics are notoriously tricky to calculate because there are so many variables to consider and so much unpredictability in the system. In his 1960 analysis, Von Foerster accurately measured past trends in population growth, but like Malthus, he assumed those trends would carry into the future largely unchanged. So he projected that human population growth would march inex
-
 ## The Verge
+
+### Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship
+2026-11-14T16:44:44-05:00 — https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch
+
+After aborting a planned catch of Starship Flight 15's booster, SpaceX successfully captured Starship with its "Mechazilla" launch and catch tower for the first time. The company has performed ' chopstick ' catches of its boosters before, but this is the first time the maneuver has successfully been executed on the Starship vehicle itself. SpaceX CEO Elon Musk said during the company's third-quarter earnings call that "success is not guaranteed on these first flights, but I'd say it's more likely than not that this succeeds next flight." While not a complete success, in that the company was unable to recover the entire launch vehicle, it sti … Read the full story at The Verge. ]]>
+
+### Magic: The Gathering is getting a Netflix animated series. For real this time.
+2026-11-14T14:47:40-05:00 — https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series
+
+"It's really happening. I promise. For real." Those are the first words from Roy Graham, Head of Story at Magic: The Gathering , in a video posted yesterday announcing Planeswalker , the animated series heading to Netflix in 2027. An animated Magic: The Gathering series was first teased back in 2019 with Joe and Anthony Russo at the helm. But that fell apart. In 2024, Netflix announced it still planned to make a series based on the game, but it decided to rework it from the ground up. Now fans are finally getting their first glimpse of the show, which will be called Planeswalker . According to the sneak peek, because each plane exists in its … Read the full story at The Verge. ]]>
 
 ### Work to replace old copper wire led to the FAA’s ground stop
 2026-11-14T12:44:28-05:00 — https://www.theverge.com/transportation/1033898/faa-ground-stop-sean-duffy-faa-copper-wire
@@ -104,17 +114,27 @@ Nvidia CEO Jensen Huang at CES 2025 in Las Vegas, Nevada, on January 6, 2025. | 
 
 A view of an information board at the Chicago O'Hare International Airport, filled with waiting passengers on November 13, 2026. Photo by Jacek Boczarski/Anadolu via Getty Images) | Anadolu via Getty Images Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop at 3:44PM ET "due to extraordinary circumstances and for reasons of safety." More than four hours after the stop was issued, officials announced it was lifted at 8:15PM ET and that flights will resume. It's unclear how many flights will be able to take off and when, as they now face problems of overloaded airports and flight crews that have run out of time to operate the planes, meaning many people will be stuck where they are for the time being and more flights will be delayed or canceled. In a White House press conference annou … Read the full story at The Verge. ]]>
 
-### Amazon has a plan to index the world’s online shopping data
-2026-11-13T18:49:11-05:00 — https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search
-
-Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters . The project, called the "World Product Graph," is meant to make it less likely that shoppers leave Amazon to do their product research on Reddit or Google, and make it more likely shoppers end up at Amazon even if they're searching for a product sold elsewhere. The same goes for AI agents - if Amazon has the largest stockpile of shopping data, AI agents may rely on its index of products over others, so even people shopping with bots will end … Read the full story at The Verge. ]]>
-
-### ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you
-2026-11-13T15:45:10-05:00 — https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet
-
-After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and "eligible US-issued American Express, Chase, Mastercard and Visa cards." After adding a card to the wallet, your Dots agents can use it to buy things in response to your prompts, but they'll check in with you each time before checking out. OpenAI's support page says every purchase with ChatGPT Wallet requires a security check with biometric verification like Face ID or a fingerprint scan. Now your dot c … Read the full story at The Verge. ]]>
-
 ## Tom's Hardware
+
+### Elon Musk signs petition to reinstate Jensen Huang as Nvidia CEO — over 130,000 sign online petition, but not all Nvidians support Jensen's return
+Sun, 15 Nov 2026 12:00:00 +0000 — https://www.tomshardware.com/tech-industry/elon-musk-signs-petition-to-reinstate-jensen-huang-as-nvidia-ceo-over-130-000-sign-online-petition-but-not-all-nvidians-support-jensens-return
+
+A letter demanding the reinstatement of Jensen Huang as Nvidia CEO has been circulating online and has already garnered more than 91,000 signatures at the time of writing. Elon Musk said on X that he signed a petition, but it is unclear which one he has signed. At least one large online petition has circulated, with other big names supposedly among the signatories, ostensibly including Epic Games CEO Tim Sweeney and several prominent shareholders, partners, and current and former Nvidia employees. However, the signatories on this petition apparently aren't verified. Regardless, this petition has gathered over 130,000 signatures. @yunta_tsai A petition is underway to reinstate Jensen and I’m signing it too November 13, 2026 However, not everyone is keen on bringing Jensen back; Nvidia Vice President for Applied Deep Learning Bryan Catanzaro said on X that an online letter purportedly circulated at Nvidia is fake, and he had no involvement and wouldn’t sign it if it were real. He also reiterated his support for Colette Kress, the newly appointed interim CEO who would run the company while the board looked for a suitable replacement for Jensen. There is a made-up letter circulating online asking NVIDIA’s board to reinstate Jensen, claiming my involvement. This letter is obviously fake, and even if it were real I would not sign it.I am grief-stricken that Jensen is no longer with NVIDIA. At the same time, I fully support NVIDIA’s board and have confidence in their decisions.I’ve 
+
+### Dr. Lisa Su graces the opening of Micro Center's new Austin store
+Sun, 15 Nov 2026 11:30:00 +0000 — https://www.tomshardware.com/desktops/pc-building/dr-lisa-su-graces-the-opening-of-micro-centers-new-austin-store-amd-ceo-meets-with-gamers-autographs-a-9070-xt-gpu-and-hands-out-300-swag-bags
+
+It looks like AMD is trying to get back into the good graces of gamers, with its CEO, Dr. Lisa Su, joining the grand opening of Micro Center Austin. The company shared official photos of AMD’s chief executive cutting the ribbon to mark the store’s opening on its Instagram page, while a Redditor shared a short clip showing her making the rounds among the people waiting to get inside the shop and signing a Gigabyte Radeon RX 9070 XT GPU, one of the best gaming GPUs you can buy today. AMD CEO Lisa Su meeting and interacting with attendees today at the grand opening of the new Micro Center in Austin. from r/pcmasterrace AMD has been saying that it is a data-center-first company repeatedly since 2024. Dr. Su reiterated the stance in an interview earlier this month, at which point some in the press finally decided to notice. The reporting naturally enraged gamers who supported AMD and Nvidia for decades and are now feeling left behind as these companies pivoted towards more lucrative AI hardware. This has become apparent with the paper launches of Nvidia’s latest RTX 50-series chips in 2025 and the purported production cuts of powerful RTX 5080 and RTX 5090 GPUs, even as demand for Nvidia’s AI GPUs continues to rise . A post shared by Micro Center (@microcenter) A photo posted by However, it seems that this outrage has been drowned out by the unfolding scandal at Nvidia, which saw the dramatic fall from grace of the company’s legendary founder. It’s unclear if this plan to have the
+
+### The original Xbox was released 25 years ago today
+Sun, 15 Nov 2026 11:00:00 +0000 — https://www.tomshardware.com/video-games/xbox/the-original-xbox-was-released-25-years-ago-today-microsofts-pentium-iii-and-nvidia-gpu-powered-console-did-surprisingly-well-in-a-ps2-dominated-era
+
+Microsoft’s first games console hit North America 25 years ago today. Effectively a PC in a box, the original Xbox was powered by an Intel Pentium III CPU and an Nvidia GPU inside a bulky black and green case. This first-gen device would sell 24 million units and be succeeded by the sleek PowerPC/ATI-powered Xbox 360 in late 2005. (Image credit: Microsoft) The Xbox arrived on Nov 15, 2001, during the sixth generation of consoles, facing stiff opposition from the legendary Sony PlayStation 2 , Nintendo GameCube, and Sega Dreamcast. However, it established a very respectable foothold in the console market thanks to its formidable hardware and a killer app in the shape of Halo: Combat Evolved . It would end up outselling Nintendo and Sega rivals, only living in the shadow of the PS2. It is interesting to weigh up the performance hardware that was a big reason behind the OG Xbox’s success. Though the contemporary PC parts it used probably made it one of the biggest and ugliest consoles ever, powerful hardware is a great foundation for cutting-edge gaming experiences. The key components behind the Xbox were the Intel Pentium III 733 MHz CPU and an Nvidia NV2A 233 MHz GPU. Systems came with 64MB of DDR SDRAM and accessed games via optical media through its DVD drive . Perhaps most unusual for the time, the system included a built-in HDD (8GB), as well as offering 8MB memory cards for removable storage. Another hardware advantage of the Xbox and key to connected gaming fun during th
+
+### Wacky PC and gadget gift guide
+Sat, 14 Nov 2026 21:00:00 +0000 — https://www.tomshardware.com/gift-guides-seasonal-sales/wacky-pc-and-gadget-gift-guide-surprise-tech-lovers-with-10-different-options-like-wireless-power-buttons-dvd-burner-usb-hubs-and-clamp-on-pegboards
+
+The people you want to buy holiday gifts for probably have wishlists, but what happened to surprise and delight? Sometimes, you just have to choose something a bit out of left field to stuff a stocking or fill a gift box and watch as you see your friend or family member's eyes light up. So besides getting your loved ones everything they want, you can also get them a few fun items that surprise and delight. Wacky, even weird, tech that may not be exactly what someone expected to receive, but will certainly make them think of you when they use it. And many of these picks are actually functional. A CD/DVD burner that also happens to be a USB hub, a wireless button to turn your PC on or off, and a clamp-on desk pegboard to keep your workspace neat are just a few of the items you'll find. Here are some interesting and unusual gadgets for the PC builder or tech lover in your life: Ultra Slim External CD/DVD drive (8 in 1 USB 3.0 Hub): $35.99 SUIDECK's portable USB-connected optical and media reader peripheral also has USB HUB functionality. This has you covered for all sorts of old CDs, DVDs, and flash cards you might have in the back of your tech cabinets. View Deal The imini 2 is a handy little flashlight that easily attaches to your keychain. Built to last and bright enough to be reliable, you will never want to leave the house without it. View Deal Wireless Remote Desktop PC Power Switch: $36 A wireless button for turning your PC on/off. Big red button vibes give off danger sig
 
 ### Samsung's 1TB 990 SSD drops to 19 cents per GB amid the memory crisis — grab it for $40 off
 Sat, 14 Nov 2026 16:32:48 +0000 — https://www.tomshardware.com/pc-components/samsungs-1tb-990-ssd-drops-to-19-cents-per-gb-amid-the-memory-crisis-grab-it-for-usd40-off
@@ -156,27 +176,22 @@ Sat, 14 Nov 2026 14:20:00 +0000 — https://www.tomshardware.com/maker-stem/cont
 
 A contractor faced a project that required them to create 50,000 custom Cat6 cables from scratch, requiring 100,000 Cat6 terminations. The contractor, who goes by Analytical Horsepower on YouTube , had used a large, rare tool to streamline the job, but afterward he decided to build his own portable tool by modifying a Milwaukee Hackzall, cutting the time to straighten the twisted pairs to under two seconds. His first solution to the problem was to buy a “Wire Straightening Machine” from Alibaba for $500. It does the job well enough, but it’s an industrial machine designed for tabletop use, requiring an AC power source for the power brick and compressed air to run. The concept is that it clamps the wire between two rubber grips using air pressure, and then a linkage converts the rotary motion of the motor into a linear one, allowing the grip to untwist the cable. Since he wanted to use the machine in the field, he needed to make the thing portable — so he disassembled the entire thing, replaced the DC power brick with a 20V DeWalt battery with an adapter, added a push-button switch for power control, and a portable bike pump to deliver compressed air on the go. It worked well at first, but he soon discovered that it was too bulky to use in the tight and hard-to-reach places where Ethernet cables sometimes terminate, like when you’re installing this heavy-duty outdoor Wi-Fi 7 access point . So, he studied the concept — it involved two flat, grippy surfaces grabbing the twisted 
 
-### Weeks after shipment was swiped by China, Pentagon ‘struggles to account for’ $31 billion in missing F-35 aircraft parts
-Sat, 14 Nov 2026 14:00:00 +0000 — https://www.tomshardware.com/tech-industry/pentagon-struggles-to-account-for-usd31-billion-in-missing-f-35-aircraft-parts-weeks-after-shipment-was-swiped-by-china-tracking-of-estimated-26-million-parts-is-outdated-inaccurate-and-incomplete-says-watchdog
-
-The Pentagon is struggling to track an astonishing 26 million F-35 warfighter parts, worth an estimated $31 billion, according to analysis published by the Government Accountability Office (GAO) this week. In its report — published just weeks after China purportedly swiped a classified shipment of F-35 parts diverted through Hong Kong — the GAO criticized the current inventory system as “outdated, inaccurate, and incomplete.” Possible solutions were also provided by the GAO; however, the implications are that the most advanced and costly fighter jets in U.S. history may not be ready and reliable due to inventory management deficiencies. Inventory problems have been a long-standing feature of the deployment of the F-35, notes the source. The F-35 program is estimated to cost $1.9 trillion over its lifecycle. It is the most costly weapon system in history, says the GAO. But the Department of Defense (DOD) has “long-standing and ongoing deficiencies related to the accountability and financial reporting of F-35 parts,” asserts the watchdog. Chief among the issues that need to be addressed is the headlining massive unmonitored pool of roughly 26 million spare parts. These are spread among 700 government and contractor facilities worldwide, but the technology for managing massive inventories has existed for decades. We might have seen a telling symptom of the inadequate F-35 parts tracking system back in September. A communications and/or accountability breakdown resulted in a UPS 
-
-### Save up to $800 on an iBuyPower gaming PC right now in this massive Black Friday sale
-Sat, 14 Nov 2026 13:00:00 +0000 — https://www.tomshardware.com/desktops/gaming-pcs/save-up-to-usd800-on-an-ibuypower-gaming-pc-right-now-in-this-massive-black-friday-sale-coupon-code-knocks-up-to-usd200-extra-off-high-spec-pre-built-rigs-fitted-with-nvidia-and-amd-gpus
-
-iBuyPower, who specialize in pre-built and customized gaming PC builds, have put together a huge sale for the entire month of November. iBuyPower's Black Friday month of sales means you can score a gaming PC with a big discount, with hundreds of dollars knocked off some seriously powerful rigs right now. There are sales on PCs that feature some of the best specs available for a gaming PC, with powerful CPUs and GPUs like the AMD Ryzen 7 9800X3D and Nvidia GeForce RTX 5090 on offer. These sales will last for almost the entire month, but there's no guarantee that the stock will be around that long. ● Check out these gaming PC deals at iBuyPower These extended deals will run until 11.59 pm PT on November 29. If you're quick, you can score up to $200 more off the sale prices of these iBuyPower gaming PCs via the company's store, as long as you're using a coupon code. This deal applies only to iBuyPower's pre-built gaming machines, however. Make sure to use the coupon code BFMONTH at checkout to check for any extra discounts that might be running. This code will knock up to $200 off pre-builts, for instance, while also giving you 5% off any custom builds you decide to go for, but how much discount you get will depend on the price of the machine you're buying. To help you pick, here are some of the stand-out deals on gaming PCs running over at iBuyPower right now. Top iBuyPower Gaming PC Deals These are some of iBuyPower's best rigs on sale right now, but be warned. Some of these d
-
-### Lawyer’s eight-V100 AI server moves DeepSeek from 2-bit to near-NVFP4 precision
-Sat, 14 Nov 2026 12:50:00 +0000 — https://www.tomshardware.com/tech-industry/artificial-intelligence/lawyer-upgrades-eight-v100-private-ai-server-to-run-80-percent-of-deepseek-v4-1-flash-at-4-bit-nvfp4-precision-adds-1tb-of-ram-an-nvidia-rtx-3090-and-fixes-crashes-caused-by-a-bad-psu
-
-A lawyer with a private AI server built on eight used Nvidia V100 GPUs returned with an update , moving about 80% of its work up from 2-bit to 4-bit NVFP4 precision and bringing in 1TB of RAM and an RTX 3090. The server uses DeepSeek V4.1 Flash with a legal harness, the workflows and checks he wraps around the model, for his law practice. The cost? Performance, with code output dropping from 160–215 to 150–180 tokens per second, although the crashes that hit the new build are gone. The culprit behind the crashes, originally blamed on PCIe, was likely a bad PSU. Lawyer's V100 homelab, update 2: the 8x V100 box now runs DeepSeek at near-NVFP4 precision with a 524K context, a 3090 moved in, RAM went to 1 TB, and I blamed PCIe for what was probably one bad PSU from r/homelab Once a random hardware nerd lawyer on Reddit, the lawyer's responses to the original breaking story illuminated his identity. He’s a trial lawyer in Columbia, South Carolina. ProprietaryLegalAI commented on our first story three times, linking to a code repository, site, and LinkedIn that identify him as Nick Mermiges, founder of PLI Labs and proprietarylegal.ai. His other firm, PLI, is a technology consultancy, not a law firm, and now lists private, on-prem LLM serving as a service. He built the software side with AI, specifically Claude Code, which wrote the kernels and ran the benchmarks with his direction. The Opus 5.5 and Fable 5.2 models handled the optimizations, custom kernels, and re-quantizing; he n
-
-### China’s Air Force builds drone that shoots painkiller darts at wounded soldiers
-Sat, 14 Nov 2026 12:30:00 +0000 — https://www.tomshardware.com/tech-industry/drones/chinas-air-force-builds-drone-that-shoots-painkiller-darts-at-wounded-soldiers-experimental-pla-uav-injects-emergency-meds-from-a-distance-to-keep-medics-out-of-danger-and-buys-time-during-the-golden-hour
-
-A Chinese military medical school has just developed a UAV that could remotely administer medicine, helping treat injured soldiers on the front lines without putting medical personnel at risk. According to Chinese mouthpiece Global Times , the Air Force Medical University built the first casualty-search drone for the People’s Liberation Army (PLA) that fires darts loaded with painkillers to help ease the pain of wounded personnel. “We have developed the military’s first casualty-search drone and have also made some breakthroughs in treatment. For example, we can use drones to inject medication into wounded personnel from a considerable distance,” Air Force Medical University representative Wang Jianqi told the publication. “Wherever our drone can fly, we can deliver life-saving emergency medication into a wounded person’s muscle, buying valuable time for treatment.” Russia’s invasion of Ukraine saw the widespread use of drones on the frontline, primarily for search-and-destroy and reconnaissance missions. However, the four-year escalation of the 12-year war has seen the creative implementations of these units — from jam-proof fiber optic drones to the use of heavy-lift hexacopters for medical evacuation . Now, drones-as-first-responders are being developed for civilian use, including firefighting drones , camera response drones , and even “Campus Guardian Angel” drones designed to neutralize school shooters. However, China's air-ground treatment drone remains in the experimen
-
 ## Phoronix
+
+### IBM Talks Up Their New Ability For Handling ARM64 Guest VMs on s390 Hardware
+Sun, 15 Nov 2026 06:42:22 -0500 — https://www.phoronix.com/news/IBM-VMs-ARM64-On-s390
+
+One of the biggest surprises this year was IBM collaborating with Arm for "dual architecture" hardware. In addition to the IBM s390 hardware side, this "dual architecture" support for running ARM64 instructions on s390 also requires Linux KVM virtualization support with patches we've seen the past number of months and initial code merged for Linux 7.4...
+
+### AMD ARG "AMD Root Guest" Linux Patches Coming In 2027
+Sun, 15 Nov 2026 06:24:06 -0500 — https://www.phoronix.com/news/AMD-Root-Guest-ARG-Linux
+
+A new feature of EPYC 9006 "Venice" server processors that isn't yet brought up in the public Linux software support is AMD Root Guest (ARG). The initial patches are expected in Q1'2027 for further enhancing the AMD SEV-SNP confidential computing experience...
+
+### ASUS Ascent QN10 Mini PC Powered By Snapdragon X2 Elite Seeing Linux Support
+Sun, 15 Nov 2026 06:01:55 -0500 — https://www.phoronix.com/news/ASUS-Ascent-QN10-Linux
+
+In addition to a number of laptops powered by Qualcomm's Snapdragon X2 beginning to see Linux support, there's now a X2 Elite powered mini PC seeing Linux patches too...
 
 ### Redox OS Gets Golang Working, GIMP Ported & Simplified AI Policy
 Sat, 14 Nov 2026 11:06:43 -0500 — https://www.phoronix.com/news/Redox-OS-Golang-GIMP
@@ -223,22 +238,12 @@ Fri, 13 Nov 2026 16:07:09 -0500 — https://www.phoronix.com/news/Cloudflare-Kit
 
 Earlier this year Cloudflare announced Kitesurf as a stateless web browser for AI agents. After building out its features, they have now made good on their word to open-source it...
 
-### AMD openSIL Achieves Its Production Goal With 6th Gen EPYC "Venice"
-Fri, 13 Nov 2026 13:20:29 -0500 — https://www.phoronix.com/news/AMD-openSIL-Venice-Goal
-
-Since 2023 I and many open-source advocates have been very eager for AMD's openSIL project for delivering open-source CPU silicon initialization as a replacement to the traditional AGESA code. With Zen 5 there was proof-of-concept support that we have enjoyed with Coreboot on an MSI Ryzen motherboard and a Gigabyte EPYC server motherboard thanks to the Coreboot-based Dasharo ports by 3mdeb. The goal for production readiness was for Zen 6, but with this week's EPYC 9006 SP7 announcement the openSIL topic wasn't touched on. So I asked around...
-
-### KDE Frameworks 6.32 Released With That Fix For USB File Transfer Notifications
-Fri, 13 Nov 2026 12:02:33 -0500 — https://www.phoronix.com/news/KDE-Frameworks-6.32
-
-KDE Frameworks 6.32 shipped today as the newest monthly update to this set of KDE components. Notable this month is a fix for the previously-reported 15 year old bug around inaccurate notifications for USB file transfers...
-
-### AMD Leverages AI + HRX Loom In Experiment For Quickly Porting 50 LLMs To Client GPUs
-Fri, 13 Nov 2026 10:53:00 -0500 — https://www.phoronix.com/news/AMD-HRX-Loom-Experiment
-
-Following the recent release of HRX Loom v0.1 and leveraging an AI agent workflow, a team at AMD experimented with bringing 50 trending Hugging Face models over to AMD client GPUs. They accomplished this feat in just around three days, thanks to their HRX software work paired with the power of Ryzen AI Max "Strix Halo" hardware...
-
 ## The Register
+
+### LEO gets a birthday bash, 75 years after clocking in
+Sun, 15 Nov 2026 09:03:00 +0000 — https://www.theregister.com/offbeat/2026/11/15/leo-gets-a-birthday-bash-75-years-after-clocking-in/5308806
+
+Business computing turns 75 this month, and Cambridge's Centre for Computing History is throwing a party for LEO, the machine that helped start it all. The LEO@75 event takes place on Saturday, November 28, from 10am to 5pm, with film screenings, historical displays, and hands-on activities for children. The Register has written about the Centre for Computing History a few times. It's an interactive computer museum just off Coldhams Lane in Cambridge, and back in 2018 it won National Lottery funding to help it "preserve, archive and digitise a range of LEO Computers artefacts, documents and personal memories." Admission supports the museum charity, with student and concession tickets at £10 and family tickets starting at £15. As well as stuff for the grown-ups, including a film screening, it will include events for smaller children (5-7) and a Python coding event for older (12-16) kids. Regular readers might recall our story about the Lyons Electronic Office back in 2021, celebrating its 70th anniversary. The Reg also published an obituary for Mary Coombs, the first female commercial programmer the following year. Coombs started programming LEO in 1952. Both stories offer more on the machine and the people behind it. LEO was an early computer, but from three-quarters of a century away, it's easy to miss just how early. Its design was based on Cambridge University's EDSAC, developed by a team led by the late, great Sir Maurice Wilkes. The Reg mentioned EDSAC in our obituary fo
 
 ### Microsoft's school email bill gives rivals something to smile about
 Sat, 14 Nov 2026 10:27:00 +0000 — https://www.theregister.com/saas/2026/11/14/microsofts-school-email-bill-gives-rivals-something-to-smile-about/5309296
@@ -250,10 +255,10 @@ Sat, 14 Nov 2026 08:18:00 +0000 — https://www.theregister.com/security/2026/11
 
 Technology companies are doing just enough to show a degree of compliance with the UK's Online Safety Act, but are failing to meet the needs of the individuals and young victims the legislation exists to protect, experts say. A panel of online safety pros assembled before Parliament's Communications and Digital Committee on Tuesday, taking aim at the likes of Google, Microsoft, Meta, and ByteDance for failing to act on important matters. Clare McGlynn, professor of law at Durham University and expert on violence against women and girls (VAWG), was especially critical of major search engine providers for their inconsistent downranking of harmful content search terms. "Rape porn," for example, is correctly downranked and no user sees any relevant links until the tenth page of results, although adjacent terms such as "unwilling porn" can be found as early as the third page, McGlynn said. "I just think if someone spent a little more time thinking 'I really want to minimize the risk of this material appearing,' I would take a systematic approach," she told the committee. "I would downrank 'unwilling' and 'unwanted,' and I would downrank 'asleep porn' as well… because it just means that it's easily findable. "So, they don't rank some of them, but just not systematically or wholly consistently." McGlynn went on to say that during her own research, "force porn" was rightly downranked heavily, although terms as similar as "forced porn" were not. "If you were trying to think of the wor
 
-### FAA lifts ground stop after hours-long delays snag travelers
-Fri, 13 Nov 2026 22:42:28 +0000 — https://www.theregister.com/offbeat/2026/11/13/faa-lifts-ground-stop-after-hours-long-delays-snag-travelers/5309912
+### FAA blames ground stop on faulty copper wiring
+Fri, 13 Nov 2026 22:42:28 +0000 — https://www.theregister.com/offbeat/2026/11/13/faa-blames-ground-stop-on-faulty-copper-wiring/5309912
 
-The US Federal Aviation Administration on Friday issued an advisory that prevented the takeoff of flights in US airspace for around five hours, creating chaos for travelers and airports. The stop was finally lifted around 8:30 PM Eastern Time, but only after thousands of flights were canceled or delayed, leaving travelers stranded. The FAA has not yet confirmed a reason for the stop. Original story below: "The FAA issued a nationwide ground stop for all U.S. airports following a communication issue impacting all Air Route Traffic Control Centers," said US Transportation Secretary Sean Duffy in a statement. "FAA technicians are investigating the issue. We will provide immediate updates as we have them." A spokesperson at the FAA press office reached by phone said he was unable to provide further information. And an email response from the agency repeated Duffy's statement. The FAA ATCSCC advisory halts departing flights and says international flights will be dealt with individually. The notice says, "Due to extraordinary circumstances and for reasons of safety. Attention all aircraft operators, by order of the Federal Aviation Command Center all airports are ground stopped. All departing traffic should remain stopped until further notice. Inbound international flights will be managed on a case by case basis." Doug Yakel, public information officer for San Francisco International Airport, said, "FAA confirms nationwide ground stop, other reporting indicates a communications iss
+The US Federal Aviation Administration on Friday issued an advisory that prevented the takeoff of flights in US airspace for around five hours, creating chaos for travelers and airports. The stop was finally lifted around 8:30 PM Eastern Time, but only after thousands of flights were canceled or delayed, leaving travelers stranded. In a press conference Saturday, Transportation Secretary Duffy attributed the FAA ground stop to problems with copper wiring during an L3Harris network upgrade. Duffy said it has yet to be determined whether the issue was incompetence or a faulty router. In a statement provided to The Register on Saturday, a spokesperson for L3Harris said, “L3Harris has been modernizing the communications infrastructure supporting the National Airspace System in close coordination with the FAA. With safety and reliability as our highest priorities, L3Harris, together with its telco partners and the FAA, has completed more than 70 percent of the planned airspace communications conversion from legacy copper wires to a fiber optic system. We are supporting the FAA in its investigation to understand the conditions that led to the Nov. 13 ground stop of our nation’s air travel. L3Harris takes the nationwide ground stop and its impact on travelers, airlines and air traffic operations seriously.” The stop was issued on Friday around the middle of the day ET. "The FAA issued a nationwide ground stop for all U.S. airports following a communication issue impacting all Air Ro
 
 ### Chinese AI labs are training models on Nvidia's Blackwell despite export controls, says ex-OpenAI engineer
 Fri, 13 Nov 2026 21:16:22 +0000 — https://www.theregister.com/ai-and-ml/2026/11/13/chinese-ai-labs-are-training-models-on-nvidias-blackwell-despite-export-controls-says-ex-openai-engineer/5309891
@@ -295,74 +300,84 @@ Fri, 13 Nov 2026 15:28:00 +0000 — https://www.theregister.com/ai-and-ml/2026/1
 
 Arm's Lorenzo Stoakes isn't quitting Linux kernel development, though he's stepping back from some of the patch-review work he used to handle. Stoakes is a principal software engineer at Arm and he's a busy chap. Aside from writing the forthcoming book The Linux Memory Manager , in his CV [PDF], he says: "I hold four maintainerships: memory mapping, memory mapping (locking), memory mapping (madvise) – essentially the entirety of the userland API to memory management – and the reverse mapping which connects physical to virtual memory." Even so, he plans to soon be doing a little less. Earlier this week he posted an email to the Linux kernel mailing list to say that he was planning to drop some of his workload. He explained: "Given the current throughput in the kernel resulting from AI-generated series, I unfortunately lack the bandwidth to generally be able to offer review except in those areas I maintain. […] Apologies for doing this, but given the current trends I'd like to do something to make my inbox a little more manageable." As it happens, this came just the day after the Paramount Penguin himself said that he saw signs that the AI patch tide was "starting to turn." Stoakes told The Register : "I am retaining my maintainerships and have no plans on giving those up, I just want my inbox to be less horrendous. "And yeah, AI is part of the reason; in general, it's gone from 'once a week' to 'daily' to 'half of what I see in review'. "But the AI wave is hitting [memory mana
 
-### Most affairs don't matter except to the people involved. Ex-Nvidia CEO Jensen's blunder will rock the world
-Fri, 13 Nov 2026 14:45:00 +0000 — https://www.theregister.com/columnists/2026/11/13/most-affairs-dont-matter-except-to-the-people-involved-ex-nvidia-ceo-jensens-blunder-will-rock-the-world/5309649
-
-It's a story as old as time. Billionaire nerd boy meets girl. Girl is later suspected of being a spy. News at 11. Oh, and it's also been reported that he was having an affair with one of his direct-report employees. When Nvidia CEO Jensen Huang makes a "romantic" blunder, he doesn't do it halfway. The boss of the world's most valuable company – well, it was until recently, anyway – publicly resigned yesterday, November 12, as CEO, president, and board member, effective immediately. We don't know if he jumped or if he was pushed. He left after admitting to having an affair. Although he never named an affair partner, one of the affairs was reported to be with Alice Huang, AKA Huang Le. She's head of the Chinese company Megaspeed, which was an Nvidia partner. Megaspeed is accused of being a front for China's government that was used to transfer Nvidia chips to China, although this hasn't been proven. Some US officials also suspect [PDF] she's working for Chinese intelligence, although the DoJ said it hasn't yet reached a conclusion about this. The final nail in Jensen's coffin came when The New York Times reported he had also allegedly had an affair with Nvidia's VP of health care, Kimberly Powell. Jeeze, guy! In the aftermath, Nvidia's CFO, Colette Kress, was appointed interim CEO. She won't, I suspect, be in the job for long. CFOs are not CEOs. The jobs aren't remotely the same. In most companies, Huang would be replaced by the COO. That can't happen here. Nvidia doesn't have 
-
 ## Engadget
 
-### Common reasons your PC's camera and microphone aren't working
-Sat, 14 Nov 2026 18:30:00 +0000 — https://www.engadget.com/2311859/pc-camera-microphone-not-working-common-reasons/
+### Which NVIDIA GPU is closest to the PS5? The answer isn't so simple
+Sun, 15 Nov 2026 01:00:00 +0000 — https://www.engadget.com/2313644/nvidia-gpu-ps5-closest-match-answer-not-simple/
 
-There's nothing worse than having camera or mic problems right before a video call or meeting. Luckily, the fixes are usually pretty straightforward.
+One of the biggest questions when it comes to purchasing a gaming rig is whether to go console or PC. This NVIDIA GPU gives the closest results to a PS5.
 
-### How to check which iOS version your iPhone is running
-Sat, 14 Nov 2026 18:15:00 +0000 — https://www.engadget.com/2311762/how-to-check-iphone-ios-version/
+### This Sony patent would add a credit card reader to your PlayStation controller
+Sun, 15 Nov 2026 00:45:00 +0000 — https://www.engadget.com/2313652/sony-patent-playstation-controller-adds-credit-card-reader/
 
-Not every version of iOS is a home run, but keeping your iPhone up to date is generally a good idea anyway. Here's how to check whether yours is.
+As Sony and PlayStation head into a digital-only era, new tech on its upcoming controllers could help make online purchases even more convenient for gaming.
 
-### What does an NPU do and why do so many laptops have them?
-Sat, 14 Nov 2026 18:00:00 +0000 — https://www.engadget.com/2311854/what-is-npu-why-many-laptops-have-them/
+### What are the limitations of eGPUs vs onboard graphics cards for laptops?
+Sun, 15 Nov 2026 00:30:00 +0000 — https://www.engadget.com/2313636/limitations-egpu-vs-onboard-graphics-card-laptop-pc/
 
-Wondering what an NPU actually does and whether you even need it? We've got you covered.
+Is it worth it to use an eGPU with your laptop? That depends. Let's take a closer look at the most important factors you should consider.
 
-### Checking your Apple Watch's battery health is easier than you think
-Sat, 14 Nov 2026 17:45:00 +0000 — https://www.engadget.com/2311851/how-to-check-apple-watch-battery-health/
+### 11 gadgets under $10 that solve everyday problems
+Sun, 15 Nov 2026 00:15:00 +0000 — https://www.engadget.com/2310535/affordable-gadgets-under-10-dollars/
 
-The Apple Watch's battery life is undoubtedly impressive but you'll need to keep an eye on the health of the battery to keep it working at its best.
+Lots of tech purchases run into the hundreds of dollars, but you don't have to spend a lot to make some upgrades.
 
-### Samsung may be getting rid of another One UI feature
-Sat, 14 Nov 2026 17:30:00 +0000 — https://www.engadget.com/2311763/samsung-one-ui-getting-rid-of-another-feature/
+### There's a hidden way you can check which services are running on your Android phone
+Sun, 15 Nov 2026 00:00:00 +0000 — https://www.engadget.com/2313576/hidden-way-check-which-services-running-on-android-phone/
 
-Samsung has discontinued Samsung Messages in favor of Google Messages in the US, and it looks like another One UI feature may suffer the same fate.
+Want to see what's draining your Android phone's memory? Here's how to unlock the hidden Running Services menu to monitor background apps.
 
-### Is 1TB enough storage for your Xbox Series X? Here's what gamers should know
-Sat, 14 Nov 2026 17:15:00 +0000 — https://www.engadget.com/2311827/1tb-storage-xbox-series-x-enough/
+### Common reasons your Roku TV can turn on by itself and how to fix it
+Sat, 14 Nov 2026 23:45:00 +0000 — https://www.engadget.com/2313550/roku-tv-turns-on-by-itself-common-reasons-fixes/
 
-With games increasingly taking up valuable space on consoles, we take a look at whether going for the extra storage on the Xbox Series X is really worth it.
+If your TV has randomly been turning on and it has a Roku attached to it, it could be your Roku's doing. Check these settings.
 
-### Why is the NVIDIA RTX 3060 still the most popular GPU on Steam?
-Sat, 14 Nov 2026 17:00:00 +0000 — https://www.engadget.com/2315651/why-nvidia-rtx-3060-most-popular-steam-gpu/
+### One cable mistake could be killing your desktop PC's gaming performance
+Sat, 14 Nov 2026 23:30:00 +0000 — https://www.engadget.com/2313063/cable-mistake-desktop-pc-gaming-performance/
 
-You'd think that gamers would always run the latest and greatest GPUs in their rigs, but NVIDIA's RTX 3060 proves that isn't quite the case.
+Plugging your monitor into the motherboard instead of your dedicated GPU can ruin gaming performance. Here's how to check your ports and get your frames back.
 
-### Uber drivers' information stolen in a third-party hack
-Sat, 14 Nov 2026 16:47:44 +0000 — https://www.engadget.com/2316881/uber-drivers-information-stolen-in-a-third-party-hack/
+### Why your SD card won't let you transfer files bigger than 4GB, and how to fix it
+Sat, 14 Nov 2026 23:00:00 +0000 — https://www.engadget.com/2313042/sd-card-4-gb-file-transfer-limit-fat32-explained/
 
-Uber sends warning to drivers whose information was stolen in a data breach.
+Some SD cards just won't accept files larger than 4GB, no matter the total capacity or how much free storage there is. But don't worry, it's not hard to fix.
 
-### Your new tech is still stuck in the year 1970 — here's why
-Sat, 14 Nov 2026 16:45:00 +0000 — https://www.engadget.com/2311725/new-tech-stick-in-year-1970-unix-time-explained/
+### This underrated Google Health app feature can make food tracking less annoying
+Sat, 14 Nov 2026 22:30:00 +0000 — https://www.engadget.com/2312924/underrated-google-health-app-food-tracker/
 
-If you've ever seen an arbitrary date in 1970 on your non-Windows device, don't worry, it's not glitching. It was chosen during the development process.
+There's a suite of features with Google's Health app, but you've likely overlooked the intuitive food tracking function that helps keep your diet in check.
 
-### Here's how much Apple AirPods cost in 2016 vs. 2026
-Sat, 14 Nov 2026 16:30:00 +0000 — https://www.engadget.com/2311715/apple-airpods-2016-vs-2026-how-much-they-cost/
+### How to get better results from Google Gemini
+Sat, 14 Nov 2026 22:15:00 +0000 — https://www.engadget.com/2312834/how-to-get-better-results-google-gemini/
 
-First introduced in 2016, AirPods have improved in quality, offering a bevy of new features, but how has that impacted the cost to the consumer today?
+These tips and tricks will help you prompt Gemini better.
 
-### Whatever happened to Sony Xperia phones?
-Sat, 14 Nov 2026 16:15:00 +0000 — https://www.engadget.com/2311608/sony-xperia-phones-what-happened/
+### Honor Magic8 Pro vs. Magic9 Pro Max: What's been upgraded?
+Sat, 14 Nov 2026 22:00:00 +0000 — https://www.engadget.com/2307825/honor-magic-8-pro-vs-9-pro-upgrade-comparison/
 
-Sony seems to have its hand in virtually every device offering, but true fans know that one product line in particular vanished from the American market.
+This Pro upgrade is messier than the typical year-over-year refresh, but the new flagship does give us a pretty good idea of where Honor put its priorities.
 
-### What the circled "Z" on Google Maps means
-Sat, 14 Nov 2026 16:00:00 +0000 — https://www.engadget.com/2311447/google-maps-circled-z-meaning/
+### Here's when a dedicated graphics card is worth it
+Sat, 14 Nov 2026 21:45:00 +0000 — https://www.engadget.com/2312688/when-dedicated-graphics-card-worth-it/
 
-If you've seen a circled capital Z on your Google Maps route, you should know what it means. It might save you from a ticket.
+Modern iGPUs are surprisingly capable, but they aren't without limitations.
 
 ## TechCrunch
+
+### Where was Nvidia s security team?
+Sun, 15 Nov 2026 00:08:07 +0000 — https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/
+
+Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch.
+
+### Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang
+Sat, 14 Nov 2026 21:41:22 +0000 — https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/
+
+The petition had attracted more than 115,000 signatures as of Saturday afternoon.
+
+### Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee
+Sat, 14 Nov 2026 20:04:44 +0000 — https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/
+
+Even Elon Musk said the monthly fee is "too high."
 
 ### Got an iPhone Duo? These 9 settings make it easier to use
 Sat, 14 Nov 2026 18:00:00 +0000 — https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/
@@ -408,19 +423,4 @@ Drogue is harvesting heat from the ocean to power data centers on floating vesse
 Fri, 13 Nov 2026 19:37:57 +0000 — https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/
 
 LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.
-
-### Export-banned Nvidia chips are behind China s most powerful AI models — uh-oh, Jensen!
-Fri, 13 Nov 2026 18:40:30 +0000 — https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/
-
-New research shows the most advanced AI models from China were trained on banned Nvidia chips.
-
-### ChatGPT s new Wallet lets AI agents shop and check out for you
-Fri, 13 Nov 2026 16:00:12 +0000 — https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/
-
-ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.
-
-### The unfolding Jensen Huang scandal: a timeline
-Fri, 13 Nov 2026 15:58:00 +0000 — https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/
-
-Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.
 
