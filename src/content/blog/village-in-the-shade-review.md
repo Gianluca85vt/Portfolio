@@ -41,7 +41,6 @@ artistView:
   misses:
     - "UI: reviewers describe inferring systems the interface could have stated outright, and vagueness that reads as atmosphere in hour two reads as missing information by hour twenty."
     - "Pacing: the lowest scores cluster on the opening, and a game that keeps its hook behind a slow setup is asking the art to hold attention alone for longer than art usually can."
-draft: true
 ---
 
 There is a switch in the options menu. Shade Mode gives you the whole game:
