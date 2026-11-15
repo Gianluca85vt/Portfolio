@@ -1,0 +1,7 @@
+{
+  "slug": "kakao-openai-ryan-1500-prompts-one-scene",
+  "urls": [],
+  "credit": "Kakao, via its own announcement for \"Still, Ryan\"",
+  "comparison": false,
+  "note": "No official asset URL could be verified from the writer's sandbox: kakaocorp.com, commons.wikimedia.org, youtube.com, animenewsnetwork.com and digitaltoday.co.kr all fail DNS behind the egress proxy, and the only images found were embedded in other outlets' articles, which the rules forbid. The legitimate sources, reachable from GitHub Actions: Kakao's corporate newsroom at kakaocorp.com (press release of 10 November 2026, carries a still captioned \"[Photo: Kakao]\"), Kakao Friends' official YouTube channel and Ryan's official Instagram, where the short itself was posted on 11 November 2026, and OpenAI's own Instagram and YouTube channels, which carried it the same day. A frame from the short, or the Kakao press still, is the right cover. No youtubeId is given because none could be confirmed and guessing one is worse than leaving it out."
+}
