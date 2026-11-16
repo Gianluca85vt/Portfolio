@@ -1,62 +1,62 @@
 {
-  "updated": "2026-11-09",
+  "updated": "2026-11-16",
   "search": {
-    "from": "2026-10-10",
-    "to": "2026-11-06",
-    "impressions": 12095,
-    "clicks": 131,
+    "from": "2026-10-17",
+    "to": "2026-11-13",
+    "impressions": 15138,
+    "clicks": 147,
     "position": 8.1,
     "queries": [
       "blender vs websocket",
       "immersion blender for photographers",
-      "duke nukem 3d dlss 5",
       "paintbridge krita",
       "blender 5.3 dispersion",
+      "duke nukem 3d dlss 5",
       "unreal engine 6",
+      "blender painterly shadows",
       "downtown generator blender",
       "dlss 5 pass count",
-      "hellraiser revival ray tracing",
-      "blender painterly shadows",
       "is tripo's p2.0 model worth it for quad character retopology?",
+      "substance painter cage",
+      "alien isolation 2 unreal engine 5",
       "blender for photographers 2024",
+      "rizomuv mcp",
+      "blender 3ds max interface",
       "blender krita link",
       "blender krita texture paint",
       "blender spectral rendering",
+      "dlss 5 price",
       "fsr 4.1 xbox series x",
-      "gears of war e day megalights",
       "is fsr 4 ai",
-      "krita blender bridge",
-      "substance painter cage",
+      "mari 8",
       "tyflow vehicle",
+      "vibe coded 3ds max",
       "wildwood frames per second",
-      "wildwood production time",
       "clayface makeup",
-      "how long is wildwood movie",
       "wildwood duration",
+      "how long is wildwood movie",
       "how long was wildwood in production",
-      "wildwood length",
-      "wildwood how long did it take to make",
-      "how long did it take to film wildwood"
+      "wildwood how long did it take to make"
     ],
     "countries": [
       {
         "name": "United States",
-        "share": 27
+        "share": 28
       },
       {
         "name": "United Kingdom",
-        "share": 13
+        "share": 11
       },
       {
         "name": "Canada",
         "share": 6
       },
       {
-        "name": "Australia",
-        "share": 4
+        "name": "Germany",
+        "share": 6
       },
       {
-        "name": "Italy",
+        "name": "Australia",
         "share": 4
       },
       {
@@ -66,13 +66,13 @@
     ]
   },
   "archive": {
-    "articles": 284,
-    "craft": 108,
-    "reviews": 43
+    "articles": 307,
+    "craft": 120,
+    "reviews": 47
   },
   "newsletter": {
     "subscribers": 3,
     "openRate": 0
   },
-  "bluesky": 54
+  "bluesky": 49
 }
