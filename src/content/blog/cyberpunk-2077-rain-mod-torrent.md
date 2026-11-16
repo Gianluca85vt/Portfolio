@@ -36,6 +36,11 @@ The numbers are the part worth reading.
 
 ## What flat rain is, and why everyone ships it
 
+<figure>
+  <img src="/img/blog/cyberpunk-2077-rain-mod-torrent/shot-02.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>CD Projekt Red, via the official Cyberpunk 2077 Steam page</figcaption>
+</figure>
+
 Rain in a real-time engine is almost never water. It is a camera-locked
 particle volume of stretched billboards — thin quads with a streak texture,
 rotated to always face you — plus, in the distance, a handful of big scrolling
