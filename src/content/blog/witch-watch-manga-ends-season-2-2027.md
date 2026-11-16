@@ -17,7 +17,6 @@ artistView:
   misses:
     - "Backgrounds: the school and house interiors are reused hard between episodes, and in the PV you can see the same corridor carrying several unrelated jokes."
     - "Compositing: the magic effects sit on top of the plate rather than in it — fine for comedy, but it is where the budget visibly stops."
-draft: true
 ---
 
 Weekly Shonen Jump issue 51 went on sale in Japan on Monday carrying chapter
