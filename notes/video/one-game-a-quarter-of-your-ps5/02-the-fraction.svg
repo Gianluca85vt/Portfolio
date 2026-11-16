@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" width="1920" height="1080">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#B600A8"/><stop offset="100%" stop-color="#BE4C00"/>
+    </linearGradient>
+  </defs>
+  <text x="120" y="150" font-family="Kanit, 'Arial Black', sans-serif" font-size="30" font-weight="600" letter-spacing="10" fill="#B600A8">ONE GAME, ONE DRIVE</text>
+  <text x="120" y="286" font-family="Kanit, 'Arial Black', sans-serif" font-size="34" font-weight="600" fill="#F4F1F6">PS5 1TB, usable after system</text>
+  <rect x="120" y="300" width="1320" height="46" rx="4" fill="rgba(244,241,246,0.22)"/>
+  <text x="1466" y="336" font-family="Kanit, 'Arial Black', sans-serif" font-size="44" font-weight="800" fill="rgba(244,241,246,0.45)">~840 GB</text>
+  <text x="120" y="436" font-family="Kanit, 'Arial Black', sans-serif" font-size="34" font-weight="600" fill="#F4F1F6">PS5 825GB, usable after system</text>
+  <rect x="120" y="450" width="1048.142857142857" height="46" rx="4" fill="rgba(244,241,246,0.22)"/>
+  <text x="1194.142857142857" y="486" font-family="Kanit, 'Arial Black', sans-serif" font-size="44" font-weight="800" fill="rgba(244,241,246,0.45)">667 GB</text>
+  <text x="120" y="586" font-family="Kanit, 'Arial Black', sans-serif" font-size="34" font-weight="600" fill="#F4F1F6">GTA 6 install, reported</text>
+  <rect x="120" y="600" width="333.1428571428571" height="46" rx="4" fill="url(#accent)"/>
+  <text x="479.1428571428571" y="636" font-family="Kanit, 'Arial Black', sans-serif" font-size="44" font-weight="800" fill="#F4F1F6">~212 GB</text>
+  <text x="120" y="790" font-family="Kanit, 'Arial Black', sans-serif" font-size="30" fill="rgba(244,241,246,0.45)">The 212GB figure comes off store listings and size trackers; 210GB is the more widely repeated number. Rockstar has published neither. Usable-capacity figures are community measurements, not Sony specifications.</text>
+</svg>

@@ -1,0 +1,41 @@
+[
+  { "id": "who-i-am", "kind": "lower",
+    "name": "Gianluca Scattarella",
+    "role": "3D Environment & Technical Artist",
+    "handle": "gianlucascattarella.it — Backdrop, every Monday" },
+
+  { "id": "the-fraction", "kind": "bars", "title": "One game, one drive",
+    "rows": [
+      { "label": "PS5 1TB, usable after system", "value": 840, "display": "~840 GB" },
+      { "label": "PS5 825GB, usable after system", "value": 667, "display": "667 GB" },
+      { "label": "GTA 6 install, reported", "value": 212, "display": "~212 GB" }
+    ],
+    "note": "The 212GB figure comes off store listings and size trackers; 210GB is the more widely repeated number. Rockstar has published neither. Usable-capacity figures are community measurements, not Sony specifications." },
+
+  { "id": "torch-and-card", "kind": "beats", "title": "The physical edition",
+    "items": ["Code on cover", "Torch on case", "Read backwards", "Redeem, walk out"],
+    "note": "Reported by ResetEra users with PEGI-region copies and written up by GameSpot. North American copies obscure the code. GTA 6 ships code-in-box with no disc." },
+
+  { "id": "two-jobs", "kind": "compare", "title": "One drive, two jobs",
+    "left": "What a 212GB install wants",
+    "right": "What E-Day wants from the same SSD",
+    "rows": [
+      ["Space held for a decade", "A few GB held as a memory tier"],
+      ["Written once, read linearly", "Paged out and back every frame"],
+      ["Bigger is a marketing figure", "Bigger is a frame-budget risk"]
+    ],
+    "note": "The Coalition reserves part of the Series S SSD as a slower RAM tier, worth roughly 1GB against an 8GB budget. Tom's Hardware measured the PC equivalent streaming at up to 3.7 GB/s." },
+
+  { "id": "where-it-lands", "kind": "timeline", "title": "Where the size pass lands",
+    "stages": ["Brief", "Blockout", "Set dress", "Light", "Optimise", "Size pass", "Ship"],
+    "markAt": 5, "markLabel": "Take 40GB out",
+    "note": "The request never comes out of scope — nobody removes a district six weeks from ship. It comes out of surfaces, as a batch job with an exceptions list." },
+
+  { "id": "the-forecast", "kind": "beats", "title": "What the analysts expect",
+    "items": ["55M copies", "$90 blended", "~$5bn by March", "A quarter of PS5"],
+    "note": "BMO forecasts 55 million units in Take-Two's fiscal 2027; Raymond James puts the blended average selling price near $90. Both are analyst estimates, not company guidance." },
+
+  { "id": "the-line", "kind": "statement",
+    "text": "Shelf space moved inside the machine, where nobody can see how full it is.",
+    "attribution": "Architectures of the Void — the Monday editorial" }
+]
