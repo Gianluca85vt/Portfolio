@@ -18,7 +18,6 @@ artistView:
   misses:
     - "Occlusion: cover tests at this scale usually run off a top-down depth map, and small overhangs leak at its resolution. Footage published so far is heavy on open street, which is where the technique is strongest."
     - "Measurement: every figure is the author's own and no test hardware is named, so the budget below is indicative rather than benchmarked."
-draft: true
 ---
 
 Half a millisecond. That is what CyanideX reports the rain in Torrent costs on
