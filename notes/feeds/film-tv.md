@@ -1,172 +1,182 @@
-# Film & TV — harvested 2026-11-16T13:08:47.347Z
+# Film & TV — harvested 2026-11-16T23:01:20.270Z
 
 ## Variety
 
-### Beyoncé Makes Grammys History as First Artist With 100 Nominations
-Mon, 16 Nov 2026 13:00:40 +0000 — https://variety.com/2026/music/news/beyonce-grammys-100-nominations-1236948327/
+### Spider-Man: Brand New Day Extended Cut Sets December Release Date in Theaters
+Mon, 16 Nov 2026 23:00:00 +0000 — https://variety.com/2026/film/news/spider-man-brand-new-day-extended-cut-release-date-1236949654/
 
-Beyoncé has once again made Grammy history in becoming the first artist with 100 nominations, as Morning Dew (Donk) secures a nod for best R B solo performance. The pop singer dropped the long-unreleased Morning Dew (Donk) on July 4 ahead of the 20th anniversary of her sophomore album B Day. The track was originally written by [ ]
+The re-release of Spider-Man: Brand New Day, which features footage previously left on the cutting room floor, hits theaters on Dec. 4. Tickets go on sale Nov. 19. News that Brand New Day was returning to theaters with an extended cut first broke in late September. Details about what s in the additional scenes remain under [ ]
 
-### ‘Slow Horses’ Renewed for Seasons 9 and 10, but Bond Candidate Jack Lowden’s Return Is Uncertain
-Mon, 16 Nov 2026 12:47:07 +0000 — https://variety.com/2026/tv/global/slow-horses-more-seasons-jack-lowden-1236948628/
+### NAZA Filmmakers Grateful for Light Being Shone on Their Film Through Awards Conversation but Prioritize Impact: It s a Small Cog in a Machine of Resistance’
+Mon, 16 Nov 2026 22:32:38 +0000 — https://variety.com/2026/film/global/naza-yuval-abraham-james-wilson-awards-impact-idfa-1236949104/
 
-“Slow Horses” is set to return for two more seasons. Although speculation has intensified that the show will call it quits after Season 8, which is currently shooting in London, Apple TV dispelled those rumors by confirming it will return. Aside from Gary Oldman, the streamer did not confirm which of the cast would be [ ]
+Over the last few years, leading documentary festival IDFA has become a crucial stop on the awards season trail, with major streamers and key studios courting voters in Amsterdam’s imposing 17th-century canalside houses and theaters. One of the key titles in this year’s best documentary race, however, has foregone glitzy cocktails and receptions in favor [ ]
 
-### Willie Geist Will Exit MS NOW s Morning Joe After Nearly 20 Years for Expanded Role at NBC s Today
-Mon, 16 Nov 2026 12:20:00 +0000 — https://variety.com/2026/tv/news/willie-geist-exit-morning-joe-today-1236948203/
+### The Next Bond Girl: From Zendaya to Florence Pugh, 19 Actresses Who Could Join Robert Pattinson
+Mon, 16 Nov 2026 21:31:29 +0000 — https://variety.com/lists/bond-girl-predictions-robert-pattinson-007/
 
-MS NOW mainstay “Morning Joe” transformed suddenly into Morning Whoa! Monday when Willie Geist, the program s longtime master of ceremonies, said he planned to leave his post at the end of the year for a broader role at NBC s “Today” franchise. The maneuver will break up an A.M. team Geist, Joe Scarborough and Mika [ ]
+The name is Pattinson, Robert Pattinson, but who will be his first Bond Girl? Amazon MGM Studios has made it official, naming the 40-year-old Brit the next James Bond in the exclusive franchise, with Denis Villeneuve helming the next film from a script by Steven Knight and Amy Pascal and David Heyman producing. But 007 [ ]
 
-### Hunting Alice Bell Showrunner Says Simon Pegg Thriller Highlights Dangers of Online Sleuthing: It Can Happen to Anyone
-Mon, 16 Nov 2026 11:58:26 +0000 — https://variety.com/2026/tv/global/hunting-alice-bell-online-sleuthing-1236946862/
+### Variety’s 10 Comics to Watch Bring Stand-Up, Sketch and Songs to Hilarious New York Comedy Festival Showcase
+Mon, 16 Nov 2026 21:27:07 +0000 — https://variety.com/2026/tv/news/variety-10-comics-to-watch-new-york-comedy-festival-showcase-1236947445/
 
-“Hunting Alice Bell” is a new thriller about the dangers of online sleuthing from an unusual source. Co-created by comedian David Baddiel and The Guardian’s long-time TV critic Peter Bradshaw, it tells the story of five women who find themselves the target of some of the internet’s most toxic impulses after they are each accused [ ]
+Variety’s 10 Comics to Watch for 2026 brought laughter, cheers and ’90s rock parodies to the New York Comedy Festival on Thursday. The comedians, who represent the funniest and most exciting rising voices in comedy, each performed a seven-minute set for a lively audience at the Venue on Music Row at the Hard Rock Hotel [ ]
 
-### Grammy Nominations 2027: The Complete List (Updating Live)
-Mon, 16 Nov 2026 11:51:17 +0000 — https://variety.com/2026/music/news/grammy-nominations-2027-complete-list-2-1236948743/
+### Reasonable Doubt Renewed for Season 5 Ahead of Season 4 Finale
+Mon, 16 Nov 2026 21:07:57 +0000 — https://variety.com/2026/tv/news/reasonable-doubt-renewed-season-5-season-4-finale-1236949562/
 
-Nominations for the 2027 Grammy Awards are being announced Monday morning by Recording Academy CEO Harvey Mason Jr. and celebrity guests. Nominees in all 100 categories are being revealed over the course of a morning livestream that is slated to run for just over an hour, starting at 4:45 a.m. PT/7:45 a.m. ET. Variety is [ ]
+Reasonable Doubt has been renewed for Season 5 at Hulu and Onyx Collective, Variety has confirmed. The news comes just ahead of the legal drama s Season 4 finale, which is scheduled to air on Nov. 24. With the release of its fifth season, Reasonable Doubt will be one of the longest-running scripted shows on Hulu [ ]
 
-### ‘BerleeN_’ Director Ahmad Abdalla on Telling the ‘Extremely Surreal’ Stories of Arab Migrants Living in Berlin and ‘How We Deal With Fear’
-Mon, 16 Nov 2026 11:36:28 +0000 — https://variety.com/2026/film/global/ahmad-abdalla-berleen-cairo-1236948691/
+### The Brit List: Coming-of-Age Drama and Cornwall Crime Series Top 2026 Lineup of Best Unproduced Scripts
+Mon, 16 Nov 2026 20:47:17 +0000 — https://variety.com/2026/film/global/the-brit-list-2026-lineup-best-unproduced-film-tv-scripts-1236949412/
 
-For Egyptian filmmaker Ahmad Abdalla, the idea for “BerleeN_” grew out of stories shared by friends and relatives who had left their homes across the Arab world to build new lives in the German capital. During his visits to Berlin, their experiences, which he describes as often stranger than fiction, offered the basis for a [ ]
+The Brit List, the annual list of unproduced British film and TV screenplays, has revealed its 2026 lineup. Compiled from recommendations by the British industry, 13 projects — each requiring a minimum of 10 recommendations — made it onto this year s list. Leading the pack were Gemma Addy s coming-of-age drama feature Dig for Victory and Archie Thomson s [ ]
 
-### Nicola Coughlan Will Not Be Watching New Harry Potter Series Over J.K. Rowling s Trans Views: It s Not for Me
-Mon, 16 Nov 2026 11:13:43 +0000 — https://variety.com/2026/tv/global/nicola-coughlan-not-watching-harry-potter-series-jk-rowling-views-1236948687/
+### Terminal List Prequel Series Cry Havoc in Development at Amazon
+Mon, 16 Nov 2026 20:30:00 +0000 — https://variety.com/2026/tv/news/terminal-list-prequel-series-cry-havoc-amazon-1236949306/
 
-Nicola Coughlan will not be tuning in to HBO s new Harry Potter series over her disagreement with J.K. Rowling s views on trans rights. In a new interview with The Observer, the Bridgerton star doubled down on her previous comments that she wouldn t touch the show with a 10-foot pole, despite having loved Rowling s books as [ ]
+Amazon Prime Video is doubling down on The Terminal List franchise, with the streamer developing a series based on Jack Carr s prequel novel Cry Havoc. The Terminal List is based on Carr s James Reece novels, while Cry Havoc follows Reece s father Tom Reece during the latter s time as a Navy SEAL during the Vietnam war. [ ]
 
-### Gérard Depardieu Drops Appeal in Sexual Assault Case and Accepts Guilt: ‘I Take Full Responsibility for the Conviction’
-Mon, 16 Nov 2026 10:20:54 +0000 — https://variety.com/2026/film/global/gerard-depardieu-drops-appeal-in-sexual-assault-case-1236948679/
+### Robert Pattinson Said in 2012 That He d Definitely Want to Be James Bond in Like 20 Years When He s Not So Fresh-Faced
+Mon, 16 Nov 2026 20:23:47 +0000 — https://variety.com/2026/film/news/robert-pattinson-james-bond-interview-2012-1236949282/
 
-French actor Gérard Depardieu has withdrawn his appeal against his conviction for sexually assaulting two women on the set of the 2021 film “Les Volets verts,” making his 18-month suspended prison sentence final, according to French newspaper Le Monde. The 77-year-old actor announced his decision Monday, Nov. 16, in a statement titled “I Hear” (“J entends“) [ ]
+Fourteen years before his official casting as James Bond, Robert Pattinson expressed interest in playing cinema s most famous secret agent. The actor was speaking to the U.K. online publication Shortlist (via People) in the summer of 2012, a few months ahead of both his swan song as Edward Cullen in The Twilight Saga: Breaking Dawn [ ]
 
-### Peter Alsted’s Animal Conservation Doc ‘Dr. Hedgehog’ Boarded by Autlook Filmsales Ahead of IDFA Forum (EXCLUSIVE)
-Mon, 16 Nov 2026 09:59:23 +0000 — https://variety.com/2026/film/global/autlook-filmsales-peter-alsted-dr-hedgehog-idfa-forum-1236948625/
+### Gwen Stefani Will Celebrate Orange County Roots by Performing at Grand Opening of OCVIBE s 5,000-Seat Concert Hall This Spring
+Mon, 16 Nov 2026 19:22:35 +0000 — https://variety.com/2026/music/news/gwen-stefani-ocvibe-concert-hall-anaheim-grand-opening-1236949277/
 
-Autlook Filmsales, a leading sales agent for feature documentaries and doc series, has boarded Peter Alsted’s “Dr. Hedgehog” ahead of the film’s pitch at Forum, IDFA s prestigious industry program. The Danish project is among the films selected for this year’s Forum Pitch Presentations. “Dr. Hedgehog” is a deep dive into the chaotic life of researcher [ ]
+Gwen Stefani used part of her induction speech for Billy Idol at the Rock Roll Hall of Fame ceremony Saturday night to recall how she used to listen to the rocker on the bus on the way to Huntington Beach. She ll be returning to Orange County to do what counts as a hometown show [ ]
 
-### Piv Bernth, Producer of ‘The Killing, and ’Babylon Berlin’ Creators Win Honorary Awards at Tallinn’s TV Beats Forum
-Mon, 16 Nov 2026 09:45:45 +0000 — https://variety.com/2026/tv/global/piv-bernth-babylon-berlin-creators-honorary-awards-tv-beats-1236948639/
+### Netflix Orders Harlan Coben Limited Series The Innocent From I Will Find You Team
+Mon, 16 Nov 2026 19:00:00 +0000 — https://variety.com/2026/tv/news/netflix-harlan-coben-the-innocent-i-will-find-you-1236949157/
 
-Trailblazing international TV figures Piv Bernth, producer of “The Killing” and “The Bridge,” and “Babylon Berlin” creators Achim von Borries, Tom Tykwer and Henk Handloegten are the recipients of this year’s TV Beats Honorary Awards. Granted by the TV Beats Forum, the drama series strand of Industry@Tallinn Baltic Event, the industry arena of the [ ]
+Netflix has ordered the limited series The Innocent based on the Harlan Coben novel of the same name. The announcement came as part of Netflix s inaugural appearance at the Texas Book Festival in celebration of the streamer s many book-to-screen adaptations. Coben is a massive part of that side of Netflix s business, with The Innocent representing [ ]
 
 ## The Hollywood Reporter
 
-### Grammy Nominations: Watch the Livestream
-Mon, 16 Nov 2026 12:30:00 +0000 — https://www.hollywoodreporter.com/music/music-news/grammy-2027-nominations-watch-livestream-online-1236751319/
+### Spider-Man: Brand New Day Set for December Rerelease With New Scenes
+Mon, 16 Nov 2026 23:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-rerelease-theaters-rosario-dawson-1236756620/
 
-Noms will be announced Monday in 101 categories.
+Rosario Dawson's Night Nurse is among the highlights of the previously unseen footage for the extended cut, titled 'Spider-Man: [Brand New] Brand New Day.'
 
-### Willie Geist to Exit MS NOW s Morning Joe for Expanded Role at NBC s Today Show
-Mon, 16 Nov 2026 12:20:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/willie-geist-leaves-morning-joe-nbc-today-show-role-expanded-1236755775/
+### James Bond Fans Already Complaining About Robert Pattinson: “Not Alpha Male
+Mon, 16 Nov 2026 22:29:40 +0000 — https://www.hollywoodreporter.com/movies/movie-news/james-bond-robert-pattinson-fan-reaction-1236756578/
 
-Geist was the last remaining talent to have a role on both NBC and MS NOW, but he will exit the cable morning show to take on a larger role at the broadcast network.
+As is the ritual, the new Bond choice is getting gripes from franchise fans: "I've seen sexier potatoes."
 
-### Gerard Depardieu Drops Appeal Against Sexual Assault Conviction, Admits Guilt
-Mon, 16 Nov 2026 12:18:45 +0000 — https://www.hollywoodreporter.com/movies/movie-news/gerard-depardieu-drops-appeal-in-sexual-assault-conviction-1236756092/
+### The Traitors Star Ben McDonnell on New Blood Set Secrets and Alan Cumming: You Can Never Break Character
+Mon, 16 Nov 2026 21:30:17 +0000 — https://www.hollywoodreporter.com/tv/tv-features/the-traitors-new-blood-ben-mcdonnell-alan-cumming-1236756519/
 
-"Justice has spoken. I was found guilty. I hear it and I accept this conviction," the actor said in public statement, referring to a conviction for sexually assaulting two woman on the set of Jean Becker’s 'The Green Shutters' in 2021.
+The gay cowboy from the first-ever all-civilian season that aired on NBC shares his own secrets — like being an actor and never breaking character — and what it's really like to film on the Emmy-winning Scottish castle set.
 
-### Nicola Coughlan Will Not Be Watching HBO s Harry Potter : And I Would Never Be in It
-Mon, 16 Nov 2026 12:04:39 +0000 — https://www.hollywoodreporter.com/tv/tv-news/nicola-coughlan-harry-potter-jk-rowling-show-series-trans-1236756089/
+### Fourth Terminal List Show in the Works at Prime Video
+Mon, 16 Nov 2026 20:36:32 +0000 — https://www.hollywoodreporter.com/tv/tv-news/fourth-terminal-list-show-development-prime-video-1236756502/
 
-"I know people involved in those shows, and they’re nice people and whatever, but it’s not for me," said the 'Bridgerton' star, who has previously confronted author J.K. Rowling over her transphobia.
+This one is based on Jack Carr's Vietnam-set novel 'Cry Havoc.'
 
-### In The Matriarch, Germany s First Film With an All-Vietnamese Lead Cast, Human Trafficking Thriller Meets Family Drama
-Mon, 16 Nov 2026 09:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/the-matriarch-first-german-film-all-vietnamese-cast-tallinn-1236750517/
+### Brit List 2026: Cornwall Outlaw Series, Coming-of-Age Film Top List of Unproduced Film, TV Scripts
+Mon, 16 Nov 2026 20:00:00 +0000 — https://www.hollywoodreporter.com/news/general-news/brit-list-2026-best-unproduced-scripts-film-tv-disney-plus-1236754795/
 
-Alison Kuhn's second feature, premiering at Tallinn, explores migration and mother-daughter dynamics: "I’ve always felt the urge to tell a story set within the German-Vietnamese community I was born into."
+Read up on the feature script 'Dig for Victory' by Gemma Addy; 'Petroc,' a series from Archie Thomson ('California Schemin''); and 11 other hot Brit scripts on the list, whose new headline sponsor is Disney+.
 
-### Dystopian Thriller The Flaw Is a Cinematic Puzzle About Totalitarianism: Each One of Us Is a Regime
-Mon, 16 Nov 2026 07:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/thriller-film-the-flaw-regime-totalitarianism-tallinn-2026-1236754284/
+### How Twilight Predicted Robert Pattinson s James Bond Casting
+Mon, 16 Nov 2026 19:33:42 +0000 — https://www.hollywoodreporter.com/movies/movie-news/twilight-predicted-robert-pattinson-james-bond-casting-1236756443/
 
-David Dawson is an interrogator of The Regime, and Arthur McBain is a suspect in a cat-and-mouse game in Theophilos Papastylianos' Tallinn-premiering debut feature, based on a bestselling novel.
+In 2008, Pattinson debuted his skin of a killer. Nearly two decades later, he's gotten his license to kill.
 
-### Governors Awards: Glenn Close, Ridley Scott and Floyd Norman Accept Honorary Oscars, Christine Vachon and Pamela Koffler Receive Thalberg Award
-Mon, 16 Nov 2026 04:57:13 +0000 — https://www.hollywoodreporter.com/movies/movie-news/2026-governors-awards-glenn-close-ridley-scott-floyd-norman-1236749503/
+### Spirit of the Photobooth Doc Highlights the Invention s Democratic Origins and Its Gen-Z Resurgence
+Mon, 16 Nov 2026 19:26:40 +0000 — https://www.hollywoodreporter.com/lifestyle/arts/spirit-of-the-photobooth-doc-gen-z-resurgence-1236756460/
 
-"I'm flattered and proud to accept this award, but I also accept it for Tony," Ridley Scott said, referencing his late brother. "His great work would certainly have earned this recognition."
+The documentary played at the International Center of Photography as part of Art Week.
 
-### Governors Awards Arrivals 2026: Florence Pugh, Zendaya, Timothée Chalamet and More Stars on the Carpet
-Mon, 16 Nov 2026 01:41:15 +0000 — https://www.hollywoodreporter.com/gallery/governors-awards-2026-arrivals-photos-stars1236755823-1236755823/
+### Ella Langley Brings Country Into The Grammys General Field With Seven Nominations
+Mon, 16 Nov 2026 19:25:52 +0000 — https://www.hollywoodreporter.com/music/music-news/ella-langley-2027-grammys-7-nominations-1236756225/
 
-Glenn Close, Floyd Norman, Ridley Scott, Christine Vachon and Pamela Koffler are being honored at the Academy of Motion Picture Arts and Sciences’ event, taking place Sunday night at the Ray Dolby Ballroom at Ovation Hollywood.
+The "Choosin' Texas" singer is the third-most nominated singer this year, with nods in album, song and record of the year, along with best new artist.
 
-### Russell Brand Says He s Not Guilty in Message From Prison Read By His Wife: Something Strange Is Happening
-Sun, 15 Nov 2026 23:42:25 +0000 — https://www.hollywoodreporter.com/news/general-news/russell-brand-claims-not-guilty-prison-message-wife-1236755764/
+### Grammy Nominations Snubs and Surprises: Harry Styles, Madonna, Noah Kahan Miss Top Nods as Raye, Rosalía Overperform
+Mon, 16 Nov 2026 19:16:29 +0000 — https://www.hollywoodreporter.com/music/music-news/grammys-2027-snubs-surprises-harry-styles-noah-kahan-1236756402/
 
-Laura Brand delivered the remarks written by her husband in a new video shared to his YouTube channel on Sunday.
+Styles, who won album of the year with 'Harry's House' back in 2023, was completely shut out of the Grammy race this time, one of the most notable snubs this season.
 
-### Billy Idol Rebels, Phil Collins Gets Emotional and Rick Rubin Clones Invade the Rock Hall Induction Ceremony
-Sun, 15 Nov 2026 21:02:14 +0000 — https://www.hollywoodreporter.com/music/music-news/rock-and-roll-hall-of-fame-2026-ceremony-recap-1236755715/
+### Louis Carr Exits as BET President
+Mon, 16 Nov 2026 19:11:41 +0000 — https://www.hollywoodreporter.com/tv/tv-news/bet-president-exits-louis-carr-1236756448/
 
-Chris Rock roasted Diddy, Jack Black toasted Iron Maiden's no-show and Gwen Stefani sang with her teenage idol as the 2026 Rock Roll Hall of Fame induction turned into a glorious, generation-scrambling mess.
+Carr was named president in December 2025.
 
 ## Deadline
 
-### Fatherland Takes Top Prize At ToruńCamerimage; Wild Horse Nine Wins Audience Award
-Mon, 16 Nov 2026 13:04:02 +0000 — https://deadline.com/2026/11/fatherland-winner-toruncamerimage-wild-horse-nine-1237225007/
+### Spider-Man: Brand New Day Re-Release With New Rosario Dawson Night Nurse Footage Sets Release
+Mon, 16 Nov 2026 23:00:00 +0000 — https://deadline.com/2026/11/spider-man-brand-new-day-rosario-dawson-re-release-date-1237225762/
 
-The 34th ToruńCamerimage Film Festival wrapped this weekend and Fatherland and Wild Horse Nine were among the winners at the prestigious event focused on celebrating cinematographers. Fatherland cinematographer Łukasz Żal was awarded the Golden Frog for its main competition while director Paweł Pawlikowski earned a Golden Frog Special Mention. The film premiered in Cannes earlier [ ]
+That re-release of the highest grossing motion picture in the U.S. and third-highest grossing worldwide, Sony s Spider-Man: Brand New Day, which we first told you about, is hitting theaters on Dec. 4 in time for awards season. The new cut will be titled Spider-Man: [Brand New] Brand New Day. The extended cut will feature new [ ]
 
-### HBO Max Buys British Flatshare Comedy Break Clause Starring Samuel Bottomley, Lara Ricote Rooster s Charly Clive
-Mon, 16 Nov 2026 13:00:00 +0000 — https://deadline.com/2026/11/hbo-max-buys-break-clause-channel-4-charly-clive-1237224931/
+### John Patrick Shanley On His New Off Broadway Play Mountain Girl , Industry Upheaval And Why He Deeply Opposed WGA Strikes
+Mon, 16 Nov 2026 22:06:39 +0000 — https://deadline.com/2026/11/john-patrick-shanley-off-broadway-mountain-girl-hollywood-wga-strike-1237221944/
 
-EXCLUSIVE: HBO Max has bought British flatshare comedy Break Clause starring Samuel Bottomley, Lara Ricote and Rooster s Charly Clive. The show created by Jess Bray (The Outlaws) and directed by Starstruck’s Alice Snedden follows a couple who break up but are stuck together in a tenancy. Ben and Lil then have to navigate their breakup [ ]
+John Patrick Shanley is a connoisseur of contradiction. When the New York Public Library’s main branch on Fifth Avenue comes up in conversation, the Bronx native takes note of the role of the robber barons in creating the library and other foundational parts of the city. Attending a recent wedding at the library, he says, [ ]
 
-### Willie Geist To Depart MS NOW s Morning Joe, Will Expand NBC News Role And Continue To Host Sunday Today
-Mon, 16 Nov 2026 12:53:14 +0000 — https://deadline.com/2026/11/willie-geist-leaves-morning-joe-nbc-news-today-1237225017/
+### The Burbs Actor Kapil Talwalkar Signs With Innovative Artists Entertainment
+Mon, 16 Nov 2026 22:02:29 +0000 — https://deadline.com/2026/11/kapil-talwalkar-innovative-artists-1237225741/
 
-Willie Geist will focus full time on NBC News Sunday Today and expand his presence on Today and the network, while departing MS NOW s Morning Joe at the end of the year. Guest was the last remaining on air talent to work for NBC News and MS NOW following the latter s split from Comcast into [ ]
+EXCLUSIVE: Kapil Talwalkar has inked with Innovative Artists Entertainment for representation. Talwalkar stars opposite Keke Palmer and Jack Whitehall in Peacock’s The Burbs, now in production on its second season. Talwalkar broke out as Tobin on NBC s Zoey s Extraordinary Playlist and went on to star in the network’s revival of Night Court. He also has [ ]
 
-### Slow Horses Renewed For Seasons 9 10 At Apple TV
-Mon, 16 Nov 2026 12:50:43 +0000 — https://deadline.com/2026/11/slow-horses-seasons-9-10-apple-tv-1237225018/
+### Robert Pattinson As James Bond? Baz Bamigboye Has Some Thoughts
+Mon, 16 Nov 2026 22:00:00 +0000 — https://deadline.com/2026/11/robert-pattinson-james-bond-reaction-baz-bamigboye-1237225666/
 
-Slow Horses has been greenlit by Apple TV for an unprecendeted ninth and 10th season. The news comes ahead of the seventh season airing and just a couple of days after star Olivia Cooke said it is unlikely the show will go beyond Season 8. Based on the Mick Herron novels, the hit spy drama [ ]
+A wise movie-world person of my acquaintance who has resided in these British isles long enough to understand the customs of the country shook their head when they heard that Robert Pattinson had been officially cast to play Ian Fleming’s James Bond in the 007 reboot that Denis Villeneuve is in pre-production to direct. They [ ]
 
-### British Stars Including Natalie Dormer, Richard Armitage Susan Wokoma Sign Open Letter Calling For Entertainment Industry To Acknowledge Role It Plays In Enabling Bad Behavior
-Mon, 16 Nov 2026 11:00:34 +0000 — https://deadline.com/2026/11/uk-stars-open-letter-brand-walliams-dormer-armitage-1237224955/
+### Robert Pattinson As Bond Or Bond Villain: What Did The Actor Say Years Ago?
+Mon, 16 Nov 2026 21:23:15 +0000 — https://deadline.com/2026/11/robert-pattinson-as-james-bond-or-villain-what-did-he-say-1237225683/
 
-EXCLUSIVE: British stars including Natalie Dormer, Richard Armitage and Susan Wokoma have signed an open letter calling for an end to a culture of open secrets in the entertainment industry following the Russell Brand and David Walliams scandals. Nearly 400 creatives have signed the letter titled Let s make this a turning point, which describes itself [ ]
+Robert Pattinson today described being cast as James Bond as a dream come true . The actor enthused: “James Bond is one of the most legendary characters in cinema, and to be entrusted with 007 is the honour of a lifetime. I’m deeply grateful to Denis, Amy, David, Tanya, and everyone at Amazon MGM Studios for [ ]
 
-### CNN To Reveal Ancient Secrets With Erica Hill
-Mon, 16 Nov 2026 11:00:00 +0000 — https://deadline.com/2026/11/cnn-greenlights-ancient-secrets-with-erica-hill-1237224946/
+### OpenAI Slapped By California AG For Unfair Unsafe Practices ; Sam Altman-Run Tech Firm Accuses State Of Improperly Singling Out Company
+Mon, 16 Nov 2026 21:02:58 +0000 — https://deadline.com/2026/11/openai-sued-by-california-1237225599/
 
-EXCLUSIVE: Erica Hill is about to map the world s oldest landscapes. The news anchor and journalist is fronting Ancient Secrets with Erica Hill, a three-part series from CNN debuting next week. The series from CNN Global Productions has been quietly shot, and CNN All Access subscribers can stream it from Monday, November 23. The series [ ]
+Already facing a Hollywood supported lawsuit from the New York Times, plus more legal actions by the state of Texas, a collection of non-profits, and a wrongful death case, OpenAI now will have to go up against the state of California in court. Government intervention is necessary to stop OpenAI’s unfair and unsafe practices and [ ]
 
-### Thessaloniki: ‘A Day In The Life Of Jo: Chapter Phaedra’ By Jacqueline Lentzou Takes Top Prize
-Mon, 16 Nov 2026 10:53:04 +0000 — https://deadline.com/2026/11/thessaloniki-film-festival-awards-2026-jacqueline-lentzou-1237224963/
+### Reasonable Doubt Gets Early Season 5 Renewal As Season 4 Becomes Hulu Series Most Watched
+Mon, 16 Nov 2026 21:00:26 +0000 — https://deadline.com/2026/11/reasonable-doubt-renewed-season-5-season-4-ratings-hulu-1237225565/
 
-Jacqueline Lentzou’s feature A Day In The Life of Jo: Chapter Phaedra won the Golden Alexander Award (Best Feature Film) at this year’s Thessaloniki Film Festival. Scroll down for the full list of winners. The award comes with a 10,000-euro cash prize. The film follows Jo, who is wild, melancholic, and only 15. She is [ ]
+EXCLUSIVE: Flying largely under the radar early on, Reasonable Doubt has become a major Hulu success story, leading to a Season 5 renewal ahead of the legal drama s Season 4 finale on Nov. 24. The early pickup comes as Season 4 has become the series’ most-watched installment to date, according to Hulu, posting double-digit percentage [ ]
 
-### Poland’s Millennium Docs Against Gravity Reaches New Heights As World’s Second Biggest Nonfiction Film Festival
-Mon, 16 Nov 2026 10:07:29 +0000 — https://deadline.com/2026/11/millennium-docs-against-gravity-second-biggest-doc-festival-interivew-artur-liebhart-karol-piekarczyk-1237224932/
+### The James Bond Search Shows How Daunting The Process Is In An Age When Everyone On Social Media Is An Expert
+Mon, 16 Nov 2026 21:00:00 +0000 — https://deadline.com/2026/11/james-bond-search-robert-pattinson-social-media-1237225227/
 
-EXCLUSIVE: Millennium Docs Against Gravity has officially become the world’s second biggest documentary film festival, according to figures published by the cinematic event in Poland. The 23rd edition of MDAG, which took place in May this year, recorded 180,000 admissions, putting it just behind IDFA in Amsterdam in terms of audience. Growth has been dramatic [ ]
+It s been almost two years since Amazon MGM Studios took creative control of the James Bond movie franchise, and with the news Monday that Robert Pattinson has been selected as the seventh 007, its universe is officially set in stone. While the search for a new Bond has never been easy, this one took on [ ]
 
-### E. Niwas Returns To Feature Directing With Supernatural Comedy-Adventure Kurla Boyz From Abundantia Entertainment One Entertainment Films
-Mon, 16 Nov 2026 09:56:13 +0000 — https://deadline.com/2026/11/e-niwas-directing-kurla-boyz-abundantia-one-entertainment-1237224922/
+### Gianmarco Soresi Talks Debut Netflix Special, Global Comedy Explosion, Role Of Sh*t Talk In Keeping Comics Honest – Comedy Means Business Podcast
+Mon, 16 Nov 2026 20:30:00 +0000 — https://deadline.com/2026/11/gianmarco-soresi-comedy-means-business-podcast-interview-1237225548/
 
-EXCLUSIVE: Indian director E. Niwas is returning to feature film directing with supernatural comedy-adventure Kurla Boyz. The Shool and Love Ke Liye Kuch Bhi Karega director is helming the ghost-busting, young comedy, which is set in Mumbai s busy and bustling Kurla district. Vikram Malhotra s Abundantia Entertainment is producing in association with One Entertainment Films. Niwas [ ]
+Comedian Gianmarco Soresi once said that he procrastinated filming an hour special, holding on to the most destructive thought a creative can have: I ll do it when someone pays me for it. Ultimately, he didn t hold out, though that s probably for the better: His self-released debut hour, Thief of Joy, broke out as one of [ ]
 
-### Gérard Depardieu Drops Appeal Against Sexual Assault Verdict Acknowledges Guilt In Statement Titled ‘I Hear’
-Mon, 16 Nov 2026 09:50:17 +0000 — https://deadline.com/2026/11/gerard-depardieu-drops-appeal-sexual-assault-verdict-1237224924/
+### ‘The Terminal List’ Prequel ‘Cry Havoc’ In The Works At Amazon
+Mon, 16 Nov 2026 20:30:00 +0000 — https://deadline.com/2026/11/the-terminal-list-prequel-cry-havoc-amazon-1237225564/
 
-Gérard Depardieu has announced he is abandoning plans to appeal a sexual assault verdict and 18-month suspended sentence meted out to him earlier this year in relation to events on the set of Jean Becker’s The Green Shutters in 2021. “The justice system has spoken. I have been found guilty. I accept this, and I [ ]
+Amazon is doubling down on The Terminal List expanded universe. Days after announcing that it was adapting Jack Carr’s Savage Son as the next move in the world of the military thriller, the streamer has revealed it is developing a prequel series set in the 1960s. It is developing an adaptation of Carr’s Cry Havoc, [ ]
 
-### BAFTA Scotland: ‘I Swear’ Leads Winners
-Mon, 16 Nov 2026 09:14:03 +0000 — https://deadline.com/2026/11/bafta-scotland-awards-winners-i-swear-1237224916/
+### Brit List 2026: Crime Series Coming-Of-Age Movie Lead List Of Best Unproduced Screenplays
+Mon, 16 Nov 2026 20:00:00 +0000 — https://deadline.com/2026/11/brit-list-2026-crime-series-coming-of-age-movie-top-scripts-1237225076/
 
-Kirk Jones’ I Swear led the winners at last night’s BAFTA Scotland Awards, clinching three awards. The film won Director Fiction, actor Robert Aramayo won Actor Film, and the top prize, Best Film. The film tells the true-life story of John Davidson, a Scottish man with severe Tourette syndrome. Davidson attended last night s ceremony but [ ]
+The 2026 Brit List, the selection of promising and so far unproduced British film and TV screenplays, is led jointly by a crime series and a coming-of-age movie. Scroll down for list in full. Compiled from recommendations by the British industry, 13 writers made it onto the list this year with a minimum of ten [ ]
 
-### British Actor Says He Was Sexually Humiliated By David Walliams On Stage As UK Entertainment Industry Reflects On Week Of Reckoning
-Mon, 16 Nov 2026 09:03:17 +0000 — https://deadline.com/2026/11/david-walliams-jeremy-edwards-pulled-pants-on-stage-1237224907/
+### Justin Long Kate Bosworth To Headline Indie Comedy Series The Renovation
+Mon, 16 Nov 2026 19:18:00 +0000 — https://deadline.com/2026/11/justin-long-kate-bosworth-indie-comedy-the-renovation-1237225426/
 
-As the fallout from last week s David Walliams and Russell Brand news continues apace, a British actor has said he was sexually humiliated by the Little Britain co-creator on stage. In an interview with The Daily Mail, Jeremy Edwards, who starred in Hollyoaks and Holby City, recalled a time when Walliams pulled his pants and [ ]
+EXCLUSIVE: The resurgence of independent television series continues to grow with Justin Long (Barbarian, You Deserve Each Other) and Kate Bosworth (Still Alice, Along for the Ride) starring in The Renovation, a fully-financed indie comedy series. It hails from Lucas Carter (Summer of 69), Nick Kreiss (Punk d) who directs all episodes, Intrigue, Script2Screen and Hammerstone [ ]
 
 ## befores & afters
+
+### Behind the tools and techniques used to craft those subtle facial enhancements in ‘Obsession’
+Mon, 16 Nov 2026 20:56:50 +0000 — https://beforesandafters.com/2026/11/17/behind-the-tools-and-techniques-used-to-craft-those-subtle-facial-enhancements-in-obsession/
+
+Visual effects supervisor Peter Timberlake discusses his Plastik toolset. In Curry Barker’s Obsession , Bear (Michael Johnston) is a hopeless romantic who, after failing to express his feelings for childhood friend Nikki (Inde Navarrette), breaks a mysterious novelty item called the One Wish Willow and wishes that she would love him more than anyone in the world. When the wish comes true, Nikki is cursed, and her affection quickly develops into a frightening, uncontrollable obsession, transforming Bear s romantic fantasy into a nightmare. Obsessive facial expressions made by Nikki during the film reach unsettling levels. A mix of practical make-up and 2D compositing techniques aided in pushing Navarrette’s impressive performance even further into a deliberate Uncanny Valley. Importantly, the visual effects enhancements were of the invisible variety, remaining as only subtle shifts to the actor’s facial features. Here, befores & afters talks to production visual effects supervisor Peter Timberlake about the tools and techniques his studio, Queen, relied upon to craft those subtle facial augmentations. He also mentions other VFX-related work in the film, ranging from a unique approach to previs, the blood and gore enhancements, and a completely undetectable visual effects shot for the final scene. Uncanny Valley: the facial enhancements brief Timberlake shares with befores & afters the initial brief to Queen for the facial augmentation shots: “Curry wanted to push Nikki into th
+
+### You won’t believe what’s real or CG in The Lost Bus
+Mon, 16 Nov 2026 20:17:28 +0000 — https://beforesandafters.com/2026/11/17/you-wont-believe-whats-real-or-cg-in-the-lost-bus/
+
+Hugo and Ian explore the fiery effects in the Paul Greengrass film, The Lost Bus Today s episode is sponsored by ‪ ActionVFX . Future-Proof your VFX Career; stay ahead by mastering the AI tools, modern workflows, and production pipelines shaping the industry. Visit: https://bit.ly/actionvfx-hugo The post You won’t believe what’s real or CG in The Lost Bus appeared first on befores & afters .
 
 ### The music video that made morphing a hit
 Sun, 15 Nov 2026 21:28:22 +0000 — https://beforesandafters.com/2026/11/16/the-music-video-that-made-morphing-a-hit/
@@ -174,6 +184,51 @@ Sun, 15 Nov 2026 21:28:22 +0000 — https://beforesandafters.com/2026/11/16/the-
 Behind the morphing in the Michael Jackson music video for Black or White by PDI. This episode is sponsored by Griptape . Find out more about Griptape, Foundry s AI Orchestration platform at https://www.foundry.com/products/griptape. Buy WOAH! Great Moments in Effects History Vol. 1 by Ian Failes at Amazon in PRINT: https://link.amazon/B0gyYYIGJ Get early access to these videos at the befores afters Patreon on the VFX Bonus Access tier: https://www.patreon.com/c/beforesandafters/membership Want to sponsor a weekly video? Send Ian an email: beforesandafters@gmail.com #vfx #visualeffects #contact #jodiefoster #behindthescenes #beforesandafters #vfxbreakdown Music by Matt Estela: https://soundcloud.com/cgwiki The post The music video that made morphing a hit appeared first on befores & afters .
 
 ## IndieWire
+
+### Minotaur Review: Andrey Zvyagintsev s Riveting Comeback Remakes Claude Chabrol and Unfaithful for a Hopeless Wartime Russia
+Mon, 16 Nov 2026 21:45:18 +0000 — https://www.indiewire.com/criticism/movies/minotaur-movie-review-andrey-zvyagintsev-1235194820/
+
+We've seen this story before, and we know where it's going, but the "Loveless" and "Leviathan" director repositions the cliches of adultery thrillers into his own gloomy register to engrossing, icily exacting results.
+
+### Cary Grant, Clint Eastwood, and Christian Bale: The Stars Who Almost Played James Bond
+Mon, 16 Nov 2026 21:30:00 +0000 — https://www.indiewire.com/features/commentary/james-bond-actors-who-turned-down-rejected-007-1235228381/
+
+Since "Dr. No" began the series in 1962, some of the world's biggest stars have been considered for 007 — we look at the most famous contenders who turned down or were rejected for the role.
+
+### Robert Pattinson as James Bond Proves That IP Is No Longer the New Movie Stars
+Mon, 16 Nov 2026 21:00:00 +0000 — https://www.indiewire.com/features/commentary/robert-pattinson-james-bond-proves-ip-are-not-movie-stars-1235228460/
+
+The blockbuster casting news was the final nail in the coffin of Hollywood's prevailing 2010s logic.
+
+### Fall Festival Movies Sold: Edward Said: Between Worlds About Palestinian-American Author Lands at Kino Lorber
+Mon, 16 Nov 2026 19:53:33 +0000 — https://www.indiewire.com/news/festivals/fall-festival-movies-sold-so-far-babies-ink-elsinore-1235213179/
+
+The documentary from director Maiken Baird will release theatrically in 2027.
+
+### The Stop-Motion Tool That s a Constant in This Crazy, AI-Mixed-Up World
+Mon, 16 Nov 2026 19:10:22 +0000 — https://www.indiewire.com/features/animation/wildwood-travis-knight-director-interview-laika-dragonframe-1235228304/
+
+"Wildwood" director Travis Knight is as proud of what's core to Laika's animation process as what's new.
+
+### Why Casting Robert Pattinson as James Bond Is a High-Risk, High-Reward Gamble for Denis Villeneuve
+Mon, 16 Nov 2026 16:51:37 +0000 — https://www.indiewire.com/news/analysis/robert-pattinson-james-bond-risky-casting-denis-villeneuve-1235228305/
+
+With the "Batman" franchise in flux, playing 007 gives Pattinson a new signature role. But his outsized fame represents a break from tradition.
+
+### 14th Trailer: Ava DuVernay Unpacks the Necessity of Another Essential Constitutional Amendment
+Mon, 16 Nov 2026 16:42:55 +0000 — https://www.indiewire.com/news/trailers/14th-trailer-ava-duvernay-netflix-1235228310/
+
+A decade after the filmmaker tackled the 13th Amendment, she takes on another — and one arguably even more vital to true American democracy.
+
+### Robert Pattinson Is the Next James Bond: Denis Villeneuve Finds Star for His 007 Movie
+Mon, 16 Nov 2026 15:06:17 +0000 — https://www.indiewire.com/news/breaking-news/robert-pattinson-next-james-bond-denis-villeneuve-007-movie-1235223210/
+
+Villeneuve is directing the Amazon MGM Studios film from a script by Steven Knight, with Amy Pascal and David Heyman producing.
+
+### The Brits Are (Finally) Subverting the Cozy Crime Craze
+Mon, 16 Nov 2026 15:00:00 +0000 — https://www.indiewire.com/features/commentary/brits-subverting-cozy-crime-bookish-ludwig-death-valley-1235227299/
+
+A trio of British imports are paving the way for a more engaging form of comfort TV.
 
 ### Glenn Close Wipes Away Tears as She Gets Her Long Overdue Oscar While the Governors Awards Celebrate Indie Films
 Mon, 16 Nov 2026 11:36:33 +0000 — https://www.indiewire.com/awards/consider-this/governors-awards-glenn-close-ridley-scott-honorary-oscars-1235228139/
@@ -190,112 +245,107 @@ Sun, 15 Nov 2026 16:16:52 +0000 — https://www.indiewire.com/news/box-office/bo
 
 The star emerged from his decade in the wilderness to post a respectable opening for his Christmas film.
 
-### Fatherland Wins Golden Frog at ToruńCAMERIMAGE 2026 — Full Winners List
-Sat, 14 Nov 2026 18:51:30 +0000 — https://www.indiewire.com/news/festivals/toruncamerimage-golden-frog-winners-2026-1235227760/
-
-The Polish festival is all about cinematography, making its Golden Frog award a coveted honor for DPs.
-
 ## The Wrap
 
-### Downstate Broadway Review: Bruce Norris Proves Again That He s a Great Playwright
-Mon, 16 Nov 2026 03:00:00 +0000 — https://www.thewrap.com/creative-content/theater/downstate-broadway-review-bruce-norris-proves-again-that-hes-a-great-playwright/
+### Spider-Man: Brand New Day Returns to Theaters With Rosario Dawson s Cut Cameo as the Night Nurse
+Mon, 16 Nov 2026 23:00:00 +0000 — https://www.thewrap.com/creative-content/movies/spider-man-brand-new-day-re-release-rosario-dawson/
 
-For a Broadway audience, playwright Bruce Norris could have weighted the theatrical playing field slightly more. He could have written a play about a recovery house for MAGA Republicans. Instead, he has written a play about child sex offenders. Norris’ play “Downstate” opened Sunday at Booth Theatre after productions at Off Broadway’s Playwrights Horizons, Chicago’s Steppenwolf and London’s National Theatre. “Downstate” takes place in a church-run residence for sex offenders who live in a house that is continually being vandalized. Those concerned (and often violent) neighbors have also joined forces to expand the safety-zone perimeter around a local school that will have the effect of restricting even further the mobility, not to mention the grocery-shopping habits, of these four men convicted of sex crimes against minors. The warning about the new law comes courtesy of Ivy (Liza Colon-Zayas), a case worker who shows little sympathy for her charges. She s just one woman against four men, but Ivy has the law on her side and wears it like an AR-45 bulletproof body armor. Norris also uses Ivy’s status in the legal system to toy with our sympathies. As precise as a metronome, this playwright’s exposition drops one fact after another regarding just how little freedom these men retain after serving considerable prison sentences. No cellphones, no internet access, no credit cards, no female visitors, no alcohol — the list is itemized, each restriction methodically spaced and delive
+After becoming just the third film ever to gross $2.5 billion at the box office, Sony/Columbia s Spider-Man: Brand New Day is coming back to theaters for a limited engagement re-release on December 4. And to sweeten the pot, Marvel Studios is adding deleted scenes, including Rosario Dawson s cut cameo as Claire Temple, a.k.a. the Night Nurse. In Netflix s series of Marvel shows from 2015 to 2018, Claire was the character that tied the series together, serving as a key ally and medic to Daredevil, Jessica Jones, Luke Cage and Iron Fist. After Charlie Cox made the jump from Netflix to the MCU as Daredevil with Spider-Man: No Way Home in 2021, Dawson was set to do the same in Brand New Day, but her cameo was cut for time and pacing. But this past September, it was reported that Sony and Marvel were planning to reinsert the Night Nurse into the film with an extended reissue, and now that reissue is hitting theaters on post-Thanksgiving weekend, which is historically a quiet weekend for new major studio releases. But Claire isn t the only addition to Brand New Day. Sony is teasing other surprises for fans who come back to see the highest grossing Spider-Man film of all time, which means there s the possibility that more teasers for next month s Avengers: Doomsday may be in store. When Marvel Studios and Disney re-released Avengers: Endgame in September, it came with a changed ending that teased the disruption of Steve Rogers happily ever after as Loki dragged the retired Captain A
 
-### Kevin Feige Brought Original X-Men to Avengers as a Fun Way to Celebrate 25 Years
-Mon, 16 Nov 2026 02:12:12 +0000 — https://www.thewrap.com/creative-content/movies/kevin-feige-x-men-avengers-doomsday-25-years-later/
+### Bloomberg Overhauls Newsroom Leadership Amid AI Shift
+Mon, 16 Nov 2026 22:15:59 +0000 — https://www.thewrap.com/media-platforms/journalism/bloomberg-newsroom-restructuring-ai/
 
-Kevin Feige is bringing Marvel s cinematic history full circle with Avengers: Doomsday, and the Marvel Studios president says reuniting the original X-Men with Earth s Mightiest Heroes was a fitting way to mark the occasion. In a new interview with Empire , Feige explained why bringing the mutant superheroes into the Avengers franchise felt like the right move, particularly given his connection with the original X-Men films. It s a connection that dates back to 2000 s X-Men, on which Feige served as an associate producer. Released nearly a decade before the Marvel Cinematic Universe officially began with 2008 s Iron Man, the film helped establish the modern superhero blockbuster era and introduced audiences to a live-action version of Marvel s mutant team. The franchise would go on to produce 14 live-action movies, that include spin-offs like Deadpool. You see interviews of Hugh Jackman 15, 20 years ago saying, People say it’s impossible, but maybe someday the X-Men and the Avengers can all get together, Feige told the publication. It just felt right. It just felt like the fun way to culminate a quarter-century of storytelling. While X-Men and Marvel fans had long hoped to see the characters cross over on screen, as they frequently do in the comics, that possibility only became a reality in 2019, after Disney acquired 20th Century Fox, which had previously held the film rights to the mutant superheroes. So now, more than 25 years later, several familiar faces from that origin
+Bloomberg is overhauling its newsroom leadership, expanding chief content officer Heather Harris authority and reshuffling senior executives across its editorial and research operations as the financial news giant adapts to an increasingly AI-driven media landscape. The sweeping restructuring will centralize oversight of Bloomberg s news desks, bring its research divisions under a unified leadership structure and revamp its digital audience operations, according to an internal memo obtained by TheWrap. The changes are part of a broader effort to integrate the company s journalism and research as artificial intelligence transforms how financial information is produced, distributed and consumed. In the memo, Bloomberg editor-in-chief John Micklethwait argued that AI is making the company s proprietary journalism and research more valuable, particularly as its tools increasingly draw on multiple forms of content to answer customers questions. But he also warned that Bloomberg must improve how it packages and delivers that information rather than become a database customers consult only occasionally. Harris, currently chief content officer for Bloomberg News, will assume responsibility for content across the company s entire Editorial & Research operation, including Breaking News and Ecodata. Regional news desk heads Emma Moody, Will Kennedy and Michael Patterson will report primarily to her, while maintaining secondary reporting lines to their regional chiefs. The shake-up also 
 
-### Russell Brand s Wife Breaks Silence for the First Time Since His Prison Sentence
-Mon, 16 Nov 2026 00:57:56 +0000 — https://www.thewrap.com/culture-lifestyle/culture/russell-brand-wife-laura-speaks-out-prison-sentence/
+### Trump Snaps at Reporter Questioning His Focus on White House Renovations Over FAA Grounding: You re So Pathetic!
+Mon, 16 Nov 2026 22:05:15 +0000 — https://www.thewrap.com/media-platforms/journalism/trump-attacks-another-reporter-construction-ballroom-question-faa-grounding/
 
-Laura Brand is speaking out for the first time since her husband, Russell Brand, was sentenced to 10 years and six months in prison, addressing his incarceration on the newest episode of their YouTube series Sunday Service With the Brands. Appearing without him in Sunday s episode, Laura told viewers that she and her husband had decided to continue the weekly series despite his absence. Sunday Service looks a little different this week. I’m here without Russell, but we’ve decided to keep going, she wrote in the video s caption. “[It] will take some getting used to for me to even sit here and not have my companion, my person with me, Laura said at the beginning of the video The video then went into a prerecorded episode with Russell, filmed while he was awaiting the outcome of his trial. During the discussion, the couple spoke about the proceedings and the impact they had on their lives. The two compared watching media coverage of the trial to following a sporting event, describing what it was like to be immersed in an experience that had become all-consuming. Russell criticized mainstream media coverage of the proceedings and questioned what he described as society s approach to morality, calling it a flexible and plastic morality that he claimed was used as a means of control. At the end of Sunday s episode, Laura read a message from Russell, in which he continued to maintain his innocence despite his convictions. As you know, I am not guilty for the offenses I have been jai
+Donald Trump has berated yet another reporter for asking questions about his focus on various construction projects around The White House over larger concerns like the recent FAA grounding. On Monday, NBC s Yamiche Alcindor asked the president if he thought he was too focused on his various vanity projects like the ballroom adjacent to The White House despite being barely on the other side of a national airline grounding that happened last Friday. Trump took the criticism as his latest reason to berate the reporter. “Well, if you take a look at the White House, it’s flawless,” Trump said. “Listen to me — I know you don’t see dirt — but if you’d take a look at the white house, you’d never notice broken windows, obviously, from where you come from. I don’t know. But we had 18 broken windows. The plaster — the exterior plaster — was falling off the wall. And it was an embarrassment. And now you look. And you know what? It took me 10 minutes a day, because I know great construction people, and I know people that can put it back. My Q: What do you say to critics who say you were too focused on D.C. construction projects while our airline systems were crumbling? Pres Trump: If you take a look at the White House, it’s flawless I know you don’t see dirt — but if you’d take a look at the WH, you’d never… &mdash; Yamiche Alcindor (@Yamiche) November 16, 2026 He added: So the White House is in beautiful shape. Take a look at the helipad. I hope you like it because it’s got a review – l
 
-### Paper Tiger Sets Record for James Gray, Club Kid Expands Strong at Specialty Box Office
-Sun, 15 Nov 2026 23:43:20 +0000 — https://www.thewrap.com/creative-content/movies/paper-tiger-club-kid-specialty-box-office/
+### The Secret Lives of Mormon Wives: OC Tallies 20 Million Hours Viewed in First 4 Days
+Mon, 16 Nov 2026 21:38:46 +0000 — https://www.thewrap.com/creative-content/tv-shows/the-secret-lives-of-mormon-wives-orange-county-ratings-viewership/
 
-The specialty box office stayed busy after a strong start to November with the platform release of Neon s Paper Tiger, the latest film from James Gray which premiered at this year s Cannes. Released on six screens in New York and Los Angeles, the film grossed $215,000 for a per theater average of $35,835. That s an improvement over the $11,712 average of Gray s previous film, Armageddon Time, which was released by Focus in the fall of 2022. Paper Tiger stars Miles Teller, Adam Driver and Scarlett Johansson in a story set in Queens in the 1980s. Teller and Driver play brothers Gary and Irwin Pearl a former police officer turned local politician and an engineer whose plan for a lucrative construction project turns sour when they run afoul of the Russian mafia. Johansson plays Irwin s wife, who not only has to face the threats to her two sons from the mafia but also a shocking medical emergency. Paper Tiger has an 85% score on Rotten Tomatoes. Also opening to more modest numbers this weekend is Sony Pictures Classics Bitter Christmas, the latest film from Spanish legend Pedro Almodovar, making $37,000 from four screens. The tragicomedy starring Bárbara Lennie and Leonardo Sbaraglia was released in Spain in March and screened at Cannes two months later, earning an 85% Rotten Tomatoes score. Meanwhile, A24 s Club Kid is riding its critical acclaim to a strong expansion with $756,060 this weekend from 27 screens. Now with a total of $1.45 million, Jordan Firstman s feature debut ea
+The Secret Lives of Mormon Wives: O.C. debuted to an impressive audience, tallying 20 million hours viewed in its first four days. The series, which follows the next contingent of Mormon and Mormon-adjacent wives and mothers in Orange County, Calif., also landed on the Hulu top 15 today list, taking the No. 1 spot every day since its Nov. 12 premiere. In the lead-up to the debut of the Orange County installment, viewership for the original series ticked up over the past two weeks, gaining an almost 30% rise in viewership ahead last week leading into the premiere, based on hours streamed over the previous week. To date, the Mormon Wives franchise has logged over half a billion hours globally to date. Original series star Jen Affleck served as the catalyst for the expansion to Orange County after moving to Southern California after appearing on Dancing With the Stars. In addition to Affleck, The Secret Lives of Mormon Wives: O.C. stars McCall DaPron, the sister of original series star Mayci Neeley, Madison Bontempo, Ashleigh Pease and Jordan McClanahan, who make up the traditional Mormons of the group. They re paired with less traditional Jack Mormons and internet personalities Aspyn Ovard and Bobbi Althoff as well as Salomé Andrea and Avery Woods. The groups butt heads a fair amount during the first season, but reached a better spot by the end of Season 1. “There’s still friggin’ potholes of disagreement, but I think they end stronger as a group than when they began,” EP Jeff 
 
-### Sean Duffy Says I Don t Apologize for Friday s Nationwide Ground Stop
-Sun, 15 Nov 2026 22:57:32 +0000 — https://www.thewrap.com/media-platforms/journalism/sean-duffy-i-cant-apologize-air-traffic-control-ground-stop-meet-the-press/
+### Miley Cyrus Shares Emotional Response to Grammy Nom With Dolly Parton: A Beautiful Way to Honor Her
+Mon, 16 Nov 2026 21:26:35 +0000 — https://www.thewrap.com/creative-content/music/miley-cyrus-gets-emotional-over-grammy-nomination-with-dolly-parton/
 
-Transportation Secretary Sean Duffy said Sunday he could not apologize for the decades-old air traffic control infrastructure that contributed to Friday s nationwide ground stop , arguing that years of underinvestment by both political parties left the Trump administration with a system in need of major repairs. Appearing on NBC s Meet the Press, Duffy defended the administration s response to Friday’s disruption, which grounded flights across the country, and pushed back when asked whether he owed the American people an apology because the problems had occurred on his watch. The news show s moderator Kristen Welker noted that FAA Administrator Bryan Bedford had apologized to the American people during a news conference Saturday and asked Duffy whether he felt he owed an apology as transportation secretary. I can t apologize for what was passed off to us, Duffy responded. And I can t blame Republicans or Democrats because it s all of them. It goes back, 20, 25, 30 years of a lack of investment. Duffy also said he was moving faster than previous administrations to address the problems at the Federal Aviation Administration and Department of Transportation, crediting President Donald Trump with securing $12.5 billion for aviation modernization through the One Big Beautiful Bill. However, he argued that the funding was insufficient to complete the overhaul, saying Congress had restricted how the money could be spent and had not allocated enough for telecommunications and new sof
+Miley Cyrus got emotional reflecting on her joint Grammy nomination with her late godmother Dolly Parton on Monday. The Flowers singer wrote on Instagram that she continues to feel the country icon s presence in her life. Cyrus was nominated alongside Parton, who died on Aug. 25 , and Lainey Wilson, Queen Latifah and Reba McEntire for their rendition of Parton s “Light of a Clear Blue Morning,” which they re-recorded this year. The original song was released in 1977. A couple Christmases ago Dolly gifted me this vinyl knowing how much I’d love an original, Cyrus wrote in an Instagram post Monday. My Aunt Dolly is one of the greatest songwriters the world has ever known. She never made music for recognition but to make the world a happier place through her songs. She continued: To be nominated alongside her, Lainey Wilson, Queen Latifah and Reba McEntire for Light of a Clear Blue Morning is a beautiful way to honor her enormous heart. This cover supported pediatric cancer research at Vanderbilt’s Monroe Carell Jr. Children’s Hospital a cause close to her heart. View this post on Instagram A post shared by MILEY (@miley) Cyrus also said that she misses calling her on big days like this but that she can feel her in every moment. Love you Aunt Dolly, she concluded. Congratulations to these beautiful women and all the other nominees The late country singer earned received three total posthumous nominations from the Grammys. In addition to “Light of a Clear Blue Morning,” Parton sc
 
-### The Good Daughter Finale: Rose Byrne and Meghann Fahy Unpack Revelatory Ending and if the Truth Will Ever Come Out
-Sun, 15 Nov 2026 21:55:24 +0000 — https://www.thewrap.com/creative-content/tv-shows/the-good-daughter-finale-interview-rose-byrne-meghann-fahy/
+### LACMA’s Art+Film Gala Fashion Was Daring, Dazzling — and Sometimes Barely There
+Mon, 16 Nov 2026 21:16:55 +0000 — https://www.thewrap.com/culture-lifestyle/fashion/lacma-art-and-film-gala-fashion-highs-lows-wrapstyle/
 
-Note: The following story contains spoilers from “The Good Daughter.” In Peacock s “The Good Daughter,” author and showrunner Karin Slaughter weaves a tragic tale that leaves once inseparable sisters Charlie (Meghann Fahy) and Sam (Rose Byrne) estranged, until they are forced to reunite and confront their traumas — and the truth. Based on the book of the same name by Slaughter, The Good Daughter takes place decades after Charlie and Sam s mother was murdered in retaliation for the defense offered by her husband and the town s defense attorney Rusty (Brendan Gleeson). The murder left a target on the family after the sisters placed blame on the Culpepper brothers, prompting Sam to escape the small town while Charlie stayed alongside her father and followed in his steps as a public defender. But, it s not until years later — when a school shooting and an attack on Rusty brings Sam back into town — that the truth about what really happened that day comes out. One of those truths that Charlie had been holding onto was that while Sam had sacrificed herself for Charlie to escape the two armed men that murdered their mom, Charlie didn t get away unscathed — she was sexually assaulted in the woods by Zach Culpepper and only told Rusty about it, instead wanting to keep that trauma private. The discovery rocks Sam, who built her survival on telling herself that her younger sister was able to escape. And while the sisters were right that Zach Culpepper was one of the perpetrators, it s r
+The fashion at LACMA’s Art+Film Gala was daring, dazzling and, in some cases, barely there. Princess Diana’s iconic wardrobe takes center stage at the Reagan Library, from her famous Black Sheep sweater to the gown she wore to dance with John Travolta. Ken Fulk goes Hollywood with a new studio and showroom at the historic Chaplin Studios. And Eleventy Milano brings Italian luxury poolside for an intimate Beverly Hills shopping event with TheWrapBook. Anya Taylor-Joy, wearing archival Pierre Cardin and Tiffany Co., and honoree Denis Villeneuve attend the 2026 LACMA Art+Film Gala at Los Angeles County Museum of Art on Nov. 7, 2026. Source: Getty Gucci s Big Night at LACMA Was Hit and Miss It was Gucci’s big night to shine at the 15th annual LACMA Art+Film Gala, which raised a record-breaking nearly $7 million for the museum while honoring artist Vija Celmins and director Denis Villeneuve. As the event’s presenting fashion sponsor since its inception in 2011, the Italian house had the red carpet almost to itself, dressing a parade of Hollywood stars in creative director Demna’s new vision of Gucci glamour. Now 16 months into his tenure, Demna had a chance to make a bigger statement than last year, when he had been at Gucci for just four months. He also got a shout-out from LACMA director Michael Govan for making Los Angeles his home. There was certainly no shortage of naked dressing, with Demna taking Gucci’s sexed-up aesthetic to the limit. Interestingly, the most daring looks 
 
-### Russell Brand Accuser Waives Anonymity, Calls for Changes to UK Age of Consent Laws
-Sun, 15 Nov 2026 21:11:38 +0000 — https://www.thewrap.com/culture-lifestyle/culture/russell-brand-accuser-mia-latter-waives-anonymity-age-of-consent-laws/
+### Robert Pattinson 007 Casting Splits Fans in First Reactions: Batman Can t Be Bond
+Mon, 16 Nov 2026 20:52:15 +0000 — https://www.thewrap.com/creative-content/movies/robert-pattinson-james-bond-casting-reactions/
 
-Mia Latter, a woman who previously accused Russell Brand of sexual abuse when she was a teenager, has waived her right to lifelong anonymity and is speaking publicly about her allegations against the actor-comedian as she campaigns for changes to the United Kingdom s age of consent laws. Latter, now 37, alleged that Brand orally raped her when she was 16 and he was 30. She had previously been identified only as Alice in a 2023 investigation by The Times , The Sunday Times and Channel 4’s Dispatches, which examined allegations of sexual misconduct by Brand. In an interview with The Sunday Times , Latter said she wants the U.K. to introduce a staggered age of consent that would prohibit adults from having sexual relationships with 16- and 17-year-olds. The country s current age of consent is 16, regardless of the age of the other person, although additional legal protections apply to minors. Latter said she decided to make her identity public in the hope that her experience could help protect other teenagers from grooming and exploitation. She alleged that she first encountered Brand in 2006 in London s Leicester Square while returning home after doing some shopping. Brand, who was working for MTV at the time, approached her, took her phone number and later contacted her about going to dinner. Latter said she disclosed that she was 16 before they began seeing each other, but he continued pursuing the relationship. According to Latter, Brand subsequently instructed her to keep t
+Robert Pattinson is the new James Bond and everyone has thoughts on it. After an extensive search, Pattinson emerged as the choice to play the iconic secret agent in the newest iteration of the franchise. The actor will reunite with director Denis Villenueve who cast him in Dune: Part 3 which is due out later this year. “James Bond is one of the most legendary characters in cinema, and to be entrusted with 007 is the honour of a lifetime,” Pattinson said in a statement released Monday morning. “I’m deeply grateful to Denis, Amy, David, Tanya and everyone at Amazon MGM Studios for their belief in me. To say this role is a dream come true is an understatement. I couldn’t be more excited about this partnership and the work ahead with this fantastic team.” But with the news that Pattinson earned the spot came plenty of thoughts online that ranged from the highest ranks of U.K. government down to regular folks who were either excited or disappointed with the choice. “Welcome to His Majesty’s Secret Service, Mr Bond,” the royal family wrote on their X account. Welcome to His Majesty's Secret Service, Mr Bond. https://t.co/inKwKqHEDd &mdash; The Royal Family (@RoyalFamily) November 16, 2026 The estate of Ian Fleming – the author responsible for the James Bond books – also had plenty of praise for the casting. “As Bond himself reflects at the end of Moonraker when facing the fact that the object of his affections is engaged to another man, ‘He must play the role which she expected of
 
-### The 3 Best Movies to Watch on Prime Video This Week
-Sun, 15 Nov 2026 21:00:00 +0000 — https://www.thewrap.com/creative-content/what-to-watch/best-movies-prime-video-this-week-nov-15-21/
+### Journalism Groups Sue Pete Hegseth’s Pentagon Over Alleged ‘Media Blacklist’
+Mon, 16 Nov 2026 20:50:58 +0000 — https://www.thewrap.com/industry-news/public-policy-legal/pentagon-journalist-blacklist-lawsuit/
 
-Happy middle of November! Fall is in full swing, and you might even have your tree up already, but fair warning, we re not going for holiday movies just yet with our Prime Video recommendations this week. Instead, we re opting for a brand new release, a horror film that s a bit easier to stomach for the scaredy cats out there and a parody of a major franchise that s set to release its newest installment very soon. As always, you are welcome to take these suggestions or welcome to leave them, we re just trying to help where we can! Here are the three best movies to watch on Prime Video this week. Prime Video Madden If you re looking for something brand new this week, but can t make it out to a theater, you have the option of watching Madden, come November 18. Directed by David O. Russell, the film chronicles the life of NFL staple John Madden (Nicolas Cage), alongside his best friend Al Davis (Christian Bale), as he goes from a Super Bowl-winning partnership with the Raiders, to becoming football’s most recognizable voice, to building the worldwide Madden NFL video game. Any NFL fan has played some version of Madden at some point, and this deep into football season, it s a timely watch. They Will Kill You (Credit: Warner Bros.) They Will Kill You For anyone still feeling more horror vibes this fall, They Will Kill You might be the move this week. The film stars Zazie Beetz, an ex-convict who answers an ad to be a housekeeper at a mysterious New York City high-rise that has see
+The Pentagon is facing a federal lawsuit over an alleged secret blacklist of journalists, with a press freedom group and a news outlet seeking records that could reveal whether the military has been deliberately ignoring certain reporters. Freedom of the Press Foundation and The Intercept sued the Department of Defense on Monday in Washington, D.C., accusing the agency of violating the Freedom of Information Act by failing to release records or issue timely determinations concerning a purported list of journalists designated as “people to disregard.” The lawsuit escalates a dispute over the military s treatment of reporters amid broader restrictions on press access under Defense Secretary Pete Hegseth. The controversy stems from a July exchange between Intercept reporter Nick Turse and U.S. Central Command, which oversees American military operations in the Middle East. According to the complaint, Turse was seeking answers about Iranian attacks on U.S. bases when CENTCOM public affairs executive assistant Richard Allee warned that continued inquiries could land him on an internal list. When Turse asked whether such a list existed, Allee answered “Yes,” according to the filing, but declined to identify anyone on it. CENTCOM subsequently denied maintaining a blacklist, calling Turse s account “a complete misrepresentation of exchanges that occurred” and accusing him of repeatedly harassing its staff. The Pentagon did not immediately respond to TheWrap s request for comment Mond
 
-### Danny Boyle Says Next ‘28 Years Later Movie Is Written for Cillian Murphy, but We ve Got to Raise the Money
-Sun, 15 Nov 2026 20:34:04 +0000 — https://www.thewrap.com/creative-content/movies/danny-boyle-28-years-later-cillian-murphy-update/
+### California Sues OpenAI Over Alleged AI Cyberattacks, Safety Failures
+Mon, 16 Nov 2026 20:43:35 +0000 — https://www.thewrap.com/industry-news/public-policy-legal/california-sues-openai-ai-cyberattacks/
 
-Despite receiving strong critical and audience reviews, Danny Boyle and Alex Garland s planned 28 Years Later trilogy has sagged at the box office, and Boyle says that if a third and final installment is going to happen, it will need to find financing. While speaking during an audience talk-back for his upcoming film Ink, which tells the story of Rupert Murdoch s rise to power with the British tabloid The Sun, Boyle was asked about 28 Years Later and the chances of seeing the series completed. He said that while Garland has completed a fantastic script, the project still lacks the funding. We ve got to raise the money, he said. 28 Years Later, which was released in summer 2025, had a decent run at the box office grossing $151 million against a $60 million budget. But the trilogy s second installment, The Bone Temple, collapsed at the box office this past winter with just $58.5 million grossed worldwide despite scoring an even higher Rotten Tomatoes score than the original 28 Days Later released in 2002. When the 28 Years Later trilogy was first announced, Boyle, Garland, and Sony s Columbia Pictures planned to film the first two installments back-to-back, with Nia DaCosta directing The Bone Temple. The overall arc is outlined, but we ve got to raise the money first. And that will depend on how the first film performs, Boyle said in June 2025. Sony had greenlit the trilogy finale last December before The Bone Temple had even been released. But after the poor performance of tha
+California Attorney General Rob Bonta sued OpenAI on Monday, accusing the ChatGPT maker of failing to contain experimental artificial intelligence systems that allegedly launched cyberattacks against outside organizations, including AI platform Hugging Face. The lawsuit , filed in San Francisco Superior Court, alleges OpenAI lost control of its autonomous AI agents more than 80 times during testing. The case centers on a July incident in which hundreds of agents allegedly escaped a controlled research environment and attacked Hugging Face for roughly two-and-a-half days. California is seeking court-ordered changes to the company s practices and financial penalties, arguing that inadequate safeguards violated state consumer protection law and created a public nuisance. Bonta s office alleges OpenAI continued testing increasingly powerful models despite evidence that its security measures could not reliably contain them. The complaint also describes unauthorized access to software databases, websites and foreign government databases containing sensitive health information. Some agents allegedly compromised OpenAI s own infrastructure, gaining administrator-level access to critical systems. The Hugging Face attack was the predictable result of an internal culture at OpenAI that prioritizes growth and rapid model development over safety and accountability, Bonta said in a statement . OpenAI previously acknowledged the July incident, calling it a warning shot about the risks of ad
 
-### ‘Harry Potter’ HBO Series Drops Hogwarts Banquet First Look, Gets Trolled for ‘Not Hitting the Mark’
-Sun, 15 Nov 2026 19:38:38 +0000 — https://www.thewrap.com/creative-content/tv-shows/harry-potter-hbo-series-banquet-scene-first-look-trolled-david-ellison/
+### ‘The Terminal List’ Keeps Growing: Prime Video Developing ‘Cry Havoc’ Spinoff
+Mon, 16 Nov 2026 20:30:40 +0000 — https://www.thewrap.com/creative-content/tv-shows/the-terminal-list-cry-havoc-spinoff-prime-video/
 
-Harry Potter and the Philosopher s Stone debuted a first look preview clip of its start-of-term banquet scene on Sunday, and fans of the fantasy franchise were divided on their takeaways. Skydance CEO David Ellison was first to share the video on X , and his post was quickly overrun with critics of the project arguing that the CGI looked better in Christopher Columbus Sorcerer s Stone original movie 25 year ago. Welcome to Hogwarts! Here’s an exclusive clip of the new HBO Original Series Harry Potter and The Philosopher’s Stone premiering Christmas Day on HBO Max, Ellison wrote. Looks terrible. I want to like it too. Please recast and do better. The 2001 CGI looks better, one verified user replied. This looks like Temu Harry Potter. It’s feels lifeless. Why was this needed in the first place? The movies were already timeless and perfect. Too soon for a remake of this franchise! wrote another. And still another added, Sadly not hitting the mark for me. Negative reviews of the clip appeared mostly isolated to Ellison s X post, however, as fans over on YouTube were less critical in their appraisal. Commenters were particularly quick to acknowledge the scene s treatment of Dumbledore (John Lithgow) and Professor McGonagall (Janet McTeer). The preview clip highlighted a conversation between the two professors in which they mused about Harry Potter being sorted into the Gryffindor house and how he was a spit of his father a dynamic that was seldom explored in the feature films. The
+The world of The Terminal List will continue to expand with an upcoming spinoff based on Jack Carr s Cry Havoc, which is in development at Prime Video. Cry Havoc follows Carr s youngest protagonist, Navy SEAL Tom Reece. Set in 1968 Vietnam, the story finds Reece assigned to the top-secret MACV-SOG unit, which is responsible for cross-border operations in Laos. He is plucked from the jungle and thrust into the shadows of Cold War espionage as his team prepares for the upcoming Tet Offensive. David DiGilio will executive produce and showrun the latest spinoff. Mark Adams, Chris Pratt, Carr, Jared Shaw, Antoine Fuqua and Kat Samick will also executive produce the Prime Video series. Adams and DiGilio wrote the pilot for the spinoff with Shaw and Carr also involved in the development process. The flagship series The Terminal List is set in 2015 and premiered on Prime Video in 2022. The action-thriller followed Pratt as Navy SEAL Lieutenant Commander James Reece, based on Carr s bestselling novels. Prime Video greenlit an extension of “The Terminal List” Nov. 5 that will see Pratt return as James Reece for an adaptation of Carr’s “Savage Son ,” the third book in Carr’s “Terminal List” series. The series will be produced by Amazon MGM Studios, MRC and Civic Center Media. It is unclear if “Savage Son” will serve as the third season of “The Terminal List” or if it will be a standalone series set within the world of the franchise. Carr s The Terminal List book series consists of eight
 
 ## Collider
 
-### Netflix’s Major Crime Franchise Starter Officially Becomes a Streaming Juggernaut
-Mon, 16 Nov 2026 13:01:12 GMT — https://collider.com/power-netflix-streaming-success-november-2026/
+### ‘Doctor Who’ Is Officially Returning, But There’s a Catch
+Mon, 16 Nov 2026 22:45:12 GMT — https://collider.com/doctor-who-the-satan-pit-extended-cut-specially-shot-sequence/
 
-The crime genre is a staple of television. Some of the most popular shows of all time include crime elements , from The Sopranos to Breaking Bad to Law & Order . The enduring appeal of the crime genre lies in its ability to explore the darkest corners of human nature while maintaining high stakes. Whether following the ruthless rise of a cartel boss or the methodical work of homicide detectives, viewers are drawn to the moral ambiguity and tension inherent in breaking the law . Television allows you to root for bad and dangerous people without having any skin in the game. It can also allow you to hate them as much as you want to the point of wishing some characters would meet an untimely end.
+What does the future of Doctor Who look like? It wasn't long ago that a partnership with Disney and the return of showrunner Russell T. Davies left fans feeling as if the show's heyday was on its way back. However, this couldn't be further from the truth, as Davies' return faced poor ratings, mixed fan reception, and the controversial exit of the new titular Time Lord, Ncuti Gatwa . This all culminated in the inevitable shelving of the series, as the BBC put it out to competitive tender earlier this year.
 
-### The 7 Greatest Flintlock Fantasy Books of All Time, Ranked
-Mon, 16 Nov 2026 12:51:12 GMT — https://collider.com/best-flintlock-fantasy-books-all-time-ranked/
+### 10 Classic Rock Songs That Will Make Your Thanksgiving Playlist Unforgettable
+Mon, 16 Nov 2026 22:35:12 GMT — https://collider.com/classic-rock-songs-thanksgiving-playlist-unforgettable/
 
-Fantasy doesn't always have to revolve around castles, kingdoms, and sword-wielding knights. Flintlock fantasy takes the genre into a more technologically advanced era, inspired by the 17th, 18th, and early 19th centuries , when firearms were transforming warfare and political revolutions were reshaping entire societies.
+Thanksgiving means a lot of different things to different people, but there are a few universal themes that can't be ignored . There's family, there's gratitude, and there's good food. Some people will have their favorite artists to accompany them during special, but for those who are still looking for inspiration, we got you covered.
 
-### The 13 Best International Fantasy TV Shows, Ranked
-Mon, 16 Nov 2026 12:38:12 GMT — https://collider.com/international-fantasy-shows-best-ranked/
+### ‘Ghosts’ Season 6 Is Taking an Unnecessary Risk With Its Release Formula
+Mon, 16 Nov 2026 22:26:13 GMT — https://collider.com/ghosts-season-6-cbs-2026-schedule-change-problems/
 
-Fantasy is a very old genre of fiction, one that is well over two centuries old at this point. It has lasted so long because there is just something so captivating about worlds full of magic and monsters, or that feature aspects that are so far beyond our current existence. It's kind of hard not to get wrapped up in these worlds, especially with the rise of fantasy television, which has become more popular than ever since the 2010s started.
+Comedy fans have been wondering when Ghosts will return for Season 6, and now they have their answer. Following a pair of holiday specials, the supernatural comedy will return in January 2027 in its usual time slot. However, there's a major change to its release schedule : the show will now air twice-weekly . In addition to its regular Thursday slot, Ghosts will also air episodes on Mondays following Eternally Yours . While this is an attempt to build a block of supernatural comedy programming, it might be a majorly wrong move on CBS's part.
 
-### Margot Robbie’s Answer to ‘The Mummy’ Officially Takes Over the World
-Mon, 16 Nov 2026 12:30:12 GMT — https://collider.com/the-legend-of-tarzan-streaming-hit-hbo-max-november-2026/
+### India’s ‘Ramayana’ Officially Removed From Nearly 500 Theaters After 1 Week
+Mon, 16 Nov 2026 22:15:12 GMT — https://collider.com/ramayana-box-office-removed-500-theaters/
 
-There has been a lot of talk about an Ocean’s Eleven prequel, with the project seemingly getting stuck for several years. Thankfully, earlier this year, it is starting to take shape, as Margot Robbie has been announced to star opposite Bradley Cooper , who is also directing, and the film has been scheduled for release on June 25, 2027. The film has also tapped a recent Oscar nominee in a villainous role , as Wagner Moura joins Robbie and Cooper in a film that is still kept tightly under wraps.
+Last week, two international movies bookended the top-five list at the domestic box office, with Godzilla Minus Zero emerging as the number-one movie in North America. However, a significantly more expensive Indian film took the global crown and eventually beat Godzilla Minus Zero to the coveted $100 million mark worldwide . The movie in question continues to lead worldwide, even though it's trailing the monster epic domestically. That said, it registered a better hold in its second weekend, despite playing in a third of Godzilla Minus Zero 's theaters and losing nearly 500 locations.
 
-### The 5 Greatest Network TV Miniseries of All Time, Ranked
-Mon, 16 Nov 2026 12:11:12 GMT — https://collider.com/best-network-tv-miniseries-ranked/
+### The 8 Best Fantasy Books for Pure Escapism
+Mon, 16 Nov 2026 22:08:12 GMT — https://collider.com/best-fantasy-books-pure-escapism/
 
-Imagine missing a crucial episode of your favorite television story because you weren't home on Tuesday night. No streaming service, no convenient replay, and certainly no guarantee that your friends would keep quiet about what happened. Network television once expected millions of people to arrange their evenings around a single story, and the astonishing thing is that some of those stories genuinely deserved the inconvenience. Families gathered around their televisions, strangers discussed characters at work, and fictional tragedies became national conversations.
+Not all fiction needs to be escapist, but certain genres of speculative fiction in particular—perhaps fantasy most of all—lend themselves perfectly to stories that are all about immersing readers in stylized, imagined worlds that allow them to mentally detach from the stress and emotional fatigue of everyday life. Throughout history, many great fantasy novels have been written with immersion, entertainment, and escapism in mind, and have gone down in history as some of the genre's most legendary works as a result.
 
-### Clint Eastwood’s Greatest Quote Still Defines the Western Genre to This Day
-Mon, 16 Nov 2026 12:04:12 GMT — https://collider.com/clint-eastwood-greatest-western-quote-the-good-the-bad-and-the-ugly/
+### The 10 Greatest Classic American Movies, Ranked
+Mon, 16 Nov 2026 21:49:12 GMT — https://collider.com/best-classic-american-movies-ranked/
 
-In the pantheon of Western icons, no one stands taller than Clint Eastwood . Much of that's due to his performance as the "Man with No Name" in Sergio Leone 's Dollars trilogy, where he played a mysterious gunslinger whose mind was as sharp as his aim. The "Dollars" trilogy didn't just help define the spaghetti Western that dominated movies in the '60s; Eastwood's performance also helped define figures like El Mariachi in Robert Rodriguez 's "Mexico Trilogy" and Din Djarin in The Mandalorian . It's the final movie, The Good, the Bad and the Ugly , that stands out, thanks to one key quote by Eastwood .
+Though we love the impact modern movies have had on Hollywood and our lives, there’s simply no denying how profoundly important the classics are in cinema today. As they say, they don’t make them like they used to! While there are literally hundreds of incredible Hollywood classics, we are here to celebrate the greatest classic films of all time.
 
-### Marvel Officially Unleashes Doctor Doom Early in a New Release
-Mon, 16 Nov 2026 12:00:12 GMT — https://collider.com/marvel-cosmic-invasion-doctor-doom-siege-of-castle-doom-release/
+### 3 Elite Netflix Series to Binge This Week (Nov 16-20)
+Mon, 16 Nov 2026 21:47:12 GMT — https://collider.com/netflix-shows-binge-week-november-16-2026/
 
-Doctor Doom can look at an alien invasion and find a way to make it everybody else’s problem. In his latest Marvel appearance, Victor von Doom is so sure he can defeat Annihilus himself that he builds a weapon powerful enough to put the entire Earth in danger. Reed Richards has to build something to stop him. Somewhere in there, Annihilus is still waiting to find out which of them he’s actually fighting.
+Netflix has been taken over by the perfect follow-up to Prime Video's recent adaptation of Stephen King 's Carrie . The Body , a brilliant, twisting thriller starring Kristina Bogic and Sara Boustany , has taken the #1 spot on the Netflix charts in the U.S. " The Body is like nothing else on streaming right now," wrote Gabrielle Moss in Collider's review , with this unique appeal helping to catapult Netflix's latest hit to the streaming summit. But it isn't the only show that should be on your radar at the moment. With that in mind, here's a look at three shows you should binge-watch on Netflix this week .
 
-### 2027 Oscar Predictions: The Odyssey Leads, but You Can See Everything Could Make History
-Mon, 16 Nov 2026 12:00:12 GMT — https://collider.com/2027-oscar-predictions-nominations-the-odyssey-you-can-see-everything/
+### Chris Pratt’s ‘Reacher’ Replacement Officially Gets New Prequel
+Mon, 16 Nov 2026 21:41:45 GMT — https://collider.com/the-terminal-list-prequel-prime-video-cry-havoc/
 
-Welcome to Collider's FYC hub, your best resource for Oscars 2027 predictions. Here, Senior Producer Perri Nemiroff keeps you up to date on the leading contenders based on her knowledge of industry trends and whispers, and her own personal thoughts and instincts. Remember to come back often for updates! The odds are always changing.
+2026 has been another successful year for Chris Pratt , who has starred in some big-budget projects both on TV and streaming. At the start of the year, Pratt worked with sci-fi legend Rebecca Ferguson for the Amazon-backed AI thriller, Mercy . While the film bombed at the box office, it did go on to become one of the most-watched titles of the year on Prime Video — redemption comes in all shapes and sizes. It didn’t take Pratt long to find box office glory, though, as he reunited with Anya Taylor-Joy as the duo reprised their roles in The Super Mario Galaxy Movie , which was the first feature film of 2026 to gross over $1 billion at the box office. He can also be seen in the second season of The Terminal List on Prime Video.
 
-### The 5 Best Movies of the Last 2 Months, Ranked
-Mon, 16 Nov 2026 11:32:12 GMT — https://collider.com/best-movies-last-2-months-ranked/
+### 'A Charlie Brown Thanksgiving' Has a Peppermint Patty Problem
+Mon, 16 Nov 2026 21:24:12 GMT — https://collider.com/a-charlie-brown-thanksgiving-peppermint-patty-problem/
 
-It's impossible to deny that 2026 has been a spectacular year for cinema as an art form, with so many massive success stories and highly acclaimed films helping put movies back at the forefront of cultural significance. While many people specifically reflect upon the many great hits that summer had, the past 2 months have also been a great time for striking and exceptional filmmaking. With the awards season fully underway, many of the year's most critically acclaimed films are finally releasing to the public, hoping to leave enough of an impression to be celebrated by coveted awards bodies.
+Poor Charlie Brown . If he isn’t making life worse for himself, then the world does it for him, like getting rocks for treats at Halloween, as he did in It's the Great Pumpkin, Charlie Brown . He is, for lack of a better word, a magnet for grief and misfortune. But in A Charlie Brown Thanksgiving , the source of his grief at least has a name: Peppermint Patty ( Christopher DeFaria ). And she's a problem .
 
-### 10 Greatest Classic American Sitcoms, Ranked
-Mon, 16 Nov 2026 11:32:12 GMT — https://collider.com/best-classic-american-sitcoms-ranked/
+### Win Free Tickets to Our 'The Hunger Games: Sunrise on the Reaping' Screening With Q&A
+Mon, 16 Nov 2026 21:19:16 GMT — https://collider.com/the-hunger-games-sunrise-on-the-reaping-screening-francis-lawrence/
 
-The landscape of sitcoms on television might look drastically different had it not been for the classics that pioneered the genre. Network television has hosted countless incredible, long-running series, but only a handful are truly great. Whether you caught them in real time, found them via Nick at Nite, or discovered them on streamers today, these American sitcoms completely changed the genre while establishing a blueprint still used today .
+Welcome, welcome! Collider is proud to announce that we’re partnering with Lionsgate to offer our readers the opportunity to catch a very special screening of The Hunger Games: Sunrise on the Reaping in theaters with us, where director Francis Lawrence will join us after the credits roll for an exclusive Q&A conversation. Read on for more information on how you can enter for your chance to win free tickets.
 

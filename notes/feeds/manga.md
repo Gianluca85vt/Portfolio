@@ -1,72 +1,77 @@
-# Manga — harvested 2026-11-16T13:08:47.347Z
+# Manga — harvested 2026-11-16T23:01:20.270Z
 
 ## Anime News Network
 
-### Märchen Crown Manga Ends in Next Chapter
-Mon, 16 Nov 2026 07:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-16/marchen-crown-manga-ends-in-next-chapter/.243838
+### D.I.C.E. Awards Honors Nintendo Game Creator Shigeru Miyamoto With Inaugural Legend Award
+Mon, 16 Nov 2026 17:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-16/d.i.c.e-awards-honors-nintendo-game-creator-shigeru-miyamoto-with-inaugural-legend-award/.243870
 
-Series from Aka Akasaka, Aoi Kujira, Ajichika debuted in March 2025
+<cite>Super Mario Bros.</cite>, <cite>Legend of Zelda</cite> creator earns award presented only once per decade
 
-### Skip & Loafer Anime's 2nd Season Reveals More Cast in 1st Promo Video
-Mon, 16 Nov 2026 04:39:47 -0500 — https://www.animenewsnetwork.com/news/2026-11-16/skip-and-loafer-anime-2nd-season-reveals-more-cast-in-1st-promo-video/.243852
+### Ultraman Teo Actress Noa Nekada Dies at 23
+Mon, 16 Nov 2026 16:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-16/ultraman-teo-actress-noa-nekada-dies-at-23/.243868
 
-Reina Ueda, Yuto Takenaka join cast for new season debuting in April 2027
+Ongoing <cite>Ultraman Teo</cite> series will broadcast as planned with Nekada's already-filmed scenes
 
-### Wanpaku! Touken Ranbu TV Anime Debuts on January 6
-Mon, 16 Nov 2026 02:23:41 -0500 — https://www.animenewsnetwork.com/news/2026-11-16/wanpaku-touken-ranbu-tv-anime-debuts-on-january-6/.243850
+### Singer Yukio Yamagata Dies at 69
+Mon, 16 Nov 2026 15:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-16/singer-yukio-yamagata-dies-at-69/.243866
 
-Main staff also revealed
+Yamagata performed theme songs for <cite>Hyakujuu Sentai Gaoranger</cite>, <cite>Yattodetaman</cite>, <cite>Bakusō Kyōdai Let's & Go!!</cite>
 
-### Scope Out the New VOTOMS Popcorn Bucket
-Sun, 15 Nov 2026 23:59:00 -0500 — https://www.animenewsnetwork.com/interest/2026-11-15/scope-out-the-new-votoms-popcorn-bucket/.243718
+### Hello, I Am a Witch and My Crush Wants Me to Make a Love Potion! ‒ Episode 7
+Mon, 16 Nov 2026 14:30:00 -0500 — https://www.animenewsnetwork.com/review/hello-i-am-a-witch-and-my-crush-wants-me-to-make-a-love-potion/episode-7/.243862
 
-Even the new VOTOMS anime's voice actors Miyuki Sawashiro & Mabuki Ando enjoy it
+Princesses almost never get the fairy tale ending.
 
-### Black Witch Mirror Manga to End in 4th Volume
-Sun, 15 Nov 2026 22:59:58 -0500 — https://www.animenewsnetwork.com/news/2026-11-15/black-witch-mirror-manga-to-end-in-4th-volume/.243819
+### Godzilla Minus Zero Earns US$8 Million in 73% Drop at U.S. Box Office, Passes US$100 Million Worldwide
+Mon, 16 Nov 2026 14:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-16/godzilla-minus-zero-earns-usd8-million-in-73-percent-drop-at-u.s-box-office-passes-usd100-million-/.243859
 
-Series debuted in October 2023
+Live-action <cite>Street Fighter</cite> ranks at #16 in U.S.
 
-### Netflix Announces 'KPop Demon Hunters Golden World Tour' Dates
-Sun, 15 Nov 2026 22:15:00 -0500 — https://www.animenewsnetwork.com/interest/2026-11-15/netflix-announces-kpop-demon-hunters-golden-world-tour-dates/.243833
+### From Far Away ‒ Episode 7
+Mon, 16 Nov 2026 13:30:00 -0500 — https://www.animenewsnetwork.com/review/from-far-away/episode-7/.243860
 
-HUNTR/X: “4THEFANS!”
+Barago isn't an inherently bad person. He's someone who let his ambitions get the better of him
 
-### SPITZ Band's Drummer Tatsuo Sakiyama Seriously Injured in Traffic Accident
-Sun, 15 Nov 2026 17:53:16 -0500 — https://www.animenewsnetwork.com/news/2026-11-15/spitz-band-drummer-tatsuo-sakiyama-seriously-injured-in-traffic-accident/.243836
+### LiSA, BABYMETAL Earn Nominations for 2027 Grammy Awards' New Best Asian Pop Music Performance Category
+Mon, 16 Nov 2026 13:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-16/lisa-babymetal-earn-nominations-for-2027-grammy-awards-new-best-asian-pop-music-performance-category/.243861
 
-Band's next TV appearances to use Sakiyama's pre-recorded performances during his hospitalization
+BINI, SB19, IVE, KiiiKiii also nominated for new category
 
-### Witch Watch Manga Ends With Anime Season 2 to Air in 2027
-Sun, 15 Nov 2026 10:12:39 -0500 — https://www.animenewsnetwork.com/news/2026-11-15/witch-watch-manga-ends-with-anime-season-2-to-air-in-2027/.243834
+### A Certain Dark Item ‒ Episode 6
+Mon, 16 Nov 2026 12:30:00 -0500 — https://www.animenewsnetwork.com/review/a-certain-dark-item/episode-6/.243847
 
-Kenta Shinohara's Witch Watch manga ended in this year's 51st issue of Shueisha's Weekly Shonen Jump magazine on Monday. The staff of the television anime...
+If the next episode is just more talking and posturing, I'm going to lose it.
 
-### Uzono Shiniko Hōkoku Manga Ends in 4th Volume
-Sun, 15 Nov 2026 09:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-15/uzono-shiniko-hokoku-manga-ends-in-4th-volume/.243817
+### French Manga, Comic Creator Frédéric Boilet Dies at 66
+Mon, 16 Nov 2026 11:30:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-16/french-manga-comic-creator-frederic-boilet-dies-at-66/.243766
 
-Manga adaptation of Bunkichi Majima's novel debuted in December 2024
+Boilet drew <cite>Yukiko's Spinach</cite>, <cite>Mariko Parade</cite> manga
 
-### DEMONS' NIGHT FEVER Game Review
-Sun, 15 Nov 2026 09:00:00 -0500 — https://www.animenewsnetwork.com/review/game/nintendo-switch/demons-night-fever/.243381
+### #I'm Looking For a Zombie ‒ Episode 6
+Mon, 16 Nov 2026 11:30:00 -0500 — https://www.animenewsnetwork.com/review/im-looking-for-a-zombie/episode-6/.243848
 
-Folks who want a rollicking good time being bad to the bone will find that in DEMONS' NIGHT FEVER, but you will have to work for it.
+There is one thing about this episode that stands out to me, and it's not good.
 
-### Odekake Kozame Anime Gets 2nd Film
-Sun, 15 Nov 2026 08:24:54 -0500 — https://www.animenewsnetwork.com/news/2026-11-15/odekake-kozame-anime-gets-2nd-film/.243832
+### The Days of Diamond Manga Gets TV Anime
+Mon, 16 Nov 2026 10:41:18 -0500 — https://www.animenewsnetwork.com/news/2026-11-16/the-days-of-diamond-manga-gets-tv-anime/.243858
 
-3 main cast members celebrate news with staff returning from 1st film, 2nd season
+Takakazu Nagatomo to direct anime of Ōhashi Hirai's manga at Lapin Track
 
-### WEBTOON CEO Junkoo Kim Receives Outstanding Contribution Award at Korea's 26th Cartoon Day Ceremony
-Sun, 15 Nov 2026 08:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-15/webtoon-ceo-junkoo-kim-receives-outstanding-contribution-award-at-korea-26th-cartoon-day-ceremony/.243642
+### Devils' Crest ‒ Episode 3
+Mon, 16 Nov 2026 10:30:00 -0500 — https://www.animenewsnetwork.com/review/devils-crest/episode-3/.243846
 
-Kim shares award with attorney Sung-joo Kim of law firm Deoksu, who was recognized for his work protecting cartoonists' rights, providing legal support
+Once the life-and-death battle is done and their classmates are located, Yuma starts asking the big questions—namely, what's going on with his sister?
 
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Interview: Yoko Kanno During First Lucca Comics & Games Apperance
+Mon, 16 Nov 2026 22:38:35 GMT — https://animecorner.me/interview-yoko-kanno-during-first-lucca-comics-games-apperance/
+
+During her first appearance at Lucca Comics & Games, composer Yoko Kanno sat down&hellip;
 
 ### Are You a Landmine, Chihara-san? Anime Unveils Main Visual
 Mon, 16 Nov 2026 12:28:41 GMT — https://animecorner.me/are-you-a-landmine-chihara-san-anime-unveils-main-visual/
@@ -99,6 +104,11 @@ Sun, 15 Nov 2026 11:09:57 GMT — https://animecorner.me/mygo-and-ave-mujica-ani
 A second trailer was unveiled for the upcoming anime sequel to MyGO and Ave&hellip;
 
 ## MyAnimeList News
+
+### Manga Diamond no Kouzai Gets TV Anime
+Mon, 16 Nov 2026 07:18:10 -0800 — https://myanimelist.net/news/74946798?_location=rss
+
+Production company TOHO animation opened an official website for a television anime adaptation of Oohashi Hirai s Diamond no Kouzai (The Days of Diamond) manga on Tuesday, revealing the main staff and an announcement visual (pictured). Staff Director: Takakazu Nagatomo (Seihantai na Kimi to Boku) Assistant Director: Chigusa Kiyota (Dungeon Meshi episode director) Series Composition, Script: Teruko Utsumi (Nippon Sangoku) Character Design: Atsushi Saitou (Shoushimin Series) Color Design: Kum...
 
 ### Skip to Loafer 2nd Season Reveals Additional Cast Pair, First Promo
 Mon, 16 Nov 2026 01:46:46 -0800 — https://myanimelist.net/news/74945973?_location=rss

@@ -1,4 +1,4 @@
-# Source feeds — harvested 2026-11-16T13:08:47.347Z
+# Source feeds — harvested 2026-11-16T23:01:20.270Z
 
 Fetched by GitHub Actions, which is not behind the writer's egress proxy.
 One file per category. Each item is what the publisher syndicates in its
@@ -8,6 +8,12 @@ own feed: headline, link, date, and their summary.
 > links to the same publication, which is one source read twice. If only
 > one outlet has the story, write it, keep `draft: true`, and say so in
 > the first line of the body. See notes/article-voice.md.
+
+## Broadcasts in the feeds
+
+Already aired, so a round-up rather than a preview:
+
+- Push Square — Rumour: Persona 6 Blowout Primed for The Game Awards
 
 > **A dated showcase gets two articles, not one.** A preview before it
 > airs, carrying the stream link and the start time in Italian time, and a
@@ -29,13 +35,13 @@ silently skipping it.
 
 ## Feeds
 
-- [Film & TV](film-tv.md) **owed** — 57 items
-- [Games](games.md) — 56 items
-- [Tech](tech.md) — 74 items
+- [Film & TV](film-tv.md) **owed** — 67 items
+- [Games](games.md) — 86 items
+- [Tech](tech.md) — 82 items
 - [3D](3d.md) — 12 items
-- [AI](ai.md) — 4 items
-- [Manga](manga.md) — 23 items
+- [AI](ai.md) — 12 items
+- [Manga](manga.md) — 25 items
 
-Total: 226 items.
+Total: 284 items.
 
 Feeds that did not answer: CGChannel (HTTP 403), VentureBeat AI (HTTP 429).
