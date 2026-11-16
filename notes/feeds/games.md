@@ -1,6 +1,21 @@
-# Games — harvested 2026-11-15T19:27:39.908Z
+# Games — harvested 2026-11-16T13:08:47.347Z
 
 ## Eurogamer
+
+### The next Xbox, Project Helix, is a console and "not a PC" says Microsoft, as it clarifies that computational power isn't sole focus this time
+Mon, 16 Nov 2026 12:08:40 +0000 — https://www.eurogamer.net/microsoft-project-helix-interview-details
+
+Microsoft has stressed that its next-generation Xbox console, Project Helix, "is not a PC that can also play console games", but rather "a console that is also capable of playing games from your PC". The company has also underlined the importance of using gen-AI-adjacent "neural rendering" technology going forwards, and a desire to remove "all the barriers of play that have historically existed" - notably in making the past generations of games playable. Read more
+
+### Umamusume: Pretty Derby parent company plans to release seven new games by 2030 as it boasts an "88 percent hit rate" on its mobile titles
+Mon, 16 Nov 2026 11:20:50 +0000 — https://www.eurogamer.net/umamusume-dev-seven-new-games-2030
+
+Cyberagent - the parent company of Umamusume: Pretty Derby developer Cygames - has boasted its recent successes in the mobile gaming sphere in a recent quarterly earnings presentation. Read more
+
+### EA hires another former Call of Duty boss to take the lead on all Battlefield Studios' projects
+Mon, 16 Nov 2026 09:24:00 +0000 — https://www.eurogamer.net/battlefield-call-of-duty-sam-cooper-byron-beede-live-service
+
+EA has made some notable leadership changes within its studios group, and in who oversees the Battlefield franchise. Byron Beede, previously Battlefield's general manager, has been promoted to group general manager. Read more
 
 ### Police arrest suspect after drive-by shooting at office campus housing Xbox studio inXile
 Sun, 15 Nov 2026 17:47:40 +0000 — https://www.eurogamer.net/inxile-office-shooting-tustin-suspect-arrested
@@ -32,39 +47,12 @@ Sun, 15 Nov 2026 10:00:00 +0000 — https://www.eurogamer.net/the-big-question-w
 
 As we teeter on the brink of gaming's biggest launch of 2026 - perhaps even decade - so many questions swirl: which GTA 6 cars will make the best vrrrrm? Is it possible for me to be any more obsessed with that Justice theme song ? On a scale of one to ten, how many dongs ? Answers will inevitably come, but for now - as we crank up the Phil Collins and roar deeper into Eurogamer's GTA Week - there's only one question we're concerned with. Yes, it's the return of our irregular series The Big Question , in which we ponder another topical talking point before wafting it lovingly over to you. And this time around we're asking, what's the best GTA? Read more
 
-### Ubisoft is reportedly making a new Rainbow Six Vegas game, nearly two decades after Vegas 2
-Sat, 14 Nov 2026 12:19:50 +0000 — https://www.eurogamer.net/rainbow-six-vegas-new-game-ubisoft-spades-report
-
-Ubisoft is reportedly working on a new Rainbow Six Vegas game 18 years after the last entry in the series. Read more
-
-### Call of Duty Endowment marks Remembrance Day with veterans' Valor Pack push
-Sat, 14 Nov 2026 11:15:00 +0000 — https://www.eurogamer.net/call-of-duty-endowment-valor-pack-remembrance-day-veterans
-
-The Call of Duty Endowment is marking Remembrance Day and its 17th anniversary by encouraging Modern Warfare 4 and Warzone players to pick up its Valor Pack, with all of Activision's net proceeds going towards helping veterans find jobs. Read more
-
-### Magic: The Gathering animated series Planeswalker is coming to Netflix in 2027
-Sat, 14 Nov 2026 10:39:50 +0000 — https://www.eurogamer.net/magic-the-gathering-planeswalker-netflix-animated-series-2027
-
-Netflix's long-gestating Magic: The Gathering animated series is called Planeswalker, and it's coming in 2027. Read more
-
-### Vice City was the GTA that established Rockstar's killer formula - and 24 years on, it's still one of the best games ever made
-Sat, 14 Nov 2026 10:00:00 +0000 — https://www.eurogamer.net/gta-vice-city-retrospective
-
-"Get the limey out of here," Burt Reynolds tells the producers of GTA: Vice City during a recording session for the game, as Rockstar co-founder Dan Houser enters the studio. "I'm not going to work if this limey Brit is in here!" Houser refuses to leave, so the story goes - he just came down to meet one of his heroes! - and he and Reynolds end up chest-to-chest, about to come to blows, before a studio engineer breaks up the fight. Read more
-
-### What we've been playing - "Whether he means to or not, he serves sass all over town"
-Sat, 14 Nov 2026 08:00:00 +0000 — https://www.eurogamer.net/what-weve-been-playing-sass-all-over-town-link-ocarina
-
-Another week has climaxed and I'm so sorry you had to read that on a Saturday morning. But here we are again, with our regular feature, where we talk about what we've been playing in order that you do too. This week, Marie has been staring at monster butts; Connor has capitulated to World of Warcraft; Kelsey is discovering the joys of a beloved Zelda game for the first time; and Bertie enjoys someone being punched in the face, because I guess he's that sort of person? Read more
-
-### The Blood of Dawnwalker is getting a New Game Plus mode in next week's update
-Fri, 13 Nov 2026 20:49:20 +0000 — https://www.eurogamer.net/blood-of-dawnwalker-new-game-plus
-
-A New Game Plus mode is coming to vampiric RPG The Blood of Dawnwalker next week. Read more
-
 ## GamesIndustry.biz
 
-_Nothing in the last 48 hours._
+### Unity launches $50,000 grant for indie developers with no equity or repayment
+Mon, 16 Nov 2026 13:00:00 +0000 — https://www.gamesindustry.biz/unity-launches-50000-grant-for-indie-developers-with-no-equity-or-repayment
+
+Unity has launched the Unity Fellowship program , offering indie developers planning to launch a game within the next 12 months a $50,000 grant with no equity or repayment. Read more
 
 ## VG247
 
@@ -72,15 +60,30 @@ _Nothing in the last 48 hours._
 
 ## Push Square
 
-### PlayStation Black Friday Sale Knocks Up to $100 Off PS5 Accessories, PSVR2
-Sun, 15 Nov 2026 13:00:00 GMT — https://www.pushsquare.com/news/2026/11/playstation-black-friday-sale-knocks-up-to-usd100-off-ps5-accessories-psvr2
+### PlayStation Black Friday Sale Is Live Now, Up to $100 Off PS5 Accessories, PSVR2
+Mon, 16 Nov 2026 13:00:00 GMT — https://www.pushsquare.com/news/2026/11/playstation-black-friday-sale-is-live-now-up-to-usd100-off-ps5-accessories-psvr2
 
 But no PS5 consoles included. Alongside its ongoing PS Store Black Friday sale and a new PS Plus promotion that goes live tomorrow, Sony has also detailed the range of discounts it'll apply to PS5 accessories from 16th November 2026. Here are the discounts Sony is offering on PlayStation Direct and at participating retailers: Read the full article on pushsquare.com
 
-### PS Plus Subscriptions on Sale from Tomorrow, But There s a Big Catch
-Sun, 15 Nov 2026 12:15:00 GMT — https://www.pushsquare.com/news/2026/11/ps-plus-subscriptions-on-sale-from-tomorrow-but-theres-a-big-catch
+### Mega Man: Dual Override s Boss Design Contest Winner Has Been Decided
+Mon, 16 Nov 2026 12:00:00 GMT — https://www.pushsquare.com/news/2026/11/mega-man-dual-overrides-boss-design-contest-winner-has-been-decided
 
-The usual asterisk applies. Sony has revealed its PS Plus membership at all three tiers will be going on sale from tomorrow, 16th November, for two weeks. However, if you've been paying attention to how Sony handles this promotion in the last few years, then you will already know what's coming: the discounted prices only apply to new sign-ups; current members won't have access to them. Read the full article on pushsquare.com
+Clean sweep. Publisher Capcom has revealed the winning robot master in its design competition for Mega Man: Dual Override . From a shortlist of six finalist designs, the development team chose Cleanser Man as the winner, and it has been made into one of the action platformer's eight boss characters. Read the full article on pushsquare.com
+
+### PS Plus Subscriptions on Sale Now, But There s a Big Catch
+Mon, 16 Nov 2026 10:15:00 GMT — https://www.pushsquare.com/news/2026/11/ps-plus-subscriptions-on-sale-now-but-theres-a-big-catch
+
+Discounted prices revealed. Sony has revealed its PS Plus membership at all three tiers will be going on sale from tomorrow, 16th November, for two weeks. However, if you've been paying attention to how Sony handles this promotion in the last few years, then you will already know what's coming: the discounted prices only apply to new sign-ups; current members won't have access to them. Read the full article on pushsquare.com
+
+### Feature: 80+ PS5, PS4 Games to Buy in PS Store s Updated Black Friday Sale
+Mon, 16 Nov 2026 10:00:00 GMT — https://www.pushsquare.com/features/80plus-ps5-ps4-games-to-buy-in-ps-stores-updated-black-friday-sale
+
+PS5 and PS4 games going cheap we recommend. The PS Store's Black Friday sale is on now, running until 30th November, 2026 — and it's just been refreshed with even more discounts. As with nearly every offer in Sony's digital store, there are literally thousands of PS5 and PS4 games going cheap. Obviously, nobody has the time to scroll through all those deals, which is where this guide hopefully comes in handy. Read the full article on pushsquare.com
+
+### Guide: These 13+ PS5 and PS Plus Games Are Coming Out This Week (16th-22nd November)
+Mon, 16 Nov 2026 09:00:00 GMT — https://www.pushsquare.com/guides/these-13plus-ps5-and-ps-plus-games-are-coming-out-this-week-16th-22nd-november
+
+GTA 6! GTA 6! GTA 6! Look, I'm gonna be real with you: GTA 6 is coming out this week, and you can tell. Rockstar's juggernaut arrives on PS5 at long last, and it's sent nearly every other game running for the hills. Read the full article on pushsquare.com
 
 ### GTA 6 s 212GB PS5 File Size Prompts Madden NFL 27 to Beg You Not to Delete It
 Sun, 15 Nov 2026 00:00:00 GMT — https://www.pushsquare.com/news/2026/11/gta-6s-212gb-ps5-file-size-prompts-madden-nfl-27-to-beg-you-not-to-delete-it
@@ -97,102 +100,98 @@ Sat, 14 Nov 2026 13:30:00 GMT — https://www.pushsquare.com/news/2026/11/rumour
 
 18 years on from Vegas 2. Ubisoft has just greenlit and entered the early stages of development on a third Rainbow Six: Vegas game, according to a new Insider Gaming report . The outlet, which seems to have been clued up on internal Ubisoft happenings for years, claims the new entry is one of three projects that have just started production at Ubisoft Montreal, and one of the other two is also set in the Rainbow Six universe. Read the full article on pushsquare.com
 
-### Poll: Are You Hyped for November s 10 New PS Plus Games?
-Sat, 14 Nov 2026 13:00:00 GMT — https://www.pushsquare.com/features/poll-are-you-hyped-for-novembers-10-new-ps-plus-games
-
-Plus or minus? I don't want to influence your opinion right out of the gate here, but November's PS Plus Extra lineup will surely go down as one of the service's strongest offerings in recent memory. It's got a bit of everything, but it's also packed with highly rated titles. Death Stranding 2: On the Beach was a Game of the Year contender just 12 months back — a madcap but heartfelt sequel to Kojima Productions' impressively unique 'strand-type' debut. Read the full article on pushsquare.com
-
-### Guide: These 13+ PS5 and PS Plus Games Are Coming Out Next Week (16th-22nd November)
-Sat, 14 Nov 2026 12:00:00 GMT — https://www.pushsquare.com/guides/these-13plus-ps5-and-ps-plus-games-are-coming-out-next-week-16th-22nd-november
-
-GTA 6! GTA 6! GTA 6! Look, I'm gonna be real with you: GTA 6 is coming out next week, and you can tell. Rockstar's juggernaut arrives on PS5 at long last, and it's sent nearly every other game running for the hills. Read the full article on pushsquare.com
-
-### The Excellent Warhammer Survivors Reveals Roadmap Full of Free Updates, Teases Something Big
-Sat, 14 Nov 2026 02:30:00 GMT — https://www.pushsquare.com/news/2026/11/the-excellent-warhammer-survivors-reveals-roadmap-full-of-free-updates-teases-something-big
-
-New characters coming next month. Warhammer Survivors launched just a few days ago, and I think it's an absolutely fantastic take on the criminally addictive Vampire Survivors formula. Imagine my glee, then, to learn that developer Auroch Digital has big plans for the game going forward. Read the full article on pushsquare.com
-
-### DokeV Set for 2028 Launch, But You ll See It Again This Year
-Sat, 14 Nov 2026 02:00:00 GMT — https://www.pushsquare.com/news/2026/11/dokev-set-for-2028-launch-but-youll-see-it-again-this-year
-
-But the Crimson Desert dev is embracing AI. Remember DokeV ? The bizarre Pokémon -esque game announced over five years ago from Pearl Abyss? The developer has gone on to make Crimson Desert , but in a new financial report , it's shared its wild take on Pokémon is still coming. Now its Charting the Unknown expansion for Crimson Desert is out, it's shifting more of its developers onto DokeV, and the firm is targeting a launch in the second half of 2028. Before the end of this year, however, it plans to reveal its latest "development progress". Read the full article on pushsquare.com
-
-### GTA 6 PS5 Codes Potentially Being Stolen from Physical Copies Using Flashlight Trick
-Sat, 14 Nov 2026 01:00:00 GMT — https://www.pushsquare.com/news/2026/11/gta-6-ps5-codes-potentially-being-stolen-from-physical-copies-using-flashlight-trick
-
-Making light work of it. A potentially problematic manufacturing oversight may be resulting in some GTA 6 codes being stolen from retail PS5 cases. Some reports claim that by pointing a strong flashlight at the side of the case, it’s possible to shine light into the empty Blu-ray box in such a way that it makes the code printed on the insert visible. Read the full article on pushsquare.com
-
-### Talking Point: What Are You Playing This Weekend? - Issue 658
-Sat, 14 Nov 2026 00:00:00 GMT — https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-658
-
-The final weekend. This is it, folks: the last WAYP before GTA 6 . Can you believe it? It’s been a long road to this point, but we finally made it. Congrats! Liam Croft I'll be finishing The Legend of Zelda: Ocarina of Time on Switch 2 this weekend. I don't have any nostalgia for the original, so this remake hasn't hit me quite as much as it would a fan, but I can still tell this is something special. I can't even imagine how amazing it must have been to experience at release on the N64. Read the full article on pushsquare.com
-
-### The Game Awards 2026 Nominees to Be Revealed on 17th November
-Fri, 13 Nov 2026 19:30:00 GMT — https://www.pushsquare.com/news/2026/11/the-game-awards-2026-nominees-to-be-revealed-on-17th-november
-
-Livestream will announce the nominees. Geoff Keighley has announced the nominees for all of the categories at The Game Awards will be confirmed next week, on 17th November 2026. A livestream will confirm the game's nominated, with the show itself airing on 10th December 2026. You can tune in for the nominee livestream at 9am PT / 12pm ET / 5pm GMT. Read the full article on pushsquare.com
-
 ## Game Developer
 
-_Nothing in the last 48 hours._
+### Unity's new fellowship program offers cash and dedicated support for indie devs
+Mon, 16 Nov 2026 13:00:00 GMT — https://www.gamedeveloper.com/business/unity-to-support-indies-with-cash-and-dedicated-support-through-new-fellowship-program
+
+Ten selected developers will receive $50,000 as well as 'resources, support, and networks' for the final leg of their development journey.
 
 ## VGC
 
-_Nothing in the last 48 hours._
+### Xbox gem The Chronicles of Riddick: Escape from Butcher Bay was briefly cancelled, but nobody told its developer
+Mon, 16 Nov 2026 12:31:08 +0000 — https://www.videogameschronicle.com/news/xbox-gem-the-chronicles-of-riddick-escape-from-butcher-bay-was-briefly-cancelled-but-nobody-told-its-developer/
+
+Vivendi wanted to scrap the project, but Starbreeze only thought it had been cut on PS2… Source
+
+### Crimson Desert studio Pearl Abyss says it now uses AI across various stages of development
+Mon, 16 Nov 2026 11:17:18 +0000 — https://www.videogameschronicle.com/news/crimson-desert-studio-pearl-abyss-says-it-now-uses-ai-across-various-stages-of-development/
+
+It previously apologised when generative AI artwork was spotted in the game… Source
+
+### Xbox says Project Helix is a console that can play PC games, not a PC that can play console games
+Mon, 16 Nov 2026 09:54:09 +0000 — https://www.videogameschronicle.com/news/xbox-says-project-helix-is-a-console-that-can-play-pc-games-not-a-pc-that-can-play-console-games/
+
+A focus on neural rendering is also intended to offset constantly increasing costs… Source
 
 ## Polygon
 
-### Nintendo Switch 2 Is Finally Getting Capcom’s Fastest-Selling Game Ever
-Sun, 15 Nov 2026 19:00:17 GMT — https://www.polygon.com/monster-hunter-wilds-nintendo-switch-2-release-date/
+### Xbox Head of Next Gen Finally Explains What Project Helix Is: ‘It Is Not a PC’
+Mon, 16 Nov 2026 12:26:06 GMT — https://www.polygon.com/xbox-project-helix-play-pc-games-library/
 
-With the success of Resident Evil Requiem , Pragmata , and Onimusha: Way of the Sword , it's safe to say that Capcom has had a fantastic 2026. And the venerable developer's 2025 wasn't too shabby either. Last February, it released Monster Hunter Wilds for PlayStation 5, Windows PC, and Xbox Series X. It went on to sell a whopping eight million copies in just three days, making it the company's fastest-selling game of all time. As of September 2026, Monster Hunter Wilds has sold 12.2 million copies , making it Capcom's 11th-best-selling game of all time. That number is set to go up significantly after Dec. 4, when it finally launches for Nintendo Switch 2.
+To celebrate 25 years of Xbox , the company released a special publication that let fans look back at its past and glimpse its plans for the future. The digital magazine features a conversation with Jason Ronald, Xbox Vice President of Next Generation, who provides an inside look into the creation of Project Helix, Xbox's next-gen console.
 
-### GTA 6 Trophy Count and Full Completion Time Leaks in New Reports
-Sun, 15 Nov 2026 18:41:30 GMT — https://www.polygon.com/gta-6-platinum-trophy-mythic-achievement-time-to-get/
+### Controversial Call of Cthulhu Game Canceled After Designer's Child Abuse Conviction
+Mon, 16 Nov 2026 12:16:50 GMT — https://www.polygon.com/call-of-cthulhu-old-one-origins-canceled-designer-conviction/
 
-Millions of players will start their adventure in Leonida with the launch of Grand Theft Auto 6 later this week. They're currently preparing themselves and completing the games they've left unfinished so they can dedicate all of their time to GTA 6 soon — especially gamers who have asked for time off from work to play it. But the question on many players' minds is how much time they will need to finish the story and 100% complete it.
+Call of Cthulhu: Old Ones Origins , an asymmetrical tactical board game developed by Chaosium Inc. and based on H.P. Lovecraft's Cthulhu Mythos, has been canceled. On Nov. 15, Chaosium posted a message on the project's updates page on tabletop crowdfunding platform Gamefound explaining that the game's designer, Samuel William Bailey, was convicted in Skagit County, Washington on Friday, Nov. 13, of multiple counts of first-degree rape of a minor and child molestation.
 
-### All map fragment locations in the Fortnite Chapter 7 mini season
-Sun, 15 Nov 2026 18:38:01 GMT — https://www.polygon.com/fortnite-chapter-7-mini-season-c7ms-map-fragment-locations/
+### All active Escape From Tarkov codes and rewards
+Mon, 16 Nov 2026 10:31:13 GMT — https://www.polygon.com/escape-from-tarkov-promo-codes-list-active-expired/
 
-Fortnite 's Chapter 7 mini season , "Treasure Hunters," has added a new collectible to find throughout the season: map fragments . These map fragments will be added periodically during the season, and you'll get a special reward for finding them all.
+Escape From Tarkov promo codes are used in the classic extraction shooter for all sorts of rewards. From in-game gear and weapons to currency, cosmetics, and more, redeeming as many of these Tarkov codes as you can will set you up for your next raid. Especially since these goodies don't actually require a successful extraction to obtain them.
 
-### 8 Must-Play Open-World RPGs for People With Real-Life Schedules
-Sun, 15 Nov 2026 18:00:18 GMT — https://www.polygon.com/open-world-rpgs-real-life-schedules/
+### Critical Role Returns With the Mighty Nein Season 2 in 2027, but Fans Aren’t Happy
+Mon, 16 Nov 2026 10:29:11 GMT — https://www.polygon.com/critical-role-the-mighty-nein-season-2-release-prime-video/
 
-Raise your hand if this has ever happened to you: A friend texts you a screenshot of a map with 400 icons on it and the message “you’re going to love this game.” You’re excited — the map is detailed, the game looks great, and you do love it…for about 10 seconds. Until you check your calendar and remember that you’ve got a dentist appointment, three work deadlines, and a birthday dinner to prepare for, so that map is going to have to stay unexplored for a minute. (My hand is raised.)
+It's always a great time to be a Critical Role fan, and 2027 will be no different, with several new live-play shows and series planned. However, things are about to get even better, thanks to a new announcement made by Critical Role during TwitchCon 2026: The Mighty Nein season 2 will arrive on Prime Video on March 24, 2027.
 
-### The 2026 GOTY Race Could Be a Disaster for Indie Games
-Sun, 15 Nov 2026 17:00:19 GMT — https://www.polygon.com/goty-2026-game-awards-indie-big-walk-ai/
+### 7 Upcoming Sci-Fi Series, Ranked By Hype (2026 and Early 2027)
+Mon, 16 Nov 2026 09:00:17 GMT — https://www.polygon.com/sci-fi-upcoming-series-hype-ranked/
 
-Some quibble with the definition of Clair Obscur , a sizable production, as an indie game. (For what it's worth, the studio that made it is independent, and its publisher Kepler Interactive was founded by a collective of indie studios; it's definitely culturally indie.) But even if you excluded it, this was still the first time more than one game had crossed over between the indie and GOTY categories in the history of the awards.
+Sci-fi is also as versatile as it gets. Shows like Paradise blend action-thriller elements with a puzzle-box narrative that sparks enthusiastic theorycrafting and discussion. There’s also hype surrounding talented showrunners like Vince Gilligan ( Pluribus ) or Jonathan Nolan ( Westworld ), who never fail to push the limits of the genre in intriguing ways. With that in mind, here are seven upcoming sci-fi shows that are highly anticipated for a plethora of reasons, ranked by hype.
 
-### Super Meat Boy Is Officially Getting Remade Without Edmund McMillen's Involvement
-Sun, 15 Nov 2026 16:19:05 GMT — https://www.polygon.com/super-meat-boy-again-announcement/
+### 5 Funniest 'Peanuts' Comics About Dogs
+Mon, 16 Nov 2026 05:00:17 GMT — https://www.polygon.com/5-funniest-peanuts-comics-about-dogs/
 
-Team Meat announced Super Meat Boy Again+ , a remake of the classic indie platformer, during a Sweet 16 Birthday VIP Event on Nov. 14. While the announcement was meant to be celebratory, it has reminded people of the falling out that Super Meat Boy and Mewgenics creator Edmund McMillen has had with Team Meat, as he is not involved in the new project.
+Broadly speaking, there are three types of Peanuts comics. There are the funny ones, the sweet ones, and ones that are both funny and sweet. (And, let’s be honest, there are a good number of boring ones too.) But, very generally speaking, those are the three types of good Peanuts comics : funny, sweet, and the ones that do both of those things.
 
-### ‘Rings of Power’ Stars Break Down 2 Major Deaths in Prime Video’s Lord of the Rings Series
-Sun, 15 Nov 2026 16:00:17 GMT — https://www.polygon.com/rings-of-power-season-3-deaths-interview/
+### Netflix's Award-winning Dark Sci-fi Series is Officially Returning
+Mon, 16 Nov 2026 04:20:17 GMT — https://www.polygon.com/black-mirror-season-8-update-netflix/
 
-The story in Númenor has involved a lot of family drama. Captain Elendil (Lloyd Owen) is one of the leaders of the Faithful, a Númenórean group who believes in preserving the kingdom’s connection to the Elves and the Valar. His daughter Eärien (Ema Horvath) allied herself with Pharazôn and his son, Kemen (Leon Wadham), encouraging her father to renounce his faith and pledge loyalty to the new king. She participated in the arrest of the Faithful’s leaders, though she helped her father escape.
+Get ready for more dystopian science fiction because an eighth season of TV series Black Mirror is in production for Netflix. Variety reports that the show began filming this summer, but has no confirmed release date. Series creator Charlie Brooker is back, and he will write and executive produce the series alongside Bisha K. Ali.
 
-### PlayStation Announces New Black Friday Deals On Hardware
-Sun, 15 Nov 2026 15:56:06 GMT — https://www.polygon.com/playstation-black-friday-hardware-deals/
+### 6 Upcoming Sci-Fi Movies, Ranked by Hype
+Mon, 16 Nov 2026 04:00:17 GMT — https://www.polygon.com/upcoming-sci-fi-movies-ranked-by-hype/
 
-Black Friday is fast approaching, so companies like Sony are already teasing the deals people can look forward to later this month. While PlayStation previously highlighted some of the games that will be discounted, it has now shared its official Black Friday hardware deals for the DualSense controller, PlayStation VR2, and more.
+As studios double down on high-stakes bets, pouring absurd budgets into sprawling worlds and complex narratives like Dune: Part Three and Avengers: Doomsday , speculative fiction remains Hollywood’s ultimate proving ground for event-sized storytelling. To see what’s most exciting on the near horizon, here are the biggest upcoming sci-fi movies ranked by hype.
 
-### Netflix's New 12-Part Sci-Fi Mystery Already Feels Like a Masterpiece Just 3 Episodes In
-Sun, 15 Nov 2026 15:00:17 GMT — https://www.polygon.com/fool-night-netflix-review/
+### Marvel's Official Avengers: Doomsday Prep Launches on Nov. 18
+Mon, 16 Nov 2026 03:09:17 GMT — https://www.polygon.com/avengers-doomsday-marvel-comics-to-read-incursions-secret-wars/
 
-From a surprise collaboration between two iconic anime studios, Sunrise and Shaft, Fool Night imagines a future world where the sun has long disappeared, leaving humanity with the unusual solution of turning volunteer humans into plants for oxygen. It's a bleak setup, made all the more gripping by a visual identity that constantly juxtaposes human decay with budding flora. Netflix only provided us with the first three episodes (out of 12 total) for review, and I'm entirely hooked. Between its sharp character work, unsettling world-building, and melancholic atmosphere, Fool Night is shaping up to be one of the most striking new shows of Fall.
+The Marvel Cinematic Universe's next major event begins in December with the release of Avengers: Doomsday , which will be followed by Secret Wars next year. While trailers have only hinted at what these massive films will have in store for the Avengers, X-Men, Fantastic Four, and more, we know they are heavily inspired by the 2015 Secret Wars event comic . Now Marvel is returning to that era with a new limited series in the lead-up to Doomsday.
 
-### No One Injured After Gunman Opens Fire On Xbox Studio
-Sun, 15 Nov 2026 14:49:51 GMT — https://www.polygon.com/inxile-entertainment-shooting-xbox/
+### All 10 Zelda: Ocarina of Time Bosses, Ranked From Worst to Best
+Mon, 16 Nov 2026 02:49:38 GMT — https://www.polygon.com/legend-zelda-ocarina-time-bosses-ranked/
 
-A gunman opened fire on the Tustin, California building where the Xbox -owned studio inXile Entertainment operates last week. inXile has confirmed that no one was hurt when the incident occurred.
+The Legend of Zelda: Ocarina of Time brought every great aspect back from the original version — including its iconic boss fights. From fire-breathing dragons to giant spiders to wicked witches, Ocarina of Time features a diverse lineup of boss battles that adds to every dungeon's unique charm, making this one of the best games in The Legend of Zelda series.
 
 ## PC Gamer
+
+### WoW: Forever's continued to wrestle with dungeons, as Blizzard admits it briefly 'missed the mark' on hotfixes over the weekend
+Mon, 16 Nov 2026 11:51:12 +0000 — https://www.pcgamer.com/games/world-of-warcraft/wow-forevers-continued-to-wrestle-with-dungeons-as-blizzard-admits-it-briefly-missed-the-mark-on-hotfixes-over-the-weekend/
+
+World of Warcraft: Forever 's been pretty great. At this point, I have around 150 hours played, a terrible posture problem, and a level 47 warrior I just barely avoided doing a 2 am Zul'Farrak run with yesterday. Speaking of, there has been a point of contention: Dungeons. My position on the debate is fairly neutral —I think you could maybe bump up the mob XP by around 10% as a compromise—but overall I think they're fine. The new ones are bangers, and I get a huge bunch of XP from doing them at least once. Blizzard's recent choices, however, did have me scratching my head over the weekend. For a short time, via a hotfix , enemies in dungeons wouldn't give experience points to anyone in the group if they were trivial (that is, greyed out) to at least one party member. On paper, this sounds incredibly reasonable. WoW has suffered from a plague of dungeon boosters (that is, people selling runs of dungeons to let folks AFK through their levelling journey) particularly in Classic. But the moment you take a second to stare at how Classic dungeons are designed, you start to see the cracks form. Uldaman, for instance, has a level range of 41-51 in my dungeon finder. Maraudon, 46-55. Then there's the issue of the Scarlet Monastery, whose entire gauntlet runs from level 30 to 44 and is often done in one big sweep by groups. In other words, it was possible to be maybe a couple levels over the recommended range for a dungeon—which is certainly a great help, but I don't think can be count
+
+### The latest SteamOS update improves support on Nvidia-powered PCs: makes swapping your rig to the OS less painful
+Mon, 16 Nov 2026 11:47:03 +0000 — https://www.pcgamer.com/hardware/steam-machines/the-latest-steamos-update-improves-support-on-nvidia-powered-pcs-makes-swapping-your-rig-to-the-os-less-painful/
+
+The preview version of SteamOS 3.10.0 has just dropped, and with it comes better support for AMD and Nvidia hardware, and it's now based on Linux kernel 7.3. For AMD graphics, the latest SteamOS update adds support for HDMI 2.1 VRR (Variable Refresh Rate), FRL(Fixed Rate Link), and ALLM (Auto Low Latency Mode). This should all contribute to a smoother gaming experience with higher bandwidth video and less input lag. As for Nvidia graphics, it has reportedly received increased stability and performance, alongside support for Mesh Shaders on Turing and newer architectures. The latest SteamOS updates also fixed rendering corruption issues in Shadow of the Tomb Raider and The Surge 2. Then, of course, SteamOS now uses the Linux 7.3 kernel (which launched last month). Those are the big updates from SteamOS 3.10.0, but there are also a handful of fixes and changes. Game Mode has had the following changes: Added support for VK_EXT_present_timing Added support for ASUS ROG Xbox Ally X20 HDR and brightness adjustment Improved frame timing when using the framerate limiter with VRR Improved screen flickering when VRR is enabled while navigating the Steam UI or leaving it idle Improved cursor movement under VRR. It should now match the game's framerate over 30 fps, and stop spiking the panel's refresh rate up to the maximum refresh rate Fixed scaling causing overexposure in certain HDR titles, such as Control Fixed an issue with certain games, such as UBOAT and The Fruit of Grisaia, wher
+
+### Influential Warhammer miniature designer Aly Morrison has died
+Mon, 16 Nov 2026 05:30:39 +0000 — https://www.pcgamer.com/games/board-games/influential-warhammer-miniature-designer-aly-morrison-has-died/
+
+Miniature designer and artist Aly Morrison has died, as confirmed by Trish Carden Miniatures and Design on Facebook . Carden, Morrison's ex-wife and former partner in Marauder Miniatures, posted that, "Mharaid and I are heartbroken to announce the passing of Aly Morrison, a very much loved father, veteran wargames miniatures designer and friend to many around the tabletop and the world. Aly passed unexpectedly but peacefully this Wednesday, and will be sorely missed." Aly Morrison began sculpting for Citadel in 1983 as a freelancer before joining the studio full-time in 1986. He and Trish were then made stewards of Games Workshop's imprint Marauder Miniatures in 1988, where they had free reign to create quirky and characterful figures like the mohawked dwarf trollslayers and the giant with a whaler's beard and a booze barrel strapped to his waist that became archetypal parts of Warhammer. Morrison also crafted the first miniatures for Blood Bowl players and drew the tokens to represent them in the board game's first edition. During his time at Games Workshop every faction from dark elves to space marines eventually benefited from his touch. He's also well-regarded as a painter, and his reliance on a dark wash with a hint of purple in it jokingly known as "Aly's Brown Liquid" was legendary. He continued working on the recipe over the years, with a recent iteration described on his blog in 2020 if you want to whip some up yourself. Though Marauder was eventually folded back int
 
 ### Are you more of an ambient music enjoyer or theatrical atmosphere appreciator?
 Sun, 15 Nov 2026 18:00:00 +0000 — https://www.pcgamer.com/games/world-of-warcraft/are-you-more-of-an-ambient-music-enjoyer-or-theatrical-atmosphere-appreciator/
@@ -239,44 +238,39 @@ Sun, 15 Nov 2026 11:27:41 +0000 — https://www.pcgamer.com/games/strategy/chron
 
 In late October, Chronicles: Medieval developer Raw Power Games announced that it was in trouble . Funding for its ambitious, historical sandbox strategy had suddenly been pulled, and as a result the studio was at "real risk of closing". But it turns out the situation was even more dire than the announcement suggested, as Raw Power Games declared bankruptcy on the same day. Despite this, development of Chronicles: Medieval will continue with at least some of its original creators involved, after Satisfactory developers Coffee Stain swooped in to purchase the assets and IP. In a press release , Coffee Stain said that it submitted the winning bid in Raw Power's sale process following the company's bankruptcy, paying 36.75 million Danish Krone (around $5.42 million) for Chronicles: Medieval's intellectual property. Rather than acquire the assets directly, however, Coffee Stain will transfer them directly to a "newly established company" that is owned 75% by Coffee Stain, and 25% by "a small group of key members of the game's original development team." Alongside paying full purchase price for Chronicles: Medieval's assets, Coffee Stain will also fund the continued development of the game. In a statement, Coffee Stain CEO Anton Westbergh said that "Chronicles: Medieval made a strong impression at its reveal at Summer Game Fest last year. We're happy to step in and help bring it to players after the recent developments in Copenhagen." He also explained that "Things have been movin
 
-### The most annoying questgivers in PC games
-Sun, 15 Nov 2026 07:21:40 +0000 — https://www.pcgamer.com/games/the-most-annoying-questgivers-in-pc-games/
-
-Moira Brown gets a bad rap. Fallout 3's most chipper NPC, the Minnesotan menace is an inventor who sends you out on fact-finding missions to investigate the many dangers of the Wasteland. That means she puts you in harm's way quite a lot, which many players hate her for. Others just hate her voice. I think her positive outlook makes a refreshing change of pace from, you know, everything else going on in Fallout 3. Plus she gives you an armored Vault suit just for starting her questline, and the Wasteland Survival Guide she writes with your help goes on to be a useful item in both New Vegas and Fallout 4. What I'm saying is, there are plenty of videogame questgivers much more annoying than Moira Brown. All of the ones below, for starters. And if you disagree, you're a big meanie. Zero Grand Theft Auto: San Andreas Rockstar loves to make us sit through cutscenes where our protagonist agrees to help out some of the most annoying people alive. Zero isn't alone—in GTA: San Andreas, he's got wannabe MC/janitor OG Loc for competition—but he is the winner for absolute worst. Zero's the owner of a remote-control car shop at war with a rival called Berkley. He's a shrill parody nerd who shrieks dialogue like, "Curse you, Berkley, curse you!" Zero's most annoying mission is Supply Lines, where you pilot a model biplane to shoot Berkley's delivery drivers. The flying controls in San Andreas are terrible enough on their own (the fact it makes you complete pilot school as an unskippable pa
-
-### GTA 6 soundtrack leak confirmed accurate with new songs from Lana Del Rey, Playboi Carti, and Keith Richards
-Sun, 15 Nov 2026 04:52:26 +0000 — https://www.pcgamer.com/games/grand-theft-auto/gta-6-soundtrack-leak-confirmed-accurate-with-new-songs-from-lana-del-rey-playboi-carti-and-keith-richards/
-
-Grand Theft Auto 6 is more leak than ship at this point, with the anonymous individual known as Cyberleek in particular responsible for feeding the hype machine in ways that Rockstar weren't big fans of. The latest leak came from elsewhere, however, via a video of someone handling advance copies of the vinyl soundtrack . The album's track listing is visible, and has been confirmed as accurate by Rolling Stone's sources as well as Billboard's . This is the soundtrack rather than the score, which will be by Justice—the French electronic duo responsible for the excellent 2007 electro house album Cross—though they do feature here a couple of times as well. Their songs Flower in a Hurricane (with Tame Impala, SZA, and King Gizzard & the Lizard Wizard) and Starting from Zero (with Michael McDonald of the Doobie Brothers and Steely Dan) are both on side A. Here's the full tracklist. Side A Starting from Zero – Justice feat. Michael McDonald That's It – Yung Lean feat. Future and Metro Boomin Ahh Yea – Playboi Carti Rhyno – Travis Scott Sexy Magic – Ca7riel & Paco Amoroso, PinkPantheress, Fred Again & Étienne de Crécy Flower in a Hurricane – Justice feat. Tame Impala, SZA & King Gizzard & the Lizard Wizard Go Easy – Dua Lipa Last Thing You Need – Morgan Wallen Side B X – Jhayco Suzuki – Fuerza Regida Macacoa 2000 – Rauw Alejandro Dance With Me – A Boogie wit da Hoodie feat. Elkan Bigger – Burna Boy Count Up – Gunna Let's Rock – Kodak Black & Don Toliver Wakin Up Flex – Young Thug IKY
-
-### Planeswalker, Netflix's Magic: The Gathering animated series, will have a different art style for each plane
-Sat, 14 Nov 2026 23:50:31 +0000 — https://www.pcgamer.com/movies-tv/planeswalker-netflixs-magic-the-gathering-animated-series-will-have-a-different-art-style-for-each-plane/
-
-Netflix's Magic: The Gathering series was initially announced in 2019 with the MCU's Russo Brothers at the helm, though they left a couple of years later thanks to the all-purpose "creative differences". That was all we heard until 2024 until Brandon Routh, who had been cast as planeswalker Gideon Jura, casually mentioned in an unrelated interview that the project had been binned. Netflix announced soon after that actually the animated series was a go, now with Terry Matalas of Star Trek: Picard and the 12 Monkeys TV series as its head showrunner, with a teaser image showing pyromancer Chandra and leonin Ajani Goldmane silhouetted against a red sky. Now, a mere seven years after the first reveal, there's a "sneak peek" trailer with a bunch of excited Wizards of the Coast staff, art labeled "early development", and a few seconds of Ajani and Chandra doing their stuff. The most intriguing part is when, over a montage of 3D props including a car that looks like an art deco Batmobile from New Capenna, executive producer and supervising director Patrick Osborne says, "All the planes exist in their own pocket universe. That comes with culture, design language, architecture, and we're even making the film-making style different depending on where it is." That's a good idea. An animated series with different art styles for each plane the characters travel to would be a great way of representing Magic, a card game where every artist gets to put their own spin on how things look. "Each
-
 ## GameSpot
+
+### GTA 6 Twitch Drops Are Coming Soon, Here s How To Get Your Free Rewards
+Mon, 16 Nov 2026 12:14:18 +0000 — https://www.gamespot.com/articles/gta-6-twitch-drops/
+
+While you might be tempted to take a spin through Grand Theft Auto 6 right now, you might want to hold your horses and watch some gameplay instead. Over on Twitch, the streaming platform is hosting a GTA 6 promotion that can earn you some cool Twitch cosmetics and goodies ahead of your trip to Vice City. Here's a closer look at what you can get, and which streamers you'll have to watch to unlock them. How to access GTA 6 Twitch drops Once you're all set up, tune in to any Twitch Drop-enabled livestream during a live Twitch Drops period-- November 18-30 --and watch for a minimum of 60 minutes on a day to earn a chain badge from the GTA DVD Chest. How to get GTA 6 Twitch drops If you watch on six days, you'll unlock all six badges: Purple, Bronze, Silver, Gold, Diamond, and Miami Chain. Each new or gifted subscription to a participating GTA 6 streamer will also unlock a GTA-themed sub badge and an emote, so you'll need three subs to unlock all six. Prime subs don't count . Once you've collected all 12 badges, you'll unlock the Golden Iguana chat badge. What GTA 6 Twitch drops can I earn? One important thing to note is that these will be Twitch-exclusive drops, not in-game items for GTA 6. But if you want to assemble the collection of rewards, here's what you can get: Daily Chests — GTA DVD Chest (Six Chain Badges) Purple Chain: Unlocked after watching 1 day of GTA 6 during launch week Bronze Chain: Unlocked after watching 2 days of GTA 6 during launch week Silver Chain: Unlocke
+
+### Xbox Project Helix Is A Console That Plays PC Games, Not The Other Way Around
+Mon, 16 Nov 2026 10:48:53 +0000 — https://www.gamespot.com/articles/xbox-project-helix-is-a-console-that-plays-pc-games-not-the-other-way-around/
+
+Xbox has revealed more details about its next-gen device, Project Helix , describing it as a "console capable of playing games from your PC." Prominently featured in the Xbox 25th Anniversary Magazine , VP of next-gen Jason Ronald said the Xbox Series X|S successor is designed to build on the successes — and hard lessons — of previous Xbox generations, with fewer barriers to play. "When we think about Project Helix, it's really designed to be the ultimate gaming machine--one that removes all the barriers of play that have historically existed," Ronald said. "My entire library is accessible to me. I'm able to bring four generations of my Xbox library and progression with me and have it available instantly. And we remove the arbitrary constraints between console and PC games." Ronald added that the Project Helix family of devices isn't purely focused on traditional next-gen themes like better graphics, but on thinking ahead to create "innovative" experiences. "We don't think the next generation is defined by 8K, or 240 hertz, or some of the traditional metrics--it's really about gameplay innovation," Ronald explained. "We're very clear on the design goal: Helix is designed to be a console that is also capable of playing games from your PC. It is not a PC that can also play console games. The goal is making it easy, intuitive, and instant to access my games. But if you're a hardcore gamer or a power user who wants to have that deeper level of customizability across settings and 
 
 ### GTA 6 Is Like The Olympics A Rare Cultural Moment With Massive Ripple Effects
 Sun, 15 Nov 2026 03:00:00 +0000 — https://www.gamespot.com/articles/gta-6-is-like-the-olympics-a-rare-cultural-moment-with-massive-ripple-effects/
 
 After years of development, multiple delays, and what can only be assumed to be one of the biggest production budgets ever, Rockstar's Grand Theft Auto 6 launches on November 19. The game is poised to "blot out the sun," some experts believe, and its release looms so large that other gaming companies are shifting dates for their own games to stay out of the blast radius. Francis Lawrence, the director of the new Hunger Games movie Sunrise on the Reaping, which comes out a day after GTA 6, has said he hopes people can find the time to play the game and watch his movie . In short, GTA 6 is seen by some as a black hole that will suck up time, attention, and money from the broader gaming economy--and even workplaces, as people dive into the 80-hour game they've been waiting a decade to play. To help make sense of, and contextualize, the enormity of GTA 6's looming launch, GameSpot caught up with Bart Spiegel of the global professional services and research company PricewaterhouseCoopers, or PwC. He told GameSpot that GTA 6 is "something much bigger than a traditional entertainment launch," and is more akin to an event like the Olympics. He believes GTA 6 is a "rare cultural moment" that "commands extraordinary attention and creates economic activity well beyond the event itself." Jason pumping some iron in GTA 6. Spiegel said he foresees potential shifts beyond gaming, in places like TV viewership, music consumption, social media engagement, and even travel. "In an increasingly f
 
-### Physical GTA 6 Copies Might Be Vulnerable To A Very Stupid But Serious Trick
-Fri, 13 Nov 2026 21:03:51 +0000 — https://www.gamespot.com/articles/physical-gta-6-copies-might-be-vulnerable-to-a-very-stupid-but-serious-trick/
-
-Grand Theft Auto 6 ditched traditional discs for its "physical" launch, with Rockstar's game being sold as a digital code-in-box at retailers beginning this week. However, it appears a packaging choice may have accidentally left the game vulnerable to thieves--assuming they have a flashlight. As shared on the forum ResetEra , users who received a physical version of Grand Theft Auto 6, at least in PEGI regions, report that the game's download code is printed directly on the inside of the cover rather than on a card or separate insert. When a flashlight is focused on the cover from the outside of the closed game case, the download code is visible in reverse. https://www.youtube.com/watch?v=F7LIovDySBg&t=33s In other words, there's a serious risk people could go into a store, do this trick, redeem the code, and leave the poor soul who actually buys the game off the shelf without GTA 6. At this time, the trick does not seem to work on North American copies of GTA 6, as the code is intentionally obscured. Why Rockstar would not use this strategy on all regions is unclear. We've reached out to Rockstar for an explanation and will update this post if and when we receive a response. If you happen to get your GTA 6 code stolen after paying $80 , you can at least sleep soundly knowing that the thief can't play the game yet. Code-in-box copies, as well as digital preorders, all unlock for PS5 and Xbox Series X|S on November 19.
-
-### GTA 6 Owner Take-Two Is Not Interested In Selling Itself After EA Goes Private For $55 Billion
-Fri, 13 Nov 2026 21:02:34 +0000 — https://www.gamespot.com/articles/gta-6-owner-take-two-is-not-interested-in-selling-itself-after-ea-goes-private-for-55-billion/
-
-Recently, the gaming giant Electronic Arts was taken private in a $55 billion sale to an investor consortium led by Saudi Arabia's Public Investment Fund. Could GTA 6 owner Take-Two be the next big company that gets acquired? Don't bet on it, CEO Strauss Zelnick says. Speaking to David Rubenstein , Zelnick said Take-Two's business results have proven that it "can do very well as an independent company." He said Take-Two's business is already "at scale" and healthy enough financially with a "terrific balance sheet," as he put it. "We are not in a place where we need to be part of a bigger organization to be competitive. And in the entertainment business, scale matters," he said. Zelnick said companies that do less than a billion in annual revenue might have issues with developing, marketing, and distributing games at scale. Not only that, but companies that don't generate a lot of money might not be able to survive the realities of the creative business, in which sometimes your product flops. "But once you're over a billion dollars in annual revenue, and we're way beyond that point. Our guidance is $8 billion to $8.2 billion this fiscal year, additional scale doesn't seem to help you succeed." https://www.youtube.com/watch?v=TsYSPTfFQWg In early 2008, Electronic Arts privately pursued a buyout of Take-Two, but after the GTA and BioShock company rejected it, EA went public in an attempt to get a deal done. Later that year, EA abandoned its plans to try to buy Take-Two after the
-
-### GTA 6 Could Sell 55 Million Copies By Early Next Year, Report Says, And Average Selling Price Could Be $90
-Fri, 13 Nov 2026 19:36:04 +0000 — https://www.gamespot.com/articles/gta-6-could-sell-55-million-copies-by-early-next-year-report-says-and-average-selling-price-could-be-90/
-
-Rockstar's Grand Theft Auto 6 launches on November 19, and it's expected to be a gigantic commercial success, but just how big will the launch be? Investor's Business Daily compiled data from a series of analyst reports about the game and its owner, Take-Two, and the consensus is that it's going to be a juggernaut. In terms of sales, Brian Pitz of BMO Capital Markets said GTA 6 could sell 55 million copies during Take-Two's fiscal 2027, which ends on March 31, 2027. He said the game could sell 45 million units alone during the game's launch quarter, which is well ahead of the estimates of 34.2 million that IBD compiled. "This is an outlier in every respect," Circana's Mat Piscatella told the publication. "There have been some big game launches in the past, but nothing quite at this scale, not only in terms of the investment, but in terms of the anticipation. It's in its own league." GTA 6 is launching with an $80 standard edition and a $100 Ultimate Edition. Raymond James analyst Andrew Marok said he's forecasting 50 million unit sales for the fiscal year 2027, and that the blended average selling price will be close to $90. According to Sensor Tower, early data suggested preorders were skewing toward the $100 edition, but by launch, it could be around 50/50 . Matthew Cost of Morgan Stanley, meanwhile, said if GTA 6 does indeed have strong sales out of the gate, this could create a "large potential audience" for the next iteration of GTA Online . Rockstar has not said anythin
-
 ## Rock Paper Shotgun
+
+### This week in PC games: start a new life in Vice City, escape a dying universe before the last black hole evaporates, and avenge your pigeon with a sledgehammer
+Mon, 16 Nov 2026 12:54:10 +0000 — https://www.rockpapershotgun.com/this-week-in-pc-games-start-a-new-life-in-vice-city-escape-a-dying-universe-before-the-last-black-hole-evaporates-and-avenge-your-pigeon-with-a-sledgehammer
+
+Happy this week, all! Please throw yourself upon the floor in consternation, clawing at your face and hair, for the release of Grand Theft Auto 6 is nigh. In just a few short days, every gaming vertical under the sun will be publishing features about the exact depth of Jason Duval's ripped abs and what this Says About America Today, or how many bottle caps you must gather to unlock Lucia Caminos' Gundam mode. Fortunately for my sanity, Rockstar's crime colossus isn't yet nigh on PC, though the word is that modders driven nuts by Claude will soon be along with an unofficial "port" . As such, while we do have a few Grandiosely Thievish articles in store this week &ndash; not least, coverage of the on-going unionisation situation at Rockstar &ndash; we can afford to spend a few hours writing about non-GTA things. The appraisal of mushrooms, for example, or the solubility of rubber hosing, or the parrying of spells. Without further ado, here's this week's uncommonly flavourful crop of new PC games. Don't worry, dear Maw. You'll get to eat Jason eventually. Read more
+
+### "Nobody was hurt" in shooting near Clockwork Revolution devs InXile Entertainment's office, the Xbox-owned studio and police confirm
+Mon, 16 Nov 2026 12:10:50 +0000 — https://www.rockpapershotgun.com/nobody-was-hurt-in-shooting-near-clockwork-revolution-devs-inxile-entertainments-office-the-xbox-owned-studio-and-police-confirm
+
+"Nobody was hurt" in a shooting last week near the California office of Clockwork Revolution developers InXile, both the studio and local police have confirmed. The incident, which took place on November 11th, is currently being investigated and police have reportedly taken a suspect into custody. Read more
+
+### "We've finally reached this milestone": Cyberpunk 2077 multiplayer mod CyberMP kicks off open beta after around six years preparing for cybermayhem
+Mon, 16 Nov 2026 10:28:20 +0000 — https://www.rockpapershotgun.com/weve-finally-reached-this-milestone-cyberpunk-2077-multiplayer-mod-cybermp-kicks-off-open-beta-after-around-six-years-preparing-for-cybermayhem
+
+After a couple of years of regular testing behind closed doors, Cyberpunk 2077 multiplayer mod CyberMP is now out in open beta, giving anyone who fancies a bit of multi-merc action a chance to give it a go. Though, if you do, be prepared for bugs and crashes, as work on the mod is far from over with the release of this "true beta". Read more
 
 ### The Sunday Papers
 Sun, 15 Nov 2026 13:00:00 +0000 — https://www.rockpapershotgun.com/the-sunday-papers-836
@@ -307,9 +301,4 @@ Earlier this year in a bit of a shakeup for the fleshiest kid in town, Super Mea
 Sat, 14 Nov 2026 16:53:00 +0000 — https://www.rockpapershotgun.com/missed-something-on-your-first-go-around-the-blood-of-dawnwalker-ive-got-good-news-as-next-weeks-update-adds-in-new-game-plus
 
 A big part of the point of The Blood of Dawnwalker is that you're on a fixed time limit. You've got 30 in-game days and nights to try and save your family, and if you don't manage to see everything the game has to offer, well, the game's director is fine with that . But that doesn't matter as much now, as The Blood of Dawnwalker is getting its 1.2 update next week that adds in a new game plus mode. Read more
-
-### What are we all playing this weekend?
-Sat, 14 Nov 2026 08:00:00 +0000 — https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-408
-
-Ah, yes, Saturday. Traditionally a day for relaxing. Why is it then I'm packing, doing last-minute shopping, and going to a wedding all in the space of eight hours? Because, Julian, you are a fool who, as ever, has left everything far too late. What about the team, though. I imagine they've managed their time much better. Read more
 
