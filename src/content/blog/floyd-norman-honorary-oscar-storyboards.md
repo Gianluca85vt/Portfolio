@@ -38,6 +38,11 @@ Scott, accepting his, dedicated it to his late brother Tony.
 
 ## The departments that went away
 
+<figure>
+  <img src="/img/blog/floyd-norman-honorary-oscar-storyboards/shot-02.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>Floyd Norman, photographed by Gage Skidmore, via Wikimedia Commons (CC BY-SA)</figcaption>
+</figure>
+
 Here is what those four decades did to a cel studio.
 
 Inbetweening was the largest body of headcount in the building. A lead animator
