@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Witch Watch ends at chapter 270">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0.65" y2="1">
+      <stop offset="0" stop-color="#18011F"/>
+      <stop offset="0.62" stop-color="#4A2E12"/>
+      <stop offset="1" stop-color="#C8891B"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <text x="90" y="150" fill="#C8891B" font-family="Helvetica,Arial,sans-serif" font-size="30" font-weight="700" letter-spacing="7">WITCH WATCH</text>
+  <text x="90" y="330" fill="#FFFFFF" font-family="Helvetica,Arial,sans-serif" font-size="210" font-weight="700">270</text>
+  <text x="90" y="400" fill="#F3E7D2" font-family="Helvetica,Arial,sans-serif" font-size="42" font-weight="600">chapters, then the end</text>
+  <text x="90" y="470" fill="#D8C6A8" font-family="Helvetica,Arial,sans-serif" font-size="32">Season 2 arrives in 2027 — with the manga finished</text>
+</svg>
