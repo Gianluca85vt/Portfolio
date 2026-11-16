@@ -1709,5 +1709,11 @@
     "facebookError": "1098893486828059/feed -> HTTP 400 Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.",
     "instagramError": "17841448932903051/media -> HTTP 400 Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.",
     "bluesky": "at://did:plc:jphedra6dqvi3ylpnenvbsch/app.bsky.feed.post/3n2eq3nrow227"
+  },
+  "witch-watch-manga-ends-season-2-2027": {
+    "at": "2026-11-16T07:18:49.728Z",
+    "facebookError": "1098893486828059/feed -> HTTP 400 Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.",
+    "instagramError": "17841448932903051/media -> HTTP 400 Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.",
+    "bluesky": "at://did:plc:jphedra6dqvi3ylpnenvbsch/app.bsky.feed.post/3n2fyfjpupz2k"
   }
 }
