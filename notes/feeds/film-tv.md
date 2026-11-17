@@ -1,170 +1,170 @@
-# Film & TV — harvested 2026-11-16T23:01:20.270Z
+# Film & TV — harvested 2026-11-17T13:51:18.717Z
 
 ## Variety
 
-### Spider-Man: Brand New Day Extended Cut Sets December Release Date in Theaters
-Mon, 16 Nov 2026 23:00:00 +0000 — https://variety.com/2026/film/news/spider-man-brand-new-day-extended-cut-release-date-1236949654/
+### ‘No Me Without You’ Director Janno Jürgens Dives Into the Complex Love-Hate Relationship Between Sisters in the Tallinn World Premiere
+Tue, 17 Nov 2026 13:22:38 +0000 — https://variety.com/2026/film/global/no-me-without-you-janno-jurgens-sisters-clip-tallinn-1236941157/
 
-The re-release of Spider-Man: Brand New Day, which features footage previously left on the cutting room floor, hits theaters on Dec. 4. Tickets go on sale Nov. 19. News that Brand New Day was returning to theaters with an extended cut first broke in late September. Details about what s in the additional scenes remain under [ ]
+“No Me Without You” director Janno Jürgens became fascinated by the love-hate relationship between sisters. “There’s something deeply primal about it,” he said. “A sister or brother can be the person closest to you, but also your very first rival. You share your parents, your home, your childhood and your memories with them, but you [ ]
 
-### NAZA Filmmakers Grateful for Light Being Shone on Their Film Through Awards Conversation but Prioritize Impact: It s a Small Cog in a Machine of Resistance’
-Mon, 16 Nov 2026 22:32:38 +0000 — https://variety.com/2026/film/global/naza-yuval-abraham-james-wilson-awards-impact-idfa-1236949104/
+### Channel 4 Boss Quizzed Over Russell Brand, Married at First Sight Scandals by U.K. MPs: Internal Investigation Called Shambolic and a Whitewash
+Tue, 17 Nov 2026 12:55:36 +0000 — https://variety.com/2026/tv/global/channel-4-priya-dogra-russell-brand-married-at-first-sight-1236950098/
 
-Over the last few years, leading documentary festival IDFA has become a crucial stop on the awards season trail, with major streamers and key studios courting voters in Amsterdam’s imposing 17th-century canalside houses and theaters. One of the key titles in this year’s best documentary race, however, has foregone glitzy cocktails and receptions in favor [ ]
+Channel 4 boss Priya Dogra has been quizzed by British MPs over the proliferation of sexual abuse scandals currently plaguing the local television industry. Dogra, who joined Channel 4 last December, was cross-examined at a Department for Culture, Media and Sport meeting Tuesday morning alongside the network’s chair Geoff Cooper. Committee chair Caroline Dinenage opened [ ]
 
-### The Next Bond Girl: From Zendaya to Florence Pugh, 19 Actresses Who Could Join Robert Pattinson
-Mon, 16 Nov 2026 21:31:29 +0000 — https://variety.com/lists/bond-girl-predictions-robert-pattinson-007/
+### Johnny Depp s Ebenezer Conquers U.K., Ireland Box Office as Ramayana Stays in Top Three
+Tue, 17 Nov 2026 12:20:59 +0000 — https://variety.com/2026/film/box-office/johnny-depp-ebenezer-ramayana-uk-ireland-box-office-1236950157/
 
-The name is Pattinson, Robert Pattinson, but who will be his first Bond Girl? Amazon MGM Studios has made it official, naming the 40-year-old Brit the next James Bond in the exclusive franchise, with Denis Villeneuve helming the next film from a script by Steven Knight and Amy Pascal and David Heyman producing. But 007 [ ]
+Paramount s gothic reimagining Ebenezer, directed by Ti West and starring Johnny Depp as Ebenezer Scrooge alongside Rupert Grint, Andrea Riseborough, and Ian McKellen, debuted at the summit of the U.K. and Ireland box office, collecting £3.9 million ($5.2 million). Entertainment Film Distributors biographical drama I Play Rocky, directed by Peter Farrelly and starring Anthony Ippolito, [ ]
 
-### Variety’s 10 Comics to Watch Bring Stand-Up, Sketch and Songs to Hilarious New York Comedy Festival Showcase
-Mon, 16 Nov 2026 21:27:07 +0000 — https://variety.com/2026/tv/news/variety-10-comics-to-watch-new-york-comedy-festival-showcase-1236947445/
+### Jane Lynch Wants to Return for Glee Reboot: I Would Love to Do Sue Sylvester for the Rest of My Life
+Tue, 17 Nov 2026 12:01:01 +0000 — https://variety.com/2026/tv/news/jane-lynch-return-glee-reboot-sue-sylvester-1236950133/
 
-Variety’s 10 Comics to Watch for 2026 brought laughter, cheers and ’90s rock parodies to the New York Comedy Festival on Thursday. The comedians, who represent the funniest and most exciting rising voices in comedy, each performed a seven-minute set for a lively audience at the Venue on Music Row at the Hard Rock Hotel [ ]
+Sue Sylvester may soon be terrorizing the students of William McKinley High School once again — that is, if Jane Lynch has anything to do with it. After the Glee reboot was officially greenlit last month at Disney+ and Hulu, speculation started swirling about who from the original cast might return. During an appearance on [ ]
 
-### Reasonable Doubt Renewed for Season 5 Ahead of Season 4 Finale
-Mon, 16 Nov 2026 21:07:57 +0000 — https://variety.com/2026/tv/news/reasonable-doubt-renewed-season-5-season-4-finale-1236949562/
+### Schiwago Film Boards ‘Southwest, and Anatol, Readies Tallinn Bow of ‘The Matriarch’ (EXCLUSIVE)
+Tue, 17 Nov 2026 11:49:48 +0000 — https://variety.com/2026/film/global/schiwago-film-southwest-anatol-tallinn-the-matriarch-1236942415/
 
-Reasonable Doubt has been renewed for Season 5 at Hulu and Onyx Collective, Variety has confirmed. The news comes just ahead of the legal drama s Season 4 finale, which is scheduled to air on Nov. 24. With the release of its fifth season, Reasonable Doubt will be one of the longest-running scripted shows on Hulu [ ]
+German production company Schiwago has boarded adventure film “Southwest” by Ika Künzel and Wolfgang Fischer, set to be shoot in Namibia. The duo is also behind “Styx.” Schiwago Film will also produce “Anatol” by Lukas Nathrath, his second feature after “One Last Evening,” and Lisa Charlotte Friederich’s “The Good German.” “We have a pretty exciting [ ]
 
-### The Brit List: Coming-of-Age Drama and Cornwall Crime Series Top 2026 Lineup of Best Unproduced Scripts
-Mon, 16 Nov 2026 20:47:17 +0000 — https://variety.com/2026/film/global/the-brit-list-2026-lineup-best-unproduced-film-tv-scripts-1236949412/
+### Disney+ and Hulu App Merger Slated to Be Complete in December
+Tue, 17 Nov 2026 11:38:41 +0000 — https://variety.com/2026/tv/news/disney-hulu-app-merger-completed-in-december-1236949981/
 
-The Brit List, the annual list of unproduced British film and TV screenplays, has revealed its 2026 lineup. Compiled from recommendations by the British industry, 13 projects — each requiring a minimum of 10 recommendations — made it onto this year s list. Leading the pack were Gemma Addy s coming-of-age drama feature Dig for Victory and Archie Thomson s [ ]
+Disney s years-long effort to unify the Disney+ and Hulu apps is nearly complete, Mouse House execs said, as the company looks to concentrate its streaming firepower on the Disney+ platform. The company made the announcement in reporting earnings for the September 2026 quarter. Beginning this December, Disney+ and Hulu bundle subscribers will have a fully [ ]
 
-### Terminal List Prequel Series Cry Havoc in Development at Amazon
-Mon, 16 Nov 2026 20:30:00 +0000 — https://variety.com/2026/tv/news/terminal-list-prequel-series-cry-havoc-amazon-1236949306/
+### Disney Quarterly Revenue Rises 16% and Profit Doubles; Company Forecasts $3 Billion in Annual Cost Savings by 2029 Including Through Layoffs
+Tue, 17 Nov 2026 11:38:18 +0000 — https://variety.com/2026/tv/news/disney-q4-2026-earnings-3-billion-cost-savings-by-2029-layoffs-1236949553/
 
-Amazon Prime Video is doubling down on The Terminal List franchise, with the streamer developing a series based on Jack Carr s prequel novel Cry Havoc. The Terminal List is based on Carr s James Reece novels, while Cry Havoc follows Reece s father Tom Reece during the latter s time as a Navy SEAL during the Vietnam war. [ ]
+Disney had a robust quarter, topping Wall Street expectations on the top and bottom lines. But CEO Josh D Amaro, who s been in the job for eight months, sees an opportunity for the company to become even more efficient and help fuel future growth. For the three months ended Oct. 3, 2026, which is Disney s fourth [ ]
 
-### Robert Pattinson Said in 2012 That He d Definitely Want to Be James Bond in Like 20 Years When He s Not So Fresh-Faced
-Mon, 16 Nov 2026 20:23:47 +0000 — https://variety.com/2026/film/news/robert-pattinson-james-bond-interview-2012-1236949282/
+### Christopher Hampton on AI – ‘I’m More Interested in Real Intelligence – and Dos and Don’t’s of Screenwriting
+Tue, 17 Nov 2026 11:25:46 +0000 — https://variety.com/2026/film/global/christopher-hampton-ai-glenn-close-dos-donts-screenwriting-1236950116/
 
-Fourteen years before his official casting as James Bond, Robert Pattinson expressed interest in playing cinema s most famous secret agent. The actor was speaking to the U.K. online publication Shortlist (via People) in the summer of 2012, a few months ahead of both his swan song as Edward Cullen in The Twilight Saga: Breaking Dawn [ ]
+“The least they could do,” Sir Christopher Hampton said about Glenn Close’s Honorary Oscar at the Tallinn Film Festival where at a masterclass, “From Stage to Screen, The Art of Adaptation,” the two-time Oscar winner delivered sometimes trenchant takes on AI – ‘I’m more interested in real intelligence – and how screenwriting was like gambling [ ]
 
-### Gwen Stefani Will Celebrate Orange County Roots by Performing at Grand Opening of OCVIBE s 5,000-Seat Concert Hall This Spring
-Mon, 16 Nov 2026 19:22:35 +0000 — https://variety.com/2026/music/news/gwen-stefani-ocvibe-concert-hall-anaheim-grand-opening-1236949277/
+### Brad Pitt Pitches Himself to Be Robert Pattinson s Bond Villain: Sign Me Up
+Tue, 17 Nov 2026 11:11:26 +0000 — https://variety.com/2026/film/global/brad-pitt-robert-pattinson-bond-villain-1236950118/
 
-Gwen Stefani used part of her induction speech for Billy Idol at the Rock Roll Hall of Fame ceremony Saturday night to recall how she used to listen to the rocker on the bus on the way to Huntington Beach. She ll be returning to Orange County to do what counts as a hometown show [ ]
+Now that Robert Pattinson has been revealed as the next James Bond, all eyes are on who will be cast as 007 s arch nemesis — and Brad Pitt is putting himself up for the job. At the premiere of his new film The Further Mis-Adventures of Cliff Booth on Monday night, the Oscar winner reacted [ ]
 
-### Netflix Orders Harlan Coben Limited Series The Innocent From I Will Find You Team
-Mon, 16 Nov 2026 19:00:00 +0000 — https://variety.com/2026/tv/news/netflix-harlan-coben-the-innocent-i-will-find-you-1236949157/
+### Emile Hirsch to Star in Texas-Set Thriller The Violet Crown (EXCLUSIVE)
+Tue, 17 Nov 2026 11:10:58 +0000 — https://variety.com/2026/film/global/emile-hirsch-to-star-in-texas-thriller-the-violet-crown-1236950106/
 
-Netflix has ordered the limited series The Innocent based on the Harlan Coben novel of the same name. The announcement came as part of Netflix s inaugural appearance at the Texas Book Festival in celebration of the streamer s many book-to-screen adaptations. Coben is a massive part of that side of Netflix s business, with The Innocent representing [ ]
+Emile Hirsch is to star in the Texas-set thriller The Violet Crown, which begins production in Mississippi and Texas in January. Aaron Harvey ( The Neighbor, Into The Ashes ) directs from an original screenplay penned by Mark Freiburger ( Between Borders ). Harvey’s latest film, Come With Me, starring Theo Rossi and Ron Perlman, premiered to solid reviews [ ]
 
 ## The Hollywood Reporter
 
-### Spider-Man: Brand New Day Set for December Rerelease With New Scenes
-Mon, 16 Nov 2026 23:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-rerelease-theaters-rosario-dawson-1236756620/
+### Fubo Widens Quarterly Loss on Higher Revenue, Gets to 5.75 Million North America Subscribers
+Tue, 17 Nov 2026 12:49:44 +0000 — https://www.hollywoodreporter.com/business/business-news/fubo-loss-higher-revenue-subscribers-results-disney-hulu-1236757034/
 
-Rosario Dawson's Night Nurse is among the highlights of the previously unseen footage for the extended cut, titled 'Spider-Man: [Brand New] Brand New Day.'
+The sports-focused streamer unveiled moves after merging with Walt Disney’s Hulu+ live TV business and under new CEO Alisa Bowen.
 
-### James Bond Fans Already Complaining About Robert Pattinson: “Not Alpha Male
-Mon, 16 Nov 2026 22:29:40 +0000 — https://www.hollywoodreporter.com/movies/movie-news/james-bond-robert-pattinson-fan-reaction-1236756578/
+### Disney Expects to Increase Annual Content Spend to $26 Billion Next Year
+Tue, 17 Nov 2026 12:48:05 +0000 — https://www.hollywoodreporter.com/business/business-news/disney-2027-content-spend-soars-1236756625/
 
-As is the ritual, the new Bond choice is getting gripes from franchise fans: "I've seen sexier potatoes."
+The increase in spending is due to more international fare, sports rights, and the timing of feature film production.
 
-### The Traitors Star Ben McDonnell on New Blood Set Secrets and Alan Cumming: You Can Never Break Character
-Mon, 16 Nov 2026 21:30:17 +0000 — https://www.hollywoodreporter.com/tv/tv-features/the-traitors-new-blood-ben-mcdonnell-alan-cumming-1236756519/
+### From Venice Winner Woman Unknown and Westeros to Star City : Meet Some of the Baltic Craft Specialists Who ve Worked on Int l Productions
+Tue, 17 Nov 2026 12:30:00 +0000 — https://www.hollywoodreporter.com/news/general-news/stranger-things-westeros-woman-unknown-baltic-film-tv-craft-1236756998/
 
-The gay cowboy from the first-ever all-civilian season that aired on NBC shares his own secrets — like being an actor and never breaking character — and what it's really like to film on the Emmy-winning Scottish castle set.
+The Baltic countries of Lithuania, Latvia and Estonia are in focus at the 25th Industry@Tallinn Baltic Event market, part of the Tallinn Black Nights Film Festival.
 
-### Fourth Terminal List Show in the Works at Prime Video
-Mon, 16 Nov 2026 20:36:32 +0000 — https://www.hollywoodreporter.com/tv/tv-news/fourth-terminal-list-show-development-prime-video-1236756502/
+### Robert Pattinson s Bondmaxxing: How 007 Still Has Pop Culture in a Vice Grip
+Tue, 17 Nov 2026 12:18:41 +0000 — https://www.hollywoodreporter.com/movies/movie-news/robert-pattinson-james-bond-memes-culture-gen-z-reaction-1236756996/
 
-This one is based on Jack Carr's Vietnam-set novel 'Cry Havoc.'
+R-Patz mogged the British public as his Bond poster hit London's most iconic billboard on Monday. With the franchise officially entering its aura-farming era, we take a look at the frenzied online reaction.
 
-### Brit List 2026: Cornwall Outlaw Series, Coming-of-Age Film Top List of Unproduced Film, TV Scripts
-Mon, 16 Nov 2026 20:00:00 +0000 — https://www.hollywoodreporter.com/news/general-news/brit-list-2026-best-unproduced-scripts-film-tv-disney-plus-1236754795/
+### Niv Fichman’s Rhombus Media Sells to Skywild Pictures (Exclusive)
+Tue, 17 Nov 2026 12:00:00 +0000 — https://www.hollywoodreporter.com/business/business-news/niv-fichmans-rhombus-media-1236756242/
 
-Read up on the feature script 'Dig for Victory' by Gemma Addy; 'Petroc,' a series from Archie Thomson ('California Schemin''); and 11 other hot Brit scripts on the list, whose new headline sponsor is Disney+.
+The ‘Blackberry’ and 'The Sympathizer' producer will stay on with the enlarged indie Canadian producer led by Angela Jennings after a nearly-50 year career shaping Canadian cinema.
 
-### How Twilight Predicted Robert Pattinson s James Bond Casting
-Mon, 16 Nov 2026 19:33:42 +0000 — https://www.hollywoodreporter.com/movies/movie-news/twilight-predicted-robert-pattinson-james-bond-casting-1236756443/
+### Disney Beats Wall Street Expectations as Entertainment and Parks Power Latest Quarter
+Tue, 17 Nov 2026 11:34:03 +0000 — https://www.hollywoodreporter.com/business/business-news/disney-earnings-grow-spider-man-theme-parks-1236756582/
 
-In 2008, Pattinson debuted his skin of a killer. Nearly two decades later, he's gotten his license to kill.
+The company will change how it reports earnings next year as it discontinues standalone reporting for streaming segment operating income.
 
-### Spirit of the Photobooth Doc Highlights the Invention s Democratic Origins and Its Gen-Z Resurgence
-Mon, 16 Nov 2026 19:26:40 +0000 — https://www.hollywoodreporter.com/lifestyle/arts/spirit-of-the-photobooth-doc-gen-z-resurgence-1236756460/
+### How Sky Studios Elstree Built for the Future
+Tue, 17 Nov 2026 10:30:00 +0000 — https://www.hollywoodreporter.com/business/business-news/sky-studios-elstree-built-production-netflix-amazon-film-tv-1236750768/
 
-The documentary played at the International Center of Photography as part of Art Week.
+Managing director Noel Tovey on starting a lot from scratch with sustainability, accessibility, training and community at its core — and opening its stages to the entire industry.
 
-### Ella Langley Brings Country Into The Grammys General Field With Seven Nominations
-Mon, 16 Nov 2026 19:25:52 +0000 — https://www.hollywoodreporter.com/music/music-news/ella-langley-2027-grammys-7-nominations-1236756225/
+### John Malkovich Sets West End Return With Rosalind Eleazar in History
+Tue, 17 Nov 2026 09:43:00 +0000 — https://www.hollywoodreporter.com/lifestyle/arts/john-malkovich-west-end-history-rosalind-eleazar-play-1236756977/
 
-The "Choosin' Texas" singer is the third-most nominated singer this year, with nods in album, song and record of the year, along with best new artist.
+The production is the West End debut of playwright Rebecca Reid.
 
-### Grammy Nominations Snubs and Surprises: Harry Styles, Madonna, Noah Kahan Miss Top Nods as Raye, Rosalía Overperform
-Mon, 16 Nov 2026 19:16:29 +0000 — https://www.hollywoodreporter.com/music/music-news/grammys-2027-snubs-surprises-harry-styles-noah-kahan-1236756402/
+### We Now Know What Robert Pattinson Was Doing When the James Bond Casting News Broke
+Tue, 17 Nov 2026 09:21:38 +0000 — https://www.hollywoodreporter.com/movies/movie-news/robert-pattinson-james-bond-cast-news-robert-eggers-werwulf-1236756972/
 
-Styles, who won album of the year with 'Harry's House' back in 2023, was completely shut out of the Grammy race this time, one of the most notable snubs this season.
+All thanks to filmmaker Robert Eggers, who directed the star in 2019's 'The Lighthouse.'
 
-### Louis Carr Exits as BET President
-Mon, 16 Nov 2026 19:11:41 +0000 — https://www.hollywoodreporter.com/tv/tv-news/bet-president-exits-louis-carr-1236756448/
+### Over 400 U.K. Industry Figures Demand End to “Culture of Open Secrets” After Russell Brand Trial
+Tue, 17 Nov 2026 06:30:26 +0000 — https://www.hollywoodreporter.com/news/general-news/russell-brand-open-letter-400-industry-figures-1236756889/
 
-Carr was named president in December 2025.
+The open letter warns against calling Brand’s 10-and-a-half-year sentence a turning point: “It has taken some 17 years for justice.”
 
 ## Deadline
 
-### Spider-Man: Brand New Day Re-Release With New Rosario Dawson Night Nurse Footage Sets Release
-Mon, 16 Nov 2026 23:00:00 +0000 — https://deadline.com/2026/11/spider-man-brand-new-day-rosario-dawson-re-release-date-1237225762/
+### Sintonia Creator KondZilla On His New Netflix Series Grifters : Watch Trailer
+Tue, 17 Nov 2026 13:36:37 +0000 — https://deadline.com/2026/11/kondzilla-netflix-brazil-series-grifters-1237226358/
 
-That re-release of the highest grossing motion picture in the U.S. and third-highest grossing worldwide, Sony s Spider-Man: Brand New Day, which we first told you about, is hitting theaters on Dec. 4 in time for awards season. The new cut will be titled Spider-Man: [Brand New] Brand New Day. The extended cut will feature new [ ]
+EXCLUSIVE: KondZilla created Netflix Brazil’s biggest original with Sintonia, and now the superstar producer, entrepreneur and creator is back with a new show for the streamer, Grifters. Konrad ‘KondZilla’ Dantas, whose YouTube channel has 68M subs, created Grifters with Felipe Braga and Kaique Alves. The show will follow a group of young people using digital [ ]
 
-### John Patrick Shanley On His New Off Broadway Play Mountain Girl , Industry Upheaval And Why He Deeply Opposed WGA Strikes
-Mon, 16 Nov 2026 22:06:39 +0000 — https://deadline.com/2026/11/john-patrick-shanley-off-broadway-mountain-girl-hollywood-wga-strike-1237221944/
+### Kristin Scott Thomas Alex Lutz Satirical Comedy ‘Family Quiz’ Sells Widely For Studio TF1 With Remake Deals In The Works
+Tue, 17 Nov 2026 13:09:34 +0000 — https://deadline.com/2026/11/kristin-scott-thomas-comedy-family-deals-studio-tf1-1237226434/
 
-John Patrick Shanley is a connoisseur of contradiction. When the New York Public Library’s main branch on Fifth Avenue comes up in conversation, the Bronx native takes note of the role of the robber barons in creating the library and other foundational parts of the city. Attending a recent wedding at the library, he says, [ ]
+EXCLUSIVE: Studio TF1 has unveiled a dozen deals for satirical comedy Family Quiz, revolving around a high-stakes game of Trivial Pursuit, on the eve of its theatrical release in France on Wednesday. It has sold to Germany and Austria (Tobis), Greece and Cyprus (Spentzos), Italy (Minerva), Benelux (Cineart), Spain (Vertigo), Portugal (Nos Lusomundo), Switzerland (Pathé [ ]
 
-### The Burbs Actor Kapil Talwalkar Signs With Innovative Artists Entertainment
-Mon, 16 Nov 2026 22:02:29 +0000 — https://deadline.com/2026/11/kapil-talwalkar-innovative-artists-1237225741/
+### Cricket Legend Ben Stokes Launches Production Company
+Tue, 17 Nov 2026 13:00:00 +0000 — https://deadline.com/2026/11/ben-stokes-thats-not-cricket-podcast-riverside-55-1237226353/
 
-EXCLUSIVE: Kapil Talwalkar has inked with Innovative Artists Entertainment for representation. Talwalkar stars opposite Keke Palmer and Jack Whitehall in Peacock’s The Burbs, now in production on its second season. Talwalkar broke out as Tobin on NBC s Zoey s Extraordinary Playlist and went on to star in the network’s revival of Night Court. He also has [ ]
+EXCLUSIVE: Cricketing legend Ben Stokes is moving into the content game. Riverside 55 will produce a slate of podcasts, documentaries and entertainment formats across sport and culture, with the first being That s Not Cricket, a podcast co-hosted by the ex-England captain and his former teammate Mark Wood. That s Not Cricket, which launches with a Sky [ ]
 
-### Robert Pattinson As James Bond? Baz Bamigboye Has Some Thoughts
-Mon, 16 Nov 2026 22:00:00 +0000 — https://deadline.com/2026/11/robert-pattinson-james-bond-reaction-baz-bamigboye-1237225666/
+### California Schemin Writer Developing Taylor Sheridan-Inspired Cornish Crime Saga Adapting Joseph Conrad s The Secret Agent — Brit List 2026
+Tue, 17 Nov 2026 12:48:07 +0000 — https://deadline.com/2026/11/california-schemin-archie-thomson-petroc-taylor-sheridan-1237224937/
 
-A wise movie-world person of my acquaintance who has resided in these British isles long enough to understand the customs of the country shook their head when they heard that Robert Pattinson had been officially cast to play Ian Fleming’s James Bond in the 007 reboot that Denis Villeneuve is in pre-production to direct. They [ ]
+Deadline has partnered with The Brit List to profile some of the emerging writers who have made this year’s ranking of the best unproduced UK film and TV projects. Launched in 2007, The Brit List has previously featured projects including The King’s Speech and Responsible Child. Here, we profile Archie Thomson, who has made the [ ]
 
-### Robert Pattinson As Bond Or Bond Villain: What Did The Actor Say Years Ago?
-Mon, 16 Nov 2026 21:23:15 +0000 — https://deadline.com/2026/11/robert-pattinson-as-james-bond-or-villain-what-did-he-say-1237225683/
+### TikTok Creator Videos Coming To Disney+ In December As Hulu Integration Takes Full Effect
+Tue, 17 Nov 2026 12:27:06 +0000 — https://deadline.com/2026/11/tiktok-creator-videos-disney-plus-hulu-avengers-doomsday-1237226429/
 
-Robert Pattinson today described being cast as James Bond as a dream come true . The actor enthused: “James Bond is one of the most legendary characters in cinema, and to be entrusted with 007 is the honour of a lifetime. I’m deeply grateful to Denis, Amy, David, Tanya, and everyone at Amazon MGM Studios for [ ]
+Disney says December will see the addition of TikTok creator videos to Disney+ as well as the completion of the long-in-the-works integration of Hulu programming. The streaming initiatives come as the company preps for a major film release, Avengers: Doomsday, on December 18. The outlook was part of Disney s fiscal fourth-quarter earnings report, with the [ ]
 
-### OpenAI Slapped By California AG For Unfair Unsafe Practices ; Sam Altman-Run Tech Firm Accuses State Of Improperly Singling Out Company
-Mon, 16 Nov 2026 21:02:58 +0000 — https://deadline.com/2026/11/openai-sued-by-california-1237225599/
+### Netflix Renews Polish Drama Series Anaesthesia For Season 2
+Tue, 17 Nov 2026 11:58:35 +0000 — https://deadline.com/2026/11/netflix-poland-anaesthesia-season-2-1237226421/
 
-Already facing a Hollywood supported lawsuit from the New York Times, plus more legal actions by the state of Texas, a collection of non-profits, and a wrongful death case, OpenAI now will have to go up against the state of California in court. Government intervention is necessary to stop OpenAI’s unfair and unsafe practices and [ ]
+EXCLUSIVE: Netflix has ordered a second season of Polish drama Anaesthesia (Znieczulenie). The medical drama was a hit for the streamer, hitting the Top 10 list in Poland almost immediately after it launched and remaining there to this day, and is also fifth on Netflix s global chart. Little surprise Season 2 has been greenlit in [ ]
 
-### Reasonable Doubt Gets Early Season 5 Renewal As Season 4 Becomes Hulu Series Most Watched
-Mon, 16 Nov 2026 21:00:26 +0000 — https://deadline.com/2026/11/reasonable-doubt-renewed-season-5-season-4-ratings-hulu-1237225565/
+### Disney Projects Content Spending Will Rise 9% To $26B In Next Fiscal Year
+Tue, 17 Nov 2026 11:53:49 +0000 — https://deadline.com/2026/11/disney-content-spending-26-billion-fiscal-2027-1237226408/
 
-EXCLUSIVE: Flying largely under the radar early on, Reasonable Doubt has become a major Hulu success story, leading to a Season 5 renewal ahead of the legal drama s Season 4 finale on Nov. 24. The early pickup comes as Season 4 has become the series’ most-watched installment to date, according to Hulu, posting double-digit percentage [ ]
+Disney says it expects cash content spending of about $26 billion in fiscal 2027, up 9% from fiscal 2026. The projection was included in the company s fiscal fourth-quarter earnings report Tuesday. Disney blew past Wall Street estimates in the quarter, posting strong results across its film and TV operations, streaming division and theme parks. The [ ]
 
-### The James Bond Search Shows How Daunting The Process Is In An Age When Everyone On Social Media Is An Expert
-Mon, 16 Nov 2026 21:00:00 +0000 — https://deadline.com/2026/11/james-bond-search-robert-pattinson-social-media-1237225227/
+### Disney Rides Streaming, Studio And Parks Gains In Strong Fiscal Q4, Eyes Annual Cost Savings Of $3B By 2029
+Tue, 17 Nov 2026 11:37:26 +0000 — https://deadline.com/2026/11/disney-q4-earnings-streaming-movie-studio-theme-parks-1237226397/
 
-It s been almost two years since Amazon MGM Studios took creative control of the James Bond movie franchise, and with the news Monday that Robert Pattinson has been selected as the seventh 007, its universe is officially set in stone. While the search for a new Bond has never been easy, this one took on [ ]
+Disney s studio, streaming operation and theme parks all posted stellar results in the company s fiscal fourth quarter, handily beating Wall Street forecasts. Total revenue surged 16% over the year-earlier period, hitting $25.95 billion. Earnings per share excluding certain items shot up to $1.77 from $1.11 a year ago. Analysts had been expecting revenue of $25.16 [ ]
 
-### Gianmarco Soresi Talks Debut Netflix Special, Global Comedy Explosion, Role Of Sh*t Talk In Keeping Comics Honest – Comedy Means Business Podcast
-Mon, 16 Nov 2026 20:30:00 +0000 — https://deadline.com/2026/11/gianmarco-soresi-comedy-means-business-podcast-interview-1237225548/
+### French Microdrama App Shortstory Opens $1.1M Funding Round
+Tue, 17 Nov 2026 11:18:48 +0000 — https://deadline.com/2026/11/shortstory-france-microdrama-app-opens-funding-round-1237226382/
 
-Comedian Gianmarco Soresi once said that he procrastinated filming an hour special, holding on to the most destructive thought a creative can have: I ll do it when someone pays me for it. Ultimately, he didn t hold out, though that s probably for the better: His self-released debut hour, Thief of Joy, broke out as one of [ ]
+Another day, another European microdrama contender. France-based vertical video drama app Storyshort has opened up a €1M ($1.1M) funding round to accelerate across the French-speaking world. Independent French M A and corporate finance advisory firm VIFCO is supporting the action. Storyshort says it has produced 54 original series and gained more than 90 million views from [ ]
 
-### ‘The Terminal List’ Prequel ‘Cry Havoc’ In The Works At Amazon
-Mon, 16 Nov 2026 20:30:00 +0000 — https://deadline.com/2026/11/the-terminal-list-prequel-cry-havoc-amazon-1237225564/
+### ‘Do No Harm’: Polly Findlay’s Next Feature Is A Healthcare Chamber Piece — Brit List 2026
+Tue, 17 Nov 2026 11:05:05 +0000 — https://deadline.com/2026/11/do-no-harm-polly-findlay-mk2-bbc-film-brit-list-2026-1237224455/
 
-Amazon is doubling down on The Terminal List expanded universe. Days after announcing that it was adapting Jack Carr’s Savage Son as the next move in the world of the military thriller, the streamer has revealed it is developing a prequel series set in the 1960s. It is developing an adaptation of Carr’s Cry Havoc, [ ]
+Deadline has partnered with The Brit List to profile some of the emerging writers who have made this year’s ranking of the best unproduced UK film and TV projects. Launched in 2007, The Brit List has previously featured projects including The King’s Speech and Responsible Child. Here, we profile Polly Findlay, who has made the [ ]
 
-### Brit List 2026: Crime Series Coming-Of-Age Movie Lead List Of Best Unproduced Screenplays
-Mon, 16 Nov 2026 20:00:00 +0000 — https://deadline.com/2026/11/brit-list-2026-crime-series-coming-of-age-movie-top-scripts-1237225076/
+### A Passage To India : Ali Fazal, Fiona Shaw Tom Mison Leading BBC CBC s TV Reboot
+Tue, 17 Nov 2026 11:00:00 +0000 — https://deadline.com/2026/11/passage-to-india-bbc-cast-ali-fazal-fiona-shaw-tom-mison-1237226368/
 
-The 2026 Brit List, the selection of promising and so far unproduced British film and TV screenplays, is led jointly by a crime series and a coming-of-age movie. Scroll down for list in full. Compiled from recommendations by the British industry, 13 writers made it onto the list this year with a minimum of ten [ ]
+The BBC and Canada s CBC have confirmed their adaptation of E.M. Forster s A Passage to India, casting Ali Fazal, Fiona Shaw and Tom Mison as leads. The beloved book just turned 100. Set against the backdrop of the British Raj and directed by Emmy-winner Richie Mehta (Delhi Crime), the series will chart Aziz’s optimistic attempts [ ]
 
-### Justin Long Kate Bosworth To Headline Indie Comedy Series The Renovation
-Mon, 16 Nov 2026 19:18:00 +0000 — https://deadline.com/2026/11/justin-long-kate-bosworth-indie-comedy-the-renovation-1237225426/
+### Channel 4 Boss Says We Cannot Apologize Enough To Russell Brand Victim Whose Complaint Was Twice Not Dealt With By Broadcaster
+Tue, 17 Nov 2026 10:46:43 +0000 — https://deadline.com/2026/11/chanel-4-boss-apologizes-again-russell-brand-victim-court-1237226372/
 
-EXCLUSIVE: The resurgence of independent television series continues to grow with Justin Long (Barbarian, You Deserve Each Other) and Kate Bosworth (Still Alice, Along for the Ride) starring in The Renovation, a fully-financed indie comedy series. It hails from Lucas Carter (Summer of 69), Nick Kreiss (Punk d) who directs all episodes, Intrigue, Script2Screen and Hammerstone [ ]
+The CEO of Channel 4 has said we cannot apologize enough to a woman who twice made complaints about Russell Brand and did not feel they were dealt with properly. Priya Dogra said it is almost unforgivable that the woman, who goes by the pseudonym Bella, said she complained to Channel 4 in both 2009 [ ]
 
 ## befores & afters
 
@@ -184,6 +184,21 @@ Sun, 15 Nov 2026 21:28:22 +0000 — https://beforesandafters.com/2026/11/16/the-
 Behind the morphing in the Michael Jackson music video for Black or White by PDI. This episode is sponsored by Griptape . Find out more about Griptape, Foundry s AI Orchestration platform at https://www.foundry.com/products/griptape. Buy WOAH! Great Moments in Effects History Vol. 1 by Ian Failes at Amazon in PRINT: https://link.amazon/B0gyYYIGJ Get early access to these videos at the befores afters Patreon on the VFX Bonus Access tier: https://www.patreon.com/c/beforesandafters/membership Want to sponsor a weekly video? Send Ian an email: beforesandafters@gmail.com #vfx #visualeffects #contact #jodiefoster #behindthescenes #beforesandafters #vfxbreakdown Music by Matt Estela: https://soundcloud.com/cgwiki The post The music video that made morphing a hit appeared first on befores & afters .
 
 ## IndieWire
+
+### The Further Mis-Adventures of Cliff Booth First Reactions: Quentin Tarantino and David Fincher Deliver a Pure Riot of a Hangout Movie
+Tue, 17 Nov 2026 06:58:15 +0000 — https://www.indiewire.com/news/general-news/the-further-mis-adventures-of-cliff-booth-first-reactions-1235228540/
+
+Following the Los Angeles premiere on Monday night, critics took to social media to express their delight at Brad Pitt's second turn as the eponymous stuntman.
+
+### Hershey Review: An Unbelievably Flavorless Biopic About America s Most Famous Chocolatier
+Tue, 17 Nov 2026 00:00:00 +0000 — https://www.indiewire.com/criticism/movies/hershey-movie-review-1235228446/
+
+Milton S. Hershey gets the Angel Studios treatment in a deranged and decidedly vanilla piece of "values-based entertainment."
+
+### Spider-Man: Brand New Day Returning to Theaters with a New Rosario Dawson Cameo — and Box Office Records and Oscar Noms in Mind
+Mon, 16 Nov 2026 23:37:56 +0000 — https://www.indiewire.com/news/breaking-news/spider-man-brand-new-day-returning-theaters-extended-cut-1235228526/
+
+The extended version of the mega blockbuster opens December 4, and tickets go on sale November 19.
 
 ### Minotaur Review: Andrey Zvyagintsev s Riveting Comeback Remakes Claude Chabrol and Unfaithful for a Hopeless Wartime Russia
 Mon, 16 Nov 2026 21:45:18 +0000 — https://www.indiewire.com/criticism/movies/minotaur-movie-review-andrey-zvyagintsev-1235194820/
@@ -230,122 +245,107 @@ Mon, 16 Nov 2026 15:00:00 +0000 — https://www.indiewire.com/features/commentar
 
 A trio of British imports are paving the way for a more engaging form of comfort TV.
 
-### Glenn Close Wipes Away Tears as She Gets Her Long Overdue Oscar While the Governors Awards Celebrate Indie Films
-Mon, 16 Nov 2026 11:36:33 +0000 — https://www.indiewire.com/awards/consider-this/governors-awards-glenn-close-ridley-scott-honorary-oscars-1235228139/
-
-Floyd Norman, Ridley Scott, Christine Vachon, and Pamela Koffler also collected Honorary Oscars at the Academy's untelevised annual event that always draws a starry set of Oscar contenders.
-
-### Box Office: Club Kid Scores Best Limited Expansion of the Year as Younger Audiences Embrace Jordan Firstman s Oscar Hopeful
-Sun, 15 Nov 2026 17:15:02 +0000 — https://www.indiewire.com/news/box-office/box-office-club-kid-best-limited-expansion-of-2026-jordan-firstman-1235228073/
-
-The Cannes breakout grossed $756,060 across 27 screens, bringing its domestic haul to nearly $1.5 million.
-
-### Box Office: Ebenezer Opens to Modest $19 Million, Showing Johnny Depp Is Still a Draw for the Right Price
-Sun, 15 Nov 2026 16:16:52 +0000 — https://www.indiewire.com/news/box-office/box-office-ebenezer-opens-20-million-johnny-depp-comeback-1235228068/
-
-The star emerged from his decade in the wilderness to post a respectable opening for his Christmas film.
-
 ## The Wrap
 
-### Spider-Man: Brand New Day Returns to Theaters With Rosario Dawson s Cut Cameo as the Night Nurse
-Mon, 16 Nov 2026 23:00:00 +0000 — https://www.thewrap.com/creative-content/movies/spider-man-brand-new-day-re-release-rosario-dawson/
+### Is Johnny Depp Back?
+Tue, 17 Nov 2026 13:50:40 +0000 — https://www.thewrap.com/creative-content/movies/johnny-depp-comeback-ebenezer/
 
-After becoming just the third film ever to gross $2.5 billion at the box office, Sony/Columbia s Spider-Man: Brand New Day is coming back to theaters for a limited engagement re-release on December 4. And to sweeten the pot, Marvel Studios is adding deleted scenes, including Rosario Dawson s cut cameo as Claire Temple, a.k.a. the Night Nurse. In Netflix s series of Marvel shows from 2015 to 2018, Claire was the character that tied the series together, serving as a key ally and medic to Daredevil, Jessica Jones, Luke Cage and Iron Fist. After Charlie Cox made the jump from Netflix to the MCU as Daredevil with Spider-Man: No Way Home in 2021, Dawson was set to do the same in Brand New Day, but her cameo was cut for time and pacing. But this past September, it was reported that Sony and Marvel were planning to reinsert the Night Nurse into the film with an extended reissue, and now that reissue is hitting theaters on post-Thanksgiving weekend, which is historically a quiet weekend for new major studio releases. But Claire isn t the only addition to Brand New Day. Sony is teasing other surprises for fans who come back to see the highest grossing Spider-Man film of all time, which means there s the possibility that more teasers for next month s Avengers: Doomsday may be in store. When Marvel Studios and Disney re-released Avengers: Endgame in September, it came with a changed ending that teased the disruption of Steve Rogers happily ever after as Loki dragged the retired Captain A
+Johnny Depp, a one-time box office kingpin thanks to the Pirates of the Caribbean franchise, returned to theaters this weekend in his first major Hollywood role since 2018. After a slew of bad press and a very public domestic abuse trial, Depp tested his mainstream mettle with a goofy take on A Christmas Carol in Paramount s horror-tinged Ebenezer. The film opened to $19 million domestic to take the No. 1 slot at the box office, grossing $42 million worldwide. Not bad, but not spectacular. So, what s the verdict? Depp re-enters the mainstream in a very different era for movie stars. Moviegoers just rejected Tom Cruise a month ago with the disastrous Digger, and Marvel heroes like Chris Pratt and Chris Hemsworth struggle to move anything that isn t existing IP over the $100 million mark. So any sort of comeback for Depp likely wasn t going to look like a huge smash. The good news for his team and Paramount is that those who did come out opening weekend were Depp fans — 50% of those surveyed named the actor as their primary reason for their interest. Those fans also gave the movie an A- CinemaScore despite it getting mostly negative reviews from critics. Aside from a hypothetical Pirates return, Depp has not yet publicly attached himself to any other projects, Hollywood or otherwise, in the future. Ebenezer was likely the test balloon to see where he should take things from here. Its relative success — the film had a $38 million budget and $50 million marketing spend — probably
 
-### Bloomberg Overhauls Newsroom Leadership Amid AI Shift
-Mon, 16 Nov 2026 22:15:59 +0000 — https://www.thewrap.com/media-platforms/journalism/bloomberg-newsroom-restructuring-ai/
+### Disney Says Over 2.6 Billion Hours of Marvel Studios Content Was Streamed in Fiscal 2026
+Tue, 17 Nov 2026 11:49:23 +0000 — https://www.thewrap.com/media-platforms/streaming/marvel-viewership-box-office-retail-sales-disney-q4-2026-earnings/
 
-Bloomberg is overhauling its newsroom leadership, expanding chief content officer Heather Harris authority and reshuffling senior executives across its editorial and research operations as the financial news giant adapts to an increasingly AI-driven media landscape. The sweeping restructuring will centralize oversight of Bloomberg s news desks, bring its research divisions under a unified leadership structure and revamp its digital audience operations, according to an internal memo obtained by TheWrap. The changes are part of a broader effort to integrate the company s journalism and research as artificial intelligence transforms how financial information is produced, distributed and consumed. In the memo, Bloomberg editor-in-chief John Micklethwait argued that AI is making the company s proprietary journalism and research more valuable, particularly as its tools increasingly draw on multiple forms of content to answer customers questions. But he also warned that Bloomberg must improve how it packages and delivers that information rather than become a database customers consult only occasionally. Harris, currently chief content officer for Bloomberg News, will assume responsibility for content across the company s entire Editorial & Research operation, including Breaking News and Ecodata. Regional news desk heads Emma Moody, Will Kennedy and Michael Patterson will report primarily to her, while maintaining secondary reporting lines to their regional chiefs. The shake-up also 
+Over 2.6 billion hours of Marvel Studios content was streamed throughout fiscal 2026, according to Disney’s fourth quarter earnings report on Tuesday. The stat was one of the big numbers Disney paraded during its results. They included Marvel viewership on Disney+ doubling its historical baseline in the fourth quarter, more than 1.5 billion views of the Avengers: Doomsday trailer and the MCU hitting its highest viewing month ever in August thanks to Spider-Man: Brand New Day and Avengers: Endgame Encore. Following the rerelease, the original “Avengers: Endgame” is the No. 1 highest grossing film of all time with $2.9 billion in global office. Courtesy: Disney Marvel is also consistently one of the top consumer products brands in global retail sales, with the Avengers and Spider-Man each surpassing $1 billion in retail sales in fiscal year 2025. Additionally, Avengers Campus at Disney’s California Adventure is set to double in size in 2028, while Hong Kong Disneyland is developing an Avengers tower and a first-of-its- ind Spider-Man coaster designed to anchor a new themed land at Shanghai Disneyland. The update comes as Marvel Studios “Avengers: Doomsday” will release in theaters on Dec. 18. Overall, Disney’s Consumer Products division grew revenue 12% to $1.31 billion and profits 12% to $651 million in the fourth quarter. In addition to the Avengers and Spider-Man, Disney’s other billion-dollar retail franchises include Disney Jr., Star Wars, Frozen, The Lion King, Mickey Mou
 
-### Trump Snaps at Reporter Questioning His Focus on White House Renovations Over FAA Grounding: You re So Pathetic!
-Mon, 16 Nov 2026 22:05:15 +0000 — https://www.thewrap.com/media-platforms/journalism/trump-attacks-another-reporter-construction-ballroom-question-faa-grounding/
+### Disney+ and Hulu s Combined Q4 Profit Climbs to $824 Million Ahead of Unified App Launch
+Tue, 17 Nov 2026 11:39:12 +0000 — https://www.thewrap.com/industry-news/business/disney-earnings-q4-2026/
 
-Donald Trump has berated yet another reporter for asking questions about his focus on various construction projects around The White House over larger concerns like the recent FAA grounding. On Monday, NBC s Yamiche Alcindor asked the president if he thought he was too focused on his various vanity projects like the ballroom adjacent to The White House despite being barely on the other side of a national airline grounding that happened last Friday. Trump took the criticism as his latest reason to berate the reporter. “Well, if you take a look at the White House, it’s flawless,” Trump said. “Listen to me — I know you don’t see dirt — but if you’d take a look at the white house, you’d never notice broken windows, obviously, from where you come from. I don’t know. But we had 18 broken windows. The plaster — the exterior plaster — was falling off the wall. And it was an embarrassment. And now you look. And you know what? It took me 10 minutes a day, because I know great construction people, and I know people that can put it back. My Q: What do you say to critics who say you were too focused on D.C. construction projects while our airline systems were crumbling? Pres Trump: If you take a look at the White House, it’s flawless I know you don’t see dirt — but if you’d take a look at the WH, you’d never… &mdash; Yamiche Alcindor (@Yamiche) November 16, 2026 He added: So the White House is in beautiful shape. Take a look at the helipad. I hope you like it because it’s got a review – l
+Disney reported revenue of $25.9 billion and adjusted earnings per share of $1.77, beating Wall Street s expectations of $25.16 billion in revenue and adjusted EPS of $1.68, per Yahoo Finance In addition to the fully unified app with Hulu, Disney+ will start introducing creator content through its TikTok partnership and add more vertical video, live sports and podcasts to the platform Starting in fiscal 2027, Disney will stop providing supplemental disclosures for its streaming profits. It also will spend $26 billion on content in 2027 Disney finished its 2026 fiscal year strong despite a challenging macroeconomic environment, with growth across its entertainment, sports and experiences divisions fueled by increased engagement at its streaming services and the ESPN network, the theatrical performance of Toy Story 5 and higher attendance and guest spending at the Walt Disney World and Disneyland Paris. The entertainment giant smashed Wall Street expectations with a net profit of $2.86 billion, or adjusted earnings of $1.77 per share, as total revenue grew 16% to $25.9 billion during the fourth quarter. Disney+ and Hulu was a bright spot, with the services combined profit growing to $824 million, more than double the $402 million in the prior year period. Entertainment streaming revenue climbed 19% to $6.05 billion on higher subscription fees and advertising. For the full year, the streaming business achieved a double-digit operating margin of 11.5%, which is expected to contin
 
-### The Secret Lives of Mormon Wives: OC Tallies 20 Million Hours Viewed in First 4 Days
-Mon, 16 Nov 2026 21:38:46 +0000 — https://www.thewrap.com/creative-content/tv-shows/the-secret-lives-of-mormon-wives-orange-county-ratings-viewership/
+### Jimmy Kimmel Draws Big Audience Reaction With Career Pivot Suggestion for Trump
+Tue, 17 Nov 2026 06:38:51 +0000 — https://www.thewrap.com/creative-content/tv-shows/jimmy-kimmel-crowd-reaction-trump-home-depot-monologue-joke/
 
-The Secret Lives of Mormon Wives: O.C. debuted to an impressive audience, tallying 20 million hours viewed in its first four days. The series, which follows the next contingent of Mormon and Mormon-adjacent wives and mothers in Orange County, Calif., also landed on the Hulu top 15 today list, taking the No. 1 spot every day since its Nov. 12 premiere. In the lead-up to the debut of the Orange County installment, viewership for the original series ticked up over the past two weeks, gaining an almost 30% rise in viewership ahead last week leading into the premiere, based on hours streamed over the previous week. To date, the Mormon Wives franchise has logged over half a billion hours globally to date. Original series star Jen Affleck served as the catalyst for the expansion to Orange County after moving to Southern California after appearing on Dancing With the Stars. In addition to Affleck, The Secret Lives of Mormon Wives: O.C. stars McCall DaPron, the sister of original series star Mayci Neeley, Madison Bontempo, Ashleigh Pease and Jordan McClanahan, who make up the traditional Mormons of the group. They re paired with less traditional Jack Mormons and internet personalities Aspyn Ovard and Bobbi Althoff as well as Salomé Andrea and Avery Woods. The groups butt heads a fair amount during the first season, but reached a better spot by the end of Season 1. “There’s still friggin’ potholes of disagreement, but I think they end stronger as a group than when they began,” EP Jeff 
+Jimmy Kimmel made a number of digs at Donald Trump Monday evening, but it was the late night host s career pivot suggestion for the president that drew the biggest reaction from his studio audience. During Monday s monologue for Jimmy Kimmel Live! , the comedian once again mocked Trump for his fixation on renovation projects during his second term in the White House. Specifically, Kimmel roasted Trump for claiming his helipad got great reviews. Yeah, it s actually true. The Helipad Quarterly gave it five stars. Where does he see these great reviews? Kimmel quipped. What is Natalie [Harp] looking up? He also thinks Melania s movie got great reviews. By the way, he does not like it when people criticize him for these dumb construction projects. At this moment, Jimmy Kimmel Live! editors cut to footage of Trump telling a reporter she didn t have talent and that she couldn t tell what a broken column is after she questioned his focus. And losers like you come out and they say, Why are you focused on the White House? Because the White House is a symbol of our country, Trump railed. And the White House should look like that. And the stone should look like this. Look at this stone. In response to this footage, Kimmel ripped, I feel like he should be working at Home Depot, right? This comment prompted a strong reaction from Kimmel s studio audience, who erupted into loud cheers and applause at the suggestion. In fact, the response was so loud it nearly drowned out Kimmel s most bitin
 
-### Miley Cyrus Shares Emotional Response to Grammy Nom With Dolly Parton: A Beautiful Way to Honor Her
-Mon, 16 Nov 2026 21:26:35 +0000 — https://www.thewrap.com/creative-content/music/miley-cyrus-gets-emotional-over-grammy-nomination-with-dolly-parton/
+### The Further Mis-Adventures of Cliff Booth First Reactions Hail ‘Wild, Hilarious’ Sequel
+Tue, 17 Nov 2026 05:54:03 +0000 — https://www.thewrap.com/creative-content/movies/the-further-mis-adventures-of-cliff-booth-first-reactions/
 
-Miley Cyrus got emotional reflecting on her joint Grammy nomination with her late godmother Dolly Parton on Monday. The Flowers singer wrote on Instagram that she continues to feel the country icon s presence in her life. Cyrus was nominated alongside Parton, who died on Aug. 25 , and Lainey Wilson, Queen Latifah and Reba McEntire for their rendition of Parton s “Light of a Clear Blue Morning,” which they re-recorded this year. The original song was released in 1977. A couple Christmases ago Dolly gifted me this vinyl knowing how much I’d love an original, Cyrus wrote in an Instagram post Monday. My Aunt Dolly is one of the greatest songwriters the world has ever known. She never made music for recognition but to make the world a happier place through her songs. She continued: To be nominated alongside her, Lainey Wilson, Queen Latifah and Reba McEntire for Light of a Clear Blue Morning is a beautiful way to honor her enormous heart. This cover supported pediatric cancer research at Vanderbilt’s Monroe Carell Jr. Children’s Hospital a cause close to her heart. View this post on Instagram A post shared by MILEY (@miley) Cyrus also said that she misses calling her on big days like this but that she can feel her in every moment. Love you Aunt Dolly, she concluded. Congratulations to these beautiful women and all the other nominees The late country singer earned received three total posthumous nominations from the Grammys. In addition to “Light of a Clear Blue Morning,” Parton sc
+Initial reactions to The Further Mis-Adventures of Cliff Booth are in after Quentin Tarantino s Once Upon a Time in Hollywood sequel had its premiere Monday evening, and many are praising the wild, hilarious hangout movie. The highly anticipated follow-up film to Tarantino s 2019 comedy drama sees Brad Pitt return to the role of stuntman Cliff Booth, which won the performer the Best Supporting Actor Oscar back in 2020. The Netflix-distributed movie, this time directed by David Fincher and written by Tarantino, lets Pitt step into the leading man role as it follows Booth in his new position as a Hollywood fixer. And, from what s being said online, this sequel is just as successful as its predecessor. David Fincher’s The Further Mis-Adventures of Cliff Booth is a wild, hilarious hangout movie, Variety s Clayton Davis wrote on X Monday night. Brad Pitt slides back into his beloved Oscar-winning role and gives his best performance since Once Upon a Time in Hollywood. Elizabeth Debicki brings an intoxicating sensuality, and Scott Caan and Peter Weller are such a treat that they could have had triple the screen time. The cinematography is gorgeous. If the 2019 film was a love letter to L.A., this one is a full-on sonnet. Reporter Germain Lussier expressed a similar positive sentiment, writing on X, THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH is my favorite movie of the year and it’s not even close. Hilarious, exciting, romantic, you’ll never guess what happens next and probably not b
 
-### LACMA’s Art+Film Gala Fashion Was Daring, Dazzling — and Sometimes Barely There
-Mon, 16 Nov 2026 21:16:55 +0000 — https://www.thewrap.com/culture-lifestyle/fashion/lacma-art-and-film-gala-fashion-highs-lows-wrapstyle/
+### Selena Gomez Prevails as Wondermind Investor Lawsuit Is Dismissed
+Tue, 17 Nov 2026 05:01:26 +0000 — https://www.thewrap.com/industry-news/public-policy-legal/selena-gomez-wondermind-investor-lawsuit-dismissed/
 
-The fashion at LACMA’s Art+Film Gala was daring, dazzling and, in some cases, barely there. Princess Diana’s iconic wardrobe takes center stage at the Reagan Library, from her famous Black Sheep sweater to the gown she wore to dance with John Travolta. Ken Fulk goes Hollywood with a new studio and showroom at the historic Chaplin Studios. And Eleventy Milano brings Italian luxury poolside for an intimate Beverly Hills shopping event with TheWrapBook. Anya Taylor-Joy, wearing archival Pierre Cardin and Tiffany Co., and honoree Denis Villeneuve attend the 2026 LACMA Art+Film Gala at Los Angeles County Museum of Art on Nov. 7, 2026. Source: Getty Gucci s Big Night at LACMA Was Hit and Miss It was Gucci’s big night to shine at the 15th annual LACMA Art+Film Gala, which raised a record-breaking nearly $7 million for the museum while honoring artist Vija Celmins and director Denis Villeneuve. As the event’s presenting fashion sponsor since its inception in 2011, the Italian house had the red carpet almost to itself, dressing a parade of Hollywood stars in creative director Demna’s new vision of Gucci glamour. Now 16 months into his tenure, Demna had a chance to make a bigger statement than last year, when he had been at Gucci for just four months. He also got a shout-out from LACMA director Michael Govan for making Los Angeles his home. There was certainly no shortage of naked dressing, with Demna taking Gucci’s sexed-up aesthetic to the limit. Interestingly, the most daring looks 
+Selena Gomez scored a legal victory in a federal lawsuit against herself and fellow Wondermind co-founders Mandy Teefey and Daniella Pierson, as the suit has been dismissed. The Only Murders in the Building star s attorney Mathew S. Rosengart confirmed the lawsuit s dismissal to TheWrap Monday evening, writing, “Selena is pleased by the dismissal of the case in its entirety and looks forward to moving forward. The plaintiffs in the case dismissed the suit voluntarily, with the lawsuit getting dismissed “in its entirety with prejudice, according to documents obtained by TheWrap. As we previously reported in August, Gomez and her mother, Teefey, were accused in the suit of allegedly defrauding Wondermind investors of around $1.2 million. The suit from investors claimed that the leadership behind the mental health startup made a number of false representations to investors, including that Gomez would be “intimately involved” in the startup. Gomez, Teefey and Pierson founded Wondermind back in 2021 as “a space to work it all out every day with candid conversations, physical tools, daily content, and a supportive community.” Yet, investors later claimed they learned about management issues when The Cut wrote an article about the startup’s working conditions last year. “Gomez purported to sign a contract obligating her to perform and then ignored it,” the lawsuit stated at the time. “The partnerships did not exist. The initiatives never materialized. The app was never built. And fo
 
-### Robert Pattinson 007 Casting Splits Fans in First Reactions: Batman Can t Be Bond
-Mon, 16 Nov 2026 20:52:15 +0000 — https://www.thewrap.com/creative-content/movies/robert-pattinson-james-bond-casting-reactions/
+### Jon Stewart Takes Issue With Robert Pattinson Landing James Bond Role: Enough s Enough
+Tue, 17 Nov 2026 04:31:47 +0000 — https://www.thewrap.com/creative-content/tv-shows/jon-stewart-reacts-robert-pattinson-james-bond-casting/
 
-Robert Pattinson is the new James Bond and everyone has thoughts on it. After an extensive search, Pattinson emerged as the choice to play the iconic secret agent in the newest iteration of the franchise. The actor will reunite with director Denis Villenueve who cast him in Dune: Part 3 which is due out later this year. “James Bond is one of the most legendary characters in cinema, and to be entrusted with 007 is the honour of a lifetime,” Pattinson said in a statement released Monday morning. “I’m deeply grateful to Denis, Amy, David, Tanya and everyone at Amazon MGM Studios for their belief in me. To say this role is a dream come true is an understatement. I couldn’t be more excited about this partnership and the work ahead with this fantastic team.” But with the news that Pattinson earned the spot came plenty of thoughts online that ranged from the highest ranks of U.K. government down to regular folks who were either excited or disappointed with the choice. “Welcome to His Majesty’s Secret Service, Mr Bond,” the royal family wrote on their X account. Welcome to His Majesty's Secret Service, Mr Bond. https://t.co/inKwKqHEDd &mdash; The Royal Family (@RoyalFamily) November 16, 2026 The estate of Ian Fleming – the author responsible for the James Bond books – also had plenty of praise for the casting. “As Bond himself reflects at the end of Moonraker when facing the fact that the object of his affections is engaged to another man, ‘He must play the role which she expected of
+Jon Stewart playfully took issue with Robert Pattinson landing the coveted role of James Bond, suggesting that playing Batman should be “enough” for the actor. The comedian opened Monday s episode of The Daily Show by addressing Pattinson s big casting as 007, joking that the weekend s tech outages stood in the way of him nabbing the part. My weekend, to be quite frank, if you don t mind me sharing, a little hectic, Stewart noted at the top of his monologue. Friday night I was supposed to fly out I was supposed to fly out to a gig, an audition actually. Kind of a big one. And, obviously, delays at the airport. No big deal, he continued, before referencing the New Orleans cruise ship crash. I just thought, well, I ll just go by my preferred travel method, Mississippi Riverboat. And unfortunately, we also ran into a bit of a – well, it ran into us. Stewart then referenced the massive global Outlook and Microsoft 365 outage that took place at the end of last week, noting, But I just thought, Well, I ll let the production know I was going to be late by sending them an email from my beloved Microsoft Outlook account.' Stewart quipped that this hurdle would ve been fine, had he been able to access is bank account to rent a car – a clear reference to Monday s banking disruption. Long story short, they ended up giving the role to Robert f king Pattinson, Stewart declared. Pattinson! You already got Batman. Enough s enough. Stewart then did his best impression of Pattinson s Batman do
 
-### Journalism Groups Sue Pete Hegseth’s Pentagon Over Alleged ‘Media Blacklist’
-Mon, 16 Nov 2026 20:50:58 +0000 — https://www.thewrap.com/industry-news/public-policy-legal/pentagon-journalist-blacklist-lawsuit/
+### JD Vance Dismisses Fears of Impending Crisis After Tech Outages, but Notes It’s Good to Be ‘Prepared’
+Tue, 17 Nov 2026 03:36:46 +0000 — https://www.thewrap.com/media-platforms/politics/jd-vance-responds-to-crisis-concerns-after-tech-outages/
 
-The Pentagon is facing a federal lawsuit over an alleged secret blacklist of journalists, with a press freedom group and a news outlet seeking records that could reveal whether the military has been deliberately ignoring certain reporters. Freedom of the Press Foundation and The Intercept sued the Department of Defense on Monday in Washington, D.C., accusing the agency of violating the Freedom of Information Act by failing to release records or issue timely determinations concerning a purported list of journalists designated as “people to disregard.” The lawsuit escalates a dispute over the military s treatment of reporters amid broader restrictions on press access under Defense Secretary Pete Hegseth. The controversy stems from a July exchange between Intercept reporter Nick Turse and U.S. Central Command, which oversees American military operations in the Middle East. According to the complaint, Turse was seeking answers about Iranian attacks on U.S. bases when CENTCOM public affairs executive assistant Richard Allee warned that continued inquiries could land him on an internal list. When Turse asked whether such a list existed, Allee answered “Yes,” according to the filing, but declined to identify anyone on it. CENTCOM subsequently denied maintaining a blacklist, calling Turse s account “a complete misrepresentation of exchanges that occurred” and accusing him of repeatedly harassing its staff. The Pentagon did not immediately respond to TheWrap s request for comment Mond
+The United States may have been plagued by multiple tech outages last week, but Vice President JD Vance sought to reassure Americans that there was no “crisis coming down.” Donald Trump s No. 2 stopped by Fox News The Ingraham Angle Monday evening, where host Laura Ingraham asked the vice president point-blank if Americans should be prepping for something, citing the FAA s outage-caused ground stop and the global interruption of Microsoft Outlook and Microsoft 365. Yeah, I ve had a lot of my friends reach out and say, Should we be preparing to build a bunker or to stock up on food and water? And my answer to that is no, Vance responded to Ingraham. We do not see some crisis coming down. But you have to be prepared for everything. What we want to do is make sure that we prevent the worst outcome, but we re also prepared for the worst outcomes. As Vance went on, he claimed that what s been covered in the news is actually an example of basic good government, defending that they were making sure that our military is prepared if there was a crisis. But we don t see a crisis coming down the pike, he reiterated. And part, what the president has been so successful at is insuring that we re reinvesting in the United States of America and we re better prepared for a crisis. That doesn t mean crisis is around the corner. That just means you ve got a government who is preparing for it. Vance s comments followed Friday s historic nationwide ground stop implemented by the FAA, which occurr
 
-### California Sues OpenAI Over Alleged AI Cyberattacks, Safety Failures
-Mon, 16 Nov 2026 20:43:35 +0000 — https://www.thewrap.com/industry-news/public-policy-legal/california-sues-openai-ai-cyberattacks/
+### The Fantasticks Broadway Review: The Vintage Musical Successfully Moves Uptown Under a Lavender Moon
+Tue, 17 Nov 2026 03:00:00 +0000 — https://www.thewrap.com/creative-content/theater/the-fantasticks-broadway-review-the-vintage-musical-successfully-moves-uptown-under-a-lavender-moon/
 
-California Attorney General Rob Bonta sued OpenAI on Monday, accusing the ChatGPT maker of failing to contain experimental artificial intelligence systems that allegedly launched cyberattacks against outside organizations, including AI platform Hugging Face. The lawsuit , filed in San Francisco Superior Court, alleges OpenAI lost control of its autonomous AI agents more than 80 times during testing. The case centers on a July incident in which hundreds of agents allegedly escaped a controlled research environment and attacked Hugging Face for roughly two-and-a-half days. California is seeking court-ordered changes to the company s practices and financial penalties, arguing that inadequate safeguards violated state consumer protection law and created a public nuisance. Bonta s office alleges OpenAI continued testing increasingly powerful models despite evidence that its security measures could not reliably contain them. The complaint also describes unauthorized access to software databases, websites and foreign government databases containing sensitive health information. Some agents allegedly compromised OpenAI s own infrastructure, gaining administrator-level access to critical systems. The Hugging Face attack was the predictable result of an internal culture at OpenAI that prioritizes growth and rapid model development over safety and accountability, Bonta said in a statement . OpenAI previously acknowledged the July incident, calling it a warning shot about the risks of ad
+“The Fantasticks” closed in 2002 at the Sullivan Street Playhouse after running 42 years there. It was such an Off Broadway staple that I never bothered to see the musical despite my living on Sullivan Street in the Village. Suddenly, after all these years, Harvey Schmidt and Tom Jones’ vintage musical is now a Broadway debutant at the Helen Hayes Theatre, where it opened Monday. Pre-curtain, the show looks familiar to devotees, the set (by Scott Pask) a simple replicate of what it had been downtown: a piano, a harp, a big black box and a white curtain promoting “The Fantasticks.” Otherwise, it’s not your grandfather’s “Fantasticks.” The Boy and The Girl who live next door and fall in love are now The Boy (Maxim Chlumecky) and The Boy (Nathan Levy) next door who fall in love. Also, instead of two fathers who use reverse psychology to get their children to fall in love, The Boy and The Boy now have two mommies (Leslie Rodriguez Kritzer and Ruthie Ann Miles) who feign hating each other, so build a wall between their respective homes. Parents who not only encourage but promote a same-sex affair? If this new “Fantasticks” is set in the future on some other planet, director Christopher Gattelli forgets to tell us. Purists need not freak out: Tom Jones wrote the musical’s book and lyrics, and gave this version his blessing. It required “a lot of rewriting, especially of lyrics,” Jones noted. “And when I actually began working it, I became more and more enthusiastic … I had great fu
 
-### ‘The Terminal List’ Keeps Growing: Prime Video Developing ‘Cry Havoc’ Spinoff
-Mon, 16 Nov 2026 20:30:40 +0000 — https://www.thewrap.com/creative-content/tv-shows/the-terminal-list-cry-havoc-spinoff-prime-video/
+### Ray Tintori, Filmmaker and ‘SNL’ Alum Heidi Gardner’s Boyfriend, Dies at 43
+Tue, 17 Nov 2026 02:36:11 +0000 — https://www.thewrap.com/creative-content/movies/ray-tintori-dead-filmmaker-heidi-gardner/
 
-The world of The Terminal List will continue to expand with an upcoming spinoff based on Jack Carr s Cry Havoc, which is in development at Prime Video. Cry Havoc follows Carr s youngest protagonist, Navy SEAL Tom Reece. Set in 1968 Vietnam, the story finds Reece assigned to the top-secret MACV-SOG unit, which is responsible for cross-border operations in Laos. He is plucked from the jungle and thrust into the shadows of Cold War espionage as his team prepares for the upcoming Tet Offensive. David DiGilio will executive produce and showrun the latest spinoff. Mark Adams, Chris Pratt, Carr, Jared Shaw, Antoine Fuqua and Kat Samick will also executive produce the Prime Video series. Adams and DiGilio wrote the pilot for the spinoff with Shaw and Carr also involved in the development process. The flagship series The Terminal List is set in 2015 and premiered on Prime Video in 2022. The action-thriller followed Pratt as Navy SEAL Lieutenant Commander James Reece, based on Carr s bestselling novels. Prime Video greenlit an extension of “The Terminal List” Nov. 5 that will see Pratt return as James Reece for an adaptation of Carr’s “Savage Son ,” the third book in Carr’s “Terminal List” series. The series will be produced by Amazon MGM Studios, MRC and Civic Center Media. It is unclear if “Savage Son” will serve as the third season of “The Terminal List” or if it will be a standalone series set within the world of the franchise. Carr s The Terminal List book series consists of eight
+Ray Tintori, a filmmaker and boyfriend of Saturday Night Live alum Heidi Gardner, has died at the age of 43. The New York City Office of the Chief Medical Examiner confirmed to multiple media outlets that the director, known for the short film “Jettison Your Loved Ones” and music videos for The Killers and Arcade Fire, had died in New York, but that the cause of death was still under investigation. Tintori was known for co-founding Court 13, a filmmaking collective that reached acclaim by helping the Best Picture nominee Beasts of the Southern Wild get made. Tintori first broke onto the scene with the 2005 short film Jettison Your Loved Ones, following that project up with 2007 s Death to the Tinman and 2016 s Follow My Lead: The Story of the 2016 NBA Finals. He also made a name for himself as a director of music videos, helming visuals for the likes of MGMT, Chairlift, Bonnie Prince Billy, The Cool Kids and Solange. Specifically, he made a splash with the work he did for MGMT’s “Electric Feel” and “Kids” videos, as well as The Killers’ “Spaceman” visual. The last music video Tintori directed was for MGMT s 2024 song “Dancing in Babylon, which featured Christine and the Queens. Tintori was dating comedian Gardner, having gone official with their relationship on Instagram in July 2025. Happy birthday to the angel of reality @heidilgardner, he wrote in a birthday tribute at the time. Prettier and more graceful than the moon and by far the coolest person I’ve ever met. My favori
 
 ## Collider
 
-### ‘Doctor Who’ Is Officially Returning, But There’s a Catch
-Mon, 16 Nov 2026 22:45:12 GMT — https://collider.com/doctor-who-the-satan-pit-extended-cut-specially-shot-sequence/
+### ‘Buffy the Vampire Slayer’ Officially Returns in 2027
+Tue, 17 Nov 2026 13:30:12 GMT — https://collider.com/buffy-the-vampire-slayer-angel-comics-delay-march-2027-release-date/
 
-What does the future of Doctor Who look like? It wasn't long ago that a partnership with Disney and the return of showrunner Russell T. Davies left fans feeling as if the show's heyday was on its way back. However, this couldn't be further from the truth, as Davies' return faced poor ratings, mixed fan reception, and the controversial exit of the new titular Time Lord, Ncuti Gatwa . This all culminated in the inevitable shelving of the series, as the BBC put it out to competitive tender earlier this year.
+Dynamite had announced in July 2025 that it had acquired the comic-book rights to Buffy the Vampire Slayer and Angel . Then things got much more concrete about resurrecting the IP in 2026 because Buffy got a release date for July 2026, and Angel was supposed to follow in August 2026. But then July came and went with no new Buffy release.
 
-### 10 Classic Rock Songs That Will Make Your Thanksgiving Playlist Unforgettable
-Mon, 16 Nov 2026 22:35:12 GMT — https://collider.com/classic-rock-songs-thanksgiving-playlist-unforgettable/
+### 10 HBO Miniseries That Are Perfect From Start to Finish
+Tue, 17 Nov 2026 13:15:12 GMT — https://collider.com/best-hbo-miniseries-perfect/
 
-Thanksgiving means a lot of different things to different people, but there are a few universal themes that can't be ignored . There's family, there's gratitude, and there's good food. Some people will have their favorite artists to accompany them during special, but for those who are still looking for inspiration, we got you covered.
+HBO has featured some of the greatest miniseries of all time. While the streaming service has no shortage of compelling movies and TV shows for viewers to get attached to, the miniseries stand out. For years, HBO has provided viewers with miniseries that have remained topical and have stood the test of time. While there are many miniseries to choose from, there are several that stand out and can be revisited again and again.
 
-### ‘Ghosts’ Season 6 Is Taking an Unnecessary Risk With Its Release Formula
-Mon, 16 Nov 2026 22:26:13 GMT — https://collider.com/ghosts-season-6-cbs-2026-schedule-change-problems/
+### Macaulay Culkin Officially Returns as ‘Home Alone’s Kevin McCallister
+Tue, 17 Nov 2026 13:00:12 GMT — https://collider.com/home-alone-macaulay-culkin-kevin-mccallister-return-mcdonalds/
 
-Comedy fans have been wondering when Ghosts will return for Season 6, and now they have their answer. Following a pair of holiday specials, the supernatural comedy will return in January 2027 in its usual time slot. However, there's a major change to its release schedule : the show will now air twice-weekly . In addition to its regular Thursday slot, Ghosts will also air episodes on Mondays following Eternally Yours . While this is an attempt to build a block of supernatural comedy programming, it might be a majorly wrong move on CBS's part.
+Macaulay Culkin gets recognized ten times more between November and January, by his own estimate, something he refers to as having “cornered the fourth quarter market.” Kevin McCallister spent Home Alone trying to get everybody to leave him alone, and now the holidays are when people are most likely to stop Culkin in the street.
 
-### India’s ‘Ramayana’ Officially Removed From Nearly 500 Theaters After 1 Week
-Mon, 16 Nov 2026 22:15:12 GMT — https://collider.com/ramayana-box-office-removed-500-theaters/
+### Prime Video’s 10/10 Fantasy Series Officially Not Returning in 2026
+Tue, 17 Nov 2026 13:00:12 GMT — https://collider.com/the-mighty-nein-season-2-premiere-date-prime-video/
 
-Last week, two international movies bookended the top-five list at the domestic box office, with Godzilla Minus Zero emerging as the number-one movie in North America. However, a significantly more expensive Indian film took the global crown and eventually beat Godzilla Minus Zero to the coveted $100 million mark worldwide . The movie in question continues to lead worldwide, even though it's trailing the monster epic domestically. That said, it registered a better hold in its second weekend, despite playing in a third of Godzilla Minus Zero 's theaters and losing nearly 500 locations.
+Prime Video' s most divisive fantasy release of the year arrived less than a week ago, and its four-episode premiere has already propelled the series to the top of the streaming charts. Set five years after Season 2, The Lord of the Rings: The Rings of Power Season 3 explores the height of the war between the Elves and the Dark Lord Sauron. The season is set to run through November 25, making it Prime Video's final fantasy release of the year. As a result, no other original fantasy titles will debut on the streamer this year, including one of its most underrated.
 
-### The 8 Best Fantasy Books for Pure Escapism
-Mon, 16 Nov 2026 22:08:12 GMT — https://collider.com/best-fantasy-books-pure-escapism/
+### BritBox’s Masterpiece Detective Thriller Gets Major Season 3 Update From EP
+Tue, 17 Nov 2026 13:00:12 GMT — https://collider.com/ludwig-season-3-update-ep-kenton-allen/
 
-Not all fiction needs to be escapist, but certain genres of speculative fiction in particular—perhaps fantasy most of all—lend themselves perfectly to stories that are all about immersing readers in stylized, imagined worlds that allow them to mentally detach from the stress and emotional fatigue of everyday life. Throughout history, many great fantasy novels have been written with immersion, entertainment, and escapism in mind, and have gone down in history as some of the genre's most legendary works as a result.
+Editor's note: The below interview contains minor spoilers for Ludwig Season 2.
 
-### The 10 Greatest Classic American Movies, Ranked
-Mon, 16 Nov 2026 21:49:12 GMT — https://collider.com/best-classic-american-movies-ranked/
+### 7 Most Hopeless War Books of All Time, Ranked
+Tue, 17 Nov 2026 12:52:12 GMT — https://collider.com/most-hopeless-war-books-all-time-ranked/
 
-Though we love the impact modern movies have had on Hollywood and our lives, there’s simply no denying how profoundly important the classics are in cinema today. As they say, they don’t make them like they used to! While there are literally hundreds of incredible Hollywood classics, we are here to celebrate the greatest classic films of all time.
+Whether they’re on a screen or on a page, great war stories play a key role in educating the wider public about the horrific realities of armed conflict. Particularly in the 20th and 21st centuries, the lived experiences of the World Wars, the Vietnam War, and more have inspired some brilliant and bleak novels, many of which rank among the greatest works of literature ever written.
 
-### 3 Elite Netflix Series to Binge This Week (Nov 16-20)
-Mon, 16 Nov 2026 21:47:12 GMT — https://collider.com/netflix-shows-binge-week-november-16-2026/
+### Apple TV's Best Sci-Fi Series Officially Confirms Major Season 2 Change
+Tue, 17 Nov 2026 12:30:12 GMT — https://collider.com/pluribus-season-2-casting-samba-schutte-series-regular-apple-tv/
 
-Netflix has been taken over by the perfect follow-up to Prime Video's recent adaptation of Stephen King 's Carrie . The Body , a brilliant, twisting thriller starring Kristina Bogic and Sara Boustany , has taken the #1 spot on the Netflix charts in the U.S. " The Body is like nothing else on streaming right now," wrote Gabrielle Moss in Collider's review , with this unique appeal helping to catapult Netflix's latest hit to the streaming summit. But it isn't the only show that should be on your radar at the moment. With that in mind, here's a look at three shows you should binge-watch on Netflix this week .
+After a phenomenal first season that broke viewership records, Apple TV' s best sci-fi series will return for another run, but sadly, not this year. The acclaimed drama premiered on November 7, 2025, with a perfect 100% critics' score on Rotten Tomatoes , while setting a new Apple TV record for a drama series premiere. Before Season 1 ended, it had become the platform's most-watched series in history, surpassing both Severance and Ted Lasso . It also received 18 Emmy Award nominations and took home six, including Outstanding Lead Actress and Outstanding Writing for a Drama Series.
 
-### Chris Pratt’s ‘Reacher’ Replacement Officially Gets New Prequel
-Mon, 16 Nov 2026 21:41:45 GMT — https://collider.com/the-terminal-list-prequel-prime-video-cry-havoc/
+### The 8 Greatest Harrison Ford Thrillers, Ranked
+Tue, 17 Nov 2026 12:03:12 GMT — https://collider.com/best-harrison-ford-thriller-movies-ranked/
 
-2026 has been another successful year for Chris Pratt , who has starred in some big-budget projects both on TV and streaming. At the start of the year, Pratt worked with sci-fi legend Rebecca Ferguson for the Amazon-backed AI thriller, Mercy . While the film bombed at the box office, it did go on to become one of the most-watched titles of the year on Prime Video — redemption comes in all shapes and sizes. It didn’t take Pratt long to find box office glory, though, as he reunited with Anya Taylor-Joy as the duo reprised their roles in The Super Mario Galaxy Movie , which was the first feature film of 2026 to gross over $1 billion at the box office. He can also be seen in the second season of The Terminal List on Prime Video.
+Harrison Ford is one of the greatest actors living today, with a career spanning more than five decades and a filmography filled with some of Hollywood's biggest movies. From playing iconic characters like Han Solo and Indiana Jones to smaller, supporting roles, Ford is always a reliable presence in every movie he's in . A significant part of his filmography is also made up of thriller films, which he also excels in.
 
-### 'A Charlie Brown Thanksgiving' Has a Peppermint Patty Problem
-Mon, 16 Nov 2026 21:24:12 GMT — https://collider.com/a-charlie-brown-thanksgiving-peppermint-patty-problem/
+### Netflix’s Longest-Running Sci-Fi Series Officially Not Returning in 2026
+Tue, 17 Nov 2026 12:00:12 GMT — https://collider.com/netflix-sci-fi-series-black-mirror-season-8-release-window-2027/
 
-Poor Charlie Brown . If he isn’t making life worse for himself, then the world does it for him, like getting rocks for treats at Halloween, as he did in It's the Great Pumpkin, Charlie Brown . He is, for lack of a better word, a magnet for grief and misfortune. But in A Charlie Brown Thanksgiving , the source of his grief at least has a name: Peppermint Patty ( Christopher DeFaria ). And she's a problem .
+Netflix has become the biggest streaming service in the world by overall subscriber numbers, and it would never have reached these heights if it wasn’t willing to please fans of all genres. One genre that it has especially catered to over the years, though, is sci-fi, where it has debuted some of the most-watched movies and TV shows of the last few years. One of the first projects that comes to mind is Stranger Things , which was written and created by the Duffer brothers , Ross and Matt . The show went off the air at the end of last year, but Netflix has already announced the first live-action spin-off coming in 2028. On the movie side of development, Netflix also found success this year with the launch of War Machine , the sci-fi thriller starring Alan Ritchson that’s officially getting a sequel.
 
-### Win Free Tickets to Our 'The Hunger Games: Sunrise on the Reaping' Screening With Q&A
-Mon, 16 Nov 2026 21:19:16 GMT — https://collider.com/the-hunger-games-sunrise-on-the-reaping-screening-francis-lawrence/
+### The 10 Most Hopeless Network TV Shows, Ranked
+Tue, 17 Nov 2026 11:56:12 GMT — https://collider.com/most-hopeless-network-tv-shows-ranked/
 
-Welcome, welcome! Collider is proud to announce that we’re partnering with Lionsgate to offer our readers the opportunity to catch a very special screening of The Hunger Games: Sunrise on the Reaping in theaters with us, where director Francis Lawrence will join us after the credits roll for an exclusive Q&A conversation. Read on for more information on how you can enter for your chance to win free tickets.
+At 9:58 p.m., network television used to commit unspeakable crimes against my nervous system. And the nostalgic vibe of it is priceless still. It would be almost time to go to bed and somebody would discover a body, recognize a familiar face in the wrong place, or open a door they absolutely should have left closed. Then the screen went black. Seven days until the next episode. Seven! And all week, I'd be imagining increasingly terrible possibilities for people who weren't even real.
 

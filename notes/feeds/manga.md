@@ -1,6 +1,51 @@
-# Manga — harvested 2026-11-16T23:01:20.270Z
+# Manga — harvested 2026-11-17T13:51:18.717Z
 
 ## Anime News Network
+
+### Mistress Kanan is Devilishly Easy Season 2's 1st Video Unveils More Cast & Staff, 2027 Debut
+Tue, 17 Nov 2026 05:53:39 -0500 — https://www.animenewsnetwork.com/news/2026-11-17/mistress-kanan-is-devilishly-easy-season-2-1st-video-unveils-more-cast-and-staff-2027-debut/.243905
+
+Returning cast, staff for <cite>Kanan-sama wa Akumade Choroi 2 EASY</cite> also confirmed
+
+### Josemaru Short Anime's 3rd Teaser Reveals More Cast, January 10 Debut
+Tue, 17 Nov 2026 04:51:14 -0500 — https://www.animenewsnetwork.com/news/2026-11-17/josemaru-short-anime-3rd-teaser-reveals-more-cast-january-10-debut/.243904
+
+Mariya Ise, Hikaru Tōno, Nana Enomoto join cast
+
+### Sonic the Hedgehog, McLaren Racing Collaborates on 3-Episode Animated Special
+Tue, 17 Nov 2026 04:17:45 -0500 — https://www.animenewsnetwork.com/news/2026-11-17/sonic-the-hedgehog-mclaren-racing-collaborates-on-3-episode-animated-special/.243899
+
+<cite>Sonic the Hedgehog x McLaren Racing: Beyond Fast</cite> previewed in teaser
+
+### The Eternal Fool's Words of Wisdom Anime's New Video Unveils More Cast, Theme Songs, January 9 Debut
+Tue, 17 Nov 2026 04:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-17/the-eternal-fool-words-of-wisdom-anime-new-video-unveils-more-cast-theme-songs-january-9-debut/.243889
+
+Rie Kugimiya joins cast as Aileen; Nako Misaki × sajou no hana, Arcana Project perform theme songs
+
+### Gundam Seed Freedom Zero & Fool Night Stand Back-to-Back in Crossover Art
+Mon, 16 Nov 2026 23:59:00 -0500 — https://www.animenewsnetwork.com/interest/2026-11-16/gundam-seed-freedom-zero-and-fool-night-stand-back-to-back-in-crossover-art/.243892
+
+Two “seeds” come together before their respective releases
+
+### Live-Action Twisted Sisters Series Reveals More Cast, January 10 Debut
+Mon, 16 Nov 2026 23:43:31 -0500 — https://www.animenewsnetwork.com/news/2026-11-16/live-action-twisted-sisters-series-reveals-more-cast-january-10-debut/.243890
+
+Hiroshi Tachi, Jin Shirasu, Rui Kurihara, Haruki Mochizuki, Tomu Miyazaki, 3 more join cast
+
+### Live-Action My Sister's Boyfriend Film's New Video Highlights Song by timelesz
+Mon, 16 Nov 2026 23:34:31 -0500 — https://www.animenewsnetwork.com/news/2026-11-16/live-action-my-sister-boyfriend-film-new-video-highlights-song-by-timelesz/.243893
+
+Film opens in Japan on December 4
+
+### Haruhi Suzumiya Collaborates With Sanrio Characters
+Mon, 16 Nov 2026 23:00:00 -0500 — https://www.animenewsnetwork.com/interest/2026-11-16/haruhi-suzumiya-collaborates-with-sanrio-characters/.243507
+
+Sanrio characters aren't quite the aliens, time-travelers, & espers Haruhi's looking for
+
+### Tetsuya Tsutsui Launches New Ortrans Manga
+Mon, 16 Nov 2026 18:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-16/tetsuya-tsutsui-launches-new-ortrans-manga/.243867
+
+<cite>Ortrans</cite> debuts on January 21
 
 ### D.I.C.E. Awards Honors Nintendo Game Creator Shigeru Miyamoto With Inaugural Legend Award
 Mon, 16 Nov 2026 17:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-16/d.i.c.e-awards-honors-nintendo-game-creator-shigeru-miyamoto-with-inaugural-legend-award/.243870
@@ -17,56 +62,26 @@ Mon, 16 Nov 2026 15:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-1
 
 Yamagata performed theme songs for <cite>Hyakujuu Sentai Gaoranger</cite>, <cite>Yattodetaman</cite>, <cite>Bakusō Kyōdai Let's & Go!!</cite>
 
-### Hello, I Am a Witch and My Crush Wants Me to Make a Love Potion! ‒ Episode 7
-Mon, 16 Nov 2026 14:30:00 -0500 — https://www.animenewsnetwork.com/review/hello-i-am-a-witch-and-my-crush-wants-me-to-make-a-love-potion/episode-7/.243862
-
-Princesses almost never get the fairy tale ending.
-
-### Godzilla Minus Zero Earns US$8 Million in 73% Drop at U.S. Box Office, Passes US$100 Million Worldwide
-Mon, 16 Nov 2026 14:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-16/godzilla-minus-zero-earns-usd8-million-in-73-percent-drop-at-u.s-box-office-passes-usd100-million-/.243859
-
-Live-action <cite>Street Fighter</cite> ranks at #16 in U.S.
-
-### From Far Away ‒ Episode 7
-Mon, 16 Nov 2026 13:30:00 -0500 — https://www.animenewsnetwork.com/review/from-far-away/episode-7/.243860
-
-Barago isn't an inherently bad person. He's someone who let his ambitions get the better of him
-
-### LiSA, BABYMETAL Earn Nominations for 2027 Grammy Awards' New Best Asian Pop Music Performance Category
-Mon, 16 Nov 2026 13:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-16/lisa-babymetal-earn-nominations-for-2027-grammy-awards-new-best-asian-pop-music-performance-category/.243861
-
-BINI, SB19, IVE, KiiiKiii also nominated for new category
-
-### A Certain Dark Item ‒ Episode 6
-Mon, 16 Nov 2026 12:30:00 -0500 — https://www.animenewsnetwork.com/review/a-certain-dark-item/episode-6/.243847
-
-If the next episode is just more talking and posturing, I'm going to lose it.
-
-### French Manga, Comic Creator Frédéric Boilet Dies at 66
-Mon, 16 Nov 2026 11:30:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-16/french-manga-comic-creator-frederic-boilet-dies-at-66/.243766
-
-Boilet drew <cite>Yukiko's Spinach</cite>, <cite>Mariko Parade</cite> manga
-
-### #I'm Looking For a Zombie ‒ Episode 6
-Mon, 16 Nov 2026 11:30:00 -0500 — https://www.animenewsnetwork.com/review/im-looking-for-a-zombie/episode-6/.243848
-
-There is one thing about this episode that stands out to me, and it's not good.
-
-### The Days of Diamond Manga Gets TV Anime
-Mon, 16 Nov 2026 10:41:18 -0500 — https://www.animenewsnetwork.com/news/2026-11-16/the-days-of-diamond-manga-gets-tv-anime/.243858
-
-Takakazu Nagatomo to direct anime of Ōhashi Hirai's manga at Lapin Track
-
-### Devils' Crest ‒ Episode 3
-Mon, 16 Nov 2026 10:30:00 -0500 — https://www.animenewsnetwork.com/review/devils-crest/episode-3/.243846
-
-Once the life-and-death battle is done and their classmates are located, Yuma starts asking the big questions—namely, what's going on with his sister?
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Mistress Kanan Is Devilishly Easy Season 2 Anime Reveals Visual, Trailer, Additional Cast
+Tue, 17 Nov 2026 10:50:25 GMT — https://animecorner.me/mistress-kanan-is-devilishly-easy-season-2-anime-reveals-visual-trailer-additional-cast/
+
+The previously announced Mistress Kanan Is Devilishly Easy Season 2, now titled Mistress Kanan&hellip;
+
+### The Eternal Fool's Words of Wisdom: A Pawsitively Fantastic Adventure Anime Unveils Main Trailer, January 9 Premiere, Additional Cast, Theme Songs
+Tue, 17 Nov 2026 09:02:20 GMT — https://animecorner.me/the-eternal-fools-words-of-wisdom-a-pawsitively-fantastic-adventure-anime-unveils-main-trailer-january-9-premiere-additional-cast-theme-songs/
+
+The Eternal Fool's Words of Wisdom: A Pawsitively Fantastic Adventure anime TV anime unveiled&hellip;
+
+### Interview: Paru Itagaki on Beastars, Sanda, and Taika's Reason
+Mon, 16 Nov 2026 23:45:08 GMT — https://animecorner.me/interview-paru-itagaki-on-beastars-sanda-and-taikas-reason/
+
+Manga author Paru Itagaki sat down with us during her stay at Lucca Comics&hellip;
 
 ### Interview: Yoko Kanno During First Lucca Comics & Games Apperance
 Mon, 16 Nov 2026 22:38:35 GMT — https://animecorner.me/interview-yoko-kanno-during-first-lucca-comics-games-apperance/
@@ -98,12 +113,17 @@ Sun, 15 Nov 2026 23:54:03 GMT — https://animecorner.me/witch-watch-season-2-pr
 
 Witch Watch Season 2 is set to premiere in 2027. A teaser visual featuring&hellip;
 
-### MyGO and Ave Mujica Anime Sequel Unveils 2nd Trailer Featuring MyGO
-Sun, 15 Nov 2026 11:09:57 GMT — https://animecorner.me/mygo-and-ave-mujica-anime-sequel-unveils-2nd-trailer-featuring-mygo/
-
-A second trailer was unveiled for the upcoming anime sequel to MyGO and Ave&hellip;
-
 ## MyAnimeList News
+
+### Additional Cast for Odoru Sennen Kazoku Announced
+Tue, 17 Nov 2026 05:09:47 -0800 — https://myanimelist.net/news/74949726?_location=rss
+
+The official website for the television anime adaptation of Akira Kazugai s Odoru Sennen Kazoku (Millennium Family) manga announced six additional cast members on Sunday. The anime series will air on TBS and other channels. Cast Arthur: Mutsumi Tamura (Kobayashi-san Chi no Maid Dragon) Raine: Haruna Mikawa (Ore dake Level Up na Ken) Noel: Taihi Kimura (Onmyou Kaiten Re:Birth) Eve: Lynn (Bokutachi wa Benkyou ga Dekinai) Hayden: Katsuyuki Konishi (Kimetsu no Yaiba) Hugo: Ryouta Suzuki (Kaguya...
+
+### Kanan-sama wa Akumade Choroi 2nd Season Reveals Additional Cast, New Staff, First Promo, 2027 Debut
+Tue, 17 Nov 2026 01:56:09 -0800 — https://myanimelist.net/news/74949337?_location=rss
+
+The official website for the television anime adaptation of nonco s Kanan-sama wa Akumade Choroi (Mistress Kanan is Devilishly Easy) manga revealed additional cast, new staff, a teaser visual (pictured), and the first promotional video for the second season, subtitled Easy, on Tuesday. The anime series will premiere in 2027. Cast Tekka Shinryuuji: Misato Matsuoka (Yani Neko) Hanako Ohanabatake: Miku Itou (5-toubun no Hanayome) Lily Kageno: Miyu Tomita (Kaguya-sama wa Kokurasetai? Tensai-tac...
 
 ### Manga Diamond no Kouzai Gets TV Anime
 Mon, 16 Nov 2026 07:18:10 -0800 — https://myanimelist.net/news/74946798?_location=rss
@@ -131,13 +151,13 @@ _Nothing in the last 48 hours._
 
 ## Anime UK News
 
+### Twilight out of Focus: Afterimages in Slow Motion 2 Volume 7 Review
+Tue, 17 Nov 2026 10:00:59 +0000 — https://animeuknews.net/2026/11/twilight-out-of-focus-afterimages-in-slow-motion-2-volume-7-review/
+
+Rival high school film directors Jin and Giichi are now boyfriends – but what will happen to their relationship when Jin graduates and leaves for college?
+
 ### Fate/Grand Order Absolute Demonic Front: Babylonia Part 2 Collector s Edition Review
 Mon, 16 Nov 2026 10:00:05 +0000 — https://animeuknews.net/2026/11/fate-grand-order-absolute-demonic-front-babylonia-part-2-collectors-edition-review/
 
 The rather wordy spin-off of the Fate series based on a latter chapter of a mobile game concludes with Part 2, so it’s time to answer the question: does this chunk of story work when watched in isolation?
-
-### The Seaside Where Dragon Boys Dwell Volume 1 Review
-Sun, 15 Nov 2026 10:00:45 +0000 — https://animeuknews.net/2026/11/the-seaside-where-dragon-boys-dwell-volume-1-review/
-
-After the passing of her father, Mizuka moves in with her uncle in the seaside town of Komorisaki which is famous for being inhabited by 'dragon folk', one of whom Mizuka will now also find herself living with! Will these two be able to coexist and heal each other's wounds?
 

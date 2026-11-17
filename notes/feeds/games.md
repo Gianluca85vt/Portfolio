@@ -1,6 +1,51 @@
-# Games — harvested 2026-11-16T23:01:20.270Z
+# Games — harvested 2026-11-17T13:51:18.717Z
 
 ## Eurogamer
+
+### Call of Duty might have swapped guns and tanks for knights and swords if an Infinity Ward experiment had panned out
+Tue, 17 Nov 2026 12:49:20 +0000 — https://www.eurogamer.net/call-of-duty-medieval-prototype-infinity-ward
+
+As much as Call of Duty is criticised for delivering the same thing every year, reports occasionally surface of attempts to take the series in bold new directions, even if none of these experiments have so far seen the light of day. And it turns out a medieval Call of Duty was also explored at one time. Read more
+
+### Is it time to retire Dragon Quest as a series? Chrono Trigger composer Yasunori Mitsuda thinks it might be
+Tue, 17 Nov 2026 12:27:00 +0000 — https://www.eurogamer.net/dragon-quest-series-composer-akira-toriyama
+
+Chrono Trigger composer Yasunori Mitsuda thinks it may be time for Square Enix to retire Dragon Quest, while reflecting on the direction of the popular RPG series after Akira Toriyama's death . The mangaka, whose art and distinct style were foundational to Chrono Trigger and Chrono Cross - and are still used in Dragon Quest to this day - died in 2024 at the age of 68. Read more
+
+### As blockbuster game releases run scared from GTA 6, meet the brave devs tackling Rockstar's behemoth head-on
+Tue, 17 Nov 2026 12:01:20 +0000 — https://www.eurogamer.net/grand-theft-auto-6-meet-the-developers-tackling-it-head-on
+
+Grand Theft Auto 6 . It's got cool cars, crime, a big new city to explore, and the potential to hoover up so much player time that many developers have chosen to give it the widest berth possible. It's led to an October uncommonly packed with big-hitters, and a November - ordinarily one of gaming's biggest months - that's near-barren. But not every developer is steering clear. Despite the potential risks, a select few have looked at GTA 6 and seen not a threat but an opportunity, so what's driving these brave souls? Read more
+
+### "Encouraging players to return is no mean feat" - Square Enix tempts Final Fantasy 14 players back with free game-time to fill void before new expansion
+Tue, 17 Nov 2026 11:48:50 +0000 — https://www.eurogamer.net/final-fantasy-14-free--game-time-expansion-evercold
+
+Final Fantasy 14 is between expansions at the moment, with Evercold preparing for release in February. So, in order to keep the game populated for the next few months, Square Enix is running a special promotion in hopes of tempting players back in. Read more
+
+### After GTA 6's original soundtrack, Justice probably won't work on any other video game ever again
+Tue, 17 Nov 2026 10:57:50 +0000 — https://www.eurogamer.net/gta-6-justice-ost-only-game
+
+You've probably heard at least a little bit of the Grand Theft Auto 6 soundtrack from French electronic duo, Justice: a single taken from the act's original soundtrack has been released as a standalone track, and was the accompaniment to GTA 6's launch trailer . Featuring Tame Impala, SZA, and the fantastic King Gizzard and the Lizard Wizard, it's clear that the duo - and Rockstar - have spared no expense on the production of music for the game. Read more
+
+### Sony squeezes out a PlayStation 5 firmware update before the release of GTA 6
+Tue, 17 Nov 2026 10:51:50 +0000 — https://www.eurogamer.net/ps5-firmware-update-gta-6
+
+Sony has managed to squeeze out another PlayStation 5 firmware update before the highly-anticipated release of Grand Theft Auto 6 . Read more
+
+### Grand Theft Auto: San Andreas is GTA 5 without the finesse - so why is the 2004 classic such a strange delight to return to?
+Tue, 17 Nov 2026 10:11:00 +0000 — https://www.eurogamer.net/returning-to-gta-san-andreas-grand-theft-auto-5-6
+
+There is a place in Whitewood Estates where a promising stretch of blacktop suddenly gives way to the desert. It feels like the road has been erased, a sentence left unfinished. It's quietly strange, a weird bit of urban wrongfooting. But I guess it makes some kind of sense. California, after all, is home to California City, a town that was planned and then never really built. It sits out there now, north of Los Angeles, streets laid out but slowly being eaten by the sand and dirt. Still, 14,000 people lived there as of 2018. Design limitation or something stranger, this digital dead end is a reminder that all of this land, so modern, so ancient - all of this is spook country. Read more
+
+### World of Warcraft: Forever's in-game economy has been ravaged by an exploit that allowed players to farm thousands of gold
+Tue, 17 Nov 2026 09:51:30 +0000 — https://www.eurogamer.net/world-of-warcraft-forever-gold-farm-exploit
+
+World of Warcraft: Forever has suffered its first economic nightmare, as a dungeon farm exploit has left some players with thousands of gold in their bags while the vast majority of players are barely above their first hundred. Read more
+
+### EA really doesn't want you to delete Madden NFL 27 to make room for GTA 6
+Tue, 17 Nov 2026 09:17:20 +0000 — https://www.eurogamer.net/ea-madden-nfl-27-dont-delete-gta-6
+
+Assuming you didn't just buy a PlayStation 5 or Xbox Series X/S to play Grand Theft Auto 6 , your console's limited storage space is likely already strained, meaning tough choices may have to be made to make room for Rockstar's chonky 212GB crime game . Read more
 
 ### Star Wars: Galactic Racer is getting much-requested split-screen multiplayer and new mode in 2027
 Mon, 16 Nov 2026 19:38:20 +0000 — https://www.eurogamer.net/star-wars-galactic-racer-split-screen-multiplayer
@@ -17,52 +62,32 @@ Mon, 16 Nov 2026 17:48:40 +0000 — https://www.eurogamer.net/uk-conservative-ke
 
 Leader of the UK Conservative Party (and former Mortal Kombat player) Kemi Badenoch is more worried about the amount of time people will spend playing GTA 6 rather than the game itself. Read more
 
-### World of Warcraft: Forever completionists push back as Blizzard gives them a powerful toy and then prepares to take it away
-Mon, 16 Nov 2026 16:43:10 +0000 — https://www.eurogamer.net/world-of-warcraft-forever-toy-pouch-of-violent-dust
-
-With the launch of World of Warcraft: Forever there's a whole new world filled with niche gear and strange baubles to collect. But one item in particular has drawn the ire of the creators of a popular completionist add-on. Read more
-
-### Ever wanted to play a multiplayer version of Cyberpunk 2077 with your friends? Well, thanks to a mod now in beta, you can
-Mon, 16 Nov 2026 14:19:10 +0000 — https://www.eurogamer.net/cyberpunk-2077-multiplayer-mod-open-beta
-
-You may have recently read that CD Projekt Red's in-development Cyberpunk 2 may be trying to revive the original game's online ambitions . But, if you don't want to wait the many years it'll likely be before the Cyberpunk 2077 sequel arrives, then I've got good news for you: Cyberpunk 2077 multiplayer mod CyberMP is now out in open beta. Read more
-
-### Can GTA 6 make $2 billion in its opening weekend? One industry analyst has run the numbers, and seems to think so
-Mon, 16 Nov 2026 13:20:30 +0000 — https://www.eurogamer.net/can-gta-6-make-2-billion-in-its-opening-weekend-one-industry-analyst-has-run-the-numbers-and-seems-to-think-so
-
-We all know the story of GTA 5 making more than $1 billion in the first three days it was on sale , right? At the time, Take-Two believed this to be the fastest any entertainment property had achieved the impressive milestone - music and films included. It made history, and with ease. And it looks like GTA 6 is going to do even better. Read more
-
-### The next Xbox, Project Helix, is a console and "not a PC" says Microsoft, as it clarifies that computational power isn't sole focus this time
-Mon, 16 Nov 2026 12:08:40 +0000 — https://www.eurogamer.net/microsoft-project-helix-interview-details
-
-Microsoft has stressed that its next-generation Xbox console, Project Helix, "is not a PC that can also play console games", but rather "a console that is also capable of playing games from your PC". The company has also underlined the importance of using gen-AI-adjacent "neural rendering" technology going forwards, and a desire to remove "all the barriers of play that have historically existed" - notably in making the past generations of games playable. Read more
-
-### Umamusume: Pretty Derby parent company plans to release seven new games by 2030 as it boasts an "88 percent hit rate" on its mobile titles
-Mon, 16 Nov 2026 11:20:50 +0000 — https://www.eurogamer.net/umamusume-dev-seven-new-games-2030
-
-Cyberagent - the parent company of Umamusume: Pretty Derby developer Cygames - has boasted its recent successes in the mobile gaming sphere in a recent quarterly earnings presentation. Read more
-
-### EA hires another former Call of Duty boss to take the lead on all Battlefield Studios' projects
-Mon, 16 Nov 2026 09:24:00 +0000 — https://www.eurogamer.net/battlefield-call-of-duty-sam-cooper-byron-beede-live-service
-
-EA has made some notable leadership changes within its studios group, and in who oversees the Battlefield franchise. Byron Beede, previously Battlefield's general manager, has been promoted to group general manager. Read more
-
-### Police arrest suspect after drive-by shooting at office campus housing Xbox studio inXile
-Sun, 15 Nov 2026 17:47:40 +0000 — https://www.eurogamer.net/inxile-office-shooting-tustin-suspect-arrested
-
-Police have arrested a suspect after a drive-by shooting at an office campus in Tustin, California, which is home to Xbox-owned studio inXile Entertainment. Read more
-
-### Cyberpunk 2077 mod Torrent adds 3D rain, lightning storms, and tyre spray to Night City
-Sun, 15 Nov 2026 17:39:20 +0000 — https://www.eurogamer.net/cyberpunk-2077-torrent-rain-weather-mod
-
-A new Cyberpunk 2077 mod has overhauled Night City's rain, swapping the game's flat wet weather effects for individual 3D drops and adding lightning storms. Read more
-
-### Treyarch lays off lead Call of Duty writer and Zombies veteran after "approximately 20 years" of service
-Sun, 15 Nov 2026 15:14:10 +0000 — https://www.eurogamer.net/craig-houston-layoff-treyarch-call-of-duty-layoffs
-
-Treyarch's former Senior lead writer, Craig Houston, has been laid off after approximately 20 years of service with the developer. In a post made to both his Twitter/X account and LinkedIn , the developer thanked fans for their support during his two decades with the company and confirmed he was impacted by recent reorganistation within the studio. Read more
-
 ## GamesIndustry.biz
+
+### Xbox's Project Helix "is not a PC that can also play console games"
+Tue, 17 Nov 2026 11:44:00 +0000 — https://www.gamesindustry.biz/xboxs-project-helix-is-not-a-pc-that-can-also-play-console-games
+
+Xbox VP of Next Generation Jason Ronald has clarified that Project Helix is "designed to be a console that is also capable of playing games, not a PC that can also play console games." Read more
+
+### Unity acquires 3D asset creator Synty Studios; artist-created content to be integrated into AI game-creation platform Unity Spark
+Tue, 17 Nov 2026 09:53:30 +0000 — https://www.gamesindustry.biz/unity-acquires-3d-asset-creator-synty-studios-artist-created-content-to-be-integrated-into-ai-game-creation-platform-unity-spark
+
+Unity has acquired 3D asset creator and publisher Synty Studios. Read more
+
+### Lisbon-based Studio Bravarda closes down after failing to recoup dev costs on its most recent title, Extremely Powerful Capybaras
+Tue, 17 Nov 2026 08:55:00 +0000 — https://www.gamesindustry.biz/lisbon-based-studio-bravarda-closes-down-after-failing-to-recoup-dev-costs-on-its-most-recent-title-extremely-powerful-capybaras
+
+Indie developer Studio Bravada has announced its closure after its second title, Extremely Powerful Capybaras, failed to recoup development costs over three years. Read more
+
+### Newzoo: GTA 6 pre-orders are archetypal console players but overwhelmingly male; game will "grow the market rather than simply redistribute it"
+Tue, 17 Nov 2026 07:00:00 +0000 — https://www.gamesindustry.biz/newzoo-gta-6-pre-orders-are-archetypal-console-players-but-overwhelmingly-male-game-will-grow-the-market-rather-than-simply-redistribute-it
+
+GTA 6 preorders are from archetypal, high-spending console gamers, overwhelmingly male, and most have a history of spending on the franchise, according to data from Newzoo shared exclusively with GamesIndustry.biz ahead of the game's final release on Thursday. Read more
+
+### Sensor Tower: GTA 6 pre-orders exceed $1.4bn, with 87% for the Ultimate Edition
+Tue, 17 Nov 2026 01:00:00 +0000 — https://www.gamesindustry.biz/sensor-tower-gta-6-pre-orders-exceed-14bn-with-87-for-the-ultimate-edition
+
+Sensor Tower estimates Grand Theft Auto 6 has generated over $1.4 billion in pre-order revenue , with 87% of orders for the Ultimate Edition. Read more
 
 ### Monster Hunter Outlanders passes $10.2 million in IAP revenue in two weeks
 Mon, 16 Nov 2026 20:05:40 +0000 — https://www.gamesindustry.biz/monster-hunter-outlanders-passes-102-million-in-iap-revenue-in-two-weeks
@@ -94,6 +119,31 @@ Unity has launched the Unity Fellowship program , offering indie developers plan
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### The Blood of Dawnwalker Patch 1.2 Out Now on PS5, Adds New Game+
+Tue, 17 Nov 2026 13:30:00 GMT — https://www.pushsquare.com/news/2026/11/the-blood-of-dawnwalker-patch-1-2-out-now-on-ps5-adds-new-gameplus
+
+You've got a 4.157GB update waiting. As teased towards the end of last week, The Blood of Dawnwalker studio Rebel Wolves has updated its PS5 RPG with a new game+ mode, available to download now. It's a 4.157GB download, and the option to play the game again whilst carrying over your level, skills, and inventory is the main attraction. Read the full article on pushsquare.com
+
+### Random: KFC Australia Staging Fake Funeral to Give GTA 6 Fans a Legit Reason to Skip Work
+Tue, 17 Nov 2026 13:00:00 GMT — https://www.pushsquare.com/news/2026/11/random-kfc-australia-staging-fake-funeral-to-give-gta-6-fans-a-legit-reason-to-skip-work
+
+Kentucky Fried Commiserations. GTA 6 mania has paved the way to some pretty wild headlines over the last couple of years, but now, as we approach the finish line, KFC might have provided the craziest yet. In Australia, the fast food chain has announced it's holding a fake funeral in order to provide people with a plausible reason to take the day off work. Yes, really. Read the full article on pushsquare.com
+
+### 5 More November 2026 PS Plus Extra, Premium Games Available to Download Now
+Tue, 17 Nov 2026 10:00:00 GMT — https://www.pushsquare.com/news/2026/11/5-more-november-2026-ps-plus-extra-premium-games-available-to-download-now
+
+The main PS Plus Extra, Premium update day is here. PS Plus Extra and PS Plus Premium subscribers can boot up their PS5, PS4 boxes today to find a considerable library refresh, as the service's main November 2026 update is now live. If you live anywhere other than the UK, USA, and Japan, then you get the whole lineup of 10 games today . However, with Sony's ongoing experiment impacting the rollout, the following five titles are now live in the UK, USA, and Japan: Read the full article on pushsquare.com
+
+### Yet Another PS5 Firmware Update Is Ready to Download Now as GTA 6 Approaches
+Tue, 17 Nov 2026 09:45:00 GMT — https://www.pushsquare.com/news/2026/11/yet-another-ps5-firmware-update-is-ready-to-download-now-as-gta-6-approaches
+
+And it's mandatory. Sony has issued another system software update for PS5, and if you want access to any online features, you'll be forced to download and install it. Yes, this is a required update; it brings the firmware to version 26.07-14.23.00, and is a fairly small 1.3 GB. Read the full article on pushsquare.com
+
+### GTA 6 s Unpredictable Microclimate Revealed by The Weather Channel, with New PS5 Screenshots
+Tue, 17 Nov 2026 00:00:00 GMT — https://www.pushsquare.com/news/2026/11/gta-6s-unpredictable-microclimate-revealed-by-the-weather-channel-with-new-ps5-screenshots
+
+Dress for the weather. GTA 6’s marketing has kicked into overdrive days ahead of its PS5 release, with even The Weather Channel offering an exclusive look into Leonida’s microclimate. In a viral social media post, the US TV network said “nobody knows weather like we do that’s why Rockstar gave us an exclusive look at the forecast for Leonida”. Read the full article on pushsquare.com
 
 ### Play 4 Hours of the Fantastic Control Resonant on PS Plus Premium
 Mon, 16 Nov 2026 21:00:00 GMT — https://www.pushsquare.com/news/2026/11/play-4-hours-of-the-fantastic-control-resonant-on-ps-plus-premium
@@ -130,31 +180,6 @@ Mon, 16 Nov 2026 16:00:00 GMT — https://www.pushsquare.com/guides/gta-6-releas
 
 All the GTA 6 release info you need. Probably the most anticipated game of all time, GTA 6 is now just a few days away! As the launch draws even closer, we're covering absolutely everything you need to know about its PS5 launch, including preload options and release times. In this GTA 6 guide , we cover the GTA 6 release times . Read the full article on pushsquare.com
 
-### Rumour: Persona 6 Blowout Primed for The Game Awards
-Mon, 16 Nov 2026 15:30:00 GMT — https://www.pushsquare.com/news/2026/11/rumour-persona-6-blowout-primed-for-the-game-awards
-
-Green for go. There's reason to believe that we'll get our first proper look Persona 6 next month, during The Game Awards. This rumour stems from Reddit user ronakwya , who has, rather diligently, been keeping tabs on the game's Japanese website. The idea being that if the domain receives any backend updates, it could mean that an announcement is incoming. Read the full article on pushsquare.com
-
-### God of War: Sons of Sparta Out Now on PS4, New Modes for PS5 Too
-Mon, 16 Nov 2026 15:00:00 GMT — https://www.pushsquare.com/news/2026/11/god-of-war-sons-of-sparta-out-now-on-ps4-new-modes-for-ps5-too
-
-Both versions includes in purchase. It's now been confirmed God of War: Sons of Sparta , the mostly forgotten Metroidvania game that launched earlier this year, will indeed be ported back to PS4 . Having debuted on PS5 in February, the PS4 version launches next week, on 16th November 2026. Read the full article on pushsquare.com
-
-### PlayStation Black Friday Sale Is Live Now, Up to $100 Off PS5 Accessories, PSVR2
-Mon, 16 Nov 2026 13:00:00 GMT — https://www.pushsquare.com/news/2026/11/playstation-black-friday-sale-is-live-now-up-to-usd100-off-ps5-accessories-psvr2
-
-But no PS5 consoles included. Alongside its ongoing PS Store Black Friday sale and a new PS Plus promotion that goes live tomorrow, Sony has also detailed the range of discounts it'll apply to PS5 accessories from 16th November 2026. Here are the discounts Sony is offering on PlayStation Direct and at participating retailers: Read the full article on pushsquare.com
-
-### Mega Man: Dual Override s Boss Design Contest Winner Has Been Decided
-Mon, 16 Nov 2026 12:00:00 GMT — https://www.pushsquare.com/news/2026/11/mega-man-dual-overrides-boss-design-contest-winner-has-been-decided
-
-Clean sweep. Publisher Capcom has revealed the winning robot master in its design competition for Mega Man: Dual Override . From a shortlist of six finalist designs, the development team chose Cleanser Man as the winner, and it has been made into one of the action platformer's eight boss characters. Read the full article on pushsquare.com
-
-### PS Plus Subscriptions on Sale Now, But There s a Big Catch
-Mon, 16 Nov 2026 10:15:00 GMT — https://www.pushsquare.com/news/2026/11/ps-plus-subscriptions-on-sale-now-but-theres-a-big-catch
-
-Discounted prices revealed. Sony has revealed its PS Plus membership at all three tiers will be going on sale from tomorrow, 16th November, for two weeks. However, if you've been paying attention to how Sony handles this promotion in the last few years, then you will already know what's coming: the discounted prices only apply to new sign-ups; current members won't have access to them. Read the full article on pushsquare.com
-
 ## Game Developer
 
 ### Shigeru Miyamoto selected as inaugural Legend Award inductee at DICE Awards
@@ -189,6 +214,26 @@ Ten selected developers will receive $50,000 as well as 'resources, support, and
 
 ## VGC
 
+### GTA 6 Ultimate Edition vs Standard Edition: All Ultimate Edition pre-order benefits
+Tue, 17 Nov 2026 11:49:56 +0000 — https://www.videogameschronicle.com/guide/gta-6-ultimate-edition-vs-standard-edition-all-ultimate-edition-pre-order-benefits/
+
+Everything included in the GTA 6 Ultimate Edition… Source
+
+### Star Wars Galactic Racer is getting split-screen multiplayer and a new Free Play mode
+Tue, 17 Nov 2026 11:16:50 +0000 — https://www.videogameschronicle.com/news/star-wars-galactic-racer-is-getting-split-screen-multiplayer-and-a-new-free-play-mode/
+
+The popular racing game is getting a free update in early 2027… Source
+
+### A free demo for Splatoon Raiders is now available on Switch 2
+Tue, 17 Nov 2026 10:35:33 +0000 — https://www.videogameschronicle.com/news/a-free-demo-for-splatoon-raiders-is-now-available-on-switch-2/
+
+Players can try the single-player Splatoon spin-off before buying it… Source
+
+### Zelda Ocarina of Time remake is the best-selling physical game in the US in 2026 so far, passing 1 million in its first week
+Tue, 17 Nov 2026 09:24:28 +0000 — https://www.videogameschronicle.com/news/zelda-ocarina-of-time-remake-is-the-best-selling-physical-game-in-the-us-in-2026-so-far-passing-1-million-in-its-first-week/
+
+It's the first game to sell 1 million physical copies in week one in the US since Tears of the Kingdom… Source
+
 ### Shigeru Miyamoto to be honored with first AIAS Legend Award in Las Vegas
 Mon, 16 Nov 2026 17:36:35 +0000 — https://www.videogameschronicle.com/news/shigeru-miyamoto-to-be-honored-with-first-aias-legend-award-in-las-vegas/
 
@@ -219,69 +264,99 @@ Mon, 16 Nov 2026 12:31:08 +0000 — https://www.videogameschronicle.com/news/xbo
 
 Vivendi wanted to scrap the project, but Starbreeze only thought it had been cut on PS2… Source
 
-### Crimson Desert studio Pearl Abyss says it now uses AI across various stages of development
-Mon, 16 Nov 2026 11:17:18 +0000 — https://www.videogameschronicle.com/news/crimson-desert-studio-pearl-abyss-says-it-now-uses-ai-across-various-stages-of-development/
-
-It previously apologised when generative AI artwork was spotted in the game… Source
-
-### Xbox says Project Helix is a console that can play PC games, not a PC that can play console games
-Mon, 16 Nov 2026 09:54:09 +0000 — https://www.videogameschronicle.com/news/xbox-says-project-helix-is-a-console-that-can-play-pc-games-not-a-pc-that-can-play-console-games/
-
-A focus on neural rendering is also intended to offset constantly increasing costs… Source
-
 ## Polygon
 
-### How 2026's Best Video Games Were Made
-Mon, 16 Nov 2026 23:00:19 GMT — https://www.polygon.com/2026-games-of-the-year-how-were-made/
+### How Austin Abrams dove into Whalefall
+Tue, 17 Nov 2026 13:43:47 GMT — https://www.polygon.com/video/how-austin-abrams-dove-into-whalefall/
 
-What is great "game direction"? We love asking those in charge because everyone's answer is different .
+The Resident Evil and Whalefall star had to learn to dive for the role, says production designer Ramsey Avery.
 
-### Anne Hathaway's 100-Minute Sci-Fi Thriller Takes Over Streaming After HBO Max Debut
-Mon, 16 Nov 2026 20:55:24 GMT — https://www.polygon.com/end-of-oak-street-streaming-hbo-max-november-2026/
+### 'GTA 6' Pre-orders Come With An Important Asterisk
+Tue, 17 Nov 2026 13:25:35 GMT — https://www.polygon.com/gta-6-preorder-bonuses-plus-release-perks-digital-ultimate-edition/
 
-Anne Hathaway has had a particularly busy year, with major projects including Christopher Nolan's The Odyssey , the psychological thriller Verity , and the highly anticipated The Devil Wears Prada 2 . She's also ventured into more unconventional territory with A24's Mother Mary , a thriller that takes a considerably stranger approach to the world of pop stardom.
+Millions of Grand Theft Auto 6 fans are prepping for Nov. 19 by clearing their calendars, taking paid time off, and of course, pre-ordering the game. Normally, pre-ordering a game could be risky — what if it's a bad experience? Rockstar Games' sterling track record combined with GTA 6 's solid pre-order bonuses have nonetheless tempted many gamers to throw caution to the wind. Yet as launch day approaches, now is a good time to start reading the fine print attached to those pre-order bonuses.
 
-### Netflix Officially Confirms 3 Body Problem Returns in 2027
-Mon, 16 Nov 2026 20:46:55 GMT — https://www.polygon.com/netflix-3-body-problem-season-2-release-date-2027/
+### Netflix Star Officially Comments on Their Emmy-Winning Show's Next Season
+Tue, 17 Nov 2026 13:00:17 GMT — https://www.polygon.com/beef-season-3-interview-ali-wong/
 
-Netflix's long-awaited second season of 3 Body Problem finally has a release date. The streamer announced Monday that season 2 of the sci-fi series, an adaptation of author Cixin Liu's Remembrance of Earth's Past trilogy, will arrive on Jan. 14, 2027. That's nearly three years after the first season of 3 Body Problem debuted on Netflix.
+Netflix’s dark-comedy anthology series Beef quickly captured viewers’ attention when its first season premiered on April 6, 2023. Now, less than a year after the second season finished airing, there’s an update on the possibility of a third season of Beef .
 
-### Star Wars: Galactic Racer Officially Getting the Feature Every Racing Game Needs
-Mon, 16 Nov 2026 20:23:55 GMT — https://www.polygon.com/star-wars-galactic-racer-local-split-screen-multiplayer-update/
+### GTA 6 Will Never Be Able to Beat Clair Obscur at The Game Awards
+Tue, 17 Nov 2026 12:51:13 GMT — https://www.polygon.com/gta-6-game-awards-records-clair-obscur-goty/
 
-Scrib doon! Star Wars: Galactic Racer developer Fuse Games announced the racing sim is getting a key ingredient next year: split-screen multiplayer. Up to four players will be able to square off on the same screen at once after the update.
+The triumph of Grand Theft Auto 6 at this year's Game Awards has seemed inevitable all year — especially in the face of what has turned out to be relatively weak competition . So you might assume that it's going to break records as it sweeps the board, just as it's going to break records commercially. But you'd be wrong.
 
-### What Makes The Legend of Zelda: Ocarina of Time So Great Anyway?
-Mon, 16 Nov 2026 20:00:24 GMT — https://www.polygon.com/zelda-ocarina-of-time-why-best-game-ever/
+### Zelda: Ocarina of Time Is Keeping Physical Games Alive, Sales Report Says
+Tue, 17 Nov 2026 12:35:31 GMT — https://www.polygon.com/the-legend-of-zelda-ocarina-of-time-physical-sales/
 
-Spend even a little time online in gaming circles, and you'll inevitably come across claims that The Legend of Zelda: Ocarina of Time is one of the greatest games ever made. Those claims resurfaced with greater frequency with the announcement of the Nintendo Switch 2 Ocarina of Time remake and subsequent warm reception from critics . The reaction from those I know who played for the first time and enjoyed it has generally been "yes, it really is one of the greats." What there's been less of, however, is a concerted effort to explain what exactly makes it deserving of that praise. Make no mistake, it does deserve it — and not just for reasons of nostalgia. That’s because Ocarina of Time anticipated some of gaming's biggest trends, and now that those trends have spiralled out of control, the remake serves as a blueprint for good game design moving forward.
+The video game industry is increasingly leaning toward digital media because of cost as well as convenience. Many fans aren't happy about this, as digital licenses strip them of their ability to own games and make the second-hand market obsolete. While Sony is adamant about taking an all-digital route and Xbox remains silent about its future plans for discs, Nintendo has made it clear that it will keep producing cartridges, understanding the value of physical media to its fans.
 
-### The Odyssey's Most Disturbing Scene Barely Used Any CGI. Here's How They Pulled It Off.
-Mon, 16 Nov 2026 20:00:24 GMT — https://www.polygon.com/the-odyssey-pig-transformation-practical-effects/
+### All active Escape From Tarkov codes and rewards
+Tue, 17 Nov 2026 12:16:57 GMT — https://www.polygon.com/escape-from-tarkov-promo-codes-list-active-expired/
 
-Christopher Nolan's The Odyssey arrives on digital, 4K Ultra HD and Blu-ray on Nov. 17, giving audiences another opportunity to experience the filmmaker's ambitious adaptation of Homer's epic poem. Among the story's many memorable encounters is Circe, a powerful sorceress who turns Odysseus' men into pigs. Played by Samantha Morton, Circe is responsible for one of the film's most unsettling sequences, which involves a human head being transformed into that of a pig.
+Escape From Tarkov promo codes are used in the classic extraction shooter for all sorts of rewards. From in-game gear and weapons to currency, cosmetics, and more, redeeming as many of these Tarkov codes as you can will set you up for your next raid. Especially since these goodies don't actually require a successful extraction to obtain them.
 
-### Marvel’s Newest Superhero Was Created to Solve a Major Magic: The Gathering Problem
-Mon, 16 Nov 2026 19:27:44 GMT — https://www.polygon.com/mtg-marvel-darkhold-destiny-fraxi-scion-of-yggdrasil-spoilers/
+### GTA 6 Is Not the End of Video Games
+Tue, 17 Nov 2026 12:00:17 GMT — https://www.polygon.com/gta-6-the-last-video-game-end-of-aaa/
 
-In an interview with Polygon at MagicCon: Atlanta, Magic vice president of design Aaron Forsythe talked about the unique approach that Marvel and Wizards of the Coast are taking for the game’s third crossover set, specifically about the development of a unique character that will feature prominently in Darkhold Destiny and the accompanying Marvel Comics.
+Look, the analogy doesn't really work, but that's kind of my point. A certain kind of doomsayer has presented GTA 6 as, metaphorically, the Last Video Game, an extinction-level event, a monumentally excessive fiddle solo performed by Nero amid a burning Rome. The business and culture of blockbuster AAA video games is unsustainable and visibly dying, goes the thinking, just as the ultimate exemplar of that kind of production is released. Beyond that, the entire industry is facing a series of existential threats, including both the generative AI boom and the shortage of affordable computer chips caused by the generative AI boom.
 
-### Nintendo Fans Blast New Switch 2 Release as ‘Paid Downgrade’
-Mon, 16 Nov 2026 19:17:39 GMT — https://www.polygon.com/pikmin-4-nintendo-switch-2-release-controversy/
+### Sunrise On the Reaping Will Be the Last Hunger Games Movie if There Are No More Books
+Tue, 17 Nov 2026 11:03:42 GMT — https://www.polygon.com/the-hunger-games-lionsgate-suzanne-collins-new-book/
 
-So far, the Nintendo Switch 2 upgraded editions of games originally released on the Switch have been a bit of a mixed bag. While games like Kirby and the Forgotten Land received significant new content and noticeable performance upgrades, others such as Xenoblade Chronicles X weren’t quite as well received. According to many Pikmin fans, the recently released Switch 2 version of Pikmin 4 falls into the latter camp.
+The Hunger Games: Sunrise on the Reaping premieres this week, the latest installment in The Hunger Games series. It is an adaptation of Suzanne Collins' book of the same name, and tells the story of Haymitch Abernathy in the second Quarter Quell — particularly difficult games with a special twist. The book was published in March 2025, but even before it hit the shelves, Lionsgate had already greenlit an adaptation.
 
-### Obsession Director Officially Casts Horror Icon in Next Film
-Mon, 16 Nov 2026 19:08:35 GMT — https://www.polygon.com/obsession-director-curry-barker-anything-but-ghosts-matthew-lillard/
+### 20 Years Later, the PS3’s Biggest Failures Look Like Its Best Ideas
+Tue, 17 Nov 2026 11:00:18 GMT — https://www.polygon.com/sony-ps3-20th-anniversary-retrospective/
 
-Curry Barker's Obsession is one of the year's best horror films, but his next movie might end up being even better . Barker is writing, directing, and starring in next year's Anything but Ghosts , and he'll be joined by a horror movie icon.
+It’s fascinating now to think what a total gamble the PS3 was at the time of its release. Even after all these years, there’s no doubt in my mind it’s one of the greatest (and craziest) inventions the video game industry ever came up with. Nowadays, it’s lauded as the most ridiculous, expensive, and over-engineered console ever made. Yet when looking back at Sony circa 2001, just months after the PS2 launched and began its march to becoming the best-selling console of all time (a feat it still holds today), what was Sony supposed to do to top that? Make the PlayStation 3 do literally everything.
 
-### Event Habitat Dex and Pokédex list in Pokémon Pokopia
-Mon, 16 Nov 2026 19:08:33 GMT — https://www.polygon.com/pokemon-pokopia-event-habitat-dex-pokedex-list-requirements-unlock/
+### 19 Years Later, Tim Burton's Most Gruesome Thriller Is Officially Back on Streaming
+Tue, 17 Nov 2026 09:00:17 GMT — https://www.polygon.com/tim-burton-sweeney-todd-the-demon-barber-of-fleet-street/
 
-Pokémon Pokopia has limited-time events that occur for a few days before disappearing, though you can time travel back to them, if you miss out on any. Some events feature Pokémon and habitats you can only unlock via the event, so you'll want to make sure you're paying attention to any guests who are the "talk of the town."
+The macabre has been Tim Burton’s playground of choice since the director’s 1982 short stop-motion film Vincent — a film full of the creepy atmosphere that would go on to define Burton in films like The Nightmare Before Christmas and Corpse Bride .
 
 ## PC Gamer
+
+### AMD introduces Capacity Aware Scheduling to the Linux kernel, which sure is the thing I'd do if I were introducing Zen 6 LP cores next year
+Tue, 17 Nov 2026 13:12:39 +0000 — https://www.pcgamer.com/hardware/processors/amd-introduces-capacity-aware-scheduling-to-the-linux-kernel-which-sure-is-the-thing-id-do-if-i-were-introducing-zen-6-lp-cores-next-year/
+
+AMD's Vishal Badole recently posted two Linux kernel patches (via TechPowerUp ), and these both pair up to introduce Capacity Aware Scheduling (CAS) for AMD heterogeneous processors. If that sounds like gibberish to you, effectively, this lays the groundwork to more efficiently handle AMD chips that have different core types. Up until now, AMD's performance scaling driver for Linux (amd-pstate) treated all cores as equal, assigning tasks regardless of core strength. AMD's current heterogeneous design pairs full-fat Zen 5 and lower-caste Zen 5C cores together in Zen 5 chips nowadays, but there is far less actual difference between these two core types than in the P-cores and E-cores of modern Intel architectures. But Zen 6's full lineup is currently suggested to be quite different. Also shared in a Linux patch earlier this year , Zen 6 is set to introduce a new Low Power core type (which is set to run at a very low power, as you might guess from the name), and that is a core type that would really benefit from Capacity Aware Scheduling. What AMD has called Performance and Efficiency cores up until now is not the same as what Intel has called Performance and Efficiency cores. AMD's Efficiency cores are effectively just compact versions of the Performance cores, whereas Intel's E and P cores have different microarchitectures and are specifically tailored for different use cases. The new Zen 6 LP cores appear to be similar to Intel's LPE (Low Power Efficiency) cores you will find
+
+### Nvidia tightens up control of its own national security policies as it cozies up to US government with new board-controlled committee
+Tue, 17 Nov 2026 12:55:30 +0000 — https://www.pcgamer.com/hardware/graphics-cards/nvidia-tightens-up-control-of-its-own-national-security-policies-as-it-cozies-up-to-us-government-with-new-board-controlled-committee/
+
+I've already had to write the word 'committee' a lot in recent weeks, due to the scandal developing over at Nvidia leading to CEO Jensen Huang's resignation . He's off to see a couple of committees in Congress in coming weeks. Though today it's Nvidia's turn to establish a committee: the National Security and Export Control Oversight Committee, or NSECOC as I will hereafter call it. The NSECOC will answer direct to the Nvidia board. It's also led by a board member, Suzanne Nora Johnson, former vice chairman of Goldman Sachs Group. Though the company says it will keep independent experts around for advice and expertise. It will work with the existing National Security Team and Global Trade Compliance Team at Nvidia, which will now report to the committee and interim CEO, Colette Kress. It looks to me like the company's board want to know who Nvidia is sending its GPUs to at all times; something that will be of utmost import in coming months and years as the company's customers have come under recent scrutiny by US lawmakers and agencies. An investigation is being carried out by the US Department of Justice into one of its customers, Megaspeed, the agency confirmed yesterday . It also means the board has a say in the question of who gets Nvidia's GPUs while the company looks for a new CEO. As it stands, the company's CFO Kress is in the big chair at Nvidia HQ, but the company is looking for a replacement. Recently, Jensen Huang and his allies are said to be floating the idea of
+
+### WoW: Forever's economy has a problem, as a now-hotfixed grind rakes in thousands of gold for the people who got in early
+Tue, 17 Nov 2026 11:56:46 +0000 — https://www.pcgamer.com/games/world-of-warcraft/wow-forevers-economy-has-a-problem-as-a-now-hotfixed-grind-rakes-in-thousands-of-gold-for-the-people-who-got-in-early/
+
+World of Warcraft: Forever has a unique problem—it's intended to be a "forever" version of baseline Azeroth, with no planned level-increasing expansions and an emphasis on horizontal progression with only minor vertical item level increases. But expansion packs are more than just a stack of a few levels, they're also an opportunity to adjust to the MMO economy. Which so often suffers because, well, you're essentially printing money all the time. Every enemy killed, every resource node farmed, every trash item sold, effectively adds more money into the world. There are ways to remove this money, sure. Repair costs, flight paths, goldsinks like a mount grind, dual spec, or respec fees. But if someone's dedicated to grinding, they can put together a hundred gold in a few hours. Or, in this case, thousands. As shared by WoWHead , a gold farm was discovered in Blackmaw Hold, one of its new dungeons, and thoroughly rinsed over the past couple of days: "In Blackmaw Hold, there is a room filled with around 30 Blackmaw Devotees. These creatures are non-elites that only auto-attack, but can drop a lot of loot." All of that loot adds up. Silver drops and vendor items, motes, quest items—and hey, sometimes there's just a good grinding spot in an MMO. I personally made my mount money by rinsing a lucrative little ogre spot with a lot of iron ore. But in that case, I was able to scrape together a humble 15 gold an hour and a half, an honest wage for an honest day's work, whereas these folk
+
+### US agencies confirm criminal investigation into Megaspeed - datacenter company is in a colossal tangle over Nvidia chips
+Tue, 17 Nov 2026 11:50:33 +0000 — https://www.pcgamer.com/hardware/graphics-cards/us-agencies-confirm-criminal-investigation-into-megaspeed-datacenter-company-is-in-a-colossal-tangle-over-nvidia-chips/
+
+Megaspeed is a company with a lot of eyes on it at the moment, and many eyes makes many, uh, news stories. The US Department of Commerce and Department of Justice have thought it to be a good time to drop some details on its investigations into the Singaporean datacentre company, once led by one Alice Huang. If you've already forgotten who Alice Huang is, she was the person first suspected of having an affair with Jensen Huang . The ex-Nvidia CEO later admitted to an affair with someone that has remained unnamed. It wasn't just the affair that sunk Huang , it was the suspicion that Alice Huang may be a Chinese Intelligence asset, according to a New York Times report. That was later rebuffed by Attorney General Todd Blanche and the CCP. It was also that the company Alice Huang ran, Megaspeed, was suspected of chip smuggling; and the other two alleged affairs thereafter with Nvidia employees. Joint press release from Department of Commerce, Department of Justice, November 16, 2026 "After identifying suspicious activity through proactive monitoring of potential sensitive semiconductor diversion, the Department of Commerce initiated an investigation into Megaspeed in 2024 for potential export control violations. In May 2025, Department of Commerce investigators requested records from Nvidia concerning direct or indirect sales to Megaspeed. In June 2025, Nvidia placed Megaspeed on its 'no sell' list. Based on the Department of Commerce’s investigation, agents from the Department’s
+
+### 'They would never stop working on this game': GTA 6's development could've gone on for longer just because 'it's really hard to close it down'
+Tue, 17 Nov 2026 11:47:29 +0000 — https://www.pcgamer.com/games/grand-theft-auto/they-would-never-stop-working-on-this-game-gta-6s-development-couldve-gone-on-for-longer-just-because-its-really-hard-to-close-it-down/
+
+Working to a deadline is hard enough, but working towards one that can be moved if you really need it is worse. Grand Theft Auto 6 has been in the works for around a decade, including a couple of delays so devs could polish up some rough edges, and after all this time it must be really hard to step back and say enough is enough. "They would never stop working on this game if they had the choice," Jennifer Kolbe, head of publishing, says in an interview with The Guardian . (Image credit: Rockstar) We now know that part of the reason why GTA 6 was delayed was because of the sheer amount of NPCs that needed kitting out with dialogue and audio. Talking to Bloomberg co-head of Rockstar North, Rob Nelson, explained how the delay wasn't strictly necessary but not delaying would have meant GTA 6 "won't be the game we want to make." Nelson expands on this with The Guardian: "It’s really hard to close it down. If you step away and get a little bit of space from it, you can look at it objectively and go: 'I'm proud of what we’ve done'. But ultimately, it is being taken away from you, and you do the best you can to finish it in the time that you’re told." “They could have made GTA 5.5, and done it faster,” Kolbe adds. “Ultimately, that’s not what they wanted.” No, instead the devs were hellbent on creating something new, expansive, and an aviary for a few dozen bird species. "What we have grappled with is the transition from being limited by technical constraints to being limited by huma
+
+### Modder beats Valve to the punch adding Steam Controller tracking for the Steam Frame
+Tue, 17 Nov 2026 11:30:45 +0000 — https://www.pcgamer.com/hardware/vr-hardware/modder-beats-valve-to-the-punch-adding-steam-controller-tracking-for-the-steam-frame/
+
+Controller Utils - Tracking for the Steam Controller 2026 inside Steam Frame! from r/SteamFrame If you own a Steam Frame and want to use your Steam Controller at the same time (perhaps even playing 2D games on a big virtual screen), you've likely had to use the passthrough, or just really know your controller. That's because, despite Valve noting that the Infrared LED in the controller makes it trackable in the Steam Frame , it has not yet implemented said tracking. However, a modder has once again come to PC gamers' rescue. Taking to the Steam Frame subreddit , user Kalluts has shared their Controller Utils GitHub project , saying, "Valve still has not released their official tracking support for the Steam Controller, so I had to take the matters into my own hands." Effectively, their script turns on the controller's built-in IR LED, using the Frame's tracking services to pick it up. From here, it displays a 3D model of the controller in VR, and it even has a few animations. The Steam Controller does not work like a traditional VR controller, though one user says, "I just wanted to know if I could attempt to play Beat Saber with it if I stole a second one from my friend. I know it's stupid, but I needed to know." It turns out you can't (and with just the one LED, its tracking wouldn't be good enough for a fun time anyway). If you're wondering why one might want to use the Steam Controller in VR if it doesn't work like a VR controller, VR headsets can also run flat games on a
+
+### GTA 6 release times: How far behind the first launch will GTA 6 unlock in your time zone?
+Tue, 17 Nov 2026 11:00:00 +0000 — https://www.pcgamer.com/games/grand-theft-auto/gta-6-release-time-date/
+
+GTA 6 launches at midnight on November 19 in your own local time zone for PS5 and Xbox Series X|S according to Rockstar support . Since it isn't a simultaneous global launch time that does mean that folks over in New Zealand (and everyone else in the same time zone) will be the first to play GTA 6. More on that below. Since there's no time zone conversion to do in this case, I'll break down the info in a way that may be more useful to you. Here's how far behind your time zone is from New Zealand's. This is how many hours behind the first GTA 6 players booting up the game you will be in your area. I feel like everyone in Florida should get an upgrade from ET to NZ time in this one case, just sayin'. Behind New Zealand Time Zone 0 hours NZDT (Auckland) -2 hours AEDT (Sydney) -4 hours AWST (Perth) -7.5 hours IST (New Delhi) -12 hours CET (Berlin) -13 hours GMT (London) -16 hours BRT (São Paulo) -18 hours EST (New York) -19 hours CST (Chicago) -21 hours PST (Los Angeles) What's the "New Zealand trick"? Okay, this is decades old console lore stuff. As explained above, a rolling launch that happens at midnight local time means that people in New Zealand will unlock GTA 6 first. For big launches of years past, some folks have changed the region setting on their console to spoof being in a different time zone. That means they can unlock the ability to start playing the game before midnight in the time zone where they're actually located, get it? Is the New Zealand trick going to work
+
+### Ex-Call of Duty live service manager joins EA as the new GM of Battlefield
+Tue, 17 Nov 2026 09:57:28 +0000 — https://www.pcgamer.com/games/fps/ex-call-of-duty-live-service-manager-joins-ea-as-the-new-gm-of-battlefield/
+
+A few things come to mind when I think about what the greatest fear of a Battlefield player is. It could be a glint atop the mountains on Liberation Peak, reliving the launch of Battlefield 2042 , or maybe it's the randomised recoil from the first Battlefield. All of these are good bets, but I think the real shared nightmare of most Battlefield players is that someday it'll morph into Call of Duty . To be fair, this fear isn't entirely unfounded. Bryan Beede was previously appointed as Battlefield's general manager after spending 19 years working on Call of Duty and has now been promoted to group general manager at EA. Taking his place is another Call of Duty veteran, Sam Cooper, who worked as Call of Duty's global product management and head of live service. (Image credit: DICE) "I'm excited to share that I've joined Electronic Arts as general manager of Battlefield," Cooper says in a LinkedIn post . "I started my games career at EA on the FIFA team, so coming back to where it all began feels extra special. "Battlefield is an iconic franchise that has something no other shooter has: all-out warfare, destruction at massive scale, squads play, and a passionate community that has stuck with this franchise for more than two decades." Now this in and of itself isn't enough to sound any alarm bells for players concerned whether or not Battlefield can stay true to form, especially since Beede was appointed as Battlefield GM back in 2021 prior to Battlefield 6's release. But this al
 
 ### That 007 First Light theme song I didn't like is up for a Grammy Award
 Mon, 16 Nov 2026 22:34:55 +0000 — https://www.pcgamer.com/games/action/that-007-first-light-theme-song-i-didnt-like-is-up-for-a-grammy-award/
@@ -303,47 +378,27 @@ Mon, 16 Nov 2026 20:57:03 +0000 — https://www.pcgamer.com/games/grand-theft-au
 
 The only answer we have right now is that Rockstar has not announced GTA 6 Online . But we all know it's totally going to have a multiplayer mode, right? GTAO has been a constant presence over the past decade and an important part of keeping GTA 5 relevant this whole time. It's successful enough that Rockstar ditched doing updates to RDO to focus on it, which I'm definitely not bitter about. So despite official word on the subject, a GTA 6 online mode does seem pretty inevitable. (Image credit: Rockstar Games) GTA 6 online hasn't been announced… yet Just like how Rockstar hasn't confirmed a GTA 6 PC release date , it's not unusual to be left waiting to hear about multiplayer. It is out of the ordinary that we've arrived at launch week without any confirmation of GTA 6 online, though. Rockstar announced the live service parts of both GTA 5 and RDR2 about a month before the singleplayer game release dates and launched the online portion about a month after. GTA 5 Online Announced August 15, 2013 4 weeks before GTA 5 launch Launched October 1, 2013 2 weeks after GTA 5 Red Dead Online Announced September 19, 2018 5 weeks before RDR2 launch Launched November 27, 2018 (public beta) 4 weeks after RDR2 Rumors about GTA 6 online July 2025 : Rockstar was rumored to be testing 64-player servers for with a goal to hit 96 players for launch, which is a ton more than the 30 player max in current GTA Online lobbies September 2026 : Twitch CEO Dan Clancy implied that GTA 6 online would launc
 
-### Grand Theft Auto 6 hacker pleads guilty to all charges
-Mon, 16 Nov 2026 19:40:15 +0000 — https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-hacker-pleads-guilty-to-all-charges/
-
-The BBC reports that Arion Kurtaj, who hacked Rockstar and dumped a massive trove of content from Grand Theft Auto 6 more than a year before it was formally revealed, has pleaded guilty to that and other hacks carried out while he was a member of the Lapsus$ hacking group. Kurtaj's hack of Rockstar was notable not for the GTA 6 infodump that followed, but because of how it was carried out: With an Amazon Fire Stick , a mobile phone, and a Bluetooth keyboard and mouse, connected to a TV in a Travelodge hotel room where he was being held under police protection because of threats against him made by rival hackers over stolen bitcoin. A 2023 assessment found Kurtaj had "acute autism" and was determined to return to "cybercrime" as soon as possible, despite the fact that he was literally standing trial for doing cybercrimes. Because of that, the jury was asked to determine if he had committed the hacks (it found he had) but not whether he had done so with criminal intent; he was subsequently sentenced to an indefinite stay at a secure hospital , where he would remain unless and until doctors determined that he was no longer a danger. As we noted at the time, "danger" might seem a bit of a strong word for someone who leaked videogame footage, but the Lapsus$ group had also hacked Microsoft , Samsung , Nvidia and UK telecom company BT&EE, and stole millions in cryptocurrency from individuals. Kurtaj was also reportedly violent while in hospital custody, causing "dozens" of reports 
-
-### I installed a GTA 5 drag racing mod that got derailed by my roving band of hitmen mod
-Mon, 16 Nov 2026 18:00:00 +0000 — https://www.pcgamer.com/games/grand-theft-auto/i-installed-a-gta-5-drag-racing-mod-that-got-derailed-by-my-roving-band-of-hitmen-mod/
-
-Los Santos Customs I'm modding GTA 5 every day in a quest to either transform it into a PC version of GTA 6 or break it entirely. Come back tomorrow to find out what new horrible thing I've done to Rockstar's baby, or check out what I got up to earlier . Look, I'll be real with you. When I installed Drag Meets – Quick n Dirty Edition , I was not expecting it to go well. Cars spend most of their time flying and exploding in my copy of Grand Theft Auto 5, and these circumstances aren't conducive to gentlemanly racing. I didn't anticipate it going quite as badly as it did, though. Drag Meets is actually rather complex: you don't just rock up to an objective marker, tap E, and get warped behind the wheel of a car. There's a lite social sim element to the whole thing, so you walk up to an objective marker, tap E, and suddenly find yourself standing in the midst of a drag racing soirée . Drag meets are a scene, it turns out, and the scene's members have names, goals, and ambitions. A racer named "Blue Anime Panto" is seeking a challenger, the notifications inform me. "Blade had joined the meet", reads another. A lady called Tempesta has been forced to leave the meet because her engine broke, apparently. How did this happen? Either it's a randomly rolled event or her car flew into the sun; I am unable to tell. It's not just Tempesta who's leaving the meet. Everyone is leaving, on account of the airborne minivan, just overhead, filled with hitmen determined to kill us all. They shoul
-
-### Someone hijacked old Bitly links to redirect big brands to Skibidi Toilet and the Epstein files wiki
-Mon, 16 Nov 2026 17:21:43 +0000 — https://www.pcgamer.com/software/security/someone-hijacked-old-bitly-links-to-redirect-big-brands-to-skibidi-toilet-and-the-epstein-files-wiki/
-
-What do you mean bad actors I wasn’t doing that much bad things pic.twitter.com/swHfeOLTuV November 16, 2026 Bitly, the URL shortener website, got in hot water this week as users (or 'bad actors' as the company calls them) found out they could hijack old broken links and put whatever they like in their place. As you can imagine, chaos ensued. Many of the links have since been fixed, but it seems like the McDonald's Twitter account once accidentally said the Swedish McDonald's team are responsible for 9/11,, and KFC linked to the Mewgenics wiki page for Steven, an NPC from the game. McDonald's was caught multiple times in this hijacking, with the Canadian X account hijacked to link the We Are Charlie Kirk song . Though it's hard to verify now, it also seems like the Windows X page accidentally linked to the "r/FuckMicrosoft" subreddit too. Big brands weren't the only ones caught in the mass hijacking. President Donald Trump seemingly tweeted a lot of Bitly links back in 2011, which were hijacked to instead link to a 'Trollface' meme song, a picture of a soggy cat titled "Soggy cat", and a link to the Epstein files Wikipedia page. images for archival purposes pic.twitter.com/fRRr8LMGeE November 15, 2026 A day after this exploit started to make its way around X, Bitly shared that it had identified the issue and said, "We have suspended the accounts involved and are disabling the affected links. Our Trust and Safety team is working to address the issue and strengthen protections 
-
-### Final Fantasy 14's ongoing pursuit in making its 500-hour story less daunting almost manifested into something in August, but Yoshi-P decided to postpone it
-Mon, 16 Nov 2026 16:57:05 +0000 — https://www.pcgamer.com/games/final-fantasy/final-fantasy-14s-ongoing-pursuit-in-making-its-500-hour-story-less-daunting-almost-manifested-into-something-in-august-but-yoshi-p-decided-to-postpone-it/
-
-I love Final Fantasy 14. I can also recognise that for anyone trying to start the game in the big 2026, it's incredibly daunting. Being faced with A Realm Reborn and five entire expansions' worth of story is a lot, and the question of how to funnel new players into Eorzea in a more approachable manner while still respecting the MMO's heavily narrative-driven vibe has been an ongoing debate for the last several years. We know, at the very least, that director and producer Naoki Yoshida has been thinking about ways to make that barrier to entry a little less frightening— he said as much during Final Fantasy 14's Berlin Fan Festival —but according to a recent Letter from the Producer , it turns out we could've actually had something as recently as August. "The idea of letting players freely choose a starting point for their adventure has been discussed, with the goal being to offer players a range of choices, rather than prescribe their experience according to my philosophy," Yoshida wrote. (Image credit: Tyler C. / Square Enix) In case you're not familiar with Yoshida's whole stance on this, he's long been staunchly protective of Final Fantasy 14's narrative integrity. Story skips are locked to the cash shop and, up until now, never included the current expansion. He's repeatedly expressed the fact that he's not too keen on letting people jump in wherever they feel, since it kinda mucks up the decade-plus worldbuilding and character relationships the game has built. But, like m
-
-### We almost got a medieval Call of Duty with knights and swords: 'If it's a war story, sure, it can be Call of Duty'
-Mon, 16 Nov 2026 16:28:36 +0000 — https://www.pcgamer.com/games/call-of-duty/we-almost-got-a-medieval-call-of-duty-with-knights-and-swords-if-its-a-war-story-sure-it-can-be-call-of-duty/
-
-Call of Duty is an inherently conservative series. You know what you're getting: guns, explosions, cinematic flourishes inspired by action movies, and probably some jingoism. And that's largely what the annual series' adherents seem to want. But it could be so much more. Taylor Kurosaki, writer and co-director for Call of Duty: Infinite Warfare , tells us he still thinks it has broad potential. That's why Infinite Warfare was set in the future—though, at the time, the team didn't realise it would end up being the third futuristic CoD, following Advanced Warfare and Black Ops 3. "Look, Call of Duty is a massive tree with a lot of branches, right? It can be World War 2. The team at IW had prototyped a medieval Call of Duty. Where you were a knight and had a sword and all kinds of crazy shit. But if it's a war story, sure, it can be Call of Duty." I would love for that to be true. Call of Duty: The American Revolutionary War, Call of Duty: The Hundred Years War, Call of Duty: Napoleon. A military romp that isn't set between 1941 and 2065. After 23 years, it would be nice to see it spread out a bit. But big swings are not in CoD's nature. Or rather, Activision isn't particularly interested in rocking the money boat. A medieval CoD isn't the only massive detour the series almost took. Before it was forced to salvage Infinity Ward's Modern Warfare 3, Sledgehammer was working on a third-person horror game set in Vietnam, called Call of Duty: Fog of War . "We wanted to make a scary v
-
-### Biostar announces the first Intel Panther Lake motherboard and it's tiny, but don't get your hopes up for cramming it into a mini gaming PC
-Mon, 16 Nov 2026 16:08:45 +0000 — https://www.pcgamer.com/hardware/motherboards/biostar-announces-the-first-intel-panther-lake-motherboard-and-its-tiny-but-dont-get-your-hopes-up-for-cramming-it-into-a-mini-gaming-pc/
-
-Motherboard manufacturer Biostar has just announced the BIPTL-IHT, a mini motherboard complete with an integrated Panther Lake-H processor. It's the first desktop Panther Lake motherboard to be released in retail. As spotted by VideoCardz , the motherboard range has support for up to 128 GB of DDR-7200 MHz SO-DIMM memory and can come with the following chips: Intel Core Ultra 5 325 / 335 / 336H Intel Core Ultra 7 355 / 365/ 356H / 366H Intel Core Ultra 9 386H All of these chips come with Xe3 graphics with four Xe cores, and are lacking the punchy integrated B390 iGPU (and its 12 Xe3 cores) that some mobile Panther Lake chips have. You can still do some light gaming on these integrated graphics, but you won't be making yourself a mini gaming PC with Biostar's latest. Instead, it seems like the purpose of this motherboard is to support industrial PCs, but given Xe3 graphics support hardware-accelerated AV1 encoding and decoding, one could feasibly use the motherboard in a mini media server PC instead. You are getting two M.2 Key-M slots here, with PCIe 5.0 x4 and PCIe 4.0 x2 connections. This allows for NVMe storage, and the memory is dual-channel too. You also get two HDMI ports, two DisplayPort 1.4 ports, and the motherboard can support up to four displays at once. As it's a 'Thin' Mini-ITX motherboard, its dimensions are 170 mm by 170 mm. That's very small. We don't yet have a release date or price point for this motherboard range. Still, it's a bit of a shame we don't have 
-
-### Final Fantasy 14 really wants Evercold to be the expansion everyone comes back to, so much so it's giving you 30 days free gametime if you've been gone long enough
-Mon, 16 Nov 2026 15:53:44 +0000 — https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-really-wants-evercold-to-be-the-expansion-everyone-comes-back-to-so-much-so-its-giving-you-30-days-free-gametime-if-youve-been-gone-long-enough/
-
-Final Fantasy 14 is set to make some big changes when the upcoming expansion Evercold releases in February. An overhaul to combat, dailies, and new raid difficulties are set to shake things up and, hopefully, keep people sticking around for longer. And judging by a recent Letter from the Producer , Naoki Yoshida really wants folks coming back to see what Evercold is all about. So much so that the game's offering 30 free days for long-gone adventurers… or a quick-and-dirty paid skip if you're so inclined. "Encouraging players to return is no mean feat," Yoshida wrote. "People pause their adventures for all kinds of reasons, including dissatisfaction and loss of interest. Although we continually update the game to address such issues, the fact remains that getting players to resume their journey is a difficult task indeed." I can only assume that for that reason, the decision's been made to offer up a $9 cash shop item that'll skip you through Endwalker's patch story, as well as all of Dawntrail up until the final story patch. Now Final Fantasy 14 has offered paid story skips in the past—it still does—but this is the first time it's explicitly offered one for the current expansion. Usually the skips'll stop dead before the current expansion, meaning you still need to play through the newest story. (Image credit: Square Enix) It's a pretty niche paid skip, too. You'll need to have at least completed Endwalker's main story and have a level 90 job on your chosen character, and eve
-
-### World of Warcraft: Forever player turns their paladin into a near-unkillable healbot, solos a level 60 monster at level 30, and swims into the ocean
-Mon, 16 Nov 2026 14:34:01 +0000 — https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-player-turns-their-paladin-into-a-near-unkillable-healbot-solos-a-level-60-monster-at-level-30-and-swims-into-the-ocean/
-
-World of Warcraft: Forever's having some teething issues with its new spellcaster itemisation. The idea, to sum it up quick, is that a lot of the power that was in spells innately has been pushed onto items, instead, with the intention to make it feel really good when you get a cool new staff as a mage, for instance. This has had unintended consequences, as discovered by Rextroy (the same madlad who solos raid bosses ), as shared on YouTube . The problem is this: Gear in Forever can give a lot of raw power to your healing and damage spells, as part of the aforementioned changes. But that raw power also applies to lower-level healing spells, too. In Forever (and in Classic), casting lower-level spells is a core part of managing your mana as a healer. In this instance, however, "the healing coefficient on healing power remains the same, which is around 43% [on a low level Flash of Light], so if I stack all healing green items, I get my healing power up towards 242," Rextroy explains. This, combined with the Paladin talent Oath of Light (which slaps another 61 healing onto Flash of Light), along with Spiritual Focus and Concentration Aura, which makes it almost impossible for enemies to interrupt or push-back the casting of his Flash of Light, and this makes his paladin basically unkillable. The low-rank version of his Flash of Light spell doesn't cost enough mana to outpace his natural mana regeneration, it heals for a bunch because of his gear, and enemies can't slow or interr
-
 ## GameSpot
+
+### Sony Is Updating The PS5 Again, And It Might Have GTA 6 Pirates In Mind
+Tue, 17 Nov 2026 13:01:53 +0000 — https://www.gamespot.com/articles/sony-is-updating-the-ps5-again-and-it-might-have-gta-6-pirates-in-mind/
+
+A new PS5 firmware update has dropped, but even at a chunky 1.2GB download, version 26.07-14.23.00 doesn't include a comprehensive list of notes. "We've made some security fixes to the system software," the very short update notes read . Notably, this is the fourth PS5 firmware update since October 1 , and typically there's a buffer period of several months between downloads. While Sony hasn't confirmed it, the current thinking is that the company is shoring up its defenses for the release of GTA 6 to prevent the game from being pirated. The new firmware will be mandatory for new game releases as well, including GTA 6, which means that PS5 hackers and homebrew hobbyists have their work cut out for them. The hacking scene recently made big advances on the console, jailbreaking systems that have update 14 and below installed, and thus allowing more pirated games to be played. Sony is under pressure to prevent GTA 6 from being pirated, and with the PS5 console holding the lion's share of GTA 6 preorders , there's plenty of financial incentive to keep the game secure on that platform. https://www.youtube.com/watch?v=ILXsBB3UwSQ&t=3s Security researchers and hackers have been leveraging generative AI and automated decompilation analysis to discover lower-level system vulnerabilities and dump game binaries much faster, creating an arms race between Sony and hackers. Every time a potential vulnerability or homebrew exploit surfaces--like the recent vulnerabilities that targeted PS5 
+
+### Xbox Game Pass Is Losing 8 More Games In November
+Tue, 17 Nov 2026 11:40:28 +0000 — https://www.gamespot.com/articles/xbox-game-pass-is-losing-8-more-games-in-november/
+
+Don't get too comfortable with your Xbox Game Pass library, because you never know which game will be removed from it next. This month, several more games are on their way out on November 30, so say goodbye to deadly xenomorphs, even deadlier house spiders, and a Cold War battleground infested with killer robots. One of the biggest departures this month is Aliens: Dark Descent . It's a solid entry in the Aliens franchise if you don't mind some base-management chores, as it nails the atmosphere of the classic sequel while giving you plenty of acid-blooded bugs to mow down. This month will also see the 17th Century Ghostbusters game, Banishers: Ghost of New Eden, leave Game Pass, along with a few kid-friendly titles. As a reminder, you can save 20% on these games if you decide to buy them before they leave Game Pass. Leaving Xbox Game Pass on November 30 Star Trucker Aliens: Dark Descent Kill It With Fire 2 Dreamworks Gabby's Dollhouse: Ready to Party Banishers: Ghosts of New Eden Totally Reliable Delivery Service Moving Out 2 Generation Zero Earlier this month, 14 games left Game Pass . The list was pretty diverse, including several simulator games from different publishers, the polarizing Football Manager 26, and Dragon Ball Xenoverse 2.
+
+### GTA 6 Has Teamed Up With The Weather Channel To Show How Dynamic Leonida Can Be
+Tue, 17 Nov 2026 10:15:33 +0000 — https://www.gamespot.com/articles/gta-6-has-teamed-up-with-the-weather-channel-to-show-how-dynamic-leonida-can-be/
+
+Rockstar Games has found an unexpected partner to show off one of GTA 6' s most impressive features: The Weather Channel. The US broadcaster has shared an exclusive look at Leonida's weather system via six new screenshots and forecasts that make the fictional destination sound like somewhere you'd need to check the weather before visiting. It's an unusual collaboration, but a very fitting one. GTA 6 takes place in Leonida, a fictional state inspired by Florida, where sunshine, torrential rain, thunderstorms and tropical storms are all part of the ecosystem. Who better to show off the unpredictable climate than The Weather Channel? https://twitter.com/weatherchannel/status/2122429589326798848?a=eWjLxzkmblchbPp2GoQ&s=20 The broadcaster posted the collaboration on X, writing "Nobody knows weather like we do. That's why Rockstar gave us an exclusive look at the forecast for Leonida and the dynamic weather in GTAVI." Instead of just posting the six new screenshots, The Weather Channel provided six different weather reports for the various locations across Leonida. Each has its own conditions and some local facts, making the entire post sound like a genuine forecast. The reports include heavy rain reducing visibility across the Keys, a thunderstorm rolling over the swamps of Pelican Valley--and obscuring some feisty "nippers" at the same time--and sea fog threatening to obscure the expensive beachfront views at South Ocean Beach. There's also a tropical storm making the waters arou
+
+### How To Play GTA 6 Early On Xbox Using This Trick
+Tue, 17 Nov 2026 09:19:03 +0000 — https://www.gamespot.com/articles/how-to-play-gta-6-early-on-xbox-using-this-trick/
+
+Due to GTA 6's non-simultaneous release , people in New Zealand will be the first in the world to play the highly anticipated open-world crime game when it releases at midnight local time there. If you want to become a Kiwi for a day and you plan to play on Xbox, you can trick your console into thinking it's in New Zealand to play early. The following trick has worked before, but there is no guarantee that it will work for you this time with GTA 6, or you might not want to do it at all. After all, Microsoft's own policy says people should only change their region if they have moved to a different country or are already in a new region. If that all sounds OK to you, here's how to change your Xbox region to New Zealand ( via Insider Gaming ). Go to Settings Click System, then Language & Localization Switch your location to New Zealand Restart your console The process of changing regions on PlayStation 5 is not as straightforward and involves numerous other steps-- Insider Gaming has a rundown . However, it's also been reported that players changing their PS5 region have begun receiving account suspensions without warning . GTA 6 launches on November 19, but midnight in New Zealand on November 19 is 3 AM PT / 6 AM ET on November 18. So people in the US will have to wait a very long time to play GTA 6 compared to the people who live in New Zealand. For more on GTA 6, including preload information, preorder bonuses, and release times, check out our Grand Theft Auto 6 guides hub .
 
 ### Delete GTA 6 For A Chance To Win Another Game
 Mon, 16 Nov 2026 20:27:02 +0000 — https://www.gamespot.com/articles/delete-gta-6-for-a-chance-to-win-another-game/
@@ -385,27 +440,37 @@ Mon, 16 Nov 2026 15:52:19 +0000 — https://www.gamespot.com/articles/shooting-s
 
 A drive-by shooting in Southern California ended with no injuries and an arrest after the gunman reportedly opened fire near a business and office campus that houses Xbox subsidiary InXile Entertainment. According to Aftermath and local affiliate KTLA5 , the shooting occurred on November 11 at an office building on the former Marine Corps Air Station in Tustin, California. The police department posted on Facebook that, after uncovering "multiple shell casings in the area," local detectives worked "around the clock" to locate the suspect. Sergeant Christopher Peterson told Aftermath on November 13 that although the investigation is still ongoing, an unnamed suspect had been apprehended "less than 48 hours" after the shooting. "Officers got there [on November 11]," Sergeant Peterson said. "They responded to a report of a drive-by shooting there. Located multiple shell casings. Nobody was hurt. Processed the crime scene, and then sometime [Friday] morning, a little before 11 [AM], they took a suspect into custody. And the investigation is still kind of ongoing as to where and why." An InXile Entertainment spokesperson corroborated the incident with Aftermath, expressing relief about the situation. "We're relieved that no one was hurt at our inXile office,” the spokesperson said. "Our focus is on supporting our team, and we are working closely with law enforcement as they investigate." Founded in 2002, InXile Entertainment has been under the Xbox Game Studios umbrella since 2018.
 
-### Xbox Game Pass Gets Even More Games In November
-Mon, 16 Nov 2026 14:33:49 +0000 — https://www.gamespot.com/articles/xbox-game-pass-gets-even-more-games-in-november/
-
-The second half of November is usually quiet for several reasons when it comes to new game releases–and one other big reason–but Xbox Game Pass subscribers can look forward to several new titles to close off the month. Microsoft has announced a handful of new additions to the Game Pass library, including a kid-friendly game to kick things off and a sneak peek at some sporty fun for the first week of December. These announcements typically come in two waves, with a sneak peek split between them, so this list isn't complete yet . As soon as the rest of the lineup is announced, we’ll update this post with a closer look at what you can download and play soon. The first game on the way is Paw Patrol: Dino World. Ideal for younger members of the family who definitely shouldn't be playing GTA 6 right now, this family-friendly game revolves around the PAW Patrol working together to round up lost and scared dinosaurs. Starting in December, you can get Freestyle Football 2, which is an online multiplayer soccer game built around 5v5 matches. We already have that game in the form of Rematch from Sifu developer Sloclap, but if you want a different spin on that soccer idea, take a quick look. Xbox Game Pass November Wave 2 Games November 17 Paw Patrol: Dino World (Xbox Series X|S, PC) December 3 Freestyle Football 2 (Xbox Series X|S, PC) November has been pretty good for new entries in the Game Pass library, with the start of the month bringing the dungeon-crawling roguelike deck-building
-
-### We Got A Grand Theft At Disney World Before GTA 6
-Mon, 16 Nov 2026 14:32:07 +0000 — https://www.gamespot.com/articles/we-got-a-grand-theft-at-disney-world-before-gta-6/
-
-The "We got X before GTA 6" meme continues as a Grand Theft has been reported at Walt Disney World's Epcot theme park just days before Rockstar's open-world crime game releases, and the meme comes to an end. The Walt Disney World: Active Calls account, which tracks police reports in the Disney World area, said a Grand Theft call at Epcot came in at 9:52 PM on November 14. https://twitter.com/WDWActiveCrime/status/2121800462961705163 There are no further details to go on here, but Grand Theft, known as Grand Larceny in some states, involves stealing something valuable . Epcot and Disney in general has lots of items that would be considered valuable. This is the closest that Disney World might come to GTA 6, as Rockstar already confirmed that GTA 6 won't have its own version of the park . That makes sense, too, considering Walt Disney World is located in Orlando and GTA 6 takes place in its own version of Miami, which is more than 200 miles away. Calls for Grand Theft are not uncommon at Disney World. In October 2026 alone, the County Sheriff's Office received at least seven Grand Theft calls. One of the most infamous heists at Walt Disney World took place at Epcot. In 2018, thieves nabbed the multi-hundred-pound Buzzy animatronic from the Cranium Command attraction, which was housed at Epcot's shuttered Wonders of Life pavilion. It has never been recovered. A documentary, Stolen Kingdom, was released in 2025, chronicling the heist and the wider black market for Disney props. M
-
-### GTA 6 Promo At KFC Is A Fake Funeral So You Can Take The Day Off To Play
-Mon, 16 Nov 2026 13:42:12 +0000 — https://www.gamespot.com/articles/gta-6-promo-at-kfc-is-a-fake-funeral-so-you-can-take-the-day-off-to-play/
-
-The popular fried chicken chain KFC has announced a frankly absurd GTA 6 promotion: a fake funeral so people have a “legitimate” excuse to take the day off to play Rockstar’s latest. The fake funeral for a woman, "Ann Alibi," will take place Thursday, November 19 at 11 AM at KFC Robina in Queensland . People can attend in person or watch the funeral by livestream. The local restaurant is part of a region of Australia known as the Gold Coast, which KFC says is the equivalent of GTA 6's Vice City (which itself is a stand-in for Miami). RIP "The service will include a hearse, coffin, floral tributes, a book of condolences, an order of service and even a heartfelt eulogy delivered by a surprise guest. All the appropriate arrangements for a fitting farewell," KFC said. The restaurant is also handing out free fried chicken to anyone who shows up in person. For those who can't make the services, KFC will offer free delivery through its app across Australia on November 19. Anyone planning to eat fried food and play video games should be mindful of what might happen to their controller ... unless you got your hands on the limited-edition "greaseproof" controller that Microsoft put out years ago. Check out the video below to see how an Xbox controller holds up to heavy grease. https://www.youtube.com/watch?v=PflX9OvaMxs A KFC spokesperson said of the GTA 6 promo, "We appreciate that Australians have responsibilities, but some occasions are simply too important to miss. And in accordanc
-
-### Xbox Is Looking For Smarter Ways To Stop Its Next Console From Costing A Fortune
-Mon, 16 Nov 2026 13:40:05 +0000 — https://www.gamespot.com/articles/xbox-is-hoping-ai-can-stop-its-next-console-from-costing-a-fortune/
-
-No one knows yet exactly what the next-gen Xbox console, Project Helix , will be, but most people are convinced it won't be cheap. The ongoing memory shortage has driven current-gen console prices skyward since 2024, with the Xbox Series X rising from $500 in 2020 to $800 in 2026. Project Helix is projected to cost as much as $1,800 at launch, but Microsoft aims to keep the price down when it eventually releases the device. According to VP of next-gen Jason Ronald, techniques like neural rendering could help manage costs. "It's definitely a challenging time, but as a system and a platform designer, it's also one of the most exciting times, because we have to invent entirely new technology to continue to advance the state-of-the-art while also continuing to make things accessible and affordable," Ronald said in the Xbox 25th Anniversary Magazine . "This is a big reason why we're really focused on advancements like neural rendering, because it's an entirely new way to generate a frame without requiring more computational horsepower, additional memory, and things like that. I think you're going to see more innovation over the next three to five years than you've seen in the last 10 years." In a nutshell, neural rendering uses AI to predict and generate high-quality video game frames while using only a portion of hardware power, similar to upscaling technoligies like PSSR, DLSS, and FSR. This could enable next-generation visual leaps while keeping the console accessible and reaso
-
 ## Rock Paper Shotgun
+
+### "Games are best made by people": The IWGB and other European unions publish joint manifesto calling on workers, employers and consumers to reject genAI
+Tue, 17 Nov 2026 12:30:00 +0000 — https://www.rockpapershotgun.com/games-are-best-made-by-people-the-iwgb-and-other-european-unions-publish-joint-manifesto-calling-on-workers-employers-and-consumers-to-reject-genai
+
+As part of a summit meeting in Manchester yesterday, the IWGB Game Workers union have joined up with other unions spanning the Republic of Ireland's GWUI, Germany's GDRT, Italy's FIOM-CGIL, France's STJV, and Spain's CSVI to publish a manifesto that aims to "bring to light the risks and dangers genAI poses to the workforce" for consumers, workers and publishers alike. The manifesto states that "GenAI is currently harming the games industry, its workers and the games they produce," and suggests actions that can be taken by all to reduce harm done to the industry. The manifesto specifies the "severe harm to the environment, the destruction of communities and the exploitation of the Global South" as wider harms of the technology, but maintains its focus on the industry itself. Read more
+
+### Unity launches new Fellowship program, offering a "no recoup" $50,000 grant to indie developers planning to launch their game in the next 12 months
+Tue, 17 Nov 2026 12:00:10 +0000 — https://www.rockpapershotgun.com/unity-launches-new-fellowship-program-offering-a-no-recoup-50000-grant-to-indie-developers-planning-to-launch-their-game-in-the-next-12-months
+
+Unity 's next venture, amidst rumours of it being bought out by the Saudi Arabian Public Investment Fund, is the Unity Fellowship , a grant program that offers $50k in cash to Unity-using indie devs that plan release a game within a year - without asking for recoup, revenue share, creative control or IP ownership in exchange. I don't need to tell you that all sounds too good to be true, even with the Unity engine requirement, but in fairness, the company has form for handing out cash. The Unity for Humanity grant, just earlier this year, spread $600K across ten different indie projects focused on societal and environmental issues. Read more
+
+### Break up and re-commodify a fallen Earth in Steel Gullet, a satisfyingly funereal factory puzzler that really loves thermodynamics
+Tue, 17 Nov 2026 11:30:00 +0000 — https://www.rockpapershotgun.com/break-up-and-re-commodify-a-fallen-earth-in-steel-gullet-a-satisfyingly-funereal-factory-puzzler-that-really-loves-thermodynamics
+
+It's amazing what a difference a few lines of preamble can make to your understanding of a game. Out now on PC, Steel Gullet is a factory engineering puzzler that, while notable for its meticulous interest in thermodynamics, broadly compares to the foundational work of Zachtronics , together with more recent and focussed conveyor belt wranglers such as Modulus . Resources come in, and you arrange machines on a grid to transform them into something else, before sliding them into an output hopper. The difference is that you're doing this inside a huge walking fortress city, which stamps across the surface of a largely unseen, devastated and uninhabitable Earth. Your resources are the refuse of a bygone human civilisation: knots of concrete and rebar, flaccid rubber hose and splintered plank, that must be separated out before you can manufacture anything. Read more
+
+### Star Wars Galactic Racer will get local split-screen multiplayer in early 2027 with new 'Free Play' mode, finally letting racers yell at one another in a tangible space
+Tue, 17 Nov 2026 11:00:10 +0000 — https://www.rockpapershotgun.com/star-wars-galactic-racer-will-get-local-split-screen-multiplayer-in-early-2027-with-new-free-play-mode-finally-letting-racers-yell-at-one-another-in-a-tangible-space
+
+Split-screen multiplayer is often treated by developers as a forgotten vestige of a bygone age, something to be left behind as the standardisation of online play makes it redundant, especially following the pandemic. It's considered unlikely that you'll have another human being in your home to pick up a controller with you, and since you've inevitably got an internet connection, why not just use that to connect to anyone in the world? I find there's a unique beauty in playing something shoulder to shoulder on a couch with another person, and it seems Fuse Games sees that light too, with Star Wars: Galactic Racer set to be updated to add local splitscreen multiplayer sometime early next year. Read more
+
+### Judge denies motion to dismiss lawsuit accusing Samsung, SK Hynix and Micron of worsening RAM crisis by fixing memory prices and supply
+Tue, 17 Nov 2026 10:27:30 +0000 — https://www.rockpapershotgun.com/judge-denies-motion-to-dismiss-lawsuit-accusing-samsung-sk-hynix-and-micron-of-worsening-ram-crisis-by-fixing-memory-prices-and-supply
+
+A judge has denied a motion to dismiss a US lawsuit against chip makers Samsung, SK Hynix, and Micron. The suit acccuses the companies of fixing RAM prices and supply, thereby contributing to worsening the effects of the ongoing memory crisis . Read more
+
+### Microsoft's SideWinder Strategic Commander was a failed attempt to reimagine RTS controls. 23 years later, why are some players still using it?
+Tue, 17 Nov 2026 09:31:20 +0000 — https://www.rockpapershotgun.com/microsofts-sidewinder-strategic-commander-was-a-failed-attempt-to-reimagine-rts-controls-23-years-later-why-are-some-players-still-using-it
+
+PC players have been conditioned for decades to accept the keyboard-and-mouse setup for RTS games . One hand has to handle movement and commands through a keyboard, while the other points, drags, and selects with a mouse. Peripheral makers have, usually with the addition of more buttons, made many minor variations to this time-honored arrangement, but there's only ever been one real attempt to rethink it entirely for the PC: the Microsoft SideWinder Strategic Commander. Read more
 
 ### Spirit Crossing, the new Zelda-ish hangout MMO from the creators of Cozy Grove, understands that sometimes you just want to be alone
 Mon, 16 Nov 2026 17:59:20 +0000 — https://www.rockpapershotgun.com/spirit-crossing-the-new-zelda-ish-hangout-mmo-from-the-creators-of-cozy-grove-understands-that-sometimes-you-just-want-to-be-alone
@@ -436,19 +501,4 @@ A hacker has pleaded guilty to a number of online crimes, including the 2022 bre
 Mon, 16 Nov 2026 12:54:10 +0000 — https://www.rockpapershotgun.com/this-week-in-pc-games-start-a-new-life-in-vice-city-escape-a-dying-universe-before-the-last-black-hole-evaporates-and-avenge-your-pigeon-with-a-sledgehammer
 
 Happy this week, all! Please throw yourself upon the floor in consternation, clawing at your face and hair, for the release of Grand Theft Auto 6 is nigh. In just a few short days, every gaming vertical under the sun will be publishing features about the exact depth of Jason Duval's ripped abs and what this Says About America Today, or how many bottle caps you must gather to unlock Lucia Caminos' Gundam mode. Fortunately for my sanity, Rockstar's crime colossus isn't yet nigh on PC, though the word is that modders driven nuts by Claude will soon be along with an unofficial "port" . As such, while we do have a few Grandiosely Thievish articles in store this week &ndash; not least, coverage of the on-going unionisation situation at Rockstar &ndash; we can afford to spend a few hours writing about non-GTA things. The appraisal of mushrooms, for example, or the solubility of rubber hosing, or the parrying of spells. Without further ado, here's this week's uncommonly flavourful crop of new PC games. Don't worry, dear Maw. You'll get to eat Jason eventually. Read more
-
-### "Nobody was hurt" in shooting near Clockwork Revolution devs InXile Entertainment's office, the Xbox-owned studio and police confirm
-Mon, 16 Nov 2026 12:10:50 +0000 — https://www.rockpapershotgun.com/nobody-was-hurt-in-shooting-near-clockwork-revolution-devs-inxile-entertainments-office-the-xbox-owned-studio-and-police-confirm
-
-"Nobody was hurt" in a shooting last week near the California office of Clockwork Revolution developers InXile, both the studio and local police have confirmed. The incident, which took place on November 11th, is currently being investigated and police have reportedly taken a suspect into custody. Read more
-
-### "We've finally reached this milestone": Cyberpunk 2077 multiplayer mod CyberMP kicks off open beta after around six years preparing for cybermayhem
-Mon, 16 Nov 2026 10:28:20 +0000 — https://www.rockpapershotgun.com/weve-finally-reached-this-milestone-cyberpunk-2077-multiplayer-mod-cybermp-kicks-off-open-beta-after-around-six-years-preparing-for-cybermayhem
-
-After a couple of years of regular testing behind closed doors, Cyberpunk 2077 multiplayer mod CyberMP is now out in open beta, giving anyone who fancies a bit of multi-merc action a chance to give it a go. Though, if you do, be prepared for bugs and crashes, as work on the mod is far from over with the release of this "true beta". Read more
-
-### The Sunday Papers
-Sun, 15 Nov 2026 13:00:00 +0000 — https://www.rockpapershotgun.com/the-sunday-papers-836
-
-While following a peculiar trail of silver and saffron leaves around the largest roots of the Treehouse, you come across a hexagonal wooden door lying half-hidden among ivy and moss. Scraping away the dirt, you discover a faint, absurd engraving of a newspaper. What mystery is here? You turn the brass knob &ndash; strange, it is warm! &ndash; and the engraving of the newspaper flutters. The pages turn faster and faster, emitting a howling gale that bowls you head over foot. When you pick yourself up, you are inside a vast attic full of books and bricabrac, lit from one side by windows that offer no view of the outside world &ndash; just light and mist. Tarnation! You have been lured into the eternal prison of Sunday Afternoon. Fortunately, there are several ways to escape. Each of the arcane objects before you is secretly a portal, transporting you to another site of arcane activity, in a bizarre web of diversions that cannot possibly reflect the hand of a human curator. Which will you choose? Read more
 
