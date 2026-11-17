@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Obsession: a TikTok makeup trend, finished in comp">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#18011F"/>
+      <stop offset="1" stop-color="#5B3FBF"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <g fill="#D7E2EA" font-family="Helvetica, Arial, sans-serif">
+    <text x="80" y="140" font-size="30" letter-spacing="6" opacity="0.65">FILM &amp; TV</text>
+    <text x="80" y="300" font-size="112" font-weight="700">2D, not 3D</text>
+    <text x="80" y="390" font-size="44" opacity="0.92">Obsession kept the take</text>
+    <text x="80" y="455" font-size="44" opacity="0.92">and warped the face over it</text>
+    <text x="80" y="560" font-size="28" opacity="0.6">Makeup off a TikTok trend, finished by Queen in comp</text>
+  </g>
+</svg>
