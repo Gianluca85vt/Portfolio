@@ -1,72 +1,82 @@
-# Manga — harvested 2026-11-17T13:51:18.717Z
+# Manga — harvested 2026-11-17T23:39:06.530Z
 
 ## Anime News Network
 
-### Mistress Kanan is Devilishly Easy Season 2's 1st Video Unveils More Cast & Staff, 2027 Debut
-Tue, 17 Nov 2026 05:53:39 -0500 — https://www.animenewsnetwork.com/news/2026-11-17/mistress-kanan-is-devilishly-easy-season-2-1st-video-unveils-more-cast-and-staff-2027-debut/.243905
+### RPG Maker U2U Software Launches for PC via Steam on January 28
+Tue, 17 Nov 2026 18:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-17/rpg-maker-u2u-software-launches-for-pc-via-steam-on-january-28/.243916
 
-Returning cast, staff for <cite>Kanan-sama wa Akumade Choroi 2 EASY</cite> also confirmed
+Perspective 2D Map Editor Demo available until release
 
-### Josemaru Short Anime's 3rd Teaser Reveals More Cast, January 10 Debut
-Tue, 17 Nov 2026 04:51:14 -0500 — https://www.animenewsnetwork.com/news/2026-11-17/josemaru-short-anime-3rd-teaser-reveals-more-cast-january-10-debut/.243904
+### Reading Our Way to a Happy New World Manga Listed to End With 3rd Volume
+Tue, 17 Nov 2026 17:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-17/reading-our-way-to-a-happy-new-world-manga-listed-to-end-with-3rd-volume/.243882
 
-Mariya Ise, Hikaru Tōno, Nana Enomoto join cast
+Series debuted in June 2025
 
-### Sonic the Hedgehog, McLaren Racing Collaborates on 3-Episode Animated Special
-Tue, 17 Nov 2026 04:17:45 -0500 — https://www.animenewsnetwork.com/news/2026-11-17/sonic-the-hedgehog-mclaren-racing-collaborates-on-3-episode-animated-special/.243899
+### Yametai! ~Anata no Reset, Daikō Shimasu~ Manga Ends
+Tue, 17 Nov 2026 16:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-17/yametai-~anata-no-reset-daiko-shimasu~-manga-ends/.243881
 
-<cite>Sonic the Hedgehog x McLaren Racing: Beyond Fast</cite> previewed in teaser
+Jun Esaka, Kine Usuto's series debuted on January 11
 
-### The Eternal Fool's Words of Wisdom Anime's New Video Unveils More Cast, Theme Songs, January 9 Debut
-Tue, 17 Nov 2026 04:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-17/the-eternal-fool-words-of-wisdom-anime-new-video-unveils-more-cast-theme-songs-january-9-debut/.243889
+### Black Clover Season 2 ‒ Episode 177
+Tue, 17 Nov 2026 15:30:00 -0500 — https://www.animenewsnetwork.com/review/black-clover-season-2/episode-177/.243822
 
-Rie Kugimiya joins cast as Aileen; Nako Misaki × sajou no hana, Arcana Project perform theme songs
+Yuno might be a prince, but Noelle’s a downright slay queen. Good for her!
 
-### Gundam Seed Freedom Zero & Fool Night Stand Back-to-Back in Crossover Art
-Mon, 16 Nov 2026 23:59:00 -0500 — https://www.animenewsnetwork.com/interest/2026-11-16/gundam-seed-freedom-zero-and-fool-night-stand-back-to-back-in-crossover-art/.243892
+### Attack on Titan 3 Brings the Video Game Series to Its Brutal, Bloody Conclusion
+Tue, 17 Nov 2026 15:30:00 -0500 — https://www.animenewsnetwork.com/feature/2026-11-17/attack-on-titan-3-brings-the-video-game-series-to-its-brutal-bloody-conclusion/.243886
 
-Two “seeds” come together before their respective releases
+The good news is that, based on the opening chapters of this preview PC build I was able to sink my giant boxcutter blades into, the eight-year wait was worth it.
 
-### Live-Action Twisted Sisters Series Reveals More Cast, January 10 Debut
-Mon, 16 Nov 2026 23:43:31 -0500 — https://www.animenewsnetwork.com/news/2026-11-16/live-action-twisted-sisters-series-reveals-more-cast-january-10-debut/.243890
+### Battle Spirits [Re] Zekkai no Kū Anime Gets Light Novel
+Tue, 17 Nov 2026 15:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-17/battle-spirits-re-zekkai-no-ku-anime-gets-light-novel/.243914
 
-Hiroshi Tachi, Jin Shirasu, Rui Kurihara, Haruki Mochizuki, Tomu Miyazaki, 3 more join cast
+Sei Shimotsuki's novel ships on December 17
 
-### Live-Action My Sister's Boyfriend Film's New Video Highlights Song by timelesz
-Mon, 16 Nov 2026 23:34:31 -0500 — https://www.animenewsnetwork.com/news/2026-11-16/live-action-my-sister-boyfriend-film-new-video-highlights-song-by-timelesz/.243893
+### Overgeared ‒ Episode 8
+Tue, 17 Nov 2026 14:30:00 -0500 — https://www.animenewsnetwork.com/review/overgeared/episode-8/.243842
 
-Film opens in Japan on December 4
+With how much Grid hates playing with others, it should be pretty funny to see how he handles being forced into a group
 
-### Haruhi Suzumiya Collaborates With Sanrio Characters
-Mon, 16 Nov 2026 23:00:00 -0500 — https://www.animenewsnetwork.com/interest/2026-11-16/haruhi-suzumiya-collaborates-with-sanrio-characters/.243507
+### HIDIVE Streams Giant Ojosama TV Anime This Winter; Screens N. American Premiere at Anime Frontier on December 4
+Tue, 17 Nov 2026 14:17:32 -0500 — https://www.animenewsnetwork.com/news/2026-11-17/hidive-streams-giant-ojosama-tv-anime-this-winter-screens-n-american-premiere-at-anime-frontier-on-/.243917
 
-Sanrio characters aren't quite the aliens, time-travelers, & espers Haruhi's looking for
+English-subbed trailer streams for anime premiering in January 2027
 
-### Tetsuya Tsutsui Launches New Ortrans Manga
-Mon, 16 Nov 2026 18:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-16/tetsuya-tsutsui-launches-new-ortrans-manga/.243867
+### Magical Girl Raising Project restart ‒ Episode 7
+Tue, 17 Nov 2026 13:30:00 -0500 — https://www.animenewsnetwork.com/review/magical-girl-raising-project-restart/episode-7/.243887
 
-<cite>Ortrans</cite> debuts on January 21
+With this conversation between Keek and Snow White, we finally have all the pieces to see what is actually going on in this series.
 
-### D.I.C.E. Awards Honors Nintendo Game Creator Shigeru Miyamoto With Inaugural Legend Award
-Mon, 16 Nov 2026 17:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-16/d.i.c.e-awards-honors-nintendo-game-creator-shigeru-miyamoto-with-inaugural-legend-award/.243870
+### The Game Awards 2026 Reveals Nominees
+Tue, 17 Nov 2026 12:43:41 -0500 — https://www.animenewsnetwork.com/news/2026-11-17/the-game-awards-2026-reveals-nominees/.243915
 
-<cite>Super Mario Bros.</cite>, <cite>Legend of Zelda</cite> creator earns award presented only once per decade
+<cite>The Legend of Zelda: Ocarina of Time</cite>, <cite>Resident Evil Requiem</cite>, more games earn nominations
 
-### Ultraman Teo Actress Noa Nekada Dies at 23
-Mon, 16 Nov 2026 16:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-16/ultraman-teo-actress-noa-nekada-dies-at-23/.243868
+### Psyren ‒ Episode 6
+Tue, 17 Nov 2026 12:30:00 -0500 — https://www.animenewsnetwork.com/review/psyren/episode-6/.243891
 
-Ongoing <cite>Ultraman Teo</cite> series will broadcast as planned with Nekada's already-filmed scenes
+Whatever passion went into this adaptation isn't coming through in the end product, and all we have is a show that feels like it's going through the motions.
 
-### Singer Yukio Yamagata Dies at 69
-Mon, 16 Nov 2026 15:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-16/singer-yukio-yamagata-dies-at-69/.243866
+### Maki Terashima-Furuta Joins ASIFA-Hollywood's Board of Directors Ahead of 54th Annie Awards' New Anime Category
+Tue, 17 Nov 2026 12:01:57 -0500 — https://www.animenewsnetwork.com/news/2026-11-17/maki-terashima-furuta-joins-asifa-hollywood-board-of-directors-ahead-of-54th-annie-awards-new-anime-/.243909
 
-Yamagata performed theme songs for <cite>Hyakujuu Sentai Gaoranger</cite>, <cite>Yattodetaman</cite>, <cite>Bakusō Kyōdai Let's & Go!!</cite>
+Maki Terashima-Furuta serves as Production I.G. USA's President
 
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Exclusive: Giant Ojosama Joins HIDIVE Winter 2027 Lineup, Anime Frontier Premiere Set for December 4
+Tue, 17 Nov 2026 17:04:14 GMT — https://animecorner.me/exclusive-giant-ojosama-joins-hidive-winter-2027-lineup-anime-frontier-premiere-set-for-december-4/
+
+HIDIVE has acquired Giant Ojosama for its Winter 2027 simulcast lineup, with the comedy&hellip;
+
+### Exclusive Preview: Magnetic Press Brings Rodolphe and Christophe Dubois' TER Trilogy to Kickstarter in Deluxe Hardcover
+Tue, 17 Nov 2026 17:00:00 GMT — https://animecorner.me/exclusive-preview-magnetic-press-brings-rodolphe-and-christophe-dubois-ter-trilogy-to-kickstarter-in-deluxe-hardcover/
+
+Magnetic Press is bringing Rodolphe and Christophe Dubois’ science fiction series TER to English-language&hellip;
 
 ### Mistress Kanan Is Devilishly Easy Season 2 Anime Reveals Visual, Trailer, Additional Cast
 Tue, 17 Nov 2026 10:50:25 GMT — https://animecorner.me/mistress-kanan-is-devilishly-easy-season-2-anime-reveals-visual-trailer-additional-cast/
@@ -115,7 +125,12 @@ Witch Watch Season 2 is set to premiere in 2027. A teaser visual featuring&helli
 
 ## MyAnimeList News
 
-### Additional Cast for Odoru Sennen Kazoku Announced
+### Light Novel Saigo ni Hitotsu dake Onegai shitemo Yoroshii deshou ka Concludes with 8th Volume
+Tue, 17 Nov 2026 07:21:13 -0800 — https://myanimelist.net/news/74950128?_location=rss
+
+The official X account for author Nana Ootori announced on Tuesday that the Saigo ni Hitotsu dake Onegai shitemo Yoroshii deshou ka (May I Ask for One Final Thing?) light novel series will end with its eighth volume, scheduled to be released on December 1. Ootori began penning the action romcom novel on the Shousetsuka ni Narou website in April 2018. AlphaPolis began publishing the novel under its Regina Books imprint with illustrations by Satsuki in August 2018 and published the seventh volume...
+
+### Main Cast for Odoru Sennen Kazoku Announced
 Tue, 17 Nov 2026 05:09:47 -0800 — https://myanimelist.net/news/74949726?_location=rss
 
 The official website for the television anime adaptation of Akira Kazugai s Odoru Sennen Kazoku (Millennium Family) manga announced six additional cast members on Sunday. The anime series will air on TBS and other channels. Cast Arthur: Mutsumi Tamura (Kobayashi-san Chi no Maid Dragon) Raine: Haruna Mikawa (Ore dake Level Up na Ken) Noel: Taihi Kimura (Onmyou Kaiten Re:Birth) Eve: Lynn (Bokutachi wa Benkyou ga Dekinai) Hayden: Katsuyuki Konishi (Kimetsu no Yaiba) Hugo: Ryouta Suzuki (Kaguya...
@@ -139,11 +154,6 @@ The official website for the Skip to Loafer (Skip and Loafer) television anime r
 Sun, 15 Nov 2026 21:26:52 -0800 — https://myanimelist.net/news/74945506?_location=rss
 
 The official website of the Wanpaku! Touken Ranbu television anime revealed the main staff and a teaser visual (pictured). The anime series, based on the character project designed and produced by Sanrio for the Touken Ranbu Online game, will premiere on January 6 at 9:54 p.m. on Tokyo MX. Staff Director: Gaku Kinoshita (Sumikko Gurashi) Script: Rieko Ebisu Art Director: Midori Shimada (Garden of Remembrance) Studio: Fanworks The original Touken Ranbu Online game has received adaptations in vari...
-
-### Manga Witch Watch Concludes Serialization
-Sun, 15 Nov 2026 07:23:38 -0800 — https://myanimelist.net/news/74943102?_location=rss
-
-Kenta Shinohara s Witch Watch manga has concluded with chapter 270 in the 51st issue of Weekly Shounen Jump magazine on Monday, after a five-year serialization. Shinohara began serializing the supernatural comedy manga in Weekly Shonen Jump in February 2021. Shueisha published the 28th volume on October 2. Produced by Bibury Animation Studios, the 25-episode first season aired in Spring 2025. Crunchyroll and Netflix simulcasted the anime worldwide with subtitles and dubs in multiple languag...
 
 ## Otaku USA
 

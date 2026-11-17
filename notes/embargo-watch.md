@@ -18,9 +18,7 @@ Games only. Film and television still come from `notes/feeds/film-tv.md`.
 
 ## Reviews expected within three days
 
-| Title | Publisher | Release | Away | Reviews from | Price |
-|---|---|---|---|---|---|
-| Gold Mining Simulator - Definitive Edition | Code Horizon, PlayWay S.A. | 2026-11-17 | today | 2026-11-16 | €39.99 |
+_Nothing inside three days._
 
 ## Further out, within 14 days
 
@@ -28,7 +26,7 @@ _Nothing else dated in the window._
 
 ---
 
-*1500 upcoming titles scanned, 1021 with a firm date inside
-14 days, 1 above the price line. Titles showing
+*1500 upcoming titles scanned, 974 with a firm date inside
+14 days, 0 above the price line. Titles showing
 "Q4 2026" or "To be announced" are dropped: a quarter says nothing about when
 reviews arrive.*

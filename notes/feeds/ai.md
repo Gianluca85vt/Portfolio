@@ -1,11 +1,31 @@
-# AI — harvested 2026-11-17T13:51:18.717Z
+# AI — harvested 2026-11-17T23:39:06.530Z
 
 ## OpenAI
+
+### Introducing GPT-6.2 Astra and Sol
+Tue, 17 Nov 2026 17:45:00 GMT — https://openai.com/index/introducing-gpt-6-2-astra-sol
+
+Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.
 
 ### Strengthening NATO and allied cyber defenses with AI
 Tue, 17 Nov 2026 00:00:00 GMT — https://openai.com/index/strengthening-nato-allied-cyber-defences-ai
 
 How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.
+
+### Introducing ChatGPT for Sales
+Tue, 17 Nov 2026 08:00:00 GMT — https://openai.com/index/introducing-chatgpt-for-sales
+
+Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.
+
+### Astra for Law leads in legal intelligence
+Tue, 17 Nov 2026 00:00:00 GMT — https://openai.com/index/astra-law-6-2
+
+Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.
+
+### Introducing OpenAI for Chile
+Tue, 17 Nov 2026 00:00:00 GMT — https://openai.com/index/introducing-openai-for-chile
+
+OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.
 
 ### Broadening access to AI for scientists
 Mon, 16 Nov 2026 17:00:00 GMT — https://openai.com/index/expanding-chatgpt-for-academic-researchers
@@ -41,24 +61,6 @@ OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, an
 Mon, 16 Nov 2026 06:00:00 GMT — https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare
 
 Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.
-
-### Advancing computer-use agents for healthcare teams
-Mon, 16 Nov 2026 06:00:00 GMT — https://openai.com/index/advancing-computer-use-for-healthcare-teams
-
-### The King’s Trust and OpenAI launch £1m partnership
-Mon, 16 Nov 2026 00:00:00 GMT — https://openai.com/index/the-kings-trust-and-openai
-
-The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.
-
-### At Holiday Extras, dots get to work before anyone asks
-Mon, 16 Nov 2026 00:00:00 GMT — https://openai.com/business/customer-stories/holiday-extras-dots
-
-Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the commute to work.
-
-### A step toward defining the Standard Model on a lattice
-Sun, 15 Nov 2026 22:00:01 GMT — https://openai.com/index/step-toward-defining-the-standard-model
-
-Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.
 
 ## Hugging Face
 

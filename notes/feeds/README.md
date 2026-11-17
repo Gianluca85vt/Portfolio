@@ -1,4 +1,4 @@
-# Source feeds — harvested 2026-11-17T13:51:18.717Z
+# Source feeds — harvested 2026-11-17T23:39:06.530Z
 
 Fetched by GitHub Actions, which is not behind the writer's egress proxy.
 One file per category. Each item is what the publisher syndicates in its
@@ -11,9 +11,19 @@ own feed: headline, link, date, and their summary.
 
 ## Broadcasts in the feeds
 
+**A preview is owed on this.** Write it before the show airs, with the start time in Italian time and the
+stream embedded, then the round-up an hour after it ends. See
+notes/event-coverage.md.
+
+- **Polygon** — When Are The Game Awards 2026: Date, Time, and How to Watch
+  https://www.polygon.com/game-awards-2026-how-to-watch-when-date-time/
+
 Already aired, so a round-up rather than a preview:
 
-- Polygon — GTA 6 Will Never Be Able to Beat Clair Obscur at The Game Awards
+- Eurogamer — The Game Awards 2026 nominees announced, and GTA 6 leads with eight nods before it's even out
+- Eurogamer — The Game Awards just confirmed who plays GTA 6's Lucia
+- Push Square — PlayStation Has No GOTY Nominee at The Game Awards for First Time in 12 Years
+- Push Square — The Game Awards 2026 Nominees Revealed, GTA 6 Up for 8 Awards
 
 > **A dated showcase gets two articles, not one.** A preview before it
 > airs, carrying the stream link and the start time in Italian time, and a
@@ -35,13 +45,13 @@ silently skipping it.
 
 ## Feeds
 
-- [Games](games.md) — 96 items
+- [Games](games.md) — 102 items
 - [Tech](tech.md) — 82 items
 - [3D](3d.md) — 11 items
 - [AI](ai.md) — 13 items
-- [Manga](manga.md) — 29 items
+- [Manga](manga.md) — 31 items
 - [Film & TV](film-tv.md) — 67 items
 
-Total: 298 items.
+Total: 306 items.
 
 Feeds that did not answer: CGChannel (HTTP 403), VentureBeat AI (HTTP 429).
