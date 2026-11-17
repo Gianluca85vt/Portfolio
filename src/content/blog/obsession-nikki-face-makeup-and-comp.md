@@ -17,7 +17,6 @@ artistView:
     - "Shooting plan: cropping her out of frame and dropping her into shadow is a comp-friendly schedule as much as a directing instinct, since less visible face is less to track and less to tear."
   misses:
     - "Coverage: reviewers describe a face kept in shadow or pushed out of frame for much of the run, which protects the effect and rations it — the design carrying the film rarely gets a clean, well-lit look at itself."
-draft: true
 ---
 
 There is a moment in *Obsession* where Nikki stands in the dark corner of Bear's
