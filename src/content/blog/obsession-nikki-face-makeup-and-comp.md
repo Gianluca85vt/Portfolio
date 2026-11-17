@@ -3,7 +3,7 @@ title: "Obsession's Nikki: TikTok makeup, then 2D comp"
 date: 2026-11-17
 category: Film & TV
 excerpt: The face reviewers called a practical effect started as an uncanny-valley TikTok look. Queen's artists then pushed it further in 2D, performance intact.
-cover: /img/blog/obsession-nikki-face-makeup-and-comp/shot-01.jpg
+cover: /img/blog/obsession-nikki-face-makeup-and-comp/shot-03.jpg
 sources:
   - outlet: befores & afters
     url: https://beforesandafters.com/2026/11/17/behind-the-tools-and-techniques-used-to-craft-those-subtle-facial-enhancements-in-obsession/
@@ -44,6 +44,11 @@ valley. The enhancements are, in his words, of the invisible variety: subtle
 shifts to the actor's features and nothing more.
 
 ## The design came off a phone
+
+<figure>
+  <img src="/img/blog/obsession-nikki-face-makeup-and-comp/shot-03.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>Inde Navarrette at TIFF 2025, and Curry Barker with Navarrette and Michael Johnston at the Obsession Q&A in Century City on 13 May 2026, via Wikimedia Commons</figcaption>
+</figure>
 
 The makeup it was built on has a stranger lineage. Bloody Disgusting reports that
 Nikki's look was drawn from an uncanny-valley trick popularised on TikTok by a
