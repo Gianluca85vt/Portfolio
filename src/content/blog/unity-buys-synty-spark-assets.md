@@ -19,7 +19,6 @@ artistView:
   misses:
     - "Art direction: flat shading and no normal maps hold up beautifully in a wide shot and show every seam once a camera gets within a few metres of a wall."
     - "Identity: the range is distinctive enough that a game built from it reads as a Synty game before it reads as yours, and a prompt-driven editor pulling from one library will make that more common."
-draft: true
 ---
 
 Unity has bought Synty Studios. Announced yesterday, terms undisclosed, and the
