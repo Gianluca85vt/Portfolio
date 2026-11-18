@@ -1,6 +1,11 @@
-# AI — harvested 2026-11-17T23:39:06.530Z
+# AI — harvested 2026-11-18T13:26:21.403Z
 
 ## OpenAI
+
+### Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT
+Wed, 18 Nov 2026 00:00:00 GMT — https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership
+
+Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.
 
 ### Introducing GPT-6.2 Astra and Sol
 Tue, 17 Nov 2026 17:45:00 GMT — https://openai.com/index/introducing-gpt-6-2-astra-sol
@@ -37,35 +42,9 @@ Mon, 16 Nov 2026 17:00:00 GMT — https://openai.com/index/strengthening-online-
 
 New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.
 
-### Science at the Frontier: How scientists use ChatGPT
-Mon, 16 Nov 2026 12:00:00 GMT — https://openai.com/index/science-at-the-frontier
-
-Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.
-
-### How Revolut raises ambition without lowering the bar
-Mon, 16 Nov 2026 09:30:00 GMT — https://openai.com/business/customer-stories/revolut
-
-Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.
-
-### LVMH’s Media Division announces strategic partnership with OpenAI
-Mon, 16 Nov 2026 09:00:00 GMT — https://openai.com/index/lvmh-media-division-partnership
-
-LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.
-
-### Our first phase of embedded assessments
-Mon, 16 Nov 2026 08:00:00 GMT — https://openai.com/index/our-first-phase-of-embedded-assessments
-
-OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.
-
-### More ways to move care forward with ChatGPT for Healthcare
-Mon, 16 Nov 2026 06:00:00 GMT — https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare
-
-Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.
-
 ## Hugging Face
 
-### Hugging Face and OpenRouter join forces to make open-weight models easy to run
-Mon, 16 Nov 2026 00:00:00 GMT — https://huggingface.co/blog/openrouter
+_Nothing in the last 48 hours._
 
 ## Google DeepMind
 

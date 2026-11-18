@@ -1,6 +1,56 @@
-# Manga — harvested 2026-11-17T23:39:06.530Z
+# Manga — harvested 2026-11-18T13:26:21.403Z
 
 ## Anime News Network
+
+### KuKu-Loop: The 100th Time's the Charm Anime Reveals Main Cast, Staff, 2027 TV Debut
+Wed, 18 Nov 2026 07:00:19 -0500 — https://www.animenewsnetwork.com/news/2026-11-18/kuku-loop-the-100th-time-the-charm-anime-reveals-main-cast-staff-2027-tv-debut/.243942
+
+Ikumi Hasegawa, Kazuki Ura star in XINGFU anime
+
+### Spice & Wolf: merchant meets the wise wolf Season 2 to Debut in January
+Wed, 18 Nov 2026 06:06:37 -0500 — https://www.animenewsnetwork.com/news/2026-11-18/spice-and-wolf-merchant-meets-the-wise-wolf-season-2-to-debut-in-january/.243941
+
+Season 2's key visual, character visuals also revealed
+
+### New Votoms Anime Films Stream 1st 9 Minutes
+Wed, 18 Nov 2026 04:02:38 -0500 — https://www.animenewsnetwork.com/news/2026-11-18/new-votoms-anime-films-stream-1st-9-minutes/.243938
+
+1st film opens in Japan on Friday
+
+### Identity V Game's Oha Suta Daigo Gakuen Short Anime Unveils More Cast, Staff, November 24 Debut
+Wed, 18 Nov 2026 02:20:06 -0500 — https://www.animenewsnetwork.com/news/2026-11-18/identity-v-game-oha-suta-daigo-gakuen-short-anime-unveils-more-cast-staff-november-24-debut/.243933
+
+Takehito Koyasu, Nobunaga Shimazaki, Yūichirō Umehara, Makoto Furukawa co-star
+
+### Frieren Joins Mahjong Soul Game for Limited-Time Crossover
+Tue, 17 Nov 2026 23:59:00 -0500 — https://www.animenewsnetwork.com/interest/2026-11-17/frieren-joins-mahjong-soul-game-for-limited-time-crossover/.243854
+
+Frieren is taking another several years to learn the popular tile-based game
+
+### Yaiba: Samurai Legend Season 2 Reveals Cast Member Yūma Uchida, Opening Song Artists
+Tue, 17 Nov 2026 22:11:10 -0500 — https://www.animenewsnetwork.com/news/2026-11-17/yaiba-samurai-legend-season-2-reveals-cast-member-yuma-uchida-opening-song-artists/.243924
+
+Uchida plays Gekkō, CHiCO with HoneyWorks performs opening song "CHASE!"
+
+### Otherworldly Munchkin Anime's New Video Reveals More Cast, Staff, Theme Songs, January 7 Debut
+Tue, 17 Nov 2026 22:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-17/otherworldly-munchkin-anime-new-video-reveals-more-cast-staff-theme-songs-january-7-debut/.243921
+
+Yūichirō Umehara joins cast with some staff changes after delay of more than a year
+
+### Archive of Our Own Site Reopens Following 'Security Incident'
+Tue, 17 Nov 2026 21:45:00 -0500 — https://www.animenewsnetwork.com/interest/2026-11-17/archive-of-our-own-site-reopens-following-security-incident/.243907
+
+Staff: “Some features have been temporarily disabled to allow us to bring the site back earlier”
+
+### Sakamoto Days Season 2's Trailer Unveils More Cast, Opening Song, January 18 Debut
+Tue, 17 Nov 2026 21:00:08 -0500 — https://www.animenewsnetwork.com/news/2026-11-17/sakamoto-days-season-2-trailer-unveils-more-cast-opening-song-january-18-debut/.243925
+
+Kenyū Horiuchi, Kishō Taniyama join cast with Creepy Nuts performing opening song
+
+### Soara and the House of Monsters Anime Casts Reiji Kawashima, Kenta Miyake
+Tue, 17 Nov 2026 20:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-17/soara-and-the-house-of-monsters-anime-casts-reiji-kawashima-kenta-miyake/.243906
+
+Kawashima, Miyake play dwarves Niko, Ganshō in 2027 anime
 
 ### RPG Maker U2U Software Launches for PC via Steam on January 28
 Tue, 17 Nov 2026 18:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-17/rpg-maker-u2u-software-launches-for-pc-via-steam-on-january-28/.243916
@@ -12,61 +62,26 @@ Tue, 17 Nov 2026 17:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-1
 
 Series debuted in June 2025
 
-### Yametai! ~Anata no Reset, Daikō Shimasu~ Manga Ends
-Tue, 17 Nov 2026 16:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-17/yametai-~anata-no-reset-daiko-shimasu~-manga-ends/.243881
-
-Jun Esaka, Kine Usuto's series debuted on January 11
-
-### Black Clover Season 2 ‒ Episode 177
-Tue, 17 Nov 2026 15:30:00 -0500 — https://www.animenewsnetwork.com/review/black-clover-season-2/episode-177/.243822
-
-Yuno might be a prince, but Noelle’s a downright slay queen. Good for her!
-
-### Attack on Titan 3 Brings the Video Game Series to Its Brutal, Bloody Conclusion
-Tue, 17 Nov 2026 15:30:00 -0500 — https://www.animenewsnetwork.com/feature/2026-11-17/attack-on-titan-3-brings-the-video-game-series-to-its-brutal-bloody-conclusion/.243886
-
-The good news is that, based on the opening chapters of this preview PC build I was able to sink my giant boxcutter blades into, the eight-year wait was worth it.
-
-### Battle Spirits [Re] Zekkai no Kū Anime Gets Light Novel
-Tue, 17 Nov 2026 15:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-17/battle-spirits-re-zekkai-no-ku-anime-gets-light-novel/.243914
-
-Sei Shimotsuki's novel ships on December 17
-
-### Overgeared ‒ Episode 8
-Tue, 17 Nov 2026 14:30:00 -0500 — https://www.animenewsnetwork.com/review/overgeared/episode-8/.243842
-
-With how much Grid hates playing with others, it should be pretty funny to see how he handles being forced into a group
-
-### HIDIVE Streams Giant Ojosama TV Anime This Winter; Screens N. American Premiere at Anime Frontier on December 4
-Tue, 17 Nov 2026 14:17:32 -0500 — https://www.animenewsnetwork.com/news/2026-11-17/hidive-streams-giant-ojosama-tv-anime-this-winter-screens-n-american-premiere-at-anime-frontier-on-/.243917
-
-English-subbed trailer streams for anime premiering in January 2027
-
-### Magical Girl Raising Project restart ‒ Episode 7
-Tue, 17 Nov 2026 13:30:00 -0500 — https://www.animenewsnetwork.com/review/magical-girl-raising-project-restart/episode-7/.243887
-
-With this conversation between Keek and Snow White, we finally have all the pieces to see what is actually going on in this series.
-
-### The Game Awards 2026 Reveals Nominees
-Tue, 17 Nov 2026 12:43:41 -0500 — https://www.animenewsnetwork.com/news/2026-11-17/the-game-awards-2026-reveals-nominees/.243915
-
-<cite>The Legend of Zelda: Ocarina of Time</cite>, <cite>Resident Evil Requiem</cite>, more games earn nominations
-
-### Psyren ‒ Episode 6
-Tue, 17 Nov 2026 12:30:00 -0500 — https://www.animenewsnetwork.com/review/psyren/episode-6/.243891
-
-Whatever passion went into this adaptation isn't coming through in the end product, and all we have is a show that feels like it's going through the motions.
-
-### Maki Terashima-Furuta Joins ASIFA-Hollywood's Board of Directors Ahead of 54th Annie Awards' New Anime Category
-Tue, 17 Nov 2026 12:01:57 -0500 — https://www.animenewsnetwork.com/news/2026-11-17/maki-terashima-furuta-joins-asifa-hollywood-board-of-directors-ahead-of-54th-annie-awards-new-anime-/.243909
-
-Maki Terashima-Furuta serves as Production I.G. USA's President
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### KUKU-LOOP: The 100th Time's the Charm Anime Announced for 2027, Reveals Main Cast and Teaser Visual
+Wed, 18 Nov 2026 12:43:37 GMT — https://animecorner.me/kuku-loop-the-100th-times-the-charm-anime-announced-for-2027-reveals-main-cast-and-teaser-visual/
+
+KUKU-LOOP: The 100th Time’s the Charm TV anime adaptation was officially announced for 2027, revealing a teaser visual, main cast, and staff.
+
+### Spice and Wolf Season 2 Announces January 2027 Premiere
+Wed, 18 Nov 2026 11:24:40 GMT — https://animecorner.me/spice-and-wolf-season-2-announces-january-2027-premiere/
+
+Spice and Wolf: MERCHANT MEETS THE WISE WOLF Season 2 announced that the sequel&hellip;
+
+### Sakamoto Days Season 2 Reveals Key Visual, Main Trailer, January 18 Premiere, Creepy Nuts Theme Song Artist
+Wed, 18 Nov 2026 01:57:52 GMT — https://animecorner.me/sakamoto-days-season-2-reveals-key-visual-main-trailer-january-18-premiere-creepy-nuts-theme-song-artist/
+
+Sakamoto Days Season 2 revealed a key visual, trailer, and a January 18 premiere&hellip;
 
 ### Exclusive: Giant Ojosama Joins HIDIVE Winter 2027 Lineup, Anime Frontier Premiere Set for December 4
 Tue, 17 Nov 2026 17:04:14 GMT — https://animecorner.me/exclusive-giant-ojosama-joins-hidive-winter-2027-lineup-anime-frontier-premiere-set-for-december-4/
@@ -98,32 +113,27 @@ Mon, 16 Nov 2026 22:38:35 GMT — https://animecorner.me/interview-yoko-kanno-du
 
 During her first appearance at Lucca Comics & Games, composer Yoko Kanno sat down&hellip;
 
-### Are You a Landmine, Chihara-san? Anime Unveils Main Visual
-Mon, 16 Nov 2026 12:28:41 GMT — https://animecorner.me/are-you-a-landmine-chihara-san-anime-unveils-main-visual/
-
-A main visual was unveiled for the upcoming Are You a Landmine, Chihara-san? anime.&hellip;
-
-### Skip and Loafer Season 2 Reveals New Key Visual, New Trailer
-Mon, 16 Nov 2026 12:10:12 GMT — https://animecorner.me/skip-and-loafer-season-2-reveals-new-key-visual-new-trailer/
-
-The previously announced Skip and Loafer Season 2 revealed a key visual and a&hellip;
-
-### Interview: SHAFT and Aniplex on Madoka Magica Walpurgisnacht Rising Core Themes and Impact
-Mon, 16 Nov 2026 10:25:48 GMT — https://animecorner.me/interview-shaft-and-aniplex-on-madoka-magica-walpurgisnacht-rising-core-themes-and-impact/
-
-The long-awaited movie Puella Magi Madoka Magica the Movie -Walpurgisnacht: Rising- made its Italian&hellip;
-
-### TTRacing Launches the ORA Sofa Chair BT21 Collection in Makati, Philippines
-Mon, 16 Nov 2026 07:59:43 GMT — https://animecorner.me/ttracing-launches-ora-sofa-chair-bt21-collection-in-makati-philippines/
-
-A whole lot of color, comfort, and character come together in a cozy celebration&hellip;
-
-### Witch Watch Season 2 Premieres 2027
-Sun, 15 Nov 2026 23:54:03 GMT — https://animecorner.me/witch-watch-season-2-premieres-2027/
-
-Witch Watch Season 2 is set to premiere in 2027. A teaser visual featuring&hellip;
-
 ## MyAnimeList News
+
+### 99-kai Danzai sareta Loop Reijou desu ga Konse wa "Chouzetsu Aisare Mode" desu tte!? Shin no Chikara ni Mezamete Hajimaru 100-kaime no Jinsei Reveals Main Cast, Staff, 2027 Premiere
+Wed, 18 Nov 2026 03:26:53 -0800 — https://myanimelist.net/news/74953973?_location=rss
+
+An official site opened for the television anime adaptation of Yuuji Yuuji s 99-kai Danzai sareta Loop Reijou desu ga Konse wa "Chouzetsu Aisare Mode" desu tte!? Shin no Chikara ni Mezamete Hajimaru 100-kaime no Jinsei (The 100th Time s the Charm: She Was Executed 99 Times, So How Did She Unlock "Super Love" Mode?!) light novel on Wednesday, revealing the main cast, staff, and a teaser visual (pictured). The anime is scheduled to premiere in 2027. Voice actors Ikumi...
+
+### Isekai Munchkin Reveals New Staff, Theme Songs, Second Promo
+Tue, 17 Nov 2026 20:58:59 -0800 — https://myanimelist.net/news/74952442?_location=rss
+
+The official website for the television anime adaptation of Yuu Shimizu and Makoto Aogiri s Isekai Munchkin: HP1 no Mama de Saikyou Saisoku Dungeon Kouryaku (Otherworldly Munchkin: Let s Speedrun the Dungeon with Only 1 HP!) manga revealed additional cast, new staff, a second key visual (pictured), the theme songs, and second promotional video on Wednesday. The anime series will premiere on January 8 at 12:30 a.m. on Tokyo MX, followed by Me-Television and Gunma TV. Voice actor Yuuichi...
+
+### Sakamoto Days 2nd Season Unveils Additional Cast, Opening Theme, First Promo
+Tue, 17 Nov 2026 18:00:06 -0800 — https://myanimelist.net/news/74951901?_location=rss
+
+The official website of the Sakamoto Days television anime unveiled a pair of additional cast, key visual (pictured), the opening theme, and first promotional video for the second season on Wednesday. The anime adapting Yuuto Suzuki s action comedy manga is scheduled to premiere on TV Tokyo and its affiliated networks on January 19, 2027, at 12:00 a.m. It will also air on BS TV Tokyo on January 25 at 12:40 a.m. The first episode will be available for advance streaming on Netflix. Voice acto...
+
+### Soara to Mamono no Ie Announces Additional Cast Pair
+Tue, 17 Nov 2026 17:17:36 -0800 — https://myanimelist.net/news/74951722?_location=rss
+
+The official website of the Soara to Mamono no Ie (Soara and the House of Monsters) television anime revealed a pair of additional cast and teaser visual (pictured) on Wednesday. The anime series adapting Hidenori Yamaji s adventure fantasy manga will premiere in 2027. Voice actors Reiji Kawashima (Fumetsu no Anata e) and Kenta Miyake (Boku no Hero Academia) are joining the cast as Niko and Gansho, respectively. Takaharu Ozaki (Goblin Slayer) is directing the anime at Felix Film, with Ayumu...
 
 ### Light Novel Saigo ni Hitotsu dake Onegai shitemo Yoroshii deshou ka Concludes with 8th Volume
 Tue, 17 Nov 2026 07:21:13 -0800 — https://myanimelist.net/news/74950128?_location=rss
@@ -145,29 +155,19 @@ Mon, 16 Nov 2026 07:18:10 -0800 — https://myanimelist.net/news/74946798?_locat
 
 Production company TOHO animation opened an official website for a television anime adaptation of Oohashi Hirai s Diamond no Kouzai (The Days of Diamond) manga on Tuesday, revealing the main staff and an announcement visual (pictured). Staff Director: Takakazu Nagatomo (Seihantai na Kimi to Boku) Assistant Director: Chigusa Kiyota (Dungeon Meshi episode director) Series Composition, Script: Teruko Utsumi (Nippon Sangoku) Character Design: Atsushi Saitou (Shoushimin Series) Color Design: Kum...
 
-### Skip to Loafer 2nd Season Reveals Additional Cast Pair, First Promo
-Mon, 16 Nov 2026 01:46:46 -0800 — https://myanimelist.net/news/74945973?_location=rss
-
-The official website for the Skip to Loafer (Skip and Loafer) television anime revealed an additional pair of cast, new key visual, and the first promotional video for the Season 2 on Monday. The second season adapting Misaki Takamatsu s coming-of-age manga will premiere in April 2027. Voice actresses Reina Ueda (Mao) and Yuuto Takenaka (Saijo no Osewa) are joining in the anime as Chieri Yasaka and Kiyohiko Ujiie, respectively. Kotomi Deai (Natsume Yuujinchou Go) is directing the anime at P...
-
-### Wanpaku! Touken Ranbu Reveals Main Staff, Winter 2027 Premiere
-Sun, 15 Nov 2026 21:26:52 -0800 — https://myanimelist.net/news/74945506?_location=rss
-
-The official website of the Wanpaku! Touken Ranbu television anime revealed the main staff and a teaser visual (pictured). The anime series, based on the character project designed and produced by Sanrio for the Touken Ranbu Online game, will premiere on January 6 at 9:54 p.m. on Tokyo MX. Staff Director: Gaku Kinoshita (Sumikko Gurashi) Script: Rieko Ebisu Art Director: Midori Shimada (Garden of Remembrance) Studio: Fanworks The original Touken Ranbu Online game has received adaptations in vari...
-
 ## Otaku USA
 
 _Nothing in the last 48 hours._
 
 ## Anime UK News
 
+### Ragna Crimson Collector s Edition Review
+Wed, 18 Nov 2026 10:00:24 +0000 — https://animeuknews.net/2026/11/ragna-crimson-collectors-edition-review-2/
+
+The motto of the hero in Ragna Crimson is, "If at first you don't succeed, go back in time and give your younger self the cheat code."
+
 ### Twilight out of Focus: Afterimages in Slow Motion 2 Volume 7 Review
 Tue, 17 Nov 2026 10:00:59 +0000 — https://animeuknews.net/2026/11/twilight-out-of-focus-afterimages-in-slow-motion-2-volume-7-review/
 
 Rival high school film directors Jin and Giichi are now boyfriends – but what will happen to their relationship when Jin graduates and leaves for college?
-
-### Fate/Grand Order Absolute Demonic Front: Babylonia Part 2 Collector s Edition Review
-Mon, 16 Nov 2026 10:00:05 +0000 — https://animeuknews.net/2026/11/fate-grand-order-absolute-demonic-front-babylonia-part-2-collectors-edition-review/
-
-The rather wordy spin-off of the Fate series based on a latter chapter of a mobile game concludes with Part 2, so it’s time to answer the question: does this chunk of story work when watched in isolation?
 
