@@ -1739,5 +1739,11 @@
     "facebookError": "1098893486828059/feed -> HTTP 400 Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.",
     "instagramError": "17841448932903051/media -> HTTP 400 Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.",
     "bluesky": "at://did:plc:jphedra6dqvi3ylpnenvbsch/app.bsky.feed.post/3n2liciwrjd27"
+  },
+  "unity-buys-synty-spark-assets": {
+    "at": "2026-11-18T19:18:57.304Z",
+    "facebookError": "1098893486828059/feed -> HTTP 400 Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.",
+    "instagramError": "17841448932903051/media -> HTTP 400 Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.",
+    "bluesky": "at://did:plc:jphedra6dqvi3ylpnenvbsch/app.bsky.feed.post/3n2mbl366ua2k"
   }
 }
