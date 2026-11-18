@@ -3,7 +3,7 @@ title: "Unity Fellowship: $50k with no equity, no recoup"
 date: 2026-11-17
 category: Games
 excerpt: Ten indie teams get $50,000 each, with no equity, no revenue share and no IP claim. The condition is shipping inside twelve months.
-cover: /img/blog/unity-fellowship-50k-no-equity/cover.svg
+cover: /img/blog/unity-fellowship-50k-no-equity/shot-01.jpg
 sources:
   - outlet: GamesIndustry.biz
     url: https://www.gamesindustry.biz/unity-launches-50000-grant-for-indie-developers-with-no-equity-or-repayment
@@ -11,6 +11,8 @@ sources:
     url: https://www.gamedeveloper.com/business/unity-to-support-indies-with-cash-and-dedicated-support-through-new-fellowship-program
   - outlet: Rock Paper Shotgun
     url: https://www.rockpapershotgun.com/unity-launches-new-fellowship-program-offering-a-no-recoup-50000-grant-to-indie-developers-planning-to-launch-their-game-in-the-next-12-months
+  - outlet: 80 Level
+    url: https://80.lv/articles/unity-offers-indie-developers-usd50k-grants-through-new-fellowship-program
 artistView:
   take: "Money aimed at the last twelve months of a project is the rarest kind, because the last twelve months are the least demoable. Nobody funds a lighting pass, a localisation pass or a build that boots clean on four GPU vendors, and those are the jobs that decide whether anyone remembers the game. Ten teams is a small number against the shape of the problem, and the shape is still right."
 draft: true
@@ -80,7 +82,15 @@ It also notes the programme lands amid reports that Saudi Arabia's Public
 Investment Fund is circling the company. That part is rumour, and it is worth labelling
 as rumour. The half million is on the record.
 
-I have not seen the application terms beyond what the three outlets reported,
+Two details landed after the first wave of coverage. Applications close at
+5pm Eastern on 18 December 2026, which leaves about a month to get a submission
+together, and the ten teams get named at GDC in March 2027. The terms as
+reported also exclude developers based in Brazil, Italy and the province of
+Quebec, alongside anywhere under US sanctions; the reason given is local
+regulation. For an Italian studio twelve months out from launch, that closes
+the programme on a question of where the desk is.
+
+I have not seen the application terms beyond what the outlets reported,
 and Unity's own page would not load from here, so treat the eligibility
 details above as their reporting rather than as the fine print. If you are
 twelve months out and building in Unity, the fine print is the thing to go and

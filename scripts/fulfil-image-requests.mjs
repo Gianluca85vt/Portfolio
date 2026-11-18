@@ -251,6 +251,12 @@ for (const filename of requests) {
 
       await sharp(raw)
         .resize({ width: MAX_WIDTH, withoutEnlargement: true })
+        // JPEG has no alpha, and sharp flattens what it drops onto black. Most
+        // press assets outside Games are logos and wordmarks on a transparent
+        // background, drawn in black, so the saved cover came out as a black
+        // rectangle. Flatten onto white instead: a photograph has no alpha and
+        // is untouched by this.
+        .flatten({ background: '#ffffff' })
         .jpeg({ quality: 82 })
         .toFile(out);
 
