@@ -15,7 +15,6 @@ sources:
     url: https://80.lv/articles/unity-offers-indie-developers-usd50k-grants-through-new-fellowship-program
 artistView:
   take: "Money aimed at the last twelve months of a project is the rarest kind, because the last twelve months are the least demoable. Nobody funds a lighting pass, a localisation pass or a build that boots clean on four GPU vendors, and those are the jobs that decide whether anyone remembers the game. Ten teams is a small number against the shape of the problem, and the shape is still right."
-draft: true
 ---
 
 Unity announced the Unity Fellowship on 16 November. Ten developers, $50,000
