@@ -1,5 +1,5 @@
 ---
-title: "GTA 6 review: a near-perfect consensus, at 30fps"
+title: "GTA 6"
 date: 2026-11-18
 category: Games
 cover: /img/blog/gta-6-review/shot-01.jpg
