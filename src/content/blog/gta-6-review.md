@@ -60,7 +60,6 @@ artistView:
   misses:
     - "Frame rate: 30fps with dips in the densest districts is the one complaint that recurs across reviews, and spending the Pro's power on shadows rather than on a performance mode will lose players who value response over light."
     - "Onboarding: one 80-hour review found the first chapter slow and side activities gated behind the story, which front-loads the cinematic half of the game before the sandbox opens."
-draft: true
 ---
 
 Grand Theft Auto VI launches tomorrow, 19 November, on PS5 and Xbox Series X|S,
