@@ -1,6 +1,26 @@
-# AI — harvested 2026-11-18T13:26:21.403Z
+# AI — harvested 2026-11-18T21:35:19.251Z
 
 ## OpenAI
+
+### Inside the Codex sandbox
+Wed, 18 Nov 2026 08:00:00 GMT — https://openai.com/index/inside-the-codex-sandbox
+
+See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.
+
+### Managing frontier AI risk: From training to deployment
+Wed, 18 Nov 2026 06:00:00 GMT — https://openai.com/index/managing-frontier-ai-risk
+
+OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.
+
+### The Silent Consensus
+Wed, 18 Nov 2026 00:00:00 GMT — https://openai.com/index/the-silent-consensus
+
+Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.
+
+### Advancing chip design with OpenAI models
+Wed, 18 Nov 2026 00:00:00 GMT — https://openai.com/index/advancing-chip-design-with-our-models
+
+OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.
 
 ### Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT
 Wed, 18 Nov 2026 00:00:00 GMT — https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership
@@ -32,23 +52,27 @@ Tue, 17 Nov 2026 00:00:00 GMT — https://openai.com/index/introducing-openai-fo
 
 OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.
 
-### Broadening access to AI for scientists
-Mon, 16 Nov 2026 17:00:00 GMT — https://openai.com/index/expanding-chatgpt-for-academic-researchers
-
-We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.
-
-### Strengthening the fight against online child sexual abuse with new tools and support
-Mon, 16 Nov 2026 17:00:00 GMT — https://openai.com/index/strengthening-online-child-safety
-
-New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.
-
 ## Hugging Face
 
-_Nothing in the last 48 hours._
+### DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency
+Wed, 18 Nov 2026 19:54:56 GMT — https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin
+
+### Why your fine-tuning job takes longer than the FLOPs say
+Wed, 18 Nov 2026 18:53:43 GMT — https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time
+
+### Time-Series Models in the Streamhouse: A New Frontier and Use Cases
+Wed, 18 Nov 2026 15:00:23 GMT — https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse
+
+### 180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers
+Wed, 18 Nov 2026 00:00:00 GMT — https://huggingface.co/blog/moe-expert-streaming
+
+### Rumble-2-Flash: an open 0.5B speech model for 40+ languages
+Wed, 18 Nov 2026 00:00:00 GMT — https://huggingface.co/blog/rumble-2-flash
 
 ## Google DeepMind
 
-_Nothing in the last 48 hours._
+### Genie 4 is now available
+Wed, 18 Nov 2026 18:13:42 +0000 — https://deepmind.google/blog/genie-4-is-now-available/
 
 ## VentureBeat AI
 

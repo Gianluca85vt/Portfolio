@@ -1,4 +1,4 @@
-# Source feeds — harvested 2026-11-18T13:26:21.403Z
+# Source feeds — harvested 2026-11-18T21:35:19.251Z
 
 Fetched by GitHub Actions, which is not behind the writer's egress proxy.
 One file per category. Each item is what the publisher syndicates in its
@@ -13,10 +13,10 @@ own feed: headline, link, date, and their summary.
 
 Already aired, so a round-up rather than a preview:
 
-- Eurogamer — The Game Awards 2026 nominees announced, and GTA 6 leads with eight nods before it's even out
-- Eurogamer — The Game Awards just confirmed who plays GTA 6's Lucia
+- Eurogamer — PlayStation has no Game of the Year nominations at The Game Awards for the first time in 11 years
 - GamesIndustry.biz — GTA 6 leads The Game Awards 2026 with eight nominations
-- Push Square — PlayStation Has No GOTY Nominee at The Game Awards for First Time in 12 Years
+- Push Square — Spyro s New PS5 Game Teases Appearance at This Year s Game Awards
+- Game Developer — Zelda and Grand Theft Auto headline the nominees for the 2027 Game Awards
 
 > **A dated showcase gets two articles, not one.** A preview before it
 > airs, carrying the stream link and the start time in Italian time, and a
@@ -28,8 +28,8 @@ Already aired, so a round-up rather than a preview:
 
 Both quotas are being met. Write whatever the day deserves.
 
-- **Manga and anime** — on track. 3 articles since the last one; quota is one in 6. 24 in the archive of 310.
-- **Film & TV** — on track. 2 articles since the last one; quota is one in 8, never worse than one in 10. 31 in the archive of 310.
+- **Manga and anime** — on track. 4 articles since the last one; quota is one in 6. 24 in the archive of 311.
+- **Film & TV** — on track. 3 articles since the last one; quota is one in 8, never worse than one in 10. 31 in the archive of 311.
 
 The run is what counts, not the percentage: a burst last month does not
 excuse thirty in a row without one. If a category is owed and the feeds
@@ -38,12 +38,12 @@ silently skipping it.
 
 ## Feeds
 
-- [Games](games.md) — 101 items
+- [Games](games.md) — 98 items
 - [Tech](tech.md) — 82 items
-- [3D](3d.md) — 13 items
-- [AI](ai.md) — 8 items
-- [Manga](manga.md) — 31 items
-- [Film & TV](film-tv.md) — 67 items
+- [3D](3d.md) — 11 items
+- [AI](ai.md) — 16 items
+- [Manga](manga.md) — 30 items
+- [Film & TV](film-tv.md) — 65 items
 
 Total: 302 items.
 

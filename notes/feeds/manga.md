@@ -1,6 +1,51 @@
-# Manga — harvested 2026-11-18T13:26:21.403Z
+# Manga — harvested 2026-11-18T21:35:19.251Z
 
 ## Anime News Network
+
+### 'You're So Sloppy, Hotta-Sensei' Manga Ends in 2 Chapters
+Wed, 18 Nov 2026 16:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-18/youre-so-sloppy-hotta-sensei-manga-ends-in-2-chapters/.243956
+
+Series debuted in March 2022
+
+### Online Retailer CDJapan Confirms Potential Customer Information Leaks Caused by Unauthorized Access
+Wed, 18 Nov 2026 15:01:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-18/online-retailer-cdjapan-confirms-potential-customer-information-leaks-caused-by-unauthorized-access/.243951
+
+Third-party exploited website vulnerability to access CDJapan, Neowing online stores on November 5
+
+### Singer/Songwriter Hiromi Ōta Dies at 71
+Wed, 18 Nov 2026 14:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-18/singer-songwriter-hiromi-ota-dies-at-71/.243950
+
+Ōta died on November 12 following battle with breast cancer
+
+### Sumikko Gurashi Franchise's New Switch 2 Game Launches on November 19
+Wed, 18 Nov 2026 13:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-18/sumikko-gurashi-franchise-new-switch-2-game-launches-on-november-19/.243949
+
+Players run hot spring in <cite>Sumikkogurashi Welcome to Poka Poka Onsen</cite> game
+
+### Witch and Mercenary Volumes 1-2 Light Novel Review
+Wed, 18 Nov 2026 12:00:00 -0500 — https://www.animenewsnetwork.com/review/witch-and-mercenary-volumes-1-2/light-novel-series/.243465
+
+Forced into killing by their environment, a witch and a mercenary travel to an unknown land to break free from their turbulent pasts. But the new continent isn’t all that peaceful. What can a killer do but keep fighting?
+
+### Inklore to Release Tomoko Yamashita's Ikoku Nikki Manga on June 8
+Wed, 18 Nov 2026 12:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-18/inklore-to-release-tomoko-yamashita-ikoku-nikki-manga-on-june-8/.243902
+
+Cover art unveiled for <cite>Ikoku Nikki: Diary of a Strange Land</cite> manga
+
+### The Classroom of a Black Cat and a Witch Anime Gets English Dub
+Wed, 18 Nov 2026 11:14:03 -0500 — https://www.animenewsnetwork.com/news/2026-11-18/the-classroom-of-a-black-cat-and-a-witch-anime-gets-english-dub/.243948
+
+Crunchyroll streams dub for series that debuted on April 12
+
+### Pero Pero★Sparkles Anime's Promo Video Reveals January 10 Premiere
+Wed, 18 Nov 2026 10:47:20 -0500 — https://www.animenewsnetwork.com/news/2026-11-18/pero-pero-sparkles-anime-promo-video-reveals-january-10-premiere/.243947
+
+Yuki Sakakihara, Mai Kanno, Ai Fairouz, Yōhei Azakami star in anime of Yurie Sekiya's characters
+
+### How Ed Goldfarb Brings Regional Authenticity to Pokémon Music
+Wed, 18 Nov 2026 09:00:00 -0500 — https://www.animenewsnetwork.com/interview/2026-11-18/how-ed-goldfarb-brings-regional-authenticity-to-pokemon-music/.243504
+
+To prepare for his audition, Goldfarb wrote a specific musical motif for every single Pokémon that popped up on the screen, scoring every bit of the action.
 
 ### KuKu-Loop: The 100th Time's the Charm Anime Reveals Main Cast, Staff, 2027 TV Debut
 Wed, 18 Nov 2026 07:00:19 -0500 — https://www.animenewsnetwork.com/news/2026-11-18/kuku-loop-the-100th-time-the-charm-anime-reveals-main-cast-staff-2027-tv-debut/.243942
@@ -16,51 +61,6 @@ Season 2's key visual, character visuals also revealed
 Wed, 18 Nov 2026 04:02:38 -0500 — https://www.animenewsnetwork.com/news/2026-11-18/new-votoms-anime-films-stream-1st-9-minutes/.243938
 
 1st film opens in Japan on Friday
-
-### Identity V Game's Oha Suta Daigo Gakuen Short Anime Unveils More Cast, Staff, November 24 Debut
-Wed, 18 Nov 2026 02:20:06 -0500 — https://www.animenewsnetwork.com/news/2026-11-18/identity-v-game-oha-suta-daigo-gakuen-short-anime-unveils-more-cast-staff-november-24-debut/.243933
-
-Takehito Koyasu, Nobunaga Shimazaki, Yūichirō Umehara, Makoto Furukawa co-star
-
-### Frieren Joins Mahjong Soul Game for Limited-Time Crossover
-Tue, 17 Nov 2026 23:59:00 -0500 — https://www.animenewsnetwork.com/interest/2026-11-17/frieren-joins-mahjong-soul-game-for-limited-time-crossover/.243854
-
-Frieren is taking another several years to learn the popular tile-based game
-
-### Yaiba: Samurai Legend Season 2 Reveals Cast Member Yūma Uchida, Opening Song Artists
-Tue, 17 Nov 2026 22:11:10 -0500 — https://www.animenewsnetwork.com/news/2026-11-17/yaiba-samurai-legend-season-2-reveals-cast-member-yuma-uchida-opening-song-artists/.243924
-
-Uchida plays Gekkō, CHiCO with HoneyWorks performs opening song "CHASE!"
-
-### Otherworldly Munchkin Anime's New Video Reveals More Cast, Staff, Theme Songs, January 7 Debut
-Tue, 17 Nov 2026 22:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-17/otherworldly-munchkin-anime-new-video-reveals-more-cast-staff-theme-songs-january-7-debut/.243921
-
-Yūichirō Umehara joins cast with some staff changes after delay of more than a year
-
-### Archive of Our Own Site Reopens Following 'Security Incident'
-Tue, 17 Nov 2026 21:45:00 -0500 — https://www.animenewsnetwork.com/interest/2026-11-17/archive-of-our-own-site-reopens-following-security-incident/.243907
-
-Staff: “Some features have been temporarily disabled to allow us to bring the site back earlier”
-
-### Sakamoto Days Season 2's Trailer Unveils More Cast, Opening Song, January 18 Debut
-Tue, 17 Nov 2026 21:00:08 -0500 — https://www.animenewsnetwork.com/news/2026-11-17/sakamoto-days-season-2-trailer-unveils-more-cast-opening-song-january-18-debut/.243925
-
-Kenyū Horiuchi, Kishō Taniyama join cast with Creepy Nuts performing opening song
-
-### Soara and the House of Monsters Anime Casts Reiji Kawashima, Kenta Miyake
-Tue, 17 Nov 2026 20:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-17/soara-and-the-house-of-monsters-anime-casts-reiji-kawashima-kenta-miyake/.243906
-
-Kawashima, Miyake play dwarves Niko, Ganshō in 2027 anime
-
-### RPG Maker U2U Software Launches for PC via Steam on January 28
-Tue, 17 Nov 2026 18:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-17/rpg-maker-u2u-software-launches-for-pc-via-steam-on-january-28/.243916
-
-Perspective 2D Map Editor Demo available until release
-
-### Reading Our Way to a Happy New World Manga Listed to End With 3rd Volume
-Tue, 17 Nov 2026 17:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-17/reading-our-way-to-a-happy-new-world-manga-listed-to-end-with-3rd-volume/.243882
-
-Series debuted in June 2025
 
 ## Crunchyroll News
 
@@ -149,11 +149,6 @@ The official website for the television anime adaptation of Akira Kazugai s Odor
 Tue, 17 Nov 2026 01:56:09 -0800 — https://myanimelist.net/news/74949337?_location=rss
 
 The official website for the television anime adaptation of nonco s Kanan-sama wa Akumade Choroi (Mistress Kanan is Devilishly Easy) manga revealed additional cast, new staff, a teaser visual (pictured), and the first promotional video for the second season, subtitled Easy, on Tuesday. The anime series will premiere in 2027. Cast Tekka Shinryuuji: Misato Matsuoka (Yani Neko) Hanako Ohanabatake: Miku Itou (5-toubun no Hanayome) Lily Kageno: Miyu Tomita (Kaguya-sama wa Kokurasetai? Tensai-tac...
-
-### Manga Diamond no Kouzai Gets TV Anime
-Mon, 16 Nov 2026 07:18:10 -0800 — https://myanimelist.net/news/74946798?_location=rss
-
-Production company TOHO animation opened an official website for a television anime adaptation of Oohashi Hirai s Diamond no Kouzai (The Days of Diamond) manga on Tuesday, revealing the main staff and an announcement visual (pictured). Staff Director: Takakazu Nagatomo (Seihantai na Kimi to Boku) Assistant Director: Chigusa Kiyota (Dungeon Meshi episode director) Series Composition, Script: Teruko Utsumi (Nippon Sangoku) Character Design: Atsushi Saitou (Shoushimin Series) Color Design: Kum...
 
 ## Otaku USA
 
