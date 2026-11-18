@@ -1,5 +1,5 @@
 ---
-title: "GTA 6 review: unanimous, and locked at 30fps"
+title: "GTA 6"
 date: 2026-11-18
 category: Games
 excerpt: Seven of the first verdicts are perfect, and reviewers describe a locked 30fps that holds steady — the answer to a question this blog asked back in August.
