@@ -30,11 +30,6 @@ That second condition is the price.
 
 ## The last twelve months are the unfundable ones
 
-<figure>
-  <img src="/img/blog/unity-fellowship-50k-no-equity/shot-01.jpg" loading="lazy" width="1440" height="810" alt="" />
-  <figcaption>Unity Technologies brand mark, via Wikimedia Commons.</figcaption>
-</figure>
-
 Ask anyone who has worked the back half of a project where the money ran out,
 and you get the same answer in different words. It ran out somewhere after the
 vertical slice looked good and somewhere before the game actually worked.
