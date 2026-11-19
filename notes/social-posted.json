@@ -1745,5 +1745,11 @@
     "facebookError": "1098893486828059/feed -> HTTP 400 Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.",
     "instagramError": "17841448932903051/media -> HTTP 400 Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.",
     "bluesky": "at://did:plc:jphedra6dqvi3ylpnenvbsch/app.bsky.feed.post/3n2mbl366ua2k"
+  },
+  "gta-6-30fps-ps5-pro-same-1440p": {
+    "at": "2026-11-19T07:20:01.583Z",
+    "facebookError": "1098893486828059/feed -> HTTP 400 Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.",
+    "instagramError": "17841448932903051/media -> HTTP 400 Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.",
+    "bluesky": "at://did:plc:jphedra6dqvi3ylpnenvbsch/app.bsky.feed.post/3n2njuhehew2f"
   }
 }
