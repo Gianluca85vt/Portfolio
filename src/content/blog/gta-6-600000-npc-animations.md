@@ -19,7 +19,6 @@ artistView:
   misses:
     - "Pipeline: a library eleven times the size of GTA 5's is eleven times the search, retarget and review surface, and nothing published so far explains how Rockstar keeps a clip findable at that scale."
     - "Performance: all of it lands on the same CPU frame that already holds traffic, physics and two live protagonists, which is a large part of why there is no 60fps mode on any console."
-draft: true
 ---
 
 Six hundred thousand animation clips. That is what Rockstar says is sitting
