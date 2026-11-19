@@ -19,7 +19,6 @@ artistView:
   misses:
     - "Pipeline: three reconstruction paths across four consoles, TAA and PSSR2 and FSR 4, means the same material library gets validated three times and the artefacts land differently in each."
     - "Series S: 720p upscaled to 1080p sitting next to 1440p-to-4K is a gap wide enough that art tuned at the top SKU stops reading at the bottom, and no setting closes it."
-draft: true
 ---
 
 The most useful thing Rockstar published this week was a table. On
