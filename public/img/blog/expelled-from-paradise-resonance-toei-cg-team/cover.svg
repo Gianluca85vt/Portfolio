@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-label="Maya to 3ds Max: Toei built a CG team for one film">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0.85" y2="1">
+      <stop offset="0%" stop-color="#18011F"/>
+      <stop offset="62%" stop-color="#3A1A16"/>
+      <stop offset="100%" stop-color="#C8891B"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#g)"/>
+  <text x="80" y="140" font-family="Helvetica, Arial, sans-serif" font-size="30" font-weight="700" letter-spacing="6" fill="#C8891B" opacity="0.95">EXPELLED FROM PARADISE: RESONANCE</text>
+  <text x="80" y="300" font-family="Helvetica, Arial, sans-serif" font-size="128" font-weight="700" fill="#FFFFFF">Maya</text>
+  <text x="80" y="420" font-family="Helvetica, Arial, sans-serif" font-size="128" font-weight="700" fill="#FFFFFF">to 3ds Max</text>
+  <text x="80" y="500" font-family="Helvetica, Arial, sans-serif" font-size="38" font-weight="400" fill="#F0E2D0" opacity="0.92">A pipeline rebuilt from scratch, mid-production</text>
+  <text x="80" y="562" font-family="Helvetica, Arial, sans-serif" font-size="38" font-weight="400" fill="#F0E2D0" opacity="0.92">for a CG team Toei assembled for one film</text>
+  <rect x="80" y="620" width="150" height="5" fill="#C8891B"/>
+</svg>
