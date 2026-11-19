@@ -1,6 +1,21 @@
-# AI — harvested 2026-11-18T21:35:19.251Z
+# AI — harvested 2026-11-19T13:53:48.784Z
 
 ## OpenAI
+
+### The Silent Consensus
+Wed, 18 Nov 2026 10:00:00 GMT — https://openai.com/index/the-silent-consensus
+
+Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.
+
+### Research acceleration: The jagged frontier
+Wed, 18 Nov 2026 08:00:00 GMT — https://openai.com/index/research-acceleration-jagged-frontier
+
+OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.
+
+### How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise
+Wed, 18 Nov 2026 08:00:00 GMT — https://openai.com/business/customer-stories/sumitomo-life
+
+Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.
 
 ### Inside the Codex sandbox
 Wed, 18 Nov 2026 08:00:00 GMT — https://openai.com/index/inside-the-codex-sandbox
@@ -12,45 +27,20 @@ Wed, 18 Nov 2026 06:00:00 GMT — https://openai.com/index/managing-frontier-ai-
 
 OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.
 
-### The Silent Consensus
-Wed, 18 Nov 2026 00:00:00 GMT — https://openai.com/index/the-silent-consensus
+### Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT
+Wed, 18 Nov 2026 00:00:00 GMT — https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership
 
-Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.
+Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.
 
 ### Advancing chip design with OpenAI models
 Wed, 18 Nov 2026 00:00:00 GMT — https://openai.com/index/advancing-chip-design-with-our-models
 
 OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.
 
-### Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT
-Wed, 18 Nov 2026 00:00:00 GMT — https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership
-
-Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.
-
 ### Introducing GPT-6.2 Astra and Sol
 Tue, 17 Nov 2026 17:45:00 GMT — https://openai.com/index/introducing-gpt-6-2-astra-sol
 
 Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.
-
-### Strengthening NATO and allied cyber defenses with AI
-Tue, 17 Nov 2026 00:00:00 GMT — https://openai.com/index/strengthening-nato-allied-cyber-defences-ai
-
-How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.
-
-### Introducing ChatGPT for Sales
-Tue, 17 Nov 2026 08:00:00 GMT — https://openai.com/index/introducing-chatgpt-for-sales
-
-Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.
-
-### Astra for Law leads in legal intelligence
-Tue, 17 Nov 2026 00:00:00 GMT — https://openai.com/index/astra-law-6-2
-
-Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.
-
-### Introducing OpenAI for Chile
-Tue, 17 Nov 2026 00:00:00 GMT — https://openai.com/index/introducing-openai-for-chile
-
-OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.
 
 ## Hugging Face
 
@@ -70,6 +60,9 @@ Wed, 18 Nov 2026 00:00:00 GMT — https://huggingface.co/blog/moe-expert-streami
 Wed, 18 Nov 2026 00:00:00 GMT — https://huggingface.co/blog/rumble-2-flash
 
 ## Google DeepMind
+
+### Introducing Gemini 4 Neon
+Wed, 18 Nov 2026 21:35:43 +0000 — https://deepmind.google/blog/introducing-gemini-4-neon/
 
 ### Genie 4 is now available
 Wed, 18 Nov 2026 18:13:42 +0000 — https://deepmind.google/blog/genie-4-is-now-available/

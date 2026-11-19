@@ -1,4 +1,4 @@
-# Source feeds — harvested 2026-11-18T21:35:19.251Z
+# Source feeds — harvested 2026-11-19T13:53:48.784Z
 
 Fetched by GitHub Actions, which is not behind the writer's egress proxy.
 One file per category. Each item is what the publisher syndicates in its
@@ -13,9 +13,7 @@ own feed: headline, link, date, and their summary.
 
 Already aired, so a round-up rather than a preview:
 
-- Eurogamer — PlayStation has no Game of the Year nominations at The Game Awards for the first time in 11 years
 - GamesIndustry.biz — GTA 6 leads The Game Awards 2026 with eight nominations
-- Push Square — Spyro s New PS5 Game Teases Appearance at This Year s Game Awards
 - Game Developer — Zelda and Grand Theft Auto headline the nominees for the 2027 Game Awards
 
 > **A dated showcase gets two articles, not one.** A preview before it
@@ -26,10 +24,10 @@ Already aired, so a round-up rather than a preview:
 
 ## Editorial mix — what the archive owes
 
-Both quotas are being met. Write whatever the day deserves.
+**Write Manga and anime next.** 6 articles have gone out since the last one.
 
-- **Manga and anime** — on track. 4 articles since the last one; quota is one in 6. 24 in the archive of 311.
-- **Film & TV** — on track. 3 articles since the last one; quota is one in 8, never worse than one in 10. 31 in the archive of 311.
+- **Manga and anime** — BROKEN. 6 articles since the last one; quota is one in 6. 24 in the archive of 313.
+- **Film & TV** — on track. 5 articles since the last one; quota is one in 8, never worse than one in 10. 31 in the archive of 313.
 
 The run is what counts, not the percentage: a burst last month does not
 excuse thirty in a row without one. If a category is owed and the feeds
@@ -38,13 +36,13 @@ silently skipping it.
 
 ## Feeds
 
+- [Manga](manga.md) **owed** — 30 items
 - [Games](games.md) — 98 items
 - [Tech](tech.md) — 82 items
-- [3D](3d.md) — 11 items
-- [AI](ai.md) — 16 items
-- [Manga](manga.md) — 30 items
-- [Film & TV](film-tv.md) — 65 items
+- [3D](3d.md) — 15 items
+- [AI](ai.md) — 15 items
+- [Film & TV](film-tv.md) — 66 items
 
-Total: 302 items.
+Total: 306 items.
 
 Feeds that did not answer: VentureBeat AI (HTTP 429).

@@ -1,6 +1,41 @@
-# Games — harvested 2026-11-18T21:35:19.251Z
+# Games — harvested 2026-11-19T13:53:48.784Z
 
 ## Eurogamer
+
+### GTA 6 has replaced websites with social media and phone apps because "it didn't feel necessary"
+Thu, 19 Nov 2026 13:43:10 +0000 — https://www.eurogamer.net/grand-theft-auto-6-no-web-social-media-apps
+
+The internet of today is a far cry from the days when Grand Theft Auto 5 was released, which is partly why Rockstar didn't bring back its own satirical version of the web in GTA 6 . Read more
+
+### GameStop CEO slams 'code-in-a-box' games in the wake of GTA 6's discless release
+Thu, 19 Nov 2026 13:03:30 +0000 — https://www.eurogamer.net/gta-6-discless-release-code-in-a-box-gamestop-ceo
+
+Ryan Cohen, CEO of GameStop - the self-proclaimed "world's largest retail gaming and trade-in destination" - is not happy with the emerging trend of games releasing without discs. Per the CEO, the industry's move away from physical games and towards a digital-only future is harmful to both consumers and businesses. Read more
+
+### The hunt for World of Warcraft: Forever secrets continue with the discovery of an elusive pet
+Thu, 19 Nov 2026 12:35:00 +0000 — https://www.eurogamer.net/world-of-warcraft-forever-secret-hunter-pet-green-cat
+
+The search for secrets in World of Warcraft: Forever continues ever onwards, with a new breakthrough coming to light in recent days. The latest discovery? An elusive new cat that can be tamed by hunters in one of the game's new zones. Read more
+
+### GTA 6 developers at Rockstar are worried about being laid off after shipping "the biggest game of all time"
+Thu, 19 Nov 2026 12:16:00 +0000 — https://www.eurogamer.net/gta-6-rockstar-developers-layoffs-worries
+
+Rockstar has successfully shipped Grand Theft Auto 6 , after years of work and more than a billion dollars spent. GTA 6 is already one of the highest-rated games ever - Eurogamer awarded it five stars in our GTA 6 review - and it's expected to be among the most successful, best-selling games ever . Read more
+
+### After Grand Theft Auto 6's launch, players are in love with wacky criminality, in-game social media, and animal fatalities
+Thu, 19 Nov 2026 09:38:50 +0000 — https://www.eurogamer.net/grand-theft-auto-6-players-love-crime-social-media-animals
+
+With Grand Theft Auto 6 launching late last night ( unless you're in New Zealand, in-person or otherwise ), players have been flocking to online spaces to share their favourite moments. So far, slapstick violence, animal fatalities, and the in-game social media have won the hearts of many. Read more
+
+### Grand Theft Auto 6 launch day live - news and reaction as GTA 6 arrives around the world
+Thu, 19 Nov 2026 09:05:00 +0000 — https://www.eurogamer.net/gta-6-grand-theft-auto-6-launch-day-live-blog
+
+The day is finally here: Grand Theft Auto 6 is available to play worldwide. It's destined to become the largest video game release of all time, and probably one of the biggest entertainment releases of all time. So we're doing a launch day live blog to chart its arrival in the world. Read more
+
+### It really seems like Xbox isn't allowed to say GTA 6 at all
+Thu, 19 Nov 2026 08:41:40 +0000 — https://www.eurogamer.net/xbox-cant-say-grand-theft-auto-6-marketing
+
+Like many major brands , Xbox is finding all sorts of ways to associate with the biggest game launch of the year: Grand Theft Auto 6 . Unlike indie publisher Devolver Digital , however, Xbox has cleverly avoided ever mentioning GTA 6 directly in its marketing campaigns for GTA 6. Read more
 
 ### GTA 6's Japanese version only partially obscures male nudity by putting Jason in a thong, seemingly due to regional censorship
 Wed, 18 Nov 2026 20:40:20 +0000 — https://www.eurogamer.net/gta-6-japanese-jason-thong-regional-censorship
@@ -27,42 +62,22 @@ Wed, 18 Nov 2026 17:42:30 +0000 — https://www.eurogamer.net/gta-6-ultimate-edi
 
 GTA 6's Ultimate Edition has proven enormously popular, despite its hefty $100 price tag. So much so that Strauss Zelnick, boss of Rockstar parent company Take-Two, recently confirmed it's the edition most people are buying - and that's despite a lack of specific information about how its unlockable content works. With GTA 6 just hours away from release, however - and out now in certain parts of the work - details are beginning to emerge, and the answer is perhaps a little surprising. Read more
 
-### Most, though not quite all, of the 34 fired Rockstar employees are named in the GTA 6 credits
-Wed, 18 Nov 2026 17:35:50 +0000 — https://www.eurogamer.net/fired-rockstar-employees-named-gta-6-credits-tribunal
-
-Eurogamer can confirm that at least 28 of the 34 employees fired by Rockstar roughly a year ago - in an action that directly led to the employment tribunal Rockstar is currently facing in Scotland - are named in the credits of Grand Theft Auto 6 . Read more
-
-### GTA 6 is so big, it managed to break Reddit - and it isn't even actually out yet
-Wed, 18 Nov 2026 16:07:50 +0000 — https://www.eurogamer.net/grand-theft-auto-6-breaks-reddit-not-out-yet
-
-Grand Theft Auto 6 isn't even out yet, and it's already causing some technical issues over at the game's official Reddit page. Read more
-
-### GTA 6 breaks the all-time livestream viewer record hours before it's available to play for most of the world
-Wed, 18 Nov 2026 15:42:50 +0000 — https://www.eurogamer.net/grand-theft-auto-6-streaming-record-broken
-
-Hours before it's even playable in most of the world, Grand Theft Auto 6 has already broken the record for the most viewers across livestreaming platforms like Twitch . Read more
-
-### PlayStation has no Game of the Year nominations at The Game Awards for the first time in 11 years
-Wed, 18 Nov 2026 15:17:10 +0000 — https://www.eurogamer.net/playstation-sony-game-awards-no-nominations
-
-Last night, The Game Awards 2026 nominations were officially announced , and fans immediately noticed the prestigious Game of the Year category - previously won by the likes of Astro Bot , Clair Obscur, and Elden Ring - does not feature a PlayStation-published game this year. It's a rare sight for PlayStation Studios, which has secured a Game of the Year nomination every year since 2015. Read more
-
-### Just how detailed is the audio in GTA 6? Well, even convenience store refrigerators "all have their own unique sounds", says Rockstar dev
-Wed, 18 Nov 2026 15:10:30 +0000 — https://www.eurogamer.net/gta-6-detailed-fridge-noise
-
-If you've been online at all today, you'll know that what feels like the entire world is currently fawning over GTA 6. As the reviews dropped , one thing quickly became very clear: this is a game absolutely packed with detail. Our own Chris noted that, thanks to this focus on specific detail and unbelievable nuance, Grand Theft Auto 6 is "the most unbelievable video game world ever made". And it's no accident: this is something Rockstar put a lot of dedicated effort into. Read more
-
-### You cannot replay missions in GTA 6, but you can use multiple save files, as Rockstar explains how it made missions "harder to fail"
-Wed, 18 Nov 2026 14:24:00 +0000 — https://www.eurogamer.net/gta-6-multiple-save-files-replay-missions
-
-You cannot replay GTA 6 missions again once you've completed them. This might be a shock to some people, since the option to do so was included in Rockstar games as recently as GTA 5 , but here once you've made progress in the story, that's it. Our reviewer confirmed this in his 100+ hour playthrough of the title. Read more
-
-### Infinity Nikki fans threaten to boycott game after promotion by Elon Musk's mother, but there may be a genuine reason for her involvement
-Wed, 18 Nov 2026 14:14:50 +0000 — https://www.eurogamer.net/infinity-nikki-elon-musk-maye-mother-fan-reaction
-
-Infinity Nikki , the free-to-play, cozy, open-world dress-up game, is at the centre of controversy again, though this time not because fans disliked one of the game's updates . Instead, it's because of&hellip; Elon Musk's mother. Read more
-
 ## GamesIndustry.biz
+
+### US Senate hearing examines child safety on Roblox, considers bipartisan bill to bypass forced arbitration
+Thu, 19 Nov 2026 11:52:10 +0000 — https://www.gamesindustry.biz/us-senate-hearing-examines-child-safety-on-roblox-considers-bipartisan-bill-to-bypass-forced-arbitration
+
+The US Senate Judiciary Subcommittee on Crime and Counterterrorism held a hearing this week to examine child safety on Roblox and consider a bipartisan bill that would allow families and victims to bypass forced arbitration. Read more
+
+### The future of British gaming is more than just games | Opinion
+Thu, 19 Nov 2026 10:32:50 +0000 — https://www.gamesindustry.biz/the-future-of-british-gaming-is-more-than-just-games-opinion
+
+The UK has one of the most creative and innovative video games industries in the world. From independent studios developing original ideas to established businesses creating globally recognised franchises, British developers have consistently shown that they can compete on the international stage. Read more
+
+### Rockstar and IWGB members issue closing arguments following conclusion of employment tribunal
+Thu, 19 Nov 2026 10:03:40 +0000 — https://www.gamesindustry.biz/rockstar-and-iwgb-members-issue-closing-arguments-following-conclusion-of-employment-tribunal
+
+The employment tribunal between Rockstar and members of the Independent Workers' Union of Great Britain (IWGB) has concluded, with both parties issuing their closing arguments. Read more
 
 ### Arknights: Endfield named Google Play's best game of 2026
 Wed, 18 Nov 2026 17:36:20 +0000 — https://www.gamesindustry.biz/arknights-endfield-named-google-plays-best-game-of-2026
@@ -109,26 +124,51 @@ Wed, 18 Nov 2026 08:30:00 +0000 — https://www.gamesindustry.biz/how-to-build-a
 
 With everything going on in the games industry today, it can be easy to spend more time worrying about what's happening outside your studio than inside it. But building a positive company culture remains a priority for any business leader in the games space, and those external worries can have a direct impact on that culture. Read more
 
-### Report: Civilization dev Firaxis lays off a third of its staff
-Tue, 17 Nov 2026 17:33:10 +0000 — https://www.gamesindustry.biz/report-civilization-dev-firaxis-lays-off-a-third-of-its-staff-following-development-difficulties-with-xcom-sequel
-
-Firaxis, the 30-year-old studio behind the Civilization and XCOM franchises, is laying off a third of its staff, totalling 60 people, as reported by Bloomberg's Jason Schreier . Studio head Heather Hazen, who has lead it since 2023 , will be leaving as part of the cuts. Read more
-
-### Meet the company that finds Chinese game developers to work on Western IP
-Tue, 17 Nov 2026 16:24:30 +0000 — https://www.gamesindustry.biz/meet-the-company-that-finds-chinese-game-developers-to-work-on-western-ip
-
-Earlier this month, Yodo1 Games announced a strategic digital licensing partnership with the American firm AMC Global Media, which is behind television series such as The Walking Dead and Anne Rice's Interview with the Vampire. Yodo1 is tasked with finding and supporting Chinese game developers and publishers in order to create video games based on AMC's franchises. Read more
-
-### UK tribunal dismisses £2bn PlayStation class-action suit which alleged unfair pricing over 30% cut on PlayStation Store
-Tue, 17 Nov 2026 16:17:40 +0000 — https://www.gamesindustry.biz/uk-tribunal-dismisses-2bn-playstation-class-action-suit-which-alleged-unfair-pricing-over-30-cut-on-playstation-store
-
-A long-running class action lawsuit alleging that Sony was engaged in monopolistic behaviour and unfair price-fixing on PlayStation games has been dismissed by the UK competition authorities, following a trial earlier this year. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### GTA 6 Has an Easy Mode Buried in an Impressive Range of Accessibility Options
+Thu, 19 Nov 2026 13:30:00 GMT — https://www.pushsquare.com/news/2026/11/gta-6-has-an-easy-mode-buried-in-an-impressive-range-of-accessibility-options
+
+Take it easy. GTA 6 is easily the most customisable game that Rockstar has ever made when it comes to accessibility options. There's a wide range of settings and toggles to experiment with, in a bid to make the open world experience more comfortable. And while the initiative isn't quite as in-depth as what you'll find in recent Ubisoft or Sony-published titles, it's still a solid step forward for the studio. Read the full article on pushsquare.com
+
+### GTA 6 Takes Over PS5 s Welcome Page, Including a New Set of Wallpapers
+Thu, 19 Nov 2026 12:00:00 GMT — https://www.pushsquare.com/news/2026/11/gta-6-takes-over-ps5s-welcome-page-including-a-new-set-of-wallpapers
+
+Welcome to Leonida. Sony and Rockstar Games are making damn sure you know GTA 6 has just launched, as the PS5's Welcome hub — the landing page for the console — has been taken over by the new game. The page's icon currently has that telltale pink/orange gradient and palm trees, and before you see your usual assortment of widgets, a new panel promoting GTA 6 appears. Read the full article on pushsquare.com
+
+### New GTA 6 Players, Be Careful When Claiming Your GTA+ Pre-Order Bonus
+Thu, 19 Nov 2026 01:00:00 GMT — https://www.pushsquare.com/news/2026/11/new-gta-6-players-be-careful-when-claiming-your-gtaplus-pre-order-bonus
+
+Heads up. All GTA 6 pre-orders come with a free month of GTA+ , which nets you some in-game bonuses like a free vehicle, garage, and higher selling prices. But before you excitedly claim your freebie, it’s essential you understand auto-renew will be enabled. Read the full article on pushsquare.com
+
+### Feature: GTA 6 Launch Hub - Share Your First Impressions of Rockstar s PS5 Masterpiece
+Thu, 19 Nov 2026 00:00:00 GMT — https://www.pushsquare.com/features/gta-6-launch-hub-share-your-first-impressions-of-rockstars-ps5-masterpiece
+
+Flower in a hurricane. Well, it's finally here, and for many, I imagine that it all feels quite surreal. GTA 6 is out now here in the UK, which is why this article's being published at midnight GMT. Read the full article on pushsquare.com
+
+### PSN Down Sporadically for Some as GTA 6 Launches Around the World
+Wed, 18 Nov 2026 23:30:00 GMT — https://www.pushsquare.com/news/2026/11/psn-down-sporadically-for-some-as-gta-6-launches-around-the-world
+
+Squeaky bum time. GTA 6 is a single player game , but Sony’s servers are taking a hammering as the game goes online around the world. While you can’t play Rockstar’s latest with other people, you will need to verify your digital license once the title is available in your region – a timely reminder of the digital era we’re all now living in. Read the full article on pushsquare.com
+
+### Guide: GTA 6 Guide: All Guides & Collectibles
+Wed, 18 Nov 2026 22:00:00 GMT — https://www.pushsquare.com/guides/gta-6-guide
+
+A comprehensive guide to GTA 6. Welcome to our GTA 6 guide , the latest game in Rockstar's long-running crime sandbox series. The goal of our guide is to help you get the most out of your time in Leonida, and achieve 100% completion with as few spoilers as possible. This page serves as an index, and can be used as an easily browsable hub to access all of our specific guides pages, whether you're looking for collectibles or simply searching for gameplay tips. Read the full article on pushsquare.com
+
+### Guide: GTA 6: How to Get Ultimate Edition Items & Pre-Order Bonuses
+Wed, 18 Nov 2026 21:55:00 GMT — https://www.pushsquare.com/guides/gta-6-how-to-get-ultimate-edition-items-and-pre-order-bonuses
+
+The $100 questions. GTA 6's Ultimate Edition features a collection of different items and pre-order bonuses, including vehicles, weapons, and cosmetics. These are unlocked at different points in the story, and some need to be collected from locations around the map. This GTA 6 guide includes step-by-step instructions on how to collect them and when they become available. <blocks> Read the full article on pushsquare.com
+
+### Guide: GTA 6: Tips & Tricks You Need to Know
+Wed, 18 Nov 2026 21:50:00 GMT — https://www.pushsquare.com/guides/gta-6-tips-and-tricks-you-need-to-know
+
+Play like a Leonida pro. GTA 6's vast open world is begging to be explored, but before you sink your teeth into Leonida, there are a handful of tips and tricks you should know. This spoiler-free GTA 6 guide includes info on a dozen key features and mechanics that will help you make the best start to your life in Vice City. <blocks> Read the full article on pushsquare.com
 
 ### GTA 6 Obliterates All-Time Streaming Record Before It s Even Fully Released
 Wed, 18 Nov 2026 19:00:00 GMT — https://www.pushsquare.com/news/2026/11/gta-6-obliterates-all-time-streaming-record-before-its-even-fully-released
@@ -149,46 +189,6 @@ Not one bit. On the eve of GTA 6 finally making its debut, it seems a lucky few 
 Wed, 18 Nov 2026 16:00:00 GMT — https://www.pushsquare.com/news/2026/11/gta-6-base-ps5-performance-suffers-minor-and-sustained-frame-rate-drops-but-its-unwavering-on-ps5-pro
 
 Digital Foundry delivers the verdict. As you'd expect, it sounds like PS5 Pro is the absolute best place to play GTA 6 at launch — but what about playing it on Sony's standard console? Our pals over at Digital Foundry have been putting it to the test. First things first, Digital Foundry can't stress enough just how technically impressive Rockstar's latest open world is. In terms of simulating a living and breathing environment, it's completely unmatched — and that's the main reason why it's capped at just 30 frames-per-second with no graphics options to choose from. Read the full article on pushsquare.com
-
-### Guide: GTA 6: Who Is the Real Actress Lucia Is Based On?
-Wed, 18 Nov 2026 15:30:00 GMT — https://www.pushsquare.com/guides/gta-6-who-is-the-real-actress-lucia-is-based-on
-
-Revealing all about Manni L. Perez. As one of the two main protagonists in GTA 6 , you're going to spend a lot of time playing as Lucia. As such, you may be interested in learning more about the real-life actress she's based on. In this GTA 6 guide , we are answering: who is the real actress Lucia is based on in GTA 6? Who Is the Real Actress Lucia Is Based on in GTA 6? Read the full article on pushsquare.com
-
-### GTA 6 PS5 Trophies Revealed, 100% Completion Needed for the Platinum
-Wed, 18 Nov 2026 15:00:00 GMT — https://www.pushsquare.com/news/2026/11/gta-6-ps5-trophies-revealed-100percent-completion-needed-for-the-platinum
-
-Strap in for the long haul. GTA 6 is currently going live across the world, and in doing so, its PS5 Trophy list has now been made public. Exophase has the full list, which comprises 55 Trophies, including a Platinum Trophy. The big thing here is that — just like every other Rockstar title released from PS3 onwards — you'll need to achieve 100% completion to unlock every Trophy. Read the full article on pushsquare.com
-
-### Spyro s New PS5 Game Teases Appearance at This Year s Game Awards
-Wed, 18 Nov 2026 14:30:00 GMT — https://www.pushsquare.com/news/2026/11/spyros-new-ps5-game-teases-appearance-at-this-years-game-awards
-
-A new look at A Realm Beyond coming soon. Publisher Activision and developer Toys for Bob are teasing Spyro: A Realm Beyond will be part of The Game Awards 2026. In just a few weeks, the upcoming platformer starring everyone's favourite purple dragon will get a public showing for the first time since its announcement back in June. Read the full article on pushsquare.com
-
-### Clair Obscur Studio Has Lost One of Its Most Important Developers
-Wed, 18 Nov 2026 13:30:00 GMT — https://www.pushsquare.com/news/2026/11/clair-obscur-studio-has-lost-one-of-its-most-important-developers
-
-Plot twist. Jennifer Svedberg-Yen was the narrative lead on Clair Obscur: Expedition 33 . She basically shaped the game's twisting and turning story, which many would argue is its greatest asset. And so it's a bit of a gut punch to hear that she actually left developer Sandfall Interactive earlier this year — meaning that, unless she's already helped establish some of the project's narrative groundwork, she won't be involved with the studio's next game. Read the full article on pushsquare.com
-
-### Guide: Who Is the GTA 6 Cover Art Girl and Is She Based on a Real Person?
-Wed, 18 Nov 2026 13:15:00 GMT — https://www.pushsquare.com/guides/who-is-the-gta-6-cover-art-girl-and-is-she-based-on-a-real-person
-
-What we know about the GTA 6 cover art girl so far. GTA 6 is going live now worldwide, and that means you might have more questions about the cover girl on the box art. In this GTA 6 guide , we're covering who is the GTA 6 cover art girl and is she based on a real person? Read the full article on pushsquare.com
-
-### PS5 Pro Is Not Powerful Enough to Run GTA 6 at 60fps : Rockstar Explains Frame Rate Decision
-Wed, 18 Nov 2026 13:00:00 GMT — https://www.pushsquare.com/news/2026/11/ps5-pro-is-not-powerful-enough-to-run-gta-6-at-60fps-rockstar-explains-frame-rate-decision
-
-And why it's not the end of the world. I’ve played GTA 6 on PS5 Pro for over 150 hours and it’s a remarkable experience. You can read my review through here . This is the densest open world ever designed. The sheer amount of art assets on screen at any given time is simply unprecedented. Read the full article on pushsquare.com
-
-### Review: GTA 6 (PS5) - The Greatest Open World Game Ever Made
-Wed, 18 Nov 2026 11:00:00 GMT — https://www.pushsquare.com/reviews/ps5/grand-theft-auto-6
-
-Leonida livin'. What does eight years and an estimated $1 billion get you? Well, GTA 6 . In this long-anticipated crime sandbox, Rockstar has assembled the most technologically accomplished open world ever made, expanding on its groundbreaking work with Red Dead Redemption 2 . Read the full article on pushsquare.com
-
-### GTA 6 Requires New PS5 Firmware Update to Play
-Wed, 18 Nov 2026 02:00:00 GMT — https://www.pushsquare.com/news/2026/11/gta-6-requires-new-ps5-firmware-update-to-play
-
-Sony confirms v14.23.00 is mandatory. As we reported early yesterday , PS5 has a new firmware update, numbered v14.23.00 . It’s now confirmed you’ll need to have this installed to play GTA 6 . Notifying players on social media, a PlayStation Support page said: “Sony Interactive has issued a PS5 system software update that is required before playing GTA 6. Players should download this update prior to midnight on 19th November so that they’re ready to play on launch day, 19th November.” Read the full article on pushsquare.com
 
 ## Game Developer
 
@@ -224,171 +224,191 @@ Firaxis, a sibling studio to Take-Two's Rockstar Games, is known for games like 
 
 ## VGC
 
-### Republican Congressman says you’re a ‘bad parent’ if you let your child play GTA 6
-Wed, 18 Nov 2026 20:53:44 +0000 — https://www.videogameschronicle.com/news/republican-congressman-says-youre-a-bad-parent-if-you-let-your-child-play-gta-6/
+### GTA 6 PSA: Make sure HGiG is on for your HDR TV for the best GTA experience
+Thu, 19 Nov 2026 13:24:22 +0000 — https://www.videogameschronicle.com/news/gta-6-psa-hgig-hdr-tv-grand-theft-auto/
 
-Congressman Tim Burchett says GTA 6 "desensitises" Source
+Make sure you have HGiG enabled on your TV for the best possible GTA 6 HDR experience… Source
 
-### How to change the time of day in GTA 6
-Wed, 18 Nov 2026 20:04:17 +0000 — https://www.videogameschronicle.com/guide/how-to-change-the-time-of-day-in-gta-6/
+### On its 20th anniversary, here are the 30 best Wii games chosen by a former Official Nintendo Magazine writer
+Thu, 19 Nov 2026 13:23:49 +0000 — https://www.videogameschronicle.com/features/best-wii-games/
 
-Change the time of day in GTA 6 with this trick… Source
+Nintendo's revolutionary console turns two decades old today… Source
 
-### GTA 6 players discover our real first look at the game was likely hidden in a 2021 remaster
-Wed, 18 Nov 2026 19:30:32 +0000 — https://www.videogameschronicle.com/news/gta-6-players-discover-our-real-first-look-at-the-game-was-likely-hidden-in-a-2021-remaster/
+### Rockstar says there’s no Disney World in GTA 6 for an ‘obvious reason’
+Thu, 19 Nov 2026 13:20:27 +0000 — https://www.videogameschronicle.com/news/rockstar-says-theres-no-disney-world-in-gta-6-for-an-obvious-reason/
 
-The image from 2021 may have been our first look at GTA 6… Source
+Producer says creating a Disney World parody for GTA 6 would require ‘a lot of work’… Source
 
-### GTA 6 Clear Skies Mission Walkthrough
-Wed, 18 Nov 2026 18:33:47 +0000 — https://www.videogameschronicle.com/guide/gta-6-clear-skies-mission-walkthrough/
+### GTA 6 Ambulance Chaser Mission Walkthrough
+Thu, 19 Nov 2026 12:38:38 +0000 — https://www.videogameschronicle.com/guide/gta-6-ambulance-chaser-mission-walkthrough/
 
-Jason and Donnie broker a deal in GTA 6's Clear Skies mission… Source
+Destroy the ambulance that helped you escape Vice City… Source
 
-### GTA 6 Swamped Mission Walkthrough
-Wed, 18 Nov 2026 18:30:36 +0000 — https://www.videogameschronicle.com/guide/gta-6-swamped-mission-walkthrough/
+### GTA 6 What s In The Bag? Mission Walkthrough
+Thu, 19 Nov 2026 11:11:26 +0000 — https://www.videogameschronicle.com/guide/gta-6-whats-in-the-bag-walkthrough/
 
-Battle the Kingfishers with Brian in Swamped… Source
+Chapter 2 kicks off with What's In The Bag… Source
 
-### GTA 6 Day Release Mission Walkthrough
-Wed, 18 Nov 2026 18:27:57 +0000 — https://www.videogameschronicle.com/guide/gta-6-day-release-mission-walkthrough/
+### Rockstar explains why you can t play darts in GTA 6: We don t have unlimited time
+Thu, 19 Nov 2026 10:43:41 +0000 — https://www.videogameschronicle.com/news/rockstar-explains-why-you-cant-play-darts-in-gta-6-we-dont-have-unlimited-time/
 
-Day Release is the sixteenth mission of this GTA 6 walkthrough. In this guide, we’ll explain everything you need to know about the Day Release mission, highlight any collectibles, and explain any choices that can be made as part of the mission. In Day Release, Jason and Lucia celebrate Lucia’s temporary freedom in the bright lights of Vice City. Want more GTA 6 guides? Our GTA 6 Guide Hub is… Source
+Rockstar North's co-studio head explains why the pub classic is missing… Source
 
-### Rockstar’s ‘union busting’ tribunal comes to an end, pending verdict
-Wed, 18 Nov 2026 18:04:00 +0000 — https://www.videogameschronicle.com/news/rockstars-union-busting-tribunal-comes-to-an-end-pending-verdict/
+### GTA 6 Jason Lucia Relationship Levels explained: How to improve Jason and Lucia s relationship
+Thu, 19 Nov 2026 10:33:00 +0000 — https://www.videogameschronicle.com/guide/gta-6-jason-lucia-relationship-levels-explained-how-to-improve-jason-and-lucias-relationship/
 
-Former Rockstar workers for the verdict on the eve of GTA 6's launch… Source
+How to improve Jason and Lucia's relationship… Source
 
-### GTA 6 Down To Earth Mission Walkthrough
-Wed, 18 Nov 2026 18:02:37 +0000 — https://www.videogameschronicle.com/guide/gta-6-down-to-earth-mission-walkthrough/
+### The Xbox Series S version of GTA 6 is seemingly the first to use AMD s FSR 4.1 upscaling
+Thu, 19 Nov 2026 10:08:25 +0000 — https://www.videogameschronicle.com/news/the-xbox-series-s-version-of-gta-6-is-seemingly-the-first-to-use-amds-fsr-4-1-upscaling/
 
-Take to the skies in Down To Earth with Jason and Lucia… Source
+It was announced last month that the new tech was coming to Xbox Series X/ Source
 
-### GTA 6 Buck Me Mission Walkthrough
-Wed, 18 Nov 2026 17:34:37 +0000 — https://www.videogameschronicle.com/guide/gta-6-buck-me-mission-walkthrough/
+### GTA 6: All radio stations and genres in Grand Theft Auto 6
+Thu, 19 Nov 2026 09:44:51 +0000 — https://www.videogameschronicle.com/guide/gta-6-all-radio-stations-genres-grand-theft-auto/
 
-Here comes the money! Source
+Every radio station and the genres they play in Grand Theft Auto 6… Source
 
-### GTA 6 Coming Home mission walkthrough
-Wed, 18 Nov 2026 17:34:21 +0000 — https://www.videogameschronicle.com/guide/gta-6-coming-home-mission-walkthrough/
+### GTA 6 Podcasts explained: How to listen to podcasts in GTA 6
+Thu, 19 Nov 2026 09:17:53 +0000 — https://www.videogameschronicle.com/guide/gta-6-podcasts-explained-how-to-listen-to-podcasts-in-gta-6/
 
-Lucia is free, it's time to celebrate! Source
+Wondering how to listen to podcasts in GTA 6? Source
 
 ## Polygon
 
-### PlayStation Network Outage Hits On GTA 6 Release Day Eve
-Wed, 18 Nov 2026 21:03:51 GMT — https://www.polygon.com/gta-6-is-psn-down-detector-account-services-busy-server-connection-error/
+### Fortnite Adds New Way to Get the Pirate Shop Token
+Thu, 19 Nov 2026 12:07:40 GMT — https://www.polygon.com/fortnite-pirate-shop-access-token-respawn-rumble/
 
-What happens when a potential 250 million people try logging into a server at the same time? Problems, that's what. Thursday, Nov. 19 is the official release day for Grand Theft Auto 6 on PlayStation 5 and Xbox Series X, and it appears Sony's platform, commonly known as PlayStation Network, is already buckling the day before under enormous demand for the world's most hyped game.
+The Pirate Shop Access token is the most sought-after item in Fortnite history, guaranteeing a total of four weeks of free Item Shop goodies. Nearly every player has been actively searching for it, opening as many chests as they can per match, even if it costs them their in-game lives.
 
-### 2026's Most Viral Movie with 97 Rotten Tomatoes Score Sets Streaming Date
-Wed, 18 Nov 2026 20:48:03 GMT — https://www.polygon.com/you-can-see-everything-streaming-date-nov-24-2026/
+### RayNeo Built Modern Warfare 4 Its Own AR Glasses - And Put Call Of Duty Inside The Lens
+Thu, 19 Nov 2026 12:00:18 GMT — https://www.polygon.com/rayneo-gt-max-call-of-duty-modern-warfare-4-limited-edition/
 
-In recent years, Nathan Fielder has rightfully earned a place as one of the most provocative figures in modern comedy. Most recently, the actor, filmmaker, and pilot (it’s a long story) co-directed You Can See Everything , a three-hour, brain-bending documentary about Theranos founder Elizabeth Holmes and her partner Billy Evans in the days before Holmes began her 11-year prison sentence for defrauding investors.
+This article was produced in collaboration with our sponsor, RayNeo.
 
-### GTA 6's Completely Unrealistic Mountains Had to Be in the Game, Rockstar Says
-Wed, 18 Nov 2026 19:28:46 GMT — https://www.polygon.com/gta-6-rockstar-lummox-county/
+### 20 Years Ago, Nintendo’s Awkwardly Named Console Defied All Its Biggest Doubters
+Thu, 19 Nov 2026 12:00:18 GMT — https://www.polygon.com/nintendo-wii-20th-anniversary/
 
-If you’ve ever spent time in and around Miami, Grand Theft Auto 6 is bound to delight you. Rockstar Games spared no expense in bringing the diverse world of Florida to life in digital form. Walk down the street in Vice City, and you’re sure to find an approximation of a bar you’ve actually been to . Head to the Leonida Keys, and you’ll find rows of houses on stilts. The attention to detail is impressive, but it also makes one odd detail about the map a little odd.
+Nintendo is a force in the video game industry, currently riding high with the Switch 2 , but it has had dips and missteps like any other company. After strong performances during the 8-bit and 16-bit eras, its performance started to slip with the powerful Nintendo 64, which gave unexpected ground to the PlayStation console that Nintendo itself inspired Sony to build. Despite the GameCube’s impressive tech, the hardware continued to bleed market share to new competitors, and it was clear something needed to change to avoid a fate worse than Sega.
 
-### Switch 2 Is Getting an All-new Gamecube Controller
-Wed, 18 Nov 2026 19:15:29 GMT — https://www.polygon.com/nintendo-switch-2-wireless-game-cube-controller-8bitdo/
+### LiberNovo Is Cutting The Prices Of Its Best Chairs By Up To 42% For Black Friday And Cyber Monday
+Thu, 19 Nov 2026 12:00:18 GMT — https://www.polygon.com/libernovo-black-friday-cyber-monday-sale-omni-maxis-chairs/
 
-Super Smash Bros . fans, this one’s for you. Peripheral maker 8BitDo just revealed the GC Bluetooth Gamepad , a wireless spin on the GameCube controller meant for Nintendp Switch, Switch 2, and Windows PC. It’s available in the GameCube’s iconic purple-and-orange color palette and features the "classic GC design and iconic button layout," according to its product description. The controller can connect wirelessly via Bluetooth 5.0 or a 2.4 GHz adapter, and has wired support via a USB-C cable. All three connection types work with the original Switch and Switch 2, while only wired and 2.4 GHz wireless connections work on PC. The controller goes for $49.99 and ships on Dec. 10, 2026.
+This article was produced in collaboration with our sponsor, LiberNovo.
 
-### Skyrim's Most Iconic Region Is Making a Major Comeback
-Wed, 18 Nov 2026 19:03:06 GMT — https://www.polygon.com/elder-scrolls-online-skyrim-winterhold-2027/
+### Dead by Daylight Teases the Arrival of the King of Monsters
+Thu, 19 Nov 2026 11:20:38 GMT — https://www.polygon.com/godzilla-dead-by-daylight/
 
-Winter is coming to Tamriel, and The Elder Scrolls Online is preparing to take players somewhere particularly familiar. One of the most memorable regions from The Elder Scrolls 5: Skyrim is making its way to the MMORPG, giving fans another reason to revisit the icy northern reaches of the continent.
+Behaviour Interactive has never shied away from bringing strange, completely out-there IPs into its asymmetrical multiplayer horror game, Dead by Daylight . The game has featured Tokyo Ghoul , Tomb Raider , and even — get this — Nicolas Cage. Yes, the actor.
 
-### Magic: The Gathering Designer Reveals the Biggest Problem With Marvel’s Infinity Stones
-Wed, 18 Nov 2026 19:00:18 GMT — https://www.polygon.com/mtg-marvel-infinity-stones-spoilers-mark-rosewater-interview/
+### How to change your criminal profile in GTA 6
+Thu, 19 Nov 2026 11:01:18 GMT — https://www.polygon.com/gta-6-criminal-profile-how-to-improve-change-reputation/
 
-When Magic: The Gathering ‘s Marvel’s Spider-Man set launched in 2025, the inclusion of The Soul Stone hinted at the scope of Wizards of the Coast’s partnership with Marvel . Including one of the six cosmically powerful gems as the set’s headliner card practically guaranteed the rest would eventually be released, a plan that was confirmed with the printing of The Mind Stone in the 2026 Marvel Super Heroes set. It’s a clever strategy, but one that Magic head game designer Mark Rosewater told Polygon demonstrates a problem with Universes Beyond design.
+To improve your criminal profile in Grand Theft Auto 6 , you must play nice. Since it's GTA 6 , though, "playing nice" means shooting folks in the knee rather than in the head. You'll still break the law, but you'll be more polite about it.
 
-### Christopher Nolan Reveals Why Watching 'The Odyssey' at Home Is Better than IMAX
-Wed, 18 Nov 2026 19:00:18 GMT — https://www.polygon.com/christopher-nolan-the-odyssey-home-viewing-rewatch/
+### What to do first in GTA 6
+Thu, 19 Nov 2026 11:01:18 GMT — https://www.polygon.com/gta-6-what-to-do-first-how-to-get-started/
 
-Christopher Nolan has spent much of his career championing the theatrical experience. From shooting on IMAX film to encouraging audiences to see his movies on the biggest screens possible, the director has made no secret of his belief that movies are meant to be experienced in theaters.
+The best things to do first in Grand Theft Auto 6 are all about money management, unlocking open-world activities, and taking good care of Jason's slithery friend. While there's no right or wrong way to play, these tips and tricks should make your first visit to Leonida, specifically Key Lento, more useful and fun.
 
-### 2026’s Best-Sci Fi Movie Is Officially Returning to IMAX
-Wed, 18 Nov 2026 18:52:09 GMT — https://www.polygon.com/project-hail-mary-ryan-gosling-returning-to-imax/
+### How to keep stolen cars and weapons in GTA 6
+Thu, 19 Nov 2026 11:01:18 GMT — https://www.polygon.com/gta-6-keep-stolen-vehicles-weapons-register/
 
-Sometimes a movie's spectacle is so great that it really does need to be experienced in a theater, preferably in the best possible format available to you . Project Hail Mary , this year's stunning Andy Weir adaptation starring Ryan Gosling, is one such movie. It may have been difficult to catch in IMAX, however, as IMAX screens are a hot commodity and the film has been out of theaters for a while. If you missed it the first time around, Amazon MGM Studios has an end-of-year treat for you.
+To keep stolen cars and weapons in Grand Theft Auto 6 , you'll have to go through some trouble. Stolen cars will disappear if you don't park them safely or register them in your name, while looted weapons will disappear unless you store them. Be careful not to lose your favorite new guns and vehicles!
 
-### GTA 6 Withholds Your 100% Stats Until the End — For Good Reason
-Wed, 18 Nov 2026 18:46:12 GMT — https://www.polygon.com/gta-6-completion-menu-ending/
+### Where to find the tree effigies for the Skunk Ape mission in GTA 6
+Thu, 19 Nov 2026 11:01:18 GMT — https://www.polygon.com/gta-6-skunk-ape-tree-effigies-locations-where-to-find/
 
-Completionists beware: Grand Theft Auto 6 is going to take you a very, very long time to complete. Rockstar Game’s open-world game is filled to the brim with things to do, see, and collect. You can go golfing, collect undersea treasures, find collectible trading cards, rack up medals at shooting ranges, scan landmarks, and so much more. Rockstar knows that it could get overwhelming fast, so GTA 6 was designed to combat that in one key way.
+The tree effigy locations in Grand Theft Auto 6 are key to finding Mr. Mangrove, the mythical Skunk Ape in Pelican Valley. An odd fellow named Kirk is hunting the Skunk Ape, and since Jason and Lucia have been marked by Skunk Ape spores, Kirk has decided that they're the ideal companions to join the hunt and find Mr. Mangrove's tree effigies.
 
-### Goodbye, Lucia: GTA 6 Fans' Official New Obsession Is Mandy
-Wed, 18 Nov 2026 18:34:16 GMT — https://www.polygon.com/gta-6-mandy-who-is-pipework-mission-lucia-jason-chapter-reddit/
+### The best ways to make money fast in GTA 6
+Thu, 19 Nov 2026 11:01:18 GMT — https://www.polygon.com/gta-6-how-to-make-money-become-rich-fast-grand-theft-auto/
 
-Less than 24 hours ago, social media posts about Grand Theft Auto 6 were flooded with thirsty images of Lucia Caminos, the first female protagonist in Rockstar's open-world series. Now that the game is playable in some regions of the world , much of that enthusiasm has transferred to an entirely new character who hasn't appeared in any of the game's screenshots or marketing. Meet Mandy, GTA 6 's new it girl.
+To earn money fast in Grand Theft Auto 6 , you should commit crimes that come with a high reward, a low risk, and little effort. Mugging random people is quick but hardly worth the money, while blowing high-security bank vaults is very profitable but also very time-consuming and risky. Neither is the best way to become (almost) effortlessly filthy rich.
 
 ## PC Gamer
 
-### I finished GTA 6's main story: Ask me anything! (except for major spoilers)
-Wed, 18 Nov 2026 20:23:24 +0000 — https://www.pcgamer.com/games/grand-theft-auto/i-finished-gta-6s-main-story-ask-me-anything-except-for-major-spoilers/
+### Should you kill or spare Arnold in GTA 6?
+Thu, 19 Nov 2026 13:48:23 +0000 — https://www.pcgamer.com/games/grand-theft-auto/gta-6-arnold-kill-or-spare/
 
-I've been secretly playing Grand Theft Auto 6 for the past several weeks and my suffering is finally at an end. Not that I suffered from playing GTA 6! I had a blast, actually, and as I laid out in my not-a-review this morning, I really like the game. In fact, after putting in about 100 hours, I'm ready for 100 more, though I desperately wish the game were on PC. You know, the way it should be. The way it's meant to be. No, my suffering is that for the past two weeks I haven't been able to talk about GTA 6 with anyone, so I'm positively bursting to let a few things fly. With that in mind, here's my invitation to you: Ask me anything! In the comments below, ask me whatever burning questions you might have about GTA 6. I'm gonna be at my desk all day (and most of the night, probably), so I'll answer them as promptly as I can. I don't mean ask stuff like "how does it end" or anything that could be considered a major spoiler, but stuff about how Jason and Lucia's relationship works, the activities, the characters, the world, the systems, and honestly, any other questions you might have about the game. I'll be checking the comments section for the next few days and on Friday we'll (probably) turn your questions and my answers into a story for the site. ]]>
+Deciding whether to kill or spare Arnold in GTA 6 is the culmination of the Hey Arnold mission in Chapter 1, the 7th after you encounter Mandy during Pipework. Essentially, Arnold, Brian's business partner, has gone dark, so you're sent to rough him up. Arnold and his cronies will do a runner, hopping into a vehicle and speeding off. You'll need to chase them down and do a bit of high-speed shooting. This will lead to an on-foot chase, at the end of which you'll corner him on a pier, where he'll explain he wants to leave the criminal life behind and disappear. There are two choices and consequences: Kill Brian : Gun him down and you'll get a Hardened Criminal rating in your Criminal Profile . This is essentially GTA 6's morality system, based around how often you kill people. Obviously, killing Brian will contribute significantly towards the negative. Spare Brian : Let him go and this will give you a Restrained rating, contributing less negatively to your Criminal Profile. Brian will also show up in a mission later if you let him live, so this seems like the best choice of the two if you want extra content. Funnily enough, if you choose neither and just wait, Arnold will leave, though this will result in the same outcome as if you decided to spare him. Besides this, there are no downsides to sparing him or advantages gained through killing him. Grand Theft Auto 6 GTA 6 guide : One-stop info shop GTA 6 cars : The garage lineup GTA 6 characters : Your anti-hero cast GTA 6 map :
 
-### GTA 6 changes the way you steal cars: here's everything you need to know about slim jims, key cloners, and tracking devices
-Wed, 18 Nov 2026 19:22:44 +0000 — https://www.pcgamer.com/games/grand-theft-auto/gta-6-how-to-steal-cars/
+### You can't cheat on Lucia in GTA 6 with Mandy or strippers because Rockstar doesn't believe that's 'complementary to the feeling and motivations' of Jason and Lucia's story
+Thu, 19 Nov 2026 13:44:38 +0000 — https://www.pcgamer.com/games/grand-theft-auto/you-cant-cheat-on-lucia-in-gta-6-with-mandy-or-strippers-because-rockstar-doesnt-believe-thats-complementary-to-the-feeling-and-motivations-of-jason-and-lucias-story/
 
-Used to be that all you needed to steal a car in a GTA game was a few seconds and a sharp elbow. In GTA 6 , you can still smash a window and hotwire some cars, but the car stealing system has changed a lot and the further you get into the game, the more tools you'll need. That means a quick getaway in a stolen vehicle isn't always that simple. Here are the methods for stealing cars, the new tools you'll get and when they become available in the story, and everything else you need to know about boosting rides in GTA 6. Breaking into cars (Image credit: Rockstar Games) Want to steal a car? Walk up to the door and press the interact button. That'll tell you if it's locked (most are), if it's alarmed (nearly all are), and if it's keyless—a new type of car that we'll cover more below. If you smash the window, you'll then climb into the car and need to hotwire it, which just takes a second or two and uses the control sticks to find the "sweet spot." If it's a keyless car, you won't be able to hotwire it or drive it away—again, more on that below. If you smash a window on an alarmed car, the alarm will sound, which can attract attention. Carjacking You can still pull people out of their cars, but be warned: many of them will fight back, meaning you'll need to hammer a button quickly to defeat them. Lose, and they'll clonk your head against the side of the car, knocking you down and speeding away. And even if you do pull them out of their car, this is Leonida: a lot of motorists are 
+My greatest regret about Grand Theft Auto 6's release is that I didn't make an 'angry players' bingo card beforehand. Seriously, with how predictable all the outrage is, I could've had the winning card by now, and the game's not even been out for 24 hours yet. What would I have on my bingo card? Well, a couple of things that'd be on there are: angry at 30 fps, angry at shooting police (a classic), and slap-bang in the middle I'd have angry that you can't cheat on your partner. It seems that there's a group of players who are taking issue with the fact that GTA 6's story revolves around Jason and Lucia's relationship and therefore you can't pick up other women like strippers or Mandy, an early side character who players seem to be quite preoccupied with right now. Although, I haven't heard anyone complain that Lucia can't get with other guys. You can still go to strip clubs, though. You can even go as a couple; how modern. But Rockstar hasn't added the ability to do much more simply because it doesn't fit with the story. In a statement to Shacknews Rockstar explains: (Image credit: Rockstar) "GTA 6 is a game about a couple in a bind, lovers on the run. While we have taken a lot forward from previous GTA titles, everything we have implemented in [GTA 6] has been done to support the spirit of the story we wanted to tell, and the gameplay systems we wanted to expand upon—things like the wanted system, the radio, robberies and car theft. Many aspects of previous titles are not pre
 
-### Embark Studios apologizes for replacing esports casters with AI voices in now-deleted The Finals video
-Wed, 18 Nov 2026 19:10:43 +0000 — https://www.pcgamer.com/software/ai/embark-studios-apologizes-for-replacing-esports-casters-with-ai-voices-in-now-deleted-the-finals-video/
+### OLED monitor shipments have doubled from last year, and all I can say is it's well deserved
+Thu, 19 Nov 2026 13:19:30 +0000 — https://www.pcgamer.com/hardware/gaming-monitors/oled-monitor-shipments-have-doubled-from-last-year-and-all-i-can-say-is-its-well-deserved/
 
-Following a backlash from casters and esports fans, Embark Studios has taken down a recap video from a recent esports tournament for The Finals that replaced the original casters' voices with AI. The commentators for the APAC Closed Qualifiers for The Grand Major , the annual championship tournament for Embark's team-based FPS, were human. But, as reported by IGN , a highlight video released by Embark built from clips from the qualifier replaced those casters with audio from the game's AI commentators, Scotty and June. It did not go over well. "After 4 cycles, open/closed quals, the time, effort, passion and emotion myself @TheeHyperactive and @bluepanda_casts put in," The Finals caster ProtoANZ wrote on X . "We get replaced by two AI casters who even quote us :/ I get they are apart of the game but yikes. Thanks @reachthefinals." Reposting ProtoANZ's message, Bluepanda added , "For nearly 7 years I've been repeatedly told that my work is valued and appreciated only to then have the same people saying those things turn around and either completely ghost me or tell me they're going in a different direction with talent and that my services aren't needed GG." (Image credit: Bluepanda/ProtoKai (Twitter)) Other casters soon weighed in to express support for ProtoANZ and Bluepanda: League of Legends caster Sam "Initialise" Hapgood called it "dystopian," while Jen "LemonKiwi" Pichette described it as "appalling" and said "REAL casters deserve better." Embark's relationship with AI i
+I feel like I say this once a week at this point, but gaming monitors occupy one of the only bright spots in the dark cloud that is PC hardware right now. They are getting better and cheaper by the day, and it seems I'm not alone in thinking this, as global OLED monitor shipments doubled in the last year. Woo, go OLED monitors. This is according to Trendforce , which notes Asus is the market leader for global OLED monitor sales (at 21.7%), with MSI coming in second (14.5%) and Samsung coming in third (11.3%). LGE take fourth place with 8.6%, and Dell closely follows that with 8.2%. The rest of the industry has the remaining 35.7% to split among themselves. As for total sales, Trendforce says global OLED sales got a 13% bump from last quarter to this year, and more impressively, sales for OLED monitors reportedly doubled compared to the same quarter last year. That means OLED monitors have significant upward momentum right now. And who can blame people for buying in? OLED monitors are known for having super vibrant colours, true blacks, and they tend to have wicked fast response times and refresh rates. The difference between IPS and OLED is so apparent when you put them beside each other, and I know, as I'm rocking a dual monitor setup with both panel technologies. They are a bit more expensive than IPS, and older panels can suffer from burn-in, but I can say swapping from an IPS panel to an OLED one is one of the most monumental changes I've made to my gaming setup in the la
 
-### How to get a snap gun in GTA 6
-Wed, 18 Nov 2026 18:29:10 +0000 — https://www.pcgamer.com/games/grand-theft-auto/gta-6-snap-gun/
+### If you're fed up of GTA 6 at 30 fps, this tool gets it up to 60 and injects DLSS 5 if you have a powerful enough gaming PC
+Thu, 19 Nov 2026 12:59:29 +0000 — https://www.pcgamer.com/games/grand-theft-auto/if-youre-fed-up-of-gta-6-at-30-fps-this-tool-gets-it-up-to-60-and-injects-dlss-5-if-you-have-a-powerful-enough-gaming-pc/
 
-Traditional lockpicking gets an upgrade in GTA 6 with the introduction of the snap gun —a handy little device that makes picking locks faster and quieter. It's perfect for those scenarios where you don't want Jason and Lucia to set off alarms by kicking open locked doors and making demands. Instead, the snap gun offers a stealthier way through locked doors. Unfortunately, it's locked behind story progression like the slim jim and key cloner , so you can't make those earlier missions easier. If you don't mind a small spoiler, here's how to get the snap gun in GTA 6. How to get a snap gun Rockstar Rockstar You get the snap gun from Yasmani in Chapter 3 after completing the jewelry heist in the Dubious Provenance mission . Approach a locked door with the tool equipped, and the "Use snap gun" option will appear. Use the left analogue stick to find the lock's sweet spot, then press the right trigger until the meter fills. Voilà, you're in. While the snap gun circumvents alarms, the alarm itself is still active. It may still be set off by kicking open other doors, breaking display cases, or by a store employee. Using the snap gun on an establishment's back door is a great way to get access to the office to completely disable the alarm altogether. Grand Theft Auto 6 GTA 6 guide : One-stop info shop GTA 6 cars : The garage lineup GTA 6 characters : Your anti-hero cast GTA 6 map : Confirmed Vice City locales GTA 6 PC release : When's it going to happen? ]]>
+With a game as gorgeous as GTA 6, could you want even more, graphically? Well, some PC gamers seem to be answering 'yes' and throwing some DLSS 5 neural rendering into the mix. Oh, and perhaps more importantly for those of you concerned about the low frame rate on console, they're managing to up the frame rate to 60 fps, too. How, you ask? In both cases, you can either use a capture card or Remote Play to get the game streamed to your gaming PC. Then, for DLSS 5, you use a tool called Veyra , which can be easily installed and set up by running it via another tool from the modder Phosphen (via VideoCardz ). You just have to run a PowerShell command, get Remote Play linked up, and run a short setup with the new Veyra executable. Assuming, that is, you have a graphics card that can handle the extra DLSS 5 work. And assuming you can get it to work—my colleague couldn't get the tool to link up to his PS5 when he tried. Judging by some gameplay capture of GTA 6 with DLSS 5 running on top, and to perhaps state the obvious, it's very graphically impressive. That goes for both the environment and characters . This tool should get you up and running at 60 fps, too, using frame gen. Essentially, whether by 60 fps capture card or via Remote Play, each of the game's 30 frames per second is duplicated, giving you a 60 fps output that still feels like 30 fps. The tool removes the duplicated frames and then adds frame gen to double them, giving you genuine new frames interpolated between eac
 
-### What's the first thing you're gonna do in GTA 6?
-Wed, 18 Nov 2026 18:28:52 +0000 — https://www.pcgamer.com/games/grand-theft-auto/whats-the-first-thing-youre-gonna-do-in-gta-6/
+### I reviewed every strip club in GTA 6 (because you sickos keep googling it)
+Thu, 19 Nov 2026 12:15:04 +0000 — https://www.pcgamer.com/games/grand-theft-auto/gta-6-strip-club-locations/
 
-So you've played through the GTA 6 intro, gotten to know Jason and Lucia a bit, and probably been taught how to drive, shoot, and change clothes. You finally reach that moment in an open world game where, for the first time, you're let off the rails to just be . What do you do first? That's what I want to know, because I suspect we all have a different system or detail that we've been thinking about since the first GTA 6 trailers and leaks—a test we must conduct to determine if "Rockstar really thought of that." I'm talking about hoops shooting, snack eating, or going on a classic GTA rampage. Sound off in the comments below (there's a button at the top of the page to skip straight to them) to share your night one plans. Grand Theft Auto 6 GTA 6 guide : One-stop info shop GTA 6 cars : The garage lineup GTA 6 characters : Your anti-hero cast GTA 6 map : Confirmed Vice City locales GTA 6 PC release : When's it going to happen? ]]>
+One of the first things GTA 6 players searched for was strip club locations—genuinely, I have the data. So, as a responsible guide writer, I loaded up the game and proceeded to spend my initial hours beelining around Leonida's hotspots. There are a few different strip clubs in Leonida, each with their own price range and different activities to try (that sounds sordid, but I'm also talking about, like, pool tables). There are three strip clubs in the game I've found, plus a load of other night spots, like the Rusty Anchor close to where Jason starts, that have drinking and other activities, too. NINE1NINE NINE1NINE is located in Downtown Vice City Rockstar This club is the fanciest Rockstar Activities : Drinking, club dancing, private dances Prices : $300 for a private dance, $50 tip Rating : ⭐⭐⭐ This fancy strip club in downtown Vice City is the classiest option you have available, but also the priciest. It's quite easy to get here, even from Leonida Keys where Jason starts—just drive along route 1 towards Hamlet, merge onto route 97, and head north into Downtown. The clubs are just to the right of the giant crossroads route interchange in west Vice City. NINE1NINE itself is next door to The Vault club. This is the best option if you have a lot of money to burn, but also it feels a bit too fancy. If you want a private dance, same as with previous GTA games, you just need to greet the dancer in question and then use the interaction icon to pay for it. Since this club is fanci
 
-### 'I just hope GTA 6 is the last of its kind': Warren Spector congratulates Rockstar on its landmark accomplishment but says the industry can't keep this up
-Wed, 18 Nov 2026 18:23:52 +0000 — https://www.pcgamer.com/games/grand-theft-auto/i-just-hope-gta-6-is-the-last-of-its-kind-warren-spector-congratulates-rockstar-on-its-landmark-accomplishment-but-says-the-industry-cant-keep-this-up/
+### DDR6 memory modules to be almost half the size of DDR5 and almost double the max speed
+Thu, 19 Nov 2026 11:52:57 +0000 — https://www.pcgamer.com/hardware/memory/ddr6-memory-modules-to-be-almost-half-the-size-of-ddr5-and-almost-double-the-max-speed/
 
-Game industry legend Warren Spector retired in August , and somewhat ironically he's been more outspoken than ever about the state of the games industry. After blowing up over the closure of BioWare in October, he took a few weeks to think about it and got even more pissed off —and now he's shared some thoughts on the biggest videogame release of all time, Grand Theft Auto 6 . Unlike the BioWare mess, Spector's not angry about GTA 6, but he's clearly ambivalent: His latest missive on LinkedIn opens with a congratulations to the dev team and says, "It looks like it will be a high point of sorts for our medium and our business," which right out of the gate suggests that he's not entirely upbeat about it. Spector wasted no time getting to the point. "Its billion-dollar development cost and an undoubtedly crazy marketing budget don't represent a business model anyone else can or probably should emulate," he wrote. "That's especially true when thousands of developers are out of work. A billion dollars pays for a lot of games and a lot of salaries. "Personally I'd rather have hundreds of games and full employment than one game no matter how amazing it is." At the same time, he said GTA 6 demonstrates the truth of a point he's made previously: "Give a game the time and money to prove its potential (key word, potential) and you have a chance of making something great. Underfund a game or force it out the door before it's ready guaranteed failure no matter how much potential it has." 
+You may not be able to buy memory right now, but the good news for a hopeful future is there's potentially quicker and smaller RAM on the horizon. JEDEC, the council that sets industry standards for RAM, has published a preview of what DDR6 could look like, and it seems like it will be itty and bitty. According to JEDEC, DDR6 will bring with it higher bandwidth, higher capacities, better reliability, more energy efficiency, and different form factors (via VideoCardz ). Starting with bandwidth, DDR6 RDIMMs will start at a speed of 12.8 GT/s and are set to move up to "14.4 GT/s and beyond." DDR5 maxes out at 9.2 GT/s, representing a sizable bump. It also expands the data bus from 64 to 96 DQ, which no doubt contributes to the bandwidth increase. That is fast, though not two times faster like DDR5 versus DDR4. It is worth noting, however, that memory modules tend to get faster over their lifetime so we don't know where that might end up. The module for DDR6 is now 74 mm, which is almost half of the 133 mm for DDR5. This is supposedly "intended to help accommodate higher system memory density", with DDR6 supporting up to 128 GB DRAM die density (double that of DDR5). There are other gains to be had with DDR6 too. JEDEC says it targets an improved performance-per-watt over DDR5 "through a change to VSS-terminated IO and data-center-focused low power modes" JEDEC says DDR6 can support a "breadth of form factors", including RDIMM, UDIMM, CAMM. Now for one thing you may not want to h
 
-### How to clone keys in GTA 6
-Wed, 18 Nov 2026 18:21:15 +0000 — https://www.pcgamer.com/games/grand-theft-auto/gta-6-clone-keys/
+### Former Rockstar president's studio is looking to sue its way out of a £61 million debt, and yes, it's still claiming MindsEye suffered 'a coordinated campaign of negative online reviews'
+Thu, 19 Nov 2026 11:48:44 +0000 — https://www.pcgamer.com/games/action/former-rockstar-presidents-studio-is-looking-to-sue-its-way-out-of-a-gbp61-million-debt-and-yes-its-still-claiming-mindseye-suffered-a-coordinated-campaign-of-negative-online-reviews/
 
-Vice City's glow-up in GTA 6 ushers in a new era of smart car tech, bringing keyless ignition to the series. That's great for car owners, but a pain for our criminal duo since you can't hotwire a keyless car. Luckily, that doesn't mean you can't steal a car with high-tech security. Modern problems call for modern crimes, and that's where the key cloner comes in. How to get a key cloner (Image credit: Rockstar) You get the key cloner in Chapter 3 during the "Steal the Zorruso for Randy" mission . It's pretty far into GTA 6, but the convenience of stealing keyless cars is worth the wait. To unlock a keyless car, stand next to the vehicle's door, press the interact button, and select "Clone Key." Use the control stick to find the sweet spot to speed up the process. The key cloner unlocks and starts keyless cars, making it a serious upgrade over the slim jim while also introducing a new problem: trackers. The Waink It app on your phone can identify keyless cars when you scan them, so you'll know what you're up against. Beware of trackers when stealing keyless cars (Image credit: Rockstar) Standard trackers on stolen cars aren't much of a problem—they just forbid you from making modifications at a mod shop unless you register the car as your own. Advanced trackers , however, are a whole other beast. They relay your exact location to the cops, but you can outrun the signal if you're fast enough. Keep your foot on the gas, and the cops won't be able to track you until you slow down.
+The saga of MindsEye has been somewhat concerning to watch from a distance. Originally pretty interesting, given it was headed up by former Rockstar North president Leslie Benzies, it instead became a poorly-received videogame (this is me being polite ). One which would be a shame under any other circumstances, but has since spun out into a trainwreck saga involving multiple layoffs and, most notably, a lot of finger-pointing at alleged "saboteurs" . Many of its actual developers happen to disagree , a whopping 93 of them alleging "systemic mistreatment, mismanagement, and mishandling of the redundancy process" back in October of last year. The studio itself has continued to try and update it , including with a mission that is about those alleged saboteurs , which is a normal thing you do when you are trying to be taken seriously. Anyway, the layoffs are continuing , and it looks like it's sink or swim for Build a Rocket Boy. Things have never gotten sinkier or swimmier than right now, however, as both a statement of affairs and a notice of administrator's proposal filed November 16 (and unlocked yesterday) have painted a picture , as spotted by RedbullCola on ResetEra . It's bad. The picture's looking bad. Build a Rocket Boy has an unsecured creditor claim—that is to say, debt—of around £61 million: "Unsecured creditor claims are presently estimated at approximately £61.752 million, principally comprising amounts due to group undertakings, Diameter, NetEase and various trade
 
-### It's almost time to say goodbye to modding GTA 5, if the game doesn't shatter into a thousand pieces first
-Wed, 18 Nov 2026 18:04:53 +0000 — https://www.pcgamer.com/games/grand-theft-auto/its-almost-time-to-say-goodbye-to-modding-gta-5-if-the-game-doesnt-shatter-into-a-thousand-pieces-first/
+### Looking for free guns and body armor in GTA 6? Try the trunks of cop cars
+Thu, 19 Nov 2026 10:11:46 +0000 — https://www.pcgamer.com/games/grand-theft-auto/gta-6-free-guns-cop-cars/
 
-Los Santos Customs I'm modding GTA 5 every day in a quest to either transform it into a PC version of GTA 6 or break it entirely. Come back tomorrow to find out what new horrible thing I've done to Rockstar's baby, or check out what I got up to earlier . Well, it's almost time. The big day is upon us: Grand Theft Auto 6 is here. I mean, not here . We don't have it. But over in consoleland my understanding is the masses are—as we speak—building some sort of life-partnership with their new husband/wife. Also, doing crimes. Also, shooting kneecaps . Which means it's almost time to end this journey. I think we can all agree: my hyper-modded version of GTA 5 is, if anything, much better than whatever nonsense Rockstar has people doing over in Vice City. Does Vice City have Crazy Taxi ? Does Vice City have roving bands of cougars ? Does Vice City have, uh, banking ? I think not. And since my quest is so clearly, definitively complete, it's time to say goodbye. Almost. We'll actually properly say goodbye tomorrow, but for now, I have installed Farewell Journey – A Goodbye to GTA 5 , which bills itself as "One last day in Los Santos before moving on to GTA 6". It's mostly a series of goodbyes between Franklin and pals before he boards a plane, for some reason, to Vice City. Or it should be. With the state my copy of GTA 5 is in, it all gets a bit… harder to parse. Please enjoy, and I will see you back here tomorrow for our own final farewell. Grand Theft Auto 6 GTA 6 guide : Everythi
+Remember how stealing a cop car in the older GTA games used to get you a free shotgun? Well, turns out Vice City's police force is even better armed. If you need some extra guns quickly, particularly shotguns and assault rifles, filching them from the trunk of a police car is a great method, though obviously it comes with certain risks. You might have realised, but stealing cars in GTA 6 is significantly more complicated than previous games, especially if they're alarmed. Thankfully, this doesn't apply to any police pickup trucks like the Bravado Bison the cops sometimes use, which you'll spot occasionally both in rural areas and in the city With the police pickups, you can simply climb onto the bed at the back and open the storage crate, grabbing any weapons and ammo inside, including other potential items like Stun Guns, without setting off any alarms. For proper police cruisers, though, their trunks are alarmed along with the doors, meaning you'll need a tool to deal with them, the slim jim , which you get during the "Moses" mission in Chapter 2. If you slim jim the door of the cop car and get inside, the trunk will unlock, so you can head around the back, interact to open it, and steal whatever's in the boot without tackling the alarm, whether it be an assault rifle, shotgun, or even body armor. The best way to open the boot is to break into the car itself Rockstar This unlocks the boot, which often contains assault rifles, shotguns, or body armor Rockstar If you don't ha
 
-### How to reach 6 stars in GTA 6
-Wed, 18 Nov 2026 18:00:00 +0000 — https://www.pcgamer.com/games/grand-theft-auto/gta-6-six-stars/
+### Refueling cars in GTA 6 is barely necessary, but there's much better reason to visit garages
+Thu, 19 Nov 2026 10:11:36 +0000 — https://www.pcgamer.com/games/grand-theft-auto/gta-6-refuel-repair-cars/
 
-Achieving six stars in GTA 6 's new wanted system is the most notoriety you can get in the game, and killing enough cops and soldiers to get there will likely have a big impact on your criminal profile —which is effectively this game's version of Red Dead Redemption 2's karma system. As with the previous games, the highest star levels are reserved for trespassing in an airport and stealing a passenger jet, or heading to a military base and hijacking an APC. And, as always, five stars will see a tank dispatched. But you can only get to six stars if you cause mass destruction and loss of life. The only way we were able to get a six star wanted level in GTA 6 was by stealing a tank from a military base and blowing up other tanks and vehicles. Just keep this in mind: At six stars, you'll no longer be able to lose heat or wanted level. You can run but you can't hide because once you're at six stars, the law will never stop hunting you. This means your only way out is to die, essentially. It's also worth considering that killing all of those cops could impact your criminal profile quite severely. Grand Theft Auto 6 GTA 6 guide : One-stop info shop GTA 6 cars : The garage lineup GTA 6 characters : Your anti-hero cast GTA 6 map : Confirmed Vice City locales GTA 6 PC release : When's it going to happen? ]]>
+Having to refuel cars in GTA 6 was weirdly one of the most talked about features before launch—I guess people didn't like the idea of having to pull over for gas while being chased by half the Vice City's police department. But the reality is that refuelling cars is something you'll barely find yourself doing. When your ride does run low on fuel, you can find a gas station on the map via the gas pump symbols: Pull up to a pump close enough to see the prompt for "Services" Select "Refuel" (It will also display the $ cost) Press the interact button You'll see Jason or Lucia picking up the pump handle Hold down the button shown in the lower right corner to refuel When you're done, you'll see Jason or Lucia replace the pump handle You'll be back in your car Easy, right? And you'll barely have to do it since, just like real life, cars can go quite a long time without refuelling if they have a full tank, even if you're going over 60mph, which I assume you are. Note that if you steal a stranger's car, their tank may nearly be empty already. If you're driving an electric car, check the map for recharging stations. Pull up close to one, select "Charge Vehicle," and it'll display the cost. You'll see a quick scene of the readout on the charging station filling the battery to 100%, and when it's done, you can drive away. (Image credit: Rockstar) Now, the better reason to visit Vice City's fuel stations is that they can repair your vehicle, and if you drive like I do, you'll need this a 
 
-### How to save game in GTA 6
-Wed, 18 Nov 2026 18:00:00 +0000 — https://www.pcgamer.com/games/grand-theft-auto/gta-6-save-game/
+### Bank your cash in GTA 6, but always keep a few hundred on you—you never know when you'll need it
+Thu, 19 Nov 2026 10:11:17 +0000 — https://www.pcgamer.com/games/grand-theft-auto/gta-6-bank-cash/
 
-As with past games, GTA 6 features manual saving, letting you choose when you want to create a checkpoint you can return to. In a game with many chapters and missions , this is especially useful in case you want to try things a different way and reload. There are 15 manual save slots you can use—I'd suggest keeping one save at the start of each chapter if you want full potential coverage to go back to previous points. To save the game you need to: Open the main menu Select the "Game" option Choose the "Save Game" option Voila, you've saved your game in GTA 6. You can load game via this same menu, too. Remember, that there are certain things in-game that will disable saving entirely, such as if you start using cheats . You'll have to quit out and return to be able to save again, but since cheats aren't available early on, you don't have to think about that right now. Grand Theft Auto 6 GTA 6 guide : One-stop info shop GTA 6 cars : The garage lineup GTA 6 characters : Your anti-hero cast GTA 6 map : Confirmed Vice City locales GTA 6 PC release : When's it going to happen? ]]>
+Cash is king in GTA 6 , and Rockstar has come up with some new systems to manage your finances, from a secret stash under the floorboards to an honest-to-goodness interest-bearing savings account. But you need to be careful with your money, especially at the start of the game when even a few hundred bucks can make or break you. While wandering around Leonida, strangers might try to rob you (big mistake), but more importantly, if you die or get arrested, you'll be penalized a few hundred dollars. There's also a $20k limit to how much you can keep on your person as you gradually accumulate more and more through play. The solution? Stash your cash frequently. During the initial chapters of the game, you won't have a bank account, but you can store your money in your house in Key Lento by simply stashing it under the floorboards in the bedroom. This will mean you have a little money tucked away, and won't lose it when you die or get busted by the cops. . Remember, you can also stash stolen goods like jewelry, drugs, and marked bills from robberies in the trunk of your car. Even if your car gets impounded by the fuzz, you'll be able to recover that contraband from your trunk later on and sell it. Don't stash goods in a car you don't own, though: you might lose it if you lose that car. The stash in Jason's house is a great way to store money before you unlock banking (Image credit: Rockstar) Here's the important bit of advice: you might be tempted to deposit all your cash, but if y
 
-### GTA 6 military base location: How to get into Mile Zero Air Station
-Wed, 18 Nov 2026 18:00:00 +0000 — https://www.pcgamer.com/games/grand-theft-auto/gta-6-military-base-location/
+### Not even Walton Goggins knows if Fallout will have a Season 4: 'if we get the opportunity to come back for season four, that would continue to honor how sacred this is to people'
+Thu, 19 Nov 2026 03:30:59 +0000 — https://www.pcgamer.com/movies-tv/not-even-walton-goggins-knows-if-fallout-will-have-a-season-4-if-we-get-the-opportunity-to-come-back-for-season-four-that-would-continue-to-honor-how-sacred-this-is-to-people/
 
-It's a bit of a drive (or boat, or flight) to get all the way out to the Mile Zero military base on the big bridges to the southern keys but it's actually not that far away from the first house you've got access to at the start of the game in Key Lento. You'll get a wanted level if you get spotted on base (and wind up in a pretty immediate gunfight for it) but this is still the easiest way to steal a tank or get your hands on a combat jet. What's at the military base? (Image credit: Rockstar, annotated by PC Gamer) Jets (Hauners Lazer) Airplanes (Botticher 015A) Tanks/APCs Tanks/APCs Helicopters (Buzzard) Stunt Jump entrance Vehicles (Image credit: Rockstar) Name Type Hauners P996-Lazer Aircraft (combat) Hauners Rhino Tank Hauners APC Transport Botticher Buzzard Helicopter Mammoth Patriot Truck Botticher 015A Airplane Points of interest Name Type Mile Zero Air Station Southeast Stunt jump How to get into the military base easily The easiest way to get into the military base without a full gunfight is to use the stunt jump Mile Zero Air Station Southeast. The name says it all: this jump is on the southeast corner of the base along the southern access road. You'll have to weave through a few slightly-manned concrete barricade checkpoints and take a bit of gunfire to reach it where there's a big dirt mound leading to the barbed wire fence around the base. Take your vehicle over that at speed to get credit for the stunt jump and land yourself inside the base. Grand Theft Auto 6 G
+I'm psyched for Fallout's third season whenever it comes out (Kyle MacLachlan says it could be May or June next year ), but I'd be perfectly happy if it had an ending and the show was done. Better to tell your story and leave it there than drag out a show just because it's popular and end up finishing on a wet fart of a finale when you should have gone out on, er, whatever the opposite of a wet fart is. Season 3 has finished filming, but right now not even Walton Goggins, who plays The Ghoul, is sure what the future holds for Fallout's TV incarnation. Talking about how the show's maintaining the "subversive humor and the satirical kind of elements" it brought over from the games at an awards screening attended by GamesRadar , he said, "I feel confident that we've done that in season three, and if we get the opportunity to come back for season four, that would continue to honor how sacred this is to people. It's not something that we take lightly." Goggins as we know doesn't play videogames himself. And co-star Aaron Moten has sworn off playing Fallout , leaving Ella Purnell the only actor to roll a Vault Dweller out of the headline trio. But despite that, Goggins is still aware of what the games mean to people. "I mean, my son is a gamer. I see exactly how and why he plays games. I'm not a gamer at all, but the game of Fallout has been around for such a long time. It's been a shared experience between parents and their children and friends for such a long time, but it holds a
 
-### How to get a parachute in GTA 6: Buy before you fly
-Wed, 18 Nov 2026 18:00:00 +0000 — https://www.pcgamer.com/games/grand-theft-auto/gta-6-parachute-how-to-get/
+### Over an hour of new Total War: Warhammer 40,000 campaign footage shows gear customization, fleet mechanics, and emphasizes space marines are not always trusted and hard to replace
+Thu, 19 Nov 2026 03:09:13 +0000 — https://www.pcgamer.com/games/strategy/over-an-hour-of-new-total-war-warhammer-40-000-campaign-footage-shows-gear-customization-fleet-mechanics-and-emphasizes-space-marines-are-not-always-trusted-and-hard-to-replace/
 
-When everything's gone sideways at 3000ft you're going to need a parachute in GTA 6. Skyscraper diving is actually what got me into playing GTA 4 online with my friends so I'm definitely buckling in for some high altitude gliding in GTA 6. Here's how to sail the skies in Leonida. Where to get a parachute Find parachutes on a rack in an Ammu-Nation store. Rockstar You can re-equip a parachute here too if you've used yours recently. Rockstar You can buy a parachute at Ammu-Nation locations that sell clothes, indicated by the shirt icon on the map. Some skyscrapers have a box of parachutes waiting for you on the roof. If you really want to make it hard on yourself, you can climb the tallest peak in Mount Kalaga National Park: there's a parachute at the top. How to use your parachute Hop out of a plane mid-air or off the top of a building and while you're in freefall press the button prompt on screen to pull your chute and float to the ground. You can steer left and right, and angle yourself downward to descend more quickly or pull back to descend more slowly. You only need to buy a parachute one time, but you may need to reset it between uses. Head to a gun store and select it from the rack to add it back to your inventory before you go skydiving again. You can also just re-equip a parachute that you find on top of a skyscraper. Grand Theft Auto 6 GTA 6 guide : One-stop info shop GTA 6 cars : The garage lineup GTA 6 characters : Your anti-hero cast GTA 6 map : Confirmed Vice Cit
+The last time we got a decent look at Total War: Warhammer 40,000 was the Gamescom build, which Fraser Brown called the highlight of his year . Since then Creative Assembly has continued iterating and a more recent build was subject to a friends-and-family playtest, then shown off in an "alpha strike" livestream that lasted a solid hour and 20 minutes. Beginning 23 turns into an Ultramarines campaign, we got to see the battle for the Praevoss system, which has three conquerable planets in it—as well as a gas giant and a dead world that can't be fought over. Each system in Total War: Warhammer 40,000 gets a separate narrative, a mini-campaign that plays out before you move on to the next system, taking some but not all of what you've built with you. That seems like an interesting way of dealing with the grand strategy problem of campaigns getting boring when you've painted half the map, but still have 100 turns before the end. Having a soft reset and facing different foes in a different theatre would keep a campaign feeling fresh. In the Praevoss system the Ultramarines' objective is to liberate Imperial planets from an ork scourge. When the marines take a region, one of the options they have is to "scour the battlefield" in return for a big payout in Requisition, at the cost of raised Suspicion. Calling down a fleet bombardment to soften up orks ahead of the battle also raises Suspicion because there are still civilians in the area. Oops. It's an interesting part of the ficti
 
 ## GameSpot
+
+### GTA 6 s Mandy Could Be Hiding A Killer Secret
+Thu, 19 Nov 2026 13:41:53 +0000 — https://www.gamespot.com/articles/gta-6s-mandy-could-be-hiding-a-killer-secret/
+
+One of the first characters you meet in the opening chapter of Rockstar's GTA 6 is Mandy, and people online are thirsting hard for her. However, fans have also discovered evidence that they believe points to Mandy being a serial killer. While Jason is fixing Mandy's sink, he discovers an object--a severed finger--was the cause of the blockage. Mandy snaps it away from him quickly, presumably to hide the evidence. Players who stick around after fixing the sink to explore Mandy's place found other clues that point to Mandy being a killer. https://twitter.com/IGN/status/2123236369220698155 Jason can find a meat cleaver and tape in the trunk of her car, and items someone like Dexter Morgan might use to get rid of a body--acid and saws--can be found in her yard. Beyond all of this, a newly dug grave can be seen next to Mandy's home. Could there be another explanation here? Of course, but the signs are pointing to Mandy not being all that she seems. If you can look past Mandy's possible shadiness, you might be wondering if you're able to romance her in GTA 6. Mandy is clearly trying to flirt with Jason, but he's having none of it--the game does not allow players to romance her . In fact, Mandy doesn't show up again as a character you can interact with at all. if you want to find out about actual romance options in GTA 6 and how to get Jason and Lucia together , take a look at our other guide. We’ve also covered whether Jason and Lucia can go on dates together if you’re in the mood 
+
+### PlayStation Plus Is Losing More Games, But One Departure Stings The Most
+Thu, 19 Nov 2026 12:27:20 +0000 — https://www.gamespot.com/articles/playstation-plus-is-losing-more-games-but-one-departure-stings-the-most/
+
+New arrivals are landing in the PlayStation Plus Game Catalog this month, but at the same time, you can also expect a few departures from that gaming library. Fortunately, the number of games leaving soon are on the smaller side, as there'll be only three exits in total. Unfortunately , one of those games that you're running out of time to play through the Game Catalog is a massive and pretty fun fantasy title, so get those hours in while you can. PlayStation Plus Game Catalog games leaving soon Granblue Fantasy Relink Granblue Fantasy Relink Somerville Fade to Silence This month's biggest departure is Granblue Fantasy Relink, a massive fantasy game with a storybook art style, cinematic boss fights, and a large roster of characters who all possess unique abilities to master. First released in February 2024, Granblue Fantasy Relink is built around real-time combat and flashy team-up mechanics, making for a visually striking experience overall. While the story isn't much to write home about, it's the gameplay and worldbuilding where this Granblue spin-off shines, and it got even better earlier this year with the Endless Ragnarok expansion. In comparison, Somerville is a story-rich puzzle game that's oozing atmosphere with its slick art direction, and Fade to Silence is a single-player and co-op survival-crafting adventure set in a post-apocalyptic world that is feeling the chill of an eternal winter. While the Game Catalog is going to be a little poorer without those three titl
+
+### GTA 6 Is Finally Here, So Come Watch Us Make Terrible Decisions In Vice City
+Thu, 19 Nov 2026 11:42:20 +0000 — https://www.gamespot.com/articles/gta-6-is-finally-here-so-come-watch-us-make-terrible-decisions-in-vice-city/
+
+In just a few short hours, the years-long wait for Grand Theft Auto 6 will finally be over. Maybe you're planning to hop on later today to start playing; maybe you've got a long weekend planned for the game. And maybe you should see exactly what you're in for, with the GameSpot video team livestream. Starting at 10 AM PT / 1 PM ET , the crew will kick off their trip to Vice City from the very beginning, and you can expect around four hours of digital tourism and GTA chaos during this session. https://youtu.be/RIM1AF882OI While you're waiting for the livestream to start, you can also check out GameSpot's other GTA 6 videos, from our review of the game that gave it a 10/10 score to our deep dives on the game through its dozens of highly detailed screenshots: Grand Theft Auto 6: The Review Why we gave GTA 6 a 10/10 We analyzed every GTA 6 screenshot: Part 1 We analyzed every GTA 6 screenshot: Part 2 GTA 6 and gasoline in video games How criminal profiles could change Grand Theft Auto GTA 6: Jason and Lucia's relationship is deeper than you think GTA 6's robberies need to be unpredictable GTA 6 wanted levels explained While it's a rolling launch, GTA 6's arrival appears to be the hottest topic right now and a cultural moment worldwide. Reviews have been glowing , records are being broken , and GTA 6 looks set to dominate at The Game Awards next month. "This game is the culmination of everything the developer has previously achieved in the open-world space that pushes the genre to
+
+### All GTA 6 Smartphone Apps And What They Do
+Thu, 19 Nov 2026 11:03:39 +0000 — https://www.gamespot.com/articles/all-gta-6-smartphone-apps-and-what-they-do/
+
+Grand Theft Auto games have regularly kept up with the times, and in GTA 6 , you once again have a smartphone that you can use to interact with the world around you. From getting new missions to goofing off by wasting some in-game time on social media, the smartphone in GTA 6 is a pretty handy tool for rising up the social--and criminal--ranks of Leonida. It comes equipped with several apps, and while not every one of them is essential, you'll want to keep an eye open for certain notifications. Here's a closer look at what each app does. How to use your smartphone As a quick reminder, you can whip out your smartphone by using the Up key on the D-pad. From there, you can navigate through the apps menu using the directional keys. GTA 6 smartphone apps WAiNK The bread-and-butter app for aspiring car thieves, the WAiNK app can be used to inspect vehicles for any hidden security features. Scanning a car will let you see its estimated value, which security features it has installed, if it's locked, and how much it'll cost to register it under your name. Scooter Bros Need your personal vehicle in a hurry? A call to Scooter Bros will allow you to summon your ride to your location, so long as you don't mind the couriers stashing their little two-wheeled ride in your trunk. Whatup GTA 6's instant messaging app, this will allow you to get scoops and chat to characters, without ever needing to verbally engage with them. It's also useful for getting new missions and tips on how to make so
 
 ### GTA 6 s Best Song Is A Nelly Furtado Cover From Azerbaijan
 Wed, 18 Nov 2026 20:58:49 +0000 — https://www.gamespot.com/articles/gta-6s-best-song-is-a-nelly-furtado-cover-from-azerbaijan/
@@ -430,27 +450,22 @@ Wed, 18 Nov 2026 17:40:21 +0000 — https://www.gamespot.com/articles/dont-expec
 
 For those still waiting for GTA 6 to unlock, it's possible you have something of a mistaken impression of what the early hours will look like. Despite partially sharing a setting with GTA Vice City, you should not expect to be walking up the game's equivalent of Ocean Drive and Miami Beach in the opening minutes, as in the 2002 game. Far from it. As we noted in our video discussion on why we gave GTA 6 a 10/10 in our review , Tamoor and Jake did some expectation-setting. Rather than starting the game in Vice City, you'll instead spend the opening hours in a smaller corner of the state of Leonida, Key Lento. Vice City is undoubtedly the crown jewel of the game's world, but it could be as much as 20 hours before you reach it, depending on how you play. This seems to be a deliberate decision that, as Tam says, allows you to progress through the world at roughly the same pace as the ambitions of co-stars Lucia and Jason. The opening area may not be as glamorous as Vice City, but it is no less detailed than the rest of the game. It's possible it's only meant to last you around 5-6 hours, but we found it easy to get lost spending far more time than that, which resulted in Tam not reaching Vice City until after 15 or 16 hours. https://www.youtube.com/shorts/XkHgrxN3R4g Key Lento provides a good look at how the game and its simulation work, letting you eventually progress to a much larger space (seriously, the map is huge ) with a good understanding of how things work. All of this is
 
-### Jason Loves Cats In GTA 6, But Not All Of Them
-Wed, 18 Nov 2026 17:07:11 +0000 — https://www.gamespot.com/articles/jason-loves-cats-in-gta-6-but-not-all-of-them/
-
-Grand Theft Auto 6 co-protagonist Jason is, like many Americans, a fan of cats. Naturally, being an open-world game with seemingly endless possibilities, GTA 6 does indeed let Jason express that love by petting cats he sees. However, not every cat is down to be pals with Jason. As shared on social media, if you're walking around Leonida and spot a friendly-looking cat, you can go give it a pet. Jason even talks to the cat, because you'd have to be a monster not to, and the action even gives him a little focus boost. https://twitter.com/SolutionB2u/status/2123048280959672768 But not all cats are the same. Another clip shared online shows Jason carjacking someone, as one does in GTA. After driving away, loud meowing can be heard, and the camera cuts to inside the car as a cat viciously attacks Jason. A quicktime event is necessary to get the cat to stop, at which point Jason is able to stop the car and let the cat out. https://twitter.com/gtasix_/status/2123071228390842498 We can only imagine what would happen if that were a Rottweiler in the back seat of that car and not a sort-of-large cat. There are plenty of other animals to kill you while you're roaming Vice City and the rest of Leonida in Grand Theft Auto 6, and most of those would be less embarrassing to mention in your obituary than "cat." Grand Theft Auto 6 is one of the most expansive and detailed games ever made, and if you're looking for some help, you can check out our GTA 6 guides hub as well as our guide on what 
-
-### How Long Does It Take To Fly Across The Entire GTA 6 Map?
-Wed, 18 Nov 2026 16:57:14 +0000 — https://www.gamespot.com/articles/how-long-does-it-take-to-fly-across-the-entire-gta-6-map/
-
-The Grand Theft Auto 6 map is absolutely massive , gigantic, and at least one more synonym to encapsulate its size accurately. Whether it's land, sea, or air, covering it is going to take a lot of time, but just how many hours should you set aside for a flight across Leonida? We found out for ourselves by piloting a single-propeller plane across the map, which took us an entire four minutes and 10 seconds between the two points on the map. That's pretty big! https://www.youtube.com/shorts/VHLzkTAAb74?feature=share We've known for a while that the GTA 6 map was going to be big--with roughly more playable space than GTA 4, GTA 5, and Red Dead Redemption 2 combined --but even that claim doesn't put into perspective just how enormous the game truly is until you experience it for yourself. Another fascinating tidbit is that escaping GTA 6 is nigh-impossible , but definitely worth attempting. As one streamer has discovered, if you try to cheese it on water using a jet ski, you'll run out of fuel and be left stranded in the water. There might be a happy ending to this scenario, as some streamers have posted clips of a dog on a wave runner coming to their rescue. We've tried to replicate this ourselves, but we've had no luck yet. But if you choose to stay within Leonida's invisible boundaries, you won't run out of things to do for quite some time. Between missions to improve your lot in life, pursue relationship goals, and soak up the scenery, the reactive open world of GTA 6 will ke
-
-### Rockstar Founder Issues Rare Statement As GTA 6 Launches To Superb Reviews And Huge Sales
-Wed, 18 Nov 2026 16:35:27 +0000 — https://www.gamespot.com/articles/rockstar-founder-issues-rare-statement-as-gta-6-launches-to-superb-reviews-and-huge-sales/
-
-We might not hear from him much, but Rockstar co-founder Sam Houser remains highly involved with the studio and its games, and that includes GTA 6 , which is available now in New Zealand and everywhere else on November 19. To mark the game's launch, Houser released a statement in which he said Rockstar has once again tried to create a game in GTA 6 that "exceeds your expectations" and shows "what this medium is capable of, and why we believe games are so special." https://www.youtube.com/watch?v=rAhUXOYNuH4 He told GamesRadar : "Rockstar Games was founded on the belief that games could achieve the same distinction as all other forms of storytelling, become essential to modern culture, and to be thought of as stories and worlds that live on with us." The executive went on to say that he hopes GTA 6 feels "both familiar and entirely new," and above all else, something that people find to be fun. "This is a narrative set in a world of possibilities--and it is up to you as the player to shape how it ultimately feels, and concludes," he added. Finally, Houser reminded people that GTA 6 might be the pinnacle of the franchise so far , but Rockstar isn't closing up shop anytime soon. "We look forward to many more years of sharing these experiences with you," he said. It's possible it won't be another 13 years for the next GTA game, as Rockstar's owner, Take-Two, has said the "nature and velocity" of GTA releases will change. Sam Houser rarely releases statements, gives interviews, or
-
-### Here Are The Most Nominated Games And Publishers At The Game Awards This Year
-Wed, 18 Nov 2026 15:48:17 +0000 — https://www.gamespot.com/articles/here-are-the-most-nominated-games-and-publishers-at-the-game-awards-this-year/
-
-The nominees for 2026's The Game Awards have been announced, but which games and publishers scored the most total nominations? The most-nominated game this year Grand Theft Auto 6, which picked up eight total nominations, including a nod for Game of the Year. The game being nominated at all surprised some people considering that it's not even out yet, but members of the voting jury had played it already . In terms of the most-nominated publishers, Nintendo led the way with a dozen, followed by Capcom with 11 and Annapurna and PlayStation with nine each. The Game Awards take place on Thursday, December 10. In addition to handing out awards, the show will include game announcements and new trailers. Specifically, Disney has teased some "major" announcements for the event. Most-Nominated Games Grand Theft Auto 6 - 8 Control Resonant, Resident Evil Requiem - 6 Phantom Blade Zero - 5 Big Walk, 007 First Light, The Legend of Zelda: Ocarina of Time - 4 Ace Combat 8: Wings of Theve, Gears of War: E-Day - 3 Most-Nominated Publishers Nintendo - 12 Capcom - 11 Annapurna, PlayStation - 9 Rockstar Games, Xbox - 8 Bandai Namco - 7 Remedy - 6 S-Game - 5 CD Projekt Red, IO Interactive, Panic, Square Enix - 4 Disclosure: GameSpot is part of The Game Awards voting jury.
-
 ## Rock Paper Shotgun
+
+### They're more complicated and more expensive than LCD screens, but your next gaming monitor should still be an OLED
+Thu, 19 Nov 2026 13:00:00 +0000 — https://www.rockpapershotgun.com/theyre-more-complicated-and-more-expensive-than-lcd-screens-but-your-next-gaming-monitor-should-still-be-an-oled
+
+Your next gaming monitor should be an OLED display. There, I've said it. And I know the notion won't please everyone. After all, a large grey proboscidean lumbers into the room whenever OLED technology is mentioned. Put simply, almost any risk of the dreaded burn-in is an immediate deal-breaker for some. I do get that. Likewise, despite my musings just the other day on how affordable gaming monitors have generally become and the fact you can now snag an OLED panel, specifically, for sub &pound;300 / $300, it's a stretch to say OLED gaming comes cheap. And yet here I am arguing firmly in favour of OLED. Read more
+
+### Hour-long Total War: Warhammer 40,000 campaign stream shows off ship battle-less fleet management, makes clear how not ideal getting Space Marine armies killed is
+Thu, 19 Nov 2026 12:22:20 +0000 — https://www.rockpapershotgun.com/hour-long-total-war-warhammer-40000-campaign-stream-shows-off-ship-battle-less-fleet-management-makes-clear-how-not-ideal-getting-space-marine-armies-killed-is
+
+Try not to get whole armies of Space Marines pasted against the surfaces of planets thanks to your shoddy tactics, please. So ask the bosses of Total War: Warhammer 40,000 , who're keen not to have their training workloads doubled because you're a crap general and have gotten a tight-knit force of uber-tough grunts killed unnecessarily, hope as they watch you play. This and other things have been emphasised by a fresh stream showing off over an hour of campaigning in the strategy warhammerer. Read more
+
+### Rockstar firings tribunal hears closing statements, with judge promising to deliver a verdict "as quickly as I possibly can" - though it may take a while
+Thu, 19 Nov 2026 10:34:20 +0000 — https://www.rockpapershotgun.com/rockstar-firings-tribunal-hears-closing-statements-with-judge-promising-to-deliver-a-verdict-as-quickly-as-i-possibly-can-though-it-may-take-a-while
+
+The employment tribunal over Rockstar's firing of 34 workers last year has come to an end for now, pending a final verdict from the judge. Said judge hasn't offered a concrete estimate of when her judgement will arrive, but has reportedly asserted that she'll provide it "as quickly as [she] possibly can". Read more
 
 ### World of Warcraft: Forever isn't mere nostalgia bait - it's rebuilding the MMO social architecture that Blizzard spent years dismantling
 Wed, 18 Nov 2026 17:44:10 +0000 — https://www.rockpapershotgun.com/world-of-warcraft-forever-isnt-mere-nostalgia-bait-its-rebuilding-the-mmo-social-architecture-that-blizzard-spent-years-dismantling
@@ -496,19 +511,4 @@ As you've probably heard, GTA 6 is out on consoles this week and targeting 30 FP
 Wed, 18 Nov 2026 11:31:20 +0000 — https://www.rockpapershotgun.com/despite-being-617-million-in-debt-bankrupt-mindseye-devs-build-a-rocket-boy-are-splurging-on-legal-action-against-a-coordinated-campaign-of-negative-online-reviews
 
 Freshly published bankruptcy documents for perennially troubled MindsEye developer Build A Rocket Boy have spelled out the scale of the company's debt, with around &pound;61.7 million owed to creditors. The documents also touch on founder Leslie Benzies and CEO Mark Gerhard's claims that MindsEye is the victim of an organised sabotage campaign. The company's leaders have apparently taken out even more loans in order to fund legal action against the suspected perpetrators, with the promise of a healthy payout. I'm not holding my breath. Read more
-
-### Ex-Nvidia boss Jensen Huang offers to return if that's best for the company and America, Nvidia board essentially say 'nah, we're all good'
-Wed, 18 Nov 2026 10:18:50 +0000 — https://www.rockpapershotgun.com/ex-nvidia-boss-jensen-huang-offers-to-return-if-thats-best-for-the-company-and-america-nvidia-board-essentially-say-nah-were-all-good
-
-Nvidia's board have indicated that they aren't about to do a big u-turn and reappoint recently resigned CEO Jensen Huang, following his departure after multiple alleged instances of extramarital cavorting were reported by the press. Since his exit last week, Huang has indicated he'd be open to making such a return, were it deemed best for both the company and AMERICA. Read more
-
-### Slow down a bit and help a cow find a friend in the lush-looking, hand-drawn, milk deliver-em-up Milki Delivery, which is out now
-Tue, 17 Nov 2026 22:54:10 +0000 — https://www.rockpapershotgun.com/slow-down-a-bit-and-help-a-cow-find-a-friend-in-the-lush-looking-hand-drawn-milk-deliver-em-up-milki-delivery-which-is-out-now
-
-I don't want to write about video games any more, I want to deliver milk in the countryside and hang out with a cow and quirky people! Sorry, what, there's a game all about that called Milki Delivery that came out today? Alright, I'll write about video games again, especially when they look as charming as this one does. Read more
-
-### The siren call of user-generated content has caught Dead by Daylight in its snare, as Behaviour Interactive outline a big revamp update slated for next year
-Tue, 17 Nov 2026 21:33:50 +0000 — https://www.rockpapershotgun.com/the-siren-call-of-user-generated-content-has-caught-dead-by-daylight-in-its-snare-as-behaviour-interactive-outline-a-big-revamp-update-slated-for-next-year
-
-The promise of user-generated content, this idea that you could host a platform that grows infinitely because the people that interact with it make things for it and you don't even have to pay anyone, is an alluring one. And its siren call has come for Dead by Daylight , as developer Behaviour Interactive have outlined the future of the game, which includes a way to make your own bits for the multiplayer horror game. Read more
 
