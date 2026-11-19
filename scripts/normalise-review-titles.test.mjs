@@ -30,6 +30,10 @@ check('plural reviews with number', cleanReviewTitle('Mortal Shell II reviews: 8
 
 /* ----------------------------------------------------------- must keep --- */
 
+// Specs are not scores. "Any digit" cut both of these to "GTA 6" on 18 November.
+check('gta 6 (fps is a spec)', cleanReviewTitle('GTA 6 review: a near-perfect consensus, at 30fps'), 'GTA 6 review: a near-perfect consensus, at 30fps');
+check('resolution and console names', cleanReviewTitle('GTA 6 review: PS5 Pro renders the same 1440p'), 'GTA 6 review: PS5 Pro renders the same 1440p');
+check('4K and 60fps', cleanReviewTitle('Forza review: 4K at 60fps on Series X'), 'Forza review: 4K at 60fps on Series X');
 // A verdict-in-words tail with no number is exactly what we want; leave it.
 check('marvel tokon (no number)', cleanReviewTitle('Marvel Tokon reviews: great scores, bad launch'), 'Marvel Tokon reviews: great scores, bad launch');
 // Hand-written titles: no "review:" tail, nothing to strip.

@@ -24,6 +24,15 @@ import { join } from 'node:path';
 import { pathToFileURL } from 'node:url';
 
 /**
+ * A number that reads as a score: standing on its own ("a 9.5", "89, 7 to 10",
+ * "98%"), not part of a word. "Any digit" used to be the test, and on
+ * 18 November it cut "GTA 6 review: a near-perfect consensus, at 30fps" down to
+ * "GTA 6" on the live page: 30fps, 60fps, 1440p, 4K and PS5 are specs, not
+ * verdicts.
+ */
+const SCORE = /(?:^|[^\w.])\d+(?:\.\d+)?%?(?![\w.])/;
+
+/**
  * The score, removed from a review headline.
  *
  * Only a "review:" / "reviews:" tail that actually contains a digit is cut, so
@@ -33,7 +42,7 @@ import { pathToFileURL } from 'node:url';
  */
 export function cleanReviewTitle(title) {
   const m = title.match(/\s+reviews?:\s*(.*)$/i);
-  if (!m || !/\d/.test(m[1])) return title;
+  if (!m || !SCORE.test(m[1])) return title;
   const head = title.slice(0, m.index).trim();
   // Never return an empty headline; if there is nothing before "review:",
   // leave the title alone for a human to fix rather than blanking it.
