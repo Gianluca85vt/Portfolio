@@ -13,6 +13,9 @@
     { "source": "/thedivinecomedy/", "destination": "/oltremondo/", "permanent": true },
     { "source": "/thedivinecomedy/:path*/", "destination": "/oltremondo/:path*/", "permanent": true },
     { "source": "/thedivinecomedy/:path*", "destination": "/oltremondo/:path*", "permanent": true },
+    { "source": "/blog/the-divine-comedy-game-dante-fights-by-writing", "destination": "/blog/oltremondo-iter-animae-dante-fights-by-writing/", "permanent": true },
+    { "source": "/blog/the-divine-comedy-game-dante-fights-by-writing/", "destination": "/blog/oltremondo-iter-animae-dante-fights-by-writing/", "permanent": true },
+    { "source": "/img/blog/the-divine-comedy-game-dante-fights-by-writing/:file", "destination": "/img/blog/oltremondo-iter-animae-dante-fights-by-writing/:file", "permanent": true },
     { "source": "/blog/minecraft-dungeons-ii-review", "destination": "/blog/minecraft-dungeons-2-review-critics-split/", "permanent": true },
     { "source": "/blog/minecraft-dungeons-ii-review/", "destination": "/blog/minecraft-dungeons-2-review-critics-split/", "permanent": true }
   ],

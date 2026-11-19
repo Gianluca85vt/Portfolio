@@ -4,7 +4,7 @@ date: 2026-11-09
 updated: 2026-11-19
 category: Games
 excerpt: "I'm making Oltremondo - Iter Animae, an action RPG in Unreal Engine 5.8 where every attack is a verse Dante writes. First devlog: from blockout to Minos."
-cover: /img/blog/the-divine-comedy-game-dante-fights-by-writing/cover.jpg
+cover: /img/blog/oltremondo-iter-animae-dante-fights-by-writing/cover.jpg
 sources:
   - outlet: Devlog 1 on YouTube
     url: https://www.youtube.com/watch?v=BETf6uSTv50
@@ -29,7 +29,7 @@ as a before and after, and here's what's in it.
 
 <figure>
   <button class="video-embed" data-video="BETf6uSTv50" data-title="I’m Turning Dante’s Inferno into a Dark Fantasy Action-RPG (UE 5.8 Devlog)" type="button">
-    <img src="/img/blog/the-divine-comedy-game-dante-fights-by-writing/video-thumb.jpg" loading="lazy" width="1440" height="810" alt="Devlog 1 thumbnail: Dante in his red hood and laurel crown beside the title La Divina Commedia" />
+    <img src="/img/blog/oltremondo-iter-animae-dante-fights-by-writing/video-thumb.jpg" loading="lazy" width="1440" height="810" alt="Devlog 1 thumbnail: Dante in his red hood and laurel crown beside the title La Divina Commedia" />
     <span class="play" aria-hidden="true"></span>
   </button>
   <figcaption>Devlog 1, on my YouTube channel: from the first blockout to the fight with Minos.</figcaption>
@@ -46,7 +46,7 @@ at the top of Purgatory, and the greyhound prophesied in the first canto of
 Inferno.
 
 <figure>
-  <img src="/img/blog/the-divine-comedy-game-dante-fights-by-writing/shot-03.jpg" loading="lazy" width="960" height="720" alt="A hand with a white quill writing 'la fiamma antica' across the open pages of Dante's Book" />
+  <img src="/img/blog/oltremondo-iter-animae-dante-fights-by-writing/shot-03.jpg" loading="lazy" width="960" height="720" alt="A hand with a white quill writing 'la fiamma antica' across the open pages of Dante's Book" />
   <figcaption>The verse is written before it is thrown.</figcaption>
 </figure>
 
@@ -60,7 +60,7 @@ raises the Book and "Nel mezzo del cammin" peels off the page and flies down
 the corridor.
 
 <figure>
-  <img src="/img/blog/the-divine-comedy-game-dante-fights-by-writing/shot-04.jpg" loading="lazy" width="1440" height="810" alt="Dante holding his Book out in a sandstone corridor as the letters of a verse fly off it down the corridor" />
+  <img src="/img/blog/oltremondo-iter-animae-dante-fights-by-writing/shot-04.jpg" loading="lazy" width="1440" height="810" alt="Dante holding his Book out in a sandstone corridor as the letters of a verse fly off it down the corridor" />
   <figcaption>The opening line of the poem, used as a weapon. From the devlog.</figcaption>
 </figure>
 
@@ -72,7 +72,7 @@ with a tail made of spheres. That stage exists to answer one question cheaply:
 is the fight any good, before anyone spends a week modelling a tail?
 
 <figure>
-  <img src="/img/blog/the-divine-comedy-game-dante-fights-by-writing/shot-01.jpg" loading="lazy" width="1608" height="450" alt="Two frames side by side: on the left Dante and a pale placeholder Virgil in a flat grey fog, on the right Dante and Virgil before the Gate of Hell under a hanging inscription" />
+  <img src="/img/blog/oltremondo-iter-animae-dante-fights-by-writing/shot-01.jpg" loading="lazy" width="1608" height="450" alt="Two frames side by side: on the left Dante and a pale placeholder Virgil in a flat grey fog, on the right Dante and Virgil before the Gate of Hell under a hanging inscription" />
   <figcaption>Dante and Virgil in the prototype, and at the Gate of Hell in the vertical slice. Both from the devlog.</figcaption>
 </figure>
 
@@ -83,7 +83,7 @@ the devlog has him leave the path and climb through the brambles before
 something spots him. Virgil comes out of the fog as the beasts close in.
 
 <figure>
-  <img src="/img/blog/the-divine-comedy-game-dante-fights-by-writing/shot-02.jpg" loading="lazy" width="1600" height="900" alt="Dante in his red hood at the edge of a cliff in grey fog, crows wheeling overhead" />
+  <img src="/img/blog/oltremondo-iter-animae-dante-fights-by-writing/shot-02.jpg" loading="lazy" width="1600" height="900" alt="Dante in his red hood at the edge of a cliff in grey fog, crows wheeling overhead" />
   <figcaption>The edge of the dark wood, in the vertical slice.</figcaption>
 </figure>
 
@@ -100,7 +100,7 @@ where pale souls drift through the mist, and the damned marching in single file
 along a spine of rock over the dark.
 
 <figure>
-  <img src="/img/blog/the-divine-comedy-game-dante-fights-by-writing/shot-05.jpg" loading="lazy" width="1440" height="810" alt="A long line of pale naked figures walking in single file along a narrow ridge of rock above a red-lit void" />
+  <img src="/img/blog/oltremondo-iter-animae-dante-fights-by-writing/shot-05.jpg" loading="lazy" width="1440" height="810" alt="A long line of pale naked figures walking in single file along a narrow ridge of rock above a red-lit void" />
   <figcaption>The march of the damned. From the devlog.</figcaption>
 </figure>
 
@@ -113,7 +113,7 @@ the second circle will hold him the way they hold the others. The tail of
 spheres from the prototype is gone: he's half man and half serpent now.
 
 <figure>
-  <img src="/img/blog/the-divine-comedy-game-dante-fights-by-writing/shot-06.jpg" loading="lazy" width="1600" height="900" alt="Minos, a horned red-skinned figure with a cape and a bone necklace, lit from the side against a dark background" />
+  <img src="/img/blog/oltremondo-iter-animae-dante-fights-by-writing/shot-06.jpg" loading="lazy" width="1600" height="900" alt="Minos, a horned red-skinned figure with a cape and a bone necklace, lit from the side against a dark background" />
   <figcaption>Minos, from the game's site.</figcaption>
 </figure>
 
@@ -135,6 +135,6 @@ frozen lake of Cocytus; Purgatorio and Paradiso come after.
 The game has its own site with
 [a 3D map of the nine circles](/oltremondo/), one card for each sin. A
 devlog post goes up every few days on Instagram at
-[@thedivinecomedy_game](https://www.instagram.com/thedivinecomedy_game/), and a
+[@oltremondo_iter_animae](https://www.instagram.com/oltremondo_iter_animae/), and a
 Steam page is on the way. This is the first of them, and the next ones will be
 here too.
