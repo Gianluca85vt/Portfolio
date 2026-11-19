@@ -19,7 +19,6 @@ artistView:
   misses:
     - "Tooling: a 3ds Max crew inside a Maya studio means two sets of habits and, per Tokyo Anime Dispatch, a pipeline rebuilt from scratch. A team assembled for one film pays that cost once and may never amortise it."
     - "Animation: a B- for animation from ANN's reviewer, twelve years on from the original, reads as the gap to drawn character acting narrowing rather than closing."
-draft: true
 ---
 
 *The production details below rest on reporting by Tokyo Anime Dispatch. Toei
