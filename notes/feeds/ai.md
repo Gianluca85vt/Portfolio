@@ -1,21 +1,26 @@
-# AI — harvested 2026-11-19T13:53:48.784Z
+# AI — harvested 2026-11-19T23:13:30.936Z
 
 ## OpenAI
+
+### How OpenAI’s Performance Factory keeps ChatGPT fast
+Thu, 19 Nov 2026 08:00:00 GMT — https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast
+
+Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.
 
 ### The Silent Consensus
 Wed, 18 Nov 2026 10:00:00 GMT — https://openai.com/index/the-silent-consensus
 
 Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.
 
-### Research acceleration: The jagged frontier
-Wed, 18 Nov 2026 08:00:00 GMT — https://openai.com/index/research-acceleration-jagged-frontier
-
-OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.
-
 ### How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise
 Wed, 18 Nov 2026 08:00:00 GMT — https://openai.com/business/customer-stories/sumitomo-life
 
 Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.
+
+### Research acceleration: The jagged frontier
+Wed, 18 Nov 2026 08:00:00 GMT — https://openai.com/index/research-acceleration-jagged-frontier
+
+OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.
 
 ### Inside the Codex sandbox
 Wed, 18 Nov 2026 08:00:00 GMT — https://openai.com/index/inside-the-codex-sandbox
@@ -36,11 +41,6 @@ Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT
 Wed, 18 Nov 2026 00:00:00 GMT — https://openai.com/index/advancing-chip-design-with-our-models
 
 OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.
-
-### Introducing GPT-6.2 Astra and Sol
-Tue, 17 Nov 2026 17:45:00 GMT — https://openai.com/index/introducing-gpt-6-2-astra-sol
-
-Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.
 
 ## Hugging Face
 

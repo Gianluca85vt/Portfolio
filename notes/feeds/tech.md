@@ -1,8 +1,48 @@
-# Tech — harvested 2026-11-19T13:53:48.784Z
+# Tech — harvested 2026-11-19T23:13:30.936Z
 
 ## Ars Technica
 
-### To make Moon landings easier, NASA is making life harder for Orion
+### Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up
+Thu, 19 Nov 2026 22:16:37 +0000 — https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/
+
+In an unprecedented move, Amazon is using its app and website to try to convince shoppers to not support a New York City bill. When I log into Amazon today, I’m met with a vertical banner that reads: “ATTENTION NYC Council could add up to $5 per order” with a button that says “Act now.” A screenshot of the top of Amazon's homepage. Credit: Scharon Harding/Amazon The message is delivered as a pop-up for users of the Amazon app, Bloomberg reported. Amazon hasn't specified whether the messaging targets NYC residents based on addresses saved in their Amazon account or uses other techniques, such as device location services, but I only see the banner if I'm logged into Amazon. Read full article Comments ]]>
+
+### MAHA PAC spent more on steak, luxury club than candidates, report shows
+Thu, 19 Nov 2026 21:19:12 +0000 — https://arstechnica.com/health/2026/11/maha-pac-spent-more-on-steak-luxury-club-than-candidates-report-shows/
+
+In the wake of the Make America Healthy Again movement's midterm wipeout , a top leader suggested the heavy losses came down to being outspent by wealthier, more powerful rivals. But a Stat report on MAHA's own spending in the run-up to the election raises questions about whether the group's priority was ever winning elections in the first place. The dive into the financial documents reveals that the MAHA PAC, led by Tony Lyons, spent more on allies, boosters, meals, luxuries, and its affiliated nonprofit than it did on political candidates. The findings are in stark contrast to an announcement from Lyons in the spring that he was heading a $100 million fundraiser to boost MAHA's clout in the midterms . In reality, MAHA PAC took in $3.2 million. During the election cycle, the PAC spent more than $10.5 million, with over $7 million coming from money it had collected previously. Read full article Comments ]]>
+
+### Man hired by Russia spied on Silicon Valley tech and defense company, feds say
+Thu, 19 Nov 2026 20:29:46 +0000 — https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/
+
+A Russian national has been indicted on suspicions he was a Russian spy who stalked and surveilled employees of a Silicon Valley company that was assisting Ukraine in its ongoing war with its eastern neighbor. Igor D’iu, 25, allegedly photographed the employees and their computer screens as they worked at a coffee shop located near the company’s Palo Alto office, federal prosecutors said Wednesday . He also kept a list of home addresses of employees and a senior executive. At one point, prosecutors said, D’iu trailed an employee as she traveled home from Palo Alto to San Francisco. An affidavit filed in the case referred to the employee as FEMP1, short for female employee, and said the event left her “in a state of emotional distress.” Evasive and irregular turns “FEMP1 made evasive and irregular turns, took back roads, and turned into a grocery store parking lot where D’IU continued aggressively following her vehicle,” an FBI special agent wrote. “D’IU followed FEMP1 through U-turns, illegal left turns, and ran a red light to stay with FEMP1 for nearly thirty miles. FEMP1 called 911 while driving and was instructed to drive directly to San Francisco Police Department (“SFPD”) Mission Station. Near SFPD Mission Station, FEMP1 flagged an SFPD patrol vehicle and reported the incident. D’IU left once FEMP1 made contact with the patrol vehicle.” Read full article Comments ]]>
+
+### Traumatized teens sue school, cops after Doritos bag triggers AI gun alert
+Thu, 19 Nov 2026 20:19:28 +0000 — https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/
+
+In October 2025, four Black high school students were sharing Cool Ranch Doritos after football practice, winding down and waiting for their rides home. It was then, in the lull of a moment any teen with after-school activities knows well, that the school’s AI gun detection system suddenly flagged one teen holding a bag of chips as a potential gunman. Within two minutes, Baltimore County Public Schools officials who reviewed security camera footage linked to the alert determined there was no actual threat. They recognized the Doritos bag and canceled the alert, which notified not only other school officials but also the Baltimore County Police Department that no response was needed. The false alert could have ended there—before a traumatizing campus clash with police—but it didn’t. Read full article Comments ]]>
+
+### Google turns to Blue Origin for a rocket, but its long-term problem remains
+Thu, 19 Nov 2026 19:52:54 +0000 — https://arstechnica.com/space/2026/11/google-turns-to-blue-origin-for-a-rocket-but-its-long-term-problem-remains/
+
+Blue Origin announced Thursday that its New Glenn rocket will launch data center satellites for Google in 2029 as part of that company's Project Suncatcher program. Google disclosed it was working on scalable orbiting data centers about a year ago and characterized the project as one of its research "moonshots." The mission on New Glenn is designed to deploy satellites, each with computing capacity at roughly the scale of a data center rack, into Sun-synchronous orbit where they can receive nearly continuous solar energy. "Project Suncatcher is a long-term moonshot to scale AI infrastructure in space by tapping into the abundant solar power in orbit," said Travis Beals, senior director of Project Suncatcher at Google, in the news release. "This dedicated launch with Blue Origin represents a crucial milestone on our roadmap as we expand the boundaries of what's possible for the future of compute." Read full article Comments ]]>
+
+### "You’re right"—LLMs will get climate info wrong if you ask
+Thu, 19 Nov 2026 18:44:39 +0000 — https://arstechnica.com/science/2026/11/llms-will-provide-accurate-climate-info-except-when-they-wont/
+
+Many studies over the years have examined how people encounter climate science information. Some focused on the top results that Google surfaced (back when Google was still in the business of serving links), while others examined social media content or newspaper and TV news coverage. With large language models (LLMs) now forming a share of the public information diet, it's worth looking at how they handle climate change. But there’s no direct way for researchers to look at the information people have seen. It is served ephemerally to individual users, confined to their chat session. A study led by researchers from University College London and the United Nations Educational, Scientific, and Cultural Organization (UNESCO) tried to tackle this question from multiple angles, testing LLMs with different prompts and evaluating their output. They started with benchmarks of simple factual questions (benchmarks that might even be in models’ training data at this point) but also analyzed more complex interactions—including when users think they’re right to push back on an answer. CO 2 Q&A LLM research often faces ( no-true-Scotsman-tinged ) criticism for focusing on a particular model rather than some other frontier model that may have been released after the experiment concluded. In this case, the study used 33 models, including multiple versions of the major frontier and open-weight models. The flagship frontier models used were Claude Fable 5, Claude Opus 5, Gemini 3.1 Pro Preview
+
+### Google will launch Android app verification requirement globally in January 2027
+Thu, 19 Nov 2026 18:00:33 +0000 — https://arstechnica.com/gadgets/2026/11/google-will-launch-android-app-verification-requirement-globally-in-january-2027/
+
+Google announced Android developer verification last year , and despite numerous objections from developers and users, the company is forging ahead . It began blocking the installation of unregistered apps in some countries this fall, and the system is expanding globally soon. Google says it will start rolling out the requirement in all regions in January 2027, and it urges devs who still haven't registered their apps to do so soon. The apps you download from the Play Store all come from verified developers, and Google's new requirement expands that requirement to apps from third-party sources. Once developer verification is live in your region, you won't be able to sideload apps unless the developer has registered with Google, which is framed as a security measure . Verification requires providing government identification and paying a $25 fee, which will allegedly make it harder for nefarious actors to distribute malware and scammy apps. In September, Google launched verification in Brazil, Indonesia, Singapore, and Thailand. Apparently, nothing exploded, so the company is now ready to expand. It previously said verification would go global in 2027, and it's not wasting any time with the January start. It says that verification will reach all devices within "several months." Read full article Comments ]]>
+
+### Mouse fight club might explain why we like to watch violent things
+Thu, 19 Nov 2026 14:04:38 +0000 — https://arstechnica.com/science/2026/11/watching-mouse-fight-club-teaches-the-critters-how-to-fight/
+
+Credit: J.M. Iravedra-Garcia et al., 2026 Credit: J.M. Iravedra-Garcia et al., 2026 There's something about watching violent events that broadly appeals to us, whether it's the latest John Wick movie, a video game, or a live UFC bout. Scientists have debated whether watching violent things could make us more aggressive, but it could also be an adaptive survival strategy. Male mice, for instance, who watched other mice fighting learned enough about how to fight to better protect themselves (compared to mice who didn't watch fights) when pitted against stronger, more aggressive opponents, according to a paper published in the journal Nature. The team randomly assigned male mice to three groups—fighters, spectators, or novices—and then subjected each group to eight days of training with three 10-minute sessions per day. The novices played with stuffed mice in isolation, while the spectators watched various pairs of fighter mice battle from a raised platform behind a transparent barrier—a set-up chosen to let them smell and listen to the fights as well as observe them. The ninth day was "fight night," when all the mice had to face a daunting opponent in three 4-minute rounds. Each fight was filmed from above so that the mouse behavior could be analyzed. To monitor corresponding changes in brain activity, the team engineered the rodents' excitatory brain cells to glow green whenever they were activated, while inhibitory brain cells glowed red. They also implanted tiny optical fibe
+
+### NASA s new Moon plans have a problem: Orion wasn t designed to fly this way
 Thu, 19 Nov 2026 13:40:02 +0000 — https://arstechnica.com/space/2026/11/to-make-moon-landings-easier-nasa-is-making-life-harder-for-orion/
 
 NASA recently announced a significant shakeup to the Artemis program that will land humans on the Moon. The moves were designed to give the agency's lunar lander providers—SpaceX with its Starship vehicle, and Blue Origin with Blue Moon—more flexibility in reaching the Moon. For Starship, this means docking with Orion in Earth orbit, and then traveling to the Moon in tandem. For Blue Moon, it shifts the rendezvous with Orion all the way to low-lunar orbit. These changes benefit the lunar landers, but in turn impose more of a burden on the Orion spacecraft, which is built for NASA by Lockheed Martin. To understand the implications for the spacecraft, Ars spoke with Kirk Shireman, Human Spaceflight Exploration and Orion program manager at Lockheed. Read full article Comments ]]>
@@ -22,99 +62,79 @@ Wed, 18 Nov 2026 23:10:39 +0000 — https://arstechnica.com/gadgets/2026/11/ukra
 
 A Ukrainian barrage of missiles and drones collapsed a crucial segment of Russian President Vladimir Putin’s prized Kerch Strait Bridge—and Ukraine’s military pulled off the strike deep within Russian-occupied territory without relying on the military-grade version of Elon Musk’s Starlink satellite communications to guide the missiles in. On the nights of November 15 and November 16, coordinated waves of Ukrainian drones and missiles caused enough damage to collapse one of two steel arches supporting the Kerch bridge’s roadway for automobile traffic, according to an Institute for the Study of War update . Russian sources claimed several hundred Ukrainian drones first overwhelmed Russian air defenses to pave the way for remote-controlled missile strikes focused on the bridge, with the latter prominently including Ukraine’s homegrown Flamingo cruise missile. The Ukrainian operation adapted a Russian battlefield innovation by using drones equipped with mesh radios to create an airborne communications network, according to the Financial Times . Each networked drone acts as a relay node to extend the communication link between human operators and remotely piloted missiles and strike drones. Russia began using the technique to support long-range drone and missile strikes on Ukrainian cities. Read full article Comments ]]>
 
-### Trump abandons his FDA nominee, and Senate scraps vote on his NSF pick
-Wed, 18 Nov 2026 22:08:57 +0000 — https://arstechnica.com/health/2026/11/trump-abandons-his-fda-nominee-and-senate-scraps-vote-on-his-nsf-pick/
-
-In the span of less than 24 hours, two Trump administration nominees have suffered sudden blows—Trump's pick to lead the Food and Drug Administration and his pick to lead the National Science Foundation. Late Tuesday evening, Axios reported that the White House had abruptly withdrawn its controversial nomination of Heidi Overton to lead the FDA. Overton, a top conservative domestic policy aide in the White House, has drawn criticism and skepticism from Republicans and Democrats alike over her stances on vaccines, abortion, vapes, and birth control. Overton opposes abortion—though perhaps not strongly enough for some Republicans—and supported Trump and Kennedy's decried anti-vaccine policies and statements, vexing Democrats. In her confirmation hearing in September, Overton consistently stonewalled senators on every topic, refusing to directly answer even softball questions from friendly Republicans, leaving lawmakers on both sides of the aisle openly frustrated. The questions she dodged included those on how she would handle the FDA's current safety review of the abortion pill, mifepristone, which extensive data has established is extremely safe. She also wouldn't say whether she agreed with Trump when he falsely claimed the measles vaccine is "quite lethal" or that children are given vaccine doses the "size of a soda bottle." Overton repeatedly refused to answer whether Trump could ever be wrong. Read full article Comments ]]>
-
-### Netflix CEO admits app may bury stuff you want to watch under stuff you don’t
-Wed, 18 Nov 2026 21:29:24 +0000 — https://arstechnica.com/gadgets/2026/11/netflix-ceo-admits-app-may-bury-stuff-you-want-to-watch-under-stuff-you-dont/
-
-The streaming wars, or the battle to be the top streaming company, are ongoing, according to Ted Sarandos, a co-CEO of what many would consider today’s frontrunner. When it comes to subscribers, no streaming service has more than Netflix, which reported having over 325 million subscribers as of January. But in an interview with Bloomberg published today, Sarandos noted that people are still spending significant time watching traditional broadcast TV. Read full article Comments ]]>
-
-### Windows Server 2028 trades compatibility for out-of-the-box security
-Wed, 18 Nov 2026 20:41:12 +0000 — https://arstechnica.com/gadgets/2026/11/windows-server-2028-public-preview-bets-on-a-security-first-approach/
-
-Microsoft's Ignite announcements this week went beyond the Office-in-Copilot overhaul with the reveal of the Windows Server 2028 Public Preview and its new security-by-default stance and what Microsoft calls Hardened Server Core . Windows Server 2028 will implement a default security framework that Microsoft says is aligned with hardened DoD benchmarks, such as the Defense Information Systems Agency's (DISA) Security Technical Implementation Guide (STIG). STIGs work by providing a standard security framework for system administrators to follow recommended guidance. In the past, Windows Server admins were left to start from a blank canvas and then implement hardening configurations for operations. Secure baselines were available but not the default. Microsoft says that concern is now managed: "The s ecure configuration is the starting state, not a project you run after setup. That closes the window where a newly deployed server sits exposed while it waits to be hardened. " The new Windows Server 2028 hardened-by-default state will only be available for the Server Core installs. Windows Server Desktop Experience installs do not include the changed stance. Read full article Comments ]]>
-
-### Best Buy sells Blu-rays online and in-store again
-Wed, 18 Nov 2026 19:31:17 +0000 — https://arstechnica.com/gadgets/2026/11/best-buy-sells-blu-rays-again-after-quitting-the-business-in-2024/
-
-Best Buy is selling Blu-rays directly through its website and in physical stores again after exiting Blu-ray and DVD sales in 2023. The Best Buy website’s movie section currently lists 15 Blu-rays (including one two-pack) that are “sold & shipped by Best Buy.” New titles available include The Odyssey (2026), Project Hail Mary (2026), Supergirl (2026), Super Mario Galaxy (2026), and Obsession (2025). Best Buy is also selling some older titles on Blu-ray, including It’s a Wonderful Life (1943), Saving Private Ryan (1998), and The Godfather (1972). Most of the Blu-rays are available for purchase online and can be delivered to an address or picked up at a Best Buy store within a few days. As of this writing, The Odyssey appears to be in stock at Best Buy stores, as it’s currently listed as available for pickup within as little as an hour. Read full article Comments ]]>
-
-### Muse privacy invasions are freaking out Meta staffers, internal chats show
-Wed, 18 Nov 2026 19:19:33 +0000 — https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show/
-
-After some early adopters of Meta’s Muse AI agent complained that it was spying on private messages and behaving unpredictably earlier this fall, Reuters exposed internal chats showing that Meta staff had raised the same alarms. When testing the agent, staff warned that Muse appeared to be accessing encrypted private messages that users did not expect the bot to review, could be mixing up conversations between users, and even potentially sharing sensitive information users would never expect to be exposed. Some unexpected Muse outputs responded to questions that staffers never asked. Read full article Comments ]]>
-
-### Trump admin orders Kalshi to halt wagers on what words Trump will say
-Wed, 18 Nov 2026 18:46:08 +0000 — https://arstechnica.com/tech-policy/2026/11/trump-admin-orders-kalshi-to-halt-wagers-on-what-words-trump-will-say/
-
-The Trump administration ordered prediction market Kalshi to stop offering event contracts that pay out based on whether President Trump will say a specific word before a particular date. Kalshi halted trading in the contracts while the US Commodity Futures Trading Commission (CFTC) conducts a review into whether the Trump mention contracts violate federal law. CNBC reported yesterday that "Kalshi quietly paused trading in a handful of 'mention' contracts tied to President Donald Trump at the end of last week at the request of the CFTC." Kalshi told media outlets that it is complying with the CFTC order. The markets taken down by Kalshi allowed users to wager on whether Trump would say certain words, including nicknames and the names of countries and companies. A similar expired event contract that can still be viewed on Kalshi's website asked whether Trump would use the nicknames "Marjorie Traitor Greene," "Sleepy Joe," and "Whack Job" or "Wack Job" before April 2026. Read full article Comments ]]>
-
-### The "shameful" measles data that lost the US its elimination status
-Wed, 18 Nov 2026 18:30:23 +0000 — https://arstechnica.com/health/2026/11/the-shameful-measles-data-that-lost-the-us-its-elimination-status/
-
-International health authorities formally announced on Tuesday that the US has lost its measles elimination status, a hard-fought public health triumph won in 2000 after decades-long vaccination efforts. The loss had been widely expected by public health experts for months, and the decision was leaked by the press last week. Still, having the designation officially stripped stings. After the announcement Tuesday, public health experts, doctors, and political leaders decried the dramatic backslide for the US, calling it " shameful " and a " national embarrassment ." News articles point to the staggering vertical rise of measles cases this year, currently over 5,400 cases , more than any other year since 1991. An explosive measles outbreak in Pennsylvania accounts for over 1,500 of those cases . There have been 10 confirmed deaths across three states, several deaths just in the last week. But the measles data that caused the US to lose its status—the bits of it that are public at least—paint a darker picture of where the US is in its rematch with measles, the most contagious virus known on Earth. For one thing, almost none of the data from this year—the cases, the explosive Pennsylvania outbreak, the deaths—factored in to the loss. It was lost earlier. What's happening now is a runaway epidemic. Read full article Comments ]]>
-
-### Will Wright s next simulation will use AI to mine content from your memories
-Wed, 18 Nov 2026 18:10:33 +0000 — https://arstechnica.com/gaming/2026/11/will-wrights-next-simulation-will-use-ai-to-mine-content-from-your-memories/
-
-The computer gaming world hasn't heard much from Will Wright ( SimCity , The Sims ) since the underwhelming release of Spore in 2008 and Wright's subsequent departure from Maxis owner EA . Now, well over 15 years later, Wright is starting to promote his next digital simulation, which will use generative AI technology to craft a game-like experience from players' memories. MyMems , which is slated to release next year, differentiates itself from Wright's previous projects by "turn[ing] the simulation inward," as Wright's Gallium Studios and partner Artificial Agency put it in a press release this morning . The game will mine memories provided by the player to create digital people that can then form teams to solve puzzles in the game world. “If my Grandmother ended up in a Grand Slam match against Serena Williams, who would win?" Wright says by way of example in the release. "If I had to build a bridge across a short chasm, which three people from my life would I choose to help me?" Read full article Comments ]]>
-
 ## The Verge
 
-### Grand Theft Auto VI understands just how important a smartphone is
-2026-11-19T08:30:00-05:00 — https://www.theverge.com/entertainment/1037106/grand-theft-auto-6-smartphone
+### Apple is hiring engineers to build its own AI agent
+2026-11-19T17:31:41-05:00 — https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing
 
-Grand Theft Auto VI , in many ways, tries to simulate real life. And life in 2026 would not be complete without a smartphone. GTA VI understands this and makes the phone not just a central part of the experience, but an object that exists within the world. You may try to escape into a fantasy of robbing banks and fighting drug lords, but you can't get away from texts from your mom or nagging fitness app notifications. Seeing a smartphone in a game isn't a new phenomenon. The device has become a natural stand-in for the main menu in many games, giving players an interface that feels intuitive, because a phone is something they use every day. … Read the full story at The Verge. ]]>
+Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg , which says Apple is looking for an engineer to lead the creation of an agentic AI assistant. An AI agent from Apple would put the iPhonemaker in the running to compete with the likes of Meta's Muse , OpenAI's Dots , Anthropic's Duet , and Google's Tasks . Muse, ChatGPT, and Perplexity can already take control of a computer through their Mac apps, while Google just started letting Gemini do the same. Apple began rolling out its … Read the full story at The Verge. ]]>
 
-### I let Apple’s always-listening AI summarize my life for two weeks
-2026-11-19T08:00:00-05:00 — https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on
+### A brief history of Nvidia’s recent stock fluctuations
+2026-11-19T16:59:35-05:00 — https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings
 
-Siri Recap can be turned on or off manually from the wrist. Was it worth it? I've been asking myself this quite a bit over the last month or so while testing both the Amazon Bee Frontier and Siri Recap on the Apple Watch Ultra 4. Both enable a wearable to ambiently listen to your conversations and, using AI, summarize them for you. Why? So you can remember better and, hopefully, stay more present. The main difference is that Amazon's Bee takes a maximalist (and frankly reality-bending) approach, whereas Apple is going for a more minimalist, privacy-first take. Both, however, require explicit disclosures to the people around you about recording what they say, and potentially follow-up explanations a … Read the full story at The Verge. ]]>
+Traders work on the floor of the New York Stock Exchange during morning trading on November 18, 2026 in New York City. | Image: Getty Images "We've got this," Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's stock price was hovering at around $150 per share, a nearly 40 percent drop from its all-time high on October 6th, and wiping out a brief post-earnings pop on Tuesday night. Meanwhile, Wall Street was paying up for one of Nvidia's biggest customers as Anthropic made its Nasdaq debut at $111.50 per share - 34 percent higher than expected. Looking at the earnings report numbers alone, Nvidia had a blockbuster quarter. Q3 revenue more than doubled from the same period … Read the full story at The Verge. ]]>
 
-### Canva adds an AI ‘off’ button
-2026-11-19T07:30:00-05:00 — https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button
+### Meta now sells 3D movies on Quest VR headsets
+2026-11-19T16:12:06-05:00 — https://www.theverge.com/tech/1038157/meta-quest-vr-3d-movies-tv-app
 
-Canva will now allow you to turn off its generative AI features. With this change , you can disable the graphic design platform's array of AI tools, such as its AI photo-extending Magic Expand feature, as well as turn off the ability to generate images with its Canva chatbot . This toggle doesn't turn off every AI-powered feature on Canva, however. That includes Canva's background remover and its Magic Grab tool, which lets you select an object in an image and move it somewhere else. Canva says these tools will stay on because they "make everyday tasks faster without generating anything new." The toggle still turns off many of Canva's other … Read the full story at The Verge. ]]>
+Meta now offers more than 150 3D movies that you can buy or rent to watch in VR on its Quest 3 and 3S headsets, the company announced today . The movies are available in Meta's TV app and include titles like Avatar , Spider-Man: Far From Home , Jurassic World Rebirth , Wicked: For Good , and a Billie Eilish concert film co-directed by Eilish and James Cameron. The company suggests watching movies in a Theater view that's rolling out with a new Meta Quest update. Theater view "provides a big screen and dims your surroundings to create a cozy, personal cinema experience," Meta says. Meta promises that the library will "keep growing, with thousa … Read the full story at The Verge. ]]>
 
-### Roblox money is pushing a controversial anorexia treatment
-2026-11-19T07:00:00-05:00 — https://www.theverge.com/features/1034740/ketogenic-diet-anorexia-roblox-medical-funding
+### Meta’s Muse Charm might cost $300
+2026-11-19T15:22:17-05:00 — https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price
 
-In a dark room, a man with a camera makes his pitch: Therapy isn't the first treatment you should get if you have anorexia or bulimia, he says. He's in his late 20s, wearing a backward camo baseball cap and a silver chain. "Instead of going straight to the therapy, let's do a keto diet where we encourage you to eat as much as you want" - all while limiting your carbohydrate intake to 30 grams a day. He tells his viewers that this shift will force your brain to use a different fuel source, and "all those defective neural pathways that were causing you to engage in that eating disorder, they heal up and they start to work correctly." "Suddenl … Read the full story at The Verge. ]]>
+Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information . CEO Mark Zuckerberg revealed the gadget earlier this year and said the company expected to ship the Charm "in time for the holidays in December," but he didn't provide a price at the time. When he announced the Muse Charm, Zuckerberg said that the company had "packed the whole Muse experience," including real-time voice and avatar technology, into the gadget. It has a fingerprint sensor, and you can tap it to be able to talk to a Muse AI agent without unlocking a phone or opening an app. … Read the full story at The Verge. ]]>
 
-### Elon Musk tries to explain what s going on with Ukraine and Starlink
-2026-11-18T20:39:45-05:00 — https://www.theverge.com/tech/1037448/elon-musk-ukraine-starlink-starshield-nyt-dealbook
+### Google is putting AI chats right on the homepage
+2026-11-19T15:05:06-05:00 — https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats
 
-Elon Musk said Ukrainian president Volodymyr Zelenskyy is lying about disruptions to Starshield in Ukraine and that he's trying to misuse SpaceX's consumer service, Starlink, for military purposes. Musk made the comments at The New York Times ' DealBook Summit on Wednesday as he tried to explain the conflict following weeks of back and forth between Zelenskyy, Musk, and the US government. "From the beginning, I've said that Starlink is a civilian system," Musk said . "It is not meant to be used for offensive drone strikes that kill people. If you want to do that, you need to do Starshield, which is a separate system that is controlled by the … Read the full story at The Verge. ]]>
+Google is updating its homepage to include AI searches. In a post on X , Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI chats. Based on the GIF shared by Stein, it looks like you can open the sidebar by clicking the gray bar that appears on the left side of your screen. From there, Google will show a list of the searches you've made using AI Mode, along with the ability to start a new thread, search your threads, or connect a Gemini Notebook. New on the Google desktop homepage globally: we're rolling out a collapsible sidebar to easily find & jump back into you … Read the full story at The Verge. ]]>
 
-### The nation’s largest school districts consider ditching Google Search
-2026-11-18T18:18:35-05:00 — https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google
+### FCC greenlights rule allowing prisons to jam cellphone signals
+2026-11-19T14:40:28-05:00 — https://www.theverge.com/policy/1037987/fcc-prison-cellphone-signal-jamming
 
-New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according to The New York Times . Starting next year, schools will not have the option to disable Gemini-powered features without also disabling Search. Chris Phillips, Google's vice president of education, told the Times that, "Search and AI are deeply integrated," and that schools that turn off Google's AI features "will not have access to Search." Many elected officials, including New York City Mayor Zohran Mamdani and Senator Bernie Sanders, responded harshly, calling Go … Read the full story at The Verge. ]]>
+The Federal Communications Commission voted unanimously to allow state and local prisons to jam cellphones. In an announcement on Thursday , the FCC argues the rule will help combat an "influx of contraband cellphones" used to carry out crimes from prison. Jammers are generally banned under Section 333 of the Communications Act of 1934 , though they're used at some federal facilities. FCC Chair Brendan Carr claims that giving correctional facilities access to this technology will help prevent prisoners from using phones for illegal activity. "These devices [phones] are being used by inmates to order hits, run drug operations, traffic women an … Read the full story at The Verge. ]]>
 
-### Democrats skip a vote on adding Brendan Carr’s adviser to the FCC
-2026-11-18T17:05:48-05:00 — https://www.theverge.com/policy/1037134/democrats-boycott-fcc-nomination-vote-danielle-thumann-severs
+### Sony’s WH-1000XM5 are cheaper than ever for Black Friday
+2026-11-19T14:35:52-05:00 — https://www.theverge.com/gadgets/1037790/sony-wh-1000xm5-black-friday-deal-sale
 
-Senate commerce committee Chair Ted Cruz (R-TX) began a meeting Wednesday meant to confirm President Donald Trump's nominee to the Federal Communications Commission with a lopsided dais. To his right sat all 14 Republican members of the panel, including Senate Majority Leader John Thune (R-SD). To his left were about a dozen empty chairs - every Democratic member of the panel was absent. Cruz said he'd learned the night before that Democrats intended to boycott the vote, though Democrats say they'd repeatedly raised their concerns about advancing a Republican FCC nominee without a Democratic one. "The administration has shown it's willing t … Read the full story at The Verge. ]]>
+All four colors of the WH-1000XM5 are in stock at the discounted price. Back in my day, the only “Doorbuster” sales were at physical retail stores. But now, you can get ultra-low prices before Black Friday whether you want to shop in-store or online. One that stands out is the previous-generation Sony WH-1000XM5 noise-canceling headphones , which are marked down to their lowest price ever, just $169.99 at Best Buy . While their MSRP is $399.99, they’ve been spotted as low as $198 in the last few months. Sony WH-1000XM5 Where to Buy: $399.99 $198 at Amazon $399.99 $198 at Best Buy $399.99 $199.99 at Costco The WH-1000XM5 launched in 2022, and despite having been succeeded by the WH-1000XM6 , they’re still an excellent set of headphones. Their active noise cancellation effect is one of the best out there — competitive with the latest models from Bose and Apple — and the sound profile is tighter and more balanced than the older Sony headphones. There are some minor downsides, like a bulky case and all-plastic design, but those seem easier to overlook at this lower price point. The newer Sony WH-1000XM6 improve the sound and noise cancellation, with quality of life upgrades not present in the XM5, like a folding design and more comfortable headband. However, they’re significantly more expensive, currently discounted to $348 during Black Friday ( Amazon , Best Buy ), down from their MSRP of $450. To make shopping a little more confusing, the newer WH-1000XM4C sit between the XM5 a
 
-### Absolute Batman can save DC Studios
-2026-11-18T16:20:00-05:00 — https://www.theverge.com/entertainment/1035722/absolute-batman-can-save-dc-studios
+### You can now buy a Steam Machine without getting on a waitlist
+2026-11-19T14:33:22-05:00 — https://www.theverge.com/games/1038010/valve-steam-machine-waitlist-supply
 
-With James Gunn and Peter Safran out as the co-heads of DC Studios following Skydance's acquisition of Warner Bros. Discovery , it's unclear what will become of the cinematic universe that was building around movies like last year's Superman . Though Gunn's Man of Tomorrow feature might still come out , it seems like his larger vision for the DC Universe may be tossed out by DC Studios' newly appointed CEO, Jeremy Latcham . Gunn was taking his time fleshing out the DCU with relatively less high-profile characters like Peacemaker , Supergirl , and Clayface . But Latcham has reportedly received a mandate from Skydance CEO David Ellison to fast-track … Read the full story at The Verge. ]]>
+Valve announced some updates about Steam Machine availability today, including good news if you want to buy one right now and potential bad news about future supply due to RAMaggedon. The good news: You can now purchase a 512GB Steam Machine without getting on a waitlist. Initially, interested buyers had to get on Valve's waitlist if they wanted to purchase one, but the console-like PC is now available in an "add-to-cart" status, according to the company. As I write this, the 512GB versions with and without a bundled controller are showing estimated delivery dates of three to five business days on Valve's website . If Valve sells through its … Read the full story at The Verge. ]]>
 
-### Trump’s latest land grab is an AI hub in the Philippines
-2026-11-18T14:40:36-05:00 — https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica
+### Some creators are skeptical of Instagram’s new affiliate program
+2026-11-19T14:12:30-05:00 — https://www.theverge.com/news/1037951/instagram-amazon-affiliate-links-influencers-ads
 
-President Donald Trump is welcomed upon his arrival at Villamor Air Base on November 17th, 2026, in Manila, Philippines. | Photo: Getty Images President Donald Trump was greeted by no less than five beauty queens when he landed in the Philippines on Tuesday, according to local news outlet Rappler . As he stepped onto the tarmac , a child handed him small US and Philippine flags. A band played "YMCA," a staple at Trump rallies, as more girls in traditional bell-sleeved blouses and young men in wide-brimmed hats danced to the song. Outside the airport, hundreds of protesters packed streets bearing signs - and at least one prop casket - saying "Trump out." Others say "Reject Pax Silica," the name for the US-led international initiative to secure chips and critical minerals used in the … Read the full story at The Verge. ]]>
+For years, influencers have come up with workarounds on social media to figure out how to share affiliate links with followers. A new integration between Instagram and Amazon was announced earlier this month as a way to make it easier for influencers to make money from affiliate links - but some content creators are suspicious about who really benefits. The new integration allows creators to connect their Instagram and Amazon accounts and automatically tag products with their affiliate links, from which they earn a commission when followers make purchases. Influencers will be able to embed up to 30 product links in a Reel or 20 in a feed po … Read the full story at The Verge. ]]>
 
-### Nvidia’s rise, visualized
-2026-11-18T14:30:00-05:00 — https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang
+### Sonos is taking up to 30 percent off speakers and soundbars right now
+2026-11-19T13:33:08-05:00 — https://www.theverge.com/gadgets/1037042/sonos-black-friday-2026-speaker-soundbar-deals-sale
 
-If someone handed you $8,300 every second, what would you do? That's how much pure profit Nvidia now makes. By the time you finish reading this paragraph, Nvidia will likely have cleared $45,000 and change. (function(){function e(){window.addEventListener(`message`,function(e){if(e.data[`datawrapper-height`]!==void 0){var t=document.querySelectorAll(`iframe`);for(var n in e.data[`datawrapper-height`])for(var r=0,i;i=t[r];r++)if(i.contentWindow===e.source){var a=e.data[`datawrapper-height`][n]+`px`;i.style.height=a}}})}e()})(); It's easy to look at Nvidia, a company that just lost its visionary founder CEO due to a series of scandals , and think that the company and maybe the entire AI industry are in terrible trouble. Perhaps so ? But I want you to understand: Nvidia isn't your average semi-successful company that might tempt a new CEO to fix things that are broken. It is a company so staggeringly, mind-bogglingly successful it'll do everything in its pow … Read the full story at The Verge. ]]>
+The excellent Sonos Play offers up to 24 hours of playback on a single charge. | Photo: John Higgins / The Verge Sonos speakers and soundbars aren t exactly cheap, but thankfully the company s Black Friday sale has already begun , making everything a little easier to afford through November 30th. Most notably, you can pick up the Arc Ultra soundbar for a new low of $849 ($250 off) from Sonos , Amazon , and Best Buy , or the newfangled Sonos Play for $239 ($60 off) from the same retailers ( Sonos , Amazon , Best Buy ). If you’re looking to give your home theater setup a big upgrade, the Arc Ultra is an excellent soundbar. It supports Dolby Atmos and delivers more immersive sound than the original Arc , while adding Bluetooth connectivity. Dialogue also sounds noticeably clearer, and the new Quick Tune feature automatically adjusts the soundbar’s audio to suit your room using built-in microphones, so you no longer need an iPhone to fine-tune the sound for your environment. For more powerful bass, you can also pair it with a compatible Sonos subwoofer, like the Sub 4, which is also available from Sonos as part of a discounted bundle for $1,499 ($499 off) . Read our full Arc Ultra review . Sonos Arc Ultra Where to Buy: $1099 $849 at Amazon $1099 $849 at Sonos $1099 $849 at Best Buy If you’re looking for a more affordable soundbar, the second-gen Sonos Beam has also hit a new low price at Amazon , Best Buy , and Sonos’ online storefront , where you can buy it for $339 ($160 off). 
 
 ## Tom's Hardware
+
+### New Windows 11 lock screen zero-day unlocks BitLocker-protected PCs with just a few keystrokes
+Thu, 19 Nov 2026 21:30:00 +0000 — https://www.tomshardware.com/tech-industry/cyber-security/new-windows-11-lock-screen-zero-day-unlocks-bitlocker-protected-pcs-with-just-a-few-keystrokes-win-u-keyboard-trick-lets-physical-attackers-run-usb-payloads-or-create-new-admin-accounts
+
+Considering the current status of the cybersecurity landscape, some may well say that "0-day" has lost its meaning, The latest high-stakes vulnerability pertains to a bug in Windows 11 (and possibly 10), wherein an attacker can partially bypass the lock screen and run software as the logged-in user, and seemingly access their data. If true, the vulnerability means even BitLocker won't help keep users' files protected. Unsurprisingly, the bug was discovered by Abdelhamid Naceri, the prolific Windows hacker known to the world as Nightmare Eclipse, and is responsible for about a dozen zero-day findings in Microsoft's operating system. The exploit requires physical access to the machine, but that's precisely the scenario that lock screens and/or BitLocker are supposed to protect against. To trigger the vulnerability, all you need is a keyboard. In the Windows 11 lock screen, click "Forgot my PIN," then hit Win+U to bring up the voice narrator. The window will be hidden behind the lock screen, which, for practical purposes, is just a veneer, but you can interact with it using the keyboard if you hold down the Caps Lock key and use the arrows and Enter. After some brief navigation through Narrator, you'll actually be in Settings, and then have multiple avenues for further shenanigans. One obvious one is going into Bluetooth and Devices and setting Autoplay to show a USB stick's files and folders, then plugging in your own with your software of choice to run. Additionally, on a pers
+
+### AI data center power demand will double by 2030 thanks to $4 trillion in spending, adding an entire Great Britain to energy strain
+Thu, 19 Nov 2026 21:00:00 +0000 — https://www.tomshardware.com/tech-industry/data-centers/ai-data-center-power-demand-will-double-by-2030-thanks-to-usd4-trillion-in-spending-adding-an-entire-great-britain-to-energy-strain-93-large-ai-factories-with-projected-capacity-of-around-50-gigawatts
+
+The AI data center build-out is pushing electricity grids across the globe, with many regions facing demand from projects that would exceed the current peak load that each system could support. According to the International Energy Agency’s (IEA) World Energy Outlook 2026 report , a total of 120GW of capacity is currently available across all types of data centers across the globe, with another 120GW expected to be completed by the end of the decade, 75% of which would be dedicated to artificial intelligence. Aside from that, it’s also tracking 93 large “AI factories” that are either under construction or being expanded via satellite imagery. It estimates that the capacity for these sites grew from under 2GW to 17GW in just two years, and that they’re expected to hit a total of 50GW upon completion, the equivalent of adding a second Great Britain to power demand. Go deeper with TH Premium: AI and data centers (Image credit: Microsoft) The data center cooling state of play The custom AI ASIC state of play America’s AI chip rules keep changing — and the rest of the world is paying the price GTC 2026: Ian Buck press Q&A transcript — VP of Hyperscale and HPC speaks out on shelving CPX and shipping LPU decode this year Demand for data center CPUs has surged, and AI agents are responsible This massive power consumption is one of the reasons for the opposition against their construction in communities, with residents blaming them for increased utility prices. However, the IEA says t
+
+### Intel continues layoffs with cuts to its IT department, hundreds of employees reportedly affected
+Thu, 19 Nov 2026 14:58:13 +0000 — https://www.tomshardware.com/pc-components/cpus/intel-continues-layoffs-with-cuts-to-its-it-department-hundreds-of-employees-reportedly-affected-companys-workforce-reduced-by-27-800-under-lip-bu-tan
+
+Intel has reduced its workforce by approximately 27,800 employees under Lip-Bu Tan, based on the company's reported headcount figures, but this does not seem to be enough. The company has reportedly initiated another round of layoffs, this time across its global information technology (IT) organization, as its chief executive continues to reduce expenses and simplify the company's operations, reports Business Insider . The latest cuts in Intel's IT organization reportedly began on November 16, although Intel has not disclosed how many employees will lose their jobs, notes TrendForce citing CTech . Some employees claim that the reductions could affect a double-digit percentage of the department's workforce of around 2,607 people at 55 sites in 53 countries , so we are talking about at least 260 people if we are talking about a 10% reduction, or as much as 520 if we are talking about a 20% reduction. One has to keep in mind that these estimates have not been independently verified. Intel has neither confirmed the number of affected employees nor identified the specific teams involved. Instead, the company reiterated to Business Insider that it regularly reviews its workforce to ensure that personnel and financial resources correspond to its strategic priorities. The latest reductions follow several rounds of layoffs throughout 2026. In July, Intel eliminated positions in its Data Center and AI Group. Between July and October, the company submitted nine Worker Adjustment and Ret
+
+### Supermicro sued by shareholders over claims Nvidia executive’s wife knew about illicit China sales
+Thu, 19 Nov 2026 14:00:00 +0000 — https://www.tomshardware.com/tech-industry/big-tech/supermicro-sued-by-shareholders-over-claims-nvidia-executives-wife-must-have-known-about-illicit-china-sales-former-chief-growth-officer-cenly-chen-is-married-to-outgoing-nvidia-vp-jay-puri
+
+More information about the alleged knowledge of chip diversion by a Supermicro executive is being revealed as shareholders’ civil lawsuit against the company progresses. According to The Telegraph , the investors alleged that there was “no way Cenly Chen lacked knowledge about the company’s illicit sales.” Chen, the former Chief Growth Officer at Supermicro and described by a colleague as the company’s sales leader, resigned from her position in April of this year — about a month after the three Supermicro employees, including its co-founder Yih-Shyan “Wally” Liaw, were arrested for a $2.5-billion AI GPU smuggling scheme . Cenly Chen is married to former Nvidia Executive Vice President of Worldwide Field Operations Jay Puri, who is also described as the company’s sales chief. The Information also called him Jensen Huang’s right-hand man and said he was the person that Nvidia’s customers turned to if they wanted to buy chips or had other pressing concerns. The shareholders’ accusations and her relationship with Puri have put the former Supermicro executive in the spotlight, especially after Huang’s sudden departure from the AI chipmaker amid a flurry of affairs and smuggling accusations. Sources say that Puri controlled the AI chip allocations to server manufacturers, including Supermicro, while the lawsuit claims that Chen decided how many Nvidia racks each Supermicro customer could get. A former Supermicro employee was also quoted in the complaint saying that it was “widely 
 
 ### Developer vibe codes Windows 11 alternative operating system for amd64, arm64, and riscv64 hardware
 Thu, 19 Nov 2026 13:30:00 +0000 — https://www.tomshardware.com/software/windows/developer-vibe-codes-windows-11-alternative-operating-system-for-amd64-arm64-and-riscv64-hardware-libernt-is-a-free-64-bit-clone-promising-reliable-stable-and-efficient-performance
@@ -156,27 +176,47 @@ Thu, 19 Nov 2026 10:54:03 +0000 — https://www.tomshardware.com/pc-components/g
 
 Buying a bundle in the Black Friday sales could save you a ton of money on expensive RAM and SSDs, and this latest one from Newegg shaves $240 off the price of 32GB of DDR5. The price on this bundle is so good Newegg won't even show it to you unless you log in: it's an Intel Core Ultra 7 270K Plus 24-core CPU, 32GB of DDR5 6000, a 1TB 990 Pro SSD, Gigabyte Z890 Aorus Elite Wi-Fi 7 motherboard, and more than $200 of freebies including an AIO cooler, all for just $1,079.99. ● Grab this deal at Newegg There's a lot going on in this bundle, so let's break it down. This is one of Intel's fastest gaming CPUs to date, with 24 cores for impressive productivity and gaming performance. You also get 32GB of Corsair Vengeance DDR5-6000 memory. Usually priced at $479 in the AI economy, this is $240 if you apply the savings directly to the RAM. You also get 1TB of storage and an impressive Z890 motherboard, three free games from various Intel holiday bundles, and a free 240mm AIO cooler. Free AIO and three games Core Ultra 7 270K Plus, Corsair Vengeance 32GB DDR5 6000, Samsung 990 Pro SSD 1TB, Gigabyte Z890 Aorus Elite Wi-Fi 7: was $1009.97 now $769.99 Get Intel's latest Core Ultra 7 270K Plus with a 32GB kit of DDR5 and a Z890 motherboard for $240, with more than $200 worth of freebies, a massive saving to offset the inflated cost of RAM and SSD storage. View Deal Intel's Core Ultra 7 270K marks an extremely impressive resurgence for Intel in the desktop gaming sphere. It is extremely goo
 
-### Save 36% on this 4TB Samsung 990 Pro SSD upgrade for your gaming PC, now just 17.5 cents per GB
-Thu, 19 Nov 2026 10:52:20 +0000 — https://www.tomshardware.com/pc-components/ssds/save-36-percent-on-this-4tb-samsung-990-pro-ssd-upgrade-for-your-gaming-pc-now-just-17-5-cents-per-gb-our-top-gen-4-drive-recommendation-is-now-usd100-cheaper-than-last-week
-
-SSDs are expensive right now, thanks to AI, so picking one up on sale is the best way to do it. Luckily, thanks to the start of Amazon's Black Friday sale, you can pick up a 4TB Samsung 990 Pro for $699.99 right now . That's a $100 price drop compared to last week and a huge 36% discount on its current list price. ● Grab this Samsung SSD deal at Amazon This is a very good deal in the current market, unless you've got a time machine. As our Samsung 990 Pro 4TB review shows, this is one of the best SSDs overall, and our top recommendation. It has maximum sequential read and write speeds of 7,450 MB/s and 6,900 MB/s apiece, with random reads/writes coming in at 1.6 million and 1.55 million IOPS, respectively, with endurance rated at 2,400 TBW (terabytes written). 990 Pro 4TB SSD: was $1099.99 now $699.99 The Samsung 990 Pro 4TB is among the fastest Gen 4 SSDs available thanks to read and write speeds of up to 7450/6900 MB/s, almost maxing out the Gen 4 bandwidth. This M.2 NVMe drive comes in the 2280 form factor and holds enough capacity to store a large selection of your favorite games or files. Random reads/writes come in at 1.6 million and 1.55 million IOPS, respectively, while endurance is rated for a respectable 2,400 TBW. View Deal For this 4TB drive, Samsung used 236-layer TLC V-NAND while also using a single-sided design, making it a good option for installation in a PC where physical space is at a premium. Our own tests at the time saw it score above the competition in 
-
-### Critical Java vulnerability puts millions of sites, services, and devices at risk of remote code execution
-Thu, 19 Nov 2026 10:30:00 +0000 — https://www.tomshardware.com/tech-industry/cyber-security/critical-java-vulnerability-puts-millions-of-sites-services-and-devices-at-risk-of-remote-code-execution-triggers-with-64-as-and-an-sign-openjdk-optimization-bug-lets-an-attacker-trigger-it-just-by-inputting-repeated-text
-
-We've just had a few high-stakes security vulnerabilities making systems administrators run around with their heads on fire, and the deluge doesn't look like it's stopping any time soon. Java, the programming language that Oracle has always claimed is on billions of devices, has a critical security vulnerability that allows for remote code execution (RCE), often without even needing to log in to the application. The consequence is that an attacker can gain access to the target system, read user and internal data, and have a launch point for further shenanigans, including database access and potential system takeover. The flaw was dubbed Java4Shell by Calif Research, the lab that found the vulnerability. The researchers say it rates 9.2 on the newer CVSS 4.0 scale, though individual reports from companies like Oracle itself and Red Hat give it their own ratings , but they're all in the 8 to 9.8 range depending on the vendor. The root cause is a bug in OpenJDK, the library that nearly every distribution of Java, whether Oracle's or anyone else's, derives their implementations from. You can see an exploit of the bug in action below across multiple software services. The actual bug is a flaw in an optimization for Base64 decoding, functionality that's ubiquitous in any programming language. Base64 is a format to allow for easy transformation of binary data into plain text. In the modern day, it's used to embed files in the middle of text, like inserting image data in the middle o
-
-### DDR6 RAM shrinks by 44% while delivering 4 times more bandwidth than DDR5 — JEDEC previews 12.8 GT/s modules with up to 1 terabyte of capacity per slot
-Thu, 19 Nov 2026 10:00:00 +0000 — https://www.tomshardware.com/pc-components/ram/ddr6-ram-shrinks-by-44-percent-while-delivering-4x-ddr5s-baseline-bandwidth-jedec-previews-12-8-gt-s-modules-with-up-to-1-terabyte-of-capacity-per-slot
-
-Today's best RAM will look huge compared to upcoming DDR6 memory. JEDEC has just released a preview of the DDR6 specification, confirming that next-generation memory modules will be 44% shorter than DDR5. That is only the physical aspect, though. From a performance perspective, DDR6 will debut at 12.8 GT/s, more than double DDR5's baseline transfer rate, while also quadrupling the memory bandwidth per memory module thanks to a new design. Go deeper with TH Premium: Memory (Image credit: SK Hynix) AI data centers are swallowing the world's memory and storage supply Samsung debuts three next-generation memory technologies for AI data centers The future of DRAM: From DDR5 to future ICs High-bandwidth memory roadmap Inside the history of DRAM price-fixing lawsuits JEDEC's DDR6 preview highlights improvements in various areas, including performance, capacity, reliability, and power efficiency. These advancements align with the upgrades DDR5 brought to the table when it launched. One of the most notable differences is that DDR6 memory modules will measure just 74mm in length, 44% shorter than DDR5’s 133mm memory modules. This makes DDR6 only 6% longer than DDR5 SO-DIMM modules, which you commonly find in laptops and mini-PCs. JEDEC has maintained the pin count for many years, sticking to 288 pins for DDR4 and DDR5. However, DDR6 may finally break that mould. Given the substantial reduction in length with DDR6 and the data bus width upgrade, it is reasonable to assume that DDR6 will
-
-### AMD’s Twitter brag that it ‘loves gamers’ met with savage Community Note
-Wed, 18 Nov 2026 21:00:00 +0000 — https://www.tomshardware.com/pc-components/amds-twitter-brag-that-it-loves-gamers-met-with-savage-community-note-post-met-with-backlash-over-the-companys-pivot-to-ai
-
-AMD Japan's X account has been met with sharp reproach after claiming the company loves gamers and values its interactions with gamers above all else, with commenters and even a community note expressing dissent at the sentiment, owing to AMD's comments on its "data center-first" ethos and a commitment to AI that has driven the price of consumer PC gaming up to nearly unaffordable levels. Quoting a Tom's Hardware post on the X social network discussing CEO Dr. Lisa Su meeting gamers and autographing a GPU , the AMD Japan account was quick to seize the moment. "AMD values its interactions with gamers above all else," the post read, but it was met with a stark reminder that gamers don't feel the same way. The post soon received a new community note that pointed out that AMD's own CEO doesn't agree. In fact, Su was quoted as saying that AMD is now "a data center-first company," with the note also pointing to the fact that AMD's data center revenue increased 97% year-over-year, as per its Q3 2026 earnings report. That equates to around $8.5 billion in revenue, while client and gaming revenue fell 8% to $3.7 billion. Gaming alone was down 40%. At the time, Su said that AMD expected its server revenue to double year over year in 2027, with its data center AI revenue growing at an even faster rate. "As a result, we expect data center to be more than eighty percent of our total revenue in 2027 and to drive the majority of our revenue and earnings growth," the CEO said during the comp
-
 ## Phoronix
+
+### Linux 7.5 To Optionally Block /proc/kcore Access For Better Security
+Thu, 19 Nov 2026 17:03:06 -0500 — https://www.phoronix.com/news/Linux-7.5-Restrict-proc-kcore
+
+A patch that is queued up ahead of the Linux 7.5 merge window allows for optionally disabling /proc/kcore access at boot time. This can allow for better system security though will remain enabled by default for kernel builds with the typical CONFIG_PROC_KCORE option...
+
+### LLVM Effectively Completes Its Relicensing After Nearly A Decade Of Work
+Thu, 19 Nov 2026 16:02:56 -0500 — https://www.phoronix.com/news/LLVM-Re-Licensing-Complete
+
+Back around 2017 an effort began to work on re-licensing all of the LLVM code under the Apache 2.0 license with exceptions, moving away from their prior 3-clause BSD-like "LLVM license". Prior updates on the topic included LLVM Developers Are Still Working On Their Massive Relicensing Effort (2018) and then LLVM Is Still Working On Relicensing, Needs Help Locating Some Past Contributors (2021)... Now finally as we approach the end of 2026, this re-licensing effort has been deemed effectively complete...
+
+### Windows 11 vs. Ubuntu 26.10 Linux Performance On AMD Ryzen AI Max+
+Thu, 19 Nov 2026 11:00:00 -0500 — https://www.phoronix.com/review/windows-ubuntu2610-strix-halo
+
+With recently having received a review sample of the GMKtec EVO-X2 mini PC powered by the AMD Ryzen AI Max+ 395 "Strix Halo" SoC and pre-loaded with Microsoft Windows 11 Pro, I took the opportunity to see how the AMD Ryzen AI Max+ performance is comparing between Windows 11 and Ubuntu 26.10 Linux on a range of workloads from gaming to AI and creator applications.
+
+### PostgreSQL 19 Released With More Performance Improvements
+Thu, 19 Nov 2026 10:57:57 -0500 — https://www.phoronix.com/news/PostgreSQL-19-Released
+
+After running weeks behind schedule due to PostgreSQL developers being overwhelmed by AI/LLM-led bug reports and security issues, PostgreSQL 19.0 managed to finally ship today...
+
+### PHP 8.6 Released With Partial Function Application, Other New Features
+Thu, 19 Nov 2026 10:16:52 -0500 — https://www.phoronix.com/news/PHP-8.6-Released
+
+Following today's PHP 8.2.36, PHP 8.3.37, PHP 8.4.28, and PHP 8.5.13 security releases to address multiple security issues, PHP 8.6.0 made its official debut today...
+
+### Unsloth Desktop Now Supports Using The AMD Ryzen AI NPU - Including On Linux
+Thu, 19 Nov 2026 09:25:27 -0500 — https://www.phoronix.com/news/Unsloth-Desktop-Ryzen-AI-NPU
+
+AMD and Unsloth announced today that local NPU inference is now available for Unsloth Desktop, starting with the AMD Ryzen AI NPUs of XDNA 2 and later...
+
+### Debian s APT Removing Some Features Due To Advancements In AI Security Discoveries
+Thu, 19 Nov 2026 09:15:04 -0500 — https://www.phoronix.com/news/Debian-APT-Removing-Features
+
+Stemming from the recent Debian APT man-in-the-middle attack from a vulnerability in APT's downloading code and ongoing advancements in AI/LLMs around security research, APT is now resorting to disabling and removing some older, complex features that may make the program more vulnerable to finding exploits moving forward...
+
+### TUXEDO InfinityBook Pro 15 Gen11 AMD Pairs Ryzen AI 9 HX 470 With Up To 128GB Of RAM
+Thu, 19 Nov 2026 08:49:27 -0500 — https://www.phoronix.com/news/InfinityBook-Pro-15-Gen11
+
+Bavarian Linux PC vendor TUXEDO Computers today announced the InfinityBook Pro 15 Gen11 AMD laptop that pairs the current generation Ryzen AI 9 HX 470 CPU with up to 128GB of RAM and marketed as a premium-class business notebook...
 
 ### LiberNT: An AI-Fueled Fork Of ReactOS Focused On Windows 11 Compatibility
 Thu, 19 Nov 2026 07:56:46 -0500 — https://www.phoronix.com/news/LiberNT
@@ -198,47 +238,57 @@ Thu, 19 Nov 2026 05:41:47 -0500 — https://www.phoronix.com/news/Valkey-9.2
 
 Valkey 9.2 is out today as the latest feature update to this leading fork of the Redis in-memory, key-value database...
 
-### Mesa 26.3.1 Ships Fixes For Intel Jay Compiler & RADV Driver
-Thu, 19 Nov 2026 05:32:08 -0500 — https://www.phoronix.com/news/Mesa-26.3.1-Released
-
-Following the recent Mesa 26.3 release, Mesa 26.3.1 is now available as the first point release for those that prefer waiting until the x.1 milestone before upgrading to the new quarterly feature series...
-
-### AMD ROCm 10.2 Released With Latest Optimizations, Expanded Ryzen Laptop Support
-Wed, 18 Nov 2026 21:06:39 -0500 — https://www.phoronix.com/news/AMD-ROCm-10.2
-
-AMD ROCm 10.2 is out today as the newest six-week feature release to this open-source AMD Radeon/Instinct GPU compute stack...
-
-### Dell XPS 14 DA14260 Powered By Intel Panther Lake Delivers Nice Linux Experience
-Wed, 18 Nov 2026 16:37:15 -0500 — https://www.phoronix.com/review/dell-xps-14-panther-lake
-
-For those looking for a new laptop with Linux pre-loaded and have been eyeing the Intel Core Ultra Series 3 "Panther Lake" for its nice Xe3 Arc B390 graphics and overall power efficiency, Dell recently certified their XPS 14 (DA14260) laptop for Ubuntu 26.04 LTS Linux use. This latest Dell XPS 14 is well built and provides a nice and performant out-of-the-box Linux experience.
-
-### NVIDIA 620.73.04 Linux Driver Released With Bug FIxes
-Wed, 18 Nov 2026 12:10:40 -0500 — https://www.phoronix.com/news/NVIDIA-620.73.04-Linux
-
-Following the release of the NVIDIA 620.70.06 Linux driver from two weeks ago as their first public version in the R620 branch, the NVIDIA 620.73.04 is now the newest driver in that latest series...
-
-### Wine Merges Remote OpenGL Swapchain Image Presentation, CEF Now Works With Wayland
-Wed, 18 Nov 2026 08:11:00 -0500 — https://www.phoronix.com/news/Wine-OpenGL-Cross-Proc-Render
-
-Merged for Wine 11.23 releasing next week is a big improvement and one that also improves the native Wayland driver support for Wine...
-
-### Multikernel Linux Comes To ARM64, mklinux 7.0-mk5 Released
-Wed, 18 Nov 2026 08:02:12 -0500 — https://www.phoronix.com/news/Multi-Kernel-mklinux-7.0-mk5
-
-The out-of-tree Multikernel Linux patches for allowing multiple independent kernel instances to run on the same physical machine is out with a new version...
-
-### AI-Powered Sashiko Introduces Experimental Patch Series Design Assessment
-Wed, 18 Nov 2026 06:13:06 -0500 — https://www.phoronix.com/news/Sashiko-0.9.4-Released
-
-When it comes to leveraging AI for Linux kernel development, one of the most widely-used solutions at the moment is Sashiko that has evolved nicely over the past year for agentic AI code review. This AI-driven screening of generated code posted to the Linux kernel mailing list constantly identifies bugs and other code defects in a quick and straight-forward manner. With being developed and maintained by Google engineers, it uses Gemini by default but is LLM-agnostic overall. Released on Tuesday was Sashiko v0.9.4 as the next step forward for this Linux kernel helper...
-
-### 3mdeb Updates The Open-Source Firmware For Aging AMD Jaguar Powered PC Engines APU2
-Wed, 18 Nov 2026 06:00:02 -0500 — https://www.phoronix.com/news/3mdeb-2026-Firmware-APU2
-
-The PC Engines APU2 single board computer debuted all the way back in 2015 with the AMD Jaguar-powered GX-412TC quad-core SoC and 2~4GB of DDR3 memory. While PC Engines discontinued the APU2 SBC several years ago, these boards have been quite popular for networking/firewall applications and other similar low-power, networking-oriented setups. If you still happen to be using PC Engines APU2 hardware, 3mdeb today released updated system firmware for this decade old SBC...
-
 ## The Register
+
+### Palo Alto Networks opens wallet for open-weight training biz
+Thu, 19 Nov 2026 20:00:00 +0000 — https://www.theregister.com/ai-and-ml/2026/11/19/palo-alto-networks-opens-wallet-for-open-weight-training-biz/5311168
+
+As AI has become a thorn in the side of the security industry, Palo Alto Networks (PAN) has reached an agreement to acquire Applied Compute, an AI model training platform. "We believe many of the major disruptions of the last few weeks, including outages across major enterprises and governments, were partially due to unintended consequences of patching and configuration changes, as IT teams simply cannot patch these vulnerabilities fast enough without compromising their production environments," said Nikesh Arora, chairman and CEO of PAN, during the company's fiscal Q1 2027 earnings call on Wednesday. "The second effect is the rise of AI-assisted cyberattacks." So in the spirit of "hair of the dog that bit me," PAN is ingesting Applied Compute to make open-weight AI more secure for corporate customers. The answer to insecurity brought on by AI is buying security with AI. In its announcement of the tie-up, PAN declares "the future of enterprise AI is hybrid, and that a large share of enterprises will run on open-source and open-weight models tuned to their own data, cost, and control needs." That view has been clouded a bit by Nvidia co-founder Jensen Huang's fall from grace: Back in July, he came to the defense of open-weight models as a defense against the hegemony of purveyors of closed-weight commercial models like Anthropic, Google, Microsoft, and OpenAI. His resignation as CEO of Nvidia has led to worries that the open-weight ecosystem has lost some lobbying power at a t
+
+### Nvidia adds possible hack to list of very bad things under investigation
+Thu, 19 Nov 2026 18:52:53 +0000 — https://www.theregister.com/security/2026/11/19/nvidia-adds-possible-hack-to-list-of-very-bad-things-under-investigation/5311153
+
+Finding a new CEO is just one of their problems. Nvidia is investigating an alleged breach following claims by ransomware group The Gentlemen's affiliates that they hacked the AI giant and stole sensitive information. The embattled chipmaker told The Register 's that it was investigating a possible third-party data breach. “We have found no indication that Nvidia systems or networks were affected,” a spokesperson said. “We continue to monitor the situation." The ransomware gang’s data-leak site, shared on social media and seen by The Register , doesn’t show any stolen files or indicate what information the group claims to have stolen. Nvidia first appeared on the criminals’ blog on Wednesday, with The Gentlemen promising “DATA INFO - SOON.” The post also included a countdown, ending November 28. While we can’t verify the criminals’ claims, the group, which emerged in mid-2025 , is one of the most prolific ransomware-as-a-service operations. Its affiliates claimed more than 320 victims as of April, with the majority of these alleged ransomware infections (240) occurring in the first half of 2026. The actual count, however, is likely much higher. Check Point researchers accessed an affiliate’s live command-and-control server during an incident response case earlier this year. The server contained victim telemetry that revealed more than 1,570 victims , mostly located in the US, and primarily corporate and organizational environments. According to an operational technology (OT) 
+
+### XXRI-OS explores the lowest end of the Linux desktop
+Thu, 19 Nov 2026 18:35:00 +0000 — https://www.theregister.com/os-platforms/2026/11/19/xxri-os-explores-the-lowest-end-of-the-linux-desktop/5311036
+
+New Linux distros seem to appear daily, but far too few distinguish themselves by being smaller and simpler. XXRI OS is a fairly new desktop Linux distro. It has a snazzy-looking website, complete with an amusing URL, and along similar lines, its GitHub page has a very heavily formatted README. Nonetheless, this is not another over-complex opinionated slopfest of an OS with built-in AI, bizarre keystrokes, and several proprietary components. It's almost the reverse. The main download is just 287.4 MB, and that's the full distro, not a minimalist installer that fetches most of the OS over your internet connection. We installed it in a VirtualBox VM. It took 675 MB of disk space, and in the graphical desktop, when we opened a terminal window, it reported just 75 MB of RAM in use with the desktop and terminal running. We are restraining ourselves hard when we say that those are unusually low numbers for the 2020s. We would expect most cut-down lightweight Linux distros to use around five to 10 times as much disk space or memory. The current release of XXRI-OS is version 2.7. XXRI OS 1.0 came out in May 2025, making this a young project with five published releases already behind it. It also has much deeper roots: it is based on the existing and much older Tiny Core Linux . The Reg FOSS desk last looked at Tiny Core Linux 15 back in March 2024 and the project is still going strong: the latest version is version 17.1. Tiny Core Linux is a marvel, but there are prices to pay for so
+
+### Anthropic throws open doors at $2T valuation as shares pop 34% in initial trading
+Thu, 19 Nov 2026 17:09:45 +0000 — https://www.theregister.com/ai-and-ml/2026/11/19/anthropic-throws-open-doors-at-2t-valuation-as-shares-pop-34-in-initial-trading/5311143
+
+Welcome to the world of public AI frontier labs: Anthropic is now a publicly-held company with its Thursday IPO, and investors are clamoring for a piece of the pie, for now anyway. That $83 IPO price didn’t last long, with shares rocketing to $111.50 by the time the public could get their hands on them at the end of the initial auction. That means that the company was valued at around $2 trillion as of the public availability of the 980 million shares it put up for sale, a 34 percent increase over the IPO price. At just under six years old, Anthropic’s meteoric rise to that valuation has sent investors into a frenzy despite uncertainties surrounding the company’s future profitability. As we’ve noted, Anthropic is on the hook for nearly $1 trillion in compute obligations that could drag its profitability prospects down if any one of a number of scenarios happens to materialize. Amodei was on hand to address some of those questions with CNBC this morning following the opening of markets on his company’s big day. When asked about the risk Anthropic’s massive compute bills to its bottom line, Amodei admitted the company’s needs are difficult to predict, and that - get this - they try to err on the low side. That’s right: The $900 billion in infrastructure and compute commitments that Anthropic revealed in a recent regulatory filing, which could end up surpassing $1T in short order, might just be an underestimate of what the company will need in coming months and years. Not to wor
+
+### NAND prices tipped to fall as Chinese cloud giants cut SSD orders
+Thu, 19 Nov 2026 17:02:00 +0000 — https://www.theregister.com/systems/2026/11/19/nand-prices-tipped-to-fall-as-chinese-cloud-giants-cut-ssd-orders/5311116
+
+NAND flash prices could start falling next year as Chinese cloud operators cut enterprise SSD orders, helping push the market toward oversupply. Taiwan-based market intelligence firm TrendForce says Chinese cloud service providers are grappling with GPU shortages, high inventories, and fierce competition over AI token pricing. As a result, they have reduced their total enterprise SSD orders for 2027 by a substantial amount. Although TrendForce doesn't specify any figures, it says the cutbacks in China are large enough to outweigh the additional demand coming from US-based cloud operators. But don't get too excited: TrendForce forecasts overall NAND flash contract prices falling by 0-5 percent quarter on quarter in early 2027, with all product categories entering a downturn from the second quarter. Falling orders are only half the story. Manufacturers are also increasing output, while weaker consumer electronics sales could further depress demand. Strong demand for high-performance storage in the US continues to drive manufacturers to expand capacity and upgrade to newer process technologies. At the same time, the rising adoption of quad-level cell (QLC) technology and increasing number of layers in the NAND chips will further boost bit output, TrendForce observes. Some suppliers may go slower on their expansion plans in response to sluggish consumer demand, but the firm still expects global NAND flash output, measured in storage capacity, to grow by 25 to 30 percent in 2027. 
+
+### Russian national accused of stalking San Francisco techie in plot against US defense-tech giant
+Thu, 19 Nov 2026 16:20:00 +0000 — https://www.theregister.com/security/2026/11/19/russian-national-accused-of-stalking-san-francisco-techie-in-plot-against-us-defense-tech-giant/5311126
+
+A Russian national is being held in custody after being arrested for allegedly spying on a US defense tech company in Palo Alto, shoulder-surfing employees, and dropping remote surveillance devices at their homes. Igor D'iu was indicted after FBI agents surveilled his activities between June and October 2026, which they say were issued as "tasks" from what is thought to be Russia’s Federal Security Service (FSB), according to an affidavit [PDF] signed by an FBI special agent. After FBI agents secured a warrant to raid D'iu's temporary premises in October, they say that Telegram messages harvested from his seized devices confirmed investigators' findings and revealed that he was spying on an unnamed company. Court documents describe the company in question as a large technology and defense company with offices in Palo Alto, and media-reported links to the Russia-Ukraine war. While unconfirmed officially, the company has widely been reported as Palantir , which did not respond to our request for confirmation. D'iu allegedly received instructions from Telegram contacts, whom he only suspected were representatives of the Russian government, weeks after entering the US illegally in July. The indictment alleges he was ordered to surveil employees' homes, take photographs of their screens while working remotely at coffee shops, and permit his handlers to remotely access his laptop for the purpose of capturing data from nearby devices owned by the company’s employees. In some cases, 
+
+### Europe's biggest gas supplier battling cyberattack – with no timeline for recovery
+Thu, 19 Nov 2026 15:37:00 +0000 — https://www.theregister.com/cyber-crime/2026/11/19/europes-biggest-gas-supplier-battling-cyberattack-with-no-timeline-for-recovery/5311026
+
+Norwegian energy giant Equinor is battling a cyberattack on its IT systems, though the company insists that hackers haven't disrupted its oil and gas production. Equinor, Europe's largest supplier of natural gas, first disclosed the attack on Tuesday evening, saying it had called in the relevant resources to deal with the intrusion and had found no indication that any data had been stolen. In an update on Wednesday, the company said it had a better handle on how the attack was carried out and which of its systems had been compromised, though it stopped short of sharing either of those details. "As this is not a virus attack, there is no risk of the attack spreading," Equinor said. The company added that it had found nothing to suggest the incident would affect employees, partners, or suppliers. In a further update on Thursday, Equinor said the attack remained ongoing but did not appear to be specifically targeting the company. Production continued normally, with no indications that data had been stolen or altered. The incident has been reported to police. What kind of attack Equinor is dealing with remains a mystery. The company hasn't identified those responsible, disclosed whether it's received any demands from the hackers, or said when it expects the affected systems to be fully restored. The Register has asked Equinor to elaborate, including whether any of its UK operations have been affected and whether the hackers managed to venture beyond its corporate IT network. Equi
+
+### European Commission scrambles to contain AI-assisted cyberattack
+Thu, 19 Nov 2026 15:14:54 +0000 — https://www.theregister.com/cyber-crime/2026/11/19/european-commission-scrambles-to-contain-ai-assisted-cyberattack/5311103
+
+The European Commission is picking up the pieces after hackers wielding an AI-powered security testing tool targeted its internal IT systems, potentially exposing staff members' personal data. The attack, first reported by Politico, has caused more than 10 days of disruption at the EU's executive arm. Among the applications temporarily taken offline were Sysper, which staff use to access payslips, submit timesheets, and request vacation time, and MyPMO, which handles medical reimbursements. Both were brought back online earlier this week, though Sysper fell over again on Wednesday. The Commission's translation services were also affected. "The European Commission has taken the necessary steps in response to a detected cyber campaign," Commission spokesperson Thomas Regnier told Politico. "Individual systems were targeted and, in line with our standard practice, we have informed those concerned." According to Politico's sources, the Commission's cybersecurity defenders detected hackers using ARTEX, a publicly available AI-powered penetration testing framework. The incident prompted an emergency meeting of the Commission's Corporate Management Board earlier this month, and tech commissioner Henna Virkkunen briefed her fellow commissioners on Wednesday. The Commission has yet to respond to The Register 's questions about the attack, including whether the crooks got their hands on employee data or whether the applications were simply taken offline as a precaution. The attack migh
+
+### Union demands Capita lose Whitehall payroll deal after pensions fiasco
+Thu, 19 Nov 2026 14:44:00 +0000 — https://www.theregister.com/public-sector/2026/11/19/union-demands-capita-lose-whitehall-payroll-deal-after-pensions-fiasco/5311050
+
+The Public and Commercial Services Union (PCS) is campaigning to scrap Capita's Whitehall shared services contract, citing the outsourcer's troubled handling of civil service pensions. The Synergy deal, which Capita values at £370 million, covers HR, payroll, finance, and other back-office services across four government departments and nearly 100 arm's-length bodies. PCS wants the Department for Work and Pensions (DWP), which leads the program, to bring the work in-house. In a statement shared on X , the union pointed to Capita's troubled administration of the separate Civil Service Pension Scheme , which has left thousands of retirees struggling to access payments. "The ongoing Capita pensions scandal has left civil servants facing financial hardship, distress and uncertainty. Now MPs are raising serious questions about the government's decision to award Capita the Synergy contract, putting the company in charge of vital payroll and HR services affecting more than 250,000 civil servants," the statement said. "How many more warnings does the government need? In Parliament, MPs have challenged Capita's record, highlighted the devastating consequences of pension administration failures and questioned the wisdom of handing the company even greater responsibility. "PCS has warned for years about the dangers of outsourcing essential public services. We need accountability. We need answers. And we need a government that puts public servants before private profit. Stop the Capita S
+
+### Qualcomm offers test drive of its rack-scale Nvidia AI challenger
+Thu, 19 Nov 2026 14:03:00 +0000 — https://www.theregister.com/systems/2026/11/19/qualcomm-offers-test-drive-of-its-rack-scale-nvidia-ai-challenger/5310966
+
+Qualcomm has opened cloud-based trials of its Dragonfly AI200 rack-scale inference system to selected customers through Cirrascale Cloud Services. Dragonfly AI200 is Qualcomm's pitch for running large language, multimodal, and other AI models without Nvidia-sized power and operating bills. Whether it delivers those savings is something customers can now put to the test on Cirrascale's AI Innovation Cloud, with a route into production deployments, Qualcomm says. Cirrascale also demonstrated the system at SC26 in Chicago on November 17-18. The AI200 is part of Qualcomm's Dragonfly datacenter lineup, which also includes the AI250 and AI300 accelerators and the C1000 server CPU. The company set out its broader ambitions at its Investor Day in June . Each AI200 accelerator card carries 768 GB of LPDDR memory, with 56 cards providing about 43 TB in a liquid-cooled rack. Qualcomm says the system supports models ranging from 7 billion to 10 trillion parameters, including long-context, retrieval-augmented generation (RAG), and agentic workloads. As we previously explored , packing in memory doesn't necessarily mean matching Nvidia's performance. Its Blackwell-based NVL72 systems use fast – and costly – HBM3e stacks, while Qualcomm has opted for LPDDR, more commonly found in mobile devices. "AI inference is becoming one of the largest and most important computing workloads in the datacenter, and the industry needs a more efficient approach," said Tony Pialis, Qualcomm's executive vice 
 
 ### Voyager 1 celebrates one light-day with a nice lie-down
 Thu, 19 Nov 2026 13:15:00 +0000 — https://www.theregister.com/science/2026/11/19/voyager-1-celebrates-one-light-day-with-a-nice-lie-down/5310991
@@ -250,177 +300,127 @@ Thu, 19 Nov 2026 12:26:00 +0000 — https://www.theregister.com/personal-tech/20
 
 Microsoft has slipped some bad news into this week's Ignite AI puffery: the To Do apps are retiring on June 30, 2027, ending a journey that began with its acquisition of Wunderlist more than a decade ago. The confirmation came in an announcement about unified tasks and plans for Copilot and Microsoft 365. Until now, there was To Do or Planner (in basic or premium guise). The idea is "a single system for tracking your work as an individual, as a team, and as an organization." To Do contributes features to that future, but its apps don't get to join it. The problem is that Planner doesn't do everything To Do does. Microsoft would like users to migrate to Planner but, by the company's own admission , there are plenty of gaps. No native Windows or Mac desktop apps are planned to replace To Do; file attachments aren't supported on tasks in the Planner private plan, and there's no equivalent to To Do list groups in Planner. "Equivalent To Do printing and email-list capabilities are not currently planned for the replacement experience," and so on. Existing To Do tasks and lists won't migrate to Planner either. They'll remain accessible through Planner until June 30, 2027, but that access ends with the apps. Microsoft says the date does not itself trigger deletion of the underlying data. Personal Microsoft account holders are left in an even worse state: Planner isn't available to them, including Microsoft 365 Personal and Family subscribers. Microsoft's advice is to choose another t
 
-### Cyberattack on service provider exposes payee data at 40 Irish credit unions
-Thu, 19 Nov 2026 11:45:00 +0000 — https://www.theregister.com/security/2026/11/19/cyberattack-on-service-provider-exposes-payee-data-at-40-irish-credit-unions/5310979
-
-An attack on software provider Wellington IT exposed saved payee details held by around 40 Irish credit unions, prompting a minister to criticize the company's delay in notifying them. Robert Troy, Ireland's minister of state with responsibility for credit unions, said the breach happened in October but many affected institutions only learned of it in recent days. Troy told Irish broadcaster RTÉ that the breach occurred "sometime in October," and Wellington IT's delay in providing details to its credit union customers was "not acceptable." News of the issues affecting Irish credit unions broke on Tuesday, although the government said at the time it was only investigating a "possible cybersecurity incident" in the first instance, and did not name Wellington IT until Wednesday. Affected credit unions said attackers exploited a vulnerability in their provider's online banking platform between October 2 and 4. The flaw was closed on October 6. Troy said the affected credit unions were only informed for the first time in recent days. The exposed records concern payees saved in members' online banking accounts. Those records can also be linked to the members who created them. The information exposed varies between institutions and individual records, but disclosures list the following data types: Names on payee bank accounts and saved nicknames Business Identifier Codes (BICs) International Bank Account Numbers (IBANs) Sort codes Payment references Internal reference numbers that d
-
-### TfL takes Oyster photocard website offline after attackers compromise customer accounts
-Thu, 19 Nov 2026 11:01:00 +0000 — https://www.theregister.com/security/2026/11/19/tfl-takes-oyster-photocard-website-offline-after-attackers-compromise-customer-accounts/5310985
-
-Transport for London (TfL) has copped to another cybersecurity breach, this time involving the account details of around 265,000 Oyster photocard customers. The capital's transport operator told The Register it first became aware something was amiss on November 16, when Oyster photocard customers started receiving emails asking them to create accounts they already had. The emails came from TfL's own systems, the transport body confirmed, but were generated as a result of the compromise. "We immediately took the TfL photocard website down while this was being investigated," said Shashi Verma, TfL's director of technology strategy and revenue. "The protection of personal information is a priority for us, and I apologize to our customers affected by this incident." TfL reckons its speedy response spared a considerable number of customers from having their details compromised. The transport operator says it has since contained the incident and contacted those potentially affected, though it is rather more forthcoming about what the hackers didn't get their hands on than what they did. TfL says no passwords, bank or payment card details, or customer journey information were compromised. It also believes the names and dates of birth of children with Zip Oyster cards were unaffected. Among those whose accounts may have been compromised are holders of Zip Oyster cards – issued to children as young as five – as well as students, apprentices, care leavers, veterans, and Londoners aged 
-
-### Sticky note on monitor provided keys to the company’s kingdom
-Thu, 19 Nov 2026 10:15:00 +0000 — https://www.theregister.com/security/2026/11/19/sticky-note-on-monitor-provided-keys-to-the-companys-kingdom/5310908
-
-Welcome, once again, to PWNED, where we talk smack about organizations that have smacked themselves down by practicing poor security hygiene. This week's story involves everyone's favorite low-tech password manager: the sticky note. Our terrifying tale comes courtesy of Christian Espinosa, a certified penetration tester with over 30 years of experience and the CEO of Blue Goat Cyber , a security company. Espinosa shared an experience where critical credentials were right out in the open for any person in the office to see. During a walkthrough of a client's office, he noticed a password written on a sticky note that was taped to an employee's monitor. While writing down your password and placing it in a physically secure paper notebook might be ok, taping it to the computer is definitely not. "Before I get my fingers on any system, I first walk the physical area that the system is located in — attackers do that when they're looking at a target too," Espinosa explained. “Physical security vulnerabilities are neglected much more often than technical security vulnerabilities and firms invest in firewalls where a sticky note is placed 3 feet from the front door." Espinosa took a photo of the sticky note and immediately tried logging into that employee's account. Success. Then, he tried the very same password on the VPN, which apparently had been maintained by that employee. Once he connected to the VPN, Espinosa had full access to the company network and all of its shared drives.
-
-### Uncensored AI models are thriving on code hosting platforms
-Thu, 19 Nov 2026 09:30:00 +0000 — https://www.theregister.com/ai-and-ml/2026/11/19/uncensored-ai-models-are-thriving-on-code-hosting-platforms/5310891
-
-Uncensored large language models (ULLMs) capable of producing harmful content are readily available at popular model-hosting websites, calling into question AI industry commitments to safety. Researchers affiliated with University of Illinois Urbana-Champaign in the US and Nanyang Technological University in Singapore have analysed 22,096 ULLMs collected from five major LLM hosting platforms. As described in their paper , "Characterizing the Ecosystem of Open-Source Uncensored Large Language Models: Supply Chain, Governance, and Risks," authors Zilong Lin, Zichuan Li, Xiaojing Liao, and XiaoFeng Wang found that uncensored LLMs are easy to obtain from hosting platforms like US-based Hugging Face, Kaggle, and John Snow Labs, and China-based OpenCSG and ModelScope. What's more, these unrestrained models have been deployed through applications, GitHub projects, and model routing platforms like Open Router, and users of those apps or services may not be aware of the nature of the underlying LLM. "Uncensored LLMs generally refer to LLMs whose content filtering or refusal safeguards are absent, removed, or weakened, allowing them to respond to requests that aligned models may refuse," the paper explains. Zilong Lin, lead author and assistant professor of computer science at the University of Missouri-Kansas City, told The Register that open source LLM hosting platforms like Hugging Face play a similar role to code hosting services like GitHub, GitLab, and Codeberg in the open source
-
-### Google continues model chemistry experiment with Neon
-Thu, 19 Nov 2026 08:30:00 +0000 — https://www.theregister.com/ai-and-ml/2026/11/19/google-continues-model-chemistry-experiment-with-neon/5310934
-
-Google periodically tables new AI models named after elements, and its latest offering has the noble name "Neon." "Engineered for long-running agent workflows, Neon sustains performance through complex, tool-heavy tasks end-to-end — whether running standalone or acting as a fast, high-judgment Orchestrator directing parallel Hydrogen subagents in Google Antigravity," explained Koray Kavukcuoglu, SVP at Google DeepMind and chief AI architect at Google, in a blog post . Neon emerged after Google last week emitted Hydrogen , after delivering Carbon two weeks earlier and wafting Argon out the door in late September. Unlike OpenAI's celestial more intuitive model naming scheme – Astra, Sol, Luna, and Terra – which maps celestial position to capability, Google's chemical soup doesn't suggest a specific hierarchy. To judge by price , Carbon or Argon would be Google's top tier model, based on non-discounted price that takes effect next month, each priced at $4/M input tokens, $20/M output. The Chocolate Factory refers to Carbon as "Our most capable reasoning model" while Argon is "Our efficient Gemini 4 frontier reasoning model … with faster responses and lower token spend per turn compared to Gemini 4 Carbon across complex coding, agentic, math, and science tasks." Yet Neon, the latest element in the mix, surpasses both in Artificial Analysis' Intelligence Index , scoring 61 compared to Carbon at 60, Hydrogen at 54, and Argon at 50. At the same time, Neon costs less, at $3/M input t
-
-### GTA VI didn't break the internet, thanks to 'stupid DNS tricks'
-Thu, 19 Nov 2026 05:57:30 +0000 — https://www.theregister.com/networks/2026/11/19/gta-vi-didnt-break-the-internet-thanks-to-stupid-dns-tricks/5310950
-
-Grand Theft Auto VI may put a dent in global productivity today but the game didn’t break the internet. For those unfamiliar, GTA VI is the first new instalment of the mega-hit game in 13 years and it is nearly impossible to understate the excitement surrounding its release. Anecdotal evidence suggests fans of the game may today report they suddenly feel unfit to perform paid work. Developer Rockstar Games allowed Xbox and PlayStation owners to pay for and download the 200GB-plus game on November 10, before play commenced on the 19 th . Millions took advantage of the chance to download the game, creating just the sort of internet traffic event that regional internet registry the Réseaux IP Européens Network Coordination Centre (RIPE NCC) can observe with its RIPE Atlas internet measurement network. RIPE data scientist Emile Aben, with help from staffers Alun Davies and James Cowie, went looking for GTA-related traffic and found some interesting patterns . Aben observed that traffic to PlayStations mostly came from content delivery networks operated by AWS and Fastly. Microsoft relied on Fastly for over half of traffic flowing to Xboxes and used Akamai too, but eschewed AWS's CloudFront. The data scientist observed heavy use of “GeoDNS,” a technique that returns different IP addresses for a single domain request, depending on a user’s location. DNS’s designers didn’t intend that. Indeed, the RIPE trio point out that Paul Vixie, the computer scientist who earned his place in th
-
-### South Korea tries to out exam cheats with Extreme Emergency smartphone alert
-Thu, 19 Nov 2026 03:33:34 +0000 — https://www.theregister.com/personal-tech/2026/11/19/south-korea-tries-to-out-exam-cheats-with-extreme-emergency-smartphone-alert/5310942
-
-At 08:30 on Thursday morning every powered-on mobile phone in South Korea blared out an Extreme Emergency Alert tone for 10.5 seconds – but the nation was at peace, with no major natural disasters occurring. The extreme emergency South Korea hoped to avoid was cheating in the annual College Scholastic Ability Test (CSAT), an exam that over half a million people sit in the hope of securing admission to their preferred university. This year, around a third of those applicants are repeating the test after their previous effort didn’t get them the result they wanted. CSAT involves five separate examinations staged in a single day. Participants can only bring pencils to the test. Smartphones or any sort of tech is strictly forbidden. Which is why Korean authorities used the national alert system on the day of CSAT, because if the 40dB tone sounded in an exam centre, it could indicate a student had deliberately or inadvertently tried to bring a smartphone – perhaps as an exam aide. Korean media report the 08:30 alert turned up nine phones. Authorities will send a second alert tone at an unspecified time later in the day to again smoke out any surreptitious smartphones. It’s not possible to opt out of the alerts, one reason a concerned netizen has used the Android issue tracker to suggest sending alerts to detect exam cheats could be an abuse of the emergency alert system that Google might want to do something about. South Korea sends a lot of emergency alerts, for matters such as h
-
-### Chinese web giant Tencent says new US GPU ban ‘sets everyone back in China’
-Thu, 19 Nov 2026 00:39:16 +0000 — https://www.theregister.com/systems/2026/11/19/chinese-web-giant-tencent-says-new-us-gpu-ban-sets-everyone-back-in-china/5310927
-
-The USA’s new ban on Chinese companies remotely accessing GPUs will have short-term impact, but ultimately see China accelerate its development of domestic alternatives, according to Martin Lau, the president of Chinese web giant Tencent. Speaking on the company’s Q3 earnings call, Lau said the new US regulation will have an “unfortunate” impact on Tencent’s business. “It does set everyone back. It sets everyone back in China,” Lau said. “So everyone is actually having less advanced compute to work with, no matter when you actually started leasing or building capacities outside of China.” He said the ban will impact Tencent’s ability to train models. “Our training efficiency with Hy4 is actually very high,” he said. “When we look at the next version, it would take probably longer time for us to come up with the next version in the short run.” “But over time, the domestic supply chain would actually come on board.” Lau also thinks the bans won’t hamper Tencent’s ability to run inferencing workloads, because made-in-China chips “should be able to cover it.” “And over the longer run, we believe all Chinese players would actually have to rely on domestic supply chains and domestic chips, which we see the industry is progressing very fast,” he added. “With the latest restriction, we expect it to actually speed up even further, because all the development effort would actually have to be focused on speeding up the domestic supply chain.” Tencent needs GPUs, and lots of them, becaus
-
-### Get ready for another critical PHP security release to drop
-Wed, 18 Nov 2026 22:38:12 +0000 — https://www.theregister.com/patches/2026/11/18/get-ready-for-another-critical-php-security-release-to-drop/5310911
-
-Apologies in advance to all patch managers and security teams that thought they might get a break this week. The PHP Foundation will release a “critical” security update on Thursday between 14:00 and 14:30 UTC. While we don’t have many details about the latest vulnerabilities – these haven’t been leaked like last month’s critical PHP2Shell flaws – a Wednesday advisory said the highest-severity bugs in the upcoming release are rated critical. “The issues rated critical require either non-default configuration or uncommon setups,” the foundation said , urging PHP users to “prepare to upgrade promptly once the releases become available.” We do know that one of the vulnerabilities is another remote code execution (RCE) flaw, tracked as CVE-2026-115560. In October, the PHP Foundation told The Register that it had reserved this CVE identifier for another RCE bug, but added it would not get an emergency fix like the earlier two PHP2Shell vulnerabilities because the third one doesn't pose the same risk. CVE-2026-115560 “requires a very unlikely combination of configuration and specific PHP application code, which we do not expect to occur in practical use of PHP,” Elizabeth Barron, executive director of the PHP Foundation, told The Register at the time. “The issue can be mitigated with a configuration setting. So for the moment the PHP Security Team has only published an informational advisory on the PHP website, explaining exactly this situation.” The earlier informational advisory 
-
-### Anthropic decides to go head-to-head with GTA VI release, schedules IPO for the same day
-Wed, 18 Nov 2026 21:40:09 +0000 — https://www.theregister.com/ai-and-ml/2026/11/18/anthropic-decides-to-go-head-to-head-with-gta-vi-release-schedules-ipo-for-the-same-day/5310872
-
-Well, it’s official: Anthropic will become the first publicly-traded frontier AI lab in history come the opening of markets on Thursday. The company kicked off its IPO roadshow last week, announcing plans to offer 825 million shares with an IPO price between $70 and $78 a share when sales begin Thursday. The company's most recent SEC filing cites that price range but allows for the possibility of a higher price, which should be determined Wednesday night. Late on Wednesday, Bloomberg reported that Anthropic would price at $83, citing people familiar. Whatever the case, Anthropic is likely to be valued at more than $1 trillion. Anthropic’s debutante ball has been on the horizon for a while, and documents leaked in late September made it all the more inevitable as the company’s finances revved up and it sought to capture the momentum of its best quarter to date before things start to tail off. The company revised its IPO documents on November 2, warning that the 12x growth it was touting was unlikely to continue in the long term due to compute infrastructure investments to the tune of nearly $900 billion it was on the hook for over the next few years. "In the nine months ended September 30, 2026, our revenue was $33.2 billion, representing a year-over-year growth rate of 1,206%," the revised prospectus reads. "We do not expect our revenue will continue to grow at comparable rates, and we cannot assure you that it will continue to grow at all." It’s possible, in other words, tha
-
 ## Engadget
 
-### Rockstar says that GTA 6's map has room to expand for future storylines
-Thu, 19 Nov 2026 13:30:02 +0000 — https://www.engadget.com/2321545/rockstar-says-that-gta-6s-map-has-room-to-expand-for-future-storylines/
+### Meta's Muse Charm will reportedly cost $300 and come with free Verizon 5G
+Thu, 19 Nov 2026 22:56:42 +0000 — https://www.engadget.com/2322541/metas-muse-charm-will-reportedly-cost-300-and-come-with-free-verizon-5g/
 
-Rockstar's VP of design Stephen Donkin told 'Kotaku' that GTA VI's map 'has been built for the long term.'
+Meta's standalone AI gadget won't be cheap, but it might come with a free data plan.
 
-### Canva will let users switch off most generative AI
-Thu, 19 Nov 2026 12:30:00 +0000 — https://www.engadget.com/2321318/canva-will-let-users-switch-off-most-generative-ai/
+### Meta Quest adds 3D movie purchases and rentals to its TV app
+Thu, 19 Nov 2026 21:06:58 +0000 — https://www.engadget.com/2322428/meta-quest-adds-3d-movie-purchases-and-rentals-to-its-tv-app/
 
-Canva is rolling out new settings to purge most generative AI from its app.
+The headlining film is a Billie Eilish 3D concert experience co-directed by James Cameron.
 
-### DOJ accuses Russian national of spying on and harassing Palantir employees
-Thu, 19 Nov 2026 10:33:59 +0000 — https://www.engadget.com/2321489/doj-accuses-russian-national-of-spying-on-and-harassing-palantir-employees/
+### You can now purchase the 512GB Steam Machine like a normal console
+Thu, 19 Nov 2026 20:42:38 +0000 — https://www.engadget.com/2322377/you-can-now-purchase-the-512gb-steam-machine-like-a-normal-console/
 
-The DOJ says the Russian national was ordered to spy on Palantir over Ukraine's use of its software for wartime purposes.
+Valve has worked through the waitlist for the smaller version of its gaming PC.
 
-### Elon Musk accuses Ukraine of being 'untruthful' about Starshield disruptions
-Thu, 19 Nov 2026 08:36:56 +0000 — https://www.engadget.com/2321464/elon-musk-accuses-ukraine-of-being-untruthful-about-starshield-disruptions/
+### Employees call out Google over AI Search in schools
+Thu, 19 Nov 2026 20:00:12 +0000 — https://www.engadget.com/2322304/employees-call-out-google-over-ai-search-in-schools/
 
-Elon Musk has accused Ukraine president Volodymyr Zelenskyy of being 'untruthful' about Starshield disruptions.
+The Alphabet Workers Union voiced concern over Google requiring its AI tools be bundled with Search.
 
-### Waymo pauses service in San Francisco after robotaxis get stuck on flooded streets
-Wed, 18 Nov 2026 23:23:57 +0000 — https://www.engadget.com/2321312/waymo-pauses-service-in-san-francisco-after-robotaxis-get-stuck-on-flooded-streets/
+### Apple TV expands its racing coverage with the all-female F1 Academy
+Thu, 19 Nov 2026 19:16:42 +0000 — https://www.engadget.com/2322221/apple-tv-expands-its-racing-coverage-with-the-all-female-f1-academy/
 
-Waymo temporarily paused service in San Francisco after several robotaxis caused traffic jams as they were unable to navigate flooded streets during a storm.
+The platform will air "every qualifying session and race throughout the season."
 
-### Rockstar just settled a major question about GTA 6's controversial FPS decision
-Wed, 18 Nov 2026 21:03:40 +0000 — https://www.engadget.com/2321134/rockstar-just-settled-a-major-question-about-gta-6s-controversial-fps-decision/
+### Ubisoft lays off 166 more workers, opens a generative AI studio
+Thu, 19 Nov 2026 19:06:04 +0000 — https://www.engadget.com/2322205/ubisoft-lays-off-166-more-workers-opens-a-generative-ai-studio/
 
-You can forget about a 60 fps mode on current-gen consoles, even in future patches.
+Even Rockstar developers fear layoffs, as GTA 6 rakes in billions of dollars.
 
-### GTA 6's cops will remember you thanks to the 'Heat' system
-Wed, 18 Nov 2026 19:34:34 +0000 — https://www.engadget.com/2320983/gta-6s-cops-will-remember-you-thanks-to-the-heat-system/
+### Anthropic is now a public company worth more than $1 trillion
+Thu, 19 Nov 2026 18:41:26 +0000 — https://www.engadget.com/2322144/anthropic-is-now-a-public-company-worth-more-than-1-trillion/
 
-It's a fun evolution of the iconic Wanted mechanic.
+The company was briefly valued at more than $2 trillion.
 
-### Xreal Aura review: Solid AR glasses hampered by Google's half-baked Android XR
-Wed, 18 Nov 2026 19:30:00 +0000 — https://www.engadget.com/2320945/xreal-aura-review/
+### How to game share GTA 6 and split the cost with a friend
+Thu, 19 Nov 2026 18:00:48 +0000 — https://www.engadget.com/2322043/how-to-game-share-gta-6-split-cost/
 
-For $1,099, we should expect more.
+You can do this on Xbox Series X and PlayStation 5.
 
-### You can finally edit an Instagram Story without deleting it
-Wed, 18 Nov 2026 19:14:19 +0000 — https://www.engadget.com/2320953/you-can-finally-edit-an-instagram-story-without-deleting-it/
+### Google signs deal with Blue Origin to send satellite data centers into orbit
+Thu, 19 Nov 2026 17:38:44 +0000 — https://www.engadget.com/2321988/google-signs-deal-with-blue-origin-to-send-satellite-data-centers-into-orbit/
 
-There's a 15-minute window to fix typos and make other changes.
+This is part of Project Suncatcher, an experiment aimed at running AI systems in space.
 
-### You can't use GTA 6 cheats until you beat the game
-Wed, 18 Nov 2026 18:25:40 +0000 — https://www.engadget.com/2320852/you-cant-use-gta-6-cheats-until-you-beat-the-game/
+### Apple HomePod mini 2 review: A necessary, but underwhelming update
+Thu, 19 Nov 2026 17:30:00 +0000 — https://www.engadget.com/2321939/apple-homepod-mini-2-review/
 
-Some even require players to complete specific challenges.
+The most notable upgrade on the HomePod mini 2 is its S10 chip, which is supposed to power Siri AI, but that's still in the works.
 
-### GTA 6 is here: Live updates on surprises, favorite characters and news on the biggest game of the year
-Wed, 18 Nov 2026 18:00:00 +0000 — https://www.engadget.com/2320788/gta-vi-launch-day-live-blog/
+### You won't find this fan favorite feature in GTA 6
+Thu, 19 Nov 2026 17:23:58 +0000 — https://www.engadget.com/2321965/you-wont-find-this-fan-favorite-feature-in-gta-6/
 
-We're playing, you're playing, everyone's playing. Come join us as we share everything we find out about Rockstar's biggest game.
+Replaying missions is possible, but not easy.
 
-### AI found a hole in Java, and it starts with 'AAAAAAAA...'
-Wed, 18 Nov 2026 17:59:47 +0000 — https://www.engadget.com/2320797/ai-found-a-hole-in-java-and-it-starts-with-aaaaaaaa/
+### How to switch camera views in GTA 6
+Thu, 19 Nov 2026 17:18:44 +0000 — https://www.engadget.com/2321960/gta-6-how-to-switch-camera-views/
 
-The bug could let hackers take over systems at banks, hospitals and most Fortune 500 companies.
+The game only offers a first-person perspective in very limited circumstances.
 
 ## TechCrunch
 
-### Microsoft CEO Satya Nadella explains why he asked 60K employees to quit
-Thu, 19 Nov 2026 00:42:56 +0000 — https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/
+### Want to see your live AI usage on your Mac s icons? This clever new app lets you
+Thu, 19 Nov 2026 22:33:26 +0000 — https://techcrunch.com/2026/11/19/want-to-see-your-live-ai-usage-on-your-macs-icons-this-clever-new-app-lets-you/
 
-Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect.
+IconSwapper brings your Mac's app icons to life with real-time data, animations, and playful customizations that make your desktop more fun.
 
-### Elon Musk says: I m not MAGA
-Thu, 19 Nov 2026 00:40:49 +0000 — https://techcrunch.com/2026/11/18/elon-musk-says-im-not-maga/
+### Meta s new Muse Charm device may cost $300
+Thu, 19 Nov 2026 21:58:06 +0000 — https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/
 
-During his appearance Wednesday at The New York Times' DealBook Summit, Elon Musk said that he wasn't sure what the term "MAGA" meant and also commented that he felt "pretty foolish" for having spent so much money during the U.S. midterms.
+Meta hasn't denied the reporting from The Information, saying only that it will "have more to share soon" about its upcoming AI wearable.
 
-### Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is unpatchable
-Wed, 18 Nov 2026 23:45:00 +0000 — https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/
+### These tech outages are giving Y2K, AI agent style
+Thu, 19 Nov 2026 21:42:31 +0000 — https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/
 
-The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.
+Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.
 
-### Elon Musk says ousting Jensen Huang is like kicking Michael Jordan off your team
-Wed, 18 Nov 2026 23:25:17 +0000 — https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/
+### Uber tests rides for kids as young as 10, with extra pay for drivers
+Thu, 19 Nov 2026 21:33:24 +0000 — https://techcrunch.com/2026/11/19/uber-tests-rides-for-kids-as-young-as-10-with-extra-pay-for-drivers/
 
-“I don’t think [Huang is] disloyal to the United States," Musk said.
+Uber is testing the new program in three U.S. cities.
 
-### Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit
-Wed, 18 Nov 2026 23:17:28 +0000 — https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/
+### The unfolding Jensen Huang scandal: a timeline
+Thu, 19 Nov 2026 20:18:49 +0000 — https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/
 
-Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.
+Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.
 
-### Satya Nadella predicts AI agents will reshuffle the economics of the web
-Wed, 18 Nov 2026 22:58:11 +0000 — https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/
+### Anthropic s IPO could deliver $156B to charity
+Thu, 19 Nov 2026 19:10:45 +0000 — https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/
 
-Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.
+At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.
 
-### Anthropic prices IPO at $83 a share, above projected range
-Wed, 18 Nov 2026 22:11:15 +0000 — https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/
+### Google gives Gemini the ability to use your Mac for you
+Thu, 19 Nov 2026 18:09:11 +0000 — https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/
 
-The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.
+Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.
 
-### Palmer Luckey doesn t deny that he s a prepper
-Wed, 18 Nov 2026 22:04:03 +0000 — https://techcrunch.com/2026/11/18/palmer-luckey-doesnt-deny-that-hes-a-prepper/
+### Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says
+Thu, 19 Nov 2026 17:38:40 +0000 — https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/
 
-The Anduril founder said Wednesday that Americans should always have three days of food, water, and medicine — just in case.
+In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them.
 
-### Nvidia created a weird bit of intrigue by not filing a routine SEC report
-Wed, 18 Nov 2026 21:57:40 +0000 — https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/
+### Former Alibaba exec s Everful raises $48.5M to connect retailers with Chinese factories
+Thu, 19 Nov 2026 17:00:00 +0000 — https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/
 
-One Wall Street analyst got to the bottom of Nvidia's surprise announcement that it wouldn't be filing its formal quarterly results document, the 10-Q, for weeks.
+Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers.
 
-### Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: It s time to start running
-Wed, 18 Nov 2026 21:34:13 +0000 — https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/
+### Anthropic hits Nasdaq exchanges at $111, 33% above IPO price
+Thu, 19 Nov 2026 16:59:23 +0000 — https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/
 
-The Anduril co-founder says outdated technology is leaving systems vulnerable to a new wave of AI-enabled attacks.
+Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.
 
-### Palmer Luckey thinks China is thrilled to have Jensen out, so he wants the ousted Nvidia CEO reinstated
-Wed, 18 Nov 2026 21:31:21 +0000 — https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/
+### At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development
+Thu, 19 Nov 2026 16:19:41 +0000 — https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/
 
-"It makes America weaker to knock him out," the Anduril CEO said about ousted Nvidia leader Jensen Huang.
+In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure.
 
-### Sam Altman says his life is so weird that he s unfazed by Andrew Garfield portraying him in upcoming movie
-Wed, 18 Nov 2026 20:07:01 +0000 — https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie/
+### UK government forced to disclose secret Apple backdoor order
+Thu, 19 Nov 2026 15:32:20 +0000 — https://techcrunch.com/2026/11/19/u-k-government-forced-to-disclose-secret-apple-backdoor-order/
 
-"It doesn't feel like it's in like the top 10 weirdest things about my life," Altman said.
+The U.K. tribunal's ruling rejected London's claim that disclosing the order would be damaging to national security.
 

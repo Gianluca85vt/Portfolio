@@ -1,66 +1,66 @@
-# Manga — harvested 2026-11-19T13:53:48.784Z
+# Manga — harvested 2026-11-19T23:13:30.936Z
 
 ## Anime News Network
+
+### Criterion Channel Adds Speed Racer Anime
+Thu, 19 Nov 2026 17:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-19/criterion-channel-adds-speed-racer-anime/.243995
+
+Anime streams in English/Japanese versions in December
+
+### Grotesqqque Anime Film Screens in Los Angeles on December 3 for 1-Week Only
+Thu, 19 Nov 2026 16:09:35 -0500 — https://www.animenewsnetwork.com/news/2026-11-19/grotesqqque-anime-film-screens-in-los-angeles-on-december-3-for-1-week-only/.243997
+
+Omnibus film with 3 stories screens at Alamo Drafthouse Cinema Downtown Los Angeles
+
+### Omoi Announces Digital Release of Shō Asahina's Tsuyo-Girl Manga in January
+Thu, 19 Nov 2026 16:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-19/omoi-announces-digital-release-of-sho-asahina-tsuyo-girl-manga-in-january/.243981
+
+Romantic comedy manga launched in 2021
+
+### This World is Worth Fighting For Manga Gets Live-Action Series
+Thu, 19 Nov 2026 15:35:15 -0500 — https://www.animenewsnetwork.com/news/2026-11-19/this-world-is-worth-fighting-for-manga-gets-live-action-series/.243996
+
+Series based on Hatsumi Kodama's <cite>Kono Yo wa Tatakau Kachi ga Aru</cite> manga debuts in January 2027
+
+### This Week in Anime - Satoshi Mizukami's Anime Adaptations Come Full Spirit Circle
+Thu, 19 Nov 2026 14:00:00 -0500 — https://www.animenewsnetwork.com/this-week-in-anime/2026-11-19/.243934
+
+Christopher and Jairus reflect on past anime based on the works of Satoshi Mizukami, from <cite>Lucifer and the Biscuit Hammer</cite> to Sengoku Youko, and why the upcoming <cite>Spirit Circle</cite> series is a big deal.
+
+### hololive Shop Reports Customer Information Leak
+Thu, 19 Nov 2026 14:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-19/hololive-shop-reports-customer-information-leak/.243994
+
+Unauthorized 3rd party gained access to outsourced product shipping company OPENLOGI Inc.
+
+### Getbackers Manga Gets Comic Anime From AI Platform MangaNow Studio
+Thu, 19 Nov 2026 13:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-19/getbackers-manga-gets-comic-anime-from-ai-platform-manganow-studio/.243992
+
+Comic anime based on 1999 manga debuts on YouTube on December 1
+
+### Gachiakuta Dumpster Season 1 (Vol 1-10) Manga Box Set Review
+Thu, 19 Nov 2026 12:00:00 -0500 — https://www.animenewsnetwork.com/review/gachiakuta-dumpster-season-1/manga-box-set/.243533
+
+For a shonen battle manga, <cite>Gachiakuta</cite> has some considered, deep, even challenging character work here.
+
+### Masanao Kawajiri's Cherry and Virgin Film Wins at Aichi Nagoya Int'l Animation Film Fest
+Thu, 19 Nov 2026 12:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-19/masanao-kawajiri-cherry-and-virgin-film-wins-at-aichi-nagoya-intl-animation-film-fest/.243991
+
+2nd ANIAFF took place from November 13-18
+
+### WIXOSS TCG to End New Production in February 2027
+Thu, 19 Nov 2026 11:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-19/wixoss-tcg-to-end-new-production-in-february-2027/.243990
+
+English releases ended last year
+
+### Fatal Fury City of the Wolves Game's New Animated Trailer by Masami Ōbari Features Laocorn
+Thu, 19 Nov 2026 09:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-19/fatal-fury-city-of-the-wolves-game-new-animated-trailer-by-masami-obari-features-laocorn/.243989
+
+Character from <cite>Fatal Fury: The Motion Picture</cite> joins game on Thursday
 
 ### Rakuen Tsuihō -Expelled from Paradise- Kokoro no Resonance Film Opens at #5 in Japan
 Thu, 19 Nov 2026 08:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-19/rakuen-tsuiho-expelled-from-paradise-kokoro-no-resonance-film-opens-at-no.5-in-japan/.243961
 
 <cite>Godzilla Minus Zero</cite> stays at #1, becomes highest-earning live-action IMAX film in Japan
-
-### Nia Liston: The Merciless Maiden ‒ Episode 7
-Thu, 19 Nov 2026 07:30:00 -0500 — https://www.animenewsnetwork.com/review/nia-liston-the-merciless-maiden/episode-7/.243922
-
-After this episode, I believe more strongly than ever that if you are the emotional or logistical support pillar of your family or social circle, you need to be watching <i>Nia Liston</i>.
-
-### I Lost My Adventurer's License Anime's Main Promo Video Reveals More Staff, Opening Song Artist, January 7 Debut
-Thu, 19 Nov 2026 06:22:51 -0500 — https://www.animenewsnetwork.com/news/2026-11-19/i-lost-my-adventurer-license-anime-main-promo-video-reveals-more-staff-opening-song-artist-january-/.243986
-
-Satoko Shibata performs "Dekiai" opening song
-
-### Magic Knight Rayearth Anime Casts Hikaru Midorikawa, Kōji Yusa
-Thu, 19 Nov 2026 05:41:31 -0500 — https://www.animenewsnetwork.com/news/2026-11-19/magic-knight-rayearth-anime-casts-hikaru-midorikawa-koji-yusa/.243984
-
-Midorikawa, Yusa voice Rune Gods Windom, Ceres, respectively
-
-### Shin Oishinbo Anime Reveals More Cast, Staff, January 4 Debut in Main Trailer
-Thu, 19 Nov 2026 05:18:07 -0500 — https://www.animenewsnetwork.com/news/2026-11-19/shin-oishinbo-anime-reveals-more-cast-staff-january-4-debut-in-main-trailer/.243985
-
-Daisuke Ono, Yasuaki Takumi, Akane Fujita, Tomokazu Seki join anime's cast
-
-### The Reincarnated Elf Left on a Journey to Master His Magic Anime's New Video Reveals More Cast/Staff, Theme Songs, December 30 Streaming Debut
-Thu, 19 Nov 2026 04:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-19/the-reincarnated-elf-left-on-a-journey-to-master-his-magic-anime-new-video-reveals-more-cast-staff-/.243936
-
-Artist ao performs opening, band moon drop perform ending song
-
-### Monthly CoroCoro Comic Magazine to Release Digital Version 1 Week After Print Version
-Thu, 19 Nov 2026 03:55:48 -0500 — https://www.animenewsnetwork.com/daily-briefs/2026-11-19/monthly-corocoro-comic-magazine-to-release-digital-version-1-week-after-print-version/.243969
-
-The official X/Twitter account for Shogakukan's Monthly CoroCoro Comic magazine announced on November 13 that the magazine's digital version will begin...
-
-### Not-Sew-Wicked Stepmom Webtoon Gets TV Anime Adaptation
-Thu, 19 Nov 2026 03:33:22 -0500 — https://www.animenewsnetwork.com/news/2026-11-19/not-sew-wicked-stepmom-webtoon-gets-tv-anime-adaptation/.243979
-
-Series about clothing designer reborn as princess' stepmom has amassed more than 100 million views
-
-### Orb: On the Movements of the Earth Creator Uoto Pens 1st Nonfiction Book
-Wed, 18 Nov 2026 23:48:34 -0500 — https://www.animenewsnetwork.com/interest/2026-11-18/orb-on-the-movements-of-the-earth-creator-uoto-pens-1st-nonfiction-book/.243944
-
-<i>Anti-Serialization Hypothesis</i> examines history from Gutenberg to manga's future
-
-### Pac-Man's New Animated Short Reveals Return to Macy's Thanksgiving Parade
-Wed, 18 Nov 2026 23:00:00 -0500 — https://www.animenewsnetwork.com/interest/2026-11-18/pac-man-new-animated-short-reveals-return-to-macy-thanksgiving-parade/.243943
-
-Hello Kitty, Goku, <i>KPop Demon Hunters'</i> Derpy & Sussie, Mario, Pikachu & Eevee also return
-
-### The Detective Is Already Dead Game Launches in 2027
-Wed, 18 Nov 2026 22:52:28 -0500 — https://www.animenewsnetwork.com/news/2026-11-18/the-detective-is-already-dead-game-launches-in-2027/.243970
-
-Taito develops game for Switch
-
-### Live-Action Leviathan Film Casts Shun Oguri, Ai Hashimoto
-Wed, 18 Nov 2026 22:42:10 -0500 — https://www.animenewsnetwork.com/news/2026-11-18/live-action-leviathan-film-casts-shun-oguri-ai-hashimoto/.243960
-
-Oguri, Hashimoto play teachers in survival game in February 11 film
 
 ## Crunchyroll News
 
@@ -93,17 +93,17 @@ Wed, 18 Nov 2026 01:57:52 GMT — https://animecorner.me/sakamoto-days-season-2-
 
 Sakamoto Days Season 2 revealed a key visual, trailer, and a January 18 premiere&hellip;
 
-### Exclusive: Giant Ojosama Joins HIDIVE Winter 2027 Lineup, Anime Frontier Premiere Set for December 4
-Tue, 17 Nov 2026 17:04:14 GMT — https://animecorner.me/exclusive-giant-ojosama-joins-hidive-winter-2027-lineup-anime-frontier-premiere-set-for-december-4/
-
-HIDIVE has acquired Giant Ojosama for its Winter 2027 simulcast lineup, with the comedy&hellip;
-
-### Exclusive Preview: Magnetic Press Brings Rodolphe and Christophe Dubois' TER Trilogy to Kickstarter in Deluxe Hardcover
-Tue, 17 Nov 2026 17:00:00 GMT — https://animecorner.me/exclusive-preview-magnetic-press-brings-rodolphe-and-christophe-dubois-ter-trilogy-to-kickstarter-in-deluxe-hardcover/
-
-Magnetic Press is bringing Rodolphe and Christophe Dubois’ science fiction series TER to English-language&hellip;
-
 ## MyAnimeList News
+
+### Manga Kaminaki Sekai no Kamisama Katsudou Concludes with 14th Volume
+Thu, 19 Nov 2026 09:17:34 -0800 — https://myanimelist.net/news/74958547?_location=rss
+
+Aoi Akashiro and Sonshou Hangetsuban s Kaminaki Sekai no Kamisama Katsudou (Working for God in a Godless World) manga ended its serialization on October 2. The 77th and final chapter marked the end of its seven-year run. The 14th and final volume is scheduled to be released on November 30. Akashiro began writing the fantasy manga illustrated by Hangetsuban in Monthly Hero s magazine in May 2019. Following the magazine s discontinuation in October 2020, the series moved to the Comi...
+
+### Gensou Suikoden Reveals Additional Cast
+Thu, 19 Nov 2026 08:22:13 -0800 — https://myanimelist.net/news/74958379?_location=rss
+
+The official website of Gensou Suikoden (Suikoden: The Anime) revealed additional cast on Wednesday. The anime series adapting Konami s fantasy role-playing game premiered on October 3 at 11.30 p.m. on Tokyo MX followed by Kansai TV, BS Asahi, and 32 other stations. Cast Makai: Ikuji Nose (Mob Psycho 100) Tai Ho: Masaki Ishimine Yam Koo: Hideyuki Kobayashi (Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki) Ridley: Takaya Kuroda (Mairimashita! Iruma-kun) Gaboc...
 
 ### Shin Oishinbo Reveals Additional Cast, Staff, Main Promo, Winter 2027 Premiere
 Thu, 19 Nov 2026 02:26:56 -0800 — https://myanimelist.net/news/74957463?_location=rss
@@ -144,11 +144,6 @@ The official website of the Sakamoto Days television anime unveiled a pair of ad
 Tue, 17 Nov 2026 17:17:36 -0800 — https://myanimelist.net/news/74951722?_location=rss
 
 The official website of the Soara to Mamono no Ie (Soara and the House of Monsters) television anime revealed a pair of additional cast and teaser visual (pictured) on Wednesday. The anime series adapting Hidenori Yamaji s adventure fantasy manga will premiere in 2027. Voice actors Reiji Kawashima (Fumetsu no Anata e) and Kenta Miyake (Boku no Hero Academia) are joining the cast as Niko and Gansho, respectively. Takaharu Ozaki (Goblin Slayer) is directing the anime at Felix Film, with Ayumu...
-
-### Light Novel Saigo ni Hitotsu dake Onegai shitemo Yoroshii deshou ka Concludes with 8th Volume
-Tue, 17 Nov 2026 07:21:13 -0800 — https://myanimelist.net/news/74950128?_location=rss
-
-The official X account for author Nana Ootori announced on Tuesday that the Saigo ni Hitotsu dake Onegai shitemo Yoroshii deshou ka (May I Ask for One Final Thing?) light novel series will end with its eighth volume, scheduled to be released on December 1. Ootori began penning the action romcom novel on the Shousetsuka ni Narou website in April 2018. AlphaPolis began publishing the novel under its Regina Books imprint with illustrations by Satsuki in August 2018 and published the seventh volume...
 
 ## Otaku USA
 
