@@ -1,0 +1,8 @@
+Rockstar Games, official Grand Theft Auto VI screenshots from rockstargames.com/VI/downloads
+
+- /img/blog/gta-6-30fps-ps5-pro-same-1440p/shot-01.jpg (Vice City 27)
+- /img/blog/gta-6-30fps-ps5-pro-same-1440p/shot-02.jpg (Jason and Lucia 14)
+
+Both files are the official press assets already fetched for /blog/gta-6-review/
+from Rockstar's own downloads page. rockstargames.com did not resolve from the
+writer's egress on 19 November 2026, so they were reused rather than re-fetched.

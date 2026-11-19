@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="GTA 6: PS5 and PS5 Pro both render at 1440p">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0.65" y2="1">
+      <stop offset="0" stop-color="#18011F"/>
+      <stop offset="1" stop-color="#D6294E"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <text x="80" y="150" font-family="Helvetica, Arial, sans-serif" font-size="34" fill="#ffffff" opacity="0.72" letter-spacing="3">GRAND THEFT AUTO VI</text>
+  <text x="80" y="330" font-family="Helvetica, Arial, sans-serif" font-size="210" font-weight="700" fill="#ffffff">1440p</text>
+  <text x="80" y="420" font-family="Helvetica, Arial, sans-serif" font-size="46" font-weight="600" fill="#ffffff" opacity="0.95">on PS5 and on PS5 Pro alike</text>
+  <text x="80" y="500" font-family="Helvetica, Arial, sans-serif" font-size="36" fill="#ffffff" opacity="0.78">Upscaled to 4K. Target 30fps. No 60fps mode,</text>
+  <text x="80" y="548" font-family="Helvetica, Arial, sans-serif" font-size="36" fill="#ffffff" opacity="0.78">not now and not in a patch.</text>
+</svg>
