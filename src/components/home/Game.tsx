@@ -4,7 +4,7 @@ import { ArrowUpRight } from 'lucide-react';
 import { game } from '../../data/home';
 import { Buckets, Reveal, SectionTitle, Slate, pad, useInView } from './ui';
 
-/** The game, between the blog and the contact form. Its own site lives at /thedivinecomedy/. */
+/** The game, between the blog and the contact form. Its own site lives at /oltremondo/ (until 19 November 2026, /thedivinecomedy/, which redirects). */
 function Feature() {
   const ref = useRef<HTMLAnchorElement>(null);
   const inView = useInView(ref);

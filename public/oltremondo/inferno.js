@@ -1,6 +1,6 @@
-// inferno.js — la mappa 3D dei nove cerchi per il sito di The Divine Comedy.
+// inferno.js — la mappa 3D dei nove cerchi per il sito di Oltremondo - Iter Animae.
 //
-// Sorgente in Marketing/sito/; sito.py la copia in public/thedivinecomedy/ del portfolio.
+// Sorgente in Marketing/sito/; sito.py la copia in public/oltremondo/ del portfolio.
 // La pagina fornisce: #tdc-stage (contenitore), #tdc-canvas, i dati dei cerchi in
 // <script id="tdc-cerchi" type="application/json">, i pulsanti dell'indice (.tdc-index [data-id])
 // e il pannello #tdc-panel. Three.js arriva da jsDelivr con la import map della pagina.
@@ -475,7 +475,7 @@ function fotogramma() {
   posizionaPin();
   if (primo) { primo = false; stage.classList.remove('loading'); if (quiete) { controlli.enabled = true; stage.classList.add('pronto'); apriDaIndirizzo(); } }
 }
-// un link come /thedivinecomedy/#lussuria apre direttamente quel cerchio
+// un link come /oltremondo/#lussuria apre direttamente quel cerchio
 // (anche ?cerchio=lussuria: alcune app tolgono la parte dopo il #)
 function apriDaIndirizzo() {
   const nome = decodeURIComponent(location.hash.slice(1)) || new URLSearchParams(location.search).get('cerchio') || '';

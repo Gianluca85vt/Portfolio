@@ -1,20 +1,24 @@
 ---
-title: "The Divine Comedy game: Dante fights by writing"
+title: "Oltremondo - Iter Animae: Dante fights by writing"
 date: 2026-11-09
+updated: 2026-11-19
 category: Games
-excerpt: "I'm making The Divine Comedy, a souls-like in Unreal Engine 5.8 where every attack is a verse Dante writes. First devlog: from blockout to Minos."
+excerpt: "I'm making Oltremondo - Iter Animae, an action RPG in Unreal Engine 5.8 where every attack is a verse Dante writes. First devlog: from blockout to Minos."
 cover: /img/blog/the-divine-comedy-game-dante-fights-by-writing/cover.jpg
 sources:
   - outlet: Devlog 1 on YouTube
     url: https://www.youtube.com/watch?v=BETf6uSTv50
-  - outlet: The Divine Comedy, official site
-    url: https://www.gianlucascattarella.it/thedivinecomedy/
+  - outlet: Oltremondo - Iter Animae, official site
+    url: https://www.gianlucascattarella.it/oltremondo/
 ---
+
+*Updated 19 November: the game is now called Oltremondo - Iter Animae. The
+devlog below went up under its old title, La Divina Commedia.*
 
 This one is mine, so that goes first: everything below is about a game I'm
 making, and you should read it as a developer talking about his own work.
 
-It's called The Divine Comedy. It's a souls-like for PC, built in Unreal
+It's called Oltremondo - Iter Animae. It's an action RPG for PC, built in Unreal
 Engine 5.8, that follows Dante from the dark wood down into Hell, and the idea
 it hangs on fits in a sentence. Dante fights with a quill and his Book: every
 attack is a verse he writes, and the letters tear off the page and hit whatever
@@ -129,7 +133,7 @@ The game follows the whole poem. Inferno comes first, from the dark wood to the
 frozen lake of Cocytus; Purgatorio and Paradiso come after.
 
 The game has its own site with
-[a 3D map of the nine circles](/thedivinecomedy/), one card for each sin. A
+[a 3D map of the nine circles](/oltremondo/), one card for each sin. A
 devlog post goes up every few days on Instagram at
 [@thedivinecomedy_game](https://www.instagram.com/thedivinecomedy_game/), and a
 Steam page is on the way. This is the first of them, and the next ones will be
