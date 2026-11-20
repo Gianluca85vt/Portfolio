@@ -1,4 +1,4 @@
-# AI — harvested 2026-11-19T23:13:30.936Z
+# AI — harvested 2026-11-20T13:36:25.129Z
 
 ## OpenAI
 
@@ -7,40 +7,25 @@ Thu, 19 Nov 2026 08:00:00 GMT — https://openai.com/index/how-openai-performanc
 
 Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.
 
-### The Silent Consensus
-Wed, 18 Nov 2026 10:00:00 GMT — https://openai.com/index/the-silent-consensus
+### Deploying Daybreak Red
+Thu, 19 Nov 2026 00:00:00 GMT — https://openai.com/business/learn/deploying-daybreak-red
 
-Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.
+Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.
 
-### How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise
-Wed, 18 Nov 2026 08:00:00 GMT — https://openai.com/business/customer-stories/sumitomo-life
+### See PR scans in action
+Thu, 19 Nov 2026 00:00:00 GMT — https://openai.com/business/learn/pr-scans-demo
 
-Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.
+Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.
 
-### Research acceleration: The jagged frontier
-Wed, 18 Nov 2026 08:00:00 GMT — https://openai.com/index/research-acceleration-jagged-frontier
+### Explore the Codex Security Plugin
+Thu, 19 Nov 2026 00:00:00 GMT — https://openai.com/business/learn/codex-security-plugin-demo
 
-OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.
+Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.
 
-### Inside the Codex sandbox
-Wed, 18 Nov 2026 08:00:00 GMT — https://openai.com/index/inside-the-codex-sandbox
+### Get started with Daybreak Blue
+Thu, 19 Nov 2026 00:00:00 GMT — https://openai.com/business/learn/daybreak-blue-onboarding-demo
 
-See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.
-
-### Managing frontier AI risk: From training to deployment
-Wed, 18 Nov 2026 06:00:00 GMT — https://openai.com/index/managing-frontier-ai-risk
-
-OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.
-
-### Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT
-Wed, 18 Nov 2026 00:00:00 GMT — https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership
-
-Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.
-
-### Advancing chip design with OpenAI models
-Wed, 18 Nov 2026 00:00:00 GMT — https://openai.com/index/advancing-chip-design-with-our-models
-
-OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.
+Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.
 
 ## Hugging Face
 
@@ -52,12 +37,6 @@ Wed, 18 Nov 2026 18:53:43 GMT — https://huggingface.co/blog/Dharma-AI/predicti
 
 ### Time-Series Models in the Streamhouse: A New Frontier and Use Cases
 Wed, 18 Nov 2026 15:00:23 GMT — https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse
-
-### 180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers
-Wed, 18 Nov 2026 00:00:00 GMT — https://huggingface.co/blog/moe-expert-streaming
-
-### Rumble-2-Flash: an open 0.5B speech model for 40+ languages
-Wed, 18 Nov 2026 00:00:00 GMT — https://huggingface.co/blog/rumble-2-flash
 
 ## Google DeepMind
 

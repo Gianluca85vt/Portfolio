@@ -1,72 +1,77 @@
-# Manga — harvested 2026-11-19T23:13:30.936Z
+# Manga — harvested 2026-11-20T13:36:25.129Z
 
 ## Anime News Network
 
-### Criterion Channel Adds Speed Racer Anime
-Thu, 19 Nov 2026 17:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-19/criterion-channel-adds-speed-racer-anime/.243995
+### Mitei Hattori's Smile! Manga Gets Epilogue Chapter
+Fri, 20 Nov 2026 08:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-20/mitei-hattori-smile-manga-gets-epilogue-chapter/.244005
 
-Anime streams in English/Japanese versions in December
+Epilogue chapter debuts on December 4
 
-### Grotesqqque Anime Film Screens in Los Angeles on December 3 for 1-Week Only
-Thu, 19 Nov 2026 16:09:35 -0500 — https://www.animenewsnetwork.com/news/2026-11-19/grotesqqque-anime-film-screens-in-los-angeles-on-december-3-for-1-week-only/.243997
+### Life with an Ordinary Guy Who Reincarnated into a Total Fantasy Knockout Manga Ends With 20th Volume
+Fri, 20 Nov 2026 07:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-20/life-with-an-ordinary-guy-who-reincarnated-into-a-total-fantasy-knockout-manga-ends-with-20th-volume/.244002
 
-Omnibus film with 3 stories screens at Alamo Drafthouse Cinema Downtown Los Angeles
+Manga launched in November 2019, inspired 2022 TV anime
 
-### Omoi Announces Digital Release of Shō Asahina's Tsuyo-Girl Manga in January
-Thu, 19 Nov 2026 16:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-19/omoi-announces-digital-release-of-sho-asahina-tsuyo-girl-manga-in-january/.243981
+### 'A Pen, Handcuffs, and a Common-Law Marriage' TV Anime Reveals Theme Song Artists, More Cast, January 9 Debut in Video
+Fri, 20 Nov 2026 06:00:02 -0500 — https://www.animenewsnetwork.com/news/2026-11-20/a-pen-handcuffs-and-a-common-law-marriage-tv-anime-reveals-theme-song-artists-more-cast-january-9-/.244022
 
-Romantic comedy manga launched in 2021
+Inori Minase performs opening theme song, saeco performs ending theme song
 
-### This World is Worth Fighting For Manga Gets Live-Action Series
-Thu, 19 Nov 2026 15:35:15 -0500 — https://www.animenewsnetwork.com/news/2026-11-19/this-world-is-worth-fighting-for-manga-gets-live-action-series/.243996
+### Kengo Matsumoto's >Jimoto no Ijimekko-tachi ni Shikaeshi Shiyō to Shitara Manga Gets TV Anime
+Fri, 20 Nov 2026 05:07:10 -0500 — https://www.animenewsnetwork.com/news/2026-11-20/kengo-matsumoto-jimoto-no-ijimekko-tachi-ni-shikaeshi-shiyo-to-shitara-manga-gets-tv-anime/.244020
 
-Series based on Hatsumi Kodama's <cite>Kono Yo wa Tatakau Kachi ga Aru</cite> manga debuts in January 2027
+Gekkō animates misunderstanding romcom debuting next year
 
-### This Week in Anime - Satoshi Mizukami's Anime Adaptations Come Full Spirit Circle
-Thu, 19 Nov 2026 14:00:00 -0500 — https://www.animenewsnetwork.com/this-week-in-anime/2026-11-19/.243934
+### Rock Paper Landmine Novel Gets Stage Play in January
+Fri, 20 Nov 2026 04:16:57 -0500 — https://www.animenewsnetwork.com/news/2026-11-20/rock-paper-landmine-novel-gets-stage-play-in-january/.244017
 
-Christopher and Jairus reflect on past anime based on the works of Satoshi Mizukami, from <cite>Lucifer and the Biscuit Hammer</cite> to Sengoku Youko, and why the upcoming <cite>Spirit Circle</cite> series is a big deal.
+Yugo Aosaki's novel has live-action series adaptation that debuted on Prime Video worldwide on November 13
 
-### hololive Shop Reports Customer Information Leak
-Thu, 19 Nov 2026 14:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-19/hololive-shop-reports-customer-information-leak/.243994
+### Mercedes and the Waning Moon TV Anime Reveals More Cast, January 10 Debut
+Fri, 20 Nov 2026 04:03:14 -0500 — https://www.animenewsnetwork.com/news/2026-11-20/mercedes-and-the-waning-moon-tv-anime-reveals-more-cast-january-10-debut/.244014
 
-Unauthorized 3rd party gained access to outsourced product shipping company OPENLOGI Inc.
+Show Hayami, Miyu Tomita, more join cast; new visual also revealed
 
-### Getbackers Manga Gets Comic Anime From AI Platform MangaNow Studio
-Thu, 19 Nov 2026 13:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-19/getbackers-manga-gets-comic-anime-from-ai-platform-manganow-studio/.243992
+### 2027 Doraemon Film Reveals Guest Cast
+Fri, 20 Nov 2026 03:49:36 -0500 — https://www.animenewsnetwork.com/news/2026-11-20/2027-doraemon-film-reveals-guest-cast/.244019
 
-Comic anime based on 1999 manga debuts on YouTube on December 1
+Chikahiro Kobayashi, Tomoyo Kurosawa, more join cast for film opening on March 5
 
-### Gachiakuta Dumpster Season 1 (Vol 1-10) Manga Box Set Review
-Thu, 19 Nov 2026 12:00:00 -0500 — https://www.animenewsnetwork.com/review/gachiakuta-dumpster-season-1/manga-box-set/.243533
+### 2nd New Armored Trooper Votoms Anime Film to Open in 2027
+Fri, 20 Nov 2026 03:34:46 -0500 — https://www.animenewsnetwork.com/news/2026-11-20/2nd-new-armored-trooper-votoms-anime-film-to-open-in-2027/.244018
 
-For a shonen battle manga, <cite>Gachiakuta</cite> has some considered, deep, even challenging character work here.
+Teaser visual revealed for 2nd film; 1st film opened on Friday
 
-### Masanao Kawajiri's Cherry and Virgin Film Wins at Aichi Nagoya Int'l Animation Film Fest
-Thu, 19 Nov 2026 12:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-19/masanao-kawajiri-cherry-and-virgin-film-wins-at-aichi-nagoya-intl-animation-film-fest/.243991
+### Pokémon Joins Duolingo for 'Duo's Pokémon Party' Event
+Thu, 19 Nov 2026 23:59:00 -0500 — https://www.animenewsnetwork.com/interest/2026-11-19/pokemon-joins-duolingo-for-duo-pokemon-party-event/.243987
 
-2nd ANIAFF took place from November 13-18
+And maybe learn Pokémon speak while you're at it
 
-### WIXOSS TCG to End New Production in February 2027
-Thu, 19 Nov 2026 11:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-19/wixoss-tcg-to-end-new-production-in-february-2027/.243990
+### 'I am the only one who is not attacked in the world filled with zombies' Anime Reveals More Cast, January 1 TV Debut
+Thu, 19 Nov 2026 22:58:04 -0500 — https://www.animenewsnetwork.com/news/2026-11-19/i-am-the-only-one-who-is-not-attacked-in-the-world-filled-with-zombies-anime-reveals-more-cast-/.244007
 
-English releases ended last year
+Mitsuki Kuribayashi, Risae Matsuda, Sarah Emi Bridcutt, Seigo Yokota, Shuhei Matsuda, 2 more join cast
 
-### Fatal Fury City of the Wolves Game's New Animated Trailer by Masami Ōbari Features Laocorn
-Thu, 19 Nov 2026 09:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-19/fatal-fury-city-of-the-wolves-game-new-animated-trailer-by-masami-obari-features-laocorn/.243989
+### Live-Action Fukakōryoku no I Love You Film Casts M!LK Idol Shunta Sono
+Thu, 19 Nov 2026 22:42:28 -0500 — https://www.animenewsnetwork.com/news/2026-11-19/live-action-fukakoryoku-no-i-love-you-film-casts-m-lk-idol-shunta-sono/.244006
 
-Character from <cite>Fatal Fury: The Motion Picture</cite> joins game on Thursday
+Idol group member plays Saku's childhood friend Rentarō Akizuki in March 2027 film
 
-### Rakuen Tsuihō -Expelled from Paradise- Kokoro no Resonance Film Opens at #5 in Japan
-Thu, 19 Nov 2026 08:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-19/rakuen-tsuiho-expelled-from-paradise-kokoro-no-resonance-film-opens-at-no.5-in-japan/.243961
+### Star Detective Precure's Cure Answer Poses as Street Fighter 6 Characters
+Thu, 19 Nov 2026 21:00:00 -0500 — https://www.animenewsnetwork.com/interest/2026-11-19/star-detective-precure-cure-answer-poses-as-street-fighter-6-characters/.243988
 
-<cite>Godzilla Minus Zero</cite> stays at #1, becomes highest-earning live-action IMAX film in Japan
+Cure Answer poses as Luke, Jamie, Guile, Ken, Dhalism, Dee Jay, Marisa, Cammy, Akuma, Alex, Ingrid
 
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Fall 2026 Anime Rankings – Week 7
+Fri, 20 Nov 2026 12:30:00 GMT — https://animecorner.me/fall-2026-anime-rankings-week-7/
+
+Firefly Wedding has won its first weekly poll of Fall 2026, taking 12.62% of&hellip;
 
 ### Interview: Gintama: Yoshiwara in Flames Arc Movie Director Naoya Ando and Producer Ryo Nakamura on the Adaptation Process and Gintama's Appeal
 Wed, 18 Nov 2026 23:11:40 GMT — https://animecorner.me/interview-gintama-yoshiwara-in-flames-arc-2026-director-naoya-ando-and-producer-ryo-nakamura-on-the-adaptation-process-and-gintamas-appeal/
@@ -78,22 +83,22 @@ Wed, 18 Nov 2026 21:50:22 GMT — https://animecorner.me/atomic-pixel-brings-mik
 
 Atomic Pixel Party, an event organizer focused on anime and geek culture themed parties,&hellip;
 
-### KUKU-LOOP: The 100th Time's the Charm Anime Announced for 2027, Reveals Main Cast and Teaser Visual
-Wed, 18 Nov 2026 12:43:37 GMT — https://animecorner.me/kuku-loop-the-100th-times-the-charm-anime-announced-for-2027-reveals-main-cast-and-teaser-visual/
-
-KUKU-LOOP: The 100th Time’s the Charm TV anime adaptation was officially announced for 2027, revealing a teaser visual, main cast, and staff.
-
-### Spice and Wolf Season 2 Announces January 2027 Premiere
-Wed, 18 Nov 2026 11:24:40 GMT — https://animecorner.me/spice-and-wolf-season-2-announces-january-2027-premiere/
-
-Spice and Wolf: MERCHANT MEETS THE WISE WOLF Season 2 announced that the sequel&hellip;
-
-### Sakamoto Days Season 2 Reveals Key Visual, Main Trailer, January 18 Premiere, Creepy Nuts Theme Song Artist
-Wed, 18 Nov 2026 01:57:52 GMT — https://animecorner.me/sakamoto-days-season-2-reveals-key-visual-main-trailer-january-18-premiere-creepy-nuts-theme-song-artist/
-
-Sakamoto Days Season 2 revealed a key visual, trailer, and a January 18 premiere&hellip;
-
 ## MyAnimeList News
+
+### Manga Jimoto no Ijimekko-tachi ni Shikaeshi Shiyou to Shitara, Betsu no Tatakai ga Hajimatta. Gets TV Anime in 2027
+Fri, 20 Nov 2026 01:42:04 -0800 — https://myanimelist.net/news/74960793?_location=rss
+
+An official website opened for a television anime adaptation of Kengo Matsumoto s Jimoto no Ijimekko-tachi ni Shikaeshi Shiyou to Shitara, Betsu no Tatakai ga Hajimatta. (When Trying to Get Back at the Hometown Bullies, Another Battle Began) manga on Friday, revealing the main staff and a teaser visual (pictured). The anime will premiere in 2027. Staff Director: Chihiro Kumano (Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2) Series Composition: Kazuho Hyoudou (Kekkon...
+
+### Pen to Wappa to Jijitsukon Unveils Additional Cast, Staff, Theme Songs, First Promo
+Fri, 20 Nov 2026 01:05:24 -0800 — https://myanimelist.net/news/74960710?_location=rss
+
+The official website of the Pen to Wappa to Jijitsukon (A Pen, Handcuffs, and a Common-Law Marriage) television anime unveiled additional cast, staff, the theme songs, a key visual (pictured), and first promotional video on Friday. The anime series adapting Shinichi Sawaragi and Tank Gasuyama s comedy mystery manga will premiere on January 10 at 1:00 a.m. on Tokyo MX, followed by BS11. Cast Wataru Kashima: Yuusuke Kobayashi (Re:Zero kara Hajimeru Isekai Seikatsu) Hina Haruyama: Sumire Moroh...
+
+### Additional Cast for Zombie no Afureta Sekai de Ore dake ga Osowarenai Announced
+Thu, 19 Nov 2026 19:38:17 -0800 — https://myanimelist.net/news/74960147?_location=rss
+
+The official website of the Zombie no Afureta Sekai de Ore dake ga Osowarenai (In a World Full of Zombies I m the Only One Who Doesn t Get Attacked) television anime announced seven additional cast members on Friday. The anime series adapting Rokuro Uraji s supernaturalhorror light novel is scheduled to premiere on January 2 at 1:00 a.m. on AT-X. Cast Takashi Fujino: Mitsuki Kuribayashi Masaru Fujino: Risae Matsuda (Cheat Kusushi no Slow Life) Kiriko Ogura: Sarah Emi Bridcutt (Shi...
 
 ### Manga Kaminaki Sekai no Kamisama Katsudou Concludes with 14th Volume
 Thu, 19 Nov 2026 09:17:34 -0800 — https://myanimelist.net/news/74958547?_location=rss
@@ -125,39 +130,19 @@ Wed, 18 Nov 2026 19:27:11 -0800 — https://myanimelist.net/news/74956781?_locat
 
 Publishing company Kakao Piccoma announced a television anime adaptation of Ilu and Moguraeng s Not-Sew-Wicked Stepmom webtoon on Thursday, revealing an announcement visual (pictured). The anime will premiere under the Japanese title Mamahaha dakedo Musume ga Kawaisugiru. Iru originally wrote the isekai villainess novel on the KakaoPage website from January 2019 to May 2019, with illustrations by Dinorex. The main story concluded with 186 chapters, followed by 24 side story chapters publish...
 
-### 99-kai Danzai sareta Loop Reijou desu ga Konse wa "Chouzetsu Aisare Mode" desu tte!? Shin no Chikara ni Mezamete Hajimaru 100-kaime no Jinsei Reveals Main Cast, Staff, 2027 Premiere
-Wed, 18 Nov 2026 03:26:53 -0800 — https://myanimelist.net/news/74953973?_location=rss
-
-An official site opened for the television anime adaptation of Yuuji Yuuji s 99-kai Danzai sareta Loop Reijou desu ga Konse wa "Chouzetsu Aisare Mode" desu tte!? Shin no Chikara ni Mezamete Hajimaru 100-kaime no Jinsei (Kuku-Loop: The 100th Time s the Charm) light novel on Wednesday, revealing the main cast, staff, and a teaser visual (pictured). The anime is scheduled to premiere in 2027. Voice actors Ikumi Hasegawa (Tetsunabe no Jan!) and Kazuki Ura (Tougen Anki) are starri...
-
-### Isekai Munchkin Reveals New Staff, Theme Songs, Second Promo
-Tue, 17 Nov 2026 20:58:59 -0800 — https://myanimelist.net/news/74952442?_location=rss
-
-The official website for the television anime adaptation of Yuu Shimizu and Makoto Aogiri s Isekai Munchkin: HP1 no Mama de Saikyou Saisoku Dungeon Kouryaku (Otherworldly Munchkin: Let s Speedrun the Dungeon with Only 1 HP!) manga revealed additional cast, new staff, a second key visual (pictured), the theme songs, and second promotional video on Wednesday. The anime series will premiere on January 8 at 12:30 a.m. on Tokyo MX, followed by Me-Television and Gunma TV. Voice actor Yuuichi...
-
-### Sakamoto Days 2nd Season Unveils Additional Cast, Opening Theme, First Promo
-Tue, 17 Nov 2026 18:00:06 -0800 — https://myanimelist.net/news/74951901?_location=rss
-
-The official website of the Sakamoto Days television anime unveiled a pair of additional cast, key visual (pictured), the opening theme, and first promotional video for the second season on Wednesday. The anime adapting Yuuto Suzuki s action comedy manga is scheduled to premiere on TV Tokyo and its affiliated networks on January 19, 2027, at 12:00 a.m. It will also air on BS TV Tokyo on January 25 at 12:40 a.m. The first episode will be available for advance streaming on Netflix. Voice acto...
-
-### Soara to Mamono no Ie Announces Additional Cast Pair
-Tue, 17 Nov 2026 17:17:36 -0800 — https://myanimelist.net/news/74951722?_location=rss
-
-The official website of the Soara to Mamono no Ie (Soara and the House of Monsters) television anime revealed a pair of additional cast and teaser visual (pictured) on Wednesday. The anime series adapting Hidenori Yamaji s adventure fantasy manga will premiere in 2027. Voice actors Reiji Kawashima (Fumetsu no Anata e) and Kenta Miyake (Boku no Hero Academia) are joining the cast as Niko and Gansho, respectively. Takaharu Ozaki (Goblin Slayer) is directing the anime at Felix Film, with Ayumu...
-
 ## Otaku USA
 
 _Nothing in the last 48 hours._
 
 ## Anime UK News
 
+### That s Not Love Volume 3 Review
+Fri, 20 Nov 2026 10:00:13 +0000 — https://animeuknews.net/2026/11/thats-not-love-volume-3-review/
+
+With Imai considering turning his garden sculpture into a whole series, his wife approaches Akane with an offer that will hopefully bring the issues with Yukari to an end. This third volume puts the spotlight on Imai and his wife.
+
 ### Ashita no Joe: Fighting for Tomorrow Omnibus 6 Review
 Thu, 19 Nov 2026 10:00:04 +0000 — https://animeuknews.net/2026/11/ashita-no-joe-fighting-for-tomorrow-omnibus-6-review/
 
 With Joe rising through the ranks, it seems he is starting to develop a death wish.
-
-### Ragna Crimson Collector s Edition Review
-Wed, 18 Nov 2026 10:00:24 +0000 — https://animeuknews.net/2026/11/ragna-crimson-collectors-edition-review-2/
-
-The motto of the hero in Ragna Crimson is, "If at first you don't succeed, go back in time and give your younger self the cheat code."
 
