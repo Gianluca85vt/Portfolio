@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Ubisoft cuts 166 jobs at its Montreal and Quebec studios">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#18011F"/>
+      <stop offset="55%" stop-color="#3A0F1E"/>
+      <stop offset="100%" stop-color="#D6294E"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#D6294E"/>
+      <stop offset="100%" stop-color="#BE4C00"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="900" fill="url(#bg)"/>
+
+  <g stroke="#ffffff" stroke-opacity="0.045" stroke-width="1">
+    <path d="M0 120h1200M0 200h1200M0 280h1200M0 360h1200M0 440h1200M0 520h1200"/>
+  </g>
+
+  <text x="80" y="140" font-family="Helvetica, Arial, sans-serif" font-size="30" font-weight="700" letter-spacing="6" fill="#ffffff" fill-opacity="0.62">UBISOFT · 19 NOV 2026</text>
+
+  <text x="80" y="360" font-family="Helvetica, Arial, sans-serif" font-size="250" font-weight="700" fill="#ffffff">166</text>
+  <text x="80" y="432" font-family="Helvetica, Arial, sans-serif" font-size="46" font-weight="700" fill="#ffffff" fill-opacity="0.92">jobs cut in Montreal and Quebec</text>
+
+  <rect x="80" y="476" width="190" height="7" fill="url(#accent)"/>
+
+  <text x="80" y="556" font-family="Helvetica, Arial, sans-serif" font-size="37" font-weight="400" fill="#ffffff" fill-opacity="0.80">Same day: two Creative Houses merged,</text>
+  <text x="80" y="606" font-family="Helvetica, Arial, sans-serif" font-size="37" font-weight="400" fill="#ffffff" fill-opacity="0.80">and a generative-AI studio founded.</text>
+
+  <text x="80" y="828" font-family="Helvetica, Arial, sans-serif" font-size="27" font-weight="400" letter-spacing="2" fill="#ffffff" fill-opacity="0.50">Backdrop · gianlucascattarella.it</text>
+</svg>
