@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Sunrise on the Reaping review: 5.5 out of 10">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#18011F"/>
+      <stop offset="1" stop-color="#5B3FBF"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <text x="90" y="150" fill="#C9B6FF" font-family="Helvetica, Arial, sans-serif" font-size="34" letter-spacing="6">FILM &amp; TV — REVIEW</text>
+  <text x="90" y="330" fill="#FFFFFF" font-family="Helvetica, Arial, sans-serif" font-size="210" font-weight="700">5.5</text>
+  <text x="340" y="330" fill="#E7DCFF" font-family="Helvetica, Arial, sans-serif" font-size="60">/ 10</text>
+  <text x="90" y="415" fill="#E7DCFF" font-family="Helvetica, Arial, sans-serif" font-size="44">Six verdicts, a six-point spread</text>
+  <text x="90" y="480" fill="#C9B6FF" font-family="Helvetica, Arial, sans-serif" font-size="36">one star to four, on the same cut</text>
+  <text x="90" y="810" fill="#FFFFFF" font-family="Helvetica, Arial, sans-serif" font-size="48" font-weight="600">Sunrise on the Reaping</text>
+</svg>
