@@ -36,6 +36,11 @@ franchises.
 
 ## Which studios, and what they were holding
 
+<figure>
+  <img src="/img/blog/ubisoft-166-layoffs-montreal-quebec/shot-02.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>Ubisoft, via the official Assassin's Creed Shadows Steam page</figcaption>
+</figure>
+
 Ubisoft Montreal and Ubisoft Quebec are not satellite offices. Montreal has
 carried Assassin's Creed for most of its existence. It is on Codename Hexe now.
 Quebec shipped Assassin's Creed Shadows, and according to GameSpot's reporting no
