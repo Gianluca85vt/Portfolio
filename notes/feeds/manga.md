@@ -1,72 +1,77 @@
-# Manga — harvested 2026-11-20T13:36:25.129Z
+# Manga — harvested 2026-11-20T21:31:45.261Z
 
 ## Anime News Network
 
-### Mitei Hattori's Smile! Manga Gets Epilogue Chapter
-Fri, 20 Nov 2026 08:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-20/mitei-hattori-smile-manga-gets-epilogue-chapter/.244005
+### This Week in Games - Cleaning Bots, Ocarina Thoughts, and Sonic's 35th Anniversary
+Fri, 20 Nov 2026 15:58:32 -0500 — https://www.animenewsnetwork.com/this-week-in-games/2026-11-20/cleaning-bots-ocarina-thoughts-and-sonic-35th-anniversary/.243880
 
-Epilogue chapter debuts on December 4
+Jean-Karlo shares his impressions of the Game of the Year contender and takes a trip through Green Hill to celebrate Sonic's anniversary.
 
-### Life with an Ordinary Guy Who Reincarnated into a Total Fantasy Knockout Manga Ends With 20th Volume
-Fri, 20 Nov 2026 07:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-20/life-with-an-ordinary-guy-who-reincarnated-into-a-total-fantasy-knockout-manga-ends-with-20th-volume/.244002
+### Yen Press Licenses [Oshi No Ko] Étude for Two, Bungo Stray Dogs: The Untold Origins of the Detective Agency, More Manga/Novels
+Fri, 20 Nov 2026 14:57:31 -0500 — https://www.animenewsnetwork.com/news/2026-11-20/yen-press-licenses-oshi-no-ko-etude-for-two-bungo-stray-dogs-the-untold-origins-of-the-detective-/.244035
 
-Manga launched in November 2019, inspired 2022 TV anime
+Also: <cite>Mercenary Sisters</cite>, <cite>Caring for a Corpse</cite>, <cite>Megarosalia</cite>, more
 
-### 'A Pen, Handcuffs, and a Common-Law Marriage' TV Anime Reveals Theme Song Artists, More Cast, January 9 Debut in Video
-Fri, 20 Nov 2026 06:00:02 -0500 — https://www.animenewsnetwork.com/news/2026-11-20/a-pen-handcuffs-and-a-common-law-marriage-tv-anime-reveals-theme-song-artists-more-cast-january-9-/.244022
+### Chiruran Manga Gets New Stage Play by All-Female Troupe O'Clock Kumamoto Revue
+Fri, 20 Nov 2026 13:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-20/chiruran-manga-gets-new-stage-play-by-all-female-troupe-oclock-kumamoto-revue/.244024
 
-Inori Minase performs opening theme song, saeco performs ending theme song
+Series' original author Umemura writes script for play opening in early summer 2027
 
-### Kengo Matsumoto's >Jimoto no Ijimekko-tachi ni Shikaeshi Shiyō to Shitara Manga Gets TV Anime
-Fri, 20 Nov 2026 05:07:10 -0500 — https://www.animenewsnetwork.com/news/2026-11-20/kengo-matsumoto-jimoto-no-ijimekko-tachi-ni-shikaeshi-shiyo-to-shitara-manga-gets-tv-anime/.244020
+### Overgeared Volumes 4-6 K-Comic Review
+Fri, 20 Nov 2026 12:00:00 -0500 — https://www.animenewsnetwork.com/review/overgeared/volumes-4-6/.243215
 
-Gekkō animates misunderstanding romcom debuting next year
+Every time I finish a volume of <i>Overgeared</i>, I think the same thing: <i>Grid's a jerk, but…</i>. It's hard to say whether this is a feature or a bug.
 
-### Rock Paper Landmine Novel Gets Stage Play in January
-Fri, 20 Nov 2026 04:16:57 -0500 — https://www.animenewsnetwork.com/news/2026-11-20/rock-paper-landmine-novel-gets-stage-play-in-january/.244017
+### Duel Masters LOST Anime Gets 5th Part
+Fri, 20 Nov 2026 11:46:21 -0500 — https://www.animenewsnetwork.com/news/2026-11-20/duel-masters-lost-anime-gets-5th-part/.244025
 
-Yugo Aosaki's novel has live-action series adaptation that debuted on Prime Video worldwide on November 13
+Manga's 5th part <cite>Duel Masters LOST ~Shitsuraku no Duel~</cite> debuted on September 17
 
-### Mercedes and the Waning Moon TV Anime Reveals More Cast, January 10 Debut
-Fri, 20 Nov 2026 04:03:14 -0500 — https://www.animenewsnetwork.com/news/2026-11-20/mercedes-and-the-waning-moon-tv-anime-reveals-more-cast-january-10-debut/.244014
+### BanG Dream! Yume∞Mita Series Confirms New Anime in Production
+Fri, 20 Nov 2026 10:59:17 -0500 — https://www.animenewsnetwork.com/news/2026-11-20/bang-dream-yume-mita-series-confirms-new-anime-in-production/.244026
 
-Show Hayami, Miyu Tomita, more join cast; new visual also revealed
+TV anime based on BanG Dream! project's Mugendai Mewtype band premiered on July 2
 
-### 2027 Doraemon Film Reveals Guest Cast
-Fri, 20 Nov 2026 03:49:36 -0500 — https://www.animenewsnetwork.com/news/2026-11-20/2027-doraemon-film-reveals-guest-cast/.244019
+### FX Fighter Kurumi-chan ‒ Episode 8
+Fri, 20 Nov 2026 10:30:00 -0500 — https://www.animenewsnetwork.com/review/fx-fighter-kurumi-chan/episode-8/.244010
 
-Chikahiro Kobayashi, Tomoyo Kurosawa, more join cast for film opening on March 5
+After all her insistence that she's not to be imitated or given responsibility or blamed, it is following Kurumi's examples of "borrowing" for investments that's led her protege here. Mebuki learned it by watching her.
 
-### 2nd New Armored Trooper Votoms Anime Film to Open in 2027
-Fri, 20 Nov 2026 03:34:46 -0500 — https://www.animenewsnetwork.com/news/2026-11-20/2nd-new-armored-trooper-votoms-anime-film-to-open-in-2027/.244018
+### Crunchyroll Streams My Hero Academia The Movie: World Heroes' Mission Anime
+Fri, 20 Nov 2026 09:50:53 -0500 — https://www.animenewsnetwork.com/news/2026-11-20/crunchyroll-streams-my-hero-academia-the-movie-world-heroes-mission-anime/.244023
 
-Teaser visual revealed for 2nd film; 1st film opened on Friday
+Film opened in August 2021 in Japan
 
-### Pokémon Joins Duolingo for 'Duo's Pokémon Party' Event
-Thu, 19 Nov 2026 23:59:00 -0500 — https://www.animenewsnetwork.com/interest/2026-11-19/pokemon-joins-duolingo-for-duo-pokemon-party-event/.243987
+### Reincarnated as a Sword Season 2 ‒ Episode 8
+Fri, 20 Nov 2026 09:30:00 -0500 — https://www.animenewsnetwork.com/review/reincarnated-as-a-sword-season-2/episode-8/.243973
 
-And maybe learn Pokémon speak while you're at it
+In the name of efficiency, I'm fine with this being a way to get Teacher, Fran, and the others into prison so that they can then get broken out of prison by new characters.
 
-### 'I am the only one who is not attacked in the world filled with zombies' Anime Reveals More Cast, January 1 TV Debut
-Thu, 19 Nov 2026 22:58:04 -0500 — https://www.animenewsnetwork.com/news/2026-11-19/i-am-the-only-one-who-is-not-attacked-in-the-world-filled-with-zombies-anime-reveals-more-cast-/.244007
+### Maison and the Man-Eating Apartment Manga Ends in Next Chapter
+Fri, 20 Nov 2026 09:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-20/maison-and-the-man-eating-apartment-manga-ends-in-next-chapter/.244004
 
-Mitsuki Kuribayashi, Risae Matsuda, Sarah Emi Bridcutt, Seigo Yokota, Shuhei Matsuda, 2 more join cast
+Kuu Tanaka, Akima launched manga in March 2025; English version available on Manga Plus
 
-### Live-Action Fukakōryoku no I Love You Film Casts M!LK Idol Shunta Sono
-Thu, 19 Nov 2026 22:42:28 -0500 — https://www.animenewsnetwork.com/news/2026-11-19/live-action-fukakoryoku-no-i-love-you-film-casts-m-lk-idol-shunta-sono/.244006
+### Planning the Cosmic Era with Mobile Suit Gundam Seed FREEDOM ZERO Producer Kaori Shida
+Fri, 20 Nov 2026 09:00:00 -0500 — https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-new-york-comic-con/planning-the-cosmic-era-with-mobile-suit-gundam-seed-freedom-zero-producer-kaori-shida/.243502
 
-Idol group member plays Saku's childhood friend Rentarō Akizuki in March 2027 film
+Shida shares insights into what to expect from the upcoming film and how it fits into the broader Gundam Seed universe.
 
-### Star Detective Precure's Cure Answer Poses as Street Fighter 6 Characters
-Thu, 19 Nov 2026 21:00:00 -0500 — https://www.animenewsnetwork.com/interest/2026-11-19/star-detective-precure-cure-answer-poses-as-street-fighter-6-characters/.243988
+### Combining Titillation and Tiles, a Brief History of Strip Mahjong
+Fri, 20 Nov 2026 09:00:00 -0500 — https://www.animenewsnetwork.com/feature/2026-11-20/combining-titillation-and-tiles-a-brief-history-of-strip-mahjong/.243845
 
-Cure Answer poses as Luke, Jamie, Guile, Ken, Dhalism, Dee Jay, Marisa, Cammy, Akuma, Alex, Ingrid
+Big-brained developers had an idea: riichi mahjong is readily available, but what if we add an often lucrative lure: what if you could see attractive anime women naked by winning?
 
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### BanG Dream! Yume∞Mita Gets New Anime Series
+Fri, 20 Nov 2026 13:38:21 GMT — https://animecorner.me/bang-dream-yumemita-gets-new-anime-series/
+
+Mugendai MewType announced during their 3rd anniversary livestream that BanG Dream! Yume∞Mita is getting&hellip;
 
 ### Fall 2026 Anime Rankings – Week 7
 Fri, 20 Nov 2026 12:30:00 GMT — https://animecorner.me/fall-2026-anime-rankings-week-7/
@@ -84,6 +89,26 @@ Wed, 18 Nov 2026 21:50:22 GMT — https://animecorner.me/atomic-pixel-brings-mik
 Atomic Pixel Party, an event organizer focused on anime and geek culture themed parties,&hellip;
 
 ## MyAnimeList News
+
+### Tougen Anki: Nikko Kegon no Taki-hen Unveils Additional Cast
+Fri, 20 Nov 2026 09:44:20 -0800 — https://myanimelist.net/news/74961958?_location=rss
+
+The official website for the Tougen Anki: Nikko Kegon no Taki-hen (Tougen Anki: Nikko Kegon Falls Arc) television anime unveiled additional cast members on Saturday. The first part of the second season adapting Yura Urushibara s action fantasy manga premiered on October 2 at 11.30 p.m. on Nippon Television s Friday Anime Night programming block, followed by BS Nippon Television. Cast Kokuryo Momosaka: Masahiro Ichinose Meidai Momotoba, Katakura Momogakuin: Eiji Miyashita (Tensei shitar...
+
+### Manga Haite Kudasai, Takamine-san Ends Serialization
+Fri, 20 Nov 2026 08:56:46 -0800 — https://myanimelist.net/news/74961851?_location=rss
+
+The official X account for author Yuuichi Hiiragi announced on Friday that the Haite Kudasai Takamine-san (Please Put Them On, Takamine-san) manga will end in the February issue of Gangan Joker magazine, marking the end of the manga s nearly 8-year run. Hiiragi began serializing the ecchi romance comedy manga in Gangan Joker in January 2019. Square Enix published the 11th volume on February 20. A 12-episode television anime adaptation produced by LIDENFILMS aired in Spring 2025. Crunchyroll...
+
+### Supporting Cast for Kaketa Tsuki no Mercedes Announced
+Fri, 20 Nov 2026 07:58:05 -0800 — https://myanimelist.net/news/74961677?_location=rss
+
+The official website for the television anime adaptation of Firehead s Kaketa Tsuki no Mercedes: Kyuuketsuki no Kizoku ni Tensei shita kedo Suteraresou nanode Dungeon wo Seiha suru (Mercedes and the Waning Moon: The Dungeoneering Feats of a Discarded Vampire Aristocrat) light novel revealed supporting cast and second visual (pictured). The anime will premiere on January 10 at 4:30 p.m. on TBS-affiliated networks across Japan, airing every Sunday on 28 stations. Cast Margitte Grunewald: Nich...
+
+### BanG Dream! Yume∞Mita New Anime in Production
+Fri, 20 Nov 2026 06:41:52 -0800 — https://myanimelist.net/news/74961509?_location=rss
+
+The 3rd Anniversary livestream event of Mugendai MewType announced a new anime for BanG Dream! Yume&infin;Mita television anime on Friday. Produced by Nichicaline, the 13-episode series aired in Summer 2026. Crunchyroll streamed the anime in English subtitles. The first television anime of the multimedia franchise, abbreviated as Bandori, was produced by Xebec and Issen in Winter 2017. A second season by SANZIGEN premiered in Winter 2019, followed by a third season in Winter 2020. The BanG Drea...
 
 ### Manga Jimoto no Ijimekko-tachi ni Shikaeshi Shiyou to Shitara, Betsu no Tatakai ga Hajimatta. Gets TV Anime in 2027
 Fri, 20 Nov 2026 01:42:04 -0800 — https://myanimelist.net/news/74960793?_location=rss
@@ -124,11 +149,6 @@ The official website of the Boukensha License wo Hakudatsu sareta Ossan dakedo, 
 Thu, 19 Nov 2026 01:32:46 -0800 — https://myanimelist.net/news/74957361?_location=rss
 
 The official website for the television anime adaptation of Monsho Sasakibara and kanco s Majutsu wo Kiwamete Tabi ni Deta Tensei Elf, Moteamashita Jumyou de Ikeru Densetsu to Naru (The Reincarnated Elf Left on a Journey to Master His Magic and With His Extra Lifespan Became a Living Legend) web manga revealed the additional cast, staff, theme songs, a key visual (pictured), and the main promotional video on Thursday. The anime series will premiere on Tokyo MX at 12.00 a.m. on January 7, 20...
-
-### Webtoon Not-Sew-Wicked Stepmom Gets TV Anime
-Wed, 18 Nov 2026 19:27:11 -0800 — https://myanimelist.net/news/74956781?_location=rss
-
-Publishing company Kakao Piccoma announced a television anime adaptation of Ilu and Moguraeng s Not-Sew-Wicked Stepmom webtoon on Thursday, revealing an announcement visual (pictured). The anime will premiere under the Japanese title Mamahaha dakedo Musume ga Kawaisugiru. Iru originally wrote the isekai villainess novel on the KakaoPage website from January 2019 to May 2019, with illustrations by Dinorex. The main story concluded with 186 chapters, followed by 24 side story chapters publish...
 
 ## Otaku USA
 

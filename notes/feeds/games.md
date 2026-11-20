@@ -1,6 +1,46 @@
-# Games — harvested 2026-11-20T13:36:25.129Z
+# Games — harvested 2026-11-20T21:31:45.261Z
 
 ## Eurogamer
+
+### GTA 6 is officially the biggest entertainment launch of all time, selling 32.5 million pre-sale copies and a bonkers $3.79 billion in its first day
+Fri, 20 Nov 2026 20:00:40 +0000 — https://www.eurogamer.net/gta-6-biggest-entertainment-launch
+
+Surprise, surprise - GTA 6 is officially the biggest entertainment launch of all time, surpassing its predecessor's 13-year-long record and the already optimistic analyst estimates. Read more
+
+### After taking seven years to make Persona 6 and four years to make Persona 5, Atlus promises future games will come quicker
+Fri, 20 Nov 2026 19:23:00 +0000 — https://www.eurogamer.net/persona-6-games-come-quicker-atlus
+
+Persona 6 is still slowly chugging in the background, but developer Atlus is promising that future games in its beloved RPG series won't take quite as long as they used to. Read more
+
+### GTA 6 credits actually include 'Florida Joker', the viral internet personality who once demanded $10 million from Rockstar Games
+Fri, 20 Nov 2026 18:23:50 +0000 — https://www.eurogamer.net/gta-6-credits-florida-joker-rockstar
+
+Lawrence Sullivan, better known to the online world as the 'Florida Joker', is in GTA 6 . After accusing Rockstar Games of using his likeness without consent and then demanding a $10m payout, the two parties have seemingly settled their differences. Read more
+
+### Nvidia co-founder Jensen Huang accused of decades of bullying and workplace abuse in new investigation
+Fri, 20 Nov 2026 17:19:50 +0000 — https://www.eurogamer.net/jensen-huang-nvidia-investigation-harassment
+
+An investigation into the workplace behavior of Nvidia co-founder Jensen Huang, who resigned recently after a series of extramarital affairs came to light, has uncovered decades of harassment, verbal employee abuse and "cultish" behaviour at the company which has long played a major role in PC gaming. Read more
+
+### 13 arrested in Shanghai as police crackdown on bootleg Final Fantasy 7 Tifa figurine operation
+Fri, 20 Nov 2026 16:39:30 +0000 — https://www.eurogamer.net/final-fantasy-7-bootleg-tifa-figurine-china-13-arrested
+
+Chinese police have arrested 13 individuals in Shanghai allegedly involved in a bootleg Final Fantasy 7 Tifa figurine business, after consumers reported the operation. They are currently being investigated on suspicion of selling infringing reproductions. Read more
+
+### GTA 6 players are already pulling off high-flying tricks and other impressive stunts, just days after launch
+Fri, 20 Nov 2026 15:59:00 +0000 — https://www.eurogamer.net/gta-6-plane-vehicle-stunts-impressive
+
+One of the best things to emerge from Grand Theft Auto over the years has been the community's truly spectacular stunts: players soaring under bridges, leaping across buildings, and more. And with GTA 6 's release this week, we've seen the first signs of the trend continuing in a brand-new world. Read more
+
+### Star Wars: Galactic Racer studio "didn't dream" Biddy Blas would be as popular as he is
+Fri, 20 Nov 2026 15:54:10 +0000 — https://www.eurogamer.net/biddy-blas-star-wars-galactic-racer-viral-scrib-doon
+
+Fuse Games, the developer of Star Wars: Galactic Racer, has said it "didn't dream" the pod racing game's background character Biddy Blas would become as popular as he has. Read more
+
+### It took me less than an hour to find my first incredibly minor Rockstar easter egg in GTA 6 - but it has some big implications for Leonida
+Fri, 20 Nov 2026 15:19:30 +0000 — https://www.eurogamer.net/gta-6-early-game-connection-rockstar-gta-5
+
+Are you wondering how connected the worlds of GTA 5 and GTA 6 are? Well, I've got some news for you. Keep on reading below if you'd like some very minor spoilers for the early game of GTA 6, spoilers for GTA 5, as well as some information about how the new game links to GTA 5 and other Rockstar games. Read more
 
 ### I completed GTA 6's indie game darling pastiche, Tenebrae Lux, and all I got was this lousy sense of accomplishment
 Fri, 20 Nov 2026 13:21:00 +0000 — https://www.eurogamer.net/tenebrae-lux-gta-6-now-playing
@@ -22,54 +62,34 @@ Fri, 20 Nov 2026 12:12:10 +0000 — https://www.eurogamer.net/total-war-warhamme
 
 There is perhaps nothing so brutal in a Total War game than getting an army full of elite units wiped out, and it appears that pain remains a factor in the upcoming Total War conversion of : Warhammer 40,000. Creative Assembly also has some nifty ideas around breaking the game into mini-campaigns for each star system you visit. Read more
 
-### GTA 6 day-one sales are enormous, estimates suggest, making previous $2 billion opening weekend predictions seem conservative
-Fri, 20 Nov 2026 11:40:30 +0000 — https://www.eurogamer.net/gta-6-sales-estimate-rockstar-grand-theft-auto
-
-Grand Theft Auto 6 is estimated to have sold nearly 25 million copies in one day, generating approximately $2.5bn in sales revenue - a staggering result that's beyond even what even observers were predicting . Read more
-
-### "You broke my heart" - popular artist Doja Cat gutted to not have her music in Grand Theft Auto 6
-Fri, 20 Nov 2026 09:58:10 +0000 — https://www.eurogamer.net/grand-theft-auto-6-doja-cat-gutted-not-in-soundtrack
-
-As countless people flock to Grand Theft Auto 6 following its launch earlier this week, a common highlight gamers have been highlighting are the many radio stations present in the game. While packed with songs, one artist has expressed her frustration with not being included among the list of featured artists. Read more
-
-### Blizzard wants to "get rid" of best-in-slot items in World of Warcraft: Forever by introducing situationally strong gear
-Fri, 20 Nov 2026 09:46:30 +0000 — https://www.eurogamer.net/world-of-warcraft-forever-developers-best-in-slot-podcast
-
-With World of Warcraft: Forever's first raids set to release in early December, developers of the game have spoken about endgame itemisation and their desire to disrupt the "best-in-slot" (BIS) mindset that's been at the core of WoW's progression for years. Read more
-
-### Ubisoft says Assassin's Creed Jade is still alive as it merges two of its Creative Houses
-Thu, 19 Nov 2026 21:09:40 +0000 — https://www.eurogamer.net/ubisoft-assassins-creed-jade-still-in-development-creative-houses-merge
-
-Ubisoft has confirmed that while Assassin's Creed Jade - its mobile entry in the series - is still in development, its focus remains with console and PC. Read more
-
-### Infamous GTA 6 leaker CyberLeek is back, and this time the group claims to have leaked a full development build of the game
-Thu, 19 Nov 2026 21:08:50 +0000 — https://www.eurogamer.net/cyberleek-gta-6-dev-build
-
-CyberLeek, the persona of a hacker group that was responsible for leaking GTA 6 gameplay before the game launched, has reappeared today, claiming to have released a development build of the final version of the game on its site. This new leak appears to be making good on a threat posted back in October, where the group stated its intent to release a full, playable build of the game . Read more
-
-### World of Warcraft: Forever has more weekly players than WoW has seen in 15 years, says Blizzard
-Thu, 19 Nov 2026 18:52:50 +0000 — https://www.eurogamer.net/wow-forever-weekly-players-15-years
-
-World of Warcraft: Forever now has more people playing each week than World of Warcraft has seen in 15 years, according to Blizzard. Read more
-
-### GTA 6 players are being abducted by aliens and knocked out by Bigfoot
-Thu, 19 Nov 2026 17:48:50 +0000 — https://www.eurogamer.net/gta-6-ufo-bigfoot-easter-eggs
-
-Grand Theft Auto 6 has only been out for a matter of hours, and players have already tracked down a UFO in the woods and a Bigfoot in the swamps. Read more
-
-### Ubisoft cuts jobs at major Assassin's Creed and Far Cry studios as its year of layoffs continues
-Thu, 19 Nov 2026 17:43:50 +0000 — https://www.eurogamer.net/ubisoft-layoffs-166-assassins-creed-far-cry-montreal-quebec
-
-Ubisoft has confirmed more layoffs as part of its previously announced operational "reset", this time affecting 166 employees at its major Montr&eacute;al and Qu&eacute;bec City studios - the teams responsible for game series including Assassin's Creed and Far Cry. It says the cuts are necessary "to ensure our resources are aligned with current production priorities and business needs." Read more
-
 ## GamesIndustry.biz
+
+### GTA 6 hits $3.79 billion in its first day on sale, becoming "the biggest entertainment launch in history"
+Fri, 20 Nov 2026 20:24:00 +0000 — https://www.gamesindustry.biz/gta-6-hits-379-billion-in-its-first-day-on-sale-becoming-the-biggest-entertainment-launch-in-history
+
+Rockstar has announced that GTA 6 achieved $3.79 billion in retail sales in its first day on sale, "setting a new record for entertainment across any medium, and becoming the biggest entertainment launch in history." Read more
+
+### Ampere Analysis: Over 2m UK and US Xbox players accessed GTA 6 before official launch by switching location to New Zealand
+Fri, 20 Nov 2026 15:21:00 +0000 — https://www.gamesindustry.biz/ampere-analysis-over-1m-uk-and-us-xbox-players-accessed-gta-6-before-official-launch-by-switching-location-to-new-zealand
+
+Over two million Xbox players in the UK and US accessed Grand Theft Auto 6 before its official launch by changing their location to New Zealand, according to Ampere Analysis. Read more
+
+### GTA 6: the first billion-dollar game may also be the last | Opinion
+Fri, 20 Nov 2026 15:02:20 +0000 — https://www.gamesindustry.biz/gta-6-the-first-billion-dollar-game-may-also-be-the-last
+
+What does a billion dollars look like on screen? Or $1.5bn, or perhaps $2bn; estimates swing around a little for just how much money has been spent creating GTA 6. The one thing that&rsquo;s certain is that it&rsquo;s the most expensive game ever made &ndash; in fact, by far the most expensive piece of media ever made. Read more
+
+### Sensor Tower estimates GTA 6 generated $2.36bn in pre-order and launch-day sales
+Fri, 20 Nov 2026 14:07:30 +0000 — https://www.gamesindustry.biz/sensor-tower-estimates-gta-6-generated-236bn-in-pre-order-and-launch-day-sales
+
+Sensor Tower estimates Grand Theft Auto 6 sold over 24.5 million copies through pre-orders and on launch day, generating approximately $2.36 billion in revenue. Read more
 
 ### How the EU's Digital Fairness Act will impact game design, and why it hits European indies particularly hard
 Fri, 20 Nov 2026 12:27:00 +0000 — https://www.gamesindustry.biz/how-the-eus-digital-fairness-act-will-impact-game-design-and-why-it-hits-european-indies-particularly-hard
 
 The European Commission's publication of its draft Digital Fairness Act (DFA) last week prompted uproar within the games industry, with many notable voices candidly expressing their concerns. Opinions in the wider industry were more measured, possibly because some of the practices targeted by the DFA &ndash; such as loot boxes or pay-to-win &ndash; are wildly successful economically, but not uniformly popular amongst players. Read more
 
-### Assassin's Creed Black Flag Resynced drives Ubisoft Q2 net bookings above guidance; H1 results decline 16.5% to €644.7m
+### Ubisoft merges two Creative Houses as H1 results decline 16.5%; Q2 net bookings above guidance thanks to Assassin's Creed Black Flag remake
 Fri, 20 Nov 2026 11:43:40 +0000 — https://www.gamesindustry.biz/assassins-creed-black-flag-resynced-drives-ubisoft-q2-net-bookings-above-guidance-h1-results-decline-165-to-6447m
 
 Assassin's Creed Black Flag Resynced increased Ubisoft's Q2 net bookings to &euro;389 million, exceeding the estimated guidance of &euro;370 million. Read more
@@ -104,46 +124,51 @@ Thu, 19 Nov 2026 14:55:30 +0000 — https://www.gamesindustry.biz/007-first-ligh
 
 IO Interactive's 007 First Light received Game of the Year at the 2026 TIGA Awards, while Dovetail Games earned four awards, including Best Publisher and Best Educational, Serious or Simulation Game for Train Sim World 6. Read more
 
-### Call of Duty: Modern Warfare 4 debuts as top-selling game in US for October 2026
-Thu, 19 Nov 2026 14:00:00 +0000 — https://www.gamesindustry.biz/call-of-duty-modern-warfare-4-debuts-as-top-selling-game-in-us-for-october-2026
-
-Call of Duty: Modern Warfare 4 led US sales in October according to Circana, marking the 19th consecutive year a Call of Duty title has been the best-selling game during its launch month. Read more
-
-### US Senate hearing examines child safety on Roblox, considers bipartisan bill to bypass forced arbitration
-Thu, 19 Nov 2026 11:52:10 +0000 — https://www.gamesindustry.biz/us-senate-hearing-examines-child-safety-on-roblox-considers-bipartisan-bill-to-bypass-forced-arbitration
-
-The US Senate Judiciary Subcommittee on Crime and Counterterrorism held a hearing this week to examine child safety on Roblox and consider a bipartisan bill that would allow families and victims to bypass forced arbitration. Read more
-
-### The future of British gaming is more than just games | Opinion
-Thu, 19 Nov 2026 10:32:50 +0000 — https://www.gamesindustry.biz/the-future-of-british-gaming-is-more-than-just-games-opinion
-
-The UK has one of the most creative and innovative video games industries in the world. From independent studios developing original ideas to established businesses creating globally recognised franchises, British developers have consistently shown that they can compete on the international stage. Read more
-
-### Rockstar and IWGB members issue closing arguments following conclusion of employment tribunal
-Thu, 19 Nov 2026 10:03:40 +0000 — https://www.gamesindustry.biz/rockstar-and-iwgb-members-issue-closing-arguments-following-conclusion-of-employment-tribunal
-
-The employment tribunal between Rockstar and members of the Independent Workers' Union of Great Britain (IWGB) has concluded, with both parties issuing their closing arguments. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
 
+### GTA 6 Sells a Record-Breaking 32.5 Million Copies
+Fri, 20 Nov 2026 19:30:00 GMT — https://www.pushsquare.com/news/2026/11/gta-6-sells-a-record-breaking-32-5-million-copies
+
+The biggest entertainment launch of all time. I think we all knew it was going to be big, but this big? Rockstar has announced that GTA 6 sold a staggering 32.5 million copies during its preload period, setting a “new record across all platforms”. That number is likely higher by now, because the press release’s wording implies it’s not counting launch day sales into the above total, which are guaranteed to be plentiful. (It’s only going to keep rising through Thanksgiving and Christmas, too.) Read the full article on pushsquare.com
+
+### Feature: GTA 6 Made Me Want to Be a Good Guy (or Girl)
+Fri, 20 Nov 2026 18:00:00 GMT — https://www.pushsquare.com/features/gta-6-made-me-want-to-be-a-good-guy-or-girl
+
+Mr and Mrs Nice Guy. It’s the strangest feeling. I’m playing a new GTA game but I’m actually abiding by the traffic rules. Read the full article on pushsquare.com
+
+### Atlus Doesn t Want You to Wait Yet Another 10 Years for Persona 7
+Fri, 20 Nov 2026 16:00:00 GMT — https://www.pushsquare.com/news/2026/11/atlus-doesnt-want-you-to-wait-yet-another-10-years-for-persona-7
+
+Plans in place to speed development up. By the time Persona 6 comes out, it'll have been at least 10 years since the launch of Persona 5 . That's a very long time between mainline instalments, and developer Atlus doesn't want you to have to repeat the process again. Via a new company interview with creative producer Kazuhisa Wada, it's revealed the Persona team within Atlus is working on "various things" to make sure the wait between releases isn't so long. "Persona 6 is not the end," Wada said. Read the full article on pushsquare.com
+
+### These 7 PS5 Games Launched on the Same Day as GTA 6 Like Mad Men
+Fri, 20 Nov 2026 15:00:00 GMT — https://www.pushsquare.com/news/2026/11/these-7-ps5-games-launched-on-the-same-day-as-gta-6-like-mad-men
+
+Brave strategy. What’s the definition of insanity? It’s got to be launching your game on the exact same day as GTA 6 , which is likely to be the biggest release in history. And yet, seven games did! Read the full article on pushsquare.com
+
+### It s Unbelievably Hard to Achieve : Cyberpunk 2077 Boss Pours Praise on Masterpiece GTA 6
+Fri, 20 Nov 2026 14:30:00 GMT — https://www.pushsquare.com/news/2026/11/its-unbelievably-hard-to-achieve-cyberpunk-2077-boss-pours-praise-on-masterpiece-gta-6
+
+Night City meets Vice City. From Night City to Vice City, the boss of CDPR has nothing but nice things to say about GTA 6 . With the PS5 release of Cyberpunk 2077 , the Polish studio established itself as an open world big boy, having previously released one of the greatest RPGs ever in The Witcher 3 . Read the full article on pushsquare.com
+
 ### GTA 6 Too Dark? Here s How to Fix It on PS5
 Fri, 20 Nov 2026 12:30:00 GMT — https://www.pushsquare.com/news/2026/11/gta-6-too-dark-heres-how-to-fix-it-on-ps5
 
 Optimal HDR calibration settings included. If you’re playing GTA 6 and finding it too dark, there’s a good chance you may have your HDR calibration wrong – and no, it’s not your fault! An extensive research video by HDTV Test – performed on a pricey Sony reference monitor – reveals the game’s HDR calibration may not be working quite as intended. Read the full article on pushsquare.com
 
+### Guide: GTA 6: Radio Songs - All Music, Radio Stations, & Artists
+Fri, 20 Nov 2026 09:00:00 GMT — https://www.pushsquare.com/guides/gta-6-radio-songs-all-music-radio-stations-and-artists
+
+Every track in GTA 6. As with the previous games in the series, GTA 6 has a staggering amount of both licensed and original music. There's so much to listen to, whether it's selected tracks during key story moments or you're just driving around with the radio on. In this GTA 6 guide , we're going to tell you everything you need to know about GTA 6's music. Read the full article on pushsquare.com
+
 ### Wolverine PS5 s Sales Absolutely Plunged in October
 Fri, 20 Nov 2026 02:00:00 GMT — https://www.pushsquare.com/news/2026/11/wolverine-ps5s-sales-absolutely-plunged-in-october
 
 Snikt out on the top ten. Marvel’s Wolverine may have started strong in September’s Circana sales report , but it plunged in October. Sony’s big PS5 exclusive for 2026, which attracted reasonable if utterly unremarkable reviews , ranked 14th in the latest US best-sellers list – dropping dramatically from first position the month of its release. Read the full article on pushsquare.com
-
-### Guide: GTA 6: Radio Songs - All Music, Radio Stations, & Artists
-Fri, 20 Nov 2026 01:00:00 GMT — https://www.pushsquare.com/guides/gta-6-radio-songs-all-music-radio-stations-and-artists
-
-Every track in GTA 6. As with the previous games in the series, GTA 6 has a staggering amount of both licensed and original music. There's so much to listen to, whether it's selected tracks during key story moments or you're just driving around with the radio on. In this GTA 6 guide , we're going to tell you everything you need to know about GTA 6's music. Read the full article on pushsquare.com
 
 ### GTA 6 s Mandy Is a Lot of Fun Says Real-Life Actress as PS5 Players Are Smitten
 Fri, 20 Nov 2026 00:00:00 GMT — https://www.pushsquare.com/news/2026/11/gta-6s-mandy-is-a-lot-of-fun-says-real-life-actress-as-ps5-players-are-smitten
@@ -165,32 +190,17 @@ Thu, 19 Nov 2026 17:30:00 GMT — https://www.pushsquare.com/guides/gta-6-who-is
 
 All you need to know about Dylan Rourke. Of the two playable characters in GTA 6 , the first you'll spend significant time with is Jason. You might be wondering about who exactly it is that has played the part of this co-lead character. In this GTA 6 guide , we answer the question: who is the real actor Jason is based on in GTA 6? Who Is the Real Actor Jason Is Based on in GTA 6? Read the full article on pushsquare.com
 
-### GTA 6 Doesn t Have Any Sex Workers, and Rockstar Has Explained Why
-Thu, 19 Nov 2026 17:00:00 GMT — https://www.pushsquare.com/news/2026/11/gta-6-doesnt-have-any-sex-workers-and-rockstar-has-explained-why
-
-First 3D entry to not feature them. A mainstay of the GTA series has been the presence of sex workers, but Rockstar Games has dropped this aspect for the newly released GTA 6 . As reported by Shack News , unlike most other games in the long-running franchise, you cannot hire a sex worker in GTA 6. Read the full article on pushsquare.com
-
-### Ubisoft Confirms 166 Layoffs at Key Assassin s Creed Studios
-Thu, 19 Nov 2026 16:30:00 GMT — https://www.pushsquare.com/news/2026/11/ubisoft-confirms-166-layoffs-at-key-assassins-creed-studios
-
-Montreal and Quebec hit. Ubisoft has confirmed that it's laid off a total of 166 employees across two of its major studios, Ubisoft Montreal and Ubisoft Quebec. Although this figure only accounts for roughly 4% of the publisher's full Canadian workforce, it's obviously still a lot of people to let go of in one fell swoop. Read the full article on pushsquare.com
-
-### Call of Duty s Influence Is Fading Fast as Modern Warfare 4 Fails to Make US Top 10
-Thu, 19 Nov 2026 15:30:00 GMT — https://www.pushsquare.com/news/2026/11/call-of-dutys-influence-is-fading-fast-as-modern-warfare-4-fails-to-make-us-top-10
-
-Shot down. There's been an awful lot of debate about the overall quality and lasting commercial success of Call of Duty across the last few years, with many arguing that the once unstoppable series is steadily losing its edge. As such, this latest report from Circana won't make for easy reading if you're Xbox or Activision. Read the full article on pushsquare.com
-
-### GTA 6 Has an Easy Mode Buried in an Impressive Range of Accessibility Options
-Thu, 19 Nov 2026 13:30:00 GMT — https://www.pushsquare.com/news/2026/11/gta-6-has-an-easy-mode-buried-in-an-impressive-range-of-accessibility-options
-
-Take it easy. GTA 6 is easily the most customisable game that Rockstar has ever made when it comes to accessibility options. There's a wide range of settings and toggles to experiment with, in a bid to make the open world experience more comfortable. And while the initiative isn't quite as in-depth as what you'll find in recent Ubisoft or Sony-published titles, it's still a solid step forward for the studio. Read the full article on pushsquare.com
-
-### GTA 6 Takes Over PS5 s Welcome Page, Including a New Set of Wallpapers
-Thu, 19 Nov 2026 12:00:00 GMT — https://www.pushsquare.com/news/2026/11/gta-6-takes-over-ps5s-welcome-page-including-a-new-set-of-wallpapers
-
-Welcome to Leonida. Sony and Rockstar Games are making damn sure you know GTA 6 has just launched, as the PS5's Welcome hub — the landing page for the console — has been taken over by the new game. The page's icon currently has that telltale pink/orange gradient and palm trees, and before you see your usual assortment of widgets, a new panel promoting GTA 6 appears. Read the full article on pushsquare.com
-
 ## Game Developer
+
+### Ubisoft misses forecast and bets big on AI development
+Fri, 20 Nov 2026 18:37:58 GMT — https://www.gamedeveloper.com/business/ubisoft-misses-forecast-and-bets-big-on-ai-development
+
+The French publisher plunges on first-half year earnings, though has a few bright spots in its portfolio.
+
+### Is Control Resonant's protagonist a 'sad wet man?' ft. Mikael Kasurinen
+Fri, 20 Nov 2026 15:14:40 GMT — https://www.gamedeveloper.com/design/is-control-resonant-s-protagonist-a-sad-wet-man-ft-mikael-kasurinen
+
+We're chatting with creative director Mikael Kasurinen about the process of making the challenging development decisions behind Control Resonant.
 
 ### Ubisoft lays off 166 in Canada across Montréal and Quebec City
 Thu, 19 Nov 2026 17:53:00 GMT — https://www.gamedeveloper.com/business/ubiosft-lays-off-166-in-canada
@@ -202,17 +212,47 @@ Thu, 19 Nov 2026 15:57:43 GMT — https://www.gamedeveloper.com/marketing/why-gr
 
 Pre-production data said Dressmaker might not find an audience. Free Lives pushed past those numbers to make a bona fide hit.
 
-### Clair Obscur: Expedition 33's narrative lead wants to change game funding
-Wed, 18 Nov 2026 19:02:15 GMT — https://www.gamedeveloper.com/design/clair-obscur-expedition-33-s-narrative-lead-wants-to-change-game-funding
-
-After winning numerous awards, Clair Obscur narrative lead Jennifer Svedberg-Yen wants to change the story about priorities in game funding.
-
-### PlayStation emerges victorious in a $2.6 billion lawsuit alleging a digital monopoly
-Wed, 18 Nov 2026 18:14:35 GMT — https://www.gamedeveloper.com/console/playstation-emerges-victorious-in-a-2-6-billion-lawsuit-alleging-a-digital-monopoly
-
-The now-dismissed lawsuit accused PlayStation of setting "excessive and unfair prices" in the UK, but will not proceed any further.
-
 ## VGC
+
+### GTA 6 full cast confirmed Every actor in Grand Theft Auto 6
+Fri, 20 Nov 2026 21:24:43 +0000 — https://www.videogameschronicle.com/guide/gta-6-full-cast-confirmed-every-actor-in-grand-theft-auto-6/
+
+Here's every actor in GTA 6… Source
+
+### How to open the GTA 6 Kingpin Bowling Alley safe
+Fri, 20 Nov 2026 20:52:16 +0000 — https://www.videogameschronicle.com/guide/how-to-open-the-gta-6-kingpin-bowling-alley-safe/
+
+Open the Kingpin Bowling Alley safe with this guide… Source
+
+### Podcast: GTA 6 Deep (ish) Dive with Jeff Gerstmann
+Fri, 20 Nov 2026 20:16:22 +0000 — https://www.videogameschronicle.com/blog/podcast/podcast-gta-6-deep-ish-dive-with-jeff-gerstmann/
+
+This video contains a spoiler for the game's prologue… Source
+
+### GTA 6 earns $3.79 billion in one day as the biggest entertainment launch in history
+Fri, 20 Nov 2026 19:41:21 +0000 — https://www.videogameschronicle.com/news/gta-6-earns-3-79-billion-in-one-day-as-the-biggest-entertainment-launch-in-history/
+
+The game was pre-ordered over 32 million times… Source
+
+### GTA 6 Slam Dunk Mission Walkthrough
+Fri, 20 Nov 2026 18:45:30 +0000 — https://www.videogameschronicle.com/guide/gta-6-slam-dunk-mission-walkthrough/
+
+Slam Dunk sees Dunk nail another social interaction… Source
+
+### Fanatical s Black Friday Build Your Own Capcom Collection bundle lets you stock up on classics from $6.20 per game
+Fri, 20 Nov 2026 16:10:49 +0000 — https://www.videogameschronicle.com/news/fanaticals-black-friday-build-your-own-capcom-collection-bundle-lets-you-stock-up-on-classics-from-6-20-per-game/
+
+Resident Evil, Ace Attorney, Monster Hunter and Dead Rising are among the series featured… Source
+
+### GTA 6 Wrestling: How to become a backyard wrestler in GTA 6
+Fri, 20 Nov 2026 15:56:36 +0000 — https://www.videogameschronicle.com/guide/gta-6-wrestling-how-to-become-a-backyard-wrestler-in-gta-6/
+
+Jason sets his sights on a new career between the ropes… Source
+
+### Podcast: Should your teenager play GTA 6?
+Fri, 20 Nov 2026 15:39:06 +0000 — https://www.videogameschronicle.com/blog/podcast/podcast-should-your-teenager-play-gta-6/
+
+Keza MacDonald joins the podcast to chat GTA 6… Source
 
 ### GTA 6: How to use the first-person mode glitch in Grand Theft Auto 6
 Fri, 20 Nov 2026 13:21:39 +0000 — https://www.videogameschronicle.com/guide/gta-6-first-person-mode-glitch-grand-theft-auto/
@@ -224,99 +264,99 @@ Fri, 20 Nov 2026 12:59:07 +0000 — https://www.videogameschronicle.com/news/pok
 
 The events will be held in London… Source
 
-### Now, more than ever, it s about design : John Romero loves that games are easier to make but warns most are trash
-Fri, 20 Nov 2026 10:54:34 +0000 — https://www.videogameschronicle.com/news/now-more-than-ever-its-about-design-john-romero-loves-that-games-are-easier-to-make-but-warns-most-are-trash/
-
-The Doom co-creator says mobile in particular is full of low quality releases… Source
-
-### GTA 6 sold around 25 million copies and made $2.36 billion in its first day, estimates suggest
-Fri, 20 Nov 2026 09:42:03 +0000 — https://www.videogameschronicle.com/news/gta-6-sold-around-25-million-copies-and-made-2-36-billion-in-its-first-day-estimates-suggest/
-
-This would easily give it the highest day one sales in entertainment history… Source
-
-### GTA 6 Chapters and Mission List: How many chapters in GTA 6? (Spoiler-Free)
-Thu, 19 Nov 2026 23:58:21 +0000 — https://www.videogameschronicle.com/guide/gta-6-chapters-and-mission-list-how-many-chapters-in-gta-6-spoiler-free/
-
-Here's a spoiler-free list of all of the missions and chapters in GTA 6… Source
-
-### GTA 6 Daily Driver Mission Walkthrough
-Thu, 19 Nov 2026 23:47:06 +0000 — https://www.videogameschronicle.com/guide/gta-6-daily-driver-mission-walkthrough/
-
-Collect a car for Moses in Daily Driver… Source
-
-### How to make money in GTA 6
-Thu, 19 Nov 2026 23:02:01 +0000 — https://www.videogameschronicle.com/guide/how-to-make-money-in-gta-6/
-
-Make money in GTA 6 with these tips… Source
-
-### GTA 6 Moses Mission Walkthrough
-Thu, 19 Nov 2026 22:38:25 +0000 — https://www.videogameschronicle.com/guide/gta-6-moses-mission-walkthrough/
-
-Get a new whip with Moses in GTA 6… Source
-
-### Jennifer Hale says she ‘felt sad when BioWare was sold to EA’
-Thu, 19 Nov 2026 22:34:07 +0000 — https://www.videogameschronicle.com/news/jennifer-hale-says-she-felt-sad-when-bioware-was-sold-to-ea/
-
-Jennifer Hale praises BioWare, and hopes EA will sell Mass Effect… Source
-
-### Cyberleek claims to release development build of GTA 6
-Thu, 19 Nov 2026 20:27:49 +0000 — https://www.videogameschronicle.com/news/cyberleek-claims-to-release-development-build-of-gta-6/
-
-Cyberleek is back for the first time since GTA 6's release… Source
-
 ## Polygon
 
-### Matt Damon Reveals the Surprising Secret Behind 'The Odyssey's Epic Final Battle
-Fri, 20 Nov 2026 13:00:18 GMT — https://www.polygon.com/the-odyssey-matt-damon-final-fight-stunt-team/
+### GTA 6 Players Are Officially Spending an ‘Absolutely Bonkers’ Amount of Time with the Game
+Fri, 20 Nov 2026 21:28:55 GMT — https://www.polygon.com/gta-6-playtime-stats-launch-day-ps5-xbox-series-x/
 
-When Odysseus ( Matt Damon ) finally returns home in Homer's Odyssey , he discovers that getting back to Ithaca was only half the battle. His palace has been overrun by suitors hoping to marry his wife, Penelope (Anne Hathaway), and claim his kingdom. Naturally, Odysseus isn't particularly thrilled about any of this. What follows is one of the epic poem's most memorable confrontations, as the Greek hero takes matters into his own hands.
+Grand Theft Auto 6 players weren't kidding about wanting to spend the game's entire launch day in Leonida. Much hullabaloo was made about people requesting time off from work or faking sick to spend the entire day playing GTA 6 , and plenty of companies tried to capitalize on that conversation with marketing stunts .
 
-### GTA 6 Caused a Mass 'Migration' of Over 2 Million People
-Fri, 20 Nov 2026 12:47:30 GMT — https://www.polygon.com/gta-6-grand-theft-auto-new-zealand-trick-stats/
+### Every Free Game This Week on Steam, Epic, and Xbox (Nov. 20-26)
+Fri, 20 Nov 2026 21:21:08 GMT — https://www.polygon.com/free-games-right-now-steam-epic-ps-plus-nov-20-26/
 
-Grand Theft Auto 6 was released on Thursday, Nov. 19... officially. Millions of players around the world actually got to play it on Nov. 18 by moving to New Zealand. Well, not actually. Players just changed their account's region to New Zealand. It's a known trick that lets gamers access digital games before release when companies opt for a staggered launch, as with GTA 6 . Reports indicate that, in the UK and the US, 2 million Xbox players used the New Zealand trick to gain access to GTA 6 early. And that doesn't even account for the rest of the world or PlayStation players.
+Every week, there are limited-time offers that allow players to enjoy games for free, whether as temporary or permanent additions to their digital libraries. Here's everything that frugal and curious gaming fans can enjoy between Nov. 20 and Nov. 26, so they can make the most of their week without spending a dime.
 
-### GTA 6 Actor Says Rockstar Made Their Non-Binary Character Unkillable
-Fri, 20 Nov 2026 12:00:36 GMT — https://www.polygon.com/gta-6-grand-theft-auto-cygnus-non-binary-character-actor/
+### 'Baldur’s Gate 3' Official Prequel Announced for 2027
+Fri, 20 Nov 2026 21:18:22 GMT — https://www.polygon.com/baldurs-gate-3-shadowheart-prequel-book-dnd/
 
-The state of Leonida has thousands of inhabitants, each one with their own story. One of them is Cygnus, not only Vice City's museum curator, but also the first non-binary character in Grand Theft Auto history. In a detailed Instagram post , actor Jesse James Rose revealed that they played Cygnus and shared their experience working with Rockstar Games on the set of GTA 6 .
+The world of Baldur’s Gate 3 is expanding beyond video games once again, with a new official prequel novel set to explore the darker corners of the Forgotten Realms. The upcoming book will take readers beneath the streets of Baldur’s Gate, where a murder threatens to expose the secrets of a secretive religious order.
 
-### Every Future Driving Game Needs to Steal This GTA 6 Feature
-Fri, 20 Nov 2026 11:34:01 GMT — https://www.polygon.com/gta-6-ps5-dualsense-driving-cruising/
+### 44 Years Later, Steven Spielberg's Scariest Movie of All Time Is Officially Free on Streaming
+Fri, 20 Nov 2026 21:04:18 GMT — https://www.polygon.com/poltergeist-tobe-hooper-steven-spielberg-free-on-pluto-tv/
 
-I've written numerous times about my love for open-world driving games. I love racing, but I also love cruising, taking in the landscape, setting out on road trips. My heart belongs to Test Drive Unlimited . I've written a tourist guide for the Forza Horizon series . One of my games of the year is the Road Trip DLC for American Truck Simulator .
+Poltergeist , which became available to stream for free on Pluto TV on Nov. 1 , follows an ordinary suburban family that begins to experience strange things in their home. Furniture and toys move on their own, a glass of milk shatters out of nowhere, and the youngest child in the family, 5-year-old Carol Anne (Heather O'Rourke), begins to communicate with beings through the television. At first, these events are dismissed, but during a thunderstorm one night, a tree outside the windows of the kids’ room crashes in and snatches the boy. Then, a portal opens in their closet, sucking Carol Anne into another dimension. With help from some paranormal investigators, the family tries everything to bring her back.
 
-### The Lord of the Rings scene they were all waiting for
-Fri, 20 Nov 2026 11:18:40 GMT — https://www.polygon.com/video/the-lord-of-the-rings-scene-they-were-all-waiting-for/
+### 8 New TV Shows to Watch This Weekend on Netflix, Disney, and Paramount (November 20-22)
+Fri, 20 Nov 2026 21:00:18 GMT — https://www.polygon.com/new-tv-shows-streaming-this-weekend-netflix-november-20-22/
 
-This emotional scene between Míriel and Elrond was powerful for the cast of The Lord of the Rings: The Rings of Power.
+Happy weekend! Genre fans have plenty to look forward to when it comes to TV . Earlier this week, Netflix announced the return of 3 Body Project , the heady sci-fi series based on the Liu Cixin novels and adapted by the Game of Thrones showrunners. No big deal. Other series you can look forward to soon include Alien: Earth season 2 and Neuromancer . This month, Blade Runner 2099 is premiering on Prime Video.
 
-### What changed in The Rings of Power season 3?
-Fri, 20 Nov 2026 11:05:34 GMT — https://www.polygon.com/video/what-changed-in-the-rings-of-power-season-3/
+### Macaulay Culkin's Official Return to Home Alone Is Finally Happening
+Fri, 20 Nov 2026 20:36:40 GMT — https://www.polygon.com/macaulay-culkin-home-alone-sequel-rumor-disney/
 
-The One Ring is the key to the show's future.
+Kevin McCallister could be setting another round of traps, as actor Macaulay Culkin is reportedly preparing to return to the Home Alone franchise more than three decades after the original movies — and not just for a McDonald's commercial this time.
 
-### He was a fan of The Hunger Games. Now he's in them.
-Fri, 20 Nov 2026 10:58:46 GMT — https://www.polygon.com/video/he-was-a-fan-of-the-hunger-games-now-he-s-in-them/
+### GTA 6 Players Are Encountering a Mysterious Game Breaking Crash
+Fri, 20 Nov 2026 20:09:34 GMT — https://www.polygon.com/gta-6-crash-ps5-error-code-ce-108255-1/
 
-Sunrise on the Reaping star Kelvin Harrison Jr. grew up reading Suzanne Collins' novels.
+Grand Theft Auto 6 is somehow off to an even hotter start than many expected. The game sold 32.5 million copies pre-release , bringing in a whopping $3.79 billion on day one. That makes it the biggest entertainment launch in history, according to publisher Take-Two. Unfortunately, though, not everyone has been able to enjoy the fun. Numerous players have reported that they can't progress in the game due to a persistent PlayStation 5 crash that sends them back to the dashboard.
 
-### Sold-out Legend of Zelda 40th Anniversary Switch 2 Is Coming Back Very Soon
-Fri, 20 Nov 2026 10:51:53 GMT — https://www.polygon.com/zelda-40-anniversary-switch-2-coming-back-january-stock-nintendo/
+### When did he KNOW he was Gandalf?
+Fri, 20 Nov 2026 20:02:19 GMT — https://www.polygon.com/video/when-did-he-know-he-was-gandalf/
 
-In September 2026, Nintendo announced a new Switch 2 and controller set to commemorate the Zelda franchise's 40th anniversary and the release of The Legend of Zelda: Ocarina of Time remake . While the game quickly became a massive hit, overshadowed only by the launch of GTA 6 , the Switch 2 set unfortunately sold out in a matter of seconds . But there's good news: The Zelda 40th anniversary edition Switch 2 is coming back soon.
+The Rings of Power star Daniel Weyman recounts the season 2 moment that he finally learned that he was Gandalf. #gandalf #danielweyman #lordoftherings #theringsofpower #tv
 
-### 72 Years Later, Lord of the Rings Officially Reveals Why Sauron Is So Evil
-Fri, 20 Nov 2026 09:00:18 GMT — https://www.polygon.com/rings-of-power-sauron-celeborn-explainer/
+### The Best GTA 6 Easter Eggs We’ve Seen So Far
+Fri, 20 Nov 2026 20:00:28 GMT — https://www.polygon.com/gta-6-easter-eggs/
 
-Sauron is one of the most famous villains of all time, but The Lord of the Rings doesn’t really explore why the Dark Lord is so obsessed with conquering all of Middle-earth. The prequel series The Lord of the Rings: The Rings of Power has been working to make Sauron (Charlie Vickers) more complex — which isn’t hard since he gets to have conversations with other characters rather than solely appear as an ominous eye. He’s a master of deception who has appeared in multiple guises to further his schemes, but in one of the latest episodes released Wednesday, Sauron gets honest and reveals his true motivations.
+Grand Theft Auto 6 is finally in the wild, and there are a mind-boggling number of things to do in Leonida. Many of them are terribly dangerous, like stealing cars from the police impound lot, getting into high-speed chases, and laundering stolen goods. But GTA 6 has plenty of wild and wacky optional activities too, many of which include references to pop-culture icons, past Rockstar games, or well-known memes. Here are a few of the coolest Easter eggs we've discovered in our own playthroughs and from other players on social media.
 
-### 6 Funniest Far Side Comics Starring the Devil
-Fri, 20 Nov 2026 07:07:18 GMT — https://www.polygon.com/best-far-side-comics-about-the-devil-hell/
+### GTA 6 Official Sales Numbers Are In — And They're Unbelievable
+Fri, 20 Nov 2026 19:47:25 GMT — https://www.polygon.com/gta-6-official-sales-figure-how-much-made/
 
-In the 1980s and 1990s, nothing in the funny pages was quite as dark as The Far Side . Lucy van Pelt pulling the football away from Charlie Brown as he was about to kick it is about as dark as things got in Peanuts . And in Garfield , the lazy cat’s darkest running gag also revolved around a kick — when he’d kick Odie the dog off a table.
+Grand Theft Auto 6 is off to a staggering start mere days into its release. Rockstar Games and Grand Theft Auto publisher Take-Two Interactive announced Friday that GTA 6 sold 32.5 million copies during its pre-release period — a new record across all platforms, Take-Two says — and generated $3.79 billion in revenue.
 
 ## PC Gamer
+
+### 21% of Rockstar staff have been employed by the company for over 10 years, which explains a lot about GTA 6's record-breaking launch
+Fri, 20 Nov 2026 20:41:34 +0000 — https://www.pcgamer.com/games/grand-theft-auto/21-percent-of-rockstar-staff-have-been-employed-by-the-company-for-over-10-years-which-explains-a-lot-about-gta-6s-record-breaking-launch/
+
+If we're using Metacritic as a metric, Grand Theft Auto 6 is currently the best-reviewed game of all time . Between preorders and launch-day sales, it's already made over $3.7 billion in sales revenue. It's being lauded as a landmark achievement in game design, storytelling, and engineering. So how, exactly, did Rockstar pull it off? Well, the billion-dollar production budget certainly helped. But a Bloomberg report offers an important insight into how GTA 6 was able to deliver on its promises: According to a spokesperson, 21% of Rockstar's staff—roughly 1,000 people—have been employed by the company for over 10 years. For many of its development leads and directors, that figure is closer to 20 years, or higher. (Image credit: Rockstar) By retaining its employees for so long, Rockstar is able to capitalize on the kind of shared, institutional knowledge and honed creative process that developers build through years of collaboration. We've seen that same kind of continuity at other studios who've delivered some of the last decade's biggest hits: FromSoft director Hidetaka Miyazaki has attributed its wins with Elden Ring and Armored Core 6 to its developers growing with the studio , while the breakout sales successes of Baldur's Gate 3 and Helldivers 2 were delivered by developers who'd spent years sharpening their craft at Larian and Arrowhead. That lesson—that making successful games is easier when you keep the people who know how to make games around—isn't one that the games 
+
+### Grand Theft Auto 6 earned $3.79 billion on launch day
+Fri, 20 Nov 2026 19:51:48 +0000 — https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-earned-usd3-79-billion-on-launch-day/
+
+Some very rough napkin math led to estimates that Take-Two Interactive expected to make as much as $3.5 billion during the Grand Theft Auto 6 launch period. It actually made more than that on the GTA 6 launch day: Rockstar says the game pulled in $3.79 billion in "day one retail sales," making it "the biggest entertainment launch in history." By way of comparison, Avengers: Endgame, ranked on Wikipedia as the highest grossing movie of all time, earned a little more than $2.9 billion over its entire theatrical run. GTA 6 crushed that by nearly $1 billion in a day . "It is with immense gratitude that we enter a new chapter of Rockstar Games with the release of Grand Theft Auto 6," Rockstar Games president and co-founder Sam Houser said. "We are incredibly humbled by the response from players around the world and we couldn’t be more excited to share this moment with you." Strauss Zelnick, CEO of publisher Take-Two Interactive, had previously said that preorder levels of Grand Theft Auto 6 were "unprecedented" but declined to reveal specifics . It turns out he wasn't kidding: Take-Two Interactive also revealed today that GTA 6 sold 32.5 million copies in pre-release, which it said is "a new record across all platforms." Those numbers are absolutely staggering: There was never any question that GTA 6 was going to be huge, but those launch days sales—sales from one single day —surpass Take Two's net revenue guidance for the entire quarter by nearly $400 million at the high end. Giv
+
+### Etsy sellers are closing their stores in response to the platform's new AI training policy
+Fri, 20 Nov 2026 19:02:52 +0000 — https://www.pcgamer.com/software/ai/etsy-sellers-are-closing-their-stores-in-response-to-the-platforms-new-ai-training-policy/
+
+Online marketplace Etsy is facing backlash from users over a recent change to its policies that allow it and other companies to use content created by sellers to train AI models. In response, numerous vendors have closed their online shops, and are encouraging others to do the same. Etsy, however, says the new policy isn't meant to "replace your creativity," but simply to improve storefront operations. The offending bit is found in part 5, section C of Etsy's terms of use , effective as of December 16: You agree not to assert any moral rights or rights of publicity against us for using Your Content. You also recognise our legitimate interest in using it, in accordance with the scope of this license, to the extent Your Content contains any personal information. This also includes the right for us and our third party partners and vendors to use Your Content to develop, train, test and improve artificial intelligence and machine learning technologies, including to improve the Services and/or help keep them safe, subject to any applicable opt-out rights described in our Privacy Policy. That seems pretty straightforward—anything you put on your Etsy page can be fed into the AI theft machine like Steve Buscemi in a Cohen Brothers film—and as reported by Cartoon Brew , it led to significant pushback from some Etsy users, including numerous store closures. You might have heard of Etsy's new terms and artists fleeing the platform. We're out, too. — @warandpeas.bsky.social ( @warandpea
+
+### NYT report documents ex-Nvidia CEO Jensen Huang's decades of berating employees: 'He said he would rip both arms off a subordinate and beat the person over the head to death with them'
+Fri, 20 Nov 2026 16:52:44 +0000 — https://www.pcgamer.com/hardware/graphics-cards/nyt-report-documents-ex-nvidia-ceo-jensen-huangs-decades-of-berating-employees-he-said-he-would-rip-both-arms-off-a-subordinate-and-beat-the-person-over-the-head-to-death-with-them/
+
+It's been a strange couple of weeks for former Nvidia CEO, Jensen Huang. The once tech leader admitted to an affair, only for multiple affair allegations to surface , and he was then ousted from the company . Now, as he reportedly mounts a comeback, The New York Times has published a report detailing an alleged decades-long philosophy of getting more work out of employees "through humiliation". Reportedly, Huang told employees that they had become so rich that "he couldn’t motivate them simply with money", so the "only way he could grind more work out of them was through humiliation". This method has reportedly been Huang's modus operandi for some time, with more than a dozen current and former employees claiming: "He has long used humiliation as a tool, excoriating employees in front of their peers with insults, personal attacks and violent comments, while telling them it was good for them or for the business." That humiliation allegedly took many forms. One employee reported that Huang "said he would rip both arms off a subordinate and beat the person over the head to death with them. And he told another employee he would rip off the top of their head and 'pee on your brain'." Two years ago, in a conversation with Stripe's Patrick Collison , Jensen Huang said, "I'd rather torture you into greatness, because I believe in you", and this behaviour appears to be an extension of that philosophy. Huang has apparently been called out for this behaviour. In the NYT report, Michael 
+
+### GameStop boss calls for return of physical discs just as GTA 6 does digital gangbusters
+Fri, 20 Nov 2026 16:45:10 +0000 — https://www.pcgamer.com/gaming-industry/gamestop-boss-calls-for-return-of-physical-discs-just-as-gta-6-does-digital-gangbusters/
+
+GameStop boss Ryan Cohen (last seen attempting to buy eBay ) has called for the return of physical game discs, lamenting the lack of control players have over digital purchases in a chat with Bloomberg held on the eve of Grand Theft Auto 6's release. In case you missed it, a media meteor impacted yesterday and blasted our landscape free of life. Grand Theft Auto 6 is here and—despite our Ted Litchfield's noble attempts to get you all thinking about Queen's Domain instead (you should play Queen's Domain)—it's all the world can talk about. It's also only available digitally. "Unquestionably, the decision to move to all digital has hurt consumers, and it’s also hurt GameStop", said Cohen, remarking that players ought to be able to do with their purchased games as they will: "When you buy a game, you should be able to sell it, trade it or lend it to a friend". Cohen did not namecheck GTA 6 specifically, but did say that he had been speaking about this issue with all "the obvious" publishers. GameStop, of course, makes a tidy chunk of change from resales of games traded in at its stores—a segment of its business that becomes impossible to maintain in a world without physical discs for players to bring in and sell. Publishers oppose trade-ins "because removing a used copy eliminates an alternative to buying new", says Cohen, accusing them of "taking away competition" by restricting sales to digital-only channels. GTA 6 is a portent of the world to come. Earlier this year, Sony anno
+
+### Want to stay anonymous when doing crimes in GTA 6? Grab yourself a mask
+Fri, 20 Nov 2026 16:22:53 +0000 — https://www.pcgamer.com/games/grand-theft-auto/gta-6-mask-location/
+
+(Image credit: Rockstar) The GTA 6 mask neckwear lets you commit crimes with a bit more anonymity. As you might have noticed, cops are a lot more savvy in this new entry, pursuing you based on even your physical appearance. One way to hinder them identifying you is a mask. The earliest mask you can buy is at Chuck's Tackle & Shot just down the road from Jason's house in Key Lento—if you're struggling to spot it, you can use the map index and navigate down to the Ammu-Nation tab. Any Ammu-Nation store should stock masks for purchase. In this case: Enter the store and turn right Walk a little way forward and then turn left down the aisle Look at the shelf on your right to spot the "Neckwear" section You can find them in the "Neckwear" section of most Ammu-Nation stores Rockstar You'll need to change "Wear Style" in the item menu to actually cover your face Rockstar Buy and equip the mask and you're good to go. Jason will wear it on his neck by default but you can cover your face with it in the items menu. If you hold L1 then press R1 to cycle to items, move the stick over the mask, then press up on the D-pad to change the "Wear Style" to 1. Now you're ready for some crime. Grand Theft Auto 6 GTA 6 guide : One-stop info shop GTA 6 cars : The garage lineup GTA 6 characters : Your anti-hero cast GTA 6 map : Confirmed Vice City locales GTA 6 PC release : When's it going to happen? ]]>
+
+### The 5 year-long mystery of the UFO house has finally been solved in GTA 6, but one NPC knows too much
+Fri, 20 Nov 2026 15:09:50 +0000 — https://www.pcgamer.com/games/grand-theft-auto/the-5-year-long-mystery-of-the-ufo-house-has-finally-been-solved-in-gta-6-but-one-npc-knows-too-much/
+
+Back in 2021—which feels like an age ago now—Rockstar added a weird picture to a house in San Andreas in its Grand Theft Auto: The Trilogy—The Definitive Edition . It captured a small UFO hovering over a cream coloured bungalow with two palm trees in its front garden. It stood out because unlike some of the other pictures, players weren't really sure where it came from, but now we have an answer: It came from the future—bet you didn't see that one coming. Well, actually some people did see it coming as they took it to be a tiny easter egg for a future GTA's Florida-setting, which we now know is correct. The picture wasn't just hinting at the location of Grand Theft Auto 6, though, it actually depicts a real location that players can go visit. I saw this thanks to xGarbett's easter egg video , but quickly sent our own Mollie Taylor after the scent. After driving around Belville for a little while we found it: the UFO house. Mystery solved—or was it? Well as it turns out you can go into this house during the day and inside is yet another mystery. Walking into the garage of this home, players will be met by a sprawling mind map plastered across the wall with "IT'S A SIMULATION" written in big red letters in the middle. Oh dear, an NPC has gained sentience. There are other phrases across the cork board such as: "There's nothing behind closed doors." "Why can't I leave Leonida???" "Identical People" with a count of 140 scribbled beside it. "Number 6 - what does it mean?" "Who is L
+
+### A 'GTA 6 PC scam kit' using a fake PC port as bait is available for $200 on the dark web, says NordVPN, so watch what you click
+Fri, 20 Nov 2026 14:29:35 +0000 — https://www.pcgamer.com/games/grand-theft-auto/a-gta-6-pc-scam-kit-using-a-fake-pc-port-as-bait-is-available-for-usd200-on-the-dark-web-says-nordvpn-so-watch-what-you-click/
+
+The console release of GTA 6 is here, in case you hadn't noticed. And us PC gamers are desperate to get hold of a version of our own, particularly as modders say it'll be playable on god's own platform within a week . Be careful what you click on, though, as NordVPN's threat intelligence team has discovered a nasty-sounding scam package on the dark web. The company has posted a warning on X of a "GTA 6 PC scam kit" doing the rounds on the more dubious parts of the internet, using a fake GTA 6 PC port as bait. A “GTA 6 PC scam kit” — yours for just $200.That’s what our Threat Intelligence team found on the dark web: a crypto wallet drainer, a fake “GTA6 Keygen.exe” that steals accounts, a YouTube Shorts bot to spread it, and a hidden crypto miner.The bait? A fake “GTA 6 PC Port.” But GTA 6 is console-only — there's no PC version coming on launch day. If you see one, it’s a scam.If it doesn’t come from the creators, don't click it! November 19, 2026 The package is said to be for sale for $200, or twice what a single copy of Grand Theft Auto VI: Ultimate Edition costs at retail. Included is a crypto wallet drainer, a fake "GTA6 Keygen.exe," and a hidden crypto miner. There's also a YouTube Shorts bot within the package, designed to help it spread. All of which sounds comprehensively designed to screw over PC gamers looking to get their hands on GTA 6 ahead of an official release. Speaking to Tech Radar ahead of the games launch, NordVPN CTO Marijus Briedis said: "Someone has pac
 
 ### Is Niko Bellic in GTA 6?
 Fri, 20 Nov 2026 12:44:35 +0000 — https://www.pcgamer.com/games/grand-theft-auto/gta-6-niko-bellic/
@@ -338,47 +378,52 @@ Fri, 20 Nov 2026 12:07:57 +0000 — https://www.pcgamer.com/games/world-of-warcr
 
 Best MMOs : Most massive Best strategy games : Number crunching Best open world games : Unlimited exploration Best survival games : Live craft love Best horror games : Fight or flight ]]>
 
-### 'I've done some stupid stuff', says WoW: Forever dev who's adding unique, fun items to the game: 'There's a lot they've not seen that I'm very happy with'
-Fri, 20 Nov 2026 11:52:22 +0000 — https://www.pcgamer.com/games/world-of-warcraft/ive-done-some-stupid-stuff-says-wow-forever-dev-whos-adding-unique-fun-items-to-the-game-theres-a-lot-theyve-not-seen-that-im-very-happy-with/
-
-World of Warcraft: Forever has a lot of changes from the classic version of the game, but one of the chief ones is that its items are different—and while I'm only just now starting to see actual, potential game-changing bits of kit (I've gotten into trinket-juggling between pulls), there have been some pretty flavourful pieces. Like Rockslicer, an axe that lets you mine ore. In a recent episode of the official WoW: Forever podcast , senior game designer Aidan Moon spoke a little on his design philosophies, and items that players are yet to see: "There's a lot that they have not seen that I'm very happy with and I think is a great direction for the game." Moon's entire philosophy seems built around flavour over form, using the example of the Ogre Loincloth, a pair of cloth casting pants with strength, as a north star of sorts: "I just want to do something different that adds texture and crunch to the game. People will see things like the Ogre Loincloth, and they'll be like: 'Why does this cloth thing have strength on it?' "That's because, when we say we're a fantasy-forward game, that means that before optimisation, before it being good, it needs to be flavourful, it needs to feel like it belongs in the world and that the stats are essentially a storytelling mechanism for items." Ultimately, Moon thinks that interesting items that are memorable are far better for the game than a purely optimal numbers upgrade: "I would rather there be an Ogre Loincloth in the game that people 
-
-### How to fix the railing in GTA 6
-Fri, 20 Nov 2026 11:34:11 +0000 — https://www.pcgamer.com/games/grand-theft-auto/gta-6-fix-railing-house-repairs/
-
-One of the last tasks in GTA 6 's home repair mission for Jason is to fix the railing. These tasks are important if you want Lucia to have a positive welcome when she gets out of jail, so they're well worth doing if you plan to foster a romance between the two criminal lovers. You have to fix the rooftiles, put up the panels in Jason's bedroom and paint them, repair the stairs up to the decking at the front, and finally, fix the railing. This one is slightly less obvious, but you just need to: Open the sliding door and head out onto Jason's back decking. Go down the stairs into the area with the BBQ and workout equipment. You'll spot the paintbrush interact icon on the gap in the railings just between where the ladder and weights are. You can also just watch the clip above if unsure. The other tasks are relatively simple if you haven't found them yet also. Climb the ladder outside the front door to repair the roof tiles, interact with the stacked panels at the foot of Jason's bed to put them up, and you can repair the stairs at the front by interacting with the pile of planks at the bottom. Grand Theft Auto 6 GTA 6 guide : One-stop info shop GTA 6 cars : The garage lineup GTA 6 characters : Your anti-hero cast GTA 6 map : Confirmed Vice City locales GTA 6 PC release : When's it going to happen? ]]>
-
-### AMD's next-gen Zen 6 desktop CPUs are rumoured to be delayed, may be pushed back to second half of 2027
-Fri, 20 Nov 2026 11:08:26 +0000 — https://www.pcgamer.com/hardware/processors/amds-next-gen-zen-6-desktop-cpus-are-rumoured-to-be-delayed-may-be-pushed-back-to-second-half-of-2027/
-
-We got our first technical deep dive into AMD's next-generation Zen 6 CPU architecture last week, in the form of the company's new Venice range of server chips. Now there's a rumour that the consumer Ryzen chip launch may have been pushed back to the second half of 2027. The new Ryzen offerings were originally thought to be launching in the first half, but Chiphell leaker Zhang Zhonghao says otherwise. In a post spotted by Videocardz , Zhang Zhonghao claims that the desktop chips, codenamed Olympic Ridge, have been switched to TSMC's N2X manufacturing process, and as a result the "timeline has been pushed back" (via machine translation). Zhang Zhonghao makes mention of Computex in their post, which some are speculating means a launch date after the show in June of next year. Olympic Ridge was originally though to be using TSMC's N2 or N2P process node, but a switch to the performance-focussed N2X would line up with previous rumours that the chips are targeting very high clockspeeds, potentially all the way up to 6.5 GHz . N2X is scheduled to enter production in 2027, which would explain the longer timeframe if this rumour proves out. A delay to the second half of next year would mean that Intel's Nova Lake chips, said by the company to be " tracking ahead of schedule " in a recent earnings call, would potentially have the first half of 2026 all to themselves if they launch before Zen 6. (Image credit: Taiwan Semiconductor Manufacturing Co., Ltd.) In the battle of the next gen
-
-### PC gamers notice Nvidia's drivers hammering their SSDs with tens of GB/hr of unnecessary writes – revert to 621.01 ASAP
-Fri, 20 Nov 2026 11:05:10 +0000 — https://www.pcgamer.com/hardware/graphics-cards/pc-gamers-notice-nvidias-drivers-hammering-their-ssds-with-tens-of-gb-hr-of-unnecessary-writes-revert-to-621-01-asap/
-
-Another day, another dodgy driver: Nvidia's latest driver package (621.24) is needlessly writing to users' SSDs, in some cases by 30 GB every hour. And if that sounds familiar, it's because an issue with Radeon Adrenalin drivers did a similar thing a week ago. The issue appears to be fairly widespread going from reports on the Nvidia GeForce forum , Dell forum , Super User forum , and many, many threads on Reddit . Though that's a bunch of people that might, and did, notice random writes to their SSD; many more may not visit their task manager to check these things with any regularity. To check your own PC: Open Task Manager Open Details tab Right click on column header Click Select columns Find and select I/O write bytes Look for 'NVDisplay.Container.exe' You can then see how much each process has written, which shouldn't usually be very much at all. I measured my own PC on an older driver version ( 621.01 ) and this process had only written 63 MB in an hour of uptime; if you're on the most recent GeForce driver package (621.24), and NVDisplay.Container.exe has a number of gigabytes next to it (it's in bytes, so get your calculator out), you've been bit by the bug. The affected driver, 621.24 , is still available to download right now. That's the surprising thing here, as the issue has seemingly been reported across the internet since November 15; the driver was released on November 12, and it appears to have taken a few days of needlessly huge writes for anyone to notice. T
-
-### Modders reckon GTA 6 will be playable on PC within a week
-Fri, 20 Nov 2026 10:33:56 +0000 — https://www.pcgamer.com/games/grand-theft-auto/modders-reckon-gta-6-will-be-playable-on-pc-within-a-week/
-
-You remember when The Legend of Zelda: Ocarina of Time Remake launched earlier this month on Nintendo Switch 2, and it was running on PC in hours? Well, modders are claiming essentially the same will be happening for Grand Theft Auto 6, a much bigger and more complicated game. If you're wondering how these games are getting ported so quickly, it's a mixture of people dumping the game files for the public to access and, oftentimes, generative AI coding doing a lot of the grunt work of recompiling. Just yesterday, Cyberleek ( the hacking team or person who leaked GTA 6 files earlier this year) reportedly leaked the GTA 6 Xbox build , giving modders access to the game's release files. That's one important part of the porting process checked off. The only file Cyberleek says it hasn't dropped is the main executable file, and they say they will release it when their crypto coin reaches a $15 million market cap. However, Cyberleek did say they would drop the exe file on November 23 either way. Even Cyberleek claims "this community will have it emulated inside a week, running far past 30fps" Cybersecurity expert VX Underground took a look at the Xbox file dump and reckons it's real, and even reckons it will be playable on the 23rd if the executable file is released. Another X user notes that the dump appears to be missing the "EmbeddedXvd folders that is inside the gameos.xvd" which apparently contain system DLL files, as well as the NT kernel and drivers. Still, this is something m
-
-### GTA+ for GTA 6 singleplayer is like subscription-based horse armor
-Fri, 20 Nov 2026 01:01:43 +0000 — https://www.pcgamer.com/games/grand-theft-auto/gta-for-gta-6-singleplayer-is-like-subscription-based-horse-armor/
-
-If you preordered GTA 6 and head to the "store" page in the main menu, you'll see that you have a free month of GTA+, Rockstar's subscription service. If you didn't, you can subscribe for $7.99 a month. Yep, weird as it sounds, there's a subscription option for a singleplayer game. Subscribers to GTA+ for GTA Online get some decently sweet perks (and if you subscribe via GTA 6, you'll get them for GTAO too) like $500,000 of in-game cash every month, access to exclusive cars, multipliers on missions, discounts on in-game items, and more. But what does the GTA+ subscription get you in GTA 6? Well, how does free rides on public transportation sound? Great, right? Can I sweeten the pot with 10% off haircuts? Huh? Huh? How about if your $10 scooter rental was comped . Are you in? OK, you do also get a nice exclusive car and an extra garage to store it in. But there are already more than 500 vehicles in the game, so unless you're a diehard completionist, I don't think one more coupe is going to be missed, especially if you have to pay $7.99 to claim it. And it's not like you're gonna show it off to anyone. This is a singleplayer game. Remember Bethesda's infamous horse armor DLC ? Imagine that, but you keep paying for it month after month. Here's a full breakdown of what GTA+ will get you for GTA 6: A 1990 Annis Venturas Blvd Elegy (a coupe) A single-car garage to store it in (or store other cars in) Free rides on public transportation (woo!) Free scooter, bike, and Seashark (jetsk
-
-### GTA 6 is playable in first-person, here's how to activate it
-Fri, 20 Nov 2026 01:00:12 +0000 — https://www.pcgamer.com/games/grand-theft-auto/gta-6-is-playable-in-first-person-heres-how-to-activate-it/
-
-While you can switch to first-person temporarily in Grand Theft Auto 6 when you want to get a real good close-up of a texture or when you're looking at your phone, you can't run around doing crimes and having fun like you could when GTA 5 got its first-person mode. Except actually you can, as discovered by players on Reddit and tested by our own Morgan Park. It's easy enough to activate in-game. Go to the controller settings, then under the Controller Features section change your touch pad/select button to Camera 2 / 2. Get into a car, bring up your phone with the D-pad, press Circle or B then quickly hit Select. There you go, first-person GTA 6. As Morgan's footage shows, it's completely playable. It doesn't look 100% done, however, with your shoulders clipping through the camera when you've got a longarm gun up. Seeing someone break into a car in first-person also looks a bit rough around the edges. While conspiracy theorists have convinced themselves that Rockstar is holding back this feature to sell it as DLC, I figure they're probably still polishing it to add in a future update. If you want to leave first-person, you'll have to reload a save. It doesn't have to be an old save, though. If you save in first-person then immediately load the same save you'll be back in third-person and have to return to God's own preferred viewpoint. Grand Theft Auto 6 GTA 6 guide : One-stop info shop GTA 6 map : The full Vice City tour GTA 6 cheats : A complete list GTA 6 radio : All the s
-
-### Cyberleek drops what they claim is a near-complete GTA 6 Xbox build online
-Thu, 19 Nov 2026 23:17:00 +0000 — https://www.pcgamer.com/games/grand-theft-auto/cyberleek-drops-what-they-claim-is-a-near-complete-gta-6-xbox-build-online/
-
-Mysterious GTA 6 leaker Cyberleek has reemerged in the wake of GTA 6's release with another leak: This time, they have released what they claim to be a near-complete build of GTA 6 on Xbox from November 2026. In their post, Cyberleek says they'll drop the one file they've withheld—the main executable—if their crypto coin reaches a $15 million market cap. Yeah, we're doing this again. Comments on a now-removed Reddit post say the leaked file is around 200 GB, which is close to the size of GTA 6 on consoles. Cyberleek says they will release the exe on November 23, no matter what. "It is an Xbox build this time, not a PC build. CL does not care. This community will have it emulated inside a week, running far past 30fps. CL told you not to preorder for a reason. This is one of the reasons," the posts read. "If the Xbox build cannot be made to work and support holds, CL will work to get a PS5 build—a fallback, most likely never required. Either way: the Xbox build is going out. No double dipping for Take-Two/Rockstar." (Image credit: Cyberleek) Last we heard from Cyberleek was over a month ago, when they were threatening Take-Two with a " dead man's switch ", which many took to mean they'd either post major story spoilers or leak the game in its entirety. We've yet to see confirmation that the build is genuine, but that could come as soon as tonight. If it is, it'll be anywhere between a few days or hours before the executable comes: According to Cyberleek's site, their crypto cur
-
 ## GameSpot
+
+### GTA 6 Has Dexter References, And Now Dexter Himself Has Reacted
+Fri, 20 Nov 2026 20:50:55 +0000 — https://www.gamespot.com/articles/gta-6-has-dexter-references-and-now-dexter-himself-has-reacted/
+
+Actor Michael C. Hall has reacted to how GTA 6 features references to his Miami-set TV show Dexter, in which he famously played the serial killer Dexter. Appearing on the Barstool Movies show, Hall said he was "informed" of the Easter eggs in GTA 6 about his character. "I wasn't consulted," he said with a laugh. "It's pretty cool to feel like [Dexter] has folded into the zeitgeist." https://twitter.com/BarstoolMovies_/status/2123853900789035061 After the GTA 6 Extended Look premiered in August, people immediately spotted what they thought was Dexter's apartment building from the TV show . Now that GTA 6 has arrived, people found the apartment building in the game, and you can, too, by following GameSpot's Dexter apartment guide here . On the TV show, Dexter dismembers his victims, stuffs them into garbage bags, and dumps them into the nearby harbor on his boat, the Slice of Life. https://www.youtube.com/watch?v=gs_66AXjGes Players can also get into a kill house that bears a resemblance to the one that Dexter uses on the show, complete with plastic sheets for the blood splatter, hammers, and cleavers. Players have also found bones underwater, presumably another reference to Dexter. GTA 6 is full of Easter eggs, so be sure to check out GameSpot's breakdown of GTA 6's best Easter eggs to seek out while you're traveling around Vice City. GTA 6 launched on November 19 for PS5 and Xbox Series X|S, and it sold more than 32 million copies and brought in close to $4 billion in revenue
+
+### GTA 6 Sets Even More Records
+Fri, 20 Nov 2026 19:52:51 +0000 — https://www.gamespot.com/articles/gta-6-sets-even-more-records/
+
+Rockstar's Grand Theft Auto 6 has finally arrived, and, to the surprise of no one, it's putting up some big numbers that speak to the pent-up demand. GTA 6 sold more than 30 million copies and hit almost $4 billion on day one , but that's just the start of understanding the impact of the game's release. For starters, the internet service provider Comcast announced that November 18--the final day of preloading--was the busiest day in the company's history in terms of demand. Peak traffic was 31% higher than an average day and a full 9.6% higher that the previous biggest day ever for traffic to Comcast's network. https://www.youtube.com/watch?v=Ble-JJxBBGA GTA 6 also now holds five of the top 10 busiest days of Comcast's network of all time. Going further, Comcast said around 24% of all internet traffic on Comcast's network was people downloading or playing GTA 6 on November 18 (no doubt thanks to the New Zealand trick ). Additionally, traffic to Twitch on Comcast's network was up by almost 50% and "is still increasing," Comcast said. A spokesperson for Comcast further contextualized the traffic data, telling GameSpot that between when preloading began on November 10 and through November 18, PlayStation and Xbox traffic pushed enough data on the network for one million homes to stream The Odyssey in 4K repeatedly for two days straight. Comcast was among the internet service providers that offered free speed boosts to subscribers to help them download GTA 6 faster. Additionally,
+
+### GTA 6 s Astonishing $4 Billion Day One Includes 32.5 Million Copies Sold
+Fri, 20 Nov 2026 19:30:17 +0000 — https://www.gamespot.com/articles/gta-6-hit-32-5-million-copies-sold-and-almost-4-billion-on-day-one/
+
+GTA 6 is an enormous hit--it's the biggest gaming release ever. Take-Two just announced that GTA 6 reach 32.5 million copies sold before release , with revenue reaching $3.79 billion through the end of the first day on sale on November 19. This makes it the biggest entertainment release--for any medium--in history, Take-Two said. For comparison, 2013's GTA 5 hit $800 million in revenue in its first 24 hours and $1 billion after its first three days , so GTA 6 is pacing well ahead of those numbers. GTA 5 launched at $60, compared to $80 for the cheapest version of GTA 6. For comparison, the all-time highest-grossing movie ever is Avengers: Endgame, which made $2.94 billion during its entire run. GTA 6 has done nearly $1 billion more in revenue already. According to reporter Jason Schreier, GTA 6 is also now instantly one of the top 30 best-selling games of all time . “It is with immense gratitude that we enter a new chapter of Rockstar Games with the release of Grand Theft Auto VI,” Rockstar president and co-founder Sam Houser said. “We are incredibly humbled by the response from players around the world and we couldn’t be more excited to share this moment with you.” https://www.youtube.com/watch?v=1YEHOKYVTho Big numbers for GTA 6 were always expected. Sensor Tower had been sharing unofficial sales data for GTA 6 for a long time already, but Take-Two's sales numbers are even higher than the 25 million sales that Sensor Tower reported at launch. GTA 6 is only going to get bigg
+
+### GTA 6 Is Crashing On Some PS5s With CE-108255-1 Error Code
+Fri, 20 Nov 2026 17:11:20 +0000 — https://www.gamespot.com/articles/gta-6-is-crashing-on-some-ps5s-with-ce-108255-1-error-code/
+
+After years of waiting, GTA fans can finally play GTA 6 , but some players are encountering a dreaded error code that makes the game crash or otherwise fail. Users are reporting receiving the CE-108255-1 error code, which players might see when a game crashes mid-session or fails to load entirely. Crashing mid-game in GTA 6 would be particularly frustrating given how saves work . Sony's official word is that players can try updating their game to fix the issue. If it's really that simple, that would be a welcome result. But people are saying that doesn't always work and are asking Rockstar to put out an official patch. https://www.youtube.com/watch?v=dJDf76QVv70 Reddit user Acrobatic-Promise458 encountered this issue and documented their experience. The person said the game was working normally until they reached a certain point in the story, at which point the game crashes continually. They said Rockstar support directed them to Sony's own support team, but it was no use. People online ( via Gizmodo ) are theorizing that the crashing issues with GTA 6 on PS5 might be due to the game's intense demands on the hardware, and it could be specifically tied to older PS5s. https://twitter.com/ghost_motley/status/2123465979791380670?s=20 Rockstar has yet to officially respond to these reports. Rockstar's official GTA 6 error troubleshooting page isn't much help, as it only links to the support sites for PlayStation and Xbox and offers no specific help . Players can submit a support t
+
+### GTA 6 Doesn’t Have Any Doja Cat Music, And She Didn’t Censor Her Message To Rockstar
+Fri, 20 Nov 2026 16:41:04 +0000 — https://www.gamespot.com/articles/gta-6-doesnt-have-any-doja-cat-music-and-she-didnt-censor-her-message-to-rockstar/
+
+Rockstar's Grand Theft Auto 6 is out now, and the game features a lot of music from famous real-world artists. But Doja Cat is not among them. She's not happy about that, either. Doja Cat said online that she is "so f**kin bitter" about that. In follow-up posts, she told Rockstar to "eat my d**k." She said she loves GTA 6, and being left out of the game breaks her heart. Directing her posts at Rockstar in this way, with this language, is unlikely to win her any fans at the studio, so it would be surprising indeed if we see her music get added to the game at any point. https://twitter.com/DojaCat/status/2123433353521045682 Doja Cat's music is not on any of GTA 6's in-game radio stations, nor do any of her tunes feature on the 34-song GTA 6: The Album, which is out now. The album includes music from Travis Scott, Dua Lipa, Morgan Wallen, Young Thug, Cardi B, Keith Richards, Lana Del Rey, and more. The in-game radio stations , meanwhile, feature music from Tom Petty, George Strait, Glen Campbell, Bad Bunny, Drake, Lil Wayne, Slayer, Sepultura, System of a Down, and Tool, just to name few. For more, check out GameSpot’s GTA 6 review and our rundown of the five best things to do first. And if you're eager for news on GTA 7 ? Get comfortable, because Rockstar is not going to announce it anytime soon .
+
+### GTA 7? Please, Let GTA 6 Cook First, Take-Two CEO Says
+Fri, 20 Nov 2026 15:36:04 +0000 — https://www.gamespot.com/articles/gta-7-please-let-gta-6-cook-first-take-two-ceo-says/
+
+Rockstar Games just launched Grand Theft Auto 6 on November 19 to rave reviews and huge sales . Everyone wants to know what's coming next, and surely there will eventually be another GTA game, but not soon. Appearing on OpenAI's technology and business show TBPN recently, Take-Two CEO Strauss Zelnick was asked how a new GTA game could possibly up the ante. TBPN's Jordi Hays theorized that GTA 7 could "be a live version of the entire world." Zelnick, for his part, said people should remember that the interview was recorded on November 19, the day that GTA 6 released, so it's not time to talk about GTA 7. "I can't help myself. We at Take-Two just went live GTA 6 on November 19. Let me check my watch. Oh, it's still November 19. And you're asking a question about GTA 7," he said. While Rockstar isn't talking about GTA 7 yet--and no one should expect that to happen anytime soon--Take-Two has already signaled that the next GTA game could come out sooner. He said the “nature and velocity” of the company’s content releases in its major franchises, including GTA, will look “dramatically different over the next decade.” GTA 6 released more than 13 years after GTA 5 came out in 2013. However, development didn't begin in earnest on GTA 6 until after Red Dead Redemption II came out in 2018, according to reporter Jason Schreier . This is because Rockstar's network of studios around the world work together on one project at a time, though smaller teams are also cooking up new things simult
+
+### These Pokemon Anniversary Fender Guitars Have A Secret Weapon: Game Boy Sounds
+Fri, 20 Nov 2026 15:27:47 +0000 — https://www.gamespot.com/articles/these-pokemon-anniversary-fender-guitars-have-a-secret-weapon-game-boy-sounds/
+
+The Pokemon franchise turned 30 this year, and while you'll have to wait until next year for a new mainline game installment, you can celebrate that anniversary with something that's much cooler: Rock-and-roll-type electric guitars. The Pokemon Company revealed that it teamed up with guitar manufacturer Fender to produce a Stratocaster model inspired by Pokemon Red, and a Telecaster model inspired by Pokemon Green. Each guitar features an aesthetic that pays tribute to the original Pokemon Game Boy adventures, including pixel art pulled from the games, graphics, and color overlays for an extra pop. The guitars really shine with a special toggle that warps the music they produce into an 8-bit retro sound that’s reminiscent of vintage gaming hardware. The neck also pays homage to Pokemon, with a special design that commemorates the collaboration between Fender and Pokemon. Just remember: No Stairway . https://www.youtube.com/watch?v=tDt6S_MIk8A As you'd expect, these won't be cheap. While US pricing and availability will be confirmed later on the Pokemon Center retail site, in Japan, these will retail for around $2,600 each. You'll also need to enter a lottery to stand a chance at winning the option to purchase one of these Fenders, which should prevent the items from being pounced on en masse by Pokemon scalpers. This year has seen several promotions kick off to celebrate 30 years of Pokemon, and one of the biggest involved Krispy Kreme . The doughnut chain's boxes of digestib
+
+### GTA 6 Is A British Success Story, Prime Minister Says, But He Won t Play It
+Fri, 20 Nov 2026 14:59:27 +0000 — https://www.gamespot.com/articles/gta-6-is-a-british-success-story-prime-minister-says-but-he-wont-play-it/
+
+The Prime Minister of the UK, Andy Burnham, has labeled Rockstar Games a "British success story" amid GTA 6 's rave reviews and huge sales milestones . A spokesperson for his office told The Independent , "Rockstar Games is a British success story made in Edinburgh, and many fans are already saying GTA has been worth the wait." Rockstar North is based in Edinburgh, Scotland, but GTA 6 was made by thousands of people across the globe. GTA is also historically linked to the UK, as the original game, 1997's Grand Theft Auto, was made by DMA Design in Edinburgh. Asked if the PM himself would play GTA 6, his office said Burnham is too busy right now. "He won't be playing it," the spokesperson said. GTA 6 launched on November 19 and reportedly sold nearly 25 million copies and earned $2 billion in revenue by launch day. The game boasts a mightily impressive 99 on GameSpot sister site Metacritic , meaning it's tied with the original Ocarina of Times for the highest aggregate review score for any game ever. GTA 6 is a strictly single-player game, but many are expecting Rockstar to eventually announce an online mode for the game. According to reports, the new version of GTA Online for GTA 6 could arrive in 2027 , with a PC edition also coming that year.
+
+### Hacker Threatens To Leak Free Version Of GTA 6 In Crypto Grift
+Fri, 20 Nov 2026 14:07:35 +0000 — https://www.gamespot.com/articles/a-playable-gta-6-build-could-leak-but-theres-a-15-million-catch/
+
+Somehow, Cyberleek, the notorious hacker behind multiple Grand Theft Auto 6 leaks, has returned. This time, the infamous leaker is threatening to release the executable file for a working build of the Xbox version of the game hosted on their site, provided the public helps raise their meme coin to a $15 million market cap. "It is done. CL holds the full November 2026 build of Grand Theft Auto 6, and it is going out by torrent," a statement from Cyberleek reads (via Kotaku ). "Now. Every file except one--the main executable--held on a countdown. Honest terms, as always: it is an Xbox build this time, not a PC build. CL does not care. This community will have it emulated inside a week, running far past 30fps. CL told you not to preorder for a reason. This is one of the reasons." https://www.youtube.com/watch?v=1YEHOKYVTho The files on Cyberleek's site reportedly clock in at over 200GB, which would line up with the Xbox version of the game, but there's no guarantee they're the actual GTA 6 data or a collection of malware waiting to be downloaded onto a PC. The hacker added that if their demands aren't met, they'll release the executable needed to play GTA 6. However, there's no guarantee the game can be emulated, and Cyberleek added that they'll "work to get a PS5 build" if people keep supporting them. This isn't the first time Cyberleek has threatened to release a pirated build of GTA 6; back in October, they promised to do so if their meme coin reached $30 million in value. Wh
 
 ### GTA 6 s Console Wars Are Already Over, And Xbox Lost
 Fri, 20 Nov 2026 12:35:47 +0000 — https://www.gamespot.com/articles/gta-6-console-wars-are-already-over-and-xbox-lost/
@@ -395,52 +440,17 @@ Thu, 19 Nov 2026 20:30:51 +0000 — https://www.gamespot.com/articles/wow-foreve
 
 World of Warcraft: Forever is approaching itemization and "best-in-slot" (BiS) gear differently, with developer Blizzard instead wanting players to have more boss- or biome-specific choices. In the latest episode of the WoW: Forever Podcast , Blizzard dove deep on the MMORPG's itemization changes, how it approached designing Forever's new items, class changes, and more. On the subject of raid gear and chase items, Forever senior game designer Aidan Moon said something that could be seen as controversial in certain circles of the game's community. "I essentially want to get rid of BiS," Moon said. "I think that BiS is not a good thing for a video game that's supposed to be about [the] role-playing aspects of it." https://www.youtube.com/watch?v=67dDe3QgJtM BiS is WoW shorthand for essentially the best item that could possibly be in a given gear slot for a specific class. Look up any WoW guide for WoW Classic or modern WoW, and you'll find class BiS gear lists telling players exactly what they should be wearing in order for their character to be as powerful as possible. Endgame in many ways revolves around acquiring your BiS gear, first your "pre-raid" BiS from gear available in max-level dungeons, and then BiS gear, like tier sets, from raids. It's for that exact reason Forever introduced new items that grant additional stats or effects against certain enemy types or even in certain locations. Moon gave an example of specific items that deal more damage against Murloc enemies,
 
-### More Mass Layoffs At Ubisoft Underway, Affecting Two Of Its Biggest Studios
-Thu, 19 Nov 2026 20:15:37 +0000 — https://www.gamespot.com/articles/more-mass-layoffs-at-ubisoft-underway-affecting-two-of-its-biggest-studios/
-
-Ubisoft has enacted another round of mass layoffs, affecting 166 additional jobs as the French gaming giant continues its cost-cutting program. The job cuts are happening at two of Ubisoft's biggest development hubs in Montreal and Quebec. A spokesperson for Ubisoft said the job cuts are coming to meet changing production needs, and IGN reported that the layoffs came from teams working on projects that have been "canceled or refocused." "We deeply value the contributions of these teams and recognise the impact this may have on our colleagues. We are committed to supporting them through this process with care and respect," the spokesperson said. "Those affected are being provided with severance, extended health care benefits, career transition services and other resources." Ubisoft Montreal is currently working on Assassin's Creed Codename Hexe , while Ubisoft Quebec most recently launched Assassin's Creed Shadows. No further updates are coming to that game, leaving the question of what the team is making next. In October, Ubisoft said there are no additional Assassin's Creed remakes currently in development , following the release of Assassin's Creed IV: Black Flag Resynced earlier this year. “Our teams are already focused on the next chapter of Assassin’s Creed titles, including projects you haven’t heard about yet, featuring new settings and stories," the developer said. Ubisoft's restructuring has led to several canceled games, shut-down studios, and layoffs. Trials develo
-
-### Want To Start Lifting Effectively? GTA 6 Is A Good Teacher
-Thu, 19 Nov 2026 19:21:27 +0000 — https://www.gamespot.com/articles/want-to-start-lifting-effectively-gta-6-is-a-good-teacher/
-
-Rockstar's Grand Theft Auto 6 is finally here, and people are discovering all manner of little details in the game that speak to the developer's commitment to realism. One such detail is the game's weightlifting and general fitness systems, and they seem to be pretty great, so much so that if you're thinking about getting into weight lifting, GTA 6's lessons are a good place to start. For starters, Jason has a home gym, and that's just smart on his part. Not having to leave your house and head to a gym is a godsend for anyone short on time or for those who simply enjoy the solitude of slinging weight around alone. For Jason, it's even better--he lives on the water, and it looks pretty damn serene heading to his workout pad for a sweat. If you're thinking about crafting your own home gym, Jason's setup is exactly what you need to get started: a squat rack, bench, kettlebells, barbells, and iron plates. Garage gym expert Cooper Mitchell also pointed out that Jason's squat stand uses 3"x3" uprights with 1" holes, and that's a great choice by Jason--or you--because it means you have universal support for other attachments from different brands that you might add over time. Jason also has his setup outfitted with horse stall mats , which is another super-smart choice on his part, not only to protect his flooring, but also because they hold up in the outdoor setting that he uses. Having personally invested in horse stall mats for my own home gym, I can vouch for their incredibly st
-
-### You Can Play Grand Theft Auto 6 At 60fps Using This Absurdly Complicated Method
-Thu, 19 Nov 2026 19:05:04 +0000 — https://www.gamespot.com/articles/you-can-play-grand-theft-auto-6-at-60fps-using-this-absurdly-complicated-method/
-
-Grand Theft Auto VI is finally out for consoles, and it's every bit the visual showcase of the generation that it was promising to be since its reveal. You'll struggle to find a better-looking game on the current generation of hardware, but one concession Rockstar had to make to achieve that was limiting its frame rate--a limitation some players are going to absurd lengths to overcome. Irrespective of what platform you play on, Grand Theft Auto VI is limited to 30fps. Doubling that to the more desirable 60fps is something current console hardware just isn't capable of with this level of visual fidelity and simulation, which means you'll have to rely on other methods of frame generation to get there. That's the idea that underpins technology like Veyra : an open-source real-time video enhancer that uses your PC and HDMI 2.1 capture card to bring frame generation to your console. It's a...complicated process. First you'll need a capable capture card (like one of the many from Elgato) that is able to ingest gameplay at 4K over HDMI 2.1. You'll need to connect that to your PC using certified USB-C 3.2 data cable, which needs to plug into a suitable motherboard with True USB 3.2 Gen 2 support. On the pricier end of the requirements, you will need a relatively powerful GPU, with the creators recommending a RTX-40 or newer card from Nvidia in order to tap into the card's Tensor cores (that are used for frame generation on PC). Pair that with an OLED monitor, which is also strongly r
-
-### How WoW: Forever Is Overhauling Classic WoW s Infamous PvP Honor Grind
-Thu, 19 Nov 2026 18:25:05 +0000 — https://www.gamespot.com/articles/how-wow-forever-is-overhauling-classic-wows-infamous-pvp-honor-grind/
-
-World of Warcraft: Forever's player vs. player systems will work much differently than in previous versions of old-school WoW, developer Blizzard has revealed. While Forever is now out in the wild and breaking records from the MMORPG, how its PvP rank system would work remained largely a mystery prior to launch. Now, Blizzard has shared more information about how players will earn PvP ranks and honor, with the main takeaway being that players won't have to commit to months of grinding or competing with players on their own faction for top ranks. Honor, a currency earned from killing enemy players and completing battlegrounds and PvP activities, will now exclusively be used to purchase PvP gear and doesn't impact progress towards ranks. Instead, players will rank points by completing daily and weekly PvP quests, fighting in open-world PvP activities like the Gurabashi Arena, and competing in the weekly battleground. https://www.youtube.com/watch?v=VDNmrrB2k2w In a video detailing the new system, Blizzard said the rank climb will now feel "more varied and predictable" than in the past, when players needed to farm varying amounts of Honor to rank up based on how other players on their same faction were performing. It will also encourage players to engage in different PvP activities each week, instead of simply doing the most efficient one in terms of Honor gained. Though it isn't central to ranking up, Honor still remains as a currency and is used to purchase PvP gear. Players c
-
-### GTA 6 Has A Surprise Cameo From Someone You Probably Didn t Expect
-Thu, 19 Nov 2026 16:26:12 +0000 — https://www.gamespot.com/articles/gta-6-has-a-surprise-cameo-from-someone-you-probably-didnt-expect/
-
-Grand Theft Auto 6 has plenty of famous faces and voices behind its many, many characters. From Bobby Moynihan as your verbose bestie to Weird Al Yankovic as a radio host, there's plenty of star power here--and you can even spot an influential figure from GTA history making a quick cameo. Spoilers below Who could it be now? In one of the later missions, players accompany Boobie on one of his errands. Once they reach a new club, Boobie meets up with Big Mike and throws a few jibes at the local help sweeping the floor. That "little Santa" with the broom? None other than Rockstar Games president Sam Houser, who doesn't speak a single word in his brief appearance. As an added touch, Houser's digital doppelganger wears a white t-shirt with the Rockstar Games logo. Because the thumbnail for it is a big ol' spoiler, you can click this link to see the Houser cameo for yourself. This isn't the first time that Houser has cameoed in one of his studio's games. In GTA 3, he voiced one of the Ammu-Nation store clerks, and in GTA: San Andreas, a statue of that Ammu-Nation employee could be found in the game's Downtown Square area. Beyond minor background pedestrian and gangster voice roles in San Andreas and GTA 4, Houser has generally kept a low profile, focusing instead on developing the studio's games . With GTA 6 launching to major critical and commercial success, Houser has also issued a rare statement to mark the occasion. "This is a narrative set in a world of possibilities--and it i
-
-### GTA 6 Cast List Includes Potentially Huge Spoiler, So Be Warned
-Thu, 19 Nov 2026 16:20:09 +0000 — https://www.gamespot.com/articles/gta-6-cast-list-includes-potentially-huge-spoiler-so-be-warned/
-
-It's Grand Theft Auto VI day around the world--the game is really good , as it turns out. While players are out exploring the massive in-game map or checking their in-game phones as much as they check their real-life ones, Rockstar has celebrated the occasion by releasing the full cast list for its new crime epic. Nestled among celebrity names like Bad Bunny, "Weird Al" Yankovic, Brigitte Nielsen, Stephen Root, and Bobby Moynihan is a name that will surprise many longtime Rockstar fans. It's also, potentially, a GTA VI spoiler, so we're going to put it below a selfie of co-protagonist Jason Duval. Seriously, if you want to go into Grand Theft Auto VI spoiler-free, look away now . Do you think Jason's last name is a Jacksonville Jaguars reference? DUUUUUVAL! Alright, if you're still here, then you're in for the spoiler. Ready? Here goes: One of the names listed on the credits is Michael Hollick, playing a role known only as "The Hitman." If that's setting off a signal to established Grand Theft Auto fans, it's because Michael Hollick is also the voice of GTA IV protagonist--and occasional hitman--Niko Bellic. Hollick's involvement in GTA VI is surprising, considering how just after GTA IV's release in 2008, he publicly criticized Rockstar for his payment on the project. As reported by CNET by way of the New York Times, Hollick reportedly was paid $100,000 for 15 months of work on the project. Whether or not this is actually a spoiler remains to be seen, but with Grand Theft Au
-
-### GTA 6 s Stars Release A Very Nice Statement As Game Goes Live
-Thu, 19 Nov 2026 16:09:30 +0000 — https://www.gamespot.com/articles/gta-6s-stars-release-a-very-nice-statement-as-game-goes-live/
-
-Rockstar's Grand Theft Auto 6 is finally here, and along with that, the actors playing the main characters Jason (Dylan Rourke) and Lucia (Manni L. Perez) have released a heartfelt joint statement. "Years witnessing the hardest working and most skilled artisans game making has to offer. We are truly honored to collaborate on this worldwide testament to human creativity, ingenuity, and sheer willpower," they said. "So much learned and so much to learn, keep fighting for what you love, stay humble. See y’all in Leonida." GTA 6 is finally here. Rockstar kept the actors' identities a secret throughout development, though fans worked things out for themselves a long time ago. Rockstar has now published the full GTA 6 credits confirming all the cast and everyone else who contributed to the game. In addition to Rourke and Perez, the main voice cast for GTA 6 includes Brad Carter as Donnie, Bobby Moynihan as Cal, and Stephen Root as Brian. Numerous other famous people have credits in the game, including "Weird Al" Yankovic, Doug Stanhope, Stavros Halkias, and JB Smoove, just to name a few. Lucia and Jason in GTA 6. GameSpot’s GTA 6 review scored the game a rare 10/10. “GTA 6 is an astonishing open-world action game that I’d wager won’t be outdone until Grand Theft Auto 7,” reviewer Tamoor Hussain said. GTA 6 has now unseated the Ocarina of Time remake for Switch 2 to become the highest-rated game of 2026 on GameSpot sister site, Metacritic, and is tied with the original Ocarina of Ti
-
-### The GTA 6 Map Is Truly, Truly Massive (Of Course)
-Wed, 18 Nov 2026 14:08:31 +0000 — https://www.gamespot.com/articles/the-gta-6-map-is-truly-truly-massive-of-course/
-
-Grand Theft Auto 6 has finally arrived, and Rockstar Games has released the game's official map . It is absolutely gigantic. Even though we knew the GTA 6 map would be big--it has more playable space than GT4, GTA 5, and Red Dead Redemption 2 combined --seeing the map for yourself shows off its truly gargantuan scale. Behold, the GTA 6 map. As confirmed previously, GTA 6 takes place in the state of Leonida, which is a stand-in for Florida. The central hub is Vice City itself (GTA's version of Miami), but the game takes players well beyond that to numerous surrounding counties. GameSpot's GTA 6 review scored the game a rare 10/10. “GTA 6 is an astonishing open-world action game that I’d wager won’t be outdone until Grand Theft Auto 7,” reviewer Tamoor Hussain said. GTA 6 has now unseated the Ocarina of Time remake for Switch 2 to become the highest-rated game of 2026 on GameSpot sister site, Metacritic, and is tied with the original Ocarina of Time for the highest aggregate review score ever . After GTA 6 reviews came online, shares of Rockstar owner Take-Two ripped higher, but the company is still down massively this year and over the past 12 months. For more, check out GameSpot's Grand Theft Auto 6 guides hub .
-
-### Why GTA 6 Doesn t Include Disney World
-Thu, 19 Nov 2026 14:46:06 +0000 — https://www.gamespot.com/articles/why-gta-6-doesnt-include-disney-world/
-
-Walt Disney World is synonymous with Florida, but the iconic theme park doesn't show up in Rockstar's GTA 6 , which takes place in a fictional Florida called Leonida. Many are wondering why, especially when GTA: Vice City had its own parody of the theme park-- Fun World --many years ago. Rockstar North co-studio head Rob Nelson said the decision to came down to resources and story reasons. “A theme park would represent a lot of work that we didn’t have, and we didn’t have a strong narrative reason to send them there,” he told VGC . Nelson added that Rockstar isn't known to cut corners, so if GTA 6 were to have its own version of Walt Disney World, it would be a "fully functioning theme park," and that just wasn't doable. Walt Disney World is much more than just its most famous park, Magic Kingdom. The property includes three other main parks, Animal Kingdom, Hollywood Studios, and Epcot, along with the Disney Springs shopping district, multiple water parks and golf courses, and more than two-dozen hotels. The entire property is more than 25,000 acres. Even if Rockstar were to replicate only a portion of the scale of the real Walt Disney World, it would surely be a big job. Players might expect fully functioning rides, and Nelson said the challenge for Rockstar would be, "Where do you stop? When do you feel like it's enough?" Nelson said people think Rockstar has unlimited time and money, and that isn't true. "So sometimes you just have to admit we are not going to be able to 
-
 ## Rock Paper Shotgun
+
+### Nvidia's latest graphics card driver appears to be unnecessarily writing to PC SSDs, something that's dumb, annoying and definitely warrants reverting
+Fri, 20 Nov 2026 16:04:10 +0000 — https://www.rockpapershotgun.com/nvidias-latest-graphics-card-driver-appears-to-be-unnecessarily-writing-to-pc-ssds-something-thats-dumb-annoying-and-definitely-warrants-reverting
+
+Ooh, an Nvidia-related story that isn't about their now former CEO allegedly getting amorous with someone. I wonder what it's abou-oh. Oh no. It looks like Nvidia's latest GeForce driver, 621.24, is needlessly writing vast amounts of data to PC SSDs. Read more
+
+### Vote now for 2026's RPS 100: Reader Edition
+Fri, 20 Nov 2026 13:59:50 +0000 — https://www.rockpapershotgun.com/vote-now-for-2026s-rps-100-reader-edition
+
+For the past six years, the team at RPS have got together to pick what we consider to be the best 100 games you can play on PC. There's very little science involved, and we try not to get too hung up on what games should make the cut. From year to year, our rankings and choices vary wildly as the formation and tastes of the team changes. However, our definitive list isn't always met with a chorus of approval and cheers of 'Hear, hear!', "'Well done!', and 'Couldn't have said it better myself!', so we also have the RPS 100: Reader Edition. This is your chance to submit your ten favourite PC games of all time. Your votes will be tallied up with all the other submissions from our other readers and we will produce a list of the community's top 100. We've just finished revealing what we currently consider to be the Best PC games of all time and now it's your turn. Read more
 
 ### Akira Kurabayashi, company director at Arika and developer on Street Fighter EX, Tetris 99, Fighting EX Layer and more, has sadly passed away due to heart failure
 Fri, 20 Nov 2026 13:00:00 +0000 — https://www.rockpapershotgun.com/akira-kurabayashi-company-director-at-arika-and-developer-on-street-fighter-ex-tetris-99-fighting-ex-layer-and-more-has-sadly-passed-away-due-to-heart-failure
@@ -491,14 +501,4 @@ The older I get, the more fascinated I somehow become by how videogames depict n
 Thu, 19 Nov 2026 13:00:00 +0000 — https://www.rockpapershotgun.com/theyre-more-complicated-and-more-expensive-than-lcd-screens-but-your-next-gaming-monitor-should-still-be-an-oled
 
 Your next gaming monitor should be an OLED display. There, I've said it. And I know the notion won't please everyone. After all, a large grey proboscidean lumbers into the room whenever OLED technology is mentioned. Put simply, almost any risk of the dreaded burn-in is an immediate deal-breaker for some. I do get that. Likewise, despite my musings just the other day on how affordable gaming monitors have generally become and the fact you can now snag an OLED panel, specifically, for sub &pound;300 / $300, it's a stretch to say OLED gaming comes cheap. And yet here I am arguing firmly in favour of OLED. Read more
-
-### Hour-long Total War: Warhammer 40,000 campaign stream shows off ship battle-less fleet management, makes clear how not ideal getting Space Marine armies killed is
-Thu, 19 Nov 2026 12:22:20 +0000 — https://www.rockpapershotgun.com/hour-long-total-war-warhammer-40000-campaign-stream-shows-off-ship-battle-less-fleet-management-makes-clear-how-not-ideal-getting-space-marine-armies-killed-is
-
-Try not to get whole armies of Space Marines pasted against the surfaces of planets thanks to your shoddy tactics, please. So ask the bosses of Total War: Warhammer 40,000 , who're keen not to have their training workloads doubled because you're a crap general and have gotten a tight-knit force of uber-tough grunts killed unnecessarily, hope as they watch you play. This and other things have been emphasised by a fresh stream showing off over an hour of campaigning in the strategy warhammerer. Read more
-
-### Rockstar firings tribunal hears closing statements, with judge promising to deliver a verdict "as quickly as I possibly can" - though it may take a while
-Thu, 19 Nov 2026 10:34:20 +0000 — https://www.rockpapershotgun.com/rockstar-firings-tribunal-hears-closing-statements-with-judge-promising-to-deliver-a-verdict-as-quickly-as-i-possibly-can-though-it-may-take-a-while
-
-The employment tribunal over Rockstar's firing of 34 workers last year has come to an end for now, pending a final verdict from the judge. Said judge hasn't offered a concrete estimate of when her judgement will arrive, but has reportedly asserted that she'll provide it "as quickly as [she] possibly can". Read more
 
