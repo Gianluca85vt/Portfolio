@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Maya and 3ds Max 2027.3 MCP servers: an agent action collapses into one undo step">
+  <defs>
+    <linearGradient id="bgMCP" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#18011F"/>
+      <stop offset="55%" stop-color="#3A1A10"/>
+      <stop offset="100%" stop-color="#BE4C00"/>
+    </linearGradient>
+    <linearGradient id="accMCP" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FFB37A"/>
+      <stop offset="100%" stop-color="#BE4C00"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="900" fill="url(#bgMCP)"/>
+
+  <!-- faint scene-graph lattice -->
+  <g stroke="#FFFFFF" stroke-opacity="0.08" stroke-width="2" fill="none">
+    <path d="M90 700 L90 760 L250 760"/>
+    <path d="M90 760 L90 820 L250 820"/>
+    <path d="M250 700 L250 640 L410 640"/>
+    <circle cx="90" cy="700" r="7"/>
+    <circle cx="250" cy="760" r="7"/>
+    <circle cx="250" cy="820" r="7"/>
+    <circle cx="410" cy="640" r="7"/>
+  </g>
+
+  <!-- eyebrow -->
+  <text x="90" y="138" font-family="Helvetica, Arial, sans-serif" font-size="34" font-weight="700"
+        letter-spacing="7" fill="#FFB37A" fill-opacity="0.95">MAYA + 3DS MAX 2027.3</text>
+
+  <!-- key phrase, top half -->
+  <text x="90" y="300" font-family="Helvetica, Arial, sans-serif" font-size="164" font-weight="700"
+        fill="#FFFFFF">ONE UNDO</text>
+  <text x="90" y="440" font-family="Helvetica, Arial, sans-serif" font-size="164" font-weight="700"
+        fill="url(#accMCP)">STEP</text>
+
+  <rect x="92" y="486" width="300" height="9" fill="#FFB37A" fill-opacity="0.9"/>
+
+  <text x="90" y="572" font-family="Helvetica, Arial, sans-serif" font-size="44" font-weight="400"
+        fill="#FFFFFF" fill-opacity="0.92">MCP servers, read-write off by default</text>
+
+  <!-- many operations collapsing to one: stacked bars narrowing -->
+  <g fill="#FFFFFF">
+    <rect x="690" y="660" width="330" height="14" fill-opacity="0.16"/>
+    <rect x="690" y="690" width="270" height="14" fill-opacity="0.22"/>
+    <rect x="690" y="720" width="205" height="14" fill-opacity="0.30"/>
+    <rect x="690" y="750" width="140" height="14" fill-opacity="0.40"/>
+  </g>
+  <rect x="690" y="788" width="330" height="20" fill="#FFB37A" fill-opacity="0.95"/>
+  <text x="690" y="852" font-family="Helvetica, Arial, sans-serif" font-size="30" font-weight="700"
+        letter-spacing="3" fill="#FFFFFF" fill-opacity="0.8">TECH PREVIEW</text>
+</svg>

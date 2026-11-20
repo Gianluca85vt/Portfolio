@@ -257,4 +257,53 @@ export const tracker: TrackedRelease[] = [
       { label: 'heise online', url: 'https://www.heise.de/en/news/Blender-5-3-imports-and-edits-Gaussian-Splats-11520011.html' },
     ],
   },
+  {
+    tool: 'Maya',
+    maker: 'Autodesk',
+    version: '2027.3',
+    status: 'stable',
+    date: '2026-11-19',
+    changed: [
+      'An MCP server, in tech preview, lets external MCP clients drive Maya; the coverage names Claude and ChatGPT as examples. It runs on the local machine with token-based authentication.',
+      'The built-in Autodesk Assistant moves from inspecting a scene to changing it. Read-write access is off by default, the Assistant previews what it intends to run and waits for an Allow click, and each agent action can be undone as a single step.',
+      'Ships with MtoA 5.6.4, which adds an Accelerated Mode for the Arnold viewport, for lookdev and lighting without a separate render window.',
+      'A pointValues node arrives for the Dynamic Geometry Attributes workflows.',
+    ],
+    watch: [
+      'The MCP server and the agentic Assistant features are a tech preview, included with a Maya subscription; per the reporting the external agent itself is the artist’s own expense.',
+      'No audit log of agent actions is described in any write-up found, which is the record a facility needs when a publish goes wrong.',
+      'Autodesk’s blog, help and press hosts were all unreachable from the writing environment, so confirm the exact feature list against the release notes in the build you download.',
+    ],
+    piece: '/blog/maya-3ds-max-2027-3-mcp-servers/',
+    sources: [
+      { label: 'CG Channel', url: 'https://www.cgchannel.com/2026/11/autodesk-releases-maya-2027-3-with-new-agentic-ai-features/' },
+      { label: 'Animation World Network', url: 'https://www.awn.com/news/autodesk-adds-agentic-ai-and-mcp-servers-maya-and-3ds-max' },
+      { label: 'Digital Production', url: 'https://digitalproduction.com/2026/11/20/maya-3ds-max-mcp-arnold-viewport/' },
+    ],
+  },
+  {
+    tool: '3ds Max',
+    maker: 'Autodesk',
+    version: '2027.3',
+    status: 'stable',
+    date: '2026-11-19',
+    changed: [
+      'An MCP server, in tech preview, lets external MCP clients read and change the 3ds Max scene; Autodesk names Claude and Cursor as examples. It runs locally with token-based authentication.',
+      'The Autodesk Assistant can now edit scenes as well as inspect them, with read-write off by default, a preview-then-Allow approval step, and one undo step per agent action.',
+      'Arnold can be used as a viewport renderer instead of running in a separate ActiveShade window.',
+      'Gaussian splat work is listed for this release, including 4D Gaussian splat sequence loading and PLY export, plus new point object types and a Dead Vertices option in the Mesh Cleaner.',
+    ],
+    watch: [
+      'The write-ups disagree on how far the splat support goes: one reading of Autodesk’s help page has splats drawing in the viewport through a splat shader with their real colours, another describes PLY import and export and import segmentation without viewport display. Confirm against the release notes before planning a pipeline around it.',
+      'The MCP server and the agentic Assistant features are a tech preview, included with a 3ds Max subscription; per the reporting the external agent itself is the artist’s own expense.',
+      'No audit log of agent actions is described in any write-up found.',
+      'Autodesk’s blog, help and press hosts were all unreachable from the writing environment, so every feature here is as reported rather than as read.',
+    ],
+    piece: '/blog/maya-3ds-max-2027-3-mcp-servers/',
+    sources: [
+      { label: 'CG Channel', url: 'https://www.cgchannel.com/2026/11/autodesk-releases-3ds-max-2027-3/' },
+      { label: 'Animation World Network', url: 'https://www.awn.com/news/autodesk-adds-agentic-ai-and-mcp-servers-maya-and-3ds-max' },
+      { label: 'Digital Production', url: 'https://digitalproduction.com/2026/11/20/maya-3ds-max-mcp-arnold-viewport/' },
+    ],
+  },
 ];
