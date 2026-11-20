@@ -42,7 +42,6 @@ artistView:
   misses:
     - "Art direction: a Quarter Quell arena described as a lush valley of plants and animals that may be robotic is a great brief, and reviewers describe it as somewhere they have been before — the design cannot signal novelty inside a visual grammar this fixed."
     - "Pacing: 158 minutes mastered for IMAX gives set dressing nowhere to hide, and reviewers describe the first act as slow — a large-format frame makes an unhurried scene feel like an inventory of the room."
-draft: true
 ---
 
 Peter Bradshaw gave *The Hunger Games: Sunrise on the Reaping* one star in the
