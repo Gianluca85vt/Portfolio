@@ -306,4 +306,26 @@ export const tracker: TrackedRelease[] = [
       { label: 'Digital Production', url: 'https://digitalproduction.com/2026/11/20/maya-3ds-max-mcp-arnold-viewport/' },
     ],
   },
+  {
+    tool: 'FFmpeg',
+    maker: 'FFmpeg project',
+    version: '9.1',
+    status: 'stable',
+    date: '2026-11-20',
+    changed: [
+      'A new fruc_vulkan filter does frame rate up-conversion on Nvidia optical flow hardware through the VK_NV_optical_flow Vulkan extension: the GPU returns motion vectors and an FFmpeg Vulkan compute shader warps and blends the in-between frames. Useful for bringing a 24fps turntable or playblast up for review without a vendor SDK.',
+      'apv_encode_vulkan, the first Vulkan encoder for the intra-only APV professional codec, merged in July 2026. Vulkan APV decoding had landed earlier in the year, so capture and mastering in APV can now run encode and decode on the GPU.',
+    ],
+    watch: [
+      'Reports put fruc_vulkan at Ampere (RTX 30) and newer, while Nvidia\u2019s own Optical Flow SDK documentation places the hardware accelerator in every GPU from Turing onward. The sources do not reconcile this, so RTX 20 owners should test before planning around it.',
+      'The filter needs a driver exposing VK_NV_optical_flow, an FFmpeg built with Vulkan support, a compute queue and an optical flow queue, and VK_KHR_maintenance9.',
+      'Interpolated frames are inferred, not rendered. Cuts, baked motion blur, alpha-heavy geometry and burned-in overlays are the documented weak spots, so this belongs in previs and review rather than in a deliverable.',
+      'phoronix.com, ffmpeg.org and heise.de were all unreachable from the writing environment, so the feature list here is as reported rather than as read from the changelog.',
+    ],
+    piece: '/blog/ffmpeg-9-1-nvidia-gpu-frame-interpolation/',
+    sources: [
+      { label: 'Phoronix', url: 'https://www.phoronix.com/news/FFmpeg-9.1-Released' },
+      { label: 'heise online', url: 'https://www.heise.de/en/news/FFmpeg-9-1-adds-frames-with-help-from-an-Nvidia-GPU-11532651.html' },
+    ],
+  },
 ];
