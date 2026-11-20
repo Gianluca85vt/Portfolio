@@ -15,7 +15,6 @@ sources:
     url: https://www.videogameschronicle.com/news/ubisoft-has-founded-a-studio-dedicated-to-generative-ai-in-games/
 artistView:
   take: "A cut at this tier does not remove four per cent of the throughput. It removes the people who know without looking it up how the streaming grid is divided, which naming convention the roof kit follows, and why that one shader has a comment telling you not to touch it — knowledge that lives in habit rather than in any document, and leaves the building with them."
-draft: true
 ---
 
 Three things came out of Ubisoft on **19 November 2026**. All of them inside about
