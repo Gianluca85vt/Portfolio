@@ -1,6 +1,51 @@
-# Manga — harvested 2026-11-21T13:00:09.424Z
+# Manga — harvested 2026-11-21T20:14:47.631Z
 
 ## Anime News Network
+
+### Angel Next Door Spoils Me Rotten Season 2 Anime Series Review
+Sat, 21 Nov 2026 12:00:00 -0500 — https://www.animenewsnetwork.com/review/angel-next-door-spoils-me-rotten/season-2/.243054
+
+I regret to inform you that, as it turns out, the first season is only the shaky preamble to the cacophonous chronicle of courtship that is its second season.
+
+### The Apothecary Diaries Season 3 ‒ Episode 56
+Sat, 21 Nov 2026 11:30:00 -0500 — https://www.animenewsnetwork.com/review/the-apothecary-diaries-season-3/episode-56/.244059
+
+As Shakespeare said in <i>Henry IV Part Two</i>, “uneasy is the head that wears a crown.”
+
+### STEEL BALL RUN JoJo's Bizarre Adventure ‒ Episode 10
+Sat, 21 Nov 2026 10:30:00 -0500 — https://www.animenewsnetwork.com/review/steel-ball-run-jojo-bizarre-adventure/episode-10/.244058
+
+This episode punches up many of the ideas that made the original Dio one of the most iconic villains in anime, and it's so much fun to see Araki’s original ideas explored again.
+
+### New Hana-Kimi Live-Action Series Reveals Theme Songs, Short Video
+Sat, 21 Nov 2026 10:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-21/new-hana-kimi-live-action-series-reveals-theme-songs-short-video/.244043
+
+CIRRA, Ryugujo perform themes for series debuting on December 5
+
+### Magic Knight Rayearth ‒ Episode 7
+Sat, 21 Nov 2026 09:30:00 -0500 — https://www.animenewsnetwork.com/review/magic-knight-rayearth/episode-7/.244057
+
+The mental image of someone having to fill out an I-9 form to work for Zagato is hilarious.
+
+### Japan's Video Game Rankings, November 9-15
+Sat, 21 Nov 2026 09:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-21/japan-video-game-rankings-november-9-15/.244013
+
+<cite>The Legend of Zelda: Ocarina of Time</cite> remake stays at #1 for 2nd week
+
+### The Ramparts of Ice Season 2 ‒ Episode 22
+Sat, 21 Nov 2026 08:30:00 -0500 — https://www.animenewsnetwork.com/review/the-ramparts-of-ice-season-2/episode-22/.244036
+
+Not only do I think Momoka deserves this, I also think the show is glossing over just how much she contributed to the problem.
+
+### Omniscient Reader's Viewpoint Webtoon Returns With Season 2 on November 24
+Sat, 21 Nov 2026 08:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-21/omniscient-reader-viewpoint-webtoon-returns-with-season-2-on-november-24/.244045
+
+REDICE Studio streams promo video to reveal return, series went on hiatus after end of 1st season in June
+
+### Tamon's B-Side Anime Gets 2nd Season
+Sat, 21 Nov 2026 07:48:47 -0500 — https://www.animenewsnetwork.com/news/2026-11-21/tamon-b-side-anime-gets-2nd-season/.244056
+
+Announced at real-life "F/ACE First Live "Nautical Star" concert
 
 ### Japanese Animation TV Ranking, November 9-15
 Sat, 21 Nov 2026 07:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-21/japanese-animation-tv-ranking-november-9-15/.244015
@@ -16,51 +61,6 @@ Special will adapt "secret tool memo" from Fujiko F. Fujio currently on display 
 Sat, 21 Nov 2026 05:05:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-21/may-i-ask-for-one-final-thing-novel-series-ends-in-8th-volume/.244044
 
 Franchise inspired anime adaptation that debuted in October 2025
-
-### 'Please Put Them On, Takamine-san' Manga Ends in January
-Sat, 21 Nov 2026 04:05:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-21/please-put-them-on-takamine-san-manga-ends-in-january/.244048
-
-Series inspired anime adaptation in April 2025
-
-### Suu Morishita's A Sign of Affection Manga Ends in 3 Chapters
-Sat, 21 Nov 2026 03:00:22 -0500 — https://www.animenewsnetwork.com/news/2026-11-21/suu-morishita-a-sign-of-affection-manga-ends-in-3-chapters/.244046
-
-Manga inspired anime adaptation that debuted in January 2024
-
-### What Sailor Moon Fans Can Buy (& Eat) at Universal Studios Japan
-Fri, 20 Nov 2026 23:59:00 -0500 — https://www.animenewsnetwork.com/interest/2026-11-20/what-sailor-moon-fans-can-buy-at-universal-studios-japan/.244008
-
-Grab your Universal Heart Compact and “Moon Cosmic, Make-up!”
-
-### Uniqlo Unfurls New Studio Ghibli T-Shirts
-Fri, 20 Nov 2026 23:00:00 -0500 — https://www.animenewsnetwork.com/interest/2026-11-20/uniqlo-unfurls-new-studio-ghibli-t-shirts/.244028
-
-Show off your Ghibli love with the new collection
-
-### North American Anime, Manga Releases, November 15-21
-Fri, 20 Nov 2026 17:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-20/north-american-anime-manga-releases-november-15-21/.243879
-
-<cite>Jujutsu Kaisen: Hidden Inventory / Premature Death – The Movie</cite> anime; <cite>BECK, Heroes, Love is Money</cite> manga ship
-
-### This Week in Games - Cleaning Bots, Ocarina Thoughts, and Sonic's 35th Anniversary
-Fri, 20 Nov 2026 15:58:32 -0500 — https://www.animenewsnetwork.com/this-week-in-games/2026-11-20/cleaning-bots-ocarina-thoughts-and-sonic-35th-anniversary/.243880
-
-Jean-Karlo shares his impressions of the Game of the Year contender and takes a trip through Green Hill to celebrate Sonic's anniversary.
-
-### Yen Press Licenses [Oshi No Ko] Étude for Two, Bungo Stray Dogs: The Untold Origins of the Detective Agency, More Manga/Novels
-Fri, 20 Nov 2026 14:57:31 -0500 — https://www.animenewsnetwork.com/news/2026-11-20/yen-press-licenses-oshi-no-ko-etude-for-two-bungo-stray-dogs-the-untold-origins-of-the-detective-/.244035
-
-Also: <cite>Mercenary Sisters</cite>, <cite>Caring for a Corpse</cite>, <cite>Megarosalia</cite>, more
-
-### Chiruran Manga Gets New Stage Play by All-Female Troupe O'Clock Kumamoto Revue
-Fri, 20 Nov 2026 13:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-20/chiruran-manga-gets-new-stage-play-by-all-female-troupe-oclock-kumamoto-revue/.244024
-
-Series' original author Umemura writes script for play opening in early summer 2027
-
-### Overgeared Volumes 4-6 K-Comic Review
-Fri, 20 Nov 2026 12:00:00 -0500 — https://www.animenewsnetwork.com/review/overgeared/volumes-4-6/.243215
-
-Every time I finish a volume of <i>Overgeared</i>, I think the same thing: <i>Grid's a jerk, but…</i>. It's hard to say whether this is a feature or a bug.
 
 ## Crunchyroll News
 
@@ -144,16 +144,6 @@ The official website of the Pen to Wappa to Jijitsukon (A Pen, Handcuffs, and a 
 Thu, 19 Nov 2026 19:38:17 -0800 — https://myanimelist.net/news/74960147?_location=rss
 
 The official website of the Zombie no Afureta Sekai de Ore dake ga Osowarenai (In a World Full of Zombies I m the Only One Who Doesn t Get Attacked) television anime announced seven additional cast members on Friday. The anime series adapting Rokuro Uraji s supernaturalhorror light novel is scheduled to premiere on January 2 at 1:00 a.m. on AT-X. Cast Takashi Fujino: Mitsuki Kuribayashi Masaru Fujino: Risae Matsuda (Cheat Kusushi no Slow Life) Kiriko Ogura: Sarah Emi Bridcutt (Shi...
-
-### Manga Kaminaki Sekai no Kamisama Katsudou Concludes with 14th Volume
-Thu, 19 Nov 2026 09:17:34 -0800 — https://myanimelist.net/news/74958547?_location=rss
-
-Aoi Akashiro and Sonshou Hangetsuban s Kaminaki Sekai no Kamisama Katsudou (Working for God in a Godless World) manga ended its serialization on October 2. The 77th and final chapter marked the end of its seven-year run. The 14th and final volume is scheduled to be released on November 30. Akashiro began writing the fantasy manga illustrated by Hangetsuban in Monthly Hero s magazine in May 2019. Following the magazine s discontinuation in October 2020, the series moved to the Comi...
-
-### Gensou Suikoden Reveals Additional Cast
-Thu, 19 Nov 2026 08:22:13 -0800 — https://myanimelist.net/news/74958379?_location=rss
-
-The official website of Gensou Suikoden (Suikoden: The Anime) revealed additional cast on Wednesday. The anime series adapting Konami s fantasy role-playing game premiered on October 3 at 11.30 p.m. on Tokyo MX followed by Kansai TV, BS Asahi, and 32 other stations. Cast Makai: Ikuji Nose (Mob Psycho 100) Tai Ho: Masaki Ishimine Yam Koo: Hideyuki Kobayashi (Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki) Ridley: Takaya Kuroda (Mairimashita! Iruma-kun) Gaboc...
 
 ## Otaku USA
 

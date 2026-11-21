@@ -1,58 +1,83 @@
-# Film & TV — harvested 2026-11-21T13:00:09.424Z
+# Film & TV — harvested 2026-11-21T20:14:47.631Z
 
 ## Variety
 
-### ‘The Blind Ferryman’ Director on Rejecting Western Stereotypes: ‘I Don’t Want to Make a Movie Asking for Sympathy’
-Sat, 21 Nov 2026 12:45:49 +0000 — https://variety.com/2026/film/global/the-blind-ferryman-ali-toffan-al-fatlawi-cairo-1236954929/
+### Jeff Goldblum Performs a Piano Medley and Reflects on His Career at Marrakech Film Festival: The Stories That We Tell Matter
+Sat, 21 Nov 2026 19:51:33 +0000 — https://variety.com/2026/film/global/jeff-goldblum-career-marrakech-film-festival-tilda-swinton-1236954972/
 
-For Iraqi-Swiss filmmaker Ali Toffan Al-Fatlawi, the idea behind “The Blind Ferryman” began with a thought that struck him during Iraq’s civil war in 2006. Living in Switzerland and watching the violence unfold in his homeland, he thought of two of his aunts who were blind and found himself wishing that blindness might spare his [ ]
+Jeff Goldblum was honored with a tribute award at the Marrakech Film Festival on Saturday, delighting the audience with a surprise piano performance before reflecting on more than half a century in cinema, giving a heartfelt speech in which he thanked his many on-screen collaborators and insisted that the stories that we tell matter. The [ ]
 
-### Obese Monkey Becomes a Weight-Loss Drug Guinea Pig in Boltrim at India s WAVES Film Bazaar
-Sat, 21 Nov 2026 12:32:07 +0000 — https://variety.com/2026/film/markets-festivals/obese-monkey-weight-loss-drug-guinea-pig-boltrim-1236954925/
+### Russell Crowe’s Request to Shoot ‘A Beautiful Mind’ Chronologically Added $1 Million to the Budget, Says Ron Howard: ‘It Was the Right Kind of Investment’
+Sat, 21 Nov 2026 19:28:57 +0000 — https://variety.com/2026/film/news/russell-crowe-a-beautiful-mind-sequence-ron-howard-1236955038/
 
-Director Ashish Aryan is presenting Boltrim, a Hindi-English dark comedy about an obese monkey subjected to drug trials by a pharmaceutical giant developing a weight-loss injection, to the Co-Production Market at India s WAVES Film Bazaar. The film traces the smuggled animal s journey from Assam to a Delhi laboratory, exploring how far an operations manager at [ ]
+“A Beautiful Mind” director Ron Howard recently called Russell Crowe’s suggestion to shoot the film in order, which cost the studio an additional $1 million, was “the right kind of investment.” The 2001 film follows mathematician John Forbes Nash Jr. (Crowe) through his academic career as he struggles with schizophrenia. Although many films shoot out [ ]
 
-### Oscar-Winning Doc The Elephant Whisperers Co-Writer s Dark Comedy Nose Bone Follows a Punjabi Woman s Race for an Abortion at WAVES Film Bazaar
-Sat, 21 Nov 2026 12:14:08 +0000 — https://variety.com/2026/film/markets-festivals/elephant-whisperer-co-writer-abortion-nose-bone-waves-film-bazaar-1236954922/
+### How the ‘Elsinore’ Makeup Team Transformed Stars Andrew Scott and Olivia Colman to Bring the Story of Ian Charleson to Life
+Sat, 21 Nov 2026 19:09:40 +0000 — https://variety.com/2026/artisans/news/elsinore-makeup-olivia-colman-andrew-scott-1236954968/
 
-Writer-director Garima Pura, a co-writer of the Oscar-winning documentary The Elephant Whisperers, is presenting Nose Bone, a dark comedy about a young woman from a Punjab border town scrambling to pay for an abortion, to the Co-Production Market at India s WAVES Film Bazaar. On her 18th birthday, Tooti learns that she s expecting and runs from [ ]
+In “Elsinore,” Andrew Scott plays real-life actor Ian Charleson, who performed his final role while dying of AIDS. Written by Stephen Beresford, “Elsinore” follows the deeply emotional and inspirational true story of Charleson as he confronts his mortality with courage, honesty and wit. On Nov. 13, 1989, Charleson walked onto the stage at London’s National [ ]
 
-### Princess Kate Cancer Documentary ‘Heal’ Sets BBC, NBC and International Premiere Dates
-Sat, 21 Nov 2026 12:00:00 +0000 — https://variety.com/2026/tv/news/princess-kate-cancer-documentary-premiere-dates-1236954745/
+### Stephan James on Honoring Carl Weathers Legacy and Learning to Box for I Play Rocky
+Sat, 21 Nov 2026 18:30:00 +0000 — https://variety.com/2026/film/features/i-play-rocky-stephan-james-carl-weathers-boxing-training-1236954058/
 
-“Heal,” a documentary from Princess Kate on her cancer diagnosis and living life in the face of serious illness, will debut in the U.K. on Nov. 29, with international premieres to follow. The documentary will premiere on the BBC in the U.K. on Nov. 29, via NBCUniversal in the United States on Nov. 30, Channel [ ]
+Stephan James has played a few real-life figures in his career, including Olympic gold medalist Jesse Owens (in 2016 s “Race”) and civil rights leader John Lewis (2014 s “Selma”), so he knows the drill. Diving deep into the archives for research. Vocal coaching. Perhaps a physical transformation. His mission: honor the man, the mythic character he [ ]
 
-### ‘Your Daughter’ Director on Bonds With Mom, Marianne Khoury, and Uncle Joe, Youssef Chahine: ‘Filmmaking Is Really About Healing’
-Sat, 21 Nov 2026 11:59:00 +0000 — https://variety.com/2026/film/global/sara-shazli-your-daughter-marianne-khoury-1236954836/
+### Andrew Rannells Was Told to ‘Stay Away’ From Kevin Spacey After Meeting Backstage at ‘The Book of Mormon’; He Then Sent a ‘Handwritten Letter’ ‘Asking Me on a Date’
+Sat, 21 Nov 2026 18:20:47 +0000 — https://variety.com/2026/tv/news/andrew-rannells-kevin-spacey-date-1236955011/
 
-For Egyptian filmmaker Sara Shazli, the camera became a way of asking her mother questions she had carried since childhood. Returning to Cairo from film school in Cuba, she would wait in the family kitchen, camera in hand, hoping to understand the woman whose devotion to cinema had so often left her feeling alone. “Was [ ]
+Andrew Rannells recently revealed that Kevin Spacey asked him out while the “Girls” actor was starring in “The Book of Mormon” on Broadway. “I’ve never told this story before. He asked me on a date once,” Rannells said while guesting on “The Downside” podcast hosted by Gianmarco Soresi. “He sent me a letter to ‘The [ ]
 
-### The Tree Director Julie Bertuccelli Tells IFFI Masterclass a Canadian Producer Stole Her Italian Shoes Adaptation, Readies India-Set Feature
-Sat, 21 Nov 2026 11:55:26 +0000 — https://variety.com/2026/film/festivals/julie-bertuccelli-italian-shoes-film-stolen-iffi-1236954904/
+### Actor Awards Predictions: Andrew Garfield, Inde Navarrette and The Odyssey Lead an Unsettled Film Race as Widow s Bay and HBO Max Could Rule TV
+Sat, 21 Nov 2026 18:15:00 +0000 — https://variety.com/lists/2027-sag-actor-awards-predictions/
 
-French filmmaker Julie Bertuccelli, whose The Tree closed the Cannes Film Festival in 2010, said her planned adaptation of Henning Mankell s novel Italian Shoes fell apart after a Canadian producer stole the film from her, and that she plans to shoot her next feature in India. Bertuccelli was speaking at From Witness to Change: The [ ]
+Variety Awards Circuit section is the home for all awards news and related content throughout the year, featuring the following: the official predictions for the upcoming Oscars, Emmys, Grammys and Tony Awards ceremonies, curated by Variety chief awards editor Clayton Davis. The prediction pages reflect the current standings in the race and do not reflect [ ]
 
-### Qatar’s Film Committee and Watermelon Pictures Forge Partnership to Co-Produce a Slate of Films From the Global South
-Sat, 21 Nov 2026 11:36:53 +0000 — https://variety.com/2026/film/global/qatar-watermelon-pictures-partnership-1236954880/
+### Celluloid Sounds: Fewer Women Composers on Screen, But Some Hit the Right Notes
+Sat, 21 Nov 2026 17:25:00 +0000 — https://variety.com/2026/artisans/news/fewer-women-composers-awards-season-1236953531/
 
-Qatar s Film Committee and Watermelon Pictures have announced a strategic partnership to develop and co-produce a slate of films championing visionary filmmakers and compelling stories from the Global South and beyond with an emphasis on culturally authentic storytelling and broad international appeal, they said in a statement. The Global South is a geopolitical and economic [ ]
+The stats for women composers in Hollywood have not improved. Just eight of this year s top 100 grossing films feature original scores by women; the past two years have seen percentages between 7 and 9%, all down from 14% in 2023. But female composers continue to be in the awards conversation, and not all for [ ]
 
-### Marion Cotillard Says I m Not Here to Judge Movies as Marrakech Jury President and Doesn t Want Any Information Before Watching: Like a Virgin
-Sat, 21 Nov 2026 11:13:22 +0000 — https://variety.com/2026/film/festivals/marion-cotillard-marrakech-jury-president-not-here-to-judge-1236954852/
+### CAA’s Bryan Lourd Urges Congress to Pass NO FAKES Act to Combat AI Deepfakes: ‘Every One of Us Should Have the Right to Say No’
+Sat, 21 Nov 2026 17:10:18 +0000 — https://variety.com/2026/biz/news/caa-bryan-lourd-congress-no-fakes-act-ai-deepfakes-1236954989/
 
-Marion Cotillard, who serves as the jury president at this year s Marrakech Film Festival, says she prefers watching films with as little information as possible. I don’t know anything about the movies we re gonna see, I haven’t seen a single image, the Oscar-winning French actress said at the festival s jury press conference on Saturday morning. [ ]
+Creative Arts Agency CEO Bryan Lourd urged Congress on Saturday to pass the NO FAKES Act, a bill that would regulate the wave of unauthorized AI deepfakes proliferating the internet, writing in a New York Times Opinion piece that “every one of us should have the right to say no to an unwelcome use of [ ]
 
-### Indian Auteur Girish Kasaravalli Looks Back on 50 Years of Cinema at IFFI Masterclass: All My Films Talk About Othering
-Sat, 21 Nov 2026 11:13:22 +0000 — https://variety.com/2026/film/festivals/girish-kasaravalli-othering-iffi-goa-1236954891/
+### How This Year’s Movies From ‘Artificial’ to ‘I Play Rocky’ Turn Political Anxiety Into Compelling Stories
+Sat, 21 Nov 2026 17:05:00 +0000 — https://variety.com/2026/film/focus/political-anxietyartificial-ink-weight-rocky-1236953703/
 
-Indian auteur Girish Kasaravalli looked back on his career in Kannada-language cinema at the 57th International Film Festival of India (IFFI) in Goa, in a masterclass titled The Moral Universe of Parallel Cinema: 50 Years of Girish Kasaravalli. The 75-year-old spoke about the moral contradictions of society and the relationship between cinematic form and social [ ]
+For years, Simon Rich wanted to sound the alarm about AI. Rich’s childhood friend Dan Selsam worked as a researcher at OpenAI; Selsam showed Rich, a writer known for humorous essays and for the film “An American Pickle,” an early version of the software, and the two friends discussed its ramifications. “It seemed to have [ ]
 
-### Trump Advisor Steven Paul Hopes U.S. Tax Credit Will Be Active in January, Tariffs Are Old News: ‘Now It’s All Hands on Deck Federal Credit’
-Sat, 21 Nov 2026 10:29:05 +0000 — https://variety.com/2026/film/global/trump-advisor-steven-paul-federal-tax-credit-january-1236954857/
+### Box Office: ‘The Hunger Games: Sunrise on the Reaping’ Scores $56 Million on Friday, ‘I Play Rocky’ Follows With $3.8 Million
+Sat, 21 Nov 2026 16:42:06 +0000 — https://variety.com/2026/film/box-office/box-office-hunger-games-sunrise-of-the-reaping-opening-day-1236954987/
 
-Steven Paul, a special advisor to President Donald Trump who has lobbied for a U.S. federal tax credit alongside special ambassador to Hollywood Jon Voight, said he hopes the incentive will be “active” in some form by January 2027. Speaking at the Doha Industry Days – the industry component of the Doha Film Festival – [ ]
+The odds were ever in the favor of “The Hunger Games: Sunrise on the Reaping,” the latest entry in the storied franchise, which ruled the box office on Friday. “Sunrise on the Reaping” generated $56 million from 4,018 North American theaters on Friday, taking the No. 1 spot on its opening day. It’s a strong [ ]
 
 ## The Hollywood Reporter
+
+### Where to Watch the NWSL Championship: Washington Spirit vs. Kansas City Current
+Sat, 21 Nov 2026 20:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/watch-nwsl-final-washington-spirit-kansas-city-current-free-1236758737/
+
+Washington Spirit will have the benefit of a hometown crowd at the sold-out game, while the hungry Kansas City Current seek their first title.
+
+### Hollywood’s Biggest Watch Nerds Are Obsessing Over These Indie Brands
+Sat, 21 Nov 2026 19:00:00 +0000 — https://www.hollywoodreporter.com/lifestyle/style/indie-watch-brands-hollywood-1236760300/
+
+From Keanu Reeves to Samuel L. Jackson to Ryan Reynolds, in-the-know insiders favor niche watchmakers that surprise and spark conversations.
+
+### How Raising Cane s Became an A-List Magnet
+Sat, 21 Nov 2026 18:30:00 +0000 — https://www.hollywoodreporter.com/lifestyle/lifestyle-news/raising-canes-a-list-parties-1236757826/
+
+Celebs from Adrien Brody to Teyana Taylor and Matthew Rhys are flocking to parties thrown by the chicken tender chain’s charismatic CEO.
+
+### Hunger Games: Sunrise on the Reaping Feasting With $120M+ in Franchise s Box Office Comeback
+Sat, 21 Nov 2026 16:16:34 +0000 — https://www.hollywoodreporter.com/movies/movie-news/hunger-games-sunrise-on-the-reaping-box-office-opening-win-2-1236760511/
+
+Lionsgate's latest title notched the fourth-best opening Friday in the six-movie dystopian series, representing a major revival after 2023's 'The Ballad of Songbirds Snakes.'
+
+### Lindsay Hubbard Teases Summer House Spinoff In the City Season 2: Better Than Season One
+Sat, 21 Nov 2026 16:15:00 +0000 — https://www.hollywoodreporter.com/tv/tv-features/lindsay-hubbard-teases-in-the-city-season-2-kyle-cooke-kiss-1236759562/
+
+The reality star also addresses reports of a recent kiss with Bravo co-star Kyle Cooke, opens up about motherhood, her partnership with No Kid Hungry and upcoming memoir, 'Activated.'
 
 ### NBC to Air Princess of Wales Cancer Charity Documentary
 Sat, 21 Nov 2026 12:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/nbc-bbc-princess-of-wales-cancer-documentary-1236760297/
@@ -79,34 +104,59 @@ Fri, 20 Nov 2026 23:48:08 +0000 — https://www.hollywoodreporter.com/movies/mov
 
 The Scorsese favorite has shared scenes with Leonardo DiCaprio and Margot Robbie. Now he's playing Irwin Winkler, the producing legend behind 'Rocky' and 'Goodfellas.'
 
-### Yellowjackets Creators on Closing Their Survival Story, Killing Characters and Thoughts on Spinoffs: This Was Meant to Be the Final End
-Fri, 20 Nov 2026 23:05:16 +0000 — https://www.hollywoodreporter.com/tv/tv-features/yellowjackets-creators-finale-ending-show-no-spinoffs-1236760260/
-
-Ashley Lyle and Bart Nickerson hope to leave viewers satisfied when the fourth and final season of the Showtime hit releases its series finale: "We do feel like this closes the book, and I think that's important."
-
-### Melania Trump Stresses Humanitarian Efforts at Chic Premiere for Two-Episode Series Documentary Follow-Up
-Fri, 20 Nov 2026 22:38:05 +0000 — https://www.hollywoodreporter.com/tv/tv-features/melania-trump-amazon-series-documentary-difference-ukraine-1236760238/
-
-At a tight-security screening at New York's Lincoln Center Thursday night, the first lady's longtime collaborators celebrated how the Brett Ratner-helmed show allows her to tell her own story.
-
-### TV Ratings: CMA Awards Score Seven-Year High
-Fri, 20 Nov 2026 22:06:14 +0000 — https://www.hollywoodreporter.com/tv/tv-news/cma-awards-2026-tv-ratings-1236760246/
-
-The show delivers its biggest audience of the 2020s so far.
-
-### Hello Sunshine’s Lauren Neustadter Stepping Down at Year s End (Exclusive)
-Fri, 20 Nov 2026 22:00:00 +0000 — https://www.hollywoodreporter.com/business/business-news/lauren-neustadter-leaving-hello-sunshine-1236760220/
-
-The longtime president of film and television is leaving after nearly a decade at Reese Witherspoon’s company and on the heels of a recent ownership change.
-
-### The 25 Best Christmas Gifts for Every Kind of Boyfriend, Whether He s a Situationship or Soulmate
-Fri, 20 Nov 2026 21:31:58 +0000 — https://www.hollywoodreporter.com/lifestyle/shopping/best-christmas-gifts-for-boyfriend-2026-holiday-presents-1236756642/
-
-Whether you just got together or you're practically married, there are gift ideas for every kind of partner.
-
 ## Deadline
 
-### Kate Middleton Documentary Heal Set At BBC NBC; Special About Princess Three Peaks Challenge Cancer Journey Gets Release Date Trailer
+### Watermelon Expands Production Ambitions As It Seals Partnership With Qatar’s Film Committee
+Sat, 21 Nov 2026 19:43:07 +0000 — https://deadline.com/2026/11/watermelon-production-partnership-qatar-film-committee-1237230984/
+
+Watermelon Pictures and the Film Committee at Media City Qatar have announced a planned strategic partnership to develop and co-produce a slate of films telling stories from the Global South. For Watermelon, the partnership marks a significant expansion into larger-scale, mainstream production. Badie Ali and Hamza Ali launched their Chicago-based production and distribution company in [ ]
+
+### CAA s Bryan Lourd Urges Congress To Pass AI Legislation To Protect Americans Famous Or Not
+Sat, 21 Nov 2026 19:34:05 +0000 — https://deadline.com/2026/11/bryan-lourd-ai-legislation-no-fakes-act-1237230979/
+
+CAA chief Bryan Lourd is urging the full Congress to pass the No Fakes Act and deliver it to President Trump for signature, a move Lourd says would protect everyone, famous or not, from nonconsensual digital replicas of their voices and likenesses. In a guest essay published in today s New York Times, Lourd writes, The [ ]
+
+### Broadway s Cure For The Post-Holiday Blues? Stars, Stars More Stars, Coming This Winter
+Sat, 21 Nov 2026 19:30:00 +0000 — https://deadline.com/2026/11/broadway-winter-2027-shows-julia-roberts-steve-carell-1237230909/
+
+With Thanksgiving almost here, it s not too early for Broadway to start thinking about March? In case you ve noticed a lot of big, starry announcements in recent weeks for shows that will open this spring and not just spring proper like the Tony-heavy month of April, but the chillier weeks just after the December holidays [ ]
+
+### Netflix s ‘Minimum Wage’ Ushers In Streaming’s Short Ep Sitcom Era: “The Future Is 15-Minute SpongeBob -Length Episodes”
+Sat, 21 Nov 2026 19:06:00 +0000 — https://deadline.com/2026/11/netflix-minimum-short-episode-sitcoms-1237229899/
+
+In a world of increasingly short attention spans, social media slop and doomscrolling brainrot, it’s a wonder why many television shows got longer in the streaming era. Case in point, the 22-minute broadcast sitcom was largely replaced by the 30-minute dramedy and the 43-minute procedural has been overshadowed by the hour-long premium drama series. Netflix, [ ]
+
+### Percy Jackson : How A Quest To Save Annabeth Makes Everyone Reevaluate Their Relationships In Season 3
+Sat, 21 Nov 2026 16:30:00 +0000 — https://deadline.com/2026/11/percy-jackson-season-3-walker-scobell-leah-jeffries-percabeth-1237230405/
+
+SPOILER ALERT! This post contains some details from the first two episodes of Percy Jackson and the Olympians Season 3. If there is one thing that the kids of Camp Half-Blood can count on, it s that their lives are only going to get more complicated. Percy Jackson and the Olympians returned to Disney+ for Season [ ]
+
+### Hunger Games: Sunrise On The Reaping Returns Lionsgate Franchise To Fortune With $120M+ U.S. Opening Box Office Update
+Sat, 21 Nov 2026 16:25:00 +0000 — https://deadline.com/2026/11/box-office-hunger-games-sunrise-on-the-reaping-1237229925/
+
+SATURDAY AM: Lionsgate has gotten The Hunger Games franchise back in the $100M+ opening range that this Suzanne Collins IP is known for on the big screen as the sixth film, The Hunger Games: Sunrise on the Reaping, is now posting a $120M North American start after a $56M Friday, which includes previews. In addition, [ ]
+
+### SkyShowtime Staff Complained About Workplace Culture Handling Of Racist Conduct Before Comcast/Skydance Shuttered Streamer
+Sat, 21 Nov 2026 14:00:00 +0000 — https://deadline.com/2026/11/skyshowtime-staff-complaint-work-culture-comcast-skydance-1237230353/
+
+EXCLUSIVE: Comcast and Skydance announced this week that they planned to shutter SkyShowtime for commercial reasons, but behind the scenes, the U.S. media giants have also been addressing serious unrest among employees at the joint-venture streamer. Deadline can reveal that a group of SkyShowtime staff lodged a formal complaint in June about the company s workplace [ ]
+
+### Lincoln Center Theater Names Naomi Weinstock New Executive Director Of Development; Robert Jones Upped
+Sat, 21 Nov 2026 13:52:48 +0000 — https://deadline.com/2026/11/lincoln-center-theater-naomi-weinstock-1237230896/
+
+New York s Lincoln Center Theater has appointed Naomi Weinstock as Executive Director of Development, a position in which she will set the direction for LCT’s contributed revenue and lead the development team in building the resources for realize the organization’s artistic and institutional ambitions. The move is effective January 4, 2027. As the Executive Director, [ ]
+
+### Anthony Clark’s Official Cause Of Death Revealed
+Sat, 21 Nov 2026 13:33:03 +0000 — https://deadline.com/2026/11/anthony-clark-cause-of-death-1237230888/
+
+An official cause of death for Yes, Dear star Anthony Clark has been reported: The comedian, who passed November 10 at 63, died from septic shock, with influenza A and chronic alcoholism also included as underlying conditions. Acute kidney failure is added as a significant contributing factor. The details comes from a death certificate obtained [ ]
+
+### ‘Vengeance Is Mine’ Director Edwin Reveals Cast For ‘Dancing With My Shadow’ Based On Generation-Defining Album
+Sat, 21 Nov 2026 13:30:00 +0000 — https://deadline.com/2026/11/hindia-vengeance-edwin-hindia-menari-dengan-bayangan-1237229855/
+
+EXCLUSIVE: Indonesian filmmaker Edwin has revealed the five young leads for his upcoming feature, Dancing With My Shadow (Menari Dengan Bayangan: Evakuasi), inspired by the album of the same name from Hindia. Produced by Palari Films, the coming-of-age drama marks a return to youth-focused stories for Edwin following horror film Sleep No More (2026), which [ ]
+
+### Princess Of Wales Documentary Heal Set At BBC NBC; Special About Kate Middleton s Cancer Journey Gets Release Date Trailer
 Sat, 21 Nov 2026 12:00:00 +0000 — https://deadline.com/2026/11/kate-middleton-documentary-heal-release-date-trailer-1237230712/
 
 Kate Middleton is starring in her first documentary, and it s a personal one. Heal, which will premiere on the BBC in the UK on November 29 and NBC in the U.S. on November 30, follows the Princess of Wales as she undertakes the National Three Peaks Challenge and reflects on her life as a cancer [ ]
@@ -115,56 +165,6 @@ Kate Middleton is starring in her first documentary, and it s a personal one. He
 Sat, 21 Nov 2026 11:53:50 +0000 — https://deadline.com/2026/11/egyptian-music-star-mohamed-mounir-biopic-doha-1237230880/
 
 The life and legacy of legendary Egyptian artist Mohamed Mounir is set to be explored in a biopic spearheaded by The Film Committee at Media City Qatar. The Film Committee has acquired the rights to document Mounir’s life story, with partners on the project set to include a leading regional studio and other partners, which [ ]
-
-### ‘Al Hayba’ Star Taim Hasan To Play Syrian Whistleblower Farid Al-Madhhan In Neon-Backed ‘Caesar’ Biopic
-Sat, 21 Nov 2026 09:53:09 +0000 — https://deadline.com/2026/11/taim-hassan-hasan-syria-neon-department-m-caesar-biopic-1237230860/
-
-Syrian actor Taim Hasan (Al Haybar) has signed to star in Neon-backed biopic Caesar, about military officer Farid Al-Madhhan who risked his life to expose torture and human-rights abuses in prisons under Bashar Al Assad’s reign as president. At the same time, Ameer Fakher Eldin has been unveiled as the director on the drama. The [ ]
-
-### Michael Jackson Biopic Michael Skipping BAFTAs
-Sat, 21 Nov 2026 09:47:11 +0000 — https://deadline.com/2026/11/michael-jackson-biopic-michael-skipping-baftas-1237230863/
-
-In a surprise move, the record-breaking box office smash Michael is skipping the BAFTAs, Deadline has confirmed. Antoine Fuqua’s billion-dollar film about the King of Pop won t be submitted by producers GK Films or distributor Universal, which released internationally for Lionsgate. This takes the likes of Jaafar Jackson, Colman Domingo and the craft team out [ ]
-
-### Real Time : Bill Maher Jokes GTA VI Has Caused More Workplace Absences Than ICE, Notes He s Glad James Bond Cast Very Heterosexual Male
-Sat, 21 Nov 2026 04:17:52 +0000 — https://deadline.com/2026/11/real-time-bill-maher-gta-vi-james-bond-cast-1237230827/
-
-After Grand Theft Auto VI and James Bond took over social media this week, Bill Maher has added his two cents to the discourse before going on hiatus. On Friday s Season 24 finale of Real Time, the comedian expressed his fascination with the giant cultural phenomenon following GTA VI s multi-billion dollar opening. No movie ever [ ]
-
-### Everything To Know About Presumed Innocent Season 2 As Apple Series Goes Anthology
-Sat, 21 Nov 2026 03:03:06 +0000 — https://deadline.com/feature/presumed-innocent-season-2-news-updates-1236568924/
-
-Apple TV+’s Presumed Innocent will be back for a second season, but Season 2 will diverge from the first installment. The legal drama series was renewed in July 2024 with its final two episodes still to launch on Apple TV+. Starting out as a limited series, the series will take on an anthology style like [ ]
-
-### ‘The Hunger Games: Sunrise On The Reaping’ Album Boasts 29 Songs; Releases Ahead Of Film
-Sat, 21 Nov 2026 02:55:51 +0000 — https://deadline.com/feature/hunger-games-sunrise-on-the-reaping-songs-soundtrack-album-1237165820/
-
-UPDATED, Nov. 20: The Hunger Games: Sunrise on the Reaping is finally here, full of both bleak torturous scenes and also hopeful ones. With a full companion album complete with many original songs inspired by the film and some Arena Remixes of certain artists hits, the songs in the film narrow down to a sparse [ ]
-
-### Palisades Fire Arson Suspect Convicted, Faces 40 Years In Prison
-Sat, 21 Nov 2026 01:50:00 +0000 — https://deadline.com/2026/11/palisades-fire-trial-verdict-1236967822/
-
-UPDATED, 5:50 PM: A Los Angeles jury has convicted the man charged with setting the smoldering fire that later flared up into Palisades Fire that devastated Pacific Palisades and Malibu in early 2025. Jonathan Rinderknecht, 30, was found guilty Friday of destruction of property by means of fire and arson affecting property used in interstate [ ]
-
-### Yellowjackets Stars Melanie Lynskey Christina Ricci On Misty s Plot To Save Themselves From Shauna: She ll Be The Downfall Of Everybody
-Sat, 21 Nov 2026 01:47:22 +0000 — https://deadline.com/2026/11/yellowjackets-melanie-lynskey-christina-ricci-misty-plot-1237230788/
-
-SPOILERS: This post contains details about the Yellowjackets Season 4 premiere episode Hivemind As the final season of Yellowjackets debuts, it appears the team could be prepping one last sacrifice to the wilderness. While discussing Friday s Season 4 premiere episode Hivemind with Deadline, Christina Ricci explained that the episode picks up shortly after the Season [ ]
-
-### Lanterns Star Aaron Pierre On DCU Future After Safran Gunn s DC Studios Exit: I m Very At Peace
-Fri, 20 Nov 2026 23:50:33 +0000 — https://deadline.com/2026/11/aaron-pierre-future-lanterns-safran-gunn-dc-studios-exit-1237230759/
-
-Aaron Pierre starred as John Stewart in the HBO DC Studios series Lanterns and was set to play him across the DC Universe. However, with Peter Safran and James Gunn no longer co-heads of DC Studios, the future of the world they were building seems uncertain. In a new interview, Pierre reacted to Safran [ ]
-
-### David Fincher Defends Use Of AI Amid Cliff Booth Criticism: Well, It Exists. Should We Not Use It?
-Fri, 20 Nov 2026 23:45:30 +0000 — https://deadline.com/2026/11/david-fincher-defends-ai-cliff-booth-criticism-1237230711/
-
-Although The Further Mis-Adventures of Cliff Booth is steeped with nostalgia for Hollywood’s past, David Fincher claims to represent the future. While many have criticized the Quentin Tarantino-penned sequel to Once Upon a Time in Hollywood (2019) for the apparent onscreen use of Gen AI, the 3x Oscar-nominated director recently shared his thoughts on the [ ]
-
-### Tech Stocks End Dismal Week On Harsh Note; Nasdaq Slides Another 5% And Is Now Flat For The Year
-Fri, 20 Nov 2026 23:24:03 +0000 — https://deadline.com/2026/11/tech-stocks-nasdaq-slides-ai-1237230137/
-
-A massive AI correction wreaked more havoc on Wall Street, ending one of the worst weeks in recent memory for the stock market and erasing all of the Nasdaq s gains for the year. About $4 trillion in market value was wiped out across the AI sector, with Sandisk, Micron, Seagate, Applied Digital, Broadcom, Nvidia, Dell, [ ]
 
 ## befores & afters
 
@@ -182,11 +182,6 @@ The making of Gollum by Weta Digital (now Wētā FX). This episode is sponsored 
 Thu, 19 Nov 2026 22:07:21 +0000 — https://beforesandafters.com/2026/11/20/cosa-breaks-down-its-backrooms-vfx/
 
 Watch their new reel for the film. The post CoSA breaks down its Backrooms VFX appeared first on befores & afters .
-
-### Stop-motion delights
-Thu, 19 Nov 2026 20:05:55 +0000 — https://beforesandafters.com/2026/11/20/stop-motion-delights/
-
-The making of stop-motion animated Arges and Bullethead by Tippett Studio, including some Star Wars-related Easter eggs to look out for. An excerpt from issue #68 of the magazine. In Star Wars history, Phil Tippett is a key player in the creation of so many pivotal characters, vehicles and sequences, especially in terms of stop-motion and puppet work. Memorable Tippett moments relate to the Dejarik holochess game, Tauntauns, walkers and the Rancor. His Tippett Studio has, in more recent times, been brought on board the Star Wars streaming series to contribute stop-motion animation (for the Trash Walkers in The Mandalorian series, B omarr monks in The Book of Boba Fett and Mama Crab in Skeleton Crew ). For The Mandalorian and Grogu , Tippett Studio realized the robotic Hutt Palace guards. “We knew in pre-production we wanted to do a sequence with Tippett,” shares Knoll. “The thing that stood out to me as relatively contained that was a really good choice was the Mando and Grogu fight with those droids. It s about two minutes long. It’s 36 shots. So it was kind of on the ambitious end, with two fairly complex characters. They re multi-limbed. Each one of them has three arms and they have all these moving pieces on them; moving parts on their heads, moving armor plates, and this moving skirt. In fact, the Tippett guys said it was the most complicated thing that they ve ever done, and it took a better part of a year to shoot.” “Part of Jon Favreau’s feeling is that stop-motion ha
 
 ## IndieWire
 
@@ -252,6 +247,26 @@ IndieWire debuts the premiere of an Oscar-eligible short from Zane Pais.
 
 ## The Wrap
 
+### Kaitlan Collins Explains Why She Missed Bill Maher’s ‘Real Time’ Season Finale
+Sat, 21 Nov 2026 19:57:11 +0000 — https://www.thewrap.com/creative-content/tv-shows/kaitlan-collins-misses-bill-maher-real-time-season-finale/
+
+CNN chief White House correspondent Kaitlan Collins missed the season finale of HBO s Real Time With Bill Maher on Friday because of President Donald Trump s White House press conference following his trip to China kept her in Washington, D.C. Collins had been announced as a panelist for the Nov. 20 episode alongside Democratic Texas Rep.-elect Bobby Pulido. However, by Thursday night, promotional materials for the show had removed her from the lineup and listed MS NOW correspondent Jacob Soboroff as her replacement. After The Daily Beast tweeted out The CNN star was quietly dropped from the lineup just hours after HBO announced her as a guest on Friday night, Collins took to X to address her absence on Saturday, explaining that her White House reporting responsibilities had prevented her from making the taping. Yes, because I was….at the White House for a press conference with the president. But Maher’s team was gracious and understanding and I can’t wait to watch the season finale! https://t.co/i4e3jKWKV7 &mdash; Kaitlan Collins (@kaitlancollins) November 21, 2026 Because the episode was taped in Los Angeles ahead of its Friday night broadcast, Collins was unable to do both as the press conference coincided with the show s production. Soboroff responded to Collins, tweeting, Was happy to hold it down in your stead. You were missed. was happy to hold it down in your stead. you were missed. &mdash; Jacob Soboroff (@jacobsoboroff) November 21, 2026 The scheduling change came a
+
+### The 3 Best Movies Free to Watch on YouTube This Week
+Sat, 21 Nov 2026 19:00:00 +0000 — https://www.thewrap.com/creative-content/what-to-watch/best-movies-free-on-youtube-this-week-nov-20-22/
+
+YouTube has a surprisingly strong library of movies that you can watch on its platform for free right now with ads. Some of the streamer s best current offerings include a 2005 spy comedy that feels now like a bit of a mid-2000s time capsule, as well as an underrated 2015 comedy starring Robert De Niro and Anne Hathaway. YouTube also currently hosts an early 2000s crime comedy from Raiders of the Lost Ark and Jaws filmmaker Steven Spielberg that ranks as one of the director s greatest and most under-appreciated films. Here are the best movies free on YouTube you can watch this week. Brad Pitt and Angelina Jolie in Mr. and Mrs. Smith (20th Century Fox) Mr. and Mrs. Smith (2005) If you want to indulge in some lighthearted action-movie fun this weekend, look no further on YouTube than Mr. and Mrs. Smith. Director Doug Liman s wry, delightfully over-the-top action comedy follows a successful married couple (Brad Pitt and Angelina Jolie) who learn that they are both secretly assassins separately employed by competing agencies. A cutthroat battle of life-and-death kicks off between the two until they are eventually forced to put their differences aside. Featuring a handful of clever, tongue-in-cheek action sequences and enough rom-com fun sprinkled throughout to bring a smile to your face, Mr. and Mrs. Smith is just a good time. No more, no less. The Intern (Warner Bros. Pictures) The Intern (2015) There are few 2010s comedies more underrated than The Intern. Written and directed b
+
+### Bryan Lourd Urges Congress to Pass NO FAKES Act as AI Cloning Threatens Celebrities and Creators Likeness
+Sat, 21 Nov 2026 18:28:59 +0000 — https://www.thewrap.com/industry-news/tech/bryan-lourd-ai-cloning-no-fakes-act-congress/
+
+Creative Artists Agency CEO Bryan Lourd is calling on Congress to pass federal legislation protecting people s voices and likenesses from unauthorized artificial intelligence replicas, arguing that existing copyright and licensing principles should extend to the AI era. In a New York Times opinion essay published Saturday, Lourd makes the case for the NO FAKES Act , legislation that would establish federal protections against the creation and distribution of unauthorized digital replicas of a person s voice or likeness. He argues that the issue is not whether Hollywood should embrace artificial intelligence, but whether individuals should have a say in how their identities are used by the technology. Lourd points to several examples of unauthorized AI impersonation, including a dental advertisement featuring a younger, AI-generated version of Tom Hanks, a content creator whose likeness was used in an advertisement for erectile dysfunction supplements and voice actors who discovered that recordings originally made for research purposes had been turned into commercial voice clones. The examples underscore a growing concern across the entertainment business, as generative AI makes it increasingly easy to reproduce someone s appearance, voice and performance, making exploitation easy. Lourd says the solution does not require Congress to create an entirely new legal framework. Instead, he argues that existing principles governing copyright, contracts and licensing can be applied t
+
+### Hunger Games: Sunrise on the Reaping Becomes Lionsgate s First $100 Million-Plus Opening Since 2015
+Sat, 21 Nov 2026 16:02:33 +0000 — https://www.thewrap.com/culture-lifestyle/culture/hunger-games-sunrise-on-the-reaping-saturday-box-office/
+
+Lionsgate s The Hunger Games: Sunrise on the Reaping is deadlifting the box office this weekend, accounting for an estimated 70% of all box office business as it has earned a $56 million opening day including $21 million from previews and is en route to a $120 million-plus opening weekend from 4,018 locations. Unadjusted for inflation, this would stand as Lionsgate s third or fourth highest opening weekend ever, depending on whether it tops the $121 million opening of The Hunger Games: Mockingjay Part 1 in 2014. It also marks the first time Lionsgate has had a $100 million-plus opening since Mockingjay Part 2 opened to $102 million in 2015, though Lionsgate s earlier 2026 film Michael came close with $97 million. While it is possible that this will be a frontloaded film driven primarily by longtime Hunger Games fans, theater owners are turning to Sunrise on the Reaping to be one of the pillars of next weekend s Thanksgiving box office with secondary support from Disney s Hexed, which is projected for a 5-day opening of $45-55 million from a primarily family audience. Fans have given the film a 95% Rotten Tomatoes audience score and an A- on CinemaScore, the latter of which is higher than the B+ for the 2023 prequel The Ballad of Songbirds and Snakes, which opened to a far lower $44.6 million but legged out to a $166 million domestic run. Elsewhere, Amazon MGM s I Play Rocky has expanded nationwide to 2,447 locations and is earning an estimated $9.3 million wide opening. Starr
+
 ### Jennifer Lopez Laments Not Having ‘Bigger Marketing Budget’ for ‘Kiss of the Spider Woman’
 Sat, 21 Nov 2026 06:33:59 +0000 — https://www.thewrap.com/creative-content/movies/jennifer-lopez-laments-not-having-bigger-marketing-budget-for-kiss-of-the-spider-woman/
 
@@ -282,75 +297,55 @@ Sat, 21 Nov 2026 02:25:13 +0000 — https://www.thewrap.com/industry-news/public
 
 A jury on Friday found a man guilty for starting the deadly January 2025 Palisades Fire that killed 12 people and destroyed 6,000 home and structures. Jonathan Rinderknecht was convicted on two federal counts: destruction of property by means of fire, and arson affecting property used in interstate commerce. Prosecutors used surveillance camera footage of Rinderknecht driving through the Pacific Palisades region prior to the fire to build their case. They also argued that DNA from a green BIC barbeque lighter matched his DNA. Friday s conviction comes after Rinderknecht s first federal trial was declared a mistrial five months prior. Back in June, a jury informed U.S. District Judge Anne Hwang that it was deadlocked on all three felony counts against Rinderknecht with 10 jurors favoring acquittal, according to media reports. His retrial began with jury selection on Nov. 2. A verdict was reached 18 days later. The Los Angeles Fire Department issued their thanks jurors on Friday. We respect the jury s work and the long, difficult process that brought us to today s verdict, LAFD wrote in a statement. “Our first thought remains with the families of those we lost and for everyone in our community whose lives were changed by this fire,” the statement continued. “No verdict, however important, could ever undo that loss. Because the criminal sentencing and related civil matters remain pending, we will not comment further at this time. Rinderknecht will be sentenced on March 17, 2027.
 
-### SAG-AFTRA Launches Universal Healthcare Group to Lobby for Affordable Member Plans
-Sat, 21 Nov 2026 01:40:15 +0000 — https://www.thewrap.com/industry-news/labor-unions/sag-aftra-universal-healthcare-task-force-launch/
-
-SAG-AFTRA announced Friday the formation of the President’s Healthcare Task Force in an effort to better lobby on behalf of its members for universal healthcare as prices spike nationwide. The task force will advocate to advance universal access to affordable, comprehensive and reliable health care, according to the union s release. “This is a critical moment, where both our members and the public at large can no longer wait for relief from a broken healthcare system, SAG-AFTRA President Sean Astin said. Our SAG-AFTRA Health Plan is healthy and strong, but a substantial majority of our members do not qualify. For our members who don’t qualify, there is very little that can be done to provide coverage. SAG-AFTRA has supported efforts to expand healthcare for all through the AFL-CIO. This Taskforce seeks a new level of participation in the national movement to expand care for everyone, he added. We will actively engage with policymakers, gather allies and provide a structured way for our members to participate formally in the process. The President’s Healthcare Taskforce will be an instrument of support in the movement for universal healthcare. Many SAG-AFTRA members have not been able to meet minimums this year to be eligible for healthcare through the union. The board will work together to ensure that the acting community is advocated for, the announcement read. Earlier this fall, Astin responded to growing frustration from union members that found it difficult to pay members
-
-### Yes, Dear Actor Anthony Clark s Cause of Death Revealed
-Sat, 21 Nov 2026 01:08:14 +0000 — https://www.thewrap.com/culture-lifestyle/culture/yes-dear-actor-anthony-clark-cause-of-death-revealed/
-
-Anthony Clark s official cause of death has been revealed. The Yes, Dear actor died of septic shock on Nov. 10 at age 63, according to a death certificate obtained by People . Influenza A and chronic alcoholism were listed as the cause of death on the certificate with underlying conditions. Acute kidney failure was identified as a significant contributing factor. Clark s death was confirmed by his Yes, Dear co-star Mike O Malley on Nov. 11. “Anthony Clark died yesterday. He was a hilarious guy,” O’Malley wrote on X . “When my wife Lisa and I were dating back in the mid-nineties, Anthony was already famous in Boston, regularly selling out comedy shows. The first time we saw him at The Comedy Connection we laughed and laughed and laughed.” Anthony Clark died yesterday. He was a hilarious guy. When my wife Lisa and I were dating back in the mid-nineties, Anthony was already famous in Boston, regularly selling out comedy shows. The first time we saw him at The Comedy Connection we laughed and laughed and laughed. He… pic.twitter.com/4IDPabBk8U &mdash; Mike O'Malley (@TheMikeOMalley) November 11, 2026 “He was so unique—one of those comics who is laughing along with you at the absurdity of his stories and observations, O Malley added. I was a fan before I was a friend.” Clark starred as Gregory Warner on all six seasons of the CBS sitcom from 2000 to 2006. Along with O Malley, Yes, Dear also starred Jean Louisa Kelly and Liza Snyder. Clark, who started his career as a stand-up come
-
-### The Governors Awards Signal Bold Fashion Ahead for Hollywood s Awards Season
-Sat, 21 Nov 2026 01:03:19 +0000 — https://www.thewrap.com/culture-lifestyle/fashion/governors-awards-fashion-highlights-charlize-theron-wrapstyle/
-
-The Governors Awards signal bold fashion ahead for Hollywood s awards season, with Charlize Theron leading the charge in Tom Ford. A new San Francisco museum exhibition explores Azzedine Alaïa s enduring relationships with art and the celebrities who loved him. Supermodel Carolyn Murphy brings her understated elegance to a holiday-ready collaboration with La DoubleJ. And Dior partners with Sundance to champion the next generation of women filmmakers, joining the growing movement of luxury brands supporting talent behind the camera. Charlize Theron wearing a Tom Ford gown at the 17th Governors Awards at Dolby Theatre on Nov. 15, 2026 in Hollywood, California. Source: Getty Governors Awards Red Carpet Signals Bolder Awards Season Ahead And we re off! The Oscars may be months away, but Hollywood s red carpet hit parade is already upon us. The Academy of Motion Picture Arts and Sciences annual Governors Awards marked the beginning of awards season on Sunday, bringing A-listers, contenders and industry power players together with Academy voters to mix and mingle ahead of the nominations. Tessa Thompson wearing Schiaparelli Fall 2026 couture. Source: Getty Held at the Ray Dolby Ballroom in Hollywood, the ceremony honored eight-time Oscar nominee Glenn Close, director Ridley Scott and Floyd Norman, Disney s first Black animator, with honorary Academy Awards. Independent producers Christine Vachon and Pamela Koffler, the team behind Carol and Past Lives, among other films, received t
-
-### Derval Whelan Exits Searchlight as Head of US Distribution After 17 Years
-Sat, 21 Nov 2026 00:07:45 +0000 — https://www.thewrap.com/creative-content/movies/derval-whelan-retires-searchlight/
-
-After a 17-year run at Searchlight Pictures, Derval Whelan is set to retire at the end of the month from her role as U.S. Head of Distribution, TheWrap has learned. The specialty label will announce the industry vet s replacement imminently. Whelan’s tenure with the specialty studio extends back 20 years — with a brief break between 2021 and 2023 when she worked as President of Distribution at Bleecker Street. Her run began with “Little Miss Sunshine,” and includes such award-winning titles as “12 Years a Slave,” “Three Billboards Outside Ebbing, Missouri,” “The Shape of Water,” “Birdman,” “127 Hours” and “Slumdog Millionaire.” Searchlight garnered 18 Best Picture Oscar nominations during Whelan’s time with the studio; in total, they received 161 Oscar nominations and 45 wins. Before Searchlight, Whelan held positions at Sony Pictures Classics, Miramax, MK2 USA and Orion Classics. Searchlight Pictures currently has “Wild Horse Nine” from director Martin McDonagh playing in theaters. The film has grossed $30 million worldwide In his review of the film, The Wrap s William Bibbiani wrote : It’s not a crime that Martin McDonagh’s “ Wild Horse Nine ” isn’t as funny or touching as his Oscar-nominated crime comedy “In Bruges,” or as acidic and fascinating as the Coen Brothers’ “Burn After Reading.” But if it was a crime, McDonagh would find a way to forgive it. The director of “Three Billboards Outside Ebbing, Missouri” and “Seven Psychopaths” has an enduring love for wrong-doers an
-
 ## Collider
 
-### 9 Years Ago, Jon Bernthal Teamed With Taylor Sheridan to Deliver His Most Devastating Performance
-Sat, 21 Nov 2026 12:53:12 GMT — https://collider.com/jon-bernthal-best-performance-taylor-sheridan-wind-river/
+### George R.R. Martin Can’t Get Enough of This 2-Part Sci-Fi Masterpiece Streaming Now
+Sat, 21 Nov 2026 20:09:12 GMT — https://collider.com/george-rr-martin-favorite-sci-fi-series-andor-masterpiece-stream-now/
 
-Jon Bernthal is known for his gun-toting, intense characters, but one of his best depictions of masculinity was only for a few scenes of screen time in Taylor Sheridan ’s masterpiece, Wind River . After writing Sicario and Hell or High Water , Sheridan directed his own feature film that takes on yet another strictly American issue. The neo-Western takes place on the titular Indian Reservation, following the sudden death of a young Indigenous woman, Natalie ( Kelsey Asbille ). Statistics about crimes against this demographic do not exist, which is the stark point Wind River makes.
+When one master storyteller praises the work of another, it would be wise to check out what all the buzz is about. For A Song of Ice and Fire 's George R.R. Martin , an Emmy-nominated sci-fi series recently caught the attention of the Game of Thrones author, who called it 2025's biggest "highlight." Andor , the acclaimed Star Wars spin-off from Tony Gilroy , has done something rare in a franchise known for its mythic scale and grand scope. The Disney+ series is something altogether different: intimate, political, and unflinchingly honest.
 
-### Jon Bernthal’s 6-Episode Noir Crime Thriller Deserved a Better Fate
-Sat, 21 Nov 2026 12:47:12 GMT — https://collider.com/jon-bernthal-noir-crime-thriller-mob-city-deserved-better/
+### Alan Ritchson’s ‘Reacher’ Season 5 Is Just Weeks Away From a Major Milestone
+Sat, 21 Nov 2026 20:00:12 GMT — https://collider.com/reacher-season-5-filming-wrap-december-alan-ritchson/
 
-The classic noir detective comes with three staples: a gun, a smoking habit, and a three-piece suit. While many actors have taken on the role, few embody it quite like Jon Bernthal in TNT’s Mob City . Based on John Buntin ’s book L.A. Noir: The Struggle for the Soul of America’s Most Seductive City , the series captures the murky criminal underworld of 1947 Los Angeles , where a fictionalized version of notorious gangster Mickey Cohen rules the streets.
+Alan Ritchson has made a pretty successful career out of playing a man who walks into a town, discovers something terrible is happening, and proceeds to beat up virtually everyone responsible. It's a formula that has worked extremely well for Prime Video 's Reacher , which has become one of the streamer's biggest action shows. With three seasons already available and another on the way, there's certainly no shortage of material to adapt from Lee Child 's bestselling novels. In fact, the team is already getting close to finishing work on another season before viewers have even seen the next one.
 
-### ‘Game of Thrones’ Creator’s Box Office Bomb Officially Makes Streaming History
-Sat, 21 Nov 2026 12:45:12 GMT — https://collider.com/george-rr-martin-in-the-lost-lands-global-streaming-success-prime-video-november-2026/
+### Netflix Is Officially Removing Cillian Murphy’s Forgotten WWII Thriller
+Sat, 21 Nov 2026 19:31:12 GMT — https://collider.com/anthropoid-cillian-murphy-leaving-netflix-december-2026/
 
-Best known for his work writing A Song of Ice and Fire , the series of novels that inspired the hit HBO series, Game of Thrones , George R. R. Martin is also involved in plenty of other important projects. Martin wrote the acclaimed series of short stories around the characters known as Dunk and Egg that inspired the second Game of Thrones spin-off, A Knight of the Seven Kingdoms , which is set to return in the first half of 2027 with its second season. He even penned A Song of Fire and Blood , which was the inspiration behind the first Game of Thrones spin-off, House of the Dragon , which is returning in 2028 with its final season. He even produces the hit AMC+ Western series, Dark Winds , which has quietly become one of streaming's most-watched shows in the last few years.
+After winning an Oscar for his performance in Oppenheimer , Cillian Murphy has made some interesting choices. His first post-Oscar movie was a quiet psychological drama set in his home country of Ireland: Small Things Like These . He followed it up with two Netflix films, the crime drama Peaky Blinders: The Immortal Man and the character study Steve .
 
-### Ridley Scott’s Sci-Fi Masterpiece Is Officially Being Removed From Netflix
-Sat, 21 Nov 2026 12:30:12 GMT — https://collider.com/alien-ridley-scott-leaving-netflix-december-2026/
+### Billy Bob Thornton's New Gritty Drama Could Be the Perfect 'Landman' Replacement
+Sat, 21 Nov 2026 19:28:12 GMT — https://collider.com/billy-bob-thornton-gritty-drama-mayflower-landman-replacement/
 
-This year, two major directors made long-awaited returns to the genre they are most closely associated with: sci-fi. First out of the gate was Steven Spielberg , who released Disclosure Day — his first new sci-fi film since 2018. The movie grossed around $250 million worldwide against a reported budget of $130 million and received mostly positive reviews.
+Fans of Taylor Sheridan ’s Landman may be disappointed that the series won’t be returning for its usual November release window in 2026, but Billy Bob Thornton has another project on the way. With Thanksgiving around the corner, Thornton is taking a break from Tommy Norris' crisis-management duties at M-Tex Oil and stepping into an unexpected new role .
 
-### ‘Marshals’ Officially Addresses Tragic Real-Life ‘Yellowstone’ Death
-Sat, 21 Nov 2026 12:20:38 GMT — https://collider.com/marshals-cole-brings-plenty-tribute-mo-brings-plenty/
+### Sydney Sweeney’s R-Rated Sequel Officially Begins Its Next Chapter
+Sat, 21 Nov 2026 19:00:12 GMT — https://collider.com/sydney-sweeney-the-housemaids-secret-sequel-filming-update/
 
-The Yellowstone universe has never been short on tragedy, but sometimes the stories told on screen have heartbreaking connections to real life. Mo Brings Plenty has been part of Taylor Sheridan 's franchise since the original series began in 2018, playing one of the people Kayce Dutton has always been able to trust . His character has continued into Marshals , where the relationship between Mo and Kayce remains an important part of the show. However, the latest episode gave Brings Plenty a chance to tell a story that was far more personal than anything he had previously filmed.
+Sydney Sweeney has certainly been keeping herself busy, and one of her biggest recent hits is already getting a follow-up. The Euphoria star has spent the last few years moving between romantic comedies, horror movies, and thrillers, with plenty of attention following her wherever she goes. Her latest franchise has given her another chance to play a character who discovers that working for wealthy people can be a very dangerous business. And judging by the speed at which the sequel has moved forward, audiences won't be waiting around forever to see what happens next.
 
-### The 10 Most Hopeless American TV Shows of All Time, Ranked
-Sat, 21 Nov 2026 12:14:12 GMT — https://collider.com/most-hopeless-american-tv-shows-all-time-ranked/
+### 8 Most Perfect Movies of the Last 6 Years, Ranked
+Sat, 21 Nov 2026 18:57:12 GMT — https://collider.com/most-perfect-movies-last-six-years-ranked/
 
-There's a particular kind of television tragedy that follows you into the next morning. You're making coffee, answering messages, doing something completely ordinary, and suddenly you remember a fictional character who deserved a better life. Maybe they escaped the terrible situation. Maybe they even won.
+The world has changed quite a lot over the last six years, with ups and downs in every facet of human existence, but during all that time, there’s been one thing we can all agree has been as great as ever: the movies . Sure, there have been plenty of terrible movies made in the 2020s , but there have also been some truly amazing works of art — films that transcend their time, place, and medium to deliver powerful messages that become an indelible part of our shared culture.
 
-### Brandon Sanderson Officially Confirms Major ‘Stormlight Archive’ Update
-Sat, 21 Nov 2026 12:00:12 GMT — https://collider.com/brandon-sanderson-stormlight-archive-book-6-writing-timeline/
+### ‘Rosemary’s Baby’ Meets ‘The Fly’ in a New Body Horror Thriller Officially Out Now
+Sat, 21 Nov 2026 18:30:12 GMT — https://collider.com/pinfeathers-christina-henry-body-horror-thriller-release/
 
-The last time Brandon Sanderson took readers to Roshar for a full-length Stormlight Archive novel, he gave them an ending and a fairly long wait . Wind and Truth closed out the first five-book arc in December 2024. When the story picks up again, roughly a decade will have passed for the people who live on Roshar. The question for readers has been how many of those years they’ll have to sit through themselves.
+Nora Pacetti figures her daughter is teething. It would explain the screaming, and by bath time, Olivia seems happy enough. There’s still the matter of what looks like a splinter in her arm , though Nora can’t think where a baby would have picked one up. Her mother, Giulia, gets a good look while she’s toweling off her granddaughter and asks Nora to run downstairs for her reading glasses. Of all the things a grandmother might find on a changing table, an incoming feather takes some explaining .
 
-### These 8 Single-Season Fantasy Shows Are Masterpieces
-Sat, 21 Nov 2026 11:52:12 GMT — https://collider.com/fantasy-shows-single-season-masterpieces/
+### The 8 Most Challenging Books To Read That Are 100% Worth It
+Sat, 21 Nov 2026 18:09:12 GMT — https://collider.com/most-challenging-books-read-worth-it/
 
-Fantasy TV is greatly known for thriving on sprawling worlds and long-running sagas, multi-season chaos that offers thrilling character journeys . But sometimes the genre produces rare and fantastic hits that deliver just a single season. That one-season hit often wields an unforgettable story with ambitious themes, striking visual direction, and an emotionally satisfying arc—even when it concludes on a slight cliffhanger.
+Many things can make a book challenging to read . Perhaps it's because their use of language is deliberately labyrinthine or jargon-heavy, because their narrative structure feels almost surreal, or because a lot of background knowledge is required to fully understand the story. In any case, there have been innumerable great-yet-difficult books written over the years , and it just so happens that quite a few of them are among the best books ever written.
 
-### Tom Hanks’ Acclaimed WWII Miniseries Officially Celebrates a Streaming Milestone
-Sat, 21 Nov 2026 11:30:12 GMT — https://collider.com/wwii-with-tom-hanks-streaming-success-apple-tv-150-days-november-2026/
+### 10 Netflix Detective Shows With Brilliant Mysteries, Ranked
+Sat, 21 Nov 2026 18:04:12 GMT — https://collider.com/netflix-detective-shows-with-best-mysteries-ranked/
 
-It's no secret that Tom Hanks is one of the biggest movie stars in the world, and although he's now 70 years old, he's showing no signs of slowing down in this later stage of his career. Hanks is a two-time Oscar-winner for his performances in Philadelphia and Forrest Gump , and he's also been nominated plenty of other times in his career for other daring projects like Saving Private Ryan . Saving Private Ryan is one of the many exceptional WWII projects Hanks has given to the genre over the years, but most would agree it features one of the best performances of his entire career, even if he ultimately lost the Oscar. Another Tom Hanks WWII project that immediately comes to mind is Band of Brothers , the 2000 miniseries that he produced along with Steven Spielberg .
+Most great detective shows do far more than just introduce a crime and follow the investigators as they dig deep into it. The best quality series of the genre wield mysteries that are carefully constructed, filled with unexpected connections, hidden motives, suspicious characters, and small details that eventually become so important they cause viewers to think twice. On the Netflix platform, there are plenty of excellent detective series that take different, more unique approaches to their mysteries as they deliver quite the entertaining investigative story.
 
-### ‘Project Hail Mary’ Almost Had a Completely Different Ending for Rocky
-Sat, 21 Nov 2026 11:15:12 GMT — https://collider.com/project-hail-mary-rocky-james-ortiz-puppeteer-interview/
+### Matt Damon’s 172-Minute War Epic Is Officially Returning to Theaters
+Sat, 21 Nov 2026 17:53:12 GMT — https://collider.com/matt-damon-best-war-epic-the-odyssey/
 
-In a historic move, actor and puppeteer James Ortiz is eligible for a Best Supporting Actor nomination at the 99th Academy Awards for his standout performance on Project Hail Mary . He’s the mind and movement behind the blockbuster’s lovable alien creature, Rocky, who led a team of puppeteers on set, essentially performing “ Waiting for Godot in space” opposite Ryan Gosling with take after take of improvisation.
+There should be no doubt that 2026 was the year for movies . Every few months delivered the next big thing, from sci-fi to drama to war movies. One of the most anticipated was The Odyssey , a new feature from Christopher Nolan that may be considered his magnum opus in years to come. Finally dispensing with the dead wife narrative, he wrote an emotionally compelling part for Anne Hathaway while also adapting one of the most famous stories ever told.
 
