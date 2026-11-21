@@ -1,6 +1,46 @@
-# Manga — harvested 2026-11-20T21:31:45.261Z
+# Manga — harvested 2026-11-21T13:00:09.424Z
 
 ## Anime News Network
+
+### Japanese Animation TV Ranking, November 9-15
+Sat, 21 Nov 2026 07:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-21/japanese-animation-tv-ranking-november-9-15/.244015
+
+<cite>The Apothecary Diaries</cite> season 3 earns 4.0% rating
+
+### Doraemon Anime's 1-Hour New Year's Special to Feature New Tool
+Sat, 21 Nov 2026 06:05:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-21/doraemon-anime-1-hour-new-year-special-to-feature-new-tool/.244050
+
+Special will adapt "secret tool memo" from Fujiko F. Fujio currently on display at Fujiko F. Fujio Museum
+
+### 'May I Ask for One Final Thing?' Novel Series Ends in 8th Volume
+Sat, 21 Nov 2026 05:05:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-21/may-i-ask-for-one-final-thing-novel-series-ends-in-8th-volume/.244044
+
+Franchise inspired anime adaptation that debuted in October 2025
+
+### 'Please Put Them On, Takamine-san' Manga Ends in January
+Sat, 21 Nov 2026 04:05:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-21/please-put-them-on-takamine-san-manga-ends-in-january/.244048
+
+Series inspired anime adaptation in April 2025
+
+### Suu Morishita's A Sign of Affection Manga Ends in 3 Chapters
+Sat, 21 Nov 2026 03:00:22 -0500 — https://www.animenewsnetwork.com/news/2026-11-21/suu-morishita-a-sign-of-affection-manga-ends-in-3-chapters/.244046
+
+Manga inspired anime adaptation that debuted in January 2024
+
+### What Sailor Moon Fans Can Buy (& Eat) at Universal Studios Japan
+Fri, 20 Nov 2026 23:59:00 -0500 — https://www.animenewsnetwork.com/interest/2026-11-20/what-sailor-moon-fans-can-buy-at-universal-studios-japan/.244008
+
+Grab your Universal Heart Compact and “Moon Cosmic, Make-up!”
+
+### Uniqlo Unfurls New Studio Ghibli T-Shirts
+Fri, 20 Nov 2026 23:00:00 -0500 — https://www.animenewsnetwork.com/interest/2026-11-20/uniqlo-unfurls-new-studio-ghibli-t-shirts/.244028
+
+Show off your Ghibli love with the new collection
+
+### North American Anime, Manga Releases, November 15-21
+Fri, 20 Nov 2026 17:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-20/north-american-anime-manga-releases-november-15-21/.243879
+
+<cite>Jujutsu Kaisen: Hidden Inventory / Premature Death – The Movie</cite> anime; <cite>BECK, Heroes, Love is Money</cite> manga ship
 
 ### This Week in Games - Cleaning Bots, Ocarina Thoughts, and Sonic's 35th Anniversary
 Fri, 20 Nov 2026 15:58:32 -0500 — https://www.animenewsnetwork.com/this-week-in-games/2026-11-20/cleaning-bots-ocarina-thoughts-and-sonic-35th-anniversary/.243880
@@ -22,51 +62,31 @@ Fri, 20 Nov 2026 12:00:00 -0500 — https://www.animenewsnetwork.com/review/over
 
 Every time I finish a volume of <i>Overgeared</i>, I think the same thing: <i>Grid's a jerk, but…</i>. It's hard to say whether this is a feature or a bug.
 
-### Duel Masters LOST Anime Gets 5th Part
-Fri, 20 Nov 2026 11:46:21 -0500 — https://www.animenewsnetwork.com/news/2026-11-20/duel-masters-lost-anime-gets-5th-part/.244025
-
-Manga's 5th part <cite>Duel Masters LOST ~Shitsuraku no Duel~</cite> debuted on September 17
-
-### BanG Dream! Yume∞Mita Series Confirms New Anime in Production
-Fri, 20 Nov 2026 10:59:17 -0500 — https://www.animenewsnetwork.com/news/2026-11-20/bang-dream-yume-mita-series-confirms-new-anime-in-production/.244026
-
-TV anime based on BanG Dream! project's Mugendai Mewtype band premiered on July 2
-
-### FX Fighter Kurumi-chan ‒ Episode 8
-Fri, 20 Nov 2026 10:30:00 -0500 — https://www.animenewsnetwork.com/review/fx-fighter-kurumi-chan/episode-8/.244010
-
-After all her insistence that she's not to be imitated or given responsibility or blamed, it is following Kurumi's examples of "borrowing" for investments that's led her protege here. Mebuki learned it by watching her.
-
-### Crunchyroll Streams My Hero Academia The Movie: World Heroes' Mission Anime
-Fri, 20 Nov 2026 09:50:53 -0500 — https://www.animenewsnetwork.com/news/2026-11-20/crunchyroll-streams-my-hero-academia-the-movie-world-heroes-mission-anime/.244023
-
-Film opened in August 2021 in Japan
-
-### Reincarnated as a Sword Season 2 ‒ Episode 8
-Fri, 20 Nov 2026 09:30:00 -0500 — https://www.animenewsnetwork.com/review/reincarnated-as-a-sword-season-2/episode-8/.243973
-
-In the name of efficiency, I'm fine with this being a way to get Teacher, Fran, and the others into prison so that they can then get broken out of prison by new characters.
-
-### Maison and the Man-Eating Apartment Manga Ends in Next Chapter
-Fri, 20 Nov 2026 09:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-20/maison-and-the-man-eating-apartment-manga-ends-in-next-chapter/.244004
-
-Kuu Tanaka, Akima launched manga in March 2025; English version available on Manga Plus
-
-### Planning the Cosmic Era with Mobile Suit Gundam Seed FREEDOM ZERO Producer Kaori Shida
-Fri, 20 Nov 2026 09:00:00 -0500 — https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-new-york-comic-con/planning-the-cosmic-era-with-mobile-suit-gundam-seed-freedom-zero-producer-kaori-shida/.243502
-
-Shida shares insights into what to expect from the upcoming film and how it fits into the broader Gundam Seed universe.
-
-### Combining Titillation and Tiles, a Brief History of Strip Mahjong
-Fri, 20 Nov 2026 09:00:00 -0500 — https://www.animenewsnetwork.com/feature/2026-11-20/combining-titillation-and-tiles-a-brief-history-of-strip-mahjong/.243845
-
-Big-brained developers had an idea: riichi mahjong is readily available, but what if we add an often lucrative lure: what if you could see attractive anime women naked by winning?
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Tamon's B-Side Gets Season 2
+Sat, 21 Nov 2026 10:24:22 GMT — https://animecorner.me/tamons-b-side-gets-season-2/
+
+Tamon’s B-Side anime is getting a Season 2. An announcement trailer was also revealed&hellip;
+
+### Total Fantasy Knockout (Fabiniku) Manga To End With 20th Volume
+Sat, 21 Nov 2026 03:28:26 GMT — https://animecorner.me/total-fantasy-knockout-fabinikumanga-to-end-with-20th-volume/
+
+The 19th volume of the Life with an Ordinary Guy Who Reincarnated into a&hellip;
+
+### An Umamusume X Denver Broncos Collab Gallops Towards Colorado
+Sat, 21 Nov 2026 01:20:37 GMT — https://animecorner.me/an-umamusume-x-denver-broncos-collab-gallops-towards-colorado/
+
+Horse girls are invading Denver, Colorado! An Umamusume x Denver Broncos collaboration is coming&hellip;
+
+### Interview: Mexican Artist Ekns on His Origins, Anime Murals, and Graffiti Culture
+Fri, 20 Nov 2026 22:35:29 GMT — https://animecorner.me/interview-mexican-artist-ekns-on-his-origins-anime-murals-and-graffiti-culture/
+
+If you're an otaku with a penchant for street art, you already know Ekns,&hellip;
 
 ### BanG Dream! Yume∞Mita Gets New Anime Series
 Fri, 20 Nov 2026 13:38:21 GMT — https://animecorner.me/bang-dream-yumemita-gets-new-anime-series/
@@ -78,17 +98,17 @@ Fri, 20 Nov 2026 12:30:00 GMT — https://animecorner.me/fall-2026-anime-ranking
 
 Firefly Wedding has won its first weekly poll of Fall 2026, taking 12.62% of&hellip;
 
-### Interview: Gintama: Yoshiwara in Flames Arc Movie Director Naoya Ando and Producer Ryo Nakamura on the Adaptation Process and Gintama's Appeal
-Wed, 18 Nov 2026 23:11:40 GMT — https://animecorner.me/interview-gintama-yoshiwara-in-flames-arc-2026-director-naoya-ando-and-producer-ryo-nakamura-on-the-adaptation-process-and-gintamas-appeal/
-
-During their visit to Lucca Comics & Games promoting the anime film Gintama: Yoshiwara&hellip;
-
-### Atomic Pixel Brings Miku Expo Afterparty to Madrid and Lisbon
-Wed, 18 Nov 2026 21:50:22 GMT — https://animecorner.me/atomic-pixel-brings-miku-expo-afterparty-to-madrid-and-lisbon/
-
-Atomic Pixel Party, an event organizer focused on anime and geek culture themed parties,&hellip;
-
 ## MyAnimeList News
+
+### Tamon-kun Ima Docchi!? Second Season in Production
+Sat, 21 Nov 2026 02:26:00 -0800 — https://myanimelist.net/news/74964214?_location=rss
+
+The F/ACE First Live Nautical Star event for the television anime adaptation of Yuki Shiwasu s Tamon-kun Ima Docchi!? (Tamon s B-Side) manga announced a second season on Saturday. The official X account for manga works also revealing an announcement visual (pictured). Produced by J.C.Staff, the anime aired for 13 episodes in Winter 2026. Crunchyroll streamed the series with subtitles in multiple languages and an English dub. Shiwasu originally published the idol-themed romantic comedy...
+
+### Manga Yubisaki to Renren Ends in Three Chapters
+Fri, 20 Nov 2026 23:38:06 -0800 — https://myanimelist.net/news/74963930?_location=rss
+
+The official X (formerly Twitter) account of Dessert magazine announced on Saturday that Suu Morishita s Yubisaki to Renren (A Sign of Affection) manga will end in three chapters. The 63rd chapter will mark the manga s conclusion. Morishita began serializing the romance manga in Dessert magazine in July 2019. The manga went on hiatus in June 2021 due to Morishita giving birth, and resumed serialization in November of the same year. Kodansha published the 14th volume on May 13, with the...
 
 ### Tougen Anki: Nikko Kegon no Taki-hen Unveils Additional Cast
 Fri, 20 Nov 2026 09:44:20 -0800 — https://myanimelist.net/news/74961958?_location=rss
@@ -110,7 +130,7 @@ Fri, 20 Nov 2026 06:41:52 -0800 — https://myanimelist.net/news/74961509?_locat
 
 The 3rd Anniversary livestream event of Mugendai MewType announced a new anime for BanG Dream! Yume&infin;Mita television anime on Friday. Produced by Nichicaline, the 13-episode series aired in Summer 2026. Crunchyroll streamed the anime in English subtitles. The first television anime of the multimedia franchise, abbreviated as Bandori, was produced by Xebec and Issen in Winter 2017. A second season by SANZIGEN premiered in Winter 2019, followed by a third season in Winter 2020. The BanG Drea...
 
-### Manga Jimoto no Ijimekko-tachi ni Shikaeshi Shiyou to Shitara, Betsu no Tatakai ga Hajimatta. Gets TV Anime in 2027
+### Manga Jimoto no Ijimekko-tachi ni Shikaeshi Shiyou to Shitara, Betsu no Tatakai ga Hajimatta. Gets TV Anime in 2027 [Update 11/21]
 Fri, 20 Nov 2026 01:42:04 -0800 — https://myanimelist.net/news/74960793?_location=rss
 
 An official website opened for a television anime adaptation of Kengo Matsumoto s Jimoto no Ijimekko-tachi ni Shikaeshi Shiyou to Shitara, Betsu no Tatakai ga Hajimatta. (When Trying to Get Back at the Hometown Bullies, Another Battle Began) manga on Friday, revealing the main staff and a teaser visual (pictured). The anime will premiere in 2027. Staff Director: Chihiro Kumano (Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2) Series Composition: Kazuho Hyoudou (Kekkon...
@@ -118,7 +138,7 @@ An official website opened for a television anime adaptation of Kengo Matsumoto 
 ### Pen to Wappa to Jijitsukon Unveils Additional Cast, Staff, Theme Songs, First Promo
 Fri, 20 Nov 2026 01:05:24 -0800 — https://myanimelist.net/news/74960710?_location=rss
 
-The official website of the Pen to Wappa to Jijitsukon (A Pen, Handcuffs, and a Common-Law Marriage) television anime unveiled additional cast, staff, the theme songs, a key visual (pictured), and first promotional video on Friday. The anime series adapting Shinichi Sawaragi and Tank Gasuyama s comedy mystery manga will premiere on January 10 at 1:00 a.m. on Tokyo MX, followed by BS11. Cast Wataru Kashima: Yuusuke Kobayashi (Re:Zero kara Hajimeru Isekai Seikatsu) Hina Haruyama: Sumire Moroh...
+The official website of the Pen to Wappa to Jijitsukon (A Pen, Handcuffs, and a Common-Law Marriage) television anime unveiled additional cast, staff, the theme songs, a key visual (pictured), and first promotional video on Friday. The anime series adapting Shinichi Sawaragi and Tank Gasuyama s comedy mystery manga will premiere on January 10 at 1:00 a.m. on Tokyo MX, followed by BS11. Cast Wataru Kashikojima: Yuusuke Kobayashi (Re:Zero kara Hajimeru Isekai Seikatsu) Hinade Haruyama: Sumire...
 
 ### Additional Cast for Zombie no Afureta Sekai de Ore dake ga Osowarenai Announced
 Thu, 19 Nov 2026 19:38:17 -0800 — https://myanimelist.net/news/74960147?_location=rss
@@ -135,34 +155,19 @@ Thu, 19 Nov 2026 08:22:13 -0800 — https://myanimelist.net/news/74958379?_locat
 
 The official website of Gensou Suikoden (Suikoden: The Anime) revealed additional cast on Wednesday. The anime series adapting Konami s fantasy role-playing game premiered on October 3 at 11.30 p.m. on Tokyo MX followed by Kansai TV, BS Asahi, and 32 other stations. Cast Makai: Ikuji Nose (Mob Psycho 100) Tai Ho: Masaki Ishimine Yam Koo: Hideyuki Kobayashi (Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki) Ridley: Takaya Kuroda (Mairimashita! Iruma-kun) Gaboc...
 
-### Shin Oishinbo Reveals Additional Cast, Staff, Main Promo, Winter 2027 Premiere
-Thu, 19 Nov 2026 02:26:56 -0800 — https://myanimelist.net/news/74957463?_location=rss
-
-The official website for the television anime adaptation of Tetsu Kariya s Oishinbo manga, titled Shin Oishinbo, revealed additional cast, staff, a key visual (pictured), and the main promotional video on Thursday. The anime is scheduled to premiere on TV Tokyo at 2 a.m. on January 5, 2027, followed by BS Asahi on January 10 at 1 a.m.. Cast Ichirou Dan: Daisuke Ono (Tefuda ga Oome no Victoria) Isamu Kinjou: Yasuaki Takumi (Tasogare Out Focus) Mariko Niki: Akane Fujita (Champignon no Majo)...
-
-### Boukensha License wo Hakudatsu sareta Ossan dakedo Unveils Additional Staff, Opening Theme, First Promo
-Thu, 19 Nov 2026 01:48:51 -0800 — https://myanimelist.net/news/74957381?_location=rss
-
-The official website of the Boukensha License wo Hakudatsu sareta Ossan dakedo, Manamusume ga Dekita node Nonbiri Jinsei wo Ouka suru (I Lost My Adventurer s License, but It s Fine Because I Have an Adorable Daughter Now) television anime unveiled additional staff, a key visual (pictured), the opening theme, and first promotional video on Thursday. The anime series adapting Manimani Ononata s adventure fantasy light novel is scheduled to premiere on January 8 at 12.00 a.m. on Toky...
-
-### Majutsu wo Kiwamete Tabi ni Deta Tensei Elf, Moteamashita Jumyou de Ikeru Densetsu to Naru Reveals Additional Cast, Staff, Theme Songs, Main Promo
-Thu, 19 Nov 2026 01:32:46 -0800 — https://myanimelist.net/news/74957361?_location=rss
-
-The official website for the television anime adaptation of Monsho Sasakibara and kanco s Majutsu wo Kiwamete Tabi ni Deta Tensei Elf, Moteamashita Jumyou de Ikeru Densetsu to Naru (The Reincarnated Elf Left on a Journey to Master His Magic and With His Extra Lifespan Became a Living Legend) web manga revealed the additional cast, staff, theme songs, a key visual (pictured), and the main promotional video on Thursday. The anime series will premiere on Tokyo MX at 12.00 a.m. on January 7, 20...
-
 ## Otaku USA
 
 _Nothing in the last 48 hours._
 
 ## Anime UK News
 
+### From Our TBR Pile… November 2026
+Sat, 21 Nov 2026 10:00:02 +0000 — https://animeuknews.net/2026/11/from-our-tbr-pile-november-2026/
+
+Titles appealing to all tastes in our writers’ November recommendations including Yuri/GL and Boys’ Love and another in the popular ‘Rascal Does Not…’ series!
+
 ### That s Not Love Volume 3 Review
 Fri, 20 Nov 2026 10:00:13 +0000 — https://animeuknews.net/2026/11/thats-not-love-volume-3-review/
 
 With Imai considering turning his garden sculpture into a whole series, his wife approaches Akane with an offer that will hopefully bring the issues with Yukari to an end. This third volume puts the spotlight on Imai and his wife.
-
-### Ashita no Joe: Fighting for Tomorrow Omnibus 6 Review
-Thu, 19 Nov 2026 10:00:04 +0000 — https://animeuknews.net/2026/11/ashita-no-joe-fighting-for-tomorrow-omnibus-6-review/
-
-With Joe rising through the ranks, it seems he is starting to develop a death wish.
 

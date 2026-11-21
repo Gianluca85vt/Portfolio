@@ -1,172 +1,177 @@
-# Film & TV — harvested 2026-11-20T21:31:45.261Z
+# Film & TV — harvested 2026-11-21T13:00:09.424Z
 
 ## Variety
 
-### Tallinn Black Nights Fest Awards: ‘On Top of the Cliff’ Scores Grand Prix, ’When She Hears the Bells’ Bags Best First Feature
-Fri, 20 Nov 2026 21:10:09 +0000 — https://variety.com/2026/film/global/tallinn-black-nights-fest-awards-on-top-of-the-cliff-1236954570/
+### ‘The Blind Ferryman’ Director on Rejecting Western Stereotypes: ‘I Don’t Want to Make a Movie Asking for Sympathy’
+Sat, 21 Nov 2026 12:45:49 +0000 — https://variety.com/2026/film/global/the-blind-ferryman-ali-toffan-al-fatlawi-cairo-1236954929/
 
-Latin-America and European cinema triumphed at Friday’s awards ceremony of Tallinn’s Black Nights Film Festival whose fame for discoveries was born out one more year by its final winners, including in its industry section. For her first year as Artistic Director, Trinn Tramberg had prioritized mixing second time directors with established names in the official [ ]
+For Iraqi-Swiss filmmaker Ali Toffan Al-Fatlawi, the idea behind “The Blind Ferryman” began with a thought that struck him during Iraq’s civil war in 2006. Living in Switzerland and watching the violence unfold in his homeland, he thought of two of his aunts who were blind and found himself wishing that blindness might spare his [ ]
 
-### I Play Rocky Fact vs Fiction: Butkus the Dog, Bloody Knuckles and Stallone s Fight to Get Rocky Made
-Fri, 20 Nov 2026 21:10:00 +0000 — https://variety.com/2026/film/news/i-play-rocky-fact-vs-fiction-butkus-dog-stallone-fee-1236952451/
+### Obese Monkey Becomes a Weight-Loss Drug Guinea Pig in Boltrim at India s WAVES Film Bazaar
+Sat, 21 Nov 2026 12:32:07 +0000 — https://variety.com/2026/film/markets-festivals/obese-monkey-weight-loss-drug-guinea-pig-boltrim-1236954925/
 
-The beloved classic “Rocky” premiered half a century ago this week. Five decades later, “I Play Rocky,” in theaters now, tells the story of how unknown writer and actor Sylvester Stallone shoulders his way into not just writing the script but playing the iconic lead role of boxer Rocky Balboa, culminating in a best picture [ ]
+Director Ashish Aryan is presenting Boltrim, a Hindi-English dark comedy about an obese monkey subjected to drug trials by a pharmaceutical giant developing a weight-loss injection, to the Co-Production Market at India s WAVES Film Bazaar. The film traces the smuggled animal s journey from Assam to a Delhi laboratory, exploring how far an operations manager at [ ]
 
-### ‘Artificial’ Writer Simon Rich Boards Oscar-Qualified Sci-Fi Short ‘Houston, We Have a Crush’ as Executive Producer (EXCLUSIVE)
-Fri, 20 Nov 2026 20:59:21 +0000 — https://variety.com/2026/film/columns/artificial-simon-rich-short-houston-we-have-a-crush-producer-new-yorker-1236954543/
+### Oscar-Winning Doc The Elephant Whisperers Co-Writer s Dark Comedy Nose Bone Follows a Punjabi Woman s Race for an Abortion at WAVES Film Bazaar
+Sat, 21 Nov 2026 12:14:08 +0000 — https://variety.com/2026/film/markets-festivals/elephant-whisperer-co-writer-abortion-nose-bone-waves-film-bazaar-1236954922/
 
-“Artificial” screenwriter Simon Rich has joined the short film “Houston, We Have a Crush” as executive producer. Directed by Omer Ben-Shachar and co-written with New Yorker humorist Jennifer Kim, the live-action short follows Ditto, a lonely alien who discovers a phone accidentally left behind by an astronaut. As he explores its contents, Ditto develops an [ ]
+Writer-director Garima Pura, a co-writer of the Oscar-winning documentary The Elephant Whisperers, is presenting Nose Bone, a dark comedy about a young woman from a Punjab border town scrambling to pay for an abortion, to the Co-Production Market at India s WAVES Film Bazaar. On her 18th birthday, Tooti learns that she s expecting and runs from [ ]
 
-### Sterling K. Brown in Talks to Star in New Longlegs Movie with Nicolas Cage
-Fri, 20 Nov 2026 20:54:54 +0000 — https://variety.com/2026/film/news/sterling-k-brown-new-longlegs-movie-nicolas-cage-1236954539/
+### Princess Kate Cancer Documentary ‘Heal’ Sets BBC, NBC and International Premiere Dates
+Sat, 21 Nov 2026 12:00:00 +0000 — https://variety.com/2026/tv/news/princess-kate-cancer-documentary-premiere-dates-1236954745/
 
-Sterling K. Brown is in negotiations to star in Paramount s new Longlegs movie opposite Nicolas Cage, Variety has confirmed. Plot details and a character description for Brown remain under wraps. Original director Osgood Perkins returns to helm the sequel. He also penned the script and serves as producer. Other producers include Cage, Brian Kavanaugh Jones; [ ]
+“Heal,” a documentary from Princess Kate on her cancer diagnosis and living life in the face of serious illness, will debut in the U.K. on Nov. 29, with international premieres to follow. The documentary will premiere on the BBC in the U.K. on Nov. 29, via NBCUniversal in the United States on Nov. 30, Channel [ ]
 
-### Narnia White Witches Tilda Swinton and Emma Mackey Excited to Meet for the First Time at Marrakech Film Festival: My Absolute Dream
-Fri, 20 Nov 2026 20:51:58 +0000 — https://variety.com/2026/film/festivals/narnia-white-witches-tilda-swinton-emma-mackey-meet-marrakech-fest-1236954244/
+### ‘Your Daughter’ Director on Bonds With Mom, Marianne Khoury, and Uncle Joe, Youssef Chahine: ‘Filmmaking Is Really About Healing’
+Sat, 21 Nov 2026 11:59:00 +0000 — https://variety.com/2026/film/global/sara-shazli-your-daughter-marianne-khoury-1236954836/
 
-Tilda Swinton and Emma Mackey, Narnia s White Witches of past and present, were both on hand at the Marrakech Film Festival opening ceremony on Friday night. Swinton played the character in the original Chronicles of Narnia film trilogy, whereas Mackey — who is serving on the festival s jury — takes on the role in Greta [ ]
+For Egyptian filmmaker Sara Shazli, the camera became a way of asking her mother questions she had carried since childhood. Returning to Cairo from film school in Cuba, she would wait in the family kitchen, camera in hand, hoping to understand the woman whose devotion to cinema had so often left her feeling alone. “Was [ ]
 
-### Laura Poitras Turns Lens on ICE s Paramilitary Occupation of Minneapolis in They’re Here
-Fri, 20 Nov 2026 20:21:03 +0000 — https://variety.com/2026/film/global/laura-poitras-theyre-here-ice-1236954019/
+### The Tree Director Julie Bertuccelli Tells IFFI Masterclass a Canadian Producer Stole Her Italian Shoes Adaptation, Readies India-Set Feature
+Sat, 21 Nov 2026 11:55:26 +0000 — https://variety.com/2026/film/festivals/julie-bertuccelli-italian-shoes-film-stolen-iffi-1236954904/
 
-Oscar-winning documentarian Laura Poitras is acutely aware of the importance of the weight of words when describing issues of great sensitivity. Her work has dealt with Edward Snowden’s NSA whistleblowing, the Sackler family’s role in the opioid crisis, and Iraq under U.S. occupation, among other burning sociopolitical issues of the 21st century. With “They’re Here,” [ ]
+French filmmaker Julie Bertuccelli, whose The Tree closed the Cannes Film Festival in 2010, said her planned adaptation of Henning Mankell s novel Italian Shoes fell apart after a Canadian producer stole the film from her, and that she plans to shoot her next feature in India. Bertuccelli was speaking at From Witness to Change: The [ ]
 
-### ‘Once Upon a Time in Harlem’ Duo Praise Neon’s Strategy to Reach Young Audiences
-Fri, 20 Nov 2026 20:20:21 +0000 — https://variety.com/2026/film/global/once-upon-a-time-in-harlem-neon-young-audiences-idfa-1236954016/
+### Qatar’s Film Committee and Watermelon Pictures Forge Partnership to Co-Produce a Slate of Films From the Global South
+Sat, 21 Nov 2026 11:36:53 +0000 — https://variety.com/2026/film/global/qatar-watermelon-pictures-partnership-1236954880/
 
-Half a century separates the height of the Harlem Renaissance movement from when lauded filmmaker William Greaves filmed some of its greatest luminaries at Duke Ellington’s apartment in 1972. A further half century passed before the footage met audiences through efforts by the filmmaker’s son, David, and granddaughter, Liani Greaves, the director and producer of [ ]
+Qatar s Film Committee and Watermelon Pictures have announced a strategic partnership to develop and co-produce a slate of films championing visionary filmmakers and compelling stories from the Global South and beyond with an emphasis on culturally authentic storytelling and broad international appeal, they said in a statement. The Global South is a geopolitical and economic [ ]
 
-### Trump Suggests Theaters Could Be Added to Federal Film Credit Bill
-Fri, 20 Nov 2026 20:08:13 +0000 — https://variety.com/2026/politics/news/trump-theaters-film-credit-bill-1236954402/
+### Marion Cotillard Says I m Not Here to Judge Movies as Marrakech Jury President and Doesn t Want Any Information Before Watching: Like a Virgin
+Sat, 21 Nov 2026 11:13:22 +0000 — https://variety.com/2026/film/festivals/marion-cotillard-marrakech-jury-president-not-here-to-judge-1236954852/
 
-President Trump suggested on Friday that the bill to create a federal tax credit for film and TV production may also include support for theaters. Taking questions at the White House, Trump was asked about areas of cooperation with the incoming Democratic majority in Congress. After praising the Democratic leaders and briefly touching on healthcare, [ ]
+Marion Cotillard, who serves as the jury president at this year s Marrakech Film Festival, says she prefers watching films with as little information as possible. I don’t know anything about the movies we re gonna see, I haven’t seen a single image, the Oscar-winning French actress said at the festival s jury press conference on Saturday morning. [ ]
 
-### ‘Bridgerton’ and ‘Mad Men’ Costumers on the Magic of Costume Design and Why the Script Is Our Bible
-Fri, 20 Nov 2026 19:54:46 +0000 — https://variety.com/2026/film/news/costume-designers-round-top-film-festival-1236952347/
+### Indian Auteur Girish Kasaravalli Looks Back on 50 Years of Cinema at IFFI Masterclass: All My Films Talk About Othering
+Sat, 21 Nov 2026 11:13:22 +0000 — https://variety.com/2026/film/festivals/girish-kasaravalli-othering-iffi-goa-1236954891/
 
-For costume designers Janie Bryant and John Glaser, outfitting a character is another form of storytelling. “When an actor appears on screen, you see the costume before they even say a word, says Bryant, an Emmy winner whose credits include Mad Men, Deadwood and Taylor Sheridan shows including Dutton Ranch and other Yellowstone spinoffs. That’s [ ]
+Indian auteur Girish Kasaravalli looked back on his career in Kannada-language cinema at the 57th International Film Festival of India (IFFI) in Goa, in a masterclass titled The Moral Universe of Parallel Cinema: 50 Years of Girish Kasaravalli. The 75-year-old spoke about the moral contradictions of society and the relationship between cinematic form and social [ ]
 
-### GTA 6 Music Breakdown: More Than 700 Songs and 90 Years of Music Across 20 Radio Stations
-Fri, 20 Nov 2026 19:54:20 +0000 — https://variety.com/2026/gaming/news/gta-6-music-songs-artists-radio-stations-tracks-1236954390/
+### Trump Advisor Steven Paul Hopes U.S. Tax Credit Will Be Active in January, Tariffs Are Old News: ‘Now It’s All Hands on Deck Federal Credit’
+Sat, 21 Nov 2026 10:29:05 +0000 — https://variety.com/2026/film/global/trump-advisor-steven-paul-federal-tax-credit-january-1236954857/
 
-You may never run out of music to listen to while playing Grand Theft Auto VI. The latest game in the GTA series, which officially released on Thursday and has already taken the world by storm, has a truly massive list of songs nearly 750 individual tracks have been spotted online by players. You [ ]
+Steven Paul, a special advisor to President Donald Trump who has lobbied for a U.S. federal tax credit alongside special ambassador to Hollywood Jon Voight, said he hopes the incentive will be “active” in some form by January 2027. Speaking at the Doha Industry Days – the industry component of the Doha Film Festival – [ ]
 
 ## The Hollywood Reporter
 
-### Searchlight Pictures Casting Head Yesi Ramirez Leaving Division Amid Restructuring
-Fri, 20 Nov 2026 21:07:21 +0000 — https://www.hollywoodreporter.com/movies/movie-news/searchlight-pictures-casting-head-leaving-restructuring-1236760157/
+### NBC to Air Princess of Wales Cancer Charity Documentary
+Sat, 21 Nov 2026 12:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/nbc-bbc-princess-of-wales-cancer-documentary-1236760297/
 
-The ‘A Complete Unknown’ and ‘Moonlight’ casting director said in a statement that she will return to casting independently.
+The special follows the princess as she completes a challenge to climb the highest peaks in England, Scotland and Wales.
 
-### Catholic Girls School Thriller On Top of the Cliff Wins Top Tallinn Black Nights Film Festival Award
-Fri, 20 Nov 2026 21:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/tallinn-black-nights-film-festival-2026-awards-winners-poff-1236759928/
+### Concrete Music, Leopard Spots Among Industry@Tallinn and Baltic Event Award Winners
+Sat, 21 Nov 2026 08:30:00 +0000 — https://www.hollywoodreporter.com/news/general-news/concrete-music-leopard-spots-itbe-2026-award-winners-tallinn-1236760061/
 
-'When She Hears the Bells,' 'Pop Pop,' 'The Matriarch,' 'One Sweet Hour' and 'How to Divorce During the War' are also among the winners of the 30th anniversary edition of the Estonian festival.
+The honorees also include the likes of 'Blind Whistle,' 'Otok,' 'The Reef,' 'The Elderly Store,' 'Wild Love' and 'My 19-Year-Old Granny.'
 
-### Creator Kennedy Eurich to Launch YouTube Series (Exclusive)
-Fri, 20 Nov 2026 20:42:27 +0000 — https://www.hollywoodreporter.com/business/digital/creator-kennedy-eurich-youtube-series-1236760125/
+### Under Pressure From Struggling Members, SAG-AFTRA Vows to Advocate for Universal Healthcare
+Sat, 21 Nov 2026 01:50:09 +0000 — https://www.hollywoodreporter.com/business/business-news/sag-aftra-advocate-universal-healthcare-under-pressure-1236760332/
 
-The digital series will debut in early 2027 on YouTube and across social media platforms.
+The union has created a healthcare task force as its members talk openly about having troubles qualifying for its health plan and paying dues.
 
-### The Secrecy Was Insane: The Making of The Hunger Games: Sunrise on the Reaping, From Locked Safes to Original Cast s Return
-Fri, 20 Nov 2026 20:29:51 +0000 — https://www.hollywoodreporter.com/movies/movie-features/sunrise-on-the-reaping-making-hunger-games-prequel-1236746299/
+### Bassam Tariq Says Marvel s Scrapped Blade Reboot Taught Him Life s Too Short to Make Sh** Films
+Sat, 21 Nov 2026 00:28:41 +0000 — https://www.hollywoodreporter.com/movies/movie-news/bassam-tariq-marvel-blade-life-too-short-shit-films-1236760314/
 
-Screenwriter Billy Ray, producer Nina Jacobson and director Francis Lawrence reveal how they adapted Suzanne Collins’ prequel before it was published, found their young Haymitch and brought back Jennifer Lawrence, Josh Hutcherson and Woody Harrelson.
+"It was funny and strange to start casting and building without a proper script... That's also very dangerous because if the text comes and it doesn't add up to what you were saying, your credibility gets completely shot," the director said in a new interview.
 
-### Emmy Rossum on Producing and Starring in Furious : I Have Been Matrix -Style Dodging Mega-Predators Since I Was Seven
-Fri, 20 Nov 2026 20:21:30 +0000 — https://www.hollywoodreporter.com/tv/tv-news/emmy-rossum-furious-awards-chatter-newport-beach-1236746071/
+### How I Play Rocky Star P.J. Byrne Became One of Hollywood’s Go-To Character Actors
+Fri, 20 Nov 2026 23:48:08 +0000 — https://www.hollywoodreporter.com/movies/movie-features/i-play-rocky-star-p-j-byrne-1236760259/
 
-In front of an audience at the Newport Beach Film Festival, the actress reflects on her breakthrough in 'The Phantom of the Opera,' her quest for equal pay on 'Shameless' and her production company: "I like characters that are living in moral gray areas. That's something that I wasn't really able to do in the ingenue years."
+The Scorsese favorite has shared scenes with Leonardo DiCaprio and Margot Robbie. Now he's playing Irwin Winkler, the producing legend behind 'Rocky' and 'Goodfellas.'
 
-### Home Alone Sequel in Development at Disney With Macaulay Culkin, Seth Rogen and Evan Goldberg
-Fri, 20 Nov 2026 20:15:48 +0000 — https://www.hollywoodreporter.com/movies/movie-news/home-alone-sequel-disney-macaulay-culkin-seth-rogen-1236760116/
+### Yellowjackets Creators on Closing Their Survival Story, Killing Characters and Thoughts on Spinoffs: This Was Meant to Be the Final End
+Fri, 20 Nov 2026 23:05:16 +0000 — https://www.hollywoodreporter.com/tv/tv-features/yellowjackets-creators-finale-ending-show-no-spinoffs-1236760260/
 
-Culkin is expected to reprise his role as Kevin McCallister, while Rogen and Goldberg are writing and producing the sequel.
+Ashley Lyle and Bart Nickerson hope to leave viewers satisfied when the fourth and final season of the Showtime hit releases its series finale: "We do feel like this closes the book, and I think that's important."
 
-### Jasmin Savoy Brown Bids Farewell to Yellowjackets and Finds Her Way to Hadestown
-Fri, 20 Nov 2026 20:04:32 +0000 — https://www.hollywoodreporter.com/tv/tv-features/jasmin-savoy-brown-yellowjackets-ending0hadestown-interview-1236759992/
+### Melania Trump Stresses Humanitarian Efforts at Chic Premiere for Two-Episode Series Documentary Follow-Up
+Fri, 20 Nov 2026 22:38:05 +0000 — https://www.hollywoodreporter.com/tv/tv-features/melania-trump-amazon-series-documentary-difference-ukraine-1236760238/
 
-The 32-year-old actress reflects on the journey and how close the experience brought her to her co-stars: "They're more constant in my life than any romantic relationship I've had for the last seven years."
+At a tight-security screening at New York's Lincoln Center Thursday night, the first lady's longtime collaborators celebrated how the Brett Ratner-helmed show allows her to tell her own story.
 
-### Oobah: Scams for a Better Tomorrow Review: Oobah Butler Exposes Modern Life s Many Frauds in Nathan Fielder-esque HBO Comedy Doc
-Fri, 20 Nov 2026 20:04:04 +0000 — https://www.hollywoodreporter.com/tv/tv-reviews/oobah-scams-for-a-better-tomorrow-review-hbo-1236759621/
+### TV Ratings: CMA Awards Score Seven-Year High
+Fri, 20 Nov 2026 22:06:14 +0000 — https://www.hollywoodreporter.com/tv/tv-news/cma-awards-2026-tv-ratings-1236760246/
 
-The British journalist/prankster explores the scams behind wine, music, dating apps, wellness products and more in this five-episode series.
+The show delivers its biggest audience of the 2020s so far.
 
-### GTA VI Generates $3.79 Billion in Day One Sales
-Fri, 20 Nov 2026 19:55:51 +0000 — https://www.hollywoodreporter.com/business/business-news/gta-vi-day-one-sales-1236760139/
+### Hello Sunshine’s Lauren Neustadter Stepping Down at Year s End (Exclusive)
+Fri, 20 Nov 2026 22:00:00 +0000 — https://www.hollywoodreporter.com/business/business-news/lauren-neustadter-leaving-hello-sunshine-1236760220/
 
-That includes pre-sales.
+The longtime president of film and television is leaving after nearly a decade at Reese Witherspoon’s company and on the heels of a recent ownership change.
 
-### Teyana Taylor Sells Female-Driven Comedy to Warner Bros. (Exclusive)
-Fri, 20 Nov 2026 19:48:53 +0000 — https://www.hollywoodreporter.com/movies/movie-news/teyana-taylor-sells-comedy-warner-bros-1236759425/
+### The 25 Best Christmas Gifts for Every Kind of Boyfriend, Whether He s a Situationship or Soulmate
+Fri, 20 Nov 2026 21:31:58 +0000 — https://www.hollywoodreporter.com/lifestyle/shopping/best-christmas-gifts-for-boyfriend-2026-holiday-presents-1236756642/
 
-The Oscar-nominated actress will co-write and produce the project, with an eye to direct.
+Whether you just got together or you're practically married, there are gift ideas for every kind of partner.
 
 ## Deadline
 
-### Hunger Games: Sunrise On The Reaping Hot $110M+ U.S. Opening Box Office Update
-Fri, 20 Nov 2026 21:01:00 +0000 — https://deadline.com/2026/11/box-office-hunger-games-sunrise-on-the-reaping-1237229925/
+### Kate Middleton Documentary Heal Set At BBC NBC; Special About Princess Three Peaks Challenge Cancer Journey Gets Release Date Trailer
+Sat, 21 Nov 2026 12:00:00 +0000 — https://deadline.com/2026/11/kate-middleton-documentary-heal-release-date-trailer-1237230712/
 
-FRIDAY MIDDAY: Lionsgate s The Hunger Games: Sunrise on the Reaping is heading for the fourth highest opening for the Suzanne Collins franchise as of now with $110M stateside at 4,108 theaters after a Friday that s $51M which includes those $21M previews. If the movie isn t front-loaded, it has a shot at possibly becoming the third [ ]
+Kate Middleton is starring in her first documentary, and it s a personal one. Heal, which will premiere on the BBC in the UK on November 29 and NBC in the U.S. on November 30, follows the Princess of Wales as she undertakes the National Three Peaks Challenge and reflects on her life as a cancer [ ]
 
-### Jill Scott, Grammy Award-Winning Singer Actress, Signs With Independent Artist Group
-Fri, 20 Nov 2026 20:46:24 +0000 — https://deadline.com/2026/11/jill-scott-independent-artist-group-agency-1237230457/
+### Egyptian Music Star Mohamed Mounir Gets Biopic – Doha Industry Days
+Sat, 21 Nov 2026 11:53:50 +0000 — https://deadline.com/2026/11/egyptian-music-star-mohamed-mounir-biopic-doha-1237230880/
 
-EXCLUSIVE: Three-time Grammy Award-winning singer, songwriter, actress, and producer Jill Scott has signed with Independent Artist Group for representation across film and TV, branding, literary, and international touring. The news arrives in the same week that Scott received five nominations for the 2027 Grammy Awards, recognizing her sixth studio album, To Whom This May Concern. [ ]
+The life and legacy of legendary Egyptian artist Mohamed Mounir is set to be explored in a biopic spearheaded by The Film Committee at Media City Qatar. The Film Committee has acquired the rights to document Mounir’s life story, with partners on the project set to include a leading regional studio and other partners, which [ ]
 
-### Steven Paul Talks Up Federal Film TV Tax Credit: It s Going To Be Good For The World Industry Days Doha
-Fri, 20 Nov 2026 20:30:23 +0000 — https://deadline.com/2026/11/steven-paul-federal-film-tv-tax-credit-good-world-1237230531/
+### ‘Al Hayba’ Star Taim Hasan To Play Syrian Whistleblower Farid Al-Madhhan In Neon-Backed ‘Caesar’ Biopic
+Sat, 21 Nov 2026 09:53:09 +0000 — https://deadline.com/2026/11/taim-hassan-hasan-syria-neon-department-m-caesar-biopic-1237230860/
 
-Hollywood veteran Steven Paul carried a flag for the push for a Hollywood film and TV incentive to Qatar on Friday. Speaking in a fireside chat at the Qatar Film Committee’s Industry Days event in Doha, Paul said the proposed tax credit, covering between 20 to 30% of the U.S. spend, would be good for [ ]
+Syrian actor Taim Hasan (Al Haybar) has signed to star in Neon-backed biopic Caesar, about military officer Farid Al-Madhhan who risked his life to expose torture and human-rights abuses in prisons under Bashar Al Assad’s reign as president. At the same time, Ameer Fakher Eldin has been unveiled as the director on the drama. The [ ]
 
-### Bruce Greenwood, Johnny Knoxville And Dylan Hawco Join Fake Skating Adaptation At Sony
-Fri, 20 Nov 2026 20:30:00 +0000 — https://deadline.com/2026/11/bruce-greenwood-johnny-knoxville-fake-skating-1237230348/
+### Michael Jackson Biopic Michael Skipping BAFTAs
+Sat, 21 Nov 2026 09:47:11 +0000 — https://deadline.com/2026/11/michael-jackson-biopic-michael-skipping-baftas-1237230863/
 
-EXCLUSIVE: Bruce Greenwood, Johnny Knoxville and Dylan Hawco are set to round out the cast in Sony Pictures and Will Gluck’s Olive Bridge Entertainment’s Fake Skating based on Lynn Painter’s New York Times best-selling book with Amélie Hoeferle and Graham Campbell set to star. Josh Boone is directing from a screenplay written by Morgan Lehmann [ ]
+In a surprise move, the record-breaking box office smash Michael is skipping the BAFTAs, Deadline has confirmed. Antoine Fuqua’s billion-dollar film about the King of Pop won t be submitted by producers GK Films or distributor Universal, which released internationally for Lionsgate. This takes the likes of Jaafar Jackson, Colman Domingo and the craft team out [ ]
 
-### GTA VI Sales Near $4B In First Day Of Launch; Yes, You Read That Correctly, Nearly $4B
-Fri, 20 Nov 2026 20:09:00 +0000 — https://deadline.com/2026/11/gta6-first-day-sales-4-billion-1237230465/
+### Real Time : Bill Maher Jokes GTA VI Has Caused More Workplace Absences Than ICE, Notes He s Glad James Bond Cast Very Heterosexual Male
+Sat, 21 Nov 2026 04:17:52 +0000 — https://deadline.com/2026/11/real-time-bill-maher-gta-vi-james-bond-cast-1237230827/
 
-Less than 48 hours after Grand Theft Auto VI went live, Rockstar Games has released sales figures for the long anticipated and heavily hyped misadventures out of the seedy fictional state of Leonida. Based on data from November 19, GTA VI has hit an astonishing $3.79 billion in day one retail sales. Including the massive [ ]
+After Grand Theft Auto VI and James Bond took over social media this week, Bill Maher has added his two cents to the discourse before going on hiatus. On Friday s Season 24 finale of Real Time, the comedian expressed his fascination with the giant cultural phenomenon following GTA VI s multi-billion dollar opening. No movie ever [ ]
 
-### Jennifer Lawrence Teases Miss Piggy Movie Update: I Always Get In Trouble For Saying Stuff
-Fri, 20 Nov 2026 20:05:12 +0000 — https://deadline.com/2026/11/jennifer-lawrence-miss-piggy-movie-update-1237230448/
+### Everything To Know About Presumed Innocent Season 2 As Apple Series Goes Anthology
+Sat, 21 Nov 2026 03:03:06 +0000 — https://deadline.com/feature/presumed-innocent-season-2-news-updates-1236568924/
 
-A year after revealing a Miss Piggy movie in the works, Jennifer Lawrence has shared an update on the Muppet solo outing. The Oscar-winning actress, who is developing the project with fellow producer Emma Stone and screenwriter Cole Escola, teased the status of the script in response to a fan question on Watch What Happens [ ]
+Apple TV+’s Presumed Innocent will be back for a second season, but Season 2 will diverge from the first installment. The legal drama series was renewed in July 2024 with its final two episodes still to launch on Apple TV+. Starting out as a limited series, the series will take on an anthology style like [ ]
 
-### Upgraded 2 Film Casts Tanner Zagarino, Christopher McDonald, Andrea Arcangeli Alessandro Preziosi
-Fri, 20 Nov 2026 20:00:00 +0000 — https://deadline.com/2026/11/upgraded-2-cast-tanner-zagarino-christopher-mcdonald-1237230367/
+### ‘The Hunger Games: Sunrise On The Reaping’ Album Boasts 29 Songs; Releases Ahead Of Film
+Sat, 21 Nov 2026 02:55:51 +0000 — https://deadline.com/feature/hunger-games-sunrise-on-the-reaping-songs-soundtrack-album-1237165820/
 
-EXCLUSIVE: Andrea Arcangeli (Trust, The Saints), Alessandro Preziosi (ChiaroScuro), Tanner Zagarino (The Summer I Turned Pretty), and Christopher McDonald (Hacks, Happy Gilmore 2) have joined the cast of Upgraded 2 from director Becca Gleason, Gulfstream Pictures, and Honor Role. They join the previously announced returning star and producer Camila Mendes, Leslie Bibb, and Marisa Tomei. [ ]
+UPDATED, Nov. 20: The Hunger Games: Sunrise on the Reaping is finally here, full of both bleak torturous scenes and also hopeful ones. With a full companion album complete with many original songs inspired by the film and some Arena Remixes of certain artists hits, the songs in the film narrow down to a sparse [ ]
 
-### SXSW, Deadline The Improv Launching New Comedy Competition Circuit Breakers For 2027
-Fri, 20 Nov 2026 20:00:00 +0000 — https://deadline.com/2026/11/circuit-breakers-competition-sxsw-deadline-the-improv-1237230243/
+### Palisades Fire Arson Suspect Convicted, Faces 40 Years In Prison
+Sat, 21 Nov 2026 01:50:00 +0000 — https://deadline.com/2026/11/palisades-fire-trial-verdict-1236967822/
 
-Next spring, SXSW, Deadline and The Improv will present the first edition of Circuit Breakers, a new take on the Comics to Watch list and new form of comedy competition, all in one. With Circuit Breakers, we re looking to help elevate a new generation of rising comedic talent — comics with unique voices and original, [ ]
+UPDATED, 5:50 PM: A Los Angeles jury has convicted the man charged with setting the smoldering fire that later flared up into Palisades Fire that devastated Pacific Palisades and Malibu in early 2025. Jonathan Rinderknecht, 30, was found guilty Friday of destruction of property by means of fire and arson affecting property used in interstate [ ]
 
-### Paramount Eyeing Sterling K. Brown To Star in New Longlegs Movie Opposite Nicolas Cage
-Fri, 20 Nov 2026 20:00:00 +0000 — https://deadline.com/2026/11/sterling-k-brown-new-longlegs-movie-1237230255/
+### Yellowjackets Stars Melanie Lynskey Christina Ricci On Misty s Plot To Save Themselves From Shauna: She ll Be The Downfall Of Everybody
+Sat, 21 Nov 2026 01:47:22 +0000 — https://deadline.com/2026/11/yellowjackets-melanie-lynskey-christina-ricci-misty-plot-1237230788/
 
-EXCLUSIVE: Following the excitement that fans of the record-breaking hit Longlegs would be getting a new movie in the universe, Paramount Pictures looks to have now found the actor to lead that film as sources tell Deadline Sterling K. Brown is in negotiations to join Paramount Pictures’ upcoming Longlegs film. Brown will be joining Nicolas [ ]
+SPOILERS: This post contains details about the Yellowjackets Season 4 premiere episode Hivemind As the final season of Yellowjackets debuts, it appears the team could be prepping one last sacrifice to the wilderness. While discussing Friday s Season 4 premiere episode Hivemind with Deadline, Christina Ricci explained that the episode picks up shortly after the Season [ ]
 
-### Derval Whelan Exits Searchlight As Head Of U.S. Distribution, Had 17-Year Run With Label
-Fri, 20 Nov 2026 19:48:19 +0000 — https://deadline.com/2026/11/searchlight-pictures-derval-whelan-exits-1237230377/
+### Lanterns Star Aaron Pierre On DCU Future After Safran Gunn s DC Studios Exit: I m Very At Peace
+Fri, 20 Nov 2026 23:50:33 +0000 — https://deadline.com/2026/11/aaron-pierre-future-lanterns-safran-gunn-dc-studios-exit-1237230759/
 
-EXCLUSIVE: Derval Whelan is set to retire at the end of the month from her role as US Head of Distribution for Searchlight Pictures. The exec s overall run with the 20th Century Fox originated arthouse label counts 17 years. Whelan began at Searchlight in 2006 and had a brief break between 2021 and 2023 when [ ]
+Aaron Pierre starred as John Stewart in the HBO DC Studios series Lanterns and was set to play him across the DC Universe. However, with Peter Safran and James Gunn no longer co-heads of DC Studios, the future of the world they were building seems uncertain. In a new interview, Pierre reacted to Safran [ ]
 
-### Oregon-Based Laika Set To Give Thanks To Portland For Success Of Wildwood By Offering Free Screenings At Theaters Citywide Over Thanksgiving Holiday Weekend
-Fri, 20 Nov 2026 19:33:48 +0000 — https://deadline.com/2026/11/oregon-based-laika-portland-wildwood-free-screenings-1237230371/
+### David Fincher Defends Use Of AI Amid Cliff Booth Criticism: Well, It Exists. Should We Not Use It?
+Fri, 20 Nov 2026 23:45:30 +0000 — https://deadline.com/2026/11/david-fincher-defends-ai-cliff-booth-criticism-1237230711/
 
-EXCLUSIVE: Portland-based Laika s critically acclaimed animated feature, Wildwood, has grossed $50 million so far after its first month in release and still going strong. In an unprecedented move Laika is giving back to the Portland Oregon community where the film not only was made, but also is set. This Thanksgiving weekend , specifically on November [ ]
+Although The Further Mis-Adventures of Cliff Booth is steeped with nostalgia for Hollywood’s past, David Fincher claims to represent the future. While many have criticized the Quentin Tarantino-penned sequel to Once Upon a Time in Hollywood (2019) for the apparent onscreen use of Gen AI, the 3x Oscar-nominated director recently shared his thoughts on the [ ]
 
-### Novocaine s Dan Berk Robert Olsen To Helm Contained Action Thriller For Lionsgate
-Fri, 20 Nov 2026 19:15:00 +0000 — https://deadline.com/2026/11/dan-berk-robert-olsen-sell-pitch-lionsgate-1237230188/
+### Tech Stocks End Dismal Week On Harsh Note; Nasdaq Slides Another 5% And Is Now Flat For The Year
+Fri, 20 Nov 2026 23:24:03 +0000 — https://deadline.com/2026/11/tech-stocks-nasdaq-slides-ai-1237230137/
 
-EXCLUSIVE: Dan Berk Robert Olsen, the writer-directors of Paramount s high-concept action comedy Novocaine, have sold an untitled pitch for a contained action thriller to Lionsgate, Deadline has learned. The duo are writing the script and will also direct. Specifics as to the film s plot are being kept under wraps. Chris Bremner and Jeff Arkuss [ ]
+A massive AI correction wreaked more havoc on Wall Street, ending one of the worst weeks in recent memory for the stock market and erasing all of the Nasdaq s gains for the year. About $4 trillion in market value was wiped out across the AI sector, with Sandisk, Micron, Seagate, Applied Digital, Broadcom, Nvidia, Dell, [ ]
 
 ## befores & afters
+
+### All the invisible effects in Ted Lasso , season 4
+Fri, 20 Nov 2026 22:56:43 +0000 — https://beforesandafters.com/2026/11/21/all-the-invisible-effects-in-ted-lasso-season-4/
+
+Go behind the scenes, with tons of before/after images. Today on the befores afters podcast, we’re talking about the visual effects of season 4 of Apple TV’s Ted Lasso. I’m joined by visual effects supervisor James MacLachlan to discuss the show. View this post on Instagram A post shared by James Mac (@jamesmacvfx) The principal work, of course, is the football play and the crowds and stadiums. We run through the challenges of setting up greenscreens and shooting crowds. Then we also talk about the huge range of invisible effects work in the show some you might not even know were required for the show. One effect is a really fun meta one which I’ll leave as a surprise for you in the ep. I ve set out below a whole series of befores and afters images provided by James to check out the work that was done see if you can spot some of the most invisible ones. The post All the invisible effects in Ted Lasso , season 4 appeared first on befores & afters .
 
 ### Why Gollum worked so well
 Fri, 20 Nov 2026 19:41:10 +0000 — https://beforesandafters.com/2026/11/21/why-gollum-worked-so-well/
@@ -183,12 +188,12 @@ Thu, 19 Nov 2026 20:05:55 +0000 — https://beforesandafters.com/2026/11/20/stop
 
 The making of stop-motion animated Arges and Bullethead by Tippett Studio, including some Star Wars-related Easter eggs to look out for. An excerpt from issue #68 of the magazine. In Star Wars history, Phil Tippett is a key player in the creation of so many pivotal characters, vehicles and sequences, especially in terms of stop-motion and puppet work. Memorable Tippett moments relate to the Dejarik holochess game, Tauntauns, walkers and the Rancor. His Tippett Studio has, in more recent times, been brought on board the Star Wars streaming series to contribute stop-motion animation (for the Trash Walkers in The Mandalorian series, B omarr monks in The Book of Boba Fett and Mama Crab in Skeleton Crew ). For The Mandalorian and Grogu , Tippett Studio realized the robotic Hutt Palace guards. “We knew in pre-production we wanted to do a sequence with Tippett,” shares Knoll. “The thing that stood out to me as relatively contained that was a really good choice was the Mando and Grogu fight with those droids. It s about two minutes long. It’s 36 shots. So it was kind of on the ambitious end, with two fairly complex characters. They re multi-limbed. Each one of them has three arms and they have all these moving pieces on them; moving parts on their heads, moving armor plates, and this moving skirt. In fact, the Tippett guys said it was the most complicated thing that they ve ever done, and it took a better part of a year to shoot.” “Part of Jon Favreau’s feeling is that stop-motion ha
 
-### On The Set Pic: The Rings of Power , s3
-Thu, 19 Nov 2026 02:52:49 +0000 — https://beforesandafters.com/2026/11/19/on-the-set-pic-the-rings-of-power-s3/
-
-Stunt coordinator Roy Taylor with Morfydd Clark. The post On The Set Pic: The Rings of Power , s3 appeared first on befores & afters .
-
 ## IndieWire
+
+### Trump Renews Backing for Federal Film Tax Credit as Lawmakers Push for Year-End Passage
+Sat, 21 Nov 2026 00:51:53 +0000 — https://www.indiewire.com/news/breaking-news/trump-says-federal-film-tax-credit-will-pass-congress-1235229851/
+
+The bipartisan bill gained more than 60 House cosponsors and four Senate cosponsors this week. If passed, it would offer a 20 percent tax credit on qualifying U.S. production labor costs.
 
 ### Disclosure Day Did Its Biggest Stunts Practically, So the VFX Team Worked Hard to Look Invisible — Watch
 Fri, 20 Nov 2026 21:30:00 +0000 — https://www.indiewire.com/features/craft/disclosure-day-vfx-craft-roundtables-1235229693/
@@ -245,112 +250,107 @@ Fri, 20 Nov 2026 15:31:58 +0000 — https://www.indiewire.com/features/interview
 
 IndieWire debuts the premiere of an Oscar-eligible short from Zane Pais.
 
-### Is A24 Finally Big Enough to Be Considered a Major Studio?
-Fri, 20 Nov 2026 13:30:00 +0000 — https://www.indiewire.com/news/analysis/is-a24-big-enough-major-studio-1235229546/
-
-With a 6 percent box office share that bests other, bigger studios, 16 to 18 movies a year, and an increasingly pricy content slate, the argument against is getting harder to make.
-
 ## The Wrap
 
-### GTA VI Shatters First-Day Sales Records With $3.8 Billion
-Fri, 20 Nov 2026 20:06:00 +0000 — https://www.thewrap.com/industry-news/business/grand-theft-auto-vi-first-day-sales-record/
+### Jennifer Lopez Laments Not Having ‘Bigger Marketing Budget’ for ‘Kiss of the Spider Woman’
+Sat, 21 Nov 2026 06:33:59 +0000 — https://www.thewrap.com/creative-content/movies/jennifer-lopez-laments-not-having-bigger-marketing-budget-for-kiss-of-the-spider-woman/
 
-Grand Theft Auto VI generated an estimated $3.79 billion in day-one retail sales worldwide, according to Rockstar Games , which says the latest installment in its blockbuster franchise has set a new record for the biggest entertainment launch in history. The company said Friday that the game also sold 32.5 million units before its release, setting a new record across platforms. The figures are based on company estimates through the end of the day Nov. 19. The launch follows widespread critical acclaim, with the game earning a 99 score on Metacritic . Grand Theft Auto VI became available Thursday through the PlayStation Store, Microsoft Store, Rockstar Games Store and retailers worldwide. “It is with immense gratitude that we enter a new chapter of Rockstar Games with the release of Grand Theft Auto VI,” Sam Houser, president and founder of Rockstar Games, said in a statement. “We are incredibly humbled by the response from players around the world and we couldn’t be more excited to share this moment with you.” Set in the fictional state of Leonida, the game follows Jason and Lucia, a couple whose plans for an easy score go awry, drawing them into a conspiracy across the state. The story returns players to Vice City, Rockstar s fictionalized version of Miami. The release comes 13 years after Grand Theft Auto V, which has sold nearly 235 million units, according to Rockstar. The broader Grand Theft Auto franchise has sold nearly 480 million units. The company s other major fran
+Jennifer Lopez says one of her passion projects would ve benefitted from a greater marketing budget. Appearing on the New York Times’ Popcast podcast Thursday, the singer/actress blamed the studios for Kiss of the Spider Woman poor performance at the box office in 2025. The film was based on John Kander and Fred Ebb s 1993 Tony Award-winning musical of the same name. The big screen adaptation reportedly cost Lionsgate, Roadside Attractions and LD Entertainment $30 million, and brought in a paltry $1.8 million. Jennifer Lopez in KIss of the Spider Woman (Lionsgate) I would have liked to have had a bigger marketing budget for Kiss of the Spider Woman,' Lopez said on the podcast. I think it was under-seen, and I also had higher hopes for it when I first started the project. It was such a great role for me, she added. Lionsgate did not immediately respond to TheWrap s request for comment. In his October 2025 review of Kiss of the Spider Woman, TheWrap s Chase Hutchinson praised the showy costumes and production design, but said the film is all surface with no greater spark. Legendary director Bill Condon s well-intentioned attempts at creating classic Hollywood musicals of the 30s and 40s didn t work, Hutchinson continued. Lopez was previously praised for her singing and dancing in films in 1997 s Selena, where she portrayed the Tejano music superstar, and 2019 s Hustlers, where she played a savvy stripper. She ll showcase her skills in The JLO Show, a concert film that captured 
 
-### Scott Bessent Blames Military Base Relocation on WSJ’s ‘Very Unfortunate’ Photo of His House
-Fri, 20 Nov 2026 19:19:25 +0000 — https://www.thewrap.com/media-platforms/politics/scott-bessent-military-base-relocation-wsj-photo/
+### Bill Maher Defends Robert Pattinson as the Perfect James Bond, but Says 007 Should Never Be Female
+Sat, 21 Nov 2026 05:10:10 +0000 — https://www.thewrap.com/creative-content/movies/bill-maher-reacts-robert-pattinson-james-bond-casting/
 
-U.S. Treasury Secretary Scott Bessent took a shot at The Wall Street Journal on Friday, blaming his relocation to a military base on the outlet s very unfortunate decision to publish a photo of his Georgetown home. On Nov. 10, The New York Times reported that Bessent had relocated to a military base, a move that was eventually confirmed by the Trump official himself. U.S. officials said the move was motivated by an aerial photograph published by The Wall Street Journal of Bessent s Georgetown home that allowed the residence to be geolocated. Iranian threats against Bessent s life reportedly intensified around this time. During a wide-ranging interview Friday with CNBC , Bessent confirmed that he is still living under U.S. military protection because of the same Iranian threats. I’m not going to be cowered by the Iranians, the treasury secretary said. If the Iranians are after me, it means that they are being squeezed. We’re going to continue squeezing them. As I’ve said before, very unfortunate that an irresponsible editor at The Wall Street Journal published a photo of my house with a geo-locate in it the day I bought it, Bessent added. But, you know, we’ll move on. Life on the military base is good, and we’re going to continue squeezing the IRGC until they are ready to stick to a deal. Bessent is far from the only member of the Trump administration who has reportedly relocated to a U.S. military base due to Iranian threats amid the ongoing war between the U.S. and Iran. Sec
+Bill Maher defended Robert Pattinson as the perfect choice for James Bond, but claimed he wouldn t have been happy if a woman or a lesbian landed the part. The topic of Pattinson s casting as 007 came up during Friday s Real Time panel, where guest panelist and journalist Jacob Soboroff asked Maher his thoughts on the Twilight alum nabbing the role. “I think he’s great,” Maher said. “I don’t understand what all this hoopla is about it. What is he, too millennial ? Is he too gay ? He’s great. He’s perfect.” While several years older than the other James Bond frontrunners, including 36-year-old actors Callum Turner, Jack Lowden and Josh O’Connor, Pattinson’s age only made him more appealing to Maher. “He’s 40 … Perfect. You need a grown ass man to be James Bond, Maher sounded off. James Bond is not a boy.” Maher said that was his only real expectation for the role when the search for the next James Bond was first announced. “I would’ve been happy with a Black James Bond, because you can be James Bond and be Black, he said. I wouldn’t have been happy with a woman or a lesbian James Bond. That’s a different character. James Bond is a very heterosexual male. That’s too essential to not have that be part of James, okay?” Maher s response follows a number of other high profile responses to Pattinson’s casting. For instance, the Royal family took to X following Monday s announcement and wrote, “Welcome to His Majesty’s Secret Service, Mr Bond.” Additionally, the estate of Ian Fleming
 
-### Home Alone Sequel in the Works With Macaulay Culkin
-Fri, 20 Nov 2026 19:19:19 +0000 — https://www.thewrap.com/creative-content/movies/home-alone-sequel-in-the-works-with-macaulay-culkin/
+### David Fincher Says He’s No ‘Luddite’ When It Comes to AI Amid ‘Cliff Booth’ Criticism
+Sat, 21 Nov 2026 05:04:31 +0000 — https://www.thewrap.com/creative-content/movies/david-fincher-cliff-booth-ai-criticism/
 
-Thirty-four years after the last “Home Alone” movie with Macaulay Culkin was released, a sequel is currently in the works at 20th Century Studios and Disney with Culkin, The Wrap has learned. Point Grey‘s Seth Rogen and Evan Goldberg writing and producing the project. According to Puck, which first reported the news , Culkin met over the summer with 20th Century Studios Chief David Greenbaum and has been receptive to returning to the franchise, being a father of two young sons. In “Home Alone,” which was released in 1990, the John Hughes classic follows 8-year-old Kevin McCallister (Culkin) abandoned at home as his family forgets him on their way to a Christmas vacation. Culkin broke into stardom as Kevin, warding off home invaders. “Home Alone” was nominated for two Oscars and grossed $477.1 million worldwide. A rep for 20th Century Studios did not respond to The Wrap s request for comment. More to come The post Home Alone Sequel in the Works With Macaulay Culkin appeared first on TheWrap .
+David Fincher said he was open to using AI technology amid claims that the technology was incorporated into his latest film, The Further Mis-Adventures of Cliff Booth. Fincher directed the sequel to Once Upon a Time in Hollywood with a script once again written by Quentin Tarantino. Brad Pitt reprises his role as stuntman and titular Cliff Booth in the movie. Reviews for the Netflix film came out this week, and some have criticized Cliff Booth for its alleged use of generative AI. Indie filmmaker Patrick Tomasso tweeted that he was completely gutted after his screening. What could have been a really great sequel is overshadowed by some of the most blatant and egregious AI use I’ve ever seen in a studio film, Tomasso wrote. Shocked it s not in everyone s reviews. I walked out of Cliff Booth completely gutted. What could have been a really great sequel is overshadowed by some of the most blatant and egregious AI use I’ve ever seen in a studio film. Shocked it’s not in everyone’s reviews More thoughts with receipts when it’s streaming. https://t.co/uofIO7oUEs &mdash; patrick. (@imPatrickT) November 19, 2026 In his Letterboxed review , entertainment writer Louis Peitzman wrote, The use of generative AI depresses the hell out of me, though. Feels like we re fighting a losing battle. A review by Next Best Picture called Fincher’s use of generative AI in key moments of the film as nothing but an eyesore. Neither review specified which scenes may have utilized AI. Fincher himself has
 
-### Wall Street Sees Disney Break Out in 2028
-Fri, 20 Nov 2026 19:09:51 +0000 — https://www.thewrap.com/industry-news/business/disney-stock-breakout-2028-wall-street-analysts/
+### Bassam Tariq Says He’s ‘Quite Sad’ His ‘Blade’ Movie Didn’t Happen, But Knows ‘Life’s Too Short to Make S—t Films’
+Sat, 21 Nov 2026 04:00:00 +0000 — https://www.thewrap.com/creative-content/movies/bassam-tariq-reflects-failed-marvel-blade-movie/
 
-In this week s The Ledger column: Disney s stock, which has disappointed investors by trading in a narrow band for more than three years, could finally break out in 2028 under new CEO Josh D Amaro, according to analysts. Venture capital spending jumped in October, thanks to one big deal involving an — you guessed it! — AI startup. Newsmax is going after Fox s acquisition of Roku with an antitrust suit filed in federal court. THE DEEP DIVE Disney CEO Josh D Amaro Wall Street Sees Disney Magic Raising Stock Price in 2028 For years, Wall Street has looked at Disney as a company with great assets, but not a great stock. New Disney CEO Josh D’Amaro is looking to change that, and analysts seem to think his efforts will pay off — in 2028. Disney’s fiscal fourth quarter earnings beat Wall Street expectations and the company’s shares rose. But reaction to Disney’s 2027 forecast was muted. “Everything Looks Fine, but Short of Exciting,” was the headline on a note from TD Cowen analyst Doug Creutz, who rates Disney a “Hold” with a target price of $123. Disney shares closed at $120.25 on Thursday. Disney reported adjusted earnings per share of $1.77 in its fiscal fourth quarter on revenue of $25.9 billion. The results topped Wall Street’s forecasts of $1.68 per share and revenue of $25.2 billion Disney CEO Josh D’Amaro declared that Disney is “a growth company,” during the fiscal fourth quarter earnings call MoffettNathanson raised its estimate for Disney’s fiscal year 2027 revenue to $1
+Bassam Tariq admitted he s quite sad that his Mahershala Ali-led Blade movie didn t come to fruition, but acknowledged that life was too short to make s t films. Tariq, who reunited with Ali on 2026 s action thriller Your Mother Your Mother Your Mother , reflected on his failed Marvel project in a Friday interview with The New Arab , noting how strange the process was. It was funny and strange to start casting and building without a proper script, he recalled. You re sitting there and explaining to actors what their role will be, and they just have to believe you. He added: That s also very dangerous because if the text comes and it doesn t add up to what you were saying, your credibility gets completely shot. All I have is my integrity, and I ve been thinking about that a lot. As Tariq went on, he noted he would have to be the bearer of bad news to your actors, despite not being the one making any of these decisions. That s not a great way to be a director, he said. I know some people can take that and run with it, but I learned I was losing credibility with my actors, and it wasn t a healthy way to operate as a filmmaker. According to Tariq, his big lesson from this experience was that life s too short to make s t films. I have to have full control over my script, he noted. If we disagree, it s between them and me. It s quite sad because we had such high hopes for what we wanted to build. Marvel first announced a new Blade movie starring Ali at Comic-Con back in July 2019. 
 
-### Jennifer Lopez Debuts ‘The JLo Show’ Special at The Absolute Top of Her Game’
-Fri, 20 Nov 2026 19:00:00 +0000 — https://www.thewrap.com/culture-lifestyle/culture/jennifer-lopez-the-jlo-show-paramount-premiere/
+### Bill Maher Gets Big Laughs With Hunter Biden Jab During GTA VI Discussion
+Sat, 21 Nov 2026 03:48:12 +0000 — https://www.thewrap.com/creative-content/tv-shows/bill-maher-hunter-biden-gta-vi-monologue-joke/
 
-Jennifer Lopez is entering a new era but first, it s time to celebrate her incomparable career with a look back at nearly 30 years worth of hits. The If You Had My Love singer rang in the new year with her Las Vegas residency at The Colosseum at Caesars Palace, and now she s packaged the final performance for The JLo Show, premiering Thanksgiving Day on CBS and Paramount+. Lopez debuted her new special Thursday night on the Paramount Studios backlot in Hollywood, decked out in Dolce & Gabbana. During his introduction at the Sherry Lansing Theatre, Skydance TV co-chair and chief content officer George Cheeks touted Lopez as a generational talent in music, in film, in dance; who’s at the absolute top of her game. “It’s bold, it’s epic and it’s intimate. And it’s anchored by a tour de force performance of the talent of our generation, Miss Jennifer Lopez, he added. We realized we had to be a part of this, we had to be the ones to help bring this to the broadest audience possible.” View this post on Instagram A post shared by Jennifer Lopez (@jlo) Tracing her journey from the Bronx to global icon, Lopez delivers a production that is as intimate as it is spectacular, backed by a full orchestra, vocal ensemble and 16 dancers. The show blends her most iconic hits with personal storytelling, featuring the artists and songs that influenced her. The result is a show that feels modern, nostalgic and timeless, per the logline. Premiering on Thanksgiving night, the show continues a cheris
+Even Bill Maher is jumping in on the Grand Theft Auto VI bandwagon. The Real Time With Bill Maher host brought up the record-breaking video game in his Season 24 finale monologue on Friday night, along with one of his favorite subjects: Hunter Biden. Maher prefaced by admitting he wasn t a gamer. I ve never played, but I recognize a game. Game recognize game. It is a giant cultural phenomenon, and I guess it s just harmless fun, he started. It s [about] two hot people who are criminals, and they go around causing mayhem. It s full of drugs and hookers and choking people and guns. And today, Hunter Biden said, This is why all you guys love [it]? When I did it, I was the bad guy! The audience erupted after he delivered the line. GTA 6 sounds pretty insane. You can get drugs, hookers, guns, choke people… Hunter Biden said, "This is what all you guys love. When I did it, I was the bad guy." pic.twitter.com/LTyyE5pZsd &mdash; Bill Maher (@billmaher) November 21, 2026 Hunter Biden, the son of former U.S. president Joe Biden, has spoken openly about his substance abuse addiction and philandering, including in his 2021 memoir Beautiful Things. Biden actually appeared in an episode of Real Time earlier this season, where he revealed that he apologizes to his father every day for his actions. Hunter Biden on the Aug. 21 episode of Real Time With Bill Maher (HBO) “It’s one of the greatest heartaches of my life,” Biden said in the August 21 episode . “The trouble with recovery is this, I
 
-### Elin Hilderbrand s TV Universe Expands With Adaptations for 28 Summers and The Rumor in the Works at 20th Television
-Fri, 20 Nov 2026 18:41:21 +0000 — https://www.thewrap.com/media-platforms/tv/elin-hilderbrand-adaptations-28-summers-the-rumor-20th-television/
+### Palisades Fire Suspect Jonathan Rinderknecht Found Guilty of Starting Deadly Blaze After Retrial
+Sat, 21 Nov 2026 02:25:13 +0000 — https://www.thewrap.com/industry-news/public-policy-legal/palisades-fire-suspect-jonathan-rinderknecht-found-guilty-retrial/
 
-Elin Hilderbrand s TV universe just keeps expanding, with 20th Television optioning and developing two more of the best-selling author s books, 28 Summers and The Rumor. TV adaptations for both titles are in the works at 20th Television and Dinner Party, Sue Naegle and Ali Krug s production company that was behind Peacock s The Five Star Weekend series, which was renewed for a second season after becoming Peacock’s No. 1 scripted series of all time in overall reach. Hilderbrand, Naegle and Krug are attached as EPs for both series, while The Perfect Couple creator Jenna Lamia will reunite with Hilderbrand to write and executive produce The Rumor. Holly Whidden ( The Bold Type ), who served as a consulting producer on The Perfect Couple, is also attached as an EP for The Rumor. The Rumor unfolds over a Nantucket summer in which island gossip turns dangerous, and the only person with the story straight is a local novelist who must decide whether to publish it, per the official logline. Likewise, 28 Summers explores the agony and romance of a one-weekend-per-year affair and the dramatic ways this relationship complicates and enriches their lives, and the lives of the people they love, per the logline. Both series take place on Nantucket, where the majority of Hilderbrand s novels are set, but explore different parts of life on the island. I m thrilled to have two of my most beloved novels adapted by Dinner Party, the production team who turned The Five Star Weekend into an elevat
+A jury on Friday found a man guilty for starting the deadly January 2025 Palisades Fire that killed 12 people and destroyed 6,000 home and structures. Jonathan Rinderknecht was convicted on two federal counts: destruction of property by means of fire, and arson affecting property used in interstate commerce. Prosecutors used surveillance camera footage of Rinderknecht driving through the Pacific Palisades region prior to the fire to build their case. They also argued that DNA from a green BIC barbeque lighter matched his DNA. Friday s conviction comes after Rinderknecht s first federal trial was declared a mistrial five months prior. Back in June, a jury informed U.S. District Judge Anne Hwang that it was deadlocked on all three felony counts against Rinderknecht with 10 jurors favoring acquittal, according to media reports. His retrial began with jury selection on Nov. 2. A verdict was reached 18 days later. The Los Angeles Fire Department issued their thanks jurors on Friday. We respect the jury s work and the long, difficult process that brought us to today s verdict, LAFD wrote in a statement. “Our first thought remains with the families of those we lost and for everyone in our community whose lives were changed by this fire,” the statement continued. “No verdict, however important, could ever undo that loss. Because the criminal sentencing and related civil matters remain pending, we will not comment further at this time. Rinderknecht will be sentenced on March 17, 2027.
 
-### How The Mob Bosses Brought Mafia Movie Familiarity to Reality TV
-Fri, 20 Nov 2026 18:30:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/the-mob-hulu-mafia-movie-reality-show-producer-interview/
+### SAG-AFTRA Launches Universal Healthcare Group to Lobby for Affordable Member Plans
+Sat, 21 Nov 2026 01:40:15 +0000 — https://www.thewrap.com/industry-news/labor-unions/sag-aftra-universal-healthcare-task-force-launch/
 
-Note: This story contains spoilers from The Mob Season 1. Fans of both mafia movies and reality television were treated to some familiar faces across genres in The Mob on Hulu this fall — and that was, of course, all by design. According to executive producers Niall O Driscoll and Mat Steiner, casting talent from hits like Goodfellas, The Sopranos and even The Real Housewives of New Jersey just made sense for building out their already-familiar world. That was a big selling point for them, once we told them exactly the kind of world they would be entering. We wanted people that connected to that world and who would embrace the theatrical side of it, O Driscoll told TheWrap. But then also, we wanted those brilliant game players who would absolutely take the competition seriously and still have a lot of fun with it we wanted this very unlikely family who would come together and be a mixture of generations and personalities. When you have a reality show that is essentially an homage to a genre, and that genre happens to be one that s very popular across all demographics on the scripted side of things, everyone kind of knows the world already because they ve been watching the films for decades and understand the shorthand and the catchphrases and whatever, Steiner added. It s an asset, really, when you re casting a show like this because you ve got fans already: Who would you like to be in it? Plus, the part-scripted/part-improv nature of the hosting gig offered an opportunity Pa
+SAG-AFTRA announced Friday the formation of the President’s Healthcare Task Force in an effort to better lobby on behalf of its members for universal healthcare as prices spike nationwide. The task force will advocate to advance universal access to affordable, comprehensive and reliable health care, according to the union s release. “This is a critical moment, where both our members and the public at large can no longer wait for relief from a broken healthcare system, SAG-AFTRA President Sean Astin said. Our SAG-AFTRA Health Plan is healthy and strong, but a substantial majority of our members do not qualify. For our members who don’t qualify, there is very little that can be done to provide coverage. SAG-AFTRA has supported efforts to expand healthcare for all through the AFL-CIO. This Taskforce seeks a new level of participation in the national movement to expand care for everyone, he added. We will actively engage with policymakers, gather allies and provide a structured way for our members to participate formally in the process. The President’s Healthcare Taskforce will be an instrument of support in the movement for universal healthcare. Many SAG-AFTRA members have not been able to meet minimums this year to be eligible for healthcare through the union. The board will work together to ensure that the acting community is advocated for, the announcement read. Earlier this fall, Astin responded to growing frustration from union members that found it difficult to pay members
 
-### When Exactly Is Sunrise on the Reaping Set in the Hunger Games Timeline?
-Fri, 20 Nov 2026 18:23:31 +0000 — https://www.thewrap.com/creative-content/what-to-watch/when-is-sotr-set-hunger-games-timeline/
+### Yes, Dear Actor Anthony Clark s Cause of Death Revealed
+Sat, 21 Nov 2026 01:08:14 +0000 — https://www.thewrap.com/culture-lifestyle/culture/yes-dear-actor-anthony-clark-cause-of-death-revealed/
 
-The Hunger Games is an ever-expanding franchise, so nailing down just when each one is taking place and how much time has passed is getting more confusing. Sunrise on the Reaping takes us back to the 50th rendition of the games and the Second Quarter Quell. Haymitch Abernathy – who is later played by Woody Harrelson – competes in his Hunger Games in this story. The new film stars Joseph Zada as a young Haymitch alongside McKenna Grace, Jesse Plemons, Elle Fanning, Ralph Fiennes, Kieran Culkin, Maya Hawke, Glenn Close, Whitney Peak and Iris Apatow. Here is exactly where in the timeline Sunrise on the Reaping takes place and how many years occur before and after certain events. When does Sunrise on the Reaping take place? Sunrise on the Reaping is the second prequel set in The Hunger Games franchise and can slot in between two previously released movies. The story of Haymitch s Quarter Quell games takes place 40 years after Coriolanus Snow s turn in A Ballad of Songbirds and Snakes and 24 years before Katniss volunteers as tribute in The Hunger Games. How to watch the movies in chronological order The “The Hunger Games” series has expanded with a number of prequels since the original trilogy wrapped up and was fully adapted. If you want to watch everything in chronological order, here is how your binge will look. “The Hunger Games: The Ballad of Songbirds & Snakes” “The Hunger Games: Sunrise on the Reaping” “The Hunger Games” “The Hunger Games: Catching Fire” “The Hunger Games:
+Anthony Clark s official cause of death has been revealed. The Yes, Dear actor died of septic shock on Nov. 10 at age 63, according to a death certificate obtained by People . Influenza A and chronic alcoholism were listed as the cause of death on the certificate with underlying conditions. Acute kidney failure was identified as a significant contributing factor. Clark s death was confirmed by his Yes, Dear co-star Mike O Malley on Nov. 11. “Anthony Clark died yesterday. He was a hilarious guy,” O’Malley wrote on X . “When my wife Lisa and I were dating back in the mid-nineties, Anthony was already famous in Boston, regularly selling out comedy shows. The first time we saw him at The Comedy Connection we laughed and laughed and laughed.” Anthony Clark died yesterday. He was a hilarious guy. When my wife Lisa and I were dating back in the mid-nineties, Anthony was already famous in Boston, regularly selling out comedy shows. The first time we saw him at The Comedy Connection we laughed and laughed and laughed. He… pic.twitter.com/4IDPabBk8U &mdash; Mike O'Malley (@TheMikeOMalley) November 11, 2026 “He was so unique—one of those comics who is laughing along with you at the absurdity of his stories and observations, O Malley added. I was a fan before I was a friend.” Clark starred as Gregory Warner on all six seasons of the CBS sitcom from 2000 to 2006. Along with O Malley, Yes, Dear also starred Jean Louisa Kelly and Liza Snyder. Clark, who started his career as a stand-up come
 
-### Bowen Yang Apologizes for Antisemitic Remark About Regina Spektor
-Fri, 20 Nov 2026 17:59:19 +0000 — https://www.thewrap.com/culture-lifestyle/culture/bowen-yang-apologizes-for-antisemitic-remark-regina-spektor/
+### The Governors Awards Signal Bold Fashion Ahead for Hollywood s Awards Season
+Sat, 21 Nov 2026 01:03:19 +0000 — https://www.thewrap.com/culture-lifestyle/fashion/governors-awards-fashion-highlights-charlize-theron-wrapstyle/
 
-Bowen Yang apologized Friday after facing criticism for referring to Jewish singer Regina Spektor as a “Zio,” an antisemitic slur, during an October episode of the “Las Culturistas” podcast. But Anti-Defamation League CEO Jonathan Greenblatt criticized the apology, accusing the comedian of normalizing antisemitism and taking issue with a follow-up post in which Yang added, “At the same time, Free Palestine.” In a Friday Instagram post, the “Saturday Night Live” alum said he had used the word without knowing its antisemitic history and acknowledged that he had adopted language popularized by far-right movements. I want to genuinely apologize for using a word on the podcast without knowing its antisemitic history, especially since we ve repudiated antisemitism on the show as recently as the last two weeks, Yang said in a Friday Instagram post . Particularly upsetting to realize that I adopted language popularized by far-right movements whose rhetoric we should be wary of and act against. View this post on Instagram A post shared by Bowen Yang (@fayedunaway) Later Friday, Anti-Defamation League CEO Jonathan Greenblatt responded to Yang s apology, saying the comedian had given the public a textbook example of normalizing antisemitism. First, you breezily used the antisemitic slur Zio on your show, got called out for it, and then issued a meager apology, he wrote in an X post . You claimed not to know the history of the term, explaining you were upset to learn it was popularized b
+The Governors Awards signal bold fashion ahead for Hollywood s awards season, with Charlize Theron leading the charge in Tom Ford. A new San Francisco museum exhibition explores Azzedine Alaïa s enduring relationships with art and the celebrities who loved him. Supermodel Carolyn Murphy brings her understated elegance to a holiday-ready collaboration with La DoubleJ. And Dior partners with Sundance to champion the next generation of women filmmakers, joining the growing movement of luxury brands supporting talent behind the camera. Charlize Theron wearing a Tom Ford gown at the 17th Governors Awards at Dolby Theatre on Nov. 15, 2026 in Hollywood, California. Source: Getty Governors Awards Red Carpet Signals Bolder Awards Season Ahead And we re off! The Oscars may be months away, but Hollywood s red carpet hit parade is already upon us. The Academy of Motion Picture Arts and Sciences annual Governors Awards marked the beginning of awards season on Sunday, bringing A-listers, contenders and industry power players together with Academy voters to mix and mingle ahead of the nominations. Tessa Thompson wearing Schiaparelli Fall 2026 couture. Source: Getty Held at the Ray Dolby Ballroom in Hollywood, the ceremony honored eight-time Oscar nominee Glenn Close, director Ridley Scott and Floyd Norman, Disney s first Black animator, with honorary Academy Awards. Independent producers Christine Vachon and Pamela Koffler, the team behind Carol and Past Lives, among other films, received t
 
-### ‘The View’: Alyssa Farah Griffin Predicts Elon Musk Will Be ‘Wearing a Pride Flag’ to Support Dems Within 6 Months
-Fri, 20 Nov 2026 17:37:04 +0000 — https://www.thewrap.com/creative-content/tv-shows/the-view-alyssa-farah-griffin-predicts-elon-musk-support-dems/
+### Derval Whelan Exits Searchlight as Head of US Distribution After 17 Years
+Sat, 21 Nov 2026 00:07:45 +0000 — https://www.thewrap.com/creative-content/movies/derval-whelan-retires-searchlight/
 
-Former Trump administration member Elon Musk claimed this week that he is not MAGA, and the hosts of The View aren t buying it. That said, Alyssa Farah Griffin also very much thinks the billionaire Trump donor will be doing anything he can, even wearing a Pride flag, to look like he supports Democrats in the next six months. As part of the day s Hot Topics, the ABC hosts largely laughed at Musk s insistence at The New York Times DealBook Summit that he is not MAGA and doesn t even really know what it means. To Farah Griffin, it was a pretty rich attempt at self-preservation, after donating half a billion dollars to Republicans in the midterms, only for them to get largely swept. I thought this was so rich because he described himself in 2024 on the campaign trail with Donald Trump, not just as MAGA, he said, I am dark gothic MAGA,' Farah Griffin reminded viewers. He wore a hat in the cabinet room appearing with Donald Trump, a red cap that said Donald Trump was right about everything.' The host was also quick to argue that, for tech oligarchs like Musk, losing the amount of money he did on this campaign is a rounding error that really doesn t affect his bottom line. That said, Farah Griffin thinks Musk sees the writing on the walls. So I m also predicting that over the next six months, as Democrats take back control, you re going to see him wearing a pride flag and doing land acknowledgements and trying to make us all forget, she said. Host Ana Navarro agreed that Musk sees w
+After a 17-year run at Searchlight Pictures, Derval Whelan is set to retire at the end of the month from her role as U.S. Head of Distribution, TheWrap has learned. The specialty label will announce the industry vet s replacement imminently. Whelan’s tenure with the specialty studio extends back 20 years — with a brief break between 2021 and 2023 when she worked as President of Distribution at Bleecker Street. Her run began with “Little Miss Sunshine,” and includes such award-winning titles as “12 Years a Slave,” “Three Billboards Outside Ebbing, Missouri,” “The Shape of Water,” “Birdman,” “127 Hours” and “Slumdog Millionaire.” Searchlight garnered 18 Best Picture Oscar nominations during Whelan’s time with the studio; in total, they received 161 Oscar nominations and 45 wins. Before Searchlight, Whelan held positions at Sony Pictures Classics, Miramax, MK2 USA and Orion Classics. Searchlight Pictures currently has “Wild Horse Nine” from director Martin McDonagh playing in theaters. The film has grossed $30 million worldwide In his review of the film, The Wrap s William Bibbiani wrote : It’s not a crime that Martin McDonagh’s “ Wild Horse Nine ” isn’t as funny or touching as his Oscar-nominated crime comedy “In Bruges,” or as acidic and fascinating as the Coen Brothers’ “Burn After Reading.” But if it was a crime, McDonagh would find a way to forgive it. The director of “Three Billboards Outside Ebbing, Missouri” and “Seven Psychopaths” has an enduring love for wrong-doers an
 
 ## Collider
 
-### Jennifer Lawrence’s ‘Slow Horses’ Alternative Is Officially an HBO Max Hit
-Fri, 20 Nov 2026 21:30:12 GMT — https://collider.com/jennifer-lawrence-red-sparrow-streaming-success-hbo-max-november-2026/
+### 9 Years Ago, Jon Bernthal Teamed With Taylor Sheridan to Deliver His Most Devastating Performance
+Sat, 21 Nov 2026 12:53:12 GMT — https://collider.com/jon-bernthal-best-performance-taylor-sheridan-wind-river/
 
-Best known for her role as Katniss Everdeen in The Hunger Games movies, Jennifer Lawrence has done more than enough to cement herself as one of the greatest actresses of all time. In 2013, Lawrence earned her first Oscar for her performance opposite Bradley Cooper in Silver Linings Playbook , and it’s a must-watch on the streaming platform Vix for those who haven't seen it. This was part of a strong run for Lawrence, who was nominated for four Oscars in six years while also starring in The Hunger Games movies, and although she hasn’t been nominated for an Academy Award in 10 years, it wouldn’t be surprising to see her back on stage soon. Lawrence returns to The Hunger Games franchise this weekend, reprising her role as Katniss in Sunrise on the Reaping .
+Jon Bernthal is known for his gun-toting, intense characters, but one of his best depictions of masculinity was only for a few scenes of screen time in Taylor Sheridan ’s masterpiece, Wind River . After writing Sicario and Hell or High Water , Sheridan directed his own feature film that takes on yet another strictly American issue. The neo-Western takes place on the titular Indian Reservation, following the sudden death of a young Indigenous woman, Natalie ( Kelsey Asbille ). Statistics about crimes against this demographic do not exist, which is the stark point Wind River makes.
 
-### I Play Rocky: A 50-Year-Old Tape Inspired Rocky’s Stairs | Collider BTS
-Fri, 20 Nov 2026 21:15:12 GMT — https://collider.com/video/i-play-rocky-a-50-year-old-tape-inspired-rocky-s-stairs-collider-bts/
+### Jon Bernthal’s 6-Episode Noir Crime Thriller Deserved a Better Fate
+Sat, 21 Nov 2026 12:47:12 GMT — https://collider.com/jon-bernthal-noir-crime-thriller-mob-city-deserved-better/
 
-Peter Farrelly reveals why he made the difficult decision to move I Play Rocky's climactic Apollo Creed fight to the end credits, even after spending an entire week filming the sequence.
+The classic noir detective comes with three staples: a gun, a smoking habit, and a three-piece suit. While many actors have taken on the role, few embody it quite like Jon Bernthal in TNT’s Mob City . Based on John Buntin ’s book L.A. Noir: The Struggle for the Soul of America’s Most Seductive City , the series captures the murky criminal underworld of 1947 Los Angeles , where a fictionalized version of notorious gangster Mickey Cohen rules the streets.
 
-### Netflix Officially Scores Star Wars Icon’s Forgotten Crime Thriller
-Fri, 20 Nov 2026 21:15:12 GMT — https://collider.com/hayden-christensen-awake-streaming-release-date-netflix-december-2026/
+### ‘Game of Thrones’ Creator’s Box Office Bomb Officially Makes Streaming History
+Sat, 21 Nov 2026 12:45:12 GMT — https://collider.com/george-rr-martin-in-the-lost-lands-global-streaming-success-prime-video-november-2026/
 
-Hayden Christensen has starred in quite a few projects over the years, but he’ll never be known for anything as well as he is for playing Anakin Skywalker in the Star Wars universe. Christensen took some time away from the franchise after Revenge of the Sith in 2005, and it took almost 20 years for him to return to his role in live-action. In the first season of Obi-Wan Kenobi (co-starring Ewan McGregor ) on Disney+ , Christensen starred as both Anakin Skywalker and Darth Vader, even getting the chance to play both at the same time in the series finale. Back in 2023, he returned for the debut season of Ahsoka (starring Rosario Dawson ), and after a four-year hiatus, he’s set to return in the second season, which drops in January.
+Best known for his work writing A Song of Ice and Fire , the series of novels that inspired the hit HBO series, Game of Thrones , George R. R. Martin is also involved in plenty of other important projects. Martin wrote the acclaimed series of short stories around the characters known as Dunk and Egg that inspired the second Game of Thrones spin-off, A Knight of the Seven Kingdoms , which is set to return in the first half of 2027 with its second season. He even penned A Song of Fire and Blood , which was the inspiration behind the first Game of Thrones spin-off, House of the Dragon , which is returning in 2028 with its final season. He even produces the hit AMC+ Western series, Dark Winds , which has quietly become one of streaming's most-watched shows in the last few years.
 
-### Nicolas Cage’s Horror Icon Officially Returns With a ‘Paradise’ Star
-Fri, 20 Nov 2026 21:04:48 GMT — https://collider.com/nicolas-cage-longlegs-spin-off-cast-sterling-k-brown/
+### Ridley Scott’s Sci-Fi Masterpiece Is Officially Being Removed From Netflix
+Sat, 21 Nov 2026 12:30:12 GMT — https://collider.com/alien-ridley-scott-leaving-netflix-december-2026/
 
-Nicolas Cage is a modern horror icon all his own, having appeared in some of the wildest and most creative entries in the genre over the past decade and change. From the bonkers and bloody action nightmare Mandy to the Lovecraftian Color Out of Space , the post-apocalyptic Arcadian , and the near-wordless Willy's Wonderland , he's been content to let loose and take on just about anything macabre. His presence in the genre is so prolific that he even earned a place as a playable survivor in Dead By Daylight as, well, himself. No singular horror role of his has made quite the impression of Longlegs , however. And now, after haunting FBI agent Lee Harker ( Maika Monroe ), the serial killer has found a Paradise star to terrorize.
+This year, two major directors made long-awaited returns to the genre they are most closely associated with: sci-fi. First out of the gate was Steven Spielberg , who released Disclosure Day — his first new sci-fi film since 2018. The movie grossed around $250 million worldwide against a reported budget of $130 million and received mostly positive reviews.
 
-### Rebecca Ferguson’s ‘Silo’ Co-Star Officially Joins New Godzilla Series
-Fri, 20 Nov 2026 21:00:12 GMT — https://collider.com/apple-tv-monsterverse-series-cast-tim-robbins/
+### ‘Marshals’ Officially Addresses Tragic Real-Life ‘Yellowstone’ Death
+Sat, 21 Nov 2026 12:20:38 GMT — https://collider.com/marshals-cole-brings-plenty-tribute-mo-brings-plenty/
 
-Since its premiere in 2023, Silo has been a standout for Apple TV . The sci-fi thriller had a strong start, earning acclaim from fans and critics, and that acclaim has grown with each season . The series has three parts under its belt, with the fourth expected in summer 2027. Starring Rebecca Ferguson as Juliette Nichols, Silo is based on Hugh Howey 's books of the same name. The series has been praised for its excellent visuals and great performances from cast members including Common (Sims), Chinaza Uche (Billings), Tim Robbins ( Bernard ), and more.
+The Yellowstone universe has never been short on tragedy, but sometimes the stories told on screen have heartbreaking connections to real life. Mo Brings Plenty has been part of Taylor Sheridan 's franchise since the original series began in 2018, playing one of the people Kayce Dutton has always been able to trust . His character has continued into Marshals , where the relationship between Mo and Kayce remains an important part of the show. However, the latest episode gave Brings Plenty a chance to tell a story that was far more personal than anything he had previously filmed.
 
-### Christopher Nolan’s ‘The Odyssey’ Crowned the King of Streaming
-Fri, 20 Nov 2026 20:30:12 GMT — https://collider.com/christopher-nolan-the-odyssey-streaming-success-apple-tv-november-2026/
+### The 10 Most Hopeless American TV Shows of All Time, Ranked
+Sat, 21 Nov 2026 12:14:12 GMT — https://collider.com/most-hopeless-american-tv-shows-all-time-ranked/
 
-2026 has proven an astonishing year for the movies, with 28 Years Later: The Bone Temple 's success setting the stage early, trickling down fans’ enthusiasm to show up for movies with original concepts. The year then unfolded with brilliant features like Ryan Gosling ’s Project Hail Mary , a stunning visual masterpiece with the story of friendship at its core. The fifth installment of Toy Story earned $1 billion worldwide for its nostalgia and timely story; another movie in the billion-dollar club was The Super Mario Galaxy Movie , which wooed fans worldwide. Similarly, stories like The Drama , Obsession , and Backrooms found not only fans’ love but also commercial success worldwide.
+There's a particular kind of television tragedy that follows you into the next morning. You're making coffee, answering messages, doing something completely ordinary, and suddenly you remember a fictional character who deserved a better life. Maybe they escaped the terrible situation. Maybe they even won.
 
-### 3 Best Crime Thrillers To Watch on Netflix This Weekend (November 21-22)
-Fri, 20 Nov 2026 20:29:12 GMT — https://collider.com/best-crime-thriller-movies-watch-netflix-this-weekend-november-21/
+### Brandon Sanderson Officially Confirms Major ‘Stormlight Archive’ Update
+Sat, 21 Nov 2026 12:00:12 GMT — https://collider.com/brandon-sanderson-stormlight-archive-book-6-writing-timeline/
 
-The holidays are pretty much upon us, and while many would want to spend these days watching cozy Christmas romances or heartwarming family stories, some others are always in the mood for some criminal mayhem. After all, few things are better than watching a great crime thriller full of twists, lies, careful planning, betrayals, and a myriad of things going wrong — now, that's great entertainment.
+The last time Brandon Sanderson took readers to Roshar for a full-length Stormlight Archive novel, he gave them an ending and a fairly long wait . Wind and Truth closed out the first five-book arc in December 2024. When the story picks up again, roughly a decade will have passed for the people who live on Roshar. The question for readers has been how many of those years they’ll have to sit through themselves.
 
-### Guy Ritchie’s Star-Studded 2-Part Gangster Crime Drama Just Got Even Easier To Binge
-Fri, 20 Nov 2026 20:22:12 GMT — https://collider.com/guy-ritchie-best-gangster-drama-series-mobland-season-2-binge/
+### These 8 Single-Season Fantasy Shows Are Masterpieces
+Sat, 21 Nov 2026 11:52:12 GMT — https://collider.com/fantasy-shows-single-season-masterpieces/
 
-Paramount+ released the gangster crime drama , MobLand , in March 2025, and it quickly became a huge hit for the streamer . Whether viewers found themselves tuning in for the action-packed car chases and entertaining gunfights or to catch the incredible star-studded cast that boasts Pierce Brosnan , Tom Hardy , and Helen Mirren , MobLand has something for everyone. With an impressive Rotten Tomatoes score and both seasons now streaming in full on Paramount+ , there's never been a better time to catch up on the series if you haven't already. Now that the Season 2 finale is out, you can go straight from one season to the next, so there's no reason it shouldn't be your next binge-watch.
+Fantasy TV is greatly known for thriving on sprawling worlds and long-running sagas, multi-season chaos that offers thrilling character journeys . But sometimes the genre produces rare and fantastic hits that deliver just a single season. That one-season hit often wields an unforgettable story with ambitious themes, striking visual direction, and an emotionally satisfying arc—even when it concludes on a slight cliffhanger.
 
-### The 5 Most Intense Crime Miniseries, Ranked
-Fri, 20 Nov 2026 20:08:12 GMT — https://collider.com/intense-crime-miniseries-ranked/
+### Tom Hanks’ Acclaimed WWII Miniseries Officially Celebrates a Streaming Milestone
+Sat, 21 Nov 2026 11:30:12 GMT — https://collider.com/wwii-with-tom-hanks-streaming-success-apple-tv-150-days-november-2026/
 
-Some crime shows are fun to binge, while others make viewers pause the episode halfway through just to catch their breath. The second kind is a lot harder to find, because intensity in a crime show doesn’t always have to come from loud action sequences or brutal violence. In fact, the best titles in the genre make the audience feel like something terrible is just about to happen, and there’s nothing anyone can do to stop it.
+It's no secret that Tom Hanks is one of the biggest movie stars in the world, and although he's now 70 years old, he's showing no signs of slowing down in this later stage of his career. Hanks is a two-time Oscar-winner for his performances in Philadelphia and Forrest Gump , and he's also been nominated plenty of other times in his career for other daring projects like Saving Private Ryan . Saving Private Ryan is one of the many exceptional WWII projects Hanks has given to the genre over the years, but most would agree it features one of the best performances of his entire career, even if he ultimately lost the Oscar. Another Tom Hanks WWII project that immediately comes to mind is Band of Brothers , the 2000 miniseries that he produced along with Steven Spielberg .
 
-### Robert Pattinson Almost Wasn’t Cast as James Bond for One Key Reason
-Fri, 20 Nov 2026 20:00:17 GMT — https://collider.com/robert-pattinson-james-bond-jeffrey-bezos-reaction/
+### ‘Project Hail Mary’ Almost Had a Completely Different Ending for Rocky
+Sat, 21 Nov 2026 11:15:12 GMT — https://collider.com/project-hail-mary-rocky-james-ortiz-puppeteer-interview/
 
-It's official: Robert Pattinson is the next James Bond, making him the eighth actor to take on the role after Daniel Craig 's 15-year tenure in the franchise. Before the announcement, many names were thrown as potential 007 candidates, including Idris Elba ( Thor ), Aaron Taylor-Johnson ( Kraven the Hunter ) , and Tom Hardy ( Venom ) . In October, Pattinson was shortlisted for the role, along with Nicholas Hoult ( Superman ), Jack Lowden ( Dunkirk ), Josh O'Connor ( Disclosure Day ) , and Callum Turner ( Fantastic Beasts: The Secrets of Dumbledore ), and had a screen test in London. Now that the casting announcement is out, more details about the decision have been unveiled, especially by Amazon's leader.
+In a historic move, actor and puppeteer James Ortiz is eligible for a Best Supporting Actor nomination at the 99th Academy Awards for his standout performance on Project Hail Mary . He’s the mind and movement behind the blockbuster’s lovable alien creature, Rocky, who led a team of puppeteers on set, essentially performing “ Waiting for Godot in space” opposite Ryan Gosling with take after take of improvisation.
 
