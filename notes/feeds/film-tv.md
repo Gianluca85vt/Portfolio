@@ -1,58 +1,78 @@
-# Film & TV — harvested 2026-11-22T12:51:40.413Z
+# Film & TV — harvested 2026-11-22T20:28:33.009Z
 
 ## Variety
 
-### James Gray on Francis Ford Coppola’s Advice That Shaped His Career: ‘Be Personal. There’s Only One of You in This World’
-Sun, 22 Nov 2026 10:15:50 +0000 — https://variety.com/2026/film/global/james-gray-paper-tiger-francis-ford-coppola-advice-1236955238/
+### Ina Garten Says She Turned Down ‘Dancing With the Stars’ Because the Thought of Competing Gave Her ‘Nightmares’
+Sun, 22 Nov 2026 20:14:53 +0000 — https://variety.com/2026/tv/news/ina-garten-dancing-with-the-stars-1236955404/
 
-When filmmaker James Gray was a teenager, he wrote a fan letter to Francis Ford Coppola. To his surprise, the legendary filmmaker wrote back with a piece of advice that would come to shape Gray’s entire approach to cinema. “He said, ‘Be personal, James. There’s only one of you in this world,’” Gray recalled during [ ]
+Celebrity chef Ina Garten will not be cooking up a freestyle for “Dancing with the Stars” in the near future. Garten told Rose Byrne on a recent episode of her “Happy Hour” podcast that she would be too nervous to compete. She opened the floor by asking Byrne if she had ever “not done something [ ]
 
-### SXSW Forges Partnership With Egypt s UTH Festival Dedicated to Youth Culture
-Sun, 22 Nov 2026 09:41:26 +0000 — https://variety.com/2026/film/global/sxsw-partnership-egypt-uth-festival-youth-culture-1236955220/
+### You Can See Everything Becomes Rare Documentary to Surpass $100 Million Globally
+Sun, 22 Nov 2026 19:57:37 +0000 — https://variety.com/2026/film/box-office/you-can-see-everything-crosses-100-million-global-box-office-1236955393/
 
-Austin’s South by Southwest Film and TV Festival has forged a partnership with Egypt’s UTH Festival dedicated to youth culture under which UTH will become SXSW s partner in Egypt. The agreement is aimed at identifying emerging talent and building opportunities for Egyptian filmmakers, musicians, creators, founders and business leaders to engage with SXSW s international network,” [ ]
+You Can See Everything has surpassed $100 million globally, a rare box office milestone for a documentary. So far, the zeitgeist-capturing look at Theranos fraudster Elizabeth Holmes has generated a staggering $93.4 million at the domestic box office and $9 million overseas for a worldwide tally of $102.4 million. It continues to mint money for [ ]
 
-### Neon-Backed Biopic Caesar, About Syrian Officer Who Blew the Whistle on Assad Regime Torture, to Be Directed by Ameer Fakher Eldin
-Sun, 22 Nov 2026 09:28:22 +0000 — https://variety.com/2026/film/global/ameer-fakher-eldin-caesar-syrian-assad-torture-1236955196/
+### Noah Kahan Deserved a Lot More Grammy Love Than Just One Minor Nomination. Here s Why He Didn t Get It
+Sun, 22 Nov 2026 19:30:19 +0000 — https://variety.com/2026/music/columns/noah-kahan-lack-of-grammy-nominations-reasons-1236955321/
 
-Ameer Fakher Eldin (“The Stranger,” “Yunan”) is set to direct Neon-backed biopic “Caesar.” The film centers on Syrian military officer Farid Al-Madhhan who blew the whistle on torture and killings perpetrated by the regime of Syrian president Bashar Assad. Syrian star Taim Hassan has been cast in the lead role playing the film s titular hero, [ ]
+In previous eras of less pervasive social media, we usually could only guess at just how disappointed music and film personalities were when they didn t fare well with Grammy or Oscar nominations. But lately, more and more major and minor figures have been up-front and honest in sharing with their fans that, hey, yes, they re [ ]
 
-### Katseye Brings Out Camila Cabello for Gabriela Dance at Los Angeles Show
-Sun, 22 Nov 2026 08:04:12 +0000 — https://variety.com/2026/music/news/katseye-brings-out-camila-cabello-gabriela-los-angeles-1236955210/
+### Noah Schnapp Says He Auditioned to Play Haymitch in ‘Hunger Games: Sunrise on the Reaping’: ‘They Picked Right for This One’
+Sun, 22 Nov 2026 18:47:06 +0000 — https://variety.com/2026/film/news/noah-schnapp-hunger-games-sunrise-on-the-reaping-haymich-1236955369/
 
-Roughly six songs into their performance on Saturday night, Katseye made a girl group connection with Fifth Harmony member Camila Cabello as Daniela Avanzini brought her out to be the collective s Gabriela for the evening, dancing to the choreography that accompanies the song. Katseye, who performed as a quartet consisting of Avanzini alongside Lara Raj, [ ]
+The odds were not in Noah Schnapp’s favor when it came to joining “The Hunger Games: Sunrise on the Reaping.” The “Stranger Things” actor revealed on social media on Saturday that he had auditioned for the lead role of Haymitch. “POV: my audition for Haymitch,” he wrote on his Instagram story. Tagging leading man Joseph [ ]
 
-### Karla Sofia Gascon Says Emilia Perez Oscar Controversy Came From People Who Didn t Want Someone Like Me to Receive an Award
-Sun, 22 Nov 2026 07:39:54 +0000 — https://variety.com/2026/film/festivals/karla-sofia-gascon-emilia-perez-oscar-furor-trans-rights-1236955205/
+### Sheila Mangubat, 90 Day Fiancé: Before the 90 Days Star, Dies at 35
+Sun, 22 Nov 2026 18:27:55 +0000 — https://variety.com/2026/tv/people-news/sheila-mangubat-dead-90-day-fiance-1236955340/
 
-Spanish actor Karla Sofia Gascon, whose turn in Emilia Pérez made her the first transgender actor to land an Oscar nomination, says the controversy that consumed her awards campaign was driven by people who did not want to see someone like her win. In reality, the controversy was generated by a great many people who [ ]
+Sheila Mangubat, who appeared on the reality series “90 Day Fiancé: Before the 90 Days,” has died. She was 35. David Dangerfield, Mangubat’s former fiancé, announced her death in an Instagram post shared on Saturday. A cause of death was not shared. “It breaks my heart to share the news from her family that Sheila [ ]
 
-### Jennifer Lopez Teases Monster-in-Law Sequel With Jane Fonda: We’re Talking About Maybe Doing Another One
-Sun, 22 Nov 2026 01:00:57 +0000 — https://variety.com/2026/film/news/jennifer-lopez-jane-fonda-monster-in-law-follow-up-1236955143/
+### Jeff Goldblum, Marion Cotillard and John Turturro Dine With Morocco’s HRH Prince Moulay Rachid at Starry Royal Gala During Marrakech Film Festival
+Sun, 22 Nov 2026 18:01:36 +0000 — https://variety.com/2026/film/festivals/jeff-goldblum-marion-cotillard-morocco-prince-royal-dinner-1236955306/
 
-Jennifer Lopez and Jane Fonda might reunite for a “Monster-in-Law” follow-up, the singer and actress teased recently. In a clip from Lopez s upcoming appearance on “The Drew Barrymore Show,” she reminisced with the host about past projects, including the 2005 rom-com she starred in with Fonda. “I love this movie so much,” Barrymore said. “I [ ]
+Jeff Goldblum, Marion Cotillard, John Turturro and more stars got the royal treatment on Saturday night at a glitzy dinner hosted by Morocco s His Royal Highness Prince Moulay Rachid and Her Royal Highness Princess Lalla Oum Keltoum during the Marrakech Film Festival. Held at the 16th-century El Badi Palace — known for its stunning architecture [ ]
 
-### Kieran Culkin Says a ‘Succession’ Spinoff ‘Would Be a Terrible Idea’: ‘What Are You Hoping For? Cousin Greg: The Sitcom? ’
-Sun, 22 Nov 2026 00:52:28 +0000 — https://variety.com/2026/tv/news/kieran-culkin-succession-spinoff-terrible-idea-1236955146/
+### Rian Johnson Cites Curry Barker as Reason to Be Optimistic About Future of Indie Filmmaking: ‘Youtube Is Just What Sundance Was in the 80s’
+Sun, 22 Nov 2026 17:40:00 +0000 — https://variety.com/2026/film/festivals/rian-johnson-curry-barker-indie-film-youtube-sundance-1236955248/
 
-Sorry, “Succession” fans — Kieran Culkin is shutting down any possibility of a spinoff once and for all. The actor, currently starring in “The Hunger Games: Sunrise on the Reaping” as a young Caesar Flickerman, joined the “Heart Breakfast” radio show on Friday to discuss the new film, though hosts Amanda Holden and Jamie Theakston [ ]
+Rian Johnson is hopeful about the future of indie filmmaking. During a converation at Marrakech Film Festival on Sunday afternoon, the Star Wars: Last Jedi and Knives Out director specifically cited Youtube as one of the most effective ways for early-career filmmakers to get their movies discovered. Johnson reflected on a recent conversation he had [ ]
 
-### Mahershala Ali Says It ‘Doesn’t Matter’ That He’s Won 2 Oscars Because ‘There Are Not Roles for Me’ in ‘the Vast Majority of Projects’: ‘You’re Like Everybody Else Waiting’
-Sat, 21 Nov 2026 23:40:06 +0000 — https://variety.com/2026/film/news/mahershala-ali-oscars-wins-hollywood-1236955111/
+### Tom Jackson, Hall of Fame ESPN Broadcaster and Denver Broncos All-Pro Linebacker, Dies at 75
+Sun, 22 Nov 2026 17:23:24 +0000 — https://variety.com/2026/tv/people-news/tom-jackson-dead-espn-analyst-denver-broncos-1236955322/
 
-Mahershala Ali got candid about the impact — or lack thereof — his two Oscar wins have had on his career in Hollywood while appearing on a recent episode of Carmelo Anthony and Kazeem “Kaz” Famuyide’s “7PM in Brooklyn” podcast. The actor, who took home trophies for best supporting actor for both 2018’s “Greenbook” and [ ]
+Tom Jackson, former Denver Broncos linebacker and a Hall of Fame ESPN analyst, died Friday. He was 75. Jackson’s death was announced by ESPN, who was informed of his death by his family. ESPN “SportsCenter” anchor Chris Berman told the network that his death was “unexpected,” and he’d spoken with Jackson “at length” on Tuesday. [ ]
 
-### Seth Rogen Says Brad Pitt and ‘12 Years a Slave’ Cast Would Visit This Is the End Set to ‘Perk Up’ Because They Were ‘in a Bummed-Out Headspace’ While Filming
-Sat, 21 Nov 2026 20:40:44 +0000 — https://variety.com/2026/film/news/seth-rogen-brad-pitt-12-years-a-slave-cast-set-visit-1236955074/
+### How Oobah Butler Scammed His Way to HBO
+Sun, 22 Nov 2026 17:00:00 +0000 — https://variety.com/2026/tv/news/oobah-butler-hbo-show-1236954998/
 
-Seth Rogen and Brad Pitt spent time together while shooting very different films in 2013. Rogen recalled Pitt, Michael Fassbender, Chiwetel Ejiofor and other cast members from “12 Years a Slave” spending time on the set of his comedy “This Is the End” while the two films were both shooting in New Orleans. In a [ ]
+I meet Oobah Butler on a wet afternoon in Chinatown outside an empty claw-machine arcade. I spot the 34-year-old British hoax artist and gonzo journalist from way down the street, his platinum-blond mop top bobbing between umbrella-wielding tourists. The reason he picked this interview location — a few blocks from the open-air counterfeit handbag hub [ ]
 
-### Jeff Goldblum Performs a Piano Medley and Reflects on His Career at Marrakech Film Festival: The Stories That We Tell Matter
-Sat, 21 Nov 2026 19:51:33 +0000 — https://variety.com/2026/film/global/jeff-goldblum-career-marrakech-film-festival-tilda-swinton-1236954972/
+### Box Office: Sunrise on the Reaping Reignites Hunger Games Franchise With $120 Million Debut
+Sun, 22 Nov 2026 16:16:28 +0000 — https://variety.com/2026/film/box-office/sunrise-on-the-reaping-box-office-hunger-games-opening-weekend-exceeds-expectations-1236953061/
 
-Jeff Goldblum was honored with a tribute award at the Marrakech Film Festival on Saturday, delighting the audience with a surprise piano performance before reflecting on more than half a century in cinema, giving a heartfelt speech in which he thanked his many on-screen collaborators and insisted that the stories that we tell matter. The [ ]
+Sunrise on the Reaping caught fire at the domestic box office, collecting a sensational $120 million in its opening weekend while reinvigorating Lionsgate s Hunger Games franchise. Overseas, Sunrise on the Reaping generated $105 million from 84 territories for a towering launch of $225 million globally. The dystopian prequel is one of just five movies this [ ]
 
 ## The Hollywood Reporter
+
+### The Hotel Bel-Air’s Menu Returns to Tradition
+Sun, 22 Nov 2026 19:00:00 +0000 — https://www.hollywoodreporter.com/lifestyle/lifestyle-news/hotel-bel-airs-returns-classic-menu-1236757360/
+
+Everything old is new again, as classic hits are revived, from the Thai-style chicken salad to the house burger.
+
+### After 114 Years, the Beverly Hills Hotel Gets a (Night)life
+Sun, 22 Nov 2026 18:30:00 +0000 — https://www.hollywoodreporter.com/lifestyle/lifestyle-news/beverly-hills-hotel-nightlife-supper-club-bar-1236757355/
+
+The landmark’s biggest expansion yet adds a supper club, a cocktail bar and, at long last… a screening room.
+
+### Tom Jackson, Denver Broncos’ All-Pro Linebacker and ESPN Analyst, Dies at 75
+Sun, 22 Nov 2026 16:45:47 +0000 — https://www.hollywoodreporter.com/tv/tv-news/tom-jackson-dead-espn-denver-broncos-1236760660/
+
+He spent nearly 30 years with the network, often teaming with Chris Berman: “We’ve lost one of the best human beings ever to walk the planet.”
+
+### Hunger Games: Sunrise on the Reaping Slays $120M at Box Office as Franchise Heats Back Up
+Sun, 22 Nov 2026 16:44:02 +0000 — https://www.hollywoodreporter.com/movies/movie-news/hunger-games-sunrise-on-the-reaping-box-office-opening-win-2-1236760511/
+
+The sixth film in the Lionsgate series rebounded after 2023's 'The Ballad of Songbirds Snakes,' while freshly expanded 'I Play Rocky' and newcomer 'Elsinore' also came out swinging.
 
 ### Miley Cyrus and Maxx Morando Are Married
 Sun, 22 Nov 2026 01:07:59 +0000 — https://www.hollywoodreporter.com/lifestyle/lifestyle-news/miley-cyrus-maxx-morando-married-1236760559/
@@ -84,27 +104,57 @@ Sat, 21 Nov 2026 18:30:00 +0000 — https://www.hollywoodreporter.com/lifestyle/
 
 Celebs from Adrien Brody to Teyana Taylor and Matthew Rhys are flocking to parties thrown by the chicken tender chain’s charismatic CEO.
 
-### Hunger Games: Sunrise on the Reaping Feasting With $120M+ in Franchise s Box Office Comeback
-Sat, 21 Nov 2026 16:16:34 +0000 — https://www.hollywoodreporter.com/movies/movie-news/hunger-games-sunrise-on-the-reaping-box-office-opening-win-2-1236760511/
-
-Lionsgate's latest title notched the third-best opening Friday in the six-movie dystopian series, representing a major revival after 2023's 'The Ballad of Songbirds Snakes.'
-
-### Lindsay Hubbard Teases Summer House Spinoff In the City Season 2: Better Than Season One
-Sat, 21 Nov 2026 16:15:00 +0000 — https://www.hollywoodreporter.com/tv/tv-features/lindsay-hubbard-teases-in-the-city-season-2-kyle-cooke-kiss-1236759562/
-
-The reality star also addresses reports of a recent kiss with Bravo co-star Kyle Cooke, opens up about motherhood, her partnership with No Kid Hungry and upcoming memoir, 'Activated.'
-
-### NBC to Air Princess of Wales Cancer Charity Documentary
-Sat, 21 Nov 2026 12:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/nbc-bbc-princess-of-wales-cancer-documentary-1236760297/
-
-The special follows the princess as she completes a challenge to climb the highest peaks in England, Scotland and Wales.
-
-### Concrete Music, Leopard Spots Among Industry@Tallinn and Baltic Event Award Winners
-Sat, 21 Nov 2026 08:30:00 +0000 — https://www.hollywoodreporter.com/news/general-news/concrete-music-leopard-spots-itbe-2026-award-winners-tallinn-1236760061/
-
-The honorees also include the likes of 'Blind Whistle,' 'Otok,' 'The Reef,' 'The Elderly Store,' 'Wild Love' and 'My 19-Year-Old Granny.'
-
 ## Deadline
+
+### Noah Schnapp Reveals Image From His Sunrise on the Reaping Audition For Haymitch: They Picked Right
+Sun, 22 Nov 2026 20:24:35 +0000 — https://deadline.com/2026/11/noah-schnapp-sunrise-on-the-reaping-audition-haymitch-1237231225/
+
+After surviving the Upside Down, Noah Schnapp apparently volunteered as tribute for the latest Hunger Games film. Marking the opening weekend of The Hunger Games: Sunrise on the Reaping, the Stranger Things alum revealed that he auditioned to play Haymitch with a selfie in a blonde wig, admitting that Joseph Zada was the right choice. [ ]
+
+### Todd Boehly Dissects How How Daniel Katz’s Trading Desk Acumen Fed Into A24 Success: “Very Few Entertainment People Understand Math”
+Sun, 22 Nov 2026 20:19:07 +0000 — https://deadline.com/2026/11/todd-boehly-daniel-katz-trading-desk-a24-math-1237231214/
+
+Todd Boehly gave an insight into his no nonsense approach to investing in sports and entertainment in the concluding fireside chat of the Qatar Film Committee’s Doha Industry Days over the weekend. The billionaire investor s holding company Eldridge holds some $75B in assets including stakes in Backrooms distributor A24, and Fulwell Entertainment as well as [ ]
+
+### Madden Sparks Backlash From Raiders Owner Mark Davis Over Father Al Davis Portrayal: That Hurts
+Sun, 22 Nov 2026 19:39:29 +0000 — https://deadline.com/2026/11/madden-backlash-mark-davis-father-al-portrayal-hurts-1237231216/
+
+As John Madden s life gets the biopic treatment, his longtime colleague and friend Al Davis family is not pleased with their late patriarch s portrayal. Las Vegas Raiders owner Mark Davis, whose father Al recruited Madden to coach for the NFL team when they were located in Oakland in 1967, criticized David O. Russell s Madden for [ ]
+
+### David Leitch Gives Ocean s 14 Update, Notes Lot Of Motivation To Make Sequel
+Sun, 22 Nov 2026 19:01:06 +0000 — https://deadline.com/2026/11/david-leitch-oceans-14-update-lot-motivation-make-sequel-1237231206/
+
+Nearly 20 years later, Danny Ocean is trying to get the gang back together for Ocean s 14, which was expected to begin filming in 2026. David Leitch, who is attached to direct the fourth installment in the heist film franchise, recently noted that George Clooney and his Smokehouse producing partner Grant Heslov have delivered a [ ]
+
+### Robert Eggers Is Eager To Move Away From Horror Genre: I Think I Need A Break
+Sun, 22 Nov 2026 17:41:30 +0000 — https://deadline.com/2026/11/robert-eggers-eager-move-away-horror-genre-1237231196/
+
+From witches to vampires and werewolves, Robert Eggers has had his fill of the horror genre after more than a decade. The Werwulf co-writer and director recently explained that he s ready to break free from Robert Eggers House of Horror as he hopes to explore other genres with his next project, following Werwulf s Christmas premiere [ ]
+
+### Tom Jackson Dies: Broncos Alum ESPN Hall Of Fame Broadcaster Was 75
+Sun, 22 Nov 2026 17:07:19 +0000 — https://deadline.com/2026/11/tom-jackson-dead-broncos-espn-1237231183/
+
+Tom Jackson, a former Denver Broncos player and an NFL analyst for ESPN, has died. He was 75. Jackson s family told ESPN that he passed on Friday, in what his longtime co-host Chris Berman called an unexpected death, having previously spoken at length with Jackson on Tuesday. He was a vital 75, said Berman on [ ]
+
+### Joe Russo Talks Doomsday’ Teaser-Trailer Strategy Ahead Of Rumored Monday Drop: “I Have To interact With Fans
+Sun, 22 Nov 2026 16:54:33 +0000 — https://deadline.com/2026/11/joe-russo-doomsday-trailer-strategy-rumored-monday-fans-1237231111/
+
+Expectations that a new Avengers: Doomsday teaser or trailer is imminent have hit fever pitch over the weekend following cast member Hayley Atwell’s omission while signing autographs in New York that it is dropping on Monday (November 23). “There’s a new trailer dropping on Monday… am I allowed to have said that?” Atwell, who returns [ ]
+
+### Hunger Games: Sunrise On The Reaping $225M WW Opening Bests Wicked: For Good Michael Sunday Update
+Sun, 22 Nov 2026 16:50:00 +0000 — https://deadline.com/2026/11/box-office-global-hunger-games-sunrise-on-the-reaping-1237230714/
+
+SUNDAY AM UPDATE: It s the best opening for Lionsgate in quite some time as The Hunger Games: Sunrise on the Reaping minted $225M around the globe, $105M from 40,000 screens in 84 territories. That figure bests Lionsgate s previous big opening of 2026, Michael which boogeyed to $218.8M in addition to last November s pre-Thanksgiving blockbuster Wicked: [ ]
+
+### Sheila Mangubat Dies: 90 Day Fiancé: Before the 90 Days Star Was 35
+Sun, 22 Nov 2026 16:41:07 +0000 — https://deadline.com/2026/11/sheila-mangubat-dies-90-day-fiance-1237231163/
+
+Sheila Mangubat, who appeared in TLC s 90 Day Fiancé franchise, has died. She was 35. David Dangerfield, whom Mangubat dated on 90 Day Fiance: Before the 90 Days, announced that she died on Saturday in the Philippines, according to her family. It breaks my heart to share the news from her family that Sheila passed [ ]
+
+### Hunger Games: Sunrise On The Reaping $120M U.S. Opening Is Second Best Start For A Prequel After Rogue One ; Lionsgate Franchise Returns To Fortune Sunday Update
+Sun, 22 Nov 2026 15:38:00 +0000 — https://deadline.com/2026/11/box-office-hunger-games-sunrise-on-the-reaping-1237229925/
+
+SUNDAY AM: Lionsgate and Suzanne Collins accomplished what no other Harry Potter movie has pulled off at the box office: Seeing a preview/spinoff opening to north of $100M at the domestic B.O., which is exactly what their Hunger Games: Sunrise on the Reaping did with a North American start of $120M. In addition, Sunrise on [ ]
 
 ### BBC Apologizes After Strictly Come Dancing Is Interrupted By Sex Noises
 Sun, 22 Nov 2026 10:36:00 +0000 — https://deadline.com/2026/11/bbc-apologizes-strictly-come-dancing-interrupted-sex-noise-1237231116/
@@ -114,57 +164,7 @@ The BBC has apologized to viewers after lewd noises could be heard during the St
 ### American Psycho Gets Axed: Luca Guadagnino Confirms His Adaptation Is Not Happening
 Sun, 22 Nov 2026 04:21:37 +0000 — https://deadline.com/2026/11/luca-guadagnino-american-psycho-not-happening-1237231106/
 
-Luca Guadagnino has to return some videotapes. The Oscar-nominated director is passing on Scott Z. Burns American Psycho adaptation. While appearing on Deadline s Crew Call podcast, Guadagnino told Anthony D Allesandro that he is no longer attached to the projects, two years after we exclusively revealed he and Burns were adapting Bret Easton Ellis 1991 novel. [ ]
-
-### Sean Astin Mobilizes SAG-AFTRA In Fight For Universal Healthcare As Substantial Majority Of Members Don t Qualify For Insurance
-Sun, 22 Nov 2026 03:09:17 +0000 — https://deadline.com/2026/11/sean-astin-mobilizes-sag-aftra-iuniversal-healthcare-1237231076/
-
-As many SAG-AFTRA members struggle to qualify for health insurance, the union is taking the issue to the U.S. government. On Friday, Screen Actors Guild President Sean Astin announced the President s Healthcare Task Force to address the broken healthcare system while several actors have faced losing their insurance under the union s minimum eligibility requirements. This [ ]
-
-### Yellowjackets Creators On Ending Show Ahead Of Original Five-Season Plan: We Chose To Try To Squeeze It In
-Sun, 22 Nov 2026 00:51:31 +0000 — https://deadline.com/2026/11/yellowjackets-creators-ending-show-ahead-five-season-plan-1237231035/
-
-While many Yellowjackets fans are struggling to cope with the inevitable end, for its series creators, it was the right time to land the plane. Discussing the fourth and final season with Deadline, Ashley Lyle and Bart Nickerson explained that they didn t want to run the risk of overstaying our welcome with another season when [ ]
-
-### John Carpenter Reveals Robert Rodriguez Back In Running To Helm Escape from New York Reimagining
-Sun, 22 Nov 2026 00:10:01 +0000 — https://deadline.com/2026/11/john-carpenter-robert-rodriguez-running-helm-escape-new-york-1237231028/
-
-After 45 years, John Carpenter is still finding the right director to break an old cult classic out of lockup. Having recently tapped Zack Snyder to write and direct a reimagining of Escape from New York, Carpenter noted he s been considering another candidate, despite being told Synder is on fire during a recent podcast appearance. [ ]
-
-### Chris Harrison s The Vow Star Apologizes For Grabbing Contestant s Butt: I Made A Mistake
-Sat, 21 Nov 2026 23:37:34 +0000 — https://deadline.com/2026/11/chris-harrison-the-vow-star-apologizes-grabbing-contestant-butt-1237231025/
-
-As Chris Harrison leaves the Bachelor Mansion behind for Fox Nation s The Vow, the dating show s first eligible Christian is facing some judgment. Jace Cates, the star of the new faith-based dating show, apologized for obliging contestant Sierra Wood s request to grab my ass on the third episode Enter Into Temptation. I think it s no [ ]
-
-### Kaitlan Collins Notes Real Time Absence Was Due To White House Press Conference
-Sat, 21 Nov 2026 21:54:04 +0000 — https://deadline.com/2026/11/kaitlan-collins-real-time-absence-white-house-press-conference-1237231015/
-
-The Season 24 finale of Real Time with Bill Maher featured a last-minute guest change as Kaitlan Collins was held up in Washington DC. Although she was scheduled to appear on the HBO talk show alongside newly elected Texas Democratic congressman Bobby Pulido, the CNN anchor explained she was covering a White House press conference [ ]
-
-### Artificial Filmmaker Luca Guadagnino On Whether AI Is Humanity s Doomsday Sam Altman s Arsenal Crew Call Podcast
-Sat, 21 Nov 2026 20:45:59 +0000 — https://deadline.com/2026/11/luca-guadagnino-artificial-interview-sam-altman-openai-1237230964/
-
-Unlike Sony s recent theatrical release of The Social Reckoning, which arguably didn t resonate with the current tech era we re living in, Neon is unwrapping Luca Guadagnino s Artificial about Open AI co-founders Sam Altman, Ilya Sutskever and Elon Musk at a time when we fear the technology will end us. Now whether that s in regards to [ ]
-
-### Watermelon Expands Production Ambitions As It Seals Partnership With Qatar’s Film Committee
-Sat, 21 Nov 2026 19:43:07 +0000 — https://deadline.com/2026/11/watermelon-production-partnership-qatar-film-committee-1237230984/
-
-Watermelon Pictures and the Film Committee at Media City Qatar have announced a planned strategic partnership to develop and co-produce a slate of films telling stories from the Global South. The partnership marks a significant expansion into larger-scale, mainstream production for Watermelon Pictures. Badie Ali and Hamza Ali launched their Chicago-based production and distribution company [ ]
-
-### CAA s Bryan Lourd Urges Congress To Pass AI Legislation To Protect Americans Famous Or Not
-Sat, 21 Nov 2026 19:34:05 +0000 — https://deadline.com/2026/11/bryan-lourd-ai-legislation-no-fakes-act-1237230979/
-
-CAA chief Bryan Lourd is urging the full Congress to pass the No Fakes Act and deliver it to President Trump for signature, a move Lourd says would protect everyone, famous or not, from nonconsensual digital replicas of their voices and likenesses. In a guest essay published in today s New York Times, Lourd writes, The [ ]
-
-### Broadway s Cure For The Post-Holiday Blues? Stars, Stars More Stars, Coming This Winter
-Sat, 21 Nov 2026 19:30:00 +0000 — https://deadline.com/2026/11/broadway-winter-2027-shows-julia-roberts-steve-carell-1237230909/
-
-With Thanksgiving almost here, it s not too early for Broadway to start thinking about March? In case you ve noticed a lot of big, starry announcements in recent weeks for shows that will open this spring and not just spring proper like the Tony-heavy month of April, but the chillier weeks just after the December holidays [ ]
-
-### Netflix s ‘Minimum Wage’ Ushers In Streaming’s Short Ep Sitcom Era: “The Future Is 15-Minute SpongeBob -Length Episodes”
-Sat, 21 Nov 2026 19:06:00 +0000 — https://deadline.com/2026/11/netflix-minimum-short-episode-sitcoms-1237229899/
-
-In a world of increasingly short attention spans, social media slop and doomscrolling brainrot, it’s a wonder why many television shows got longer in the streaming era. Case in point, the 22-minute broadcast sitcom was largely replaced by the 30-minute dramedy and the 43-minute procedural has been overshadowed by the hour-long premium drama series. Netflix, [ ]
+Luca Guadagnino has to return some videotapes. The Oscar-nominated director is passing on Scott Z. Burns American Psycho adaptation. While appearing on Deadline s Crew Call podcast, Guadagnino told Anthony D Alessandro that he is no longer attached to the projects, two years after we exclusively revealed he and Burns were adapting Bret Easton Ellis 1991 novel. [ ]
 
 ## befores & afters
 
@@ -173,14 +173,19 @@ Fri, 20 Nov 2026 22:56:43 +0000 — https://beforesandafters.com/2026/11/21/all-
 
 Go behind the scenes, with tons of before/after images. Today on the befores afters podcast, we’re talking about the visual effects of season 4 of Apple TV’s Ted Lasso. I’m joined by visual effects supervisor James MacLachlan to discuss the show. View this post on Instagram A post shared by James Mac (@jamesmacvfx) The principal work, of course, is the football play and the crowds and stadiums. We run through the challenges of setting up greenscreens and shooting crowds. Then we also talk about the huge range of invisible effects work in the show some you might not even know were required for the show. One effect is a really fun meta one which I’ll leave as a surprise for you in the ep. I ve set out below a whole series of befores and afters images provided by James to check out the work that was done see if you can spot some of the most invisible ones. The post All the invisible effects in Ted Lasso , season 4 appeared first on befores & afters .
 
-### Why Gollum worked so well
-Fri, 20 Nov 2026 19:41:10 +0000 — https://beforesandafters.com/2026/11/21/why-gollum-worked-so-well/
-
-The making of Gollum by Weta Digital (now Wētā FX). This episode is sponsored by Griptape . Find out more about Griptape, Foundry s AI Orchestration platform at https://www.foundry.com/products/griptape Buy WOAH! Great Moments in Effects History Vol. 1 by Ian Failes at Amazon in PRINT: https://link.amazon/B0gyYYIGJ Get early access to these videos at the befores afters Patreon on the VFX Bonus Access tier: https://www.patreon.com/c/beforesandafters/membership Want to sponsor a weekly video? Send Ian an email: beforesandafters@gmail.com Music by Matt Estela: https://soundcloud.com/cgwiki The post Why Gollum worked so well appeared first on befores & afters .
-
 ## IndieWire
 
-### If There s Generative AI in The Mis-Adventures of Cliff Booth, It s Not the First Time David Fincher s Used It
+### Box Office: Hunger Games: Sunrise on the Reaping Debuts to Mighty $120 Million, Reviving Lionsgate s Most Important Franchise
+Sun, 22 Nov 2026 16:18:16 +0000 — https://www.indiewire.com/news/box-office/hunger-games-sunrise-on-the-reaping-revives-franchise-1235229881/
+
+"I Play Rocky" expands with $9.3 million, while Paul Thomas Anderson's "Cameron Winter at Carnegie Hall" grosses $162,000 from three locations.
+
+### Box Office: A24 s You Can See Everything Crosses $100 Million Globally
+Sun, 22 Nov 2026 15:45:54 +0000 — https://www.indiewire.com/news/box-office/box-office-you-can-see-everything-crosses-100-million-globally-1235229888/
+
+Lance Oppenheim and Nathan Fielder's look at Elizabeth Holmes is the third-highest-grossing domestic release in A24's history.
+
+### If There s Generative AI in The Further Mis-Adventures of Cliff Booth, It s Not the First Time David Fincher s Used It
 Sat, 21 Nov 2026 23:45:00 +0000 — https://www.indiewire.com/features/craft/generative-ai-tools-david-fincher-cliff-booth-1235229866/
 
 It was also used in the 4K Remaster of "Se7en" to bring the film as close as possible to the original print.
@@ -200,47 +205,32 @@ Fri, 20 Nov 2026 20:30:00 +0000 — https://www.indiewire.com/features/interview
 
 The director almost died from complications of COVID. But he recovered, slowly, and tells IndieWire how he rediscovered the joy of filmmaking outside his native Russia with "Minotaur."
 
-### Curry Barker Would Have Completely Reshot Obsession If He Could
-Fri, 20 Nov 2026 20:25:00 +0000 — https://www.indiewire.com/features/podcast/curry-barker-obsession-directing-lessons-whats-next-1235229732/
-
-His film was the year's biggest horror hit, but the 27-year-old filmmaker insists he's still learning about directing
-
-### How a Filipino Facial Expression in ‘Forgotten Island’ Became a Universal Symbol of Representation
-Fri, 20 Nov 2026 20:00:00 +0000 — https://www.indiewire.com/features/animation/forgotten-island-directors-interview-filipino-mythology-1235229700/
-
-Directors Joel Crawford and Januel Mercado told IndieWire about crafting the Filipino mythology-inspired animated movie and why lip pointing is iconic.
-
-### A Home Alone Legacyquel with Macaulay Culkin in Early Development with Seth Rogen and Evan Goldberg
-Fri, 20 Nov 2026 19:33:40 +0000 — https://www.indiewire.com/news/breaking-news/home-alone-sequel-macaulay-culkin-seth-rogen-evan-goldberg-1235229735/
-
-Disney's 20th Century Studios is in very early development on a sequel to the 1990 holiday classic based on an idea from Culkin.
-
-### What Digger Has in Common with Gary Oldman s Winston Churchill and Charlize Theron s Megyn Kelly
-Fri, 20 Nov 2026 19:00:00 +0000 — https://www.indiewire.com/features/craft/kazu-hiro-inarritu-tom-cruise-digger-prosthetics-1235225134/
-
-Prosthetics make-up artist Kazu Hiro talks with IndieWire about working with Cruise and director Alejandro Iñárritu to turn the charismatic movie star into an aging, sagging oil tycoon.
-
-### Cameron Winter at Carnegie Hall Review: PTA s Spellbinding Concert Doc Is a Gorgeously Tender Performance
-Fri, 20 Nov 2026 17:00:00 +0000 — https://www.indiewire.com/criticism/movies/cameron-winter-at-carnegie-hall-movie-review-pta-concert-1235219827/
-
-Paul Thomas Anderson operates his own Panavision camera onstage as the Geese frontman plays and croons through hauntingly sparse piano arrangements.
-
-### Box Office: Hunger Games: Sunrise on the Reaping Scores $21 Million in Previews, Second-Best Result of 2026
-Fri, 20 Nov 2026 16:37:29 +0000 — https://www.indiewire.com/news/box-office/box-office-hunger-games-sunrise-on-the-reaping-previews-1235229692/
-
-Who cares about "Grand Theft Auto 6"? The return to Panem is expected to earn more than $100 million.
-
-### Josephine Review: Another Heartsick Horror Film About Real Monsters from Soft Quiet Filmmaker
-Fri, 20 Nov 2026 16:30:35 +0000 — https://www.indiewire.com/criticism/movies/josephine-review-channing-tatum-gemma-chan-beth-de-araujo-1235173700/
-
-Beth de Araújo's sophomore outing, following her remarkable 2022 debut, is another finely-tuned exploration of the pervasive power and perversion of real evil.
-
-### Walter Hill on Sam Peckinpah, Steve McQueen, and His Revolutionary Screenplay for The Getaway
-Fri, 20 Nov 2026 16:04:05 +0000 — https://www.indiewire.com/features/interviews/walter-hill-on-sam-peckinpah-steve-mcqueen-the-getaway-1235229598/
-
-The veteran screenwriter reflected on his first big hit in front of a packed crowd at the Academy Museum.
-
 ## The Wrap
+
+### Treasury Secretary on Jensen Huang’s Nvidia Return: ‘I Assume He Didn’t Know She Was an Alleged Spy’
+Sun, 22 Nov 2026 20:12:35 +0000 — https://www.thewrap.com/industry-news/tech/scott-bessent-jensen-huang-nvidia-return-alleged-spy/
+
+Treasury Secretary Scott Bessent weighed in Sunday on the possibility of former Nvidia CEO Jensen Huang returning to the company, suggesting Huang may not have known that the woman at the center of the controversy was allegedly a Chinese spy . Appearing on CBS Face the Nation with Margaret Brennan, Bessent was asked about President Donald Trump s support for Huang potentially returning to lead the world s leading AI chipmaker, despite an ongoing investigation into the company s business dealings with China and Huang s reported relationship with Alice Huang, who is suspected by US intelligence officials of having ties to Chinese intelligence. Well, I assume he didn t know that she was an alleged spy, Bessent said when Brennan pressed him on whether the allegations involving Alice Huang should be considered separately from questions about Nvidia s compliance. The treasury secretary stopped short of ruling out Huang s return, saying the administration first needs to establish who was responsible for the alleged violations. Brennan: The president said Jensen Huang should get his job back. You said the board of directors needs to go to the outside. Bessent: Well, Jensen is on the outside now. Brennan: Are you saying that you think it would be a good idea for him to go back and run the company?… pic.twitter.com/yBVEULY8WP &mdash; Acyn (@Acyn) November 22, 2026 I think we have to see where the buck stops, Bessent said. You know, what were these malicious actors down at the bottom of
+
+### The 3 Best Movies to Watch on Netflix This Week
+Sun, 22 Nov 2026 20:00:00 +0000 — https://www.thewrap.com/creative-content/what-to-watch/best-movies-on-netflix-this-week-nov-20-22/
+
+The biggest breakout horror film of the year is streaming now on Netflix , and it is not the only movie worth checking out on the streamer this week. Indeed, Netflix is also the streaming home right now for a wildly underrated 2014 crime drama starring Oscar Isaac and Jessica Chastain, as well as an early 1990s action thriller that knows how to get your pulse racing. The latter has the kind of beach-y heist movie vibes that could make it a perfect piece of entertainment to pair with Grand Theft Auto VI this weekend. Here are the best movies on Netflix you can watch this week. Inde Navarette in Obsession (Focus Features) Obsession (2026) Netflix has become the streaming home this month for 2026 s biggest surprise hit, Obsession. Written, directed and edited by Curry Barker, this low-budget horror flick follows a shy shop clerk (Michael Johnston) who unknowingly uses a supernatural device to make his friend Nikki (Inde Navarrette) fall in love with him, kicking off a disastrous and increasingly violent series of events. Deranged and yet made with a shocking level of control, Obsession has sparked countless online debates and emerged as one of this year s biggest films. It has also made an instant star of Navarrette, whose go-for-broke lead performance elevates Obsession into truly unforgettable territory. A Most Violent Year (A24) A Most Violent Year (2014) Unlike Obsession, writer-director J.C. Chandor s A Most Violent Year flew under the radar when it was released in theaters
+
+### Ramayana Sets New U.S. Box Office Record for Indian Films
+Sun, 22 Nov 2026 19:32:22 +0000 — https://www.thewrap.com/creative-content/movies/ramayana-sets-new-u-s-box-office-record-for-indian-films/
+
+Sony Pictures/DNEG s Ramayana has set a new record for Indian productions at the U.S. box office, reaching $28 million in its third weekend while cracking the top 5 highest grossing Indian films of all time worldwide. Directed by Nitesh Tiwari and produced by DNEG founder Namit Maholtra, Ramayana: Rise of a Legend, as it is titled in the United States, is the first film in a two-part saga that stars Ranbir Kapoor as Lord Rama, the avatar of the god Vishnu, in an adaptation of the epic poem that is one of the foundational tales in Hinduism. In interviews, Maholtra has estimated that the Ramayana films will have a combined production and marketing budget of $420 million, making it the most expensive project in the history of Indian cinema. With huge production value and a pan-Indian premise, Sony and DNEG are banking that interest not just from Indian moviegoers but from diaspora communities around the world will make Ramayana one of the highest grossing productions ever to come from the country. So far, that is paying off. With $28 million and counting, Ramayana has passed the U.S./Canada record for Indian imports set earlier this year by the action thriller Dhurandhar: The Revenge. In addition, while the film has ceded most of the Imax screens it had on opening weekend to The Hunger Games: Sunrise on the Reaping, sources at some major theater chains tell TheWrap that they will keep Ramayana on Imax screens at multiplexes that serve Indian-American communities through Thanksgi
+
+### Tom Jackson, Former Denver Broncos Linebacker and ESPN Analyst, Dies at 75
+Sun, 22 Nov 2026 18:25:59 +0000 — https://www.thewrap.com/culture-lifestyle/sports/tom-jackson-dead-broncos-espn-analyst-75/
+
+Tom Jackson , the former Denver Broncos linebacker who became one of ESPN s most recognizable football analysts, has died. He was 75. Jackson died Friday, Nov. 20, his family and ESPN announced Sunday. In accordance with the family’s wishes , the news was shared at the beginning of ESPN’s Sunday NFL Countdown by longtime colleague and friend Chris Berman, who paid tribute to Jackson during the broadcast. We ve lost one of the best human beings ever to walk the planet, Tom Jackson. I was fortunate to work side by side with Tom for 30 years, primarily on NFL Primetime and Sunday NFL Countdown,' Berman read from a statement he wrote. Tom ended up being my best friend professionally and personally. If you ever met him or just knew him from watching one of our shows on ESPN, he was your best friend, too. “We’ve lost one of the best human beings to ever walk the planet.” Chris Berman announces the death of his longtime broadcast partner and best friend, Tom Jackson. What an iconic duo for all those years. Thank you, TJ pic.twitter.com/0eogqMa73r &mdash; NFL on ESPN (@ESPNNFL) November 22, 2026 Jackson s death came as a shock to Berman, who said the two had spoken on Tuesday. He was a vital 75, he added. After being selected by the Broncos in the fourth round of the 1973 NFL draft, Jackson became an integral part of the team s famed Orange Crush defense, helping lead the team to its first Super Bowl appearance in 1978. The linebacker was named to three Pro Bowls and earned first-tea
+
+### Hunger Games: Sunrise on the Reaping Deadlifts Box Office With $225 Million Global Opening
+Sun, 22 Nov 2026 16:23:17 +0000 — https://www.thewrap.com/creative-content/movies/hunger-games-sunrise-on-the-reaping-deadlifts-box-office-225-million-opening/
+
+Lionsgate s The Hunger Games: Sunrise on the Reaping has earned one of the top 5 domestic openings in studio history and of this year with a $120 million opening from 4,018 locations and $225 million worldwide In Lionsgate s top 5 all time openings, it is entirely dominated by the Hunger Games series, as Sunrise on the Reaping joins the four original installments released between 2012 and 2015, topping the unadjusted $102 million opening of the final installment, Mockingjay Part 2. It is also Lionsgate s first $100 million-plus opening since that finale, though Michael came close earlier this year with $97 million. Critics have been generally positive on Sunrise on the Reaping, which tells the story of how series favorite Haymitch Abernathy won his Hunger Games 24 years before the original series. But it s the fans response that matters, and they are very pleased with an A- on CinemaScore and 95% Rotten Tomatoes audience score. With a story that more resembles the classic Hunger Games narrative, Sunrise on the Reaping is set to blow past the $166 million domestic cume of the previous prequel in the series, The Ballad of Songbirds and Snakes and contend for the top spot on the Thanksgiving weekend charts against Disney s Hexed, which is projected for a $45-55 5-day opening. The question now is how much farther beyond Ballad this film can go, and whether there is widespread interest for a Hunger Games prequel among casual moviegoers more than a decade after the series launch. T
 
 ### Luca Guadagnino s American Psycho Remake Is No Longer Moving Forward
 Sun, 22 Nov 2026 01:10:24 +0000 — https://www.thewrap.com/creative-content/movies/luca-guadagnino-american-psycho-remake-not-moving-forward/
@@ -267,80 +257,55 @@ Sat, 21 Nov 2026 21:22:40 +0000 — https://www.thewrap.com/creative-content/mov
 
 Jennifer Lawrence is offering a new glimpse into the development of her Miss Piggy movie, revealing that the project has moved beyond the early stages of development. During an appearance on Watch What Happens Live With Andy Cohen on Thursday, Lawrence was asked whether there was any news to share about the film, which she is producing alongside Emma Stone. I always get in trouble for saying stuff, Lawrence told Cohen before offering a brief update: We have a first draft. The project was first announced in November 2025, when Lawrence revealed during an appearance on the Las Culturistas podcast that she and Stone were teaming up to produce a movie centered on the iconic Muppets character. Cole Escola, the Tony Award-winning playwright and creator of Oh, Mary!, is writing the screenplay At the time, Lawrence also suggested that she and Stone could make appearances in the film. Though, Stone subsequently clarified that neither actress would be stepping into Miss Piggy s heels, telling W Magazine that Miss Piggy is playing Miss Piggy. The film would mark a notable addition to a franchise that has had a relatively limited presence on the big screen in recent years. Disney acquired the Muppets from the Jim Henson Company during Michael Eisner s tenure in 2004, purchasing the rights to characters including Kermit the Frog, Miss Piggy, Fozzie Bear, Gonzo and Animal, along with the franchise s film and television library. The acquisition brought the beloved characters into Disney s e
 
-### Kaitlan Collins Explains Why She Missed Bill Maher’s ‘Real Time’ Season Finale
-Sat, 21 Nov 2026 19:57:11 +0000 — https://www.thewrap.com/creative-content/tv-shows/kaitlan-collins-misses-bill-maher-real-time-season-finale/
-
-CNN chief White House correspondent Kaitlan Collins missed the season finale of HBO s Real Time With Bill Maher on Friday because of President Donald Trump s White House press conference following his trip to China kept her in Washington, D.C. Collins had been announced as a panelist for the Nov. 20 episode alongside Democratic Texas Rep.-elect Bobby Pulido. However, by Thursday night, promotional materials for the show had removed her from the lineup and listed MS NOW correspondent Jacob Soboroff as her replacement. After The Daily Beast tweeted out The CNN star was quietly dropped from the lineup just hours after HBO announced her as a guest on Friday night, Collins took to X to address her absence on Saturday, explaining that her White House reporting responsibilities had prevented her from making the taping. Yes, because I was….at the White House for a press conference with the president. But Maher’s team was gracious and understanding and I can’t wait to watch the season finale! https://t.co/i4e3jKWKV7 &mdash; Kaitlan Collins (@kaitlancollins) November 21, 2026 Because the episode was taped in Los Angeles ahead of its Friday night broadcast, Collins was unable to do both as the press conference coincided with the show s production. Soboroff responded to Collins, tweeting, Was happy to hold it down in your stead. You were missed. was happy to hold it down in your stead. you were missed. &mdash; Jacob Soboroff (@jacobsoboroff) November 21, 2026 The scheduling change came a
-
-### The 3 Best Movies Free to Watch on YouTube This Week
-Sat, 21 Nov 2026 19:00:00 +0000 — https://www.thewrap.com/creative-content/what-to-watch/best-movies-free-on-youtube-this-week-nov-20-22/
-
-YouTube has a surprisingly strong library of movies that you can watch on its platform for free right now with ads. Some of the streamer s best current offerings include a 2005 spy comedy that feels now like a bit of a mid-2000s time capsule, as well as an underrated 2015 comedy starring Robert De Niro and Anne Hathaway. YouTube also currently hosts an early 2000s crime comedy from Raiders of the Lost Ark and Jaws filmmaker Steven Spielberg that ranks as one of the director s greatest and most under-appreciated films. Here are the best movies free on YouTube you can watch this week. Brad Pitt and Angelina Jolie in Mr. and Mrs. Smith (20th Century Fox) Mr. and Mrs. Smith (2005) If you want to indulge in some lighthearted action-movie fun this weekend, look no further on YouTube than Mr. and Mrs. Smith. Director Doug Liman s wry, delightfully over-the-top action comedy follows a successful married couple (Brad Pitt and Angelina Jolie) who learn that they are both secretly assassins separately employed by competing agencies. A cutthroat battle of life-and-death kicks off between the two until they are eventually forced to put their differences aside. Featuring a handful of clever, tongue-in-cheek action sequences and enough rom-com fun sprinkled throughout to bring a smile to your face, Mr. and Mrs. Smith is just a good time. No more, no less. The Intern (Warner Bros. Pictures) The Intern (2015) There are few 2010s comedies more underrated than The Intern. Written and directed b
-
-### Bryan Lourd Urges Congress to Pass NO FAKES Act as AI Cloning Threatens Celebrities and Creators Likeness
-Sat, 21 Nov 2026 18:28:59 +0000 — https://www.thewrap.com/industry-news/tech/bryan-lourd-ai-cloning-no-fakes-act-congress/
-
-Creative Artists Agency CEO Bryan Lourd is calling on Congress to pass federal legislation protecting people s voices and likenesses from unauthorized artificial intelligence replicas, arguing that existing copyright and licensing principles should extend to the AI era. In a New York Times opinion essay published Saturday, Lourd makes the case for the NO FAKES Act , legislation that would establish federal protections against the creation and distribution of unauthorized digital replicas of a person s voice or likeness. He argues that the issue is not whether Hollywood should embrace artificial intelligence, but whether individuals should have a say in how their identities are used by the technology. Lourd points to several examples of unauthorized AI impersonation, including a dental advertisement featuring a younger, AI-generated version of Tom Hanks, a content creator whose likeness was used in an advertisement for erectile dysfunction supplements and voice actors who discovered that recordings originally made for research purposes had been turned into commercial voice clones. The examples underscore a growing concern across the entertainment business, as generative AI makes it increasingly easy to reproduce someone s appearance, voice and performance, making exploitation easy. Lourd says the solution does not require Congress to create an entirely new legal framework. Instead, he argues that existing principles governing copyright, contracts and licensing can be applied t
-
-### Hunger Games: Sunrise on the Reaping Becomes Lionsgate s First $100 Million-Plus Opening Since 2015
-Sat, 21 Nov 2026 16:02:33 +0000 — https://www.thewrap.com/culture-lifestyle/culture/hunger-games-sunrise-on-the-reaping-saturday-box-office/
-
-Lionsgate s The Hunger Games: Sunrise on the Reaping is deadlifting the box office this weekend, accounting for an estimated 70% of all box office business as it has earned a $56 million opening day including $21 million from previews and is en route to a $120 million-plus opening weekend from 4,018 locations. Unadjusted for inflation, this would stand as Lionsgate s third or fourth highest opening weekend ever, depending on whether it tops the $121 million opening of The Hunger Games: Mockingjay Part 1 in 2014. It also marks the first time Lionsgate has had a $100 million-plus opening since Mockingjay Part 2 opened to $102 million in 2015, though Lionsgate s earlier 2026 film Michael came close with $97 million. While it is possible that this will be a frontloaded film driven primarily by longtime Hunger Games fans, theater owners are turning to Sunrise on the Reaping to be one of the pillars of next weekend s Thanksgiving box office with secondary support from Disney s Hexed, which is projected for a 5-day opening of $45-55 million from a primarily family audience. Fans have given the film a 95% Rotten Tomatoes audience score and an A- on CinemaScore, the latter of which is higher than the B+ for the 2023 prequel The Ballad of Songbirds and Snakes, which opened to a far lower $44.6 million but legged out to a $166 million domestic run. Elsewhere, Amazon MGM s I Play Rocky has expanded nationwide to 2,447 locations and is earning an estimated $9.3 million wide opening. Starr
-
-### Jennifer Lopez Laments Not Having ‘Bigger Marketing Budget’ for ‘Kiss of the Spider Woman’
-Sat, 21 Nov 2026 06:33:59 +0000 — https://www.thewrap.com/creative-content/movies/jennifer-lopez-laments-not-having-bigger-marketing-budget-for-kiss-of-the-spider-woman/
-
-Jennifer Lopez says one of her passion projects would ve benefitted from a greater marketing budget. Appearing on the New York Times’ Popcast podcast Thursday, the singer/actress blamed the studios for Kiss of the Spider Woman poor performance at the box office in 2025. The film was based on John Kander and Fred Ebb s 1993 Tony Award-winning musical of the same name. The big screen adaptation reportedly cost Lionsgate, Roadside Attractions and LD Entertainment $30 million, and brought in a paltry $1.8 million. Jennifer Lopez in KIss of the Spider Woman (Lionsgate) I would have liked to have had a bigger marketing budget for Kiss of the Spider Woman,' Lopez said on the podcast. I think it was under-seen, and I also had higher hopes for it when I first started the project. It was such a great role for me, she added. Lionsgate did not immediately respond to TheWrap s request for comment. In his October 2025 review of Kiss of the Spider Woman, TheWrap s Chase Hutchinson praised the showy costumes and production design, but said the film is all surface with no greater spark. Legendary director Bill Condon s well-intentioned attempts at creating classic Hollywood musicals of the 30s and 40s didn t work, Hutchinson continued. Lopez was previously praised for her singing and dancing in films in 1997 s Selena, where she portrayed the Tejano music superstar, and 2019 s Hustlers, where she played a savvy stripper. She ll showcase her skills in The JLO Show, a concert film that captured 
-
 ## Collider
 
-### India’s ‘Ramayana’ Officially Removed From Nearly 800 Theaters After Box Office Drop
-Sun, 22 Nov 2026 12:45:12 GMT — https://collider.com/ramayana-rise-of-a-legend-removed-from-800-theaters-box-office/
+### Tom Hardy's Crime Thriller Hits 321 Million Minutes Watched on Streaming
+Sun, 22 Nov 2026 20:01:12 GMT — https://collider.com/tom-hardy-crime-thriller-mobland-season-2-minutes-watched-streaming/
 
-At this stage in its theatrical run, the most expensive Indian movie ever made will likely struggle to break even theatrically. As a rule of thumb, films of this size need to gross twice their production budgets to break even , and although the new mythological epic's economics cannot be compared with those of a typical Hollywood blockbuster , it still hasn't recovered its reported $200 million budget. The film entered production as the first installment of a planned duology, based on an epic text sacred to Hindus all over the world. Both movies cost more than $400 million combined , according to their primary producer .
+Because there are so many television shows to choose from these days, it can be difficult for many series to find an audience. It's not enough anymore to offer high-quality writing and acting . With an astounding amount of options, subscribers are typically looking for something a little more exciting if they're going to invest their time. Guy Ritchie has created a fantastic crime drama that only premiered last year in 2025 and has already succeeded in both hooking viewers and finding new fans .
 
-### The 8 Best Miniseries of the Streaming Era, Ranked
-Sun, 22 Nov 2026 12:31:12 GMT — https://collider.com/best-miniseries-streaming-era-ranked/
+### 'House of the Dragon's Final Season Is Officially 2 Years Away
+Sun, 22 Nov 2026 20:00:12 GMT — https://collider.com/house-of-the-dragon-season-4-final-season-2028-release/
 
-We are living in the streaming era of television. Though Netflix launched streaming video-on-demand as far back as 2007, they didn't produce their first original series, Lilyhammer , until 2012; and it wouldn't be until 2013, with the release of shows like House of Cards and Organge Is the New Black , that streaming would truly gain cultural hegemony over the entire televisual medium . Gone was the era of network television, and in came the era of streaming.
+It has been exactly one year, almost to the day, since HBO renewed House of the Dragon for a fourth and final season. The Game of Thrones spin-off premiered in 2022 and aired its third season earlier this year. Co-created by Ryan Condal and series creator George R.R. Martin — a partnership not without its rough patches — the series takes place hundreds of years before the events of the landmark HBO original. Since Game of Thrones ' controversial conclusion in 2019, HBO has invested millions in expanding Martin's A Song of Ice and Fire universe.
 
-### HBO’s Acclaimed Historical Masterpiece Is Officially Dominating Streaming Charts
-Sun, 22 Nov 2026 12:30:12 GMT — https://collider.com/the-gilded-age-streaming-hit-hbo-max-november-2026/
+### 10 Greatest Film Noir Movies of the '80s, Ranked
+Sun, 22 Nov 2026 19:49:12 GMT — https://collider.com/greatest-film-noir-masterpieces-1980s-ranked/
 
-All eyes might be wandering towards HBO's new Wizarding World , which debuts this Christmas, but first, one of the network's best shows is thriving in all its costumed glory. The fourth season of The Gilded Age has not disappointed. The drama, romance, and ball gowns have all been the most indulgent yet, as Downton Abbey creator Julian Fellowes turns up the dial on the show he once intended as an America-set prequel to the beloved Brit hit.
+Film noir has been the go-to for compelling entertainment since the Golden Age of Hollywood — back when this genre was first coined in the 1940s and '50s, when stylish black-and-white classics like Double Indemnity , Sunset Boulevard , and The Maltese Falcon captivated audiences with their blend of crime and drama, becoming timeless staples of the genre for decades. Today, it's still a current filmmaking style that has a huge impact on pop culture.
 
-### 5 Dystopian Shows Better Than The Hunger Games
-Sun, 22 Nov 2026 12:09:12 GMT — https://collider.com/dystopian-shows-better-than-the-hunger-games/
+### 9 Most Overlooked Thanksgiving TV Episodes, Ranked
+Sun, 22 Nov 2026 19:33:12 GMT — https://collider.com/thanksgiving-episodes-most-overlooked-ranked/
 
-Few genres are as endlessly fascinating as dystopian fiction, especially since it typically holds a mirror up to the worst parts of our own world. The Hunger Games , for instance, remains one of the most recognizable tales with its oppressive government and fight for freedom still affective even to this day. The YA book series turned into a phenomenon thanks to the four movies — starring Jennifer Lawrence , Josh Hutcherson , and Liam Hemsworth — and two prequels, keeping the spark of these themes alive and proving how timely these stories continue to be. Luckily, there's no shortage of television shows that take those ideas even further .
+Come November, it seems like the same Thanksgiving episodes circulate on every streaming list. They're the Friends holiday flashbacks, the parade mishaps of Seinfeld , the tofurkey served by Mrs. Kim on Gilmore Girls . If you've seen one "best Thanksgiving TV" list , you've seen them all. And sure, those episodes earned their spot, but the holiday is a pressure cooker for good TV . One table, too much wine, friends and relatives who know exactly which buttons to push, and a meal no one can escape.
 
-### Forget 'Black Mirror,' These 10 Dark Sci-Fi Shows Take Dystopia Even Further
-Sun, 22 Nov 2026 12:09:12 GMT — https://collider.com/dark-sci-fi-shows-dystopian-like-black-mirror/
+### Alexander Skarsgård’s $10M Fantasy Romance Officially Nears 4x Its Budget
+Sun, 22 Nov 2026 19:30:12 GMT — https://collider.com/alexander-skarsgrad-olivia-colman-wicker-removed-from-1500-theaters-box-office/
 
-The dystopian genre started taking shape around the early 20th century as a response to the political revolutions, widespread industrialization, and rising totalitarianism of the time, soon becoming one of the most prominent subgenres of science fiction. As such, it's no surprise that dystopian sci-fi has been one of television's most interesting genres for years, producing shows as fascinating as Black Mirror .
+Having spent nearly a month in theaters , a sleeper hit fantasy romance film starring Olivia Colman and Alexander Skarsgård is all set to begin a new chapter in its journey at home. This week, the movie will be released on the PVOD market, along with Aaron Sorkin 's box-office underperformer The Social Reckoning . No one would have seen this coming, but the fantasy romance movie has outperformed The Social Reckoning by a wide margin , having nearly quadrupled its production budget in theaters. The movie will no doubt have a solid run at home, given its positive reviews and stellar audience reception.
 
-### The Next ‘The Witcher’ Book Is Officially Delayed
-Sun, 22 Nov 2026 12:00:12 GMT — https://collider.com/the-witcher-books-new-english-translations-delayed-2027/
+### How to Rob a Bank: iPhone Footage Complicated the Edit | Collider BTS
+Sun, 22 Nov 2026 19:15:12 GMT — https://collider.com/video/how-to-rob-a-bank-iphone-footage-complicated-the-edit-collider-bts/
 
-Geralt of Rivia owes Yennefer of Vengerberg a better introduction than the one he gives her in The Last Wish . The Witcher needs a sorceress because his friend Dandelion has gotten into trouble with a djinn, and Yennefer has plans for the creature that go beyond patching up a bard. It’s one of the first things worth revisiting if you came to Andrzej Sapkowski’s books through the games or the Netflix series , but it’s also a story English-speaking readers have known for nearly 20 years through the work of translator Danusia Stok .
+How to Rob a Bank editor Elísabet Ronaldsdóttir reveals why creating the movie's YouTube sequences was technically more demanding than editing the film itself.
 
-### HBO Max Officially Scores a Monster Streaming Hit With Anne Hathaway’s Sci-Fi Thriller
-Sun, 22 Nov 2026 12:00:12 GMT — https://collider.com/anne-hathaway-the-end-of-oak-street-streaming-hit-hbo-max-november-2026/
+### The 10 Best Documentaries in Cinema History, Ranked
+Sun, 22 Nov 2026 19:11:12 GMT — https://collider.com/best-documentaries-cinema-history-ranked/
 
-It's been 13 years since Anne Hathaway was last in the Oscars race, and that particular journey ended in success for the Hollywood favorite. Hathaway won Best Supporting Actress for 2013's Les Misérables , five years after her first nomination in the Best Actress category for the underrated 2008 film Rachel Getting Married . Now, she looks set to not just be nominated, but win again, as the favorite to pick up the Best Supporting Actress prize for her scene-stealing performance as Penelope in Christopher Nolan 's historical epic The Odyssey .
+Documentaries can sometimes involve a lack of filmmaking craft, but ignoring all movies that qualify as documentaries would be foolish. Yes, plenty of them bleed together, and there is a certain style that many have which gets tedious after a while (like that generic Netflix style, when it feels like they're all scored, written, and edited by the same couple of people), yet the ones that go a little further or take more risks are special.
 
-### ‘Widow’s Bay’ Season 2 Is Changing the Show’s Formula in Exactly the Right Way
-Sun, 22 Nov 2026 11:44:12 GMT — https://collider.com/widows-bay-season-2-formula-change-pacing-katie-dippold-comments/
+### Netflix’s Near-Perfect Sci-Fi Masterpiece Officially Confirms Reduced Episode Count
+Sun, 22 Nov 2026 19:00:12 GMT — https://collider.com/3-body-problem-season-2-official-episode-count-netflix/
 
-Apple TV's Widow's Bay has to be one of the most surprising television shows in recent years. Few expected the horror/comedy to be such a massive hit with viewers and a critical darling. The show was also one of the biggest winners at this year's Emmys, setting a record for the most wins by a comedy series in a single season, with cast members Matthew Rhys , Stephen Root , Kate O'Flynn , and Betty Gilpin also taking home statues. Widow's Bay was quickly renewed for a second season in June, and there are already signs that this show will be even better next time around.
+Humanity has 400 years to prepare for an alien invasion in Netflix 's 3 Body Problem , but fans have already spent nearly three of those years waiting for another season. Created by David Benioff , D.B. Weiss , and Alexander Woo , the Sci-Fi series arrived in March 2024 with a mystery involving disappearing scientists, impossible technology, and an enemy that won't reach Earth for centuries. Netflix has since confirmed that the story will continue through a third and final season, giving the creators time to finish adapting Liu Cixin 's bestselling trilogy. Unfortunately, viewers hoping for an extra-long second season might be a little disappointed.
 
-### Taylor Sheridan’s Best ‘Yellowstone’ Spin-Off Officially Won’t Return in 2026
-Sun, 22 Nov 2026 11:30:12 GMT — https://collider.com/taylor-sheridan-dutton-ranch-season-2-release-window-2027/
+### Jensen Ackles' #1 Prime Video Action Thriller Is a Masterclass in Pure Adrenaline
+Sun, 22 Nov 2026 18:58:12 GMT — https://collider.com/jensen-ackles-prime-video-action-thriller-countdown/
 
-Best known for his work writing shows like Yellowstone and Landman , Taylor Sheridan also carved out a name for himself over 10 years ago writing epic feature films like Sicario and Hell or High Water . Just a few weeks ago, news broke that the original Sicario trio — Josh Brolin , Emily Blunt , and Benicio del Toro — were reuniting for a third Sicario film, but there’s a catch.
+2025 saw the debut of Prime Video's Countdown , a highly entertaining, action-packed thriller series starring Jensen Ackles and Eric Dane with a unique premise that made every episode a must-watch experience. Unfortunately, despite a solid first season that culminated in a shocking ending, Countdown didn't get renewed, ultimately making it a one-and-done series. The show's appearance in Prime Video's global Top 10 rankings last November, following its cancellation, only proves that Countdown was a good show that deserved a better fate .
 
-### Recasting 10 ‘The Office’ Characters for 2026
-Sun, 22 Nov 2026 11:01:12 GMT — https://collider.com/perfect-the-office-cast-2026/
+### 10 Greatest Mystery Shows With Detectives, Ranked
+Sun, 22 Nov 2026 18:40:12 GMT — https://collider.com/best-mystery-shows-detectives-ranked/
 
-In 2005, NBC debuted the American version of The Office , the hit British mockumentary created by Ricky Gervais and Stephen Merchant . With the first season a near carbon copy of its transatlantic counterpart, the first six episodes were a smash, leading to a long, prosperous run where it formed its own identity. For nine incredible seasons, the series made us laugh, cringe, and laugh some more . Though it was disappointing when it ended, it became one of the most-streamed series after its run.
+Everybody loves a good mystery . Trying to solve riddles, decipher clues, and unweave a tangled web of subterfuge is exciting. Audiences sit on the edge of their seats, wondering if they were right , and if the detective on screen will come to the same conclusion they did. Shocks abound, and enigmas grow more profound as the series goes on.
 

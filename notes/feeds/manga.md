@@ -1,6 +1,51 @@
-# Manga — harvested 2026-11-22T12:51:40.413Z
+# Manga — harvested 2026-11-22T20:28:33.009Z
 
 ## Anime News Network
+
+### I Became the Tyrant of a Defense Game Web Novel, Webtoon Gets Mobile Game Adaptation
+Sun, 22 Nov 2026 15:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-22/i-became-the-tyrant-of-a-defense-game-web-novel-webtoon-gets-mobile-game-adaptation/.244077
+
+Game will feature exploration, territory management, defensive battles
+
+### Martial Arts Manhwa Yeolhyeol Gangho to End Next Year After 33 Years
+Sun, 22 Nov 2026 14:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-22/martial-arts-manhwa-yeolhyeol-gangho-to-end-next-year-after-33-years/.244079
+
+Manhwa is scheduled to conclude in February 2027 with its 97th collected volume
+
+### Chainsaw Man, Jujutsu Kaisen, More Manga Rank on NYT November Bestseller List
+Sun, 22 Nov 2026 13:15:00 -0500 — https://www.animenewsnetwork.com/daily-briefs/2026-11-22/chainsaw-man-jujutsu-kaisen-more-manga-rank-on-nyt-november-bestseller-list/.244054
+
+The 22nd volume of Tatsuki Fujimoto's Chainsaw Man manga ranked at #4 on The New York Times' monthly Graphic Books and Manga bestseller list released in...
+
+### Chainsaw Man Ranks #2 on Bookscan's October Adult Graphic Novel List in U.S.
+Sun, 22 Nov 2026 12:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-22/chainsaw-man-ranks-no.2-on-bookscan-october-adult-graphic-novel-list-in-u.s/.244062
+
+13 manga volumes including <cite>Jujutsu Kaisen, The Summer Hikaru Died, The Guy She Was Interested In Wasn't a Guy at All, Dandadan, Phantom Busters, Demon Slayer, One Piece</cite> make list
+
+### Japanese Ghost Stories Folio Society Edition Book Review
+Sun, 22 Nov 2026 12:00:00 -0500 — https://www.animenewsnetwork.com/review/japanese-ghost-stories/folio-society-edition-book/.243250
+
+If you're already a fan of yokai, ghost stories, and folklore, this new edition of the early 20th-century book is a beautiful addition to any collection.
+
+### Jujutsu Kaisen Ranks #4 on Bookscan's September Adult Graphic Novel List in U.S.
+Sun, 22 Nov 2026 11:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-22/jujutsu-kaisen-ranks-no.4-on-bookscan-september-adult-graphic-novel-list-in-u.s/.244055
+
+16 manga volumes including <cite>Spy x Family, The Summer Hikaru Died, Steel Ball Run, Demon Slayer, Gachiakuta, One Piece, Witch Hat Atelier, Kaiju No. 8, The Apothecary Diaries</cite> make list
+
+### Voice Actor Kiyono Yasuno Announces Marriage
+Sun, 22 Nov 2026 11:13:28 -0500 — https://www.animenewsnetwork.com/interest/2026-11-22/voice-actor-kiyono-yasuno-announces-marriage/.244093
+
+Voice of <i>Saekano's</i> Megumi Katō, <i>Macross Delta</i> Kaname Buccaneer, <i>My Hero Academia's</i> Nejire Hado
+
+### Witch on the Holy Night Film Expands 981 Cuts for ScreenX Release
+Sun, 22 Nov 2026 10:02:44 -0500 — https://www.animenewsnetwork.com/news/2026-11-22/witch-on-the-holy-night-film-expands-981-cuts-for-screenx-release/.244092
+
+New trailer: ufotable updated 67 minutes for premium screenings starting on Friday
+
+### Nahato's 'The One. Later On...' Light Novels Get TV Anime in 2027
+Sun, 22 Nov 2026 07:02:53 -0500 — https://www.animenewsnetwork.com/news/2026-11-22/nahato-the-one-later-on-light-novels-get-tv-anime-in-2027/.244089
+
+Kent Itō, Yui Ogura star in Jumondo anime
 
 ### 4-Piece Band Subway Daydream Disbands
 Sun, 22 Nov 2026 06:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-22/4-piece-band-subway-daydream-disbands/.244080
@@ -16,51 +61,6 @@ Kana Hanazawa joins cast of April series
 Sun, 22 Nov 2026 03:30:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-22/mission-yozakura-family-season-2-anime-2nd-part-casts-shinichiro-miki/.244061
 
 New character appears in episode 47
-
-### New Aria the Scarlet Ammo Short Anime Unveils Title, New & Returning Cast, April 2027 Debut
-Sun, 22 Nov 2026 03:30:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-22/new-aria-the-scarlet-ammo-short-anime-unveils-title-new-and-returning-cast-april-2027-debut/.244075
-
-Main staff for <cite>Hidan no Aria Corto</cite> short anime also revealed
-
-### The Detective is Already Dead Anime's 2nd Season Reveals Trailer, Visual for New Arc
-Sun, 22 Nov 2026 01:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-22/the-detective-is-already-dead-anime-2nd-season-reveals-trailer-visual-for-new-arc/.244074
-
-New season debuted on October 7
-
-### Uma Musume Pretty Derby Joins the Denver Broncos
-Sat, 21 Nov 2026 23:59:00 -0500 — https://www.animenewsnetwork.com/interest/2026-11-21/uma-musume-pretty-derby-joins-the-denver-broncos/.244053
-
-The horse-girls are suiting up to take on the Miami Dolphins
-
-### SHIBOYUGI: Playing Death Games to Put Food on the Table Anime Gets Sequel
-Sat, 21 Nov 2026 23:30:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-21/shiboyugi-playing-death-games-to-put-food-on-the-table-anime-gets-sequel/.244070
-
-Early teaser visual also revealed
-
-### Bride of the Barrier Master TV Anime Reveals 1-Hour Debut on January 6, More Cast in Video
-Sat, 21 Nov 2026 22:38:39 -0500 — https://www.animenewsnetwork.com/news/2026-11-21/bride-of-the-barrier-master-tv-anime-reveals-1-hour-debut-on-january-6-more-cast-in-video/.244073
-
-Naniwa Danshi performs opening theme; Chiaki Kobayashi, Takuya Eguchi join cast
-
-### Classroom of the Elite Anime's 5th Season Reveals Full Title, Visual, 2027 Debut
-Sat, 21 Nov 2026 22:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-21/classroom-of-the-elite-anime-5th-season-reveals-full-title-visual-2027-debut/.244051
-
-New season to cover 1st half of 2nd semester in Year 2
-
-### Mawaru Penguindrum Anime Inspires Stage Reading Production by Kunihiko Ikuhara
-Sat, 21 Nov 2026 19:56:53 -0500 — https://www.animenewsnetwork.com/news/2026-11-21/mawaru-penguindrum-anime-inspires-stage-reading-production-by-kunihiko-ikuhara/.244065
-
-Ikuhara co-writes, co-directs February 6-7 <cite>Reading in the dark: Kodomo Broiler Sensō</cite>
-
-### Kurumizawa's Folly Manga Ends in 3 Chapters
-Sat, 21 Nov 2026 19:25:29 -0500 — https://www.animenewsnetwork.com/news/2026-11-21/kurumizawa-folly-manga-ends-in-3-chapters/.244064
-
-Series debuted in September 2025
-
-### Angel Next Door Spoils Me Rotten Season 2 Anime Series Review
-Sat, 21 Nov 2026 12:00:00 -0500 — https://www.animenewsnetwork.com/review/angel-next-door-spoils-me-rotten/season-2/.243054
-
-I regret to inform you that, as it turns out, the first season is only the shaky preamble to the cacophonous chronicle of courtship that is its second season.
 
 ## Crunchyroll News
 
@@ -108,12 +108,17 @@ Fri, 20 Nov 2026 22:35:29 GMT — https://animecorner.me/interview-mexican-artis
 
 If you're an otaku with a penchant for street art, you already know Ekns,&hellip;
 
-### BanG Dream! Yume∞Mita Gets New Anime Series
-Fri, 20 Nov 2026 13:38:21 GMT — https://animecorner.me/bang-dream-yumemita-gets-new-anime-series/
-
-Mugendai MewType announced during their 3rd anniversary livestream that BanG Dream! Yume∞Mita is getting&hellip;
-
 ## MyAnimeList News
+
+### Yozakura-san Chi no Daisakusen Creator Launches New Manga
+Sun, 22 Nov 2026 07:11:56 -0800 — https://myanimelist.net/news/74968770?_location=rss
+
+The 52nd issue of Weekly Shounen Jump magazine began serializing a new manga by Hitsuji Gondaira, titled Ginza Uradoori Kouban no Hizuki-san (Hizuki of the Ginza Patrol), on Monday. This marks Gondaira s return to serialization in nearly two years following the end of Yozakura-san Chi no Daisakusen in January 2025. Gondaira is best known for Yozakura-san Chi no Daisakusen (Mission: Yozakura Family), which ran in Weekly Shounen Magazine from August 2019 to January 2025. Shueisha published th...
+
+### Manga Sakamoto Days Concludes Serialization
+Sun, 22 Nov 2026 07:08:35 -0800 — https://myanimelist.net/news/74968755?_location=rss
+
+Yuuto Suzuki s Sakamoto Days manga has concluded with chapter 284 in the 52nd issue of Weekly Shounen Jump magazine on Monday, after 6-year serialization. Suzuki originally drew the action comedy manga as a one-shot in Jump GIGA magazine in December 2019. The manga began serializing in the Weekly Shounen Jump in November 2020. Shueisha published the 29th volume on November 4. The manga has over 18 million copies in circulation. Produced by TMS Entertainment, the first season aired in split...
 
 ### Singer, Voice Actress Kiyono Yasuno Announces Marriage
 Sun, 22 Nov 2026 03:58:03 -0800 — https://myanimelist.net/news/74968356?_location=rss
@@ -159,21 +164,6 @@ The F/ACE First Live Nautical Star event for the television anime adaptation of 
 Fri, 20 Nov 2026 23:38:06 -0800 — https://myanimelist.net/news/74963930?_location=rss
 
 The official X (formerly Twitter) account of Dessert magazine announced on Saturday that Suu Morishita s Yubisaki to Renren (A Sign of Affection) manga will end in three chapters. The 63rd chapter will mark the manga s conclusion. Morishita began serializing the romance manga in Dessert magazine in July 2019. The manga went on hiatus in June 2021 due to Morishita giving birth, and resumed serialization in November of the same year. Kodansha published the 14th volume on May 13, with the...
-
-### Tougen Anki: Nikko Kegon no Taki-hen Unveils Additional Cast
-Fri, 20 Nov 2026 09:44:20 -0800 — https://myanimelist.net/news/74961958?_location=rss
-
-The official website for the Tougen Anki: Nikko Kegon no Taki-hen (Tougen Anki: Nikko Kegon Falls Arc) television anime unveiled additional cast members on Saturday. The first part of the second season adapting Yura Urushibara s action fantasy manga premiered on October 2 at 11.30 p.m. on Nippon Television s Friday Anime Night programming block, followed by BS Nippon Television. Cast Kokuryo Momosaka: Masahiro Ichinose Meidai Momotoba, Katakura Momogakuin: Eiji Miyashita (Tensei shitar...
-
-### Manga Haite Kudasai, Takamine-san Ends Serialization
-Fri, 20 Nov 2026 08:56:46 -0800 — https://myanimelist.net/news/74961851?_location=rss
-
-The official X account for author Yuuichi Hiiragi announced on Friday that the Haite Kudasai Takamine-san (Please Put Them On, Takamine-san) manga will end in the February issue of Gangan Joker magazine, marking the end of the manga s nearly 8-year run. Hiiragi began serializing the ecchi romance comedy manga in Gangan Joker in January 2019. Square Enix published the 11th volume on February 20. A 12-episode television anime adaptation produced by LIDENFILMS aired in Spring 2025. Crunchyroll...
-
-### Supporting Cast for Kaketa Tsuki no Mercedes Announced
-Fri, 20 Nov 2026 07:58:05 -0800 — https://myanimelist.net/news/74961677?_location=rss
-
-The official website for the television anime adaptation of Firehead s Kaketa Tsuki no Mercedes: Kyuuketsuki no Kizoku ni Tensei shita kedo Suteraresou nanode Dungeon wo Seiha suru (Mercedes and the Waning Moon: The Dungeoneering Feats of a Discarded Vampire Aristocrat) light novel revealed supporting cast and second visual (pictured). The anime will premiere on January 10 at 4:30 p.m. on TBS-affiliated networks across Japan, airing every Sunday on 28 stations. Cast Margitte Grunewald: Nich...
 
 ## Otaku USA
 
