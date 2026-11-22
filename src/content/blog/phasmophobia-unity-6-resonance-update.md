@@ -47,6 +47,11 @@ it for them.
 
 ## Why a version bump is a content job
 
+<figure>
+  <img src="/img/blog/phasmophobia-unity-6-resonance-update/shot-02.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>Kinetic Games, via the official Steam page</figcaption>
+</figure>
+
 Unity 6 arrived publicly in late 2024. Phasmophobia is getting there in late
 2026, and the gap is the honest part of this story. Engine major versions are
 cheap to adopt on a project that has not shipped and expensive on one that
