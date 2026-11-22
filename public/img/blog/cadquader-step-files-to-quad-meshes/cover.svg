@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-label="CADQuader: STEP files to quad meshes">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#18011F"/>
+      <stop offset="100%" stop-color="#1F6F5C"/>
+    </linearGradient>
+    <pattern id="quads" width="60" height="60" patternUnits="userSpaceOnUse">
+      <path d="M0 0H60V60H0Z" fill="none" stroke="#7FE3C4" stroke-opacity="0.18" stroke-width="1.5"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <rect width="1200" height="900" fill="url(#quads)"/>
+  <circle cx="930" cy="235" r="120" fill="none" stroke="#7FE3C4" stroke-opacity="0.35" stroke-width="2"/>
+  <circle cx="930" cy="235" r="92" fill="none" stroke="#7FE3C4" stroke-opacity="0.5" stroke-width="2"/>
+  <circle cx="930" cy="235" r="64" fill="none" stroke="#7FE3C4" stroke-opacity="0.75" stroke-width="2.5"/>
+  <text x="80" y="150" fill="#7FE3C4" font-family="Helvetica, Arial, sans-serif" font-size="30" letter-spacing="7">CADQUADER BETA</text>
+  <text x="80" y="300" fill="#FFFFFF" font-family="Helvetica, Arial, sans-serif" font-size="110" font-weight="700">STEP in,</text>
+  <text x="80" y="415" fill="#FFFFFF" font-family="Helvetica, Arial, sans-serif" font-size="110" font-weight="700">quads out</text>
+  <text x="80" y="500" fill="#C9F5E6" font-family="Helvetica, Arial, sans-serif" font-size="40">The holes are the test</text>
+  <text x="80" y="840" fill="#9FD9C6" font-family="Helvetica, Arial, sans-serif" font-size="26">Backdrop — gianlucascattarella.it</text>
+</svg>
