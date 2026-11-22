@@ -19,7 +19,6 @@ artistView:
   misses:
     - "Lighting: the promised improvement is the hardest thing to deliver here. Probe-lit interiors are exactly what a major version change disturbs, and a house that reads a quarter-stop brighter ruins a game built on not being able to see."
     - "Communication: Kinetic has not said which Unity version the game is leaving, which is the one number that would tell players whether to expect a tidy patch or a month of fixes."
-draft: true
 ---
 
 The most informative thing in Phasmophobia's next update is the feature that
