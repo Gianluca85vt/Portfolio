@@ -1,72 +1,92 @@
-# Manga — harvested 2026-11-21T20:14:47.631Z
+# Manga — harvested 2026-11-22T12:51:40.413Z
 
 ## Anime News Network
+
+### 4-Piece Band Subway Daydream Disbands
+Sun, 22 Nov 2026 06:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-22/4-piece-band-subway-daydream-disbands/.244080
+
+Band performed opening theme song of <cite>"Ippon" Again!</cite> anime in 2023
+
+### Shōzen TV Anime Unveils New Trailer, Key Visual, Cast
+Sun, 22 Nov 2026 05:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-22/shozen-tv-anime-unveils-new-trailer-key-visual-cast/.244063
+
+Kana Hanazawa joins cast of April series
+
+### Mission: Yozakura Family Season 2 Anime's 2nd Part Casts Shinichirō Miki
+Sun, 22 Nov 2026 03:30:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-22/mission-yozakura-family-season-2-anime-2nd-part-casts-shinichiro-miki/.244061
+
+New character appears in episode 47
+
+### New Aria the Scarlet Ammo Short Anime Unveils Title, New & Returning Cast, April 2027 Debut
+Sun, 22 Nov 2026 03:30:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-22/new-aria-the-scarlet-ammo-short-anime-unveils-title-new-and-returning-cast-april-2027-debut/.244075
+
+Main staff for <cite>Hidan no Aria Corto</cite> short anime also revealed
+
+### The Detective is Already Dead Anime's 2nd Season Reveals Trailer, Visual for New Arc
+Sun, 22 Nov 2026 01:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-22/the-detective-is-already-dead-anime-2nd-season-reveals-trailer-visual-for-new-arc/.244074
+
+New season debuted on October 7
+
+### Uma Musume Pretty Derby Joins the Denver Broncos
+Sat, 21 Nov 2026 23:59:00 -0500 — https://www.animenewsnetwork.com/interest/2026-11-21/uma-musume-pretty-derby-joins-the-denver-broncos/.244053
+
+The horse-girls are suiting up to take on the Miami Dolphins
+
+### SHIBOYUGI: Playing Death Games to Put Food on the Table Anime Gets Sequel
+Sat, 21 Nov 2026 23:30:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-21/shiboyugi-playing-death-games-to-put-food-on-the-table-anime-gets-sequel/.244070
+
+Early teaser visual also revealed
+
+### Bride of the Barrier Master TV Anime Reveals 1-Hour Debut on January 6, More Cast in Video
+Sat, 21 Nov 2026 22:38:39 -0500 — https://www.animenewsnetwork.com/news/2026-11-21/bride-of-the-barrier-master-tv-anime-reveals-1-hour-debut-on-january-6-more-cast-in-video/.244073
+
+Naniwa Danshi performs opening theme; Chiaki Kobayashi, Takuya Eguchi join cast
+
+### Classroom of the Elite Anime's 5th Season Reveals Full Title, Visual, 2027 Debut
+Sat, 21 Nov 2026 22:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-21/classroom-of-the-elite-anime-5th-season-reveals-full-title-visual-2027-debut/.244051
+
+New season to cover 1st half of 2nd semester in Year 2
+
+### Mawaru Penguindrum Anime Inspires Stage Reading Production by Kunihiko Ikuhara
+Sat, 21 Nov 2026 19:56:53 -0500 — https://www.animenewsnetwork.com/news/2026-11-21/mawaru-penguindrum-anime-inspires-stage-reading-production-by-kunihiko-ikuhara/.244065
+
+Ikuhara co-writes, co-directs February 6-7 <cite>Reading in the dark: Kodomo Broiler Sensō</cite>
+
+### Kurumizawa's Folly Manga Ends in 3 Chapters
+Sat, 21 Nov 2026 19:25:29 -0500 — https://www.animenewsnetwork.com/news/2026-11-21/kurumizawa-folly-manga-ends-in-3-chapters/.244064
+
+Series debuted in September 2025
 
 ### Angel Next Door Spoils Me Rotten Season 2 Anime Series Review
 Sat, 21 Nov 2026 12:00:00 -0500 — https://www.animenewsnetwork.com/review/angel-next-door-spoils-me-rotten/season-2/.243054
 
 I regret to inform you that, as it turns out, the first season is only the shaky preamble to the cacophonous chronicle of courtship that is its second season.
 
-### The Apothecary Diaries Season 3 ‒ Episode 56
-Sat, 21 Nov 2026 11:30:00 -0500 — https://www.animenewsnetwork.com/review/the-apothecary-diaries-season-3/episode-56/.244059
-
-As Shakespeare said in <i>Henry IV Part Two</i>, “uneasy is the head that wears a crown.”
-
-### STEEL BALL RUN JoJo's Bizarre Adventure ‒ Episode 10
-Sat, 21 Nov 2026 10:30:00 -0500 — https://www.animenewsnetwork.com/review/steel-ball-run-jojo-bizarre-adventure/episode-10/.244058
-
-This episode punches up many of the ideas that made the original Dio one of the most iconic villains in anime, and it's so much fun to see Araki’s original ideas explored again.
-
-### New Hana-Kimi Live-Action Series Reveals Theme Songs, Short Video
-Sat, 21 Nov 2026 10:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-21/new-hana-kimi-live-action-series-reveals-theme-songs-short-video/.244043
-
-CIRRA, Ryugujo perform themes for series debuting on December 5
-
-### Magic Knight Rayearth ‒ Episode 7
-Sat, 21 Nov 2026 09:30:00 -0500 — https://www.animenewsnetwork.com/review/magic-knight-rayearth/episode-7/.244057
-
-The mental image of someone having to fill out an I-9 form to work for Zagato is hilarious.
-
-### Japan's Video Game Rankings, November 9-15
-Sat, 21 Nov 2026 09:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-21/japan-video-game-rankings-november-9-15/.244013
-
-<cite>The Legend of Zelda: Ocarina of Time</cite> remake stays at #1 for 2nd week
-
-### The Ramparts of Ice Season 2 ‒ Episode 22
-Sat, 21 Nov 2026 08:30:00 -0500 — https://www.animenewsnetwork.com/review/the-ramparts-of-ice-season-2/episode-22/.244036
-
-Not only do I think Momoka deserves this, I also think the show is glossing over just how much she contributed to the problem.
-
-### Omniscient Reader's Viewpoint Webtoon Returns With Season 2 on November 24
-Sat, 21 Nov 2026 08:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-21/omniscient-reader-viewpoint-webtoon-returns-with-season-2-on-november-24/.244045
-
-REDICE Studio streams promo video to reveal return, series went on hiatus after end of 1st season in June
-
-### Tamon's B-Side Anime Gets 2nd Season
-Sat, 21 Nov 2026 07:48:47 -0500 — https://www.animenewsnetwork.com/news/2026-11-21/tamon-b-side-anime-gets-2nd-season/.244056
-
-Announced at real-life "F/ACE First Live "Nautical Star" concert
-
-### Japanese Animation TV Ranking, November 9-15
-Sat, 21 Nov 2026 07:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-21/japanese-animation-tv-ranking-november-9-15/.244015
-
-<cite>The Apothecary Diaries</cite> season 3 earns 4.0% rating
-
-### Doraemon Anime's 1-Hour New Year's Special to Feature New Tool
-Sat, 21 Nov 2026 06:05:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-21/doraemon-anime-1-hour-new-year-special-to-feature-new-tool/.244050
-
-Special will adapt "secret tool memo" from Fujiko F. Fujio currently on display at Fujiko F. Fujio Museum
-
-### 'May I Ask for One Final Thing?' Novel Series Ends in 8th Volume
-Sat, 21 Nov 2026 05:05:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-21/may-i-ask-for-one-final-thing-novel-series-ends-in-8th-volume/.244044
-
-Franchise inspired anime adaptation that debuted in October 2025
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### The Detective Is Already Dead Season 2 Reveals New Trailer, Visual
+Sun, 22 Nov 2026 06:03:26 GMT — https://animecorner.me/the-detective-is-already-dead-season-2-reveals-new-trailer-visual/
+
+The Detective Is Already Dead Season 2 revealed a new trailer and visual. The&hellip;
+
+### SHIBOYUGI: Playing Death Games to Put Food on the Table Anime Announces Sequel
+Sun, 22 Nov 2026 04:39:37 GMT — https://animecorner.me/shiboyugi-playing-death-games-to-put-food-on-the-table-anime-announces-sequel/
+
+SHIBOYUGI: Playing Death Games to Put Food on the Table anime is getting a&hellip;
+
+### Bride of the Barrier Master Anime Reveals Main Trailer, Visual, Additional Cast, Opening Theme Song Artist
+Sun, 22 Nov 2026 03:42:15 GMT — https://animecorner.me/bride-of-the-barrier-master-anime-reveals-main-trailer-visual-additional-cast-opening-theme-song-artist/
+
+To celebrate November 22nd’s “Good Spouses Day” in Japan, the main visual trailer for&hellip;
+
+### Classroom of the Elite Season 5 Announces 2027 Premiere Date
+Sun, 22 Nov 2026 03:26:06 GMT — https://animecorner.me/classroom-of-the-elite-season-5-announces-2027-premiere-date/
+
+It was announced at the MF Bunko J Autumn School Festival event that Classroom&hellip;
 
 ### Tamon's B-Side Gets Season 2
 Sat, 21 Nov 2026 10:24:22 GMT — https://animecorner.me/tamons-b-side-gets-season-2/
@@ -93,12 +113,42 @@ Fri, 20 Nov 2026 13:38:21 GMT — https://animecorner.me/bang-dream-yumemita-get
 
 Mugendai MewType announced during their 3rd anniversary livestream that BanG Dream! Yume∞Mita is getting&hellip;
 
-### Fall 2026 Anime Rankings – Week 7
-Fri, 20 Nov 2026 12:30:00 GMT — https://animecorner.me/fall-2026-anime-rankings-week-7/
-
-Firefly Wedding has won its first weekly poll of Fall 2026, taking 12.62% of&hellip;
-
 ## MyAnimeList News
+
+### Singer, Voice Actress Kiyono Yasuno Announces Marriage
+Sun, 22 Nov 2026 03:58:03 -0800 — https://myanimelist.net/news/74968356?_location=rss
+
+Voice actress Kiyono Yasuno announced her marriage on her official website on Sunday. In her written message, Yasuno expressed her gratitude to everyone who had supported her throughout her career as a voice actress and singer. She also stated that she would continue to approach her works and roles with sincerity and strive to grow further as a performer. "Although I still have much to learn, I hope to continue growing as an individual as well, taking things one step at a time each day. I w...
+
+### Light Novel Sono Mono. Nochi ni… Gets TV Anime in 2027
+Sun, 22 Nov 2026 03:36:49 -0800 — https://myanimelist.net/news/74968322?_location=rss
+
+An official website opened for a television anime adaptation of NAHAaTO s Sono Mono. Nochi ni... (That Person. Later on...) light novel on Sunday, revealing the main cast, staff, opening theme song artist, and a teaser visual (pictured). The anime will premiere in 2027. Voice actors Kent Itou (Isekai no Sata wa Shachiku Shidai) and Yui Ogura (Goblin Slayer) are starring in the anime as Wazu and Mear, respectively. Staff Chief Director: Kouichi Oohata (9: Ruler s Crown director) Directo...
+
+### Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season Reveals Additional Cast, Fourth Promo for "Assassin" Arc
+Sun, 22 Nov 2026 02:57:55 -0800 — https://myanimelist.net/news/74968286?_location=rss
+
+The official website for the television anime adaptation of Miraijin A s Tensei Kizoku, Kantei Skill de Nariagaru: Jakushou Ryouchi wo Uketsuida node, Yuushuu na Jinzai wo Fuyashiteitara, Saikyou Ryouchi ni Natteta (As a Reincarnated Aristocrat, I ll Use My Appraisal Skill to Rise in the World) light novel revealed additional cast, and the fourth promotional video for the third season on Sunday. The new arc is scheduled to premiere on November 22 at 11:30 p.m. on CBC and TBS 28-...
+
+### Hidan no Aria Corto Reveals Main Staff, New Cast, April 2027 Premiere
+Sun, 22 Nov 2026 00:30:03 -0800 — https://myanimelist.net/news/74967474?_location=rss
+
+The MF Bunko J Autumn School Festival 2026 event revealed the main staff, new cast, and a key visual (pictured) for Hiden no Aria Corto (Aria the Scarlet Ammo Corto) on Sunday. The short anime adapting Chuugaku Akamatsu s action comedy light novel will stream on various platforms beginning in April 2027. Cast Kinji Tooyama: Junji Majima (Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu!) Aria Holmes Kanzaki: Rie Kugimiya (Gintama) Shirayuki Hotogi: Mikako Takahashi (D-Frag!)...
+
+### Shibou Yuugi de Meshi wo Kuu. Sequel Anime in Production
+Sat, 21 Nov 2026 20:30:03 -0800 — https://myanimelist.net/news/74967311?_location=rss
+
+The MF Bunko J Autumn School Festival 2026 event announced on Sunday that a sequel for the Shibou Yuugi de Meshi wo Kuu. (Shiboyugi: Playing Death Games to Put Food on the Table) anime series is in production, revealing an "ultra" teaser visual (pictured). Produced by Studio Deen, the television anime adapting Yuushi Ukai s action suspense light novel aired in 11 episodes in Winter 2026. Crunchyroll simulcasted the anime with subtitles and dubs in multiple languages. Shibou Yuugi...
+
+### Kekkaishi no Ichirinka Reveals Additional Cast, Staff, Opening Theme, First Promo
+Sat, 21 Nov 2026 19:49:18 -0800 — https://myanimelist.net/news/74967291?_location=rss
+
+The official website of the Kekkaishi no Ichirinka (Bride of the Barrier Master) television anime revealed additional cast, staff, a key visual (pictured), the opening theme, and first promotional video on Sunday. The anime series adapting Kureha s romantic supernatural novel is scheduled to premiere on January 6 at 11:00 p.m. on Tokyo MX, followed by BS Nippon Television, Sun TV, and other stations. The first episode will air as a one-hour special. A preview screening event featuring a tal...
+
+### Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 5th Season: 2-nensei-hen 2 Gakki Airs in 2027
+Sat, 21 Nov 2026 19:16:05 -0800 — https://myanimelist.net/news/74967203?_location=rss
+
+The MF Bunko J Autumn School Festival 2026 event revealed cast members, main staff, and a teaser visual (pictured) for Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 5th Season: 2-nensei-hen 2 Gakki (Classroom of the Elite 5th Season: Second Year, Second Semester) on Sunday. The first part of the fifth season adapting Shougo Kinugasa s 2-nensei-hen (Year 2) sequel light novel will premiere in 2027. Cast Kiyotaka Ayanokouji: Shouya Chiba (86) Suzune Horikita: Akari Kitou (Mato Seihei no Sla...
 
 ### Tamon-kun Ima Docchi!? Second Season in Production
 Sat, 21 Nov 2026 02:26:00 -0800 — https://myanimelist.net/news/74964214?_location=rss
@@ -125,39 +175,19 @@ Fri, 20 Nov 2026 07:58:05 -0800 — https://myanimelist.net/news/74961677?_locat
 
 The official website for the television anime adaptation of Firehead s Kaketa Tsuki no Mercedes: Kyuuketsuki no Kizoku ni Tensei shita kedo Suteraresou nanode Dungeon wo Seiha suru (Mercedes and the Waning Moon: The Dungeoneering Feats of a Discarded Vampire Aristocrat) light novel revealed supporting cast and second visual (pictured). The anime will premiere on January 10 at 4:30 p.m. on TBS-affiliated networks across Japan, airing every Sunday on 28 stations. Cast Margitte Grunewald: Nich...
 
-### BanG Dream! Yume∞Mita New Anime in Production
-Fri, 20 Nov 2026 06:41:52 -0800 — https://myanimelist.net/news/74961509?_location=rss
-
-The 3rd Anniversary livestream event of Mugendai MewType announced a new anime for BanG Dream! Yume&infin;Mita television anime on Friday. Produced by Nichicaline, the 13-episode series aired in Summer 2026. Crunchyroll streamed the anime in English subtitles. The first television anime of the multimedia franchise, abbreviated as Bandori, was produced by Xebec and Issen in Winter 2017. A second season by SANZIGEN premiered in Winter 2019, followed by a third season in Winter 2020. The BanG Drea...
-
-### Manga Jimoto no Ijimekko-tachi ni Shikaeshi Shiyou to Shitara, Betsu no Tatakai ga Hajimatta. Gets TV Anime in 2027 [Update 11/21]
-Fri, 20 Nov 2026 01:42:04 -0800 — https://myanimelist.net/news/74960793?_location=rss
-
-An official website opened for a television anime adaptation of Kengo Matsumoto s Jimoto no Ijimekko-tachi ni Shikaeshi Shiyou to Shitara, Betsu no Tatakai ga Hajimatta. (When Trying to Get Back at the Hometown Bullies, Another Battle Began) manga on Friday, revealing the main staff and a teaser visual (pictured). The anime will premiere in 2027. Staff Director: Chihiro Kumano (Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2) Series Composition: Kazuho Hyoudou (Kekkon...
-
-### Pen to Wappa to Jijitsukon Unveils Additional Cast, Staff, Theme Songs, First Promo
-Fri, 20 Nov 2026 01:05:24 -0800 — https://myanimelist.net/news/74960710?_location=rss
-
-The official website of the Pen to Wappa to Jijitsukon (A Pen, Handcuffs, and a Common-Law Marriage) television anime unveiled additional cast, staff, the theme songs, a key visual (pictured), and first promotional video on Friday. The anime series adapting Shinichi Sawaragi and Tank Gasuyama s comedy mystery manga will premiere on January 10 at 1:00 a.m. on Tokyo MX, followed by BS11. Cast Wataru Kashikojima: Yuusuke Kobayashi (Re:Zero kara Hajimeru Isekai Seikatsu) Hinade Haruyama: Sumire...
-
-### Additional Cast for Zombie no Afureta Sekai de Ore dake ga Osowarenai Announced
-Thu, 19 Nov 2026 19:38:17 -0800 — https://myanimelist.net/news/74960147?_location=rss
-
-The official website of the Zombie no Afureta Sekai de Ore dake ga Osowarenai (In a World Full of Zombies I m the Only One Who Doesn t Get Attacked) television anime announced seven additional cast members on Friday. The anime series adapting Rokuro Uraji s supernaturalhorror light novel is scheduled to premiere on January 2 at 1:00 a.m. on AT-X. Cast Takashi Fujino: Mitsuki Kuribayashi Masaru Fujino: Risae Matsuda (Cheat Kusushi no Slow Life) Kiriko Ogura: Sarah Emi Bridcutt (Shi...
-
 ## Otaku USA
 
 _Nothing in the last 48 hours._
 
 ## Anime UK News
 
+### Babanba Banban Vampire Volume 1 Review
+Sun, 22 Nov 2026 10:00:17 +0000 — https://animeuknews.net/2026/11/babanba-banban-vampire-volume-1-review/
+
+450-year-old vampire Ranmaru lives and works at the Koi No Yu bathhouse, where he's watching over 15-year-old Rihito and waiting for the day he becomes 18 so he can drink his perfect virgin blood. But now in high school, Rihito's life is changing drastically and Ranmaru has a lot of problems to look out for!
+
 ### From Our TBR Pile… November 2026
 Sat, 21 Nov 2026 10:00:02 +0000 — https://animeuknews.net/2026/11/from-our-tbr-pile-november-2026/
 
 Titles appealing to all tastes in our writers’ November recommendations including Yuri/GL and Boys’ Love and another in the popular ‘Rascal Does Not…’ series!
-
-### That s Not Love Volume 3 Review
-Fri, 20 Nov 2026 10:00:13 +0000 — https://animeuknews.net/2026/11/thats-not-love-volume-3-review/
-
-With Imai considering turning his garden sculpture into a whole series, his wife approaches Akane with an offer that will hopefully bring the issues with Yukari to an end. This third volume puts the spotlight on Imai and his wife.
 

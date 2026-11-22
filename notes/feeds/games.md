@@ -1,6 +1,26 @@
-# Games — harvested 2026-11-21T20:14:47.631Z
+# Games — harvested 2026-11-22T12:51:40.413Z
 
 ## Eurogamer
+
+### Over half of all console players active on GTA 6's launch day played it, says Circana
+Sun, 22 Nov 2026 12:02:30 +0000 — https://www.eurogamer.net/gta-6-launch-day-engagement-circana
+
+On Grand Theft Auto 6 's launch day, more than half of everyone playing on PS5 and Xbox was playing GTA 6. Read more
+
+### GTA 6 player gets 30-day PSN ban for sharing in-game nudist photo with a friend
+Sun, 22 Nov 2026 11:22:10 +0000 — https://www.eurogamer.net/gta-6-psn-ban-nude-photos-nudist-resort
+
+A Grand Theft Auto 6 player says they've been hit with a 30-day PlayStation Network ban after sending a friend a photo they took in the game's nudist resort. Read more
+
+### "It stayed alive for so long" - Behind the wheel with the Last Riders saying goodbye to GTA Online, amidst GTA 6's world-changing launch
+Sun, 22 Nov 2026 10:00:10 +0000 — https://www.eurogamer.net/gta-6-grand-theft-auto-online-last-ride
+
+In the decade or so since Grand Theft Auto Online 's arrival, its roads have become a kind of home; well-loved by its racers, its gear heads, and speed freaks. It's a game that allows players to lose themselves in the roleplay, the heists, and the crime sprees. But for me, an occasional dipper into its major updates, the car folk have always been the engine driving its appeal. Read more
+
+### I've never known a moment like this in video games
+Sun, 22 Nov 2026 09:00:00 +0000 — https://www.eurogamer.net/gta-6-video-games-biggest-moment
+
+It was hard not to spend the first hour or so of Grand Theft Auto 6 's launch day in a kind of stun-lock. As far as video games editorial goes - which is not that far, in fairness; prepare for an over-flattering analogy - the effect was roughly the equivalent of Tom Hanks' experience, as his John H. Miller first set foot on Omaha beach. Tweets and reels whistled overhead, news leads stung the ears, exploding search terms blew apart some poor guides team ally on one side, while new discoveries in the early game - made by the millions and millions of launch-day players all picking it apart at once - appeared by surprise like some flanking ambush on the other. Read more
 
 ### Unannounced Nioh 3 Complete Edition has been rated in Korea
 Sat, 21 Nov 2026 17:19:50 +0000 — https://www.eurogamer.net/nioh-3-complete-edition-rated-korea
@@ -42,26 +62,6 @@ Fri, 20 Nov 2026 20:00:40 +0000 — https://www.eurogamer.net/gta-6-biggest-ente
 
 Surprise, surprise - GTA 6 is officially the biggest entertainment launch of all time, surpassing its predecessor's 13-year-long record and the already optimistic analyst estimates. Read more
 
-### After taking seven years to make Persona 6 and four years to make Persona 5, Atlus promises future games will come quicker
-Fri, 20 Nov 2026 19:23:00 +0000 — https://www.eurogamer.net/persona-6-games-come-quicker-atlus
-
-Persona 6 is still slowly chugging in the background, but developer Atlus is promising that future games in its beloved RPG series won't take quite as long as they used to. Read more
-
-### GTA 6 credits actually include 'Florida Joker', the viral internet personality who once demanded $10 million from Rockstar Games
-Fri, 20 Nov 2026 18:23:50 +0000 — https://www.eurogamer.net/gta-6-credits-florida-joker-rockstar
-
-Lawrence Sullivan, better known to the online world as the 'Florida Joker', is in GTA 6 . After accusing Rockstar Games of using his likeness without consent and then demanding a $10m payout, the two parties have seemingly settled their differences. Read more
-
-### Nvidia co-founder Jensen Huang accused of decades of bullying and workplace abuse in new investigation
-Fri, 20 Nov 2026 17:19:50 +0000 — https://www.eurogamer.net/jensen-huang-nvidia-investigation-harassment
-
-An investigation into the workplace behavior of Nvidia co-founder Jensen Huang, who resigned recently after a series of extramarital affairs came to light, has uncovered decades of harassment, verbal employee abuse and "cultish" behaviour at the company which has long played a major role in PC gaming. Read more
-
-### 13 arrested in Shanghai as police crackdown on bootleg Final Fantasy 7 Tifa figurine operation
-Fri, 20 Nov 2026 16:39:30 +0000 — https://www.eurogamer.net/final-fantasy-7-bootleg-tifa-figurine-china-13-arrested
-
-Chinese police have arrested 13 individuals in Shanghai allegedly involved in a bootleg Final Fantasy 7 Tifa figurine business, after consumers reported the operation. They are currently being investigated on suspicion of selling infringing reproductions. Read more
-
 ## GamesIndustry.biz
 
 ### GTA 6 hits $3.79 billion in its first day on sale, becoming "the biggest entertainment launch in history"
@@ -84,41 +84,26 @@ Fri, 20 Nov 2026 14:07:30 +0000 — https://www.gamesindustry.biz/sensor-tower-e
 
 Sensor Tower estimates Grand Theft Auto 6 sold over 24.5 million copies through pre-orders and on launch day, generating approximately $2.36 billion in revenue. Read more
 
-### How the EU's Digital Fairness Act will impact game design, and why it hits European indies particularly hard
-Fri, 20 Nov 2026 12:27:00 +0000 — https://www.gamesindustry.biz/how-the-eus-digital-fairness-act-will-impact-game-design-and-why-it-hits-european-indies-particularly-hard
-
-The European Commission's publication of its draft Digital Fairness Act (DFA) last week prompted uproar within the games industry, with many notable voices candidly expressing their concerns. Opinions in the wider industry were more measured, possibly because some of the practices targeted by the DFA &ndash; such as loot boxes or pay-to-win &ndash; are wildly successful economically, but not uniformly popular amongst players. Read more
-
-### Ubisoft merges two Creative Houses as H1 results decline 16.5%; Q2 net bookings above guidance thanks to Assassin's Creed Black Flag remake
-Fri, 20 Nov 2026 11:43:40 +0000 — https://www.gamesindustry.biz/assassins-creed-black-flag-resynced-drives-ubisoft-q2-net-bookings-above-guidance-h1-results-decline-165-to-6447m
-
-Assassin's Creed Black Flag Resynced increased Ubisoft's Q2 net bookings to &euro;389 million, exceeding the estimated guidance of &euro;370 million. Read more
-
-### The creator of E.T. on the Atari 2600 likens the deluge of AI-made games to the glut of poor-quality titles released ahead of the US video game crash of 1983
-Fri, 20 Nov 2026 11:13:00 +0000 — https://www.gamesindustry.biz/the-creator-of-et-on-the-atari-2600-likens-the-deluge-of-ai-made-games-to-the-glut-of-poor-quality-titles-released-ahead-of-the-us-video-game-crash-of-1983
-
-At the DevGAMM Lisbon conference this week, veteran game designer Howard Scott Warshaw gave a talk called "From Atari to AI". Warshaw was behind a number of famous titles for the Atari 2600, including the classic Yars' Revenge, but infamously he also designed the game E.T. the Extra-Terrestial, the poor quality of which has been cited as a factor in the US video game crash of 1983, when US games industry revenue plummeted from over $3 billion in 1983 to around $100 million in 1985. Read more
-
-### Ubisoft launches Motherbrain, a new subsidiary focused on AI-driven "gameplay innovation"
-Fri, 20 Nov 2026 10:21:10 +0000 — https://www.gamesindustry.biz/ubisoft-launches-motherbrain-a-new-subsidiary-focused-on-ai-driven-gameplay-innovation
-
-Ubisoft has launched Motherbrain, a dedicated subsidiary focused on developing proprietary generative AI technology for gameplay. Read more
-
-### IGN partners with Rockstar to host Official Strategy Guide for GTA 6
-Fri, 20 Nov 2026 10:07:40 +0000 — https://www.gamesindustry.biz/ign-partners-with-rockstar-to-host-official-strategy-guide-for-gta-6
-
-IGN Entertainment, the parent company of GamesIndustry.biz , has released the Official Online Guide for GTA 6 , created through direct collaboration with Rockstar Games. The free guide, which was published on IGN.com, includes an extensive interactive map built using the firm's MapGenie platform, along with checklist trackers for completed tasks and detailed guides on missions, mechanics, and the game's vast open world. Read more
-
-### Phonopolis from Amanita Design wins Grand Prize at the DevGAMM Awards
-Fri, 20 Nov 2026 09:44:20 +0000 — https://www.gamesindustry.biz/phonopolis-from-amanita-design-wins-grand-prize-at-the-devgamm-awards
-
-The DevGAMM Awards took place on Wednesday evening as the finale to the DevGAMM Lisbon conference, which this year was held in a new, more central venue: the Carlos Lopes Pavilion. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### GTA 6 Is Blowing Away Gaming s Greatest Devs, Including Naughty Dog
+Sun, 22 Nov 2026 02:00:00 GMT — https://www.pushsquare.com/news/2026/11/gta-6-is-blowing-away-gamings-greatest-devs-including-naughty-dog
+
+Industry professionals stunned by new sandbox. Naughty Dog’s Michael Barclay – whose credits include Uncharted: The Lost Legacy and The Last of Us 2 – says he’s “made video games for 19 years and GTA 6 appears to me as a Bugatti Veyron would to a nervous Victorian child”. Rockstar’s latest open world release is by far the best-looking game ever made, even if it is locked to 30fps on PS5 hardware . Read the full article on pushsquare.com
+
+### Move Aside, Mandy : GTA 6 s Goth Girl Vicki Is PS5 Players New Fave
+Sun, 22 Nov 2026 01:00:00 GMT — https://www.pushsquare.com/news/2026/11/move-aside-mandy-gta-6s-goth-girl-vicki-is-ps5-players-new-fave
+
+Here's why her real-life actress may sound familiar. As GTA 6 players progress through the plot and explore beyond the sunny shores of Key Lento , bunny boiler Mandy has been left behind . It’s all about Delights’ resident goth girl Vicki now! Read the full article on pushsquare.com
+
+### Guide: GTA 6 Guide: All Guides & Collectibles
+Sun, 22 Nov 2026 00:00:00 GMT — https://www.pushsquare.com/guides/gta-6-guide
+
+A comprehensive guide to GTA 6. Welcome to our GTA 6 guide , the latest game in Rockstar's long-running crime sandbox series. The goal of our guide is to help you get the most out of your time in Leonida, and achieve 100% completion with as few spoilers as possible. This page serves as an index, and can be used as an easily browsable hub to access all of our specific guides pages, whether you're looking for collectibles or simply searching for gameplay tips. Read the full article on pushsquare.com
 
 ### GTA 6 PS5 Review Bombing Out of Control as Zelda Receives Revenge Ratings
 Sat, 21 Nov 2026 15:30:00 GMT — https://www.pushsquare.com/news/2026/11/gta-6-ps5-review-bombing-out-of-control-as-zelda-receives-revenge-ratings
@@ -165,21 +150,6 @@ Fri, 20 Nov 2026 16:00:00 GMT — https://www.pushsquare.com/news/2026/11/atlus-
 
 Plans in place to speed development up. By the time Persona 6 comes out, it'll have been at least 10 years since the launch of Persona 5 . That's a very long time between mainline instalments, and developer Atlus doesn't want you to have to repeat the process again. Via a new company interview with creative producer Kazuhisa Wada, it's revealed the Persona team within Atlus is working on "various things" to make sure the wait between releases isn't so long. "Persona 6 is not the end," Wada said. Read the full article on pushsquare.com
 
-### These 7 PS5 Games Launched on the Same Day as GTA 6 Like Mad Men
-Fri, 20 Nov 2026 15:00:00 GMT — https://www.pushsquare.com/news/2026/11/these-7-ps5-games-launched-on-the-same-day-as-gta-6-like-mad-men
-
-Brave strategy. What’s the definition of insanity? It’s got to be launching your game on the exact same day as GTA 6 , which is likely to be the biggest release in history. And yet, seven games did! Read the full article on pushsquare.com
-
-### It s Unbelievably Hard to Achieve : Cyberpunk 2077 Boss Pours Praise on Masterpiece GTA 6
-Fri, 20 Nov 2026 14:30:00 GMT — https://www.pushsquare.com/news/2026/11/its-unbelievably-hard-to-achieve-cyberpunk-2077-boss-pours-praise-on-masterpiece-gta-6
-
-Night City meets Vice City. From Night City to Vice City, the boss of CDPR has nothing but nice things to say about GTA 6 . With the PS5 release of Cyberpunk 2077 , the Polish studio established itself as an open world big boy, having previously released one of the greatest RPGs ever in The Witcher 3 . Read the full article on pushsquare.com
-
-### GTA 6 Too Dark? Here s How to Fix It on PS5
-Fri, 20 Nov 2026 12:30:00 GMT — https://www.pushsquare.com/news/2026/11/gta-6-too-dark-heres-how-to-fix-it-on-ps5
-
-Optimal HDR calibration settings included. If you’re playing GTA 6 and finding it too dark, there’s a good chance you may have your HDR calibration wrong – and no, it’s not your fault! An extensive research video by HDTV Test – performed on a pricey Sony reference monitor – reveals the game’s HDR calibration may not be working quite as intended. Read the full article on pushsquare.com
-
 ## Game Developer
 
 ### Grand Theft Auto VI is now the biggest video game launch in history
@@ -199,10 +169,30 @@ We're chatting with creative director Mikael Kasurinen about the process of maki
 
 ## VGC
 
+### GTA 6 Meet the Heders walkthrough: Find and open the SCOOP container
+Sat, 21 Nov 2026 22:55:42 +0000 — https://www.videogameschronicle.com/guide/gta-6-meet-the-heders-walkthrough-find-and-open-the-scoop-container/
+
+Here's how to find and open the Scoop container in Meet The Heders… Source
+
+### GTA 6 radio DJs and podcast hosts: Every famous voice on GTA 6 s radio
+Sat, 21 Nov 2026 22:17:19 +0000 — https://www.videogameschronicle.com/guide/gta-6-radio-djs-and-podcast-hosts-every-famous-voice-on-gta-6s-radio/
+
+Every confirmed DJ and podcast host in GTA 6… Source
+
+### GTA 6 Avery Pawn Shop Safe Code: How to Find and Open the Safe
+Sat, 21 Nov 2026 20:41:28 +0000 — https://www.videogameschronicle.com/guide/gta-6-avery-pawn-shop-safe-code-how-to-find-and-open-the-safe/
+
+How to find the Avery Pawn safe code… Source
+
 ### GTA 6 Dealer s Choice walkthrough: Should you choose Cut or Pure?
 Sat, 21 Nov 2026 20:10:07 +0000 — https://www.videogameschronicle.com/guide/gta-6-dealers-choice-walkthrough-should-you-choose-cut-or-pure/
 
 How to complete Dealer's Choice in GTA 6… Source
+
+### GTA 6 Slim Jim Location: How to Get It and Unlock Cars Quietly
+Sat, 21 Nov 2026 20:00:53 +0000 — https://www.videogameschronicle.com/guide/gta-6-car-alarms-explained-how-to-steal-cars-with-alarms-in-gta-6/
+
+Where to get the Slim Jim in GTA 6… Source
 
 ### GTA 6 Chapter 3 laptop password: How to unlock the laptop in Boobie s apartment
 Sat, 21 Nov 2026 17:50:46 +0000 — https://www.videogameschronicle.com/guide/gta-6-chapter-3-laptop-password-how-to-unlock-the-laptop-in-boobies-apartment/
@@ -229,79 +219,89 @@ Sat, 21 Nov 2026 15:25:08 +0000 — https://www.videogameschronicle.com/guide/gt
 
 Xbox players are reporting bans for capturing GTA 6… Source
 
-### GTA 6 La Cascara Motel safe code: How to find and open the safe
-Sat, 21 Nov 2026 14:59:03 +0000 — https://www.videogameschronicle.com/guide/gta-6-la-cascara-motel-safe-code-how-to-find-and-open-the-safe/
-
-Here's the La Cascara Motel safe code… Source
-
-### GTA 6: Door code for Moses’ Declasse Vamos vehicle mission
-Sat, 21 Nov 2026 12:43:35 +0000 — https://www.videogameschronicle.com/guide/gta-6-moses-declasse-vamos-door-code/
-
-How to steal the Declasse Vamos for Moses in Grand Theft Auto 6… Source
-
-### GTA 6: All Meditation Spot locations in Grand Theft Auto 6
-Sat, 21 Nov 2026 12:33:59 +0000 — https://www.videogameschronicle.com/guide/gta-6-all-meditation-spot-locations-grand-theft-auto/
-
-Every Meditation Spot location for the Positive Mental Attitude trophy and achievement… Source
-
-### GTA 6 Twist Wrist, Smash, Grab walkthrough: How to rob the armoured van
-Sat, 21 Nov 2026 01:49:27 +0000 — https://www.videogameschronicle.com/guide/gta-6-twist-wrist-smash-grab-walkthrough/
-
-How to complete Twist Wrist, Smash, Grab with Billy in GTA 6… Source
-
 ## Polygon
 
-### Is immortality a curse for elves?
-Sat, 21 Nov 2026 20:00:17 GMT — https://www.polygon.com/video/is-immortality-a-curse-for-elves/
+### 30 Years Later, Sean Connery's Secret James Bond Thriller Is Officially Free on Streaming
+Sun, 22 Nov 2026 12:00:18 GMT — https://www.polygon.com/the-rock-sean-connery-free-to-stream/
 
-The Rings of Power star Jamie Campbell points out the downside of the elves' immortal lifespan in Amazon's Lord of the Rings show. #lordoftherings #lotr #ringsofpower #jamiecampbellbower #celeborn
+Back in the 1990s, Michael Bay was really cooking. Before the slog that was 2001’s Pearl Harbor and his divisive Transformers movies that simultaneously hurt and enhanced his career by sidelining him for decades, Bay debuted as a director with a trio of really exciting movies that prioritized a fun experience for the viewer. First there was 1995’s Bad Boys , the Will Smith and Martin Lawrence buddy-cop film that became a popular franchise. He closed out the decade with the genre-defining end-of-the-world disaster film Armageddon . And in between those two, he gave us a tightly crafted thriller that is currently free to stream (with ads) on Pluto TV.
 
-### It’s Official, GTA 6’s Graphics Have Broken My Brain
-Sat, 21 Nov 2026 19:00:17 GMT — https://www.polygon.com/gta-6-graphics-realism/
+### Star Wars’ 2-Part Sci-Fi War Thriller Has One of the Best Seasons in TV History
+Sun, 22 Nov 2026 10:00:18 GMT — https://www.polygon.com/disney-sci-fi-thriller-star-wars-andor/
 
-The first time I played Grand Theft Auto 5 , I was ready to wreak havoc the second I picked up the controller. When my buddy handed me the controller to try it out at his apartment, I asked him how to unlock all weapons and got up to the old tricks of my PS2 glory days. Cars were stolen, cops were exploded, and fun was had by all (except the pedestrians).
+In 2022, Disney was having a pretty strange year with its franchises. There were some major wins, such as the hugely financially successful release of Doctor Strange in the Multiverse of Madness and Turning Red becoming a streaming hit. Its films also earned $4.9 billion at the box office that year.
 
-### Former Blade Director Reveals What Went Wrong With The Ill-Fated Marvel Movie
-Sat, 21 Nov 2026 17:17:13 GMT — https://www.polygon.com/blade-movie-director-comments-no-script/
+### 8 Best Science Fantasy Books of the 21st Century
+Sun, 22 Nov 2026 09:04:17 GMT — https://www.polygon.com/best-science-fantasy-books-of-the-century/
 
-Director Bassam Tariq, who was previously attached to direct the Mahershala Ali Blade movie that never came to fruition, was candid that the lack of a strong, complete script caused the Marvel Cinematic Universe movie to fall apart before it even started shooting.
+The legendary science fiction writer Arthur C. Clarke once said, “Any sufficiently advanced technology is indistinguishable from magic.” The lines between sci-fi and fantasy blur in popular entertainment franchises like Star Wars , Warhammer 40,000 , and the Marvel Cinematic Universe , as well as in classic book series like Dune and Dragonriders of Pern. If you’re looking for a new world to explore and can’t decide if you want it filled with spaceships or dragons, you don’t necessarily have to choose. Just pick something from this list of the best science fantasy books of the 21st century.
 
-### How to use auto drive in GTA 6
-Sat, 21 Nov 2026 16:53:58 GMT — https://www.polygon.com/gta-6-auto-drive-how-to/
+### 29 years later, Homer’s Best ‘The Simpsons’ Quote is Still Pure Genius
+Sun, 22 Nov 2026 09:00:17 GMT — https://www.polygon.com/the-simpsons-best-homer-quote/
 
-Grand Theft Auto 6 's auto drive feature is perfect if you just want to see the sights of Leonida or avoid navigating through traffic. Not that GTA 6 goes out of its way to tell you there even is an auto drive feature. It's tucked away in a menu you have little cause to use early in the game, and you also need to make sure a specific setting is toggled on for it to work in some circumstances. It's best to still learn how to drive decently yourself, though, as auto drive isn't the best choice in hectic situations.
+Personally, my favorite-ever quote from Homer Simpson came during season 4 of The Simpsons , in an episode named “Whacking Day.” The episode is about the citizens of Springfield celebrating a local holiday named Whacking Day, when they lure all the snakes in Springfield to the center of town and then beat them to death with baseball bats. Everyone loves this holiday except Lisa Simpson, who finds it to be cruel.
 
-### Apple TV’s New 8-Part Crime Thriller Is Already a No. 1 Streaming Hit
-Sat, 21 Nov 2026 16:32:03 GMT — https://www.polygon.com/anthony-mackie-12-12-12-apple-tv-streaming-success-november-2026/
+### 'Calvin and Hobbes' Best Bully Quote Is Still Among the Wisest in Comic Strip History
+Sun, 22 Nov 2026 08:00:18 GMT — https://www.polygon.com/calvin-and-hobbes-moe-best-quote/
 
-Anthony Mackie has spent decades building an impressive Hollywood career, moving between blockbuster franchises, action movies, and acclaimed television projects. From playing Sam Wilson in the Marvel Cinematic Universe to starring in The Hurt Locker and 8 Mile , Mackie has become a familiar face to audiences across several genres.
+In the comic strip Calvin and Hobbes , Calvin often defines his babysitter Rosalyn as his arch-nemesis. He regularly plots against her and tries to sabotage her relationship with her boyfriend. He even locked her out of the house once while she was babysitting him, which got him into big trouble with his parents.
 
-### Darkest Dungeon 2 DLC's New Mode Is Very Different From The Base Game
-Sat, 21 Nov 2026 16:31:42 GMT — https://www.polygon.com/darkest-dungeon-2-the-butchers-asylum/
+### 46 Years Later, the Most Influential Thriller of All Time Is Officially Free on YouTube
+Sun, 22 Nov 2026 04:00:17 GMT — https://www.polygon.com/friday-the-13th-youtube-watch-free-november-2026/
 
-We haven't gotten new DLC for Darkest Dungeon 2 in over a year, but the wait makes sense now that The Butcher's Asylum has been revealed. Launching in 2027, this DLC will add a whole new standalone game mode that remixes how you play this grim roguelike RPG.
+Over the years, corporations and filmmakers alike have eagerly sought to revisit the origins of horror classics (e.g., Bates Motel and Psycho , Welcome to Derry and IT , etc.) for modern audiences. It’s an easy way to find success when you already have an audience that loves the IP you’re reimagining
 
-### The Galadriel love story we never saw...
-Sat, 21 Nov 2026 16:30:19 GMT — https://www.polygon.com/video/the-galadriel-love-story-we-never-saw/
+### 58 Years Later, Captain Kirk's Best Star Trek Quote Is the Greatest Line in Sci-Fi History
+Sun, 22 Nov 2026 03:59:17 GMT — https://www.polygon.com/best-captain-kirk-quote-star-trek-original-series/
 
-In this season of The Lord of the Rings: The Rings of Power, audiences are treated to a proper elven romance.
+Some lines of dialogue become so famous they stop belonging to the movies and TV shows that produced them. “May the Force be with you.” “I’ll be back.” “You're gonna need a bigger boat.” You don't need to know the context. The words have long since transcended their original context and permeated the pop culture zeitgeist.
 
-### Where to find the bowling alley safe code in GTA 6
-Sat, 21 Nov 2026 16:07:42 GMT — https://www.polygon.com/gta-6-kingpin-bowling-alley-safe-code-location-grand-theft-auto/
+### 61 Years Later, Charlie Brown's Greatest Enemy Is Still an Undefeated 'Peanuts' Icon
+Sun, 22 Nov 2026 03:00:28 GMT — https://www.polygon.com/kite-eating-tree-peanuts/
 
-The Kingpin Bowling Alley safe code in Grand Theft Auto 6 is, frustratingly, not actually in the bowling alley itself. No, to get your hands on it legitimately, you need to ransack a different Kolt & Associates illegal operation, which essentially acts as the gang's headquarters, and has multiple safe codes available at once. But that doesn't help when you're deep in the back offices of the bowling alley, and you're being shot at by dozens of angry gang members.
+Like many comics aimed at children, Charles Schulz's Peanuts doesn't have too many actual villains. It has a number of antagonists, such as Lucy Van Pelt , various other kids, or the impersonal cloud of failure that constantly hangs over Charlie Brown's head, but it's rare to see a genuinely malevolent force in Peanuts — with one exception.
 
-### GTA 6's Impact on Steam and Roblox After Record-Breaking Launch Revealed
-Sat, 21 Nov 2026 16:05:15 GMT — https://www.polygon.com/gta-6-impact-on-steam-roblox/
+### 8 Must-Play JRPGs for People With Real-Life Schedules
+Sun, 22 Nov 2026 01:00:17 GMT — https://www.polygon.com/jrpgs-real-life-schedules/
 
-Grand Theft Auto 6 sold over 32.5 million copies through pre-orders alone and delivered never-before-seen levels of player engagement on both PlayStation 5 and Xbox Series X. But according to a new report, GTA 6's release only caused slight user count declines for Steam and Roblox, rather than massive ones.
+It’s 9:15 on a Wednesday night. The dishes are done. You have about 45 minutes before bed, and you’re a JRPG fan (or you were, when you had more time). JRPGs tend to demand dozens of hours from players — and they can make it very difficult to pause, as some of them will interrupt you with a battle every few steps.
 
-### D&D Publisher Officially Hands Record-Breaking AI Settlement Money to Authors
-Sat, 21 Nov 2026 15:59:00 GMT — https://www.polygon.com/dnd-dungeons-dragons-authors-get-settlement-money-wizards-of-the-coast/
+### Star Trek Reboot Officially Teased as Crimson Tide Meets Training Day Sci-Fi Thriller
+Sun, 22 Nov 2026 00:40:17 GMT — https://www.polygon.com/star-trek-movie-reboot-crimson-tide-training-day/
 
-Anthropic, known for creating the AI platform Claude , was the target of a 2025 class-action lawsuit that resulted in the largest copyright settlement to date. While it was determined that Anthropic could use fairly obtained books to train large language models (LLMs) for Claude, the company resorted to using pirate libraries with thousands of unauthorized copies. This was later deemed an unfair use of authors' copyrighted work. Anthropic agreed to a settlement of $1.5 billion to be distributed among the publishers and authors of approximately half a million books.
+After more than a decade of waiting, it seems we may finally get a new theatrically released Star Trek movie . While dedicated Trekkies have heard that before, the directors of the only known Star Trek movie in development recently shared details about their project. The pair helming the new Trek film , Jonathan Goldstein and John Francis Daley, broke down the movie's influences in an interview with Inverse .
 
 ## PC Gamer
+
+### Jason's stoic character in Grand Theft Auto 6 was inspired by Steve McQueen and research into Army veterans: 'These guys typically aren't running their mouths'
+Sun, 22 Nov 2026 10:54:09 +0000 — https://www.pcgamer.com/games/grand-theft-auto/jasons-stoic-character-in-grand-theft-auto-6-was-inspired-by-steve-mcqueen-and-research-into-army-veterans-these-guys-typically-arent-running-their-mouths/
+
+It's already clear that Grand Theft Auto 6 has a very different timbre than most other GTA games. While criminal hijinks and acerbic satire remain part of the experience, it's also much more interested in portraying characters and relationships in a more convincing, human fashion. One of the most striking examples of this is its depiction of co-protagonist Jason Duval, who, unlike the vast majority of GTA's main characters, is often notable for what he doesn't say rather than what he does. According to Rockstar's senior vice president of narrative Rupert Humphries, Jason's laconic nature was inspired by a personality type observed in both cinema and real-life. "When we decided we wanted to tell a story about a couple on the run, we looked at all the similar kinds of movies, and one of the ones that really stood out was [Sam] Peckinpah's The Getaway" Humphries explained in a statement given to Destructoid (via GamesRadar ). Steve McQueen was famous for pulling lines out of scripts and saying things with his presence alone. We wanted to see how close we could get to that with a game character, where so many of our protagonists have been the opposite." Humphries says this also "resonated" with research the studio was doing around Army veterans, particularly Army Rangers. In Grand Theft Auto 6, Duval is a veteran of the game's equivalent military organisation called the Marauders. "These guys typically aren't running their mouths or reacting to something unless it's strictly nece
+
+### Astarion's Baldur's Gate 3 prequel novel infuriated fans, now it's Shadowheart's turn
+Sun, 22 Nov 2026 03:03:45 +0000 — https://www.pcgamer.com/games/baldurs-gate/astarions-baldurs-gate-3-prequel-novel-infuriated-fans-now-its-shadowhearts-turn/
+
+Tasha Suri, author of the Burning Kingdoms trilogy and several other books, will be writing Baldur's Gate 3: Shadowheart, the official BG3books website has announced. Another prequel to Larian's videogame, this one focuses on Shadowheart's time as a priestess in the Church of Shar, and is about a murder mystery. "When a member of their order is killed in the Upper City," the blurb goes, "Shadowheart and her so-called allies are called to investigate. She trusts none of them: not Mirie, the ambitious Griefguard; not Caldan, the cynical propagandist; and certainly not Nocturne, the charming quartermistress, who claims to have only Shadowheart’s best interests in mind." Mirie and Nocturne are both characters you can meet in Baldur's Gate 3, while Caldan Darkwood is mentioned in a note you can find . Nocturne in particular has a close relationship with Shadowheart, which could be interesting to see developed. "Torn between the familiar comforts of the dark and the thrill of new desire," the blurb continues, "she must solve the mystery to prove her devotion… or be cast into the light." Which sounds fine and dandy, but it'll have an uphill battle with the Baldur's Gate 3 fandom, who've been vocally critical of the Astarion novel for its lightness of tone—especially given his traumatic backstory—and apparently mischaracterizing Astarion and his sire, Cazador, as well as being inaccurate to the lore. I haven't read the Astarion book, but I did read the original Baldur's Gate novels, 
+
+### Wizards of the Coast to pass full AI copyright payout to D&D writers
+Sat, 21 Nov 2026 23:40:42 +0000 — https://www.pcgamer.com/games/rpg/wizards-of-the-coast-to-pass-full-ai-copyright-payout-to-d-and-d-writers/
+
+James Lowder, a freelance writer and editor who has contracted with Wizards of the Coast on D&D books, discussed the news and its personal impact on him via LinkedIn . Here's the second half of Lowder's post, explaining the mechanics of how this came about: Baldur's Gate 3 romance : Who to pursue Baldur's Gate 3 multiplayer : How co-op works Baldur's Gate 3 endings : For better or worse Baldur's Gate 3 multiclass builds : Coolest combos Best RPGs : The greatest you can play now ]]>
+
+### Comcast: 'At peak, GTA 6 accounted for nearly a quarter of all internet traffic'
+Sat, 21 Nov 2026 21:42:29 +0000 — https://www.pcgamer.com/games/grand-theft-auto/comcast-at-peak-gta6-accounted-for-nearly-a-quarter-of-all-internet-traffic/
+
+In a post to X, "The Everything App," US entertainment and communications conglomerate Comcast revealed that Grand Theft Auto 6's historic launch drove record-breaking internet traffic. According to Comcast, only a quarter of "the entire internet" was downloading Rockstar's latest cozy game phenomenon . "GTA 6 didn't just break records in gaming," Comcast wrote. "Its launch drove the biggest internet traffic day in our network history, with traffic climbing 31% above an average day. At peak, GTA 6 accounted for nearly a quarter of all network traffic." Comcast shared a video of a line graph showing the massive relative spike in activity on November 19. The chart is unlabeled except for the date, but it presumably corresponds to the volume of data being downloaded across Comcast's entire network. And that last but does add a caveat to the numbers Comcast cited: Its network and "the entire internet" are two different things, unless I'm missing something here or Comcast's data accounts for other ISPs and other countries, not just its own services. Regardless, it's still a significant bit of fun with statistics, another example of the totalizing footprint of what may be the largest commercial launch in entertainment history . Imagine how much bigger it would have been launching on PC as well. Despite our remit, we've been going hard to the paint in our coverage of GTA 6⁠—I mean, it'll come our way eventually, right? Check out our hub for guides, news, and opinions, as well as sen
+
+### The team behind Ubisoft's 'first playable AI-based R&D project' has been established as its own subsidiary called Motherbrain
+Sat, 21 Nov 2026 21:16:16 +0000 — https://www.pcgamer.com/gaming-industry/the-team-behind-ubisofts-first-playable-ai-based-r-and-d-project-has-been-established-as-its-own-subsidiary-called-motherbrain/
+
+Use of generative AI in game dev remains as contentious as it does ubiquitous— a recent GDC report found that around 40% of devs use AI, but more than half think its influence has been negative. Ubisoft is continuing to double down on the technology , this time with Motherbrain, a new subsidiary fashioned from the team behind its "first playable generative AI experience." As reported by VGC , Motherbrain's purpose is to develop "AI for gameplay innovation, supporting all game creators in developing groundbreaking experiences … Its current focus is on new player experiences, smart NPCs with memory and AI game masters that manage large scale systemic worlds," according to an earnings report which was released Thursday. The information comes at a turbulent time for the publishing giant, which just laid off 166 employees even after Assassin's Creed Black Flag Resynced "outperformed expectations." A sweeping internal overhaul earlier this year saw the company reorganize its workforce into a throng of "creative houses," a decision which led to swathes of layoffs and six project cancellations, including the Prince of Persia: The Sands of Time Remake. It's not clear what Motherbrain are at work on, in specific terms, right now, but there may be some clues in its past work. That playable AI "experience" I mentioned earlier is none other than Teammates, an R&D project based on a prior experiment with uncanny AI "neo-NPCs." Teammates aimed to allow players to command NPC squadmates in a
+
+### GTA 6 Protective Custody: Should you choose proceed or postpone when you go to meet Abe?
+Sat, 21 Nov 2026 20:32:43 +0000 — https://www.pcgamer.com/games/grand-theft-auto/gta-6-protective-custody-choice-proceed-or-postpone-meet-abe/
+
+Deciding whether to proceed or postpone the Protective Custody story mission is a big choice you'll need to make in GTA 6 . The mission appears on your map as "Meet Abe" in Chapter 5, once you've completed the mission Operation Savage Glory. Once you get to Abe's office, Jason will warn Lucia that everything will change after this mission. Lucia will hesitate at the door as you make your choice to "Proceed" or "Postpone." This is a pretty big decision, because Protective Custody kicks off the final mission of the game which takes about an hour to play. And even though it's a binary choice between "Proceed" (which starts the mission) and "Postpone" (which delays the mission)" there's actually a third possible outcome based on when you make the choice. Proceed or Postpone Proceed : Jason and Lucia will enter Abe's office and the final mission of the game will begin. It's a long mission that will take about an hour to play, so be prepared. You can't save during this mission so make sure you've got the time! Once you've completed the final mission, you can watch the credits and return to the open world so you can continue playing. Postpone : You delay the final mission. You will go back to the open world to continue playing. The "Meet Abe" icon will remain on your map so you can begin the final mission at any point from then on. The third option: Proceed with $2 million in your Buck Me savings account There are multiple endings to GTA 6, and I won't spoil them here. But one of th
 
 ### Skyrim lead chats about the Fallout diehards who hated that Bethesda got the series: 'We had to prove them wrong, and fortunately we did'
 Sat, 21 Nov 2026 18:00:00 +0000 — https://www.pcgamer.com/games/fallout/skyrim-lead-chats-about-the-fallout-diehards-who-hated-that-bethesda-got-the-series-we-had-to-prove-them-wrong-and-fortunately-we-did/
@@ -332,36 +332,6 @@ You'll need the GTA 6 La Cascara safe code if you decide to rob this tempting-lo
 Sat, 21 Nov 2026 16:30:40 +0000 — https://www.pcgamer.com/games/grand-theft-auto/gta-6-pawn-shop-safe-code/
 
 Chapter 2 of GTA 6 finally gives you full control over both Jason and Lucia, and one of the first missions you'll undertake as a criminal couple involves committing a robbery in one of three locations. One of your options is Avery Pawn Shop, where you'll be able to make a tidy sum of money if you can smash-and-grab enough loot and, more crucially, find the safe code to crack it open for additional cash and jewellery.The easiest way to do that is to grab the code for the safe, which is thankfully pretty easy to do. How to find the Avery Pawn Shop safe code Rockstar Games Rockstar Games Rockstar Games Head inside Avery Pawn with your partner in tow—don't forget to pop on a mask , along with a hat and sunglasses to hide your identity—and begin holding up the store by pulling out your gun with L2 and pointing it at the clerks. You should be able to threaten one of the staff members with Square and, with the other, the same input should instead change to "Safe Code?" if you look at the bottom-right corner. For me, it was the one standing behind the counter on the left. The clerk should give up the safe code with little resistance. Once you have it, head behind the counter and into the back room. There'll be another staff member there, but you can point your gun and threaten him as well. Head into the office to the right, input the safe code, and grab your goods. It looks like, at least where pawn shops are concerned, the code given is random. In my case, the code was 5683, but you
-
-### The most unforgivable crime in GTA 6 is that TV placement
-Sat, 21 Nov 2026 16:16:37 +0000 — https://www.pcgamer.com/games/grand-theft-auto/the-most-unforgivable-crime-in-gta-6-is-that-tv-placement/
-
-Grand Theft Auto 6 is a game about criminals doing crimes. Car crimes, gun crimes, drug crimes, and first degree decorating crimes. Early in the game, Jason's buddy Cal convinces him that he's got to turn his r/malelivingspace shack into a place he can bring his girl Lucia without feeling like she's still stuck in a jail cell. Cal is right, but his decorating decisions should be illegal. (Image credit: Rockstar) This is how Jason's living room looks at the beginning of the game while he's still flying solo. Not great, Jason. If I've learned anything from lurking in interior decorating communities online it's that furniture should never be touching your walls, no matter how small the room is, and that nobody's TV is ever at the right height. Cal hassles Jason into moving some things around and, while I love his motivation, he makes everything worse. What they wind up with is this: couch blocking prime navigation space and the TV sitting in front of the sliding glass door. Look, I know the point is that Cal is an incompetent dork. He's slugging beers and insisting they make the room feng shui. I can't forgive him for this one though. (Image credit: Rockstar) Cal does get one thing right here: using the couch and arm chair to create a space that feels like a living room within the open area. Once Lucia moves in she and Jason continue making the waterfront shack more homey. They get a rug in the living room, a classic choice to finish tying that space into a room. Lucia brings ho
-
-### As a kid, I didn't have a monster in my attic, I had a LAN
-Sat, 21 Nov 2026 16:00:00 +0000 — https://www.pcgamer.com/games/as-a-kid-i-didnt-have-a-monster-in-my-attic-i-had-a-lan/
-
-Weird Weekend Weird Weekend is our regular Saturday column where we celebrate PC gaming oddities: peculiar games, strange bits of trivia, forgotten history. Pop back every weekend to find out what Jeremy, Josh, Rick and Ted have become obsessed with this time, whether it's the canon height of Thief's Garrett or that time someone in the Vatican pirated Football Manager . Multiplayer gaming on PC these days is so easy you probably barely even think about it. Most games that support multiplayer will work out of the gate, and there's an abundance of ways to connect and chat with your friends across the globe. This is a far cry from the early days of PC multiplayer, when dial-up connections and ad-hoc servers made multiplayer PC gaming expensive and unreliable. Indeed, the best way to play multiplayer PC games back then was via a LAN. A local network offered the fastest and most stable connections, and didn't cost you anything beyond the hardware required to hook it all together. Unfortunately, it was also the least convenient way of playing PC games with your friends, as it meant one or several of you had to haul your whole-ass PC to an agreed-upon location. This image might be pre-LAN, as I'm younger and the room looks different. But it does at least prove that I do, in fact, play PC games. Points if you can identify the game I'm playing. (Image credit: Rick Lane) Because of this, LAN gaming was a rare treat for most people in the '90s and early '00s. Unless, that is, you happen
-
-### How to unlock the Brooks Boatworks safe in GTA 6
-Sat, 21 Nov 2026 15:51:59 +0000 — https://www.pcgamer.com/games/grand-theft-auto/gta-6-brooks-boatworks-safe-code/
-
-GTA 6 drops you into Chapter 2 desperate for cash, but you'll quickly find a few opportunities to make a quick buck if you don't mind trying to outrun bullets. One of the ways that you can get flush quickly is by visiting Brooks Boatworks , a criminal enterprise that's full of pills, cash and explosives. You'll also find a safe in need of a code, which I can help you find. A word of warning, though: the boatworks is heaving with gun-toting crooks, and getting into a big firefight is just going to bring the cops down on you. Stealth is absolutely a good choice here, but I also recommend going in heavily armed. You can complete the heist just with Lucia, but it's going to be tougher. Brooks Boatworks location You'll find the boatworks in the north of Port Gellhorn. Rockstar Don't bother trying to get in through this guarded entrance. Rockstar Open the gate to the right of the main entrance and head through. Rockstar In front of the open gate is a hole in the fence you can get through to enter the boatworks. Rockstar You can find Brooks Boatworks in the north of Port Gellhorn , just to the right of the larger bridge. When you get near the main gate, guards will start threatening you. Even if you take them out, you're not getting in that way. Instead, head to the right where there's an unlocked gate. You'll still need to get through the fence to get into the boatworks, but that's simple. Right in front of you when you come through the gate you'll find a big gap in the fence. Just
-
-### While you wait for The Elder Scrolls 6: Sentinel, you owe it to yourself to play Tainted Grail
-Sat, 21 Nov 2026 15:00:00 +0000 — https://www.pcgamer.com/games/rpg/while-you-wait-for-the-elder-scrolls-6-sentinel-you-owe-it-to-yourself-to-play-tainted-grail/
-
-Dungeon Master (Image credit: Future) Welcome to Dungeon Master , PC Gamer's regular RPG column, where Online Editor Fraser Brown delves into PC gaming's most beloved and enduring genre. Grab a seat in our badly-lit tavern and please ignore the goblin puke. I will probably be in the ground when Bethesda finally releases The Elder Scrolls 6: Sentinel —which is kind of liberating. I have hype immunity. But what's even more liberating is the fact that there's already an RPG that does everything I want from an Elder Scrolls game—2025's Tainted Grail: The Fall of Avelon. Tainted Grail is unabashedly created in the mould of The Elder Scrolls, in that it is a primarily first-person fantasy RPG where flexibility is its superpower. You chart your own course and effectively construct your class, enhancing skills by using them as much as possible. But it is not merely the Elder Scrolls we have at home—it captures the very best that this kind of RPG can offer, and in some ways manages to outdo Bethesda. (Image credit: Awaken Realms) This is apparent right from the get-go. In classic Elder Scrolls form, Tainted Grail begins with you banged up in a facility that incarcerates and studies unfortunates afflicted with a magical plague, of which you are one. Follow the critical path and you will meet a new friend, get in some tough fights and then escape. By the time I finally escaped the island and began my adventure proper, I already knew this RPG was special. But this island asylum is big. R
-
-### GTA 6 Transgressor locations: How to restore the first car for Wyman
-Sat, 21 Nov 2026 14:43:05 +0000 — https://www.pcgamer.com/games/grand-theft-auto/gta-6-transgressor-locations/
-
-You'll be able to start looking for GTA 6 Transgressor locations after you complete the Thrillbillies mission in Chapter 2 and collect the Vapid Dominator from Wyman (if you have the Ultimate Edition , that is). He'll text to ask for help finding old wrecked Transgressors he can use to restore the classic car, which you'll then get to drive. There are three of these junks located around Port Gellhorn which you'll have to scan with the Waink It app. North of Sarena's Bargain Store The first wrecked Transgressor you can find is in a trailer park north of Sarena's Bargain Store in the middle of Port Gellhorn (you might have to zoom in to see the store). Head north, cross the road, and jump over the wall to find it there. Opposite the Stash House The second wrecked Transgressor is further north in the garage of the house opposite the Kolt & Associate's Stash House robbery (there's a metal sunflower standing in the garden, which makes it easier to recognise.) It's also to the east of Brook's Boatworks and the west of Wasteland Offroad. Head around the side of the house via the driveway to find the car in an open garage at the back. Behind Dirt Merchants This last one is nice and easy, behind the Dirt Merchants mod shop in the south of Port Gellhorn. Simply head right via the track that leads behind the shop, following the fence on your right and then turn left to find the wreck at the back behind the kind of trailer park area. Collecting the Transgressor You'll have to pay Wyman $
-
-### Seven years on since Persona 5 Royal, Atlus says 'people won't have to wait as long as they have previously' for the next game after Persona 6
-Sat, 21 Nov 2026 14:31:07 +0000 — https://www.pcgamer.com/games/rpg/seven-years-on-since-persona-5-royal-atlus-says-people-wont-have-to-wait-as-long-as-they-have-previously-for-the-next-game-after-persona-6/
-
-The amount of time it takes to develop games has been growing steadily longer for decades, and Atlus' Persona series is no exception to this rule. While Persona 4 Golden and Persona 5 were separated by four years (long considered standard for game development) it's been seven years since Persona 5 Royal and Persona 6 still doesn’t have a release date—though we did get Metaphor: ReFantazio in between. Nonetheless, it's an issue that P-Studio is very much aware of, and it was recently addressed by general producer Kazuhisa Wada. In an interview with Sega Samania (via Eurogamer ) Wada stressed that the wait for whatever comes after Persona 6 will be shorter. "Persona 6 is not the end," Wada explained. "We have been working to make sure that people won't have to wait as long for the next game as they have previously. In order for Persona to grow as an IP, we consider how to live up to people's expectations in terms of creativity and development every day." Now, we're probably not looking at a dramatic reduction in development time. Wada emphasised that "large-scale RPGs like the Personal series can take five years or more to develop," adding that. "There can be a long time between numbered entries." Yet even if the average timeline was five years, that would be a considerable improvement. Wada doesn't explain how Atlus plans to speed up development of its games. But there's always one question when developers begin talking about making games quicker—does it involve generative AI?
 
 ## GameSpot
 
@@ -420,12 +390,22 @@ Fri, 20 Nov 2026 14:07:35 +0000 — https://www.gamespot.com/articles/a-playable
 
 Somehow, Cyberleek, the notorious hacker behind multiple Grand Theft Auto 6 leaks, has returned. This time, the infamous leaker is threatening to release the executable file for a working build of the Xbox version of the game hosted on their site, provided the public helps raise their meme coin to a $15 million market cap. "It is done. CL holds the full November 2026 build of Grand Theft Auto 6, and it is going out by torrent," a statement from Cyberleek reads (via Kotaku ). "Now. Every file except one--the main executable--held on a countdown. Honest terms, as always: it is an Xbox build this time, not a PC build. CL does not care. This community will have it emulated inside a week, running far past 30fps. CL told you not to preorder for a reason. This is one of the reasons." https://www.youtube.com/watch?v=1YEHOKYVTho The files on Cyberleek's site reportedly clock in at over 200GB, which would line up with the Xbox version of the game, but there's no guarantee they're the actual GTA 6 data or a collection of malware waiting to be downloaded onto a PC. The hacker added that if their demands aren't met, they'll release the executable needed to play GTA 6. However, there's no guarantee the game can be emulated, and Cyberleek added that they'll "work to get a PS5 build" if people keep supporting them. This isn't the first time Cyberleek has threatened to release a pirated build of GTA 6; back in October, they promised to do so if their meme coin reached $30 million in value. Wh
 
-### GTA 6 s Console Wars Are Already Over, And Xbox Lost
-Fri, 20 Nov 2026 12:35:47 +0000 — https://www.gamespot.com/articles/gta-6-console-wars-are-already-over-and-xbox-lost/
-
-Grand Theft Auto games have never shied away from satirizing life, and GTA 6 has plenty of digs at famous brands, trends, and people. Not even gaming is immune to GTA's patented satire, especially if you're playing on Xbox, because there's no escape from PlayStation — or its legally distinct cousin, the JoySystem. Early in GTA 6, you'll get to bond with Jason's best pal, Cal. After maximizing the energy of Jason's bachelor pad with a little feng shui redecorating, the duo settles in for a night of booze, drugs, and video games on Booby's JoyStation console, which looks very similar to a PS5. It looks like this is the only gaming hardware in Leonida, since there are no Xbox Egg-Cube Stations X to play games on. The JoySystem isn't just for decoration either; after you've hung out with Bobby, you can return and play games on it. You can choose between an avant-garde experience or more immediate gratification with a pair of shooter games, and it's impressive how good these three games are on their own. From top-down action to stunning mystery that pokes fun at auteur-driven games, they're worth checking out. The JoySystem interface is also a 1:1 copy of the PS5 user interface, with the exact same layout for games and other apps — but given how much Sony is making from GTA 6 sales, we're guessing the company sees it as a cheeky little homage. But the controllers for the console? They look terrible : Eww. In real life, PS5 sales have absolutely dominated GTA 6 preorders and sales.
-
 ## Rock Paper Shotgun
+
+### The Sunday Papers
+Sun, 22 Nov 2026 11:00:00 +0000 — https://www.rockpapershotgun.com/the-sunday-papers-837
+
+Sundays are for googling local purveyors of live Christmas trees, the sole upside of no longer having a cat being that you can once again enjoy the smell of chopped woodland without the risk of it poisoning a family member. Well, then again, I mean... empirically speaking, you're probably just assuming that your human loved ones haven't eaten spruce needles. Can you say for an absolute fact that they wouldn't ? Fortunately, while your nan is off having her stomach pumped, you can pass the time by reading some good words from this week. Read more
+
+### Alt Video is a digital, faux Blockbuster video store that you can fill with movies from your Letterboxd watchlist and Plex server
+Sat, 21 Nov 2026 22:50:30 +0000 — https://www.rockpapershotgun.com/alt-video-is-a-digital-faux-blockbuster-video-store-that-you-can-fill-with-movies-from-your-letterboxd-watchlist-and-plex-server
+
+Since the beginning of the year, I have watched almost 150 films. I know this, because over the past few years, I've become one of those people&hellip; a Letterboxd user. Gasp! I know, I know, but I don't think I'm too insufferable about it. I'll only do a joke review in the hopes of like farming if I think it's genuinely funny! But many of these films were watched digitally, meaning I don't have a bunch of DVDs to admire on a shelf. So what am I to do? Well, I could check out Alt Video, a not quite job simulator where you can use your Letterboxd account or media server to fill up a digital, faux Blockbuster. Read more
+
+### Public-access television is born anew in NIGHT EYE TV, a digital goggle box filled with art game curios
+Sat, 21 Nov 2026 21:27:20 +0000 — https://www.rockpapershotgun.com/public-access-television-is-born-anew-in-night-eye-tv-a-digital-goggle-box-filled-with-art-game-curios
+
+I am both a bit too young and a bit too very not American to have ever experienced public-access television, but it's something that's always fascinated me. For those too young to have even heard of it, or just not in the know, it essentially allowed anyone to broadcast their own shows through cable TV. A proto YouTube, if you will. It's obviously not what it was any more, given the advent of the internet, but in NIGHTEYE.TV , it may be making a digital, more interactive return. Read more
 
 ### Eldritch Empathy is a Papers Please-esque roguelite about diagnosing cosmic horror creatures and trying not to lose your marbles as you do
 Sat, 21 Nov 2026 18:57:00 +0000 — https://www.rockpapershotgun.com/eldritch-empathy-is-a-papers-please-esque-roguelite-about-diagnosing-cosmic-horror-creatures-and-trying-not-to-lose-your-marbles-as-you-do
@@ -461,19 +441,4 @@ For the past six years, the team at RPS have got together to pick what we consid
 Fri, 20 Nov 2026 13:00:00 +0000 — https://www.rockpapershotgun.com/akira-kurabayashi-company-director-at-arika-and-developer-on-street-fighter-ex-tetris-99-fighting-ex-layer-and-more-has-sadly-passed-away-due-to-heart-failure
 
 As announced in a statement by Arika president Akira Nishitani (and translated by Time Extension, thank you), Akira Kurabayashi, a director at the combined dev/publishing studio and a creator whose work spans three decades and several genres, sadly passed away as a result of heart failure late last week. Read more
-
-### Amid a year of layoffs, Ubisoft yank the cover off Motherbrain, their new studio "focused on AI for gameplay innovation"
-Fri, 20 Nov 2026 12:09:30 +0000 — https://www.rockpapershotgun.com/amid-a-year-of-layoffs-ubisoft-yank-the-cover-off-motherbrain-their-new-studio-focused-on-ai-for-gameplay-innovation
-
-Ubisoft have revealed their Motherbrain. It's far less cool than it sounds. Rather than being a giant floating slab of thinky meat that can do telepathy, Motherbrain is a studio dedicated to doing development stuff with generative AI. As you might expect, it consists of the folks who worked on Ubisoft's "first playable generative AI experience". Read more
-
-### GTA 6 leaker claims to have lobbed a near-complete Xbox build of Rockstar's crimsim onto the net, shouts that the "community will have it emulated inside a week"
-Fri, 20 Nov 2026 10:42:10 +0000 — https://www.rockpapershotgun.com/gta-6-leaker-claims-to-have-lobbed-a-near-complete-xbox-build-of-rockstars-crimsim-onto-the-net-shouts-that-the-community-will-have-it-emulated-inside-a-week
-
-Cyberleek, the GTA 6 leaker or leakers who shared a bunch of alleged gameplay earlier this year, are now claiming to have released a nearly complete in-development build of the crimsim's Xbox version. Continuing their established grift, the leaker or leakers are threatening to release the main executable file they've withheld unless people pump up the value of their cryptocurrency. Read more
-
-### Valve are pausing Steam Machine 2TB orders over "supply constraints," though the 512GB model is free of its waitlist
-Fri, 20 Nov 2026 10:05:00 +0000 — https://www.rockpapershotgun.com/valve-are-pausing-steam-machine-2tb-orders-over-supply-constraints-though-the-512gb-model-is-free-of-its-waitlist
-
-Valve giveth, and Valve taketh away in their latest Steam Machine availability update . The dinky SteamOS PC continues to have a terrible time with AI industry-inflicted hardware parts shortages , which at least for its flagship 2TB model, have become such a problem that Valve are suspending new orders until further notice. While Valve's post says that they "have wrapped up sending purchase invites out to all remaining 2TB reservation holders" &ndash; meaning if you'd previously reserved one, you'll still get your chance to buy &ndash; "supply restraints" have put the kibosh on any new orders for now. Read more
 
