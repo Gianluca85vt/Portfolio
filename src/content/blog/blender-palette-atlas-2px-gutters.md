@@ -17,7 +17,6 @@ artistView:
   misses:
     - "Rendering: two pixels of edge-extended gutter is one pixel at mip 1 and half a pixel at mip 2. On a kit that gets any distance at all, the protection runs out well before the LODs do, and the viewport will not tell you."
     - "Pipeline: the release notes say the Unreal 5 engine pack is a texture set with import notes rather than something tested in Unreal. Shipping an engine integration you have not opened the engine to check is how import settings quietly become the user's problem."
-draft: true
 ---
 
 One material. One texture, often smaller than the favicon on this page. A
