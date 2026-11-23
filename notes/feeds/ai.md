@@ -1,4 +1,4 @@
-# AI — harvested 2026-11-22T20:28:33.009Z
+# AI — harvested 2026-11-23T15:21:40.409Z
 
 ## OpenAI
 
@@ -9,7 +9,8 @@ How perplexity measures progress in AI models, and why it could help developers 
 
 ## Hugging Face
 
-_Nothing in the last 48 hours._
+### How to build and maintain an agentic evaluation
+Mon, 23 Nov 2026 00:00:00 GMT — https://huggingface.co/blog/agentic-evals
 
 ## Google DeepMind
 

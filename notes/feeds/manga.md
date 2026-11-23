@@ -1,6 +1,41 @@
-# Manga — harvested 2026-11-22T20:28:33.009Z
+# Manga — harvested 2026-11-23T15:21:40.409Z
 
 ## Anime News Network
+
+### From the VIZ Elves to Your Shelves
+Mon, 23 Nov 2026 07:00:00 -0500 — https://www.animenewsnetwork.com/advertorial/2026-11-23/from-the-viz-elves-to-your-shelves/.244108
+
+For each and every fan, there’s something in store, give VIZ this season, and make spirits soar!
+
+### Magical Buffs Anime Announces 3 More Cast Members
+Mon, 23 Nov 2026 05:28:11 -0500 — https://www.animenewsnetwork.com/news/2026-11-23/magical-buffs-anime-announces-3-more-cast-members/.244111
+
+Yūki Hirose, Natsumi Takamori, Yuka Nukui join anime debuting on January 4
+
+### Live-Action Wakako-zake Season 10 Unveils January 6 Debut, Year-End Special, Opening Song Artists
+Sun, 22 Nov 2026 21:08:48 -0500 — https://www.animenewsnetwork.com/news/2026-11-22/live-action-wakako-zake-season-10-unveils-january-6-debut-year-end-special-opening-song-artists/.244087
+
+"Chichibu no Sake Meguri" special runs on December 30; idol group Title Mitei performs "Kyūfu" opening song
+
+### Champignon Witch Manga to Resume After 10 Months
+Sun, 22 Nov 2026 20:56:05 -0500 — https://www.animenewsnetwork.com/news/2026-11-22/champignon-witch-manga-to-resume-after-10-months/.244096
+
+Series debuted in October 2019
+
+### 'As a Reincarnated Aristocrat, I'll Use My Appraisal Skill' Season 3's New Video Announces More Cast
+Sun, 22 Nov 2026 19:39:33 -0500 — https://www.animenewsnetwork.com/news/2026-11-22/as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-season-3-new-video-announces-more-cast/.244094
+
+Anna Nagase, Kōsuke Toriumi, Ayumu Murase join series in episode 33
+
+### Sakamoto Days Manga Ends
+Sun, 22 Nov 2026 19:21:13 -0500 — https://www.animenewsnetwork.com/news/2026-11-22/sakamoto-days-manga-ends/.244098
+
+Series debuted in November 2020, with final volume shipping on April 30, 2027
+
+### Live-Action The Remarried Empress Series Drives Surge in Original Webtoon, Web Novel Readership
+Sun, 22 Nov 2026 16:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-22/live-action-the-remarried-empress-series-drives-surge-in-original-webtoon-web-novel-readership/.244078
+
+Global views of original webtoon increased approximately 35-fold during 2 weeks following show's November 3 premiere
 
 ### I Became the Tyrant of a Defense Game Web Novel, Webtoon Gets Mobile Game Adaptation
 Sun, 22 Nov 2026 15:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-22/i-became-the-tyrant-of-a-defense-game-web-novel-webtoon-gets-mobile-game-adaptation/.244077
@@ -26,41 +61,6 @@ Sun, 22 Nov 2026 12:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-1
 Sun, 22 Nov 2026 12:00:00 -0500 — https://www.animenewsnetwork.com/review/japanese-ghost-stories/folio-society-edition-book/.243250
 
 If you're already a fan of yokai, ghost stories, and folklore, this new edition of the early 20th-century book is a beautiful addition to any collection.
-
-### Jujutsu Kaisen Ranks #4 on Bookscan's September Adult Graphic Novel List in U.S.
-Sun, 22 Nov 2026 11:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-22/jujutsu-kaisen-ranks-no.4-on-bookscan-september-adult-graphic-novel-list-in-u.s/.244055
-
-16 manga volumes including <cite>Spy x Family, The Summer Hikaru Died, Steel Ball Run, Demon Slayer, Gachiakuta, One Piece, Witch Hat Atelier, Kaiju No. 8, The Apothecary Diaries</cite> make list
-
-### Voice Actor Kiyono Yasuno Announces Marriage
-Sun, 22 Nov 2026 11:13:28 -0500 — https://www.animenewsnetwork.com/interest/2026-11-22/voice-actor-kiyono-yasuno-announces-marriage/.244093
-
-Voice of <i>Saekano's</i> Megumi Katō, <i>Macross Delta</i> Kaname Buccaneer, <i>My Hero Academia's</i> Nejire Hado
-
-### Witch on the Holy Night Film Expands 981 Cuts for ScreenX Release
-Sun, 22 Nov 2026 10:02:44 -0500 — https://www.animenewsnetwork.com/news/2026-11-22/witch-on-the-holy-night-film-expands-981-cuts-for-screenx-release/.244092
-
-New trailer: ufotable updated 67 minutes for premium screenings starting on Friday
-
-### Nahato's 'The One. Later On...' Light Novels Get TV Anime in 2027
-Sun, 22 Nov 2026 07:02:53 -0500 — https://www.animenewsnetwork.com/news/2026-11-22/nahato-the-one-later-on-light-novels-get-tv-anime-in-2027/.244089
-
-Kent Itō, Yui Ogura star in Jumondo anime
-
-### 4-Piece Band Subway Daydream Disbands
-Sun, 22 Nov 2026 06:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-22/4-piece-band-subway-daydream-disbands/.244080
-
-Band performed opening theme song of <cite>"Ippon" Again!</cite> anime in 2023
-
-### Shōzen TV Anime Unveils New Trailer, Key Visual, Cast
-Sun, 22 Nov 2026 05:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-22/shozen-tv-anime-unveils-new-trailer-key-visual-cast/.244063
-
-Kana Hanazawa joins cast of April series
-
-### Mission: Yozakura Family Season 2 Anime's 2nd Part Casts Shinichirō Miki
-Sun, 22 Nov 2026 03:30:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-22/mission-yozakura-family-season-2-anime-2nd-part-casts-shinichiro-miki/.244061
-
-New character appears in episode 47
 
 ## Crunchyroll News
 
@@ -88,27 +88,12 @@ Sun, 22 Nov 2026 03:26:06 GMT — https://animecorner.me/classroom-of-the-elite-
 
 It was announced at the MF Bunko J Autumn School Festival event that Classroom&hellip;
 
-### Tamon's B-Side Gets Season 2
-Sat, 21 Nov 2026 10:24:22 GMT — https://animecorner.me/tamons-b-side-gets-season-2/
-
-Tamon’s B-Side anime is getting a Season 2. An announcement trailer was also revealed&hellip;
-
-### Total Fantasy Knockout (Fabiniku) Manga To End With 20th Volume
-Sat, 21 Nov 2026 03:28:26 GMT — https://animecorner.me/total-fantasy-knockout-fabinikumanga-to-end-with-20th-volume/
-
-The 19th volume of the Life with an Ordinary Guy Who Reincarnated into a&hellip;
-
-### An Umamusume X Denver Broncos Collab Gallops Towards Colorado
-Sat, 21 Nov 2026 01:20:37 GMT — https://animecorner.me/an-umamusume-x-denver-broncos-collab-gallops-towards-colorado/
-
-Horse girls are invading Denver, Colorado! An Umamusume x Denver Broncos collaboration is coming&hellip;
-
-### Interview: Mexican Artist Ekns on His Origins, Anime Murals, and Graffiti Culture
-Fri, 20 Nov 2026 22:35:29 GMT — https://animecorner.me/interview-mexican-artist-ekns-on-his-origins-anime-murals-and-graffiti-culture/
-
-If you're an otaku with a penchant for street art, you already know Ekns,&hellip;
-
 ## MyAnimeList News
+
+### Zatsuyou Fuyo Jutsushi ga Jibun no Saikyou ni Kizuku made Announces Additional Cast
+Mon, 23 Nov 2026 03:08:59 -0800 — https://myanimelist.net/news/74972403?_location=rss
+
+The official website for the television anime adaptation of Haka Tokura and Shin Arakawa s Zatsuyou Fuyo Jutsushi ga Jibun no Saikyou ni Kizuku made (Magical Buffs: The Support Caster Is Stronger Than He Realized!) manga announced additional cast on Monday. The anime will be broadcast on Tokyo MX, MBS, and BS11 on January 4. Cast Nikura: Yuuki Hirose (Katainaka no Ossan, Kensei ni Naru) Melis: Natsumi Takamori (Bleach: Sennen Kessen-hen) Sophia: Yuka Nukui (Fate/strange Fake) Hideki Okamot...
 
 ### Yozakura-san Chi no Daisakusen Creator Launches New Manga
 Sun, 22 Nov 2026 07:11:56 -0800 — https://myanimelist.net/news/74968770?_location=rss
@@ -155,29 +140,19 @@ Sat, 21 Nov 2026 19:16:05 -0800 — https://myanimelist.net/news/74967203?_locat
 
 The MF Bunko J Autumn School Festival 2026 event revealed cast members, main staff, and a teaser visual (pictured) for Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 5th Season: 2-nensei-hen 2 Gakki (Classroom of the Elite 5th Season: Second Year, Second Semester) on Sunday. The first part of the fifth season adapting Shougo Kinugasa s 2-nensei-hen (Year 2) sequel light novel will premiere in 2027. Cast Kiyotaka Ayanokouji: Shouya Chiba (86) Suzune Horikita: Akari Kitou (Mato Seihei no Sla...
 
-### Tamon-kun Ima Docchi!? Second Season in Production
-Sat, 21 Nov 2026 02:26:00 -0800 — https://myanimelist.net/news/74964214?_location=rss
-
-The F/ACE First Live Nautical Star event for the television anime adaptation of Yuki Shiwasu s Tamon-kun Ima Docchi!? (Tamon s B-Side) manga announced a second season on Saturday. The official X account for manga works also revealing an announcement visual (pictured). Produced by J.C.Staff, the anime aired for 13 episodes in Winter 2026. Crunchyroll streamed the series with subtitles in multiple languages and an English dub. Shiwasu originally published the idol-themed romantic comedy...
-
-### Manga Yubisaki to Renren Ends in Three Chapters
-Fri, 20 Nov 2026 23:38:06 -0800 — https://myanimelist.net/news/74963930?_location=rss
-
-The official X (formerly Twitter) account of Dessert magazine announced on Saturday that Suu Morishita s Yubisaki to Renren (A Sign of Affection) manga will end in three chapters. The 63rd chapter will mark the manga s conclusion. Morishita began serializing the romance manga in Dessert magazine in July 2019. The manga went on hiatus in June 2021 due to Morishita giving birth, and resumed serialization in November of the same year. Kodansha published the 14th volume on May 13, with the...
-
 ## Otaku USA
 
 _Nothing in the last 48 hours._
 
 ## Anime UK News
 
+### Girls und Panzer das Finale: Part 4 Review
+Mon, 23 Nov 2026 10:00:32 +0000 — https://animeuknews.net/2026/11/girls-und-panzer-das-finale-part-4-review/
+
+Well, we've been waiting for about four years, but we finally learn the result of one battle.
+
 ### Babanba Banban Vampire Volume 1 Review
 Sun, 22 Nov 2026 10:00:17 +0000 — https://animeuknews.net/2026/11/babanba-banban-vampire-volume-1-review/
 
 450-year-old vampire Ranmaru lives and works at the Koi No Yu bathhouse, where he's watching over 15-year-old Rihito and waiting for the day he becomes 18 so he can drink his perfect virgin blood. But now in high school, Rihito's life is changing drastically and Ranmaru has a lot of problems to look out for!
-
-### From Our TBR Pile… November 2026
-Sat, 21 Nov 2026 10:00:02 +0000 — https://animeuknews.net/2026/11/from-our-tbr-pile-november-2026/
-
-Titles appealing to all tastes in our writers’ November recommendations including Yuri/GL and Boys’ Love and another in the popular ‘Rascal Does Not…’ series!
 
