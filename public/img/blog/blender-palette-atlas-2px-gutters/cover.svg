@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#18011F"/>
+      <stop offset="100%" stop-color="#BE4C00"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <text x="80" y="140" fill="#FFD79A" font-family="Helvetica, Arial, sans-serif" font-size="34" letter-spacing="6">BLENDER PALETTE ATLASES</text>
+  <text x="80" y="300" fill="#FFFFFF" font-family="Helvetica, Arial, sans-serif" font-size="150" font-weight="bold">2px gutter</text>
+  <text x="80" y="400" fill="#FFFFFF" font-family="Helvetica, Arial, sans-serif" font-size="88" font-weight="bold">dies at mip 2</text>
+  <g font-family="Helvetica, Arial, sans-serif" font-size="30" fill="#FFD79A">
+    <text x="80" y="490">mip 0 — 2 texels</text>
+    <text x="80" y="535">mip 1 — 1 texel</text>
+    <text x="80" y="580">mip 2 — nothing left</text>
+  </g>
+  <g>
+    <rect x="760" y="470" width="80" height="80" fill="#BE4C00"/>
+    <rect x="850" y="470" width="80" height="80" fill="#7621B0"/>
+    <rect x="940" y="470" width="80" height="80" fill="#FFD79A"/>
+    <rect x="760" y="560" width="80" height="80" fill="#B600A8"/>
+    <rect x="850" y="560" width="80" height="80" fill="#4A2000"/>
+    <rect x="940" y="560" width="80" height="80" fill="#FFFFFF"/>
+  </g>
+</svg>

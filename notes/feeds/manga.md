@@ -1,66 +1,66 @@
-# Manga — harvested 2026-11-19T13:53:48.784Z
+# Manga — harvested 2026-11-23T15:21:40.409Z
 
 ## Anime News Network
 
-### Rakuen Tsuihō -Expelled from Paradise- Kokoro no Resonance Film Opens at #5 in Japan
-Thu, 19 Nov 2026 08:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-19/rakuen-tsuiho-expelled-from-paradise-kokoro-no-resonance-film-opens-at-no.5-in-japan/.243961
+### From the VIZ Elves to Your Shelves
+Mon, 23 Nov 2026 07:00:00 -0500 — https://www.animenewsnetwork.com/advertorial/2026-11-23/from-the-viz-elves-to-your-shelves/.244108
 
-<cite>Godzilla Minus Zero</cite> stays at #1, becomes highest-earning live-action IMAX film in Japan
+For each and every fan, there’s something in store, give VIZ this season, and make spirits soar!
 
-### Nia Liston: The Merciless Maiden ‒ Episode 7
-Thu, 19 Nov 2026 07:30:00 -0500 — https://www.animenewsnetwork.com/review/nia-liston-the-merciless-maiden/episode-7/.243922
+### Magical Buffs Anime Announces 3 More Cast Members
+Mon, 23 Nov 2026 05:28:11 -0500 — https://www.animenewsnetwork.com/news/2026-11-23/magical-buffs-anime-announces-3-more-cast-members/.244111
 
-After this episode, I believe more strongly than ever that if you are the emotional or logistical support pillar of your family or social circle, you need to be watching <i>Nia Liston</i>.
+Yūki Hirose, Natsumi Takamori, Yuka Nukui join anime debuting on January 4
 
-### I Lost My Adventurer's License Anime's Main Promo Video Reveals More Staff, Opening Song Artist, January 7 Debut
-Thu, 19 Nov 2026 06:22:51 -0500 — https://www.animenewsnetwork.com/news/2026-11-19/i-lost-my-adventurer-license-anime-main-promo-video-reveals-more-staff-opening-song-artist-january-/.243986
+### Live-Action Wakako-zake Season 10 Unveils January 6 Debut, Year-End Special, Opening Song Artists
+Sun, 22 Nov 2026 21:08:48 -0500 — https://www.animenewsnetwork.com/news/2026-11-22/live-action-wakako-zake-season-10-unveils-january-6-debut-year-end-special-opening-song-artists/.244087
 
-Satoko Shibata performs "Dekiai" opening song
+"Chichibu no Sake Meguri" special runs on December 30; idol group Title Mitei performs "Kyūfu" opening song
 
-### Magic Knight Rayearth Anime Casts Hikaru Midorikawa, Kōji Yusa
-Thu, 19 Nov 2026 05:41:31 -0500 — https://www.animenewsnetwork.com/news/2026-11-19/magic-knight-rayearth-anime-casts-hikaru-midorikawa-koji-yusa/.243984
+### Champignon Witch Manga to Resume After 10 Months
+Sun, 22 Nov 2026 20:56:05 -0500 — https://www.animenewsnetwork.com/news/2026-11-22/champignon-witch-manga-to-resume-after-10-months/.244096
 
-Midorikawa, Yusa voice Rune Gods Windom, Ceres, respectively
+Series debuted in October 2019
 
-### Shin Oishinbo Anime Reveals More Cast, Staff, January 4 Debut in Main Trailer
-Thu, 19 Nov 2026 05:18:07 -0500 — https://www.animenewsnetwork.com/news/2026-11-19/shin-oishinbo-anime-reveals-more-cast-staff-january-4-debut-in-main-trailer/.243985
+### 'As a Reincarnated Aristocrat, I'll Use My Appraisal Skill' Season 3's New Video Announces More Cast
+Sun, 22 Nov 2026 19:39:33 -0500 — https://www.animenewsnetwork.com/news/2026-11-22/as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-season-3-new-video-announces-more-cast/.244094
 
-Daisuke Ono, Yasuaki Takumi, Akane Fujita, Tomokazu Seki join anime's cast
+Anna Nagase, Kōsuke Toriumi, Ayumu Murase join series in episode 33
 
-### The Reincarnated Elf Left on a Journey to Master His Magic Anime's New Video Reveals More Cast/Staff, Theme Songs, December 30 Streaming Debut
-Thu, 19 Nov 2026 04:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-19/the-reincarnated-elf-left-on-a-journey-to-master-his-magic-anime-new-video-reveals-more-cast-staff-/.243936
+### Sakamoto Days Manga Ends
+Sun, 22 Nov 2026 19:21:13 -0500 — https://www.animenewsnetwork.com/news/2026-11-22/sakamoto-days-manga-ends/.244098
 
-Artist ao performs opening, band moon drop perform ending song
+Series debuted in November 2020, with final volume shipping on April 30, 2027
 
-### Monthly CoroCoro Comic Magazine to Release Digital Version 1 Week After Print Version
-Thu, 19 Nov 2026 03:55:48 -0500 — https://www.animenewsnetwork.com/daily-briefs/2026-11-19/monthly-corocoro-comic-magazine-to-release-digital-version-1-week-after-print-version/.243969
+### Live-Action The Remarried Empress Series Drives Surge in Original Webtoon, Web Novel Readership
+Sun, 22 Nov 2026 16:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-22/live-action-the-remarried-empress-series-drives-surge-in-original-webtoon-web-novel-readership/.244078
 
-The official X/Twitter account for Shogakukan's Monthly CoroCoro Comic magazine announced on November 13 that the magazine's digital version will begin...
+Global views of original webtoon increased approximately 35-fold during 2 weeks following show's November 3 premiere
 
-### Not-Sew-Wicked Stepmom Webtoon Gets TV Anime Adaptation
-Thu, 19 Nov 2026 03:33:22 -0500 — https://www.animenewsnetwork.com/news/2026-11-19/not-sew-wicked-stepmom-webtoon-gets-tv-anime-adaptation/.243979
+### I Became the Tyrant of a Defense Game Web Novel, Webtoon Gets Mobile Game Adaptation
+Sun, 22 Nov 2026 15:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-22/i-became-the-tyrant-of-a-defense-game-web-novel-webtoon-gets-mobile-game-adaptation/.244077
 
-Series about clothing designer reborn as princess' stepmom has amassed more than 100 million views
+Game will feature exploration, territory management, defensive battles
 
-### Orb: On the Movements of the Earth Creator Uoto Pens 1st Nonfiction Book
-Wed, 18 Nov 2026 23:48:34 -0500 — https://www.animenewsnetwork.com/interest/2026-11-18/orb-on-the-movements-of-the-earth-creator-uoto-pens-1st-nonfiction-book/.243944
+### Martial Arts Manhwa Yeolhyeol Gangho to End Next Year After 33 Years
+Sun, 22 Nov 2026 14:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-22/martial-arts-manhwa-yeolhyeol-gangho-to-end-next-year-after-33-years/.244079
 
-<i>Anti-Serialization Hypothesis</i> examines history from Gutenberg to manga's future
+Manhwa is scheduled to conclude in February 2027 with its 97th collected volume
 
-### Pac-Man's New Animated Short Reveals Return to Macy's Thanksgiving Parade
-Wed, 18 Nov 2026 23:00:00 -0500 — https://www.animenewsnetwork.com/interest/2026-11-18/pac-man-new-animated-short-reveals-return-to-macy-thanksgiving-parade/.243943
+### Chainsaw Man, Jujutsu Kaisen, More Manga Rank on NYT November Bestseller List
+Sun, 22 Nov 2026 13:15:00 -0500 — https://www.animenewsnetwork.com/daily-briefs/2026-11-22/chainsaw-man-jujutsu-kaisen-more-manga-rank-on-nyt-november-bestseller-list/.244054
 
-Hello Kitty, Goku, <i>KPop Demon Hunters'</i> Derpy & Sussie, Mario, Pikachu & Eevee also return
+The 22nd volume of Tatsuki Fujimoto's Chainsaw Man manga ranked at #4 on The New York Times' monthly Graphic Books and Manga bestseller list released in...
 
-### The Detective Is Already Dead Game Launches in 2027
-Wed, 18 Nov 2026 22:52:28 -0500 — https://www.animenewsnetwork.com/news/2026-11-18/the-detective-is-already-dead-game-launches-in-2027/.243970
+### Chainsaw Man Ranks #2 on Bookscan's October Adult Graphic Novel List in U.S.
+Sun, 22 Nov 2026 12:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-22/chainsaw-man-ranks-no.2-on-bookscan-october-adult-graphic-novel-list-in-u.s/.244062
 
-Taito develops game for Switch
+13 manga volumes including <cite>Jujutsu Kaisen, The Summer Hikaru Died, The Guy She Was Interested In Wasn't a Guy at All, Dandadan, Phantom Busters, Demon Slayer, One Piece</cite> make list
 
-### Live-Action Leviathan Film Casts Shun Oguri, Ai Hashimoto
-Wed, 18 Nov 2026 22:42:10 -0500 — https://www.animenewsnetwork.com/news/2026-11-18/live-action-leviathan-film-casts-shun-oguri-ai-hashimoto/.243960
+### Japanese Ghost Stories Folio Society Edition Book Review
+Sun, 22 Nov 2026 12:00:00 -0500 — https://www.animenewsnetwork.com/review/japanese-ghost-stories/folio-society-edition-book/.243250
 
-Oguri, Hashimoto play teachers in survival game in February 11 film
+If you're already a fan of yokai, ghost stories, and folklore, this new edition of the early 20th-century book is a beautiful addition to any collection.
 
 ## Crunchyroll News
 
@@ -68,87 +68,77 @@ _Nothing in the last 48 hours._
 
 ## Anime Corner
 
-### Interview: Gintama: Yoshiwara in Flames Arc Movie Director Naoya Ando and Producer Ryo Nakamura on the Adaptation Process and Gintama's Appeal
-Wed, 18 Nov 2026 23:11:40 GMT — https://animecorner.me/interview-gintama-yoshiwara-in-flames-arc-2026-director-naoya-ando-and-producer-ryo-nakamura-on-the-adaptation-process-and-gintamas-appeal/
+### The Detective Is Already Dead Season 2 Reveals New Trailer, Visual
+Sun, 22 Nov 2026 06:03:26 GMT — https://animecorner.me/the-detective-is-already-dead-season-2-reveals-new-trailer-visual/
 
-During their visit to Lucca Comics & Games promoting the anime film Gintama: Yoshiwara&hellip;
+The Detective Is Already Dead Season 2 revealed a new trailer and visual. The&hellip;
 
-### Atomic Pixel Brings Miku Expo Afterparty to Madrid and Lisbon
-Wed, 18 Nov 2026 21:50:22 GMT — https://animecorner.me/atomic-pixel-brings-miku-expo-afterparty-to-madrid-and-lisbon/
+### SHIBOYUGI: Playing Death Games to Put Food on the Table Anime Announces Sequel
+Sun, 22 Nov 2026 04:39:37 GMT — https://animecorner.me/shiboyugi-playing-death-games-to-put-food-on-the-table-anime-announces-sequel/
 
-Atomic Pixel Party, an event organizer focused on anime and geek culture themed parties,&hellip;
+SHIBOYUGI: Playing Death Games to Put Food on the Table anime is getting a&hellip;
 
-### KUKU-LOOP: The 100th Time's the Charm Anime Announced for 2027, Reveals Main Cast and Teaser Visual
-Wed, 18 Nov 2026 12:43:37 GMT — https://animecorner.me/kuku-loop-the-100th-times-the-charm-anime-announced-for-2027-reveals-main-cast-and-teaser-visual/
+### Bride of the Barrier Master Anime Reveals Main Trailer, Visual, Additional Cast, Opening Theme Song Artist
+Sun, 22 Nov 2026 03:42:15 GMT — https://animecorner.me/bride-of-the-barrier-master-anime-reveals-main-trailer-visual-additional-cast-opening-theme-song-artist/
 
-KUKU-LOOP: The 100th Time’s the Charm TV anime adaptation was officially announced for 2027, revealing a teaser visual, main cast, and staff.
+To celebrate November 22nd’s “Good Spouses Day” in Japan, the main visual trailer for&hellip;
 
-### Spice and Wolf Season 2 Announces January 2027 Premiere
-Wed, 18 Nov 2026 11:24:40 GMT — https://animecorner.me/spice-and-wolf-season-2-announces-january-2027-premiere/
+### Classroom of the Elite Season 5 Announces 2027 Premiere Date
+Sun, 22 Nov 2026 03:26:06 GMT — https://animecorner.me/classroom-of-the-elite-season-5-announces-2027-premiere-date/
 
-Spice and Wolf: MERCHANT MEETS THE WISE WOLF Season 2 announced that the sequel&hellip;
-
-### Sakamoto Days Season 2 Reveals Key Visual, Main Trailer, January 18 Premiere, Creepy Nuts Theme Song Artist
-Wed, 18 Nov 2026 01:57:52 GMT — https://animecorner.me/sakamoto-days-season-2-reveals-key-visual-main-trailer-january-18-premiere-creepy-nuts-theme-song-artist/
-
-Sakamoto Days Season 2 revealed a key visual, trailer, and a January 18 premiere&hellip;
-
-### Exclusive: Giant Ojosama Joins HIDIVE Winter 2027 Lineup, Anime Frontier Premiere Set for December 4
-Tue, 17 Nov 2026 17:04:14 GMT — https://animecorner.me/exclusive-giant-ojosama-joins-hidive-winter-2027-lineup-anime-frontier-premiere-set-for-december-4/
-
-HIDIVE has acquired Giant Ojosama for its Winter 2027 simulcast lineup, with the comedy&hellip;
-
-### Exclusive Preview: Magnetic Press Brings Rodolphe and Christophe Dubois' TER Trilogy to Kickstarter in Deluxe Hardcover
-Tue, 17 Nov 2026 17:00:00 GMT — https://animecorner.me/exclusive-preview-magnetic-press-brings-rodolphe-and-christophe-dubois-ter-trilogy-to-kickstarter-in-deluxe-hardcover/
-
-Magnetic Press is bringing Rodolphe and Christophe Dubois’ science fiction series TER to English-language&hellip;
+It was announced at the MF Bunko J Autumn School Festival event that Classroom&hellip;
 
 ## MyAnimeList News
 
-### Shin Oishinbo Reveals Additional Cast, Staff, Main Promo, Winter 2027 Premiere
-Thu, 19 Nov 2026 02:26:56 -0800 — https://myanimelist.net/news/74957463?_location=rss
+### Zatsuyou Fuyo Jutsushi ga Jibun no Saikyou ni Kizuku made Announces Additional Cast
+Mon, 23 Nov 2026 03:08:59 -0800 — https://myanimelist.net/news/74972403?_location=rss
 
-The official website for the television anime adaptation of Tetsu Kariya s Oishinbo manga, titled Shin Oishinbo, revealed additional cast, staff, a key visual (pictured), and the main promotional video on Thursday. The anime is scheduled to premiere on TV Tokyo at 2 a.m. on January 5, 2027, followed by BS Asahi on January 10 at 1 a.m.. Cast Ichirou Dan: Daisuke Ono (Tefuda ga Oome no Victoria) Isamu Kinjou: Yasuaki Takumi (Tasogare Out Focus) Mariko Niki: Akane Fujita (Champignon no Majo)...
+The official website for the television anime adaptation of Haka Tokura and Shin Arakawa s Zatsuyou Fuyo Jutsushi ga Jibun no Saikyou ni Kizuku made (Magical Buffs: The Support Caster Is Stronger Than He Realized!) manga announced additional cast on Monday. The anime will be broadcast on Tokyo MX, MBS, and BS11 on January 4. Cast Nikura: Yuuki Hirose (Katainaka no Ossan, Kensei ni Naru) Melis: Natsumi Takamori (Bleach: Sennen Kessen-hen) Sophia: Yuka Nukui (Fate/strange Fake) Hideki Okamot...
 
-### Boukensha License wo Hakudatsu sareta Ossan dakedo Unveils Additional Staff, Opening Theme, First Promo
-Thu, 19 Nov 2026 01:48:51 -0800 — https://myanimelist.net/news/74957381?_location=rss
+### Yozakura-san Chi no Daisakusen Creator Launches New Manga
+Sun, 22 Nov 2026 07:11:56 -0800 — https://myanimelist.net/news/74968770?_location=rss
 
-The official website of the Boukensha License wo Hakudatsu sareta Ossan dakedo, Manamusume ga Dekita node Nonbiri Jinsei wo Ouka suru (I Lost My Adventurer s License, but It s Fine Because I Have an Adorable Daughter Now) television anime unveiled additional staff, a key visual (pictured), the opening theme, and first promotional video on Thursday. The anime series adapting Manimani Ononata s adventure fantasy light novel is scheduled to premiere on January 8 at 12.00 a.m. on Toky...
+The 52nd issue of Weekly Shounen Jump magazine began serializing a new manga by Hitsuji Gondaira, titled Ginza Uradoori Kouban no Hizuki-san (Hizuki of the Ginza Patrol), on Monday. This marks Gondaira s return to serialization in nearly two years following the end of Yozakura-san Chi no Daisakusen in January 2025. Gondaira is best known for Yozakura-san Chi no Daisakusen (Mission: Yozakura Family), which ran in Weekly Shounen Magazine from August 2019 to January 2025. Shueisha published th...
 
-### Majutsu wo Kiwamete Tabi ni Deta Tensei Elf, Moteamashita Jumyou de Ikeru Densetsu to Naru Reveals Additional Cast, Staff, Theme Songs, Main Promo
-Thu, 19 Nov 2026 01:32:46 -0800 — https://myanimelist.net/news/74957361?_location=rss
+### Manga Sakamoto Days Concludes Serialization
+Sun, 22 Nov 2026 07:08:35 -0800 — https://myanimelist.net/news/74968755?_location=rss
 
-The official website for the television anime adaptation of Monsho Sasakibara and kanco s Majutsu wo Kiwamete Tabi ni Deta Tensei Elf, Moteamashita Jumyou de Ikeru Densetsu to Naru (The Reincarnated Elf Left on a Journey to Master His Magic and With His Extra Lifespan Became a Living Legend) web manga revealed the additional cast, staff, theme songs, a key visual (pictured), and the main promotional video on Thursday. The anime series will premiere on Tokyo MX at 12.00 a.m. on January 7, 20...
+Yuuto Suzuki s Sakamoto Days manga has concluded with chapter 284 in the 52nd issue of Weekly Shounen Jump magazine on Monday, after 6-year serialization. Suzuki originally drew the action comedy manga as a one-shot in Jump GIGA magazine in December 2019. The manga began serializing in the Weekly Shounen Jump in November 2020. Shueisha published the 29th volume on November 4. The manga has over 18 million copies in circulation. Produced by TMS Entertainment, the first season aired in split...
 
-### Webtoon Not-Sew-Wicked Stepmom Gets TV Anime
-Wed, 18 Nov 2026 19:27:11 -0800 — https://myanimelist.net/news/74956781?_location=rss
+### Singer, Voice Actress Kiyono Yasuno Announces Marriage
+Sun, 22 Nov 2026 03:58:03 -0800 — https://myanimelist.net/news/74968356?_location=rss
 
-Publishing company Kakao Piccoma announced a television anime adaptation of Ilu and Moguraeng s Not-Sew-Wicked Stepmom webtoon on Thursday, revealing an announcement visual (pictured). The anime will premiere under the Japanese title Mamahaha dakedo Musume ga Kawaisugiru. Iru originally wrote the isekai villainess novel on the KakaoPage website from January 2019 to May 2019, with illustrations by Dinorex. The main story concluded with 186 chapters, followed by 24 side story chapters publish...
+Voice actress Kiyono Yasuno announced her marriage on her official website on Sunday. In her written message, Yasuno expressed her gratitude to everyone who had supported her throughout her career as a voice actress and singer. She also stated that she would continue to approach her works and roles with sincerity and strive to grow further as a performer. "Although I still have much to learn, I hope to continue growing as an individual as well, taking things one step at a time each day. I w...
 
-### 99-kai Danzai sareta Loop Reijou desu ga Konse wa "Chouzetsu Aisare Mode" desu tte!? Shin no Chikara ni Mezamete Hajimaru 100-kaime no Jinsei Reveals Main Cast, Staff, 2027 Premiere
-Wed, 18 Nov 2026 03:26:53 -0800 — https://myanimelist.net/news/74953973?_location=rss
+### Light Novel Sono Mono. Nochi ni… Gets TV Anime in 2027
+Sun, 22 Nov 2026 03:36:49 -0800 — https://myanimelist.net/news/74968322?_location=rss
 
-An official site opened for the television anime adaptation of Yuuji Yuuji s 99-kai Danzai sareta Loop Reijou desu ga Konse wa "Chouzetsu Aisare Mode" desu tte!? Shin no Chikara ni Mezamete Hajimaru 100-kaime no Jinsei (Kuku-Loop: The 100th Time s the Charm) light novel on Wednesday, revealing the main cast, staff, and a teaser visual (pictured). The anime is scheduled to premiere in 2027. Voice actors Ikumi Hasegawa (Tetsunabe no Jan!) and Kazuki Ura (Tougen Anki) are starri...
+An official website opened for a television anime adaptation of NAHAaTO s Sono Mono. Nochi ni... (That Person. Later on...) light novel on Sunday, revealing the main cast, staff, opening theme song artist, and a teaser visual (pictured). The anime will premiere in 2027. Voice actors Kent Itou (Isekai no Sata wa Shachiku Shidai) and Yui Ogura (Goblin Slayer) are starring in the anime as Wazu and Mear, respectively. Staff Chief Director: Kouichi Oohata (9: Ruler s Crown director) Directo...
 
-### Isekai Munchkin Reveals New Staff, Theme Songs, Second Promo
-Tue, 17 Nov 2026 20:58:59 -0800 — https://myanimelist.net/news/74952442?_location=rss
+### Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season Reveals Additional Cast, Fourth Promo for "Assassin" Arc
+Sun, 22 Nov 2026 02:57:55 -0800 — https://myanimelist.net/news/74968286?_location=rss
 
-The official website for the television anime adaptation of Yuu Shimizu and Makoto Aogiri s Isekai Munchkin: HP1 no Mama de Saikyou Saisoku Dungeon Kouryaku (Otherworldly Munchkin: Let s Speedrun the Dungeon with Only 1 HP!) manga revealed additional cast, new staff, a second key visual (pictured), the theme songs, and second promotional video on Wednesday. The anime series will premiere on January 8 at 12:30 a.m. on Tokyo MX, followed by Me-Television and Gunma TV. Voice actor Yuuichi...
+The official website for the television anime adaptation of Miraijin A s Tensei Kizoku, Kantei Skill de Nariagaru: Jakushou Ryouchi wo Uketsuida node, Yuushuu na Jinzai wo Fuyashiteitara, Saikyou Ryouchi ni Natteta (As a Reincarnated Aristocrat, I ll Use My Appraisal Skill to Rise in the World) light novel revealed additional cast, and the fourth promotional video for the third season on Sunday. The new arc is scheduled to premiere on November 22 at 11:30 p.m. on CBC and TBS 28-...
 
-### Sakamoto Days 2nd Season Unveils Additional Cast, Opening Theme, First Promo
-Tue, 17 Nov 2026 18:00:06 -0800 — https://myanimelist.net/news/74951901?_location=rss
+### Hidan no Aria Corto Reveals Main Staff, New Cast, April 2027 Premiere
+Sun, 22 Nov 2026 00:30:03 -0800 — https://myanimelist.net/news/74967474?_location=rss
 
-The official website of the Sakamoto Days television anime unveiled a pair of additional cast, key visual (pictured), the opening theme, and first promotional video for the second season on Wednesday. The anime adapting Yuuto Suzuki s action comedy manga is scheduled to premiere on TV Tokyo and its affiliated networks on January 19, 2027, at 12:00 a.m. It will also air on BS TV Tokyo on January 25 at 12:40 a.m. The first episode will be available for advance streaming on Netflix. Voice acto...
+The MF Bunko J Autumn School Festival 2026 event revealed the main staff, new cast, and a key visual (pictured) for Hiden no Aria Corto (Aria the Scarlet Ammo Corto) on Sunday. The short anime adapting Chuugaku Akamatsu s action comedy light novel will stream on various platforms beginning in April 2027. Cast Kinji Tooyama: Junji Majima (Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu!) Aria Holmes Kanzaki: Rie Kugimiya (Gintama) Shirayuki Hotogi: Mikako Takahashi (D-Frag!)...
 
-### Soara to Mamono no Ie Announces Additional Cast Pair
-Tue, 17 Nov 2026 17:17:36 -0800 — https://myanimelist.net/news/74951722?_location=rss
+### Shibou Yuugi de Meshi wo Kuu. Sequel Anime in Production
+Sat, 21 Nov 2026 20:30:03 -0800 — https://myanimelist.net/news/74967311?_location=rss
 
-The official website of the Soara to Mamono no Ie (Soara and the House of Monsters) television anime revealed a pair of additional cast and teaser visual (pictured) on Wednesday. The anime series adapting Hidenori Yamaji s adventure fantasy manga will premiere in 2027. Voice actors Reiji Kawashima (Fumetsu no Anata e) and Kenta Miyake (Boku no Hero Academia) are joining the cast as Niko and Gansho, respectively. Takaharu Ozaki (Goblin Slayer) is directing the anime at Felix Film, with Ayumu...
+The MF Bunko J Autumn School Festival 2026 event announced on Sunday that a sequel for the Shibou Yuugi de Meshi wo Kuu. (Shiboyugi: Playing Death Games to Put Food on the Table) anime series is in production, revealing an "ultra" teaser visual (pictured). Produced by Studio Deen, the television anime adapting Yuushi Ukai s action suspense light novel aired in 11 episodes in Winter 2026. Crunchyroll simulcasted the anime with subtitles and dubs in multiple languages. Shibou Yuugi...
 
-### Light Novel Saigo ni Hitotsu dake Onegai shitemo Yoroshii deshou ka Concludes with 8th Volume
-Tue, 17 Nov 2026 07:21:13 -0800 — https://myanimelist.net/news/74950128?_location=rss
+### Kekkaishi no Ichirinka Reveals Additional Cast, Staff, Opening Theme, First Promo
+Sat, 21 Nov 2026 19:49:18 -0800 — https://myanimelist.net/news/74967291?_location=rss
 
-The official X account for author Nana Ootori announced on Tuesday that the Saigo ni Hitotsu dake Onegai shitemo Yoroshii deshou ka (May I Ask for One Final Thing?) light novel series will end with its eighth volume, scheduled to be released on December 1. Ootori began penning the action romcom novel on the Shousetsuka ni Narou website in April 2018. AlphaPolis began publishing the novel under its Regina Books imprint with illustrations by Satsuki in August 2018 and published the seventh volume...
+The official website of the Kekkaishi no Ichirinka (Bride of the Barrier Master) television anime revealed additional cast, staff, a key visual (pictured), the opening theme, and first promotional video on Sunday. The anime series adapting Kureha s romantic supernatural novel is scheduled to premiere on January 6 at 11:00 p.m. on Tokyo MX, followed by BS Nippon Television, Sun TV, and other stations. The first episode will air as a one-hour special. A preview screening event featuring a tal...
+
+### Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 5th Season: 2-nensei-hen 2 Gakki Airs in 2027
+Sat, 21 Nov 2026 19:16:05 -0800 — https://myanimelist.net/news/74967203?_location=rss
+
+The MF Bunko J Autumn School Festival 2026 event revealed cast members, main staff, and a teaser visual (pictured) for Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 5th Season: 2-nensei-hen 2 Gakki (Classroom of the Elite 5th Season: Second Year, Second Semester) on Sunday. The first part of the fifth season adapting Shougo Kinugasa s 2-nensei-hen (Year 2) sequel light novel will premiere in 2027. Cast Kiyotaka Ayanokouji: Shouya Chiba (86) Suzune Horikita: Akari Kitou (Mato Seihei no Sla...
 
 ## Otaku USA
 
@@ -156,13 +146,13 @@ _Nothing in the last 48 hours._
 
 ## Anime UK News
 
-### Ashita no Joe: Fighting for Tomorrow Omnibus 6 Review
-Thu, 19 Nov 2026 10:00:04 +0000 — https://animeuknews.net/2026/11/ashita-no-joe-fighting-for-tomorrow-omnibus-6-review/
+### Girls und Panzer das Finale: Part 4 Review
+Mon, 23 Nov 2026 10:00:32 +0000 — https://animeuknews.net/2026/11/girls-und-panzer-das-finale-part-4-review/
 
-With Joe rising through the ranks, it seems he is starting to develop a death wish.
+Well, we've been waiting for about four years, but we finally learn the result of one battle.
 
-### Ragna Crimson Collector s Edition Review
-Wed, 18 Nov 2026 10:00:24 +0000 — https://animeuknews.net/2026/11/ragna-crimson-collectors-edition-review-2/
+### Babanba Banban Vampire Volume 1 Review
+Sun, 22 Nov 2026 10:00:17 +0000 — https://animeuknews.net/2026/11/babanba-banban-vampire-volume-1-review/
 
-The motto of the hero in Ragna Crimson is, "If at first you don't succeed, go back in time and give your younger self the cheat code."
+450-year-old vampire Ranmaru lives and works at the Koi No Yu bathhouse, where he's watching over 15-year-old Rihito and waiting for the day he becomes 18 so he can drink his perfect virgin blood. But now in high school, Rihito's life is changing drastically and Ranmaru has a lot of problems to look out for!
 

@@ -1,58 +1,58 @@
 {
-  "updated": "2026-11-16",
+  "updated": "2026-11-23",
   "search": {
-    "from": "2026-10-17",
-    "to": "2026-11-13",
-    "impressions": 15138,
-    "clicks": 147,
-    "position": 8.1,
+    "from": "2026-10-24",
+    "to": "2026-11-20",
+    "impressions": 17121,
+    "clicks": 160,
+    "position": 8.2,
     "queries": [
       "blender vs websocket",
       "immersion blender for photographers",
-      "paintbridge krita",
-      "blender 5.3 dispersion",
-      "duke nukem 3d dlss 5",
       "unreal engine 6",
+      "paintbridge krita",
+      "duke nukem 3d dlss 5",
+      "blender 5.3 dispersion",
       "blender painterly shadows",
       "downtown generator blender",
+      "unity 50k",
+      "3ds max vibe coded",
       "dlss 5 pass count",
       "is tripo's p2.0 model worth it for quad character retopology?",
+      "dlss 5 price",
       "substance painter cage",
       "alien isolation 2 unreal engine 5",
-      "blender for photographers 2024",
+      "blender krita bridge",
       "rizomuv mcp",
       "blender 3ds max interface",
       "blender krita link",
       "blender krita texture paint",
       "blender spectral rendering",
-      "dlss 5 price",
+      "dlss 5 cost",
       "fsr 4.1 xbox series x",
       "is fsr 4 ai",
       "mari 8",
+      "true depth blender addon",
       "tyflow vehicle",
-      "vibe coded 3ds max",
-      "wildwood frames per second",
-      "clayface makeup",
-      "wildwood duration",
-      "how long is wildwood movie",
-      "how long was wildwood in production",
-      "wildwood how long did it take to make"
+      "unity bought synty",
+      "unity fellowship",
+      "wildwood frames per second"
     ],
     "countries": [
       {
         "name": "United States",
-        "share": 28
+        "share": 27
       },
       {
         "name": "United Kingdom",
-        "share": 11
-      },
-      {
-        "name": "Canada",
-        "share": 6
+        "share": 10
       },
       {
         "name": "Germany",
+        "share": 7
+      },
+      {
+        "name": "Canada",
         "share": 6
       },
       {
@@ -61,18 +61,18 @@
       },
       {
         "name": "Netherlands",
-        "share": 3
+        "share": 4
       }
     ]
   },
   "archive": {
-    "articles": 307,
-    "craft": 120,
-    "reviews": 47
+    "articles": 318,
+    "craft": 123,
+    "reviews": 49
   },
   "newsletter": {
     "subscribers": 3,
     "openRate": 0
   },
-  "bluesky": 49
+  "bluesky": 50
 }

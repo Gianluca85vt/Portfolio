@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="981 cuts widened for ScreenX">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0.7" y2="1">
+      <stop offset="0" stop-color="#18011F"/>
+      <stop offset="0.6" stop-color="#4A2E12"/>
+      <stop offset="1" stop-color="#C8891B"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <text x="90" y="140" fill="#C8891B" font-family="Helvetica,Arial,sans-serif" font-size="29" font-weight="700" letter-spacing="7">WITCH ON THE HOLY NIGHT</text>
+  <text x="90" y="330" fill="#FFFFFF" font-family="Helvetica,Arial,sans-serif" font-size="200" font-weight="700">981</text>
+  <text x="90" y="398" fill="#F3E7D2" font-family="Helvetica,Arial,sans-serif" font-size="42" font-weight="600">cuts widened for ScreenX</text>
+  <text x="90" y="462" fill="#D8C6A8" font-family="Helvetica,Arial,sans-serif" font-size="31">67 minutes of 129 — drawn animation has no outside</text>
+  <text x="90" y="518" fill="#C8A878" font-family="Helvetica,Arial,sans-serif" font-size="27">ufotable · premium formats from 27 November 2026</text>
+</svg>

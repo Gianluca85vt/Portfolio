@@ -1,346 +1,311 @@
-# Film & TV — harvested 2026-11-19T13:53:48.784Z
+# Film & TV — harvested 2026-11-23T15:21:40.409Z
 
 ## Variety
 
-### Jurassic World Rebirth, Michael and More Coming to Middle East TV Audiences With New Deal Between NBCUniversal and Qatar s BeIN Media Group
-Thu, 19 Nov 2026 13:27:59 +0000 — https://variety.com/2026/tv/global/nbcuniversal-bein-deal-jurassic-world-michael-middle-east-1236952983/
+### Samantha Morton to Receive BFI Fellowship
+Mon, 23 Nov 2026 15:00:00 +0000 — https://variety.com/2026/film/global/samantha-morton-receive-bfi-fellowship-1236955791/
 
-Doha-based beIN Media Group and NBCUniversal Global TV Distribution have signed a multi-year output deal for exclusive content rights across the Middle East, North Africa and Turkey to a broad portfolio of NBCUniversal content including “Jurassic World Rebirth,” “The Super Mario Galaxy Movie” Wicked: For Good” and Michael Jackson biopic “Michael.” The deal was announced [ ]
+Samantha Morton, long considered one of the U.K. s finest actors working today and with a body of work going back more than three decades, is set to receive the British Film Institute s highest honor, the BFI Fellowship. From her breakout role in Iris Kelly s 1997 feature Under the Skin, Morton has displayed her talent for [ ]
 
-### Robert Eggers ‘Werwulf’ Gets Behind-the-Scenes Book Featuring Original Screenplay
-Thu, 19 Nov 2026 13:00:00 +0000 — https://variety.com/2026/shopping/news/robert-eggers-werwulf-behind-the-scenes-screenplay-book-buy-1236952427/
+### The Grand Tour Renewed for Season 2 With Hosts Francis Bourgeois, Thomas Holland and James Engelsman
+Mon, 23 Nov 2026 15:00:00 +0000 — https://variety.com/2026/tv/global/the-grand-tour-season-2-renewed-1236955860/
 
-Robert Eggers is giving fans an inside look at the making of “Werwulf,” his upcoming medieval horror film, with a new companion book featuring the complete screenplay, a personal foreword from the director and behind-the-scenes accounts from the film s creative team. The book includes the screenplay co-written by Eggers and Icelandic poet and novelist Sjón, [ ]
+“The Grand Tour” has been given a second season order by Prime Video. Hosted by Francis Bourgeois, James Engelsman and Thomas Holland, the motoring show is set to return for six more episodes with “new stories and exploring far flung locations all with a healthy side of competition,” according to Prime Video. “The second series [ ]
 
-### Penelope Cruz to Star in and Produce Netflix Drama Patricia From On the Fringes Director Juan Diego Botto
-Thu, 19 Nov 2026 11:34:46 +0000 — https://variety.com/2026/film/global/penelope-cruz-netflix-drama-patricia-juan-diego-botto-1236952938/
+### UTA to Bring U.K. Businesses Under One Roof With Opening of New London Headquarters
+Mon, 23 Nov 2026 15:00:00 +0000 — https://variety.com/2026/film/global/uta-opening-new-london-headquarters-1236955720/
 
-Penélope Cruz, who is emerging as a major contender in this year’s Oscar race with a trio of films, is set to star and produce “Patricia,” a Netflix drama written and directed by Juan Diego Botto. Set to start filming soon, Patricia marks the first narrative feature produced by Moonlyon, the production company Cruz launched [ ]
+The U.K. s position as one of the world s biggest entertainment hubs is being given a boost by UTA, which is relocating its London headquarters to a new purpose-built space and bring with it all its local businesses. According to the agency, the move — set to take place in early 2027 — shows its unwavering commitment to [ ]
 
-### Backed by Honorary Oscar Winner Christine Vachon, Ray Panthaki s Directorial Debut ‘In Starland’ Marks a ‘Coming-of-Middle-Age Story’
-Thu, 19 Nov 2026 11:18:45 +0000 — https://variety.com/2026/film/global/in-starland-ray-panthaki-clarence-maclin-tallinn-1236951713/
+### Tyson Fury Reveals Schizophrenia Diagnosis in Netflix Documentary: ‘I Thought I’d End Up in a Padded Room’
+Mon, 23 Nov 2026 14:37:00 +0000 — https://variety.com/2026/tv/global/tyson-fury-schizophrenia-diagnosis-netflix-documentary-1236955855/
 
-British actor Ray Panthaki – known for “Boiling Point” and “Marcella” – goes personal in directorial debut “In Starland.” Very personal. His first feature is produced by his London-based Le Bateau Lavoir, Archface Films and Killer Films, headed by Christine Vachon and Pamela Koffler, who have just been presented wih Honorary Oscars. Variety announced Killer [ ]
+Netflix’s feature-length documentary “Tyson Fury,” which follows the two-time heavyweight champion of the world’s journey from childhood to the pinnacle of his sport, reveals that the boxer has been diagnosed with schizophrenia. The film, which is directed by Lucy Wilcox, will debut on Nov. 27, just two weeks before Fury’s live Netflix bout against Anthony [ ]
 
-### YouTube Refuses U.K. Government Request to Remove Russell Brand Video, Says It Is Investigating Content
-Thu, 19 Nov 2026 11:12:47 +0000 — https://variety.com/2026/film/global/youtube-government-request-remove-russell-brand-video-investigate-1236952944/
+### Avengers: Doomsday Final Trailer: Captain America s Son Revealed, Fantastic Four Rescues Steve Rogers, Cyclops Assembles X-Men
+Mon, 23 Nov 2026 14:09:57 +0000 — https://variety.com/2026/film/news/avengers-doomsday-trailer-captain-america-son-cyclops-x-men-1236893948/
 
-YouTube has turned down a request from the British government to remove a video in which Russell Brand claims he is innocent after being sentenced to 10 years and six months in prison for rape and sexual assault, according to the BBC. Google, which owns YouTube, said the video did not violate its rules and [ ]
+Marvel has dropped the final trailer for Avengers: Doomsday ahead of its Dec. 18 release. The new trailer picks up after the new scene featuring Steve Rogers and Peggy Carter that was added to Avengers: Endgame Encore, which reveals the couple s teenaged son. The Fantastic Four somehow travel back in time to pick up Steve [ ]
 
-### ‘Boys by the River,’ an IDFA Highlight, Captures One Day in ‘Paradise’ in Europe, Relished by Three Afghan Asylum Seekers
-Thu, 19 Nov 2026 10:36:37 +0000 — https://variety.com/2026/film/global/boys-by-the-river-intermezzo-cinedokke-pablo-briones-1236952893/
+### Fjord Director Cristian Mungiu Says It s Up to Audiences to Make Up Their Own Minds About Polarizing Palme d Or Winner: The Film Is Not Divisive. Society Is Divided
+Mon, 23 Nov 2026 14:07:52 +0000 — https://variety.com/2026/film/news/fjord-director-cristian-mungiu-polarizing-palme-dor-winner-1236955722/
 
-Many films about migrants depict their travails. Richly textured and carefully structured, observational doc-fiction “Boys by the River” (“Ragazzi al fiume”), which world premieres in IDFA’s Envision Competition directed by Switzerland-based Pablo Briones, captures one day spent by three Afghan asylum seekers in Switzerland by a river which one calls “paradise.” That said, the film [ ]
+Fjord director Cristian Mungiu insists that audiences should make up their own minds about his polarizing Palme d Or winner, which divided critics as much as it united the jury at this year s Cannes Film Festival. The film, which pits a conservative Christian couple against a progressive social system, has become something of a Rorschach test [ ]
 
-### Jeon Do-yeon on Oscar Contender Possible Love, Korean Cinema s Commercial Pull and Her Greater Thirst for Stories
-Thu, 19 Nov 2026 10:19:25 +0000 — https://variety.com/2026/film/news/jeon-do-yeon-oscar-contender-possible-love-korean-cinema-1236952899/
+### Jensen Huang Reinstated as Nvidia CEO After Series of Affairs
+Mon, 23 Nov 2026 14:06:20 +0000 — https://variety.com/2026/digital/news/jensen-huang-reinstated-as-nvidia-ceo-1236955837/
 
-Korean actors are far better known around the world today than when Jeon Do-yeon won best actress at Cannes for Lee Chang-dong s Secret Sunshine in 2007, becoming the first Korean actress to do so. She has asked herself what that should change about the work she picks, and her answer is to stay on the [ ]
+Nvidia has reinstated Jensen Huang as CEO and president of the company, a surprise twist in the weekslong saga that revealed affairs with an alleged spy and multiple company employees, prompted Huang s resignation and upheaved the AI boom. Huang will also rejoin the company’s board, the company said in a statement Monday. “The Board of [ ]
 
-### ‘Steps’ Review: Brightly Colored, Harmless Reimagining of ‘Cinderella’ Packs Funny Lines but Little That s Unique
-Thu, 19 Nov 2026 10:17:47 +0000 — https://variety.com/2026/film/reviews/steps-review-1236952706/
+### Rian Johnson, a Vocal AI Critic, Warns Against Totally Demonizing’ AI and Says His ‘Poker Face’ Revival With Peter Dinklage Is Dead
+Mon, 23 Nov 2026 14:00:31 +0000 — https://variety.com/2026/film/news/rian-johnson-demonizing-ai-peter-dinklage-poker-face-dead-1236955765/
 
-As revisionist narratives that seek to rehabilitate a villain’s reputation, “Shrek” and “Wicked” have set the standard for what this type of alternative fairytale can look like, whether comic or dramatic. The new Netflix animated feature “Steps” follows in the footsteps of those more accomplished predecessors, showing that Cinderella’s stepsisters may have been more nuanced [ ]
+Rian Johnson has been one of Hollywood s most outspoken critics of artificial intelligence, but the filmmaker is cautioning against demonizing the technology. “When something is incredibly technical and is technically using a form of generative AI, is that off limits?” Johnson asked Variety at the Marrakech International Film Festival, citing visual effects and digital film-processing [ ]
 
-### Ramayana Journey Across Asia Anchors Discovery India Docuseries Marking Shashi Tharoor s TV Hosting Debut (EXCLUSIVE)
-Thu, 19 Nov 2026 08:53:05 +0000 — https://variety.com/2026/film/news/ramayana-discovery-docuseries-shashi-tharoor-tv-hosting-debut-1236952884/
+### Tallinn Takeaways: Buzz Titles, the Baltics’ Build and Freedom of Speach Under Pressure
+Mon, 23 Nov 2026 14:00:16 +0000 — https://variety.com/2026/film/global/tallinn-takeaways-buzz-titles-the-baltics-build-censorship-1236955760/
 
-Author and Indian lawmaker Shashi Tharoor is making his debut as a TV host, fronting Itihasa: Ramayana Beyond Borders With Shashi Tharoor, a four-part Discovery docuseries that follows the ancient Indian epic as it spread to Sri Lanka and Southeast Asia. The series will premiere Dec. 7 in India on Discovery and Discovery+, with one [ ]
+Under the aegis of charismatic festival founder and director Tiina Look, and new artistic director Triin Tramberg, the 30th Tallinn Black Nights Festival, one of the fastest-growing fllm events in northern Europe, held its closing ceremony on Friday with a flurry of film accolades and tributes. About 40 in film and 17 industry nods. Beyond [ ]
 
-### Hearst Canvas Launches Frontier Collective Brand as U.K. Arm Builds Digital-Native Content Slate for YouTube
-Thu, 19 Nov 2026 08:01:00 +0000 — https://variety.com/2026/tv/news/hearst-canvas-launches-frontier-collective-alex-bescoby-1236952832/
+### ‘Dig’ Review: Amy Poehler’s Archeology Comedy Is Shockingly Unfunny
+Mon, 23 Nov 2026 14:00:00 +0000 — https://variety.com/2026/tv/reviews/dig-review-amy-poehler-peacock-1236952005/
 
-Hearst Canvas, the creator-led media arm of U.K.-based Hearst Networks, has launched its latest digital native brand with Frontier Collective, an effort to harness the YouTube and social media followings of top outdoor adventure content creators. The effort has quietly bowed over the past few weeks starting with a roundtable-style talk show, “Expedition HQ,” featuring [ ]
+Based on Kate Myers’ 2023 novel, “Excavations,” and adapted for television by “A Man on the Inside” and The Good Place creator Michael Schur and Amy Poehler, Peacock’s “Dig” centers on a group of archaeologists working an excavation site during a sweltering summer in Greece. Helmed by the beloved Dr. Neville Wycombe (Hugh Laurie) and [ ]
 
 ## The Hollywood Reporter
 
-### I Was Scared There d Be More Eye Rolls Than Optimism : Gaten Matarazzo on Making the West End His First Stop After Stranger Things
-Thu, 19 Nov 2026 12:00:00 +0000 — https://www.hollywoodreporter.com/lifestyle/arts/gaten-matarazzo-rent-play-theatre-stranger-things-interview-1236751588/
+### The Odyssey Star Samantha Morton Honored With BFI Fellowship
+Mon, 23 Nov 2026 15:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/samantha-morton-bfi-fellowship-the-odyssey-film-award-oscar-1236761014/
 
-He's swapped the Upside Down for late '80s New York in Luke Sheppard's refreshingly sparky 'Rent' revival and is ready to talk about child fame, platforming the HIV/AIDS crisis and Lin-Manuel Miranda's 'Octet': "I love weird shit."
+"To have female working-class voices amongst past esteemed recipients means I can reach and hopefully teach and inspire a whole new generation," said the actress.
 
-### The Altruists Review: Anthony Boyle and Julia Garner Make a Toxically Perfect Match in Netflix s Intriguing but Unsatisfying Crypto Love Story
-Thu, 19 Nov 2026 08:01:00 +0000 — https://www.hollywoodreporter.com/tv/tv-reviews/the-altruists-review-julia-garner-anthony-boyle-netflix-1236758009/
+### DOC NYC Reveals U.S., International Competition and Audience Award Winners (Exclusive)
+Mon, 23 Nov 2026 15:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/2026-doc-nyc-award-winners-1236760812/
 
-Based on the real-life rise and fall of FTX, the eight-part miniseries from Graham Moore ('The Imitation Game') delves into the romance between founder Sam Bankman-Fried and exec Caroline Ellison.
+The Oscar-qualifying short jury award went to 'Memories of a Window' as the nonfiction festival recognized three short films in awards contention with The Louies, a $100,000 cash fund named after TV and media pioneer Louis Wolfson.
 
-### Wicker Nipples and All: Wicker Cinematographer Celebrates Steamy Film s Viral Success
-Thu, 19 Nov 2026 07:46:52 +0000 — https://www.hollywoodreporter.com/movies/movie-news/wicker-alexander-skarsgard-lol-crawley-camerimage-nipples-1236759179/
+### The Dinosaurs, Ocean With David Attenborough Producer Silverback Films Gets New Top Execs
+Mon, 23 Nov 2026 15:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/the-dinosaurs-banijay-producer-silverback-films-new-leaders-1236761056/
 
-"Now I know what 'wicker nipples' is in Polish," Lol Crawley quipped at Camerimage about the film that stars Olivia Colman and Alexander Skarsgard.
+The Banijay natural history banner says founders Keith Scholey and Alastair Fothergill will leave day-to-day management to CEO Jane Hamlin, creative chief Huw Cordey and COO Elly Salisbury.
 
-### Indigenous Queer Drama Princess Is Dedicated to Everyone Fighting for Their Freedom, Their Identity
-Thu, 19 Nov 2026 07:30:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/indigenous-queer-drama-film-princess-tallinn-2026-1236759167/
+### UTA to Unite Businesses at New London Headquarters in 2027
+Mon, 23 Nov 2026 15:00:00 +0000 — https://www.hollywoodreporter.com/business/business-news/uta-new-london-headquarters-one-rathbone-square-2027-1236760955/
 
-Ecuadorian writer-director Christian Rojas' feature debut, which just premiered at Tallinn, is a contribution to the collective healing of wounds, both the creative's own and other people's.
+Bringing UTA, Curtis Brown and ROOF together at a new location "represents our commitment to our U.K. presence," says Darnell Strom, head of UTA’s U.K. office.
 
-### Taylor Swift Performs Our Song and I Knew It, I Knew You at the CMAs
-Thu, 19 Nov 2026 02:35:33 +0000 — https://www.hollywoodreporter.com/music/music-news/taylor-swift-2026-cma-awards-performance-our-song-1236758939/
+### Justin Timberlake Documentary Trailer: He s Not Who I Thought He Was
+Mon, 23 Nov 2026 14:56:49 +0000 — https://www.hollywoodreporter.com/tv/tv-news/justin-timberlake-documentary-trailer-apple-1236761080/
 
-The pop star, whose 'Toy Story 5' track marked a return to the country music world, is up for single of the year at the award show.
+A "raw, reflective and revealing portrait" of Timberlake is coming to Apple TV.
 
-### The Time Robert Pattinson Snuck Around Rikers Island (and Why It Could Help Him With James Bond)
-Thu, 19 Nov 2026 02:07:15 +0000 — https://www.hollywoodreporter.com/movies/movie-news/robert-pattinson-rikers-good-time-james-bond-safdie-prison-1236759112/
+### Avengers: Doomsday Final Trailer Shows Major X-Men Moment
+Mon, 23 Nov 2026 14:43:49 +0000 — https://www.hollywoodreporter.com/movies/movie-news/avengers-doomsday-final-trailer-x-men-1236761061/
 
-Among the actor’s colorful roles is one rather surreal real-life moment in the hoosegow.
+The final trailer for the Marvel superhero mashup is the best look yet at the upcoming blockbuster.
 
-### Rob Lowe Asked Ben Shapiro to Cast Him in Confession : I’ve Worked With Left-Wing Writers. Why Wouldn’t I Work With Right-Wing Writers?
-Thu, 19 Nov 2026 00:58:40 +0000 — https://www.hollywoodreporter.com/movies/movie-news/rob-lowe-asked-ben-shapiro-cast-confession-left-right-writers-1236758985/
+### Ben Petrie, Juliette Gariépy, Chris Locke, Romina D’Ugo to Star in ‘Man Vs Truck’ Dark Comedy (Exclusive)
+Mon, 23 Nov 2026 14:30:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/man-vs-truck-dark-comedy-ben-petrie-chris-locke-1236760057/
 
-The Daily Wire founder recently said he told the actor he was "way too handsome" to take on the role.
+Director Ted Stenson’s Canadian indie puts the classic American pickup truck at the intersection of politics, ego and masculinity.
 
-### SkyShowtime to Shut Down, CEO Exiting
-Thu, 19 Nov 2026 00:35:39 +0000 — https://www.hollywoodreporter.com/business/business-news/skyshowtime-to-shut-down-ceo-exiting-1236758993/
+### Canada s Crave Orders Season 2 of Yaga, Starring Carrie-Anne Moss, Hudson Williams
+Mon, 23 Nov 2026 14:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/crave-second-season-yaga-1236761048/
 
-The writing was on the wall for the joint venture first unveiled five years ago by Comcast and the then-named ViacomCBS.
+Clark Backo and Noah Reid also star in Kat Sandler's adaptation for AMC+ in the U.S., set for a finale on Nov. 27.
 
-### Chris Pratt to Star in Sci-Fi Movie The Traveler as He Inks Paramount First-Look
-Thu, 19 Nov 2026 00:26:05 +0000 — https://www.hollywoodreporter.com/movies/movie-news/chris-pratt-to-star-in-sci-fi-movie-the-traveler-1236758984/
+### Blade Runner 2099 Review: Michelle Yeoh and Hunter Schafer Lead Amazon s Visually Rich, Emotionally Deficient Sci-Fi Sequel
+Mon, 23 Nov 2026 14:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-reviews/blade-runner-2099-review-michelle-yeoh-hunter-schafer-amazon-1236760567/
 
-The film has Zach Lipovsky and Adam Stein set to direct.
+Set eight decades after Ridley Scott's 1982 classic, in a post-revolutionary world now ruled by replicants, the eight-part miniseries follows a dying police officer and her human partner.
 
-### New Sam s Club-Exclusive Home Decor Just Dropped: Shop Our Top Picks From the Collection
-Thu, 19 Nov 2026 00:18:54 +0000 — https://www.hollywoodreporter.com/lifestyle/shopping/best-sams-club-home-decor-members-mark-buy-shop-online-1236757124/
+### Monét X Change s Monét Talks Podcast Added to Libsyn s Hosting, Ad Roster (Exclusive)
+Mon, 23 Nov 2026 14:00:00 +0000 — https://www.hollywoodreporter.com/business/digital/monet-x-change-libsyn-monet-talks-podcast-1236760443/
 
-The warehouse chain has a wide selection of exclusive home decor to personalize and stylize your household.
+The agreement builds upon the 'RuPaul's Drag Race' star's relationship with Libsyn after she and Bob the Drag Queen signed a multiyear partnership tied to their 'Sibling Rivalry' podcast earlier this year.
 
 ## Deadline
 
-### How A Mysterious Message Kickstarted Aardman s Gamechanging Pact With Pokémon
-Thu, 19 Nov 2026 13:22:25 +0000 — https://deadline.com/2026/11/aardman-bosses-pokemon-tales-disney-plus-tiktok-1237228905/
+### ITV Issues Statement Amid Outcry Over AJ Odudu Experiencing Microaggressions On I m A Celebrity Get Me Out Of Here!
+Mon, 23 Nov 2026 15:08:41 +0000 — https://deadline.com/2026/11/itv-statement-aj-odudu-mariella-frostrup-im-a-celeb-1237231538/
 
-It was a mysterious message that kickstarted Aardman’s once-in-a-generation team-up with Pokémon. The celebrated stop motion outfit s creative chief talked a London audience through the inception of Pokémon Tales: The Misadventures of Sirfetch’d Pichu, which lands next year on Disney+. The pact represents Aardman s first time taking its stop motion approach to a third [ ]
+ITV has said its duty of care to I m A Celebrity… Get Me Out Of Here! contestants is of the utmost importance amid concern over an incident between campmates AJ Odudu and Mariella Frostrup. On Sunday evening, ITV broadcast footage of tensions between Big Brother host Odudu and broadcaster Frostrup over camp cooking duties (see [ ]
 
-### Qatar’s Film Committee UAE-Based Yango Play Explore Partnership Kicking Off With Falconry Doc Series ‘Elzam’
-Thu, 19 Nov 2026 12:59:52 +0000 — https://deadline.com/2026/11/qatar-film-committee-uae-yango-play-explore-falconry-elzam-1237228915/
+### UTA Moving To New London HQ With Curtis Brown Soccer Agency ROOF For First Time
+Mon, 23 Nov 2026 15:00:00 +0000 — https://deadline.com/2026/11/uta-new-london-hq-curtis-brown-roof-rathbone-square-1237231504/
 
-The Film Committee at Media City Qatar has signed a memorandum of understanding with UAE-based regional streaming service Yango Play to explore the development, co-production and distribution of scripted and unscripted Arabic-language originals. The accord, announced on the sidelines of the Film Committee at Media City Qatar’s Doha Industry Days 2026, will also cover content [ ]
+UTA is moving to a new London HQ alongside Curtis Brown and soccer agency ROOF for the first time. The agency is bringing all of its London businesses together in a 70,000 square foot HQ in New Rathbone Square, which is round the corner from its current Newman Street HQ, where it has been for [ ]
 
-### BeIN Media Group To Bring ‘Michael’, ‘Hamnet’ ‘Jurassic World Rebirth To MENA Audiences With Fresh NBC Universal Deal
-Thu, 19 Nov 2026 12:15:42 +0000 — https://deadline.com/2026/11/bein-media-group-michael-hamnet-nbc-universal-1237228885/
+### The Grand Tour s New Hosts Get Season 2 Renewal At Amazon Prime Video
+Mon, 23 Nov 2026 15:00:00 +0000 — https://deadline.com/2026/11/the-grand-tour-season-2-renewal-amazon-prime-video-1237231574/
 
-Qatar’s beIN Media Group and NBCUniversal Global are reinforcing their long relationship with a new multi-year output agreement including recent box office hits Michael and Jurassic World Rebirth as well as awards winner Hamnet. The deal with NBCUniversal Global TV Distribution, announced on the sidelines of the Film Committee at Media City Qatar’s Doha Industry [ ]
+Francis Bourgeois, James Engelsman, and Thomas Holland are revving their engines for a second lap. Amazon Prime Video has renewed The Grand Tour s reincarnation for a second season, with Studio Lambert set to begin production next year. Bourgeois, Engelsman, and Holland followed in the footsteps of Jeremy Clarkson, James May, and Richard Hammond, who hosted [ ]
 
-### Kit Connor Mystery Horror One Of Us Boarded For Sales By OneTwoThree Media
-Thu, 19 Nov 2026 12:12:02 +0000 — https://deadline.com/2026/11/kit-connor-horror-one-of-us-gets-sales-deal-1237228891/
+### Allison Janae Hamilton Launches Production Outfit Swampwife Pictures Sets ‘Holler’ Starring Valerie June As First Project
+Mon, 23 Nov 2026 15:00:00 +0000 — https://deadline.com/2026/11/allison-janae-hamilton-swampwife-pictures-holler-1237228932/
 
-EXCLUSIVE: OneTwoThree Media has acquired worldwide sales rights to One Of Us, the mystery-horror film starring Emmy winner Kit Connor (Heartstopper). The second feature of writer-director Stefan van de Graaff (Simmer), One Of Us begins at a funeral, where every hour on the hour a family member will die. As the body count grows, it [ ]
+EXCLUSIVE: Artist and filmmaker Allison Janae Hamilton has set her next project, a narrative short titled Holler, starring musician Valerie June. The film will be produced under Hamilton’s newly minted production company, Swampwife Pictures. Set against the rural landscape of West Tennessee, the film follows a hard-living Memphis nightclub owner who returns to her family’s [ ]
 
-### Hollywood Vet Stephen Herek To Direct Italy-Set Rom-Com Emma s Dilemmas For Former Prodigy Media; Italy s Panorama Films Aboard
-Thu, 19 Nov 2026 11:56:24 +0000 — https://deadline.com/2026/11/stephen-herek-to-direct-italy-set-rom-com-emmas-dilemmas-1237228876/
+### Samantha Morton To Receive BFI Fellowship
+Mon, 23 Nov 2026 15:00:00 +0000 — https://deadline.com/2026/11/samantha-morton-bfi-fellowship-2026-1237231480/
 
-EXCLUSIVE: Hollywood vet Stephen Herek, whose credits include Bill Ted’s Excellent Adventure and 101 Dalmatians, is attached to direct rom-com Emma s Dilemmas, which is due to shoot in Italy and New York City late next year. The movie follows Emma Tate, a young Brooklyn artist navigating the unpredictable world of modern romance, and her [ ]
+The UK’s leading film organization, the British Film Institute, is honouring actor Samantha Morton with its highest accolade: a BFI Fellowship. The BFI said the honor recognizes Morton’s “extraordinary talent for bringing empathetic, raw and complex performances to her work.” The BFI Fellowship will be presented to Morton at the BFI Chair’s Dinner on January [ ]
 
-### UK Culture Minister Delivers Emotional Plea To YouTube To Set An Example Remove Russell Brand s Channel
-Thu, 19 Nov 2026 11:15:47 +0000 — https://deadline.com/2026/11/russell-brand-youtube-channel-removed-culture-minister-1237228863/
+### Keith Scholey Alastair Fothergill Stepping Back From CEO Duties At Our Planet Producer Silverback
+Mon, 23 Nov 2026 15:00:00 +0000 — https://deadline.com/2026/11/silverback-films-scholey-fothergill-stepping-back-ceo-1237231539/
 
-The UK government minister responsible for film and TV has made a personal plea to YouTube to set an example and remove Russell Brand’s channel. Earlier, and under pressure, the Google-owned behemoth said it was investigating the video in which Brand s wife Laura protested his innocence via a statement he sent her from prison. The [ ]
+Keith Scholey and Alastair Fothergill are stepping back from the day-to-day running of Our Planet maker Silverback Films after 14 years. The pair of storied natural history makers will be replaced by a new team following a revamp at Silverback, which is now owned by Banijay. Jane Hamlin, currently Chief Operating Officer, will become Chief [ ]
 
-### Senate And House Lawmakers Added As Cosponsors To New Federal Film TV Incentive Legislation
-Thu, 19 Nov 2026 11:00:00 +0000 — https://deadline.com/2026/11/federal-film-incentive-senate-house-cosponsors-1237228481/
+### Democratic National Committee Plans 12 Presidential Primary Debates Starting In June
+Mon, 23 Nov 2026 14:34:46 +0000 — https://deadline.com/2026/11/democratic-primary-debates-2028-1237231530/
 
-UPDATED: More than 60 House members and four Senators have signed on to legislation to establish a 20% federal film incentive, amid an effort to see passage during the lame duck session of Congress. The new cosponsors in the Senate include Sen. Chris Coons (D-DE), Sen. Thom Tillis (R-NC), Sen. Katie Britt (R-AL) and Sen. [ ]
+The 2028 presidential race will be in full swing likely by early next year, and on Monday, the Democratic National Committee announced its plans for a dozen primary debates, starting in June. No TV or streaming partner has been announced, but hosting the first debate, or any other, is the source of much competition between [ ]
 
-### Silverprint Pictures Launches Scotland Arm Following Shetland Recommission
-Thu, 19 Nov 2026 10:27:51 +0000 — https://deadline.com/2026/11/shetland-recommission-silverprint-launches-scotland-arm-1237228861/
+### Final Avengers: Doomsday Trailer Has Fantastic Four Pulling Steve Rogers Out Of His Quiet Life
+Mon, 23 Nov 2026 14:19:52 +0000 — https://deadline.com/2026/11/avengers-doomsday-final-trailer-1237231535/
 
-Silverprint Pictures, producers of the long-running BBC drama series Shetland, is launching Silverprint Pictures Scotland, based in Glasgow’s Merchant City. Led by Scottish executive producer Denise Paul (Shetland) alongside Charlotte Daniel as script executive (Shetland), the team says it will look to partner with established and emerging voices to champion author-led Scottish drama. ITV Studios [ ]
+No, Steve Rogers, you won t travel into that quiet, dad, country life. Not if the Fantastic Four has anything to do with it. The supes of four show up in the final trailer for Disney/Marvel Studios Avengers: Doomsday to tell the man who was Captain America about a greater evil that s prevailing in the world. [ ]
 
-### YouTube Investigating Russell Brand Prison Message Video
-Thu, 19 Nov 2026 10:26:22 +0000 — https://deadline.com/2026/11/youtube-investigates-russell-brand-prison-message-video-1237228857/
+### Nvidia Reinstates Jensen Huang As CEO
+Mon, 23 Nov 2026 14:17:50 +0000 — https://deadline.com/2026/11/nvidia-reinstates-jensen-huang-ceo-1237231532/
 
-YouTube has said it is investigating after the UK government called on the Google-owned platform to remove Russell Brand s prison message video. On Sunday, Brand’s wife, Laura Brand, delivered some words on behalf of her husband on the Forgetting Sarah Marshall star’s YouTube channel. In the message, Brand maintained that he was innocent of rape [ ]
+In a remarkable about face, Nvidia has announced that, effective immediately, Jensen Huang has been reinstated as president and chief executive officer and as a member of the Board of Directors. The board said it voted unanimously to reinstate Huang following a series of discussions and meetings with the founder of the tech giant “after [ ]
 
-### Comcast And Skydance Shuttering European Streamer SkyShowtime; CEO Monty Sarhan Exiting
-Thu, 19 Nov 2026 10:20:19 +0000 — https://deadline.com/2026/11/skyshowtime-closing-2027-monty-sarhan-leaving-1237228853/
+### Make-Up Artists Hair Stylists Guild Sets Ronnie Specter Lola Kemp As 2027 Career Honorees
+Mon, 23 Nov 2026 14:00:00 +0000 — https://deadline.com/2026/11/make-up-artists-hair-stylists-guild-2027-honorees-1237230773/
 
-SkyShowtime s lifespan is officially coming to an end. The European streaming service will close its doors at the end of 2027, with CEO Monty Sarhan leaving as part of the move. SkyShowtime s CFO, Mark Neil, will become interim General Manager as the company winds down. Staff were informed of the official decision to close in [ ]
+The Make-Up Artists Hair Stylists Guild has its 2027 career award recipients. Emmy-winning and Oscar-nominated makeup artist Ronnie Specter and Emmy-nommed hairstylist Lola Kemp will be honored February 20 during the 14th annual MUAHS Awards at the Westin Bonaventure in Los Angeles. The MUAHS Lifetime Achievement Awards honor a makeup artist and a hairstylist [ ]
 
-### Tilly Norwood Creator Teases Next Project Storm Dogs Shows Clip
-Thu, 19 Nov 2026 10:01:31 +0000 — https://deadline.com/2026/11/tilly-norwood-creator-teases-next-storm-dogs-clip-1237228854/
+### Crave Renews Yaga For Season 2 With Carrie-Anne Moss Returning
+Mon, 23 Nov 2026 14:00:00 +0000 — https://deadline.com/2026/11/crave-renews-yaga-season-2-carrie-anne-moss-returning-1237231510/
 
-The creator of controversial AI actor Tilly Norwood has teased her next project with Lion King co-director Rob Minkoff. The audience at today s British Screen Forum Conference in London were treated to a clip of Storm Dogs, as Eline Van der Velden took them behind the scenes of the making of the AI-assisted movie, first [ ]
+Carrie-Anne Moss will return for a second season of Crave s mystery thriller series Yaga. Canadian streaming service Crave greenlit Season 2 after the first run debuted on October 23 as its top series on the launch weekend and good performances on the likes of AMC+, where it was the number one series launch for the [ ]
 
-### Rivals No More: Research Reveals Rationale Behind Disney-Channel 4 Deal
-Thu, 19 Nov 2026 09:03:38 +0000 — https://deadline.com/2026/11/disney-channel-4-deal-ratings-research-rivals-1237227922/
+### The Dark Side Of Surfing : BAFTA Winner Investigating Allegations Of Sexual Abuse In Global Surf Industry
+Mon, 23 Nov 2026 13:47:00 +0000 — https://deadline.com/2026/11/sexual-abuse-allegations-surf-industry-investigated-film-1237231517/
 
-EXCLUSIVE: New research has spotlighted how the Disney-Channel 4 deal could be a match made in heaven. Last month, the Mouse House and Gogglebox network struck a landmark pact that will see multiple Channel 4 shows head to Disney+ day-and-date including Bella Ramsey-starrer Maya, hundreds of hours made available on-demand such as Russell T. Davies [ ]
+EXCLUSIVE: BAFTA-winning documentarian Sarah Macdonald and leading women s rights lawyer Ann Olivarius are part of the team behind new documentary The Dark Side Of Surfing, which is investigating allegations of sexual abuse and harassment in the international and U.S. surfing industries. The project is led by Macdonald, CEO of Make Waves Films, who has previously [ ]
 
 ## befores & afters
 
-### On The Set Pic: The Rings of Power , s3
-Thu, 19 Nov 2026 02:52:49 +0000 — https://beforesandafters.com/2026/11/19/on-the-set-pic-the-rings-of-power-s3/
+### A visual journey through the miniatures of ‘Digger’
+Mon, 23 Nov 2026 10:48:48 +0000 — https://beforesandafters.com/2026/11/23/a-visual-journey-through-the-miniatures-of-digger/
 
-Stunt coordinator Roy Taylor with Morfydd Clark. The post On The Set Pic: The Rings of Power , s3 appeared first on befores & afters .
-
-### Go behind the scenes of Tenzing with this VFX reel
-Tue, 17 Nov 2026 20:01:34 +0000 — https://beforesandafters.com/2026/11/18/go-behind-the-scenes-of-tenzing-with-this-vfx-reel/
-
-The film tells the story of Tenzing Norgay and his historic 1953 summit of Mount Everest alongside Edmund Hillary. The film s visual effects supervisor was Jay Hawkins, who provided befores & afters with this note about the production: On Tenzing , visual effects worked as a production partner from early preproduction. With a full Everest shoot too dangerous at altitude, the climb was captured in New Zealand s Southern Alps and rebuilt as the real mountain across 630 largely invisible shots, drawn from real plates and a library of over 34,000 Everest images. VFX supervisor: Jay Hawkins VFX producer: Octavia Mansfield VFX vendors: ARC, Alt.VFX, Blackbird, Future Associate, Alussein The reel below showcases work by ARC, Alt.vfx and Blackbird. The post Go behind the scenes of Tenzing with this VFX reel appeared first on befores & afters .
+Miniature supervisor Simon Weisse breaks down the model builds for the film. In director Alejandro G. Iñárritu’s Digger , Tom Cruise stars as Digger Rockwell, a powerful oil magnate whose reckless pursuit of fossil fuels unleashes an environmental catastrophe that threatens to devastate the planet. As the disaster unfolds, Digger embarks on a frantic mission to convince the world that he is humanity’s saviour. Well, that’s what the film appears to be about. Without going into too many spoilers here, one of the ways the film’s distinctive, deliberately artificial visual world was brought to life was through an extensive combination of physical miniatures and dioramas—which become story points themselves—that were augmented with practical special effects and digital visual effects, blending traditional filmmaking techniques with contemporary VFX. Miniature supervisor Simon Weisse oversaw a diverse array of miniatures for the film which were built in his Berlin studio and transported to Pinewood Studios in the UK for filming. Here he talks to befores & afters about how the miniatures work came together. How miniatures became part of the film Weisse recounts the call he received from Digger producer Michael Sharp, who relayed that ‘Alejandro wants miniatures’. “Michael and I had worked together previously and said, ‘Could you come to London next week?’ I went there to Leavesden Studios where they have made some test setups. They had very simple miniatures made by the art departme
 
 ## IndieWire
 
-### Where Are the Women? Zero Female Directors on Blumhouse Atomic s Theatrical Slate for 2027
-Thu, 19 Nov 2026 13:30:00 +0000 — https://www.indiewire.com/features/interviews/blumhouse-atomic-no-women-directors-2027-horror-slate-1235229357/
+### Blade Runner 2099 Review: Michelle Yeoh and Hunter Schafer Are a Fine Pair in an Awesome World
+Mon, 23 Nov 2026 14:00:00 +0000 — https://www.indiewire.com/criticism/shows/blade-runner-2099-review-amazon-series-michelle-yeoh-1235229717/
 
-“They didn’t fall in next year’s slate,” Jason Blum told IndieWire. Of the 10 movies the company has dated for nationwide release, seven come from filmmakers it calls “emerging voices.” All are men.
+Creator and showrunner Silka Luisa's sequel series carves its own breathtaking path forward in a future where Replicants have seized power over humans, and the line between the two is thinner than ever.
 
-### Bedford Park Trailer: Sundance Winner Stars Moon Choi, Who Falls for the Other Driver in Her Mother s Car Accident
-Wed, 18 Nov 2026 22:00:00 +0000 — https://www.indiewire.com/news/trailers/bedford-park-trailer-moon-choi-son-sukku-1235228988/
+### Paul Thomas Anderson s Cameron Winter at Carnegie Hall Getting Nationwide Release in January
+Mon, 23 Nov 2026 14:00:00 +0000 — https://www.indiewire.com/news/general-news/paul-thomas-anderson-cameron-winter-carnegie-hall-nationwide-release-1235230026/
 
-Exclusive: Set in New Jersey, Stephanie Ahn’s magical Sundance winner co-stars Son Sukku.
+Exclusive: The concert film starring the Geese frontman is in the middle of a successful 35mm roadshow.
 
-### David Ellison on Elon Musk s Skydance Investment, Trump and ‘Rush Hour 4,’ and Whether He Would’ve Made ‘Digger
-Wed, 18 Nov 2026 21:56:45 +0000 — https://www.indiewire.com/news/general-news/david-ellison-elon-musk-digger-dealbook-summit-1235229252/
+### Rian Johnson Leaves the Door Open to Star Wars Return: It s a World I Deeply Love
+Sun, 22 Nov 2026 21:00:00 +0000 — https://www.indiewire.com/news/breaking-news/rian-johnson-star-wars-return-update-1235229946/
 
-The Skydance chief leaned on some talking points in a chat with the New York Times at the DealBook Summit.
+"The Last Jedi" director tells IndieWire he loves the franchise "more now than I ever have," just as projects set after "The Rise of Skywalker" move forward under new Lucasfilm chief Dave Filoni.
 
-### Christopher Nolan and Guillermo del Toro Break Down The Odyssey Monsters and AI s Limitations with Production VFX Supervisor Andrew Jackson
-Wed, 18 Nov 2026 21:30:00 +0000 — https://www.indiewire.com/news/general-news/christopher-nolan-guillermo-del-toro-the-odyssey-vfx-1235228482/
+### Box Office: Hunger Games: Sunrise on the Reaping Debuts to Mighty $120 Million, Reviving Lionsgate s Most Important Franchise
+Sun, 22 Nov 2026 16:18:16 +0000 — https://www.indiewire.com/news/box-office/hunger-games-sunrise-on-the-reaping-revives-franchise-1235229881/
 
-Exclusive: Watch the director and his longtime collaborator explain creating the Cyclops, Scylla, and Circes sequences at a Visual Effects Society screening.
+"I Play Rocky" expands with $9.3 million, while Paul Thomas Anderson's "Cameron Winter at Carnegie Hall" grosses $162,000 from three locations.
 
-### I Play Rocky Star P.J. Byrne Isn t a Scene-Stealer — He s Something Better
-Wed, 18 Nov 2026 20:30:00 +0000 — https://www.indiewire.com/awards/consider-this/i-play-rocky-p-j-byrne-scene-stealer-irwin-winkler-1235228652/
+### Box Office: A24 s You Can See Everything Crosses $100 Million Globally
+Sun, 22 Nov 2026 15:45:54 +0000 — https://www.indiewire.com/news/box-office/box-office-you-can-see-everything-crosses-100-million-globally-1235229888/
 
-A master of "hey, I love that guy!" roles, Byrne brings his usual gusto, good humor, and deep work ethic to the role of legendary producer Irwin Winkler. The result? As he tells IndieWire, "the most grounded performance" of his career, but with the "biggest laughs" yet. Perfect.
+Lance Oppenheim and Nathan Fielder's look at Elizabeth Holmes is the third-highest-grossing domestic release in A24's history.
 
-### Skydance to Combine Warner Bros. Television Group and Paramount Television Studios as One Big Studio
-Wed, 18 Nov 2026 18:35:07 +0000 — https://www.indiewire.com/news/business/skydance-combine-warner-bros-tv-group-paramount-tv-studios-1235229155/
+### If There s Generative AI in The Further Mis-Adventures of Cliff Booth, It s Not the First Time David Fincher s Used It
+Sat, 21 Nov 2026 23:45:00 +0000 — https://www.indiewire.com/features/craft/generative-ai-tools-david-fincher-cliff-booth-1235229866/
 
-Channing Dungey and Matt Thunell will team up to lead the combined group.
-
-### Elsinore Review: Andrew Scott s Towering Performance as a Dying Actor Can t Overcome AIDS-Movie Awards Bait Clichés
-Wed, 18 Nov 2026 18:00:00 +0000 — https://www.indiewire.com/criticism/movies/elsinore-movie-review-andrew-scott-1235214584/
-
-Scott vividly portrays "Gandhi" and "Chariots of Fire" star Ian Charleson, who made "Hamlet" his final role at the National Theatre, but the movie around him sinks into forgettability.
-
-### Jim Cummings Wakes Up to a Post-One-Night-Stand Crisis in DISC — Watch the Short
-Wed, 18 Nov 2026 17:30:00 +0000 — https://www.indiewire.com/news/general-news/jim-cummings-disc-short-film-vimeo-staff-pick-watch-1235228898/
-
-Exclusive: Blake Winston Rice directs the short film, which premiered at the 2025 Toronto International Film Festival before screening at over 50 festivals worldwide.
-
-### Artificial Trailer: Andrew Garfield Stuns in Luca Guadagnino s Sharp, Shocking, Funny Portrayal of OpenAI CEO Sam Altman
-Wed, 18 Nov 2026 17:01:00 +0000 — https://www.indiewire.com/news/trailers/artificial-trailer-luca-guadagnino-sam-altman-1235229086/
-
-The "Call Me by Your Name" and "Challengers" director takes on artificial intelligence in the Neon release starring Andrew Garfield.
-
-### The Comeback King Trailer: Glen Powell Is a Cancelled Country Star in Judd Apatow s Latest Directing Project
-Wed, 18 Nov 2026 16:59:23 +0000 — https://www.indiewire.com/news/trailers/the-comeback-king-trailer-glen-powell-judd-apatow-1235229108/
-
-Apatow and Powell co-wrote the Universal comedy, which also stars Madelyn Cline and a massive roster of country musicians.
-
-### Gentle Monster Review: Léa Seydoux Learns the Truth About Her Husband in Marie Kreutzer s Tough Study of Child Sex Abuse
-Wed, 18 Nov 2026 16:15:11 +0000 — https://www.indiewire.com/criticism/movies/gentle-monster-movie-review-lea-seydoux-1235193808/
-
-A tough and unflinching social drama about the predators among us — and how difficult it can be to see them for what they are.
-
-### Tilda Swinton, Mark Ruffalo, Jacques Audiard, and Others Join in Protest of Jafar Panahi s Prison Sentence
-Wed, 18 Nov 2026 15:01:25 +0000 — https://www.indiewire.com/news/general-news/jafar-panahi-prison-protested-mark-ruffalo-tilda-swinton-1235229076/
-
-In October, the Tehran Revolutionary Court sentenced Jafar Panahi to more than five years in prison, plus additional penalties such as the seizure of assets and the freezing of his bank accounts.
+It was also used in the 4K Remaster of "Se7en" to bring the film as close as possible to the original print.
 
 ## The Wrap
 
-### Jimmy Kimmel Offers Himself Up as White House Press Secretary: Let s Get Started
-Thu, 19 Nov 2026 06:06:39 +0000 — https://www.thewrap.com/creative-content/tv-shows/jimmy-kimmel-acts-as-white-house-press-secretary-monologue-joke/
+### Trump Backs Jensen Huang’s Nvidia Return: ‘No Reason to Believe’ There’s a National Security Risk
+Mon, 23 Nov 2026 15:15:07 +0000 — https://www.thewrap.com/industry-news/tech/trump-backs-jensen-huang-nvidia-ceo-return/
 
-With the White House still searching for a press secretary, Jimmy Kimmel offered himself up to replace Katie Zacharia. During Wednesday s monologue for Jimmy Kimmel Live!, the comedian highlighted how the Trump administration s messaging has been all over the place, forcing Fox & Friends to turn to former Press Secretary Karoline Leavitt. Jimmy Kimmel Live! then cut to news footage of Leavitt giving her advice on how the Trump administration should be handling the widespread tech outages . What I would say to the White House is transparency is key, Leavitt emphasized in the clip. Unless we re talking about the Epstein files, then we keep our mouths completely shut, Kimmel quipped in response. But I think that was interesting because you never hear her saying anything against the White House. But the subtext was, why don t they have a press secretary yet? It s been more than a month since Katie Zacharia exploded. And this is the longest the White House has gone without a press secretary in modern history. Though, Kimmel then teased that the search may be over, tossing his hat into the ring. Good morning, you haters and losers, Kimmel told a fake press corps while standing behind a mock-version of the James S. Brady Press Briefing Room podium. I m honored to be President Trump s new press secretary. The president has asked me to begin today by reminding you that he despises you and that you are fat stupid slobs. Okay, let s get started. You with the bad face. Kimmel then took q
+President Donald Trump praised Nvidia s decision to reinstate Jensen Huang as CEO on Monday, saying the chipmaker s co-founder poses no national security risk and that the federal government has no evidence he engaged in unlawful conduct. The NVIDIA Board of Directors has made the correct and proper decision to return Jensen Huang to the position of CEO, Trump wrote on Truth Social . Calling Huang a Great Patriot and National Treasure, Trump said Attorney General Todd Blanche had confirmed the government possessed no evidence of illegal conduct. He also urged Nvidia to continue investigating its compliance with U.S. export controls. Trump s endorsement comes after he publicly pushed for Huang s return, despite Nvidia s board declaring last Tuesday that it had no intention of reinstating him. The company reversed course Monday , saying it received input from senior U.S. government officials before concluding his reinstatement posed no national security risk. A separate independent board investigation into reports that Huang was targeted by a foreign intelligence operation remains ongoing. The post Trump Backs Jensen Huang’s Nvidia Return: ‘No Reason to Believe’ There’s a National Security Risk appeared first on TheWrap .
 
-### Taylor Swift, Diane Warren and La Bola Negra Win Hollywood Music in Media Awards
-Thu, 19 Nov 2026 06:01:37 +0000 — https://www.thewrap.com/industry-news/awards/taylor-swift-diane-warren-win-hollywood-music-in-media-awards/
+### Nvidia Stock Surges Over 32% on Jensen Huang s Reinstatement as CEO
+Mon, 23 Nov 2026 14:55:24 +0000 — https://www.thewrap.com/industry-news/business/nvidia-jensen-huang-return-stock-reaction/
 
-Jack Antonoff, Ludwig Göransson, Daniel Pemberton, Linda Perry, Taylor Swift, Diane Warren and the songwriters and composers from La Bola Negra were among the winners at the 17th annual Hollywood Music in Movies Awards, which were handed out on Wednesday night in Hollywood. In the song categories, Antonoff and Swift won for their song I Knew It, I Knew You from Toy Story 5, Warren won for One Right Here from Maserati: The Brothers, Perry won for What Lies With You from Linda Perry: Let It Die Here and Guitarricadelafuente, Raul Refree and Lucas Duran won for La Nieve from La Bola Negra. Göransson won his eighth HMMA Award for his score to The Odyssey, while the other winning film composers were Dario Marianelli for Wildwood, Daniel Pemberton for Project Hail Mary, Rock Burwell for Obsession, Kris Bowers for The Eyes of Ghana and Refree for La Bola Negra. Refree was the only composer to win for both a score and a song. TV winners included David Fleming for Widow s Bay and Marcus Bellringer Bell for the song Walk With Kings from The Greatest. In categories devoted to onscreen performances, Jaafar Jackson and Daveed Diggs won for their work in the film Michael and the TV show The Boys, respectively. Behemoth! was named the best music-themed film, biopic or musical and The Rise of the Red Hot Chili Peppers: Our Brother, Hillel won the award for the best music documentary. In the last 12 years, the winner of the HMMA for feature film has gone on to win the Oscar for Best Original 
+Shares of Nvidia surged over 32% on Monday after the chipmaker reinstated Jensen Huang as president, CEO and a member of the board of directors. Nvidia s board voted unanimously to reinstate Huang after a series of discussions and meetings with him. On Monday, the board said it was satisfied with respect to Mr. Huang’s candor and ability to lead NVIDIA and expressed confidence that his reinstatement poses no national security risk after receiving input from senior levels of the United States government. The stunning pivot comes after Huang resigned following scrutiny over multiple extramarital affairs, including one with a woman suspected of spying for China . Following his ouster, Nvidia Chief Financial Officer Colette Kress stepped in as interim CEO. “The Board believes Jensen is the right person to lead NVIDIA, and that his reinstatement is in the best interests of our stockholders, employees, partners and customers,” Nvidia Board Chair Harvey C. Jones said in a statement. “We have every confidence in Jensen and look forward to working with him as he resumes his leadership of the Company. We are grateful to Colette Kress for her outstanding service as interim CEO, in addition to her continuing responsibilities as NVIDIA’s Chief Financial Officer.” In response to concerns about Huang being a potential target of a foreign intelligence operation, Nvidia s board formed a committee of independent directors and retained independent counsel to investigate. The board reiterated th
 
-### Ethan Klein’s Estranged Wife Fights Back Tears in Return to YouTube After Revealing His Affair
-Thu, 19 Nov 2026 05:18:17 +0000 — https://www.thewrap.com/culture-lifestyle/culture/ethan-klein-estranged-wife-hila-video-update/
+### Who Gets to Question the President?
+Mon, 23 Nov 2026 14:22:08 +0000 — https://www.thewrap.com/media-platforms/journalism/trump-press-questions/
 
-Hila Klein, the podcaster and estranged wife of H3 Podcast star Ethan Klein, made her return to YouTube Wednesday evening, issuing a tearful update a month after revealing his affair . Hila, who co-hosted the “H3 Podcast” with Ethan, addressed fans in a video posted Wednesday evening, sharing how she was coping with their public split. As I m sure you all know by now, about a month ago, I found out that my husband, Ethan Klein, has been having an affair for the last six months that I know of, possibly longer, she said at the top of the video. This is a person that I ve been in a relationship with for 20 years, since I was 19. And I thought I knew him, more than anybody. At this moment, Hila began to choke back tears, noting this statement was going to be hard and that she didn t know how she would do this. We built our career together, family, kids, the whole entire thing. And I always thought we would grow old together, Hila continued. When I found out, it was like my whole entire life just shattered in front of me. And it was just like the floor just disappeared. All of a sudden, I realized that this person has been lying to me every single day. Hila then stated that Ethan s actions went against everything we ve ever talked about and any morals that I thought he stood for. I don t know who is this person. I m now divorcing Ethan, she said. I need to figure out what is my life going to look like? How do we co-parent when I can t look at him or talk to him? Where am I going t
+Welcome back to The Media Front. A Bloomberg TV reporter asked President Donald Trump a question during his visit to China on Thursday. When the president later met with Xi Jinping and Vladimir Putin, she wasn t allowed in the room. Chinese officials barred correspondent Annmarie Hordern from the trilateral meeting in Shenzhen after she questioned Trump during an earlier appearance. The White House tried to restore her access, but Chinese authorities refused. The incident highlighted China s restrictions on foreign journalists. But it also raised a question closer to home, where Trump s administration is fighting a legal battle over press access: Who decides which reporters can question the president, and what happens when officials don t like those questions? Hordern had asked Trump whether Jensen Huang, the former Nvidia CEO who resigned amid scrutiny over an affair with a woman suspected of being a Chinese spy, had been “disloyal to the United States,” according to The New York Times . Trump didn t respond. The White House s efforts to reinstate Hordern were notable, given its dispute with CNN, MS NOW and Politico. Jacqui Heinrich, Fox News correspondent and president of the White House Correspondents Association, praised the intervention as “commendable.” The three organizations sued the administration in September after Trump barred their reporters from White House grounds. A federal judge ordered their credentials restored, but the dispute continues. In an amended compl
 
-### Hakeem Jeffries Has a Warning for ‘MAGA Extremists’ After Securing Speaker Nomination
-Thu, 19 Nov 2026 04:00:32 +0000 — https://www.thewrap.com/media-platforms/politics/hakeem-jeffries-warning-maga-extremists-after-speaker-nomination/
+### Gen Z Wants to Take Its Fandom Offline And Into the Real World
+Mon, 23 Nov 2026 14:17:45 +0000 — https://www.thewrap.com/creative-content/tv-shows/gen-z-entertainment-fandom-in-person-experiences/
 
-House Speaker-designate Hakeem Jeffries issued a warning to MAGA extremists following his nomination Wednesday, noting those in the movement should be prepared to answer questions in 2027. The U.S. representative for New York s 8th congressional district, who is set to become the first Black Speaker of the House of Representatives in January, stopped by MS NOW s The Briefing with Jen Psaki on Wednesday, where he shed light on his plans for Congress agenda next year. During the conversation, Elon Musk s near $500 million investment into Republicans candidates in federal races and influence on DOGE were both brought up, with host Psaki suggesting that the tech trillionaire was trying to distance himself from the MAGA movement . He seemed to be trying to black out, memory-hole from the American public everything he did during that period of time, Psaki said. I mean, he suggested he s moderate. He suggested he doesn t even know what MAGA means. To me, it seems clear he s trying to kind of warm himself so that people don t look more closely at him. But do you think he should be investigated? Here s where Jeffries sent a message to Musk and others associated with the MAGA movement. I think that everyone who has been part of this MAGA extremist movement that has unleashed all of this carnage and damage on the American people should be prepared to answer questions as it relates to what has happened, why it s happened, he said. And, of course, from our view, how do we prevent this typ
+Second in a series exploring the fastest-growing audience for entertainment . Welcome to Decoding Gen Z. For Gen Z, much of their formative years were spent in masks or in isolation during the pandemic. The generation took midterms online, skipped homecoming dances and proms and communicated more in Snapchat groups than in-person classrooms or bars during the early 2020s. “I spent most of my last two months of my sophomore year and a weird on and off junior year talking to my classmates over Zoom,” Ty Wellemeyer, a 22-year-old education reporter for The Villages Daily Sun who lives in Oxford, Fla., told TheWrap. “I feel like some people still never recovered from that.” Now, they re making up for lost time. Six years after the pandemic, the zoomers are well into their high school and twenty-something years making decisions about the kinds of content they like and how they consume it. Key to their passions are live gatherings that offer a communal aspect and reinforces their fandom — a stark contrast from the early lonely years spent siloed into internet forums. Streamers and studios are starting to take note. An NRG study conducted in collaboration with TheWrap found that Gen Z is on par with millennials and Gen X for preferring real-world over digital experiences. Entertainment companies have capitalized on this opportunity, marketing their television and film projects tied to in-person experiences. Nearly 70 percent of Gen Zers said they like to attend in-person events or p
 
-### Taylor Swift Performs Mash-Up of ‘Toy Story 5’ Anthem and ‘Our Song’ at 2026 CMA Awards
-Thu, 19 Nov 2026 03:05:41 +0000 — https://www.thewrap.com/creative-content/music/taylor-swift-cma-awards-performance-i-knew-it-i-knew-you-our-song/
+### Final Avengers: Doomsday Trailer Explains Chris Evans Return, Endgame Fallout and More
+Mon, 23 Nov 2026 14:17:15 +0000 — https://www.thewrap.com/creative-content/movies/avengers-doomsday-final-trailer/
 
-Taylor Swift was feeling nostalgic at Wednesday s CMA Awards in Nashville, as she incorporated one of her country classics into her performance of I Knew It, I Knew You. Swift took the stage at the 60th annual awards show, hosted by Lainey Wilson for the third year in a row, to perform “I Knew It, I Knew You, which is nomination for single of the year. However, halfway through her performance of the Toy Story 5 anthem, Swift began rocking out to 2006 country hit, Our Song. She was joined onstage by fellow country legend Keith Urban, who played the banjo alongside Swift s backup singers and band. Additional celebrity cameos included Brad Paisley, Sugarland, Little Big Town, Eric Church, Lainey Wilson and Brooks & Dunn. Wednesday s performance marks the first time in decade that Swift has attended country music s biggest night and 13 years since her last performance at the show. Swift received a nomination for Toy Story 5 s “I Knew It, I Knew You,” which she produced alongside Jack Antonoff, in the single of the year category alongside Ella Langley’s “Be Her” and “Choosin’ Texas,” as well as Lainey Wilson’s “Somewhere Over Laredo” and Cody Johnson’s “The Fall.” Swift is quite well-decorated with CMA awards, with this year’s single of the year nod marking her 26th CMA nomination. She first attended the show in 2006 and won her first award in 2007 with the Horizon Award. Just two years later, she scored the Entertainer of the Year winner in 2009, and since then has stood as the y
+The final trailer for Avengers: Doomsday is here, giving fans the deepest look at the next Marvel team-up yet. And, according to the footage, they aren t necessarily the Avengers this time around. Obviously, they ll always be the Avengers. And the first half of the trailer goes a long way to explaining some of the fallout from Avengers: Endgame. The footage opens on Steve Rogers (Chris Evans) and Peggy (Hayley Atwell), who he returned to after returning the Infinity Stones to their respective timelines. We made a choice that we knew was right, Steve says solemnly. Why does it feel so wrong to lie to him? The him in question is Steve and Peggy s son, who apparently has no knowledge that his father was Captain America, or even part of the Avengers. But, Steve has to explain as much when the Fantastic Four show up at his and Peggy s home. They ve come to whatever year they re living in because by the looks of the wardrobe and hair on the Rogers family, it s far later than the 60s or 70s, so that s a question that needs answering to bring Steve back to their present in an effort to defeat Doom. Fans are treated to the briefest of Steve and Bucky hugs, and as Steve is prone to do, he delivers a rousing speech to the new team in an effort to get them to work together. It would appear that the different groups of heroes aren t getting along just yet. It seems to work though, as the final minutes of the trailer see them unite on the battlefield, spurred by James Marsden s Cyclops utt
 
-### Rob Lowe Stands by Starring in Ben Shapiro’s Confession : Why Wouldn’t I?
-Thu, 19 Nov 2026 02:48:56 +0000 — https://www.thewrap.com/creative-content/movies/rob-lowe-defends-confession-ben-shapiro-movie-role/
+### Jensen Huang Returns as Nvidia CEO After Scandal-Plagued Exit
+Mon, 23 Nov 2026 14:08:38 +0000 — https://www.thewrap.com/industry-news/tech/jensen-huang-returns-nvidia-ceo/
 
-Rob Lowe stood by his starring role in Ben Shapiro s Confession movie, defending that he s worked with writers on both ends of the political spectrum. During a Tuesday appearance on the Second Thought podcast, the West Wing alum touched on his lead performance in Confession, which was written by Shapiro and released on The Daily Wire s streaming service. Specifically, Lowe was asked point-blank if he was worried about doing a movie with a conservative media company. His answer? I m glad you asked this because it s a really, really, really interesting assessment, of not only where our world is, but where Hollywood is as well, he said. I read the script. It was written by Ben Shapiro. I called Ben and said, This is fantastic. And he was like, Well, do you think you know anybody, 50-ish leading man who would not be scared just because I wrote it? And I go, Yeah, me.' As Lowe went on, he recalled how Shapiro asked him if he was really good with it, prompting the actor to remind the conservative political commentator that he s worked with the most left-wing writers in the world. Why wouldn t I also work with the most right-wing writers in the world?' he recalled telling Shapiro. Despite being a fan of the script, Lowe admitted that Confession was a challenging and tough watch. The film, which also stars James Franco, Jennifer Jason Leigh and Nick Nolte, follows a man, named Alexei, that is arrested in 1930s Moscow and brought to Lubyanka Prison. There, he is interrogated by his fo
+Jensen Huang is returning as Nvidia CEO, staging a dramatic comeback at the artificial intelligence chip giant just 11 days after resigning amid a scandal involving extramarital affairs and national security concerns. The company s board unanimously voted to reinstate Huang as president, CEO and a director, effective immediately, Nvidia announced Monday . The decision marks a striking reversal from last Tuesday, when board chairman Harvey Jones told investors the company had no intention of bringing its co-founder back. Nvidia said the reversal followed discussions with Huang that satisfied directors about his candor and ability to lead the company, along with input from senior U.S. government officials that reassured the board his return posed no national security risk. The about-face returns Huang to the helm of the world s leading AI chipmaker at a critical moment for the industry, even as questions surrounding his personal conduct and potential exposure to Chinese intelligence remain unresolved. The Board believes Jensen is the right person to lead NVIDIA, and that his reinstatement is in the best interests of our stockholders, employees, partners and customers, Jones said in a statement. Huang resigned Nov. 12 following revelations of extramarital affairs, including one with a Chinese businesswoman suspected by U.S. intelligence officials of having ties to Beijing s intelligence services. He also faced scrutiny over relationships with Nvidia employees, including a senior
 
-### Christina Ricci Reveals Why Cher Hasn’t Spoken to Her for Nearly 30 Years
-Thu, 19 Nov 2026 01:07:00 +0000 — https://www.thewrap.com/creative-content/movies/christina-ricci-explains-cher-feud/
+### ‘Blade Runner 2099’ Review: Michelle Yeoh and Hunter Schafer Are a Seamless Pair in Ambitious Prime Video Limited Series
+Mon, 23 Nov 2026 14:00:00 +0000 — https://www.thewrap.com/creative-content/reviews/blade-runner-2099-review-amazon-michelle-yeoh-hunter-schafer/
 
-Christina Ricci revealed that her former “Mermaids” co-star Cher hasn’t spoken to her in nearly 30 years, claiming the music legend and Oscar winner has held a “grudge” over a snub from her youth. The Yellowjackets star opened up about her lack of relationship with Cher during Tuesday s appearance on Watch What Happens Live, telling host Andy Cohen that the singer was still mad at me. She holds a grudge, Ricci said. Well, when I was 19, I did some Rolling Stone thing and they interviewed her – maybe it wasn t Rolling Stone, might ve been Première. But they interviewed her and she said all these things that were not that amazing about me. As Ricci went on, she noted that Cher, who played her on-screen mother in the 1990 family dramedy that also marked Ricci feature film debut, reached out and left her a voicemail, in which she allegedly accused journalists of trying to get the worst things out of her and apologized for the situation. Why Christina Ricci and Cher lost touch… #WWHL pic.twitter.com/cZgCeN7oUn &mdash; Watch What Happens Live! (@BravoWWHL) November 18, 2026 I was 19. And so, I didn t return that message, Ricci said, explaining that she was pretty sure Cher was mad at her for never acknowledging the apology. Because I ve reached out to her since and have gotten radio silence. Nonetheless, Ricci maintained that she still adore[s] Cher, noting that she even understands why the pop sensation is upset with her. And I absolutely 100% can imagine being Cher and being like
+In the raging against the machines, we lost. “Blade Runner 2099,” the Prime Video limited series continuation of the beloved Ridley Scott and Denis Villeneuve films, quickly establishes that in the 50 years since “Blade Runner 2049,” the battle between humans and the humanoid robots known as replicants has resulted in the creations victory over their creators. It shouldn’t surprise anyone; the increasingly harsh realities of the theatrical installments all but confirmed the human race was doomed — it was all over but the crying. Now, the hunted become the hunters. On their ninth iteration, the replicants reclaim and refashion the title of Blade Runners for their own purposes as they hunt down rogue humans who try to fight back against the status quo. That’s how we’re introduced to Cora (Hunter Schafer), as she attempts to run from the LAPD’s elite Blade Runner squad, led by the steely Olwen (Michelle Yeoh). Out of options to hide from the Runners and to ensure her brother Elias (Lewis Gribben) is safe, Cora assumes the identity of a replicant and embeds herself undercover with the LAPD until she can find a piece of information needed to sell in order to punch her ticket out of the city. Replicants are hailed as “more human than human” across the franchise, but “Blade Runner 2099” is inherently focused on exploring humanity (or lack thereof) across its entire cast —machine or otherwise. Pushed to the edge with nowhere else to go, Cora is told she’s perfect to assimilate hersel
 
-### Chris Pratt to Star in The Traveler Adaptation at Paramount
-Thu, 19 Nov 2026 00:54:39 +0000 — https://www.thewrap.com/creative-content/movies/chris-pratt-to-star-the-traveler-adaptation-paramount/
+### ‘The Gilded Age’ Star Louisa Jacobson Unpacks Episode 4’s Big Reveal and Fan Frustrations With Marian
+Mon, 23 Nov 2026 03:00:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/the-gilded-age-season-4-episode-4-marian-pregnant-louisa-jacobson-interview/
 
-Chris Pratt will star in Paramount Pictures’ adaptation of “The Traveler,” based on the novel by Joseph Eckert, The Wrap has learned. “The Traveler” is part of Pratt’s first-look three-year producing deal with the studio through his Indivisible production banner, with the potential to star in select projects. Zach Lipovsky and Adam Stein will direct the film based on a screenplay by Justin Rhodes. The film will be produced by Adam Rosenberg and Jules Daly. Additional projects under Pratt’s deal include “Miami Heat,” written by Brad Copeland (“Jerry & Marge Go Large”), with Pratt (“Way of the Warrior Kid”) set to star and produce alongside Hutch Parker (“Venom: The Last Dance”). Pratt has firmly established himself as a global Hollywood powerhouse, with his films collectively earning more than $15 billion at the worldwide box office. Up next, Pratt produces and stars in “Way of the Warrior Kid” for Apple TV, an adaptation of Jocko Willink’s bestselling children’s novel that premieres Nov. 25. He also voiced Mario in “The Super Mario Galaxy Movie,” which opened in April and has grossed more than $1 billion worldwide. Pratt made a highly anticipated return to television with “The Terminal List,” which premiered in July 2022. Based on the Jack Carr novel, the series was produced through his production company, Indivisible Productions, and debuted at No. 1 on Prime Video. It was renewed for a second season, based on Carr s follow-up novel “True Believer,” which premiered Oct. 21. 
+Note: This story contains spoilers from “The Gilded Age” Season 4, Episode 4. “The Gilded Age” star Louisa Jacobson is just as frustrated with her character’s storyline as viewers, but she hopes the latest shocker in Marian Brook’s life is met with empathy rather than strife. In episode 4 of the HBO period drama, Marian found herself caught in the middle of her aunt Agnes’ (Christine Baranski) battle to organize the special dinner for President Grover Cleveland, which she was originally set to host at her home before a takedown news article led to it moving across the street to the home of Bertha Russell (Carrie Coon). The looming drama happened in unison with Marian’s own troubles — as she continued to pull away her ex-fiancé Larry Russell (Harry Richardson) after spending the night together in the Season 4 premiere, which left her overwhelmed with shame. By the end of the episode her worst fears were realized, when a sobering conversation with settlement house nurse Virginia Saville (Elizabeth Marvel) helped Marian realize she was pregnant. “We see a woman who’s so determined to make her own way, to hold on to her independence … Someone who is presented as so strong just becomes a child in front of our eyes,” Jacobson told TheWrap of the episode’s final moments. “I hope that it will help people feel empathy for her. Women had no resources, no education, no concept of how to get themselves out of a tricky situation. I hope they see the history in that moment.” Fans have been
 
-### How to Watch the 2026 CMA Awards on TV and Streaming
-Thu, 19 Nov 2026 00:45:00 +0000 — https://www.thewrap.com/creative-content/music/where-to-watch-cma-awards-2026-taylor-swift-performance/
+### Marvel Studios Confirms Hailee Steinfeld s Return as Hawkeye in Avengers: Doomsday
+Mon, 23 Nov 2026 01:47:31 +0000 — https://www.thewrap.com/creative-content/movies/hailee-steinfeld-will-be-in-avengers-doomsday/
 
-It s once again time for country music s biggest night. The 60th annual Country Music Awards return this week, and they re marking the milestone with some massive performances. Among them? None other than Taylor Swift , making her first appearance at the show in 13 years. She s nominated for her song I Knew It, I Knew You, from Toy Story 5. So, how can Swifties ensure they don t miss it? Here are all the details you ll need. What time are the CMAs this year? The 2026 CMAs will take place live at the Bridgestone Arena in Nashville on Wednesday, Nov. 18 at 8 p.m. ET. Where can I watch them? You ve got a couple of options on this one. If you d like to watch the awards show via the cable broadcast, you can tune into ABC . If you d prefer to stream it, you can do that on Disney+. The show will also be available next day on Hulu. Who s hosting this year? Lainey Wilson will host the CMAs this year, marking her third time hosting the event. Who s performing at the show? As always, the CMAs will feature performances from country music favorites. This year, that includes Luke Combs, Vince Gill, Megan Moroney, Mumford & Sons, Chris Stapleton, Lainey Wilson, Stephen Wilson Jr. and more. But, one of the biggest performances of the night will come from the one and only Taylor Swift, who last appeared on the show more than a decade ago. Swift is nominated this year for Single of the Year with “ I Knew It, I Knew You ,” from Toy Story 5, marking her 26th career CMA nomination. The post How t
+Hailee Steinfeld is officially returning to the Marvel Cinematic Universe as Kate Bishop in Avengers: Doomsday. The actress revealed the news on Disney and Marvel s Instagram accounts while promoting her new film Hexed, teasing that she had received a director’s chair for the junket with her name on it for Avengers: Doomsday, instead of the one for the Disney animated film. Hey, so I am here with my movie Hex, but it looks like they delivered a chair from different movie? she says in the Instagram Reel. The surprise delivery confirms Steinfeld’s involvement in the highly anticipated Marvel crossover, which is set to hit theaters Dec. 18. Steinfeld first joined the MCU as Bishop in the 2021 Disney+ series Hawkeye, starring opposite Jeremy Renner as Clint Barton. The series introduced Bishop as a skilled young archer who idolizes Barton and eventually teams up with him to take organized crime. By the end of the series, Bishop had emerged as a potential successor to the original Hawkeye. Her return will also further fuel speculation among Marvel fans about whether “Avengers: Doomsday” could finally bring together the Young Avengers. Steinfeld’s Kate Bishop was last seen in a post-credits scene in 2023’s The Marvels, when Kamala Khan (Iman Vellani) showed up at her apartment to recruit her for a new superhero team. Other potential members of the group include America Chavez (Xochitl Gomez), Billy Maximoff (Joe Locke), Eli Bradley (Elijah Richardson), Riri Williams (Dominique Thor
 
-### Pierce Brosnan Formally Passes the James Bond Baton to Robert Pattinson: Enjoy the Ride
-Thu, 19 Nov 2026 00:38:22 +0000 — https://www.thewrap.com/creative-content/movies/pierce-brosnan-james-bond-baton-robert-pattinson-casting/
+### Adam Driver and Steven Soderbergh Worked for Free on Scrapped Star Wars Ben Solo Movie
+Mon, 23 Nov 2026 01:06:15 +0000 — https://www.thewrap.com/creative-content/movies/adam-driver-steven-soderbergh-worked-for-free-ben-solo-star-wars-movie/
 
-Pierce Brosnan formally passed the James Bond baton to the franchise s newly minted 007 Robert Pattinson on Wednesday, writing in an Instagram post that he believes the 40-year-old actor is going to be magnificent. Enjoy the ride, he added. The actors previously co-starred together in the 9/11 romantic drama Remember Me in 2010, a project which Brosnan remembered Wednesday as full of fond memories. View this post on Instagram A post shared by Pierce Brosnan (@piercebrosnanofficial) Dear Robert, Welcome to the world of Bond, Brosnan wrote in full, sharing an Instagram post showing a black-and-white image of Pattinson dressed as the world s most famous secret agent. You are going to be magnificent. I have fond memories of our time together making Remember Me. It has been a joy to watch you create a remarkable body of work and to go from strength to strength. Enjoy the ride. Grá mor, Pierce. Wednesday s post was not the first time Brosnan has expressed fondness for Pattinson. After playing his father in Remember Me, a time that saw Pattinson building upon his blockbuster heartthrob image from the Twilight trilogy adaptations, Brosnan told local outlet Irish Central that the young star was navigating overnight fame very gracefully. “With Robert Pattinson, I have watched this young lad really acquit himself very gracefully, Brosnan said at the time. He’s doing all right with the pressure. He knows what to do and how to do it. It’s a bit overwhelming for him at times. I mean, he re
+Adam Driver and Steven Soderbergh were so passionate about their proposed Star Wars movie centered on Ben Solo that, according to the actor, they were willing to work on it for free. The two-time Oscar nominee opened up about the scrapped project during an appearance on Sunday on Sam Fragoso’s Talk Easy podcast while promoting his latest film, James Gray s Paper Tiger. During the conversation, Fragoso asked him about projects that came close to happening but ultimately fell apart, Driver immediately pointed to the planned Ben Solo film as one that left him particularly disappointed. We were going to do a Ben Solo movie, and that didn’t happen, and we worked on it for a long time, Driver said. The actor also revealed that Soderbergh, who was attached to direct the film, worked on the project without any compensation because of the confidence they had received from Lucasfilm leadership. Soderbergh did that for nothing because we were given a lot of confidence, Driver said. “Kathy’s [Kathleen Kennedy] was like, We have a 100% approval rate. We worked on it, and no one was paying us to work on it. The only reason why we re working on it is because we f ing loved the idea, how we wanted to do it. And I loved that character, and that was it. Driver said their enthusiasm for the story was the project s guiding principle, with financial considerations coming later as they tried to figure out how to make the film on a smaller budget. That was our guiding principle. All the money stuff
 
 ## Collider
 
-### The 10 Best Fantasy Book Masterpieces of All Time, Ranked
-Thu, 19 Nov 2026 13:32:12 GMT — https://collider.com/best-fantasy-book-masterpieces-all-time-ranked/
+### Tom Holland Officially Returns as Spider-Man in Stunning New Look
+Mon, 23 Nov 2026 15:19:02 GMT — https://collider.com/spider-man-brand-new-day-screenx-exclusive-variant-posters/
 
-Fantasy, at its best, is not escapism but expansion. Indeed, the greatest fantasy stories create moral systems, histories, and mythologies that feel tangible. They also use the impossible to clarify the deeply human: dragons, wizards, hobbits, and kings become vehicles to explore themes like power, language, identity, and loss.
+Tom Holland has been playing Spider-Man for a decade now, and while Peter Parker has already found himself caught up in some of the Marvel Cinematic Universe's biggest adventures , his latest solo movie has given him another chance to take center stage. Spider-Man: Brand New Day brought the character back to theaters earlier this year, with Destin Daniel Cretton taking over directing duties and a cast that includes several familiar Marvel faces. Now, with the movie preparing to return to the big screen for the holidays, fans are getting another opportunity to see Spider-Man in a format that offers a rather different perspective on his adventures.
 
-### Henry Cavill’s ‘Voltron’ Officially Abandons Theatrical Release Plan
-Thu, 19 Nov 2026 13:30:12 GMT — https://collider.com/henry-cavill-voltron-skips-theaters-prime-video-release/
+### Kevin Hart's Animated Comedy Officially Reveals Star-Studded Season 2 in New Trailer
+Mon, 23 Nov 2026 15:00:12 GMT — https://collider.com/lil-kev-season-2-trailer-kevin-hart-guest-stars/
 
-Voltron may be one of the biggest robots around, but he won't be defending the big screen. The new live-action adaptation of the classic animated series is set to go straight to streaming, without getting a theatrical release. The film will star Henry Cavill , Rita Ora , and Sterling K. Brown .
+Kevin Hart is as omnipresent as ever as 2026 winds down. The comedian, known for everything from the rom-com About Last Night to the buddy action flick Central Intelligence with Dwayne Johnson , has done it all this year, from being roasted by a series of celebrities hosted by Shane Gillis to helming his own stand-up competition in Funny AF with Kevin Hart , and, of course, starring in movies like 72 Hours . This Christmas, he's also getting back in the game with Jumanji: Open World , wrapping up the trilogy of live-action Jumanji reboot movies with a chaotic final act that brings the jungle to the real world. Before that, though, he's heading back to the 1990s once more to explore more stories based on his childhood.
 
-### ‘Doctor Who’ Officially Gets One Step Closer to Returning
-Thu, 19 Nov 2026 13:30:12 GMT — https://collider.com/doctor-who-producer-shortlist-confirmed-bbc/
+### 'Avengers: Doomsday's Final Trailer Signals the End of an Era for the MCU
+Mon, 23 Nov 2026 14:16:18 GMT — https://collider.com/avengers-doomsday-new-trailer-robert-downey-jr-doctor-doom/
 
-The future of Doctor Who just got one step closer. It's been a whirlwind couple of years for Whovians, who have had to sit and watch their favorite show go through its most difficult period since the indefinite hiatus of 1989. A disastrous partnership with Disney and the breakdown between the once-beloved showrunner Russell T. Davies and Doctor Who fans left the show in a tricky spot, with the BBC responding by putting it out to competitive tender earlier this year.
+For more than a decade, Robert Downey Jr. was the face of the Marvel Cinematic Universe, saving the world as Tony Stark and eventually sacrificing himself to defeat Thanos in Avengers: Endgame . Seven years later, he's back in the franchise, although this time, the Avengers have a very different reason to be worried about seeing his face. The actor's return as Doctor Doom has been one of Marvel's biggest talking points since it was first announced, particularly with so many familiar superheroes preparing to face him. Now, with the next Avengers movie less than a month away, it's almost time to see what all that secrecy has been building toward.
 
-### We Officially Ranked the 10 Best Comedy Movies of All Time
-Thu, 19 Nov 2026 13:18:12 GMT — https://collider.com/best-comedy-movies-all-time-ranked-officially/
+### ‘Dungeon Crawler Carl’ Is Officially Changing Fantasy TV’s Winning Formula
+Mon, 23 Nov 2026 14:12:12 GMT — https://collider.com/dungeon-crawler-carl-litrpg-fantasy-tv-genre/
 
-Is there anything more innately satisfying than laughing while watching a movie? It's certainly the simplest and most responsive pleasure of the human body, but it's also arguably the most difficult task to pull off for actors, writers, directors, and crew members. Beyond just the jokes, comedies can also feature impeccable craft, cinematic wonder, and profound commentary via satire. Comedy is generally subjective, but this list of 10 masterpieces of laughter, hijinks, and absurdity sums up the best of the genre over the last 100 years of filmmaking.
+Fantasy is a major staple for television, whether it's Xena: Warrior Princess leading a wave of syndicated action/adventure shows in the 90s or Game of Thrones spearheading the "Peak TV" era. Most streaming services also have one big fantasy series in their libraries—see Percy Jackson and the Olympians on Disney+ or The Lord of the Rings : The Rings of Power on Prime Video. Peacock is about to get in on the fantasy genre with its upcoming adaptation of a beloved book series, and it might revolutionize the genre by bringing a different flavor of fantasy to the table .
 
-### 5 Most-Watched TV Shows Finding New Life on Streaming
-Thu, 19 Nov 2026 13:08:12 GMT — https://collider.com/most-watched-tv-shows-streaming-new-life/
+### Apple TV Officially Scores a Worldwide No. 1 With Its New Crime Thriller
+Mon, 23 Nov 2026 13:00:12 GMT — https://collider.com/12-12-12-apple-tv-streaming-success-november-2026/
 
-The entire point of streaming services was to keep giving the viewers something new to watch. Platforms like Netflix and HBO Max release fresh shows every single week, and most of them are forgotten as soon as the next big thing arrives. That makes it all the more impressive when a series manages to hold on to its audience, or even better, find a whole new show years later.
+The year may be drawing to a close in a few weeks, and while traditional networks wind down scripted programming in anticipation of the holidays, streaming services like Apple TV continue to keep subscribers entertained. The final weeks of the year should be relatively quiet, but Apple TV has several movies and TV shows airing or set to begin before the world ushers in 2027. The streamer recently launched two crime thrillers that have taken the world by storm, but one has overtaken the other to become the most-watched show globally.
 
-### Netflix Officially Reveals New Adults-Only Series From 'The Amazing World of Gumball' Creators
-Thu, 19 Nov 2026 13:00:12 GMT — https://collider.com/living-the-dream-trailer-george-gendi-netflix/
+### 7 Western Movies That Hooked Me From the First 10 Minutes
+Mon, 23 Nov 2026 12:51:12 GMT — https://collider.com/western-movies-hooked-me-first-10-minutes/
 
-BAFTA-nominated creator George Gendi has spent the last decade-plus building up an impressive, yet under-the-radar resume in animation. Originally breaking into the industry as an animator on the beloved Cartoon Network favorite The Amazing World of Gumball , he's since spearheaded his own series, Apple & Onion , to great success, producing, writing, and co-starring with Richard Ayoade . Across two seasons and a total of 76 episodes, it earned a BAFTA Children's Award nomination for international animation and an Annie Award nod, cementing Gendi as a multi-hyphenate creative to watch going forward. Now, his next series is nearly here at Netflix , though it's decidedly more adult than his previous work.
+Although there are more phenomenal Westerns out there than one could probably count (or have time to watch), some just catch the eye from the very beginning. Whether it's a breathtaking shootout or robbery sequence, or maybe just the understated nature of the impending threat at hand, plenty of horse operas out there rope in the audience from their opening moments — not to mention the first 10 minutes. If you're looking for a Western that will do just that, look no further.
 
-### Ridley Scott’s Blade Runner Franchise Officially Returns in 1 Week
-Thu, 19 Nov 2026 13:00:12 GMT — https://collider.com/blade-runner-2099-prime-video-november-25-premiere/
+### 6 Most Unwatchable Miniseries of All Time, Ranked
+Mon, 23 Nov 2026 12:21:12 GMT — https://collider.com/most-unwatchable-miniseries-all-time/
 
-Somewhere under all that rain in Ridley Scott ’s Blade Runner , there’s a Southern California beach town. You’d hardly know it from the amount of daylight Harrison Ford ’s Rick Deckard gets to see. Even when Denis Villeneuve took audiences back to Los Angeles in Blade Runner 2049 , he left Ryan Gosling out in the snow. Now the franchise is heading for Santa Monica, where it’s hot, it’s sticky, and for once you can actually see what somebody built on top of the old city . Showrunner Silka Luisa has a name for it: she calls it “sunshine noir.”
+While the standard method of releasing episodic television series is to follow a seasonal format that expands and grows the story and characters throughout varying storylines in batches of episodes and seasons, the miniseries condenses this down to only a single season's worth of episodes. Designed from the ground-up to be a single-season experience, this makes for the best of both worlds in terms of finding the most out of the episodic format while telling a concise story that doesn't have the obligation to continue with subsequent seasons.
 
-### One of the Biggest Sitcoms Ever Made Is Officially Free
-Thu, 19 Nov 2026 13:00:12 GMT — https://collider.com/two-and-a-half-men-streaming-pluto-tv-november-2026/
+### 6 Thrillers From the '90s That Are 10/10 Masterpieces
+Mon, 23 Nov 2026 12:20:12 GMT — https://collider.com/thrillers-90s-perfect-masterpieces/
 
-The 2000s were a great time for TV audiences as sitcoms ruled the small screen and pop culture conversations. From Ross ( David Schwimmer ) and Rachel’s ( Jennifer Aniston ) on-again, off-again relationship keeping fans on the edge in Friends to Michael Scott’s ( Steve Carell ) relatable antics in The Office , Carrie Bradshaw’s ( Sarah Jessica Parker ) unpredictable dating life in Sex and the City to Sheldon ( Jim Parsons ) and Penny’s ( Kaley Cuoco ) adorable friendship in The Big Bang Theory – fans were having a great time.
+The 1990s were the time to be the biggest movie fans, truly. Seriously, can we name a more inspiring, action-packed, and thrilling decade for cinema than this one? From the biggest summer blockbusters to the most profound Best Picture winners, this epic decade delivered some of our most cherished movie memories. It defined cinema in the 20th century and provided us with nonstop excitement in every genre. Yet, despite all genres shining this decade, no one can deny it was a time dominated by thrillers.
 
-### The 15 Best Fantasy Movie Franchises Based on Books, Ranked
-Thu, 19 Nov 2026 12:56:12 GMT — https://collider.com/best-fantasy-movie-franchises-based-on-books/
+### ‘Final Destination’ Director Officially Returns to ‘9-1-1’ for Season 10
+Mon, 23 Nov 2026 12:00:12 GMT — https://collider.com/james-wong-final-destination-9-1-1season-10-directing/
 
-Recent years have seen a real explosion in the fantasy genre. However, there are popular and successful fantasy franchises that not only have a defining impact on the genre, but also on viewers’ experience.
+9-1-1 Season 10 has been a rollercoaster. From an unexpected volcanic eruption in Los Angeles to deeply personal arcs for characters like Buck ( Oliver Stark ), Athena ( Angela Bassett ), and Hen ( Aisha Hinds ), the season is leaving it all on the table. It has already aired a third of its 18 episodes and goes on break Thursday, November 19. The fall finale concluded on a high note with a reconciliation between Buck and Eddie ( Ryan Guzman ), and Hen finally confronting some trauma. It wouldn't be 9-1-1 without a life-threatening cliffhanger, and this time, Athena's life is in danger. The season resumes early next year on January 7, picking up the existing arcs while introducing new ones.
 
-### 7 Great Sci-Fi Movies That Come Close to Perfection
-Thu, 19 Nov 2026 12:43:12 GMT — https://collider.com/best-sci-fi-movies-close-to-perfect/
+### 9 Classic Fantasy Books Perfect To Read More Than Once
+Mon, 23 Nov 2026 11:11:12 GMT — https://collider.com/classic-fantasy-books-perfect-read-more-than-once/
 
-No science fiction movie is perfect. Even the sci-fi movies we say are truly perfect aren't actually perfect because perfection is an unreachable ideal, and when movies get close enough to it, it's easy enough to anoint them. It's admirable, and they should be acknowledged. So if we're going to acknowledge those movies as perfection, we should also acknowledge those that come close to it as well, the ones that reach a robotic hand up and touch the stars before being brought back down to Earth.
+There are certain books that stay with you throughout your life. Others, you come back to, perhaps unexpectedly, and they provide a new meaning. This is especially true of genres like fantasy , which tend to attract readers of all ages, with very different understandings of the world. As a child or teenager, one may be enthralled by a book’s plot, reading as fast as possible. For an older reader, or a person who has read the book before, the story serves another purpose. The act of reading becomes about the joys of the journey : breaking down the worldbuilding, looking for clues for a plot twist, or understanding lessons that went over one’s head the first time around.
 
