@@ -13,7 +13,6 @@ sources:
     url: https://80.lv/articles/nicalis-removed-ai-music-from-the-binding-of-isaac-repentance-after-users-noticed-it/
 artistView:
   take: "This mode was built to hit a date rather than a standard, and audio is the discipline a date eats first, because to anyone not wearing headphones a placeholder and a deliverable sound identical. Shipping a finished stereo master also costs the mix: nothing inside it can be ducked under a sting or thinned out for a quiet room, so you buy a week and give up the ability to direct the sound for the life of the build."
-draft: true
 ---
 
 Isaac players argue about the soundtrack. They have been doing it since 2014, when
