@@ -17,7 +17,6 @@ artistView:
   misses:
     - "Tooling: the Actor Gameplay Framework is the quieter half of this and the more expensive one. Editor utilities, placement scripts and asset-validation tools are written against Actors and Components, and a graph-to-Verse converter does nothing for any of them."
     - "Onboarding: Blueprints is the layer where people who do not write code ship work. Verse is text. Epic has not said what replaces the visual on-ramp, and a studio's environment artists wiring their own interactions is not a small thing to lose."
-draft: true
 ---
 
 Epic has stopped pretending there is a gentle version of this. In a post from
