@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0.6" y2="1">
+      <stop offset="0" stop-color="#18011F"/>
+      <stop offset="1" stop-color="#D6294E"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#g)"/>
+  <text x="90" y="170" font-family="Helvetica, Arial, sans-serif" font-size="34" fill="#FFC2CE" letter-spacing="6">BOLTGUN 2, 13 VERDICTS</text>
+  <text x="90" y="350" font-family="Helvetica, Arial, sans-serif" font-size="150" font-weight="700" fill="#FFFFFF">8 OF 10</text>
+  <text x="90" y="440" font-family="Helvetica, Arial, sans-serif" font-size="66" font-weight="700" fill="#FFFFFF">SPREAD: 5 TO 9.5</text>
+  <text x="90" y="535" font-family="Helvetica, Arial, sans-serif" font-size="40" fill="#FFC2CE">Pixel art rendered from 3D, eight angles each.</text>
+  <text x="90" y="600" font-family="Helvetica, Arial, sans-serif" font-size="40" fill="#FFC2CE">That pipeline is why enemy variety is thin.</text>
+</svg>
