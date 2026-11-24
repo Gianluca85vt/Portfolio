@@ -47,7 +47,6 @@ artistView:
   misses:
     - "Enemy design: a sprite roster costs per enemy type rather than per instance, and the thin variety reviewers describe is what that bill looks like from the player's side."
     - "Encounter design: reviewers describe enemies snagging on geometry and ambushes that telegraph, which points at arenas built to a template."
-draft: true
 ---
 
 Every cultist you shoot in Boltgun 2 is a 3D model that was photographed to
