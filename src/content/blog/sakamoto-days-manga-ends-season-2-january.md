@@ -17,7 +17,6 @@ artistView:
   misses:
     - "Backgrounds: in the promos the busiest exchanges cut to speed-line fields and flat gradients at exactly the moment the manga was drawing a cluttered room, which is where a weekly schedule shows through."
     - "Effects compositing: the smoke and impact elements sit on top of the plate rather than taking any light from it, so a convenience store lit by fluorescents and a street lit by sodium end up with the same grey puffs."
-draft: true
 ---
 
 Weekly Shonen Jump issue 52 went on sale in Japan on Monday with chapter 284 of
