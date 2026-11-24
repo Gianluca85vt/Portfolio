@@ -36,6 +36,11 @@ Four days, start to finish.
 
 ## Audio is the asset nobody looks at
 
+<figure>
+  <img src="/img/blog/binding-of-isaac-ai-music-removed/shot-02.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>Nicalis, via the official The Binding of Isaac: Repentance+ Steam page</figcaption>
+</figure>
+
 A prop crosses several desks before it reaches a retail build. Reference, a modeller,
 a tech-art check on the UVs and the texel budget, art direction signing off the
 silhouette, a lighting pass that discovers it was never meant to be seen from that
