@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Sakamoto Days ends at chapter 284, eight weeks before the anime returns">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0.7" y2="1">
+      <stop offset="0" stop-color="#18011F"/>
+      <stop offset="0.6" stop-color="#4A2E12"/>
+      <stop offset="1" stop-color="#C8891B"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <text x="90" y="140" fill="#C8891B" font-family="Helvetica,Arial,sans-serif" font-size="29" font-weight="700" letter-spacing="7">SAKAMOTO DAYS</text>
+  <text x="90" y="330" fill="#FFFFFF" font-family="Helvetica,Arial,sans-serif" font-size="200" font-weight="700">284</text>
+  <text x="90" y="398" fill="#F3E7D2" font-family="Helvetica,Arial,sans-serif" font-size="40" font-weight="600">chapters. Six years. Done.</text>
+  <text x="90" y="470" fill="#D8C6A8" font-family="Helvetica,Arial,sans-serif" font-size="30" font-weight="500">Season 2 lands in January. The last</text>
+  <text x="90" y="512" fill="#D8C6A8" font-family="Helvetica,Arial,sans-serif" font-size="30" font-weight="500">volume is not out until April.</text>
+</svg>
