@@ -6,6 +6,8 @@ cover: /img/video/U9QQZWzm9Ac.jpg
 excerpt: Epic showed UE6 at Unreal Fest, Verse is becoming the gameplay language, and half the internet decided C++ is dead.
 ---
 
+*Update, 24 November 2026: Epic has reversed the commitment this piece rests on. A post from EVP of Development Marcus Wassmer on 20 November says Blueprints and the Actor Gameplay Framework will not be in Unreal Engine 6 at all, Early Access included, with Verse and Scene Graph taking over and AI expected to convert UE5 projects. The section below saying Actors and Blueprints will be in early versions of UE6 is no longer true, and the late-2027 Early Access window should be treated as stale — Epic gave no date in the new post. See [what the removal costs an artist's pipeline](/blog/unreal-engine-6-drops-blueprints/). Everything here about C++, the renderer and UE5 skills transferring still stands.*
+
 Epic revealed **Unreal Engine 6** properly at Unreal Fest in Chicago this year, after
 teasing it back in May at the Rocket League Championship Series in Paris. Rocket League
 gets to be the first commercial game ported over.

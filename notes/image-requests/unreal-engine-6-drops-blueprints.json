@@ -1,0 +1,7 @@
+{
+  "slug": "unreal-engine-6-drops-blueprints",
+  "urls": [],
+  "credit": "Cover is Gianluca's own Unreal Engine 5.2 environment still (/img/video/3p3rGYd2THU.jpg), already in the repository.",
+  "comparison": false,
+  "note": "No fetchable press asset. Epic's newsroom (unrealengine.com), gamedeveloper.com and pocketgamer.biz all failed DNS from the writer's sandbox, so no official hero image URL could be identified, and urls must be direct image links rather than article pages. One WebSearch was spent looking for an Epic/Unreal press kit and returned only forum-hosted and legacy-docs logo links, which are not usable press assets. No youtubeId: Epic published this as a text post with no accompanying video, and no verified UE6 video id was available. The cover is a real image, not the drawn SVG."
+}

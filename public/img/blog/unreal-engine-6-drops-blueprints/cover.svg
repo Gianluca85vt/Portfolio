@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#18011F"/>
+      <stop offset="1" stop-color="#1F6F5C"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <text x="80" y="150" fill="#C9A8CF" font-family="Arial, sans-serif" font-size="30" letter-spacing="3">UNREAL ENGINE 6</text>
+  <text x="80" y="290" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="128" font-weight="bold">Blueprints</text>
+  <text x="80" y="400" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="104" font-weight="bold">are out</text>
+  <rect x="80" y="440" width="190" height="5" fill="#1F6F5C"/>
+  <text x="80" y="520" fill="#C9A8CF" font-family="Arial, sans-serif" font-size="34">Early Access included. So is the</text>
+  <text x="80" y="568" fill="#C9A8CF" font-family="Arial, sans-serif" font-size="34">Actor Gameplay Framework.</text>
+  <text x="80" y="640" fill="#9FD9C6" font-family="Arial, sans-serif" font-size="28">Verse + Scene Graph take over. AI is the migration plan.</text>
+</svg>
