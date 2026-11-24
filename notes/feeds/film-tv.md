@@ -1,170 +1,170 @@
-# Film & TV — harvested 2026-11-24T03:02:58.281Z
+# Film & TV — harvested 2026-11-24T15:16:14.356Z
 
 ## Variety
 
-### Woody Harrelson Turned Down Haymitch Offer Twice: I Didn’t ‘Think There Was Enough to Do’ in ‘The Hunger Games’
-Tue, 24 Nov 2026 02:42:27 +0000 — https://variety.com/2026/film/news/woody-harrelson-turned-down-haymitch-the-hunger-games-1236956694/
+### Murder of JonBenet Ramsey Trailer Puts Child s Parents Under the Microscope
+Tue, 24 Nov 2026 15:14:27 +0000 — https://variety.com/2026/tv/news/murder-of-jonbenet-ramsey-trailer-netflix-1236956945/
 
-While a certain generation might associate Woody Harrelson most with his role as Haymitch Abernathy in the billion-dollar “Hunger Games” franchise, the actor has admitted he needed convincing to sign on for the dystopian film. During a recent Vanity Fair interview alongside his “The Hunger Games: Sunrise on the Reaping” co-star Joseph Zada (who plays [ ]
+Netflix has released the first full trailer for the upcoming limited series The Murder of JonBenét Ramsey. In the trailer, series stars Melissa McCarthy and Clive Owen play Ramsey s parents, who come under intense scrutiny from police and the media after their daughter is found dead. Check out the full trailer below. As previously reported, [ ]
 
-### Marathi Crime Drama Hurda – That Tight Green Top Puts a Journalist s Masculinity Under the Microscope at WAVES Film Bazaar
-Tue, 24 Nov 2026 02:40:37 +0000 — https://variety.com/2026/film/markets-festivals/marathi-crime-drama-hurda-masculinity-microscope-1236956699/
+### Tidal Bans AI-Generated Music
+Tue, 24 Nov 2026 15:06:26 +0000 — https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/
 
-Apurv Gaikwad is presnting his debut feature Hurda – That Tight Green Top, a Marathi-language crime drama adapted from Atharva Pandit s novel, to the Co-Production Market at WAVES Film Bazaar. The film follows Chitranshu, a journalist investigating the mysterious deaths of three young sisters in a village in Maharashtra. When he returns to the village [ ]
+The music streaming service Tidal said Tuesday that it would ban tracks it believes are completely AI-generated starting next month, a move its leader believes “will resonate with both artists and listeners alike.” The service will remove the AI tracks starting Dec. 9, making Tidal the first music streaming platform to ban AI music entirely. [ ]
 
-### Bela Bajaria Reflects on Her Netflix Experience and Says Stay Tuned at International Emmy Awards
-Tue, 24 Nov 2026 02:40:00 +0000 — https://variety.com/2026/tv/news/bela-bajaria-netflix-stay-tuned-international-emmy-awards-1236956315/
+### Sweden’s Oscar Entry Adult Supervision Closes Further Deals (EXCLUSIVE)
+Tue, 24 Nov 2026 15:00:00 +0000 — https://variety.com/2026/film/global/sweden-oscar-entry-adult-supervision-further-deals-1236956858/
 
-Former Netflix executive Bela Bajaria put the emphasis on her belief in the transformative power of storytelling while accepting the Founders Award Monday night at the International Emmy Awards in New York. Bajaria was ousted from her role as chief content officer of Netflix in a very public fashion last month amid a larger shake-up [ ]
+“Adult Supervision,” Sweden’s entry for best international feature film at the Academy Awards, has closed further distribution deals. The latest round of international sales, handled by Heretic, include Filmin for Spain, Lighthouse Entertainment for Germany, Pictureworks for India, Nachson Films for Israel and Xenix for Switzerland. Discussions for France are at an advanced stage. The [ ]
 
-### Shanghai Golden Goblet Winner Ridham Janve Stages a Goan Village Death Watch in Goodbye Mr D Mello at WAVES Film Bazaar
-Tue, 24 Nov 2026 02:31:53 +0000 — https://variety.com/2026/film/markets-festivals/shanghai-winner-ridham-janve-goan-death-watch-dark-comedy-1236956692/
+### Indian Feature Carretera Austral Lines Up Chilean Partner for Southern Chile Shoot (EXCLUSIVE)
+Tue, 24 Nov 2026 14:51:28 +0000 — https://variety.com/2026/film/markets-festivals/indian-feature-carretera-austral-chilean-partner-praxia-1236956925/
 
-Ridham Janve, whose Hunter s Moon won the Golden Goblet Award for best screenplay at the Shanghai International Film Festival this year, is bringing Goodbye Mr D Mello, a dark comedy set in a Goan village, to the Co-Production Market at WAVES Film Bazaar. The film centers on an elderly professor who announces on his village WhatsApp [ ]
+Three friends from India take on one of the most remote roads on the planet in Carretera Austral – A Journey to the End of the World, a fiction feature that Mumbai-based Spherecho Productions plans to shoot in southern Chile with help from Chilean outfit Praxia Producciones. The two companies signed a letter of intent [ ]
 
-### Interactive Films The Run, Kaiju Princess, Back From the Other World Hit Taiwan Cinemas as Audiences Vote on Endings by Smartphone (EXCLUSIVE)
-Tue, 24 Nov 2026 02:18:00 +0000 — https://variety.com/2026/film/news/interactive-films-the-run-kaiju-princess-taiwan-cinemas-1236956688/
+### Thanksgiving Box Office: Focker In-Law and Disney s Hexed Vie for No. 2 Behind Sunrise on the Reaping
+Tue, 24 Nov 2026 14:51:18 +0000 — https://variety.com/2026/film/box-office/thanksgiving-box-office-projections-sunrise-on-the-reaping-focker-in-law-disney-hexed-1236956070/
 
-Moviegoers in Taiwan will be able to steer the outcome of three feature films with their phones, as interactive cinema outfit Next Interactive Studio and exhibitor Showtime Cinemas roll out a run of titles opening one after another, starting Nov. 27 with English-language survival thriller The Run. Audiences scan a QR code on the screen [ ]
+Movie theater owners are hoping for a Thanksgiving box office feast. Lionsgate s The Hunger Games: Sunrise on the Reaping is poised to dominate over the holiday with projections of $80 million to $90 million between Wednesday and Sunday. That s after the dystopian prequel launched last weekend to $120 million, registering as the fifth-largest domestic debut [ ]
 
-### LA Skins Fest Concludes 20th Year Celebrating Indigenous Artists
-Tue, 24 Nov 2026 01:15:00 +0000 — https://variety.com/2026/film/news/la-skins-fest-20-years-1236956545/
+### India-Chile Feature The Fragile Empire of Ice to Span Antarctica, the Arctic and the Himalayas (EXCLUSIVE)
+Tue, 24 Nov 2026 14:29:33 +0000 — https://variety.com/2026/film/markets-festivals/india-chile-fragile-empire-of-ice-three-poles-co-production-1236956896/
 
-The 20th annual LA Skins Fest concluded on Sunday following the five-day celebration of Native American cinema and special screenings at the TCL Chinese Theatre. Since its founding, the festival has become a platform for Indigenous filmmakers to showcase their work, connect with entertainment industry professionals and reach new audiences. It also extends its mission [ ]
+Chilean filmmaker Jorge López Sotomayor and Indian production company Pantellisense have signed a letter of intent to co-produce The Fragile Empire of Ice, a feature that the partners plan to open up from Antarctica to the Arctic and the Himalayas. The agreement was signed at the WAVES Film Bazaar, the market component of the International [ ]
 
-### Zosia Mamet Slams ‘Mad Men’ Boss Matthew Weiner as ‘Horrible’ Because He ‘Rules With Fear’: ‘He Dressed Me Down for 45 Minutes’
-Tue, 24 Nov 2026 00:48:48 +0000 — https://variety.com/2026/tv/news/zosia-mamet-mad-men-matthew-weiner-1236956628/
+### U2 Announces North American Leg of Greatest Show on Earth Global Stadium Tour for 2027
+Tue, 24 Nov 2026 14:15:00 +0000 — https://variety.com/2026/music/news/u2-announces-north-american-leg-greatest-show-on-earth-tour-1236956892/
 
-Zosia Mamet recently revealed that her “absolutely horrible” experience working with showrunner and producer Matthew Weiner on the set of “Mad Men” caused her to quit the series after just five episodes. “All the other actors were wonderful, but he really was like the Catholic Church back in the day, like that bro rules with [ ]
+U2 has announced the North American leg of the Carnaval De Luz Presents: The Greatest Show on Earth World Tour 2027. The stadium tour includes 15 stadium shows set for the United States and Canada featuring support from Stephen Wilson Jr. and the War on Drugs. The North American leg kicks off on August 13 [ ]
 
-### Is Vanity Fair’s Hit Piece on Taylor Swift Really Journalism?
-Tue, 24 Nov 2026 00:12:14 +0000 — https://variety.com/2026/music/columns/taylor-swift-vanity-fair-hit-piece-journalism-1236956512/
+### Abortion Dark Comedy Nose Bone Takes Top Cash Grant as India s WAVES Film Bazaar 2026 Wraps
+Tue, 24 Nov 2026 14:15:00 +0000 — https://variety.com/2026/film/markets-festivals/abortion-dark-comedy-nose-bone-waves-film-bazaar-winners-1236956890/
 
-After word hit the street some days back that Vanity Fair was imminently going to publish an extensively reported hit piece on music s biggest superstar, there was some anticipation that Monday might turn out to be a bad day for Taylor Swift. Instead, it was just a bad day for journalism. As attention-seeking magazine articles [ ]
+Garima Pura s Nose Bone, a dark comedy about a young Punjabi woman racing to pay for an abortion, won the top $10,000 NFDC cash grant in the Co-Production Market as WAVES Film Bazaar 2026 closed in Goa on Tuesday with its awards ceremony. Pura, a co-writer of the Oscar-winning documentary The Elephant Whisperers, is producing [ ]
 
-### ‘Michael’ Director Antoine Fuqua Accused of Assault, Battery by L.A. Bar Manager
-Mon, 23 Nov 2026 23:44:21 +0000 — https://variety.com/2026/film/news/michael-director-antoine-fuqua-sued-assault-battery-1236956526/
+### ‘SNL’ Heads to France With Canal+, NBCUniversal Unveiling Cast and Manu Payet as First Host (EXCLUSIVE)
+Tue, 24 Nov 2026 13:37:36 +0000 — https://variety.com/2026/tv/global/snl-heads-france-canal-nbcuniversal-cast-manu-payet-1236956855/
 
-“Michael” director Antoine Fuqua has been accused of assault, battery and intentional infliction of emotional distress by a Los Angeles bar manager following an incident back in February during which Fuqua allegedly pulled a gun on and struck the employee in the head. In a 10-page civil claim filed Friday in the Los Angeles Superior [ ]
+“Saturday Night Live” is getting a French makeover, with comedian and actor Manu Payet set to host the inaugural episode on Dec. 19. Titled “SNL France,” the new French adaptation will air on pay-TV channel Canal+, which has broadcast the original American “SNL” for more than a decade. The 52-minute episode will air live in [ ]
 
-### Inside the Macy’s Thanksgiving Parade at 100: Massive Minions, K-Pop Stars and ‘Sorcerer’s Apprentice’ Mickey Mouse
-Mon, 23 Nov 2026 23:43:20 +0000 — https://variety.com/2026/artisans/news/building-the-macys-thanksgiving-day-parade-100-anniversary-1236955925/
+### Netflix Partnering With BBC to to Bring Preschool Shows to Streamer, Fund New Commissions
+Tue, 24 Nov 2026 13:00:21 +0000 — https://variety.com/2026/tv/global/netflix-bbc-deal-preschool-shows-new-commissions-1236956807/
 
-The 100th Macy’s Thanksgiving Day Parade is just two days away. Each year, thousands line the streets and millions more tune in around the country to watch the iconic balloons, floats and performers parade through New York City. Titled “The Greatest Celebration,” this year’s event promises to go all out, featuring more balloons and brand-new [ ]
+Netflix has partnered with the BBC to bring a number of shows from its preschool channel CBeebies, including Teletubbies, Hey Duggee and Numberblocks, to the streamer. As part of a six-month trial, 24 programs from the CBeebies library will be made available via a dedicated CBeebies-branded hub from Dec. 2 in the U.K. The titles [ ]
 
 ## The Hollywood Reporter
+
+### David Fincher Says He Turned Down The Rings of Power, Calls DC Studios Dysfunctional
+Tue, 24 Nov 2026 15:01:23 +0000 — https://www.hollywoodreporter.com/tv/tv-news/david-fincher-lord-of-the-rings-of-power-1236762026/
+
+The director says he was asked to take on 'The Lord of the Rings' TV series, but balked at the "corporate" nature of the job.
+
+### Jason Segel Boards Meeting Your Maker, Short About a Suicidal TV Puppet, as Executive Producer (Exclusive)
+Tue, 24 Nov 2026 14:45:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/jason-segel-meeting-your-maker-short-film-executive-producer-1236761095/
+
+Written and directed by Gregory J.M. Kasunich, the Oscar-qualified dark comedy short stars Jonathan Kite ('2 Broke Girls') and Otis, a depressed kids' TV puppet star who must confront his creator.
+
+### Skydance Products and Publishing Sets Leadership Team Under Josh Silverman
+Tue, 24 Nov 2026 14:25:56 +0000 — https://www.hollywoodreporter.com/business/business-news/skydance-products-publishing-sets-leadership-josh-silverman-1236762013/
+
+Silverman's team will add oversight of DC Comics, joining existing product and publishing leaders.
+
+### How Landman Star Michelle Randolph Found Love In a Rental Car
+Tue, 24 Nov 2026 14:15:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/michelle-randolph-interview-landman-clashing-through-snow-1236760773/
+
+After stealing scenes in not one but two Taylor Sheridan shows, the 29-year-old actress takes the wheel of Prime Video's new holiday romcom 'Clashing Through the Snow' — because "sometimes you just want a predictable ending."
+
+### Sasha Velour s Travesty Sets Off-Broadway Debut (Exclusive)
+Tue, 24 Nov 2026 14:00:00 +0000 — https://www.hollywoodreporter.com/lifestyle/arts/sasha-velour-travesty-off-broadway-debut-1236760638/
+
+Marking the 'RuPaul's Drag Race' winner's first off-Broadway showing, Feb. 28 will be opening night.
+
+### I See Buildings Fall Like Lightning Tops British Independent Film Awards Craft Winners
+Tue, 24 Nov 2026 12:45:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/i-see-buildings-bifa-craft-award-winners-full-list-film-1236761903/
+
+Shaheen Baig has claimed another best casting BIFA for her work on the Anthony Boyle, Joe Cole, Daryl McCormack, Lola Petticrew and Jay Lycurgo-starring drama.
+
+### Only Murders in the Building Stars Steve Martin and Martin Short, Without Selena Gomez, Cross Pond for Star-Studded Season 6 London Premiere
+Tue, 24 Nov 2026 09:51:56 +0000 — https://www.hollywoodreporter.com/tv/tv-news/only-murders-in-the-building-season-6-london-premiere-stars-1236761845/
+
+Nicola Coughlan and Simone Ashley came together for a mini 'Bridgerton' reunion, while the likes of Olivia Colman, Jim Broadbent, Richard E. Grant and David Tennant added even more Brit star power.
+
+### You Can See Everything Now Streaming: Where to Watch Nathan Fielder s Elizabeth Holmes Doc Online
+Tue, 24 Nov 2026 05:01:50 +0000 — https://www.hollywoodreporter.com/movies/movie-news/you-can-see-everything-streaming-release-fielder-holmes-doc-1236761736/
+
+Fielder and Lance Oppenheim brought viewers into Holmes' home. Now she's coming into yours.
+
+### 2026 International Emmy Winners Revealed: Carême Wins Best Drama
+Tue, 24 Nov 2026 03:12:23 +0000 — https://www.hollywoodreporter.com/tv/tv-news/2026-international-emmys-winners-list-1236761237/
+
+Other top winners include 'División Palermo' for best comedy, best actor Bobby Schofield for 'Unforgivable' and best actress Mona Mina Leon for 'Holy Sh!t.'
 
 ### Antoine Fuqua Accused of Pointing Handgun, Using Antisemitic Slur in Assault Lawsuit
 Tue, 24 Nov 2026 02:56:12 +0000 — https://www.hollywoodreporter.com/movies/movie-news/antoine-fuqua-assault-lawsuit-accused-pointing-handgun-1236761725/
 
 A spokesperson for the director denied the allegations and said, "It's not true."
 
-### From Beauty to Tech, Deep Black Friday Deals Land on the New Brand+ Marketplace via AliExpress
-Tue, 24 Nov 2026 02:50:07 +0000 — https://www.hollywoodreporter.com/lifestyle/shopping/brand-plus-aliexpress-black-friday-sale-2026-1236761706/
-
-Launched late last year, the Brand+ channel is a dedicated shopping destination for products from trusted brands.
-
-### Oura Ring 5, Red Light Therapy and Cult-Favorite Skin Care Lead the Sam s Club Black Friday Sale
-Tue, 24 Nov 2026 02:14:10 +0000 — https://www.hollywoodreporter.com/lifestyle/shopping/sams-club-black-friday-deals-2026-beauty-wellness-discounts-1236761566/
-
-From viral hair care to high-end beauty tech, the online event is chock-full of Hollywood-coveted self-care steals.
-
-### New Hunger Games Movie on the Way? Lionsgate Film Chief Shares Latest on Franchise s Future
-Tue, 24 Nov 2026 00:41:26 +0000 — https://www.hollywoodreporter.com/movies/movie-news/hunger-games-sequel-sunrise-on-the-reaping-lionsgate-chief-1236761582/
-
-Adam Fogelson tells The Hollywood Reporter that his team hopes to connect soon with author Suzanne Collins about a new project: "I will sit patiently and wait for that phone call."
-
-### Bela Bajaria Calls Time at Netflix a Fun Chapter as She Teases Rest and Conversations in First Remarks on Exit
-Tue, 24 Nov 2026 00:02:56 +0000 — https://www.hollywoodreporter.com/business/business-news/bela-bajaria-speaks-netflix-exit-1236761441/
-
-The former chief content officer at the streaming service was ousted last month, with Peter Rice taking over her role.
-
-### GTA 6 Boss Strauss Zelnick Among First Raft of SXSW London 2027 Speakers
-Tue, 24 Nov 2026 00:01:00 +0000 — https://www.hollywoodreporter.com/business/business-news/gta-6-strauss-zelnick-take-two-speakers-sxsw-london-2027-1236759919/
-
-The upcoming installment — built around the theme "The Power of Human Potential" — has also enlisted former DeepMind creative lead Jon Steinback and president of Genomics Limited David Thornton.
-
-### The Center of the News Universe Has Shifted to CNBC
-Mon, 23 Nov 2026 23:06:58 +0000 — https://www.hollywoodreporter.com/business/business-news/cnbc-gains-nvidia-jensen-huang-news-trump-call-1236761408/
-
-The most consequential stories of this moment in time are happening on the Versant brand, from the stunning fall and rise of Nvidia's Jensen Huang, to Anthropic's IPO.
-
-### Audible Subscriptions Drop to $1 Per Month for Black Friday
-Mon, 23 Nov 2026 22:37:27 +0000 — https://www.hollywoodreporter.com/lifestyle/shopping/audible-black-friday-deal-2026-promotion-subscription-sale-1236761472/
-
-The audiobook and podcast service delivers its deepest deal of the season ahead of Cyber Week.
-
-### David Greaves Says Once Upon a Time in Harlem Is An Act of Resistance Against Efforts to Erase Black History
-Mon, 23 Nov 2026 22:33:06 +0000 — https://www.hollywoodreporter.com/movies/movie-news/david-greaves-once-upon-a-time-in-harlem-scad-savannah-film-festival-1236760375/
-
-When William Greaves died before completing his Harlem Renaissance documentary, his son David, who had helped to shoot it but had never directed a feature film of his own, stepped in to finish it: "I couldn't imagine anybody else doing it," he tells The Hollywood Reporter.
-
-### Love Island Winner Bryce Alakai Is Going All-In on His Music Career
-Mon, 23 Nov 2026 22:19:35 +0000 — https://www.hollywoodreporter.com/music/music-features/love-island-winner-bryce-alakai-conscious-single-1236761462/
-
-Back with a new single "Conscience," the musician says the release reminds him of someone special: "I like the lyrics because it always reminds me of Trinity — fall in love with your best friend."
-
 ## Deadline
 
-### David Zaslav Recalls Awkward Moment Before Skydance Merger Close, Hails Ex-WBD Global Chief Gerhard Zeiler For Keeping Staff Motivated
-Tue, 24 Nov 2026 02:59:56 +0000 — https://deadline.com/2026/11/david-zaslav-skydance-merger-gerhard-zeiler-wbd-emmys-1237232182/
+### Danny Burstein Caroline Portu Among Cast Added To Ari Frenkel’s See You On The Other Side As Production Wraps
+Tue, 24 Nov 2026 15:15:00 +0000 — https://deadline.com/2026/11/danny-burstein-caroline-portu-join-see-you-on-other-side-1237232526/
 
-In one of his first public appearances since the close of the $110 billion Skydance merger, ex-Warner Bros. Discovery CEO David Zaslav on Monday recalled a key sequence during the deal s regulatory review. We were in this awkward moment, Zaslav said Monday at the International Emmys in New York. We had a hearing, we needed [ ]
+EXCLUSIVE: Tony winner and record nine-time nominee Danny Burstein (Cupertino), Caroline Portu (Tony), Camrus Johnson (One Piece), Jetta Juriansz (Mistakes You Make Before You Die), Ori Laizer (Shababnikim), Liz Larsen (The Baltimorons) have joined the cast of indie feature See You on the Other Side from writer, director and actor Ari Frenkel (I’m A Virgo). [ ]
 
-### Not True : Antoine Fuqua Alleged Gun Assault Of Bar Manager Over Daughter Rebuked By Reps
-Tue, 24 Nov 2026 01:50:35 +0000 — https://deadline.com/2026/11/antoine-fuqua-assault-denied-1237232104/
+### The Murder of JonBenét Ramsey : Melissa McCarthy Clive Owen Play Grieving, Overly Scrutinized Parents In Trailer For Netflix Series
+Tue, 24 Nov 2026 15:00:00 +0000 — https://deadline.com/2026/11/the-murder-of-jonbenet-ramsey-trailer-netflix-series-1237232085/
 
-Accusations in a recently filed assault and battery complaint against Antoine Fuqua from a Hollywood assistant bar manager got a concise and blunt response today from the Michael director s rep. What s claimed in that filing about Antoine is not true, publicist Allan Nierob told Deadline Monday. The PMK Entertainment boss wouldn t add more, but it [ ]
+Netflix has revealed a trailer for its upcoming scripted series surrounding the infamous unsolved killing of JonBenét Ramsey. Released Tuesday, the trailer opens on the early hours of December 25, 1996, when JonBenét s parents John (Clive Owen) and Patsy (Melissa McCarthy) wake to find their daughter missing and a ransom note on their kitchen counter. [ ]
 
-### I m A Celebrity s AJ Odudu Gets Support From BBUK Co-Host Will Best More Stars Amid Microaggressions On ITV Reality Series
-Tue, 24 Nov 2026 01:45:22 +0000 — https://deadline.com/2026/11/im-a-celebrity-aj-odudu-support-microaggressions-itv-reality-1237232114/
+### YouTube True-Crime Channel Dr. Insanity Launches Podcast With Audioboom
+Tue, 24 Nov 2026 15:00:00 +0000 — https://deadline.com/2026/11/youtube-true-crime-channel-dr-insanity-podcast-audioboom-1237232398/
 
-AJ Odudu is receiving support from celebrity friends amid microaggressions on ITV s I m a Celebrity Get Me Out of Here. A clip from the competition series has gone viral on social media, which shows Odudu and Mariella Frostrup in a tense moment. In the exchange, Frostrup accused Odudu of being aggressive and creating drama out [ ]
+Earlier this summer, Ed Simpson teamed with Content Partners to buy YouTube true-crime channel Dr. Insanity. Wonderloom Media, founded by Wheelhouse’s former chief strategy officer and the investment firm, is now launching a Dr. Insanity podcast. They have teamed with Audioboom on the project. Audioboom is behind podcasts including Pod Save America and The Tim [ ]
 
-### Hooters: The Movie Sets Owen Patrick Joyner, Kyle Clark Audrey Trullinger
-Tue, 24 Nov 2026 01:41:15 +0000 — https://deadline.com/2026/11/hooters-the-movie-sets-cast-1237232108/
+### Elev8on French Wealth Manager Anato To Find European Investments For U.S. Stars
+Tue, 24 Nov 2026 14:43:35 +0000 — https://deadline.com/2026/11/elev8on-anato-europe-investments-american-stars-1237232440/
 
-EXCLUSIVE: Hooters: The Movie is officially open for business, meaning cameras are rolling in the Tampa Bay, Florida area with Owen Patrick Joyner, Kyle Clark and Audrey Trullinger starring in the origin story of the chicken wing chain. Pic follows lifelong friends Ted and Lenny (Joyner and Clark) who unexpectedly build a restaurant empire. What [ ]
+EXCLUSIVE: Elev8on Management has spent years finding American talent routes on to European screens, and now its going help them build business empires there. The Paris-based talent management company has teamed with French wealth advisory Anato Gestion Privée to launch Elev8on Private, a division aimed at finding U.S. talent investment opportunities in Europe. We hear [ ]
 
-### ‘Only Murders In The Building’ Returning To New York For Likely Season 7
-Tue, 24 Nov 2026 01:20:23 +0000 — https://deadline.com/2026/11/only-murders-in-the-building-new-york-return-season-7-1237231938/
+### David Tennant Joins The Four Seasons As Series Regular: The Perfect Addition To Our Ensemble
+Tue, 24 Nov 2026 14:30:00 +0000 — https://deadline.com/2026/11/david-tennant-the-four-seasons-series-regular-gianpiero-s3-1237232014/
 
-A new murder mystery sent the characters from Hulu s Only Murders in the Building to London for Season 6, and it s where the show hosted its premiere this evening, with the cast, producers, and creatives teasing what s ahead. The series will premiere on December 8 via Hulu and on Disney+ internationally. On the red carpet at London s [ ]
+EXCLUSIVE: David Tennant s cameo at the end of The Four Seasons Season 2 finale was more than an amusing callback to the imaginary boyfriend Anne (Kerri Kenney-Silver) had conjured up earlier in the season a lot more. While a Season 3 return for Tennant was expected after that cliffhanger, Deadline can reveal that the [ ]
 
-### Ariana Grande Teases Eternal Sunshine Tour Project At Peacock
-Tue, 24 Nov 2026 01:10:19 +0000 — https://deadline.com/2026/11/ariana-grande-eternal-sunshine-tour-project-peacock-1237232061/
+### Matthew Lawrence, Madison Lawlor Influencer Nick Champa Among Cast For Indie Comedy Pilot Truck Or Treat
+Tue, 24 Nov 2026 14:30:00 +0000 — https://deadline.com/2026/11/matthew-lawrence-madison-lawlor-nick-champa-truck-or-treat-1237232485/
 
-Ariana Grande is teasing a Peacock project centered on her Eternal Sunshine Tour that could be a documentary or concert film. A clip of the singer was posted on social media from her tour, showing her standing in the middle of the stage and singing Eternal Sunshine. As the clip fades to black, text on [ ]
+EXCLUSIVE: Matthew Lawrence (Boy Meets World) and Madison Lawlor (The Conjuring: Last Rites) are starring in the independent comedy pilot Truck or Treat, created by Olivia Blue (Theater is Dead). Principal photography on the U.S. project recently wrapped with cast also including Blue, Sean O’Bryan (Love, Victor), Jeanette O’Connor (The Pitt), Katherine Kendall (She Said), [ ]
 
-### Bela Bajaria Says Her Phone Has Been Ringing Since Netflix Exit, But I m Not Really A Just Do The Exact Same Thing Kind Of Person
-Tue, 24 Nov 2026 00:34:59 +0000 — https://deadline.com/2026/11/netflix-bela-bajaria-emmys-streaming-executive-1237231936/
+### West End Hit The Comedy About Spies Will Transfer To Broadway This Spring
+Tue, 24 Nov 2026 14:15:00 +0000 — https://deadline.com/2026/11/comedy-about-spies-broadway-1237232532/
 
-Bela Bajaria told Deadline her phone has been ringing since she was ousted last month as Netflix s content chief. I ve received a lot of support, she said in New York on Monday shortly before accepting the Founders Award at the International Emmys, in her first public comments since leaving Netflix in October. Asked whether she [ ]
+The award-winning Mischief Theatre production of The Comedy About Spies, direct from two sold-out engagements in London’s West End, will transfer to Broadway for a strictly limited 18-week engagement this spring. Previews begin Saturday, March 27, 2027, at Broadway s Music Box Theatre ahead of an official opening night on Wednesday, April 14, 2027. The engagement [ ]
 
-### Daredevil s Charlie Cox Wanted To Audition For James Bond But Was Told He Was Too Old : But Robert Pattinson Is The Same Age As Me!
-Mon, 23 Nov 2026 23:26:34 +0000 — https://deadline.com/2026/11/daredevil-charlie-cox-audition-james-bond-robert-pattinson-age-1237232024/
+### BBC To Launch CBeebies Hub On Netflix
+Tue, 24 Nov 2026 13:00:00 +0000 — https://deadline.com/2026/11/bbc-launch-cbeebies-hub-netflix-hey-duggee-teletubbies-1237231627/
 
-Charlie Cox wanted the opportunity to audition for the role of James Bond in the upcoming Denis Villeneuve-directed film. However, the Daredevil actor was told he was too old to play the 007 agent. Amazon MGM Studios ultimately cast Robert Pattinson in the iconic role. Can I say something? I asked to audition for that, [ ]
+CBeebies is coming to Netflix. For six months from December 2, a CBeebies branded hub will launch on the streamer featuring two-dozen shows from the BBC’s pre-school network including Hey Duggee, Numberblocks and Teletubbies. At the same time, Netflix has committed to funding and partnering on a small number of new CBeebies commissions. This all [ ]
 
-### Greg Hovanessian Lindsey Normington To Lead Psychological Thriller Nightwaves
-Mon, 23 Nov 2026 23:06:23 +0000 — https://deadline.com/2026/11/greg-hovanessian-lindsey-normington-cast-nightwaves-1237231971/
+### British Independent Film Awards: I See Buildings Fall Like Lightning, Savage House, Ink The Magic Faraway Tree Among Craft Winners
+Tue, 24 Nov 2026 12:47:30 +0000 — https://deadline.com/2026/11/bifas-craft-awards-ink-the-magic-faraway-tree-1237232480/
 
-EXCLUSIVE: Greg Hovanessian (The Mist, Cardinal) and Lindsey Normington (Margo’s Got Money Troubles, Anora) are set to lead the new psychological thriller Nightwaves, from writer and director Kristian McKay (Do Not Open, Kill Trip) and Obscura Film. Cherie Currie (Foxes, Twilight Zone: The Movie) and Shane Coffey (Pretty Little Liars, Good Girls) will also star. [ ]
+The British Independent Film Awards has unveiled the winners of its 10 film craft categories ahead of next month s official BIFA ceremony. Clio Barnard’s I See Buildings Fall Like Lightning, which follows five lifelong friends struggling with life at the age of 30, won three awards including Shaheen Baig for Best Casting, who previously won [ ]
 
-### Hunger Games: Sunrise On The Reaping Heading To Potential Franchise-Record Monday With $12M
-Mon, 23 Nov 2026 22:29:58 +0000 — https://deadline.com/2026/11/box-office-hunger-games-sunrise-on-the-reaping-monday-1237231975/
+### Netflix Sets ‘March Of The Jaguars’ Release, Narrated By Fernanda Torres Its First Wildlife Film Out Of Latin America: Watch Trailer
+Tue, 24 Nov 2026 12:40:44 +0000 — https://deadline.com/2026/11/netflix-march-of-the-jaguars-wildlife-film-fernanda-torres-1237232478/
 
-EXCLUSIVE: After scoring the best domestic opening weekend for Lionsgate in 12 years, The Hunger Games: Sunrise on the Reaping, could notch a Monday franchise record of $12M+. The previous Monday record for the feature take of the Suzanne Collins novels belonged to 2013 s Catching Fire which did $12.3M. Seriously, Lionsgate resuscitated life back into [ ]
+EXCLUSIVE: Netflix Brazil has set a release date for March of the Jaguars, the streamer’s first wildlife documentary out of Latin America. The feature doc was created and produced in Brazil and is made by Alexandre Soullier and Emmanuel Priou, winner of the 2006 Oscar for Best Documentary Feature for March of the Penguins. Deadline [ ]
 
-### Skydance Buyouts Impact CBS Stations; Local Chicago Anchor Among Those Departing
-Mon, 23 Nov 2026 22:04:44 +0000 — https://deadline.com/2026/11/cbs-buyouts-local-stations-skydance-1237231967/
+### Hayu FanFest Toronto 2026 Cast: Real Housewives Of London s Karen Loderick-Peace, RHOBH s Erika Jayne, Summer House s Kyle Cooke More
+Tue, 24 Nov 2026 12:30:00 +0000 — https://deadline.com/2026/11/hayu-fanfest-toronto-2026-cast-real-housewives-summer-house-1237232397/
 
-The buyouts across Skydance have impacted CBS station group, with a number of staffers taking the package, including a main anchor at the network s Chicago outlet. Joe Donlon, co-anchor of CBS 2 Chicago s 5, 6 and 10 p.m. newscast, is among those leaving, according to sources familiar with the plans. Donlon previously was a lead [ ]
+Hayu is taking its FanFest to Toronto in 2027 and has unveiled the full cast lineup attending the event. Following her viral low-budget vagina phrase from The Real Housewives of London, fans of Karen Loderick-Peace will have the opportunity to meet her in person alongside Real Housewives of Beverly Hills star Erika Jayne, Summer House s [ ]
 
-### The Odyssey , Widow s Bay Among Top Nominees For AARP s Movies TV For Grownups Awards
-Mon, 23 Nov 2026 21:17:21 +0000 — https://deadline.com/2026/11/the-odyssey-widows-bay-aarp-movies-tv-for-grownups-awards-1237231926/
+### Channel 4 News Boss Emails Staff About NDAs After Issue Rears Head Again In Wake Of Russell Brand David Walliams
+Tue, 24 Nov 2026 12:05:19 +0000 — https://deadline.com/2026/11/channel-4-news-boss-emails-staff-ndas-brand-walliams-1237232450/
 
-The Odyssey, Wild Horse Nine, The Invite, Being Heumann, and Tender Loving Care are the top nominees for Best Movie For Grownups in today s announcement of this year s contenders for the upcoming Movies TV for Grownups Awards. Tom Cruise, John Malkovich, Matt Damon, Andrew Scott, and John Turturro make up the list for Best [ ]
+EXCLUSIVE: As the controversial use of non-disclosure agreements (NDAs) rears its head once again in the UK entertainment industry, the head of Channel 4 News has told staff her division no longer engages in the practice. Deadline understands Esme Wren sent an all-staffer on Saturday after the issue of Channel 4 News using NDAs was [ ]
 
 ## befores & afters
 
@@ -179,6 +179,11 @@ Mon, 23 Nov 2026 10:48:48 +0000 — https://beforesandafters.com/2026/11/23/a-vi
 Miniature supervisor Simon Weisse breaks down the model builds for the film. In director Alejandro G. Iñárritu’s Digger , Tom Cruise stars as Digger Rockwell, a powerful oil magnate whose reckless pursuit of fossil fuels unleashes an environmental catastrophe that threatens to devastate the planet. As the disaster unfolds, Digger embarks on a frantic mission to convince the world that he is humanity’s saviour. Well, that’s what the film appears to be about. Without going into too many spoilers here, one of the ways the film’s distinctive, deliberately artificial visual world was brought to life was through an extensive combination of physical miniatures and dioramas—which become story points themselves—that were augmented with practical special effects and digital visual effects, blending traditional filmmaking techniques with contemporary VFX. Miniature supervisor Simon Weisse oversaw a diverse array of miniatures for the film which were built in his Berlin studio and transported to Pinewood Studios in the UK for filming. Here he talks to befores & afters about how the miniatures work came together. How miniatures became part of the film Weisse recounts the call he received from Digger producer Michael Sharp, who relayed that ‘Alejandro wants miniatures’. “Michael and I had worked together previously and said, ‘Could you come to London next week?’ I went there to Leavesden Studios where they have made some test setups. They had very simple miniatures made by the art departme
 
 ## IndieWire
+
+### 26 Years After He Wrote Meet the Parents, John Hamburg Brings Comedy Back to Theaters with Focker In-Law
+Tue, 24 Nov 2026 15:00:00 +0000 — https://www.indiewire.com/features/interviews/focker-in-law-director-interview-john-hamburg-1235230543/
+
+The writer-director talks about creating the best possible environment for his star-studded ensemble cast and explains why he wanted this "Focker" movie to be the most cinematic.
 
 ### Billy Ray Joins Oscar Short Contender Magan s Fare, Starring Barkhad Abdi, as Executive Producer
 Mon, 23 Nov 2026 22:30:00 +0000 — https://www.indiewire.com/news/general-news/bill-ray-joins-oscar-contender-magans-fare-ep-1235230395/
@@ -203,7 +208,7 @@ Mon, 23 Nov 2026 21:00:00 +0000 — https://www.indiewire.com/features/craft/wil
 ### From Disclosure Day to Devil Wears Prada : Emily Blunt Breaks Down 10 of Her Greatest Movie Moments
 Mon, 23 Nov 2026 20:45:00 +0000 — https://www.indiewire.com/awards/consider-this/emily-blunt-breaks-down-oppenheimer-disclosure-day-devil-wears-prada-1235230010/
 
-Blunt could land a second Oscar nomination after for her language-spouting weatherwoman in Steven Spielberg's alien adventure. But she's made so many great films.
+Blunt could land a second Oscar nomination for her language-spouting weatherwoman in Steven Spielberg's alien adventure. But she's made so many great films.
 
 ### How Sound Design Helps Minotaur Get Away with Murder
 Mon, 23 Nov 2026 19:50:00 +0000 — https://www.indiewire.com/features/craft/andrey-zvyagintsev-minotaur-sound-design-1235230040/
@@ -235,12 +240,42 @@ Mon, 23 Nov 2026 17:00:00 +0000 — https://www.indiewire.com/criticism/movies/f
 
 It took three years longer to make "Meet the Parents 4" than it did to make "Grand Theft Auto VI," but (weirdly) it's somehow not quite as good.
 
-### Jane Fonda on Documentary Gaslit, Trump, and What the Democrats Midterm Victory Means for Climate Change
-Mon, 23 Nov 2026 16:00:00 +0000 — https://www.indiewire.com/news/general-news/jane-fonda-trump-democrats-midterm-victory-climate-change-1235230020/
-
-The Oscar-winning actress and activist says the world must wean itself off fossil fuels before it's too late.
-
 ## The Wrap
+
+### Seth Meyers Imagines What ‘Mission: Impossible’ Would Look Like if Trump Directed It
+Tue, 24 Nov 2026 14:52:41 +0000 — https://www.thewrap.com/creative-content/tv-shows/seth-meyers-mission-impossible-if-trump-directed/
+
+Seth Meyers has a feeling that, if President Trump were the one to direct the Mission: Impossible films, they d have been far more obvious. The NBC host offered that guess during his A Closer Look segment on Monday night, where he largely focused on the latest twists in the saga of NVIDIA CEO Jensen Huang. Huang was recently ousted from his position for several reasons, including having multiple affairs one with a Chinese spy. Thanks to Trump, Huang was reinstated this week , and the president defended him by saying that, when the men spoke, Huang insisted he had no idea the woman was a spy. Yeah, that s how spying works! They don t wear shirts that say Ask me about being a spy,' Meyers retorted. In Mission: Impossible, Tom Cruise wears masks of other people s faces. If Trump directed that movie, Tom Cruise would have worn a mask of his own face, and his first line would have been, Hey, it s me, Tom Cruise, the actor playing a character who s a spy. Now tell me, what s your zip code?' The zip code piece of that punchline was a reference to Huang himself, who said in a September interview that, because of his reliance on AI, he doesn t even know his own address. Huang recalled a trip to the gas station a few years ago, where he panicked because he didn t know his zip code. I asked ChatGPT to come up with the most out of touch sentence ever said out loud, and it still couldn t beat One day I had to pump gas, and it was a few years ago,' Meyers joked. And these guys wonder why e
+
+### Puck Finalizes RedBird Capital Majority Stake Deal
+Tue, 24 Nov 2026 14:44:02 +0000 — https://www.thewrap.com/industry-news/deals-ma/puck-redbird-capital-deal-closes/
+
+Puck has finalized a deal giving RedBird Capital Partners a majority stake in the digital media company, two months after TheWrap reported that the transaction valued the company at approximately $250 million. The transaction deepens RedBird’s involvement in the news business as the private equity firm expands its holdings across media, sports and entertainment — industries Puck’s journalists regularly cover. Puck said it would retain its editorial independence following the ownership change. Financial terms were not disclosed Tuesday. Standard Investments and TPG have exited the business, while RIT Capital Partners remains a minority investor. RedBird initially invested in Puck through the company’s $16 million acquisition of Air Mail last year. Puck said it intends to use RedBird’s backing to pursue acquisitions and expand into new markets. In September, Puck informed employees that those with vested shares or stock options would be able to cash out a portion of their holdings while retaining an ownership interest in the company, according to an internal memo obtained by TheWrap. The agreement also included a new equity incentive plan. Since its launch in 2021, Puck has sought to distinguish itself from traditional news organizations by giving journalists an ownership stake and a cut of the subscription revenue they generate. The company had approximately 50,000 paying subscribers as of September, with the Air Mail acquisition bringing in roughly another 50,000. RedBird, me
+
+### AI Shopping Is Booming. For Publishers, Is This an Opportunity or Reckoning?
+Tue, 24 Nov 2026 14:00:00 +0000 — https://www.thewrap.com/industry-news/tech/ai-shopping-publisher-affiliate-revenue-black-friday/
+
+As publishers confront declining search traffic ahead of Black Friday, their shopping businesses are heading in different directions: People Inc. s affiliate revenue is growing, Future s is falling and Ziff Davis is contending with shrinking search referrals. The divide highlights a growing challenge for publishers that depend on product reviews and buying guides, which generate commissions when readers click affiliate links and make purchases. Black Friday is especially important, with publishers updating deals coverage around the clock during the long weekend shopping stretch that can help determine whether they meet quarterly revenue goals. But as AI assistants increasingly help consumers decide what to buy, publishers risk losing the website visits and commissions that make up a significant chunk of their revenue. The longer-term question is whether AI poses an existential threat to publishers, since it strikes at the core of their businesses. New U.S. data provided to TheWrap by Similarweb shows the extent of the traffic pressure. Organic search visits to Tom s Guide plunged 64% year over year in October, while CNET experienced a 54% decline. Meanwhile, referrals from generative AI platforms to retailers climbed 87%, underscoring the different challenges and opportunities facing publishers and merchants. The financial results are already diverging. People Inc. , which owns People, Food & Wine and Allrecipes, reported a 26% decline in core website sessions during the thir
+
+### Kimmel Jokes Trump Has 62 Million Reasons Why He Wanted Nvidia CEO Reinstated
+Tue, 24 Nov 2026 06:14:12 +0000 — https://www.thewrap.com/culture-lifestyle/culture/jimmy-kimmel-jensen-huang-reinstatement-donald-trump/
+
+Jimmy Kimmel weighed in on Jensen Huang s reinstatement as Nvidia CEO on Monday, claiming President Trump was heavily invested in the reversal to the tune of millions of dollars. Our Siliconman-in-Chief has 62 million reasons why he wanted his pal in charge, Kimmel said over a graphic of a Washington Post headline that read Trump s Stake in Nvidia Grew to as Much as $62 Million Before Scandal Broke Out. The [Nvidia] board made it clear they were unequivocally moving on, the late night host explained. Trump called them personally to harangue them. And if you think that sounds fishy, it s not, Kimmel said sarcastically. There s nothing unusual about a president who owns a huge amount of stock in a company putting his little carrot thumb on the scale in a way that immediately boasts the company s stock price. Watch Kimmel s scathing monologue below : Trump said Monday that he personally spoke to Nvidia’s board to reinstate Huang as CEO, revealing his direct involvement in the chipmaker’s stunning leadership reversal less than two weeks after its co-founder resigned in a scandal-plagued exit. “I spoke to them, let me put it that way,” Trump told CNBC’s Eamon Javers in a phone interview. “And I convinced them.” Addressing Trump s involvement, Kimmel added: I m sure it didn t hurt that Huang donated $25 million to the big stupid ballroom [Trump s] building. Nvidia stock jumped over 30% on Monday and closed at $165.05 per share. Huang was greeted by thunderous applause when he retur
+
+### Woody Harrelson Reveals He Turned Down Hunger Games Role Twice
+Tue, 24 Nov 2026 04:49:07 +0000 — https://www.thewrap.com/creative-content/movies/woody-harrelson-reveals-he-turned-down-hunger-games-role-twice/
+
+Woody Harrelson has played Haymitch Abernathy in five Hunger Games films, but he initially turned down the role two times! In a joint Vanity Fair interview with his Sunrise on the Reaping costar Joseph Zada who plays a younger version of the character in the prequel Harrelson revealed his hesitation in playing Abernathy and why he turned it down twice. I thought it was good. I read the books, really good. But I just don’t think there’s enough to do. I don’t know if there’s enough to do. It’s an arbitrary, odd way of assessing it, Harrelson explained. Ultimately, he says, it was The Hunger Games director Gary Ross who convinced him to take the role. [I] can’t imagine not having had this experience in my life and knowing these people. And then Gary calls me and he’s like, ‘Woody, you have to do this part. I don’t have a second choice. You have to play Haymitch,’ Harrelson recalled. And he just talked to me for about 10 minutes on the phone. I’m like, ‘All right, okay, yeah, let’s do it. And that kind of arbitrariness is the way you traipse through life.' Harrelson has played Abernathy the 50th Hunger Games victor who becomes a mentor to Jennifer Lawrence s Katniss Everdeen on screen five times. He was introduced in The Hunger Games and later appeared in Catching Fire, Mockingjay Part I, Mockingjay Part II and Sunrise on the Reaping, which opened last weekend. Only he, Lawrence and Josh Hutcherson have played their Hunger Games characters across five films. (They did not appear 
+
+### Don Toliver Postpones London Concert After 89 Fans Sickened at Manchester Show
+Tue, 24 Nov 2026 03:48:00 +0000 — https://www.thewrap.com/culture-lifestyle/culture/don-toliver-postpones-london-concert-after-89-fans-sickened-at-manchester-show/
+
+Don Toliver postponed his London show on Monday after dozens of fans were sickened by an unknown substance at the Manchester show the night before. On Sunday, 89 concertgoers were treated after being exposed to an unknown substance at the Co-op Live Arena. Videos from the concert floor showed attendees coughing, some violently, and wiping their eyes. The Hazardous Area Response Team was deployed and 88 people were evaluated for eye and respiratory symptoms, per the North West Ambulance Service (NWAS). One woman was taken to the Manchester Royal Infirmary for further assessment. The remaining concertgoers were safely escorted out of the venue. The Greater Manchester Police said the incident was isolated and there was no wider threat to the public. No one has been arrested in connection to the incident as of Monday evening. “I would like to thank the public who attended for their patience whilst we responded to this incident. There were over 12,000 people in attendance during this concert who were safely escorted from the arena and made their way home, Assistant Chief Constable Tom Harding said via press release . Authorities said further testing will take place on items at the venue as part of their ongoing investigation. The substance was not identified, but an earlier NWAS press release stated it was believed to be tear gas. In response, Don Toliver s planned show at London s 02 Arena Monday night was postponed to next month. I m very sad to sit here and say I have to resche
+
+### ‘Clashing Through the Snow’ Duo Christopher Briney and Michelle Randolph Share Which Co-Star Went ‘Off the Rails’
+Tue, 24 Nov 2026 03:04:02 +0000 — https://www.thewrap.com/creative-content/movies/clashing-through-the-snow-christopher-briney-michelle-randolph-interview/
+
+Christopher Briney and Michelle Randolph s Clashing Through the Snow brings viewers into the holiday season with a dose of rom-com clichés that never tire. The Prime Video holiday film shamelessly leans on romance tropes that have worked for decades. Two go-getter publishing editors Ryan (Briney) and Hannah (Randolph) must fight to find a bestseller by Christmas to keep their job. But one grounded flight forces the bitter rivals together, taking them on a twisty journey from the snowy Midwest to New York City. For Briney and Randolph, joining the lineage of holiday rom-coms felt like a rite of passage in their burgeoning careers. “You can watch movies however many times as you want, but holiday movies are almost encouraged to rewatch year after year,” Randolph said. “So it was really special to make it.” Briney said that he was inspired by “Planes, Trains and Automobiles,” while Randolph took inspiration from “The Proposal” and “When Harry Met Sally.” The duo noted that they leaned more into comedic references for their film than the romantic elements. In the film, the rivals find themselves in a haunted inn owned by Teddy, played by Lukas Gage. The innkeeper takes Ryan and Hannah on a tour of his hotel and tells them all of the spooky stories within its walls. Briney and Randolph only shot with Gage for less than a week but said they could not stop laughing with him in the scenes, many of which made it into the blooper reel at the end of the movie. “There were so many scenes
 
 ### Bela Bajaria Reflects on Leadership, Global Storytelling Following Netflix Ouster
 Tue, 24 Nov 2026 02:50:00 +0000 — https://www.thewrap.com/industry-news/business/bela-bajaria-netflix-firing-comments-international-emmy-awards/
@@ -257,90 +292,55 @@ Tue, 24 Nov 2026 02:11:17 +0000 — https://www.thewrap.com/culture-lifestyle/cu
 
 Hila Klein, the podcaster and estranged wife of “H3 Podcast” star Ethan Klein, revealed she will not be moving forward with the planned new show following the break up of her marriage . “I’m so sorry to share that I’ve made the difficult decision to stop working on the new show,” she wrote in a message posted to Instagram Monday. “I truly tried with every ounce of strength I had to make this work, but after everything that has happened, I’ve come to realize that I can’t continue down this path while also giving myself the space I need to heal and protect my mental health.” She added: “Right now, I need to focus on myself, my healing and what’s best for me and my kids.” As Hila went on, she noted how “devastated she was by the decision, expressing her love for the H3 “community” that she and the team have “built together.” “And I love the crew like my own family,” she wrote. “Walking away from something that has been such a huge part of my life is incredibly painful.” “I will miss you all more than I can put into words,” she concluded. “Thank you for all the love and support over the years.” View this post on Instagram A post shared by The H3 Podcast (@h3_podcast) Hila’s update came five days after she made her return to YouTube with an emotional, 30-minute video, where she discussed her estranged husband’s affair and how it all came to light. “We built our career together, family, kids, the whole entire thing. And I always thought we would grow old together,” she said in the 
 
-### David Fincher Comes Clean About Ben Affleck’s Hat Causing ‘Gone Girl’ Delays: ‘I Made It Up’
-Tue, 24 Nov 2026 01:44:44 +0000 — https://www.thewrap.com/creative-content/movies/david-fincher-admits-to-lie-ben-affleck-gone-girl-hat/
-
-David Fincher admitted he lied about Ben Affleck’s “Gone Girl” hat causing production delays, confessing he purposefully said it to mess with the movie’s star. During Monday’s episode of “Happy Sad Confused” podcast, Fincher copped to the fib, telling host Josh Horowitz point-blank, “I made it up.” Following the release of “Gone Girl” in 2014 , Affleck told The New York Times that he and Fincher had “a legitimate fight” when Fincher asked him to wear a New York Yankees hat for one scene in the movie. Affleck, a longtime Boston Red Sox fan, shared he and Fincher eventually chose a New York Mets hat as a compromise. “I said, ‘David, I love you, I would do anything for you,’” Affleck shared at the time “‘But I will not wear a Yankees hat. I just can’t. I can’t wear it because it’s going to become a thing, David. I will never hear the end of it. I can’t do it.’ And I couldn’t put it on my head.” Then, in the DVD commentary for the thriller, Fincher claimed that production shut down for several days over the alleged hat drama. Yet, Fincher elaborated on “Happy Sad Confused” that he wasn’t being serious with his commentary remarks. “When you do those DVD commentaries, sometimes you can get lost in trying to keep yourself awake,” he said. “He was vehemently against wearing the hat, and so I thought I would torture him on the on the DVD commentary.” Fincher’s explanation came a month after Affleck called him out on the same podcast, labeling him a “lying mother—ker” over the DVD comm
-
-### How The Altruists Showrunner Graham Moore Found the Toxic Love Story in FTX s Collapse
-Tue, 24 Nov 2026 01:19:13 +0000 — https://www.thewrap.com/creative-content/tv-shows/the-altruists-graham-moore-interview/
-
-It all began with a phone call. In the fall of 2022, Graham Moore, who won an Oscar for his screenplay for The Imitation Game, was watching from afar as cryptocurrency exchange FTX collapsed . At the time, he had passing knowledge of FTX founder Sam Bankman-Fried and his persona as the great ethical white knight of the crypto world. Moore was, consequently, just as shocked as everyone else when Bankman-Fried was revealed to have defrauded FTX customers to the tune of billions of dollars. It was around the time of Bankman-Fried s arrest that Moore got on the phone for a seemingly innocuous phone call with a producer friend who had also been enraptured by FTX s sudden fall from grace. Before long, Moore s friend was pitching him to turn the story into something . Moore, for his part, was hesitant. I said, Absolutely not,' Moore recalled. He figured every writer on Earth would be falling over themselves in the coming months and years to try to tell FTX s story on screen. To tackle FTX s rise and fall would have, in Moore s mind, been akin to entering a competition, a race to the finish line. I didn t want that energy in my life, he explained. His friend nonetheless convinced him to get on the phone with a team of reporters who were on the ground in the Bahamas, reporting live from outside the FTX headquarters where Bankman-Fried and all of the crypto company s senior staff members resided. It was in the phone calls that followed that Moore began to hear a version of events that 
-
-### Zosia Mamet Details Quitting Mad Men After Absolutely Horrible Run-in With Boss Matthew Weiner
-Tue, 24 Nov 2026 01:02:17 +0000 — https://www.thewrap.com/creative-content/tv-shows/zosia-mamet-quit-mad-men-matthew-weiner-explained/
-
-Zosia Mamet opened up Monday about her absolutely horrible experience on Mad Men with showrunner Matthew Weiner, which led her to quit after just five episodes. On her Monday episode of Armchair Expert, host Dax Shepard asked her what it was like to join Mad Men early on in her career. She played Joyce Ramsay on five episodes on Season 4 and 5 of the series and said she had a terrible experience thanks to showrunner Weiner. All the other actors were wonderful, but he really was like the Catholic Church back in the day, she said. That bro rules with fear. The actress wrote an essay about it for her 2025 memoir, Does This Make Me Funny? She admitted that she expected the publisher s legal department to say it was problematic, but they didn t take issue with the essay because she did not reveal names. That changed Monday when she called Weiner out specifically in conversation with Shepard, admitting that she almost wanted him to sue her for her account. I really wanted Matt Weiner to sue me because then he would be admitting to the fact that he knew I was writing about him, she said. Mamet remembered that the showrunner insisted that the actors not take home their scripts from the table reads. Sometimes he would see sides in the parking structure or something and he would be like, If I see that I m going to find you and I m going to hunt you down. I m going to kill you,' she recalled. Like, Just kidding. Actually not.' He would do this at every table read and it was like this no
-
-### Vanity Fair’s Taylor Swift Exposé Mocked for Calling Out Singer’s Ugg Collection: Hilariously Bad
-Tue, 24 Nov 2026 00:02:02 +0000 — https://www.thewrap.com/media-platforms/journalism/vanity-fair-taylor-swift-expose-social-media-reactions/
-
-Vanity Fair released an eyebrow-raising exposé about Taylor Swift Monday, in which the singer was portrayed as both the victim and the victimizer. In the article, titled The Mastermind , writer May Jeong detailed Swift s rise to fame and America s sweetheart persona while also sharing an alleged look at the pop star s vengeful side. After speaking with 100 sources, Jeong s story painted Swift –without naming her directly – as punitive and truly Regina George (the main bully from 2004 s Mean Girls. ) One anecdote in particular has gone viral, as it spotlighted an alleged former classmate of Swift s, who appeared to take umbrage with the number of Uggs the Ophelia singer had in her youth. Arielle Peppers was a year behind The Star and sat on the other side of Skinner in Luyben’s class for multiple quarters, the article read. She remembers The Star coming to class in Ugg boots. Peppers had transferred from the nearby city of Re A ding after her neighbor was stabbed in the neck. She asked her mother for a pair of the same boots. Do you know how much they cost? her mother said. The article added: A pair of Uggs amounted to half her single mother’s paycheck working variously at a bakery, at a dairy mill and as a caretaker. Peppers recalls The Star owning multiples of Uggs: She had the brown one, the black one, the blue one.' Several readers pushed back on this particular anecdote being mentioned, with one calling it an odd, flimsy piece of journalism. This is such an odd, flimsy pi
-
-### Dax Shepard Slams ‘Offensive’ Fan Narrative That He’s an ‘Abusive Husband’ to Kristen Bell
-Mon, 23 Nov 2026 23:02:06 +0000 — https://www.thewrap.com/culture-lifestyle/culture/dax-shepard-abusive-husband-kristen-bell-response/
-
-Dax Shepard has had enough of fans saying he s an abusive husband to Kristen Bell. On Monday s episode of Armchair Expert, Shepard explained how the running narrative that he is abusive to his wife came around last year, detailing how offensive it is to him. “I get in this continuing narrative that I’m an abusive husband, which is very offensive,” Shepard said. Kristen had a joke years ago, we were watching Dateline one time and you know everyone kills their rich spouse. This was actually me complimenting Kristen. Like, we re both from nothing, right? And so I tried to compliment her, like, Girl, you re a gangster. Like, you re f king loaded. Like, you did it. So, we re watching it, and I go, You know, I m heavily incentivized to kill you, but I m not going to.' He added: She said that was one of the most romantic things anyone said to her. So, she posts that. She doesn t say Dateline. And then someone all of a sudden s like, Oh, it s Domestic Abuse Awareness Month. Then it s like she s on the Today Show, and now we re in this big thing, and then this whole cottage industry of women defending Kristen, that I m like, I m an abusive, dangerous man. Last October, the “Nobody Wants This” actress shared a wedding anniversary post to Instagram showing her and Shepard in an embrace. The post started to quickly get more flak online and was accused for being “tone deaf” and insensitive for making light of domestic violence — during Domestic Violence Awareness Month, no less. “Happy 12
-
-### ‘Clashing Through the Snow’ Review: Prime Video s Holiday Rom-Com Charms
-Mon, 23 Nov 2026 22:24:31 +0000 — https://www.thewrap.com/creative-content/movies/clashing-through-the-snow-review/
-
-“Clashing Through the Snow” is a new romantic comedy about two rival romance book editors — “enemies,” if you will — who fight over the same job, while in forced proximity, during a road trip, as they fake a relationship, at Christmas. They eventually become lovers, obviously, but God only knows why it takes so long. If these two were any good at their jobs, and we’re supposed to believe they are, they’d recognize the telltale tropes immediately and skip to the end and just make out. That, or in the last scene we’d find them both institutionalized, ranting and raving about how they’re trapped in one of their client’s novels, and may never have existed at all. Carlson Young’s unapologetically clichéd Amazon Prime Original doesn’t go “Wes Craven’s New Nightmare” on the romance genre. It doesn’t go “Scream” either. It’s hardly a shocker but “Clashing Through the Snow” just does what movies in this genre do. It rifles through familiar beats, concocts a few spins on the old plot points, casts a couple of charmers and calls it a merry day. The premise had the potential to be clever but I guess competent will have to suffice. I’ll give “Clashing Through the Snow” this much, however: The screenwriters, Daniel Mackey and Rebecca Ewing, make the dialogue memorable. When Hannah (Michelle Randolph) and Ryan (Christopher Briney) find out there’s only one rental car, and they’ll have to share it to get to New York City in time for the holidays, they don’t just pout. Hannah says, and I quot
-
-### Donny Osmond Says Abuse Allegations Destroyed Michael Jackson, Won t Share if He Thinks He s Innocent
-Mon, 23 Nov 2026 22:23:14 +0000 — https://www.thewrap.com/culture-lifestyle/culture/donny-osmond-michael-jackson-destroyed-by-abuse-allegations/
-
-Donny Osmond won t say whether or not he believes the Michael Jackson abuse allegations but he knows they destroyed the pop singer. In an interview with The Guardian , Osmond went long about his relationship with Jackson and growing up famous together. Then came the many abuse allegations against the King of Pop and Osmond recalled how those coupled with the pressure that had been surrounding him for years destroyed him. “I think a lot of things destroyed him, Osmond said. The pressure destroyed him, too – the expectations of all the people around him. There’s only so much blood in our veins. Every time I’d go over, he’d be like: ‘How’s your family, tell me this, tell me that,’ because he realized I had something he didn’t have: normalcy. It’s sad. We lost a genius.” Reflecting on whether or not he believes Jackson is innocent, Osmond said: I’m not going to go there. I don’t want to go there. Because he was such a dear friend. Osmond also remembers how he and Jackson planned to do a cover of Stevie Wonder s I Wish. He even went to Neverland to make the pitch to Jackson and they had a plan in place, but before the recording happened Jackson postponed, citing too much on his plate as the child sexual abuse allegations swirled. The singer recalled the last time he spoke to his friend – about a year before Jackson died in 2009. “I was on tour and my phone rang and I said hello and I hear this little voice, Osmond said. ‘Donny?’ I went: ‘Hello.’ He went: ‘Donny?’ I went: ‘Mike, wh
-
 ## Collider
 
-### ‘The Odyssey’ Officially Steals ’Spider-Man: Brand New Day’s Top Spot on Global Streaming
-Tue, 24 Nov 2026 03:01:12 GMT — https://collider.com/the-odyssey-christopher-nolan-spider-man-prime-video-digital-charts/
+### Hailee Steinfeld, Jodie Foster, and Rashida Jones Reveal the TV Shows They Wish Would Come Back
+Tue, 24 Nov 2026 14:24:58 GMT — https://collider.com/hailee-steinfeld-jodie-foster-rashida-jones-hexed-interview/
 
-2026 has been an interesting year for movies with captivating stories and intriguing characters gracing the big and small screen and getting equal love and praise from the audiences. The year was full of visionary directors enchanting the audience with stunning visuals and heartfelt stories; Phil Lord and Christopher Miller brought Project Hail Mary starring Ryan Gosling , which was a brilliant exploration of deep space, isolation, and friendship; Steven Spielberg brought Disclosure Day , a meditation on what happens to faith, humanity, and science when we start to accept that extraterrestrial life exists . Andrew Stanton brought the fifth installment of Toy Story , a timely story that touched parents and kids alike.
+Just in time for the holidays, Walt Disney Animation Studios invites families to take a journey to the magical realm of Hexe in their original new feature Disney's Hexed . The movie stars Hailee Steinfeld as the voice of the unconventional Billie, a young girl who discovers she possesses incredible powers, alongside the vocal talents of Jodie Foster as the villainous Queen Celeste, and Rashida Jones as Billie’s overprotective mother, Alice.
 
-### Amazon Prime Officially Crowns Dwayne Johnson’s Christmas Movie King of Streaming
-Tue, 24 Nov 2026 02:45:12 GMT — https://collider.com/red-one-dwayne-johnson-prime-video-christmas-top-5-2026/
+### Pokémon Officially Brings Back a Legendary Alongside 2 New Mega Evolutions
+Tue, 24 Nov 2026 14:00:12 GMT — https://collider.com/pokemon-go-daydream-destinations-december-2026-kyurem-mega-evolutions/
 
-Dwayne Johnson is among a handful of stars who made a successful transition from WWE arena to the big screen. He has given us some versatile movies, from the Jumanji franchise to Moana ; the actor always brings fresh concepts to entertain fans worldwide. He broke the mold of being an “action star” by giving a heartfelt performance in Benny Safdie ’s The Smashing Machine that even generated Oscar buzz, which certainly comes as a relief after a spell of underperforming films like Red Notice , Black Adam , and such.
+Pokémon GO players have plenty to look forward to before the franchise wraps up its 30th anniversary celebrations . Between the introduction of new Mega Evolutions in Pokémon Legends: Z-A and its Mega Dimension DLC , some Pokémon that haven't received much love in years are finally getting their moment. That includes a Ghost-type from the Sinnoh region and one of the more unusual Dragon-types introduced in Pokémon Sun and Moon .
 
-### Nicolas Cage’s Bloody 93-Minute Vampire Movie Officially Hits Netflix Next Month
-Tue, 24 Nov 2026 02:30:12 GMT — https://collider.com/renfield-nicolas-cage-netflix-december-2026/
+### ‘Tracker’ Officially Switches Protagonists After 4 Seasons
+Tue, 24 Nov 2026 13:36:12 GMT — https://collider.com/tracker-season-4-episode-7-josh-holloway-luke-kelso/
 
-Nicolas Cage has a very interesting filmography with features like Leaving Las Vegas , Moonstruck , Pig , the National Treasure franchise, Dream Scenario, and more. But in recent years, it's become even more interesting: he played Spider-Noir , a down-on-his-luck New York detective who has to grapple with his past life and save the city; Longlegs casts him as an eerie serial killer; and Arcadian shows him as a monster-fighting father , among others .
+Editor's Note: The following contains spoilers for Tracker Season 4, Episode 7.
 
-### ‘Peaky Blinders’ Creator’s 10/10 WWII Series Officially Returns in 2027
-Tue, 24 Nov 2026 02:15:12 GMT — https://collider.com/sas-rogue-heroes-season-3-2027-release-first-look-images/
+### The 10 Best Fantasy Books of the Last 25 Years, Ranked
+Tue, 24 Nov 2026 13:14:12 GMT — https://collider.com/best-fantasy-books-past-25-years-ranked/
 
-Several decades after World War II ended, this harrowing historical occurrence has remained an important part of modern global discourse. Thanks to the media, we're constantly given a front-row seat to bits and pieces of the event that arguably had the most influence in shaping our world as we know it today. The year so far has delivered its fair share of acclaimed WWII projects , from Tom Hanks ' World War II with Tom Hanks docu-series to Brendan Fraser ' s Pressure and, more recently, Netflix's The Mosquito Bowl , starring Bill Skarsgård . A couple more titles are still expected before the year winds down, but unfortunately, the most anticipated one is missing from that list.
+Fantasy can be one of the most satisfying genres when handled well, but it's very tricky to get right. Most modern writers simply retread old ground or serve up the same tired tropes — magic systems, faraway realms, politics, and maybe a dragon here and there. However, a few go further, finding something new and bold to say about this beloved genre.
 
-### 3 Elite Prime Video Series to Binge This Week (Nov 23-27)
-Tue, 24 Nov 2026 02:11:12 GMT — https://collider.com/prime-video-shows-binge-week-november-23-2026/
+### ‘NCIS’ Spin-Off Series “Cannot Go Out Like This” Amid Renewal Uncertainty
+Tue, 24 Nov 2026 13:00:12 GMT — https://collider.com/ncis-origins-season-4-renewal-kyle-schmid-season-3-finale/
 
-Two weeks after premiering its third season, The Lord of the Rings: The Rings of Power is still the number one show on Prime Video . An epic fantasy drama inspired by J.R.R. Tolkien ’s Middle-earth canon, the show is one of the most ambitious TV shows ever made, with the latest season earning a lot of praise from critics so far. But that said, it’s hardly the only great series you could watch on the platform. Here’s a look at three great shows that we think you should binge this week on Prime Video.
+Since the latest seasons premiered, the Tuesday night NCIS lineup has given CBS a lot to be happy about this fall. All three of the franchise's current titles premiered as the most-watched programs in their respective time slots, earning a collective 39% viewership increase year-over-year for the long-running procedural name. While the flagship led the night at 6.45 million viewers and remains a favorite in its 24th season, the newcomer NCIS: New York has similarly been performing well, starting with a strong 5.62 million viewers on average as fans flocked to see the return of LL COOL J 's Sam Hanna . Last but not least was NCIS: Origins at 4.39 million viewers, with an increase of 20% from last year; yet, of the three, it has easily enjoyed the most eventful fall run.
 
-### ‘The Fall and Rise of Reggie Dinkins’ Bobby Moynihan Explains That Unexpected Thanksgiving ‘Obsession’ Crossover
-Tue, 24 Nov 2026 02:01:12 GMT — https://collider.com/fall-and-rise-of-reggie-dinkins-season-2-episode-4-thanksgiving-bobby-moynihan/
+### 7 Greatest Romantasy Book Series of All Time, Ranked
+Tue, 24 Nov 2026 12:52:12 GMT — https://collider.com/best-romantasy-book-series-all-time-ranked/
 
-Editor’s Note: The following contains spoilers for The Fall and Rise of Reggie Dinkins Season 2, Episode 4
+Romance and fantasy have been closely bound for literally centuries, but there’s no denying that the relatively recent trend of "romantasy" books has pushed this genre-blend to greater heights than ever before. In the past decade or so, romantasy books have sold millions upon millions of copies around the world and developed massive international fanbases. However, as with any genre, not all romantasy books are equally great.
 
-### Nicolas Cage’s Terrifying Serial Killer Thriller Officially Comes to Netflix
-Tue, 24 Nov 2026 02:00:12 GMT — https://collider.com/longlegs-nicolas-cage-netflix-december-2026/
+### Hulu Is Losing One of Tom Hanks’ Best Movies Before Christmas
+Tue, 24 Nov 2026 12:30:12 GMT — https://collider.com/toy-story-2-leaving-hulu-december-23-2026/
 
-In his long-spanning career, Nicolas Cage has given us numerous amazing movies across various genres, including Western, drama, comedy, and superhero . The actor keeps his audience engaged by consistently delivering a range of diverse characters, be it a fictionalized version of himself in The Unbearable Weight of Massive Talent ; playing a down-on-his-luck superhero, Ben Riley, in Spider-Noir ; a toxic boss who also happens to be Dracula in Renfield ; or playing the titular character in David O. Russell ’s biographical drama Madden, his latest film .
+He might've produced some of the most acclaimed performances of all time, including winning two Academy Awards for Best Actor out of six total nominations ( Philadelphia and Forrest Gump ), but Tom Hanks might be best known to many as the voice of one of Pixar's best characters. Over three decades , Hanks' rootin'-est, tootin'-est cowboy has brought joy to theaters and homes around the world, and this year, he, Buzz ( Tim Allen ), Jessie ( Joan Cusack ), and the rest of the gang returned for their latest adventure.
 
-### 19 Years Later, 'The Sopranos' Most Powerful Line Is Also Its Most Misunderstood
-Tue, 24 Nov 2026 01:53:12 GMT — https://collider.com/the-sopranos-tony-soprano-most-powerful-misunderstood-quote/
+### J.J. Abrams’ 5-Season Sci-Fi Thriller Is Even More Important in 2026
+Tue, 24 Nov 2026 12:13:12 GMT — https://collider.com/most-important-sci-fi-thriller-series-2026-person-of-interest/
 
-Tony Soprano ( James Gandolfini ) is adept at making heartrending situations seem like unavoidable consequences of fate. This is one of his strengths whenever he sits in Dr. Jennifer Melfi's ( Lorraine Bracco ) office, where even a moment of clarity can become an opportunity to justify himself. In Season 1, Episode 7, "Down Neck," Tony gives one of his most revealing remarks about his character: "You're born into this s**t; you are what you are."
+The best sci-fi stories work because they reflect society's current state or predict what's to come. The Twilight Zone featured many episodes in which aliens and the supernatural served as metaphors for societal issues like racism or fascism . Minority Report still resonates thanks to its unflinching look at how predicting the future can go horribly wrong. 15 years ago, CBS delivered a television series that blends the best of a long-running sci-fi saga with the network's procedural formula . That series has grown even more timely as technology like Flock cameras and generative AI become the subject of fierce debate.
 
-### ‘Money Heist’ Meets ‘Lupin’ in Netflix’s New Global Crime Thriller Hit
-Tue, 24 Nov 2026 01:45:12 GMT — https://collider.com/netflix-collision-course-31-million-views-nielsen-streaming-top-10/
+### The 7 Greatest Movie Masterpieces Over 3 Hours, Ranked
+Tue, 24 Nov 2026 12:03:12 GMT — https://collider.com/best-movie-masterpieces-over-3-hours-ranked/
 
-French and Spanish sub-genres for Netflix have become associated with adrenaline-loaded flawless heists thanks to shows like Money Heist , Lupin , and Berlin . Now another Spanish film released on October 30 is breaking charts and making a name for itself. According to Nielsen, the film has been able to accumulate 162 million watched-minutes on U.S. televisions during November 2–8, enough to make it the #10 streaming movie in America that week. The Spanish heist thriller is set in Madrid during the 2013 financial crisis, where a quartet of thieves pulls off a bank heist, only for a sudden getaway car crash to fracture the timeline and expose deep betrayals among the crew.
+Three hours. 180 minutes. 10,800 seconds. Imagine every one of them being perfect. There is nothing in cinema quite like a truly great epic. The perfect marriage of narrative might, filmmaking craft, and creative ambition commands the screen, compels the audience, and applies the monumental runtime to extracting thematic depth and conjuring awe-inspiring scale.
 
-### Anya Taylor-Joy’s Near-Perfect Masterpiece Officially Returns to Streaming
-Tue, 24 Nov 2026 01:30:12 GMT — https://collider.com/the-witch-anya-taylor-joy-hulu-december-2026/
+### 2 Years Later, Hugh Grant’s Near-Perfect Masterpiece Is Leaving Hulu
+Tue, 24 Nov 2026 12:00:12 GMT — https://collider.com/heretic-leaving-hulu-december-8-2026/
 
-Anya Taylor-Joy is a fan favorite for playing a variety of roles, be it horror movies like The Gorge , the psychological thriller The Menu , playing Princess Peach in The Super Mario Bros. Movie , or taking over the iconic role of Furiosa in George Miller ’s Furiosa: A Mad Max Saga . Later this year, she will appear as Alia Atreides in Denis Villeneuve 's franchise capper, Dune: Part 3 , starring alongside Timothee Chalamet , Zendaya , and Robert Pattinson .
+Hugh Grant will be back in living rooms around the world this December, as his modern Christmas classic Love Actually is rewatched by millions. Written and directed by Richard Curtis , this anthology tale of love, loss, and lust in the festive period has gone down in history as one of the yuletide best , albeit not without its detractors. Alan Rickman , Emma Thompson , Colin Firth , Laura Linney , Bill Nighy , Keira Knightley , and more all feature in Curtis' star-studded favorite, which is currently available to stream on Peacock.
 
