@@ -1,72 +1,77 @@
-# Manga — harvested 2026-11-23T15:21:40.409Z
+# Manga — harvested 2026-11-24T03:02:58.281Z
 
 ## Anime News Network
+
+### Manga Creator Tsukasa Sei Dies
+Mon, 23 Nov 2026 20:34:14 -0500 — https://www.animenewsnetwork.com/news/2026-11-23/manga-creator-tsukasa-sei-dies/.244102
+
+Sei serialized <cite>Mukashi wa Yokatta</cite> manga in Shonen Jump+ in 2023
+
+### Deadline: Live-Action Naruto Film in Talks to Cast Hiroyuki Sanada as Sarutobi
+Mon, 23 Nov 2026 20:22:42 -0500 — https://www.animenewsnetwork.com/news/2026-11-23/deadline-live-action-naruto-film-in-talks-to-cast-hiroyuki-sanada-as-sarutobi/.244138
+
+Charles Melton also in talks to join cast
+
+### #I'm Looking For a Zombie ‒ Episode 7
+Mon, 23 Nov 2026 19:30:00 -0500 — https://www.animenewsnetwork.com/review/im-looking-for-a-zombie/episode-7/.244136
+
+This whole mini-arc was nothing but setup, with barely any payoff.
+
+### Firefly Wedding ‒ Episode 7
+Mon, 23 Nov 2026 18:30:00 -0500 — https://www.animenewsnetwork.com/review/firefly-wedding/episode-7/.244135
+
+Our boy Shinpei is just as much a prisoner as Satoko is.
+
+### Blue Box Season 2 ‒ Episode 7
+Mon, 23 Nov 2026 17:30:00 -0500 — https://www.animenewsnetwork.com/review/blue-box-season-2/episode-7/.244120
+
+<cite>Blue Box</cite> is finally paying off all those romantic promises made in that very first episode, and it's come with interest to spare, ensuring all accounts are settled in full.
+
+### Black Clover Season 2 ‒ Episode 178
+Mon, 23 Nov 2026 16:30:00 -0500 — https://www.animenewsnetwork.com/review/black-clover-season-2/episode-178/.244066
+
+Nice cinematic touch ya got going on here, <i>Black Clover</i>. Nice cinematic touch. Somewhere out there, the ghost of Sergei Eisenstein is blushing.
+
+### Romelia War Chronicle ‒ Episode 8
+Mon, 23 Nov 2026 15:30:00 -0500 — https://www.animenewsnetwork.com/review/romelia-war-chronicle/episode-8/.244099
+
+Romelia is cunning enough to understand that wars are won first and foremost by the strength of the supply line.
+
+### Overgeared ‒ Episode 9
+Mon, 23 Nov 2026 14:30:00 -0500 — https://www.animenewsnetwork.com/review/overgeared/episode-9/.244103
+
+As <i>Overgeared</i> keeps trying to let Grid cake and eat it too, all its attempts to subvert the usual expectations of a gamer fantasy just circle back to playing them straight.
+
+### The Anime News Network Holiday Gift Guide 2026
+Mon, 23 Nov 2026 13:37:19 -0500 — https://www.animenewsnetwork.com/feature/2026-11-23/the-anime-news-network-holiday-gift-guide-2026/.243869
+
+Unlike boring catalogs, our gift guide helps you find what the otaku in your life might be missing, from fancy Blu-ray sets to a Baki rug for your at-home grappling matches!
+
+### Another Eden Begins Game Review
+Mon, 23 Nov 2026 12:00:00 -0500 — https://www.animenewsnetwork.com/review/game/nintendo-switch-switch-2-and-pc/another-eden-begins/.243532
+
+The story is a slow burn, but patience is rewarded in seeing some incredibly emotional storytelling.
+
+### Akane-banashi Season 2 Announces January 9 Debut
+Mon, 23 Nov 2026 11:54:44 -0500 — https://www.animenewsnetwork.com/news/2026-11-23/akane-banashi-season-2-announces-january-9-debut/.244109
+
+New season starts streaming on ABEMA, Netflix on January 10
 
 ### From the VIZ Elves to Your Shelves
 Mon, 23 Nov 2026 07:00:00 -0500 — https://www.animenewsnetwork.com/advertorial/2026-11-23/from-the-viz-elves-to-your-shelves/.244108
 
 For each and every fan, there’s something in store, give VIZ this season, and make spirits soar!
 
-### Magical Buffs Anime Announces 3 More Cast Members
-Mon, 23 Nov 2026 05:28:11 -0500 — https://www.animenewsnetwork.com/news/2026-11-23/magical-buffs-anime-announces-3-more-cast-members/.244111
-
-Yūki Hirose, Natsumi Takamori, Yuka Nukui join anime debuting on January 4
-
-### Live-Action Wakako-zake Season 10 Unveils January 6 Debut, Year-End Special, Opening Song Artists
-Sun, 22 Nov 2026 21:08:48 -0500 — https://www.animenewsnetwork.com/news/2026-11-22/live-action-wakako-zake-season-10-unveils-january-6-debut-year-end-special-opening-song-artists/.244087
-
-"Chichibu no Sake Meguri" special runs on December 30; idol group Title Mitei performs "Kyūfu" opening song
-
-### Champignon Witch Manga to Resume After 10 Months
-Sun, 22 Nov 2026 20:56:05 -0500 — https://www.animenewsnetwork.com/news/2026-11-22/champignon-witch-manga-to-resume-after-10-months/.244096
-
-Series debuted in October 2019
-
-### 'As a Reincarnated Aristocrat, I'll Use My Appraisal Skill' Season 3's New Video Announces More Cast
-Sun, 22 Nov 2026 19:39:33 -0500 — https://www.animenewsnetwork.com/news/2026-11-22/as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-season-3-new-video-announces-more-cast/.244094
-
-Anna Nagase, Kōsuke Toriumi, Ayumu Murase join series in episode 33
-
-### Sakamoto Days Manga Ends
-Sun, 22 Nov 2026 19:21:13 -0500 — https://www.animenewsnetwork.com/news/2026-11-22/sakamoto-days-manga-ends/.244098
-
-Series debuted in November 2020, with final volume shipping on April 30, 2027
-
-### Live-Action The Remarried Empress Series Drives Surge in Original Webtoon, Web Novel Readership
-Sun, 22 Nov 2026 16:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-22/live-action-the-remarried-empress-series-drives-surge-in-original-webtoon-web-novel-readership/.244078
-
-Global views of original webtoon increased approximately 35-fold during 2 weeks following show's November 3 premiere
-
-### I Became the Tyrant of a Defense Game Web Novel, Webtoon Gets Mobile Game Adaptation
-Sun, 22 Nov 2026 15:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-22/i-became-the-tyrant-of-a-defense-game-web-novel-webtoon-gets-mobile-game-adaptation/.244077
-
-Game will feature exploration, territory management, defensive battles
-
-### Martial Arts Manhwa Yeolhyeol Gangho to End Next Year After 33 Years
-Sun, 22 Nov 2026 14:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-22/martial-arts-manhwa-yeolhyeol-gangho-to-end-next-year-after-33-years/.244079
-
-Manhwa is scheduled to conclude in February 2027 with its 97th collected volume
-
-### Chainsaw Man, Jujutsu Kaisen, More Manga Rank on NYT November Bestseller List
-Sun, 22 Nov 2026 13:15:00 -0500 — https://www.animenewsnetwork.com/daily-briefs/2026-11-22/chainsaw-man-jujutsu-kaisen-more-manga-rank-on-nyt-november-bestseller-list/.244054
-
-The 22nd volume of Tatsuki Fujimoto's Chainsaw Man manga ranked at #4 on The New York Times' monthly Graphic Books and Manga bestseller list released in...
-
-### Chainsaw Man Ranks #2 on Bookscan's October Adult Graphic Novel List in U.S.
-Sun, 22 Nov 2026 12:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-22/chainsaw-man-ranks-no.2-on-bookscan-october-adult-graphic-novel-list-in-u.s/.244062
-
-13 manga volumes including <cite>Jujutsu Kaisen, The Summer Hikaru Died, The Guy She Was Interested In Wasn't a Guy at All, Dandadan, Phantom Busters, Demon Slayer, One Piece</cite> make list
-
-### Japanese Ghost Stories Folio Society Edition Book Review
-Sun, 22 Nov 2026 12:00:00 -0500 — https://www.animenewsnetwork.com/review/japanese-ghost-stories/folio-society-edition-book/.243250
-
-If you're already a fan of yokai, ghost stories, and folklore, this new edition of the early 20th-century book is a beautiful addition to any collection.
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### HIDIVE Announces 'Never-Before-Announced New Simulcasts' to Be Revealed at Anime Frontier in Schedule Unveil
+Mon, 23 Nov 2026 20:26:47 GMT — https://animecorner.me/hidive-announces-never-before-announced-new-simulcasts-to-be-revealed-at-anime-frontier-in-schedule-unveil/
+
+Anime streamer HIDIVE announced its schedule for Anime Frontier 2026 across December 4-6, which&hellip;
 
 ### The Detective Is Already Dead Season 2 Reveals New Trailer, Visual
 Sun, 22 Nov 2026 06:03:26 GMT — https://animecorner.me/the-detective-is-already-dead-season-2-reveals-new-trailer-visual/
@@ -89,6 +94,11 @@ Sun, 22 Nov 2026 03:26:06 GMT — https://animecorner.me/classroom-of-the-elite-
 It was announced at the MF Bunko J Autumn School Festival event that Classroom&hellip;
 
 ## MyAnimeList News
+
+### Psyren Announces Supporting Cast
+Mon, 23 Nov 2026 07:56:00 -0800 — https://myanimelist.net/news/74973042?_location=rss
+
+The official X (formerly Twitter) account for the television anime adaptation of Toshiaki Iwashiro s Psyren manga announced supporting cast on Monday. The anime series premiered on October 5 at 11.00 p.m. on Tokyo MX, followed by BS11 and Sun TV. Cast Kagetora Hyoudou: Takaya Kuroda (Mairimashita! Iruma-kun) Ian: Wataru Komada (One Punch Man 3) Kyle Tenjuin: Mutsumi Tamura (Tsue to Tsurugi no Wistoria) Shao Tenjuin: Mitsuki Saiga (Tongari Boushi no Atelier) Frederica Tenjuin: Ayana Taketat...
 
 ### Zatsuyou Fuyo Jutsushi ga Jibun no Saikyou ni Kizuku made Announces Additional Cast
 Mon, 23 Nov 2026 03:08:59 -0800 — https://myanimelist.net/news/74972403?_location=rss
