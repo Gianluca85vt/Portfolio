@@ -1,4 +1,4 @@
-# Review radar — updated 2026-11-24
+# Review radar — updated 2026-11-25
 
 Built by `scripts/harvest-embargoes.mjs` from Steam's upcoming releases,
 sorted by date and filtered to titles priced at €25 or more. That price line is
@@ -26,7 +26,7 @@ _Nothing else dated in the window._
 
 ---
 
-*850 upcoming titles scanned, 531 with a firm date inside
+*550 upcoming titles scanned, 458 with a firm date inside
 14 days, 0 above the price line. Titles showing
 "Q4 2026" or "To be announced" are dropped: a quarter says nothing about when
 reviews arrive.*

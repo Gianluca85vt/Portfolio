@@ -1,6 +1,41 @@
-# Manga — harvested 2026-11-24T15:16:14.356Z
+# Manga — harvested 2026-11-25T01:04:15.834Z
 
 ## Anime News Network
+
+### Magical Girl Raising Project restart ‒ Episode 8
+Tue, 24 Nov 2026 19:30:00 -0500 — https://www.animenewsnetwork.com/review/magical-girl-raising-project-restart/episode-8/.244146
+
+There's just one problem: Detec Bell isn't actually a very good detective. She's not even the best detective in the death game.
+
+### A Certain Dark Item ‒ Episode 7
+Tue, 24 Nov 2026 18:30:00 -0500 — https://www.animenewsnetwork.com/review/a-certain-dark-item/episode-7/.244147
+
+Kaede acts as a dark mirror to Mugino.
+
+### Devils' Crest ‒ Episode 4
+Tue, 24 Nov 2026 17:30:00 -0500 — https://www.animenewsnetwork.com/review/devils-crest/episode-4/.244145
+
+<cite>Lord of the Flies</cite> anyone?
+
+### Rascal Does Not Dream of a Dear Friend Anime Film Review
+Tue, 24 Nov 2026 12:00:00 -0500 — https://www.animenewsnetwork.com/review/rascal-does-not-dream-of-a-dear-friend-anime-film/.243539
+
+Not only does this film have to tie up the remaining ongoing mystery from the previous season, but it also needs to put a capstone on the entire franchise as a whole.
+
+### HIDIVE to Premiere Murciélago Anime at Anime Frontier Event in Texas
+Tue, 24 Nov 2026 11:24:04 -0500 — https://www.animenewsnetwork.com/news/2026-11-24/hidive-to-premiere-murcielago-anime-at-anime-frontier-event-in-texas/.244121
+
+Fort Worth convention to host world premiere on December 5 before January 2027 TV debut
+
+### Duel Masters Pure PLAY'S Manga Ends on November 30
+Tue, 24 Nov 2026 11:05:03 -0500 — https://www.animenewsnetwork.com/news/2026-11-24/duel-masters-pure-play-manga-ends-on-november-30/.244139
+
+Series debuted on September September 18
+
+### Digimon Become Tamagotchi & Tamagotchi Become Digimon!
+Tue, 24 Nov 2026 10:42:43 -0500 — https://www.animenewsnetwork.com/interest/2026-11-24/digimon-become-tamagotchi-and-tamagotchi-become-digimon/.244155
+
+Digimon & Tamagotchi franchises both celebrate 30th anniversary with new crossover retro toys
 
 ### Twisted-Wonderland: Episode of Savanaclaw Anime's New Video Unveils Ending Song
 Tue, 24 Nov 2026 05:14:30 -0500 — https://www.animenewsnetwork.com/news/2026-11-24/twisted-wonderland-episode-of-savanaclaw-anime-new-video-unveils-ending-song/.244154
@@ -26,41 +61,6 @@ Staff: Voice comic itself does not use generative AI
 Mon, 23 Nov 2026 22:11:47 -0500 — https://www.animenewsnetwork.com/news/2026-11-23/jimoto-no-ijimekko-tachi-ni-shikaeshi-shiyo-to-shitara-anime-video-unveils-cast/.244049
 
 Kaori Maeda, Yūko Natsuyoshi, more star in romcom debuting in 2027
-
-### Psyren TV Anime Adds 6 Cast Members
-Mon, 23 Nov 2026 22:04:07 -0500 — https://www.animenewsnetwork.com/news/2026-11-23/psyren-tv-anime-adds-6-cast-members/.244142
-
-Takaya Kuroda, Wataru Komada, Mutsumi Tamura, Mitsuki Saiga, Ayana Taketatsu, Kana Ichinose join cast
-
-### Manga Creator Tsukasa Sei Dies
-Mon, 23 Nov 2026 20:34:14 -0500 — https://www.animenewsnetwork.com/news/2026-11-23/manga-creator-tsukasa-sei-dies/.244102
-
-Sei serialized <cite>Mukashi wa Yokatta</cite> manga in Shonen Jump+ in 2023
-
-### Deadline: Live-Action Naruto Film in Talks to Cast Hiroyuki Sanada as Sarutobi
-Mon, 23 Nov 2026 20:22:42 -0500 — https://www.animenewsnetwork.com/news/2026-11-23/deadline-live-action-naruto-film-in-talks-to-cast-hiroyuki-sanada-as-sarutobi/.244138
-
-Charles Melton also in talks to join cast
-
-### #I'm Looking For a Zombie ‒ Episode 7
-Mon, 23 Nov 2026 19:30:00 -0500 — https://www.animenewsnetwork.com/review/im-looking-for-a-zombie/episode-7/.244136
-
-This whole mini-arc was nothing but setup, with barely any payoff.
-
-### Firefly Wedding ‒ Episode 7
-Mon, 23 Nov 2026 18:30:00 -0500 — https://www.animenewsnetwork.com/review/firefly-wedding/episode-7/.244135
-
-Our boy Shinpei is just as much a prisoner as Satoko is.
-
-### Blue Box Season 2 ‒ Episode 7
-Mon, 23 Nov 2026 17:30:00 -0500 — https://www.animenewsnetwork.com/review/blue-box-season-2/episode-7/.244120
-
-<cite>Blue Box</cite> is finally paying off all those romantic promises made in that very first episode, and it's come with interest to spare, ensuring all accounts are settled in full.
-
-### Black Clover Season 2 ‒ Episode 178
-Mon, 23 Nov 2026 16:30:00 -0500 — https://www.animenewsnetwork.com/review/black-clover-season-2/episode-178/.244066
-
-Nice cinematic touch ya got going on here, <i>Black Clover</i>. Nice cinematic touch. Somewhere out there, the ghost of Sergei Eisenstein is blushing.
 
 ## Crunchyroll News
 

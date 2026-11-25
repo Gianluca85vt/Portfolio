@@ -1,172 +1,177 @@
-# Film & TV — harvested 2026-11-24T15:16:14.356Z
+# Film & TV — harvested 2026-11-25T01:04:15.834Z
 
 ## Variety
 
-### Murder of JonBenet Ramsey Trailer Puts Child s Parents Under the Microscope
-Tue, 24 Nov 2026 15:14:27 +0000 — https://variety.com/2026/tv/news/murder-of-jonbenet-ramsey-trailer-netflix-1236956945/
+### Philip Rosenberg, Oscar-Winning Production Designer for All That Jazz, Dies at 91
+Wed, 25 Nov 2026 00:50:47 +0000 — https://variety.com/2026/film/news/philip-rosenberg-dead-all-that-jazz-1236957540/
 
-Netflix has released the first full trailer for the upcoming limited series The Murder of JonBenét Ramsey. In the trailer, series stars Melissa McCarthy and Clive Owen play Ramsey s parents, who come under intense scrutiny from police and the media after their daughter is found dead. Check out the full trailer below. As previously reported, [ ]
+Philip Rosenberg, a production designer and art director who was part of the team that won the art direction-set decoration Oscar for All That Jazz, died Oct. 28 in West Palm Beach, Florida. He was 91. His death was announced by his nephew, Alan Rosenberg. Rosenberg s first film job was as design assistant on the [ ]
 
-### Tidal Bans AI-Generated Music
-Tue, 24 Nov 2026 15:06:26 +0000 — https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/
+### ‘One Last Order’: Beloved Drive-Thru Worker Sighle Williams Says ‘I Miss the Community’ as Viral Netflix Doc Streams
+Wed, 25 Nov 2026 00:30:00 +0000 — https://variety.com/2026/tv/news/one-last-order-netflix-drive-thru-worker-sighle-williams-1236957515/
 
-The music streaming service Tidal said Tuesday that it would ban tracks it believes are completely AI-generated starting next month, a move its leader believes “will resonate with both artists and listeners alike.” The service will remove the AI tracks starting Dec. 9, making Tidal the first music streaming platform to ban AI music entirely. [ ]
+Sighle Williams served customers at a Florida burger joint for 37 years. And on her last day at Mac’s Drive Thru, it seemed like the entire city of Gainesville came out to say goodbye. “A lot of people told me they were going to come. But I wasn’t expecting that many people,” Williams tells Variety. [ ]
 
-### Sweden’s Oscar Entry Adult Supervision Closes Further Deals (EXCLUSIVE)
-Tue, 24 Nov 2026 15:00:00 +0000 — https://variety.com/2026/film/global/sweden-oscar-entry-adult-supervision-further-deals-1236956858/
+### Curry Barker’s ‘Anything But Ghosts’ to Release in Premium HDR by Barco Film News in Brief- Film News in Brief
+Wed, 25 Nov 2026 00:05:00 +0000 — https://variety.com/2026/film/news/film-news-in-brief-nov-23-2026-1236955894/
 
-“Adult Supervision,” Sweden’s entry for best international feature film at the Academy Awards, has closed further distribution deals. The latest round of international sales, handled by Heretic, include Filmin for Spain, Lighthouse Entertainment for Germany, Pictureworks for India, Nachson Films for Israel and Xenix for Switzerland. Discussions for France are at an advanced stage. The [ ]
+Obsession director Curry Barker is returning with his second feature film, “Anything But Ghosts,” which will be released in premium HDR by Barco. The film, which follows a group of fame-seeking aspiring “ghosthunters” navigating terrifyingly unfamiliar territory, premieres in theaters May 7 and features a cast including Violet McGraw, Chris Reinacher, Bryce Dallas Howard and [ ]
 
-### Indian Feature Carretera Austral Lines Up Chilean Partner for Southern Chile Shoot (EXCLUSIVE)
-Tue, 24 Nov 2026 14:51:28 +0000 — https://variety.com/2026/film/markets-festivals/indian-feature-carretera-austral-chilean-partner-praxia-1236956925/
+### Golden Globes: ‘Spider-Man: Brand New Day’ Goes Comedy, ‘Dune 3’ Skips Box Office Achievement Category and More (EXCLUSIVE)
+Tue, 24 Nov 2026 23:31:30 +0000 — https://variety.com/2026/film/awards/golden-globes-2027-spider-man-comedy-dune-box-office-1236957413/
 
-Three friends from India take on one of the most remote roads on the planet in Carretera Austral – A Journey to the End of the World, a fiction feature that Mumbai-based Spherecho Productions plans to shoot in southern Chile with help from Chilean outfit Praxia Producciones. The two companies signed a letter of intent [ ]
+The Golden Globes ballots are out, and some of the year s biggest surprises are emerging from the official reminder lists sent to members. Variety has exclusively obtained the official motion picture eligibility list for the 84th Golden Globes, which lays out every film submitted across seven categories along with the actors, directors, writers and composers [ ]
 
-### Thanksgiving Box Office: Focker In-Law and Disney s Hexed Vie for No. 2 Behind Sunrise on the Reaping
-Tue, 24 Nov 2026 14:51:18 +0000 — https://variety.com/2026/film/box-office/thanksgiving-box-office-projections-sunrise-on-the-reaping-focker-in-law-disney-hexed-1236956070/
+### Patrick Stewart Was ‘Struggling With His Health’ on Last Day of Filming ‘Avengers: Doomsday’; Marvel Plans to Add Tribute to Movie
+Tue, 24 Nov 2026 23:27:20 +0000 — https://variety.com/2026/film/news/patrick-stewart-avengers-doomsday-marvel-tribute-1236957522/
 
-Movie theater owners are hoping for a Thanksgiving box office feast. Lionsgate s The Hunger Games: Sunrise on the Reaping is poised to dominate over the holiday with projections of $80 million to $90 million between Wednesday and Sunday. That s after the dystopian prequel launched last weekend to $120 million, registering as the fifth-largest domestic debut [ ]
+Marvel Studios president Kevin Feige and co-directors Anthony and Joe Russo are getting candid about filming “Avengers: Doomsday” with the late star Patrick Stewart, whose role became his final on-screen appearance after his death in October. “He stood up and he gave a speech to the crew,” Feige told Entertainment Weekly of Stewart s final day [ ]
 
-### India-Chile Feature The Fragile Empire of Ice to Span Antarctica, the Arctic and the Himalayas (EXCLUSIVE)
-Tue, 24 Nov 2026 14:29:33 +0000 — https://variety.com/2026/film/markets-festivals/india-chile-fragile-empire-of-ice-three-poles-co-production-1236956896/
+### Black Bear Buys Thriller Seeker, Starring Obsession s Cooper Tomlinson and Off Campus Actor Mika Abdalla (EXCLUSIVE)
+Tue, 24 Nov 2026 22:46:09 +0000 — https://variety.com/2026/film/news/black-bear-seeker-cooper-tomlinson-mika-abdalla-1236957478/
 
-Chilean filmmaker Jorge López Sotomayor and Indian production company Pantellisense have signed a letter of intent to co-produce The Fragile Empire of Ice, a feature that the partners plan to open up from Antarctica to the Arctic and the Himalayas. The agreement was signed at the WAVES Film Bazaar, the market component of the International [ ]
+Black Bear has acquired Seeker, a thriller featuring Obsession actor Cooper Tomlinson, Off Campus breakout Mika Abdalla and Happy Death Day star Jessica Rothe. The company has North American and U.K. distribution rights to the movie, which was introduced to buyers at this year s AFM. Directed by Adam Carter Rehmeier and written by Michael Learner, [ ]
 
-### U2 Announces North American Leg of Greatest Show on Earth Global Stadium Tour for 2027
-Tue, 24 Nov 2026 14:15:00 +0000 — https://variety.com/2026/music/news/u2-announces-north-american-leg-greatest-show-on-earth-tour-1236956892/
+### NBC ‘Monitoring’ Storm That Could Ground Macy’s Thanksgiving Day Parade Balloons: ‘Decisions Will Be Made on Parade Morning’
+Tue, 24 Nov 2026 22:24:06 +0000 — https://variety.com/2026/tv/news/nbc-storm-macys-thanksgiving-day-parade-balloons-1236957441/
 
-U2 has announced the North American leg of the Carnaval De Luz Presents: The Greatest Show on Earth World Tour 2027. The stadium tour includes 15 stadium shows set for the United States and Canada featuring support from Stephen Wilson Jr. and the War on Drugs. The North American leg kicks off on August 13 [ ]
+The 100th celebration of the Macy s Thanksgiving Day Parade in New York City is finding itself at the mercy of the weather gods. It s made it through rain and even snow, but this time it s facing an incoming storm that is threatening to bring heavy winds. If things get too windy, the iconic balloons could [ ]
 
-### Abortion Dark Comedy Nose Bone Takes Top Cash Grant as India s WAVES Film Bazaar 2026 Wraps
-Tue, 24 Nov 2026 14:15:00 +0000 — https://variety.com/2026/film/markets-festivals/abortion-dark-comedy-nose-bone-waves-film-bazaar-winners-1236956890/
+### ‘The Hunger Games: Sunrise on the Reaping’: Creating Glenn Close’s Over-the-Top Looks by Leaning Into Drusilla’s ‘Narcissist’ Nature
+Tue, 24 Nov 2026 22:00:00 +0000 — https://variety.com/2026/film/news/hunger-games-sunrise-reaping-drusilla-costumes-hair-makeup-1236955506/
 
-Garima Pura s Nose Bone, a dark comedy about a young Punjabi woman racing to pay for an abortion, won the top $10,000 NFDC cash grant in the Co-Production Market as WAVES Film Bazaar 2026 closed in Goa on Tuesday with its awards ceremony. Pura, a co-writer of the Oscar-winning documentary The Elephant Whisperers, is producing [ ]
+Being a member of Capitol society in Panem is an honor not to be taken lightly, at least if you re Drusilla Sickle, played by screen legend Glenn Close in “The Hunger Games: Sunrise on the Reaping.” In the book, Drusilla is the cruel and vain escort for Haymitch Abernathy (Joseph Zada) and the rest of [ ]
 
-### ‘SNL’ Heads to France With Canal+, NBCUniversal Unveiling Cast and Manu Payet as First Host (EXCLUSIVE)
-Tue, 24 Nov 2026 13:37:36 +0000 — https://variety.com/2026/tv/global/snl-heads-france-canal-nbcuniversal-cast-manu-payet-1236956855/
+### Steven Hack, American Horror Story Actor and Original Cast Member of ‘Cats,’ Dies at 68
+Tue, 24 Nov 2026 21:53:08 +0000 — https://variety.com/2026/film/people-news/steven-hack-dead-american-horror-story-cats-1236957417/
 
-“Saturday Night Live” is getting a French makeover, with comedian and actor Manu Payet set to host the inaugural episode on Dec. 19. Titled “SNL France,” the new French adaptation will air on pay-TV channel Canal+, which has broadcast the original American “SNL” for more than a decade. The 52-minute episode will air live in [ ]
+Steven Hack, an original cast member in the Broadway production of “Cats” who appeared in TV series including American Horror Story, died Nov. 19 in Los Angeles following a sudden and unexpected cardiac event, Interact Theatre Company confirmed on social media. He was 68. Hack performed and understudied in multiple roles in Cats, including Mungojerrie, [ ]
 
-### Netflix Partnering With BBC to to Bring Preschool Shows to Streamer, Fund New Commissions
-Tue, 24 Nov 2026 13:00:21 +0000 — https://variety.com/2026/tv/global/netflix-bbc-deal-preschool-shows-new-commissions-1236956807/
+### Men’s Wearhouse Kicks Off Black Friday With Designer Discounts on Suits and Tuxedos Just in Time For Awards Season
+Tue, 24 Nov 2026 21:51:07 +0000 — https://variety.com/2026/shopping/news/mens-wearhouse-black-friday-designer-deals-shop-online-1236957432/
 
-Netflix has partnered with the BBC to bring a number of shows from its preschool channel CBeebies, including Teletubbies, Hey Duggee and Numberblocks, to the streamer. As part of a six-month trial, 24 programs from the CBeebies library will be made available via a dedicated CBeebies-branded hub from Dec. 2 in the U.K. The titles [ ]
+Just in time for holiday parties and the upcoming awards season, Men’s Wearhouse has kicked off its Black Friday sale early, slashing prices across its expansive selection of suiting, formalwear and everyday wardrobe staples. The menswear retailer is offering discounts on top brands such as Calvin Klein, Joseph Abboud, Kenneth Cole and Nautica, with particularly [ ]
 
 ## The Hollywood Reporter
 
-### David Fincher Says He Turned Down The Rings of Power, Calls DC Studios Dysfunctional
-Tue, 24 Nov 2026 15:01:23 +0000 — https://www.hollywoodreporter.com/tv/tv-news/david-fincher-lord-of-the-rings-of-power-1236762026/
+### Dancing With the Stars Season 35 Couples Perform Their Last Dances as a Winner Is Crowned in the Finale: See the Scores, Who Won (Updating Live)
+Wed, 25 Nov 2026 00:58:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/dwts-season-35-finale-winner-week-11-recap-scores-freestyle-1236762506/
 
-The director says he was asked to take on 'The Lord of the Rings' TV series, but balked at the "corporate" nature of the job.
+Tatyana Ali, Ezra Frech, Amber Glenn, Maura Higgins and Connor Wood are competing for their chance to win the Len Goodman Mirrorball Trophy.
 
-### Jason Segel Boards Meeting Your Maker, Short About a Suicidal TV Puppet, as Executive Producer (Exclusive)
-Tue, 24 Nov 2026 14:45:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/jason-segel-meeting-your-maker-short-film-executive-producer-1236761095/
+### Where to Stream Dancing With the Stars Season 35 Finale Live Online
+Tue, 24 Nov 2026 22:37:56 +0000 — https://www.hollywoodreporter.com/tv/tv-news/watch-dancing-with-the-stars-finale-2026-season-35-free-abc-1236762567/
 
-Written and directed by Gregory J.M. Kasunich, the Oscar-qualified dark comedy short stars Jonathan Kite ('2 Broke Girls') and Otis, a depressed kids' TV puppet star who must confront his creator.
+The special three-hour event — airing live across all U.S. time zones for the first time in show history — will see the final five couples perform three routines each.
 
-### Skydance Products and Publishing Sets Leadership Team Under Josh Silverman
-Tue, 24 Nov 2026 14:25:56 +0000 — https://www.hollywoodreporter.com/business/business-news/skydance-products-publishing-sets-leadership-josh-silverman-1236762013/
+### IATSE Reaches Tentative Agreement for Broadway Stagehands
+Tue, 24 Nov 2026 21:52:47 +0000 — https://www.hollywoodreporter.com/business/business-news/iatse-reaches-tentative-agreement-broadway-stagehands-1236762558/
 
-Silverman's team will add oversight of DC Comics, joining existing product and publishing leaders.
+However, the union said its Broadway wardrobe workers are still without a new contract and have voted to authorize a strike.
 
-### How Landman Star Michelle Randolph Found Love In a Rental Car
-Tue, 24 Nov 2026 14:15:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/michelle-randolph-interview-landman-clashing-through-snow-1236760773/
+### Alfonso Ribeiro on the Wild Ride of DWTS Season 35, Reuniting With Tatyana Ali and Why He Won’t Compete in an All-Winners Season
+Tue, 24 Nov 2026 21:46:52 +0000 — https://www.hollywoodreporter.com/tv/tv-features/alfonso-ribeiro-dwts-season-35-tatyana-fan-discourse-all-stars-1236762413/
 
-After stealing scenes in not one but two Taylor Sheridan shows, the 29-year-old actress takes the wheel of Prime Video's new holiday romcom 'Clashing Through the Snow' — because "sometimes you just want a predictable ending."
+To commemorate the finale of ‘DWTS,’ Ribeiro chats with THR about the ups-and-downs of season 35, his favorite part about hosting the show and why he can’t predict who will join him in the winners circle on Tuesday night.
 
-### Sasha Velour s Travesty Sets Off-Broadway Debut (Exclusive)
-Tue, 24 Nov 2026 14:00:00 +0000 — https://www.hollywoodreporter.com/lifestyle/arts/sasha-velour-travesty-off-broadway-debut-1236760638/
+### Broadway Box Office: Hamilton Rises Back Up to $3M, Here There are Blueberries Cracks $1M
+Tue, 24 Nov 2026 21:25:33 +0000 — https://www.hollywoodreporter.com/lifestyle/arts/broadway-box-office-hamilton-rises-back-up-to-3m-here-there-are-blueberries-cracks-1m-1236762460/
 
-Marking the 'RuPaul's Drag Race' winner's first off-Broadway showing, Feb. 28 will be opening night.
+'Inter Alia,' starring Rosamund Pike, is also continuing to build momentum.
 
-### I See Buildings Fall Like Lightning Tops British Independent Film Awards Craft Winners
-Tue, 24 Nov 2026 12:45:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/i-see-buildings-bifa-craft-award-winners-full-list-film-1236761903/
+### TV Ratings: NBA Logs Winning Streak in First Month of the Season
+Tue, 24 Nov 2026 21:19:54 +0000 — https://www.hollywoodreporter.com/tv/tv-news/nba-tv-ratings-up-2026-27-first-month-1236762311/
 
-Shaheen Baig has claimed another best casting BIFA for her work on the Anthony Boyle, Joe Cole, Daryl McCormack, Lola Petticrew and Jay Lycurgo-starring drama.
+Audiences on national media partners NBC/Peacock, ESPN and Prime Video are up by 37 percent year to year.
 
-### Only Murders in the Building Stars Steve Martin and Martin Short, Without Selena Gomez, Cross Pond for Star-Studded Season 6 London Premiere
-Tue, 24 Nov 2026 09:51:56 +0000 — https://www.hollywoodreporter.com/tv/tv-news/only-murders-in-the-building-season-6-london-premiere-stars-1236761845/
+### How Amin Joseph Brought Humanity to Sonny Liston in The Greatest
+Tue, 24 Nov 2026 20:56:02 +0000 — https://www.hollywoodreporter.com/tv/tv-features/who-plays-sonny-liston-in-the-greastest-meet-amin-joseph-1236759934/
 
-Nicola Coughlan and Simone Ashley came together for a mini 'Bridgerton' reunion, while the likes of Olivia Colman, Jim Broadbent, Richard E. Grant and David Tennant added even more Brit star power.
+Amazon's Muhammad Ali series rewrites history for one of boxing's biggest heels.
 
-### You Can See Everything Now Streaming: Where to Watch Nathan Fielder s Elizabeth Holmes Doc Online
-Tue, 24 Nov 2026 05:01:50 +0000 — https://www.hollywoodreporter.com/movies/movie-news/you-can-see-everything-streaming-release-fielder-holmes-doc-1236761736/
+### Parke s Viral Sweatshirts Get Rare Price Drop for Black Friday
+Tue, 24 Nov 2026 20:51:27 +0000 — https://www.hollywoodreporter.com/lifestyle/shopping/parke-black-friday-sale-2026-discount-sweatshirt-archives-1236762383/
 
-Fielder and Lance Oppenheim brought viewers into Holmes' home. Now she's coming into yours.
+The sale comes alongside a seasonal drop that revives sold-out favorites.
 
-### 2026 International Emmy Winners Revealed: Carême Wins Best Drama
-Tue, 24 Nov 2026 03:12:23 +0000 — https://www.hollywoodreporter.com/tv/tv-news/2026-international-emmys-winners-list-1236761237/
+### Steven Hack, Original ‘Cats’ Castmember and Busy Onscreen Character Actor, Dies at 68
+Tue, 24 Nov 2026 20:35:15 +0000 — https://www.hollywoodreporter.com/tv/tv-news/steven-hack-dead-cats-interact-theatre-company-1236762464/
 
-Other top winners include 'División Palermo' for best comedy, best actor Bobby Schofield for 'Unforgivable' and best actress Mona Mina Leon for 'Holy Sh!t.'
+His credits ranged from ‘Jake and the Fatman’ and ‘Seinfeld’ to ‘Pam Tommy’ and ‘Amsterdam.’
 
-### Antoine Fuqua Accused of Pointing Handgun, Using Antisemitic Slur in Assault Lawsuit
-Tue, 24 Nov 2026 02:56:12 +0000 — https://www.hollywoodreporter.com/movies/movie-news/antoine-fuqua-assault-lawsuit-accused-pointing-handgun-1236761725/
+### The Pulitzer-Winning Play Purpose Finally Came to Los Angeles. But That Doesn t Mean It s Gone Hollywood.
+Tue, 24 Nov 2026 20:31:40 +0000 — https://www.hollywoodreporter.com/lifestyle/arts/branden-jacobs-jenkins-purpose-playwright-never-adapt-his-work-1236761628/
 
-A spokesperson for the director denied the allegations and said, "It's not true."
+Branden Jacobs-Jenkins reunites the entire company, including Kara Young and director Phylicia Rashad, for a sold-out run at the Geffen Playhouse.
 
 ## Deadline
 
-### Danny Burstein Caroline Portu Among Cast Added To Ari Frenkel’s See You On The Other Side As Production Wraps
-Tue, 24 Nov 2026 15:15:00 +0000 — https://deadline.com/2026/11/danny-burstein-caroline-portu-join-see-you-on-other-side-1237232526/
+### X-Men s James Marsden On Cyclops Leading In Avengers: Doomsday After Taking Back Seat To Wolverine : It Was Important That My Return Felt Meaningful
+Wed, 25 Nov 2026 00:22:55 +0000 — https://deadline.com/2026/11/james-marsden-cyclops-x-men-avengers-doomsday-wolverine-1237233013/
 
-EXCLUSIVE: Tony winner and record nine-time nominee Danny Burstein (Cupertino), Caroline Portu (Tony), Camrus Johnson (One Piece), Jetta Juriansz (Mistakes You Make Before You Die), Ori Laizer (Shababnikim), Liz Larsen (The Baltimorons) have joined the cast of indie feature See You on the Other Side from writer, director and actor Ari Frenkel (I’m A Virgo). [ ]
+James Marsden is back as Cyclops in Avengers: Doomsday after originating the role in the 2000s X-Men films. In a new interview, the actor teased the new Marvel film, saying fans will be very pleased and noting that Cyclops finally gets to lead the mutants. I think fans are going to be very pleased. One of [ ]
 
-### The Murder of JonBenét Ramsey : Melissa McCarthy Clive Owen Play Grieving, Overly Scrutinized Parents In Trailer For Netflix Series
-Tue, 24 Nov 2026 15:00:00 +0000 — https://deadline.com/2026/11/the-murder-of-jonbenet-ramsey-trailer-netflix-series-1237232085/
+### Everything We Know About Gina Prince-Bythewood’s ‘Children Of Blood And Bone’ Movie So Far
+Tue, 24 Nov 2026 23:46:44 +0000 — https://deadline.com/feature/children-of-blood-and-bone-movie-news-updates-adaptation-1237012631/
 
-Netflix has revealed a trailer for its upcoming scripted series surrounding the infamous unsolved killing of JonBenét Ramsey. Released Tuesday, the trailer opens on the early hours of December 25, 1996, when JonBenét s parents John (Clive Owen) and Patsy (Melissa McCarthy) wake to find their daughter missing and a ransom note on their kitchen counter. [ ]
+As summer draws to a close, the theatrical release of Children of Blood and Bone draws nearer. The film adaptation of Tomi Adeyemi’s YA fantasy is directed by Gina Prince-Bythewood, and it stars quite a stacked cast of actors and characters. For everything we know about the Children of Blood and Bone movie, read on. [ ]
 
-### YouTube True-Crime Channel Dr. Insanity Launches Podcast With Audioboom
-Tue, 24 Nov 2026 15:00:00 +0000 — https://deadline.com/2026/11/youtube-true-crime-channel-dr-insanity-podcast-audioboom-1237232398/
+### Take-Two CEO Strauss Zelnick To Talk Grand Theft Auto VI At SXSW London 2027; More Speakers Announced
+Tue, 24 Nov 2026 23:39:19 +0000 — https://deadline.com/2026/11/gta-6-take-two-ceo-strauss-zelnick-sxsw-london-2027-speaker-1237232963/
 
-Earlier this summer, Ed Simpson teamed with Content Partners to buy YouTube true-crime channel Dr. Insanity. Wonderloom Media, founded by Wheelhouse’s former chief strategy officer and the investment firm, is now launching a Dr. Insanity podcast. They have teamed with Audioboom on the project. Audioboom is behind podcasts including Pod Save America and The Tim [ ]
+Take-Two Interactive CEO Strauss Zelnick, the man behind Grand Theft Auto VI, will speak at SXSW London 2027, organizers announced Tuesday. Zelnick, who will talk about building one of the world s biggest entertainment franchises, is among the first-wave of speakers for SXSW London, which returns to Shoreditch, east London, for its third year in May. [ ]
 
-### Elev8on French Wealth Manager Anato To Find European Investments For U.S. Stars
-Tue, 24 Nov 2026 14:43:35 +0000 — https://deadline.com/2026/11/elev8on-anato-europe-investments-american-stars-1237232440/
+### In Joanna Natasegara’s Oscar Contender ‘The Disciple,’ Wu-Tang Clan Superfan Cilvaringz Morphs Into A Killer Bee
+Tue, 24 Nov 2026 23:34:49 +0000 — https://deadline.com/2026/11/the-disciple-a-wu-tang-fable-director-joanna-natasegara-interview-1237232945/
 
-EXCLUSIVE: Elev8on Management has spent years finding American talent routes on to European screens, and now its going help them build business empires there. The Paris-based talent management company has teamed with French wealth advisory Anato Gestion Privée to launch Elev8on Private, a division aimed at finding U.S. talent investment opportunities in Europe. We hear [ ]
+Wu-Tang Clan has big plans for Thanksgiving. The hip-hop legends will be in Detroit to headline the halftime show for the NFL game between the host Lions and the Chicago Bears (U2 will do the halftime honors for the Thanksgiving Eve game in LA between the Green Bay Packers and the Los Angeles Rams, airing [ ]
 
-### David Tennant Joins The Four Seasons As Series Regular: The Perfect Addition To Our Ensemble
-Tue, 24 Nov 2026 14:30:00 +0000 — https://deadline.com/2026/11/david-tennant-the-four-seasons-series-regular-gianpiero-s3-1237232014/
+### Avengers: Doomsday Final Trailer Clocks 563M Views, Best Ever For Disney; 2nd Most Viewed Of All-Time
+Tue, 24 Nov 2026 23:31:33 +0000 — https://deadline.com/2026/11/avengers-doomsday-final-trailer-viewership-record-1237232943/
 
-EXCLUSIVE: David Tennant s cameo at the end of The Four Seasons Season 2 finale was more than an amusing callback to the imaginary boyfriend Anne (Kerri Kenney-Silver) had conjured up earlier in the season a lot more. While a Season 3 return for Tennant was expected after that cliffhanger, Deadline can reveal that the [ ]
+EXCLUSIVE: Distribution sources always like to downplay the straight line between a telling analytic about a pic and its opening box office. However, it s pretty clear from the traffic for the final Avengers: Doomsday trailer, the Russo Brothers-directed Disney/Marvel movie is bound for some sort of box office opening record. In its first 24 hours, [ ]
 
-### Matthew Lawrence, Madison Lawlor Influencer Nick Champa Among Cast For Indie Comedy Pilot Truck Or Treat
-Tue, 24 Nov 2026 14:30:00 +0000 — https://deadline.com/2026/11/matthew-lawrence-madison-lawlor-nick-champa-truck-or-treat-1237232485/
+### Adam Driver Teases Mister Sinister Role In Marvel Reboot: I Was A Big X-Men Fan
+Tue, 24 Nov 2026 23:17:03 +0000 — https://deadline.com/2026/11/adam-driver-x-men-reboot-mister-sinister-marvel-studios-1237232938/
 
-EXCLUSIVE: Matthew Lawrence (Boy Meets World) and Madison Lawlor (The Conjuring: Last Rites) are starring in the independent comedy pilot Truck or Treat, created by Olivia Blue (Theater is Dead). Principal photography on the U.S. project recently wrapped with cast also including Blue, Sean O’Bryan (Love, Victor), Jeanette O’Connor (The Pitt), Katherine Kendall (She Said), [ ]
+Adam Driver is joining the Marvel Cinematic Universe in the upcoming X-Men reboot directed by Jake Schreier. The Paper Tiger actor is set to play the villain Mister Sinister, and while appearing on Late Night with Seth Meyers, he teased his new role. When the late-night show host asked Driver if he was aware of his character before joining [ ]
 
-### West End Hit The Comedy About Spies Will Transfer To Broadway This Spring
-Tue, 24 Nov 2026 14:15:00 +0000 — https://deadline.com/2026/11/comedy-about-spies-broadway-1237232532/
+### The Body Summons 86% Audience Boost To Lead Netflix s Weekly TV Rankings
+Tue, 24 Nov 2026 23:08:19 +0000 — https://deadline.com/2026/11/the-body-netflix-viewership-season-1-premiere-1237232942/
 
-The award-winning Mischief Theatre production of The Comedy About Spies, direct from two sold-out engagements in London’s West End, will transfer to Broadway for a strictly limited 18-week engagement this spring. Previews begin Saturday, March 27, 2027, at Broadway s Music Box Theatre ahead of an official opening night on Wednesday, April 14, 2027. The engagement [ ]
+The Body is summoning some interest on Netflix. The YA drama tallied 9.5 million views from November 16 to 22, taking No. 1 on the English TV list for its first full week on the streamer. That s an 86% increase from the 5.1 million views it managed in its first few days of availability after [ ]
 
-### BBC To Launch CBeebies Hub On Netflix
-Tue, 24 Nov 2026 13:00:00 +0000 — https://deadline.com/2026/11/bbc-launch-cbeebies-hub-netflix-hey-duggee-teletubbies-1237231627/
+### Black Friday Streaming Deals Offered By Disney+, HBO Max, Paramount+, Peacock More
+Tue, 24 Nov 2026 21:49:34 +0000 — https://deadline.com/2026/11/black-friday-streaming-deals-disney-hbo-max-paramount-peacock-1237231785/
 
-CBeebies is coming to Netflix. For six months from December 2, a CBeebies branded hub will launch on the streamer featuring two-dozen shows from the BBC’s pre-school network including Hey Duggee, Numberblocks and Teletubbies. At the same time, Netflix has committed to funding and partnering on a small number of new CBeebies commissions. This all [ ]
+Bargain-hunters looking for values in streaming around Black Friday (the day after Thanksgiving) will find several major services all offering steeper-than-usual discounts. Disney+ and Hulu on Tuesday rolled out a bundle of their ad-supported tiers for $4.99 a month for the first 12 months, a savings of 61% over the regular rate. The offer is [ ]
 
-### British Independent Film Awards: I See Buildings Fall Like Lightning, Savage House, Ink The Magic Faraway Tree Among Craft Winners
-Tue, 24 Nov 2026 12:47:30 +0000 — https://deadline.com/2026/11/bifas-craft-awards-ink-the-magic-faraway-tree-1237232480/
+### Broadway Producers Stagehands Union Reach Tentative Contract Deal, Avoiding Holiday Strike
+Tue, 24 Nov 2026 21:38:59 +0000 — https://deadline.com/2026/11/broadway-producers-stagehands-union-deal-1237232887/
 
-The British Independent Film Awards has unveiled the winners of its 10 film craft categories ahead of next month s official BIFA ceremony. Clio Barnard’s I See Buildings Fall Like Lightning, which follows five lifelong friends struggling with life at the age of 30, won three awards including Shaheen Baig for Best Casting, who previously won [ ]
+The Broadway League and IATSE Local One of theater workers have reached a tentative deal to avoid a strike that could have disrupted the lucrative holiday season. The agreement is pending ratification by union members. In a joint statement from the League and the union, the two sides announced they have reached a tentative agreement, [ ]
 
-### Netflix Sets ‘March Of The Jaguars’ Release, Narrated By Fernanda Torres Its First Wildlife Film Out Of Latin America: Watch Trailer
-Tue, 24 Nov 2026 12:40:44 +0000 — https://deadline.com/2026/11/netflix-march-of-the-jaguars-wildlife-film-fernanda-torres-1237232478/
+### Inter Alia Starring Rosamund Pike Sells Out; Hamilton With Christopher Jackson Tops $3M Broadway Box Office
+Tue, 24 Nov 2026 20:52:30 +0000 — https://deadline.com/2026/11/broadway-box-office-rosamund-pike-christopher-jackson-1237232642/
 
-EXCLUSIVE: Netflix Brazil has set a release date for March of the Jaguars, the streamer’s first wildlife documentary out of Latin America. The feature doc was created and produced in Brazil and is made by Alexandre Soullier and Emmanuel Priou, winner of the 2006 Oscar for Best Documentary Feature for March of the Penguins. Deadline [ ]
+Inter Alia, the previewing production of Suzie Miller s new play starring Rosamund Pike, seems about to repeat its London success here on Broadway, with the first seven-performance week selling out and grossing $993,103. The play (opening at the Music Box Theatre on December 1) was one of the stronger performers on Broadway for the week [ ]
 
-### Hayu FanFest Toronto 2026 Cast: Real Housewives Of London s Karen Loderick-Peace, RHOBH s Erika Jayne, Summer House s Kyle Cooke More
-Tue, 24 Nov 2026 12:30:00 +0000 — https://deadline.com/2026/11/hayu-fanfest-toronto-2026-cast-real-housewives-summer-house-1237232397/
+### Kelly Rowland Joins Hulu s Reasonable Doubt For Season 5
+Tue, 24 Nov 2026 20:44:58 +0000 — https://deadline.com/2026/11/kelly-rowland-cast-hulu-reasonable-doubt-season-5-1237232824/
 
-Hayu is taking its FanFest to Toronto in 2027 and has unveiled the full cast lineup attending the event. Following her viral low-budget vagina phrase from The Real Housewives of London, fans of Karen Loderick-Peace will have the opportunity to meet her in person alongside Real Housewives of Beverly Hills star Erika Jayne, Summer House s [ ]
+SPOILER ALERT: The following reveals major plot points from Hulu s Reasonable Doubt s Season 4 finale titled Moment of Clarity. Hulu s Reasonable Doubt has closed out its action-packed fourth season with a bloody good surprise: Kelly Rowland has joined the cast for Season 5. She portrays the character Demitra, a staffer on a mayoral campaign who [ ]
 
-### Channel 4 News Boss Emails Staff About NDAs After Issue Rears Head Again In Wake Of Russell Brand David Walliams
-Tue, 24 Nov 2026 12:05:19 +0000 — https://deadline.com/2026/11/channel-4-news-boss-emails-staff-ndas-brand-walliams-1237232450/
+### Al Gore To Purchase Hometown Paper Carthage Courier
+Tue, 24 Nov 2026 20:44:56 +0000 — https://deadline.com/2026/11/al-gore-buys-carthage-courier-1237232838/
 
-EXCLUSIVE: As the controversial use of non-disclosure agreements (NDAs) rears its head once again in the UK entertainment industry, the head of Channel 4 News has told staff her division no longer engages in the practice. Deadline understands Esme Wren sent an all-staffer on Saturday after the issue of Channel 4 News using NDAs was [ ]
+Former Vice President Al Gore has purchased the Carthage Courier, a 110-year-old weekly newspaper that covers his Tennessee hometown and surrounding area. The current owners, the family of Hershel and Geraldine Lake, said that the sale will be finalized in the coming weeks. Gore said in a statement, I’m so grateful to the Lake family [ ]
 
 ## befores & afters
+
+### Rebelway s Biggest Sale of the Year is Here
+Tue, 24 Nov 2026 19:51:33 +0000 — https://beforesandafters.com/2026/11/25/rebelways-biggest-sale-of-the-year-is-here/
+
+This Black Friday, Rebelway , the online VFX school, has opened registration for its Black Friday sale. Whether you’re starting from zero or aiming for a senior FX role, it’s a good time to pick a course. The Offer 25% off any individual course with code [Course25] 10% off on course Bundle with code [Bundle10] Course Bundle : pick any 4 courses from the entire Rebelway library and save up to $800. Bundle credit never expires, so you can take your courses whenever suits you. This offer is valid starting from TODAY . New courses to check out Rebelway’s New Intro to Unreal Engine Course Is Here Rebelway has recently launched a new Intro to Unreal Engine course, an 8-week beginner program that takes you from your first launch of the editor to a finished cinematic scene. In this course You’ll build a moody campsite with a UFO tractor beam, covering terrain, foliage, custom props, atmospheric effects and a final cinematic in Sequencer. By the end, you’ll have a portfolio-ready scene and the skills to keep building your own. Check Out other Featured Rebelway VFX Courses for Black Friday Houdini For Fun Learn how to build efficient setups, simplify your workflow, and create great-looking results while gradually introducing more advanced techniques when needed. By joining this course, you’ll also be qualified to join their brand-new VFX Rebels Discord server —a new space created to bring our artists and students together beyond the classroom. Advanced Lighting in Houdini Taught by the
 
 ### Showcasing Spidey in action
 Mon, 23 Nov 2026 20:23:23 +0000 — https://beforesandafters.com/2026/11/24/showcasing-spidey-in-action/
@@ -180,167 +185,167 @@ Miniature supervisor Simon Weisse breaks down the model builds for the film. In 
 
 ## IndieWire
 
-### 26 Years After He Wrote Meet the Parents, John Hamburg Brings Comedy Back to Theaters with Focker In-Law
-Tue, 24 Nov 2026 15:00:00 +0000 — https://www.indiewire.com/features/interviews/focker-in-law-director-interview-john-hamburg-1235230543/
+### Frederick Wiseman s Complete Filmography to Be Distributed by Janus Films
+Tue, 24 Nov 2026 23:15:17 +0000 — https://www.indiewire.com/news/general-news/frederick-wiseman-complete-works-distributed-janus-films-1235230945/
 
-The writer-director talks about creating the best possible environment for his star-studded ensemble cast and explains why he wanted this "Focker" movie to be the most cinematic.
+His films ranging from "Titicut Follies" in 1967 through "State Legislature" in 2007 have all been restored in 4K by Zipporah Films.
 
-### Billy Ray Joins Oscar Short Contender Magan s Fare, Starring Barkhad Abdi, as Executive Producer
-Mon, 23 Nov 2026 22:30:00 +0000 — https://www.indiewire.com/news/general-news/bill-ray-joins-oscar-contender-magans-fare-ep-1235230395/
+### Movie Theaters in 2026: Filmmakers and Exhibitors on What s Good, What s Bad, and What s Changing
+Tue, 24 Nov 2026 22:00:00 +0000 — https://www.indiewire.com/features/interviews/movie-theaters-2026-good-bad-changing-1235230816/
 
-The collaboration is a reunion for the pair, as Ray wrote the screenplay for "Captain Phillips," which earned Abdi a Best Supporting Actor Oscar nomination.
+IndieWire talks to Kevin Smith, Alamo Drafthouse, Laemmle Theatres, and more about the year that was and big plans ahead — including for the new Cinerama Dome complex in Hollywood.
 
-### Why Is the Avengers: Doomsday Trailer So Gloomy? Internet Erupts Over Latest Look at Marvel Movie
-Mon, 23 Nov 2026 22:23:48 +0000 — https://www.indiewire.com/news/trailers/avengers-doomsday-trailer-internet-fan-controversy-1235230219/
+### Mike Plante, Sundance Film Festival Shorts Programmer, Dies at 56
+Tue, 24 Nov 2026 21:30:08 +0000 — https://www.indiewire.com/news/obituary/mike-plante-sundance-shorts-programmer-dead-at-56-1235230914/
 
-Are the Russo brothers afraid of color or what?
+In addition to being a 25-year veteran of the festival, Plante was a director in his own right.
 
-### AI Film Gods Don t Give Gifts Deemed Ineligible by Academy for Best Animated Feature Oscar
-Mon, 23 Nov 2026 21:42:26 +0000 — https://www.indiewire.com/news/breaking-news/ai-film-gods-dont-give-gifts-ineligible-oscars-1235230159/
+### Will Robert Pattinson s Bond Casting Help Land Him His First Oscar Nomination?
+Tue, 24 Nov 2026 21:05:00 +0000 — https://www.indiewire.com/awards/consider-this/will-robert-pattinson-bond-casting-help-land-oscar-nom-1235230774/
 
-The film from director Gossip Goblin will appeal the decision and is still planning an awards qualifying run in theaters beginning December 4.
+The first step is to get voters to see the one movie he might nab for Best Actor: "Primetime."
 
-### The Best Visual Effects in Wildwood Are the Ones You Can t See — Watch
-Mon, 23 Nov 2026 21:00:00 +0000 — https://www.indiewire.com/features/craft/wildwood-vfx-indiewire-craft-roundtables-1235230006/
+### Guitarricadelafuente Was Terrified to Make His Acting Debut in La Bola Negra : I Wasn t Sure at All
+Tue, 24 Nov 2026 21:00:00 +0000 — https://www.indiewire.com/awards/consider-this/guitarricadelafuente-interview-la-bola-negra-1235230714/
 
-"Wildwood" Head of CG Animation Benoit Dubuc tells IndieWire about the visual effects that are hidden everywhere.
+The dreamy Spanish pop star plays a closeted trumpet player forced to join the Nationalists to survive during the Spanish Civil War. He tells IndieWire about starring in his first film, witnessing Los Javis' breakup during production, and writing the theme song "La Nieve." Some spoilers ahead.
 
-### From Disclosure Day to Devil Wears Prada : Emily Blunt Breaks Down 10 of Her Greatest Movie Moments
-Mon, 23 Nov 2026 20:45:00 +0000 — https://www.indiewire.com/awards/consider-this/emily-blunt-breaks-down-oppenheimer-disclosure-day-devil-wears-prada-1235230010/
+### Hershey Review: An Unbelievably Flavorless Biopic About America s Most Famous Chocolatier
+Tue, 24 Nov 2026 20:30:00 +0000 — https://www.indiewire.com/criticism/movies/hershey-movie-review-1235228446/
 
-Blunt could land a second Oscar nomination for her language-spouting weatherwoman in Steven Spielberg's alien adventure. But she's made so many great films.
+Milton S. Hershey gets the Angel Studios treatment in a deranged and decidedly vanilla piece of "values-based entertainment."
 
-### How Sound Design Helps Minotaur Get Away with Murder
-Mon, 23 Nov 2026 19:50:00 +0000 — https://www.indiewire.com/features/craft/andrey-zvyagintsev-minotaur-sound-design-1235230040/
+### John Turturro, Carrie Coon, Guitarricadelafuente, and Peter Gamble to Receive SFFILM Honors
+Tue, 24 Nov 2026 20:05:14 +0000 — https://www.indiewire.com/news/general-news/carrie-coon-john-turturro-sffilm-awards-1235230827/
 
-Director Andrey Zvyagintsev tells IndieWire about using sound to have the world crash in on its main character.
+Presenters at the December 7 San Francisco event will include "La Bola Negra" directors Javier Calvo and Javier Ambrossi, and "I Play Rocky" star Anthony Ippolito.
 
-### Super Bowl LXI to Play Live on IMAX Screens
-Mon, 23 Nov 2026 19:00:00 +0000 — https://www.indiewire.com/news/general-news/super-bowl-lxi-live-imax-screens-1235230099/
+### Want to Attend a Major Film Festival with IndieWire? Applications for Our 2027 Intensives Are Now Open
+Tue, 24 Nov 2026 20:00:00 +0000 — https://www.indiewire.com/news/events/apply-to-indiewire-future-of-filmmaking-student-programs-1235230175/
 
-IMAX is partnering with the NFL, ESPN, and Disney to screen the big game in North America, Australia, New Zealand, and Brazil.
+From Cannes to Venice to Austin, our Future of Filmmaking Intensives offer something for everyone — and all have earlybird deadlines on Monday, November 30.
 
-### Cliff Booth Star Elizabeth Debicki on Slapping Brad Pitt, The Movie Critic, and the Rom-Com Question
-Mon, 23 Nov 2026 18:30:00 +0000 — https://www.indiewire.com/features/interviews/cliff-booth-elizabeth-debicki-slapping-brad-pitt-rom-coms-1235229895/
+### Watch the Project Hail Mary VFX Supervisor Explain Why Having Puppeteers on Set Was Worth All the Extra Work
+Tue, 24 Nov 2026 19:00:00 +0000 — https://www.indiewire.com/features/craft/project-hail-mary-vfx-craft-roundtables-1235230557/
 
-As a critic-turned-beleaguered-agent, Debicki brings her singular charm to David Fincher and Quentin Tarantino's much-anticipated "Once Upon a Time in Hollywood" sequel. As she tells IndieWire, she delighted in everything from slapping Brad Pitt to waxing poetic about Pauline Kael.
+Mag Sarnowska and her team had to remove a lot of reflections from the sci-fi epic, but she wouldn't have it any other way.
 
-### Shawn Levy and 21 Laps Set Overall Film Deal at Sony Pictures
-Mon, 23 Nov 2026 18:00:00 +0000 — https://www.indiewire.com/news/breaking-news/shawn-levy-21-laps-set-overall-film-deal-sony-pictures-1235230070/
+### The Extraordinary Music Worthy of an Extraordinary Life in W.E.B. Du Bois: Rebel with a Cause
+Tue, 24 Nov 2026 17:45:00 +0000 — https://www.indiewire.com/features/craft/web-du-bois-rebel-with-a-cause-score-kathryn-bostic-1235230057/
 
-The "Star Wars: Starfighter" director reunites with Sony's leadership after directing the "Night at the Museum" movies, "Cheaper by the Dozen," and "Date Night."
+Composer Kathryn Bostic and director Rita Coburn tell IndieWire how they drew from Du Bois' own encounters with a broad array of musical influences to shape their film's score.
 
-### Steven Spielberg Directing His First Western with Paul Thomas Anderson Writing the Script
-Mon, 23 Nov 2026 17:53:27 +0000 — https://www.indiewire.com/news/breaking-news/steven-spielberg-paul-thomas-anderson-teaming-on-western-film-1235230075/
+### Oobah Butler Wants to Expose the World s Stupidest Industries, but They Get Worse Faster Than He Can Plan His Stunts
+Tue, 24 Nov 2026 17:00:00 +0000 — https://www.indiewire.com/features/interviews/oobah-butler-scams-for-a-better-tomorrow-interview-1235229738/
 
-Jessie Buckley, Cillian Murphy, and Mark Rylance will star in the Focus Features adaptation of "The Heart in Winter."
+The star of HBO's "Oobah: Scams for a Better Tomorrow" tells IndieWire about taking on supplements, dating apps, and royalty — and why satire struggles to keep up with an insane world.
 
-### Focker In-Law Review: An Eager Ariana Grande Isn t Enough to Save a Comedy Sequel That Can t Remember What People Liked About This Franchise
-Mon, 23 Nov 2026 17:00:00 +0000 — https://www.indiewire.com/criticism/movies/focker-in-law-movie-review-ariana-grande-ben-stiller-1235230046/
+### Coward Trailer: Lukas Dhont s Belgian Oscar Entry Is a Queer Stunner
+Tue, 24 Nov 2026 16:00:00 +0000 — https://www.indiewire.com/news/trailers/coward-trailer-lukas-dhont-belgian-oscar-entry-1235230581/
 
-It took three years longer to make "Meet the Parents 4" than it did to make "Grand Theft Auto VI," but (weirdly) it's somehow not quite as good.
+Exclusive: Cannes Best Actor winners Emmanuel Macchia and Valentin Campagne are gay lovers in the World War I trenches of Belgium in the latest film from the director of "Close."
 
 ## The Wrap
 
-### Seth Meyers Imagines What ‘Mission: Impossible’ Would Look Like if Trump Directed It
-Tue, 24 Nov 2026 14:52:41 +0000 — https://www.thewrap.com/creative-content/tv-shows/seth-meyers-mission-impossible-if-trump-directed/
+### Shane Gillis Responds After Ex-Girlfriend Details Relationship ‘Red Flags,’ Says Comedian Doesn’t Like Women
+Wed, 25 Nov 2026 00:12:01 +0000 — https://www.thewrap.com/culture-lifestyle/culture/shane-gillis-responds-ex-girlfriend-relationship-essay/
 
-Seth Meyers has a feeling that, if President Trump were the one to direct the Mission: Impossible films, they d have been far more obvious. The NBC host offered that guess during his A Closer Look segment on Monday night, where he largely focused on the latest twists in the saga of NVIDIA CEO Jensen Huang. Huang was recently ousted from his position for several reasons, including having multiple affairs one with a Chinese spy. Thanks to Trump, Huang was reinstated this week , and the president defended him by saying that, when the men spoke, Huang insisted he had no idea the woman was a spy. Yeah, that s how spying works! They don t wear shirts that say Ask me about being a spy,' Meyers retorted. In Mission: Impossible, Tom Cruise wears masks of other people s faces. If Trump directed that movie, Tom Cruise would have worn a mask of his own face, and his first line would have been, Hey, it s me, Tom Cruise, the actor playing a character who s a spy. Now tell me, what s your zip code?' The zip code piece of that punchline was a reference to Huang himself, who said in a September interview that, because of his reliance on AI, he doesn t even know his own address. Huang recalled a trip to the gas station a few years ago, where he panicked because he didn t know his zip code. I asked ChatGPT to come up with the most out of touch sentence ever said out loud, and it still couldn t beat One day I had to pump gas, and it was a few years ago,' Meyers joked. And these guys wonder why e
+Comedian Shane Gillis spoke out after his ex-girlfriend, content creator Grace Brassel, published a personal essay detailing their allegedly tumultuous relationship and breakup. Grace and I had some good times together, Gillis said in a statement to TheWrap Tuesday afternoon. Breakups are tough, and I wish her the best. His comment followed a personal essay in The Cut published Tuesday, in which Brassel detailed the alleged isolation and infidelity she faced throughout her year-long relationship with Gillis. A couple of months ago, when comedian Shane Gillis hosted Saturday Night Live, he said in his opening monologue that women dress like whores at the gym, Brassel wrote. An outrage cycle ensued — Dan Levy called him a misogynist, former SNL star Ego Nwodim responded with a gym selfie — but I wasn’t the least bit surprised. Until last August, I was in a yearlong relationship with Shane, and his comments didn’t faze me. After our time together, how do I think he feels about women? He doesn’t like them much. Per Brassel, her relationship with the Tires co-creator and comedian began with a DM, prompting the latter to invite her to travel to Austin for a first date. Despite some weirdness, Brassel described the initial visit as a dream, noting she and Gillis soon became official after that trip. She then moved with him to Pennsylvania, where he worked on the new season of Tires, with Gillis allegedly encouraging her to quit her job after she struggled to keep up with his alleged
 
-### Puck Finalizes RedBird Capital Majority Stake Deal
-Tue, 24 Nov 2026 14:44:02 +0000 — https://www.thewrap.com/industry-news/deals-ma/puck-redbird-capital-deal-closes/
+### Amelia Dimoldenberg Explains How 2 Panic Attacks in a Week Convinced Her to End ‘Chicken Shop Date’
+Tue, 24 Nov 2026 23:29:54 +0000 — https://www.thewrap.com/culture-lifestyle/culture/amelia-dimoldenberg-chicken-shop-date-ending-decision-panic-attacks/
 
-Puck has finalized a deal giving RedBird Capital Partners a majority stake in the digital media company, two months after TheWrap reported that the transaction valued the company at approximately $250 million. The transaction deepens RedBird’s involvement in the news business as the private equity firm expands its holdings across media, sports and entertainment — industries Puck’s journalists regularly cover. Puck said it would retain its editorial independence following the ownership change. Financial terms were not disclosed Tuesday. Standard Investments and TPG have exited the business, while RIT Capital Partners remains a minority investor. RedBird initially invested in Puck through the company’s $16 million acquisition of Air Mail last year. Puck said it intends to use RedBird’s backing to pursue acquisitions and expand into new markets. In September, Puck informed employees that those with vested shares or stock options would be able to cash out a portion of their holdings while retaining an ownership interest in the company, according to an internal memo obtained by TheWrap. The agreement also included a new equity incentive plan. Since its launch in 2021, Puck has sought to distinguish itself from traditional news organizations by giving journalists an ownership stake and a cut of the subscription revenue they generate. The company had approximately 50,000 paying subscribers as of September, with the Air Mail acquisition bringing in roughly another 50,000. RedBird, me
+Amelia Dimoldenberg explained how a pair of panic attacks in a week helped her make the decision to end Chicken Shop Date. The host of the viral interview series penned an essay for The Cut that laid out exactly she came to her decision. Largely, it boiled down to how the show was bleeding more into her real life to the point she began questioning if the show’s success is tethered to why I am still single. That line of thinking eventually led to a stretch of panic attacks that had her finally taking a long look at how much longer she was up for doing the show she loved and created. I knew my perspective on Chicken Shop Date was changing around 18 months ago, when I had my first and then second panic attack ever in the space of a week, Dimoldenberg said. Granted, the second one was at an insanely overstimulating karaoke bar called the K-Hole, but still, I knew something was up. I had stopped drinking at the time because I was trying to pinpoint exactly why I felt so unlike myself. All of my emotions felt so much more visceral; I figured that’s what happens when you cut out a sedative. I had started seeing a therapist a few months earlier in the hope that they might provide an answer as to why I was feeling so flat, so low, so confused. The last time I felt like this, it led me to break up with a boyfriend. But now I was single, and unfortunately, I couldn’t pin this all to a man who was dragging me down. She added: Naturally, questions started coming up around work. I was at t
 
-### AI Shopping Is Booming. For Publishers, Is This an Opportunity or Reckoning?
-Tue, 24 Nov 2026 14:00:00 +0000 — https://www.thewrap.com/industry-news/tech/ai-shopping-publisher-affiliate-revenue-black-friday/
+### Broadway Stagehands Avoid Strike After Reaching Tentative Agreement With Theater Operators
+Tue, 24 Nov 2026 23:21:00 +0000 — https://www.thewrap.com/culture-lifestyle/culture/broadway-stagehands-avoid-strike-agreement-with-theater-operators/
 
-As publishers confront declining search traffic ahead of Black Friday, their shopping businesses are heading in different directions: People Inc. s affiliate revenue is growing, Future s is falling and Ziff Davis is contending with shrinking search referrals. The divide highlights a growing challenge for publishers that depend on product reviews and buying guides, which generate commissions when readers click affiliate links and make purchases. Black Friday is especially important, with publishers updating deals coverage around the clock during the long weekend shopping stretch that can help determine whether they meet quarterly revenue goals. But as AI assistants increasingly help consumers decide what to buy, publishers risk losing the website visits and commissions that make up a significant chunk of their revenue. The longer-term question is whether AI poses an existential threat to publishers, since it strikes at the core of their businesses. New U.S. data provided to TheWrap by Similarweb shows the extent of the traffic pressure. Organic search visits to Tom s Guide plunged 64% year over year in October, while CNET experienced a 54% decline. Meanwhile, referrals from generative AI platforms to retailers climbed 87%, underscoring the different challenges and opportunities facing publishers and merchants. The financial results are already diverging. People Inc. , which owns People, Food & Wine and Allrecipes, reported a 26% decline in core website sessions during the thir
+IATSE Local One, the union that represents Broadway stagehands, reached a tentative agreement with The Broadway League on Tuesday, avoiding a strike that likely would have shut down productions during the busy holiday season. The previous agreement between IATSE Local One and The Broadway League, which represents theater owners and producers, expired July 26. According to the IATSE website , Local One sought wage and benefit increases for its members. The new agreement still needs to be ratified at the next Local One membership meeting in December. However, the contract fight continues for Theatrical Wardrobe Union, IATSE Local 764. Wardrobe workers unanimously voted Sunday to authorize a strike as they continue working without a contract. However, no strike has been called at this time. Local 764 s agreement with The Broadway League also expired on July 26. Among the major unresolved issues are wages and a longstanding gender pay gap affecting Broadway wardrobe workers, IATSE said in a press release Tuesday. Wardrobe work on Broadway has historically been performed predominantly by women and paid at significantly lower rates than stagehand classifications historically held predominantly by men. Although recent negotiations have narrowed that gap, Local 764 department heads today must work nearly 45 percent longer to earn pay comparable to workers in similar department-head roles. The holidays are traditionally Broadway s busiest season, as tourists flock to New York City for
 
-### Kimmel Jokes Trump Has 62 Million Reasons Why He Wanted Nvidia CEO Reinstated
-Tue, 24 Nov 2026 06:14:12 +0000 — https://www.thewrap.com/culture-lifestyle/culture/jimmy-kimmel-jensen-huang-reinstatement-donald-trump/
+### Can Disney s Hexed Break Original Animation s Box Office Curse?
+Tue, 24 Nov 2026 22:35:34 +0000 — https://www.thewrap.com/creative-content/movies/hexed-thanksgiving-box-office-preview/
 
-Jimmy Kimmel weighed in on Jensen Huang s reinstatement as Nvidia CEO on Monday, claiming President Trump was heavily invested in the reversal to the tune of millions of dollars. Our Siliconman-in-Chief has 62 million reasons why he wanted his pal in charge, Kimmel said over a graphic of a Washington Post headline that read Trump s Stake in Nvidia Grew to as Much as $62 Million Before Scandal Broke Out. The [Nvidia] board made it clear they were unequivocally moving on, the late night host explained. Trump called them personally to harangue them. And if you think that sounds fishy, it s not, Kimmel said sarcastically. There s nothing unusual about a president who owns a huge amount of stock in a company putting his little carrot thumb on the scale in a way that immediately boasts the company s stock price. Watch Kimmel s scathing monologue below : Trump said Monday that he personally spoke to Nvidia’s board to reinstate Huang as CEO, revealing his direct involvement in the chipmaker’s stunning leadership reversal less than two weeks after its co-founder resigned in a scandal-plagued exit. “I spoke to them, let me put it that way,” Trump told CNBC’s Eamon Javers in a phone interview. “And I convinced them.” Addressing Trump s involvement, Kimmel added: I m sure it didn t hurt that Huang donated $25 million to the big stupid ballroom [Trump s] building. Nvidia stock jumped over 30% on Monday and closed at $165.05 per share. Huang was greeted by thunderous applause when he retur
+In 2022 and 2023, the Thanksgiving box office served as the stage for two of Disney s biggest animated bombs of all time: Strange World and Wish. The two Thanksgivings that followed brought $1 billion-plus hit sequels to Moana and Zootopia. And in 2026, it s back to the originals with the mother-daughter witch fantasy film Hexed starring Hailee Steinfeld, Rashida Jones, Walter Goggins and Jodie Foster. It comes at the tail end of a year where original animated films continue to struggle theatrically, at best turning a modest profit with post-theatrical revenue thrown in — Pixar s Hoppers grossed $389 million worldwide against a $150 million budget before marking — and at worst falling horribly flat despite glowing reviews, as was the case with DreamWorks Forgotten Island with a mere $79.2 million worldwide. So where will Hexed fit on this scale? Or will it beat the odds and become the first original animated film this decade to launch a franchise from a theatrical release? If pre-release projections are accurate, then Hexed should be an improvement on Disney s recent original misfires, but well below the franchise launchers of the 2010s with a projected 5-day domestic opening of $45-50 million, sitting at a likely No. 2 on the charts behind Lionsgate s The Hunger Games: Sunrise on the Reaping, which is projected to make at least $50 million over the five-day period. For comparison, Strange World opened to an abysmal $18.8 million 5-day launch in Thanksgiving 2022, while Wish,
 
-### Woody Harrelson Reveals He Turned Down Hunger Games Role Twice
-Tue, 24 Nov 2026 04:49:07 +0000 — https://www.thewrap.com/creative-content/movies/woody-harrelson-reveals-he-turned-down-hunger-games-role-twice/
+### Al Gore to Buy Hometown Tennessee Newspaper Carthage Courier
+Tue, 24 Nov 2026 22:00:11 +0000 — https://www.thewrap.com/media-platforms/journalism/al-gore-tennessee-carthage-courier-newspaper-acquisition/
 
-Woody Harrelson has played Haymitch Abernathy in five Hunger Games films, but he initially turned down the role two times! In a joint Vanity Fair interview with his Sunrise on the Reaping costar Joseph Zada who plays a younger version of the character in the prequel Harrelson revealed his hesitation in playing Abernathy and why he turned it down twice. I thought it was good. I read the books, really good. But I just don’t think there’s enough to do. I don’t know if there’s enough to do. It’s an arbitrary, odd way of assessing it, Harrelson explained. Ultimately, he says, it was The Hunger Games director Gary Ross who convinced him to take the role. [I] can’t imagine not having had this experience in my life and knowing these people. And then Gary calls me and he’s like, ‘Woody, you have to do this part. I don’t have a second choice. You have to play Haymitch,’ Harrelson recalled. And he just talked to me for about 10 minutes on the phone. I’m like, ‘All right, okay, yeah, let’s do it. And that kind of arbitrariness is the way you traipse through life.' Harrelson has played Abernathy the 50th Hunger Games victor who becomes a mentor to Jennifer Lawrence s Katniss Everdeen on screen five times. He was introduced in The Hunger Games and later appeared in Catching Fire, Mockingjay Part I, Mockingjay Part II and Sunrise on the Reaping, which opened last weekend. Only he, Lawrence and Josh Hutcherson have played their Hunger Games characters across five films. (They did not appear 
+Al Gore is returning to media ownership. The former vice president is set to purchase the Carthage Courier, a 113-year-old weekly newspaper serving his Tennessee hometown and the rest of Smith County. The acquisition, announced Monday by the newspaper , will end five decades of ownership by the family of Hershel and Geraldine Lake. The Courier will retain its entire staff and continue publishing throughout the transition. The transaction is expected to close in the coming weeks. Financial terms were not disclosed. Gore said in a statement that his experiences as a military reporter in Vietnam and later as a journalist at The Tennessean reinforced his belief that “a free, independent local press is irreplaceable for the enduring health of our community.” The former vice president also said he viewed the sale as an opportunity to preserve the newspaper as an independent local news outlet. The Lake family put the Courier up for sale earlier this fall, before Geraldine died in early November. The acquisition will coincide with a leadership change. Publisher Scott Winfree, who has led the newspaper for nearly 40 years, will transition to a part-time advisory role due to health issues. Roger Wells, a newspaper industry veteran with nearly four decades of experience, will succeed Winfree and oversee daily operations. The Courier published its first edition in July 1913 and has chronicled local government, education and community affairs, including the early political career of Gore 
 
-### Don Toliver Postpones London Concert After 89 Fans Sickened at Manchester Show
-Tue, 24 Nov 2026 03:48:00 +0000 — https://www.thewrap.com/culture-lifestyle/culture/don-toliver-postpones-london-concert-after-89-fans-sickened-at-manchester-show/
+### Christina Applegate Torches Trolls Who Had a Lot to F king Say After MS Misdiagnosis
+Tue, 24 Nov 2026 21:13:53 +0000 — https://www.thewrap.com/culture-lifestyle/culture/christina-applegate-torches-trolls-ms-misdiagnosis/
 
-Don Toliver postponed his London show on Monday after dozens of fans were sickened by an unknown substance at the Manchester show the night before. On Sunday, 89 concertgoers were treated after being exposed to an unknown substance at the Co-op Live Arena. Videos from the concert floor showed attendees coughing, some violently, and wiping their eyes. The Hazardous Area Response Team was deployed and 88 people were evaluated for eye and respiratory symptoms, per the North West Ambulance Service (NWAS). One woman was taken to the Manchester Royal Infirmary for further assessment. The remaining concertgoers were safely escorted out of the venue. The Greater Manchester Police said the incident was isolated and there was no wider threat to the public. No one has been arrested in connection to the incident as of Monday evening. “I would like to thank the public who attended for their patience whilst we responded to this incident. There were over 12,000 people in attendance during this concert who were safely escorted from the arena and made their way home, Assistant Chief Constable Tom Harding said via press release . Authorities said further testing will take place on items at the venue as part of their ongoing investigation. The substance was not identified, but an earlier NWAS press release stated it was believed to be tear gas. In response, Don Toliver s planned show at London s 02 Arena Monday night was postponed to next month. I m very sad to sit here and say I have to resche
+Christina Applegate is going after all the trolls who came for her after she said she was upset after her multiple sclerosis misdiagnosis . On Tuesday s episode of her podcast MeSsy with co-host Jamie-Lynn Sigler, Applegate explained what she meant when she said there was a level of disappointment when it came to her MS misdiagnosis. Before she understood why she felt the way she did, and now things are up in the air and nobody has an explanation for what is wrong with her. “I don’t want to sit here and be like, ‘Boo-hoo-hoo me’ all the time about this whole thing because now it’s about kind of getting boots on the ground now and getting myself together,” Applegate said. It really does feel good to feel understood because it’s a hard thing to come out and say that I’m upset that I don’t have MS, right? And to her trolls she added: A lot of people had a lot to f king say about it after I came out. But, you know, it’s not about that. It’s about an identity thing … It’s about a community that I love still, as we know. The Dead to Me star was misdiagnosed with multiple sclerosis in 2021, leading to five years of “havoc” and infusions for treatment. In October , she admitted that she felt like she “let everybody down” by becoming the “poster child for MS.” “I had a reason — I had a f–king reason — as to why my day sucked every day, and now I don’t have a reason and it’s very unnerving and very confusing for me,” Applegate admitted. Applegate shared shortly after she revealed her m
 
-### ‘Clashing Through the Snow’ Duo Christopher Briney and Michelle Randolph Share Which Co-Star Went ‘Off the Rails’
-Tue, 24 Nov 2026 03:04:02 +0000 — https://www.thewrap.com/creative-content/movies/clashing-through-the-snow-christopher-briney-michelle-randolph-interview/
+### Jewish Story Partners Awards $230,000 in Grants to 10 Documentary Films Exclusive
+Tue, 24 Nov 2026 21:00:00 +0000 — https://www.thewrap.com/creative-content/movies/jewish-story-partners-reprise-grants-2026/
 
-Christopher Briney and Michelle Randolph s Clashing Through the Snow brings viewers into the holiday season with a dose of rom-com clichés that never tire. The Prime Video holiday film shamelessly leans on romance tropes that have worked for decades. Two go-getter publishing editors Ryan (Briney) and Hannah (Randolph) must fight to find a bestseller by Christmas to keep their job. But one grounded flight forces the bitter rivals together, taking them on a twisty journey from the snowy Midwest to New York City. For Briney and Randolph, joining the lineage of holiday rom-coms felt like a rite of passage in their burgeoning careers. “You can watch movies however many times as you want, but holiday movies are almost encouraged to rewatch year after year,” Randolph said. “So it was really special to make it.” Briney said that he was inspired by “Planes, Trains and Automobiles,” while Randolph took inspiration from “The Proposal” and “When Harry Met Sally.” The duo noted that they leaned more into comedic references for their film than the romantic elements. In the film, the rivals find themselves in a haunted inn owned by Teddy, played by Lukas Gage. The innkeeper takes Ryan and Hannah on a tour of his hotel and tells them all of the spooky stories within its walls. Briney and Randolph only shot with Gage for less than a week but said they could not stop laughing with him in the scenes, many of which made it into the blooper reel at the end of the movie. “There were so many scenes
+Jewish Story Partners has awarded $230,000 in Reprise Grants to 10 feature documentary films, providing additional funding to projects previously supported by the nonprofit as they move toward completion and festival premieres. The grants mark an expansion of the organization’s funding, with one project receiving $125,000 — the largest individual grant JSP has awarded to date. The organization said it is increasing its maximum grant amounts and accelerating funding timelines to help select films reach audiences more quickly. “Until now our largest grant has not exceeded $100,000; with the current Reprise slate, for the first time ever, we are thrilled to have awarded a total of $125,000 in granting to a single project and to join a cadre of just a handful of foundations making documentary film grants at that level,” said Lindsay Malin, JSP’s director of programs. Founded in 2021 by Roberta Grossman and Caroline Libresco, with support from Kate Capshaw and Steven Spielberg’s Righteous Persons Foundation, Jewish Story Partners funds independent films exploring Jewish experiences, cultures and communities. The organization has awarded nearly $4.8 million to 136 projects since its founding, with 68 of those films now complete. Among its recent projects is Julia Loktev’s “My Undesirable Friends: Part II — Exile,” which screened at the Venice Film Festival, Telluride Film Festival, New York Film Festival, DOC NYC and IDFA, among others. The film was described by the Los Angeles Tim
 
-### Bela Bajaria Reflects on Leadership, Global Storytelling Following Netflix Ouster
-Tue, 24 Nov 2026 02:50:00 +0000 — https://www.thewrap.com/industry-news/business/bela-bajaria-netflix-firing-comments-international-emmy-awards/
+### Netflix Acquires Radford Studio Lot for $380 Million
+Tue, 24 Nov 2026 20:17:33 +0000 — https://www.thewrap.com/industry-news/business/netflix-radford-studio-lot-380-million-acquistion/
 
-Former Netflix Chief Content Officer Bela Bajaria said she s in a season of change and gratitude following her ouster from the streamer in October. Around the world, this is a season of holidays – some we’ve just celebrated, others still ahead. For some of us, it’s a season of change, as you might have heard, Bajaria said as she accepted the Founders Award at the 54th International Emmy Awards in New York on Monday evening. But more than anything, for me, it’s a season of gratitude. To be clear, gratitude isn’t passive or soft. It’s earned. Gratitude is strength in knowing nothing is guaranteed and nothing can be taken for granted. Gratitude is the appreciation for both struggle and success, and sharing the journey with others. During the speech, Bajaria touched on the importance of being a leader, noting that they must take care of the group. In our business, but really in any business, leadership matters. And the character of the leader matters. A leader doesn’t just call the shots, they set the tone – leading with integrity, selflessness and courage, she said. I’ve had the privilege of building and leading teams big and small, global and local, and my greatest joy as a leader is to champion the group. She also reflected on bonding with her family during the Thanksgiving holiday through watching TV together, including the NFL, and her passion for global storytelling. As a young immigrant kid, TV opened a window into American culture and made me feel less weird because it co
+Netflix has closed its acquisition for the historic Radford Studio Lot for $380 million a fraction of the $1.85 billion paid by Hackman Capital Partners in 2021. The move follows a foreclosure auction on Tuesday, which saw a group of lenders led by Goldman Sachs take back the 55-acre property. The streamer struck an agreement with the lenders to close the deal on Tuesday afternoon. In addition to a $380 million purchase price, Netflix agreed to pay a ULA transfer tax, which imposes imposes a 5.5% levy on transactions that exceed $10.9 million. That brings the total price to around $400 million. Since its opening in 1928, the Radford Studio Center has been home to many classic shows including Gunsmoke, Gilligan s Island, The Mary Tyler Moore Show, Seinfeld, That ‘70s Show and more. Netflix said its goal is to maintain operational continuity, retain the existing studio team and strengthen Radford’s position as a premier production destination. In the near term, productions currently filming on the lot will continue to do so. The company is also engaging with ZVantage, Zello’s entertainment advisory division, to support the transition and next chapter of the lot through its operating platform, Backlot Studio Services. As part of this engagement, Cinelease will serve as a production equipment provider at the studio, further enhancing the infrastructure and services available to the production community. There’s still a long way to go, but we are hopeful that with the partnership 
 
-### Skydance Global Products Publishing Sets Leadership Team
-Tue, 24 Nov 2026 02:11:19 +0000 — https://www.thewrap.com/industry-news/business/skydance-global-products-publishing-leadership-team/
+### Elizabeth Holmes’ Former Assistant Opens Up About ‘You Can See Everything,’ Praises Amanda Seyfried
+Tue, 24 Nov 2026 20:12:04 +0000 — https://www.thewrap.com/creative-content/movies/elizabeth-holmes-former-assistant-you-can-see-everything-thoughts/
 
-Skydance Global Products & Publishing President Josh Silverman has set his leadership team. His direct reports will include Consumer Products EVP Paul Southern, Global Publishing SVP Amy Kaplan Jarashow, DC President Publisher and Chief Creative Officer Jim Lee and DC General Manager and EVP Anne DePies, Theatre Ventures EVP and Chief Content Officer Mark Kaufman, Creative EVP Luis Fernández, Brand Management & Marketing SVP Melissa Lasdon and EVP, CFO & Head of Strategy and Insights Kedar Nadkarni. Products and Publishing is a critically important part of the company’s globally connected ecosystem. Our impact goes beyond individual products, categories and formats. We strengthen and extend the emotional connection between our fans around the world with the brands, franchises, characters and stories they love, Silverman said in a memo to staff. These talented leaders bring tremendous experience, creativity and passion to our organization, and I’m thrilled to have them by my side as we move forward together. Southern will be responsible for expanding the reach of the consumer products business and retail operations, establishing new revenue opportunities and strengthening key partnerships across its brands and franchises. Prior to Skydance, he served in leadership roles at Disney and Lucasfilm. As head of the the publishing business, including the imprint Skydance Publishing, Jarashow will focus on new ways for fans to engage with the company s brands while developing original
+Elizabeth Holmes former assistant is finally breaking down exactly how You Can See Everything made her feel. Aria Marinelli worked as Holmes assistant back in 2009 as Theranos was just kicking off. While talking with Warner Bailey on Tuesday s AvA Live she explained that she was initially hesitant to watch her former boss in Nathan Fielder and Lance Oppenheim s buzzy documentary. “My initial reaction was I did not want to see it,” Marinelli said. I acquiesced and went out of sheer morbid curiosity, and I came out of there just feeling really contemplative. I mean, she’s a real human that I interacted with, and to see her up there going to jail with children was really emotionally charged for me, as someone who does have a kid as well. She added about finally talking about the film: I have a voice in this too. [Holmes] doesn’t get to be the one to just come back on the scene and control the narrative. She praised the way Fielder portrayed Holmes and felt that it was both crazy and thoughtful. While watching the documentary, there was one specific thing about her former boss that stood out to Marinelli all these years later. “She seems like she’s softened a lot in the film,” Marinelli said. But she still seems like she really wants to win. Amanda Seyfried also came up in her long chat about the film. The actress became a major part of the film – first as Fielder asked both Holmes and her husband Billy about the actress portrayal of the Theranos founder in Hulu s series The Drop
 
-### Ethan Klein s Estranged Wife Steps Away From New Show to Focus on Healing After Split
-Tue, 24 Nov 2026 02:11:17 +0000 — https://www.thewrap.com/culture-lifestyle/culture/ethan-klein-estranged-wife-hila-exits-new-show/
+### The Body Rises to No. 1 on Netflix TV List in 2nd Week With 9.5 Million Views
+Tue, 24 Nov 2026 20:00:11 +0000 — https://www.thewrap.com/creative-content/tv-shows/the-body-netflix-tv-ratings-second-week/
 
-Hila Klein, the podcaster and estranged wife of “H3 Podcast” star Ethan Klein, revealed she will not be moving forward with the planned new show following the break up of her marriage . “I’m so sorry to share that I’ve made the difficult decision to stop working on the new show,” she wrote in a message posted to Instagram Monday. “I truly tried with every ounce of strength I had to make this work, but after everything that has happened, I’ve come to realize that I can’t continue down this path while also giving myself the space I need to heal and protect my mental health.” She added: “Right now, I need to focus on myself, my healing and what’s best for me and my kids.” As Hila went on, she noted how “devastated she was by the decision, expressing her love for the H3 “community” that she and the team have “built together.” “And I love the crew like my own family,” she wrote. “Walking away from something that has been such a huge part of my life is incredibly painful.” “I will miss you all more than I can put into words,” she concluded. “Thank you for all the love and support over the years.” View this post on Instagram A post shared by The H3 Podcast (@h3_podcast) Hila’s update came five days after she made her return to YouTube with an emotional, 30-minute video, where she discussed her estranged husband’s affair and how it all came to light. “We built our career together, family, kids, the whole entire thing. And I always thought we would grow old together,” she said in the 
+Netflix s “The Body” made major ratings gains in its second week on the streamer, landing as the No. 1 title on the most-watched TV list. After debuting to 5.1 million views, the Y2K-set YA series from Quinn Shephard and Gina Gammell, which follows a dance team initiation gone wrong, rose to 9.5 million views in its second week, marking a 86% week-over-week rise in viewership. That viewership boosted The Body to become the No. 1 most-watched English-language TV show for the week of Nov. 16, with Black Doves Season 2 taking the No. 2 spot with 3.7 million views. Next up, the No. 3 spot on the TV list went to Nov. 16 installment of WWE Monday Night Raw with 2.3 million views, while the No. 4 spot went to “Taken: Natalee Holloway” with 2.2 million views. Netflix s film roster saw a boost with the addition of Leighton Meester and Jared Padalecki s holiday rom-com, Guarding Stars, which debuted atop the films list with 27.6 million views. Jessica Chastain s film, Heartland, landed as the No. 2 most-watched English-language film of week with 14.8 million views, doubling its initial debut viewership of 7.3 million. Another notable launch was animated film Steps, featuring a voice cast of Amanda Seyfried, Ali Wong, Stephanie Hsu, Daniel Radcliffe, Nikki Glaser and Bette Midler, which debuted as the No. 3 most-watched movie of the week with 11.4 million views. Like last week, even more holiday movies were boosted into the top 10, including Dr. Seuss’ The Grinch in the No. 4 spot with 
 
 ## Collider
 
-### Hailee Steinfeld, Jodie Foster, and Rashida Jones Reveal the TV Shows They Wish Would Come Back
-Tue, 24 Nov 2026 14:24:58 GMT — https://collider.com/hailee-steinfeld-jodie-foster-rashida-jones-hexed-interview/
+### Disney’s ‘Rings of Power’ Replacement Is Officially a No. 1 Streaming Hit
+Wed, 25 Nov 2026 01:00:12 GMT — https://collider.com/percy-jackson-season-3-streaming-success-disney-plus-november-2026/
 
-Just in time for the holidays, Walt Disney Animation Studios invites families to take a journey to the magical realm of Hexe in their original new feature Disney's Hexed . The movie stars Hailee Steinfeld as the voice of the unconventional Billie, a young girl who discovers she possesses incredible powers, alongside the vocal talents of Jodie Foster as the villainous Queen Celeste, and Rashida Jones as Billie’s overprotective mother, Alice.
+Fantasy franchises excel because they transport their audiences into realms that seem impossible. Arguably the cream of the crop, J.R.R. Tolkien built out The Lord of the Rings and the realms of Middle-earth, Valinor, and beyond. Prime Video's mega-bucks series, The Lord of the Rings: The Rings of Power , now into its third season, and only just renewed for a fourth season , has been the go-to fantasy show in recent weeks. As the darkness deepens across Middle-earth on Prime Video, the Greek gods seem to have their own thing going on a different streaming service.
 
-### Pokémon Officially Brings Back a Legendary Alongside 2 New Mega Evolutions
-Tue, 24 Nov 2026 14:00:12 GMT — https://collider.com/pokemon-go-daydream-destinations-december-2026-kyurem-mega-evolutions/
+### Anya Taylor-Joy’s Biggest Sci-Fi Movie Ever Is Officially Coming to Netflix
+Wed, 25 Nov 2026 01:00:12 GMT — https://collider.com/anya-taylor-joy-super-mario-galaxy-movie-netflix-streaming-release-date-november-2026/
 
-Pokémon GO players have plenty to look forward to before the franchise wraps up its 30th anniversary celebrations . Between the introduction of new Mega Evolutions in Pokémon Legends: Z-A and its Mega Dimension DLC , some Pokémon that haven't received much love in years are finally getting their moment. That includes a Ghost-type from the Sinnoh region and one of the more unusual Dragon-types introduced in Pokémon Sun and Moon .
+2026 has been quite the year for Anya Taylor-Joy , and it’s not over yet as she’s confirmed to reprise her role as Alia Atreides in Dune: Part Three , which opens in theaters on December 18. Just over one month ago, Taylor-Joy returned to Netflix to star in the twisty new thriller, Sacrifice , along with MCU veteran Chris Evans . Over the summer, she returned to Apple TV to headline one of the most underrated crime thrillers of the year, Lucky , along with Timothy Olyphant . This return was particularly noteworthy as Taylor-Joy is considered one of the streaming queens of Apple TV — her 2025 sci-fi thriller, The Gorge , is among one of the most-watched titles the platform has ever released. The fate of Lucky beyond Season 1 has not yet been decided.
 
-### ‘Tracker’ Officially Switches Protagonists After 4 Seasons
-Tue, 24 Nov 2026 13:36:12 GMT — https://collider.com/tracker-season-4-episode-7-josh-holloway-luke-kelso/
+### Alan Ritchson’s Reacher Franchise Officially Refuses to Back Down on Prime Video
+Wed, 25 Nov 2026 00:45:12 GMT — https://collider.com/alan-ritchson-reacher-neagley-streaming-success-prime-video-november-2026/
 
-Editor's Note: The following contains spoilers for Tracker Season 4, Episode 7.
+Given how often Alan Ritchson has been compared to Arnold Schwarzenegger since he first appeared as Jack Reacher in 2022, there is something rather appropriate about the two being cast alongside one another in a new movie, although the genre they've opted for probably isn't the one most of us would've expected. Ritchson has managed to squeeze quite a few movies in between seasons of Reacher , having worked with Guy Ritchie on The Ministry of Ungentlemanly Warfare and got to mug at the camera with Kevin James in Playdate , but his latest movie will see him back on the streaming service that's helped make him one of Hollywood's most recognizable action stars . And he'll already have quite the audience waiting for him there.
 
-### The 10 Best Fantasy Books of the Last 25 Years, Ranked
-Tue, 24 Nov 2026 13:14:12 GMT — https://collider.com/best-fantasy-books-past-25-years-ranked/
+### Ava DuVernay’s 4-Part Netflix Miniseries Is a Devastating Masterpiece
+Wed, 25 Nov 2026 00:37:12 GMT — https://collider.com/ava-duvernay-masterpiece-when-they-see-us-netflix-series-exonerated-five-true-story/
 
-Fantasy can be one of the most satisfying genres when handled well, but it's very tricky to get right. Most modern writers simply retread old ground or serve up the same tired tropes — magic systems, faraway realms, politics, and maybe a dragon here and there. However, a few go further, finding something new and bold to say about this beloved genre.
+When shows are based on true stories , they can unlock something special in the viewer. It can be very moving to know that the actions and people depicted on the screen stem from real events. That's why one of the most powerful shows of all time is still a must-watch. In 2019, Netflix released a four-part miniseries that begs us to look at the racial injustice in this country , and you'll be better off just by watching it.
 
-### ‘NCIS’ Spin-Off Series “Cannot Go Out Like This” Amid Renewal Uncertainty
-Tue, 24 Nov 2026 13:00:12 GMT — https://collider.com/ncis-origins-season-4-renewal-kyle-schmid-season-3-finale/
+### 'Landman's Billy Bob Thornton Officially Leaves Taylor Sheridan Behind for New Historical Series
+Wed, 25 Nov 2026 00:31:12 GMT — https://collider.com/billy-bob-thornton-the-mayflower-release-fox-nation-november-2026/
 
-Since the latest seasons premiered, the Tuesday night NCIS lineup has given CBS a lot to be happy about this fall. All three of the franchise's current titles premiered as the most-watched programs in their respective time slots, earning a collective 39% viewership increase year-over-year for the long-running procedural name. While the flagship led the night at 6.45 million viewers and remains a favorite in its 24th season, the newcomer NCIS: New York has similarly been performing well, starting with a strong 5.62 million viewers on average as fans flocked to see the return of LL COOL J 's Sam Hanna . Last but not least was NCIS: Origins at 4.39 million viewers, with an increase of 20% from last year; yet, of the three, it has easily enjoyed the most eventful fall run.
+Before Taylor Sheridan cast Billy Bob Thornton as Tommy Norris in Landman , the pair had worked together on 1883 , with Thornton making a brief but memorable appearance as Marshal Jim Courtright in the Yellowstone prequel. It wasn't the first time we'd seen Thornton take on the role of a real-life figure from American history, either, having played Davy Crockett opposite Dennis Quaid 's Sam Houston in The Alamo back in 2004. Thornton, whose father was a history teacher, has a particular interest in American history, and for his latest television project, he's going back more than two centuries before the events of 1883 .
 
-### 7 Greatest Romantasy Book Series of All Time, Ranked
-Tue, 24 Nov 2026 12:52:12 GMT — https://collider.com/best-romantasy-book-series-all-time-ranked/
+### 6 Psychological Thrillers From the 2000s That Are 10/10 Masterpieces
+Wed, 25 Nov 2026 00:21:12 GMT — https://collider.com/psychological-thrillers-2000s-perfect-masterpieces/
 
-Romance and fantasy have been closely bound for literally centuries, but there’s no denying that the relatively recent trend of "romantasy" books has pushed this genre-blend to greater heights than ever before. In the past decade or so, romantasy books have sold millions upon millions of copies around the world and developed massive international fanbases. However, as with any genre, not all romantasy books are equally great.
+The new millennium brought with it not only a quelling of the widespread fears of the dreaded Y2K bug, but also a surge in brain-busting thrillers . Unforgettable hits like American Psycho , Donnie Darko , Zodiac , Mulholland Drive , and Memento blew audiences away with their twisty takes on various psychological thriller sub-genres. Luckily, though, the big headliners weren’t the only noteworthy works produced; a hearty helping of other, not-so-sensationally publicized films broke out in dynamic fashion.
 
-### Hulu Is Losing One of Tom Hanks’ Best Movies Before Christmas
-Tue, 24 Nov 2026 12:30:12 GMT — https://collider.com/toy-story-2-leaving-hulu-december-23-2026/
+### 7 Years Later, HBO’s Sci-Fi Thriller Series Doesn't Have a Single Bad Episode
+Wed, 25 Nov 2026 00:19:12 GMT — https://collider.com/hbos-years-and-years-sc-fi-thriller-seven-years-later/
 
-He might've produced some of the most acclaimed performances of all time, including winning two Academy Awards for Best Actor out of six total nominations ( Philadelphia and Forrest Gump ), but Tom Hanks might be best known to many as the voice of one of Pixar's best characters. Over three decades , Hanks' rootin'-est, tootin'-est cowboy has brought joy to theaters and homes around the world, and this year, he, Buzz ( Tim Allen ), Jessie ( Joan Cusack ), and the rest of the gang returned for their latest adventure.
+If HBO 's Years and Years could be defined by one strength, it would be its sobering realism. In short, creator Russell T. Davies sought to capture the intricately intertwined, unraveling lives of a bustling, multi-generational family in Manchester, England. Set in the present day and fast-forwarding 15 years into the future, the carefully crafted series captures how simple, daily realities eventually snowball into life-altering, dramatic social, political, and technological shifts. Other series of a similar genre, like This Is Us , have attempted to achieve similar excellence; Years and Years , however, has a sci-fi trick up its sleeve.
 
-### J.J. Abrams’ 5-Season Sci-Fi Thriller Is Even More Important in 2026
-Tue, 24 Nov 2026 12:13:12 GMT — https://collider.com/most-important-sci-fi-thriller-series-2026-person-of-interest/
+### 9 Years Later, Netflix's 3-Season Sci-Fi Masterpiece Is Drawing 64 Million Viewing Hours
+Wed, 25 Nov 2026 00:18:12 GMT — https://collider.com/dark-netflix-viewing-hours-sci-fi-masterpiece/
 
-The best sci-fi stories work because they reflect society's current state or predict what's to come. The Twilight Zone featured many episodes in which aliens and the supernatural served as metaphors for societal issues like racism or fascism . Minority Report still resonates thanks to its unflinching look at how predicting the future can go horribly wrong. 15 years ago, CBS delivered a television series that blends the best of a long-running sci-fi saga with the network's procedural formula . That series has grown even more timely as technology like Flock cameras and generative AI become the subject of fierce debate.
+If sci-fi enthusiasts think they have time travel figured out, Netflix’s Dark is about to make them question everything. Premiering in 2017, the German series has since become a staple of the streaming platform's sci-fi library . That's no small feat, considering it had to stand alongside well-established genre hits of the time, like Black Mirror and Stranger Things .
 
-### The 7 Greatest Movie Masterpieces Over 3 Hours, Ranked
-Tue, 24 Nov 2026 12:03:12 GMT — https://collider.com/best-movie-masterpieces-over-3-hours-ranked/
+### Ariana Grande’s ‘Meet the Parents’ Sequel Is Officially One of the Franchise’s Worst Ever Movies
+Wed, 25 Nov 2026 00:15:12 GMT — https://collider.com/ariana-grande-focker-in-law-rotten-tomatoes-score/
 
-Three hours. 180 minutes. 10,800 seconds. Imagine every one of them being perfect. There is nothing in cinema quite like a truly great epic. The perfect marriage of narrative might, filmmaking craft, and creative ambition commands the screen, compels the audience, and applies the monumental runtime to extracting thematic depth and conjuring awe-inspiring scale.
+Having spent much of the last few years playing Glinda in Wicked and Wicked: For Good , Ariana Grande is getting the opportunity to show off some of the comedic chops we've seen from her whenever she's hosted Saturday Night Live , and she's getting to do so alongside two of the men responsible for one of the funniest comedies of the 2000s. It's been 26 years since we first watched Ben Stiller desperately try to earn the approval of Robert De Niro in Meet the Parents , and given that Gaylord "Greg" Focker's children are now old enough to be getting married themselves, it was only a matter of time before Greg became the dreaded father-in-law. Unfortunately, it seems the change in family dynamics hasn't gone down particularly well with critics.
 
-### 2 Years Later, Hugh Grant’s Near-Perfect Masterpiece Is Leaving Hulu
-Tue, 24 Nov 2026 12:00:12 GMT — https://collider.com/heretic-leaving-hulu-december-8-2026/
+### Top 7 Book Prequels That Made Us Rethink the Original
+Wed, 25 Nov 2026 00:15:12 GMT — https://collider.com/best-book-prequels/
 
-Hugh Grant will be back in living rooms around the world this December, as his modern Christmas classic Love Actually is rewatched by millions. Written and directed by Richard Curtis , this anthology tale of love, loss, and lust in the festive period has gone down in history as one of the yuletide best , albeit not without its detractors. Alan Rickman , Emma Thompson , Colin Firth , Laura Linney , Bill Nighy , Keira Knightley , and more all feature in Curtis' star-studded favorite, which is currently available to stream on Peacock.
+The best prequels do not rewrite a story. They change how people see it, either by going deeper into characters' lives and personalities, or delving into the world they live in. The recent release of the movie adaptation of Sunrise on the Reaping , Suzanne Collins ’ second prequel to The Hunger Games series, has audiences talking about the value of prequels and whether they have something insightful to say . The books on this list do.
 
