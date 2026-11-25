@@ -1,172 +1,177 @@
-# Film & TV — harvested 2026-11-25T01:04:15.834Z
+# Film & TV — harvested 2026-11-25T14:57:32.945Z
 
 ## Variety
 
-### Philip Rosenberg, Oscar-Winning Production Designer for All That Jazz, Dies at 91
-Wed, 25 Nov 2026 00:50:47 +0000 — https://variety.com/2026/film/news/philip-rosenberg-dead-all-that-jazz-1236957540/
+### Gilles Villeneuve Biopic ‘The Rise of a Legend’ Gives Racing Genre a Grungier Spin: It’s the ‘Anti-“F1”’
+Wed, 25 Nov 2026 14:46:56 +0000 — https://variety.com/2026/film/festivals/gilles-villeneuve-biopic-the-rise-of-a-legend-1236957807/
 
-Philip Rosenberg, a production designer and art director who was part of the team that won the art direction-set decoration Oscar for All That Jazz, died Oct. 28 in West Palm Beach, Florida. He was 91. His death was announced by his nephew, Alan Rosenberg. Rosenberg s first film job was as design assistant on the [ ]
+“Villeneuve: The Rise of a Legend” director Yan Lanouette Turgeon doesn’t mince his words, saying his 1970s-set biopic of Formula 1 racer Gilles Villeneuve is the antithesis of Joseph Kosinski’s “F1,” starring Brad Pitt. His film closes Torino Film Festival next week before a wider international rollout. We re the anti- F1,' he says. We re so far [ ]
 
-### ‘One Last Order’: Beloved Drive-Thru Worker Sighle Williams Says ‘I Miss the Community’ as Viral Netflix Doc Streams
-Wed, 25 Nov 2026 00:30:00 +0000 — https://variety.com/2026/tv/news/one-last-order-netflix-drive-thru-worker-sighle-williams-1236957515/
+### Ava DuVernay to Receive London Critics Circle s Inaugural Female Trailblazer Award
+Wed, 25 Nov 2026 14:00:00 +0000 — https://variety.com/2026/film/awards/ava-duvernay-ondon-critics-circle-female-trailblazer-award-1236957828/
 
-Sighle Williams served customers at a Florida burger joint for 37 years. And on her last day at Mac’s Drive Thru, it seemed like the entire city of Gainesville came out to say goodbye. “A lot of people told me they were going to come. But I wasn’t expecting that many people,” Williams tells Variety. [ ]
+The London Critics Circle is adding another special award to its 2027 film awards ceremony and has tapped Ava DuVernay as the first recipient. The Laura Mulvey Female Trailblazer Award — named after renowned film theorist and filmmaker (and Critics Circle member) Laura Mulvey — will, according to the Circle, recognize the most influential women in film, [ ]
 
-### Curry Barker’s ‘Anything But Ghosts’ to Release in Premium HDR by Barco Film News in Brief- Film News in Brief
-Wed, 25 Nov 2026 00:05:00 +0000 — https://variety.com/2026/film/news/film-news-in-brief-nov-23-2026-1236955894/
+### Sam’s Club Black Friday Sale Includes Deals on Samsung TVs, Sonos Soundbars, Bose Headphones and More
+Wed, 25 Nov 2026 14:00:00 +0000 — https://variety.com/2026/shopping/news/sams-club-black-friday-tech-deals-shop-online-1236957459/
 
-Obsession director Curry Barker is returning with his second feature film, “Anything But Ghosts,” which will be released in premium HDR by Barco. The film, which follows a group of fame-seeking aspiring “ghosthunters” navigating terrifyingly unfamiliar territory, premieres in theaters May 7 and features a cast including Violet McGraw, Chris Reinacher, Bryce Dallas Howard and [ ]
+If you’re looking to give your home theater a serious upgrade ahead of the holidays, some of the best Black Friday tech deals this year can be found at Sam’s Club. The wholesale retailer is slashing prices on everything from big-screen 4K televisions and Dolby Atmos soundbars to wireless headphones and gaming systems. While Sam’s [ ]
 
-### Golden Globes: ‘Spider-Man: Brand New Day’ Goes Comedy, ‘Dune 3’ Skips Box Office Achievement Category and More (EXCLUSIVE)
-Tue, 24 Nov 2026 23:31:30 +0000 — https://variety.com/2026/film/awards/golden-globes-2027-spider-man-comedy-dune-box-office-1236957413/
+### Luca Guadagnino Apologizes for Controversial Costume Design Comments But Defends Working With Fashion Designers: They’re More in Touch With the Pulse of How We Live’
+Wed, 25 Nov 2026 13:40:08 +0000 — https://variety.com/2026/film/news/luca-guadagnino-apology-costume-design-comments-controversy-1236957916/
 
-The Golden Globes ballots are out, and some of the year s biggest surprises are emerging from the official reminder lists sent to members. Variety has exclusively obtained the official motion picture eligibility list for the 84th Golden Globes, which lays out every film submitted across seven categories along with the actors, directors, writers and composers [ ]
+Luca Guadagnino apologized to costume designers at the Marrakech Film Festival on Wednesday, a year after drawing backlash for comments he made about his preference for working with fashion designers on his films. However, the Italian filmmaker doubled down on his admiration for his frequent collaborator Jonathan Anderson, who most recently designed the costumes for [ ]
 
-### Patrick Stewart Was ‘Struggling With His Health’ on Last Day of Filming ‘Avengers: Doomsday’; Marvel Plans to Add Tribute to Movie
-Tue, 24 Nov 2026 23:27:20 +0000 — https://variety.com/2026/film/news/patrick-stewart-avengers-doomsday-marvel-tribute-1236957522/
+### Danny DeVito-Produced SXSW Heist Comedy Drag Scores Wave of International Sales Out of AFM (EXCLUSIVE)
+Wed, 25 Nov 2026 13:33:05 +0000 — https://variety.com/2026/film/news/danny-devito-produced-heist-comedy-drag-sales-1236957923/
 
-Marvel Studios president Kevin Feige and co-directors Anthony and Joe Russo are getting candid about filming “Avengers: Doomsday” with the late star Patrick Stewart, whose role became his final on-screen appearance after his death in October. “He stood up and he gave a speech to the crew,” Feige told Entertainment Weekly of Stewart s final day [ ]
+Drag, the SXSW heist comedy starring Lizzy Caplan and John Stamos and produced by Danny DeVito, has secured a run of international deals following the American Film Market. U.K. sales and distribution company Blue Finch Films, which handles the title, has closed Germany with Indeed Film, France with VOD Factory and Spain with A Contracorriente. [ ]
 
-### Black Bear Buys Thriller Seeker, Starring Obsession s Cooper Tomlinson and Off Campus Actor Mika Abdalla (EXCLUSIVE)
-Tue, 24 Nov 2026 22:46:09 +0000 — https://variety.com/2026/film/news/black-bear-seeker-cooper-tomlinson-mika-abdalla-1236957478/
+### Hollywood Gets Roasted in Satirical Picture Book ‘We Make a Movie’: ‘I Loved Your Script … Now Change Everything’ (EXCLUSIVE)
+Wed, 25 Nov 2026 13:06:54 +0000 — https://variety.com/2026/film/global/hollywood-roasted-satirical-picture-book-we-make-a-movie-1236957842/
 
-Black Bear has acquired Seeker, a thriller featuring Obsession actor Cooper Tomlinson, Off Campus breakout Mika Abdalla and Happy Death Day star Jessica Rothe. The company has North American and U.K. distribution rights to the movie, which was introduced to buyers at this year s AFM. Directed by Adam Carter Rehmeier and written by Michael Learner, [ ]
+I loved your script. It is perfect. Now change everything. While probably far from a joke for many screenwriters who have had similar conversations, this particular line is taken from upcoming satirical picture book We Make a Movie. Designed to look like a children s book from the 1960s (particularly the U.K. s famed Key Words educational [ ]
 
-### NBC ‘Monitoring’ Storm That Could Ground Macy’s Thanksgiving Day Parade Balloons: ‘Decisions Will Be Made on Parade Morning’
-Tue, 24 Nov 2026 22:24:06 +0000 — https://variety.com/2026/tv/news/nbc-storm-macys-thanksgiving-day-parade-balloons-1236957441/
+### AI Horror Short Sikkal Wins WIF India x Google Flow Filmathon as Director Promita Banerjee Aims to Make Films With Humans
+Wed, 25 Nov 2026 12:52:27 +0000 — https://variety.com/2026/film/festivals/ai-horror-short-sikkal-wif-india-google-flow-filmathon-1236957898/
 
-The 100th celebration of the Macy s Thanksgiving Day Parade in New York City is finding itself at the mercy of the weather gods. It s made it through rain and even snow, but this time it s facing an incoming storm that is threatening to bring heavy winds. If things get too windy, the iconic balloons could [ ]
+A horror short rooted in the toll of sickle cell disease on India s tribal communities has won the inaugural WIF India x Google Flow Filmathon. Promita Banerjee s Sikkal, made with Google s AI creative workspace Google Flow, took the INR1.2 million ($12,500) first prize. Syam Manohar s black comedy Kuli placed second, earning INR800,000 ($8,300), and Nikhil [ ]
 
-### ‘The Hunger Games: Sunrise on the Reaping’: Creating Glenn Close’s Over-the-Top Looks by Leaning Into Drusilla’s ‘Narcissist’ Nature
-Tue, 24 Nov 2026 22:00:00 +0000 — https://variety.com/2026/film/news/hunger-games-sunrise-reaping-drusilla-costumes-hair-makeup-1236955506/
+### Mike Newell Recalls Being Shot at in Colombia While Filming ‘Love in the Time of Cholera’ With Giovanna Mezzogiorno: ‘She Was Like, “F— All This!”’
+Wed, 25 Nov 2026 12:41:13 +0000 — https://variety.com/2026/film/festivals/mike-newell-love-in-the-time-of-cholera-giovanna-mezzogiorno-1236957563/
 
-Being a member of Capitol society in Panem is an honor not to be taken lightly, at least if you re Drusilla Sickle, played by screen legend Glenn Close in “The Hunger Games: Sunrise on the Reaping.” In the book, Drusilla is the cruel and vain escort for Haymitch Abernathy (Joseph Zada) and the rest of [ ]
+This year s Torino Film Festival opened with a valentine to British artists, as directors Stephen Frears and Mike Newell collected lifetime achievement awards ahead of a screening of November 1963, the latest from Palme d Or winner Roland Joffé. Of the same generation, the three filmmakers followed remarkably similar paths. All cut their teeth on the [ ]
 
-### Steven Hack, American Horror Story Actor and Original Cast Member of ‘Cats,’ Dies at 68
-Tue, 24 Nov 2026 21:53:08 +0000 — https://variety.com/2026/film/people-news/steven-hack-dead-american-horror-story-cats-1236957417/
+### Vijay Sethupathi s Maharaja Producer Confirms Hollywood Remake Approach as WAVES Film Bazaar Panel Weighs Whether Indian IP Can Travel
+Wed, 25 Nov 2026 12:30:34 +0000 — https://variety.com/2026/film/markets-festivals/vijay-sethupathi-maharaja-hollywood-remake-approach-confirmed-1236957881/
 
-Steven Hack, an original cast member in the Broadway production of “Cats” who appeared in TV series including American Horror Story, died Nov. 19 in Los Angeles following a sudden and unexpected cardiac event, Interact Theatre Company confirmed on social media. He was 68. Hack performed and understudied in multiple roles in Cats, including Mungojerrie, [ ]
+The success in China of Tamil thriller Maharaja has led to an approach from a Hollywood agency for remake rights, producer Sudhan Sundaram confirmed during a panel at WAVES Film Bazaar, the market held alongside the 57th International Film Festival of India (IFFI) in Goa, where the film was held up as an example of [ ]
 
-### Men’s Wearhouse Kicks Off Black Friday With Designer Discounts on Suits and Tuxedos Just in Time For Awards Season
-Tue, 24 Nov 2026 21:51:07 +0000 — https://variety.com/2026/shopping/news/mens-wearhouse-black-friday-designer-deals-shop-online-1236957432/
+### Generative AI Indian Feature Maharaja in Denims, Inspired by Sikh Ruler Maharaja Ranjit Singh, Sets April 2027 Release (EXCLUSIVE)
+Wed, 25 Nov 2026 12:17:16 +0000 — https://variety.com/2026/film/news/generative-ai-feature-maharaja-in-denims-april-2027-release-1236957865/
 
-Just in time for holiday parties and the upcoming awards season, Men’s Wearhouse has kicked off its Black Friday sale early, slashing prices across its expansive selection of suiting, formalwear and everyday wardrobe staples. The menswear retailer is offering discounts on top brands such as Calvin Klein, Joseph Abboud, Kenneth Cole and Nautica, with particularly [ ]
+Maharaja in Denims, author Khushwant Singh s novel about a young man who relives the life of 19th-century Sikh ruler Maharaja Ranjit Singh, is nearing the finish line as a feature-length generative AI film – one its makers say they effectively had to make three times. The team hopes to release the film by April 2027, [ ]
 
 ## The Hollywood Reporter
 
-### Dancing With the Stars Season 35 Couples Perform Their Last Dances as a Winner Is Crowned in the Finale: See the Scores, Who Won (Updating Live)
+### Ava DuVernay to Receive London Critics Circle Inaugural Laura Mulvey Female Trailblazer Award
+Wed, 25 Nov 2026 14:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/ava-duvernay-london-critics-circle-award-laura-mulvey-film-1236762987/
+
+The newly created honor, which DuVernay will collect from Mulvey herself at the London Critics' Circle Film Awards, recognizes the most influential women in film working to break the glass ceiling.
+
+### The Body Star Kristina Bogic Just Wanted to Take Care of Anya: A Lot of Young Women Can Relate
+Wed, 25 Nov 2026 13:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-features/kristina-bogic-anya-the-body-interview-1236762320/
+
+The 19-year-old star of Netflix's latest hit breaks down how she came to love her dance team captain character: "Anya always wants to try and do the right thing."
+
+### Damian Lewis Boards Short Film Odessa as Executive Producer (Exclusive)
+Wed, 25 Nov 2026 11:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/damian-lewis-boards-short-film-odessa-as-executive-producer-1236762810/
+
+Harald Swinkels' Oscar-qualified World War II-era drama was shot on 35mm in the Austrian-Italian Dolomites.
+
+### ‘Dancing With the Stars’: All 35 Winners
+Wed, 25 Nov 2026 04:09:24 +0000 — https://www.hollywoodreporter.com/lists/dancing-with-the-stars-winners-list/
+
+A Tony winner, several Olympians, Super Bowl champions, Bachelorettes and the Irwin siblings are just a few of the stars who have won the coveted mirrorball trophy throughout the show’s 20-year history.
+
+### Dancing With the Stars: The Next Pro Renewed for Second Season
+Wed, 25 Nov 2026 03:29:24 +0000 — https://www.hollywoodreporter.com/tv/tv-news/dancing-with-the-stars-next-pro-renewed-season-2-male-dancers-1236762752/
+
+Season two will set out to find the next male professional dancer who will join the season 36 cast of 'DWTS.'
+
+### Fubo Plans Now Include Free Disney+, Hulu, ESPN Unlimited and Fox One
+Wed, 25 Nov 2026 03:20:14 +0000 — https://www.hollywoodreporter.com/lifestyle/shopping/fubo-free-access-to-disney-plus-hulu-espn-unlimited-fox-one-1236762695/
+
+As of November 2026, Fubo subscribers can use their login credentials to access all four services — over $75 in monthly value — for $0 additional.
+
+### Dancing With the Stars Finalist Connor Wood Has Already Won: I Feel Really Good
+Wed, 25 Nov 2026 01:55:19 +0000 — https://www.hollywoodreporter.com/tv/tv-features/connor-wood-dancing-with-the-stars-finale-interview-1236762661/
+
+The 31-year-old comedian has made it to the finale of the dance competition series show, even though he never quite expected it: "I really can't put my finger on why this clicked for me, but I leaned in a lot."
+
+### Hunger Games: Sunrise on the Reaping to Dominate Thanksgiving Box Office as Focker In-Law, Hexed Join Fray
+Wed, 25 Nov 2026 01:13:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/hunger-games-sunrise-on-the-reaping-thanksgiving-box-office-1236762317/
+
+'Hershey' and 'The Further Mis-Adventures of Cliff Booth' also head to the big screen for the five-day holiday weekend.
+
+### Dancing With the Stars Names Historic Season 35 Winner: See All the Scores, Who Won
 Wed, 25 Nov 2026 00:58:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/dwts-season-35-finale-winner-week-11-recap-scores-freestyle-1236762506/
 
-Tatyana Ali, Ezra Frech, Amber Glenn, Maura Higgins and Connor Wood are competing for their chance to win the Len Goodman Mirrorball Trophy.
+Tatyana Ali, Ezra Frech, Amber Glenn, Maura Higgins and Connor Wood competed for their chance to win the Len Goodman Mirrorball Trophy.
 
 ### Where to Stream Dancing With the Stars Season 35 Finale Live Online
 Tue, 24 Nov 2026 22:37:56 +0000 — https://www.hollywoodreporter.com/tv/tv-news/watch-dancing-with-the-stars-finale-2026-season-35-free-abc-1236762567/
 
 The special three-hour event — airing live across all U.S. time zones for the first time in show history — will see the final five couples perform three routines each.
 
-### IATSE Reaches Tentative Agreement for Broadway Stagehands
-Tue, 24 Nov 2026 21:52:47 +0000 — https://www.hollywoodreporter.com/business/business-news/iatse-reaches-tentative-agreement-broadway-stagehands-1236762558/
-
-However, the union said its Broadway wardrobe workers are still without a new contract and have voted to authorize a strike.
-
-### Alfonso Ribeiro on the Wild Ride of DWTS Season 35, Reuniting With Tatyana Ali and Why He Won’t Compete in an All-Winners Season
-Tue, 24 Nov 2026 21:46:52 +0000 — https://www.hollywoodreporter.com/tv/tv-features/alfonso-ribeiro-dwts-season-35-tatyana-fan-discourse-all-stars-1236762413/
-
-To commemorate the finale of ‘DWTS,’ Ribeiro chats with THR about the ups-and-downs of season 35, his favorite part about hosting the show and why he can’t predict who will join him in the winners circle on Tuesday night.
-
-### Broadway Box Office: Hamilton Rises Back Up to $3M, Here There are Blueberries Cracks $1M
-Tue, 24 Nov 2026 21:25:33 +0000 — https://www.hollywoodreporter.com/lifestyle/arts/broadway-box-office-hamilton-rises-back-up-to-3m-here-there-are-blueberries-cracks-1m-1236762460/
-
-'Inter Alia,' starring Rosamund Pike, is also continuing to build momentum.
-
-### TV Ratings: NBA Logs Winning Streak in First Month of the Season
-Tue, 24 Nov 2026 21:19:54 +0000 — https://www.hollywoodreporter.com/tv/tv-news/nba-tv-ratings-up-2026-27-first-month-1236762311/
-
-Audiences on national media partners NBC/Peacock, ESPN and Prime Video are up by 37 percent year to year.
-
-### How Amin Joseph Brought Humanity to Sonny Liston in The Greatest
-Tue, 24 Nov 2026 20:56:02 +0000 — https://www.hollywoodreporter.com/tv/tv-features/who-plays-sonny-liston-in-the-greastest-meet-amin-joseph-1236759934/
-
-Amazon's Muhammad Ali series rewrites history for one of boxing's biggest heels.
-
-### Parke s Viral Sweatshirts Get Rare Price Drop for Black Friday
-Tue, 24 Nov 2026 20:51:27 +0000 — https://www.hollywoodreporter.com/lifestyle/shopping/parke-black-friday-sale-2026-discount-sweatshirt-archives-1236762383/
-
-The sale comes alongside a seasonal drop that revives sold-out favorites.
-
-### Steven Hack, Original ‘Cats’ Castmember and Busy Onscreen Character Actor, Dies at 68
-Tue, 24 Nov 2026 20:35:15 +0000 — https://www.hollywoodreporter.com/tv/tv-news/steven-hack-dead-cats-interact-theatre-company-1236762464/
-
-His credits ranged from ‘Jake and the Fatman’ and ‘Seinfeld’ to ‘Pam Tommy’ and ‘Amsterdam.’
-
-### The Pulitzer-Winning Play Purpose Finally Came to Los Angeles. But That Doesn t Mean It s Gone Hollywood.
-Tue, 24 Nov 2026 20:31:40 +0000 — https://www.hollywoodreporter.com/lifestyle/arts/branden-jacobs-jenkins-purpose-playwright-never-adapt-his-work-1236761628/
-
-Branden Jacobs-Jenkins reunites the entire company, including Kara Young and director Phylicia Rashad, for a sold-out run at the Geffen Playhouse.
-
 ## Deadline
 
-### X-Men s James Marsden On Cyclops Leading In Avengers: Doomsday After Taking Back Seat To Wolverine : It Was Important That My Return Felt Meaningful
-Wed, 25 Nov 2026 00:22:55 +0000 — https://deadline.com/2026/11/james-marsden-cyclops-x-men-avengers-doomsday-wolverine-1237233013/
+### UK Actors Union Equity To Kickstart Negotiations With Streamers Early Next Year
+Wed, 25 Nov 2026 14:15:00 +0000 — https://deadline.com/2026/11/streamer-negotiation-equity-actors-union-contracts-next-year-1237227832/
 
-James Marsden is back as Cyclops in Avengers: Doomsday after originating the role in the 2000s X-Men films. In a new interview, the actor teased the new Marvel film, saying fans will be very pleased and noting that Cyclops finally gets to lead the mutants. I think fans are going to be very pleased. One of [ ]
+EXCLUSIVE: Having nearly signed off on its long-gestating deal with Pact, Equity will soon sit down with a trio of streamers. Deadline is told that the UK actors union intends to enter the negotiating table with Netflix, Disney and Apple at the start of next year. Equity s landmark deal with producer trade body Pact, which [ ]
 
-### Everything We Know About Gina Prince-Bythewood’s ‘Children Of Blood And Bone’ Movie So Far
-Tue, 24 Nov 2026 23:46:44 +0000 — https://deadline.com/feature/children-of-blood-and-bone-movie-news-updates-adaptation-1237012631/
+### Slam Frank Hip-Hop Musical Retelling Of Anne Frank Story Gets Second 8-Week Extension
+Wed, 25 Nov 2026 14:07:00 +0000 — https://deadline.com/2026/11/slam-frank-off-broadway-closing-date-1237209726/
 
-As summer draws to a close, the theatrical release of Children of Blood and Bone draws nearer. The film adaptation of Tomi Adeyemi’s YA fantasy is directed by Gina Prince-Bythewood, and it stars quite a stacked cast of actors and characters. For everything we know about the Children of Blood and Bone movie, read on. [ ]
+UPDATE, EXCLUSIVE: Slam Frank is being extended for a second time at Manhattan s Orpheum Theatre Off Broadway. The buzzy musical will now continue an additional eight weeks through March 1, 2027. The Andrew Fox-Joel Sinensky satirical hip-hop musical most recently extended through January 4, 2027. Both extensions are due to popular demand. PREVIOUS, NOV. 3: [ ]
 
-### Take-Two CEO Strauss Zelnick To Talk Grand Theft Auto VI At SXSW London 2027; More Speakers Announced
-Tue, 24 Nov 2026 23:39:19 +0000 — https://deadline.com/2026/11/gta-6-take-two-ceo-strauss-zelnick-sxsw-london-2027-speaker-1237232963/
+### Saint-Pierre Is The High-Rating Canadian Cop Series Proving Small Island Life Can Provide The Drama
+Wed, 25 Nov 2026 14:00:00 +0000 — https://deadline.com/2026/11/saint-pierre-canada-cbc-global-breakouts-1237230077/
 
-Take-Two Interactive CEO Strauss Zelnick, the man behind Grand Theft Auto VI, will speak at SXSW London 2027, organizers announced Tuesday. Zelnick, who will talk about building one of the world s biggest entertainment franchises, is among the first-wave of speakers for SXSW London, which returns to Shoreditch, east London, for its third year in May. [ ]
+Welcome to Global Breakouts, Deadline’s strand in which, each fortnight, we shine a spotlight on the TV shows and films killing it in their local territories. The industry is as globalized as it’s ever been, but breakout hits are appearing in pockets of the world all the time and it can be hard to keep [ ]
 
-### In Joanna Natasegara’s Oscar Contender ‘The Disciple,’ Wu-Tang Clan Superfan Cilvaringz Morphs Into A Killer Bee
-Tue, 24 Nov 2026 23:34:49 +0000 — https://deadline.com/2026/11/the-disciple-a-wu-tang-fable-director-joanna-natasegara-interview-1237232945/
+### Ava DuVernay Set For Inaugural London Critics’ Circle Laura Mulvey Female Trailblazer Award
+Wed, 25 Nov 2026 14:00:00 +0000 — https://deadline.com/2026/11/ava-duvernay-london-critics-laura-mulvey-female-award-1237233191/
 
-Wu-Tang Clan has big plans for Thanksgiving. The hip-hop legends will be in Detroit to headline the halftime show for the NFL game between the host Lions and the Chicago Bears (U2 will do the halftime honors for the Thanksgiving Eve game in LA between the Green Bay Packers and the Los Angeles Rams, airing [ ]
+Ava DuVernay has been unveiled as the inaugural recipient of a new London Critics’ Circle award celebrating pioneering UK film theorist Laura Mulvey, who coined the term “male gaze” in a 1970s essay. The Laura Mulvey Female Trailblazer Award is designed to recognise the most influential women in film, who are working to break the [ ]
 
-### Avengers: Doomsday Final Trailer Clocks 563M Views, Best Ever For Disney; 2nd Most Viewed Of All-Time
-Tue, 24 Nov 2026 23:31:33 +0000 — https://deadline.com/2026/11/avengers-doomsday-final-trailer-viewership-record-1237232943/
+### British Industry Braces For Impact Of America s Federal Film TV Tax Incentive
+Wed, 25 Nov 2026 13:30:00 +0000 — https://deadline.com/2026/11/federal-film-tv-tax-credit-uk-industry-bfi-working-group-1237232541/
 
-EXCLUSIVE: Distribution sources always like to downplay the straight line between a telling analytic about a pic and its opening box office. However, it s pretty clear from the traffic for the final Avengers: Doomsday trailer, the Russo Brothers-directed Disney/Marvel movie is bound for some sort of box office opening record. In its first 24 hours, [ ]
+EXCLUSIVE: Steven Paul may think the proposed federal film and TV tax incentive is good for the world, but the British industry isn t so sure. UK trade bodies, industry organizations and studios are peering nervously toward the other side of the pond at the incentive s progress, which has now received the full-throated backing of Donald [ ]
 
-### Adam Driver Teases Mister Sinister Role In Marvel Reboot: I Was A Big X-Men Fan
-Tue, 24 Nov 2026 23:17:03 +0000 — https://deadline.com/2026/11/adam-driver-x-men-reboot-mister-sinister-marvel-studios-1237232938/
+### I m A Celebrity… Get Me Out Of Here! Row Over Microaggressions Sparks 900 Complaints
+Wed, 25 Nov 2026 12:42:16 +0000 — https://deadline.com/2026/11/im-a-celeb-aj-odudu-microaggressions-900-complaints-1237233218/
 
-Adam Driver is joining the Marvel Cinematic Universe in the upcoming X-Men reboot directed by Jake Schreier. The Paper Tiger actor is set to play the villain Mister Sinister, and while appearing on Late Night with Seth Meyers, he teased his new role. When the late-night show host asked Driver if he was aware of his character before joining [ ]
+A dispute between I m A Celebrity… Get Me Out Of Here! campmates AJ Odudu and Mariella Frostrup has sparked nearly 900 viewer complaints. On Sunday evening, ITV broadcast footage of tensions between Big Brother host Odudu and broadcaster Frostrup over camp cooking duties (see below). During one exchange, Frostrup accused Odudu of being “aggressive” and [ ]
 
-### The Body Summons 86% Audience Boost To Lead Netflix s Weekly TV Rankings
-Tue, 24 Nov 2026 23:08:19 +0000 — https://deadline.com/2026/11/the-body-netflix-viewership-season-1-premiere-1237232942/
+### SXSW Heads To Egypt In Partnership With Youth-Focused UTH Festival
+Wed, 25 Nov 2026 11:53:10 +0000 — https://deadline.com/2026/11/sxsw-egypt-uth-festival-1237233156/
 
-The Body is summoning some interest on Netflix. The YA drama tallied 9.5 million views from November 16 to 22, taking No. 1 on the English TV list for its first full week on the streamer. That s an 86% increase from the 5.1 million views it managed in its first few days of availability after [ ]
+SXSW is headed to Egypt through a new partnership with the country’s burgeoning youth-focused UTH Festival, created by Egyptian entrepreneurs Omar El Aawar and Ahmed Ragy in 2024. Under the agreement formalised at the third UTH Festival, this past weekend in Cairo, the event will serve as SXSW s partner in Egypt, to connect Egyptian filmmakers, [ ]
 
-### Black Friday Streaming Deals Offered By Disney+, HBO Max, Paramount+, Peacock More
-Tue, 24 Nov 2026 21:49:34 +0000 — https://deadline.com/2026/11/black-friday-streaming-deals-disney-hbo-max-paramount-peacock-1237231785/
+### Scott Adkins On Getting The Diablo Team Back Together For Brutal Justice Prospects Of More Undisputed
+Wed, 25 Nov 2026 11:10:15 +0000 — https://deadline.com/2026/11/scott-adkins-brutal-justice-last-fight-undisputed-diablo-1237227869/
 
-Bargain-hunters looking for values in streaming around Black Friday (the day after Thanksgiving) will find several major services all offering steeper-than-usual discounts. Disney+ and Hulu on Tuesday rolled out a bundle of their ad-supported tiers for $4.99 a month for the first 12 months, a savings of 61% over the regular rate. The offer is [ ]
+EXCLUSIVE: Scott Adkins and team behind Diablo are set to serve up some Brutal Justice. We’ve got the first pics from the movie, which will be released next year. Adkins also told Deadline about a new film he has written and dished the latest on the prospect of more from the Undisputed franchise. Diablo hit [ ]
 
-### Broadway Producers Stagehands Union Reach Tentative Contract Deal, Avoiding Holiday Strike
-Tue, 24 Nov 2026 21:38:59 +0000 — https://deadline.com/2026/11/broadway-producers-stagehands-union-deal-1237232887/
+### Design Duo Brian Gluckstein Lynda Reeves Set Video Podcast With Marlo Miazga s M Media
+Wed, 25 Nov 2026 09:30:00 +0000 — https://deadline.com/2026/11/brian-gluckstein-lynda-reeves-video-podcast-m-media-1237232655/
 
-The Broadway League and IATSE Local One of theater workers have reached a tentative deal to avoid a strike that could have disrupted the lucrative holiday season. The agreement is pending ratification by union members. In a joint statement from the League and the union, the two sides announced they have reached a tentative agreement, [ ]
+EXCLUSIVE: Canadian design duo Brian Gluckstein and Lynda Reeves has teamed with Marlo Miazga s M Media on a video podcast series. By Design With Lynda Brian will be an eight-part series in which designers Reeves, who was host of HGTV s House Home, and Gluckstein, who appeared regularly on Cityline for 30 years, offer [ ]
 
-### Inter Alia Starring Rosamund Pike Sells Out; Hamilton With Christopher Jackson Tops $3M Broadway Box Office
-Tue, 24 Nov 2026 20:52:30 +0000 — https://deadline.com/2026/11/broadway-box-office-rosamund-pike-christopher-jackson-1237232642/
+### UK Prime Minister Promises To Get Tough On NDAs After Watershed Russell Brand Sentencing
+Wed, 25 Nov 2026 09:23:08 +0000 — https://deadline.com/2026/11/russell-brand-andy-burnham-ndas-david-walliams-1237233158/
 
-Inter Alia, the previewing production of Suzie Miller s new play starring Rosamund Pike, seems about to repeat its London success here on Broadway, with the first seven-performance week selling out and grossing $993,103. The play (opening at the Music Box Theatre on December 1) was one of the stronger performers on Broadway for the week [ ]
+The UK Prime Minister has promised to tackle non-disclosure agreements (NDAs) following the Russell Brand rape sentencing. Andy Burnham intervened in the debate by calling Brand a watershed moment, not just for the culture of the entertainment industry but for us as a nation. Brand s 10-year sentence for rape and the allegations against David Walliams, [ ]
 
-### Kelly Rowland Joins Hulu s Reasonable Doubt For Season 5
-Tue, 24 Nov 2026 20:44:58 +0000 — https://deadline.com/2026/11/kelly-rowland-cast-hulu-reasonable-doubt-season-5-1237232824/
+### The BBC s Latest Idea To Save £500M: Bring In Consultants
+Wed, 25 Nov 2026 09:14:09 +0000 — https://deadline.com/2026/11/bbc-consultants-alixpartners-save-hundreds-of-millions-1237232693/
 
-SPOILER ALERT: The following reveals major plot points from Hulu s Reasonable Doubt s Season 4 finale titled Moment of Clarity. Hulu s Reasonable Doubt has closed out its action-packed fourth season with a bloody good surprise: Kelly Rowland has joined the cast for Season 5. She portrays the character Demitra, a staffer on a mayoral campaign who [ ]
+EXCLUSIVE: The next phase of the BBC s plan to save £500 million ($654M) will involve bringing in consultants who can bill more than £1,000 an hour. Deadline hears that BBC director-general Matt Brittin has turned to AlixPartners, a consultancy that specializes in helping turnaround companies in financial distress. AlixPartners consultants are embedded in the BBC, [ ]
 
-### Al Gore To Purchase Hometown Paper Carthage Courier
-Tue, 24 Nov 2026 20:44:56 +0000 — https://deadline.com/2026/11/al-gore-buys-carthage-courier-1237232838/
+### Presenter YouTube Creator Patricia Bright Signs With HLD Talent Launches Feel-Good Show Unpacked Upgraded
+Wed, 25 Nov 2026 09:00:00 +0000 — https://deadline.com/2026/11/patricia-bright-signs-hld-talent-unpacked-upgraded-series-1237232602/
 
-Former Vice President Al Gore has purchased the Carthage Courier, a 110-year-old weekly newspaper that covers his Tennessee hometown and surrounding area. The current owners, the family of Hershel and Geraldine Lake, said that the sale will be finalized in the coming weeks. Gore said in a statement, I’m so grateful to the Lake family [ ]
+EXCLUSIVE: YouTuber and presenter Patricia Bright has signed with HLD Talent, and is launching her latest series tomorrow. HLD will work with Bright on the UK and U.S. strategies, partnerships and businesses, and look to solidify her name in the finance, beauty and social media spaces. Bright is a British YouTuber, content creator, author and [ ]
 
 ## befores & afters
+
+### How the Balrog was made (and made to talk) in s3 of The Rings of Power
+Wed, 25 Nov 2026 09:08:32 +0000 — https://beforesandafters.com/2026/11/25/how-the-balrog-was-made-and-made-to-talk-in-s3-of-the-rings-of-power/
+
+A deep dive into the creatures this season. Today on the befores & afters podcast, we’re chatting about season 3 of The Lord of the Rings: The Rings of Power. I am joined by production visual effects supervisor Jason Smith. We do a deep dive into the Balrog revealed this season, voiced by Simon Pegg. We talk about the design, the animation tests, the interaction with Charlie Vickers as Sauron, and the final VFX work by ILM. We also discuss other creatures the Fell beast by DNEG and the Mûmakil by Rodeo FX. And we go into the ring forging sequence, which was handled by DNEG, plus a look at practical prosthetic effects for the Orcs by Barrie Gower’s team. This is a fun chat, with spoilers if you haven’t watched the final eps of season 3. Listen in above, and see a behind the scenes video here: The post How the Balrog was made (and made to talk) in s3 of The Rings of Power appeared first on befores & afters .
 
 ### Rebelway s Biggest Sale of the Year is Here
 Tue, 24 Nov 2026 19:51:33 +0000 — https://beforesandafters.com/2026/11/25/rebelways-biggest-sale-of-the-year-is-here/
@@ -178,12 +183,22 @@ Mon, 23 Nov 2026 20:23:23 +0000 — https://beforesandafters.com/2026/11/24/show
 
 Issue #70 of befores & afters magazine covers the visual effects of Spider-Man: Brand New Day. DIGITAL MAGAZINE members can download the issue right now from the shop post. With Spider-Man: Brand New Day , director Destin Daniel Cretton takes Peter Parker (Tom Holland) into a new chapter of his life, one that finds the web-slinger fighting crime full-time in a New York City that has forgotten his identity. As Peter grapples with the isolation of his new existence, an unexpected transformation threatens to change his abilities, while a seemingly new adversary in Jean Grey (Sadie Sink) appears to put the city and those Peter cares about in danger. Bringing this world to the screen required a substantial visual effects effort, with production visual effects supervisor Jerome Chen and production visual effects producer David Masure-Bosco overseeing work across a number of facilities, including Sony Pictures Imageworks, Framestore and Industrial Light & Magic. Digital Domain and Torchlight contributed visualization services. Several swinging sequences required particularly close attention to city builds and CG digi-doubles, as well as integrating live-action footage, physical effects and practical stunts into the final shots. Hulk (Mark Ruffalo) also features in the film, and was realized as a CG character. Finally, Jean Grey’s telekinetic mind wave abilities were ones that required visual effects design and execution, too. In this special issue of befores & afters magazine, we br
 
-### A visual journey through the miniatures of ‘Digger’
-Mon, 23 Nov 2026 10:48:48 +0000 — https://beforesandafters.com/2026/11/23/a-visual-journey-through-the-miniatures-of-digger/
-
-Miniature supervisor Simon Weisse breaks down the model builds for the film. In director Alejandro G. Iñárritu’s Digger , Tom Cruise stars as Digger Rockwell, a powerful oil magnate whose reckless pursuit of fossil fuels unleashes an environmental catastrophe that threatens to devastate the planet. As the disaster unfolds, Digger embarks on a frantic mission to convince the world that he is humanity’s saviour. Well, that’s what the film appears to be about. Without going into too many spoilers here, one of the ways the film’s distinctive, deliberately artificial visual world was brought to life was through an extensive combination of physical miniatures and dioramas—which become story points themselves—that were augmented with practical special effects and digital visual effects, blending traditional filmmaking techniques with contemporary VFX. Miniature supervisor Simon Weisse oversaw a diverse array of miniatures for the film which were built in his Berlin studio and transported to Pinewood Studios in the UK for filming. Here he talks to befores & afters about how the miniatures work came together. How miniatures became part of the film Weisse recounts the call he received from Digger producer Michael Sharp, who relayed that ‘Alejandro wants miniatures’. “Michael and I had worked together previously and said, ‘Could you come to London next week?’ I went there to Leavesden Studios where they have made some test setups. They had very simple miniatures made by the art departme
-
 ## IndieWire
+
+### All of a Sudden Review: Ryusuke Hamaguchi s Long and Thoughtful Plea for a More Hopeful Future
+Wed, 25 Nov 2026 14:30:52 +0000 — https://www.indiewire.com/criticism/movies/all-of-a-sudden-movie-review-ryusuke-hamaguchi-1235193798/
+
+A terminal play director and an overworked eldercare provider stroll through Paris and try to solve capitalism in the latest epic from the director of "Drive My Car."
+
+### TV Took the Wrong Lessons from the Success of Heated Rivalry
+Wed, 25 Nov 2026 14:00:00 +0000 — https://www.indiewire.com/features/commentary/heated-rivalry-tv-wrong-lessons-success-1235229781/
+
+One year after its release, "Heated Rivalry" continues to offer stellar lessons on how to build a queer breakthrough series. The industry isn’t paying attention.
+
+### Grand Theft Auto VI Made Nearly $4 Billion Doing What Movies Can t
+Wed, 25 Nov 2026 13:36:07 +0000 — https://www.indiewire.com/features/commentary/grand-theft-auto-6-video-game-movie-criticism-1235230976/
+
+Critics still comparing video games and cinema are selling both art forms short.
 
 ### Frederick Wiseman s Complete Filmography to Be Distributed by Janus Films
 Tue, 24 Nov 2026 23:15:17 +0000 — https://www.indiewire.com/news/general-news/frederick-wiseman-complete-works-distributed-janus-films-1235230945/
@@ -230,122 +245,107 @@ Tue, 24 Nov 2026 19:00:00 +0000 — https://www.indiewire.com/features/craft/pro
 
 Mag Sarnowska and her team had to remove a lot of reflections from the sci-fi epic, but she wouldn't have it any other way.
 
-### The Extraordinary Music Worthy of an Extraordinary Life in W.E.B. Du Bois: Rebel with a Cause
-Tue, 24 Nov 2026 17:45:00 +0000 — https://www.indiewire.com/features/craft/web-du-bois-rebel-with-a-cause-score-kathryn-bostic-1235230057/
-
-Composer Kathryn Bostic and director Rita Coburn tell IndieWire how they drew from Du Bois' own encounters with a broad array of musical influences to shape their film's score.
-
-### Oobah Butler Wants to Expose the World s Stupidest Industries, but They Get Worse Faster Than He Can Plan His Stunts
-Tue, 24 Nov 2026 17:00:00 +0000 — https://www.indiewire.com/features/interviews/oobah-butler-scams-for-a-better-tomorrow-interview-1235229738/
-
-The star of HBO's "Oobah: Scams for a Better Tomorrow" tells IndieWire about taking on supplements, dating apps, and royalty — and why satire struggles to keep up with an insane world.
-
-### Coward Trailer: Lukas Dhont s Belgian Oscar Entry Is a Queer Stunner
-Tue, 24 Nov 2026 16:00:00 +0000 — https://www.indiewire.com/news/trailers/coward-trailer-lukas-dhont-belgian-oscar-entry-1235230581/
-
-Exclusive: Cannes Best Actor winners Emmanuel Macchia and Valentin Campagne are gay lovers in the World War I trenches of Belgium in the latest film from the director of "Close."
-
 ## The Wrap
 
-### Shane Gillis Responds After Ex-Girlfriend Details Relationship ‘Red Flags,’ Says Comedian Doesn’t Like Women
-Wed, 25 Nov 2026 00:12:01 +0000 — https://www.thewrap.com/culture-lifestyle/culture/shane-gillis-responds-ex-girlfriend-relationship-essay/
+### BBC Asks Appeals Court to Toss Trump’s $10 Billion Defamation Lawsuit
+Wed, 25 Nov 2026 14:38:52 +0000 — https://www.thewrap.com/culture-lifestyle/culture/bbc-trump-defamation-lawsuit-appeal/
 
-Comedian Shane Gillis spoke out after his ex-girlfriend, content creator Grace Brassel, published a personal essay detailing their allegedly tumultuous relationship and breakup. Grace and I had some good times together, Gillis said in a statement to TheWrap Tuesday afternoon. Breakups are tough, and I wish her the best. His comment followed a personal essay in The Cut published Tuesday, in which Brassel detailed the alleged isolation and infidelity she faced throughout her year-long relationship with Gillis. A couple of months ago, when comedian Shane Gillis hosted Saturday Night Live, he said in his opening monologue that women dress like whores at the gym, Brassel wrote. An outrage cycle ensued — Dan Levy called him a misogynist, former SNL star Ego Nwodim responded with a gym selfie — but I wasn’t the least bit surprised. Until last August, I was in a yearlong relationship with Shane, and his comments didn’t faze me. After our time together, how do I think he feels about women? He doesn’t like them much. Per Brassel, her relationship with the Tires co-creator and comedian began with a DM, prompting the latter to invite her to travel to Austin for a first date. Despite some weirdness, Brassel described the initial visit as a dream, noting she and Gillis soon became official after that trip. She then moved with him to Pennsylvania, where he worked on the new season of Tires, with Gillis allegedly encouraging her to quit her job after she struggled to keep up with his alleged
+The BBC is asking a federal appeals court to throw out President Donald Trump’s defamation lawsuit, renewing its argument that the Florida court overseeing the case lacks jurisdiction. The British broadcaster filed a petition for a writ of mandamus with the U.S. Court of Appeals for the 11th Circuit on Nov. 17, according to court records . The legal challenge, first reported Wednesday by The Guardian , comes after U.S. District Judge Jeffrey Kuntz rejected the BBC’s bid to dismiss the defamation case earlier this month. “We are surprised and disappointed by the court s decision that this case should be heard in Florida. As we have made clear from the start, the BBC broadcast this documentary in the UK and UK only. We did not show it in Florida, nor did any other broadcaster,” a BBC spokesperson told TheWrap. “Given the urgency of this issue, we are now requesting a higher court review the ruling.” As TheWrap reported in August , Trump’s amended complaint alleges the documentary was played 34 times in Florida by 10 users employing virtual private networks (VPNs). The BBC has argued that those alleged streams were unauthorized and cannot establish jurisdiction. Trump sued the BBC last December over its editing of his Jan. 6, 2021, speech in the “Panorama” documentary “Trump: A Second Chance?” The edit gave the impression that Trump directly encouraged violence. The BBC apologized but denied defaming the president. BBC Director General Tim Davie and news chief Deborah Turness re
 
-### Amelia Dimoldenberg Explains How 2 Panic Attacks in a Week Convinced Her to End ‘Chicken Shop Date’
-Tue, 24 Nov 2026 23:29:54 +0000 — https://www.thewrap.com/culture-lifestyle/culture/amelia-dimoldenberg-chicken-shop-date-ending-decision-panic-attacks/
+### ‘Way of the Warrior Kid’ Review: Chris Pratt’s Apple Movie Is a Forgettable Coming-of-Age Story
+Wed, 25 Nov 2026 14:22:13 +0000 — https://www.thewrap.com/creative-content/movies/way-of-the-warrior-kid-review-chris-pratt-apple-tv/
 
-Amelia Dimoldenberg explained how a pair of panic attacks in a week helped her make the decision to end Chicken Shop Date. The host of the viral interview series penned an essay for The Cut that laid out exactly she came to her decision. Largely, it boiled down to how the show was bleeding more into her real life to the point she began questioning if the show’s success is tethered to why I am still single. That line of thinking eventually led to a stretch of panic attacks that had her finally taking a long look at how much longer she was up for doing the show she loved and created. I knew my perspective on Chicken Shop Date was changing around 18 months ago, when I had my first and then second panic attack ever in the space of a week, Dimoldenberg said. Granted, the second one was at an insanely overstimulating karaoke bar called the K-Hole, but still, I knew something was up. I had stopped drinking at the time because I was trying to pinpoint exactly why I felt so unlike myself. All of my emotions felt so much more visceral; I figured that’s what happens when you cut out a sedative. I had started seeing a therapist a few months earlier in the hope that they might provide an answer as to why I was feeling so flat, so low, so confused. The last time I felt like this, it led me to break up with a boyfriend. But now I was single, and unfortunately, I couldn’t pin this all to a man who was dragging me down. She added: Naturally, questions started coming up around work. I was at t
+Mister Miyagi. Yoda. Morpheus. Hannibal Lecter (kinda). The history of cinema is riddled with unforgettable mentors. Today, the new film “Way of the Warrior Kid” adds another name to that roster. I don’t remember what his name was, but I’m sure it’s on the list somewhere. Presumably towards the bottom. Maybe scrawled in crayon. “Way of the Warrior Kid” is an Apple TV original movie, directed by McG, about a little kid who gets bullied by a much bigger kid. So, he asks his Navy SEAL uncle to toughen him up over summer break. It’s the kind of movie you expect to have at least one training montage, and there’s nothing wrong with that. Except “Way of the Warrior Kid” doesn’t have a training montage. The whole movie is the montage. It’s about people getting incrementally better at living, not so much about their actual lives. Marc, played by Jude Hill (“Belfast”), is a scrawny kid who can’t do a single pull-up. The movie would have you believe that’s why he’s relentlessly bullied, but it’s a thin justification even by bullying standards. If Marc is the biggest outsider in his school then that’s a really boring school, filled with really boring kids. There’s nothing interesting about Marc. He likes video games, and “Way of the Warrior Kid” wants you to think that’s weird instead of the baseline standard for most young people. And for that matter, most adults. Marc’s uncle Jake (Chris Pratt) — I looked the name up, because somebody had to — is on medical leave, recovering from nerve
 
-### Broadway Stagehands Avoid Strike After Reaching Tentative Agreement With Theater Operators
-Tue, 24 Nov 2026 23:21:00 +0000 — https://www.thewrap.com/culture-lifestyle/culture/broadway-stagehands-avoid-strike-agreement-with-theater-operators/
+### Thanksgiving Week Games Show How TV Players Are Hooked on the NFL Analysis
+Wed, 25 Nov 2026 14:15:00 +0000 — https://www.thewrap.com/media-platforms/tv/nfl-ad-revenue-broadcasters-thanksgiving-streaming/
 
-IATSE Local One, the union that represents Broadway stagehands, reached a tentative agreement with The Broadway League on Tuesday, avoiding a strike that likely would have shut down productions during the busy holiday season. The previous agreement between IATSE Local One and The Broadway League, which represents theater owners and producers, expired July 26. According to the IATSE website , Local One sought wage and benefit increases for its members. The new agreement still needs to be ratified at the next Local One membership meeting in December. However, the contract fight continues for Theatrical Wardrobe Union, IATSE Local 764. Wardrobe workers unanimously voted Sunday to authorize a strike as they continue working without a contract. However, no strike has been called at this time. Local 764 s agreement with The Broadway League also expired on July 26. Among the major unresolved issues are wages and a longstanding gender pay gap affecting Broadway wardrobe workers, IATSE said in a press release Tuesday. Wardrobe work on Broadway has historically been performed predominantly by women and paid at significantly lower rates than stagehand classifications historically held predominantly by men. Although recent negotiations have narrowed that gap, Local 764 department heads today must work nearly 45 percent longer to earn pay comparable to workers in similar department-head roles. The holidays are traditionally Broadway s busiest season, as tourists flock to New York City for
+Thanksgiving football is no longer just a Thursday tradition. This year, the NFL is spreading five games across three days , with Netflix and Prime Video joining CBS, Fox and NBC in a holiday slate that shows that you truly can t get enough professional football on TV. The streamers, networks and advertisers certainly want more. The advertising dollars flowing to the NFL help explain why. NFL games generated $5.87 billion in advertising revenue during the 2025-26 season, up 6.8% from the previous year, according to advertising intelligence firm Guideline . The company projects $6.26 billion this season, even as Madison & Wall expects U.S. TV advertising, excluding political spending, to shrink 2.4% in 2026. The expanded Thanksgiving lineup is the most graphic example of just how dependent the various broadcast and streaming players are on the NFL as one of the few dependable sources of large live audiences. For Netflix and Amazon, football presents opportunities to attract advertisers, subscribers and shoppers. For CBS, Fox and NBC, it offers a way to protect businesses threatened by declining television audiences. All of this serves to up the leverage the NFL has over, well, everyone and gives it extra ammunition as it seeks to renegotiate its contracts with each of the media partners in the coming year. The need for the various streamers and networks to devote even more of their content budget to a single league is a question that hangs over most of the entertainment indust
 
-### Can Disney s Hexed Break Original Animation s Box Office Curse?
-Tue, 24 Nov 2026 22:35:34 +0000 — https://www.thewrap.com/creative-content/movies/hexed-thanksgiving-box-office-preview/
+### Josh D’Amaro Is Dragging Disney Into the AI Era, Kicking and Screaming Exclusive
+Wed, 25 Nov 2026 14:00:00 +0000 — https://www.thewrap.com/industry-news/business/disney-ceo-josh-dmaro-ai-strategy-cto-karandeep-anand-exclusive/
 
-In 2022 and 2023, the Thanksgiving box office served as the stage for two of Disney s biggest animated bombs of all time: Strange World and Wish. The two Thanksgivings that followed brought $1 billion-plus hit sequels to Moana and Zootopia. And in 2026, it s back to the originals with the mother-daughter witch fantasy film Hexed starring Hailee Steinfeld, Rashida Jones, Walter Goggins and Jodie Foster. It comes at the tail end of a year where original animated films continue to struggle theatrically, at best turning a modest profit with post-theatrical revenue thrown in — Pixar s Hoppers grossed $389 million worldwide against a $150 million budget before marking — and at worst falling horribly flat despite glowing reviews, as was the case with DreamWorks Forgotten Island with a mere $79.2 million worldwide. So where will Hexed fit on this scale? Or will it beat the odds and become the first original animated film this decade to launch a franchise from a theatrical release? If pre-release projections are accurate, then Hexed should be an improvement on Disney s recent original misfires, but well below the franchise launchers of the 2010s with a projected 5-day domestic opening of $45-50 million, sitting at a likely No. 2 on the charts behind Lionsgate s The Hunger Games: Sunrise on the Reaping, which is projected to make at least $50 million over the five-day period. For comparison, Strange World opened to an abysmal $18.8 million 5-day launch in Thanksgiving 2022, while Wish,
+It’s been a rough two months since new Chief Technology Officer Karandeep Anand joined the Walt Disney Company. At least, it has been for many of the longtime executives at the media giant who must now submit to Anand’s mission to spread AI across the vast Mickey Mouse empire. After joining in September, Anand, who came from Character.ai , a now-bankrupt startup the company once took legal action against, was granted broad powers by CEO Josh D’Amaro. His mandate: to standardize the AI workflows and systems used by the different businesses across the vast corporate kingdom, a shakeup from their own finely honed, proprietary pipelines and processes. Anand s early moves haven t been going over well. “He’s made a bunch of enemies,” said a person familiar with the company’s inner workings. Anand’s early actions set up a tense face-off between the senior leadership team and the various business units and banners, each used to doing things their own way. In recent weeks, Jamie Voris, who ran the Office of Technology Enablement, has left Disney, and Eddie Drake, chief technology officer of Walt Disney Studios, elected to take advantage of the company’s early retirement program. Some lower level leaders have also opted to take buyouts rather than deal with the new mandates, the knowledgeable person said, noting some of them could have helped translate Anand’s directives to the creative troops. Upcoming layoffs could be used to get the units in line with the new regime, according to th
 
-### Al Gore to Buy Hometown Tennessee Newspaper Carthage Courier
-Tue, 24 Nov 2026 22:00:11 +0000 — https://www.thewrap.com/media-platforms/journalism/al-gore-tennessee-carthage-courier-newspaper-acquisition/
+### Kimmel Jokes the Turkeys Trump Pardoned Were His Own Cabinet and Family Members
+Wed, 25 Nov 2026 06:21:00 +0000 — https://www.thewrap.com/culture-lifestyle/culture/trump-pardons-turkeys-jimmy-kimmel-monologue/
 
-Al Gore is returning to media ownership. The former vice president is set to purchase the Carthage Courier, a 113-year-old weekly newspaper serving his Tennessee hometown and the rest of Smith County. The acquisition, announced Monday by the newspaper , will end five decades of ownership by the family of Hershel and Geraldine Lake. The Courier will retain its entire staff and continue publishing throughout the transition. The transaction is expected to close in the coming weeks. Financial terms were not disclosed. Gore said in a statement that his experiences as a military reporter in Vietnam and later as a journalist at The Tennessean reinforced his belief that “a free, independent local press is irreplaceable for the enduring health of our community.” The former vice president also said he viewed the sale as an opportunity to preserve the newspaper as an independent local news outlet. The Lake family put the Courier up for sale earlier this fall, before Geraldine died in early November. The acquisition will coincide with a leadership change. Publisher Scott Winfree, who has led the newspaper for nearly 40 years, will transition to a part-time advisory role due to health issues. Roger Wells, a newspaper industry veteran with nearly four decades of experience, will succeed Winfree and oversee daily operations. The Courier published its first edition in July 1913 and has chronicled local government, education and community affairs, including the early political career of Gore 
+Jimmy Kimmel poked fun at one of the oldest White House annual traditions during his monologue on Tuesday: the Thanksgiving Turkey Pardoning Ceremony. The late night host joked that the turkeys Trump pardoned weren t birds but instead politicians. Dishonest Abe pardoned two of them today. No not those turkeys, Kimmel said as a photo of Vice President J.D. Vance and Secretary of State Marco Rubio flanking Trump appeared on the screen. No, not those turkeys, Kimmel repeated as a photo of Trump and his two sons Donald Jr. and Eric flashed. And no, not those turkeys, Kimmel said for a third time as a photo of Robert Kennedy Jr. and Mehmet Oz appeared. Watch the clip below : Kimmel then played a clip of the two turkeys actually pardoned by Trump at the White House, one named Freedom and the other named Feathers. Freedom and Feathers made a sizable donation to the Trump Presidential Library, and just like that, all their sins were forgiven, Kimmel quipped. The comedian got one more jab in, saying: Freedom and Feathers were sent to live on a farm in Texas, the same farm they ll be sending Mitch McConnell to in January. President Trump pardons a turkey named Freedom during the 2026 Thanksgiving Turkey Pardoning ceremony at the White House in Washington, DC (Photo by Jim Watson/AFP) According to the White House Historical Association , it was President Harry Truman that began the tradition in 1947 that evolved into the modern Thanksgiving Turkey Pardon. The post Kimmel Jokes the Turke
 
-### Christina Applegate Torches Trolls Who Had a Lot to F king Say After MS Misdiagnosis
-Tue, 24 Nov 2026 21:13:53 +0000 — https://www.thewrap.com/culture-lifestyle/culture/christina-applegate-torches-trolls-ms-misdiagnosis/
+### Ethan Klein Apologizes for Affair, Calls H3 Podcast Ending Entirely My Fault
+Wed, 25 Nov 2026 05:36:32 +0000 — https://www.thewrap.com/culture-lifestyle/culture/ethan-klein-affair-apology-teases-h3-podcast-return/
 
-Christina Applegate is going after all the trolls who came for her after she said she was upset after her multiple sclerosis misdiagnosis . On Tuesday s episode of her podcast MeSsy with co-host Jamie-Lynn Sigler, Applegate explained what she meant when she said there was a level of disappointment when it came to her MS misdiagnosis. Before she understood why she felt the way she did, and now things are up in the air and nobody has an explanation for what is wrong with her. “I don’t want to sit here and be like, ‘Boo-hoo-hoo me’ all the time about this whole thing because now it’s about kind of getting boots on the ground now and getting myself together,” Applegate said. It really does feel good to feel understood because it’s a hard thing to come out and say that I’m upset that I don’t have MS, right? And to her trolls she added: A lot of people had a lot to f king say about it after I came out. But, you know, it’s not about that. It’s about an identity thing … It’s about a community that I love still, as we know. The Dead to Me star was misdiagnosed with multiple sclerosis in 2021, leading to five years of “havoc” and infusions for treatment. In October , she admitted that she felt like she “let everybody down” by becoming the “poster child for MS.” “I had a reason — I had a f–king reason — as to why my day sucked every day, and now I don’t have a reason and it’s very unnerving and very confusing for me,” Applegate admitted. Applegate shared shortly after she revealed her m
+H3 Podcast host Ethan Klein apologized to his estranged wife and former co-host Hila Klein, their crew and audience on Tuesday, calling his extramarital affair selfish, pathetic and surreal. In the lengthy Instagram post to his 1.4 million followers, Ethan described himself as someone who is capable of lying and cheating and sneaking. One month prior, Hila publicly accused Ethan of cheating on her and lying to her for months. In response, the “H3 Podcast” crew posted on the show’s official Instagram account that they stood with Hila and would no longer continue “working with Ethan involved or profiting in any way.” Ethan stepped away and Hila tried to launch a new show, but on Monday revealed she was abandoning the project . “I’m so sorry to share that I’ve made the difficult decision to stop working on the new show,” Hila wrote on Instagram. “I truly tried with every ounce of strength I had to make this work, but after everything that has happened, I’ve come to realize that I can’t continue down this path while also giving myself the space I need to heal and protect my mental health.” On Tuesday, Ethan expressed his sadness after learning the show was ending. He opened by apologizing for his silence, and then to Hila, whom he said the word sorry likely has the weight of ash. Ethan revealed they are co-parenting, and said Hila was beyond graceful in her approach to me as her children s father. Ethan then apologized to the crew and supported their efforts to continue after he 
 
-### Jewish Story Partners Awards $230,000 in Grants to 10 Documentary Films Exclusive
-Tue, 24 Nov 2026 21:00:00 +0000 — https://www.thewrap.com/creative-content/movies/jewish-story-partners-reprise-grants-2026/
+### Glee Star Says Cory Monteith Tribute Should Not Have Been Filmed So Soon After His Death
+Wed, 25 Nov 2026 04:39:42 +0000 — https://www.thewrap.com/creative-content/tv-shows/cory-monteith-death-glee-tribute-jenna-ushkowitz-response/
 
-Jewish Story Partners has awarded $230,000 in Reprise Grants to 10 feature documentary films, providing additional funding to projects previously supported by the nonprofit as they move toward completion and festival premieres. The grants mark an expansion of the organization’s funding, with one project receiving $125,000 — the largest individual grant JSP has awarded to date. The organization said it is increasing its maximum grant amounts and accelerating funding timelines to help select films reach audiences more quickly. “Until now our largest grant has not exceeded $100,000; with the current Reprise slate, for the first time ever, we are thrilled to have awarded a total of $125,000 in granting to a single project and to join a cadre of just a handful of foundations making documentary film grants at that level,” said Lindsay Malin, JSP’s director of programs. Founded in 2021 by Roberta Grossman and Caroline Libresco, with support from Kate Capshaw and Steven Spielberg’s Righteous Persons Foundation, Jewish Story Partners funds independent films exploring Jewish experiences, cultures and communities. The organization has awarded nearly $4.8 million to 136 projects since its founding, with 68 of those films now complete. Among its recent projects is Julia Loktev’s “My Undesirable Friends: Part II — Exile,” which screened at the Venice Film Festival, Telluride Film Festival, New York Film Festival, DOC NYC and IDFA, among others. The film was described by the Los Angeles Tim
+Glee star Jenna Ushkowitz says the show s Season 5 tribute to Corey Monteith should not have been filmed so soon after his death. It was like too soon for that, Ushkowitz told the We Need to Talk podcast about the period following Monteith s death. The actor died from a drug overdose on July 13, 2013 at age 31. Was not fun. Don t want to remember that time, she added. Production on the tribute episode, titled The Quarterback after Monteith s character Finn, reportedly began on August 23, 2013, five weeks after Monteith s death. Kevin Mchale, Chris Colfer, Jenna Ushkowitz, Amber Riley, Cory Monteith and Lea Michele in Glee. (Fox) Nobody had the tools, Ushkowitz recalled of how the cast and crew felt at the time. To shoot The Quarterback was just, I think it wasn t the right thing. And I think everybody collectively agrees that that s maybe not the thing we should have done, because we were grieving both privately and publicly. I think the fans definitely needed something because they loved Cory so dearly like we did. And Finn so dearly. But it s a really hard thing to be grieving your friend and being a character grieving their friend at the same time, she added. We ve mourned Cory, but now we re mourning Finn. So it s kind of like two people in that one person, Matthew Morrison told E! News at the time. Morrison played Will Schuester for all six seasons of the FOX musical show, which wrapped in 2015. Tragedy would strike the Glee cast twice more, with Mark Salling (Puck) dyin
 
-### Netflix Acquires Radford Studio Lot for $380 Million
-Tue, 24 Nov 2026 20:17:33 +0000 — https://www.thewrap.com/industry-news/business/netflix-radford-studio-lot-380-million-acquistion/
+### DWTS Finale: Who Won Season 35?
+Wed, 25 Nov 2026 03:59:11 +0000 — https://www.thewrap.com/creative-content/tv-shows/dancing-with-the-stars-finale-season-35-winner/
 
-Netflix has closed its acquisition for the historic Radford Studio Lot for $380 million a fraction of the $1.85 billion paid by Hackman Capital Partners in 2021. The move follows a foreclosure auction on Tuesday, which saw a group of lenders led by Goldman Sachs take back the 55-acre property. The streamer struck an agreement with the lenders to close the deal on Tuesday afternoon. In addition to a $380 million purchase price, Netflix agreed to pay a ULA transfer tax, which imposes imposes a 5.5% levy on transactions that exceed $10.9 million. That brings the total price to around $400 million. Since its opening in 1928, the Radford Studio Center has been home to many classic shows including Gunsmoke, Gilligan s Island, The Mary Tyler Moore Show, Seinfeld, That ‘70s Show and more. Netflix said its goal is to maintain operational continuity, retain the existing studio team and strengthen Radford’s position as a premier production destination. In the near term, productions currently filming on the lot will continue to do so. The company is also engaging with ZVantage, Zello’s entertainment advisory division, to support the transition and next chapter of the lot through its operating platform, Backlot Studio Services. As part of this engagement, Cinelease will serve as a production equipment provider at the studio, further enhancing the infrastructure and services available to the production community. There’s still a long way to go, but we are hopeful that with the partnership 
+This story contains spoilers for the “Dancing With the Stars” Season 35 finale. “Dancing With the Stars” crowned its Season 35 winners on Tuesday, but not before putting the five final couples through three rounds of tough competition. As the celebrity finalists — Amber Glenn, Maura Higgins, Connor Wood, Ezra Frech and Tatyana Ali — reached towards the Len Goodman Mirrorball Trophy, the finale challenged the couples to perform three routines: a Judges’ Choice Dance, the Instant Dance Challenge and Freestyle. With the judges scores from the three rounds and fan votes, Paralympian Frech and his partner Daniella Karagac were crowned the winners after an emotional freestyle dedicated to redefining disability. Glenn and her partner Pasha Pashkov were named as the runner-ups. Here s how the night played out. Tatyana Ali and Jan Ravnik The competition kicked off with the judges’ choice, which saw Carrie Ann Inaba challenge the couple with the salsa. Inaba said she “took all the notes and delivering,” scoring the couple straight 9s for a total score of 27. Tatyana Ali and Jan Ravnik on Dancing With the Stars (ABC) The couple scored another batch of straight 9s with their instant dance, which saw them dance the jive to Land of 1000 Dances by Wilson Pickett. With a score of 54 going into the freestyle, the couple embraced an outer space-themed dance with some tap dance elements as they danced to “Minnie the Moocher” by Cab Calloway and “Over the Rainbow” by Judy Garland. They scored a 
 
-### Elizabeth Holmes’ Former Assistant Opens Up About ‘You Can See Everything,’ Praises Amanda Seyfried
-Tue, 24 Nov 2026 20:12:04 +0000 — https://www.thewrap.com/creative-content/movies/elizabeth-holmes-former-assistant-you-can-see-everything-thoughts/
+### ‘DWTS’ Finale: What Jan Ravnik Said That Got Bleeped Out
+Wed, 25 Nov 2026 03:02:38 +0000 — https://www.thewrap.com/culture-lifestyle/culture/dancing-with-the-stars-finale-jan-ravnik-bleeped-out/
 
-Elizabeth Holmes former assistant is finally breaking down exactly how You Can See Everything made her feel. Aria Marinelli worked as Holmes assistant back in 2009 as Theranos was just kicking off. While talking with Warner Bailey on Tuesday s AvA Live she explained that she was initially hesitant to watch her former boss in Nathan Fielder and Lance Oppenheim s buzzy documentary. “My initial reaction was I did not want to see it,” Marinelli said. I acquiesced and went out of sheer morbid curiosity, and I came out of there just feeling really contemplative. I mean, she’s a real human that I interacted with, and to see her up there going to jail with children was really emotionally charged for me, as someone who does have a kid as well. She added about finally talking about the film: I have a voice in this too. [Holmes] doesn’t get to be the one to just come back on the scene and control the narrative. She praised the way Fielder portrayed Holmes and felt that it was both crazy and thoughtful. While watching the documentary, there was one specific thing about her former boss that stood out to Marinelli all these years later. “She seems like she’s softened a lot in the film,” Marinelli said. But she still seems like she really wants to win. Amanda Seyfried also came up in her long chat about the film. The actress became a major part of the film – first as Fielder asked both Holmes and her husband Billy about the actress portrayal of the Theranos founder in Hulu s series The Drop
+Jan Ravnik dropped an expletive after he and his partner Tatyana Ali performed their freestyle routine on the Dancing With the Stars Season 35 finale Tuesday night. Co-host Julianne Hough noticed the professional dancer becoming emotional after his first freestyle dance and asked what he was feeling. He held back his tears but let something else slip. She f king killed it, Ravnik said after sarcastically revealing that Hough was on his Dead to Me list. The expletive was bleeped out on the live broadcast on ABC and Disney+, but the audience in the ballroom heard it loud and clear. The duo were one of five finalists in the DWTS finale. They performed a futuristic freestyle routine to “Minnie the Moocher” by Cab Calloway and “Over the Rainbow” by Judy Garland. Ali and Ravnik kicked off the night with a salsa routine to “Jamaican (Bam Bam)” by HUGEL & SOLTO (FR), where she earned all 9s. Her instant dance round was a jive, which caught the actress off guard before she blew the judges away. The other competitors going for the Mirrorball Trophy included Maura Higgins, Connor Wood, Amber Glenn and Ezra Frech. For the first time in the show’s history, “Dancing With the Stars” aired live nationwide for its finale. While the ballroom competition show typically airs three hours later on the West Coast than its East Coast airing, the three-hour finale aired live in every U.S. time zone. The change-up in airing times meant that viewers would be able to vote live for their favorite couples
 
-### The Body Rises to No. 1 on Netflix TV List in 2nd Week With 9.5 Million Views
-Tue, 24 Nov 2026 20:00:11 +0000 — https://www.thewrap.com/creative-content/tv-shows/the-body-netflix-tv-ratings-second-week/
+### Patrick Stewart s Professor X Is the Conscience of Avengers: Doomsday in Farewell Performance
+Wed, 25 Nov 2026 01:48:33 +0000 — https://www.thewrap.com/creative-content/movies/patrick-stewart-professor-x-conscience-of-avengers-doomsday/
 
-Netflix s “The Body” made major ratings gains in its second week on the streamer, landing as the No. 1 title on the most-watched TV list. After debuting to 5.1 million views, the Y2K-set YA series from Quinn Shephard and Gina Gammell, which follows a dance team initiation gone wrong, rose to 9.5 million views in its second week, marking a 86% week-over-week rise in viewership. That viewership boosted The Body to become the No. 1 most-watched English-language TV show for the week of Nov. 16, with Black Doves Season 2 taking the No. 2 spot with 3.7 million views. Next up, the No. 3 spot on the TV list went to Nov. 16 installment of WWE Monday Night Raw with 2.3 million views, while the No. 4 spot went to “Taken: Natalee Holloway” with 2.2 million views. Netflix s film roster saw a boost with the addition of Leighton Meester and Jared Padalecki s holiday rom-com, Guarding Stars, which debuted atop the films list with 27.6 million views. Jessica Chastain s film, Heartland, landed as the No. 2 most-watched English-language film of week with 14.8 million views, doubling its initial debut viewership of 7.3 million. Another notable launch was animated film Steps, featuring a voice cast of Amanda Seyfried, Ali Wong, Stephanie Hsu, Daniel Radcliffe, Nikki Glaser and Bette Midler, which debuted as the No. 3 most-watched movie of the week with 11.4 million views. Like last week, even more holiday movies were boosted into the top 10, including Dr. Seuss’ The Grinch in the No. 4 spot with 
+Avengers: Doomsday will mark the final performance of the late Patrick Stewart as iconic Marvel Comics character Charles Xavier, aka Professor X. According to co-director Joe Russo, the film will bring the longtime X-Men star a touching farewell. “In a lot of ways, Xavier’s the conscience in the movie,” Joe Russo told Entertainment Weekly in an interview published Tuesday. “He has a lovely scene with Ian McKellen, who’s his best friend, in the film. It’s a very emotional scene about forgiveness and I think very resonant in the wake of his passing.” According to Marvel President Kevin Feige, Stewart gave an emotional speech on his final day on set, where Anthony Russo said it was “clear that he was struggling with his health.” “I think it was in the back of all of our heads, we may never see him on set again,” Anthony Russo said. Stewart, famous for a litany of roles including his turn as Professor X and his work as Captain Picard as Star Trek: The Next Generation, died in late October from Alzheimer’s Disease and Lewy Body Dementia at the age of 86. Many actors and celebrities rushed to celebrate the late actor in the wake of his passing, with Feige saying they re searching for ways to remember the actor in the film itself. “We’re long done filming that movie, and he did an amazing job for us,” Feige told EW. “We’re looking now at how we can put something together that honors and respects our friend.” Per EW, Stewart was offered a part in the Doomsday follow-up, Avengers: Sec
 
 ## Collider
 
-### Disney’s ‘Rings of Power’ Replacement Is Officially a No. 1 Streaming Hit
-Wed, 25 Nov 2026 01:00:12 GMT — https://collider.com/percy-jackson-season-3-streaming-success-disney-plus-november-2026/
+### Harry Potter’s Dumbledore Officially Scores a Spin-Off Ahead of HBO Max’s Reboot Series
+Wed, 25 Nov 2026 14:30:12 GMT — https://collider.com/harry-potter-jk-rowling-dumbledore-luna-lovegood-pocket-potters-books/
 
-Fantasy franchises excel because they transport their audiences into realms that seem impossible. Arguably the cream of the crop, J.R.R. Tolkien built out The Lord of the Rings and the realms of Middle-earth, Valinor, and beyond. Prime Video's mega-bucks series, The Lord of the Rings: The Rings of Power , now into its third season, and only just renewed for a fourth season , has been the go-to fantasy show in recent weeks. As the darkness deepens across Middle-earth on Prime Video, the Greek gods seem to have their own thing going on a different streaming service.
+It's been almost 20 years since J.K. Rowling brought Harry's adventures at Hogwarts to an end with Harry Potter and the Deathly Hallows , although anyone who's been keeping up with the books over the last few years will know that there's been plenty of new material to add to their bookshelves. Between the illustrated editions of the original seven novels and the new full-cast audiobooks, there are now quite a few ways for parents who grew up reading Harry Potter to introduce their own children to the Wizarding World . And with HBO's adaptation of Harry Potter and the Sorcerer's Stone arriving on Christmas Day, Bloomsbury has something that might make for a rather appropriate stocking filler this year.
 
-### Anya Taylor-Joy’s Biggest Sci-Fi Movie Ever Is Officially Coming to Netflix
-Wed, 25 Nov 2026 01:00:12 GMT — https://collider.com/anya-taylor-joy-super-mario-galaxy-movie-netflix-streaming-release-date-november-2026/
+### ‘The Rings of Power’ Has Been Hiding Its Biggest Reference to the One Ring’s Creation in Plain Sight
+Wed, 25 Nov 2026 14:17:12 GMT — https://collider.com/the-rings-of-power-season-3-one-ring-easter-egg-opening-credits/
 
-2026 has been quite the year for Anya Taylor-Joy , and it’s not over yet as she’s confirmed to reprise her role as Alia Atreides in Dune: Part Three , which opens in theaters on December 18. Just over one month ago, Taylor-Joy returned to Netflix to star in the twisty new thriller, Sacrifice , along with MCU veteran Chris Evans . Over the summer, she returned to Apple TV to headline one of the most underrated crime thrillers of the year, Lucky , along with Timothy Olyphant . This return was particularly noteworthy as Taylor-Joy is considered one of the streaming queens of Apple TV — her 2025 sci-fi thriller, The Gorge , is among one of the most-watched titles the platform has ever released. The fate of Lucky beyond Season 1 has not yet been decided.
+Editor's note: The below contains spoilers for The Rings of Power Season 3 Episode 7.
 
-### Alan Ritchson’s Reacher Franchise Officially Refuses to Back Down on Prime Video
-Wed, 25 Nov 2026 00:45:12 GMT — https://collider.com/alan-ritchson-reacher-neagley-streaming-success-prime-video-november-2026/
+### Billie Piper Officially Reveals Why She Left 'Doctor Who'
+Wed, 25 Nov 2026 14:00:12 GMT — https://collider.com/billie-piper-doctor-who-exit-explained/
 
-Given how often Alan Ritchson has been compared to Arnold Schwarzenegger since he first appeared as Jack Reacher in 2022, there is something rather appropriate about the two being cast alongside one another in a new movie, although the genre they've opted for probably isn't the one most of us would've expected. Ritchson has managed to squeeze quite a few movies in between seasons of Reacher , having worked with Guy Ritchie on The Ministry of Ungentlemanly Warfare and got to mug at the camera with Kevin James in Playdate , but his latest movie will see him back on the streaming service that's helped make him one of Hollywood's most recognizable action stars . And he'll already have quite the audience waiting for him there.
+Although the future of Doctor Who recently got one step closer , with a shortlist of production candidates for the show's return officially announced, there is still plenty of uncertainty around the fanbase. After a disastrous partnership with Disney and the underwhelming return of showrunner Russell T. Davies left the show teetering on the edge, the Season 15 finale left many Whovians perplexed by the jaw-dropping episode cliffhanger, as Ncuti Gatwa regenerated into Billie Piper .
 
-### Ava DuVernay’s 4-Part Netflix Miniseries Is a Devastating Masterpiece
-Wed, 25 Nov 2026 00:37:12 GMT — https://collider.com/ava-duvernay-masterpiece-when-they-see-us-netflix-series-exonerated-five-true-story/
+### Forget ‘Beyond the Spider-Verse,’ One of the Marvel Franchise’s Best Characters Is Officially Returning
+Wed, 25 Nov 2026 14:00:12 GMT — https://collider.com/marvel-spider-woman-jessica-drew-50th-anniversary-new-series/
 
-When shows are based on true stories , they can unlock something special in the viewer. It can be very moving to know that the actions and people depicted on the screen stem from real events. That's why one of the most powerful shows of all time is still a must-watch. In 2019, Netflix released a four-part miniseries that begs us to look at the racial injustice in this country , and you'll be better off just by watching it.
+Despite sharing a superhero moniker with Peter Parker, Jessica Drew has always been a character whose history lends itself surprisingly well to horror . When Spider-Woman made her debut in Marvel Spotlight #32 , she was working for Hydra, had no recollection of her past, and was tasked with killing Nick Fury. She's spent the ensuing decades working as a spy, an Avenger, and a private investigator, and now Marvel is giving her another reason to be wary of her own powers .
 
-### 'Landman's Billy Bob Thornton Officially Leaves Taylor Sheridan Behind for New Historical Series
-Wed, 25 Nov 2026 00:31:12 GMT — https://collider.com/billy-bob-thornton-the-mayflower-release-fox-nation-november-2026/
+### The Reacher Universe Officially Enters a New Era as Creator Exits Series
+Wed, 25 Nov 2026 13:30:12 GMT — https://collider.com/jack-reacher-chain-reaction-lee-child-bestseller-success/
 
-Before Taylor Sheridan cast Billy Bob Thornton as Tommy Norris in Landman , the pair had worked together on 1883 , with Thornton making a brief but memorable appearance as Marshal Jim Courtright in the Yellowstone prequel. It wasn't the first time we'd seen Thornton take on the role of a real-life figure from American history, either, having played Davy Crockett opposite Dennis Quaid 's Sam Houston in The Alamo back in 2004. Thornton, whose father was a history teacher, has a particular interest in American history, and for his latest television project, he's going back more than two centuries before the events of 1883 .
+When Lee Child introduced Jack Reacher to the world in 1997 with Killing Floor , it would be another 15 years before we saw the character on the big screen, and another decade after that before Alan Ritchson took on the role for Prime Video . What's particularly interesting about the success of Reacher on television is that it came at a time when Child was looking to wind down his own involvement with the character, having brought his younger brother, Andrew Child , on board in 2020 with a view to eventually handing over writing duties altogether. And while Ritchson has introduced Reacher to an entirely new audience over the last few years, it seems the appetite for the character among those who've been following him since the '90s hasn't diminished either.
 
-### 6 Psychological Thrillers From the 2000s That Are 10/10 Masterpieces
-Wed, 25 Nov 2026 00:21:12 GMT — https://collider.com/psychological-thrillers-2000s-perfect-masterpieces/
+### Disney’s 3-Part ‘Harry Potter’ Replacement Officially Returns in 48 Hours
+Wed, 25 Nov 2026 13:00:12 GMT — https://collider.com/percy-jackson-season-3-episodes-3-4-release-date-disney-plus-november-2026/
 
-The new millennium brought with it not only a quelling of the widespread fears of the dreaded Y2K bug, but also a surge in brain-busting thrillers . Unforgettable hits like American Psycho , Donnie Darko , Zodiac , Mulholland Drive , and Memento blew audiences away with their twisty takes on various psychological thriller sub-genres. Luckily, though, the big headliners weren’t the only noteworthy works produced; a hearty helping of other, not-so-sensationally publicized films broke out in dynamic fashion.
+For nearly two decades, fans of Rick Riordan’s Percy Jackson and the Olympians have been waiting to see The Titan’s Curse adapted for the screen. The third installment in the original series introduces some of the most beloved characters in Riordan’s universe, including Nico and Bianca di Angelo, while giving Percy a much more personal reason to embark on his latest quest. With Annabeth missing and the threat of Kronos growing, the demigods are beginning to realize just how dangerous the impending war between the gods and Titans will be.
 
-### 7 Years Later, HBO’s Sci-Fi Thriller Series Doesn't Have a Single Bad Episode
-Wed, 25 Nov 2026 00:19:12 GMT — https://collider.com/hbos-years-and-years-sc-fi-thriller-seven-years-later/
+### 7 Times the Movie and the Book Were Both Perfect
+Wed, 25 Nov 2026 12:51:12 GMT — https://collider.com/movies-books-both-perfect/
 
-If HBO 's Years and Years could be defined by one strength, it would be its sobering realism. In short, creator Russell T. Davies sought to capture the intricately intertwined, unraveling lives of a bustling, multi-generational family in Manchester, England. Set in the present day and fast-forwarding 15 years into the future, the carefully crafted series captures how simple, daily realities eventually snowball into life-altering, dramatic social, political, and technological shifts. Other series of a similar genre, like This Is Us , have attempted to achieve similar excellence; Years and Years , however, has a sci-fi trick up its sleeve.
+In this era of limited series, many novels are getting longer-form adaptations that allow writers, producers, and directors the ability to exhaustively include every detail of their source material. That's not an inherently good or bad thing, and it all depends on the skill and care each adaptation is made with, but it often overlooks the fundamental differences between mediums. Novels are not films or television series . They can examine individual moments, characters or settings with excruciating detail because the format allows for it, while visual mediums must often rely on the driving force of a plot to keep things captivating.
 
-### 9 Years Later, Netflix's 3-Season Sci-Fi Masterpiece Is Drawing 64 Million Viewing Hours
-Wed, 25 Nov 2026 00:18:12 GMT — https://collider.com/dark-netflix-viewing-hours-sci-fi-masterpiece/
+### 7 Hallmark Christmas Movies That Are Perfect From Start to Finish
+Wed, 25 Nov 2026 12:41:12 GMT — https://collider.com/hallmark-christmas-movies-perfect-start-to-finish/
 
-If sci-fi enthusiasts think they have time travel figured out, Netflix’s Dark is about to make them question everything. Premiering in 2017, the German series has since become a staple of the streaming platform's sci-fi library . That's no small feat, considering it had to stand alongside well-established genre hits of the time, like Black Mirror and Stranger Things .
+As December rounds the corner, 'tis now officially the season to rewatch beloved Christmas movies. There are a number of classics that will never get old, like Love Actually and It's a Wonderful Life , but there are also excellent new Christmas movies regularly being released as well, both on streaming and on the Hallmark Channel. Hallmark is the home to cozy romance movies year round, but its Christmas selection is especially enjoyable .
 
-### Ariana Grande’s ‘Meet the Parents’ Sequel Is Officially One of the Franchise’s Worst Ever Movies
-Wed, 25 Nov 2026 00:15:12 GMT — https://collider.com/ariana-grande-focker-in-law-rotten-tomatoes-score/
+### Jon Bernthal’s Hit Action Sequel Officially Leaves Streaming in 6 Days
+Wed, 25 Nov 2026 12:30:12 GMT — https://collider.com/jon-bernthal-the-accountant-2-leaving-hulu-december-2026/
 
-Having spent much of the last few years playing Glinda in Wicked and Wicked: For Good , Ariana Grande is getting the opportunity to show off some of the comedic chops we've seen from her whenever she's hosted Saturday Night Live , and she's getting to do so alongside two of the men responsible for one of the funniest comedies of the 2000s. It's been 26 years since we first watched Ben Stiller desperately try to earn the approval of Robert De Niro in Meet the Parents , and given that Gaylord "Greg" Focker's children are now old enough to be getting married themselves, it was only a matter of time before Greg became the dreaded father-in-law. Unfortunately, it seems the change in family dynamics hasn't gone down particularly well with critics.
+Hot off a terrific year, Ben Affleck and Jon Bernthal can both be seen together in the fan-favorite action thriller that has consistently ruled streaming charts . However, time's running out to catch the movie on Hulu. A sequel to the original 2016 hit, the movie was released theatrically last year. While it didn't technically break even at the box office, it was always expected to find an audience at home . The film cemented itself as a streaming hit, dominating the Prime Video viewership charts for weeks on end following a successful PVOD window.
 
-### Top 7 Book Prequels That Made Us Rethink the Original
-Wed, 25 Nov 2026 00:15:12 GMT — https://collider.com/best-book-prequels/
+### The 20 Best TV Characters of All Time, Ranked
+Wed, 25 Nov 2026 12:23:12 GMT — https://collider.com/best-tv-characters-all-time-ranked/
 
-The best prequels do not rewrite a story. They change how people see it, either by going deeper into characters' lives and personalities, or delving into the world they live in. The recent release of the movie adaptation of Sunrise on the Reaping , Suzanne Collins ’ second prequel to The Hunger Games series, has audiences talking about the value of prequels and whether they have something insightful to say . The books on this list do.
+A good television show is driven by an engaging hook, a strong story, and powerful moments. A great TV show is led by extraordinary characters. Great characters go beyond likability . They combine clear human motivations, distinct flaws, and the ability to drive a multi-episode story arc. Viewers need to discover new sides of a character over time—whether that means positive growth or a negative spiral—and still feel engaged and eager to see where their story goes next.
 

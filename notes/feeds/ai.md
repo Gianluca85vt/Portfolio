@@ -1,4 +1,4 @@
-# AI — harvested 2026-11-25T01:04:15.834Z
+# AI — harvested 2026-11-25T14:57:32.945Z
 
 ## OpenAI
 
@@ -30,17 +30,10 @@ Mon, 23 Nov 2026 21:20:00 GMT — https://openai.com/index/introducing-shirudo
 
 OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.
 
-### Connected intelligence for in-house legal
-Mon, 23 Nov 2026 08:00:00 GMT — https://openai.com/business/learn/connected-intelligence-for-in-house-legal
-
-Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.
-
-### Richpanel helps companies automate 50% of support in 30 days
-Mon, 23 Nov 2026 08:00:00 GMT — https://openai.com/business/customer-stories/richpanel-ai-customer-support
-
-Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.
-
 ## Hugging Face
+
+### An Indic Voice Agent with CUGA
+Wed, 25 Nov 2026 10:22:09 GMT — https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga
 
 ### Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton
 Tue, 24 Nov 2026 16:34:13 GMT — https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance
