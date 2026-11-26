@@ -1,18 +1,19 @@
-# AI — harvested 2026-11-26T00:40:22.240Z
+# AI — harvested 2026-11-26T14:27:40.872Z
 
 ## OpenAI
 
-### GPT-6 models demonstrate intrinsic protein-design capabilities
-Tue, 24 Nov 2026 13:00:00 GMT — https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities
-
-GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.
-
-### Searching for distant planets with Astra
-Tue, 24 Nov 2026 11:00:00 GMT — https://openai.com/index/searching-for-distant-planets-with-astra
-
-See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.
+_Nothing in the last 48 hours._
 
 ## Hugging Face
+
+### Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon
+Thu, 26 Nov 2026 11:37:17 GMT — https://huggingface.co/blog/ggml-org/llamacpp-amd-bench
+
+### Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference
+Thu, 26 Nov 2026 05:05:36 GMT — https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin
+
+### Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems
+Thu, 26 Nov 2026 00:00:00 GMT — https://huggingface.co/blog/training-swarms
 
 ### Where scientists draw the line on AI agents
 Wed, 25 Nov 2026 18:52:55 GMT — https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents
@@ -23,15 +24,9 @@ Wed, 25 Nov 2026 10:22:09 GMT — https://huggingface.co/blog/ibm-research/an-in
 ### Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000
 Wed, 25 Nov 2026 00:00:00 GMT — https://huggingface.co/blog/inkling-2-mini-inference-hillclimb
 
-### Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton
-Tue, 24 Nov 2026 16:34:13 GMT — https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance
-
 ## Google DeepMind
 
-### From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity
-Tue, 24 Nov 2026 13:07:53 +0000 — https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/
-
-Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra.
+_Nothing in the last 48 hours._
 
 ## VentureBeat AI
 

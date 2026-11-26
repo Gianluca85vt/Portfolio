@@ -22,11 +22,17 @@ _Nothing inside three days._
 
 ## Further out, within 14 days
 
-_Nothing else dated in the window._
+| Title | Publisher | Release | Away | Reviews from | Price |
+|---|---|---|---|---|---|
+| Warhammer 40,000: Dawn of War IV | Deep Silver | 2026-12-03 | 7d | 2026-12-02 | €59.99 |
+| DRAGON QUEST MONSTERS: The Withered World | Square Enix | 2026-12-03 | 7d | 2026-12-02 | €59.99 |
+| Rayman Legends Retold | Ubisoft | 2026-12-03 | 7d | 2026-12-02 | €39.99 |
+| FreeStyle Football 2 | JOYCITY | 2026-12-03 | 7d | 2026-12-02 | €29.99 |
+| Thief: The Dark Project Remastered | Atari, Eidos Interactive | 2026-12-03 | 7d | 2026-12-02 | €29.99 |
 
 ---
 
-*600 upcoming titles scanned, 357 with a firm date inside
-14 days, 0 above the price line. Titles showing
+*1500 upcoming titles scanned, 1142 with a firm date inside
+14 days, 5 above the price line. Titles showing
 "Q4 2026" or "To be announced" are dropped: a quarter says nothing about when
 reviews arrive.*

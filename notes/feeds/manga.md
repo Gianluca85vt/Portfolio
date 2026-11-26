@@ -1,72 +1,82 @@
-# Manga — harvested 2026-11-26T00:40:22.240Z
+# Manga — harvested 2026-11-26T14:27:40.872Z
 
 ## Anime News Network
 
-### My Happy Marriage Special Anime Review
-Wed, 25 Nov 2026 12:00:00 -0500 — https://www.animenewsnetwork.com/review/my-happy-marriage/special-anime/.243723
+### Fool Night Anime Reveals 3 More Cast Members
+Thu, 26 Nov 2026 07:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-26/fool-night-anime-reveals-3-more-cast-members/.244230
 
-After two seasons, it's finally time for <i>My Happy Marriage</i> to live up to its title.
+Entire series debuted on Netflix worldwide on Thursday
 
-### K-ON's Naoko Yamada Helms Official Hige Dandism's Pokémon Music Video With Madhouse
-Wed, 25 Nov 2026 10:15:40 -0500 — https://www.animenewsnetwork.com/news/2026-11-25/k-on-naoko-yamada-helms-official-hige-dandism-pokemon-music-video-with-madhouse/.244183
+### Shin Oishinbo TV Anime Reveals Special Promo Video
+Thu, 26 Nov 2026 06:09:11 -0500 — https://www.animenewsnetwork.com/news/2026-11-26/shin-oishinbo-tv-anime-reveals-special-promo-video/.244229
 
-"Evergreen" video to debut on Monday
+Series debuts on January 4
 
-### Dragon And Chameleon Is A Series Born From Unwavering Commitment
-Wed, 25 Nov 2026 09:00:00 -0500 — https://www.animenewsnetwork.com/feature/2026-11-25/dragon-and-chameleon-is-a-series-born-from-unwavering-commitment/.242930
+### Arcanadea TV Anime Casts M.A.O, Ai Kakuma
+Thu, 26 Nov 2026 05:47:55 -0500 — https://www.animenewsnetwork.com/news/2026-11-26/arcanadea-tv-anime-casts-m.a.o-ai-kakuma/.244225
 
-It's clear there is a lot of passion and dedication for this series, not just from the author, but from everyone involved in helping bring it to as many people as possible.
+Both voice actors reprise roles from other works in franchise for anime debuting in January
 
-### 'At 25:00, in Akasaka' Boys-Love Manga Gets TV Anime in 2027
-Wed, 25 Nov 2026 06:17:56 -0500 — https://www.animenewsnetwork.com/news/2026-11-25/at-25-00-in-akasaka-boys-love-manga-gets-tv-anime-in-2027/.244187
+### The Final-Boss Prince is Somehow Obsessed with the Chubby Villainess TV Anime Reveals January 1 Debut in Video
+Thu, 26 Nov 2026 05:22:58 -0500 — https://www.animenewsnetwork.com/news/2026-11-26/the-final-boss-prince-is-somehow-obsessed-with-the-chubby-villainess-tv-anime-reveals-january-1-/.244224
 
-Sōma Saitō, Takuya Satō star in anime of Hiroko Natsuno's manga
+New visual, more cast, theme song artists also revealed
 
-### 'Now That We Draw' Anime's New Video Unveils More Cast, Ending Song Artist, January 8 Debut
-Wed, 25 Nov 2026 05:50:35 -0500 — https://www.animenewsnetwork.com/news/2026-11-25/now-that-we-draw-anime-new-video-unveils-more-cast-ending-song-artist-january-8-debut/.244186
+### 1st Witch on the Holy Night Film Opens at #2
+Thu, 26 Nov 2026 02:21:25 -0500 — https://www.animenewsnetwork.com/news/2026-11-26/1st-witch-on-the-holy-night-film-opens-at-no.2/.244181
 
-Hina Yomiya joins cast; Inner Journey perform ending song "Serifu wa Iranai"
+<cite>Godzilla Minus Zero</cite> stays at #1 in 3rd weekend
 
-### Migratory Birds & Snail TV Anime Debuts Next Summer
-Wed, 25 Nov 2026 04:44:34 -0500 — https://www.animenewsnetwork.com/news/2026-11-25/migratory-birds-and-snail-tv-anime-debuts-next-summer/.244185
+### Japan's Gundam Base Stores Toughen ID Verification for Buyers
+Wed, 25 Nov 2026 23:59:00 -0500 — https://www.animenewsnetwork.com/interest/2026-11-25/japan-gundam-base-stores-toughen-id-verification-for-buyers/.244190
 
-Adaptation of Makoto Takatsu's road trip manga announced in 2024
+Stores now only accept passport or Japan's My Number Card as ID
 
-### Kindergarten Wars Anime's Video Reveals More Staff, ado's Opening Song, April Debut
-Wed, 25 Nov 2026 04:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-25/kindergarten-wars-anime-video-reveals-more-staff-ado-opening-song-april-debut/.244176
+### Live-Action 'Kekkon Shimashō, Koi Suru Mae ni' Series Reveals Cast, Theme Song Artists, January 2027 Streaming Debut
+Wed, 25 Nov 2026 23:04:45 -0500 — https://www.animenewsnetwork.com/news/2026-11-25/live-action-kekkon-shimasho-koi-suru-mae-ni-series-reveals-cast-theme-song-artists-january-2027-/.244170
 
-Ado performs anime's opening theme "Bibayatarametta"
+Former Nogizaka46 idol Tamami Sakaguchi, Genin wa Jibun ni Aru's Jun Mutō star in shorts with song by YU's
 
-### The Kept Man of the Princess Knight Anime's New Video Reveals More Cast, Ending Song, January 3 Debut
-Wed, 25 Nov 2026 03:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-25/the-kept-man-of-the-princess-knight-anime-new-video-reveals-more-cast-ending-song-january-3-debut/.244177
+### Nioh 3 Game Streams First Look Trailer for New DLC
+Wed, 25 Nov 2026 22:50:11 -0500 — https://www.animenewsnetwork.com/news/2026-11-25/nioh-3-game-streams-first-look-trailer-for-new-dlc/.244166
 
-Yūya Hirose, Manaka Iwami, Shion Wakayama, Saori Ōnishi join anime's cast
+Bloody Insurrection DLC Vol. 2 launches on December 17
 
-### Historie Anime's Video Unveils More Cast & Staff, Theme Songs, January 8 Debut
-Tue, 24 Nov 2026 23:08:53 -0500 — https://www.animenewsnetwork.com/news/2026-11-24/historie-anime-video-unveils-more-cast-and-staff-theme-songs-january-8-debut/.244173
+### Live-Action High School Family: Kokosei Kazoku Film Gets Spinoff Shorts
+Wed, 25 Nov 2026 22:46:21 -0500 — https://www.animenewsnetwork.com/news/2026-11-25/live-action-high-school-family-kokosei-kazoku-film-gets-spinoff-shorts/.244171
 
-Fumihiko Tachiki, Akira Sekine, Toshiki Masuda, Ryōta Takeuchi, Seiichirō Yamashita join cast
+11 short episodes stream in lead-up to film's January opening
 
-### 'Haru to Gen ~70-sai, Hajimete Kosodate~' Anime's Teaser Reveals More Cast, Ending Song
-Tue, 24 Nov 2026 22:12:53 -0500 — https://www.animenewsnetwork.com/news/2026-11-24/haru-to-gen-~70-sai-hajimete-kosodate~-anime-teaser-reveals-more-cast-ending-song/.244149
+### Under Ninja Manga Goes on 4-Week Hiatus
+Wed, 25 Nov 2026 22:28:09 -0500 — https://www.animenewsnetwork.com/news/2026-11-25/under-ninja-manga-goes-on-4-week-hiatus/.244180
 
-Jin Urayama, HItomi Shogawa, Nao Shiraki, Akiko Seri join cast with music by Kuricorder Quartet
+Manga resumes serialization on December 28
 
-### Live-Action 10 Things I Want to Do Before I Turn 40 Film's Trailer Reveals Theme Song
-Tue, 24 Nov 2026 21:04:32 -0500 — https://www.animenewsnetwork.com/news/2026-11-24/live-action-10-things-i-want-to-do-before-i-turn-40-film-trailer-reveals-theme-song/.244169
+### Exoprimal Game Ends Service in September 2027
+Wed, 25 Nov 2026 22:19:19 -0500 — https://www.animenewsnetwork.com/news/2026-11-25/exoprimal-game-ends-service-in-september-2027/.244201
 
-sumika performs theme song "Taisetsu" for January 22 film
+Game to be delisted after March 30
 
-### Frieren: Beyond Journey's End Manga Gets Spinoff Manga Mini-Series
-Tue, 24 Nov 2026 20:50:33 -0500 — https://www.animenewsnetwork.com/news/2026-11-24/frieren-beyond-journey-end-manga-gets-spinoff-manga-mini-series/.244165
+### Melty Blood:Twi-Lumina 2D Fighter Game's New Trailer Confirms Crossplay
+Wed, 25 Nov 2026 22:09:38 -0500 — https://www.animenewsnetwork.com/news/2026-11-25/melty-blood-twi-lumina-2d-fighter-game-new-trailer-confirms-crossplay/.244202
 
-<cite>Sōsō no Frieren: Betsutan</cite> launches on December 2
+Game launches for PS5, PS4, Switch 2, Switch, Xbox One, PC on April 22
 
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Fool Night Now Streaming, Creditless Opening Featuring Tempalay Released
+Thu, 26 Nov 2026 09:41:42 GMT — https://animecorner.me/fool-night-releases-creditless-opening-featuring-tempalay-ahead-of-todays-netflix-premiere/
+
+FOOL NIGHT anime has released its creditless opening sequence ahead of the series’ worldwide Netflix premiere today (November 26, 2026).
+
+### Black Clover Season 2 Episode 9 Preview Images Show Yuno vs Zenon
+Thu, 26 Nov 2026 08:33:03 GMT — https://animecorner.me/black-clover-season-2-episode-9-preview-images-show-yuno-vs-zenon/
+
+Black Clover Season 2 has released preview images and synopsis for Episode 9 (Episode 179 overall) ahead of its November 30 premiere.
 
 ### Historie Anime Reveals New Visual, Trailer Additional Cast
 Wed, 25 Nov 2026 16:36:46 GMT — https://animecorner.me/historie-anime-reveals-new-visual-trailer-additional-cast/
@@ -100,6 +110,26 @@ At 25:00, in Akasaka boys' love manga by Hiroko Natsuno is getting an anime&hell
 
 ## MyAnimeList News
 
+### Arcanadea Unveils Additional Cast Pair
+Thu, 26 Nov 2026 01:36:50 -0800 — https://myanimelist.net/news/74983748?_location=rss
+
+The official website for a television anime adaptation of Arcanadea model series unveiled an additional cast pair on Thursday. The anime series will premiere in January 2027 on TV Asahi s NUMAnimation programming block and BS Asahi. Voice actress Mao Ichimichi (Sakamoto Days) and Ai Kakuma (Dragon Ball Daima) are joining the cast as Elmeda and Sophiela, respectively. Keiichirou Kawaguchi (Spy Kyoushitsu) is directing the anime at Yokohama Animation Lab. Atsuhiro Tomioka (Sentai Red Isekai...
+
+### Supporting Cast Pair for Fool Night Announced
+Thu, 26 Nov 2026 01:16:40 -0800 — https://myanimelist.net/news/74983696?_location=rss
+
+The official website of the Fool Night original net anime announced a supporting cast pair on Thursday. The anime adapting Kasumi Yasuda s sci-fi drama manga is streaming worldwide exclusively on Netflix, with all 12 episodes released simultaneously on November 26. Voice actors Nobuo Tobita (Cyberpunk: Edgerunners 2) and Akiko Yajima (Hanyou no Yashahime: Sengoku Otogizoushi) are joining in the anime as Outarou Kuudai and Shiika Izumi, respectively. Voice actress Yumiko Kobayashi (Ibitte Ko...
+
+### Main Cast for Monster Strike: Mera×Death - Shinigami to Boku no Ijou na Koi Announced
+Thu, 26 Nov 2026 01:03:38 -0800 — https://myanimelist.net/news/74983668?_location=rss
+
+The official website of the Monster Strike: Mera&times;Death - Shinigami to Boku no Ijou na Koi (Mera&times;Death: The Unusual Love Between Me and the Grim Reaper) television anime announced the main cast on Thursday. The anime series is scheduled to premiere on Tokyo MX and other stations on January 5. Cast Mera Kagari: Kaito Ishikawa (Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai) Thirteen: Shion Wakayama (Dandadan) Mizuki Kagari: Hana Hishikawa (Sayonara Lara) Renge: Misaki Kuno (3...
+
+### Sasaki to Pii-chan Season 2 Unveils Additional Cast
+Wed, 25 Nov 2026 18:45:25 -0800 — https://myanimelist.net/news/74983014?_location=rss
+
+The official website for the television anime adaptation of Buncololi&rsquo;s Sasaki to Pii-chan (Sasaki and Peeps) reveals additional cast on Wednesday. The anime series premiered on October 7 and is currently airing on AT-X, Tokyo MX and BS Nippon Television, with the first episode broadcasting as a one-hour special. Cast Magical Pink: Inori Minase (Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka) Magical Red: Sumire Uesaka (Urusei Yatsura (2022)) Magical Blue: Akira Sekine (Nisekoi)...
+
 ### Kakunaru Ue wa Unveils Additional Cast, Theme Songs, Second Promo
 Wed, 25 Nov 2026 04:38:37 -0800 — https://myanimelist.net/news/74979929?_location=rss
 
@@ -130,24 +160,19 @@ Tue, 24 Nov 2026 20:35:33 -0800 — https://myanimelist.net/news/74978922?_locat
 
 The official website for the television anime adaptation of Hitoshi Iwaaki s Historie manga revealed the production staff, additional cast, theme songs, key visual (pictured), and a second promotional video on Wednesday. The anime is scheduled to premiere as a two-episode special on January 9 at 1:23 a.m. on MBS, TBS, CBC, and Prime Video, followed by BS-TBS and AT-X. Cast Antigonus: Fumihiko Tachiki (Bleach) Satura: Akira Sekine (Tenmaku no Jaadugar) Bato: Toshiki Masuda (Boku no Hero Acad...
 
-### Mahoutsukai no Yoru Sequel Anime Announced
-Mon, 23 Nov 2026 23:21:33 -0800 — https://myanimelist.net/news/74975780?_location=rss
-
-The official X (formerly Twitter) account for the anime movie adaptation of Type-Moon s Mahoutsukai no Yoru (Witch on the Holy Night) visual novel announced on Tuesday that a sequel anime is in production. Produced by ufotable, Mahoutsukai no Yoru (Witch on the Holy Night) theatrical movie premiered in Japan on November 20 and is currently screening in theaters, grossing over 526.13 million yen (approximately US$3.4 million) in its first four days. Developed and published by Type-Moon, the...
-
 ## Otaku USA
 
 _Nothing in the last 48 hours._
 
 ## Anime UK News
 
+### Smoking Behind the Supermarket with You Volume 8 Review
+Thu, 26 Nov 2026 10:00:34 +0000 — https://animeuknews.net/2026/11/smoking-behind-the-supermarket-with-you-volume-8-review/
+
+Something has definitely changed in the relationship between fellow after-work smokers, salaryman Sasaki and supermarket cashier Miss Tayama...
+
 ### How I Attended An All Guy s Mixer
 Wed, 25 Nov 2026 10:00:29 +0000 — https://animeuknews.net/2026/11/how-i-attended-an-all-guys-mixer/
 
 Mixers are a good way for college students to meet girls. But what do these three guys do when their dates turn out to be drag kings?
-
-### Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?! Volume 16
-Tue, 24 Nov 2026 10:00:42 +0000 — https://animeuknews.net/2026/11/cherry-magic-thirty-years-of-virginity-can-make-you-a-wizard-volume-16/
-
-Kurosawa has been whisked away from the office by glamorous President Matsuura in her company limo. What does she want from him? Cherry Magic! takes a surprising turn in its penultimate volume…
 

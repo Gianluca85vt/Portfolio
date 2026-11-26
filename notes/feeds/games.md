@@ -1,6 +1,46 @@
-# Games — harvested 2026-11-26T00:40:22.240Z
+# Games — harvested 2026-11-26T14:27:40.872Z
 
 ## Eurogamer
+
+### We are already in a world where people think about promoting games as human-made, Citizen Sleeper creator says
+Thu, 26 Nov 2026 14:18:20 +0000 — https://www.eurogamer.net/citizen-sleeper-creator-gen-ai-human-made-games-signet-city
+
+Citizen Sleeper creator Gareth Damian Martin - also known by their studio name Jump Over the Age - believes we're reaching a point of gen-AI saturation whereby game-makers are starting to counter-promote games as being human-made. Read more
+
+### After playing the game, 30% of polled GTA 6 players want to buy flowers for a loved one, 9% accidentally punched cats
+Thu, 26 Nov 2026 14:09:10 +0000 — https://www.eurogamer.net/gta-6-30-percent-buy-flowers-punch-cats
+
+A new survey of Grand Theft Auto 6 players has found some particularly interesting results. 30 percent came away from the game with the desire to buy someone special flowers. Nine percent punched cats. Read more
+
+### "I'm betting on the sickos" - Signet City plans to 'expand the scope of RPGs' by drawing on the success of Citizen Sleeper
+Thu, 26 Nov 2026 13:54:50 +0000 — https://www.eurogamer.net/citizen-sleeper-signet-city-fungalpunk-1980s-rpg
+
+When I last spoke to Citizen Sleeper creator Gareth Damian Martin, it was on the eve of Citizen Sleeper 2's release . Like its predecessor, the game was a critical hit, cementing Damian Martin's reputation as one of the most successful independent game developers around. But they weren't content. They wanted to do more, to push more, to stretch the idea of what a role-playing video game could be. Read more
+
+### Fans report Umamusume: Pretty Derby AI clone brimming with ads, Cygames gets it taken offline
+Thu, 26 Nov 2026 13:15:00 +0000 — https://www.eurogamer.net/umamusame-pretty-derby-ai-clone-taken-off-mobile-after-reports
+
+An AI clone of Umamusume: Pretty Derby has been stuck off the Google Play Store after it drew the ire of fans, and the community organised to report the offending title to Cygames. Read more
+
+### Fed up of Steam's lack of action regarding AI slop? Maybe you should take a look at the 'Games Without AI' event, instead
+Thu, 26 Nov 2026 12:22:30 +0000 — https://www.eurogamer.net/games-without-ai-steam-event
+
+Yesterday, a new Steam event went live that claims all games featured in it have avoided AI entirely during development. The event, called 'Games Without AI', has been set up by a third party rather than Valve - by Dev Land Marketing, All Ages Of Geek, and Dark Cocooning - to "support real creators" and runs from 25th November to 6th December. Read more
+
+### Ubisoft reportedly goes all in on company-wide generative-AI use, and if developers don't want to use it, they have to explain why in detail
+Thu, 26 Nov 2026 12:15:40 +0000 — https://www.eurogamer.net/ubisoft-reportedly-goes-all-in-on-company-wide-generative-ai-use-and-if-developers-dont-want-to-use-it-they-have-to-explain-why-in-detail
+
+Ubisoft is clearly serious about implementing generative-AI deeply into the game development process. The French publisher now expects teams pitching new project ideas to be prepared to explain how gen-AI will help with developing the game.Teams who don't want to use gen-AI will need to clearly justify their reasoning to the higher-ups. Read more
+
+### Blizzard adjusts popular World of Warcraft: Forever Battleground to stop players power-grinding rewards
+Thu, 26 Nov 2026 10:46:10 +0000 — https://www.eurogamer.net/world-of-warcraft-forever-alterac-valley-battleground-patched
+
+Many World of Warcraft: Forever players are currently in the midst of a substantial PvP reputation grind. However, this process has been disrupted due to a sudden change to one of the game's battleground PvP arenas. Read more
+
+### GTA 6 reinvigorates PlayStation 5 and Xbox Series S/X console sales in the US, even at their inflated prices
+Thu, 26 Nov 2026 09:40:10 +0000 — https://www.eurogamer.net/playstation-5-xbox-series-s-x-console-hardware-sales-gta-6
+
+Despite the far higher prices of PlayStation and Xbox consoles today compared to their launch, or even the same period last year, both brands of console saw a significant boost in US sales leading up to the launch of this generation's biggest game: Grand Theft Auto 6 . Read more
 
 ### The Fable reboot had to look beyond Lionhead's RPG trilogy because games like The Witcher 3 "became the gold standard"
 Wed, 25 Nov 2026 19:57:10 +0000 — https://www.eurogamer.net/fable-the-witcher-3-gold-standard
@@ -22,47 +62,17 @@ Wed, 25 Nov 2026 17:14:40 +0000 — https://www.eurogamer.net/playstation-plus-m
 
 There's a chill in the air and a snowman (plastic) at the end of the street, meaning winter is firmly upon us. So what better way to make it way through the long dark nights than a spot of festmas gaming. And hark, just in the nick of time, PlayStation Plus' monthly games for December have been revealed, with some skating, spooking, and dragon baubles. Read more
 
-### Why did Rockstar Games make empathy a key mechanic in GTA 6? "Because it's fun" says head of development Rob Nelson
-Wed, 25 Nov 2026 16:42:30 +0000 — https://www.eurogamer.net/gta-6-empathy-criminal-profile-why-rockstar-added-it-rob-nelson
-
-There's been plenty of chatter about Grand Theft Auto 6 's 'honour system', so to speak, implemented here via what the game calls your Criminal Profile. Read more
-
-### World of Warcraft: Forever's best new enchantment has been quietly changed, leaving some casters on the back foot
-Wed, 25 Nov 2026 16:13:50 +0000 — https://www.eurogamer.net/world-of-warcraft-forever-revelation-enchantment-nerfed
-
-As World of Warcraft: Forever players dived into the game, they quickly discovered a specific weapon enchant that took area of effect spells to a whole other level. Sadly, with a sudden hotfix last night, this particular use case for the enchant has been removed. Read more
-
-### Hollow Knight: Silksong devs announce a livestream for Friday, promise updates on the hotly-anticipated Sea of Sorrow DLC
-Wed, 25 Nov 2026 15:32:40 +0000 — https://www.eurogamer.net/hollow-knight-silksong-dlc-livestream-sea-of-sorrows-update
-
-Hollow Knight: Silksong developer Team Cherry has announced it will host a 'Cherry Time Special Presentation' on 27th November, bringing more information to light about the game's first big DLC offering, Sea of Sorrows. We know that the free update will be nautically-themed - hence the eponymous 'sea' - and will feature new bosses, areas and so on, but other than that, information about what's coming is vague. Read more
-
-### GTA 6 recompilers and vibe-coders implore AI chatbots to 'work faster' and 'make no mistakes' as they race to get the game running on PC
-Wed, 25 Nov 2026 15:19:10 +0000 — https://www.eurogamer.net/grand-theft-auto-6-gen-ai-chatbots-work-faster-prompts
-
-Things continue to get messy in the community of players working on getting Grand Theft Auto 6 working on PC. The previous frontrunner, Project Leonida, got their Discord server and GitHub repository taken down by Rockstar , but others have seemingly stepped in to finish the job. Read more
-
-### I'm having a much better time in GTA 6 now I've disabled its pesky Criminal Profile pings
-Wed, 25 Nov 2026 14:06:00 +0000 — https://www.eurogamer.net/im-having-a-much-better-time-in-gta-6-now-ive-disabled-its-pesky-criminal-profile-pings
-
-Do you think you'd enjoy invasive UI elements in real life? You crouch to fuss your dog, and a little ping activates in your retina, informing you that you've just earned plus-three serotonin. Your boss chews you out for coming into work 15 minutes late thanks to a traffic accident holding you up on your way to work, a notification pings: "-10 percent motivation (lasts 24 hours)". Maybe you eat a bang-up meal, flirt with a hot stranger, beat your personal best on a run - ding, ding, ding. Well done, you win at being a human. Read more
-
-### Blizzard is making a lot of the Diablo 4's event-specific Diablo 2 anniversary content permanent because everyone loved it in Season 15
-Wed, 25 Nov 2026 13:51:10 +0000 — https://www.eurogamer.net/diablo-4-season-16-keeping-season-15-diablo-2-anniversary
-
-Blizzard has officially unveiled Diablo 4 's next live-service season: Season of Tyrael's Gambit. This is the ARPG's 16th season, and it follows on from the popular and well-received Season of Hell's Legacy. Read more
-
-### Tired of GTA 6? Here's 23 lesser-known gems that might beat it at its own game
-Wed, 25 Nov 2026 13:41:40 +0000 — https://www.eurogamer.net/gta-6-23-lesser-known-gems-that-might-beat-it-at-its-own-game
-
-You can do a lot of things in GTA 6 : fishing, golfing, running, jumping, dancing, racing, roaming, shopping. It goes on! There's romancing, birdwatching, DIY, and even more besides. It really is an everything game. But GTA 6 isn't for every one . Read more
-
-### Players discover over 1,500 individual buildings you can enter in GTA 6, nearly 28% of all buildings on the map
-Wed, 25 Nov 2026 12:42:00 +0000 — https://www.eurogamer.net/gta-6-over-1500-buildings-you-can-enter
-
-One GTA 6 player has put in the legwork and found that a shocking number of buildings across Leonida are freely accessible. Read more
-
 ## GamesIndustry.biz
+
+### NielsenIQ: GTA 6 boosts UK games retail revenue by 99% to £142m during launch period
+Thu, 26 Nov 2026 11:55:50 +0000 — https://www.gamesindustry.biz/nielseniq-gta-6-boosts-uk-games-retail-revenue-by-99-to-142m-during-launch-period
+
+UK games retail revenue increased 99% week-on-week to &pound;142 million during Grand Theft Auto 6's three-day launch period. Read more
+
+### GTA 6 launch drives combined 2.3m downloads of franchise's mobile ports, according to AppMagic
+Thu, 26 Nov 2026 10:07:50 +0000 — https://www.gamesindustry.biz/gta-6-launch-drives-combined-23m-downloads-of-franchises-mobile-ports-according-to-appmagic
+
+The record-breaking launch of Grand Theft Auto 6 drove a combined 2.3 million downloads of the franchise's mobile ports in its first week. Read more
 
 ### EA Sports FC 27 adds AI-recreated voice of late commentator John Motson
 Wed, 25 Nov 2026 20:48:20 +0000 — https://www.gamesindustry.biz/ea-sports-fc-27-adds-ai-recreated-voice-of-late-commentator-john-motson
@@ -72,7 +82,7 @@ Electronic Arts is bringing back the voice of the late football commentator John
 ### Ubisoft staff must justify not using generative AI in pitches, report claims
 Wed, 25 Nov 2026 20:19:40 +0000 — https://www.gamesindustry.biz/ubisoft-staff-must-justify-not-using-generative-ai-in-pitches-report-claims
 
-Ubisoft teams pitching new projects are reportedly being asked to explain how generative AI would help them make games faster, and if they don't plan to use it, they have to give a detailed reason why. Read more
+Update, November 26, 2026: Ubisoft has issued a response to reports that teams are reportedly being asked to explain why they would or wouldn't use generative AI when pitching projects. Read more
 
 ### Roblox signs licensing deal with PRS for Music
 Wed, 25 Nov 2026 18:03:10 +0000 — https://www.gamesindustry.biz/roblox-signs-licensing-deal-with-prs-for-music
@@ -114,21 +124,26 @@ Tue, 24 Nov 2026 15:28:00 +0000 — https://www.gamesindustry.biz/you-are-still-
 
 Self-publishing is now firmly established as a viable route to market for indie developers, with many only looking to publishers for help with specific issues &ndash; chiefly marketing, based on conversations with GamesIndustry.biz this year. Audrey Leprince, co-founder of Cairn developer The Game Bakers, argues that while working with third parties is essential, self-publishing is ultimately the only route to sustainability for indie developers. Read more
 
-### Splitscreen Croatia conference offers attendance packages for developers looking to showcase unreleased games to publishers and investors
-Tue, 24 Nov 2026 12:18:30 +0000 — https://www.gamesindustry.biz/splitscreen-croatia-conference-offers-free-travel-packages-for-developers-looking-to-showcase-unreleased-games-to-publishers-and-investors
-
-Splitcreen Croatia, the new industry conference seeking to fill the gap left by Reboot Develop , has opened applications for its Official Selection showcase, which includes free accommodation and exhibition space for developers with unreleased games. Read more
-
-### GTA 6 was the "biggest launch in PlayStation history", with the highest number of concurrent players ever
-Tue, 24 Nov 2026 11:44:10 +0000 — https://www.gamesindustry.biz/gta-6-was-the-biggest-launch-in-playstation-history-with-the-highest-number-of-concurrent-players-ever
-
-Christmas did not come early for Sony, but it came close: the firm has declared that GTA 6 was the largest game launch in the platform's history, driving a record number of concurrent players on its November 19th launch, although the number of new consoles playing the game fell short of year-end highs. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Feature: 80+ PS5, PS4 Games to Buy in PS Store s Updated Black Friday Sale (North America/Europe)
+Thu, 26 Nov 2026 14:00:00 GMT — https://www.pushsquare.com/features/80plus-ps5-ps4-games-to-buy-in-ps-stores-updated-black-friday-sale-north-americaeurope
+
+PS5 and PS4 games going cheap we recommend. The PS Store's Black Friday sale is on now, running until 30th November, 2026. As with nearly every offer in Sony's digital store, there are literally thousands of PS5 and PS4 games going cheap. Obviously, nobody has the time to scroll through all those deals, which is where this guide hopefully comes in handy. Read the full article on pushsquare.com
+
+### The Witcher 4 Is Not a PS5 Exclusive, CDPR Clarifies After Sony Deal
+Thu, 26 Nov 2026 01:30:00 GMT — https://www.pushsquare.com/news/2026/11/the-witcher-4-is-not-a-ps5-exclusive-cdpr-clarifies-after-sony-deal
+
+Well, duh. Did anyone really think The Witcher 4 was going to be a PS5 exclusive? For those who missed it, CDPR confirmed yesterday that it has signed a marketing deal with Sony on its upcoming RPG. Read the full article on pushsquare.com
+
+### GTA 6 s Map Has a Useful Feature I ve Only Just Noticed
+Thu, 26 Nov 2026 01:00:00 GMT — https://www.pushsquare.com/news/2026/11/gta-6s-map-has-a-useful-feature-ive-only-just-noticed
+
+You learn something new every day. I’ve tallied over 300 hours in GTA 6 so far, and today I learned something new. Forgive me if you already knew it, but I figured I’d share anyway as it never occurred to me in all my sessions so far. Read the full article on pushsquare.com
 
 ### Guide: GTA 6: Secret Controls the Game Doesn t Tell You
 Wed, 25 Nov 2026 22:00:00 GMT — https://www.pushsquare.com/guides/gta-6-secret-controls-the-game-doesnt-tell-you
@@ -175,21 +190,6 @@ Wed, 25 Nov 2026 13:00:00 GMT — https://www.pushsquare.com/news/2026/11/cyberp
 
 Everyone's Chippin' In. 2027 will likely be a pivotal year for Cyberpunk 2 as it rockets towards full production, with CD Projekt Red anticipating significant expansion to the sequel's development team. Since the summer, the number of people working on Cyberpunk 2 has increased from 184 to 199, which doesn't seem like much, but this is a steady process. Read the full article on pushsquare.com
 
-### CD Projekt Red Expects GTA 5 to GTA 6-Like Upgrade in The Witcher 4
-Wed, 25 Nov 2026 11:00:00 GMT — https://www.pushsquare.com/news/2026/11/cd-projekt-red-expects-gta-5-to-gta-6-like-upgrade-in-the-witcher-4
-
-"You should expect us to make a bigger jump". CD Projekt Red thinks it can deliver the same sort of "leap" in The Witcher 4 as Rockstar Games has just accomplished going from GTA 5 to GTA 6 . The 13-year gap between instalments in the GTA series has allowed Rockstar Games to create the "greatest open world game ever made", as our GTA 6 PS5 review explains. Within that, it's created a more mature look at the world and then delivered incredible and immersive content alongside it. Read the full article on pushsquare.com
-
-### Another Big PS5 Game Will Be Delisted in the Coming Months
-Wed, 25 Nov 2026 10:00:00 GMT — https://www.pushsquare.com/news/2026/11/another-big-ps5-game-will-be-delisted-in-the-coming-months
-
-Exoprimal goes extinct like its dinosaurs. Capcom has announced it'll be delisting its multiplayer dinosaur shooter Exoprimal in March 2027, and then turning the game's servers off in September. The news comes from an "end of service announcement" published on the official Exoprimal website , where it is said: "We cannot thank you enough for the love and support you have shown over the years, and we sincerely apologize for the gravity of this announcement." Read the full article on pushsquare.com
-
-### Real-Life GTA 6 Trading Cards Are About to Get Scalped
-Wed, 25 Nov 2026 02:00:00 GMT — https://www.pushsquare.com/news/2026/11/real-life-gta-6-trading-cards-are-about-to-get-scalped
-
-You too can add Maleek Rivers to your collection. If you’re having fun finding GTA 6’s collectible cards while out and about in Leonida, then soon you’ll be able to have fun finding them in real-life. And based on my experience trying to buy One Piece cards recently, it may actually be a lot easier finding these in the game – especially if you use our GTA 6 guide . (Okay, sorry, I’ll stop with the shameless SEO.) Read the full article on pushsquare.com
-
 ## Game Developer
 
 ### Opinion: Grand Theft Auto VI and World of Warcraft: Forever show that mundanity is having a moment
@@ -198,6 +198,26 @@ Tue, 24 Nov 2026 15:42:06 GMT — https://www.gamedeveloper.com/design/grand-the
 Two of the year's biggest hits tell us that downtime and doldrums can be as compelling as dungeons and dragons.
 
 ## VGC
+
+### The GTA 6 Spoiler Interview Pt. 1: Rockstar on that Chapter 1 twist, cut content, and more
+Thu, 26 Nov 2026 13:40:03 +0000 — https://www.videogameschronicle.com/features/the-gta-6-spoiler-interview/
+
+Rockstar's Rob Nelson sits down for his most open interview yet… Source
+
+### GTA 6 Bricked Up walkthrough: How to get the bonus reward in Bricked Up
+Thu, 26 Nov 2026 13:36:44 +0000 — https://www.videogameschronicle.com/guide/gta-6-bricked-up-walkthrough-how-to-get-the-bonus-reward-in-bricked-up/
+
+Here's how to complete Bricked Up and get the bonus cash reward… Source
+
+### GTA 6 Secret Mission in Capri: How to Find and Complete the Hidden Mission
+Thu, 26 Nov 2026 13:00:13 +0000 — https://www.videogameschronicle.com/guide/gta-6-secret-mission-in-capri-how-to-find-and-complete-the-hidden-mission/
+
+Here's how to trigger a secret mission in GTA 6… Source
+
+### PlayStation father Ken Kutaragi claims he secretly intended to convince Microsoft to make Xbox
+Thu, 26 Nov 2026 11:40:47 +0000 — https://www.videogameschronicle.com/news/playstation-father-ken-kutaragi-claims-he-secretly-intended-to-convince-microsoft-to-make-xbox/
+
+Ken Kutaragi claims partial credit for Microsoft’s decision to launch Xbox… Source
 
 ### PlayStation Plus games for December include Tony Hawk’s Pro Skater 3+4
 Wed, 25 Nov 2026 22:27:05 +0000 — https://www.videogameschronicle.com/news/playstation-plus-games-for-december-include-tony-hawks-pro-skater-34/
@@ -229,79 +249,89 @@ Wed, 25 Nov 2026 17:58:18 +0000 — https://www.videogameschronicle.com/news/tea
 
 Silksong's DLC could get a release date this week… Source
 
-### GTA 6 Hidden Charges: Ask for Help or Go Solo?
-Wed, 25 Nov 2026 17:51:10 +0000 — https://www.videogameschronicle.com/guide/gta-6-hidden-charges-ask-for-help-or-go-solo/
-
-Should you ask for help or go solo? Source
-
-### GTA 6 Hidden Charges walkthrough: How to plant all three explosives
-Wed, 25 Nov 2026 17:41:21 +0000 — https://www.videogameschronicle.com/guide/gta-6-hidden-charges-walkthrough-how-to-plant-all-three-explosives/
-
-How to complete Hidden Charges and get three explosive charges… Source
-
-### GTA 6: Auntie’s Place location in LaPerle
-Wed, 25 Nov 2026 17:14:08 +0000 — https://www.videogameschronicle.com/guide/gta-6-aunties-place-location-laperle/
-
-How to find Auntie's Place in LaPerle and get the rewards from Vanessa's laptop in Grand Theft Auto 6… Source
-
-### Yooka-Laylee and the Impossible Lair is getting a Switch 2 Definitive Edition
-Wed, 25 Nov 2026 17:09:21 +0000 — https://www.videogameschronicle.com/news/yooka-laylee-and-the-impossible-lair-is-getting-a-switch-2-definitive-edition/
-
-Yooka-Laylee and the Impossible Lair will boast better visuals and 120FPS on Switch 2… Source
-
 ## Polygon
 
-### Ridley Scott’s Sci-Fi Thriller Masterpiece Is Officially Being Removed From Netflix
-Thu, 26 Nov 2026 00:01:17 GMT — https://www.polygon.com/ridley-scott-alien-leaving-netflix/
+### 10 Years Later, Netflix's $120 Million Flop Deserves a Season 2
+Thu, 26 Nov 2026 14:00:18 GMT — https://www.polygon.com/the-get-down-netflix-season-2-renewal/
 
-Ridley Scott is one of those staple filmmakers. The 88-year-old English director has made countless noteworthy films, TV shows, and commercials over the course of his prolific career, dabbling in so many genres that it’s difficult to narrow down the parameters of his work. With the release of this year’s The Dog Stars , Scott has directed 31 feature films. They don’t all share the same characteristics, but broadly, his films are known for huge and immersive sets, battles on an epic scale, and big and heady concepts.
+This Turkey Day , as Polygon celebrates our favorite failures and flops from the world of entertainment, it's time to resurrect a Netflix original that earned (mostly) rave reviews but got canceled after just one season for what, in hindsight, feels like an easily avoidable reason. Not only is The Get Down an overlooked masterpiece, but 10 years later, it's due for a revival.
 
-### How to get adrenaline in GTA 6
-Wed, 25 Nov 2026 22:57:40 GMT — https://www.polygon.com/gta-6-adrenaline-how-to-get/
+### These Rare Pokémon Cards Are No Longer Eligible for PSA Grading
+Thu, 26 Nov 2026 13:27:49 GMT — https://www.polygon.com/pokemon-tcg-mega-hyper-rare-card-psa-grading/
 
-Adrenaline acts as an emergency boost to all your stats in Grand Theft Auto 6 , as it temporarily negates health, stamina, and focus loss. It's meant to get you out of an emergency situation safely or help you burst into a tense situation and mop it up fast. Unlike Zombix and other restoratives, though, you can't buy adrenaline — not from anywhere we've found so far, at least — nor can you expect to find it in abundance throughout Leonida. There is, however, a small set of locations you can reliably get adrenaline from.
+Mega Evolution returned to the Pokémon Trading Card Game with the launch of the Mega Evolution series in 2025. In this expansion, collectors can find extremely rare Mega Evolution Pokémon EX cards known as Mega Hyper Rare cards in English and Mega Ultra Rare cards in Japanese. These holographic secret cards show alternative artwork of Pokémon's Mega Evolutions on a beautiful gold-etched display.
 
-### Capcom Is Officially Killing Its 'Jurassic World Meets Overwatch' Shooter
-Wed, 25 Nov 2026 22:23:21 GMT — https://www.polygon.com/exoprimal-capcom-shutting-down-2027/
+### Critical Role Officially Confirms a Fan-Favorite Episode Format Will Not Return
+Thu, 26 Nov 2026 12:48:30 GMT — https://www.polygon.com/critical-role-wedding-episode-will-not-return/
 
-Four years after the game's launch , Capcom is officially shutting down Exoprimal , the company's 5v5 action game about a futuristic dinosaur crisis. Capcom announced Tuesday that service for Exoprimal will be discontinued in September 2027 — meaning that Exoprimal will no longer be playable — and that the game will no longer be sold starting in March 2027.
+One of the best things about Critical Role ’s live shows is that, in many ways, they're a phenomenal way to address story threads the cast couldn’t get to by the end of the campaign. For example, The Mighty Nein Reunion: Echoes of the Solstice 2023 live show is set shortly after the Apogee Solstice, an event primarily associated with Campaign 3: Bells Hells but also directly affecting The Mighty Nein adventuring group, particularly Beauregard Lionett and Caleb Widogast.
 
-### All Peewees Billboard locations in GTA 6
-Wed, 25 Nov 2026 22:18:47 GMT — https://www.polygon.com/gta-6-peewees-billboard-location-challenge-waink/
+### The Further Mis-Adventures of Cliff Booth Director Explains His Use of AI
+Thu, 26 Nov 2026 12:14:03 GMT — https://www.polygon.com/the-further-misadventures-of-cliff-booth-david-fincher-ai/
 
-Peewees Billboards are one of the many scannable WAiNK collectibles in Grand Theft Auto 6 , but they're also part of the Mr. Enigma X Peewees scavenger hunt. Mr. Enigma, a play on Dr. Pepper, and the Peewees, a play on Popeyes, have teamed up to create a challenge where you must find four Peewees billboards, and you'll earn a valuable reward.
+The Further Mis-Adventures of Cliff Booth takes place eight years after Once Upon a Time... in Hollywood and follows the life of stuntman Cliff Booth (Brad Pitt) after Rick Dalton (Leonardo DiCaprio) moves out of the country. Booth now performs dirty odd jobs for celebrities to keep himself afloat, and his life is just as exciting as it was before.
 
-### 'Avengers: Doomsday' Is Making Sure Patrick Stewart Gets a Proper Sendoff
-Wed, 25 Nov 2026 20:28:13 GMT — https://www.polygon.com/avengers-doomsday-patrick-stewart-tribute/
+### 20 Years Ago, The Sopranos PS2 Game Sank So GTA 6 Could Swim
+Thu, 26 Nov 2026 11:00:18 GMT — https://www.polygon.com/sopranos-road-to-respect-anniversary/
 
-Patrick Stewart's final on-screen performance will arrive in December's Avengers: Doomsday , and Marvel is making sure the late actor receives a fitting farewell.
+Part of what makes Grand Theft Auto 6 feel like a major cultural moment is that there’s never been a game quite like it. There are plenty of open-world games that share a similar structure, but there’s very little in the way of big-budget sandbox crime simulators that balance rich storytelling with emergent chaos. If you want to play a game like GTA in 2026, your only real option is GTA.
 
-### The 25 Best PS5 Games in 2026
-Wed, 25 Nov 2026 20:23:05 GMT — https://www.polygon.com/best-ps5-playstation-5-games/
+### 'Alien' Meets 'Vikings' in a 2008 Sci-Fi Spin on Beowulf That Deserves Redemption
+Thu, 26 Nov 2026 10:00:18 GMT — https://www.polygon.com/outlander-2008-defense-turkey-day/
 
-That aside, the PS5's library has grown to the extent that there's a lot to sort through, and new and old PS5 owners will be wondering what to play. So here’s our living list of the best video games we’ve played on the platform — influenced by the personal tastes of the Polygon team — to be updated as more games come out.
+Beowulf is one of the oldest surviving pieces of English literature, and its story of a hero defending the Danes from a monster has inspired numerous adaptations. John McTiernan told the story in his 1999 film The 13th Warrior, and Robert Zemeckis used motion capture for a 2007 version. But my favorite telling of the story eschews history and fantasy to turn the tale of Beowulf and Grendel into an Alien - inspired sci-fi action flick.
 
-### Fortnite Cracks Down on Pirate Shop Token Cheaters and Teammates
-Wed, 25 Nov 2026 19:54:35 GMT — https://www.polygon.com/fortnite-pirate-shop-access-token-cheaters-crack-down/
+### 51 Years Later, One of Peanuts’ Best Sally Brown Strips Is Still a Perfect School Joke
+Thu, 26 Nov 2026 09:30:18 GMT — https://www.polygon.com/sally-brown-rock-snakes-peanuts/
 
-With just over a week before Fortnite Treasure Hunters comes to an end, desperation has set in, as players begin to lose hope of finding the Pirate Shop Access token. This is the most coveted item in Fortnite history because it grants up to 28 days of free Item Shop cosmetics.
+For years, one of the problems with reading Charles Schulz's Peanuts was the inconsistency among its collected editions . You'd think that Peanuts’ publishers, as the stewards of one of the most influential comic strips in the Western world, would simply reprint the comics in chronological order. It was rarely that simple.
 
-### All Key Lento standout vehicles in GTA 6
-Wed, 25 Nov 2026 19:18:58 GMT — https://www.polygon.com/gta-6-standout-vehicles-key-lento-locations-list-grand-theft-auto/
+### The Lord of the Rings’ Next Movie Officially Wraps Production, but Now the Hard Part Begins
+Thu, 26 Nov 2026 09:16:01 GMT — https://www.polygon.com/the-lord-of-the-rings-hunt-for-gollum-production-end/
 
-There are 12 standout vehicles in Key Lento in Grand Theft Auto 6 , ranging from an incredibly festive boat to a pizza delivery car, and finding them all is essential if you want to 100% complete the game. GTA 6 has 280 standout vehicles to find in total, and some of them are very tough to find, so we're here to help.
+Warner Bros. announced on Nov. 25, 2026, that production on the next installment in The Lord of the Rings movie franchise has wrapped. The Hunt for Gollum , directed by Andy Serkis, is currently headed for post-production ahead of the movie's Dec. 17, 2027 release. The news follows Serkis' announcement in November that filming had ended .
 
-### Lego Announces New Set for Fan-Favorite Marvel Character
-Wed, 25 Nov 2026 18:45:37 GMT — https://www.polygon.com/lego-marvel-rivals-jeff-the-land-shark-set-announced/
+### 20 Years Later, One of TV’s Greatest Sci-Fi Franchises Still Hasn’t Topped Its Riskiest Spin-Off
+Thu, 26 Nov 2026 09:00:17 GMT — https://www.polygon.com/torchwood-remains-the-best-doctor-who-spin-off/
 
-Marvel Rivals , the Overwatch -like hero shooter from NetEase and Marvel Games, is just a couple of weeks away from its second anniversary. To celebrate, The Lego Group is releasing a new set based on the game's take on an iconic Marvel character. This will be the first-ever Marvel Rivals set, though plenty of Marvel sets already exist, and to mark the occasion, it will turn the beloved Jeff the Land Shark into a brick-built figure.
+Last year was a mixed bag for Whovians. Disney dumped Doctor Who , leaving the franchise in such dire straits that the BBC had no choice but to look for someone new to steer the long-running sci-fi show into a new era. That said, the franchise also got a major win with Russell T. Davies and director Dylan Holmes-Williams’s climate-focused spin-off, The War Between Land and Sea , which debuted in the U.K. that December but still hasn't officially been released in the U.S.
 
-### How to whistle to distract enemies in GTA 6
-Wed, 25 Nov 2026 18:39:58 GMT — https://www.polygon.com/gta-6-whistle-how-to-distract-npcs/
+### 10 Classic Books Worth Reading Over and Over
+Thu, 26 Nov 2026 05:00:18 GMT — https://www.polygon.com/10-classic-books-worth-reading-over-and-over/
 
-Knowing how to whistle in Grand Theft Auto 6 might sound like the least useful skill that Jason and Lucia would need to achieve their goals. As you progress through the game, you unlock different tools to help you deal with enemies and invade locations. However, none of the fancy technology you may have will work as well as a simple whistle in certain situations.
+Most of us treat classic literature like a checklist to conquer in high school or college and then never touch those books again. You power through the plot, underline a few quotes for a term paper, and move on to whatever else is new. The catch is that great books rarely reveal their most fascinating tricks on the first pass. When you already know the ending, your brain stops racing for answers and begins to notice the machinery holding all those mysteries and themes together. Suddenly, an unreliable narrator's sleight of hand becomes obvious, or a throwaway line in chapter two hits like a freight train in light of later developments .
 
 ## PC Gamer
+
+### These budget-friendly pads are the cheapest, quickest way to instantly upgrade your setup for under $25
+Thu, 26 Nov 2026 14:20:36 +0000 — https://www.pcgamer.com/hardware/game-pads/these-budget-friendly-pads-are-the-cheapest-quickest-way-to-instantly-upgrade-your-setup-for-under-usd25/
+
+I've lost count of how many times I've settled down to play a brand-new game on Steam, only to be smacked in the face with a giant popup telling me to "Grab a controller and kick back!" instead of using my humble mouse and keyboard. Thankfully for me I live in a multi-platform household, meaning a controller is never far out of reach. But I've also got staunch PC pals without a pad to pick up and who, rightly enough, don't want to fork out the kinda cash that PlayStation's DualSense or the Xbox controller require. We're curating all the Cyber Monday PC gaming deals right here But I'm a firm believer that a good controller is a must-have tool in a PC gamer's repertoire these days, and we needn't immediately seek out the big names when it comes to a comfortable, robust gamepad. Tons of budget-friendly options have popped up on the market over the years, and while some of them are admittedly pretty naff there are also a bunch of great controllers that won't break the bank. In fact, I've got three of 'em for under $25 for you right here. That's a third of the price of a DualSense controller! While they don't come with fancy haptics and adaptive triggers, they do offer stick-drift resistant, low-latency gaming. Which, as fun as the bells as whistles can be, are really the most important bits. A new and improved version of the original Nova Lite, the Nova Lite 2 has Hall effect everything, 1000 Hz polling, and trigger locks. It even has a mechanical D-pad, which is absurd for the m
+
+### Should you participate in GTA 6's Safe Word mission?
+Thu, 26 Nov 2026 13:03:16 +0000 — https://www.pcgamer.com/games/grand-theft-auto/gta-6-safe-word-participate-or-not/
+
+Deciding whether to participate or not in GTA 6 's Safe Word mission is tricky. On the one hand, you don't want to blow your cover, on the other, the setup is incredibly funny. Jason and Lucia head to a mansion to steal a safe, masquerading as pool cleaners, but once Jay heads inside, it's clear that he's actually playing a poolboy in an erotic flick. While applying lotion to the female performers, Lucia will get increasingly agitated in his earpiece, and then you'll finally have to choose whether to actually participate in the scene or not: Participate : This will negatively impact your romance with Lucia and since the outcome is the same (Lucia immediately interrupts the scene by setting off a car alarm), Jason doesn't actually do anything. As Rockstar has previously said, you can't cheat on Lucia . After you leave the scene, Lu will be a little angry, but it won't hang over things. Don't Participate : This will positively impact your romance and as above, the car alarm will immediately go off afterwards, ending the scene anyway. Jason will say he needs to go to the bathroom and make his way inside the mansion, continuing the mission to find and steal the safe. So, on the whole, choosing not to participate is better if you care about your romance level and how it might impact things later. If not, say what you will. Grand Theft Auto 6 GTA 6 guide : One-stop info shop GTA 6 cars : The garage lineup GTA 6 characters : Your anti-hero cast GTA 6 map : Confirmed Vice City locale
+
+### Forget the turkey, the best thing on your plate this Thanksgiving is this RTX 5070 laptop for just $1,300
+Thu, 26 Nov 2026 12:00:26 +0000 — https://www.pcgamer.com/hardware/gaming-laptops/forget-the-turkey-the-best-thing-on-your-plate-this-thanksgiving-is-this-rtx-5070-laptop-for-just-usd1-299/
+
+Gaming A16 | RTX 5070 (85W) | 16 GB DDR5: was $1599.99 now $1299.99 Gigabyte's Gaming A16 laptop with the RTX 5070 and 16GB DDR5 RAM is one of the cheapest that comes equipped with that particular GPU. At 1200p, even the 85W RTX 5070 gets plenty of room to stretch its legs, and 1TB of storage is pretty sweet - it lets you go nuts during quite a few Steam sales. Key specs: RTX 5070 (85 W) | Ryzen 7 260 | 16-inch | 1200p | 165 Hz | 16 GB DDR5 | 1 TB SSD Price check: Walmart $1,549.99 (Core Ultra 9 185H) | Amazon $1,448 (Core i7-13620H) View Deal How are we all doing, fellow Black Friday shoppers? Feeling the evil clutches of the memory crisis closing in? Crying over $2,000 GPUs? Having nightmares about laptop prices? Well, I can't help you with the clutches and whatnot, but I can certainly help you with a great Black Friday gaming laptop deal today. I just spotted this Gigabyte Gaming A16 laptop at Best Buy , and when I saw those specs with that price tag, I felt a (brief, fleeting, but much-needed) sense of relief. Now there is a decent laptop at a reasonable price. So they do exist. We're curating all the Black Friday PC gaming deals right here Gigabyte's Gaming A16 has a bunch of things worth mentioning, but the best part is certainly the Nvidia RTX 5070 GPU. That's a midrange GPU at what is now an almost budget-level price, so it's genuinely a good deal. The caveat here is that it's the 85 W version, so it's not the most powerful iteration of the RTX 5070 you'll ever get to
+
+### WoW: Forever fixes one of its most annoying endgame quests the literal day after I do it
+Thu, 26 Nov 2026 11:11:17 +0000 — https://www.pcgamer.com/games/world-of-warcraft/wow-forever-fixes-one-of-its-most-annoying-endgame-quests-the-literal-day-after-i-do-it/
+
+The thing you must understand is that I'm not mad. No, really, I'm not upset at all—as a matter of fact, I'm happy for your level 60 character to complete Scarlet Subterfuge (and its follow-up, In Dreams) with less back-and-forth trekking than me. I'm chuffed for you. Really, I am. Ahem—as you can tell by my current state of grumpiness, WoW: Forever issued a bunch of hotfixes , which I will do my due diligence in describing before I have a good moan: Alterac Valley has had some tweaks to stop people "frequently completing the battleground without capturing the objectives", balance druids have had some buffs, and some major bugs (such as hunter pets not being able to crit) have been addressed. That last point's a bit of contention in the community, given hunters are out-performing other classes in damage, but given we're just three weeks into the game with a couple of weeks left to go before the raid tier, I'm not sweating the lack of an immediate nerf bat. Right, there's my journalistic obligation taken care of. Here's why I'm (not) upset. Scarlet Subterfuge—and In Dreams—is widely considered one of the crappiest quests in Classic, and given this is a game that's already rife with inconvenience—inconvenience I am usually all for—that's saying something. In it, you need to go and find Highlord Taelan Fordring, son of Tirion Fordring, and remove the scarlet-coloured wool from his eyes. Story-wise, this quest kicks ass. You're finding the son of the guy who wielded the Ashbringe
+
+### All Missing Persons locations in GTA 6
+Thu, 26 Nov 2026 05:24:13 +0000 — https://www.pcgamer.com/games/grand-theft-auto/gta-6-missing-persons-locations/
+
+The GTA 6 Missing Persons case is available as early as Chapter 1, but you'll need access to both Lucia and Jason to wrap up the side quest in Chapter 2. Your stint as a fledgling detective begins in an abandoned warehouse near Mo's shop in Gellhorn, though there are two ways to flag the objective on your map and start the hunt for Gellhorn's serial killer. If you begin in Chapter 1 when you can only play as Jason, head straight to the abandoned warehouse to begin. This is how I began the quest the first time, after following a pack of coyotes through a small opening on the side of the abandoned warehouse. This route gives you an extra text conversation where Jason sends Lucia creepy photos from the warehouse. Begin in Chapter 2 by heading to the Starlet Motel lobby in Gellhorn and inspecting the missing persons posters. Afterward, head to the abandoned warehouse as a couple or go alone, and squeeze through the crawl space. Enter the abandoned warehouse trophy room After crawling inside the warehouse, walk to the far end and turn right to enter the glowing red room. Go a little farther to find the, uh, "trophies," and inspect all three lockers, along with the missing persons posters on the wall. This is where you begin your hunt for Gellhorn's three missing tourists. (Image credit: Rockstar) The images are saved as "Creepy Photos" in your phone gallery Refer to the pictures to find three locations around Gellhorn Your phone reminds you to look around when you're close to one 
+
+### The latest adult game in the Muv-Luv series has some woeful AI translation and players aren't happy about it
+Thu, 26 Nov 2026 05:03:03 +0000 — https://www.pcgamer.com/games/visual-novel/the-latest-adult-game-in-the-muv-luv-series-has-some-woeful-ai-translation-and-players-arent-happy-about-it/
+
+The Muv-Luv trilogy is a visual novel phenomenon that's tough to explain. The first game's a schlocky high school romance generally considered a chore to get through before the good stuff, when the protagonist of that story finds himself out of his depth as a mecha pilot fighting aliens in an apocalyptic warzone. It becomes a dense, twisty, and increasingly serious saga that just happens to star a dropkick hero right out of a harem anime. Muv-Luv's popular enough to have a bunch of spin-offs, the latest being a gacha game called Muv-Luv Girls Garden in which you collect girls to pilot mecha in automated battles, and of course said girls are romanceable. This caused a problem, as players discovered when they made it to some of the adult scenes only to find dialogue in which characters repeated at each other, "I can't provide a translation for explicit sexual content." Yeah, Muv-Luv Girls Garden was translated into English with AI. The Steam page does mention this in its AI-generated content disclosure, though hilariously it does so in untranslated Japanese: "1部ローカライズに生成AIを使用しています。" Players are unimpressed, with the Steam user rating dropping to Mostly Negative. As one user review puts it, "What if you want to goon But God says I'm unable to provide a translation for this text because it contains explicit sexual content ." Other user reviews complain about changes to the original artwork, with characters having accessories like teddy bears and hair ribbons taken away, as well a
 
 ### GTA 6 has weird purple streetlights because actual Florida screwed up its streetlights
 Wed, 25 Nov 2026 22:36:12 +0000 — https://www.pcgamer.com/games/grand-theft-auto/gta-6-has-weird-purple-streetlights-because-actual-florida-screwed-up-its-streetlights/
@@ -333,37 +363,17 @@ Wed, 25 Nov 2026 20:23:51 +0000 — https://www.pcgamer.com/software/ai/deceased
 
 Legendary BBC football commentator John "Motty" Motson, who died in 2023 at age 77, is being added to EA Sports FC 27 through "a mix of both his original audio and an AI-recreation trained by recordings of the man himself." The AI-powered recreation of Motson's distinctive voice has the blessing of his family, but some fans of the game are less than enthused. Motson's history with EA's football series goes back more than 30 years, to FIFA Soccer 96 (which came out in 1995). His last game in that series was FIFA Soccer 2005, according to Mobygames , but he continued to work with EA Sports on the FIFA Manager series. The announcement of his posthumous return to the series says "almost 10 years of in-game recordings" were used in conjunction with "new AI tools" to put Motson's voice in EA FC 27. "My father adored being the voice of the game, and we are so grateful to the team at EA Sports FC for this touching tribute and preserving his memory in-game," John's son Fred said. "His voice inspired millions of players across generations every time they picked up a controller, and now a whole new set of fans will get to experience his legacy and commentary." Fred Motson told the BBC that he believes his father "absolutely" would have wanted his voice to be the game after his death: "I don't think he would have quite understood what the AI was doing technologically—but I think, on the other hand, he was always really keen to get involved in these kinds of projects." The BBC report also
 
-### As the US Treasury suffers a cybersecurity breach, its chief tech guy is vibecoding a Civilization clone
-Wed, 25 Nov 2026 19:00:25 +0000 — https://www.pcgamer.com/software/ai/as-the-us-treasury-suffers-a-cybersecurity-breach-its-chief-tech-guy-is-vibecoding-a-civilization-clone/
-
-This week, amidst ongoing service disruptions, the US Treasury Department's Financial Crimes Enforcement Network (FinCEN) disclosed that it is "investigating a cybersecurity incident that resulted in unauthorized access to a limited subset of its systems." The bureau, which collects and analyzes transaction data to combat financial crimes, says it has taken some of its e-filing systems offline "as a proactive measure." FinCEN hasn't provided an estimate of when the investigation and system disruptions will be resolved, leaving the ability of financial institutions to report suspicious activity and interface with law enforcement indefinitely hampered. Meanwhile, as FinCEN is putting out fires, US Treasury chief information officer Sam Corcos has been busying himself with a different kind of work: He's been vibecoding a Civilization clone. (Image credit: FinCEN) Corcos' LLM-powered game project was noticed by Bulwark economics editor Catherine Rampell: "The Treasury CIO appears to have spent the past three days vibecoding a Civilization game clone instead of working on this major Treasury database cyber breach," she wrote in a post on X . "As I type this, his Claude code is literally adding theme music." A DOGE appointee who previously raised cybersecurity concerns at the IRS with an API "hackathon" and sought to cancel engineering efforts intended to modernize its systems, Corcos is hosting his little LLM project on Github. It's called Legatum, and he describes it as "historic
-
-### AI kills another coding competition: 'I was not at all interested in giving awards to the output of large language models'
-Wed, 25 Nov 2026 17:03:08 +0000 — https://www.pcgamer.com/software/ai/ai-kills-another-coding-competition-i-was-not-at-all-interested-in-giving-awards-to-the-output-of-large-language-models/
-
-The Atari Homebrew Awards , an annual celebration of new games developed for old systems by the people who love them both, has been cancelled after eight years of operation—and yes, it's because of AI. "As you may know, the landscape of retro game development changed dramatically this year with the massively increased capabilities of LLMs. More and more games have incorporated AI elements into their development chain and now have the capability to create full games without writing a single line of code," Atari Homebrew Awards host James, aka ZeroPage Homebrew, wrote on the Atari Age forums . "Keeping up with the large number of AI-assisted game development had become increasingly difficult as this year wore on, with some developers even releasing multiple games a week with the aid of AI. This flood of new AI games forced me to re-evaluate the way games were qualified and judged for the upcoming AHAs. "The Atari Homebrew Awards were now challenged to make sure the work of human developers were still honoured amongst the new fully computer-coded games. I was not at all interested in giving awards to the output of large language models, only to humans who coded their own games, but I quickly discovered that this was going to be more difficult than I thought." James said he discovered last week that "a large majority" of developers were using AI in some capacity to make their games, from testing to wholesale game creation, "without one typed line of code." That left two options: 
-
-### Someone counted all 5,588 buildings in GTA 6, and it turns out you can go inside 28% of them
-Wed, 25 Nov 2026 16:24:15 +0000 — https://www.pcgamer.com/games/grand-theft-auto/someone-counted-all-5-588-buildings-in-gta-6-and-it-turns-out-you-can-go-inside-28-percent-of-them/
-
-Grand Theft Auto 6 hasn't even been out for a week yet, and someone has already done the math on how many buildings in the whole of Leonida you can actually walk into. For those of you who are curious: it's 1,563 buildings. That is frankly ridiculous. I don't think I've ever been inside 1,563 different buildings in my entire life, although I am a creature of habit, so that could explain things. The player who shared these stats, Aileos , does note that there are 5,588 buildings in total, so the enterable buildings only account for a fraction of that, just over 25%. A player counted every building in GTA VI. Out of 5588 buildings, 1563 are enterable from r/GTA6 There are some who will look at this with a glass-half-empty perspective, and I get it. This world is so cool, it's easy to want more of it, but as another player points out , "This would've sent us into psychosis a few years back". Sometimes it's better to focus on what we have rather than what we don't have. After all, how many buildings will you realistically enter in your GTA 6 playthrough? Probably not 1,563. We've spent the past week here in the PC Gamer Slack channel marvelling at just how many random encounters you can stumble across in GTA 6. Some of us have found sentient NPCs. One of us was actually recognised by a convenience store clerk who then asked to get robbed, and I think we've all seen videos of the furry rescue mission. But just because this world already has loads of awesome activities, it doesn't 
-
-### How to steal the Pegassi Infernus in GTA 6
-Wed, 25 Nov 2026 16:10:20 +0000 — https://www.pcgamer.com/games/grand-theft-auto/gta-6-pegassi-infernus-location/
-
-Stealing the Pegassi Infernus in GTA 6 can be quite tricky, considering it's being held in the police department lockup, the building to the west of the police station in southwest Crosstown. You can access the building via a yellow window cleaning elevator on the southern side of the building. But this won't appear until Randy texts and gives you the Infernus's location. If you go here before, your options for entering are far more limited and risky, so it's worth waiting. To get to the car: Use the elevator to get inside. Turn right, then left, and make your way up to the seventh level of the multi-story car park—the purple Pegassi Infernus is easy to recognise since it's the only sports car in there. Select the key cloning option to get inside. Now you just need to drive down a few levels to exit via the police station parking lot—which I'd recommend—or keep going all the way down to exit at the bottom of the car park. Remember, you need to drive fast to stop the tracker going off, and if you hear it beeping, you should speed up to prevent it pinging the cops. If you do bash around the car a bit, you can get it repaired at a gas station on the way. Bring it back in pristine condition and you'll net 15k for the trouble. Grand Theft Auto 6 GTA 6 guide : One-stop info shop GTA 6 cars : The garage lineup GTA 6 characters : Your anti-hero cast GTA 6 map : Confirmed Vice City locales GTA 6 PC release : When's it going to happen? ]]>
-
-### How to steal an ATM and get a winched vehicle in GTA 6
-Wed, 25 Nov 2026 14:27:50 +0000 — https://www.pcgamer.com/games/grand-theft-auto/gta-6-atm-winched-vehicle/
-
-Stealing an ATM in GTA 6 requires a few different things: a winched vehicle to haul it out of the wall and drive off, plus the dye pack jammer that stops marked bills from exploding pink all over your lovely cash. There are two ways to get a winched truck. The video above shows a location at the crop duster landing strip in Frogswater where you can steal one, but you can also mod any truck at a mod shop to add a winch. If you don't have a truck to mod, there's a unique one you can steal from the Kolt & Associates June Warehouse robbery in Port Gellhorn, just south of Sarena's Bargain Store, which you could then register with Moses and mod at Wasteland Off-Road in the north of the town. You can also get a winched truck around the back of Yasmani's vape shop in Little Cuba—the fence who gives you the ATM tip offs. You'll also need the dye pack jammer, which you get in the Chapter 3 main mission, Credit Check, for Raul. Once you have both of these, you're ready to rob an ATM. If you complete all three of Yasmani's jewelry thefts (also in Chapter 3), he'll call a little later and offer tips about full ATMs, giving you three for free that you have a 24 hour window to hit. Here's how to steal them Reverse the winched vehicle into the ATM and lower the hook with the stick until it attaches. Drive at full speed to pull the ATM out and get some distance from the sounding alarm—this will summon the cops. Smash the ATM into stuff by swerving the truck to make it spill the cash boxes. Ge
-
-### Even Max Verstappen has succumbed to GTA 6 fever, squeezing in 40 hours around his Las Vegas Grand Prix win
-Wed, 25 Nov 2026 14:15:51 +0000 — https://www.pcgamer.com/games/grand-theft-auto/even-max-verstappen-has-succumbed-to-gta-6-fever-squeezing-in-40-hours-around-his-las-vegas-grand-prix-win/
-
-Grand Theft Auto 6 has managed to get its claws into just about everyone. Honestly, I can't go anywhere without hearing something from the soundtrack or someone talking about how much fun it is to joyride around Leonida. And now it's even infested the sports I watch. To keep non-Formula One fans up to speed, it was the Las Vegas Grand Prix over the weekend, one of the newer circuits on the calendar. Third place went to Oscar Piastri. In second place was his McLaren teammate and previous world champion for 2025, Lando Norris. And first place went to four-time F1 world champion Max Verstappen, not exactly very surprising given his history with the track. But it is a little more impressive when you take into account that Verstappen has also put 40 hours into GTA 6, much of which would have been before the race. (Image credit: Rockstar ) "I played a lot in the evening and in the morning in Vegas," he says in a stream (via IGN ), correcting the idea that he actually spent the plane ride home playing GTA 6 instead of spending time doing so around the race. "I mean I can't go out anyways [in the evening and morning], and walk around." Verstappen did, however, explain that the aspect that GTA 6 has likely affected the most is his ability to play Minecraft, which he had planned to stream later this week: "I'm so bad when I play too many games at the same time. I can't, I just can't." GTA 6 to Minecraft is certainly a jump, but you can't really blame anyone for trying to maximise their
-
 ## GameSpot
+
+### GTA 6 s Furry Rescue Mission Is A Little Weird, But The Rewards Are Worth It
+Thu, 26 Nov 2026 12:42:42 +0000 — https://www.gamespot.com/articles/gta-6-furry-rescue-mission-is-a-little-weird-but-the-rewards-are-worth-it/
+
+No matter what you do in GTA 6 , it pales in comparison to being a Furry in that game. Anyone looking to externalize their inner animal spirit is in danger of being hunted, and you'll find out for yourself just how much the fictional state of Leonida hates Furries when you're given the chance to save one of them from being murdered by the cops. Should you help them? Absolutely, if you want an easy payday or a new weapon for your arsenal. How to find Chase the Fox Like several other missions in GTA 6, helping out the Furry resistance appears to trigger randomly. The mission takes place after Chapter 3, on Miramar Drive in Crosstown, Vice City, and you'll want to be cruising around that area at night, between midnight and 4 AM. Once it starts, you'll see cops pull up to hunt down a Furry by the name of Chase, and if you drive up to him, you can either give him a lift or leave him to his brutal fate. Outrun the cops If you do choose to help Chase, then get ready to be hunted down by cops. You'll pick up a three-star Wanted level, which means the cops will be in mildly hot pursuit of your vehicle. Reach the parking garage Chase will direct you to a nearby parking garage, where his Furry allies are waiting. After a short standoff, they'll welcome you into their ranks as an honorary Furry. Courier the group to safety To get the law off your polyester tail, one of your new allies will take your car and use it to distract the cops. Get inside the van, and you can bring the other Furr
+
+### Mario, Pikachu, And Other Gaming Icon Balloons Won t Be Flying This Thanksgiving
+Thu, 26 Nov 2026 01:05:39 +0000 — https://www.gamespot.com/articles/mario-pikachu-and-other-gaming-icon-balloons-wont-be-flying-this-thanksgiving/
+
+New York City is no stranger to bad weather, be it blazing-hot summers, snow-packed winters, or fierce windstorms. Unfortunately for countless families who have made it a holiday tradition to turn on the TV and watch giant totems of pop culture sail in the streets of the great city, the Macy's Thanksgiving Day Parade has been officially delayed due to a forecast of rain and windstorms--a first in its 100-year history. In recent years, gaming icons have become more and more prominent during the parade. Beginning in 1993, a balloon of Sonic the Hedgehog marked the first game character to float among the procession. Since then, more characters have joined the festivities, including Mario, Pac-Man, Pikachu, and even Red the Angry Bird, among others. However, those who have followed the history of Macy's balloons know that the mix of bad weather and massive, floating objects can result in genuine danger for balloon handlers, bystanders, and objects on the streets. Rather infamously, Sonic's 1993 appearance was marred by an incident where the balloon got stuck on a lamppost, popping the balloon and injuring two bystanders. https://www.youtube.com/watch?v=DmTC0m7wQbs Other balloon bursts have proved even more catastrophic, with a series of mishaps in 1997 leading to a Cat in the Hat balloon causing injuries that left a woman comatose for days . Since then, more emphasis has rightfully been put on safety. While it might be disappointing to not be able to point at the TV and go "Mario
 
 ### Three Years After His Death, EA Is Using AI To Bring Back A Famed Commentator In FC 27
 Wed, 25 Nov 2026 18:59:56 +0000 — https://www.gamespot.com/articles/three-years-after-his-death-ea-is-using-ai-to-bring-back-a-famed-commentator-in-fc-27/
@@ -415,17 +425,12 @@ Wed, 25 Nov 2026 16:05:50 +0000 — https://www.gamespot.com/articles/ps5-and-xb
 
 Rockstar's Grand Theft Auto 6 is finally here, and to play the game natively, you need a PlayStation 5 or Xbox Series X|S. Unsurprisingly, new data shows that PlayStation and Xbox console sales surged in the week before release. According to Circana's Mat Piscatella , there was a "significant surge" in hardware sales in the US for the week that ended November 14. PS5 sales were >2.4x the same week last year, while Xbox Series X|S sales increased by >2.3x. https://www.youtube.com/watch?v=Ble-JJxBBGA GTA 6 is not available on Switch 2, but that console saw a 40% surge in sales compared to the same week in 2025. Before launch, Piscatella said GTA 6 should help boost PS5 and Xbox Series X|S sales, but maybe not so dramatically due to the astronomical cost of a new console. To help save money, you could buy an Xbox One and stream GTA 6 . Alternatively, people have discovered that you can stream the game to a PlayStation Portal device. GTA 6 launched on November 19 and had a gigantic debut, selling 32.5 million copies by launch and generating around $4 billion on day one. For more, check out GameSpot’s GTA 6 review and our rundown of five things to do first.
 
-### Is GTA 6 Too Easy? Rockstar Weighs In
-Wed, 25 Nov 2026 15:36:59 +0000 — https://www.gamespot.com/articles/is-gta-6-too-easy-rockstar-weighs-in/
-
-Grand Theft Auto 6 is finally here, and one of the things people are talking about is the game's difficulty level . Some are saying it's too easy. Rockstar boss Rob Nelson has now entered the conversation, telling Destructoid that Rockstar's data showed that GTA 4 was "a little too punishing in places" and GTA 5 was "perhaps too easy." So with GTA 6, the team trying to "land somewhere in the middle." GTA 6 has no defined difficulty levels , which is in keeping with the franchise's tradition. That said, players can adjust things like aiming controls, while players can unlock cheat codes to make the game easier or harder. https://www.youtube.com/watch?v=dJDf76QVv70 Design producer Scott Mitchell, meanwhile, said the fail states in GTA 6 were designed to feel "appropriate." “We wanted to keep things open and not limit the players’ use of mechanics, such as stealth, but we did also want to make sure we retained the cinematic, high production value, explosive sequences that we’re known for, and people expect. It feels like we’ve managed to strike a good balance," he explained. Also in the interview, Nelson said figuring out the difficulty level for GTA 6 is itself challenging because the designers themselves know enemy positions better than anyone after playing and testing the game so much. "There’s a real process in unpicking some of that to create an experience most players will be able to enjoy, rather than endure," Nelson said. "The game is so big, and has such a wide range of
-
-### Hollow Knight: Silksong s First Expansion Details Coming Friday, Here s How To Watch
-Wed, 25 Nov 2026 15:27:27 +0000 — https://www.gamespot.com/articles/hollow-knight-silksongs-first-expansion-details-coming-friday-heres-how-to-watch/
-
-Hollow Knight: Silksong was such a highly anticipated sequel that it became a meme, so naturally as soon as it released, Hollow Knight fans started looking forward to the next big event: the promised Sea of Sorrow expansion. Team Cherry has now announced a special presentation to unveil more details, and you won't have to wait very long. The studio has announced a "Cherry Time" for November 27 at 7 AM PT / 10 AM ET . The presentation promises "a bunch of exciting announcements, and an update on Hollow Knight: Silksong - Sea of Sorrow." The stream is already available with a countdown, so to tune in you can come right back here and watch below. https://www.youtube.com/watch?v=M-QUgdcBpZU Team Cherry Special Presentation Start Times 7 AM PT 10 AM ET 3 PM GMT 2 AM AET (Saturday) Sea of Sorrow will be the first major expansion for Hollow Knight: Silksong, and it will be free for all players. As the name suggests, it will have an aquatic theme, featuring new areas to explore and new tools to do it with. Hollow Knight: Silksong itself was a critical success, scoring a 90 Metacritic average and being named one of GameSpot's Best Games of 2025 . Now that it's out, though, we have to start donning our clown noses for other perennial no-show game reveals .
-
 ## Rock Paper Shotgun
+
+### "Clearly not everything has gone well" during Fable's lengthy creation, says Playground boss, but the "original vision" remains intact despite taking cues from other RPGs
+Thu, 26 Nov 2026 12:07:00 +0000 — https://www.rockpapershotgun.com/clearly-not-everything-has-gone-well-during-fables-lengthy-creation-says-playground-boss-but-the-original-vision-remains-intact-despite-taking-cues-from-other-rpgs
+
+The Fable reboot is finally set to kick the release chicken (I'm not sure that's an established phrase anywhere in the world, but roll with it) early next year, following a not small amount of time in development and multiple delays . Despite that long time in the oven having made it necessary to look beyond just the series' classic entries for RPG inspiration, Playground Games' Fable general manager has said the team's "original vision" of what a Fable game needs to be hasn't changed. Read more
 
 ### Nvidia release new graphics card driver, hopefully finally fixing that SSD-hammering unnecessary write bug the previous hotfix couldn't seem to sort
 Wed, 25 Nov 2026 17:24:30 +0000 — https://www.rockpapershotgun.com/nvidia-release-new-graphics-card-driver-hopefully-finally-fixing-that-ssd-hammering-unnecessary-write-bug-the-previous-hotfix-couldnt-seem-to-sort
@@ -481,9 +486,4 @@ Creative Assembly's Total War: Medieval 3 is going to do a lot more with diploma
 Wed, 25 Nov 2026 11:10:00 +0000 — https://www.rockpapershotgun.com/delivering-a-more-modern-garrys-mod-is-the-goal-of-spiritual-successor-sboxs-revamped-sandbox-mode-as-classic-gmods-workshop-addon-system-returns
 
 Facepunch Studios continue to work on S&box , the mix of open source game development platform and Garry's Mod spiritual successor they released to mixed reviews earlier this year. That rough start has it in need of a redemption arc, which the Rust devs are hoping will be powered by going free-to-play and making changes like the revamp of sandbox mode they've just rolled out. Read more
-
-### AI-generated GTA 6 PC ports get nuked in alleged Rockstar takedown spree, as former Bungie dev hails "most ridiculous dumpster fire ever"
-Wed, 25 Nov 2026 10:38:50 +0000 — https://www.rockpapershotgun.com/ai-generated-gta-6-pc-ports-get-nuked-in-alleged-rockstar-takedown-spree-as-former-bungie-dev-hails-most-ridiculous-dumpster-fire-ever
-
-One of the creators of an unofficial AI-generated PC "port" of Grand Theft Auto 6 claims that Rockstar and Take-Two Interactive have already stepped in to shut down the project, though the fearful work of slop-and-pasting GTA 6 to PC appears to be continuing in other hands. Titled "Leonida", after the game's setting, the port is a recompilation &ndash; that is, a translation of the game's original code into code that'll run natively on different hardware, rather than being live translated by an emulator as you play. It's based on an incomplete GTA 6 Xbox build of the game, including the all-important executable file, which was leaked earlier in the week by crypto grifter Cyberleek . Read more
 
