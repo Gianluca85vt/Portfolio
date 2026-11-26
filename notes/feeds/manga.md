@@ -1,9 +1,19 @@
-# Manga — harvested 2026-11-25T14:57:32.945Z
+# Manga — harvested 2026-11-26T00:40:22.240Z
 
 ## Anime News Network
 
-### Dragon And Chameleon Is Series Born From Unwavering Commitment
-Wed, 25 Nov 2026 09:00:00 -0500 — https://www.animenewsnetwork.com/feature/2026-11-25/dragon-and-chameleon-is-series-born-from-unwavering-commitment/.242930
+### My Happy Marriage Special Anime Review
+Wed, 25 Nov 2026 12:00:00 -0500 — https://www.animenewsnetwork.com/review/my-happy-marriage/special-anime/.243723
+
+After two seasons, it's finally time for <i>My Happy Marriage</i> to live up to its title.
+
+### K-ON's Naoko Yamada Helms Official Hige Dandism's Pokémon Music Video With Madhouse
+Wed, 25 Nov 2026 10:15:40 -0500 — https://www.animenewsnetwork.com/news/2026-11-25/k-on-naoko-yamada-helms-official-hige-dandism-pokemon-music-video-with-madhouse/.244183
+
+"Evergreen" video to debut on Monday
+
+### Dragon And Chameleon Is A Series Born From Unwavering Commitment
+Wed, 25 Nov 2026 09:00:00 -0500 — https://www.animenewsnetwork.com/feature/2026-11-25/dragon-and-chameleon-is-a-series-born-from-unwavering-commitment/.242930
 
 It's clear there is a lot of passion and dedication for this series, not just from the author, but from everyone involved in helping bring it to as many people as possible.
 
@@ -52,21 +62,31 @@ Tue, 24 Nov 2026 20:50:33 -0500 — https://www.animenewsnetwork.com/news/2026-1
 
 <cite>Sōsō no Frieren: Betsutan</cite> launches on December 2
 
-### Live-Action 2027 Kaiji Film Unveils Full Trailer, Poster, More Cast
-Tue, 24 Nov 2026 20:25:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-24/live-action-2027-kaiji-film-unveils-full-trailer-poster-more-cast/.244168
-
-Katsuhisa Namase, Ken Mitsuishi, Yusuke Onuki, more join cast of January 29 film
-
-### Mitei Hattori's Smile! Manga Gets Live-Action Series With Global Release Plans
-Tue, 24 Nov 2026 19:55:04 -0500 — https://www.animenewsnetwork.com/news/2026-11-24/mitei-hattori-smile-manga-gets-live-action-series-with-global-release-plans/.244167
-
-<i>Suzuki=Bakudan's</i> Akira Nagai, Ryohei Kumamoto helm psychological suspense story
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Historie Anime Reveals New Visual, Trailer Additional Cast
+Wed, 25 Nov 2026 16:36:46 GMT — https://animecorner.me/historie-anime-reveals-new-visual-trailer-additional-cast/
+
+The previously announced Historie anime revealed a new visual and trailer on Wednesday along&hellip;
+
+### The Kept Man of the Princess Knight Anime Reveals New Trailer, Additional Cast, January 3 Premiere
+Wed, 25 Nov 2026 16:24:19 GMT — https://animecorner.me/the-kept-man-of-the-princess-knight-anime-reveals-new-trailer-additional-cast-january-3-premiere/
+
+The Kept Man of the Princess Knight anime revealed a new trailer, additional cast and&hellip;
+
+### "I Draw Them Wishing I Could Be Like Them" — Saka Mikami on The Fragrant Flower Blooms With Dignity
+Wed, 25 Nov 2026 16:10:14 GMT — https://animecorner.me/saka-mikami-interview-lucca2026/
+
+At Lucca Comics & Games 2026, Anime Corner had the opportunity to join a&hellip;
+
+### Kindergarten WARS Unveils New Visual and Trailer, Opening Theme Song Artist Ado
+Wed, 25 Nov 2026 16:07:37 GMT — https://animecorner.me/kindergarten-wars-unveils-new-visual-and-trailer-opening-theme-song-artist-ado/
+
+Kindergarten WARS anime has unveiled the main visual and a new trailer on Wednesday.&hellip;
 
 ### Now That We Draw Anime Reveals New Trailer, Main Visual, Additional Cast, Ending Theme Song Artist
 Wed, 25 Nov 2026 14:54:26 GMT — https://animecorner.me/now-that-we-draw-anime-reveals-new-trailer-main-visual-additional-cast-ending-theme-song-artist/
@@ -77,11 +97,6 @@ Now That We Draw anime revealed a new trailer and a main visual. Additionally,&h
 Wed, 25 Nov 2026 14:40:04 GMT — https://animecorner.me/at-2500-in-akasaka-gets-anime/
 
 At 25:00, in Akasaka boys' love manga by Hiroko Natsuno is getting an anime&hellip;
-
-### HIDIVE Announces 'Never-Before-Announced New Simulcasts' to Be Revealed at Anime Frontier in Schedule Unveil
-Mon, 23 Nov 2026 20:26:47 GMT — https://animecorner.me/hidive-announces-never-before-announced-new-simulcasts-to-be-revealed-at-anime-frontier-in-schedule-unveil/
-
-Anime streamer HIDIVE announced its schedule for Anime Frontier 2026 across December 4-6, which&hellip;
 
 ## MyAnimeList News
 
@@ -119,11 +134,6 @@ The official website for the television anime adaptation of Hitoshi Iwaaki s His
 Mon, 23 Nov 2026 23:21:33 -0800 — https://myanimelist.net/news/74975780?_location=rss
 
 The official X (formerly Twitter) account for the anime movie adaptation of Type-Moon s Mahoutsukai no Yoru (Witch on the Holy Night) visual novel announced on Tuesday that a sequel anime is in production. Produced by ufotable, Mahoutsukai no Yoru (Witch on the Holy Night) theatrical movie premiered in Japan on November 20 and is currently screening in theaters, grossing over 526.13 million yen (approximately US$3.4 million) in its first four days. Developed and published by Type-Moon, the...
-
-### Psyren Announces Supporting Cast
-Mon, 23 Nov 2026 07:56:00 -0800 — https://myanimelist.net/news/74973042?_location=rss
-
-The official X (formerly Twitter) account for the television anime adaptation of Toshiaki Iwashiro s Psyren manga announced supporting cast on Monday. The anime series premiered on October 5 at 11.00 p.m. on Tokyo MX, followed by BS11 and Sun TV. Cast Kagetora Hyoudou: Takaya Kuroda (Mairimashita! Iruma-kun) Ian: Wataru Komada (One Punch Man 3) Kyle Tenjuin: Mutsumi Tamura (Tsue to Tsurugi no Wistoria) Shao Tenjuin: Mitsuki Saiga (Tongari Boushi no Atelier) Frederica Tenjuin: Ayana Taketat...
 
 ## Otaku USA
 
