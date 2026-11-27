@@ -1,4 +1,4 @@
-# Source feeds — harvested 2026-11-27T00:48:42.277Z
+# Source feeds — harvested 2026-11-27T14:20:23.926Z
 
 Fetched by GitHub Actions, which is not behind the writer's egress proxy.
 One file per category. Each item is what the publisher syndicates in its
@@ -8,6 +8,12 @@ own feed: headline, link, date, and their summary.
 > links to the same publication, which is one source read twice. If only
 > one outlet has the story, write it, keep `draft: true`, and say so in
 > the first line of the body. See notes/article-voice.md.
+
+## Broadcasts in the feeds
+
+Already aired, so a round-up rather than a preview:
+
+- 80.lv — SIGGRAPH Asia 2026 Makes Its Malaysian Debut This December
 
 > **A dated showcase gets two articles, not one.** A preview before it
 > airs, carrying the stream link and the start time in Italian time, and a
@@ -29,13 +35,13 @@ silently skipping it.
 
 ## Feeds
 
-- [Film & TV](film-tv.md) **owed** — 66 items
+- [Film & TV](film-tv.md) **owed** — 65 items
 - [Games](games.md) — 92 items
 - [Tech](tech.md) — 82 items
-- [3D](3d.md) — 18 items
+- [3D](3d.md) — 19 items
 - [AI](ai.md) — 5 items
-- [Manga](manga.md) — 35 items
+- [Manga](manga.md) — 33 items
 
-Total: 298 items.
+Total: 296 items.
 
 Feeds that did not answer: VentureBeat AI (HTTP 429).

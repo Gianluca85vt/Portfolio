@@ -1,58 +1,73 @@
-# Film & TV — harvested 2026-11-27T00:48:42.277Z
+# Film & TV — harvested 2026-11-27T14:20:23.926Z
 
 ## Variety
 
-### Gerald R. Molen, Oscar-Winning ‘Schindler’s List Producer, Dies at 91
-Thu, 26 Nov 2026 23:33:00 +0000 — https://variety.com/2026/film/news/gerald-r-molen-dead-schindlers-list-producer-1236959200/
+### Iranian Activist and It Was Just an Accident Screenwriter Mehdi Mahmoudian Arrested in Tehran on Charges of Anti-Government Propaganda
+Fri, 27 Nov 2026 13:51:43 +0000 — https://variety.com/2026/film/global/it-was-just-an-accident-writer-mehdi-mahmoudian-arrested-iran-1236959405/
 
-Gerald R. Molen, the Oscar-winning producer behind Steven Spielberg’s “Schindler’s List,” has died. He was 91. Molen’s death was announced by his great-niece, Rachel Lorraine Pullan, in an Instagram post on Sunday. “This morning my great-uncle, Gerald R. Molen, passed on to join my great-grandma and his dear wife Pat on the other side of [ ]
+Iranian activist Mehdi Mahmoudian, who is also the co-writer of revered auteur Jafar Panahi s Palme d Or-winning drama It Was Just an Accident, has been arrested at his home in Tehran, according to several sources. Mahmoudian, who is a human rights defender and political journalist, was taken away by police agents from his home on Wednesday [ ]
 
-### Asha Bhosle and S. Janaki Remembered by Singer K.S. Chithra and Suhasini Maniratnam at IFFI s Lata Mangeshkar Talk
-Thu, 26 Nov 2026 22:34:41 +0000 — https://variety.com/2026/film/festivals/asha-bhosle-s-janaki-ks-chithra-suhasini-iffi-1236959192/
+### Producer of Oscar-Nominated ‘A Friend Of Dorothy’ to Make Directorial Debut With Disability Drama ‘Hidden Creatures,’ Easyjet Founder Boards as EP (EXCLUSIVE)
+Fri, 27 Nov 2026 13:42:53 +0000 — https://variety.com/2026/film/global/a-friend-of-dorothy-max-marlow-directing-hidden-creatures-1236959288/
 
-Asha Bhosle and S. Janaki, two of Indian cinema s most celebrated playback singers, were remembered at the 57th International Film Festival of India (IFFI) in Goa by singer K.S. Chithra and actor-filmmaker Suhasini Maniratnam. Bhosle, a two-time Grammy nominee whose name was referenced in Cornershop s 1997 hit Brimful of Asha, died in April at 92. [ ]
+Max Marlow, who produced this year s Oscar-nominated short film A Friend of Dorothy starring Miriam Margolyes and Stephen Fry, is set to make his directorial debut. Hidden Creatures is a magical-realist short drama exploring invisible disability through what s described as an unconventional coming-of-age story. Set in a cinema, the film follows 17-year-old Rafi on a [ ]
 
-### Jesse Plemons on the ‘Honor’ of Playing Plutarch in The Hunger Games After Philip Seymour Hoffman and Debating Director Francis Lawrence Over the Character s Motivations
-Thu, 26 Nov 2026 22:30:37 +0000 — https://variety.com/2026/film/features/hunger-games-jesse-plemons-philip-seymour-hoffman-plutarch-1236957335/
+### Spain Nears New India Co-Production Pact as It Wraps Country of Honor Run at IFFI Goa, WAVES Film Bazaar
+Fri, 27 Nov 2026 12:31:57 +0000 — https://variety.com/2026/film/markets-festivals/spain-new-india-co-production-pact-iffi-goa-honor-run-1236959353/
 
-“The Hunger Games: Sunrise on the Reaping” might be Haymitch Abernathy’s prequel movie, but Oscar nominee Jesse Plemons was the first person cast in the film. Plemons plays Plutarch Heavensbee, a Capitol insider, who becomes a key figure in the rebellion that sparks in the latter half of Suzanne Collins’ original trilogy of dystopian novels. [ ]
+Spain and India have moved closer to a fresh film and audiovisual co-production treaty as Spain wrapped its run as Country of Honor at the 57th International Film Festival of India (IFFI) in Goa and its market, WAVES Film Bazaar. On Nov. 21, Marta Serrano, director general of Spain s Institute of Cinematography and Audiovisual Arts [ ]
 
-### John Travolta Didn’t Recognize Himself as Alleged JFK Assassin Johnny Roselli in ‘November 1963’: ‘I Went, Oh My God, He’s the Devil ’
-Thu, 26 Nov 2026 22:05:47 +0000 — https://variety.com/2026/film/festivals/john-travolta-jfk-assassin-johnny-roselli-november-1963-1236959137/
+### South African President Cyril Ramaphosa Gives Speech at Canal+ Academy Training Program Launch: You Are Living My Dream
+Fri, 27 Nov 2026 11:36:44 +0000 — https://variety.com/2026/tv/global/south-african-president-canal-plus-academy-training-program-1236959278/
 
-John Travolta rarely connects with all his characters. Sometimes, he even loves to hate them. “They say you have to find something you like,” the actor explains. “But I ve never felt that. I think you have to like the result, pulling it off. That s where the joy comes from. To become these people, you don t [ ]
+South African President Cyril Ramaphosa on Friday attended the launch of French media giant Canal+ Group’s Canal+ Academy at MultiChoice City in Johannesburg. The new pan-African initiative will expand training and professional development opportunities for local aspiring professionals in the creative industries. The momentous event — which saw South Africa s leader, Canal+ CEO Maxime Saada [ ]
 
-### Chiwetel Ejiofor on How Stephen Frears’ Dirty Pretty Things Led Him to Fall in Love With Film
-Thu, 26 Nov 2026 20:58:05 +0000 — https://variety.com/2026/film/awards/chiwetel-ejiofor-stephen-frears-dirty-pretty-things-1236959080/
+### Luc Besson Jokes That He Could Make the Next ‘Terminator,’ but Only if the Terminator Sat Down and Said He Missed His Mom
+Fri, 27 Nov 2026 11:34:55 +0000 — https://variety.com/2026/film/global/luc-besson-terminator-1236959275/
 
-Chiwetel Ejiofor started his film career by doing something that many would consider as the absolute peak: he made a film with Steven Spielberg. “Amistad” was his very first film and, understandably, he was afraid of peaking too soon. “I was definitely worried about it at the time,” he said at Torino Film Festival. “You [ ]
+Luc Besson rejects the idea that he reinvented action cinema. He simply used to have the freedom to experiment. “When you don’t have a lot of experience, you have all this freedom. You aren’t controlled by big studios and 50 people telling you why you can’t do something because it costs too much. For about [ ]
 
-### Luca Guadagnino Wants Next Movie to Be a Love Story, Confirms American Psycho’ and Separate Rooms’ Not Happening
-Thu, 26 Nov 2026 20:47:42 +0000 — https://variety.com/2026/film/news/luca-guadagnino-next-movie-love-story-1236959119/
+### Dangal Casting Director Mukesh Chhabra Recalls Auditioning Nearly 14,000 Girls, Shares Self-Tape Tips at IFFI Masterclass
+Fri, 27 Nov 2026 11:03:53 +0000 — https://variety.com/2026/film/festivals/dangal-casting-director-mukesh-chhabra-14000-auditions-1236959312/
 
-Luca Guadagnino wants to return to romance. Speaking to Variety at the Marrakech Film Festival where he s presenting Artificial, the Italian filmmaker behind “Call Me by Your Name,” “Bones and All” and “Queer” revealed that he hopes his next directorial endeavor will be another love story. “I think a lot of inspiration could come from [ ]
+Mukesh Chhabra, the casting director behind Dangal and Shah Rukh Khan s upcoming King, took aspiring actors and filmmakers behind the scenes of the casting process at a masterclass at the 57th International Film Festival of India (IFFI) in Goa. The session, The Casting Magic: Auditions Unplugged, turned into an extended conversation, with participants asking about [ ]
 
-### What’s New on Netflix for December 2026
-Thu, 26 Nov 2026 20:35:00 +0000 — https://variety.com/feature/whats-on-netflix-movies-shows-1203517873/
+### Barun Sobti, Abhishek Banerjee Star as Paatal Lok Creator Sudip Sharma Swaps Violence for Black Comedy in Netflix s IFFI Selection Pushpak Vimaan
+Fri, 27 Nov 2026 10:52:10 +0000 — https://variety.com/2026/tv/festivals/barun-sobti-abhishek-banerjee-netflix-comedy-pushpak-vimaan-1236959303/
 
-Winter is here, and December is the perfect time to get cozy and hunker down for the holidays. What better way to do so than surfing the streaming platforms for a new show to binge or movie to obsess over? “La Bola Negra,” which has garnered significant attention in its festival run, is one of [ ]
+After the crime dramas Paatal Lok on Prime Video and Kohrra on Netflix, creator Sudip Sharma is changing lanes with Pushpak Vimaan, a black comedy and crime caper starring Jaideep Ahlawat, Abhishek Banerjee and Barun Sobti that is expected on Netflix in early 2027. Two episodes of the series screened at the 57th International Film [ ]
 
-### What’s New on Disney+ in December 2026
-Thu, 26 Nov 2026 20:20:00 +0000 — https://variety.com/feature/whats-on-disney-plus-new-shows-movies-1203517920/
+### The Best Gifts for Gamers in 2026: Consoles, Headsets and the Year s Buzziest Releases
+Fri, 27 Nov 2026 10:49:55 +0000 — https://variety.com/2026/shopping/news/best-gifts-for-gamers-video-games-consoles-2026-1236953773/
 
-Disney+ is back to bring festive cheer home with holly jolly favorites and new seasonal premieres to watch with the whole family. Fans can stream classics like “Home Alone 2: Lost in New York” and “Die Hard,” or make the season merry with new releases including “Mickey’s Home Alone” and “Diary of a Wimpy Kid [ ]
+Everyone has a gamer in their life, and the holidays are the perfect time to get them something special, whether it’s a new console, a buzzy title, a pair of headphones or an accessory that lets them play on the go. Variety has curated this list of the best video game gifts in 2026, so [ ]
 
-### Jessy Moussallem’s Faux Bijoux, Laila Abbas’ America Is Behind the Door Take Top Prizes at Marrakech s Atlas Workshops
-Thu, 26 Nov 2026 20:13:14 +0000 — https://variety.com/2026/film/global/faux-bijoux-america-is-behind-the-door-prizes-atlas-workshops-1236959077/
+### Justin Timberlake Was Really Reluctant to Make Tell-All Documentary: I ve Gone Through a Lot in the Last Five Years
+Fri, 27 Nov 2026 10:27:50 +0000 — https://variety.com/2026/music/news/justin-timberlake-reluctant-doc-big-revelations-1236959282/
 
-Jessy Moussallem’s “Faux Bijoux” and Laila Abbas’ “America Is Behind the Door” claimed the top post-production and development prizes, respectively, at this year’s Atlas Workshops, the industry strand running Nov. 22 – 26 as part of the Marrakech Film Festival. The winner of a post-production grant in the amount of €30,000 ($33,000), Moussallem’s debut feature [ ]
+Justin Timberlake is opening up about his decision to participate in an upcoming tell-all documentary, saying he was initially really reluctant. As Variety first reported, the singer is the subject of Timberlake, a four-part documentary from director Fisher Stevens that will premiere on Apple TV Dec. 11. During an appearance on longtime friend Jimmy Fallon s [ ]
 
-### Elizabeth Holmes’ Partner Billy Evans Writes Her an Emotional Thanksgiving Love Letter: ‘Our Most Beautiful Days Are Still Ahead of Us’
-Thu, 26 Nov 2026 19:02:18 +0000 — https://variety.com/2026/film/news/elizabeth-holmes-billy-evans-thanksgiving-love-letter-1236959067/
+### Chiwetel Ejiofor Was Afraid to Make ‘Backrooms’ Because of Director Kane Parsons’ Age: ‘He Was So Young!’
+Fri, 27 Nov 2026 10:21:30 +0000 — https://variety.com/2026/film/global/chiwetel-ejiofor-backrooms-kane-parsons-1236959030/
 
-Billy Evans, Elizabeth Holmes’ partner and the father of their two children, took to X on Nov. 26 to write an emotional Thanksgiving message to her. The text is primarily about how much he misses her and how their kids need their mother. Holmes is currently serving an 11-year prison sentence for four wire fraud-related [ ]
+Chiwetel Ejiofor had his doubts when he was first approached to make the hit horror film “Backrooms.” Directed by Kane Parsons, a YouTuber-turned-director, the film was produced for $10 million and has already surpassed $400 million at the global box office, becoming one of the most profitable movies of the year. “When I was told [ ]
 
 ## The Hollywood Reporter
+
+### Justin Timberlake Rolls Back the Years on Silly, Sexy and Sincere Appearance on Tonight Show
+Fri, 27 Nov 2026 12:21:33 +0000 — https://www.hollywoodreporter.com/tv/tv-news/justin-timberlake-tonight-show-medley-documentary-series-tv-1236764103/
+
+The singer performed a medley of his hits, took part in some dumb sketches and bared his soul about why he agreed to take part in an upcoming Apple TV docuseries.
+
+### Candace Cameron Bure Says She Gets Substantial Residuals From Full House
+Fri, 27 Nov 2026 05:05:08 +0000 — https://www.hollywoodreporter.com/tv/tv-news/candace-cameron-bure-substantial-residuals-full-house-1236764049/
+
+The actress played D.J. Tanner throughout the show's run from 1987 to 1995, and later reprised her role in the sitcom’s spin-off 'Fuller House.'
+
+### Melissa Gilbert Expresses Undying Gratitude After Timothy Busfield s Child Sex Abuse Case Dismissed
+Fri, 27 Nov 2026 01:57:32 +0000 — https://www.hollywoodreporter.com/news/general-news/melissa-gilbert-gratitude-timothy-busfield-case-dismissed-1236764064/
+
+"This Thanksgiving I’m incredibly grateful for all those who came running toward us this year," she wrote in a lengthy Instagram post.
 
 ### Gerald R. Molen, Oscar-Winning Producer on ‘Schindler’s List,’ Dies at 91
 Thu, 26 Nov 2026 20:47:11 +0000 — https://www.hollywoodreporter.com/movies/movie-news/gerald-molen-dead-schindlers-list-jurassic-park-spielberg-1236764035/
@@ -89,22 +104,52 @@ Thu, 26 Nov 2026 14:33:30 +0000 — https://www.hollywoodreporter.com/tv/tv-news
 
 Lisa Vicari stars as a profiler investigating a gruesome murder in her old hometown, inspired by 'Struwwelpeter,' a real and really sinister German children's book.
 
-### 99th Oscars: Every Single Contender — All 104! — for the International Feature Race
-Thu, 26 Nov 2026 14:30:00 +0000 — https://www.hollywoodreporter.com/lists/2027-oscars-international-feature-contenders/
-
-THR's cheat sheet of all the record-setting submissions for the Best International Feature category at the 2027 Academy Awards.
-
-### French Court Rejects Depardieu Appeal in Rape Case
-Thu, 26 Nov 2026 14:29:36 +0000 — https://www.hollywoodreporter.com/news/general-news/gerard-depardieu-to-face-trial-in-rape-case-1236763939/
-
-The French actor will stand trial for the alleged rape of actress Charlotte Arnould in 2018.
-
-### Huw Edwards Lets Cameras Into His Home in Channel 4 Doc Confronting Child Sex Abuse Images Conviction
-Thu, 26 Nov 2026 14:15:26 +0000 — https://www.hollywoodreporter.com/tv/tv-news/huw-edwards-guilty-channel-4-documentary-abuse-scandal-tv-1236763981/
-
-"I'd lost the plot," says the disgraced ex-BBC newsreader in a teaser for 'Huw Edwards - Guilty.'
-
 ## Deadline
+
+### Wildling Pictures Acquires Screen Rights To WWII Spy Story Operation Sparrow Folk Horror Novel Queen Mab
+Fri, 27 Nov 2026 13:52:43 +0000 — https://deadline.com/2026/11/wildling-pictures-buys-operation-sparrow-horror-queen-mab-1237234239/
+
+EXCLUSIVE: Toronto-based film and TV company Wildling Pictures has optioned Emily McBride’s psychological folk horror novel Queen Mab and Jason Bell’s WWII spy story Operation Sparrow, with a view to turning both into features. Published in September this year, Bell’s archival research uncovers a little known but significant espionage operation from WWII which helped protect [ ]
+
+### International Insider: Doha Days; Tricky Week For BAFTA; Remarried Empress Interview
+Fri, 27 Nov 2026 13:00:00 +0000 — https://deadline.com/2026/11/international-insider-doha-film-festival-bafta-empress-1237233962/
+
+Welcome, welcome and a Happy Thanksgiving to those across the pond, Max Goldbart here taking you through the week. Please do scroll down. And sign up to the newsletter here. Doha Defies The Odds Raft of heavy hitters: Qatar’s Doha Film Festival closes this evening after a second successful edition in its revamped format, having [ ]
+
+### Netflix Tunes Into Music-Driven Chinese Fantasy Series ‘The Melody Of Love’
+Fri, 27 Nov 2026 12:01:14 +0000 — https://deadline.com/2026/11/netflix-buys-chinese-drama-the-melody-of-love-release-date-1237234243/
+
+Netflix has snapped up The Melody Of Love and is launching the music-driven Chinese fantasy drama in the U.S. and internationally on its platform on 29 Nov. The show hails from Chinese production company Stellar Pictures, which made fantasy series Love Between Fairy and Devil and Love Game in Eastern Fantasy, both of which are [ ]
+
+### Canal+ Sends Signal To African Creative Community With Academy Launch Backed By President Of South Africa
+Fri, 27 Nov 2026 11:43:28 +0000 — https://deadline.com/2026/11/canal-plus-academy-backed-south-africa-pres-cyril-ramaphosa-1237234238/
+
+The President of South Africa joined with Canal+ boss Maxime Saada today to launch a skills academy that Canal+ hopes will benefit 800 to 1,000 people in its first year. A year after Canal+ bought African pay-TV giant MultiChoice for $2B, Cyril Ramaphosa gave his full-throated backing to Canal+ s actions in South Africa and beyond, [ ]
+
+### Gen Z Filmmakers Launch LA-Based Microseries App Pocket Cinema With Eye On International Growth
+Fri, 27 Nov 2026 11:05:59 +0000 — https://deadline.com/2026/11/gen-z-filmmakers-launch-la-microseries-app-pocket-cinema-1237234224/
+
+EXCLUSIVE: The microdrama craze is beginning to attract bigger players. But undoubtedly, it offers a leg up to those starting out. Among the scrappy newcomers are French-Russian filmmaker Lada Egorova and Brazilian filmmaker Thiago Aragão, a duo a few years out of college, who have launched LA-based platform Pocket Cinema+, an independent microseries streaming app [ ]
+
+### Northern Ireland Screen Appoints New Chief Executive
+Fri, 27 Nov 2026 09:41:45 +0000 — https://deadline.com/2026/11/northern-ireland-screen-appoints-new-chief-executive-1237234222/
+
+Northern Ireland Screen has appointed its new Chief Executive. Laura Livingstone will take on the role in January. Livingstone will take over from current CEO Richard Williams, who announced in June that he would step down from the role in December after over 23 years in the position. The exec has two decades of experience [ ]
+
+### Mike Leigh Reminds The World Why He Doesn t Work With Hollywood Stars
+Fri, 27 Nov 2026 09:10:01 +0000 — https://deadline.com/2026/11/mike-leigh-retirement-tender-loving-care-hollywood-1237234216/
+
+Mike Leigh has a few regrets, but declining to work with Hollywood actors isn t one of them. In an interview with The Guardian, the decorated British director reminded the world why his unusual methods mean he s happy sticking with British character actors. He snorted at the idea of casting big Hollywood movie stars. Well, first [ ]
+
+### Julianne Hough s Stylist Addresses Fan Backlash To Her Dancing With the Stars Wardrobe This Season
+Fri, 27 Nov 2026 02:34:52 +0000 — https://deadline.com/2026/11/julianne-hough-stylist-fan-backlash-dwts-wardrobe-1237234193/
+
+Fans had a lot to say about this season of Dancing with the Stars and not just about who should or shouldn t have gone home before the Nov. 24 finale. Julianne Hough broke out of her comfort zone this fall by donning super extravagant and wild and playful gowns while emceeing with Alfonso Ribeiro, [ ]
+
+### Melissa Gilbert Gives Thanks To Those Who Spoke Up, Testified In Support Of Husband Timothy Busfield
+Fri, 27 Nov 2026 01:32:36 +0000 — https://deadline.com/2026/11/melissa-gilbert-gives-thanks-husband-timothy-busfield-1237234187/
+
+It was an extra special Thanksgiving holiday for Melissa Gilbert. The Little House on the Prairie actress gave a shoutout Thursday to all those who checked in spoke up, testified and wrote letters after her husband Timothy Busfield was charged with two counts of criminal sexual contact with a minor and child abuse. A [ ]
 
 ### Gerald R. Molen Dies: Oscar-Winning Schindler s List Producer Was 91
 Fri, 27 Nov 2026 00:33:50 +0000 — https://deadline.com/2026/11/gerald-r-molen-dies-schindlers-list-producer-1237234182/
@@ -121,51 +166,6 @@ Thu, 26 Nov 2026 22:00:14 +0000 — https://deadline.com/2026/11/hunger-games-pr
 
 With the release of the prequel The Hunger Games: Sunrise on the Reaping, franchise producer Nina Jacobson regrets splitting the Mockingjay films into two parts. At the time, The Twilight Saga and Harry Potter split their grand finale into two films, and Lionsgate followed suit, breaking up the last Suzanne Collins book of the OG Hunger Games [ ]
 
-### Erika Hammond Teases Drama Resolution At RHONY Season 16 Reunion, Says Devyn Simone Is Not A Friend I Want
-Thu, 26 Nov 2026 21:30:16 +0000 — https://deadline.com/2026/11/erika-hammond-drama-rhony-season-16-reunion-devyn-simone-1237234147/
-
-Erika Hammond is teasing The Real Housewives of New York City Season 16 reunion, revealing there will be drama and resolution. In a new interview, Hammond hinted that although some problems among the group will be resolved, she doesn t see a path forward with the new friend of Devyn Simone. I will say it is [ ]
-
-### Jesse Eisenberg Says There s No Sexuality To My Work Why Life Is Different When Fans Want To Sleep With A Person Onscreen
-Thu, 26 Nov 2026 20:59:10 +0000 — https://deadline.com/2026/11/jesse-eisenberg-sexuality-work-fans-sleep-1237234140/
-
-Jesse Eisenberg is reflecting on his work in Hollywood and why he has a very different experience with fans in public than some other actors. In a new interview with The New Yorker, the actor, director, writer, and producer of The Debut said fans of his work are mostly fine when they see him in [ ]
-
-### Trump s Noisy Name-Calling Mocked By NYT After Bored POTUS Starts Thanksgiving Ranting Against Reporter s Nvidia Dispatch
-Thu, 26 Nov 2026 20:44:34 +0000 — https://deadline.com/2026/11/trumps-thanksgiving-new-york-times-attack-1237234141/
-
-Like death and taxes, you can always rely on there being an annoying relative at the table on Thanksgiving, and you can always depend on Donald Trump losing his marbles on Turkey Day. This year was no different. Down in his Florida compound (which no one but Trump calls the Southern White House), the former [ ]
-
-### New Book Alleges Former Disney Chief Bob Iger Impregnated Employee Leading To Traumatic Termination Procedure”
-Thu, 26 Nov 2026 19:43:36 +0000 — https://deadline.com/2026/11/bob-iger-house-of-mouse-book-robbie-whelan-1237234125/
-
-A bombshell book about former Disney boss Bob Iger alleges that the exec impregnated an underling employee in the early 1990s that resulted in a traumatic termination procedure.” Details of the book went public in a New York Times article today. The New York Times report, which features excerpts from The House of Mouse by [ ]
-
-### The Show Must Go On: Broadway Will Perform Saturday In Macy s Thanksgiving Parade
-Thu, 26 Nov 2026 19:04:42 +0000 — https://deadline.com/2026/11/macys-thanksgiving-parade-saturday-broadway-medley-1237234098/
-
-New Yorkers woke up this Thanksgiving morning to drizzly, gray skies along with winds that had sidewalks covered in dead, yellow leaves, though the weather throughout the pre-noon hours was hardly the fearsome nor’easter blast that prompted the postponement till Saturday of Macy s 100th Thanksgiving Day Parade. Still, with wind levels of up to 23 [ ]
-
-### Ink Director Danny Boyle Says Jack O Connell Would Have Made A Great Bond
-Thu, 26 Nov 2026 18:05:45 +0000 — https://deadline.com/2026/11/danny-boyle-jack-oconnell-would-have-made-great-james-bond-1237234088/
-
-Jack O Connell is being talked about as a Bond villain, but Danny Boyle says he could have been much more than that. Boyle, who directed O Connell in The Sun newspaper movie Ink, was speaking on the Alchemy with Anthony Mason podcast when he made the comment. The conversation turned to the skills of O Connell and [ ]
-
-### Netflix Posts Racy Thanksgiving Message On The Hunting Wives Season 2 Premiere Day
-Thu, 26 Nov 2026 17:44:07 +0000 — https://deadline.com/2026/11/netflix-thanksgiving-message-hunting-wives-season-2-1237234078/
-
-Netflix welcomed Thanksgiving with a racy message on X this morning. With The Hunting Wives Season 2 landing on the streamer today, Netflix posted a clip of leads Brittany Snow and Malin Åkerman in bed together overlaid with the message this thanksgiving plate. In the short clip, the pair say I love you to each [ ]
-
-### Mark Tildesley Dies: ‘No Time to Die , F1: The Movie London Olympics Production Designer Was 63
-Thu, 26 Nov 2026 17:05:13 +0000 — https://deadline.com/2026/11/mark-tildesley-dies-no-time-to-die-production-designer-63-1237234068/
-
-Mark Tildesley, one of the industry s most respected production designers, has passed away aged 63. Tildesley s many credits include James Bond movie No Time To Die, 28 Days Later, The Constant Gardener, The Two Popes, Jay Kelly, Joseph Kosinski’s F1: The Movie, and Sam Mendes upcoming Beatles movies. Mendes today described his collaborator as entirely [ ]
-
-### Sunrise On The Reaping Firing Up Thanksgiving With $85M+ 5-Day; Focker In-Law Hexed Fight For 2nd With $35M+ Apiece Update
-Thu, 26 Nov 2026 17:04:00 +0000 — https://deadline.com/2026/11/box-office-hunger-games-hexed-focker-in-law-thanksgiving-1237233281/
-
-THANKSGIVING AM UPDATE: An alpha female property, Lionsgate s The Hunger Games: Sunrise on the Reaping with a continued 5-day forecast of $85M+, is stealing business from two other female-leaning movies at the Thanksgiving box office, Universal/Paramount s Focker In-Law and Disney s Hexed, both of which are coming in lighter than their forecasts with 5-days of $36M [ ]
-
 ## befores & afters
 
 ### I mean, how freakin cool was ED-209?
@@ -173,12 +173,12 @@ Thu, 26 Nov 2026 21:01:36 +0000 — https://beforesandafters.com/2026/11/27/i-me
 
 Behind one of Tippett Studio s landmark stop-motion characters. This episode is sponsored by Foundry s SmartRoto . SmartRoto is an AI-powered Nuke plugin that accelerates roto up to 4x faster than traditional rotoscoping. Get a free 30-day trial of SmartRoto: https://hubs.la/Q04Fnj-k0 Buy WOAH! Great Moments in Effects History Vol. 1 by Ian Failes at Amazon in PRINT: https://link.amazon/B0gyYYIGJ Get early access to these videos at the befores & afters Patreon on the VFX Bonus Access tier: https://www.patreon.com/c/beforesandafters/membership Want to sponsor a weekly video? Send Ian an email: beforesandafters@gmail.com #vfx #visualeffects #robocop #stopmotion #beforesandafters #vfxbreakdown Music by Matt Estela: https://soundcloud.com/cgwiki The post I mean, how freakin cool was ED-209? appeared first on befores & afters .
 
-### How the Balrog was made (and made to talk) in s3 of The Rings of Power
-Wed, 25 Nov 2026 09:08:32 +0000 — https://beforesandafters.com/2026/11/25/how-the-balrog-was-made-and-made-to-talk-in-s3-of-the-rings-of-power/
-
-A deep dive into the creatures this season. Today on the befores & afters podcast, we’re chatting about season 3 of The Lord of the Rings: The Rings of Power. I am joined by production visual effects supervisor Jason Smith. We do a deep dive into the Balrog revealed this season, voiced by Simon Pegg. We talk about the design, the animation tests, the interaction with Charlie Vickers as Sauron, and the final VFX work by ILM. We also discuss other creatures the Fell beast by DNEG and the Mûmakil by Rodeo FX. And we go into the ring forging sequence, which was handled by DNEG, plus a look at practical prosthetic effects for the Orcs by Barrie Gower’s team. This is a fun chat, with spoilers if you haven’t watched the final eps of season 3. Listen in above, and see a behind the scenes video here: The post How the Balrog was made (and made to talk) in s3 of The Rings of Power appeared first on befores & afters .
-
 ## IndieWire
+
+### Cliff Booth Brings Back a Fan-Favorite Once Upon a Time in Hollywood Face
+Fri, 27 Nov 2026 14:00:00 +0000 — https://www.indiewire.com/features/interviews/cliff-booth-star-nicholas-hammond-returning-tarantino-1235230960/
+
+Veteran actor Nicholas Hammond, who played Sam Wanamaker in "Once Upon a Time in Hollywood," talks about reprising his role in one of the sequel's Easter eggs and looks back on a career that includes "The Sound of Music" and a stint as television's first Spider-Man.
 
 ### How Disney s Hexed Reinvents the Witch Through Animation
 Thu, 26 Nov 2026 19:00:00 +0000 — https://www.indiewire.com/features/animation/hexed-writers-directors-disney-animated-movie-1235230741/
@@ -235,11 +235,6 @@ Wed, 25 Nov 2026 20:30:00 +0000 — https://www.indiewire.com/awards/consider-th
 
 Jorrybell Agoto, the Philippine Oscar entry's 32-year-old lead, died in November after a short battle with lymphoma. Filmmaker Rafael Manuel talks to IndieWire about what being shortlisted would mean for "Filipiñana," a world cinema winner out of Sundance.
 
-### IndieWire Honors Film Celebration to Fête John Turturro, the Artificial Cast, Los Javis, and More
-Wed, 25 Nov 2026 20:00:00 +0000 — https://www.indiewire.com/news/events/indiewire-honors-2026-film-awards-1235227778/
-
-IndieWire Honors will celebrate the year in film with awards given to John Turturro, Andrew Garfield, Yura Borisov, Monica Barbaro, Ike Barinholtz, James Gray, Adam Driver, Los Javis, and many more.
-
 ## The Wrap
 
 ### Tony Romo Starts as Chief Predictions Officer at Jake Paul s Sports Betting App After CBS Exit
@@ -272,7 +267,7 @@ Thu, 26 Nov 2026 18:41:55 +0000 — https://www.thewrap.com/culture-lifestyle/cu
 
 For the first time in its 100-year history, the Macy s Thanksgiving Day Parade has been postponed. But longtime Today host Hoda Kotb is choosing to look on the bright side of things. It s OK, because guess what? We waited 100 years for this parade, we re going to wait two more days, she told Seth Meyers Wednesday night on Late Night. We re going to have it on Saturday. It s going to be a beautiful, sun-splashed day. What was happening [Thursday] was not going to be fun, Kotb continued. The winds were like tropical storm force. There are a bunch of kids who were marching and people with the balloons. Meyers, however, admitted he would have gladly watched that disaster unfold . I will say, it sounds really fun to watch. Crazy winds, floats going everywhere, kids trumpets just being whipped away. I mean, it s a missed opportunity. Safety first, he joked. I need a couple more data points before I decide climate change is real, but keep going. Here s the deal: The people preparing this 100-year parade have been working tirelessly for a year plus. The musical acts are incredible. Everything. So imagine spending all that time painting every little bit of every float, wondering if the float is going to fly away somewhere, Kotb explained. The good news is, to me, I m like relieved. Saturday is going to be amazing. Everybody s still hanging out. Yeah, we re going to watch it anyway. Then during the parade piece that s usually on [Thursday], guess what? We re going to watch an old parad
 
-### Jennifer Lopez Brings a Broadway Flair to ‘The JLo Show’ That Fulfilled Her Childhood Dreams
+### Jennifer Lopez Brings Broadway Flair to ‘The JLo Show’ That Fulfilled Her Childhood Dreams
 Thu, 26 Nov 2026 18:15:00 +0000 — https://www.thewrap.com/creative-content/music/the-jlo-show-jennifer-lopez-broadway-vegas-residency/
 
 Jennifer Lopez watched West Side Story every Thanksgiving with her mother in the Bronx. Now, she s bringing her rendition of the classic musical to homes nationwide this Thursday. The vocalist meshed musical theater knowledge with her pop hits to create The JLO Show. This Vegas residency took from the traditions of showgirls and canon Broadway standards, including Whatever Lola Wants and Don t Rain on My Parade, and combined them with Lopez s signature booty-shake and hip-hop hits. The idea came to be as she considered how she might reinvent her songs for fans that have supported her over 25 years into her career. She brought together musical minds like David Cabrera and choreography masters Mandy Moore, Sienna Lalau and Kiel Tutin to create a hybrid show that took fans through her story and honored the entertainers that made her JLO. The JLO Show premieres on the CBS Television Network Thanksgiving Day (Credit: Aaron Perry) This show was about more than just my work, Lopez told TheWrap. It was about my life, and that was a really kind of unexpected challenge that comes along with you know becoming and being successful and being famous. The JLO Show concert film premieres Thanksgiving Day at 8 p.m. ET / PT on CBS. It will be available to stream the next day on Paramount+. TheWrap: I know you said this residency is inspired by the Vegas showgirls and the classic movies that raised you. Can you talk to me about channeling some of those legends into The JLO Show ? I used to sit 
@@ -294,53 +289,53 @@ French actor Gérard Depardieu will proceed to a rape trial against actress Char
 
 ## Collider
 
-### New ‘Star Trek: Voyager’ Release Will Officially Bring Back a Notorious Storyline
-Fri, 27 Nov 2026 00:45:12 GMT — https://collider.com/star-trek-voyager-across-the-unknown-year-of-hell/
+### ‘Reacher’ Built an Entire Town for Just 8 Episodes of Television
+Fri, 27 Nov 2026 14:00:12 GMT — https://collider.com/reacher-season-1-alan-ritchson-margrave-town-built-lee-child/
 
-The new video game Star Trek: Voyager – Across the Unknown has let gamers and Star Trek fans explore the dangerous Delta Quadrant, and make life-or-death choices that would make Kathryn Janeway blanch. Now, a new expansion pack is taking the USS Voyager and her crew into the territory of one of the most dangerous alien races in the quadrant, one whose threat is more terrifying than even the Borg: those who run afoul of them need not worry about assimilation, but complete erasure from existence.
+I've recently started listening to the audiobook of Killing Floor , the first of Lee Child 's Jack Reacher novels, and having watched the first season of Reacher a few times now, it's quite difficult not to picture Alan Ritchson sitting in that diner in Margrave when you're listening to the opening chapter. From the police station to the barbershop where Reacher learns a little more about Blind Blake, Prime Video did a particularly good job of bringing Child's fictional Georgia town to life. I mentioned this to Child when we spoke recently for the release of the latest Reacher novel, Chain Reaction , and having assumed that the production team had found a suitably picturesque little town somewhere in Canada in which to shoot the series, I was quite surprised by his response.
 
-### 7 Sci-Fi Books That Are Better Than 'Neuromancer'
-Fri, 27 Nov 2026 00:39:12 GMT — https://collider.com/sci-fi-books-better-than-neuromancer/
+### 'Blade Runner 2099' Creator Reveals the Storyline That Was Cut From the Sci-Fi Series
+Fri, 27 Nov 2026 14:00:12 GMT — https://collider.com/blade-runner-2099-finale-meaning-showrunner-silka-luisa/
 
-Cyberpunk wouldn't be what it is today without Neuromancer . Long before computers and the Internet became part of everyday life, sci-fi writers were already imagining what the world might look like with such technology, but more importantly, how it would affect humanity. Neuromancer is one of those books, imagining a dystopian society controlled by global computer networks and introducing hackers like Case, who push the boundaries of artificial intelligence.
+Editor's Note: The following contains spoilers for the entire season of Blade Runner 2099.
 
-### Netflix’s New Jane Austen Adaptation Officially Debuts in 1 Week
-Fri, 27 Nov 2026 00:30:12 GMT — https://collider.com/netflix-pride-and-prejudice-release-date-december-2026/
+### 3 Elite Netflix Series to Binge This Weekend (Nov 28-29)
+Fri, 27 Nov 2026 13:41:12 GMT — https://collider.com/netflix-shows-binge-weekend-november-28-2026/
 
-Bringing one of literature's greatest works to life is no easy task, but Netflix is rising to the challenge with Pride and Prejudice . Written by Jane Austen, Pride and Prejudice was her third novel and the second to be published, released in 1813. At the center is the dynamic between Elizabeth Bennet (whose personal growth drives the story) and the proud, wealthy Mr. Darcy . Through their time together, Elizabeth recognizes the mistakes of judging people too quickly and learns how to distinguish fake charm from true kindness.
+Called "like nothing else on streaming right now" by Gabrielle Moss in Collider's review , the brilliant Gen-Z horror series The Body remains the series to beat heading into one final November weekend on Netflix. Kristina Bogic and Sara Boustany star in the streamer's latest smash hit, which might've sparked a cancellation petition from enraged conservatives but won over most audiences and critics and feels destined for a second season. But before the streamer makes any decision on the series, there's much more to enjoy in the meantime. With that in mind, here's a look at three shows you should binge-watch on Netflix this weekend .
 
-### The 10 Best Christmas War Films, Ranked
-Fri, 27 Nov 2026 00:22:12 GMT — https://collider.com/best-christmas-war-films-ranked/
+### A24’s Epic Dark Fantasy Officially Says Goodbye to Hulu in 3 Days
+Fri, 27 Nov 2026 13:31:12 GMT — https://collider.com/a24-the-green-knight-leaving-hulu-november-2026/
 
-‘Tis the season to be jolly! But while we all celebrate the holidays with our loved ones, we often forget that the world revolves around them. So, at certain moments in world history, wars broke out during Christmas . What did it mean for the men and women on the battlefield? Well, these ten Christmas war movies may offer some insight!
+With The Odyssey making its way to home video after breaking open the box office this summer, now is the perfect time to catch up on another ancient tale of mystical adventure. Unfortunately, your time to catch David Lowery 's acclaimed interpretation of The Green Knight is coming to an end. The 2024 film is departing Hulu at the end of the month.
 
-### Taylor Sheridan’s ‘Tulsa King’ Officially Returns With Major Season 4 Episode
-Fri, 27 Nov 2026 00:16:12 GMT — https://collider.com/taylor-sheridan-tulsa-king-season-4-episode-7-release-date-paramount-plus-november-2026/
+### J.K. Rowling’s Foreword Officially Removed From Bestselling Harry Potter Companion Book
+Fri, 27 Nov 2026 13:31:12 GMT — https://collider.com/harry-potter-jk-rowling-foreword-removed-harry-a-history/
 
-Considering the entire premise of Tulsa King was that Sylvester Stallone 's Dwight Manfredi was being sent somewhere that his New York associates considered to be of little importance, things have worked out rather well for the General in Oklahoma. Having spent 25 years in prison, Dwight emerged to find that even buying a cup of coffee was a rather different experience from the one he remembered, yet he's managed to put together a fairly lucrative business with a bunch of guys who probably wouldn't have given each other the time of day had they met under different circumstances. His attempts to become a slightly more legitimate businessman have been complicated by the fact that some of Tulsa's supposedly legitimate businessmen aren't much better than him, and we've still got another four episodes to see how that all plays out this year.
+For those of us who spent much of the time between the releases of the Harry Potter novels on websites like the Leaky Cauldron and MuggleNet, Melissa Anelli 's Harry: A History was a rather wonderful way of reliving what we'd experienced together. Anelli published the book in 2008, just over a year after the release of Harry Potter and the Deathly Hallows , and one of the people who'd contributed to it was J.K. Rowling herself. Having spent much of the previous decade documenting the extraordinary phenomenon surrounding Rowling's novels, Anelli was given a particularly lovely endorsement of her work when Rowling agreed to write the foreword. That foreword, however, hasn't made it into the new edition of the book.
 
-### The Best Miniseries of the 2010s, Ranked Year by Year
-Fri, 27 Nov 2026 00:12:12 GMT — https://collider.com/best-miniseries-2010s-every-year-ranked/
+### Starz’s 6-Part Action-Packed Thriller Series Is the Perfect Binge for ‘Reacher’ Fans
+Fri, 27 Nov 2026 13:16:12 GMT — https://collider.com/the-nowhere-man-starz-action-thriller-perfect-binge-reacher-fans/
 
-Serving as both the definitive peak of television’s golden era and the decade that saw the rampant rise in popularity of streaming services producing new shows, it should come as no surprise that the 2010s have an abundance of excellent miniseries. In fact, such is the quality of the miniseries of the decade; each year from 2010 to 2019 has an array of enthralling and memorable titles, with masterpieces like When They See Us , The Haunting of Hill House , and Unbelievable missing out on selection.
+The deadliest heroes tend to spring out of nowhere, just like Jack Reacher ( Alan Ritchson ) in Prime Video’s Reacher . But Starz's South African action thriller The Nowhere Man features a similar hero who shares the same military background as Lee Child 's most iconic literary creation.
 
-### Forget ‘Coyote vs. Acme,’ One of the Best Looney Tunes Movies Is Officially Leaving HBO Max
-Fri, 27 Nov 2026 00:00:12 GMT — https://collider.com/looney-tunes-the-day-the-earth-blew-up-leaving-hbo-max-november-2026/
+### Tom Hanks’ Most Iconic Rom-Com Officially Says Goodbye to Streaming
+Fri, 27 Nov 2026 13:00:12 GMT — https://collider.com/tom-hanks-meg-ryan-sleepless-in-seattle-leaving-netflix-december-2026/
 
-2026 was the year the Looney Tunes finally got their day in court. Or, well, on-screen. Nearly three years after Warner Bros. made the much-maligned decision to pull Coyote vs. Acme from its release schedule and shelve it indefinitely , Ketchup Entertainment brought the live-action animation hybrid to theaters with plenty of fanfare. Dave Green 's legal comedy that David Zaslav and company didn't want you to see became a success, raking in over $126 million at the box office and earning rave reviews to the tune of a Certified Fresh 96% score from critics and a Verified Hot 94% score from audiences on Rotten Tomatoes. However, the Will Forte and John Cena feature isn't Ketchup's first foray coming to the rescue of the beloved cartoon characters.
+Who doesn't love the romantic on-screen pairing of Tom Hanks and Meg Ryan ? In 1998, the two dazzled audiences in the rom-com classic You've Got Mail , which returned more than $250 million worldwide against a reported production budget of $65 million. Almost thirty years later, Warner Bros. are returning to the story, confirming that a reboot directed by Jason Orley is in the works .
 
-### Harry Potter Reboot Series Will Officially Reunite a Fractured Fanbase, According to Franchise Historian
-Fri, 27 Nov 2026 00:00:12 GMT — https://collider.com/hbo-harry-potter-reboot-fandom-melissa-anelli/
+### 7 Must-Watch Movies Leaving Netflix in December
+Fri, 27 Nov 2026 12:57:12 GMT — https://collider.com/movies-leaving-netflix-december-2026/
 
-Before the days of iPods being widely adopted by users, people used to download episodes of PotterCast and listen to them on Windows Media Player, and given that we had two or three years to kill between some of the Harry Potter books, there was an extraordinary amount of time to spend discussing what might happen in the next one. I mentioned this to Melissa Anelli when she spoke with Collider recently for the updated release of her book, Harry: A History , which reminded me of how much fun it was to be a Harry Potter fan back then. It's been a while since we've had anything quite like that to look forward to, although we discussed whether HBO 's new series might change that.
+Somehow, the year has flown by, and we're officially entering its final stretch. With the holidays right around the corner, December is usually a busy month filled with celebrations, last-minute shopping, and trying to squeeze in as much as possible before the year comes to an end. Still, there's always time to settle in for a good movie , especially when some fan favorites are getting ready to leave Netflix .
 
-### Netflix Perfected the Taylor Sheridan Formula With This 7-Part Western Miniseries
-Thu, 26 Nov 2026 23:58:12 GMT — https://collider.com/east-of-eden-netflix-perfected-taylor-sheridan-formula/
+### The 10 Best Pulitzer Prize-Winning Books of All Time, Ranked
+Fri, 27 Nov 2026 12:45:12 GMT — https://collider.com/best-pulitzer-prize-winning-books-all-time-ranked/
 
-To say Taylor Sheridan dominates a sizable chunk of the television market is an understatement. He has carved out several niches for himself, none more prominent than the Western. His ever-expanding Yellowstone universe has helped give the long-lasting genre a widespread contemporary renaissance , especially on the small screen. With that said, Sheridan's repeated weaknesses weigh down even his strongest works; the Western's distinct aesthetic sheen emerges unscathed, but his propensity for tiresome character stereotypes and shock-value extremes often leads to muddled themes and missed opportunities instead of rigorously nuanced, affecting melodrama.
+The Pulitzer Prizes were first awarded in 2017, following the 1904 will of newspaper publisher Joseph Pulitzer wanting to elevate standards in American journalism, literature, and the arts. Since then, several categories have awarded several of the greatest pieces of American literature of the 20th and 21st centuries , from the Pulitzer for Fiction to the Pulitzer for Biography.
 
-### Sam Raimi’s Brutal Survival Thriller Officially Removed From Netflix
-Thu, 26 Nov 2026 23:30:12 GMT — https://collider.com/sam-raimi-crawl-leaving-netflix-november-2026/
+### 6 Psychological Thrillers From the ’90s That Are 10/10 Masterpieces
+Fri, 27 Nov 2026 12:36:12 GMT — https://collider.com/psychological-thrillers-90s-masterpieces/
 
-Sam Raimi made his grand return to horror at the beginning of 2026 with his survival thriller Send Help and reminded viewers why he's long been considered one of the most inventive and beloved filmmakers in the genre. In a neck-and-neck opening against Markiplier 's surprise-hit cosmic horror video game adaptation, Iron Lung , the Evil Dead filmmaker ultimately returned to the top of the box office and earned stellar reviews , with a Certified Fresh 92% on Rotten Tomatoes. Still, he's remained more active of late as a producer. Evil Dead Burn most recently had Raimi's backing as it took the Deadite-infested franchise into a secluded, nightmarish family reunion.
+Anyone with even a casual interest in film is probably well-aware of and even well-versed in the unforgettable psychological thrillers that came out during the 90s. Highly lauded works of cinema like The Silence of the Lambs , Seven , The Sixth Sense , and Basic Instinct are just a handful of the rousing movies that shocked and awed domestic and international audiences. And, thankfully for the viewing public, there was a brilliant barrage of other, less-talked about films that absolutely deserve a few more re-watches.
 

@@ -1,6 +1,26 @@
-# Games — harvested 2026-11-27T00:48:42.277Z
+# Games — harvested 2026-11-27T14:20:23.926Z
 
 ## Eurogamer
+
+### At last, I've finally played Faraway, an enigma I've been waiting 16 years to see
+Fri, 27 Nov 2026 12:33:00 +0000 — https://www.eurogamer.net/faraway-eliss-annapurna-interactive-16-years-finally-here
+
+For 16 years I've been watching the skies. It was 16 years ago, back in the first giddy rush of smartphone gaming, that I saw a 30-second trailer for a game set in space. It was a game about a comet, hurtling through the unknown. It wasn't clear what you'd do in this game, whether you'd control the comet itself or the space it moved through. It wasn't clear if this was some kind of arcade game, or a new spin on the endless runner, or even just a kind of cosmic sandbox. All I had was the comet and a name: Faraway. Faraway! I was captivated. Read more
+
+### Are you a warlock tired of being summon-kicked in World of Warcraft: Forever? There's now a mod to fight back with
+Fri, 27 Nov 2026 12:09:10 +0000 — https://www.eurogamer.net/world-of-warcraft-forever-summon-kicking-warlock-addon
+
+Being recruited to a World of Warcraft party as a warlock, only to be swiftly kicked again after using your powers to magically summon the party members together in the same place, may soon become a thing of the past. All thanks to a mod made by one especially peeved warlock. Read more
+
+### Rockstar boss "so grateful" to have kept GTA 6's big prologue twist a secret - and reveals Tomás' story could have been very different
+Fri, 27 Nov 2026 11:31:00 +0000 — https://www.eurogamer.net/gta-6-rockstar-debated-changing-jason-lucias-big-secret
+
+If you've played the first 20 minutes or so of Grand Theft Auto 6 , you'll know there's a hugely significant plot revelation there - one Rockstar somehow managed to keep entirely secret until the game's launch. Read more
+
+### Marvelous, developer of the Story of Seasons series, opens up voluntary redundancy scheme as it seeks to reduce headcount by 65 employees
+Fri, 27 Nov 2026 09:52:10 +0000 — https://www.eurogamer.net/marvelous-developer-volentary-redundancy-amidst-console-business-restructuring
+
+Marvelous, the studio known for its work on the Story of Seasons series as well as the upcoming Eternal Anima, has announced the introduction of a voluntary redundancy scheme. Through this program, it's aiming to lower its headcount by 65 employees. Read more
 
 ### EA removes some live service fluff from Skate and ends seasonal structure "in favour of regular, agile content updates"
 Thu, 26 Nov 2026 20:35:20 +0000 — https://www.eurogamer.net/ea-removes-live-service-skate-seasons
@@ -42,27 +62,22 @@ Thu, 26 Nov 2026 14:18:20 +0000 — https://www.eurogamer.net/citizen-sleeper-cr
 
 Citizen Sleeper creator Gareth Damian Martin - also known by their studio name Jump Over the Age - believes we're reaching a point of gen-AI saturation whereby game-makers are starting to counter-promote games as being human-made. Read more
 
-### After playing the game, 30% of polled GTA 6 players want to buy flowers for a loved one, 9% accidentally punched cats
-Thu, 26 Nov 2026 14:09:10 +0000 — https://www.eurogamer.net/gta-6-30-percent-buy-flowers-punch-cats
-
-A new survey of Grand Theft Auto 6 players has found some particularly interesting results. 30 percent came away from the game with the desire to buy someone special flowers. Nine percent punched cats. Read more
-
-### "I'm betting on the sickos" - Signet City plans to 'expand the scope of RPGs' by drawing on the success of Citizen Sleeper
-Thu, 26 Nov 2026 13:54:50 +0000 — https://www.eurogamer.net/citizen-sleeper-signet-city-fungalpunk-1980s-rpg
-
-When I last spoke to Citizen Sleeper creator Gareth Damian Martin, it was on the eve of Citizen Sleeper 2's release . Like its predecessor, the game was a critical hit, cementing Damian Martin's reputation as one of the most successful independent game developers around. But they weren't content. They wanted to do more, to push more, to stretch the idea of what a role-playing video game could be. Read more
-
-### Fans report Umamusume: Pretty Derby AI clone brimming with ads, Cygames gets it taken offline
-Thu, 26 Nov 2026 13:15:00 +0000 — https://www.eurogamer.net/umamusame-pretty-derby-ai-clone-taken-off-mobile-after-reports
-
-An AI clone of Umamusume: Pretty Derby has been stuck off the Google Play Store after it drew the ire of fans, and the community organised to report the offending title to Cygames. Read more
-
-### Fed up of Steam's lack of action regarding AI slop? Maybe you should take a look at the 'Games Without AI' event, instead
-Thu, 26 Nov 2026 12:22:30 +0000 — https://www.eurogamer.net/games-without-ai-steam-event
-
-Yesterday, a new Steam event went live that claims all games featured in it have avoided AI entirely during development. The event, called 'Games Without AI', has been set up by a third party rather than Valve - by Dev Land Marketing, All Ages Of Geek, and Dark Cocooning - to "support real creators" and runs from 25th November to 6th December. Read more
-
 ## GamesIndustry.biz
+
+### Indie puzzle adventure Rhell beats GTA 6 to win Best Game Made in The North at the Game Republic Awards
+Fri, 27 Nov 2026 12:55:20 +0000 — https://www.gamesindustry.biz/indie-puzzle-adventure-rhell-beats-gta-6-to-win-best-game-made-in-the-north-at-the-game-republic-awards
+
+At the Game Republic Awards in Wakefield last night, the indie puzzle adventure Rhell: Warped Worlds and Troubled Times beat off competition from the likes of Grand Theft Auto 6, Lego Batman: Legacy of the Dark Knight, and Wardogs to take home the prize for Best Game Made in The North. Read more
+
+### Mastered receives funding to support training for games studios in West of England
+Fri, 27 Nov 2026 10:59:20 +0000 — https://www.gamesindustry.biz/mastered-receives-funding-to-support-training-for-games-studios-in-west-of-england
+
+Training firm Mastered has secured a Skills Bootcamps contract for studios in the West of England, covering 90% of funding for upskilling staff. Read more
+
+### Modern Warfare 4 launch boosts Call of Duty HQ to top of Newzoo's PC revenue charts
+Fri, 27 Nov 2026 09:24:20 +0000 — https://www.gamesindustry.biz/modern-warfare-4-launch-boosts-call-of-duty-hq-to-top-of-newzoos-pc-charts
+
+While October saw only a few new releases, the launch of Call of Duty: Modern Warfare 4 significantly increased revenue for game launcher Call of Duty HQ, moving it to first place on Newzoo's PC charts and second on console within a week. Read more
 
 ### "This was unlike anything else we've ever seen before" - but GTA 6's success is limited by the console install base, and its future rests on PC
 Thu, 26 Nov 2026 16:53:20 +0000 — https://www.gamesindustry.biz/this-was-unlike-anything-else-weve-ever-seen-before-but-gta-6s-success-is-limited-by-the-console-install-base-and-its-future-rests-on-pc
@@ -94,7 +109,7 @@ Wed, 25 Nov 2026 20:48:20 +0000 — https://www.gamesindustry.biz/ea-sports-fc-2
 
 Electronic Arts is bringing back the voice of the late football commentator John Motson in EA Sports FC 27, recreated using a combination of archive recordings and generative AI. Read more
 
-### Ubisoft denies report that staff must justify not using generative AI in pitches
+### Report claims Ubisoft staff must justify not using generative AI in pitches
 Wed, 25 Nov 2026 20:19:40 +0000 — https://www.gamesindustry.biz/ubisoft-staff-must-justify-not-using-generative-ai-in-pitches-report-claims
 
 Update, November 26, 2026: Ubisoft has issued a response to reports that teams are reportedly being asked to explain why they would or wouldn't use generative AI when pitching projects. Read more
@@ -109,26 +124,26 @@ Wed, 25 Nov 2026 17:19:20 +0000 — https://www.gamesindustry.biz/capcom-will-sh
 
 Capcom has announced it will end service for its online dinosaur shooter Exoprimal on September 29, 2027. Read more
 
-### "You'd be nuts to take on all of that in the first project, and yet here we are" – How Playground is finally making good on an all-new Fable
-Wed, 25 Nov 2026 15:48:30 +0000 — https://www.gamesindustry.biz/youd-be-nuts-to-take-on-all-of-that-in-the-first-project-and-yet-here-we-are-how-playground-is-finally-making-good-on-an-all-new-fable
-
-Fable is finally set to be released on February 23, 2027, after being pushed back from its autumn 2026 launch date earlier this year , and having previously slipped from a 2025 release window. The game has been a long time coming: it was announced in 2020, but development reportedly began several years ahead of the game's official reveal. Read more
-
-### Gaming sector to benefit from funding package of over £45m as part of Creative Industries Sector Plan
-Wed, 25 Nov 2026 14:55:50 +0000 — https://www.gamesindustry.biz/gaming-sector-to-benefit-from-funding-package-of-over-45m-as-part-of-creative-industries-sector-plan
-
-Eight games studios will share over &pound;45 million in a government funding package with other creative sectors as part of a wider &pound;500 million investment by UK Research and Innovation (UKRI) in the Creative Industries Sector Plan . Read more
-
-### Analyst: Don't expect hardware price cuts until at least 2028
-Wed, 25 Nov 2026 13:09:40 +0000 — https://www.gamesindustry.biz/analyst-dont-expect-hardware-price-cuts-until-at-least-2028
-
-Manufacturers are unlikely to drop console prices until at least 2028, according to a new analysis by S&P Global Market Intelligence Kagan, which judged that planned expansions in manufacturing capacity for DRAM &ndash; a key component in gaming hardware that has rocketed in price due to the demands of the AI industry &ndash; will not come online until then. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Guide: All PS Plus Games Available Now
+Fri, 27 Nov 2026 14:30:00 GMT — https://www.pushsquare.com/guides/all-ps-plus-games-available-now
+
+Every PS Plus game, updated in one place. We’re tracking every PS Plus game available now, so you always know exactly what’s included in your tier of Sony’s subscription service. This page lists all current PS Plus Essential , PS Plus Extra , and PS Plus Premium games across PS5 and PS4 , alongside upcoming additions and confirmed expiry dates – so you never miss out. Read the full article on pushsquare.com
+
+### Life Has Been a Whirlwind : GTA 6 s Lucia Actress Says Thank You to Fans
+Fri, 27 Nov 2026 13:45:00 GMT — https://www.pushsquare.com/news/2026/11/life-has-been-a-whirlwind-gta-6s-lucia-actress-says-thank-you-to-fans
+
+Worked on game for almost a decade. Manni L. Perez – the actress who plays Lucia in GTA 6 – has thanked fans for their support in her first message since the game’s release last week. The star – who’s rapidly approaching one million subscribers on Instagram – revealed that bringing the protagonist to life took almost a decade of work, and that it’s been a “whirlwind” since the title’s release on 19th November. Read the full article on pushsquare.com
+
+### GTA 6 s Car Physics Were Tuned by a Gran Turismo Pro
+Fri, 27 Nov 2026 01:00:00 GMT — https://www.pushsquare.com/news/2026/11/gta-6s-car-physics-were-tuned-by-a-gran-turismo-pro
+
+From GT to GTA. Rockstar hired a former Gran Turismo pro to help master the car handling in GTA 6 . Lewis Bentley, a 2018 GT World Series Finalist , says he spent the last three-and-a-half years with the studio’s physics team, working on how the cars feel to drive. Read the full article on pushsquare.com
 
 ### Despite No Disc, GTA 6 Recorded the UK s Biggest Physical Launch Since 2019
 Thu, 26 Nov 2026 18:00:00 GMT — https://www.pushsquare.com/news/2026/11/despite-no-disc-gta-6-recorded-the-uks-biggest-physical-launch-since-2019
@@ -175,26 +190,36 @@ Thu, 26 Nov 2026 14:00:00 GMT — https://www.pushsquare.com/features/80plus-ps5
 
 PS5 and PS4 games going cheap we recommend. The PS Store's Black Friday sale is on now, running until 30th November, 2026. As with nearly every offer in Sony's digital store, there are literally thousands of PS5 and PS4 games going cheap. Obviously, nobody has the time to scroll through all those deals, which is where this guide hopefully comes in handy. Read the full article on pushsquare.com
 
-### The Witcher 4 Is Not a PS5 Exclusive, CDPR Clarifies After Sony Deal
-Thu, 26 Nov 2026 01:30:00 GMT — https://www.pushsquare.com/news/2026/11/the-witcher-4-is-not-a-ps5-exclusive-cdpr-clarifies-after-sony-deal
-
-Well, duh. Did anyone really think The Witcher 4 was going to be a PS5 exclusive? For those who missed it, CDPR confirmed yesterday that it has signed a marketing deal with Sony on its upcoming RPG. Read the full article on pushsquare.com
-
-### GTA 6 s Map Has a Useful Feature I ve Only Just Noticed
-Thu, 26 Nov 2026 01:00:00 GMT — https://www.pushsquare.com/news/2026/11/gta-6s-map-has-a-useful-feature-ive-only-just-noticed
-
-You learn something new every day. I’ve tallied over 300 hours in GTA 6 so far, and today I learned something new. Forgive me if you already knew it, but I figured I’d share anyway as it never occurred to me in all my sessions so far. Read the full article on pushsquare.com
-
-### Guide: GTA 6: Secret Controls the Game Doesn t Tell You
-Wed, 25 Nov 2026 22:00:00 GMT — https://www.pushsquare.com/guides/gta-6-secret-controls-the-game-doesnt-tell-you
-
-Pro tips. GTA 6 has a complicated control scheme that allows you to interact with the game in a variety of different ways. And while Rockstar does a good job introducing almost all of the title's mechanics, several useful features and commands are never mentioned at all. In this GTA 6 guide , we're going to tell you about some of its secret controls. <blocks> Read the full article on pushsquare.com
-
 ## Game Developer
 
 _Nothing in the last 48 hours._
 
 ## VGC
+
+### Podcast: GTA 6 smashed records, but will other games benefit?
+Fri, 27 Nov 2026 14:15:44 +0000 — https://www.videogameschronicle.com/blog/podcast/podcast-gta-6-smashed-records-but-will-other-games-benefit/
+
+Plus: Rez turns 25 and Sonic music is back up for debate… Source
+
+### GTA 6 Hell Mission Guide: How to get a permanent health boost
+Fri, 27 Nov 2026 14:07:57 +0000 — https://www.videogameschronicle.com/guide/gta-6-hell-mission-guide-how-to-get-a-permanent-health-boost/
+
+Go to hell and get this health upgrade in GTA 6… Source
+
+### GTA 6 President s Bunker questline walkthrough: All Locations, Codes, Puzzles and Rewards
+Fri, 27 Nov 2026 13:50:40 +0000 — https://www.videogameschronicle.com/guide/gta-6-presidents-bunker-questline-walkthrough-all-locations-codes-puzzles-and-rewards/
+
+How to complete the President's Bunker mission in GTA 6… Source
+
+### The Simpsons Hit Run remake may have been cancelled as developer seemingly hints they were working on it
+Fri, 27 Nov 2026 12:53:49 +0000 — https://www.videogameschronicle.com/news/the-simpsons-hit-run-remake-may-have-been-cancelled-as-developer-drops-hints-they-were-working-on-it/
+
+Speculation surrounding a remake has been rife since Matt Groening suggested it was coming… Source
+
+### Story of Seasons and Rune Factory developer Marvelous is offering early retirement as it tries to cut 65 jobs
+Fri, 27 Nov 2026 11:59:25 +0000 — https://www.videogameschronicle.com/news/story-of-seasons-and-rune-factory-developer-marvelous-is-offering-early-retirement-as-it-tries-to-cut-65-jobs/
+
+The company wants to outsource more of its work… Source
 
 ### GTA 6 All Kitty Litter lab locations: Where to find all drug labs North Balsero code
 Thu, 26 Nov 2026 23:21:53 +0000 — https://www.videogameschronicle.com/guide/gta-6-kitty-litter-lab-locations/
@@ -221,84 +246,79 @@ Thu, 26 Nov 2026 18:06:45 +0000 — https://www.videogameschronicle.com/news/ubi
 
 Ubisoft argues that the "quadruple-A" comments were just Yves Guillemot' Source
 
-### GTA 6: All Secret Radio Stations and how to unlock them
-Thu, 26 Nov 2026 16:42:23 +0000 — https://www.videogameschronicle.com/guide/gta-6-secret-radio-stations-unlock/
-
-Unlock the secret radio and on-demand services in Grand Theft Auto 6… Source
-
-### GTA 6 on Xbox One is a ‘remarkable feat’, according to analysis
-Thu, 26 Nov 2026 16:34:00 +0000 — https://www.videogameschronicle.com/news/gta-6-on-xbox-one-is-a-remarkable-feat-according-to-analysis/
-
-Analysis of GTA 6 on Xbox One shows that it can handle streaming the Series S port… Source
-
-### GTA 6 The Missing Link Walkthrough
-Thu, 26 Nov 2026 16:07:11 +0000 — https://www.videogameschronicle.com/guide/gta-6-the-missing-link-walkthrough/
-
-How to complete The Missing Link and what to do with Monty… Source
-
-### 75% of Rockstar s workers have voted against a union deal
-Thu, 26 Nov 2026 15:11:04 +0000 — https://www.videogameschronicle.com/news/75-of-rockstars-workers-have-voted-against-unionizing/
-
-The workers rejected a deal that would recognize the Rockstar Game Workers Union… Source
-
-### Despite being a code in a box, GTA 6 s physical release broke sales records
-Thu, 26 Nov 2026 14:49:17 +0000 — https://www.videogameschronicle.com/news/despite-being-a-code-in-a-box-gta-6s-physical-release-broke-sales-records/
-
-Across Europe, GTA 6 has enjoyed one of the most successful physical launches of all time… Source
-
 ## Polygon
 
-### Star Trek: Voyager Officially Revisits the Series' Best Two-Parter in a Brand-New Way
-Thu, 26 Nov 2026 21:50:18 GMT — https://www.polygon.com/star-trek-voyager-across-the-unknown-year-of-hell-dlc-announced/
+### 35 Years Later, Hollywood’s Deadliest Feud Is Still Its Most Reliable Fantasy Formula
+Fri, 27 Nov 2026 14:00:18 GMT — https://www.polygon.com/why-do-vampires-and-werewolves-hate-one-another/
 
-One of the best two-episode arcs in Star Trek: Voyager , if not the entire Star Trek franchise, is the "Year of Hell" duology. The story from the show's fourth season pitted the crew of Voyager against a unique threat that tested their perseverance more than any previous enemy had.
+At the time, the interaction, while hilarious, also made perfect sense. Popular culture was deep in the thrall of Stephenie Meyer’s Twilight , which famously pits a vampire and a werewolf against each other for the affections of a human girl. But a decade later, the idea that vampires and werewolves would be natural enemies seems a bit odd.
 
-### GTA: Boston Would Go Wicked Hard, Kid
-Thu, 26 Nov 2026 21:00:18 GMT — https://www.polygon.com/gta-6-boston-massachussetts/
+### 10 Best Black Friday Board Game Deals
+Fri, 27 Nov 2026 13:43:23 GMT — https://www.polygon.com/best-black-friday-2026-board-game-deals/
 
-Considering that Grand Theft Auto 6 just launched after a 13-year wait, it’s safe to say that we won’t be getting another one any time soon. That’s fine, because Leonida is so enormous that I know I’ll still be finding secrets in it years from now. And yet, I can’t help myself. I’m already wondering where the series could possibly go next. Allow me to offer one unsolicited idea: Massachusetts.
+One of the great joys of the holidays is finally getting everyone around the same table. Another is watching your cousin realize that the road they’ve been building for the last six turns is about to go nowhere. You don’t get many chances to do that as an adult. Make the most of it.
 
-### The Sims 4 Officially Makes 13 DLCs Free for a Limited Time
-Thu, 26 Nov 2026 20:46:54 GMT — https://www.polygon.com/the-sims-4-free-maker-pack-holiday-giveaway-2026/
+### 10 Best Black Friday Gaming Deals
+Fri, 27 Nov 2026 12:18:56 GMT — https://www.polygon.com/best-black-friday-2026-gaming-deals/
 
-The Sims 4 has received a steady stream of content since it launched 12 years ago. However, 2026 has been particularly dry. The last major expansion, Royalty & Legacy , was released in February, and aside from kits, the game hasn't received much content this year. This may be because of the team's focus on Project Renee (which may be on hold) or because of internal matters related to Electronic Arts' private-equity buyout .
+It's shopping time again — Black Friday is here. And while some retailers started offering discounts a week or more ago, it's always true that the best deals don't materialize until the day itself. That day has come.
 
-### 32 Years Later, Disney's Most Notorious Cash-Grab Sequel Is Better Than You Remember
-Thu, 26 Nov 2026 20:00:17 GMT — https://www.polygon.com/in-defense-of-the-return-of-jafar/
+### Illumination Takes Over Macy’s Parade With New Not Alone Thanksgiving Teaser
+Fri, 27 Nov 2026 12:00:53 GMT — https://www.polygon.com/not-alone-illumination-new-thanksgiving-teaser/
 
-Ever since former Disney CEO Bob Chapek released his autobiography last September, a rather unexpected Disney movie has been a topic for discussion: the direct-to-VHS sequel to Aladdin titled The Return of Jafar . Released in 1994, The Return of Jafar was the first in a long line of direct-to-VHS (and later direct-to-DVD) sequels to theatrical Disney films. Besides Aladdin , Disney made sequels to The Lion King , The Little Mermaid , Pocahontas , Mulan , and several other then-modern Disney animated features, as well as some much older classics like Cinderella and Bambi . These movies used cheaper animation produced by Disney’s TV division and were developed in far less time than Disney spends developing animated feature films .
+There's no doubt that 2026 has been a great year for Illumination. It had one of the biggest releases of the year with The Super Mario Galaxy Movie in April, earning over $1 billion. Then, in June, it released another hit Minion movie, Minions & Monsters , which made $531 million. It's no surprise that fans were looking forward to more from the animation company.
 
-### 7 Years Later, Hollywood’s Most Notorious Fantasy Flop Deserves Another Shot
-Thu, 26 Nov 2026 19:00:18 GMT — https://www.polygon.com/cats-movie-retrospective/
+### Magic: The Gathering’s Most Notorious Vampire Almost Broke Commander
+Fri, 27 Nov 2026 12:00:19 GMT — https://www.polygon.com/mtg-edgar-markov-commander-history-story/
 
-I vividly remember learning the phrase “uncanny valley” in 2019. First came the trailer for Sonic the Hedgehog that April, with those alarmingly human teeth. Then came the first trailer for Tom Hooper’s Cats in July. Suddenly, there was a name for a feeling I’d had my whole life. The uncanny valley is that uneasy feeling you get when something looks or moves almost like a real person, but some small detail makes the whole thing feel wrong. That feeling is a lot more common these days, now that AI-generated videos are everywhere. But it was Cats that really brought the uncanny valley into the popular lexicon.
+Most Commanders in Magic: The Gathering have to show up on the battlefield before they can do anything. But Edgar Markov can make you the most dangerous player at the table while he’s still sitting in the Command Zone. Cast a one-mana vampire on your first turn, and Edgar gives you a second vampire for free. Do it twice on turn two, and you have six creatures before some players have cast their first spell.
 
-### The 14 Best Star Wars Games of All Time, Ranked
-Thu, 26 Nov 2026 18:01:21 GMT — https://www.polygon.com/best-star-wars-games/
+### 5 Years Later, an Avengers: Doomsday Hero's Next MCU Adventure Is Finally Moving Forward
+Fri, 27 Nov 2026 11:07:31 GMT — https://www.polygon.com/shang-chi-2-sequel-movie-update-writer-dave-callaham/
 
-Star Wars video games date all the way back to The Empire Strikes Back on the Atari 2600 in 1982. Since then, the franchise itself has largely matured alongside the medium, encompassing everything from role-playing games and first-person shooters to arcade racers and XCOM clones (the latter of two seeing well-regard releases just this year). No matter the year or the hardware, some of the best Star Wars games are worth revisiting. Here are the 12 best Star Wars games of all time, ranked.
+Shang-Chi is getting ready to return to the Marvel Cinematic Universe in Avengers: Doomsday , but fans hoping to see more of the hero have another reason to be optimistic. Dave Callaham, who co-wrote Shang-Chi and the Legend of the Ten Rings , has confirmed that he's working on a sequel, offering the clearest sign yet that the character's next solo adventure is moving forward.
 
-### Sorry Jason And Lucia, These 5 GTA 6 Side Characters Steal Every Scene They're In
-Thu, 26 Nov 2026 18:00:18 GMT — https://www.polygon.com/gta-6-best-side-characters/
+### 10 Best Black Friday 2026 Book Deals For Sci-Fi and Fantasy Fans
+Fri, 27 Nov 2026 09:00:18 GMT — https://www.polygon.com/black-friday-2026-book-deals/
 
-Although Jason and Lucia are the stars of Grand Theft Auto 6 and amazing characters in their own right, there are lots of side characters who steal the show whenever they show up. From folks critical to the main story path to weirdos you meet if you take the time to stop and chat with someone on the side of the road, GTA 6 constantly introduces wild, memorable characters almost every hour.
+Books make a perfect gift. They offer the chance to introduce a friend or family member to a story or world you love and adventures you can share together. You can even use a book as a seed for future gift ideas by getting someone hooked on a series. Black Friday sales offer plenty of bargains on fantasy and sci-fi classics and recent genre standouts for anyone looking to get an early start on holiday shopping. Even if you’re just looking for some reading material for your vacation, you should check out the 10 best Black Friday book deals.
 
-### GTA 6 Developers Have Voted Against Unionization by 75% to 25%
-Thu, 26 Nov 2026 17:16:26 GMT — https://www.polygon.com/rockstar-game-workers-union-vote-gta-6/
+### Stephen King's Psychological Thriller Officially Says Goodbye to Streaming
+Fri, 27 Nov 2026 05:00:18 GMT — https://www.polygon.com/say-goodbye-to-stephen-kings-first-film-adaptation/
 
-Rockstar Games' UK workforce has voted firmly against unionization the week after the studio's latest game, Grand Theft Auto 6 , demolished sales records .
+Stephen King’s books have inspired countless adaptations over the years. Several have even been adapted for the screen more than once, including Firestarter (1984 and 2022) and The Running Man (1987 and 2025).
 
-### Spring Tokyo City region treasure hunt location in Forza Horizon 6
-Thu, 26 Nov 2026 16:25:18 GMT — https://www.polygon.com/forza-horizon-6-fh6-treasure-hunt-location/
+### 8 Essential Thriller Books Everyone Should Read at Least Once
+Fri, 27 Nov 2026 04:44:18 GMT — https://www.polygon.com/essential-thriller-books-must-read/
 
-The spring Tokyo City region treasure hunt is one of the weekly activities in Forza Horizon 6 Series 7, "City Life." Whenever a new hunt begins, a box appears somewhere on the map and, to locate it, the only hints you have are the region's name and a picture. Completing this challenge helps you get closer to claiming the weekly and the Series cars.
+Take genre staples like Gone Girl or The Silent Patient . While the two couldn’t be more different in tone and subject matter, both thrillers heavily rely on misdirection and the recontextualization of events to deliver twists. These picks are a staple in every “must-read” list for good reason, just like the ones Polygon has highlighted below as genre essentials. Without further ado, here are eight thriller books you should read at least once in your life.
 
-### Prime Video Is Saying Goodbye to Six Decades of James Bond Movies
-Thu, 26 Nov 2026 16:13:26 GMT — https://www.polygon.com/james-bond-movies-leaving-prime-video-november-2026/
+### 8 Funniest ‘Far Side’ Comics About Fruits and Vegetables
+Fri, 27 Nov 2026 03:00:27 GMT — https://www.polygon.com/8-funniest-far-side-fruits-and-veggies/
 
-James Bond fans looking to revisit the legendary spy's cinematic adventures might want to clear their schedules before the end of November. Prime Video is preparing to remove a huge chunk of the 007 franchise from its streaming library, with nearly every James Bond movie currently available on the platform scheduled to leave at the same time.
+Decades after Gary Larson concluded his comic strip The Far Side back in 1995, fans of the series continue to read it regularly, and new fans are discovering it all the time. Some of Larson’s most beloved comic strips feature animals drawn in his signature style, including dogs, chickens, and especially cows . He often gave these animals human-like intelligence and other anthropomorphic traits and depicted them in very human-like scenarios.
 
 ## PC Gamer
+
+### Physical media is cool again, baby, so drop the needle on some videogame vinyls this Black Friday
+Fri, 27 Nov 2026 12:56:27 +0000 — https://www.pcgamer.com/hardware/physical-media-is-cool-again-baby-so-drop-the-needle-on-some-videogame-vinyls-this-black-friday/
+
+I am an absolute sucker for physical media—my bookshelves are adorned with generations of console games, I have a CD stash tucked away in my Mum's attic, and I still refuse to buy a Kindle in favour of good ol' fashioned paper and ink. And as we increasingly veer into a more digital age, I've noticed a huge uptick in people yearning to bring their hobbies and collections back into a more tangible form. Music, especially, has seen a huge resurgence in physical popularity. Y'all, my best friend is buying CDs and ripping them onto his PC. Like the good old days! And we've also seen an increasing number of videogame soundtracks make their way onto CD and vinyl, which is something that I am a huge fan of. I love music. I love videogames. I love things I can hold in my hands. It's a triple win! We're curating all the Black Friday PC gaming deals right here Unfortunately, this Black Friday hasn't brought about a ton of good deals on videogame vinyl. But that doesn't mean there aren't little offers to be found here and there. So if you're fixing to expand your physical media collection—or seeking out a gift for the videogame music lover in your life—I've got you covered. If you're looking to scoop up a few albums at once, Target is currently doing a Buy 2 Get 1 Free deal on all its music. It's got a pretty tasty library of videogame OSTs among its 49 pages of soundtrack music, such as: Rockstar Games Grand Theft Auto VI: the Album C418 Minecraft Volume Alpha Jagex Audio Team Runescap
+
+### Witcher 3 Remastered patch has lighting fixes, sign nerfs, and gets rid of a nasty werewolf bug
+Fri, 27 Nov 2026 04:27:55 +0000 — https://www.pcgamer.com/games/the-witcher/witcher-3-remastered-patch-has-lighting-fixes-sign-nerfs-and-gets-rid-of-a-nasty-werewolf-bug/
+
+If you replayed The Witcher 3 in its shiny new remastered form and got absolutely bodied by a couple of werewolf fights you thought were easier back when you had more youthful reflexes, don't worry—the problem wasn't your aging brain and hands after all. It was a bug that's been caught and exterminated in patch 5.02 . "Fixed an issue where werewolves could regenerate health too quickly on higher difficulty settings," the patch notes say, "making them impossible to defeat." Another problem some players had with The Witcher 3 Remastered was its lighting, with interiors in particular looking too dark while some other locations were washed-out flashbangs. Good news: "Fixed various lighting issues across multiple locations and cutscenes," the patch notes say, "including overly bright or dark areas, inconsistent lighting transitions and flickering." They've also "Fixed various lighting issues with hair when Path Tracing is enabled" and "Made various Path Tracing and Ray Reconstruction optimizations and visual improvements, including lighting, shadows, and water rendering." That's all positive stuff, but the balance changes to various signs and mutations will be more controversial. The Remastered version launched with buffs to Witcher signs that made them useful even if you didn't specialize in them, but it may have overdone things a little. This patch walks back some of the potential for you to dominate the entire game with an Aard build, though changes like reducing the Catalyst s
+
+### Microsoft announces it's deprecating the Telnet client in Windows, giving me a sudden flashback to when I used to use Telnet
+Fri, 27 Nov 2026 01:39:07 +0000 — https://www.pcgamer.com/software/windows/microsoft-announces-its-deprecating-the-telnet-client-in-windows-giving-me-a-sudden-flashback-to-when-i-used-to-use-telnet/
+
+In its latest update on deprecated features in Windows , Microsoft casually mentioned that "Telnet Client is deprecated and will be removed from Windows in a future release." This may not mean much to you if you didn't do a lot of computer networking in the 1990s or earlier, but the text-based protocol for remotely opening command-line interfaces was a workhorse we used for a bunch of things. It's how antique university lab computers that didn't even have Netscape Navigator installed connected to the internet, how I played text-based online games like the Discworld MUD back in the day, and how we used to connect to our routers. By default, Telnet didn't encrypt all the data it was swapping back and forth between computers, which is why it's since been replaced by tools like SSH and PowerShell. So it's not a surprise that it's being deprecated, and honestly I'm impressed that it outlived both WordPad and Cortana . A Windows feature being deprecated means that it won't be in active development and is a candidate for removal in a future update, so Telnet isn't being 86ed immediately. If you're still using it to test network connections because that's what you're used to then carry on as you were, but get ready to grumble and switch over to PowerShell when Microsoft finally does pull the plug. ]]>
+
+### Vermintide 2 mod tools get a public release, and the game's 90% off on Steam too
+Fri, 27 Nov 2026 01:28:24 +0000 — https://www.pcgamer.com/games/fps/vermintide-2-mod-tools-get-a-public-release-and-the-games-90-percent-off-on-steam-too/
+
+Though Vermintide 2's had a Steam Workshop since 2018, it's mostly used for quality-of-life stuff like UI tweaks. That's set to change now that Fatshark has announced a public release of its internal developer tools, which they say "will allow modders to work their magic on both editing and creating anything from custom levels, models, textures, particles, animations, and more!" Right now, only a select number of sanctioned mods can be used in Vermintide 2's "official realm" which is the one with loot and leveling that carries over, while unsanctioned mods can only be accessed in a "modded realm" where there are no progression systems. Obviously that's off-putting to a lot of players, so Fatshark has announced a change. "We have an update releasing in early December which will see the Modded Realm have its own, local, offline progression. That means that playing in the Modded Realm will still result in you gaining loot and experience, but said progression will not reflect on the Official Realm. This should make playing on the Modded Realm feel much better and not be discouraging for those that want to try out all of the unsanctioned mods, both the ones that already exist and the ones to come thanks to the Mod Tools!" I'm not sure how many players will be happy to start over from level one just to get access to a wider variety of mods, but I hope it encourages some folks to check them out. Another thing that'll encourage new players is that XP has been doubled from now through
 
 ### 'Blizzard I'm looking at you': Path of Exile 2 boss criticizes 'truly terrible' game announcements that hold the juiciest details until the end
 Thu, 26 Nov 2026 23:00:00 +0000 — https://www.pcgamer.com/games/rpg/blizzard-im-looking-at-you-path-of-exile-2-boss-criticizes-truly-terrible-game-announcements-that-hold-the-juiciest-details-until-the-end/
@@ -333,34 +353,24 @@ In August 2025, Aeternum Game Studios announced that Aeterna Lucis , the sequel 
 ### Black Friday SSD deals 2026
 Thu, 26 Nov 2026 17:33:16 +0000 — https://www.pcgamer.com/black-friday-ssd-deals/
 
-Black Friday is more or less here already, bringing with it some much-needed discounts on solid state storage. The official date is technically tomorrow, but the deals have already come out in force. It's still a weird time for SSDs thanks to the memory supply crisis , so we're unlikely to see discounts harkening back to last year's prices. But that's why I'm here to highlight the Black Friday SSD deals that are the best value for money, even with all that weirdness at play. Since we regularly review the best SSDs for gaming , we already know which ones are actually worth your money, and I regularly track prices for the best SSD deals every week. So I'm not just recommending any old drive with a couple bucks knocked off it. Where are the best Black Friday SSD deals? 💾 1 TB PCIe 4.0 NVMe: Kingston NV3 | $140 @ Walmart 💾 1 TB PCIe 4.0 NVMe: WD Black SN7100 | $149 @ Newegg 💾 2 TB PCIe 4.0 NVMe: Biwin Black Opal NV7400 | $246 @ Amazon 💾 4 TB PCIe 4.0 NVMe: Team Group T-Force G50 Evo | $400 at Newegg Amazon - Money off internal and external SSDs Walmart - Deals on internal and external SSDs B&H Photo - Savings on NVMe SSDs Best Buy - Great prices on Samsung and WD SSDs Newegg - Plenty of NVMe SSDs on offer Black Friday SSD deals: 1 TB QX | 2.5-inch | 1 TB: was $86.99 now $71.99 It's a fair chunk of cash for a slow SSD but if you're looking for lots of storage and don't need a blazing fast NVMe drive, then this is the cheapest way of putting a 1 TB SSD in your gaming PC. Just d
+Black Friday has landed, and while we've been talking about the sales event for the past week or so, with all the major retailers launching their own discounts, we're crossing our fingers in the hope that someone has a secret stock of drives they can unleash today. There is a chance that we'll get at least one standout Black Friday SSD deal specially launching for Black Friday itself. Check out all our favorite Black Friday PC gaming deals. It's still a weird time for SSDs thanks to the memory supply crisis , so we're unlikely to see discounts harkening back to last year's prices. But that's why I'm here to highlight the Black Friday SSD deals that are the best value for money, even with all that weirdness at play. Since we regularly review the best SSDs for gaming , we already know which ones are actually worth your money, and I regularly track prices for the best SSD deals every week. So I'm not just recommending any old drive with a couple bucks knocked off it. Where are the best Black Friday SSD deals? 💾 1 TB PCIe 4.0 NVMe: Biwin Black Opal NV7400 | $148 @ Amazon 💾 1 TB PCIe 5.0 NVMe: Biwin Black Opal X570 | $140 @ Amazon 💾 2 TB PCIe 4.0 NVMe: Biwin Black Opal NV7400 | $270 @ Newegg 💾 4 TB PCIe 4.0 NVMe: Team Group T-Force G50 Evo | $400 at Newegg Amazon - Money off internal and external SSDs Walmart - Deals on internal and external SSDs B&H Photo - Savings on NVMe SSDs Best Buy - Great prices on Samsung and WD SSDs Newegg - Plenty of NVMe SSDs on offer Black Friday S
 
 ### I would die for this Razer Hello Kitty & Friends wired gaming keyboard, but now I don't have to thanks to this Black Friday deal
 Thu, 26 Nov 2026 16:58:45 +0000 — https://www.pcgamer.com/hardware/gaming-keyboards/i-would-die-for-this-razer-hello-kitty-and-friends-wired-gaming-keyboard-but-now-i-dont-have-to-thanks-to-this-black-friday-deal/
 
 Razer Ornata V3 gaming keyboard, Hello Kitty & Friends: was $119 now $98.11 A ridiculously adorable keyboard with an equally amazing matching wrist rest. You can enjoy a great discount on this keyboard as well as the purple and black Kuromi version which is currently 33% off at Walmart . Price Check: Amazon $98.11 View Deal Black Friday is almost upon us, and you know what that means: I get to scour the internet for the cutest and best Black Friday deals. I have no prejudice when it comes to cute peripherals, but I do have a preference: Hello Kitty & Friends. I am self-aware enough to understand that Hello Kitty & Friends has an unearthly grasp on my wallet. It's simple: I see something vaguely Kitty-related, and I get that thing. I have, however, been holding off on the Razer Ornata V3 Hello Kitty & Friends wired Gaming keyboard, because I already have a perfectly functioning keyboard, and it's usually $119. But with this Black Friday deal on Walmart, it's now down to $98.11 . $20 in savings may be just enough to change my mind. Although, I could also just be looking for any viable excuse to buy this; see, very self-aware of me. We're curating all the Black Friday PC gaming deals right here It's not just Hello Kitty & Friends, though, there's also a Kuromi version of Razer's Ornata V3 wired keyboard. Its colour-scheme is purple and black, it's got an even better deal on Walmart down to $78.88 (was $119) , and it's just as cute as the pink version. This is also part of a whol
 
-### Aspects of GTA 6 are inspired by Red Dead Redemption 2's honor system because its player agency 'was a hard thing to ignore and walk away from'
-Thu, 26 Nov 2026 16:28:37 +0000 — https://www.pcgamer.com/games/grand-theft-auto/aspects-of-gta-6-are-inspired-by-red-dead-redemption-2s-honor-system-because-its-player-agency-was-a-hard-thing-to-ignore-and-walk-away-from/
-
-Grand Theft Auto 6 doesn't just mark a huge, and at times unbelievable, step forward for graphics; it's also at the forefront of what an open world game can be, just look at the existential crisis it's given Cyberpunk 2's creative director . With thousands of enterable buildings , unpredictable and slightly scary NPCs , and systems that help you determine what kind of criminal you want to be. It all really does feel like a milestone for what videogames can do. "As the resolution goes up, you want the sophistication of the experience to go up, and obviously the sophistication of the mechanics," Rob Nelson, Rockstar's head of development, says in an interview with Eurogamer. "So it just naturally flowed that we give players choices to interact with the world beyond just violence, beyond just 'down the barrel of a gun', because it's fun." (Image credit: Rockstar Games) The sophisticated mechanics that Nelson is talking about here pertains to GTA 6's Criminal Profile , a system that evaluates your escapades across Leonida and gives you a rating. There's Professional, Hardened, Violent, Psycho, and Irredeemable. The more stealthy and non-lethal you are, the higher your profile will be. It's similar to Red Dead Redemption 2's Honor System . "There was maybe more emotional resonance in the story of RDR2 than we had, certainly in a GTA before," Nelson says. "So we liked that idea. We didn't necessarily come to GTA 6 going: 'We must have emotional resonance,' but all of those things c
-
-### Where to find GTA 6's UFO and alien
-Thu, 26 Nov 2026 16:28:36 +0000 — https://www.pcgamer.com/games/grand-theft-auto-6/gta-6-alien-ufo-location/
-
-Grand Theft Auto 6 might feel more grounded compared to its predecessors, but that doesn't mean Leonida isn't full of weird and supernatural ongoings. One such paranormal activity is GTA 6's aliens—if you know where to look, you'll be able to find a UFO which'll eventually lead you down a strange road of cows, radiation, and the aliens themselves. And if you don't know where to look, here's where I can help you. If you want to find GTA 6's UFO and a weird little alien guy, here's exactly where you need to go and what you need to do. How to find GTA 6's alien (Image credit: Rockstar Games) The alien abduction is actually a three-parter mission, and to get started you'll first need to locate the abandoned car. You'll need to look for it at nighttime, and it can spawn in a number of locations. For me, it was a little ways east of Port Gellhorn in Kelly County. For our own Chris Livingston, he discovered the car somewhere north of Capri, also in Kelly County. You know it's the one if the car is pointed toward a forest and the doors are open. Once you've found it, you'll need to follow the path it's parked along. You'll know you're going the right way by the clothes strewn along the path. If it's a bit too dark or you're stuck, you can press L3 + R3 to activate your focus and see the clothes more easily or equip your flashlight. Eventually you'll see the lights of the UFO and a very naked lady amongst it all. Head over until a cutscene plays out. Once that's over, you'll get into 
-
-### Rockstar workers vote overwhelmingly against union recognition
-Thu, 26 Nov 2026 16:13:54 +0000 — https://www.pcgamer.com/gaming-industry/rockstar-workers-vote-overwhelmingly-against-union-recognition/
-
-After two weeks of voting that bracketed the launch of Grand Theft Auto 6, Rockstar Games employees have voted overwhelmingly against a recognition agreement with the IWGB Game Workers Union. 25% of Rockstar employees voted in favor of the recognition agreement, the union said, while 75% voted against it. 1,544 employees took part in the vote, representing a turnout of just over 93%. Rockstar workers actually founded a union earlier this year—the Rockstar Game Workers Union, a subsidiary of the Independent Workers Union of Great Britain—and it will continue to operate as it has. The IWGB said the outcome will not prevent Rockstar workers from organizing or exercising union rights, but the company will not be required to regularly meet with union representatives for collective bargaining or other relevant matters. Despite the vote, the union said it will continue with organizing efforts at Rockstar. "For anyone at Rockstar who believes in a fairer workplace, a fairer sector and a fairer society—this isn’t a sign to retreat, it’s a sign to double down on what we stand for. Hundreds of our coworkers voted in favour of our union at Rockstar, yet sadly we recognize we have more work to do to build understanding and win the trust of more of our colleagues," the IWGB Rockstar Game Workers Union said. "We’re ready to put in the effort to make that happen. "Whilst we haven’t emerged with a recognition deal, this ballot has put our union on the radar of every worker, and opened the doo
-
-### How to steal the Bravado Banshee in GTA 6
-Thu, 26 Nov 2026 16:02:38 +0000 — https://www.pcgamer.com/games/grand-theft-auto/gta-6-bravado-banshee-location/
-
-The Bravado Banshee is another one of the cars you'll need to track down for Randy in GTA 6 , but unlike the Pegassi Infernus , this one doesn't involve anything as dodgy as robbing a police lockup. You can find this car inside the Sunrise Premium Autos showroom at the north tip of Southside, southwest of Pay 'N' Spray - Salton or east across the road from Ron Gas - Southside. This region is to the northeast of Hamlet. There are two showrooms here, so make sure you have the right one, though the other does contain Pfister Growlers, in case you haven't gotten that car for Randy yet, either. Head inside to find the car—if you've played previous GTAs, you'll recognise it as a convertible with a white stripe down the middle. Hop inside, use the key cloner, and drive it through the glass. This might damage it a bit, but you can always repair it at Ron Gas nearby, or at the gas station near Randy's shop. Just remember to drive fast, and if the tracker starts to beep, speed up to stop it pinging your location to the cops. Delivering this one gets you 6,500k and a 5k condition bonus as usual if it's in good nick. Grand Theft Auto 6 GTA 6 guide : One-stop info shop GTA 6 cars : The garage lineup GTA 6 characters : Your anti-hero cast GTA 6 map : Confirmed Vice City locales GTA 6 PC release : When's it going to happen? ]]>
-
 ## GameSpot
+
+### Hollow Knight: Silksong s First Expansion Details Coming Friday, Here s How To Watch
+Wed, 25 Nov 2026 15:27:27 +0000 — https://www.gamespot.com/articles/hollow-knight-silksongs-first-expansion-details-coming-friday-heres-how-to-watch/
+
+Hollow Knight: Silksong was such a highly anticipated sequel that it became a meme, so naturally, as soon as it was released, Hollow Knight fans started looking forward to the next big event: the promised Sea of Sorrow expansion. Team Cherry has now announced a special presentation to unveil more details, and you won't have to wait very long. How to watch the Cherry Time Special Presentation The studio has announced a "Cherry Time" for November 27 at 7 AM PT / 10 AM ET . The presentation promises "a bunch of exciting announcements, and an update on Hollow Knight: Silksong - Sea of Sorrow." The stream is already available with a countdown, so to tune in, you can come right back here and watch below. https://www.youtube.com/watch?v=M-QUgdcBpZU Team Cherry Special Presentation Start Times 7 AM PT 10 AM ET 3 PM GMT 2 AM AET (Saturday) Sea of Sorrow will be the first major expansion for Hollow Knight: Silksong, and it will be free for all players. As the name suggests, it will have an aquatic theme, featuring new areas to explore and new tools to do it with. Hollow Knight: Silksong itself was a critical success, scoring a 90 Metacritic average and being named one of GameSpot's Best Games of 2025 . Now that it's out, though, we have to start donning our clown noses for other perennial no-show game reveals .
+
+### Xbox Game Pass Kicks Off December With Horror, Cozy Adventures, And More
+Fri, 27 Nov 2026 10:58:44 +0000 — https://www.gamespot.com/articles/xbox-game-pass-kicks-off-december-with-horror-cozy-adventures-and-more/
+
+One last month of 2026 brings two more waves of Xbox Game Pass titles to close out the year. Subscribers can once again look forward to some new arrivals in the Xbox Game Pass library, ranging from gruesome co-op action to wholesome adventures featuring helpful mice on a mission. These announcements typically come in two waves, with a sneak peek split between them, so while this list isn’t complete yet, we do know what you can expect in the first half of December. As usual, we’ll update this page once Xbox reveals the full lineup for this first batch. For now, you can look forward to an eclectic mix of games, starting with The Outlast Trials . Released in 2024, it’s a co-op survival-horror game that throws a team of up to four players into a gauntlet of deadly trials, where evasion is key to victory. You can also play it solo, and if the onslaught of festive season cheerfulness is getting to you, then this will be a nice–but brutal–change of pace. https://www.youtube.com/watch?v=hCgiwsIUI4g If you’d prefer to focus on the coziness of the season, then Hela: Of Mice and Magic looks like a fun time. Set in a magical forest inspired by Scandinavian lands, the game follows a group of mice on a journey to help people, at the behest of an old witch who can’t make the trip herself. This is also a day-one release for Xbox Game Pass, and it’ll be joined by World of Tanks Blitz on the same day. On December 3, Freestyle Football 2 launches, bringing fast-paced, 5v5 multiplayer street soc
 
 ### Rockstar Games Has A GTA 6 Hit On Its Hands, But Its Union Vote Is A Loss
 Thu, 26 Nov 2026 17:05:21 +0000 — https://www.gamespot.com/articles/rockstar-games-has-a-gta-6-hit-on-its-hands-but-its-union-vote-is-a-loss/
@@ -412,17 +422,22 @@ Wed, 25 Nov 2026 17:00:26 +0000 — https://www.gamespot.com/articles/another-ga
 
 The US government has announced a new round of tariffs targeting several major countries, including China, Japan, Vietnam, and European Union trading partners. Under the proposed tariffs, import taxes will rise significantly, with China facing up to 40% when the new duties take effect next year. According to the BBC , some of the rates will be reduced because of tariff caps that US President Donald Trump has already agreed to, and individual countries could also face different levies. What does this mean for gaming hardware? Trump's first round of "Liberation Day" tariffs contributed to rising console prices, but the Supreme Court eventually struck them down. Big companies like Sony , Microsoft, and Nintendo benefited from tariff refunds after the ruling, but they didn't pass the savings on to consumers. In Sony's case, it was estimated to get back $508 million in refunds from the US government. https://www.youtube.com/watch?v=4FatSqS3VYY&t=19s The new tariffs bypass the Supreme Court's ruling by using a different law, Section 301 of the Trade Act of 1974, which allows the government to impose tariffs on countries that use unfair business practices. The law does require an investigation into specific trade practices before rates are set. If higher import taxes take effect, console companies could face much higher costs, and protecting their profits will likely mean consumers have to cover the difference. Nintendo, Sony, and Microsoft have moved much of their final assembly ou
 
-### PlayStation Plus Free Games For December 2026 Revealed
-Wed, 25 Nov 2026 16:32:11 +0000 — https://www.gamespot.com/articles/playstation-plus-essential-free-games-for-december-2026/
-
-PlayStation has revealed this month's batch of free games for PlayStation Plus subscribers. All PS Plus members will be able to claim a trio of freebies starting December 1-- Tony Hawk's Pro Skater 3+4 , Dragon Ball Xenoverse 2 , and Amnesia: The Bunker . If you haven't claimed November's PlayStation Plus free games yet, make sure to do so before next Tuesday. Like the previous compilation of classic skateboarding games, Tony Hawk's Pro Skater 3+4 remakes the classic third and fourth games in the series. With enhanced visuals, familiar gameplay, and a killer soundtrack, it also adds extra content to the mix--and yes, the soundtrack still slaps. While Dragon Ball Xenoverse 3 won't be out until late next year, don't sleep on the first sequel. It's still a solid action-RPG where you craft your own custom fighter to join Trunks and the Time Squad, and it received a ton of post-launch support that stretched for years. The game also received a free current-gen update in 2024, sharpening its visuals for modern systems. Finally, Amnesia: The Bunker is a pretty great horror game to play in case you need to escape all the festive season cheer. As French soldier Henri Clément, trench warfare takes on a terrifying new form as you're hunted by sinister forces in the shadows, and the game keeps you on your toes as you try to escape the battlefields of World War 1 in one piece. PlayStation Plus December 2026 monthly free games Available December 1 – January 4, 2027. Tony Hawk's Pro Skater 3
-
-### Lords Of The Fallen 2 Delayed Yet Again
-Wed, 25 Nov 2026 16:38:22 +0000 — https://www.gamespot.com/articles/lords-of-the-fallen-2-delayed-yet-again/
-
-CI Games has announced that Lords of the Fallen II is coming in April 2027, meaning it's been delayed again. An exact release date will be announced in December, the company said, and people are theorizing that could mean the date will be announced at The Game Awards on December 10. Lords of the Fallen II was originally scheduled to launch in 2026, but CI Games delayed it to Q1 2027 (January-March) to avoid GTA 6 and give the team more time to polish the experience . Now it's delayed to Q2 2027. https://www.youtube.com/watch?v=EYYXsH-DBoo For the previous delay, CI Games said feedback and tests showed that there are “meaningful opportunities” available to “further refine and strengthen the overall experience” with more time. Despite its name, Lords of the Fallen 2 is actually the third game in the series, following Lord of the Fallen (2014) and Lords of the Fallen (2023). Based in Poland, CI Games is also known for the Sniper: Ghost Warrior series, the latest entry being 2021's Sniper Ghost Warrior Contracts 2.
-
 ## Rock Paper Shotgun
+
+### "A new era" for Vermintide 2 modding dawneth, as Fatshark release powerful new tools for custom levels, models and animations
+Fri, 27 Nov 2026 12:52:30 +0000 — https://www.rockpapershotgun.com/a-new-era-for-vermintide-2-modding-dawneth-as-fatshark-release-powerful-new-tools-for-custom-levels-models-and-animations
+
+Pick up your feet, mayflies! Fatshark's co-op rat-whacker Warhammer: Vermintide 2 is getting some new mod tools. It already has a public SDK and modding framework, you say? Ah, but the new mod tools are better. They are a public-facing incarnation of the very same digital spellcraft Fatshark use to create the official levels and characters. Read more
+
+### Drone Pilots have come to Cyber Knights: Flashpoint, the stealth tactics game's "most complex" class yet, alongside a pet system and the promise of "assassin cats"
+Fri, 27 Nov 2026 12:00:00 +0000 — https://www.rockpapershotgun.com/drone-pilots-have-come-to-cyber-knights-flashpoint-the-stealth-tactics-games-most-complex-class-yet-alongside-a-pet-system-and-the-promise-of-assassin-cats
+
+How dare you accuse me of being a friendless loser! I have loads of friends! Their names are R2-D2 and Clippy and Arnold and Rosie the Maid. They all live in my rucksack, ready and waiting should I need somebody to dupe a security guard or fill the air around me with explosive chaff. All except Clippy, that is. He's too chonky to stuff in a bag, which can make for tricky mission extractions, but he compensates for that with his generous selection of *voice drops six octaves* FULLY LOADED AUTOCANNONS. With friends like these, who needs human allies? It's time to play stealth tactics sim Cyber Knights: Flashpoint the way it was meant to be played: skulking in a hole while buzzing, clanking mechabastards cleanse the map of any and all defenders. Don't spare the lead, Rosie. You were not built to understand mercy. Read more
+
+### "Does changing where games run cross a legal line?" Microsoft-owned Github ask in now-deleted post celebrating GTA 6's effect on PC port-focused PS5 emulator
+Fri, 27 Nov 2026 11:27:40 +0000 — https://www.rockpapershotgun.com/does-changing-where-games-run-cross-a-legal-line-microsoft-owned-github-ask-in-now-deleted-post-celebrating-gta-6s-effect-on-pc-port-focused-ps5-emulator
+
+'Yay, GTA 6 is out on consoles and lots of people are playing it' is a fairly harmless thing to say. Unless you're, I dunno, a development platform mentioning that in a post celebrating the recent success of a PS5 emulator used for making unofficial PC ports of console games. You know, the sorts of unofficial PC ports vibecoders and proper coders having been scrambling to make of GTA 6 since its Xbox executable was allegedly leaked . The sorts of unofficial PC ports publishers like Rockstar tend to quickly move to have taken down . Read more
 
 ### Dark fantasy and sudoku fuse together in unholy matrimony in Dungoku, a dungeon crawling twist on the classic puzzle game
 Thu, 26 Nov 2026 22:50:40 +0000 — https://www.rockpapershotgun.com/dark-fantasy-and-sudoku-fuse-together-in-unholy-matrimony-in-dungoku-a-dungeon-crawling-twist-on-the-classic-puzzle-game
@@ -468,19 +483,4 @@ Ubisoft, they of the recently revealed generative AI-focused game studio Motherb
 Thu, 26 Nov 2026 12:07:00 +0000 — https://www.rockpapershotgun.com/clearly-not-everything-has-gone-well-during-fables-lengthy-creation-says-playground-boss-but-the-original-vision-remains-intact-despite-taking-cues-from-other-rpgs
 
 The Fable reboot is finally set to kick the release chicken (I'm not sure that's an established phrase anywhere in the world, but roll with it) early next year, following a not small amount of time in development and multiple delays . Despite that long time in the oven having made it necessary to look beyond just the series' classic entries for RPG inspiration, Playground Games' Fable general manager has said the team's "original vision" of what a Fable game needs to be hasn't changed. Read more
-
-### Nvidia release new graphics card driver, hopefully finally fixing that SSD-hammering unnecessary write bug the previous hotfix couldn't seem to sort
-Wed, 25 Nov 2026 17:24:30 +0000 — https://www.rockpapershotgun.com/nvidia-release-new-graphics-card-driver-hopefully-finally-fixing-that-ssd-hammering-unnecessary-write-bug-the-previous-hotfix-couldnt-seem-to-sort
-
-Nvidia may have finally released a proper cure for their last graphics driver, 621.24, reportedly writing unneccesarily vast amounts of data to some users' SSDs. A hotfix late last week seemed to have made things better, but not fixed everything. Here's hoping driver 621.40 has managed to totally rectify things. Read more
-
-### Company of Heroes 3: Operation Torch review - moments of barely held-together chaos squandered by mechanical scripting
-Wed, 25 Nov 2026 17:00:50 +0000 — https://www.rockpapershotgun.com/company-of-heroes-3-operation-torch-review
-
-After waiting three years for Relic to expand Company of Heroes 3 's singleplayer, watching DLC after DLC focused on expanding the roster of units available in multiplayer matches, Operation Torch looks like a welcome addition. It's a new 15-mission campaign set in North Africa. following two US officers as they try to break the German Afrika Korps' hold on the region. Having played through the whole thing, I really want to say it's been worth the wait. Unfortunately, it's not so straightforward as that. Read more
-
-### Paradox grand strategy Afterworld has a wasteland band mechanic that sounds worryingly like a continent-sized game of The Sims
-Wed, 25 Nov 2026 16:42:00 +0000 — https://www.rockpapershotgun.com/paradox-grand-strategy-afterworld-has-a-wasteland-band-mechanic-that-sounds-worryingly-like-a-continent-sized-game-of-the-sims
-
-Much like a huge dust cloud gradually resolving into an army of skull-painted bikers, Paradox's post-apocalyptic grand strategy game Afterworld continues to take shape in the course of developer blog posts. The latest Parablog digs into what I think is one of the game's most interesting aspects &ndash; you don't control one single unified civ. Instead, you amass a motley tribe by befriending, conquering, or otherwise assimilating a range of individual wasteland bands. Read more
 

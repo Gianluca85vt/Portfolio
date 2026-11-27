@@ -1,72 +1,77 @@
-# Manga — harvested 2026-11-27T00:48:42.277Z
+# Manga — harvested 2026-11-27T14:20:23.926Z
 
 ## Anime News Network
 
-### Live-Action Darwin's Game Film's Trailer Reveals More Cast
-Thu, 26 Nov 2026 17:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-26/live-action-darwin-game-film-trailer-reveals-more-cast/.244219
+### PelleK: From Posting Anime Covers on YouTube, to Singing Skeleton Knight's Openings
+Fri, 27 Nov 2026 09:00:00 -0500 — https://www.animenewsnetwork.com/interview/2026-11-27/pellek-from-posting-anime-covers-on-youtube-to-singing-skeleton-knight-openings/.244085
 
-Raul, Gaku Sano, Haruse Akune, Hinano Nakayama, Kōki Maeda, Kentarō Maeda join cast
+How does some guy in Norway—who doesn't speak fluent Japanese—go from doing anime covers on YouTube to actually singing anime openings?
 
-### Ao no Hana Utsuwa no Mori Live-Action Series Gets 2-Episode Spinoff Drama on December 21
-Thu, 26 Nov 2026 16:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-26/ao-no-hana-utsuwa-no-mori-live-action-series-gets-2-episode-spinoff-drama-on-december-21/.244150
+### Ranma ½ Season 3 ‒ Episode 8
+Fri, 27 Nov 2026 08:30:00 -0500 — https://www.animenewsnetwork.com/review/ranma-season-3/episode-8/.244208
 
-<cite>Ao no Hana Utsuwa no Mori Spinoff Ano Ko no Kuchibeni</cite> features new story, cast members; main series also to end on December 17
+With Ukyo and Tsubasa, Takahashi returns to a plot contrivance she used in her previous series, <i>Urusei Yatsura</i>
 
-### Live-Action Quiztopia Series Adds 13 Cast Members
-Thu, 26 Nov 2026 14:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-26/live-action-quiztopia-series-adds-13-cast-members/.244100
+### Nia Liston: The Merciless Maiden ‒ Episode 8
+Fri, 27 Nov 2026 07:30:00 -0500 — https://www.animenewsnetwork.com/review/nia-liston-the-merciless-maiden/episode-8/.244172
 
-Series debuts on Netflix on December 17
+I love that this silly show can make me feel so seen.
 
-### The Dragon Prince's Ill-Mated Betrothal Manga Ends, Gets 3-Chapter Epilogue
-Thu, 26 Nov 2026 12:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-26/the-dragon-prince-ill-mated-betrothal-manga-ends-gets-3-chapter-epilogue/.244106
+### Pokémon Anime Gets New Season Featuring Liko, Roy in October 2027
+Fri, 27 Nov 2026 06:45:46 -0500 — https://www.animenewsnetwork.com/news/2026-11-27/pokemon-anime-gets-new-season-featuring-liko-roy-in-october-2027/.244257
 
-Manga's main story ended on September 17
+Separate new <cite>Pokémon</cite> program to air starting on January 8
 
-### ANOMALITH Game Review
-Thu, 26 Nov 2026 12:00:00 -0500 — https://www.animenewsnetwork.com/review/game/pc-playsation-5-nintendo-switch-2/anomalith/.243577
+### Gero Performs Opening Theme for Welcome to Demon School! Iruma-kun: IruMafia Edition TV Anime
+Fri, 27 Nov 2026 06:16:41 -0500 — https://www.animenewsnetwork.com/news/2026-11-27/gero-performs-opening-theme-for-welcome-to-demon-school-iruma-kun-irumafia-edition-tv-anime/.244256
 
-The best way to describe <cite>ANOMALITH's</cite> strengths is that it manages to do a lot with very little, though that means it often bites off more than it can chew.
+12-episode spinoff series debuts on January 4
 
-### MangaPlaza Add Seven Seas Titles to Catalogue
-Thu, 26 Nov 2026 11:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-26/mangaplaza-add-seven-seas-titles-to-catalogue/.244200
+### Red Cat Ramen Anime's 2nd Season Reveals Main Promo Video, January 10 Debut
+Fri, 27 Nov 2026 05:57:31 -0500 — https://www.animenewsnetwork.com/news/2026-11-27/red-cat-ramen-anime-2nd-season-reveals-main-promo-video-january-10-debut/.244255
 
-Titles include <cite>Mushoku Tensei</cite>, <cite>The Saint's Magic Power is Omnipotent</cite>, <cite>The Strange House</cite>, more
+Rikon Densetsu, Hana Hope perform theme songs
 
-### kuboken's Killer Shark in Another World Manga Gets TV Anime
-Thu, 26 Nov 2026 10:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-26/kuboken-killer-shark-in-another-world-manga-gets-tv-anime/.244231
+### The Cat and the Dragon Anime's 2nd Season Reveals January Debut, More Cast in 1st Promo Video
+Fri, 27 Nov 2026 05:31:14 -0500 — https://www.animenewsnetwork.com/news/2026-11-27/the-cat-and-the-dragon-anime-2nd-season-reveals-january-debut-more-cast-in-1st-promo-video/.244253
 
-Shige Fukase directs series at Studio Lings
+Emiri Iwai, Satoshi Hino, more join cast; Harutya performs opening theme
 
-### Fool Night Anime Reveals 3 More Cast Members
-Thu, 26 Nov 2026 07:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-26/fool-night-anime-reveals-3-more-cast-members/.244230
+### Inherit the Winds TV Anime Reveals January 10 Debut in Video
+Fri, 27 Nov 2026 05:14:01 -0500 — https://www.animenewsnetwork.com/news/2026-11-27/inherit-the-winds-tv-anime-reveals-january-10-debut-in-video/.244248
 
-Entire series debuted on Netflix worldwide on Thursday
+Main promo video also previews opening theme song
 
-### Shin Oishinbo TV Anime Reveals Special Promo Video
-Thu, 26 Nov 2026 06:09:11 -0500 — https://www.animenewsnetwork.com/news/2026-11-26/shin-oishinbo-tv-anime-reveals-special-promo-video/.244229
+### Odekake Kozame Gets 1st Stop-Motion Short
+Fri, 27 Nov 2026 04:13:17 -0500 — https://www.animenewsnetwork.com/news/2026-11-27/odekake-kozame-gets-1st-stop-motion-short/.244247
 
-Series debuts on January 4
+Short debuted on Friday
 
-### Arcanadea TV Anime Casts M.A.O, Ai Kakuma
-Thu, 26 Nov 2026 05:47:55 -0500 — https://www.animenewsnetwork.com/news/2026-11-26/arcanadea-tv-anime-casts-m.a.o-ai-kakuma/.244225
+### Monogatari Off & Monster Season Anime's New Episode Airs on December 31
+Fri, 27 Nov 2026 04:10:25 -0500 — https://www.animenewsnetwork.com/news/2026-11-27/monogatari-off-and-monster-season-anime-new-episode-airs-on-december-31/.244241
 
-Both voice actors reprise roles from other works in franchise for anime debuting in January
+Mulasaki Ima performs theme song
 
-### The Final-Boss Prince is Somehow Obsessed with the Chubby Villainess TV Anime Reveals January 1 Debut in Video
-Thu, 26 Nov 2026 05:22:58 -0500 — https://www.animenewsnetwork.com/news/2026-11-26/the-final-boss-prince-is-somehow-obsessed-with-the-chubby-villainess-tv-anime-reveals-january-1-/.244224
+### Solitary Gourmet Live-Action Series Gets 10th Straight New Year's Eve Special
+Fri, 27 Nov 2026 01:19:02 -0500 — https://www.animenewsnetwork.com/news/2026-11-27/solitary-gourmet-live-action-series-gets-10th-straight-new-year-eve-special/.244238
 
-New visual, more cast, theme song artists also revealed
+New special will be set in Thailand
 
-### 1st Witch on the Holy Night Film Opens at #2
-Thu, 26 Nov 2026 02:21:25 -0500 — https://www.animenewsnetwork.com/news/2026-11-26/1st-witch-on-the-holy-night-film-opens-at-no.2/.244181
+### Masaaki Yuasa's Daisy's Life Anime Film Reveals Clip, 2027 Delay
+Fri, 27 Nov 2026 00:58:51 -0500 — https://www.animenewsnetwork.com/news/2026-11-27/masaaki-yuasa-daisy-life-anime-film-reveals-clip-2027-delay/.244239
 
-<cite>Godzilla Minus Zero</cite> stays at #1 in 3rd weekend
+2 new screenshots, more staff also unveiled for film
 
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Fall 2026 Anime Rankings – Week 8
+Fri, 27 Nov 2026 12:30:00 GMT — https://animecorner.me/fall-2026-anime-rankings-week-8/
+
+Even the Student Council Has Its Holes! takes its third win in Fall 2026 Week 8, followed by STEEL BALL RUN and Firefly Wedding.
 
 ### Killer Shark in Another World Anime Adaptation Announced
 Thu, 26 Nov 2026 15:33:37 GMT — https://animecorner.me/killer-shark-in-another-world-anime-adaptation-announced/
@@ -115,6 +120,26 @@ At 25:00, in Akasaka boys' love manga by Hiroko Natsuno is getting an anime&hell
 
 ## MyAnimeList News
 
+### Kaze wo Tsugumono Reveals Additional Staff, Second Promo
+Fri, 27 Nov 2026 03:24:16 -0800 — https://myanimelist.net/news/74987772?_location=rss
+
+The official website of the Kaze wo Tsugumono (Inherit the Winds) original television anime revealed additional staff and the second promotional video on Friday. The anime series is scheduled to premiere on January 10 at 11:30 p.m. on the Agaru Anime programming block on CBC and TBS 28 affiliated stations. Staff: Script: Yutaka Narui Art Director: Yuriko Sera Color Design: Youta Imai (Akujiki Reijou to Kyouketsu Koushaku color setting) Director of Photography: Takahiro Miyata (Shoumetsu To...
+
+### Neko to Ryuu 2nd Season Reveals Additional Cast, Opening Theme, First Promo, Winter 2027 Premiere
+Fri, 27 Nov 2026 01:30:55 -0800 — https://myanimelist.net/news/74987570?_location=rss
+
+The official website for the Neko to Ryuu (The Cat and the Dragon) television anime revealed additional cast, opening theme song, and the first promotional video for the Season 2 on Friday. The second season adapting Amara s fantasy light novel will premiere on Tokyo MX, BS NTV, AT-X, and Yomiuri TV in January 2027. Cast Kururuka: Emiri Iwai (Ghost Concert: Missing Songs) Crow: Satoshi Hino (Champignon no Majo) Yajurou: Katsuyuki Konishi (Kusuriya no Hitorigoto) Boy: Megumi Han (Tefuda ga O...
+
+### Additional Cast for Shuiro no Kamen Announced
+Thu, 26 Nov 2026 21:54:55 -0800 — https://myanimelist.net/news/74987017?_location=rss
+
+The official website for the television anime adaptation of Dr.Poro and Nabana Naba s Shuiro no Kamen (The Vermilion Mask) manga announced five additional cast members on Friday. The anime series began airing on October 10 at 5:30 p.m. on Yomiuri TV and Nippon TV, with the second part will air in April 2027. Cast Kaku: Kazuyuki Okitsu (The Fable) Suzume: Yuu Hayashi (Tokyo Revengers) Biran: Katsuyuki Konishi (Kimetsu no Yaiba) Liberal: Yukana (Code Geass: Hangyaku no Lelouch) Zeguma: Tomok...
+
+### Hinagiku no Jinsei Announces Additional Staff, 2027 Delay
+Thu, 26 Nov 2026 20:40:50 -0800 — https://myanimelist.net/news/74986874?_location=rss
+
+Animation studio ame pippin revealed additional staff members and still images (pictured) for the anime movie adaptation of Banana Yoshimoto s Hinagiku no Jinsei (Daisy s Life) novel on Friday. The anime, previously scheduled for 2026, is now planned for a 2027 opening. Staff Character Design: Izumi Murakami (All You Need Is Kill) Art Director: Tomotaka Kubo (Promare) Visual Development: Batiste Perron (Yoru wa Mijikashi Arukeyo Otome director of photography) In-Between Animation Dire...
+
 ### Giant Ojousama Reveals Additional Cast, Character Promo
 Thu, 26 Nov 2026 09:17:50 -0800 — https://myanimelist.net/news/74984947?_location=rss
 
@@ -145,36 +170,6 @@ Wed, 25 Nov 2026 18:45:25 -0800 — https://myanimelist.net/news/74983014?_locat
 
 The official website for the television anime adaptation of Buncololi&rsquo;s Sasaki to Pii-chan (Sasaki and Peeps) reveals additional cast on Wednesday. The anime series premiered on October 7 and is currently airing on AT-X, Tokyo MX and BS Nippon Television, with the first episode broadcasting as a one-hour special. Cast Magical Pink: Inori Minase (Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka) Magical Red: Sumire Uesaka (Urusei Yatsura (2022)) Magical Blue: Akira Sekine (Nisekoi)...
 
-### Kakunaru Ue wa Unveils Additional Cast, Theme Songs, Second Promo
-Wed, 25 Nov 2026 04:38:37 -0800 — https://myanimelist.net/news/74979929?_location=rss
-
-The official website of the Kakunaru Ue wa (Now That We Draw) television anime unveiled additional cast, a key visual (pictured), the theme songs, and second promotional video on Wednesday. The anime series adapting Kyuu Takahata and Yuuji Kaba s romantic comedy manga is scheduled to premiere on January 9 at 12:30 a.m. on Tokyo MX and BS11, followed by AT-X. Voice actors Hina Youmiya (Boku no Kokoro no Yabai Yatsu) and Kousuke Toriumi (Youjo Senki) are joining the cast as Ren Shioiri and Oy...
-
-### Manga 25-ji, Akasaka de Gets TV Anime in 2027
-Wed, 25 Nov 2026 02:47:18 -0800 — https://myanimelist.net/news/74979702?_location=rss
-
-An official website opened for a television anime adaptation of Hiroko Natsuno s 25-ji, Akasaka de (At 25:00 in Akasaka) web manga on Wednesday, revealing the main cast, teaser visual (pictured), and teaser promotional video. The anime will premiere on TBS in 2027. Voice actors Souma Saitou (Odayaka Kizoku no Kyuuka no Susume.) and Takuya Satou (Super no Ura de Yani Suu Futari) are starring in the anime as Yuki Shirasaki and Asami Hayama, respectively. Natsuno began serializing the boys&#03...
-
-### Youchien Wars Unveils Additional Staff, Main Promo, Opening Theme
-Wed, 25 Nov 2026 01:23:54 -0800 — https://myanimelist.net/news/74979574?_location=rss
-
-The official website for the Youchien Wars (Kindergarten Wars) revealed additional staff, opening theme, main visual (pictured), and main promotional video on Wednesday. The anime series adapting You Chiba s action comedy manga will air on TV Tokyo network stations in April 2027. Staff Series Composition, Script: Takaomi Kanasaki (Silent Witch) Art Director: Satoru Kuwahara (Isekai Yururi Kikou) Color Design: Saori Yoshida (Kono Subarashii Sekai ni Shukufuku wo!) CG Director: Masami Suzuki...
-
-### Himekishi-sama no Himo Reveals Supporting Cast, Second Promo
-Wed, 25 Nov 2026 00:45:57 -0800 — https://myanimelist.net/news/74979528?_location=rss
-
-The official website for the Himekishi-sama no Himo (The Kept Man of the Princess Knight) television anime adaptation revealed supporting cast and second promotional video on Wednesday. The anime adapting Tooru Shirogane s action fantasy light novel will premiere on AT-X on January 3 at 11.30 p.m., followed by broadcasts on Tokyo MX and BS Asahi. Cast Ralph: Yuuya Hirose (World Is Dancing) Noelle: Manaka Iwami (Oni no Hanayome) Beatrice Maretto: Shion Wakayama (Tefuda ga Oome no Victoria) C...
-
-### Supporting Cast for Cheat Fuyo Announced
-Tue, 24 Nov 2026 22:01:20 -0800 — https://myanimelist.net/news/74979057?_location=rss
-
-The official X account of the Tsuihou sareta Cheat Fuyo Majutsushi wa Kimama na Second Life wo Ouka suru. Ore wa Buki dake ja Naku, Arayuru Mono ni "Kyouka Point" wo Fuyo Dekiru shi, Ore no Ishi de Itsudemo Kouka wo Kaijo Dekiru kedo, Nokotta Hitotachi Daijoubu? (The Laid-Off Cheat-Granting Mage Enjoys a New Life: I Can Add "Enhancement Points" Not Just to Weapons but to Anything, and I Can Cancel the Effects Whenever I Want, but Are the People Left Behind Going to Be Okay?)...
-
-### Historie Unveils Production Staff, Additional Cast, Theme Songs, Second Promo
-Tue, 24 Nov 2026 20:35:33 -0800 — https://myanimelist.net/news/74978922?_location=rss
-
-The official website for the television anime adaptation of Hitoshi Iwaaki s Historie manga revealed the production staff, additional cast, theme songs, key visual (pictured), and a second promotional video on Wednesday. The anime is scheduled to premiere as a two-episode special on January 9 at 1:23 a.m. on MBS, TBS, CBC, and Prime Video, followed by BS-TBS and AT-X. Cast Antigonus: Fumihiko Tachiki (Bleach) Satura: Akira Sekine (Tenmaku no Jaadugar) Bato: Toshiki Masuda (Boku no Hero Acad...
-
 ## Otaku USA
 
 _Nothing in the last 48 hours._
@@ -185,9 +180,4 @@ _Nothing in the last 48 hours._
 Thu, 26 Nov 2026 10:00:34 +0000 — https://animeuknews.net/2026/11/smoking-behind-the-supermarket-with-you-volume-8-review/
 
 Something has definitely changed in the relationship between fellow after-work smokers, salaryman Sasaki and supermarket cashier Miss Tayama...
-
-### How I Attended An All Guy s Mixer
-Wed, 25 Nov 2026 10:00:29 +0000 — https://animeuknews.net/2026/11/how-i-attended-an-all-guys-mixer/
-
-Mixers are a good way for college students to meet girls. But what do these three guys do when their dates turn out to be drag kings?
 
