@@ -1,4 +1,4 @@
-# AI — harvested 2026-11-26T14:27:40.872Z
+# AI — harvested 2026-11-27T00:48:42.277Z
 
 ## OpenAI
 
@@ -20,9 +20,6 @@ Wed, 25 Nov 2026 18:52:55 GMT — https://huggingface.co/blog/allenai/where-scie
 
 ### An Indic Voice Agent with CUGA
 Wed, 25 Nov 2026 10:22:09 GMT — https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga
-
-### Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000
-Wed, 25 Nov 2026 00:00:00 GMT — https://huggingface.co/blog/inkling-2-mini-inference-hillclimb
 
 ## Google DeepMind
 

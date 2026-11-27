@@ -1,184 +1,204 @@
-# Film & TV — harvested 2026-11-26T14:27:40.872Z
+# Film & TV — harvested 2026-11-27T00:48:42.277Z
 
 ## Variety
 
-### Gérard Depardieu to Stand Trial for Rape Charges After Failed Appeal
-Thu, 26 Nov 2026 14:23:34 +0000 — https://variety.com/2026/film/global/gerard-depardieu-trial-rape-charges-failed-appeal-1236958940/
+### Gerald R. Molen, Oscar-Winning ‘Schindler’s List Producer, Dies at 91
+Thu, 26 Nov 2026 23:33:00 +0000 — https://variety.com/2026/film/news/gerald-r-molen-dead-schindlers-list-producer-1236959200/
 
-French actor Gérard Depardieu will face a criminal rape trial after an appeal from his lawyers failed. According to Reuters, on Thursday the Paris Court of Appeal ruled that a trial would go ahead in relation to rape charges related to accusations from actress Charlotte Arnould in 2018. She alleged that in August of that [ ]
+Gerald R. Molen, the Oscar-winning producer behind Steven Spielberg’s “Schindler’s List,” has died. He was 91. Molen’s death was announced by his great-niece, Rachel Lorraine Pullan, in an Instagram post on Sunday. “This morning my great-uncle, Gerald R. Molen, passed on to join my great-grandma and his dear wife Pat on the other side of [ ]
 
-### India Targets at Least 10 Million AI Workers Through National AI Talent Mission, WAVES Film Bazaar Panel Hears
-Thu, 26 Nov 2026 12:50:50 +0000 — https://variety.com/2026/digital/markets-festivals/india-targets-10-million-ai-workers-waves-film-bazaar-1236958927/
+### Asha Bhosle and S. Janaki Remembered by Singer K.S. Chithra and Suhasini Maniratnam at IFFI s Lata Mangeshkar Talk
+Thu, 26 Nov 2026 22:34:41 +0000 — https://variety.com/2026/film/festivals/asha-bhosle-s-janaki-ks-chithra-suhasini-iffi-1236959192/
 
-India plans to bring at least 10 million people into its AI workforce through the National AI Talent Mission, recently launched by Prime Minister Narendra Modi, according to Lt. Col. Vikram Singh Bhati, director of the National Council for Vocational Education and Training (NCVET). Bhati was speaking at AI and the Future of Creative Skills: [ ]
+Asha Bhosle and S. Janaki, two of Indian cinema s most celebrated playback singers, were remembered at the 57th International Film Festival of India (IFFI) in Goa by singer K.S. Chithra and actor-filmmaker Suhasini Maniratnam. Bhosle, a two-time Grammy nominee whose name was referenced in Cornershop s 1997 hit Brimful of Asha, died in April at 92. [ ]
 
-### BBC Set to Be Investigated Over Antisemitism as Former Producer Says: It Is a Hostile Environment for Jews Who Want to Be Openly Jewish
-Thu, 26 Nov 2026 12:33:00 +0000 — https://variety.com/2026/tv/global/bbc-investigation-antisemitism-lord-mann-1236958910/
+### Jesse Plemons on the ‘Honor’ of Playing Plutarch in The Hunger Games After Philip Seymour Hoffman and Debating Director Francis Lawrence Over the Character s Motivations
+Thu, 26 Nov 2026 22:30:37 +0000 — https://variety.com/2026/film/features/hunger-games-jesse-plemons-philip-seymour-hoffman-plutarch-1236957335/
 
-The BBC is set to be investigated over antisemitism. The government’s independent adviser on antisemitism, Lord John Mann, has written to the broadcaster to outline his investigation. “I am a big supporter of the BBC and public broadcasting. It is precisely because I believe in the future of the BBC that I need to intervene [ ]
+“The Hunger Games: Sunrise on the Reaping” might be Haymitch Abernathy’s prequel movie, but Oscar nominee Jesse Plemons was the first person cast in the film. Plemons plays Plutarch Heavensbee, a Capitol insider, who becomes a key figure in the rebellion that sparks in the latter half of Suzanne Collins’ original trilogy of dystopian novels. [ ]
 
-### Qatar Is Forging Ahead With Film and TV Industry Plan, Undeterred by Regional Turbulence
-Thu, 26 Nov 2026 12:17:28 +0000 — https://variety.com/2026/film/global/qatar-film-tv-industry-regional-turbulence-1236958826/
+### John Travolta Didn’t Recognize Himself as Alleged JFK Assassin Johnny Roselli in ‘November 1963’: ‘I Went, Oh My God, He’s the Devil ’
+Thu, 26 Nov 2026 22:05:47 +0000 — https://variety.com/2026/film/festivals/john-travolta-jfk-assassin-johnny-roselli-november-1963-1236959137/
 
-Undeterred by regional turbulence, Qatar is forging ahead with its plan to build a film and TV industry that intends to put the tiny Arab state rich in oil and gas on the global entertainment map. That is the main takeaway of the recently concluded second edition of the Doha Industry Days, held Nov. 19-21 [ ]
+John Travolta rarely connects with all his characters. Sometimes, he even loves to hate them. “They say you have to find something you like,” the actor explains. “But I ve never felt that. I think you have to like the result, pulling it off. That s where the joy comes from. To become these people, you don t [ ]
 
-### Ramayana Doubled Visitors at Kerala s Jatayu Rock, Official Says as India Pitches Itself to Global Productions at WAVES Film Bazaar
-Thu, 26 Nov 2026 12:13:56 +0000 — https://variety.com/2026/film/markets-festivals/ramayana-shoot-doubled-jatayu-rock-visitors-1236958905/
+### Chiwetel Ejiofor on How Stephen Frears’ Dirty Pretty Things Led Him to Fall in Love With Film
+Thu, 26 Nov 2026 20:58:05 +0000 — https://variety.com/2026/film/awards/chiwetel-ejiofor-stephen-frears-dirty-pretty-things-1236959080/
 
-Nitesh Tiwari s Ramayana has doubled visitor numbers at Kerala s Jatayu Earth s Center, known locally as Jatayu Rock, Ministry of Tourism joint secretary Harikishore S. told a WAVES Film Bazaar panel in Goa, where Indian officials pitched a single-window filming portal and state incentives to international producers. The site is traditionally held to be where the [ ]
+Chiwetel Ejiofor started his film career by doing something that many would consider as the absolute peak: he made a film with Steven Spielberg. “Amistad” was his very first film and, understandably, he was afraid of peaking too soon. “I was definitely worried about it at the time,” he said at Torino Film Festival. “You [ ]
 
-### Huw Edwards Speaks Publicly About Conviction and Downfall for First Time in Channel 4 Doc: I d Lost the Plot
-Thu, 26 Nov 2026 11:55:50 +0000 — https://variety.com/2026/tv/global/huw-edwards-speaks-publicly-about-crimes-channel-4-doc-1236958880/
+### Luca Guadagnino Wants Next Movie to Be a Love Story, Confirms American Psycho’ and Separate Rooms’ Not Happening
+Thu, 26 Nov 2026 20:47:42 +0000 — https://variety.com/2026/film/news/luca-guadagnino-next-movie-love-story-1236959119/
 
-Huw Edwards, the former BBC news anchor who in 2024 was convicted of three counts of making indecent images of children, will speak publicly about his criminal actions and downfall for the first time in a new Channel 4 doc. Huw Edwards — Guilty, airing on Dec. 1, is described as a stark exploration of a disgraced public [ ]
+Luca Guadagnino wants to return to romance. Speaking to Variety at the Marrakech Film Festival where he s presenting Artificial, the Italian filmmaker behind “Call Me by Your Name,” “Bones and All” and “Queer” revealed that he hopes his next directorial endeavor will be another love story. “I think a lot of inspiration could come from [ ]
 
-### Bandit Queen Sequel From Bobby Bedi, Satluj Director Honey Trehan Targets Late 2027 or Early 2028 Release, Enters Casting (EXCLUSIVE)
-Thu, 26 Nov 2026 11:49:33 +0000 — https://variety.com/2026/film/news/bandit-queen-sequel-bobby-bedi-honey-trehan-2027-28-release-1236958895/
+### What’s New on Netflix for December 2026
+Thu, 26 Nov 2026 20:35:00 +0000 — https://variety.com/feature/whats-on-netflix-movies-shows-1203517873/
 
-The sequel to Bandit Queen, the 1994 drama about Indian outlaw Phoolan Devi, is aiming for a release at the end of 2027 or early 2028, producer Bobby Bedi tells Variety, with the screenplay now in its final draft and casting underway. Bedi, who produced Shekhar Kapur s original, is calling the follow-up Bandit Queen MP. [ ]
+Winter is here, and December is the perfect time to get cozy and hunker down for the holidays. What better way to do so than surfing the streaming platforms for a new show to binge or movie to obsess over? “La Bola Negra,” which has garnered significant attention in its festival run, is one of [ ]
 
-### Richard Hammond Says He Was Approached About Top Gear Return, but Decided: No, I m Too Old
-Thu, 26 Nov 2026 11:33:02 +0000 — https://variety.com/2026/tv/global/top-gear-richard-hammond-declined-return-1236958870/
+### What’s New on Disney+ in December 2026
+Thu, 26 Nov 2026 20:20:00 +0000 — https://variety.com/feature/whats-on-disney-plus-new-shows-movies-1203517920/
 
-Former Top Gear co-host Richard Hammond has revealed that he was approached about returning to the BBC s revived version of the car show, but declined because he s too old. Hammond appeared on Times Radio on Wednesday to discuss the series, shortly after it was announced that Gordon Ramsay would be taking the wheel as lead [ ]
+Disney+ is back to bring festive cheer home with holly jolly favorites and new seasonal premieres to watch with the whole family. Fans can stream classics like “Home Alone 2: Lost in New York” and “Die Hard,” or make the season merry with new releases including “Mickey’s Home Alone” and “Diary of a Wimpy Kid [ ]
 
-### Indie Filmmakers at WAVES Film Bazaar Look to Dangal China Playbook, Pop-Up Cinemas and Screening Fees to Find Audiences
-Thu, 26 Nov 2026 11:20:39 +0000 — https://variety.com/2026/film/markets-festivals/indie-filmmakers-dangal-china-playbook-waves-film-bazaar-1236958872/
+### Jessy Moussallem’s Faux Bijoux, Laila Abbas’ America Is Behind the Door Take Top Prizes at Marrakech s Atlas Workshops
+Thu, 26 Nov 2026 20:13:14 +0000 — https://variety.com/2026/film/global/faux-bijoux-america-is-behind-the-door-prizes-atlas-workshops-1236959077/
 
-Aranya Sahay, the director of Humans in the Loop, is working with Prasad Shetty, the distributor who released Dangal in China, as he plans how his second feature, Mayapuri, can reach audiences in India, China and the U.S. Sahay outlined the plan at WAVES Film Bazaar, the market of the International Film Festival of India [ ]
+Jessy Moussallem’s “Faux Bijoux” and Laila Abbas’ “America Is Behind the Door” claimed the top post-production and development prizes, respectively, at this year’s Atlas Workshops, the industry strand running Nov. 22 – 26 as part of the Marrakech Film Festival. The winner of a post-production grant in the amount of €30,000 ($33,000), Moussallem’s debut feature [ ]
 
-### ‘Pirates of the Caribbean’ Secret Cinema Immersive Stage Show Teases Behind-the-Scenes Rehearsal Footage (EXCLUSIVE)
-Thu, 26 Nov 2026 11:00:00 +0000 — https://variety.com/2026/film/global/pirates-of-the-caribbean-secret-cinema-video-1236958835/
+### Elizabeth Holmes’ Partner Billy Evans Writes Her an Emotional Thanksgiving Love Letter: ‘Our Most Beautiful Days Are Still Ahead of Us’
+Thu, 26 Nov 2026 19:02:18 +0000 — https://variety.com/2026/film/news/elizabeth-holmes-billy-evans-thanksgiving-love-letter-1236959067/
 
-“Disney’s Pirates of the Caribbean: The Immersive Adventure,” the upcoming theatrical adaptation of the hit Johnny Depp movie, is getting ready to set sail. The production, which is due to open in London early next year, has now shared behind-the-scenes rehearsal footage as the cast practice their sword fighting and rig-climbing skills. Directed by Olivier-winner [ ]
+Billy Evans, Elizabeth Holmes’ partner and the father of their two children, took to X on Nov. 26 to write an emotional Thanksgiving message to her. The text is primarily about how much he misses her and how their kids need their mother. Holmes is currently serving an 11-year prison sentence for four wire fraud-related [ ]
 
 ## The Hollywood Reporter
+
+### Gerald R. Molen, Oscar-Winning Producer on ‘Schindler’s List,’ Dies at 91
+Thu, 26 Nov 2026 20:47:11 +0000 — https://www.hollywoodreporter.com/movies/movie-news/gerald-molen-dead-schindlers-list-jurassic-park-spielberg-1236764035/
+
+He also worked with Steven Spielberg on ‘Jurassic Park,’ ‘Minority Report,’ ‘The Color Purple’ and ‘Twister’ and headed production at Amblin Entertainment.
+
+### A Paw Patrol Christmas : When and Where to Stream the Animated Holiday Special Online Free
+Thu, 26 Nov 2026 18:40:28 +0000 — https://www.hollywoodreporter.com/tv/tv-news/watch-a-paw-patrol-christmas-stream-cbs-special-online-free-1236436268/
+
+The pups are returning to primetime for a special Christmas event.
+
+### Hunger Games: Sunrise on the Reaping Devouring $85M Over Thanksgiving Weekend as Focker-in-Law, Hexed Launch
+Thu, 26 Nov 2026 17:51:13 +0000 — https://www.hollywoodreporter.com/movies/movie-news/hunger-games-sunrise-box-office-thanksgiving-focker-hexed-1236764014/
+
+Lionsgate's sixth film in its dystopian franchise looks to win its sophomore frame after notching series records with its debut Monday and Tuesday.
+
+### Scott Caan Is 100 Percent Open to Reprising Role in Ocean s 14 With Casey Affleck
+Thu, 26 Nov 2026 17:15:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/scott-caan-open-reprising-role-oceans-14-casey-affleck-1236761302/
+
+The pair played Turk and Virgil Malloy, respectively, in the 2001 heist movie and its sequels.
+
+### BBC Under Investigation for Antisemitism Amid Growing Feeling of Discomfort Among Jewish Staff
+Thu, 26 Nov 2026 15:45:50 +0000 — https://www.hollywoodreporter.com/news/general-news/bbc-antisemitism-investigation-jewish-lord-john-mann-1236764004/
+
+Government adviser John Mann has opened his own investigation into the broadcaster, as a rep for says: "We take any and all allegations of discrimination extremely seriously."
+
+### Get Ready for the Great Asterix Film Festival and Three Restored Asterix Animated Movies!
+Thu, 26 Nov 2026 14:59:34 +0000 — https://www.hollywoodreporter.com/movies/movie-news/asterix-film-festival-three-restored-asterix-movies-coming-1236763992/
+
+StudioCanal and Mediatoon Distribution have struck a distribution agreement for the popular European comic book franchise.
+
+### Dark Creators Revisit Eerie German Forests in First Sonnental Teaser
+Thu, 26 Nov 2026 14:33:30 +0000 — https://www.hollywoodreporter.com/tv/tv-news/dark-creators-revisit-eerie-german-forests-sonnental-teaser-1236763983/
+
+Lisa Vicari stars as a profiler investigating a gruesome murder in her old hometown, inspired by 'Struwwelpeter,' a real and really sinister German children's book.
+
+### 99th Oscars: Every Single Contender — All 104! — for the International Feature Race
+Thu, 26 Nov 2026 14:30:00 +0000 — https://www.hollywoodreporter.com/lists/2027-oscars-international-feature-contenders/
+
+THR's cheat sheet of all the record-setting submissions for the Best International Feature category at the 2027 Academy Awards.
+
+### French Court Rejects Depardieu Appeal in Rape Case
+Thu, 26 Nov 2026 14:29:36 +0000 — https://www.hollywoodreporter.com/news/general-news/gerard-depardieu-to-face-trial-in-rape-case-1236763939/
+
+The French actor will stand trial for the alleged rape of actress Charlotte Arnould in 2018.
 
 ### Huw Edwards Lets Cameras Into His Home in Channel 4 Doc Confronting Child Sex Abuse Images Conviction
 Thu, 26 Nov 2026 14:15:26 +0000 — https://www.hollywoodreporter.com/tv/tv-news/huw-edwards-guilty-channel-4-documentary-abuse-scandal-tv-1236763981/
 
 "I'd lost the plot," says the disgraced ex-BBC newsreader in a teaser for 'Huw Edwards - Guilty.'
 
-### How The Lowdown Season 2 Finale Sets Up a (Hoped for) Third Season
-Thu, 26 Nov 2026 14:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-features/the-lowdown-season-2-finale-ethan-hawke-sterlin-harjo-1236763783/
-
-Creator Sterlin Harjo and Ethan Hawke break down Lee's growth as a person and the loose threads still left to explore.
-
-### Roma Producer Nicolás Celis, Warwick Thornton Films Set for Rotterdam Market IFFR Pro
-Thu, 26 Nov 2026 14:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/roma-producer-warwick-thornton-films-rotterdam-market-iffr-1236763960/
-
-Berlinale award winner and auteur Teona Strugar Mitevska will bring 'Petra Doesn't Want to Die' to the market.
-
-### NBC Uses Thanksgiving TV to Kickstart 2028 LA Olympics Marketing Push
-Thu, 26 Nov 2026 13:46:17 +0000 — https://www.hollywoodreporter.com/business/business-news/nbc-new-2028-la-olympics-spot-thanksgiving-1236763173/
-
-Olympic gold medalists Sydney Levrone and Rai Benjamin star in the spot, which sees the Olympic rings appearing in some of the city's most iconic locations.
-
-### Director Cédric Klapisch to Receive César Lifetime Achievement Honor
-Thu, 26 Nov 2026 10:24:04 +0000 — https://www.hollywoodreporter.com/movies/movie-news/french-cesar-honor-for-director-cedric-klapisch-1236763946/
-
-The 'Spanish Apartment' and 'Call my Agent!' director will be honored at the 52nd César Awards on Feb. 25.
-
-### Hollywood’s Most Notable Deaths of 2026
-Thu, 26 Nov 2026 05:55:30 +0000 — https://www.hollywoodreporter.com/lists/notable-deaths-2026-hollywood-entertainment/
-
-Dolly Parton, Patrick Stewart, Catherine O’Hara, Tim Curry, James Van Der Beek, Robert Duvall, Eric Dane and James Tolkan are among the entertainment legends the industry lost this year.
-
-### South Park Season Finale Drops Kenny Into Grand Theft Auto VI as South America Comes Clean
-Thu, 26 Nov 2026 05:15:37 +0000 — https://www.hollywoodreporter.com/tv/tv-news/south-park-season-29-finale-kenny-grand-theft-auto-vi-1236763867/
-
-Power outages, penis billionaires and an undead Kenny collide as the season ties up (most of) its loose ends.
-
-### The 20 Best Nordstrom Black Friday Deals: Uggs, Statement Diamond Studs and Cashmere Everything
-Thu, 26 Nov 2026 04:53:02 +0000 — https://www.hollywoodreporter.com/lifestyle/shopping/nordstrom-black-friday-sale-2026-best-cyber-week-deals-1236763823/
-
-Supple suede jackets, on-trend travel gear and beauty gift sets are among the other standouts from Nordstrom's Cyber Week savings event.
-
-### Former Disney Boss Bob Iger Got Employee Pregnant During Extramarital Affair, New Book Claims
-Thu, 26 Nov 2026 04:02:04 +0000 — https://www.hollywoodreporter.com/news/general-news/bob-iger-employee-pregnant-affair-house-of-mouse-revelations-1236763850/
-
-In 'The House of Mouse,' author Robbie Whelan also claims Iger was frustrated with his compensation.
-
-### The Best of Macy s Black Friday Sale: Pre-Loved Birkins, Olivia Rodrigo Legos and 15 More Standouts
-Thu, 26 Nov 2026 01:22:41 +0000 — https://www.hollywoodreporter.com/lifestyle/lifestyle-news/macys-black-friday-sale-2026-coupons-promo-codes-cyber-week-1236755681/
-
-Plus Uggs, espresso makers, beauty and accessories, all equally suited for your loved ones or yourself.
-
 ## Deadline
 
-### Warwick Thornton, Teona Strugar Mitevska Myroslav Slaboshpytskiy Set For Rotterdam’s Cinemart
-Thu, 26 Nov 2026 14:21:06 +0000 — https://deadline.com/2026/11/rotterdams-iffr-2027-cinemart-1237234005/
+### Gerald R. Molen Dies: Oscar-Winning Schindler s List Producer Was 91
+Fri, 27 Nov 2026 00:33:50 +0000 — https://deadline.com/2026/11/gerald-r-molen-dies-schindlers-list-producer-1237234182/
 
-The International Film Festival Rotterdam (IFFR) Pro has unveiled the 20 projects selected for the 44th edition of its co-financing platform CineMart as well as work-in-progress showcase Darkroom and the Safe Harbour stand, for filmmakers who have experienced forced migration. All three strands fall under the umbrella of IFFR’s Co-Production market running from January 31 [ ]
+Gerald R. Molen, an Academy Award-winning producer behind Steven Spielberg s Amblin Entertainment, has died. He was 91. On Sunday, Molen s niece Rachel Pullan announced that he died earlier that day. This morning my great uncle, Gerald R. Molen, passed on to join my great grandma and his dear wife Pat on the other side of [ ]
 
-### Gérard Depardieu Rape Case Sent To Trial In Criminal Court After Actor Loses Appeal
-Thu, 26 Nov 2026 14:03:59 +0000 — https://deadline.com/2026/11/gerard-depardieu-rape-case-trial-criminal-court-arnould-1237234012/
+### Percy Jackson s Courtney B. Vance On Doing Right By Late Lance Reddick After Taking Over Zeus Role
+Thu, 26 Nov 2026 23:33:41 +0000 — https://deadline.com/2026/11/percy-jackson-courtney-b-vance-doing-late-lance-reddick-1237234178/
 
-Gérard Depardieu will stand trial in a criminal court on a rape charge related to accusations by actress Charlotte Arnould, after an appeal by his lawyers failed. The Paris Court of Appeal said on Thursday that Depardieu would be tried for one part of the accusations levelled by Arnould against the actor. The actress, whose [ ]
+As the gods and demigods of Percy Jackson and the Olympians return for Season 3, Courtney B. Vance had a mighty toga to fill. The Golden Globe nominee, who returns after taking over the role of Zeus from the late Lance Reddick, remembered the actor as a great, great man before Reddick s death at age [ ]
 
-### Wild Horse Nine Outfit Blueprint Elsinore Producer Lucky Red Team For English-Language Remake Of German Comedy No Hit Wonder
-Thu, 26 Nov 2026 12:50:31 +0000 — https://deadline.com/2026/11/blueprint-lucky-red-english-language-remake-no-hit-wonder-1237233964/
+### Hunger Games Producer Regrets Splitting Mockingjay As Fans Felt It Was A Play To Make Them See Two Films Instead Of One
+Thu, 26 Nov 2026 22:00:14 +0000 — https://deadline.com/2026/11/hunger-games-producer-regrets-splitting-mockingjay-1237233567/
 
-EXCLUSIVE: Wild Horse Nine and Three Billboards Outside Ebbing, Missouri producer Blueprint Pictures has taken English-language remake rights to German dramedy No Hit Wonder, the story of a one hit wonder fallen on hard times who ends up in a psychiatric ward where he motivates the eccentric members of the resident choir to national glory. [ ]
+With the release of the prequel The Hunger Games: Sunrise on the Reaping, franchise producer Nina Jacobson regrets splitting the Mockingjay films into two parts. At the time, The Twilight Saga and Harry Potter split their grand finale into two films, and Lionsgate followed suit, breaking up the last Suzanne Collins book of the OG Hunger Games [ ]
 
-### BBC Being Investigated Over Antisemitism By Government Adviser
-Thu, 26 Nov 2026 11:40:40 +0000 — https://deadline.com/2026/11/bbc-antisemitism-investigation-john-mann-government-1237233983/
+### Erika Hammond Teases Drama Resolution At RHONY Season 16 Reunion, Says Devyn Simone Is Not A Friend I Want
+Thu, 26 Nov 2026 21:30:16 +0000 — https://deadline.com/2026/11/erika-hammond-drama-rhony-season-16-reunion-devyn-simone-1237234147/
 
-The UK government s antisemitism tsar is probing the BBC. John Mann told the Today programme he has opened an investigation to see how widespread Jewish staff s feeling of discomfort is within the corporation. According to The Times, whistleblowers have already told him they consider the BBC a hostile environment. Mann said his investigation should complete [ ]
+Erika Hammond is teasing The Real Housewives of New York City Season 16 reunion, revealing there will be drama and resolution. In a new interview, Hammond hinted that although some problems among the group will be resolved, she doesn t see a path forward with the new friend of Devyn Simone. I will say it is [ ]
 
-### Huw Edwards To Speak On TV For First Time About Criminal Actions Fall From Grace In Channel 4 Doc
-Thu, 26 Nov 2026 11:11:16 +0000 — https://deadline.com/2026/11/huw-edwards-speak-criminal-actions-channel-4-guilty-1237233972/
+### Jesse Eisenberg Says There s No Sexuality To My Work Why Life Is Different When Fans Want To Sleep With A Person Onscreen
+Thu, 26 Nov 2026 20:59:10 +0000 — https://deadline.com/2026/11/jesse-eisenberg-sexuality-work-fans-sleep-1237234140/
 
-From trusted national figure to registered sex offender, Huw Edwards is to be interviewed and profiled in a Channel 4 documentary next week. Huw Edwards Guilty will see the disgraced newsreader face questions publicly for the first time on TV about his criminal actions and astonishing fall from grace. Airing Tuesday at 9 p.m. [ ]
+Jesse Eisenberg is reflecting on his work in Hollywood and why he has a very different experience with fans in public than some other actors. In a new interview with The New Yorker, the actor, director, writer, and producer of The Debut said fans of his work are mostly fine when they see him in [ ]
 
-### Richard Hammond Says He Was Approached By BBC About Top Gear Return
-Thu, 26 Nov 2026 10:52:30 +0000 — https://deadline.com/2026/11/richard-hammond-approached-bbc-top-gear-return-1237233965/
+### Trump s Noisy Name-Calling Mocked By NYT After Bored POTUS Starts Thanksgiving Ranting Against Reporter s Nvidia Dispatch
+Thu, 26 Nov 2026 20:44:34 +0000 — https://deadline.com/2026/11/trumps-thanksgiving-new-york-times-attack-1237234141/
 
-Richard Hammond has revealed that the BBC sounded him out about getting back behind the Top Gear wheel for the show s upcoming reboot. The presenter said he declined the opportunity to return to the motoring show he helped turn into a global phenomenon alongside Jeremy Clarkson and James May. Hammond disclosed the BBC s approach during [ ]
+Like death and taxes, you can always rely on there being an annoying relative at the table on Thanksgiving, and you can always depend on Donald Trump losing his marbles on Turkey Day. This year was no different. Down in his Florida compound (which no one but Trump calls the Southern White House), the former [ ]
 
-### Baz Bamigboye Pays Tribute To Legendary British Agent Jeremy Conway – With Help From Helena Bonham Carter
-Thu, 26 Nov 2026 10:00:00 +0000 — https://deadline.com/2026/11/baz-bamigboye-tribute-jeremy-conway-helena-bonham-carter-1237233779/
+### New Book Alleges Former Disney Chief Bob Iger Impregnated Employee Leading To Traumatic Termination Procedure”
+Thu, 26 Nov 2026 19:43:36 +0000 — https://deadline.com/2026/11/bob-iger-house-of-mouse-book-robbie-whelan-1237234125/
 
-Jeremy Conway — an artiste’s agent, and a titan of the industry with an unerring eye for the stars of the future — died earlier this month aged 87. His client list was legendary, a rollcall that included Anthony Hopkins, Brian Cox, Helena Bonham Carter, Benedict Cumberbatch, Claire Bloom, Greta Scacchi, Noma Dumezweni, Joanne Froggatt, [ ]
+A bombshell book about former Disney boss Bob Iger alleges that the exec impregnated an underling employee in the early 1990s that resulted in a traumatic termination procedure.” Details of the book went public in a New York Times article today. The New York Times report, which features excerpts from The House of Mouse by [ ]
 
-### ‘Steps’ Director Alyce Tzue On “Punk Rock” Inspirations For ‘Cinderella’ Reimagining
-Thu, 26 Nov 2026 09:45:00 +0000 — https://deadline.com/2026/11/steps-netflix-interview-1237233932/
+### The Show Must Go On: Broadway Will Perform Saturday In Macy s Thanksgiving Parade
+Thu, 26 Nov 2026 19:04:42 +0000 — https://deadline.com/2026/11/macys-thanksgiving-parade-saturday-broadway-medley-1237234098/
 
-For Alyce Tzue, reimagining Cinderella meant giving its stepsisters the chance to shape their own happily-ever-after. Netflix’s animated adventure film Steps, co-directed with John Ripa, casts Lilith (Ali Wong) and Margot (Stephanie Hsu) as Asian immigrants in a French-inspired fairytale kingdom, where questions of belonging and privilege shape their search for happiness. Meanwhile, Cinderella (Amanda [ ]
+New Yorkers woke up this Thanksgiving morning to drizzly, gray skies along with winds that had sidewalks covered in dead, yellow leaves, though the weather throughout the pre-noon hours was hardly the fearsome nor’easter blast that prompted the postponement till Saturday of Macy s 100th Thanksgiving Day Parade. Still, with wind levels of up to 23 [ ]
 
-### Netflix Cancels Amsterdam Empire Starring Famke Janssen After One Season
-Thu, 26 Nov 2026 09:00:00 +0000 — https://deadline.com/2026/11/netflix-cancels-amsterdam-empire-famke-janssen-holland-1237233284/
+### Ink Director Danny Boyle Says Jack O Connell Would Have Made A Great Bond
+Thu, 26 Nov 2026 18:05:45 +0000 — https://deadline.com/2026/11/danny-boyle-jack-oconnell-would-have-made-great-james-bond-1237234088/
 
-EXCLUSIVE: Netflix will not be returning to the murky underworld of Amsterdam Empire. Deadline understands that a second season of the Dutch series starring Famke Janssen is not currently planned due to scheduling issues. Amsterdam Empire launched two years ago and is one of the streamer s most high-profile shows to come out of the Benelux [ ]
+Jack O Connell is being talked about as a Bond villain, but Danny Boyle says he could have been much more than that. Boyle, who directed O Connell in The Sun newspaper movie Ink, was speaking on the Alchemy with Anthony Mason podcast when he made the comment. The conversation turned to the skills of O Connell and [ ]
 
-### Lauren Ash Mae Martin Among Cast Of Shozer s Adult Animation High-School Comedy Dirts
-Thu, 26 Nov 2026 05:01:00 +0000 — https://deadline.com/2026/11/lauren-ash-mae-martin-dirts-shozer-comedy-1237232683/
+### Netflix Posts Racy Thanksgiving Message On The Hunting Wives Season 2 Premiere Day
+Thu, 26 Nov 2026 17:44:07 +0000 — https://deadline.com/2026/11/netflix-thanksgiving-message-hunting-wives-season-2-1237234078/
 
-EXCLUSIVE: Lauren Ash (Superstore) and Mae Martin (Wayward) have been cast in Dirts, an ensemble adult animated high-school comedy series for New Metric Media s streaming service Shozer. They will appear alongside the likes of Ash s Superstore co-star Mark McKinney, Mark Little (Gary and His Demons) and Ryan Belleville (Workin Moms). The show, set to premiere [ ]
+Netflix welcomed Thanksgiving with a racy message on X this morning. With The Hunting Wives Season 2 landing on the streamer today, Netflix posted a clip of leads Brittany Snow and Malin Åkerman in bed together overlaid with the message this thanksgiving plate. In the short clip, the pair say I love you to each [ ]
 
-### South Park Celebrates GTA VI But Outages, AI Data Centers Zombie Kenny Stand In The Way In Season 29 Finale
-Thu, 26 Nov 2026 03:52:37 +0000 — https://deadline.com/2026/11/south-park-gta-vi-outages-zombie-kenny-season-29-finale-1237233874/
+### Mark Tildesley Dies: ‘No Time to Die , F1: The Movie London Olympics Production Designer Was 63
+Thu, 26 Nov 2026 17:05:13 +0000 — https://deadline.com/2026/11/mark-tildesley-dies-no-time-to-die-production-designer-63-1237234068/
 
-As the long wait for Grand Theft Auto VI finally ends, South Park s celebration was cut short on this week s episode. In the finale City Endings, outages hit the town (currently rebranded as South America for Season 29) thanks to the AI data centers of Billionaire Weenietown that moved into Butters backyard after Mayor McDaniels [ ]
+Mark Tildesley, one of the industry s most respected production designers, has passed away aged 63. Tildesley s many credits include James Bond movie No Time To Die, 28 Days Later, The Constant Gardener, The Two Popes, Jay Kelly, Joseph Kosinski’s F1: The Movie, and Sam Mendes upcoming Beatles movies. Mendes today described his collaborator as entirely [ ]
 
-### Bono Bowl Review: U2 Delivers Halftime Goods Hits On Netflix NFL’s First Thanksgiving Eve Game, With A Little Help From Dolly Parton
-Thu, 26 Nov 2026 03:06:42 +0000 — https://deadline.com/2026/11/u2-halftime-show-performance-review-thanksgiving-eve-1237233462/
+### Sunrise On The Reaping Firing Up Thanksgiving With $85M+ 5-Day; Focker In-Law Hexed Fight For 2nd With $35M+ Apiece Update
+Thu, 26 Nov 2026 17:04:00 +0000 — https://deadline.com/2026/11/box-office-hunger-games-hexed-focker-in-law-thanksgiving-1237233281/
 
-No matter how many hits and tricks U2 pulled out of the hat at L.A. s SoFi Stadium, today s Bono Bowl on Netflix was always going to live in the shadow of the streamer s square dancing filled Beyoncé Bowl from Christmas Day 2024. Accepting the inevitable, the elder statesmen of anthem rock took their halftime spin [ ]
+THANKSGIVING AM UPDATE: An alpha female property, Lionsgate s The Hunger Games: Sunrise on the Reaping with a continued 5-day forecast of $85M+, is stealing business from two other female-leaning movies at the Thanksgiving box office, Universal/Paramount s Focker In-Law and Disney s Hexed, both of which are coming in lighter than their forecasts with 5-days of $36M [ ]
 
 ## befores & afters
+
+### I mean, how freakin cool was ED-209?
+Thu, 26 Nov 2026 21:01:36 +0000 — https://beforesandafters.com/2026/11/27/i-mean-how-freakin-cool-was-ed-209/
+
+Behind one of Tippett Studio s landmark stop-motion characters. This episode is sponsored by Foundry s SmartRoto . SmartRoto is an AI-powered Nuke plugin that accelerates roto up to 4x faster than traditional rotoscoping. Get a free 30-day trial of SmartRoto: https://hubs.la/Q04Fnj-k0 Buy WOAH! Great Moments in Effects History Vol. 1 by Ian Failes at Amazon in PRINT: https://link.amazon/B0gyYYIGJ Get early access to these videos at the befores & afters Patreon on the VFX Bonus Access tier: https://www.patreon.com/c/beforesandafters/membership Want to sponsor a weekly video? Send Ian an email: beforesandafters@gmail.com #vfx #visualeffects #robocop #stopmotion #beforesandafters #vfxbreakdown Music by Matt Estela: https://soundcloud.com/cgwiki The post I mean, how freakin cool was ED-209? appeared first on befores & afters .
 
 ### How the Balrog was made (and made to talk) in s3 of The Rings of Power
 Wed, 25 Nov 2026 09:08:32 +0000 — https://beforesandafters.com/2026/11/25/how-the-balrog-was-made-and-made-to-talk-in-s3-of-the-rings-of-power/
 
 A deep dive into the creatures this season. Today on the befores & afters podcast, we’re chatting about season 3 of The Lord of the Rings: The Rings of Power. I am joined by production visual effects supervisor Jason Smith. We do a deep dive into the Balrog revealed this season, voiced by Simon Pegg. We talk about the design, the animation tests, the interaction with Charlie Vickers as Sauron, and the final VFX work by ILM. We also discuss other creatures the Fell beast by DNEG and the Mûmakil by Rodeo FX. And we go into the ring forging sequence, which was handled by DNEG, plus a look at practical prosthetic effects for the Orcs by Barrie Gower’s team. This is a fun chat, with spoilers if you haven’t watched the final eps of season 3. Listen in above, and see a behind the scenes video here: The post How the Balrog was made (and made to talk) in s3 of The Rings of Power appeared first on befores & afters .
 
-### Rebelway s Biggest Sale of the Year is Here
-Tue, 24 Nov 2026 19:51:33 +0000 — https://beforesandafters.com/2026/11/25/rebelways-biggest-sale-of-the-year-is-here/
-
-This Black Friday, Rebelway , the online VFX school, has opened registration for its Black Friday sale. Whether you’re starting from zero or aiming for a senior FX role, it’s a good time to pick a course. The Offer 25% off any individual course with code [Course25] 10% off on course Bundle with code [Bundle10] Course Bundle : pick any 4 courses from the entire Rebelway library and save up to $800. Bundle credit never expires, so you can take your courses whenever suits you. This offer is valid starting from TODAY . New courses to check out Rebelway’s New Intro to Unreal Engine Course Is Here Rebelway has recently launched a new Intro to Unreal Engine course, an 8-week beginner program that takes you from your first launch of the editor to a finished cinematic scene. In this course You’ll build a moody campsite with a UFO tractor beam, covering terrain, foliage, custom props, atmospheric effects and a final cinematic in Sequencer. By the end, you’ll have a portfolio-ready scene and the skills to keep building your own. Check Out other Featured Rebelway VFX Courses for Black Friday Houdini For Fun Learn how to build efficient setups, simplify your workflow, and create great-looking results while gradually introducing more advanced techniques when needed. By joining this course, you’ll also be qualified to join their brand-new VFX Rebels Discord server —a new space created to bring our artists and students together beyond the classroom. Advanced Lighting in Houdini Taught by the
-
 ## IndieWire
+
+### How Disney s Hexed Reinvents the Witch Through Animation
+Thu, 26 Nov 2026 19:00:00 +0000 — https://www.indiewire.com/features/animation/hexed-writers-directors-disney-animated-movie-1235230741/
+
+Writers Jared Bush and Dana Ledoux Miller, plus directors Fawn Veerasunthorn and Josie Trinidad, tell IndieWire about the magic powering Disney's latest film.
+
+### The Hunting Wives Review: Season 2 Reloads Without Slowing Down in Netflix s Delirious Soap
+Thu, 26 Nov 2026 18:00:00 +0000 — https://www.indiewire.com/criticism/shows/hunting-wives-season-2-review-netflix-reloads-1235230961/
+
+Rebecca Cutter's high-key camp comedy and low-key conservative satire (or vice versa) follows frenemies-turned-lovers Sophie (Brittany Snow) and Margo (Malin Åkerman) as they weigh their lavish lives in suburban Texas against the forbidden love that would tear it all down.
+
+### How Much of Quentin Tarantino s Scrapped Film The Movie Critic Made It Into The Further Mis-Adventures of Cliff Booth ?
+Thu, 26 Nov 2026 17:00:00 +0000 — https://www.indiewire.com/features/commentary/quentin-tarantino-the-movie-critic-cliff-booth-1235230943/
+
+Parallels between the two projects are obvious, so allow us to speculate on where one script ended and another began.
+
+### Robert Aramayo s Star-Making Turn in I Swear Is Already Award-Winning, Now He Just Wants People to See It
+Thu, 26 Nov 2026 16:00:00 +0000 — https://www.indiewire.com/features/interviews/robert-aramayo-i-swear-baftas-john-davidson-tourettes-1235190387/
+
+The "I Swear" star nabbed two BAFTAs at this year's fraught ceremony, but as he tells IndieWire, the next step isn't more glory — it's just more audience members, more knowledge, and hopefully more understanding.
 
 ### The Lowdown Season 2 Finale Hinges on Two Monologues — Let Ethan Hawke and Sterlin Harjo Break Them Down
 Thu, 26 Nov 2026 14:00:00 +0000 — https://www.indiewire.com/features/interviews/the-lowdown-season-2-episode-8-explained-ethan-hawke-ending-1235230568/
@@ -220,127 +240,107 @@ Wed, 25 Nov 2026 20:00:00 +0000 — https://www.indiewire.com/news/events/indiew
 
 IndieWire Honors will celebrate the year in film with awards given to John Turturro, Andrew Garfield, Yura Borisov, Monica Barbaro, Ike Barinholtz, James Gray, Adam Driver, Los Javis, and many more.
 
-### Cult Hit Hundreds of Beavers Returns to Theaters for Big Christmas Expansion
-Wed, 25 Nov 2026 19:47:46 +0000 — https://www.indiewire.com/news/breaking-news/hundreds-of-beavers-returns-theaters-christmas-expansion-1235231135/
-
-The silent, black and white, slapstick indie comedy will have 130 screenings across 85 cities for its third annual holiday re-release.
-
-### Cinematographer Caleb Deschanel on Finding the Right Techniques For The Right Stuff
-Wed, 25 Nov 2026 19:00:00 +0000 — https://www.indiewire.com/features/craft/cinematographer-caleb-deschanel-on-the-right-stuff-1235230087/
-
-With the 1983 classic newly available from Criterion, the director of photography looks back on working with director Philip Kaufman to create a great American epic.
-
-### Where Are Rick Dalton and Sharon Tate in The Further Mis-Adventures of Cliff Booth ?
-Wed, 25 Nov 2026 18:30:00 +0000 — https://www.indiewire.com/features/general/cliff-booth-where-are-rick-dalton-sharon-tate-sequel-1235230919/
-
-Only one of the central stars of "Once Upon a Time in Hollywood" is back for the David Fincher-directed sequel, but that doesn't mean the other two don't pop up in their own ways.
-
-### Bad Lieutenant: Tokyo Will Come to the U.S. Next March
-Wed, 25 Nov 2026 18:15:00 +0000 — https://www.indiewire.com/news/breaking-news/bad-lieutenant-tokyo-march-2027-release-date-neon-1235231121/
-
-Neon is distributing Takashi Miike's take on police depravity, with Shun Oguri starring as a drug-addled detective.
-
 ## The Wrap
 
-### ‘The Lowdown’ Creator Sterlin Harjo on the Season 2 Finale, That No Country Nod and Season 3 Status
-Thu, 26 Nov 2026 14:00:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/the-lowdown-season-2-episode-8-ending-sterlin-harjo-interview/
+### Tony Romo Starts as Chief Predictions Officer at Jake Paul s Sports Betting App After CBS Exit
+Thu, 26 Nov 2026 21:33:29 +0000 — https://www.thewrap.com/culture-lifestyle/sports/tony-romo-chief-predictions-officer-betr-sports-betting-after-cbs/
 
-Spoilers for “The Lowdown” Season 2 finale follow below. Truth’s easy? Anything but, as Ethan Hawke’s Lee Raybon learned throughout “The Lowdown” Season 2. But just because his path was hard doesn’t mean he’s giving up, as the Season 2 finale left the excellent Tulsa-set FX noir comedy series with plenty of threads left to untangle in a potential Season 3. That was the point, creator Sterlin Harjo explained to TheWrap in an interview tied to the finale. While Lee doesn’t get the girl and doesn’t get to write his story, he learns how much he is loved, finds some solace in his relationship with his father and, of course, keeps raging against the dying light as the episode concludes with him continuing his investigation into John Hawkes’ Judge Jed. “The Lowdown” is one of the best shows on all of television, somehow growing in esteem in Season 2 with one of Tommy Lee Jones’ best performances ever (the season has a 100% on Rotten Tomatoes ). Surely that’d be enough for an automatic Season 3 greenlight, right? While Harjo said he has lots of ideas for a third season (and even knows how it opens), he cautioned that an awards boost would significantly help the show’s chances. So consider this your clarion call, voters. Do the right thing. In the meantime, read on as Harjo unpacks that Season 2 ending, explains why we may not have seen the last of Betty Gilpin’s Ginger, talks about leaning into the “No Country for Old Men” similarities with Jones’ final monologue and more. Tell me wh
+Tony Romo has found a new gig. The former Dallas Cowboys quarterback will now serve as chief predictions officer at Betr, the real-money gaming super app for sports betting. His new position comes hot on the heels of Romo s October departure from CBS Sports after nine years as their lead NFL game analyst following an operating while intoxicated (OWI) charge. l ve spent my entire career trying to anticipate what s going to happen next, whether that was on the field or in the broadcast booth. Now I get to put those instincts to work in a completely new way with Betr, Romo said in a statement. The former athlete shared his announcement in a post on X ahead of Thanksgiving, saying, I’m Back. New Job. Same Goal. I’m Back. New Job. Same Goal. Extremely excited to announce I have joined @betr as their Chief Predictions Officer pic.twitter.com/xTEtnu2xC7 &mdash; Tony Romo (@tonyromo) November 25, 2026 It s unclear what exactly Romo s new role at Betr will entail, though the company said in its statement that the ex-pro will serve as a prominent face of the Betr brand, appearing in original content, delivering sports predictions and engaging fans across the company s expanding ecosystem of gaming products. The company was founded by Joey Levy and Jake Paul. Tony Romo has built an extraordinary reputation around something that sits at the very heart of our business: predictions, Levy added in a statement. His ability to see what s coming before anyone else has made him one of the most 
 
-### How to Watch the 100th Macy s Thanksgiving Day Parade
-Thu, 26 Nov 2026 13:00:00 +0000 — https://www.thewrap.com/creative-content/what-to-watch/macy-thanksgiving-day-parade-where-to-watch-2026-new-date/
+### Seth Meyers Roasts Trump Administration for Bombing Iowa Ahead of Thanksgiving: What the F k?
+Thu, 26 Nov 2026 20:49:00 +0000 — https://www.thewrap.com/media-platforms/politics/seth-meyers-roasts-trump-administration-iowa-explosion-thanksgiving/
 
-The Macy s Thanksgiving Day Parade is celebrating a major milestone, and you ll want to tune in. The big New York City spectacle typically starts bright and early on Thanksgiving Thursday and runs for three and a half hours. The parade is full of floats, musical performances and massive balloons of your favorite characters. However, the timing has changed this year. The annual event has been postponed due to severe weather . So with a lot of last minute swapping, here is everything you need to know about how to watch the 100th Macy s Thanksgiving Day Parade. What time does the Macy s Thanksgiving Day Parade start? The annual Macy s Thanksgiving Day Parade was originally supposed to start at 8:30 a.m. ET on Thursday, Nov. 26. For the first time ever, the entire event had to be pushed back due to severe weather and high winds. The parade will now air on Saturday, Nov. 28 at 8:30 a.m. ET. Where can you watch and stream the parade? The 100th Macy s Thanksgiving Day Parade is available to watch on NBC and will be streaming live on Peacock. What if I miss the parade? No worries! An encore of the full parade will play on both NBC and Peacock at 2 p.m. ET. Who is performing during the parade? With 2026 being the 100th annual parade, there are big names slated to perform. The expected performers are Megan Moroney, Teddy Swims, Natasha Bedingfield, Baha Men, Blues Traveler, DEVO, Jimmy Fallon & The Roots, Feid, EJAE, Mckenna Grace, Indigo Girls, Icona Pop, JoJo, Wyclef Jean, Queen Lati
+Hours after the U.S. Army detonated nearly five tons of toxic lead azide in Iowa, Seth Meyers went on Late Night to roast Donald Trump for his administration s actions just a day before Thanksgiving. What the f k, Trump?! the NBC host asked on Wednesday. Trump is bombing Iowa? I knew he was mad about the midterms, but I didn t know he was this mad! Mr. President, they ve officially called Iowa for the Democrats.' Very well,' Meyers said in his Trump impression. Release the lead!' The Iowa detonation drew a lot of heat from citizens concerned about a lack of clear communication. The Iowa governor issued an emergency proclamation about the actions at the Iowa Army Ammunition Plant in Middletown only two days before Thanksgiving — and one day before the explosion took place. Some residents evacuated from their homes due to potential lead exposure. Meyers noted that the Iowa explosion comes amid a week of crazy stories surrounding the Trump administration, most notably the reinstating of Nvidia CEO Jensen Huang . The comedian did, however, say this gives the nation s Millennial children the opportunity to enter their families homes for Thanksgiving like a socialist SWAT team. Hey, where s Uncle Rick?! I want to ask him how much it cost to fill up his tank on the way here, Meyers said, mimicking the Millennials. Rick! How s your 401(k), Rick? Did it get blown up in Iowa, Rick? Eat lead dust, you old crank. Meyers then turned his attention to Trump s recent turkey pardoning ceremon
 
-### South Park Lampoons GTA VI, AI and Chinese Spies in Latest Episode
-Thu, 26 Nov 2026 06:37:13 +0000 — https://www.thewrap.com/culture-lifestyle/culture/south-park-lampoons-gta-vi-ai-and-chinese-spies-in-latest-episode/
+### Jimmy Fallon Thinks Trump s Thanksgiving at Mar-a-Lago Is Going to Be A Little Different
+Thu, 26 Nov 2026 20:20:38 +0000 — https://www.thewrap.com/culture-lifestyle/culture/jimmy-fallon-trump-thanksgiving-mar-a-lago-tonight-show/
 
-Just like the rest of the world, Grand Theft Auto VI mania has taken over the fictional town of South Park. The Nov. 25 episode of the animated comedy opened with a montage of empty businesses and schools, as all the townspeople are home playing GTA VI, the video game that shattered sales records earlier this week. After a power outage freezes their games, they convene upon the city hall and take their anger out on Mayor McDaniels. Do you have ANY idea how Grand Theft Auto 6 works? Officer Johnson shouts out from the angry mob. If it shuts off while it s saving or during a mission, you lose everything! We know that. We know, McDaniels responds. But the problem is, our town s electrical systems are just very old and run down. Her response echoes the real-life response Secretary of Transportation Sean Duffy made during the system outage that grounded all domestic flights in the United States earlier in November. Mayor, what about the rumor you ve made deals with billionaires, allowing them to build data centers here, and that s what s draining our power, another angry citizen asks. McDaniels deflects and flees the podium after being pelted by video game controllers and garbage. Later, she s seen talking to the billionaires behind Weenietown AI Factory. Stop doing so much AI, what is wrong with you, she yells over the phone. A mob of angry townspeople led by Darryl Weathers burst into her office. You gotta be honest with us, Weathers demands. Are all these power outages because 
+Just like American families do around the Thanksgiving table, Jimmy Fallon touched on all the hot topics in his Wednesday night Tonight Show monologue including GTA VI, the nationwide airline grounding and, of course, President Donald Trump. Tomorrow is Thanksgiving, Happy Thanksgiving. Right now, some of you are excited to see family, while the rest of you are like, Come on FAA, do your thing. Come on! You know what to do,' the NBC late night host began. Thanksgiving is the best. There s nothing quite like watching your family gather around and play Grand Theft Auto together. Tomorrow s Thanksgiving, but tonight is Drinksgiving. This is when a lot of people hit up their hometown bars to see old friends. It s basically an entire bar filled with people saying, Well, someone s Ozempic didn t take,' Fallon continued. Meanwhile, I read that, because of high gas prices, fewer Americans are expected to travel for Thanksgiving compared to last year. Now, we all know this is going to upset a lot of moms out there, so we put together a handy guide for moms. These are phrases that they can use to show that they re totally OK with their kids skipping Thanksgiving. Following that bit, the comedian then explained how he thinks Trump plans on celebrating the holiday down in Florida: I saw that President Trump is celebrating Thanksgiving at Mar-a-Lago. At Mar-a-Lago, Thanksgiving is a little different. They bake one turkey, deep fry another, and the last one they just throw in the tanning b
 
-### Macy s Thanksgiving Day Parade Spectators Surprised by Postponement: Oh No!
-Thu, 26 Nov 2026 05:46:54 +0000 — https://www.thewrap.com/culture-lifestyle/culture/macys-thanksgiving-day-parade-postponed-visitors-react/
+### Nate Bargatze Unleashes Thanksgiving Hot Takes in Tonight Show Rant
+Thu, 26 Nov 2026 19:42:01 +0000 — https://www.thewrap.com/culture-lifestyle/culture/nate-bargatze-thanksgiving-hot-takes-tonight-show-rant-video/
 
-Macy s Thanksgiving Day Parade spectators, many of whom traveled far to see the annual holiday event, expressed surprise and shock at the news that the parade has been postponed. Reporter Joelle Garguilo of ABC 7, the local news affiliate in New York City, caught up with fans who didn t yet know the parade was moved from Thursday to Saturday. That s not true, one tourist from Luxembourg said in disbelief on Wednesday. Oh no, I m so sad, she added. The woman was planning to leave Friday but said she can probably change her travel plans to accommodate the new parade date. Two women from Hawaii gasped in disbelief when they learned of the postponement. I think we ll have to change our travel plans, one of them said. I feel two ways, Harlem resident Veronica Hickman told ABC 7. They re thinking of people s safety which is really great, but the other thing is that is part of my routine. I cook my food and I watch the parade, so they better put the old one on or something! Indeed, NBC will re-air the 2025 Macy s Thanksgiving Day Parade on Thanksgiving morning beginning at 8:30 a.m. The change came so late that even some TV listings weren t updated. As of midnight Thursday, TV Guide still shows a listing for the 100th Macy s Thanksgiving Parade (this year s) instead of the 99th (last year s). The 2026 parade will air at the same time slot on Saturday. On Wednesday night, New York Governor Kathy Hochul issued a State of Emergency for New York City, Long Island and Westchester County,
+Families across America are sitting down on Thursday for their Thanksgiving feasts. But on Wednesday, comedian Nate Bargatze went on The Tonight Show Starring Jimmy Fallon to share his hot takes on Turkey Day — or, as he might call it, Ham Day. I m a ham guy on Thanksgiving, Bargatze said to a smattering of applause. I m not a big turkey (guy). You ve divided the audience, Fallon replied, pointing to the crowd. I mean, I don t know if I divided it, Bargatze responded. I think it was four people, sounded like. I mean, it wasn t a divide . Maybe, like, a family. The comic, who released his new special Good for Nathan on Netflix on Tuesday, shared his family s Thanksgiving preferences in the interview with Fallon, who repeatedly asked if he puts any condiments on his ham ( I can if you want me to, Bargatze said). He then offered his second hot take for the food-based holiday: stuffing is a no-go. I don t like onions, and they get em in there. They get em in there, and then the stuffing people are like, Well, you can t taste em,' Bargatze said, putting on a wimpy voice. I taste em! I ll tell you that. The comedian, known for his signature deadpan and low-energy humor, broke down the rest of his typical Turkey Day for Fallon: mac and cheese, green beans, biscuits. He then revealed that his mother started a war within his family one year by bringing jam for their biscuits — unleashing a massive diatribe from the stand-up, who called his home a jelly family. There s a complete diffe
 
-### Sunrise on the Reaping Director Reveals the Bloody Scene He Cut for Film s PG-13 Rating
-Thu, 26 Nov 2026 02:36:09 +0000 — https://www.thewrap.com/creative-content/movies/hunger-games-sunrise-on-the-reaping-director-reveals-bloody-death-he-cut-pg-13-rating/
+### Trump Gives Thanks to American Patriots — and His Usual Suspects — in Sardonic Thanksgiving Post
+Thu, 26 Nov 2026 19:12:53 +0000 — https://www.thewrap.com/media-platforms/politics/trump-thanksgiving-truth-social-patriots-reporters-criminals/
 
-This story contains spoilers from Sunrise on the Reaping. The Hunger Games film franchise is filled with violence the whole premise of the titular Games is that there s only one survivor but Sunrise on the Reaping director Francis Lawrence says he scaled back the blood in the latest film. Speaking on the On Film With Kevin McCarthy podcast released Monday, Lawrence, who has directed every single Hunger Games since the first film, explained his regular debate with the Motion Picture Association (MPA) and their rating system. Every Hunger Games movie we turn in automatically gets an R and we start a back and forth, Lawrence explained. I ve even found on this latest HG film that the tastes feel a little more conservative, the director said of the organization that determines rating. They re a little more sensitive than they were three years ago on Ballad of Songbirds and Snakes.' Sunrise on the Reaping is rated PG-13 for strong violence, bloody images, disturbing material, some smoking and teen drinking. Lawrence said he had to tweak the prequel that focuses on Haymitch Abernathy four or five times to reach the PG-13 rating. He then explained which scenes were scaled back or trimmed. One of the last things that we went back and forth on is the axe throw with Silka, Lawrence said. When Silka throws her axe and then it breaks apart and the axe head goes into her chest. It took longer for her to die. There was more shots of her there with the axe buried into her chest and her kind 
+President Donald Trump celebrated Thanksgiving on Thursday with a characteristically cynical message on Truth Social , giving thanks to both American patriots and quite a few of his other usual suspects. HAPPY THANKSGIVING TO ALL AMERICAN PATRIOTS WHO HAVE WORKED SO HARD TO MAKE OUR COUNTRY GREAT, Trump began his social media post. Additionally, I would like to wish a Happy Thanksgiving to even those who issued fake Economic Numbers, just prior to the Election, and corrected them yesterday, three weeks late, showing that the GDP was actually 4.3%, versus 3.4%, A RECORD SETTING ERROR, and one so grave that it should be immediately investigated. Also, I would like to wish a very Happy Thanksgiving to all of those people that have worked so hard to bring our Country to the Radical Far Left, he continued. Those that are looking to change our Court System to that of Sharia, those who want to redistribute Property, so that all of the hardworking people that have built up, over a lifetime, a certain Wealth, will now be forced to distribute it throughout the Country, even to those who refuse to work. His lengthy post then got even more pointed , calling out Somalis in Minnesota, as well as the murderers, drug dealers and criminals he s had deported since returning to the White House. I want to thank the 2% of our Somalian population that have a job, and are actually willing to work, without receiving Government Assistance, Trump wrote. These are wonderful American citizens, and shoul
 
-### Adam Sandler Cheers Ezra Frech s DWTS Win With Heartfelt Video Message: You ve Always Been the Man
-Thu, 26 Nov 2026 02:22:55 +0000 — https://www.thewrap.com/creative-content/tv-shows/adam-sandler-ezra-frechs-dwts-win/
+### Hoda Kotb Admits She s Relieved Macy s Thanksgiving Day Parade Got Postponed
+Thu, 26 Nov 2026 18:41:55 +0000 — https://www.thewrap.com/culture-lifestyle/culture/hoda-kotb-macys-thanksgiving-day-parade-postponed-nbc/
 
-Adam Sandler did backflips over Ezra Frech s Dancing With the Stars Season 35 win on Wednesday, sharing a heartfelt video message that congratulated the 21-year-old for taking the crown. The Happy Gilmore actor and 21-year-old American Paralympic track-and-field athlete and disability rights advocate first connected over the Frech family s Angel City Sports organization in Southern California when the DWTS star was just a child. Ezra oh my goodness, you are the king again! You are just a stud, Sandler said in the video message, posted to his personal X page. We’ve known you since you were a little kid. You’ve always been the man. We’ve always loved you, we’ve always talked about you. You are and have been since elementary school a massive inspiration for all, and you did it again buddy. You inspired the world. The actor then wished Frech continued success and shared his love. We love you. Enjoy this moment. Love to the family, from all of us, OK buddy? Congrats! pic.twitter.com/xfIttqgcvB &mdash; Adam Sandler (@AdamSandler) November 25, 2026 The Paralympic gold medalist and pro partner Daniella Karagach won Season 35 of “Dancing With the Stars” on Tuesday, taking home the Len Goodman Mirrorball Trophy after a three-round finale. Frech, 21, made history as the first amputee to win the ABC dance competition and the youngest man to claim the title. Thy finished ahead of figure skater Amber Glenn and Pasha Pashkov, who took second place, followed by Connor Wood and Rylee Arnold i
+For the first time in its 100-year history, the Macy s Thanksgiving Day Parade has been postponed. But longtime Today host Hoda Kotb is choosing to look on the bright side of things. It s OK, because guess what? We waited 100 years for this parade, we re going to wait two more days, she told Seth Meyers Wednesday night on Late Night. We re going to have it on Saturday. It s going to be a beautiful, sun-splashed day. What was happening [Thursday] was not going to be fun, Kotb continued. The winds were like tropical storm force. There are a bunch of kids who were marching and people with the balloons. Meyers, however, admitted he would have gladly watched that disaster unfold . I will say, it sounds really fun to watch. Crazy winds, floats going everywhere, kids trumpets just being whipped away. I mean, it s a missed opportunity. Safety first, he joked. I need a couple more data points before I decide climate change is real, but keep going. Here s the deal: The people preparing this 100-year parade have been working tirelessly for a year plus. The musical acts are incredible. Everything. So imagine spending all that time painting every little bit of every float, wondering if the float is going to fly away somewhere, Kotb explained. The good news is, to me, I m like relieved. Saturday is going to be amazing. Everybody s still hanging out. Yeah, we re going to watch it anyway. Then during the parade piece that s usually on [Thursday], guess what? We re going to watch an old parad
 
-### Bob Iger Had Extramarital Affair and Got Employee Pregnant, Tell-All Says
-Thu, 26 Nov 2026 01:29:41 +0000 — https://www.thewrap.com/culture-lifestyle/culture/bob-iger-had-extramarital-affair-got-employee-pregnant-tell-all/
+### Jennifer Lopez Brings a Broadway Flair to ‘The JLo Show’ That Fulfilled Her Childhood Dreams
+Thu, 26 Nov 2026 18:15:00 +0000 — https://www.thewrap.com/creative-content/music/the-jlo-show-jennifer-lopez-broadway-vegas-residency/
 
-Bob Iger had an extramarital affair and got an employee pregnant, an upcoming unauthorized biography charting the corporate history of Disney claims. The revelation is made in Robbie Whelan s The House of the Mouse, which The New York Times got an advance copy of and reported on Wednesday. Whelan says the former Disney CEO had an affair with an ABC marketer in the 1990s when he was the head of ABC Entertainment, per the Times. Their relationship was consensual. (Iger divorced wife Susan Iger in 1994 and married his current wife Willow Bay in 1995.) The unnamed woman, Iger s subordinate, became pregnant and suffered through a traumatic termination procedure, Whelan wrote. The author contrasted Iger s personal behavior with his public support of the #MeToo movement in the 2010s, where powerful figures were held accountable for their inappropriate actions. Iger declined to be interviewed for the book. The 75-year-old executive served as CEO of Disney twice, first succeeding Michael Eisner in 2005 until his contract expired in 2020. He returned for his second stint in November 2022 until he was succeeded by Josh D Amaro last March. “Josh D’Amaro is an exceptional leader and the right person to become our next CEO,” Iger said of D Amaro s appointment at the time. “He has an instinctive appreciation of the Disney brand, and a deep understanding of what resonates with our audiences, paired with the rigor and attention to detail required to deliver some of our most ambitious projects
+Jennifer Lopez watched West Side Story every Thanksgiving with her mother in the Bronx. Now, she s bringing her rendition of the classic musical to homes nationwide this Thursday. The vocalist meshed musical theater knowledge with her pop hits to create The JLO Show. This Vegas residency took from the traditions of showgirls and canon Broadway standards, including Whatever Lola Wants and Don t Rain on My Parade, and combined them with Lopez s signature booty-shake and hip-hop hits. The idea came to be as she considered how she might reinvent her songs for fans that have supported her over 25 years into her career. She brought together musical minds like David Cabrera and choreography masters Mandy Moore, Sienna Lalau and Kiel Tutin to create a hybrid show that took fans through her story and honored the entertainers that made her JLO. The JLO Show premieres on the CBS Television Network Thanksgiving Day (Credit: Aaron Perry) This show was about more than just my work, Lopez told TheWrap. It was about my life, and that was a really kind of unexpected challenge that comes along with you know becoming and being successful and being famous. The JLO Show concert film premieres Thanksgiving Day at 8 p.m. ET / PT on CBS. It will be available to stream the next day on Paramount+. TheWrap: I know you said this residency is inspired by the Vegas showgirls and the classic movies that raised you. Can you talk to me about channeling some of those legends into The JLO Show ? I used to sit 
 
-### Judge Halts ABC Early License Renewal Order, Spikes FCC Dismissal of Disney s Free Speech Suit
-Thu, 26 Nov 2026 01:15:02 +0000 — https://www.thewrap.com/media-platforms/tv/judge-halts-abc-early-license-renewal-order-spikes-fcc-dismissal-of-disneys-free-speech-suit/
+### Dale Dickey on Her Hunting Wives Debut, One Liners and That Shocking Shootout Scene
+Thu, 26 Nov 2026 18:00:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/dale-dickey-the-hunting-wives-shootout-scene/
 
-A federal judge has rejected the FCC’s effort to dismiss ABC and Disney’s First Amendment lawsuit and granted the companies a preliminary injunction, finding they are likely to prove that the Trump administration used an early broadcast license renewal process to retaliate against ABC for coverage and programming it disliked. U.S. District Judge Loren L. AliKhan concluded that ABC and Disney had presented substantial evidence that the FCC’s decision to force eight ABC-owned stations into early license renewal proceedings was motivated, at least in part, by retaliation for protected speech. The ruling is a significant rebuke of FCC Chairman Brendan Carr and the administration’s efforts to use broadcast regulation against media organizations. The FCC asked a federal judge to dismiss what a spokesperson told TheWrap was a meritless lawsuit back in September, arguing the court lacks jurisdiction and that the network failed to establish that the scrutiny was retaliation over its programming. “The FCC has developed a voluminous record, and it will continue to follow the facts and the law wherever they lead,” the FCC spokesperson said. “As the FCC’s motion to dismiss shows, Disney filed its meritless case in the wrong court at the wrong time based on erroneous legal and factual assertions.” This legal saga dates back to the FCC s April order for ABC to apply for an early renewal for broadcast licenses for Disney s eight local stations — despite these stations not being scheduled to 
+The following story contains spoilers for The Hunting Wives Season 2. The Hunting Wives showrunner Rebecca Cutter knew exactly the woman she needed to play the biker gang s head honcho Zelda for Season 2 of her Netflix series. Cutter created the role for Dale Dickey. When the Widow s Bay star got the call, she assumed she probably wasn t from Margo (Malin Ackerman) s reformed, uppity life. I m not a socialite. I must be from Margo s past, from the trailer park, Dickey told TheWrap of her initial thoughts on the gig. The Emmy nominee plays Zelda. She leads a mostly male group of bikers with a passion for vengeance. Zelda makes an ultimatum with Margo Banks as she s on the hunt for her brother Kyle. What Zelda doesn t know is that Kyle is dead. It s later discovered that Zelda s granddaughter is Elly. She believed that Kyle was the one who got her pregnant and was ultimately responsible for her death. She made it her mission to see to it that he was dead. Cutter had Dickey in mind for the role from the beginning. I fully wrote it for her so then that s always amazing when you get to fulfill that, Cutter told TheWrap. She was better than I even dreamed because she also just brought so much emotion to it. Maybe it s my own internalized sexism, there was like a minute when I was writing it where I was like, Maybe a woman can t be as scary as a male gang leader,' she admitted. And then no, she s f king scary. She s amazing. Season 2, Episode 4 sees Zelda and the biker gang pull up 
 
-### Denny s Diners Mock Its Bizarre Love Letter to Nvidia s Jensen Huang: Do the Chinese Spies Have Plaques Too?
-Thu, 26 Nov 2026 00:59:25 +0000 — https://www.thewrap.com/culture-lifestyle/culture/dennys-jensen-huang-love-letter-silicon-valley-plaque-reactions/
+### Dig Bosses Unpack That Twisty Finale Reveal, Tease Fiery Location for Potential Season 2
+Thu, 26 Nov 2026 18:00:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/dig-finale-amy-poehler-mike-schur-j-j-philibin-interview/
 
-Denny s Corporation ordered an honorary plaque to embattled Nvidia CEO Jensen Huang be remounted in a Silicon Valley branch this month after the diner s management had it removed amid his high-profile affairs. In an Instagram post on Wednesday, the Denny s communications team espoused even more unmitigated support for the newly reinstated tech executive and former Denny s employee, despite his public missteps a romantically penned doubling down that roundly earned the mockery of diner s patrons in the comments. How many diners get to say Jensen Huang calls them his first alma mater? We don t take that lightly, the post read. Jensen, your booth is waiting and the coffee s on. Beautifully said, one commentator wrote. Do the Chinese spies have plaques too? Who cares about that old rich perv, wrote another. BRING BACK THE OLD FRIES. Several more expressed that maybe Denny s should just focus on what they do best: serving food 24/7. Just put the pancakes on the plate bro, one wrote before another added, Trying to wrap my head around the largest diner chain in the world posting this. View this post on Instagram A post shared by Denny’s (@dennysdiner) Some things you just don’t take off the menu. Jensen Huang is one of them, Denny s post read. Long before Nvidia changed the world, Jensen was washing dishes and serving guests at Denny’s. Years later, he and his co-founders sat down over coffee in one of our booths to talk through the idea that became Nvidia. We couldn’t be prouder of
+This story contains spoilers for the “Dig” Season 1 finale. After the discovery of a lifetime goes missing without a trace in Peacock archeological comedy Dig, Amy Poehler s Elise and her gaggle of archaeologists embark on a wild goose chase, only to find that the answer was right in front of them the whole time. While Elise, Dylan (Geraldine Viswanathan), Clare (Antonia Thomas) and Patty (Finna Strazza) felt confident they had solved the mystery of who stole Pretty Woman, a.k.a. the rare statue of Hera, after Dorothy (Bonita Friedericy) was arrested by the Greek police, the finale reveals it was all a cover-up orchestrated by beloved dig site leader and Elise s longtime mentor, Neville (Hugh Laurie). It s a reveal that Poehler and co-showrunners Mike Schur and J.J. Philbin aimed to breadcrumb, but not give too much away, with Schur telling TheWrap, audiences are very very savvy, and you have to do a really careful job of hiding the ball into in order for things to actually be surprising. The trick is that you have to mislead the audience, but not lie to them, and so a breakthrough for us was that Dorothy should be part of it too, because then you can do this kind of semi-reveal, where Dorothy s like, yeah, it was me,' Schur explained. The audience is not being lied to — it is Dorothy. Hugh Laurie in Dig (Peacock) But the reveal of Neville s involvement in the wider-reaching conspiracy to sell artifacts under the table turns his perception as a gregarious, beloved leader on i
 
-### Angelina Jolie, Brad Pitt Settle Wine Co. Lawsuit That Exposed Abuse Allegations
-Wed, 25 Nov 2026 23:40:19 +0000 — https://www.thewrap.com/industry-news/public-policy-legal/angelina-jolie-brad-pitt-lawsuit-settled-abuse-allegations/
+### Gérard Depardieu Loses Appeal, Faces Rape Trial
+Thu, 26 Nov 2026 17:36:23 +0000 — https://www.thewrap.com/industry-news/public-policy-legal/gerard-depardieu-loses-appeal-faces-rape-trial/
 
-Angelina Jolie and Brad Pitt ended the years-long legal battle over ownership of their French winery on Wednesday, a lawsuit that exposed the actress abuse allegations against her ex-husband in 2022. “We have settled out of court in the best interests of our family and will not be commenting further,” representatives for Jolie and Pitt said in a joint statement to media on Wednesday. “Any comments in media stories attributed to ‘sources’ are in fact not coming from either of us, or anyone close to us.” Pitt sued Jolie in 2022, claiming she deliberately damaged the wine company they bought in 2008, Château Miraval, by selling her half to a “stranger” with a bad reputation – something the couple had explicitly and mutually agreed not to ever do, according to the original court filing. Jolie’s divestment strategy was designed “to inflict harm on Pitt. Jolie knew and intended that [businessman Yuri] Shefler and his affiliates would try to control the business Pitt had built and undermine Pitt’s investment in Miraval,” the lawsuit claimed, citing the Russian-born billionaire behind the Stoli Group. Jolie s countersuit later that year alleged a 2016 incident on a private jet in which Pitt had a violent outburst against her and their children, which ultimately led to her filing for divorce from the Once Upon a Time in Hollywood Oscar winner. She claimed she declined to sell her share of the company back to Pitt due a coercive NDA. Wednesday s settlement brings both Jolie and Pitt s 
+French actor Gérard Depardieu will proceed to a rape trial against actress Charlotte Arnould, a Paris appeals court ruled on Thursday. The court rejected Depardieu s bid to avoid having his case, revolving around an alleged 2018 rape, thrown out. The case dates back to two separate incidents from August 2018, wherein Arnould, then in her early 20s, alleges Depardieu, then in his late 60s, sexually assaulted her in her home. The Paris appeals court ruled that Depardieu would be tried for the first alleged incident, which occurred on Aug. 7, 2018, while dismissing a second alleged incident, which occurred Aug. 13, 2018. This news comes hot on the heels of Depardieu withdrawing his appeal for a separate sexual assault trial for which he was convicted in May 2025 . Depardieu was found guilty of sexually assaulting two women on the set of his 2021 film, “Les Volets Verts. He was given an 18-month suspended prison sentence and a fine of roughly $32,350 (including one victim’s medical fees), with his name additionally added to France’s sex offender registry. Depardieu withdrew that appeal on Nov. 16, stating that he used vulgar, ​sexually suggestive humour on set and realizes now that there is a line between cheekiness ⁠and offence, in a statement provided to Reuters . The French actor apologized by giving his deepest and ​most sincere apologies to all those who may ​have suffered as a result, sharing that he decided to withdraw his appeal because he d come ​to realize that I belong
 
 ## Collider
 
-### 'Blade Runner 2099' Stars Break Down the Prime Video Series' Biggest Finale Twists
-Thu, 26 Nov 2026 14:00:12 GMT — https://collider.com/blade-runner-2099-finale-matthew-needham-lewis-gribben-dimitri-abold/
+### New ‘Star Trek: Voyager’ Release Will Officially Bring Back a Notorious Storyline
+Fri, 27 Nov 2026 00:45:12 GMT — https://collider.com/star-trek-voyager-across-the-unknown-year-of-hell/
 
-Editor's Note: The following contains spoilers for the entire season of Blade Runner 2099. Now that Blade Runner 2099 has officially premiered, the thoughtful and lore-packed series deserves a closer analysis as the eight-episode season delivers a bunch of new twists to the world we thought we knew. The series takes place 50 years after the events of Blade Runner 2049 , and introduces us to a new vision of Los Angeles. While the city has begun to ecologically rehabilitate, the world is more dangerous than ever for humans, who are now considered second-class citizens.
+The new video game Star Trek: Voyager – Across the Unknown has let gamers and Star Trek fans explore the dangerous Delta Quadrant, and make life-or-death choices that would make Kathryn Janeway blanch. Now, a new expansion pack is taking the USS Voyager and her crew into the territory of one of the most dangerous alien races in the quadrant, one whose threat is more terrifying than even the Borg: those who run afoul of them need not worry about assimilation, but complete erasure from existence.
 
-### ‘The Lord of the Rings’ Most Overlooked Fantasy Officially Hits Prime Video in 2 Days
-Thu, 26 Nov 2026 14:00:12 GMT — https://collider.com/lord-of-the-rings-war-of-the-rohirrim-streaming-prime-video-november-2026/
+### 7 Sci-Fi Books That Are Better Than 'Neuromancer'
+Fri, 27 Nov 2026 00:39:12 GMT — https://collider.com/sci-fi-books-better-than-neuromancer/
 
-When Théoden leads the people of Rohan to Helm’s Deep in The Lord of the Rings: The Two Towers , he’s putting his faith in a fortress that has withstood centuries of warfare. Long before Saruman sent an army of Uruk-hai to its gates, another King of Rohan made a desperate stand within those same walls . His name was Helm Hammerhand, and the story of how he earned that nickname is every bit as brutal as you’d expect. J.R.R. Tolkien detailed Helm’s reign in the appendices of The Return of the King , providing the foundation for Middle-earth’s first anime feature.
+Cyberpunk wouldn't be what it is today without Neuromancer . Long before computers and the Internet became part of everyday life, sci-fi writers were already imagining what the world might look like with such technology, but more importantly, how it would affect humanity. Neuromancer is one of those books, imagining a dystopian society controlled by global computer networks and introducing hackers like Case, who push the boundaries of artificial intelligence.
 
-### ‘Home Alone’ Gets Major Reveal 36 Years Later as Macaulay Culkin Prepares for Reboot
-Thu, 26 Nov 2026 14:00:12 GMT — https://collider.com/home-alone-macaulay-culkin-catherine-ohara-storyline-fatherhood/
+### Netflix’s New Jane Austen Adaptation Officially Debuts in 1 Week
+Fri, 27 Nov 2026 00:30:12 GMT — https://collider.com/netflix-pride-and-prejudice-release-date-december-2026/
 
-One of the funniest things about Home Alone is how little it takes for Kevin McCallister to consider the entire experience a success. He gets to eat ice cream in front of the television and watch a movie his uncle told him he couldn’t watch. He can even yell for someone to come out and stop him, just to enjoy the fact that nobody will. The traps are what everybody remembers , but any kid who’s ever been told to turn the TV off is already on Kevin’s side by the time Harry and Marv get to the house.
+Bringing one of literature's greatest works to life is no easy task, but Netflix is rising to the challenge with Pride and Prejudice . Written by Jane Austen, Pride and Prejudice was her third novel and the second to be published, released in 1813. At the center is the dynamic between Elizabeth Bennet (whose personal growth drives the story) and the proud, wealthy Mr. Darcy . Through their time together, Elizabeth recognizes the mistakes of judging people too quickly and learns how to distinguish fake charm from true kindness.
 
-### 7 of the Greatest Sci-Fi Books Under 100 Pages
-Thu, 26 Nov 2026 13:39:12 GMT — https://collider.com/best-sci-fi-books-under-100-pages/
+### The 10 Best Christmas War Films, Ranked
+Fri, 27 Nov 2026 00:22:12 GMT — https://collider.com/best-christmas-war-films-ranked/
 
-Science fiction doesn't always need much space to achieve its goal. Some of the best stories in this genre can be read in a single afternoon and explore humanity's future , describe new worlds, or show how technology sometimes fails. And sometimes, a short story may be even more thought-provoking than a 700-page book.
+‘Tis the season to be jolly! But while we all celebrate the holidays with our loved ones, we often forget that the world revolves around them. So, at certain moments in world history, wars broke out during Christmas . What did it mean for the men and women on the battlefield? Well, these ten Christmas war movies may offer some insight!
 
-### 15 Harry Potter Movie Details That Only Make Sense if You Read the Books
-Thu, 26 Nov 2026 13:32:12 GMT — https://collider.com/harry-potter-movie-details-work-if-you-read-the-books/
+### Taylor Sheridan’s ‘Tulsa King’ Officially Returns With Major Season 4 Episode
+Fri, 27 Nov 2026 00:16:12 GMT — https://collider.com/taylor-sheridan-tulsa-king-season-4-episode-7-release-date-paramount-plus-november-2026/
 
-Since the first book's release in 1997, the Harry Potter franchise has become one of the greatest media franchises in the world. The books changed the structure of young adult novels, and the film series became one of the highest-grossing franchises in the world. This is thanks to the strong characters and story, which evolved with the audience from a fun wizard story to a complex understanding of death.
+Considering the entire premise of Tulsa King was that Sylvester Stallone 's Dwight Manfredi was being sent somewhere that his New York associates considered to be of little importance, things have worked out rather well for the General in Oklahoma. Having spent 25 years in prison, Dwight emerged to find that even buying a cup of coffee was a rather different experience from the one he remembered, yet he's managed to put together a fairly lucrative business with a bunch of guys who probably wouldn't have given each other the time of day had they met under different circumstances. His attempts to become a slightly more legitimate businessman have been complicated by the fact that some of Tulsa's supposedly legitimate businessmen aren't much better than him, and we've still got another four episodes to see how that all plays out this year.
 
-### LAIKA Officially Says Goodbye to Hulu in 4 Days
-Thu, 26 Nov 2026 13:30:12 GMT — https://collider.com/coraline-leaving-hulu-november-2026/
+### The Best Miniseries of the 2010s, Ranked Year by Year
+Fri, 27 Nov 2026 00:12:12 GMT — https://collider.com/best-miniseries-2010s-every-year-ranked/
 
-For an animated movie with a PG rating, Coraline has definitely been responsible for more than its fair share of childhood nightmares . Henry Selick , who had already given an entire generation a reason to associate Christmas with Halloween with The Nightmare Before Christmas , found something genuinely terrifying in the prospect of having parents who gave their child everything she wanted. Of course, everything comes at a cost in the Other World, and Teri Hatcher ’s Other Mother makes the prospect of sewing buttons over your eyes sound disturbingly reasonable.
+Serving as both the definitive peak of television’s golden era and the decade that saw the rampant rise in popularity of streaming services producing new shows, it should come as no surprise that the 2010s have an abundance of excellent miniseries. In fact, such is the quality of the miniseries of the decade; each year from 2010 to 2019 has an array of enthralling and memorable titles, with masterpieces like When They See Us , The Haunting of Hill House , and Unbelievable missing out on selection.
 
-### 8 Modern Thriller Books To Read Before Kicking the Bucket
-Thu, 26 Nov 2026 13:09:12 GMT — https://collider.com/modern-thriller-books-to-read-bucket-list/
+### Forget ‘Coyote vs. Acme,’ One of the Best Looney Tunes Movies Is Officially Leaving HBO Max
+Fri, 27 Nov 2026 00:00:12 GMT — https://collider.com/looney-tunes-the-day-the-earth-blew-up-leaving-hbo-max-november-2026/
 
-There's plenty of adrenaline to be found in modern thriller books . With anxiety, crime, and social tensions seemingly at an all-time high, these novels keep readers up past midnight, tapping into some of society's biggest fears . Whether it’s fractured relationships or institutional corruption, thriller books translate these tensions into pages.
+2026 was the year the Looney Tunes finally got their day in court. Or, well, on-screen. Nearly three years after Warner Bros. made the much-maligned decision to pull Coyote vs. Acme from its release schedule and shelve it indefinitely , Ketchup Entertainment brought the live-action animation hybrid to theaters with plenty of fanfare. Dave Green 's legal comedy that David Zaslav and company didn't want you to see became a success, raking in over $126 million at the box office and earning rave reviews to the tune of a Certified Fresh 96% score from critics and a Verified Hot 94% score from audiences on Rotten Tomatoes. However, the Will Forte and John Cena feature isn't Ketchup's first foray coming to the rescue of the beloved cartoon characters.
 
-### Robert De Niro's Mob Thriller Officially Leaves Netflix in 4 Days
-Thu, 26 Nov 2026 13:00:12 GMT — https://collider.com/robert-de-niro-the-family-leaving-netflix-december-2026/
+### Harry Potter Reboot Series Will Officially Reunite a Fractured Fanbase, According to Franchise Historian
+Fri, 27 Nov 2026 00:00:12 GMT — https://collider.com/hbo-harry-potter-reboot-fandom-melissa-anelli/
 
-Robert De Niro is back at the box office this Thanksgiving weekend, as one of his most popular comedy franchises returns for the first time in 16 years. Focker-in-Law , the fourth film in the Fockers franchise, returns audiences to De Niro's Jack Byrnes as a new face seeks a place in the circle of trust . That face is the very recognizable Ariana Grande , who portrays Olivia Jones, a former FBI hostage negotiator and girlfriend of Greg's ( Ben Stiller ) son Henry ( Skyler Gisondo ).
+Before the days of iPods being widely adopted by users, people used to download episodes of PotterCast and listen to them on Windows Media Player, and given that we had two or three years to kill between some of the Harry Potter books, there was an extraordinary amount of time to spend discussing what might happen in the next one. I mentioned this to Melissa Anelli when she spoke with Collider recently for the updated release of her book, Harry: A History , which reminded me of how much fun it was to be a Harry Potter fan back then. It's been a while since we've had anything quite like that to look forward to, although we discussed whether HBO 's new series might change that.
 
-### 6 Fantasy Books That Tried to Be Harry Potter
-Thu, 26 Nov 2026 12:56:12 GMT — https://collider.com/fantasy-books-tried-to-be-harry-potter/
+### Netflix Perfected the Taylor Sheridan Formula With This 7-Part Western Miniseries
+Thu, 26 Nov 2026 23:58:12 GMT — https://collider.com/east-of-eden-netflix-perfected-taylor-sheridan-formula/
 
-On my 11th birthday, I kept checking the door all day. I knew, deep down, that no owl was coming, but a small part of me still hoped. When the day ended with nothing but cake and a few cards, I remember I was broken. I suspect half the kids who grew up with J.K. Rowling ’s books had a version of that same quiet heartbreak .
+To say Taylor Sheridan dominates a sizable chunk of the television market is an understatement. He has carved out several niches for himself, none more prominent than the Western. His ever-expanding Yellowstone universe has helped give the long-lasting genre a widespread contemporary renaissance , especially on the small screen. With that said, Sheridan's repeated weaknesses weigh down even his strongest works; the Western's distinct aesthetic sheen emerges unscathed, but his propensity for tiresome character stereotypes and shock-value extremes often leads to muddled themes and missed opportunities instead of rigorously nuanced, affecting melodrama.
 
-### Forget ‘Outlander,’ Netflix’s 25-Episode Fantasy Thriller Is a Near-Perfect Binge
-Thu, 26 Nov 2026 12:48:12 GMT — https://collider.com/discovery-of-witches-perfect-fantasy-thriller-binge-netflix/
+### Sam Raimi’s Brutal Survival Thriller Officially Removed From Netflix
+Thu, 26 Nov 2026 23:30:12 GMT — https://collider.com/sam-raimi-crawl-leaving-netflix-november-2026/
 
-Romance has always been an exceedingly popular genre, but one can argue that more cultural phenomenon-level television shows are enjoying their moment in the sun than ever before. Take modern offerings like Outlander , Bridgerton , and Heated Rivalry , all of which took the world by storm during the last decade. Their individual success comes back to the same collective reason why small-budget rom-com movies once consistently reigned over the box office, and why the assorted sub-genres under romance's umbrella remain some of the highest-selling novels in the world. At the genre's best , its immersive nature lends itself to supporting the thematic priorities for which many underrepresented demographics hunger for : empowerment, escapist wish-fulfillment, the revelatory tangle of intimacy, and harmless theatrical melodrama.
+Sam Raimi made his grand return to horror at the beginning of 2026 with his survival thriller Send Help and reminded viewers why he's long been considered one of the most inventive and beloved filmmakers in the genre. In a neck-and-neck opening against Markiplier 's surprise-hit cosmic horror video game adaptation, Iron Lung , the Evil Dead filmmaker ultimately returned to the top of the box office and earned stellar reviews , with a Certified Fresh 92% on Rotten Tomatoes. Still, he's remained more active of late as a producer. Evil Dead Burn most recently had Raimi's backing as it took the Deadite-infested franchise into a secluded, nightmarish family reunion.
 

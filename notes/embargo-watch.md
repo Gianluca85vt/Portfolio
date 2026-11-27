@@ -1,4 +1,4 @@
-# Review radar — updated 2026-11-26
+# Review radar — updated 2026-11-27
 
 Built by `scripts/harvest-embargoes.mjs` from Steam's upcoming releases,
 sorted by date and filtered to titles priced at €25 or more. That price line is
@@ -24,15 +24,15 @@ _Nothing inside three days._
 
 | Title | Publisher | Release | Away | Reviews from | Price |
 |---|---|---|---|---|---|
-| Warhammer 40,000: Dawn of War IV | Deep Silver | 2026-12-03 | 7d | 2026-12-02 | €59.99 |
-| DRAGON QUEST MONSTERS: The Withered World | Square Enix | 2026-12-03 | 7d | 2026-12-02 | €59.99 |
-| Rayman Legends Retold | Ubisoft | 2026-12-03 | 7d | 2026-12-02 | €39.99 |
-| FreeStyle Football 2 | JOYCITY | 2026-12-03 | 7d | 2026-12-02 | €29.99 |
-| Thief: The Dark Project Remastered | Atari, Eidos Interactive | 2026-12-03 | 7d | 2026-12-02 | €29.99 |
+| Warhammer 40,000: Dawn of War IV | Deep Silver | 2026-12-03 | 6d | 2026-12-02 | €59.99 |
+| DRAGON QUEST MONSTERS: The Withered World | Square Enix | 2026-12-03 | 6d | 2026-12-02 | €59.99 |
+| Rayman Legends Retold | Ubisoft | 2026-12-03 | 6d | 2026-12-02 | €39.99 |
+| FreeStyle Football 2 | JOYCITY | 2026-12-03 | 6d | 2026-12-02 | €29.99 |
+| Thief: The Dark Project Remastered | Atari, Eidos Interactive | 2026-12-03 | 6d | 2026-12-02 | €29.99 |
 
 ---
 
-*1500 upcoming titles scanned, 1142 with a firm date inside
+*1500 upcoming titles scanned, 1132 with a firm date inside
 14 days, 5 above the price line. Titles showing
 "Q4 2026" or "To be announced" are dropped: a quarter says nothing about when
 reviews arrive.*

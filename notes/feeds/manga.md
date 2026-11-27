@@ -1,6 +1,41 @@
-# Manga — harvested 2026-11-26T14:27:40.872Z
+# Manga — harvested 2026-11-27T00:48:42.277Z
 
 ## Anime News Network
+
+### Live-Action Darwin's Game Film's Trailer Reveals More Cast
+Thu, 26 Nov 2026 17:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-26/live-action-darwin-game-film-trailer-reveals-more-cast/.244219
+
+Raul, Gaku Sano, Haruse Akune, Hinano Nakayama, Kōki Maeda, Kentarō Maeda join cast
+
+### Ao no Hana Utsuwa no Mori Live-Action Series Gets 2-Episode Spinoff Drama on December 21
+Thu, 26 Nov 2026 16:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-26/ao-no-hana-utsuwa-no-mori-live-action-series-gets-2-episode-spinoff-drama-on-december-21/.244150
+
+<cite>Ao no Hana Utsuwa no Mori Spinoff Ano Ko no Kuchibeni</cite> features new story, cast members; main series also to end on December 17
+
+### Live-Action Quiztopia Series Adds 13 Cast Members
+Thu, 26 Nov 2026 14:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-26/live-action-quiztopia-series-adds-13-cast-members/.244100
+
+Series debuts on Netflix on December 17
+
+### The Dragon Prince's Ill-Mated Betrothal Manga Ends, Gets 3-Chapter Epilogue
+Thu, 26 Nov 2026 12:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-26/the-dragon-prince-ill-mated-betrothal-manga-ends-gets-3-chapter-epilogue/.244106
+
+Manga's main story ended on September 17
+
+### ANOMALITH Game Review
+Thu, 26 Nov 2026 12:00:00 -0500 — https://www.animenewsnetwork.com/review/game/pc-playsation-5-nintendo-switch-2/anomalith/.243577
+
+The best way to describe <cite>ANOMALITH's</cite> strengths is that it manages to do a lot with very little, though that means it often bites off more than it can chew.
+
+### MangaPlaza Add Seven Seas Titles to Catalogue
+Thu, 26 Nov 2026 11:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-26/mangaplaza-add-seven-seas-titles-to-catalogue/.244200
+
+Titles include <cite>Mushoku Tensei</cite>, <cite>The Saint's Magic Power is Omnipotent</cite>, <cite>The Strange House</cite>, more
+
+### kuboken's Killer Shark in Another World Manga Gets TV Anime
+Thu, 26 Nov 2026 10:00:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-26/kuboken-killer-shark-in-another-world-manga-gets-tv-anime/.244231
+
+Shige Fukase directs series at Studio Lings
 
 ### Fool Night Anime Reveals 3 More Cast Members
 Thu, 26 Nov 2026 07:15:00 -0500 — https://www.animenewsnetwork.com/news/2026-11-26/fool-night-anime-reveals-3-more-cast-members/.244230
@@ -27,46 +62,16 @@ Thu, 26 Nov 2026 02:21:25 -0500 — https://www.animenewsnetwork.com/news/2026-1
 
 <cite>Godzilla Minus Zero</cite> stays at #1 in 3rd weekend
 
-### Japan's Gundam Base Stores Toughen ID Verification for Buyers
-Wed, 25 Nov 2026 23:59:00 -0500 — https://www.animenewsnetwork.com/interest/2026-11-25/japan-gundam-base-stores-toughen-id-verification-for-buyers/.244190
-
-Stores now only accept passport or Japan's My Number Card as ID
-
-### Live-Action 'Kekkon Shimashō, Koi Suru Mae ni' Series Reveals Cast, Theme Song Artists, January 2027 Streaming Debut
-Wed, 25 Nov 2026 23:04:45 -0500 — https://www.animenewsnetwork.com/news/2026-11-25/live-action-kekkon-shimasho-koi-suru-mae-ni-series-reveals-cast-theme-song-artists-january-2027-/.244170
-
-Former Nogizaka46 idol Tamami Sakaguchi, Genin wa Jibun ni Aru's Jun Mutō star in shorts with song by YU's
-
-### Nioh 3 Game Streams First Look Trailer for New DLC
-Wed, 25 Nov 2026 22:50:11 -0500 — https://www.animenewsnetwork.com/news/2026-11-25/nioh-3-game-streams-first-look-trailer-for-new-dlc/.244166
-
-Bloody Insurrection DLC Vol. 2 launches on December 17
-
-### Live-Action High School Family: Kokosei Kazoku Film Gets Spinoff Shorts
-Wed, 25 Nov 2026 22:46:21 -0500 — https://www.animenewsnetwork.com/news/2026-11-25/live-action-high-school-family-kokosei-kazoku-film-gets-spinoff-shorts/.244171
-
-11 short episodes stream in lead-up to film's January opening
-
-### Under Ninja Manga Goes on 4-Week Hiatus
-Wed, 25 Nov 2026 22:28:09 -0500 — https://www.animenewsnetwork.com/news/2026-11-25/under-ninja-manga-goes-on-4-week-hiatus/.244180
-
-Manga resumes serialization on December 28
-
-### Exoprimal Game Ends Service in September 2027
-Wed, 25 Nov 2026 22:19:19 -0500 — https://www.animenewsnetwork.com/news/2026-11-25/exoprimal-game-ends-service-in-september-2027/.244201
-
-Game to be delisted after March 30
-
-### Melty Blood:Twi-Lumina 2D Fighter Game's New Trailer Confirms Crossplay
-Wed, 25 Nov 2026 22:09:38 -0500 — https://www.animenewsnetwork.com/news/2026-11-25/melty-blood-twi-lumina-2d-fighter-game-new-trailer-confirms-crossplay/.244202
-
-Game launches for PS5, PS4, Switch 2, Switch, Xbox One, PC on April 22
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Killer Shark in Another World Anime Adaptation Announced
+Thu, 26 Nov 2026 15:33:37 GMT — https://animecorner.me/killer-shark-in-another-world-anime-adaptation-announced/
+
+An anime adaptation of Killer Shark in Another World manga by Kuboken has been&hellip;
 
 ### Fool Night Now Streaming, Creditless Opening Featuring Tempalay Released
 Thu, 26 Nov 2026 09:41:42 GMT — https://animecorner.me/fool-night-releases-creditless-opening-featuring-tempalay-ahead-of-todays-netflix-premiere/
@@ -109,6 +114,16 @@ Wed, 25 Nov 2026 14:40:04 GMT — https://animecorner.me/at-2500-in-akasaka-gets
 At 25:00, in Akasaka boys' love manga by Hiroko Natsuno is getting an anime&hellip;
 
 ## MyAnimeList News
+
+### Giant Ojousama Reveals Additional Cast, Character Promo
+Thu, 26 Nov 2026 09:17:50 -0800 — https://myanimelist.net/news/74984947?_location=rss
+
+The official X (formerly Twitter) account for the television anime adaptation of Q Nikumura s Giant Ojousama manga revealed additional cast and three character promotional videos on Friday. The anime is scheduled to premiere in January 2027. Cast Madoka Itou: Risa Imayanagi (Nokemono-tachi no Yoru) Stella: Rina Kawaguchi (Needy Girl Overdose) Gimlet: Ryoutarou Okiayu (Kanan-sama wa Akumade Choroi) Hiroshi Ikehata (Witch Watch) is directing at Tatsunoko Production. Yuu Satou (Haite Kudasai,...
+
+### Manga Isekai Kuimetsu no Same Receives TV Anime Adaptation
+Thu, 26 Nov 2026 07:39:48 -0800 — https://myanimelist.net/news/74984559?_location=rss
+
+Production company Kadokawa opened an official website for a television anime adaptation of Kuboken s Isekai Kuimetsu no Same (Killer Shark in Another World) on Thursday, revealing the main staff, a teaser visual (pictured), and teaser promotional video. Staff Director: Shigeru Fukase (Shin Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei) Series Composition, Script: Shigeru Murakoshi (Ballpark de Tsukamaete!) Character Design: Sou Ikuyama (Watashi wo Tabetai, Hitodenashi) Shark Design: Iroh...
 
 ### Arcanadea Unveils Additional Cast Pair
 Thu, 26 Nov 2026 01:36:50 -0800 — https://myanimelist.net/news/74983748?_location=rss
