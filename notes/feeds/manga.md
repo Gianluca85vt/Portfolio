@@ -1,6 +1,16 @@
-# Manga — harvested 2026-11-27T14:20:23.926Z
+# Manga — harvested 2026-11-28T00:14:18.575Z
 
 ## Anime News Network
+
+### Father, I Don't Want This Marriage Volumes 1-4 K-Comic Review
+Fri, 27 Nov 2026 12:00:00 -0500 — https://www.animenewsnetwork.com/review/father-i-dont-want-this-marriage/volumes-1-4/.243392
+
+<i>Father, I Don’t Want This Marriage</i> rapidly becomes a case of misunderstandings fueling misconceptions in delightful romcom fashion, albeit with a dark underbelly.
+
+### The World's Strongest Witch ‒ Episode 8
+Fri, 27 Nov 2026 09:30:00 -0500 — https://www.animenewsnetwork.com/review/the-world-strongest-witch/episode-8/.244209
+
+Like every prior episode, this week's <i>The World’s Strongest Witch</i> is cute and pokes fun at video games in a genuinely clever way. I’m glad it's become part of my regular routine this fall.
 
 ### PelleK: From Posting Anime Covers on YouTube, to Singing Skeleton Knight's Openings
 Fri, 27 Nov 2026 09:00:00 -0500 — https://www.animenewsnetwork.com/interview/2026-11-27/pellek-from-posting-anime-covers-on-youtube-to-singing-skeleton-knight-openings/.244085
@@ -52,16 +62,6 @@ Fri, 27 Nov 2026 04:10:25 -0500 — https://www.animenewsnetwork.com/news/2026-1
 
 Mulasaki Ima performs theme song
 
-### Solitary Gourmet Live-Action Series Gets 10th Straight New Year's Eve Special
-Fri, 27 Nov 2026 01:19:02 -0500 — https://www.animenewsnetwork.com/news/2026-11-27/solitary-gourmet-live-action-series-gets-10th-straight-new-year-eve-special/.244238
-
-New special will be set in Thailand
-
-### Masaaki Yuasa's Daisy's Life Anime Film Reveals Clip, 2027 Delay
-Fri, 27 Nov 2026 00:58:51 -0500 — https://www.animenewsnetwork.com/news/2026-11-27/masaaki-yuasa-daisy-life-anime-film-reveals-clip-2027-delay/.244239
-
-2 new screenshots, more staff also unveiled for film
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
@@ -87,36 +87,6 @@ FOOL NIGHT anime has released its creditless opening sequence ahead of the serie
 Thu, 26 Nov 2026 08:33:03 GMT — https://animecorner.me/black-clover-season-2-episode-9-preview-images-show-yuno-vs-zenon/
 
 Black Clover Season 2 has released preview images and synopsis for Episode 9 (Episode 179 overall) ahead of its November 30 premiere.
-
-### Historie Anime Reveals New Visual, Trailer Additional Cast
-Wed, 25 Nov 2026 16:36:46 GMT — https://animecorner.me/historie-anime-reveals-new-visual-trailer-additional-cast/
-
-The previously announced Historie anime revealed a new visual and trailer on Wednesday along&hellip;
-
-### The Kept Man of the Princess Knight Anime Reveals New Trailer, Additional Cast, January 3 Premiere
-Wed, 25 Nov 2026 16:24:19 GMT — https://animecorner.me/the-kept-man-of-the-princess-knight-anime-reveals-new-trailer-additional-cast-january-3-premiere/
-
-The Kept Man of the Princess Knight anime revealed a new trailer, additional cast and&hellip;
-
-### "I Draw Them Wishing I Could Be Like Them" — Saka Mikami on The Fragrant Flower Blooms With Dignity
-Wed, 25 Nov 2026 16:10:14 GMT — https://animecorner.me/saka-mikami-interview-lucca2026/
-
-At Lucca Comics & Games 2026, Anime Corner had the opportunity to join a&hellip;
-
-### Kindergarten WARS Unveils New Visual and Trailer, Opening Theme Song Artist Ado
-Wed, 25 Nov 2026 16:07:37 GMT — https://animecorner.me/kindergarten-wars-unveils-new-visual-and-trailer-opening-theme-song-artist-ado/
-
-Kindergarten WARS anime has unveiled the main visual and a new trailer on Wednesday.&hellip;
-
-### Now That We Draw Anime Reveals New Trailer, Main Visual, Additional Cast, Ending Theme Song Artist
-Wed, 25 Nov 2026 14:54:26 GMT — https://animecorner.me/now-that-we-draw-anime-reveals-new-trailer-main-visual-additional-cast-ending-theme-song-artist/
-
-Now That We Draw anime revealed a new trailer and a main visual. Additionally,&hellip;
-
-### At 25:00, in Akasaka Gets Anime
-Wed, 25 Nov 2026 14:40:04 GMT — https://animecorner.me/at-2500-in-akasaka-gets-anime/
-
-At 25:00, in Akasaka boys' love manga by Hiroko Natsuno is getting an anime&hellip;
 
 ## MyAnimeList News
 

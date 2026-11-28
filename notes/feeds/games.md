@@ -1,6 +1,46 @@
-# Games — harvested 2026-11-27T14:20:23.926Z
+# Games — harvested 2026-11-28T00:14:18.575Z
 
 ## Eurogamer
+
+### Marvel's Iron Man might be planning to rear its head at The Game Awards, if EA Motive's updated website is any indication
+Fri, 27 Nov 2026 20:27:30 +0000 — https://www.eurogamer.net/iron-man-game-awards-ea-motive
+
+EA Motive's Iron Man game has been quietly cooking away for a few years now, but don't worry. The wait to finally, officially see the superhero romp in action might be over soon, at least if the developer's updated website - two weeks before The Game Awards, no less - is any indication. Read more
+
+### Digital Extremes says Warframe's imminent Tau update is practically big enough to be a sequel as it reveals new details, including dog walking
+Fri, 27 Nov 2026 20:00:00 +0000 — https://www.eurogamer.net/warframe-tau-dev-stream-december-9th
+
+Warframe 's latest devstream has just gone live, revealing more about the new Tau solar system players will be able to explore as part of December's "massive" new update, which arrives on 9th December. Additions include a two-hour long quest, new explorable areas, and even chill nighttime dog walking. Read more
+
+### After drawing ire for selling new Mass Effect merch following BioWare closure, EA is now flogging new Dragon Age tat too
+Fri, 27 Nov 2026 19:20:40 +0000 — https://www.eurogamer.net/dragon-age-mass-effect-bioware-closure-ea-new-merchandise
+
+Seemingly unperturbed by the criticism it faced after selling new Mass Effect merchandise following the shock closure of developer BioWare, EA is now flogging new merchandise for the studio's other big series, Dragon Age. Read more
+
+### Yooka-Laylee studio explains upcoming Definitive Edition's absence on Xbox to 'frustrated' fans
+Fri, 27 Nov 2026 19:08:10 +0000 — https://www.eurogamer.net/yooka-laylee-skipping-xbox-costs
+
+Yooka-Laylee and the Impossible Lair : Definitive Edition is notably skipping Xbox Series X/S consoles, and the studio blames "technical challenges and costs." Read more
+
+### Rumoured The Simpsons: Hit & Run remake may be in trouble after one developer says their "mind-blowingly awesome" project is cancelled
+Fri, 27 Nov 2026 18:08:20 +0000 — https://www.eurogamer.net/simpsons-hit-and-run-remake-rumored-cancelled
+
+A rumored remake of The Simpsons: Hit & Run (the internet's most-wanted video game revival) may be in trouble. Read more
+
+### Don't expect a GTA set outside the USA anytime soon, as Rockstar has "not had a lot of conversations over doing it anywhere else"
+Fri, 27 Nov 2026 16:46:00 +0000 — https://www.eurogamer.net/gta-outside-usa-unlikely-rockstar-not-had-conversations-over-anywhere-else
+
+Would Rockstar really set a future Grand Theft Auto game outside of the United States? The concept's been mooted recently, particularly in reporting on a recent Rockstar interview with The Guardian , where co-studio head Rob Nelson quipped: "Never say never." But speaking to Eurogamer in another interview since then, I would say it's unlikely. Read more
+
+### Hollow Knight: Silksong's first big expansion, Sea of Sorrow, comes out in two weeks - and seems to include a fishing minigame
+Fri, 27 Nov 2026 15:16:10 +0000 — https://www.eurogamer.net/hollow-knight-silksongs-first-big-expansion-sea-of-sorrows-comes-out-in-two-weeks-and-seems-to-include-a-fishing-minigame
+
+Hollow Knight: Silksong developer Team Cherry debuted a special 'Cherry Time Special Presentation' today (27th November), with the aim of bringing more information to light about the game's first big DLC offering, Sea of Sorrows, but also provide a nice little springboard for some other indie titles. Read more
+
+### If you're not using Auto Drive and Cinematic Camera in GTA 6, you're missing out on some of the best experiences in the game
+Fri, 27 Nov 2026 14:43:00 +0000 — https://www.eurogamer.net/gta-6-cinematic-camera-hidden-gem
+
+Spoilers for Chapter 1-3 of GTA 6 follow. Read more
 
 ### At last, I've finally played Faraway, an enigma I've been waiting 16 years to see
 Fri, 27 Nov 2026 12:33:00 +0000 — https://www.eurogamer.net/faraway-eliss-annapurna-interactive-16-years-finally-here
@@ -22,47 +62,22 @@ Fri, 27 Nov 2026 09:52:10 +0000 — https://www.eurogamer.net/marvelous-develope
 
 Marvelous, the studio known for its work on the Story of Seasons series as well as the upcoming Eternal Anima, has announced the introduction of a voluntary redundancy scheme. Through this program, it's aiming to lower its headcount by 65 employees. Read more
 
-### EA removes some live service fluff from Skate and ends seasonal structure "in favour of regular, agile content updates"
-Thu, 26 Nov 2026 20:35:20 +0000 — https://www.eurogamer.net/ea-removes-live-service-skate-seasons
-
-EA is ditching seasonal updates and shaving some of the live service fluff off Skate (for some reason stylised as skate.) going forward. Normally, such news would be cause for concern. Here, the publisher assured players the transition will lead to more regular updates since devs can now push out new features without waiting for the next season to roll around. Read more
-
-### The Witcher 3's new patch adds 40 cross-platform mods, fixes plenty of game-breaking bugs and "various lighting issues"
-Thu, 26 Nov 2026 19:20:50 +0000 — https://www.eurogamer.net/the-witcher-3-patch-40-mods-bugs
-
-Developer CD Projekt Red has rolled out a new patch for The Witcher 3: Wild Hunt - Remastered on all platforms, which squashes dozens of bugs and adds 40 cross-platform mods with "more on the way." Read more
-
-### Nioh and Ninja Gaiden studio is using AI for QA, but argues "that a game becomes fun when crafted by human hands"
-Thu, 26 Nov 2026 18:14:30 +0000 — https://www.eurogamer.net/nioh-ai-qa-game-human-hands
-
-Team Ninja (Nioh, Ninja Gaiden) is the latest game development studio to implement AI into some of its workflow, but producer Kohei Shibata still believes that fun games need to be "crafted by human hands." Read more
-
-### GTA 6 causes surge in UK physical game sales, despite there being no disc in the box
-Thu, 26 Nov 2026 17:30:30 +0000 — https://www.eurogamer.net/gta-6-boxed-physical-sales-uk
-
-Grand Theft Auto 6 has had a huge effect on physical game sales in the UK, despite not actually containing a disc in the box. Read more
-
-### "Where's the ding?!!" - I asked the PowerWash Simulator 2 team what they thought of Jason's nozzle work in GTA 6
-Thu, 26 Nov 2026 17:07:50 +0000 — https://www.eurogamer.net/gta-6-powerwashing-powerwash-simultor-futurlab
-
-Among the many, many side activities you can do in GTA 6 , there's powerwashing. Relatively early on, as part of Chapter 1's Down to Earth mission , Jason whips out his nozzle and blasts Brian's boat to a gleaming sheen. Disappointingly for powerwashing fans, though, it's a bit of a one-and-done gag, never to return. But powerwashing is powerwashing, and we immediately wondered what the experts made of it all. Had Rockstar, with its legendary attention to detail, accurately captured the intricacies of powerwashing in those leisurely moments of carefree squirting? Read more
-
-### GTA 6 reportedly sets massive livestreaming record, watched more in its first week than Elden Ring, Diablo 4, Valorant, and Lost Ark combined
-Thu, 26 Nov 2026 15:32:20 +0000 — https://www.eurogamer.net/grand-theft-auto-6-first-week-hours-watched-record
-
-Grand Theft Auto 6 has broken another livestreaming record. After attracting more viewers across livestreaming platforms than any game ever on its launch day, Rockstar's open-world crime sim has reportedly continued to dominate on platforms like Twitch , YouTube, and Kick. Read more
-
-### Rockstar Games employees vote against union recognition
-Thu, 26 Nov 2026 15:29:00 +0000 — https://www.eurogamer.net/rockstar-games-employees-vote-against-union-recognition
-
-Rockstar Games employees have voted against official recognition of the Rockstar Game Workers Union, with 93.2 percent of staff participating in the vote. Read more
-
-### We are already in a world where people think about promoting games as human-made, Citizen Sleeper creator says
-Thu, 26 Nov 2026 14:18:20 +0000 — https://www.eurogamer.net/citizen-sleeper-creator-gen-ai-human-made-games-signet-city
-
-Citizen Sleeper creator Gareth Damian Martin - also known by their studio name Jump Over the Age - believes we're reaching a point of gen-AI saturation whereby game-makers are starting to counter-promote games as being human-made. Read more
-
 ## GamesIndustry.biz
+
+### One week on, here's the impact GTA 6's launch had on the industry so far
+Fri, 27 Nov 2026 16:38:10 +0000 — https://www.gamesindustry.biz/one-week-on-heres-the-impact-gta-6s-launch-had-on-the-industry-so-far
+
+GTA 6 has been on sale for a week, and remained the dominant game and talking point across the games industry &ndash; supported, admittedly, by a quiet news week in America due to the Thanksgiving holiday. Beyond its record-breaking day-one revenue haul , it's now possible to start judging its impact on the wider industry, and consider if the anticipation &ndash; and in some cases, anxiety &ndash; was justified. Read more
+
+### GTA 6's pirate PC ports: new tools, old problem | Opinion
+Fri, 27 Nov 2026 14:43:20 +0000 — https://www.gamesindustry.biz/gta-6s-pirate-pc-ports-new-tools-old-problem-opinion
+
+I'm sorry in advance. I know we'd all far prefer to be spending our time running around the sun-soaked dystopia of Vice City this week rather than spending it reading yet another column about the game, but we need to talk about GTA 6 again. Specifically, we need to talk about the side story that's spun off from the game's launch &ndash; namely the scramble to get it running on PC, before Rockstar itself has so much as officially announced a PC version. It's a story that's getting an outsized amount of attention precisely because GTA 6 is involved, but the consequences of what's playing out will reach far beyond Rockstar or Take-Two. Read more
+
+### Story of Seasons studio Marvelous offering voluntary resignations to reduce headcount by 65 roles
+Fri, 27 Nov 2026 14:39:00 +0000 — https://www.gamesindustry.biz/story-of-seasons-studio-marvelous-offering-voluntary-resignations-to-reduce-headcount-by-65-roles
+
+Story of Seasons developer Marvelous is offering voluntary resignations to reduce its workforce by 65 positions. Read more
 
 ### Indie puzzle adventure Rhell beats GTA 6 to win Best Game Made in The North at the Game Republic Awards
 Fri, 27 Nov 2026 12:55:20 +0000 — https://www.gamesindustry.biz/indie-puzzle-adventure-rhell-beats-gta-6-to-win-best-game-made-in-the-north-at-the-game-republic-awards
@@ -104,31 +119,36 @@ Thu, 26 Nov 2026 10:07:50 +0000 — https://www.gamesindustry.biz/gta-6-launch-d
 
 The record-breaking launch of Grand Theft Auto 6 drove a combined 2.3 million downloads of the franchise's mobile ports in its first week. Read more
 
-### EA Sports FC 27 adds AI-recreated voice of late commentator John Motson
-Wed, 25 Nov 2026 20:48:20 +0000 — https://www.gamesindustry.biz/ea-sports-fc-27-adds-ai-recreated-voice-of-late-commentator-john-motson
-
-Electronic Arts is bringing back the voice of the late football commentator John Motson in EA Sports FC 27, recreated using a combination of archive recordings and generative AI. Read more
-
-### Report claims Ubisoft staff must justify not using generative AI in pitches
-Wed, 25 Nov 2026 20:19:40 +0000 — https://www.gamesindustry.biz/ubisoft-staff-must-justify-not-using-generative-ai-in-pitches-report-claims
-
-Update, November 26, 2026: Ubisoft has issued a response to reports that teams are reportedly being asked to explain why they would or wouldn't use generative AI when pitching projects. Read more
-
-### Roblox signs licensing deal with PRS for Music
-Wed, 25 Nov 2026 18:03:10 +0000 — https://www.gamesindustry.biz/roblox-signs-licensing-deal-with-prs-for-music
-
-Roblox has struck a licensing agreement with UK music rights organization PRS for Music, opening up a new revenue stream for songwriters and composers whose work is used on the platform. Read more
-
-### Capcom will shut down Exoprimal servers in September 2027
-Wed, 25 Nov 2026 17:19:20 +0000 — https://www.gamesindustry.biz/capcom-will-shut-down-exoprimal-servers-in-september-2027
-
-Capcom has announced it will end service for its online dinosaur shooter Exoprimal on September 29, 2027. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Site News: Push Square s Black Friday Sale
+Fri, 27 Nov 2026 18:00:00 GMT — https://www.pushsquare.com/news/2026/11/site-news-push-squares-black-friday-sale
+
+Support us with 10% off. 'Tis the season for Black Friday deals and we've got a couple of our own to offer to you. We hope that you are already aware that Push Square relies on advertising revenue to continue to operate. However, a few years ago, we introduced an alternative way to support us, in the form of a subscription fee which will allow you to view our content without any ads. Read the full article on pushsquare.com
+
+### The Much-Rumoured Simpsons Hit & Run Remake May Have Been Cancelled
+Fri, 27 Nov 2026 17:30:00 GMT — https://www.pushsquare.com/news/2026/11/the-much-rumoured-simpsons-hit-and-run-remake-may-have-been-cancelled
+
+D'oh... After a lot of fan requests for a remake of The Simpsons: Hit & Run , there were many clues suggesting the project was finally up and running — but now, things don't look so certain. As reported by VGC, Darren Evenson — who was a senior game designer at New Radical Games, the team thought to be producing the Hit & Run revival — has posted on LinkedIn about projects being cancelled at the studio. Read the full article on pushsquare.com
+
+### Poll: What Review Score Would You Give GTA 6?
+Fri, 27 Nov 2026 17:00:00 GMT — https://www.pushsquare.com/features/poll-what-review-score-would-you-give-gta-6
+
+Criminally overrated? It's been a full week since GTA 6 released, if you can believe it. After years and years and years of waiting for it to finally arrive, I hope that you've been enjoying your life in Leonida. I say that because it's quite obviously time to rate the game for yourself. Read the full article on pushsquare.com
+
+### Hollow Knight: Silksong s Sea of Sorrow DLC Launches Next Month, and It s Free
+Fri, 27 Nov 2026 16:30:00 GMT — https://www.pushsquare.com/news/2026/11/hollow-knight-silksongs-sea-of-sorrow-dlc-launches-next-month-and-its-free
+
+Gone fishin'. Developer Team Cherry has announced the release date and pricing for Sea of Sorrow , the DLC for Hollow Knight: Silksong , and it's great news on both accounts. As revealed in its recent Cherry Time presentation , Sea of Sorrow will make its launch on 11th December, 2026, and even better, it will be free for all players. Read the full article on pushsquare.com
+
+### Review: Zero Parades: Director s Cut (PS5) - A Riveting Spy Thriller That Still Lacks Disco Elysium s Bite
+Fri, 27 Nov 2026 16:00:00 GMT — https://www.pushsquare.com/reviews/ps5/zero-parades-directors-cut
+
+The devil is in the details. I’m on sub-level three of a long-abandoned rocket silo, reading heavily redacted files by flashlight. Most of the screen is black, save for a little pang of light from my torch, and my heart beats rapidly as I comb through reams of text on the right of the screen. It’s not flashy nor is it a massive spectacle, and it’s taken me hours to get to this point. However, it may be one of the most engrossing gaming moments I’ve had on PS5 this year. Read the full article on pushsquare.com
 
 ### Guide: All PS Plus Games Available Now
 Fri, 27 Nov 2026 14:30:00 GMT — https://www.pushsquare.com/guides/all-ps-plus-games-available-now
@@ -165,36 +185,36 @@ Thu, 26 Nov 2026 16:30:00 GMT — https://www.pushsquare.com/news/2026/11/ps-plu
 
 Take Star Wars: Galactic Racer for a spin. Everyone is (understandably) going gaga over GTA 6 right now, but real ones will know that 2026 has also brought us one of the best racing games of the PS5 generation — Star Wars: Galactic Racer . The arcade racing title is the debut effort from Fuse Games, and it's tremendous. If you're a PS Plus Premium member, you don't need to take my word for it. Read the full article on pushsquare.com
 
-### Hitman, 007 First Light PS5 Crossover Makes Lenny Kravitz Your New Ally
-Thu, 26 Nov 2026 16:00:00 GMT — https://www.pushsquare.com/news/2026/11/hitman-007-first-light-ps5-crossover-makes-lenny-kravitz-your-new-ally
-
-Available now for free on PS5. It's a bit surprising this crossover hasn't already happened, to be honest, given IO Interactive is the studio behind both of the games, but it's now been confirmed a Hitman and 007 First Light collaboration is happening. The content is live from today until 24th December 2026, and it takes the form of a new Elusive Target in Hitman. Lenny Kravitz, who is playing Bawma from 007 First Light, is the next celebrity to feature in Hitman, but this time, he's on Agent 47's side. Read the full article on pushsquare.com
-
-### GTA 6 Gives PS5 a Very Rare Win Over Switch 2 in Japan
-Thu, 26 Nov 2026 15:30:00 GMT — https://www.pushsquare.com/news/2026/11/gta-6-gives-ps5-a-very-rare-win-over-switch-2-in-japan
-
-Score. At this point, it’s well known that Switch 2 is by far the market leader in Japan. While the PS5 still commands some marketshare, it gets dominated by the Nintendo machine on a weekly basis. Read the full article on pushsquare.com
-
-### The Witcher 3 Remastered Patch 5.02 Fixes Annoying PS5 Stutters, Improves Performance, and Much More
-Thu, 26 Nov 2026 15:00:00 GMT — https://www.pushsquare.com/news/2026/11/the-witcher-3-remastered-patch-5-02-fixes-annoying-ps5-stutters-improves-performance-and-much-more
-
-A Witcher's work is never done. The Witcher 3 Remastered has a new update on PS5, and it's available to download right now, weighing in at a reasonable 1.6GB. Patch 5.02 is the one many have been waiting for, as it addresses the game's most annoying technical issue on console. I am, of course, referring to the momentary stutters that occurred when autosave was triggered. Read the full article on pushsquare.com
-
-### PS Plus Essential s Next Update Looks a Bit Better in Japan Than the Rest of the World
-Thu, 26 Nov 2026 14:30:00 GMT — https://www.pushsquare.com/news/2026/11/ps-plus-essentials-next-update-looks-a-bit-better-in-japan-than-the-rest-of-the-world
-
-A different lineup overseas. It’s all subjective, of course, but Japan’s PS Plus Essential update for December 2026 looks a little bit better than what we’re getting in the west. While all regions will receive Tony Hawk’s Pro Skater 3 + 4 and Dragon Ball XenoVerse 2 , subscribers in the far east will get an extra helping of anime, with Bleach Rebirth of Souls . The rest of the world will get Amnesia: The Bunker instead, as reported yesterday . Read the full article on pushsquare.com
-
-### Feature: 80+ PS5, PS4 Games to Buy in PS Store s Updated Black Friday Sale (North America/Europe)
-Thu, 26 Nov 2026 14:00:00 GMT — https://www.pushsquare.com/features/80plus-ps5-ps4-games-to-buy-in-ps-stores-updated-black-friday-sale-north-americaeurope
-
-PS5 and PS4 games going cheap we recommend. The PS Store's Black Friday sale is on now, running until 30th November, 2026. As with nearly every offer in Sony's digital store, there are literally thousands of PS5 and PS4 games going cheap. Obviously, nobody has the time to scroll through all those deals, which is where this guide hopefully comes in handy. Read the full article on pushsquare.com
-
 ## Game Developer
 
 _Nothing in the last 48 hours._
 
 ## VGC
+
+### GTA 6: All Unique Snapmatic Animal locations for Bret
+Fri, 27 Nov 2026 20:05:07 +0000 — https://www.videogameschronicle.com/guide/gta-6-all-unique-snapmatic-animal-locations-bret/
+
+Every Snapmatic Unique Animal location that Bret asks you to hunt in Grand Theft Auto 6… Source
+
+### Grand Theft Auto 6 complete walkthrough hub
+Fri, 27 Nov 2026 20:00:06 +0000 — https://www.videogameschronicle.com/guide/grand-theft-auto-6-complete-walkthrough-hub/
+
+Everything you need to know to complete GTA 6… Source
+
+### GTA 6: Full Find Cars for Wyman mission walkthrough
+Fri, 27 Nov 2026 19:45:19 +0000 — https://www.videogameschronicle.com/guide/gta-6-find-cars-wyman-mission-walkthrough/
+
+All classic car locations for Wyman in Grand Theft Auto 6… Source
+
+### Fanatical is celebrating Black Friday with 20 flash deals for one day only, offering up to 96% off
+Fri, 27 Nov 2026 16:19:45 +0000 — https://www.videogameschronicle.com/news/fanatical-is-celebrating-black-friday-with-20-flash-deals-for-one-day-only-offering-up-to-96-off/
+
+Hefty discounts on games like Starfield, Spider-Man, Indiana Jones and Stellar Blade… Source
+
+### Hollow Knight: Silksong s first expansion, Sea of Sorrow, is officially out next month
+Fri, 27 Nov 2026 16:07:26 +0000 — https://www.videogameschronicle.com/news/hollow-knight-silksongs-first-expansion-sea-of-sorrow-is-officially-out-next-month/
+
+Sea of Sorrow will add new areas and bosses to Silksong… Source
 
 ### Podcast: GTA 6 smashed records, but will other games benefit?
 Fri, 27 Nov 2026 14:15:44 +0000 — https://www.videogameschronicle.com/blog/podcast/podcast-gta-6-smashed-records-but-will-other-games-benefit/
@@ -221,84 +241,104 @@ Fri, 27 Nov 2026 11:59:25 +0000 — https://www.videogameschronicle.com/news/sto
 
 The company wants to outsource more of its work… Source
 
-### GTA 6 All Kitty Litter lab locations: Where to find all drug labs North Balsero code
-Thu, 26 Nov 2026 23:21:53 +0000 — https://www.videogameschronicle.com/guide/gta-6-kitty-litter-lab-locations/
-
-Find all 20 Kitty Litter lab locations in GTA 6 with our complete guide. Discover every drug lab, the Balsero keypad code and how to unlock Spin On This… Source
-
-### Rare co-founder reveals footage of cancelled Conker 64
-Thu, 26 Nov 2026 22:09:56 +0000 — https://www.videogameschronicle.com/news/rare-co-founder-reveals-footage-of-cancelled-conker-64/
-
-Rare's co-founder gives us a new look at Conker 64, before it became Conker' Source
-
-### Lucia actress Manni L. Perez claims she worked on GTA 6 for almost a decade
-Thu, 26 Nov 2026 20:52:29 +0000 — https://www.videogameschronicle.com/news/lucia-actress-manni-l-perez-claims-she-worked-on-gta-6-for-almost-a-decade/
-
-Manni L. Perez thanks GTA 6 fans for their response to Lucia… Source
-
-### Ubisoft says it encourages developers ‘explore’ AI, but doesn’t force them
-Thu, 26 Nov 2026 18:42:04 +0000 — https://www.videogameschronicle.com/news/ubisoft-denies-requiring-developers-to-use-generative-ai/
-
-Ubisoft devs say they feel pressured to use AI in game development… Source
-
-### Ubisoft defends calling Skull Bones a quadruple-A game in lawsuit
-Thu, 26 Nov 2026 18:06:45 +0000 — https://www.videogameschronicle.com/news/ubisoft-defends-calling-skull-bones-a-quadruple-a-game-in-lawsuit/
-
-Ubisoft argues that the "quadruple-A" comments were just Yves Guillemot' Source
-
 ## Polygon
 
-### 35 Years Later, Hollywood’s Deadliest Feud Is Still Its Most Reliable Fantasy Formula
-Fri, 27 Nov 2026 14:00:18 GMT — https://www.polygon.com/why-do-vampires-and-werewolves-hate-one-another/
+### It’s Officially the End of an Era for HBO’s The Last of Us
+Fri, 27 Nov 2026 22:31:19 GMT — https://www.polygon.com/the-last-of-us-season-3-end-finale-hbo-2027/
 
-At the time, the interaction, while hilarious, also made perfect sense. Popular culture was deep in the thrall of Stephenie Meyer’s Twilight , which famously pits a vampire and a werewolf against each other for the affections of a human girl. But a decade later, the idea that vampires and werewolves would be natural enemies seems a bit odd.
+It's officially the end of the road for The Last of Us at HBO. While the upcoming third season was already set to conclude the show's adaptation of the second game in Naughty Dog's acclaimed PlayStation series, there was some hope it could continue on after. Those hopes have now been squashed by HBO's boss.
 
-### 10 Best Black Friday Board Game Deals
-Fri, 27 Nov 2026 13:43:23 GMT — https://www.polygon.com/best-black-friday-2026-board-game-deals/
+### 10 New Movies to Watch This Weekend on Netflix, Prime Video, and Hulu (November 27-29)
+Fri, 27 Nov 2026 22:00:18 GMT — https://www.polygon.com/new-movies-streaming-this-weekend-netflix-november-27-29/
 
-One of the great joys of the holidays is finally getting everyone around the same table. Another is watching your cousin realize that the road they’ve been building for the last six turns is about to go nowhere. You don’t get many chances to do that as an adult. Make the most of it.
+Happy Thanksgiving! As expected, it’s a big one for movies . Disney’s latest, Hexed , is out in theaters. There’s also Focker-In-Law , the newest addition to the Meet the Parents franchise. The most intriguing film this weekend, though, is The Further Misadventures of Cliff Booth , which finds Quentin Tarantino continuing the story of Brad Pitt’s character from Once Upon a Time… in Hollywood through David Fincher’s lens. It at least has to be an interesting experiment in different cinematic styles.
 
-### 10 Best Black Friday Gaming Deals
-Fri, 27 Nov 2026 12:18:56 GMT — https://www.polygon.com/best-black-friday-2026-gaming-deals/
+### 8 New TV Shows to Watch This Weekend on Netflix and Prime Video (November 27-29)
+Fri, 27 Nov 2026 21:00:18 GMT — https://www.polygon.com/new-tv-shows-streaming-this-weekend-netflix-november-27-29/
 
-It's shopping time again — Black Friday is here. And while some retailers started offering discounts a week or more ago, it's always true that the best deals don't materialize until the day itself. That day has come.
+Happy Thanksgiving! There’s a lot of TV to watch this weekend, whether you’re tuning in to shows that are already airing or looking for your next binge .
 
-### Illumination Takes Over Macy’s Parade With New Not Alone Thanksgiving Teaser
-Fri, 27 Nov 2026 12:00:53 GMT — https://www.polygon.com/not-alone-illumination-new-thanksgiving-teaser/
+### Magic: The Gathering Designer Reveals 2026’s 11 Best New Commanders
+Fri, 27 Nov 2026 21:00:18 GMT — https://www.polygon.com/mtg-best-commanders-of-2026-gavin-verhey-interview/
 
-There's no doubt that 2026 has been a great year for Illumination. It had one of the biggest releases of the year with The Super Mario Galaxy Movie in April, earning over $1 billion. Then, in June, it released another hit Minion movie, Minions & Monsters , which made $531 million. It's no surprise that fans were looking forward to more from the animation company.
+With 2026 delivering a packed release schedule for Magic: The Gathering exploring classic planes and several Universes Beyond crossovers, Commander players have had plenty of exciting new legends to build around. From returning to familiar fantasy worlds in sets like Lorwyn Eclipsed and Secrets of Strixhaven to epic crossovers like Marvel Super Heroes , The Hobbit , and Star Trek , the year brought an unprecedented wave of Commanders for casual and competitive tables alike.
 
-### Magic: The Gathering’s Most Notorious Vampire Almost Broke Commander
-Fri, 27 Nov 2026 12:00:19 GMT — https://www.polygon.com/mtg-edgar-markov-commander-history-story/
+### Dune Director Admits He’s ‘Deeply Disappointed’ by Showdown With Avengers: Doomsday
+Fri, 27 Nov 2026 20:53:19 GMT — https://www.polygon.com/dune-3-avengers-doomsday-box-office-showdown-december-18/
 
-Most Commanders in Magic: The Gathering have to show up on the battlefield before they can do anything. But Edgar Markov can make you the most dangerous player at the table while he’s still sitting in the Command Zone. Cast a one-mana vampire on your first turn, and Edgar gives you a second vampire for free. Do it twice on turn two, and you have six creatures before some players have cast their first spell.
+Denis Villeneuve isn't thrilled about having to share a release date with Marvel's next Avengers movie. The Dune: Part Three director has admitted he's "deeply disappointed" after Disney scheduled Avengers: Doomsday for the same December release date as his upcoming sci-fi sequel. In an interview with Time , Villeneuve discussed the unusual box-office showdown between the two highly anticipated films, both of which are scheduled to open Dec. 18.
 
-### 5 Years Later, an Avengers: Doomsday Hero's Next MCU Adventure Is Finally Moving Forward
-Fri, 27 Nov 2026 11:07:31 GMT — https://www.polygon.com/shang-chi-2-sequel-movie-update-writer-dave-callaham/
+### New Dungeon Crawler Carl Release Officially Set for 2027
+Fri, 27 Nov 2026 20:06:18 GMT — https://www.polygon.com/dungeon-crawler-carl-new-comic-series-release-date-january-2027/
 
-Shang-Chi is getting ready to return to the Marvel Cinematic Universe in Avengers: Doomsday , but fans hoping to see more of the hero have another reason to be optimistic. Dave Callaham, who co-wrote Shang-Chi and the Legend of the Ten Rings , has confirmed that he's working on a sequel, offering the clearest sign yet that the character's next solo adventure is moving forward.
+Even if you haven't read any of the books , you've probably heard of Dungeon Crawler Carl at this point. The LitRPG book series (a genre defined by its use of video game and tabletop RPG mechanics) by Matt Dinniman has become a cultural juggernaut, and it is only getting bigger. In addition to a television adaptation , Dungeon Crawler Carl is also getting another new adaptation in 2027.
 
-### 10 Best Black Friday 2026 Book Deals For Sci-Fi and Fantasy Fans
-Fri, 27 Nov 2026 09:00:18 GMT — https://www.polygon.com/black-friday-2026-book-deals/
+### Steve Rogers Steals Another Thor Power in Official New Official Avengers: Doomsday Trailer
+Fri, 27 Nov 2026 20:04:19 GMT — https://www.polygon.com/avengers-doomsday-tv-spot-steve-rogers-latveria/
 
-Books make a perfect gift. They offer the chance to introduce a friend or family member to a story or world you love and adventures you can share together. You can even use a book as a seed for future gift ideas by getting someone hooked on a series. Black Friday sales offer plenty of bargains on fantasy and sci-fi classics and recent genre standouts for anyone looking to get an early start on holiday shopping. Even if you’re just looking for some reading material for your vacation, you should check out the 10 best Black Friday book deals.
+Avengers: Doomsday trailers have played up Thor's simmering jealousy over Steve Rogers wielding an intact Mjölnir , Thor's enchanted hammer. Steve has summoned lightning with it, like in Avengers: Endgame , and a new TV spot for Doomsday shows him utilizing another of Thor's powers.
 
-### Stephen King's Psychological Thriller Officially Says Goodbye to Streaming
-Fri, 27 Nov 2026 05:00:18 GMT — https://www.polygon.com/say-goodbye-to-stephen-kings-first-film-adaptation/
+### Brainwashing Easter egg walkthrough in GTA 6
+Fri, 27 Nov 2026 20:02:54 GMT — https://www.polygon.com/gta-6-brainwashing-president-easter-egg-walkthrough/
 
-Stephen King’s books have inspired countless adaptations over the years. Several have even been adapted for the screen more than once, including Firestarter (1984 and 2022) and The Running Man (1987 and 2025).
+The brainwashing Easter egg in Grand Theft Auto 6 is a long side mission in which you get the chance to investigate long-forgotten bunkers where a certain president spent some time (and listened to rumba) and where brainwashing experiments had taken place. Like the Vice City portal Easter egg , you'll need to go through a series of steps to finish this mission, but there's no other option if you want to learn the truth about what the government hid from you.
 
-### 8 Essential Thriller Books Everyone Should Read at Least Once
-Fri, 27 Nov 2026 04:44:18 GMT — https://www.polygon.com/essential-thriller-books-must-read/
+### Black Friday 2026's 10 Best Magic: The Gathering Deals
+Fri, 27 Nov 2026 19:43:24 GMT — https://www.polygon.com/mtg-best-black-friday-2026-magic-the-gathering-deals/
 
-Take genre staples like Gone Girl or The Silent Patient . While the two couldn’t be more different in tone and subject matter, both thrillers heavily rely on misdirection and the recontextualization of events to deliver twists. These picks are a staple in every “must-read” list for good reason, just like the ones Polygon has highlighted below as genre essentials. Without further ado, here are eight thriller books you should read at least once in your life.
+Black Friday is here, and if you’ve been waiting to pick up a new Magic: The Gathering Commander deck, this is a good weekend to do it. Best Buy has the Fantastic Four deck for under $40, and Amazon has deals on precons from Final Fantasy and Star Trek .
 
-### 8 Funniest ‘Far Side’ Comics About Fruits and Vegetables
-Fri, 27 Nov 2026 03:00:27 GMT — https://www.polygon.com/8-funniest-far-side-fruits-and-veggies/
+### GTA 6 Officially Passes a Massive Sales Milestone Just 1 Week In
+Fri, 27 Nov 2026 18:56:45 GMT — https://www.polygon.com/gta-6-how-much-sold-week-one-rockstar-games/
 
-Decades after Gary Larson concluded his comic strip The Far Side back in 1995, fans of the series continue to read it regularly, and new fans are discovering it all the time. Some of Larson’s most beloved comic strips feature animals drawn in his signature style, including dogs, chickens, and especially cows . He often gave these animals human-like intelligence and other anthropomorphic traits and depicted them in very human-like scenarios.
+We might have to stop saying something sold like hotcakes and start saying something sold like Grand Theft Auto 6 . Rockstar's latest has sold about as well as we expected, with estimates after only one week putting sales at over 50 million copies . That number will only go up in the weeks and months to come, especially if a new GTA Online mode and a PC version are eventually announced, as rumored .
 
 ## PC Gamer
+
+### The better version of the wireless headset I love is $40 off right now
+Sat, 28 Nov 2026 00:01:20 +0000 — https://www.pcgamer.com/hardware/the-better-version-of-the-wireless-headset-i-love-is-usd40-off-right-now/
+
+Inzone H9 Wireless Gaming Headset: was $178.99 now $138.99 This is the first generation of this headset, hence the better price. A lightweight, super comfortable, wireless, and reliable headset. Great audio for both gaming and media, and impressive built-in noise cancelling. My only gripe is the non-detachable microphone. Sony Inzone H9 price check: Best Buy $138 View Deal The Inzone H9 headset isn't a flashy or particularly popular headset, but it really should be in conversation among the best wireless options. This is a great pair of headphones on discount for Black Friday—a $40 cut at $138. I had never heard Inzone when I picked up a pair of H6's (the lesser model to the H9) at Best Buy a year ago. It's a newish brand within Sony for gaming peripherals marketed toward both console and PC. I was just desperate for a headset that wouldn't fall apart and the price was right, so I gave them a shot. I was quickly impressed. We're curating all the Black Friday PC gaming deals right here The audio quality was seriously good for the price, and they were also the most comfortable headset I've ever owned for two reasons: They're very light for a wireless headset and they don't squeeze my large head. The H9 set above is better than the H6 in basically every way—better battery life (32 hours), noise cancelling, support for both 2.4 Ghz and Bluetooth connections—and during Black Friday it's only $20 more. So as much as I love my budget-friendly pair, there's little reason not to upgra
+
+### The canonical USB microphone is still great, and now a total steal for $70
+Fri, 27 Nov 2026 23:00:01 +0000 — https://www.pcgamer.com/hardware/the-canonical-usb-microphone-is-still-great-and-now-a-total-steal-for-usd70/
+
+Blue Yeti USB Microphone: was $99.99 now $69.99 I've used a Blue Yeti for nearly a decade and it would happily serve for a decade more. A classic design, good hardware controls, and zero fuss. It's not for true audiophiles, but its quality and affordability are still hard to match all these years later. Key specs: USB A | Four pickup patterns | Hardware gain control Blue Yeti price check: Best Buy $69.99 | Walmart $69.99 View Deal The Blue Yeti might be the most popular USB microphone ever made, and you know what, it earned it. At its usual price, this is a great USB microphone. At $69.99 (its lowest price ever), it's simply one of the best bangs for your buck in this category. The original Blue Yeti released in 2009, and in 17 years it has barely changed. I've had mine for a decade, and as I look around, I'm realizing it is the longest-lasting gadget on my desk. That's because it just works: I plug in, adjust the gain, and my voice comes through clear. These days there are more advanced microphones than the Yeti, like its official sequel the Yeti 2, and certainly mics that are just as competitively priced. Those are good too, and I encourage you to check out cheaper options (like the $26 Amazon Basics mic that we surprisingly love ) before making any decisions. We're curating all the Black Friday PC gaming deals right here But with the Yeti, you absolutely get what it says on the tin. I also think it's still an attractive mic, but it is quite large, so make sure it'll fit on
+
+### All I want for Christmas is plastic crap based on Armored Core
+Fri, 27 Nov 2026 22:24:20 +0000 — https://www.pcgamer.com/games/action/all-i-want-for-christmas-is-plastic-crap-based-on-armored-core/
+
+I'm a great lover of action figures, miniatures, model kits, basically anything made out of plastic that's based on the cool videogames I like. When thinking of things that we might recommend people purchase on this Blackest of Fridays, my eyes alighted on the Bandai Namco 30 Minutes Missions Steel Haze Rusty who lives on my desk. He is one of my truest friends. I know a lot of enthusiasts recommend HobbyLink Japan, but I've had better experiences with the USA Gundam Store . They're offering site-wide deals, but I have yet to be indoctrinated as a Gundam Guy—my mecha gateway drug has been Armored Core, so that is what I can recommend. What I already have and recommend Schneider Nachtreiher/30E "Steel Haze" Model Kit: was $40.99 now $30.99 V4 Rusty's iconic Nachtreiher mech, "Steel Haze." He comes with a Sampu SMG, Ransetsu burst rifle, Vvc-703PM plasma missile launcher, and, of course, the iconic Vvc-7HLS Darth Maul-ass double-bladed laser slicer. He is the finest buddy you could ask for, and I eagerly await an official kit for his upgraded mech, Steel Haze Ortus. Price check: Amazon $32.50 View Deal What I'm tempted to get Balam Industries BD-011 Melander "Liger Tail" Model Kit: was $57.99 now $39.99 G1 Michigan is undoubtedly one of the most swagged-out pilots in Armored Core 6, even if my boy Rusty was able to take him and like, 50 other guys no sweat. Liger Tail's quad base design is visually striking, while its heavy duty weaponry like the Songbird double mortar and HU-B
+
+### Skate is dropping seasons and season passes in favor of 'regular, agile content updates'
+Fri, 27 Nov 2026 22:13:12 +0000 — https://www.pcgamer.com/games/sports/skate-is-dropping-seasons-and-season-passes-in-favor-of-regular-agile-content-updates/
+
+A little over a year after EA launched Skate into early access—where it remains—developer Full Circle is removing the seasonal structure that has underpinned the game so far, saying that doing so will give the team "the freedom to launch features earlier in their lifecycle." Skate got off to a bit of a rough start when it went live in September 2025, and while it's turned around the initially iffy response from players, it hasn't gone entirely smoothly since then. An initial promise that no new maps would be locked behind paywalls was chucked out the window in February, and Full Circle laid off employees that same month, saying that cutting headcounts means it can "better support Skate's long-term future and focus the team on the things that matter most to you." The end of Skate's seasonal structure is less overtly not good than those moves, but it is a sign that things aren't going quite as Full Circle had envisioned, and the message that it's still "committed to keep driving Skate forward" has a certain 'despite everything' tone that doesn't strike me as the sort of thing you say when when all cylinders are firing. "The game is still a work in progress, and we're using this valuable time to experiment, iterate, and figure out what works best for the long-term health of the game—especially when it comes to social features and progression," the studio wrote. "Ultimately, we want to build Skate in a way that lets us roll out fresh content much faster, even if it's not totally 
+
+### I went completely cordless and for $185 you can get better prices on better products than I did with these Black Friday PC peripheral deals
+Fri, 27 Nov 2026 20:57:32 +0000 — https://www.pcgamer.com/hardware/i-went-completely-cordless-and-for-usd185-you-can-get-better-prices-on-better-products-than-i-did-with-these-black-friday-pc-peripheral-deals/
+
+I made the commitment this year: no cords on my desk. I already had a wireless mouse and keyboard so I got myself a controller charging stand (no more USB-C running to the top of my PC) and finally made the switch to wireless earbuds (no more 3.5mm cord to my speakers). I feel free at last! The only clutter left on my desk is... all my other clutter (not pictured). But no cords! You can make the same commitment to a mostly clean desktop during Black Friday with some of the best deals on our highest rated wireless kit. I'll tell you what I've got in my real desk setup pictured above but I'm recommending some better products and better deals for you. I went back through my old order details and found out I spent a total of $354.93 on this setup (not including the Xbox controller itself) but you can get something similar for way less. What I have: Nuphy Halo 96 You should get: one of these Keychron keyboards I got myself a Nuphy wireless mechanical board a couple years ago because I wanted to dip my toes into hot-swappable switches and custom keycaps. I love it, but that's a bigger project than just getting yourself a decent wireless keyboard. To get the cordless life yourself, look instead to one of these Keychron wireless boards that our PCG hardware experts rate highly. K2 75% | Wireless: was $79.99 now $51.99 This is our favorite budget option on our list of the best wireless gaming keyboards . The Keychron K2 offers swathes of features that are more likely found on pricier 
+
+### After falling in love with PS5 haptic feedback in GTA 6, I'm eyeing these Black Friday deals on DualSense controllers
+Fri, 27 Nov 2026 19:40:21 +0000 — https://www.pcgamer.com/hardware/controllers/after-falling-in-love-with-ps5-haptic-feedback-in-gta-6-im-eyeing-these-black-friday-deals-on-dualsense-controllers/
+
+DualSense Wireless Controller: was $74.99 now $54.00 Sony's standard DualSense controllers—the mainstay for controller for the PS5—don't have the hall effect sticks and triggers we might hope for, let alone TMR tech. But they do have Sony's proprietary adaptive trigger tech, which provide some delightful tactility in games that support it. Key specs: Wireless and Wired | Adaptive triggers | Symmetrical Price check: Amazon $54.00 | Newegg $54.99 View Deal I spent years using a DualShock 4 for my controller-based PC gaming, back when it was more likely that you'd have to rely on community-made input mappers that would inevitably decide to arm wrestle with Steam Input for controller dominance. It eventually got to be enough of a headache that I bit the bullet, switching over to Xbox controllers and 8bitdo alternatives. I've been borrowing a friend's PS5 for the launch of GTA 6, and after getting reacquainted with PlayStation controller hardware, I've been realizing how much I've been missing by not giving the DualSense its fair shake. Like our Morgan Park, I've been enamored with GTA 6's use of haptic feedback . I'm an adaptive trigger convert now, and thanks to Black Friday deals, I can grab a DualSense for $54 at Walmart and revel in the dynamic trigger technology I've been sorely missing. Check out the best Black Friday controller deals or follow us on WhatsApp It's time to go back to the old me. But like, a little newer. The newer old me. Do you know what I'm saying? While i
+
+### Good coffee is one of our last comforts in a cruel universe, which is why I'm tempted by this Black Friday coffee grinder deal
+Fri, 27 Nov 2026 18:23:33 +0000 — https://www.pcgamer.com/hardware/good-coffee-is-one-of-our-last-comforts-in-a-cruel-universe-which-is-why-im-tempted-by-this-black-friday-coffee-grinder-deal/
+
+Timemore's reengineered S5 Pro flagship manual grinder promises an ideal brew through the power of unprecedented burr geometry. It's got a high capacity for a hand grinder, precision external grind adjustment, and a widened crank knob for easier grinding. Key specs: 30g capacity | 48mm burrs | 15 micron adjustment steps Chestnut S5 Pro price check: Timemore $179.00 View Deal I'll be real with you: There are some days where my morning cup of coffee is the only thing maintaining my tenuous mental wellbeing. Sure, the caffeine offers some chemical assistance for weathering our era's daily whirlwind of psychic damage, but it's more about the ritual: The best way to start the day is by doing something nice for yourself, and there are few things nicer than a good cup of coffee. It makes games better, too. I wrote it on a videogame website and that means it's real. I'm a pourover man myself, but whether you're using a drip machine, moka pot, or French press, nothing will improve the quality of your at-home coffeemaking like grinding your own coffee beans with a respectable grinder like the Timemore Chestnut S5 Pro , currently on sale at 20% off for $143 on Amazon. We're curating all the Black Friday PC gaming deals right here There are two reasons why a good grinder makes for great coffee: First, coffee starts losing the volatile compounds that contribute to its flavor as soon as it's ground, so grinding your beans just before brewing ensures as many of those compounds are contribut
+
+### Silksong is getting a free expansion in 2 weeks
+Fri, 27 Nov 2026 16:31:53 +0000 — https://www.pcgamer.com/games/action/silksong-is-getting-a-free-expansion-its-first-content-update-since-launch-in-2-weeks/
+
+In a "Cherry Time!" presentation , Hollow Knight developer Team Cherry has just revealed a first look at its much-anticipated first content update to Hollow Knight: Silksong. The nautical-themed Sea of Sorrow will come as a free update on December 11. Team Cherry said that Sea of Sorrow will contain multiple new areas, power-ups, and bosses, while I clocked at least three new friendly NPCs in the trailer: A townsperson, a new shopkeeper, and a ferryman. Area-wise, I made out three distinct tilesets in the trailer: A rain-blasted fishing town on the water, a harrowing climb with an electrical storm element, and a green space reminiscent of the early game Bell Bottom. At least the first of these areas appears to be built on cut content for Silksong: "Pharloom Bay" is well-documented on the Hollow Knight wiki , and would have been located on the east side of the map, near the thematically-similar Greymoor. Some elements in the trailer correspond to ones documented by the wiki, like an underwater submersible vehicle, or a scientific lab in the electrical storm area. Which all sounds rad to me, particularly the submersible. Among the all-timer videogame level concepts, "underwater techbase" is one of my very favorites, and Team Cherry seem to be approaching these concepts with a Lovecrafty, Innsmouth flair that reminds me of the Fishing Village zone from Bloodborne. Silksong is already a massive game, and I'm curious as to how Sea of Sorrow will fit both the map, and the game's ov
+
+### Make the PC gamer in your life very happy with the best Black Friday gift ideas under $50
+Fri, 27 Nov 2026 14:21:18 +0000 — https://www.pcgamer.com/hardware/make-the-pc-gamer-in-your-life-very-happy-with-the-best-black-friday-gift-ideas-under-usd50/
+
+As a wise jingle once sang, holidays are coming, holidays are coming, holidays are coming. Yes, gifting season is just around the corner and Black Friday is a great time to grab some great Christmas gifting ideas for your loved ones. We're curating all the Black Friday PC gaming deals right here PC gaming is an expensive hobby, there's no getting away from it. But, while full systems, and graphics cards, and memory, and storage, are prohibitively expensive right now, there are some genuine bargains to be had from peripherals and other 'hobby adjacent' goodies, such as board games , videogame vinyl , and card games . Below is a curated list of our favorite Black Friday deals that come in under the $50/£50 price point. Just keep hitting the 'Load more' button to, well, you get the idea... Save $60.99 HyperX Cloud III | Wired We really like the Cloud III for its excellent comfort, bass response, and connectivity options—but at the time of our review, it was a bit too pricey at $100. With this discount, though, it's definitely worth considering. Key specs: 53 mm drivers | 10-21,000 Hz | Closed-back | Wired Price check: Amazon $67.11 | Best Buy $57.99 READ MORE $ 39 $99.99 Walmart deal recommended by: James Bentley • Hardware writer • 1 day ago VIEW DEAL Save $57 Razer Kiyo V2 X Disappointing at full price, but a steal at less than half price, you will struggle to find a solid 1440p webcam capable of 60 fps right now, and you will struggle even more to find a good one for less tha
 
 ### Physical media is cool again, baby, so drop the needle on some videogame vinyls this Black Friday
 Fri, 27 Nov 2026 12:56:27 +0000 — https://www.pcgamer.com/hardware/physical-media-is-cool-again-baby-so-drop-the-needle-on-some-videogame-vinyls-this-black-friday/
@@ -315,57 +355,7 @@ Fri, 27 Nov 2026 01:39:07 +0000 — https://www.pcgamer.com/software/windows/mic
 
 In its latest update on deprecated features in Windows , Microsoft casually mentioned that "Telnet Client is deprecated and will be removed from Windows in a future release." This may not mean much to you if you didn't do a lot of computer networking in the 1990s or earlier, but the text-based protocol for remotely opening command-line interfaces was a workhorse we used for a bunch of things. It's how antique university lab computers that didn't even have Netscape Navigator installed connected to the internet, how I played text-based online games like the Discworld MUD back in the day, and how we used to connect to our routers. By default, Telnet didn't encrypt all the data it was swapping back and forth between computers, which is why it's since been replaced by tools like SSH and PowerShell. So it's not a surprise that it's being deprecated, and honestly I'm impressed that it outlived both WordPad and Cortana . A Windows feature being deprecated means that it won't be in active development and is a candidate for removal in a future update, so Telnet isn't being 86ed immediately. If you're still using it to test network connections because that's what you're used to then carry on as you were, but get ready to grumble and switch over to PowerShell when Microsoft finally does pull the plug. ]]>
 
-### Vermintide 2 mod tools get a public release, and the game's 90% off on Steam too
-Fri, 27 Nov 2026 01:28:24 +0000 — https://www.pcgamer.com/games/fps/vermintide-2-mod-tools-get-a-public-release-and-the-games-90-percent-off-on-steam-too/
-
-Though Vermintide 2's had a Steam Workshop since 2018, it's mostly used for quality-of-life stuff like UI tweaks. That's set to change now that Fatshark has announced a public release of its internal developer tools, which they say "will allow modders to work their magic on both editing and creating anything from custom levels, models, textures, particles, animations, and more!" Right now, only a select number of sanctioned mods can be used in Vermintide 2's "official realm" which is the one with loot and leveling that carries over, while unsanctioned mods can only be accessed in a "modded realm" where there are no progression systems. Obviously that's off-putting to a lot of players, so Fatshark has announced a change. "We have an update releasing in early December which will see the Modded Realm have its own, local, offline progression. That means that playing in the Modded Realm will still result in you gaining loot and experience, but said progression will not reflect on the Official Realm. This should make playing on the Modded Realm feel much better and not be discouraging for those that want to try out all of the unsanctioned mods, both the ones that already exist and the ones to come thanks to the Mod Tools!" I'm not sure how many players will be happy to start over from level one just to get access to a wider variety of mods, but I hope it encourages some folks to check them out. Another thing that'll encourage new players is that XP has been doubled from now through
-
-### 'Blizzard I'm looking at you': Path of Exile 2 boss criticizes 'truly terrible' game announcements that hold the juiciest details until the end
-Thu, 26 Nov 2026 23:00:00 +0000 — https://www.pcgamer.com/games/rpg/blizzard-im-looking-at-you-path-of-exile-2-boss-criticizes-truly-terrible-game-announcements-that-hold-the-juiciest-details-until-the-end/
-
-Every few months, Grinding Gear Games resurfaces with livestreams to showcase all the new toys in the latest updates for Path of Exile 1 and 2. They play out quite differently from your usual game announcements, cutting straight to showing new gameplay features ahead of any preamble. According to Path of Exile co-game director Jonathan Rogers, this is a key part of Path of Exile's success over the last 13 years. Speaking at games industry conference DevGAMM FTW! , he explained how GGG came up with a winning formula for PoE's seasonal update schedule. The announcement streams aren't just marketing, he explained, they help dictate what kinds of things the team should focus on with every update. If it doesn't sound exciting enough to rally players around a new league, it doesn't get made. After a teaser trailer reveals the theme and title of the league a few weeks before the full announcement, the stream dives right into the juiciest details—an approach that Rogers believes is paramount when it comes to selling the update. Rogers says he's seen some "truly terrible livestreams for game announcements," before slipping in a quick jab: "Blizzard I'm looking at you." I've watched enough Diablo 4 new season streams to know exactly what he's talking about even if I don't quite agree that it's strictly a bad way to do it. Blizzard typically likes to lead with some introductions before having individual developers break down what's coming in an update. Admittedly, these can drag on for 
-
-### Dawn of War 4's campaigns differ based on your choices: 'which character you choose and what decisions you make with them lead down different experiences of an overlapping story'
-Thu, 26 Nov 2026 22:30:59 +0000 — https://www.pcgamer.com/games/rts/dawn-of-war-4s-campaigns-differ-based-on-your-choices-which-character-you-choose-and-what-decisions-you-make-with-them-lead-down-different-experiences-of-an-overlapping-story/
-
-The original Dawn of War's Winter Assault expansion added campaigns that let you play two factions at once, with different final missions based on which one you triumphed with. Dawn of War 2's campaign was even more player-led, with distress calls that had different outcomes based on what you prioritized and, in the Chaos Rising expansion, a morality mechanic with Corruption and Redemption points. It even chose a different character to be a traitor based on who gained the most Corruption by the story's end. I asked John French, Dawn of War 4's writer and a Warhammer novelist, whether Dawn of War 4 would follow this noble tradition by having player decisions alter the plot. "The player's decisions very much change the perspectives that they'll experience the game from," he replied. "So, depending on which heroes from each faction they choose, they'll have a very different experience of the game, in that they'll see different parts of the story and sometimes different views on the same events." (Image credit: Auroch Digital) Based on what we've seen of the Ork and Adeptus Mechanicus campaigns, that means partway through you'll be presented with a choice between two Commanders who have opposed goals and the one you pick will lead to missions with different objectives. Ork Beastboss Guzcutta is trying to unite his clan, the Snakebites, while his rival warboss, Gorgutz, is an off-world interloper trying to rebuild his damaged invasion force. "With characters like Gorgutz and Guzcu
-
-### Microsoft's Github posts message celebrating efforts to port PlayStation 5 version of Grand Theft Auto 6 to PC, then quickly deletes it
-Thu, 26 Nov 2026 22:29:06 +0000 — https://www.pcgamer.com/games/microsofts-github-posts-message-celebrating-efforts-to-port-playstation-5-version-of-grand-theft-auto-6-to-pc-then-quickly-deletes-it/
-
-Microsoft-owned developer platform Github stepped in it earlier today when it posted a message on X celebrating the success of AnyPS5, an open source project that aims to let users port PS5 executables to PC, and then linked that success directly to efforts to port Grand Theft Auto 6 to PC. The message was deleted shortly after it was posted, but not before it was widely noticed and called out for being a very bad idea. "GTA 6 is finally here, sparking one of the biggest weeks in gaming and open source on Github," the message stated (via Kotaku ). "The repo AnyPS5 has passed 58K stars since its August launch, rewriting PS5 executables to run on Windows and Linux. Does changing where games run cross a legal line? Share your take. Happy GTA VImas!" Lest there be any misunderstanding, a video that accompanied the post made the GTA 6 connection explicit: "The project rewrites a game's executable so Windows and Linux can run it directly. Performance seems to be the main issue for users wanting to run GTA 6, with one contributor telling the project's community to 'lock in and get your agents to help' if they need to." And here's the accompanying video from @github's GTA6 tweet https://t.co/crU9cpOWcs November 26, 2026 The question of whether or not this sort of thing crosses a legal line has, predictably, sparked debate among those who think they have a clear understanding of the answer. What caught most by surprise, though, is that Github—which is owned by Microsoft—would put fort
-
-### WoW: Forever min-maxers are upset that its 40-player PvP mode now actually requires PvP to win
-Thu, 26 Nov 2026 22:05:00 +0000 — https://www.pcgamer.com/games/world-of-warcraft/wow-forever-min-maxers-are-upset-that-its-40-player-pvp-mode-now-actually-requires-pvp-to-win/
-
-Despite being set in the past, WoW: Forever is an attempt to capture the spirit of the old game by injecting it with new quirks that challenge new and returning players alike to approach it differently than any other version of the MMO. This is why familiar old dungeons can drop new loot, like an armor set that turns you into a snake . Blizzard has said that its goal is to "unsolve" the game as best it can so players don't settle into the same routines they're used to. This is especially true for min-maxed strategies that threaten to suck the fun out of enjoying the game, or "the journey", as Blizzard likes to call it. It's a lofty goal that can't be achieved without persistently fiddling with the knobs that encourage players to do one thing over another—which is the very thing that differentiates WoW: Forever from WoW Classic. This week, Blizzard stepped in to fix a problem that was brewing in its 40-player MOBA-esque PvP mode Alterac Valley. Players were avoiding PvP altogether, turning it into a glorified reputation farm. "We’ve seen that players in Alterac Valley were frequently completing the battleground without capturing the objectives, so we’ve made some adjustments to incentivize a focus on the objectives rather than rushing to kill the enemy faction’s general," community manager Kaivax wrote. The patch basically broke a popular 'zerg' strategy where one side rushed to end the match as fast as possible by beefing up the NPC defenders that stood in their way. Blizzard
-
-### Steam isn't doing 'an official Black Friday fest,' but it does have a page with hundreds of discounts and 'Black Friday' splashed across the top so you might want to check it out anyway
-Thu, 26 Nov 2026 20:20:02 +0000 — https://www.pcgamer.com/games/steam-isnt-doing-an-official-black-friday-fest-but-it-does-have-a-page-with-hundreds-of-discounts-and-black-friday-splashed-across-the-top-so-you-might-want-to-check-it-out-anyway/
-
-Steam isn't running an official Black Friday fest—it says so right here in this update , "Steam isn't running an official Black Friday fest"—but plenty of game developers have marked their stuff down to take advantage of the big sale season, and so Valve is helping them all out a bit by "dressing up" its Discounts and Events page in the appropriate seasonal garb. Is there a little bit of wink wink, nudge nudge to that 'not a Black Friday fest' business? Hey, maybe. (Image credit: Valve) In fair play, though, Steam traditionally hasn't run Black Friday sales, because its Autumn Sale was always happening at the same time. The realignment of seasonal sales in 2025 changed that, however, leaving a hole that was filled by the first-ever Steam Black Friday Sale last year. Valve has other priorities this year, though, which could explain the absence ( wink wink, nudge nudge ) of an official Black Friday event on Steam in 2026. In September, Valve announced changes to Steam's Discounts and Events page to make it prettier and more personalized, and it said in today's update that Black Friday is "the perfect time to share the updates we've been working on to make the Discounts & Events page a better experience altogether." With that all cleared up, I'll say that the Black Friday non-fest page is definitely an eye-catcher, and it will be interesting to see how Valve puts this section of Steam to work in the future. If it's treated like an 'almost a Steam sale' that never really ends, I 
-
-### Dev team who delayed their game a year to avoid Silksong says they won't do it again for whatever Team Cherry announces tomorrow: 'This time we're staying put'
-Thu, 26 Nov 2026 18:31:22 +0000 — https://www.pcgamer.com/games/action/dev-team-who-delayed-their-game-a-year-to-avoid-silksong-says-they-wont-do-it-again-for-whatever-team-cherry-announces-tomorrow-this-time-were-staying-put/
-
-In August 2025, Aeternum Game Studios announced that Aeterna Lucis , the sequel to the well-liked 2021 metroidvania Aeterna Noctis, would be delayed from its planned launch in September of that year to sometime in 2026, for one good reason: Silksong. Just prior to that, Team Cherry surprised everyone by announcing that the Hollow Knight: Silksong launch was imminent, and Aeternum—and a whole bunch of others —decided the smart move was to just get out of the way. Well, here we go again. Yesterday, Team Cherry announced that " Cherry Time " is coming on November 27, with "a bunch of exciting announcements, plus an update on Hollow Knight: Silksong - Sea of Sorrow," the Silksong expansion announced in December 2025. Some fans are hoping that means the Sea of Sorrow release date will be announced—or maybe even that it will actually be released. Whatever's coming, Aeternum says that this time around, it's standing firm. "Dear Team Cherry," Aeternum wrote in an Official Statement: Part 2 message, riffing on the "Official Statement" it put out in 2025. "A little over a year ago, just as we were about to launch our game, you announced Silksong. We stepped aside, pushed the whole project back a year, and, honestly, it was one of the best decisions we've ever made: The genre had an incredible year, and we got to enjoy Silksong as fans and polish Aeterna Lucis into the game we always dreamed it would be. "Now here we are again, just days from launch. Aeterna Lucis, our new Metroidvania,
-
-### Black Friday SSD deals 2026
-Thu, 26 Nov 2026 17:33:16 +0000 — https://www.pcgamer.com/black-friday-ssd-deals/
-
-Black Friday has landed, and while we've been talking about the sales event for the past week or so, with all the major retailers launching their own discounts, we're crossing our fingers in the hope that someone has a secret stock of drives they can unleash today. There is a chance that we'll get at least one standout Black Friday SSD deal specially launching for Black Friday itself. Check out all our favorite Black Friday PC gaming deals. It's still a weird time for SSDs thanks to the memory supply crisis , so we're unlikely to see discounts harkening back to last year's prices. But that's why I'm here to highlight the Black Friday SSD deals that are the best value for money, even with all that weirdness at play. Since we regularly review the best SSDs for gaming , we already know which ones are actually worth your money, and I regularly track prices for the best SSD deals every week. So I'm not just recommending any old drive with a couple bucks knocked off it. Where are the best Black Friday SSD deals? 💾 1 TB PCIe 4.0 NVMe: Biwin Black Opal NV7400 | $148 @ Amazon 💾 1 TB PCIe 5.0 NVMe: Biwin Black Opal X570 | $140 @ Amazon 💾 2 TB PCIe 4.0 NVMe: Biwin Black Opal NV7400 | $270 @ Newegg 💾 4 TB PCIe 4.0 NVMe: Team Group T-Force G50 Evo | $400 at Newegg Amazon - Money off internal and external SSDs Walmart - Deals on internal and external SSDs B&H Photo - Savings on NVMe SSDs Best Buy - Great prices on Samsung and WD SSDs Newegg - Plenty of NVMe SSDs on offer Black Friday S
-
-### I would die for this Razer Hello Kitty & Friends wired gaming keyboard, but now I don't have to thanks to this Black Friday deal
-Thu, 26 Nov 2026 16:58:45 +0000 — https://www.pcgamer.com/hardware/gaming-keyboards/i-would-die-for-this-razer-hello-kitty-and-friends-wired-gaming-keyboard-but-now-i-dont-have-to-thanks-to-this-black-friday-deal/
-
-Razer Ornata V3 gaming keyboard, Hello Kitty & Friends: was $119 now $98.11 A ridiculously adorable keyboard with an equally amazing matching wrist rest. You can enjoy a great discount on this keyboard as well as the purple and black Kuromi version which is currently 33% off at Walmart . Price Check: Amazon $98.11 View Deal Black Friday is almost upon us, and you know what that means: I get to scour the internet for the cutest and best Black Friday deals. I have no prejudice when it comes to cute peripherals, but I do have a preference: Hello Kitty & Friends. I am self-aware enough to understand that Hello Kitty & Friends has an unearthly grasp on my wallet. It's simple: I see something vaguely Kitty-related, and I get that thing. I have, however, been holding off on the Razer Ornata V3 Hello Kitty & Friends wired Gaming keyboard, because I already have a perfectly functioning keyboard, and it's usually $119. But with this Black Friday deal on Walmart, it's now down to $98.11 . $20 in savings may be just enough to change my mind. Although, I could also just be looking for any viable excuse to buy this; see, very self-aware of me. We're curating all the Black Friday PC gaming deals right here It's not just Hello Kitty & Friends, though, there's also a Kuromi version of Razer's Ornata V3 wired keyboard. Its colour-scheme is purple and black, it's got an even better deal on Walmart down to $78.88 (was $119) , and it's just as cute as the pink version. This is also part of a whol
-
 ## GameSpot
-
-### Hollow Knight: Silksong s First Expansion Details Coming Friday, Here s How To Watch
-Wed, 25 Nov 2026 15:27:27 +0000 — https://www.gamespot.com/articles/hollow-knight-silksongs-first-expansion-details-coming-friday-heres-how-to-watch/
-
-Hollow Knight: Silksong was such a highly anticipated sequel that it became a meme, so naturally, as soon as it was released, Hollow Knight fans started looking forward to the next big event: the promised Sea of Sorrow expansion. Team Cherry has now announced a special presentation to unveil more details, and you won't have to wait very long. How to watch the Cherry Time Special Presentation The studio has announced a "Cherry Time" for November 27 at 7 AM PT / 10 AM ET . The presentation promises "a bunch of exciting announcements, and an update on Hollow Knight: Silksong - Sea of Sorrow." The stream is already available with a countdown, so to tune in, you can come right back here and watch below. https://www.youtube.com/watch?v=M-QUgdcBpZU Team Cherry Special Presentation Start Times 7 AM PT 10 AM ET 3 PM GMT 2 AM AET (Saturday) Sea of Sorrow will be the first major expansion for Hollow Knight: Silksong, and it will be free for all players. As the name suggests, it will have an aquatic theme, featuring new areas to explore and new tools to do it with. Hollow Knight: Silksong itself was a critical success, scoring a 90 Metacritic average and being named one of GameSpot's Best Games of 2025 . Now that it's out, though, we have to start donning our clown noses for other perennial no-show game reveals .
 
 ### Xbox Game Pass Kicks Off December With Horror, Cozy Adventures, And More
 Fri, 27 Nov 2026 10:58:44 +0000 — https://www.gamespot.com/articles/xbox-game-pass-kicks-off-december-with-horror-cozy-adventures-and-more/
@@ -387,42 +377,32 @@ Thu, 26 Nov 2026 01:05:39 +0000 — https://www.gamespot.com/articles/mario-pika
 
 New York City is no stranger to bad weather, be it blazing-hot summers, snow-packed winters, or fierce windstorms. Unfortunately for countless families who have made it a holiday tradition to turn on the TV and watch giant totems of pop culture sail in the streets of the great city, the Macy's Thanksgiving Day Parade has been officially delayed due to a forecast of rain and windstorms--a first in its 100-year history. In recent years, gaming icons have become more and more prominent during the parade. Beginning in 1993, a balloon of Sonic the Hedgehog marked the first game character to float among the procession. Since then, more characters have joined the festivities, including Mario, Pac-Man, Pikachu, and even Red the Angry Bird, among others. However, those who have followed the history of Macy's balloons know that the mix of bad weather and massive, floating objects can result in genuine danger for balloon handlers, bystanders, and objects on the streets. Rather infamously, Sonic's 1993 appearance was marred by an incident where the balloon got stuck on a lamppost, popping the balloon and injuring two bystanders. https://www.youtube.com/watch?v=DmTC0m7wQbs Other balloon bursts have proved even more catastrophic, with a series of mishaps in 1997 leading to a Cat in the Hat balloon causing injuries that left a woman comatose for days . Since then, more emphasis has rightfully been put on safety. While it might be disappointing to not be able to point at the TV and go "Mario
 
-### Three Years After His Death, EA Is Using AI To Bring Back A Famed Commentator In FC 27
-Wed, 25 Nov 2026 18:59:56 +0000 — https://www.gamespot.com/articles/three-years-after-his-death-ea-is-using-ai-to-bring-back-a-famed-commentator-in-fc-27/
-
-EA Sports FC 27 is adding an AI-generated commentator for the first time in the series' history, with famed British commentator John Motson having his voice synthesized for the football title. Motson, who passed way in 2023, previously provided commentary for EA's FIFA series, appearing in the game's first iteration in 1996 and featuring until 2005. According to the BBC , EA approached Motson's wife and son for permission to regenerate his voice and use his likeness for this year's entry in the series. Both agreed to the idea, but neither party has disclosed how much EA has paid for the use. Fred Motson, John's son, stated that he believed his father would've approved of this use of AI. "My dad was the least technological person in the world," Fred stated. "Till his dying day, he had a typewriter on his desk. So I don't think he would have quite understood what the AI was doing technologically, but I think, on the other hand, he was always really keen to get involved in these kinds of projects." Peter Caulfield, founder of Save Our Voices Now, which campaigns against this exact use of AI, questions whether a family should be able to provide consent for someone who can no longer give it themselves. "If someone has signed a deal allowing their likeness to be used after they die, I have no issue with that," he explained. "But in life or in death, unless you have specifically agreed to it, AI cloning of any kind should not be allowed. Being a family member shouldn't automatically
-
-### Diablo 4 s Most Nostalgic Season Is Becoming (Mostly) Permanent
-Wed, 25 Nov 2026 18:29:11 +0000 — https://www.gamespot.com/articles/diablo-4s-most-nostalgic-season-is-becoming-mostly-permanent/
-
-Diablo 4 is gearing up for the arrival of Season 16, but it won't be leaving its popular previous season behind entirely. As detailed by Blizzard in a breakdown of the upcoming Season of Tyrael's Gambit, much of the previous season, Hell's Legacy, will become a permanent part of Diablo 4 going forward. Season 15 served as celebration of the franchise's history, and added a smorgasbord of items and callbacks to previous Diablo titles, including a storyline revolving around Deckard Cain and the return of enemies and boss encounters from Diablo 2. Most of that is carrying forward, Blizzard said. Due to "overwhelming requests" from the game's community, Blizzard outlined what all from Hell's Legacy will survive. https://youtu.be/2L55dgNzpQ8?si=S_LjlcZ1XBPZ58Xi Hell's Legacy's capstone dungeons will be added, as will the ability to summon a World Boss version of Diablo and take on the cow god Moopisto. The Prime Evil Council is also becoming permanent, and will work the same way the game's other Lair bosses do, with players needing a specific item to open their reward chest after successfully defeating the encounter. Waking Nightmare dungeons will still be accessible, but only by finding Chronicle of Nightmares dungeon keys. Monsters from previous Diablo games will also have a chance to spawn in The Pit. Those who progressed their secret cow level journey can also rejoice, as the secret cow island and its corresponding waypoint will be staying. Many of Hell's Legacy's best items w
-
-### Another Live-Service Game Is Going Extinct, And This One Has Dinosaurs
-Wed, 25 Nov 2026 17:57:42 +0000 — https://www.gamespot.com/articles/another-live-service-game-is-going-extinct-and-this-one-has-dinosaurs/
-
-Capcom has had a big year, but amid the hits comes news that its Overwatch-with-dinosaurs game, Exoprimal, will join the live-service graveyard next year. The game's servers will go offline next year, making it unplayable after that. "Thank you so much for your continued use of Exoprimal, a statement on the Exoprimal site reads. "We regret to announce that service for Exoprimal will be discontinued as of Thursday, September 30, 2027. We cannot thank you enough for the love and support you have shown over the years, and we sincerely apologize for the gravity of this announcement." Exoprimal season passes are no longer available to purchase through storefronts, and Capcom will slowly wind down the game over several months. Exoprimal and all its DLC will be delisted from stores starting March 30, 2027, but anyone who owns it can still download and play it before the September 2027 deadline. Despite a cool premise and fun gameplay, Exoprimal never truly took off after its 2023 launch. https://www.youtube.com/watch?v=MEIkK11k09U "While Exoprimal’s early hours of repetitive and simple missions will likely drive some people away, its later surprises are a delight for those willing to give it the necessary time," James Carr wrote in GameSpot's Exoprimal review . "The escalation of difficulty and the wide variety of objectives introduced later on in the shooter gives it fresh life several hours in. Fighting through an ocean of dinosaurs is a ton of fun, and the variety of enemies keep
-
-### Why GTA 6 Doesn’t Let You Replay Missions It Felt Alien And Disconnected
-Wed, 25 Nov 2026 17:57:36 +0000 — https://www.gamespot.com/articles/why-gta-6-doesnt-let-you-replay-missions-it-felt-alien-and-disconnected/
-
-One of the first things people noticed with Grand Theft Auto 6 is that you cannot replay missions , at least not in a simple, straightforward way. GTA 5 had a mission replay option, as did Red Dead Redemption II, so why doesn't GTA 6? Senior design director Scott Butchard told Kotaku that Rockstar "certainly" considered a mission replay feature "early on in development." However, Butchard said, "As the game came together, it felt at odds with the story we were trying to tell and felt a bit alien and disconnected." He went on to say replaying missions "really diminished the choices you had made." https://www.youtube.com/watch?v=qQdxbUZqRZ4 While GTA 6 doesn't make it easy to replay missions, you still can do so by reloading an earlier GTA 6 save. Something else to know is that if you're in the middle of a mission and it's not going to plan, you can open the game menu and select retry, quit, or restart. GTA 6 blasted off with 32.5 million sales via prepurchases alone and around $4 billion in revenue on day one . The game is only going to get bigger and sell more copies over time, and it's helping drive new PlayStation and Xbox hardware sales . In other GTA 6 news, the actor who plays the character Mandy has reacted to people being weird online . Rockstar has also reacted to the sentiment that GTA 6 is too easy .
-
-### Diablo 4 Is Making Helltides A Hell Of A Lot Easier
-Wed, 25 Nov 2026 17:55:59 +0000 — https://www.gamespot.com/articles/diablo-4-is-making-helltides-a-hell-of-a-lot-easier/
-
-One of Diablo 4's oldest endgame activities, Helltides, is getting a major refresh for Season 16. As detailed by developer Blizzard in their full breakdown of Season of Tyrael's Gambit, Helltides will soon be far more efficient to run than before. The whole point of the activity is to kill as many demons as fast as possible, acquire the Aberrant Cinders they drop, and then use those cinders to open chests for items. Dying means losing half of the cinders you've collected, but they are also lost when the Helltide ends. Oftentimes that means having left over amounts of cinders you can't spend, only to then go to the next Helltide five minutes later and repeat the process from zero. It's been this way since Diablo 4 launched back in 2023. https://www.youtube.com/live/zhsLeug_ooo?si=EeprZXb-pEZ_KRiQ In Season 16, that will finally change. Blizzard is getting rid of the downtime between Helltides spawning and making it so there will always be a Helltide up in one of the game's original zones, as well as one in expansion areas like Hahantu or Skovos. Even better, Aberrant Cinders won't be lost once a Helltide ends. Instead, players can collect up to 5,000 cinders at a time to be spent on opening chests within the activity. Additionally, the overall loot quality from opening chests in the Helltide will be improved and chests can be opened instantly. Those changes should go a long way towards making Helltides feel more valuable and efficient when trying to farm gear, as you can now b
-
-### GTA 6 s Mandy Actor Reacts To The Online Weirdos
-Wed, 25 Nov 2026 17:06:35 +0000 — https://www.gamespot.com/articles/gta-6s-mandy-actor-reacts-to-the-online-weirdos/
-
-One of the most talked-about characters in GTA 6 outside of Jason and Lucia has been Mandy , a woman who tries to seduce Jason early in the game. She may also be a serial killer . The actor who plays Mandy, Lexie Shoaibi, has now discussed how she got the part and her reaction to people being weird online. Speaking to Vulture , Shoaibi said she's able to see "more good than bad" thanks to her experience being a content creator. "There are weirdos out there, and they’re going to try to bring you down, so it’s important to stay around the people and the places that aren’t doing that," she said. "It’s easy enough to do, which I’m very grateful for. There’s enough support in my real-life community and online that I can say, 'I could just hang out over here. I don’t actually need to go to the scary place.' I’m living in the positive, for sure." https://www.youtube.com/shorts/JSJwQthWrZs People have been, to put it mildly, thirsting over Mandy since GTA 6 came out. However, Shoaibi had no idea she was going to be in GTA 6 at all because when she auditioned, she signed what she described as an "incredibly" strict NDA. In fact, she didn't even know what she was auditioning for. Her commercial agent in New York brought it to her, and she thought it would be "just like any other commercial audition." From the time she auditioned until the game launched on November 19, Shoaibi did not know she was going to be in GTA 6. Instead, she did the audition and recorded her scenes for a project 
-
-### Another Gaming Console Price Hike Could Be Coming, Thanks To New Tariffs
-Wed, 25 Nov 2026 17:00:26 +0000 — https://www.gamespot.com/articles/another-gaming-console-price-hike-could-be-coming-thanks-to-new-tariffs/
-
-The US government has announced a new round of tariffs targeting several major countries, including China, Japan, Vietnam, and European Union trading partners. Under the proposed tariffs, import taxes will rise significantly, with China facing up to 40% when the new duties take effect next year. According to the BBC , some of the rates will be reduced because of tariff caps that US President Donald Trump has already agreed to, and individual countries could also face different levies. What does this mean for gaming hardware? Trump's first round of "Liberation Day" tariffs contributed to rising console prices, but the Supreme Court eventually struck them down. Big companies like Sony , Microsoft, and Nintendo benefited from tariff refunds after the ruling, but they didn't pass the savings on to consumers. In Sony's case, it was estimated to get back $508 million in refunds from the US government. https://www.youtube.com/watch?v=4FatSqS3VYY&t=19s The new tariffs bypass the Supreme Court's ruling by using a different law, Section 301 of the Trade Act of 1974, which allows the government to impose tariffs on countries that use unfair business practices. The law does require an investigation into specific trade practices before rates are set. If higher import taxes take effect, console companies could face much higher costs, and protecting their profits will likely mean consumers have to cover the difference. Nintendo, Sony, and Microsoft have moved much of their final assembly ou
-
 ## Rock Paper Shotgun
+
+### The PC specs for Mass Effect-like RPG Exodus are basically bearable for a blockbuster space opera in 2026
+Fri, 27 Nov 2026 17:30:00 +0000 — https://www.rockpapershotgun.com/the-pc-specs-for-mass-effect-like-rpg-exodus-are-basically-bearable-for-a-blockbuster-space-opera-in-2026
+
+Between Matthew McConaughey , the flesh cathedrals , the space bears , FemJun and the tragedy of Biggs "The Bolt" Keil , the pre-release reveals for Mass Effect -like space RPG Exodus have been a real emotional rollercoaster. It's almost disappointing to learn that the recommended PC system specs are just sort of&hellip; fine. Broadly within expectations, by 2026 standards, anyway. Read more
+
+### Rumoured Simpsons: Hit & Run remake could be dead in the water, as New Radical Games devs suggest their unannounced game's been cancelled
+Fri, 27 Nov 2026 17:00:00 +0000 — https://www.rockpapershotgun.com/rumoured-simpsons-hit-run-remake-could-be-dead-in-the-water-as-new-radical-games-devs-suggest-their-unannounced-games-been-cancelled
+
+Earlier this year, New Radical Games rocked up on the scene . A successor to Simpsons: Hit & Run and Prototype studio Radical Entertainment, with original Radical co-founder Ian Wilkinson as CEO, New Radical looked to be trying to trade on some of that pedigree. So, naturally, when Simpsons creator Matt Groening seemed to indicate during a panel that Hit & Run could be making some sort of return, remake speculation began churning. Sadly, whatever New Radical were working on, it looks like that game's been cancelled. Read more
+
+### Warhammer 40,000: Dawn of War 4 gets a model painter demo, so you can make a mess of your Orks, Necrons, Space Marines and AdMech before they even hit the battlefield
+Fri, 27 Nov 2026 16:31:00 +0000 — https://www.rockpapershotgun.com/warhammer-40000-dawn-of-war-4-gets-a-model-painter-demo-so-you-can-make-a-mess-of-your-orks-necrons-space-marines-and-admech-before-they-even-hit-the-battlefield
+
+In the grim darkness of the week before the release of Warhammer 40,000: Dawn of War 4 , developers King Art and publishers Deep Silver have released a demo model painter. It's your chance to pre-emptively run a brush over units from the new strategy game's four major factions &ndash; Orks, Adeptus Mechanicus, Necrons and Space Marines. The Imperial Guard are in the game too, but mostly as a tutorial army. What a slap in the face for the Imperium's vanilla humans. Deep Silver are calling it "the most powerful Painter in Dawn of War history", which doesn't seem all that dashing a boast given that Dawn of War 3 came out almost 10 years ago and today's PCs have a fair bit more RAM in them. You can opt for Basic Painter mode in order to quickly knock together livery for entire armies, or fire up the Advanced Painter and get stuck into the weeds of individual armour and body parts, with a choice of materials, patterns, decals and weathering. Here be trailer. Read more
+
+### Go fishing and fire Hornet out of a cannon in Silksong's December-bound Sea of Sorrow expansion, which Team Cherry say is "unlike anything we’ve done before"
+Fri, 27 Nov 2026 15:58:10 +0000 — https://www.rockpapershotgun.com/go-fishing-and-fire-hornet-out-of-a-cannon-in-silksongs-december-bound-sea-of-sorrow-expansion-which-team-cherry-say-is-unlike-anything-weve-done-before
+
+Honest to goodness news for Hollow Knight: Silksong expansion Sea of Sorrow ? That I didn&rsquo;t invent in a dream ? Scarcely believable, yet entirely true. The watery DLC is releasing on December 11th 2026, a scant two weeks from now, and as with original Hollow Knight 's expansions it&rsquo;ll be free to those who own the base game. There&rsquo;s also a new trailer, showing some of the gunpowder-jumping and fishy boss-battling Hornet will get up to while exploring those sorrowful seas. Read more
+
+### Keep the lighthouse on and the villagers obedient in Glagstone, an eerie island city-builder with Macintosh-style graphics
+Fri, 27 Nov 2026 15:22:50 +0000 — https://www.rockpapershotgun.com/keep-the-lighthouse-on-and-the-villagers-obedient-in-glagstone-an-eerie-island-city-builder-with-macintosh-style-graphics
+
+Glagstone's "1-bit" aesthetic is a homage to Macintosh games of the late 1980s, cut with elements of art deco, Expressionism and film noir, but it looks like that mainly because it began life on lo-fi indie handheld Playdate . In transplanting this eerie, story-driven city-builder to Steam, developers Valerii Krasnoselskii and Evgenii Kirichenko have fleshed out the tasty throwback art and shored up connections between the game's management and story layers, while leaving the crux of the experience untouched: you are the newly appointed governor of a remote northern island, contested by rival nations. You have come here to harvest the island's rich mineral resources, and now, the island is trying to drive you nuts. Read more
 
 ### "A new era" for Vermintide 2 modding dawneth, as Fatshark release powerful new tools for custom levels, models and animations
 Fri, 27 Nov 2026 12:52:30 +0000 — https://www.rockpapershotgun.com/a-new-era-for-vermintide-2-modding-dawneth-as-fatshark-release-powerful-new-tools-for-custom-levels-models-and-animations
@@ -458,29 +438,4 @@ I'm a simple person. I see an anthropomorphic rat man who opens up his trench co
 Thu, 26 Nov 2026 17:58:30 +0000 — https://www.rockpapershotgun.com/warhammer-40000-space-marine-2s-latest-updates-introduces-a-weekly-clash-mode-that-shakes-up-pvp-with-some-constricting-modifiers
 
 In as booming a monster truck rally commentator voice as you can imagine: ARE YOU READY TO GET DECIMATED??? Yes? Yippee! Because I've got some good news for you. The latest update for Warhammer 40,000: Space Marine 2 is here, appropriately dubbed the Decimation update, which adds in a new mode and more. Read more
-
-### The Witcher 3 Remastered's latest patch takes aim at mods nicking all of Geralt's possessions, disappearing buildings and an outbreak of "overly bright red" NPC leg areas
-Thu, 26 Nov 2026 17:00:00 +0000 — https://www.rockpapershotgun.com/the-witcher-3-remastereds-latest-patch-takes-aim-at-mods-nicking-all-of-geralts-possessions-disappearing-buildings-and-an-outbreak-of-overly-bright-red-npc-leg-areas
-
-The Witcher 3 Remastered continues to recieve tweaks ahead of the Songs of the Past expansion arriving next year to whisk Gerry from the River off on a fresh adventure. Following some bloomin' improvements in October , its latest patch does a bunch of skill and mutation balancing, alongside further technical tweaks and fixes for some funky bugs. Read more
-
-### "This isn't a sign to retreat": Rockstar's historic union vote has failed, with 75% voting against, but the organisers are going to "keep fighting"
-Thu, 26 Nov 2026 16:39:40 +0000 — https://www.rockpapershotgun.com/this-isnt-a-sign-to-retreat-rockstars-historic-union-vote-has-failed-with-75-voting-against-but-the-organisers-are-going-to-keep-fighting
-
-The potentially historic vote at GTA 6 creators Rockstar Games on whether to seek formal union recognition has failed, the International Workers of Great Britain have announced. Around 1600 studio members cast ballots across 12th to 26th November , even as the company's open world Bonnie & Clyde 'em up released onto PlayStation and Xbox storefronts. In the end, approximately 25% of the participants voted in favour. According to the IWGB themselves, "the result does not prevent Rockstar workers from organising with the IWGB or exercising their trade union rights, but means management will not be formally committed to regular meetings with union representatives." Speaking to RPS in an emailed statement, Rockstar's head of publishing Jennifer Kolbe argued that the vote's failure "reflects our team's strong support for continuing the direct relationships, collaboration and open dialogue that have helped make Rockstar Games so innovative and strong." The IWGB, meanwhile, have declared that "this isn't a sign to retreat, it's a sign to double down on what we stand for". They're going to keep mobilising for more labour power, with the failed vote now framed as a foot in the door. Read more
-
-### An apology from RPS
-Thu, 26 Nov 2026 16:38:10 +0000 — https://www.rockpapershotgun.com/an-apology-from-rps
-
-Yesterday I made a significant error in judgement. In writing an apology to our readers, I made a target of one of our writers and I won't be able to undo that. What I can try to do is apologise to that writer, who I'm addressing now. Read more
-
-### Ubisoft now require their devs to explain why they aren't using genAI in game pitches, claims report, though the Assassin's Creed publishers deny they're mandating it
-Thu, 26 Nov 2026 14:57:30 +0000 — https://www.rockpapershotgun.com/ubisoft-now-require-their-devs-to-explain-why-they-arent-using-genai-in-game-pitches-claims-report-though-the-assassins-creed-publishers-deny-theyre-mandating-it
-
-Ubisoft, they of the recently revealed generative AI-focused game studio Motherbrain , have denied they're forcing new games being pitched by their developers to integrate use of genAI as a rule. The publishers' statement comes in the wake of a report claiming that Ubisoft devs with pitches that don't use genAI are required to explain in detail why they've decided it isn't suitable for the game being outlined. Read more
-
-### "Clearly not everything has gone well" during Fable's lengthy creation, says Playground boss, but the "original vision" remains intact despite taking cues from other RPGs
-Thu, 26 Nov 2026 12:07:00 +0000 — https://www.rockpapershotgun.com/clearly-not-everything-has-gone-well-during-fables-lengthy-creation-says-playground-boss-but-the-original-vision-remains-intact-despite-taking-cues-from-other-rpgs
-
-The Fable reboot is finally set to kick the release chicken (I'm not sure that's an established phrase anywhere in the world, but roll with it) early next year, following a not small amount of time in development and multiple delays . Despite that long time in the oven having made it necessary to look beyond just the series' classic entries for RPG inspiration, Playground Games' Fable general manager has said the team's "original vision" of what a Fable game needs to be hasn't changed. Read more
 

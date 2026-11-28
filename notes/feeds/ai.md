@@ -1,4 +1,4 @@
-# AI — harvested 2026-11-27T14:20:23.926Z
+# AI — harvested 2026-11-28T00:14:18.575Z
 
 ## OpenAI
 
@@ -14,12 +14,6 @@ Thu, 26 Nov 2026 11:37:17 GMT — https://huggingface.co/blog/ggml-org/llamacpp-
 
 ### Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference
 Thu, 26 Nov 2026 05:05:36 GMT — https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin
-
-### Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems
-Thu, 26 Nov 2026 00:00:00 GMT — https://huggingface.co/blog/training-swarms
-
-### Where scientists draw the line on AI agents
-Wed, 25 Nov 2026 18:52:55 GMT — https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents
 
 ## Google DeepMind
 

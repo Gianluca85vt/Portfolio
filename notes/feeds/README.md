@@ -1,4 +1,4 @@
-# Source feeds — harvested 2026-11-27T14:20:23.926Z
+# Source feeds — harvested 2026-11-28T00:14:18.575Z
 
 Fetched by GitHub Actions, which is not behind the writer's egress proxy.
 One file per category. Each item is what the publisher syndicates in its
@@ -13,7 +13,7 @@ own feed: headline, link, date, and their summary.
 
 Already aired, so a round-up rather than a preview:
 
-- 80.lv — SIGGRAPH Asia 2026 Makes Its Malaysian Debut This December
+- Eurogamer — Marvel's Iron Man might be planning to rear its head at The Game Awards, if EA Motive's updated website is any indication
 
 > **A dated showcase gets two articles, not one.** A preview before it
 > airs, carrying the stream link and the start time in Italian time, and a
@@ -35,13 +35,13 @@ silently skipping it.
 
 ## Feeds
 
-- [Film & TV](film-tv.md) **owed** — 65 items
-- [Games](games.md) — 92 items
-- [Tech](tech.md) — 82 items
-- [3D](3d.md) — 19 items
-- [AI](ai.md) — 5 items
-- [Manga](manga.md) — 33 items
+- [Film & TV](film-tv.md) **owed** — 62 items
+- [Games](games.md) — 83 items
+- [Tech](tech.md) — 70 items
+- [3D](3d.md) — 25 items
+- [AI](ai.md) — 3 items
+- [Manga](manga.md) — 27 items
 
-Total: 296 items.
+Total: 270 items.
 
 Feeds that did not answer: VentureBeat AI (HTTP 429).
